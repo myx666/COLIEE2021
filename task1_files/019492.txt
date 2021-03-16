@@ -1,0 +1,603 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  <FRAGMENT_SUPPRESSED> ) 
+ 
+ 
+ 
+  <FRAGMENT_SUPPRESSED>  
+ 
+ 
+ 
+ Federal Court 
+ 
+ Phelan, J. 
+ 
+ January 17, 2005. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Joy Noonan and Alexandra Mayeski, for the applicant; 
+ 
+ Graham Jones, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Heenan Blaikie LLP, Ottawa, Ontario, for the applicant; 
+ 
+ Shields & Hunt, Ottawa, Ontario, for the respondent. 
+ 
+ 
+ 
+ Summary: 
+ 
+ This case is unedited, therefore contains no summary. This case was originally cited as [2005] F.T.R. TBEd. JA.041. Any footnotes found in this case will appear below end of document. 
+ 
+ 
+ 
+ OVERVIEW 
+ 
+ 
+ 
+ [1] 
+   
+ Phelan, J. 
+ : This is a judicial review of decisions under section 242 of the Canada Labour Code (the Code). The Respondent, Barry Lancaster, was dismissed from his employment with Sprint Canada (Sprint) allegedly due to lack of work or discontinuance of a function. An adjudicator appointed pursuant to the Code decided: a) that he had jurisdiction because there was no lay off due to lack of work or discontinuance of function; and b) that Mr. Lancaster should be reinstated to his position with full back wages, benefits and seniority within 30 days from the date of this award. 
+ 
+ 
+ 
+ [2] 
+  In dealing with this matter, the adjudicator dealt firstly with the "jurisdictional" issue of lack of work and discontinuance of function - for which the Respondent sought judicial review - and determined that he had jurisdiction. The adjudicator then held a second hearing to deal with the dismissal and remedy, which decision led to the Respondent's second judicial review. 
+ 
+ 
+ 
+ [3] 
+  The jurisdictional issue is so intertwined with the question of just cause and remedy that the two judicial reviews were consolidated and dealt with in this Court as one. 
+ 
+ 
+ 
+ [4] 
+  Sprint's attack of the adjudicator's jurisdictional decision is principally an attack on findings of fact. Sprint says that the adjudicator made significant misstatements of fact or misapprehended facts, ignored material evidence and considered irrelevant facts (described as the "red herring" category of errors). Sprint's challenge to the just cause/remedy decision is that ordering reinstatement is patently unreasonable. 
+ 
+ 
+ 
+ [5] 
+  Sprint asks that this Court deal with the factual merits of the case and substitute its view for that of the adjudicator. 
+ 
+ 
+ 
+ BACKGROUND 
+ 
+ 
+ 
+ [6] 
+  Sprint is a Canadian company carrying on the business of a local exchange carrier and telephone company which provides long distance and internet services. In 2002, Sprint's Ottawa office had approximately fifteen employees as well as a sales office. By 2004, the Ottawa office remained a sales office and, in a reconfigured operation, had fourteen employees. 
+ 
+ 
+ 
+ [7] 
+  Mr. Lancaster was a 20-year member of the Canadian Armed Forces before being invited to join Sprint in 2000 as a project leader with the ultimate intention of becoming a Network Design Consultant (NDC). Shortly after joining Sprint, Mr. Lancaster became an NDC. This change in position was confirmed by a memorandum which Mr. Lancaster had to sign, confirming his acceptance. The position was further documented by a job description and from that time until dismissal his business cards, pay stubs, commission statements, internal records and his official record of employment all described him as an NDC. 
+ 
+ 
+ 
+ [8] 
+  In June 2001 Sprint secured a large contract from Human Resources Development Canada and in July 2001 Mr. Lancaster was assigned to work on that project full time. 
+ 
+ 
+ 
+ [9] 
+  In September 2001 Sprint hired M. Laframboise as an NDC and on November 11, 2002 Sprint hired M. Champagne, also an NDC. Two weeks later Mr. Lancaster's employment was terminated with immediate effect. 
+ 
+ 
+ 
+ [10] 
+  There is no letter of termination explaining the reason for Mr. Lancaster's termination and he denies that he received any such reasons. Sprint says that its Ms. Haines had a script which she followed when terminating Mr. Lancaster in November. In fact, the exhibit relied on as a script contains two different versions - both of which refer to operational efficiencies and cost savings. 
+ 
+ 
+ 
+ [11] 
+  However, in January 2003, in response to the investigation of Mr. Lancaster's section 243 complaint of unjust dismissal, counsel for Sprint, after approval of its contents by Sprint, wrote a letter dated January 28, 2003 to the departmental investigator. Sprint attempted at the adjudicator's hearing to resile from the letter, which the adjudicator clearly accepted as having significant weight. The text of the letter reads: 
+ 
+ 
+ 
+ Our client, Sprint Canada Inc. ("Sprint") received your facsimile concerning the above on January 13, 2003 and they have asked us to respond. 
+ 
+ 
+ 
+ Mr. Lancaster was hired originally as a project manager and at his request his position title was later changed to network design consultant. In his capacity as Network Design Consultant ("NDC"), he received a performance improvement letter approximately a year ago. In other words there were serious performance issues brought to his attention. 
+ 
+ 
+ 
+ Subsequently, Sprint acquired a large contract with the government (the "HRDC project"). Mr. Lancaster was assigned to the HRDC project and ceased to perform any duties as a NDC. Rather, his role on the project was the installation of the lab equipment. This project was the only project to which Mr. Lancaster was assigned. His performance as an installer was fine. At the time of his termination, the HRDC project was nearing an end. There was no further requirement for hardware installation and no further need for an installer. No one has taken over his role on this project. 
+ 
+ 
+ 
+ While Mr. Lancaster worked full-time as an installer on the HRDC project, Sprint recognized that it required another NDC to assist with an increasing volume of work. Although aware of this need at Sprint and knowing that his work on the HRDC would be winding down, Mr. Lancaster did not inquire about the opportunity to perform any NDC work or make himself available to assist with the increased work load. Mr. Lancaster continued to work only as an installer on the HRDC project. In November, Sprint hired an employee to assist with network design duties. This employee is not performing any of the duties that Mr. Lancaster performed during the last year of his employment with Sprint. Moreover, Mr. Lancaster has not performed the duties of a NDC since he was assigned full-time to the HRDC project. 
+ 
+ 
+ 
+ In December, Sprint underwent a major reorganization and was forced redistribute [sic] its resources. In the result, Sprint was obligated to terminate a number of employees. Given that the HRDC project was nearing an end, Mr. Lancaster was one of the employees terminated at this time. 
+ 
+ 
+ 
+ The hiring in November of another NDC was not relevant to the decision to terminate Mr. Lancaster. Mr. Lancaster was not dismissed for cause. Rather, Mr. Lancaster was provided with reasonable notice at the time of his termination in the amount of three months salary (including an average of earned commissions and car and cell allowances paid to Mr. Lancaster over the last twelve months) plus benefits for the notice period. 
+ 
+ 
+ 
+ [12] 
+  At the commencement of the adjudicator's first hearing, Sprint raised a preliminary objection that the adjudicator had no jurisdiction to decide the merits of the case under section 242(3.1)(a) of the Code which provides: 
+ 
+ 
+ 
+ (3.1) No complaint shall be considered by an adjudicator under subsection (3) in respect of a person where 
+ 
+ 
+ 
+ (a) that person has been laid off because of lack of work or because of the discontinuance of a function; ... 
+ 
+ 
+ 
+ (3.1) L'arbitre ne peut procéder à l'instruction de la plainte dans l'un ou l'autre des cas suivants: 
+ 
+ 
+ 
+ a) le plaignant a été licencié en raison du manque de travail ou de la suppression d'un poste; ... 
+ 
+ 
+ 
+ [13] 
+  It was Sprint's position that Mr. Lancaster was terminated from his position of "Installer Technician" because of the discontinuance of his function in respect of the HRDC project. 
+ 
+ 
+ 
+ [14] 
+  The adjudicator identified two critical questions on this jurisdictional issue: 
+ 
+ 
+ 
+ (1) whether Mr. Lancaster held the position of NDC or that of Installer Technician. 
+ 
+ 
+ 
+ (2) whether or not Sprint terminated Mr. Lancaster because of lack of work or discontinuance of function. 
+ 
+ 
+ 
+ [15] 
+  The parties had very opposing views as to the facts governing these questions. In summary Sprint submitted: 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster was initially hired as a Project Manager effective August 14, 2000. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster was moved to the position of an NDC, effective January 1, 2001. 
+ 
+ 
+ 
+ ⋅ Sprint received the HRDC contract in 2001, which was a huge project. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster was assigned to work on the HRDC project in July/August 2001, on a full-time basis. 
+ 
+ 
+ 
+ ⋅ Sprint created an Installer Technician position for the HRDC project and it ended with the HRDC project. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster was an Installer Technician at the HRDC project. He had ceased to be a data-NDC. 
+ 
+ 
+ 
+ ⋅ In November 2002, Sprint decided to reduce the Ottawa staff by "one person". 
+ 
+ 
+ 
+ ⋅ Sprint decided to terminate Mr. Lancaster because the Installer Technician work on the HRDC project was nearing an end. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster was terminated because of legitimate economic reasons. 
+ 
+ 
+ 
+ ⋅ As the work for the data-NDC in the Ottawa area was increasing, Sprint posted and hired another data-NDC in November 2002. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster had neither applied for the new position nor had he shown any interest in that position. 
+ 
+ 
+ 
+ ⋅ The new employee is not performing any of the duties that Mr. Lancaster performed during the last year of his employment. 
+ 
+ 
+ 
+ [16] 
+  Mr. Lancaster, on the other hand, submitted that: 
+ 
+ 
+ 
+ ⋅ The job functions he was doing were never discontinued. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster was never transferred from the NDC position to the Installer position. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster had never heard mention of an Installer Technician position until he filed the complaint and Sprint filed its response. 
+ 
+ 
+ 
+ ⋅ Sprint adduced no documentation confirming that Mr. Lancaster's position had changed from NDC to Installer Technician. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster, on the HRDC position, typically performed the duties and functions of the data-NDC. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster has spent approximately 10 days doing actual installation work out of the 18 months he worked on the HRDC project. 
+ 
+ 
+ 
+ ⋅ Sprint's own documentation continued to refer to Mr. Lancaster as an NDC until the termination of his employment. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster did not apply for the new position of data-NDC because he was already holding the position of a data-NDC. 
+ 
+ 
+ 
+ ⋅ Ms. Hains admitted that if Mr. Lancaster had not been appointed to the new position of Installer Technician he would still have been an NDC and they would not have need for a new employee. 
+ 
+ 
+ 
+ ⋅ Sprint witnesses also admitted that there was no discontinuance of the NDC position, only the Installer Technician position was discontinued. 
+ 
+ 
+ 
+ ⋅ Mr. Lancaster would not have accepted the assignment on the HRDC project had he known that the Applicant was changing his position from NDC to Installer Technician. 
+ 
+ 
+ 
+ ⋅ There was no lack of work for a data-NDC. Rather, the work was increasing to the extent that the Applicant had a [sic] hire a new NDC. 
+ 
+ 
+ 
+ ⋅ After Mr. Lancaster finished his work on the HRDC contact, he should have been assigned to work on a new contract. 
+ 
+ 
+ 
+ [17] 
+  It is evident that the adjudicator found Sprint's position and evidence to be, at the very least, inconsistent. The adjudicator consistently preferred Mr. Lancaster's description of events to those of Sprint's witnesses and preferred evidence which was either pre-termination, pre-complaint or pre-hearing (as the case may be). 
+ 
+ 
+ 
+ Re: Position of NDC/Installer Technician 
+ 
+ 
+ 
+ [18] 
+  The adjudicator noted that Sprint had no documentation to support the existence of a position called "Installer Technician" whereas it has a plethora of evidence about the "NDC" position including a job description, a memo confirming a change in Mr. Lancaster's position from Project Leader to NDC and a signed consent to the transfer. All of this suggested that Sprint's policy or practice was to have such documentation for each position, and, the absence of such documentation for an "Installer Technician" was problematic. 
+ 
+ 
+ 
+ [19] 
+  The adjudicator accepted Mr. Lancaster's evidence that the function he performed on the HRDC project was basically that of an NDC. The adjudicator favoured this evidence over that of Sprint's witnesses, none of whom had any involvement in or knowledge of the actual functions performed on the HRDC project. 
+ 
+ 
+ 
+ [20] 
+  In reviewing Sprint's own records, the adjudicator noted that business cards, pay records, internal memos and records all referred to Mr. Lancaster as an NDC. The term "NDC-Installer" arose in argument and does not appear in any of the documentary evidence. It is evident that the adjudicator was troubled by the inconsistency in the terminology used by Sprint to describe Mr. Lancaster's position commencing with NDC/data-NDC, then to Installer Technician, then to NDC-Installer. The adjudicator preferred the pre-complaint evidence for the job title to that which arose during the hearing. 
+ 
+ 
+ 
+ [21] 
+  In concluding on the issue of what position Mr. Lancaster really held, the adjudicator held that Mr Lancaster was never told that he would cease to be an NDC by agreeing to work on the HRDC project, that to train a person for an NDC position for 7 months and then move the person to a lesser position of Installer and hire a new data-NDC was, at the very least, inconsistent conduct. Therefore the Adjudicator held that Mr. Lancaster was a data-NDC and not an Installer Technician at the time of his termination of employment. 
+ 
+ 
+ 
+ Termination for Lack of Work/Discontinuance of Function 
+ 
+ 
+ 
+ [22] 
+  Sprint's evidence on this issue was, in the view of the adjudicator, multi-faceted and inconsistent. Although Sprint took the position that Mr. Lancaster was terminated based on economic reasons and discontinuance of function, the adjudicator had regard for other evidence which was inconsistent with that claim. That evidence included reference to serious performance issues; lack of training as a data-NDC; the superior qualifications of Mr. Champagne; the blame cast on Mr. Lancaster for not applying for a data-NDC position or indicating interest in that position as the HRDC work declined and the hiring of other staff shortly before Mr. Lancaster's termination. 
+ 
+ 
+ 
+ [23] 
+  The adjudicator also had regard for the failure to give Mr. Lancaster as reasons for termination, lack of work or discontinuance of function. Mr. Lancaster had a different recollection of these events than Sprint's witnesses who relied upon their own practice and the scripts usually used this in termination situations. The Adjudicator preferred the evidence of Mr. Lancaster. 
+ 
+ 
+ 
+ [24] 
+  The djudicator also found inconsistency in Sprint's position regarding discontinuance of the Installer Technician position. The Adjudicator found that it was Sprint's practice to move its workforce from client to client and from project to project. Sprint knew the HRDC work was about to decline and was unable to provide a credible explanation for hiring a new NDC two weeks earlier when it knew that Mr. Lancaster would become available for other work shortly. 
+ 
+ 
+ 
+ [25] 
+  In the adjudicator's view, the inconsistencies in Sprint's position were compounded by its efforts to resile from the letter of January 28, 2003 to the Inspector and to take a new position. The letter contains a number of important points including a reference to past performance problems, and notes that Mr. Lancaster was terminated as a result of a corporate reorganization in December. In fact, Mr. Lancaster was terminated in November, two weeks after another person was hired for an NDC position. 
+ 
+ 
+ 
+ [26] 
+  Having found that Mr. Lancaster was a data-NDC, the adjudicator also held that Sprint produced insufficient evidence to meet the burden of showing a lay-off due to lack of work or discontinuance of function. 
+ 
+ 
+ 
+ Unjust Dismissal/Remedies 
+ 
+ 
+ 
+ [27] 
+  Having found that the adjudicator had jurisdiction, the next phase of determining whether just cause existed was integrally connected to Sprint's claim that the adjudicator had no jurisdiction. 
+ 
+ 
+ 
+ [28] 
+  Sprint made no new submissions. Its position was that Mr. Lancaster was an Installer who was laid off because the project to which he was assigned was ending. The Adjudicator noted Sprint's admission that if Mr. Lancaster had been a data-NDC, he would not have been terminated. 
+ 
+ 
+ 
+ [29] 
+  The Adjudicator had regard for Sprint's evidence that Ms. Hains had received instructions to reduce "two head counts" in the Ottawa office and that she considered the superior qualifications of Messrs. Laframboise and Champagne in deciding to terminate Mr. Lancaster. The adjudicator described this as the type of arbitrary and subjective decision which the provision in the Code was designed to curb. 
+ 
+ 
+ 
+ [30] 
+  The adjudicator found that hiring a new data-NDC two weeks prior to an alleged downsizing could not be considered as a just cause dismissal. Since Sprint did not have just and reasonable cause to terminate Mr. Lancaster, the last issue was that of the appropriate remedy. 
+ 
+ 
+ 
+ [31] 
+  Having reviewed the circumstances where reinstatement may not be warranted, the adjudicator concluded that none existed. While Sprint relied extensively on the argument that the complainant's post has been abolished, the adjudicator found that Sprint led no evidence of how and when Mr. Lancaster's position at the time of termination, that of an NDC, had been abolished. 
+ 
+ 
+ 
+ [32] 
+  While there was evidence that prior to January 2004, Sprint had four positions in NDC Sales Support and none in Sales Specialist, after that date there were two positions in each. Since there was no evidence of the difference in functions and qualifications in these positions, the adjudicator found that the timing of the reorganization was problematic. 
+ 
+ 
+ 
+ [33] 
+  Since there were no circumstances justifying an exception to the remedy of reinstatement, the fact that someone else may have to be displaced, did not justify depriving Mr. Lancaster of his remedy of reinstatement. 
+ 
+ 
+ 
+ ISSUES 
+ 
+ 
+ 
+ [34] 
+  There are three major issues in this judicial review: 
+ 
+ 
+ 
+ 1- What is the appropriate standard of review to be applied to a decision in respect of the adjudicator's jurisdiction to consider a complaint of unjust dismissal? 
+ 
+ 
+ 
+ 2- Did the adjudicator err in his conclusion that he had jurisdiction to consider the complaint by concluding that there was not a lay off due to lack of work or discontinuance of function? 
+ 
+ 
+ 
+ 3- Was the adjudicator's decision that reinstatement was the appropriate remedy sustainable in law? 
+ 
+ 
+ 
+ ANALYSIS 
+ 
+ 
+ 
+ Standard of Review 
+ 
+ 
+ 
+ [35] 
+  Sprint submits that the adjudicator's finding regarding his jurisdiction is entitled to no deference and must be reviewed on a standard of correctness. In particular, an adjudicator is not a person necessarily possessing expertise and therefore entitled to deference. Sprint says that an adjudicator need only be a person whom the Minister considers "appropriate" which does not mean that the person has special expertise. 
+ 
+ 
+ 
+ [36] 
+  The standard of review for this Court (unlike many provincial superior courts) is set down by statute in section 18.1(4) of the Federal Courts Act. The key provisions of which are paragraphs (a) and (d). 
+ 
+ 
+ 
+ (4) The Trial Division may grant relief under subsection (3) if it is satisfied that the federal board, commission or other tribunal 
+ 
+ 
+ 
+ (a) acted without jurisdiction, acted beyond its jurisdiction or refused to exercise its jurisdiction; 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ (d) based its decision or order on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it ... 
+ 
+ 
+ 
+ (4) Les mesures prévues au paragraphe (3) sont prises par la Section de première instance si elle est convaincue que l'office fédéral, selon le cas: 
+ 
+ 
+ 
+ a) a agi sans compétence, outrepassé celle-ci ou refusé de l'exercer; 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ d) a rendu une décision ou une ordonnance fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments dont il dispose ... 
+ 
+ 
+ 
+ [37] 
+  The jurisdictional decision in this case involved both a legal interpretation and a finding on substantial evidence including conclusions as to credibility, plausibility and consistency. Sprint's challenge to the jurisdictional decision engages key factual findings, as to the position Mr. Lancaster held during his employment and the reasons for his termination. 
+ 
+ 
+ 
+ [38] 
+  On these factual findings in support of the decision of jurisdiction, section 18(1)(4)(d) of the Federal Court Act sets a criterion of "perverse or capricious manner or without regard for the material before it." Such wording clearly indicates a degree of deference owed to the adjudicator's factual findings. 
+ 
+ 
+ 
+ [39] 
+  This Court has held that there are dual aspects to a jurisdictional decision and therefore two standards are applicable depending on which aspect is being considered. As Strayer J. (as he then was) found in  <FRAGMENT_SUPPRESSED> , as to the relevant question of law, the Court should form its own opinion; as to findings of fact, these should remain undisturbed unless the finding is manifestly wrong. 
+ 
+ 
+ 
+ [40] 
+  Therefore the standard of review on a question of law in respect of jurisdiction is correctness. The standard with regard to findings of fact which underpin the legal conclusion is at best reasonableness. For purposes of this judicial review, the standard of reasonableness is applied to the jurisdictional facts and to such findings as are mixed law and fact. 
+ 
+ 
+ 
+ [41] 
+  Assuming that an adjudicator has jurisdiction under section 243 of the Code, the standard of review applicable to the determination of whether there was an unjust dismissal and the selection of the remedy is, as recognized by Sprint, that of patent unreasonableness. ( <FRAGMENT_SUPPRESSED>  aff'd [1999] FCJ No. 869. 
+ 
+ 
+ 
+ Errors in Jurisdictional Decision 
+ 
+ 
+ 
+ [42] 
+  As mentioned earlier, many of the adjudicator's factual findings were based upon accepting Mr. Lancaster's version of the facts over that of Sprint. In finding that Mr. Lancaster was and remained an NDC and in rejecting Sprint's contention that Mr. Lancaster was an Installer Technician or NDC-Installer, the adjudicator reached his conclusion not only on the basis of Mr. Lancaster's evidence but also on Sprint's own documents, such as pay records and internal memos, and on the absence of documents which likely would exist if there had been a change in job description, such as an announcement and signed acknowledgement. It was reasonable for the adjudicator to conclude that this new position did not exist. 
+ 
+ 
+ 
+ [43] 
+  It was open to the adjudicator to make these findings and there is a rational connection between the evidence and the findings made. There is nothing unreasonable in this conclusion. Indeed the Court is unable to find anything unreasonable about any of the adjudicator's findings of fact or mixed law and fact. 
+ 
+ 
+ 
+ [44] 
+  The adjudicator accepted Mr. Lancaster's evidence that he was not told of the reasons for his termination. Sprint's own termination letter does not provide that explanation. The adjudicator is entitled to prefer some evidence over other evidence. 
+ 
+ 
+ 
+ [45] 
+  Sprint's actions of hiring 2 NDC's shortly before Mr. Lancaster's termination (one of whom was hired just two weeks before) was found to be inconsistent with a claim that Mr. Lancaster was terminated because of lack of work or discontinuance of function. 
+ 
+ 
+ 
+ [46] 
+  Sprint's basis for arguing that Mr. Lancaster was terminated for lack of work or discontinuance of function depended on establishing that Mr. Lancaster's work was not that of an NDC but that of an Installer. There is nothing unreasonable in the adjudicator accepting Mr. Lancaster's description of what tasks he performed and his view that they were NDC tasks. Sprint's evidence came from persons who did not have direct knowledge of what Mr. Lancaster was doing on the HRDC project. Sprint chose the evidence it wished to call; there is nothing inappropriate in the adjudicator commenting on Sprint's failure to call the one witness who could have rebutted Mr. Lancaster's evidence of what he actually did on the HRDC project. These are all relevant considerations for a credibility finding. 
+ 
+ 
+ 
+ [47] 
+  It is evident that the adjudicator was influenced in his conclusions by the timing of the hiring of the new NDC's, the reference in Sprint's own documents to the superior qualifications of such new hires and the defence raised that Mr. Lancaster was terminated due to a 2002 reorganization. In that regard Sprint's own document, a letter from counsel which had been approved by the client and written in close proximity to the termination, was accepted as more reliable than testimony at the adjudicator's hearing. Against all of this background there is nothing unreasonable about the adjudicator's conclusion of the implausibility of Sprint's explanation for the termination. 
+ 
+ 
+ 
+ [48] 
+  Sprint argued that the adjudicator made a number of significant misstatements or suffered from significant misapprehension of the evidence. What Sprint characterizes as misstatements or misapprehensions are largely incidents where the adjudicator did not accept Sprint's evidence. That evidence included, without limitation, such issues as whether Mr. Lancaster was told of the reasons for termination, whether Mr. Lancaster's function was discontinued, and whether there was a bona fide lay-off. 
+ 
+ 
+ 
+ [49] 
+  Sprint also misconstrues the adjudicator's findings to support its argument of significant misstatement of facts by the adjudicator. The adjudicator's finding that work on the HRDC project had ended is cited as an example whereas, read in context, the adjudicator was referring to the work which Mr. Lancaster was performing on that project. That context also included Sprint's practice that employees were moved from one project to another and that their employment fate did not rest exclusively on the life of a single project. 
+ 
+ 
+ 
+ [50] 
+  Sprint contends that there were actual misstatements of fact such as the finding that Ms. Hains had obtained approval to create another NDC position when in fact she testified that her request had been turned down. Any such quibbles with these findings must be weighed against the totality of the evidence and the reasonableness of the conclusions based on that evidence. There is no reason to overturn the adjudicator's decision because of minor errors (if any). 
+ 
+ 
+ 
+ [51] 
+  Sprint also alleges that the adjudicator pursued "red herrings". The Court takes this to mean consideration of irrelevant matters. In this category are such matters as inquiring as to what would have happened to Mr. Lancaster if he had not been working on the HRDC project, what would happen at the end of that project and the adjudicator's emphasis on Sprint's letter of January 28, 2003. 
+ 
+ 
+ 
+ [52] 
+  The adjudicator's inquiry about the HRDC project must be taken in the context of comparing Sprint's usual business practices and what happened to Mr. Lancaster in these circumstances. The inquiries are relevant, and so, in the Court's opinion, these are matters within the adjudicator's discretion. There is no palpable and overriding error justifying the quashing of the adjudicator's decision. 
+ 
+ 
+ 
+ [53] 
+  Sprint's letter of January 23, 2003 has been discussed earlier in these reasons. It is clearly relevant and would constitute an admission against interest in other contexts. 
+ 
+ 
+ 
+ [54] 
+  The Court concludes that there is no basis upon which to overturn the adjudicator's jurisdictional decision. It was correct in law and reasonable on the facts and mixed law and facts. 
+ 
+ 
+ 
+ Unjust Dismissal/Remedies 
+ 
+ 
+ 
+ [55] 
+  Since the adjudicator had jurisdiction to decide this complaint, Sprint now has to satisfy a standard of patent unreasonableness in challenging the adjudicator's finding that Mr. Lancaster's dismissal was unjust and that reinstatement is an appropriate remedy. 
+ 
+ 
+ 
+ [56] 
+  Given that Sprint's principal defence to the allegation of unjust dismissal was contained in its submissions on jurisdiction and that it relied on that same evidence, Sprint can hardly complain about being required to argue about remedy in the unjust dismissal phase of the process rather than awaiting a decision on the matter of just cause. This argument was made orally before this Court and is rejected as a basis for quashing the adjudicator's award. 
+ 
+ 
+ 
+ [57] 
+  Sprint argues that reinstatement of Mr. Lancaster's position is not the appropriate remedy, in part, because the position no longer exists. This is a somewhat circular argument since, as the adjudicator found, the NDC-Installer position never existed and the position of Installer Technician which may have existed was not the real position held by Mr. Lancaster. The real position he held was that of an NDC, which position does exist and therefore reinstatement is possible. 
+ 
+ 
+ 
+ [58] 
+  Sprint further argues that the adjudicator was patently unreasonable in concluding that Sprint's January 2004 reorganization of its Ottawa office was an attempt to block the possibility of Mr. Lancaster's reinstatement. The adjudicator did not make such a finding but merely said that it appeared to be such an attempt. This conclusion was reached against the backdrop of the parties having received the Jurisdictional Decision in November 2003, hearings on remedy having been scheduled after late January 2004 and the absence of a satisfactory explanation for that reorganization and for its timing. There is nothing patently unreasonable about the Adjudicator's comments or his conclusion that the legislative intent to have reinstatement available as a remedy should not be defeated by last minute corporate reorganizations. 
+ 
+ 
+ 
+ [59] 
+  With respect to the adjudicator's conclusion that reinstatement is the appropriate remedy, the adjudicator canvassed the applicable law and applied that law to the facts including considerations of work environment and personalities. The adjudicator did so in a reasonable manner and reached a reasonable conclusion. 
+ 
+ 
+ 
+ [60] 
+  Having determined that Mr. Lancaster was dismissed from an NDC position, that position continuing to exist, it was not patently unreasonable to order the remedy of reinstatement. 
+ 
+ 
+ 
+ [61] 
+  The existence of an incumbent in the NDC position was a factor considered by the adjudicator as required by  <FRAGMENT_SUPPRESSED>  (TD). 
+ 
+ 
+ 
+ [62] 
+  The problem of how to deal with the incumbent is Sprint's responsibility. 
+ 
+ 
+ 
+ CONCLUSION 
+ 
+ 
+ 
+ [63] 
+  For all these reasons this application for judicial review shall be dismissed. The Respondent shall have his costs in this Court. 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+  <FRAGMENT_SUPPRESSED> 

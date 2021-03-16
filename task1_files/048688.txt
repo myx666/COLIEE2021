@@ -1,0 +1,852 @@
+TABLE OF CONTENTS
+-
+PARA.
+I. PROCEDURAL BACKGROUND
+1
+--A. Overview
+1
+--B. First Restricted PRRA Decision
+5
+--C. Second Restricted PRRA Decision (Decision under Review)
+10
+--D. Related Procedural Matters
+13
+II. LEGISLATIVE BACKGROUND
+18
+III. DECISION UNDER REVIEW
+21
+IV. ISSUES
+40
+V. ANALYSIS
+44
+--
+Issue 1: What is the standard of review?
+44
+--
+Issue 2: Is the Minister's Delegate bound by the PRRA Officer's conclusions with respect to risk of return to torture?
+53
+--
+Issue 3: Were the principles of procedural fairness violated, more specifically:
+85
+---(i) Is the structure of the decision-making process pursuant to section 112(3) independent and impartial; and, is the Minister's Delegate an independent decision-maker?
+85
+---(ii) Was there a reasonable apprehension of bias or an abuse of process?
+85
+--Summary of Relevant Evidence
+111
+---(i) Minister's Delegate and CMB
+112
+---(ii) Interest in the CBSA Wanted List
+119
+---(iii) Meeting between CBSA and CIC
+122
+--Analysis
+124
+---(i) Structural Independence or Impartiality, Individual Independence
+124
+---(ii) Reasonable Apprehension of Bias or an Abuse of Process
+145
+--
+Issue 4: Did the Minister's Delegate reasonably conclude that the Applicant would not be at risk if returned to Pakistan?
+157
+VI. CONCLUSION
+194
+[1]
+Strickland, J.
+: This is an application for judicial review of a negative decision made by Ms. Karine Roy-Tremblay, a Director of Case Determination [Minister's Delegate] of Citizenship and Immigration Canada [CIC], dated May 17, 2013. The Applicant is identified under subsection 112(3)(
+c
+) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [the IRPA]. His application for protection was therefore examined under the structure set out in section 172 of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 [the IRPA Regulations]. This judicial review is brought pursuant to subsection 72(1) of the IRPA.
+I. PROCEDURAL BACKGROUND
+A.
+Overview
+[2]
+The Applicant is a citizen of Pakistan and a Sunni Muslim. He arrived in Canada in August 1999 using a false Italian passport and claimed refugee protection. His claim was denied on October 16, 2001, because he was determined to be excluded from consideration as a Convention refugee pursuant to section 98 of the IRPA (which incorporates Articles 1F (a) and (c) of the
+UNHCR 1951 Convention Relating to the Status of Refugees
+[the Refugee Convention]) as a result of his membership in a terrorist organization. His application for judicial review of that decision was denied on February 6, 2002.
+[3]
+The Applicant subsequently applied for permanent residence in Canada on humanitarian and compassionate grounds. This was refused on November 5, 2002. He submitted a first Pre-Removal Risk Assessment [PRRA] application on October 30, 2002, which was refused on March 19, 2003. Prior to receiving these two negative decisions, the Applicant allegedly wrote to his former counsel advising that he was leaving Montreal to go back to Pakistan, but he actually relocated to Toronto. The Applicant received notice that he was to attend an interview with CBSA in January 2003. He did not attend and claimed that he feared that if he had presented himself, he would have been jailed and returned to Pakistan. A warrant for his removal was issued on July 3, 2003.
+[4]
+The Applicant was arrested in July of 2011 after the Canadian Border Services Agency [CBSA] released his name, photograph and last known whereabouts on its website along with the details of twenty-nine other individuals, under the heading "Wanted by the CBSA" [CBSA wanted list]. The website description stated: "These individuals are the subject of an active Canada-wide warrant for removal because they are inadmissible to Canada. It has been determined that they violated human or international rights under the
+Crimes against Humanity and War Crimes Act
+, or under international law."
+B.
+First Restricted PRRA Decision
+[5]
+On August 3, 2011, the Applicant submitted a second PRRA application, claiming that new facts had arisen since July 2011. He submitted that he was now a person in need of protection because of the publicity surrounding his case and that the possible risks to him in Pakistan included extreme physical abuse while in custody, unlawful detention and extrajudicial killing. On October 7, 2011, the PRRA Officer found that the Applicant would be at risk if returned to Pakistan [PRRA assessment].
+[6]
+The PRRA Officer assessed the Applicant's risk on the basis that he would be perceived as a member of a terrorist organization. The Applicant had originally claimed to have joined, or expressed interest in joining, such an organization but was no longer relying on that assertion as a basis for refugee status. He now claimed that he had not actually been a member of such a group and had lied to Canadian authorities, believing that it would aid his refugee claim. His new PRRA submissions were thus based upon his belief that he would be perceived to be a member of a terrorist organization.
+[7]
+The PRRA Officer examined objective documentary evidence identifying human rights abuses at the hands of state authorities and law enforcement in Pakistan. The PRRA Officer found that the Applicant's case had been widely reported in Canada and somewhat reported in English-language media in Pakistan, he concluded that the Pakistani authorities were likely aware of the allegations made against the Applicant. Given the consensus within objective documentation concerning the mistreatment of Pakistani citizens at the hands of the Pakistani police and security forces, the PRRA Officer found that it was more likely than not that the Applicant would face risk if returned. The PRRA Officer found that there was an internal flight alternative [IFA] with respect to the threat by vigilante groups, but not with respect to the threat by state authorities.
+[8]
+Next, as was required by subsection 113(d)(ii) of the IRPA, on December 15, 2011, CBSA produced an assessment of the nature and severity of any acts committed by the Applicant and the danger that he constituted to Canadian security [security assessment]. It concluded that there was no information that linked him directly to any of the terrorist organization's crimes against humanity or terrorist acts and that there was insufficient information to establish that the Applicant was a danger to the security of Canada. CBSA wrote that while the Applicant was presumed to be complicit by association in the acts of the terrorist group, the jurisprudence regarding complicity by association required credible evidence of actions furthering the perpetration of crimes for the purposes of section 113(d)(ii). It was not established that the Applicant was directly involved in perpetrating international crimes, and thus his complicity by association "may not be sufficient to justify his removal from Canada should he be found at risk."
+[9]
+The PRRA and CBSA's security assessments were disclosed to the Applicant in December 2011 for comment before being sent to a Minister's delegate who would render the final decision. The Minister's Delegate rejected the PRRA assessment on February 16, 2012 [first restricted PRRA]. The Applicant sought judicial review of that decision, which was granted by Justice Boivin on December 18, 2012 (
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]). Justice Boivin found that the Minister's Delegate had failed to adequately justify, on the basis of the evidence, why she had concluded that the Applicant would likely not be at risk.
+C.
+Second Restricted PRRA Decision (Decision under Review)
+[10]
+The Minister's delegate who conducted the redetermination was Ms. Roy-Tremblay. On May 17, 2013, she also found that the Applicant had not established that he would face a risk of torture, a risk to life, or a risk of cruel and unusual treatment or punishment should he be returned to Pakistan [second restricted PRRA or the Decision]. That Decision is the subject of the present proceeding. The Applicant filed his application for judicial review on May 24, 2013.
+[11]
+Subsequently, on May 28, 2013, the Applicant learned through the affidavit of Reg Williams, a former Director of Enforcement with CBSA, that on February 3, 2012, a meeting had been held between Ms. Glenda Lavergne, the former Director General, Border Operations, CBSA; Ms. Susan Kramer, Director, Case Management Division at CIC; and, Mr. Michel Dupuis, Director General of Case Determination at CIC, to discuss the Applicant's case. As a result, and pursuant to an Order of Justice Noël dated June 26, 2013, the Applicant cross examined Ms. Lavergne, Ms. Kramer, Mr. Dupuis and Ms. Roy-Tremblay during the period July to September 2013 on affidavits they had sworn concerning that meeting and the relationships between CBSA and CIC.
+[12]
+The Applicant's removal from Canada to Pakistan, which was scheduled for June 2, 2013, was stayed by order of Justice Gleason on June 1, 2013, until a decision is made on the present application for leave and judicial review. The Applicant applied for release from immigration detention on numerous occasions. However, following reviews by the Immigration and Refugee Board [the Board], his detention was continued as he was determined to be unlikely to appear for removal.
+D.
+Related Procedural Matters
+[13]
+There have been many procedural matters related, in one way or another, to this application for judicial review. Only those with an immediate bearing on this matter are noted below.
+[14]
+On June 26, 2013, Justice Noël also ordered disclosure of any documents relating to an allegation by the Applicant of an abuse of process and failure to observe the duty of candour by CBSA and CIC. At a detention review in September 2013, the Applicant presented new, recently discovered information which had been obtained as a result of those disclosures. This included email exchanges between CBSA and CIC during October 2011. In those exchanges CBSA expressed concern about the PRRA assessment, which it considered could have an impact on the detention review scheduled for October 21, 2011, and CBSA's decision that it would not be disclosed to the detention review hearing member prior to the upcoming detention review.
+[15]
+In response to a subsequent allegation by the Applicant that CBSA had breached its duty of candour by withholding the PRRA assessment, the Board concluded on September 26, 2013, that the non-disclosure was not an abuse of process. However, on October 16, 2013, in Court file IMM-6232-13, Justice Beaudry allowed the Applicant's application for judicial review of that decision by the Board and found that CBSA had made a conscious decision to withhold the information from the detention review hearing member which did amount to a breach of the duty of candour.
+[16]
+As a result of Justice Beaudry's decision, the detention decision was remitted back for redetermination. Upon reconsideration, the Board determined on October 25, 2013, that continued detention was still warranted. On October 28, 2013, the Applicant applied for judicial review of that detention decision. On November 21, 2013, Justice McVeigh dismissed his application for review of the redetermination, finding that the Board had reasonably denied release from detention.
+[17]
+On September 9, 2013, the Applicant filed a notice of a constitutional question in the present application for judicial review. He alleged that the Minister's Delegate was not independent and impartial and, therefore, could not make decisions on a risk of torture, a subject matter which engages section 7 of the
+Canadian Charter of Rights and Freedoms
+, Part I of the
+Constitution Act
+, 1982, being Schedule B to the
+Canada Act 1982
+(UK), 1982, c 11 [the
+Charter
+] and thus requires an independent decision-making process.
+II. LEGISLATIVE BACKGROUND
+[18]
+In this matter, the process involved for removal is governed by subsection 112(3) of the IRPA. Pursuant to subsection 112(3)(c), a person whose refugee claim is rejected on the basis of section F of Article 1 of the
+Refugee Convention
+, as is the case with the Applicant, cannot obtain refugee protection. Section F (a) is contained in a Schedule to the IRPA and states that the provisions of the Refugee Convention shall not apply to any person with respect to whom there are serious reasons for considering that they have committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes.
+[19]
+A PRRA for someone described in subsection 112(3)(c) is often referred to as a "restricted PRRA". Subsection 113(d) states that, in the case of a subsection 112(3) applicant, consideration shall be on the basis of factors set out in section 97 of the IRPA, and, the factors described in that subsection. In this case, the section 97 factors must be considered along with whether the application should be refused because of the nature and severity of acts committed by the Applicant or because of the danger he constitutes to the security of Canada (subsection 113(
+d
+)(ii)).
+[20]
+Further, pursuant to subsection 114(1)(
+b
+), a positive restricted PRRA decision in such a case would only result in the staying of a removal order against an applicant with respect to the country in respect of which he or she was determined to be in need of protection. It would not result in the granting of refugee protection. Subsections 172(1) and (2) of the IRPA Regulations provide that before making a decision to allow or reject the application of someone identified in subsection 112(3) of the IRPA, the Minister (or the Minister's delegate) shall consider the written assessment on the basis of the section 97 factors (the PRRA assessment), a written assessment on the basis of the factors set out in subsection 113(
+d
+)(i) or (ii) of the IRPA (the security assessment), whichever the case may be (in this case, subsection 113(d)(ii)), and any written response to the assessments from the applicant. This is the process which was undertaken in this case.
+III. DECISION UNDER REVIEW
+[21]
+As noted above, on May 17, 2013, the Minister's Delegate rendered the Decision in which she determined that the Applicant would not be at risk of torture, death, or cruel and unusual treatment or punishment should he be returned to Pakistan. Having concluded that the Applicant would not face the risks identified in section 97 of the IRPA, the Minister's Delegate found that it was not then necessary to balance her assessment of the situation he would face in Pakistan against CBSA's assessment of the seriousness of any crimes committed by the Applicant and of any danger he posed to Canada.
+[22]
+The Minister's Delegate stated that in making her Decision she had considered the PRRA Officer's risk assessment, CBSA's security assessment, and the Applicant's response to both.
+[23]
+She provided a description of the appointment process for her role and position. In that regard, she noted that CIC's Immigration Legislation Operational Manual IL3 - Designation of Officers and Delegation of Authority [IL3 Manual], defines the designation of officers and the delegation of authority as contained in the Instrument of Designation and Delegation signed by the Minister pursuant to subsections 6(1) and 6(2) of the IRPA.
+[24]
+The Minister's Delegate described the IL3 Manual and provided a table of delegated authorities. With respect to subsections 112, 113, and 113(d)(ii) of the IRPA and section 172 of the IRPA Regulations, she stated that authority had been delegated to her by the Minister pursuant to subsection 6(2) of the IRPA and that only such delegated persons can determine an application for protection from a person whose claim was rejected on the basis of subsection 112(3)(c) of the IRPA. The designated positions listed, including herself as the Director, Case Determination, have the delegated authority to consider, and allow or reject, an application for protection from a person who has been found to be inadmissible on grounds of security, violating human or international rights, organized criminality, whose refugee claim was rejected on the basis of section F of Article 1 of the Refugee Convention, or, who is named in a certificate under subsection 77(1) of the IRPA. Officials in these positions can assess whether the application should be refused because of the nature and severity of acts committed by the applicant or because of the danger that the applicant constitutes to the security of Canada.
+[25]
+The Minister's Delegate stated that the PRRA officer who prepared the risk assessment does not have such delegated authority and does not have the jurisdiction to make a decision concerning a person described in subsection 112(3) of the IRPA. She referred to
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] in which Justice Shore found that a PRRA officer's assessment under section 97 cannot constitute a decision but instead is a "form of advice or suggestion". She stated that for her to be bound by the PRRA or security assessments would be a fettering of her discretion.
+[26]
+With respect to the Applicant's allegations of a reasonable apprehension of bias, she stated that once a delegation of authority is granted to a person as described in the IL3 Manual, that decision-maker is fully independent and impartial in the decision-making process. Her appointment to the position of Director, Case Determination was a merit based selection process in accordance with the
+Public Service Employment Act
+and was based on her experience and knowledge of the IRPA and IRPA Regulations. Such processes are free from any Ministerial intervention given that the Public Service of Canada is independent of the executive branch of government.
+[27]
+The Minister's Delegate also stated that she had never been involved in the "Most Wanted List" program which falls within the CBSA's mandate along with removals. Further, that the restricted PRRA process is impartial, independent and free of intervention of any kind, especially by the Minister, his office, or other senior officials. Case Determination Directors are officials from CIC and not from CBSA, and they are not close to the Minister of CIC or to senior officials in charge of removals and enforcement. Even if one part of the Case Management Branch works on high profile cases, her role is entirely separate and she is not involved in any of their discussions. She reports to the Director General who, in turn, reports to an Associate Assistant Deputy Minister. The Director General never interferes with her cases or decisions.
+[28]
+The Minister's Delegate then set out the required analysis under section 97 of the IRPA in the context of Article 1 of the
+Convention Against Torture
+and the concept of "cruel and unusual treatment or punishment" in section 12 of the
+Charter
+. She noted that Pakistan is a federal republic where democratic rule was restored in 2008 and that the Pakistan People's Party (PPP), which the Applicant joined in 1996, was elected in February 2008 and is now the governing party in Pakistan in coalition with smaller parties.
+[29]
+The Minister's Delegate considered the documentary evidence, specifically citing two reports: the
+US Department of State Country Report on Human Rights Practices 2011
+[USSD 2011] which identifies the presence of human rights abuses including extrajudicial killings, torture and disappearances, and a 2012 UK Border Agency report,
+Pakistan Country of Origin Information (COI) Report
+[UKBA 2012], which noted some positive achievements in the area of human rights. She stated that other, unspecified, reports mentioned that despite the work that still needs to be done in Pakistan with respect to human rights, some important progress had been made.
+[30]
+The Minister's Delegate concluded that the risk faced by the Applicant was generalized. As well, since he is an adult man from Punjab and a Sunni Muslim, this profile placed him at a lower risk than the general population in Pakistan.
+[31]
+As to the security situation in Pakistan, while it has improved since 2011, she acknowledged that more was still required to be done. The risk of fatality is one that is faced generally by everyone in Pakistan, however, that the evidence before the Minister's Delegate indicated that Punjab is one of the most secure areas in the country. She found that there was insufficient evidence to indicate that the Applicant would become a target for non-state actors in Pakistan due to being perceived as associated with a terrorist group because of having been on CBSA's wanted list. On a balance of probabilities, she was not satisfied that the risk that the Applicant would be associated with a terrorist group by state or non-state actors put him at risk pursuant to section 97.
+[32]
+The Minister's Delegate concluded that the Applicant would be at very low risk of being of interest, being arrested, or being detained once he was in Pakistan and then went on to consider the risks he might face when entering Pakistan.
+[33]
+She considered each of the Applicant's alleged grounds for risk including: that he is a failed refugee claimant; that he used a fraudulent document to travel to Canada; that his name and likeness were made public through CBSA's wanted list; and, that he was identified as being linked to a terrorist organization.
+[34]
+She noted that May 2005 correspondence from the Human Rights Commission of Pakistan, cited in UKBA 2012, stated that failed Pakistani refugee claimants were not usually detained upon return to Pakistan. With respect to the use of a fraudulent passport, the Minister's Delegate noted that traveling with a fraudulent document is unlawful in Pakistan and there was therefore a possibility that the Applicant could face charges, and that this would increase the chances that he would spend time in detention.
+[35]
+While acknowledging that he would be exposed to difficult conditions if detained, such as "overpopulated prisons, few doctors available for medical examination of detainees and reported acts of mistreatments including beating, prolonged isolation, or denial of food or sleep", she also noted that the USSD 2011 report indicated that if he was charged with a criminal offence, he would be brought before a judge within 24 hours and would be able to apply for bail. She found that it was speculative to say that he would likely be tortured or exposed to cruel or unusual treatment while in prison, as there was insufficient evidence to establish that he would personally be at any greater risk of those treatments than other prisoners. She also found that the documentary evidence indicated that such situations occurred in specific cases and were mostly reported as occurring in the provinces of Balochistan and Khyber Pakhtunkhwa (KP), and the Federally Administered Tribal Areas (FATA).
+[36]
+With respect to being placed on CBSA's wanted list for connections with a terrorist organization, the Minister's Delegate found that the subject terrorist organization's name had never been made public. Therefore, she concluded that the Pakistani authorities would not be able to link the Applicant to a specific organization. The documentation pertaining to arrest and detention of suspected members of terrorist organizations showed that, in most cases, the arrested persons were linked to specific terrorist acts. Further, as the Applicant had resided in Canada since 1996, the Minister's Delegate considered that Pakistani authorities would be unable to link him to any specific terrorist organization or specific terrorist acts committed in Pakistan. Based on this, it was more likely than not that the Applicant would be released quickly from any initial detention that was based on suspected links to a terrorist organization.
+[37]
+The Minister's Delegate noted that the UKBA 2012 report quoted the Asian Human Rights Commission as commenting on a speech by Pakistan's foreign minister to the effect that the government of Pakistan had encountered difficulty in prosecuting militants linked to either terrorist organizations or terrorist acts on Pakistani soil.
+[38]
+The Minister's Delegate concluded that while the documentary evidence indicated that Pakistan is in a difficult situation for the respect of human rights and security conditions, and while the Applicant might be administratively detained and questioned upon his arrival, the evidence did not support the allegation that he would be at a risk of torture, risk to life or cruel and unusual punishment pursuant to section 97.
+[39]
+Having made a negative determination on risk, the Minister's Delegate stated that she was therefore not required to balance the risk identified by the PRRA assessment against CBSA's security assessment, pursuant to subsection 172(4) of the IRPA Regulations. She denied the application for protection.
+IV. ISSUES
+[40]
+I would frame the issues in this application for judicial review as follows:
+1. What is the standard of review?
+2. Is the Minister's Delegate bound by the PRRA Officer's conclusions with respect to risk of return to torture?
+3. Were the principles of procedural fairness violated, and, more specifically:
+i. Is the structure of the decision-making process pursuant to section 112(3) independent and impartial; and, is the Minister's Delegate an independent decision-maker?
+ii. Was there a reasonable apprehension of bias as a result of interest in the CBSA's wanted list or an abuse of process?
+4. Did the Minister's Delegate reasonably conclude that the Applicant would not be at a risk if returned to Pakistan?
+[41]
+The Respondent submits that it is unnecessary to consider the
+Charter
+where a case can be determined on the basis of administrative law and statutory interpretation (
+ <FRAGMENT_SUPPRESSED> ).
+[42]
+I agree that this Court does not have an obligation to respond to a constitutional question if it is possible to answer the questions posed by applying principles of administrative law. As Justice L'Heureux Dubé stated in
+Baker
+, above:
+[11] Because, in my view, the issues raised can be resolved under the principles of administrative law and statutory interpretation, I find it unnecessary to consider the various Charter issues raised by the appellant and the interveners who supported her position.
+[43]
+In my view, the procedural fairness aspect of the present application can be decided by applying certain of those principles. Therefore, the
+Charter
+argument need not be addressed.
+V. ANALYSIS
+Issue 1: What is the standard of review?
+Applicant's Submissions
+[44]
+The Applicant submits that aside from the issue of the reasonableness of the Decision, all issues relating to independence, bias and abuse of process are to be reviewed on a correctness standard as they relate to procedural fairness (
+ <FRAGMENT_SUPPRESSED>  [
+Newfoundland Nurses
+] is not a direction for the Court to abandon its supervisory function in relation to judicial review (
+Alberta Information and  <FRAGMENT_SUPPRESSED>  at para 54) [
+Alberta Teachers
+]).
+Respondent's Submissions
+[46]
+The Respondent submits that the standard of review for the assessment of the evidence is reasonableness. Significant deference is warranted on judicial review of a Director, Case Determination's assessment of risk ( <FRAGMENT_SUPPRESSED> , above, at para 28; <FRAGMENT_SUPPRESSED> , above, at para 92;
+ <FRAGMENT_SUPPRESSED> [
+Sing
+]).
+[47]
+So long as the Minister's Delegate took into account the relevant considerations and came to a conclusion reasonably supported on the evidence, it is not open to the Applicant to invite the Court to reweigh the evidence, regardless of whether the evidence might also support a different conclusion (
+Dunsmuir
+, above, at para 47;
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]). A decision-maker need not refer to every item of evidence and is presumed to have considered all of the evidence before her (
+Newfoundland  <FRAGMENT_SUPPRESSED> , para 16;
+ <FRAGMENT_SUPPRESSED>  (CA) (QL)).
+[48]
+The Respondent does not make submissions on the applicable standard of review for the remaining issues.
+Analysis
+[49]
+An exhaustive analysis is not required in every case to determine the proper standard of review. Rather, courts must first ascertain whether the jurisprudence has already determined in a satisfactory manner the degree of deference to be accorded to a decision-maker with regard to a particular category of question ( <FRAGMENT_SUPPRESSED> , above, at para 53;
+Dunsmuir
+, above, at paras 57 and 62).
+[50]
+For the second issue, being whether the Minister's Delegate is bound by the PRRA assessment, this was before Justice Boivin in <FRAGMENT_SUPPRESSED> , above. There, Justice Boivin found that it was a question of jurisdiction involving the interpretation of the IRPA and the IRPA Regulations reviewable on a standard of correctness (
+Dunsmuir
+, above, paras 50 and 59; <FRAGMENT_SUPPRESSED> , above, at para 28). In my view it could also, however, be reviewable on the reasonableness standard as "[d]eference will usually result where a tribunal is interpreting its own statute or statutes closely connected to its function, with which it will have particular familiarity" (
+Dunsmuir
+, above, at para. 54;
+ <FRAGMENT_SUPPRESSED> ;
+Alberta  <FRAGMENT_SUPPRESSED> , at para 34).
+[51]
+The third issue pertains to procedural fairness and natural justice and is to be reviewed on a standard of correctness (
+ <FRAGMENT_SUPPRESSED>  at para 44). More specifically, whether the structure of the subsection 112(3) decision making process, and whether the Minister's Delegate is independent and impartial, are issues of procedural fairness (
+ <FRAGMENT_SUPPRESSED>  at para 21 [
+Bell Canada
+]). Institutional bias and independence are also reviewed on a correctness standard (
+ <FRAGMENT_SUPPRESSED> [
+Singh
+]). Issues of abuse of process also concern procedural fairness and are reviewed on a correctness standard (
+ <FRAGMENT_SUPPRESSED> ). On a standard of correctness, no deference is afforded and the Court will undertake its own analysis of the questions (
+Dunsmuir
+, above, at para 50).
+[52]
+As to the fourth issue, the standard of review applicable to the Minister's Delegate's assessment of the evidence is reasonableness ( <FRAGMENT_SUPPRESSED> , above, at para 28;
+Dunsmuir
+, above). In reviewing the Decision on the standard of reasonableness, the Court should not intervene unless the Board came to a conclusion that is not transparent, justifiable and intelligible and within the range of acceptable outcomes based on the evidence before it (
+Dunsmuir
+, above, at para 47; <FRAGMENT_SUPPRESSED> , above, at para 59). It is not the role of a reviewing court to substitute its own view of a preferable outcome or to reweigh the evidence ( <FRAGMENT_SUPPRESSED> , above, at para 59).
+Issue 2: Is the Minister's Delegate bound by the PRRA Officer's conclusions with respect to risk of return to torture?
+Applicant's Submissions
+[53]
+The Applicant submits that the role of the Minister's Delegate is not to conduct a new risk assessment. Rather, that the role is restricted to the weighing and balancing of the positive risk assessment already made by the PRRA Officer against the CBSA security assessment. This interpretation is supported by a plain reading of the legislation including subsections 112(3) and 114 of the IRPA and subsection 172 of the IRPA Regulations.
+[54]
+The Applicant refers to Chapter PP3, Pre-removal Risk Assessment (PRRA), of CIC's Operational Manual (PRRA Operations Manual) which he interprets as follows:
+Step 1
+: PRRA Officer assesses the application and either finds no risk, in which case application is dismissed right then and there is no further processing, or the officer finds there
+is
+risk, in which case she writes up her reasons and sends them to the removals officer. This is the same as for any PRRA application, except that the PRRA officer's positive assessment is not dispositive of the application, as only a MD [minister's delegate] can render a final decision to allow a s.112(3) PRRA. Instead the applicant goes to Step 2.
+Step 2
+: An analyst at National Security Division prepares an assessment, in accordance with R172(2)(b), with respect to whether the applicant's presence in Canada is a danger to the country's security, or the nature or severity of the acts committed by the applicant are such that the application should be refused.
+At
+Step 3
+, both assessments are disclosed to the applicant for comment,
+Finally, at
+Step 4
+, the minister's delegate is provided with the 2 assessments and the applicant's comments, and renders a decision
+based upon them
+, either refusing the application, or allowing it and granting a stay of removal. [Applicant's Emphasis]
+[55]
+The Applicant submits that the PRRA Officer's risk assessment is final and that the Minister's Delegate cannot disregard it and come to her own conclusion. This interpretation is consistent with section 172(4) of the IRPA Regulations, the PRRA Operations Manual and jurisprudence which has described the role of the Minister's Delegate as one of a "weighing exercise" (
+ <FRAGMENT_SUPPRESSED> [
+Li
+]).
+[56]
+The PRRA Officer's expertise in determining risk and assessing credibility has been confirmed (
+ <FRAGMENT_SUPPRESSED>  (CA) (QL)), and it was not intended that the Minister's Delegate can go behind a PRRA Officer's assessment.
+[57]
+The Applicant submits that this Court should not follow <FRAGMENT_SUPPRESSED> , above (followed in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]) because it was based on a wrong statement made
+in obiter
+. Justice Shore relied on the wrong delegated authority in finding that the Minister's Delegate is not bound by a PRRA Officer's opinion. He relied on section 101, but it is actually section 55, which, the Applicant submits, by its express wording makes it clear that the role of the Minister's Delegate is merely to do the balancing with the positive PRRA assessment.
+[58]
+The Applicant also submits that Justice Shore's analysis failed to appreciate that the decision of whether or not to allow the PRRA only arises after the PRRA Officer has made a positive determination, meaning that the Minister's Delegate is only permitted to balance what is to be done after the positive PRRA. Therefore, <FRAGMENT_SUPPRESSED> should not be followed, in accordance with the exceptions to judicial comity (
+ <FRAGMENT_SUPPRESSED> ). Furthermore, the authority and independence of the Minister's Delegate is directly before this Court which was not the situation in <FRAGMENT_SUPPRESSED> .
+Respondent's Submissions
+[59]
+The Respondent also refers to the PRRA Operations Manual; however, its interpretation of that document differs from that of the Applicant. The Respondent explains it as follows:
+Step 1 - the Risk Assessment - A CIC officer (titled "PRRA Officer") prepares an
+opinion
+on whether the applicant is at risk based on s. 97 grounds, if removed. If the PRRA Officer is of the opinion that there is no risk, the Restricted PRRA application is rejected and the applicant is removed from Canada according to ss. 172(4) of the
+Immigration and Refugee Protection Regulations
+(the "
+Regulations
+"). If the PRRA Officer is of the opinion that there is a risk, the Restricted PRRA application is not yet finalized and moves to the next steps.
+Step 2 - the Restriction Assessment - A CBSA officer prepares an opinion, called the Restriction Assessment, as to whether the Restricted PRRA application should be refused notwithstanding the risks identified due to the nature and severity of the acts committed, or because the applicant is a danger to the security of Canada, according to ss. 113 (d) of the
+IRPA
+.
+Step 3 - the Applicant's submissions - the Risk Assessment and the Restriction Assessment are provided to the applicant for comments according to ss. 172(2) of the
+Regulations
+. For reasons of administrative efficiency, the assessments are given to the applicant together after they are both completed.
+Step 4 - Minister's Delegate decision - the Risk Assessment, Restriction Assessment and the applicant's submissions are provided to a CIC Minister's Delegate, (e.g. Director, Case Determination). The Minister's Delegate uses this information, in addition to his/her own research, to make the final Restricted PRRA decision. The final decision determines whether the application is allowed or rejected - i.e. whether or not the applicant can be removed to the country of removal (per ss 114(1) of the
+IRPA
+). [Respondent's Emphasis]
+[60]
+The Respondent submits that at step 4, according to section 172(1) of the IRPA Regulations, the Minister's Delegate is bound to consider the materials submitted, but is not bound by the initial PRRA assessment. This interpretation is consistent with the jurisprudence ( <FRAGMENT_SUPPRESSED> , above; <FRAGMENT_SUPPRESSED> , above, at paras 29-31, 42; <FRAGMENT_SUPPRESSED> , above, at para 6). The Respondent states that
+Li
+, above, does not support the argument that the jurisdiction of the Minister's Delegate is limited to weighing the assessments before her. Further, the Federal Court of Appeal's statement that the Minister's Delegate conducts a "weighing exercise" does not mean that the Minister's Delegate's jurisdiction is limited as the Applicant suggests.
+[61]
+The Respondent refers to the Minister's Instrument of Designation and Delegation and CIC's IL3 Manual in support of its position that the PRRA Officer does not have the delegated authority to render a final PRRA decision. This can only be made by the persons holding the positions listed in the IL3 Manual, which permits the Director, as the Minister's Delegate, to "consider, allow or reject, an application for protection (PRRA) from a person ...whose claim was rejected on the basis of section F or Article 1" ( <FRAGMENT_SUPPRESSED> , <FRAGMENT_SUPPRESSED> , both above;
+ <FRAGMENT_SUPPRESSED>  aff'd 2006 FCA 422 [
+Say
+]).
+Say
+concerned the jurisdiction of a Minister's delegate involving a person described in subsection 112(3), were based on a rational reading of the relevant statutes, regulations, manuals and Instruments of Delegation. The Applicant has not demonstrated that this jurisprudence is manifestly wrong (
+ <FRAGMENT_SUPPRESSED>  at 511).
+[62]
+The Respondent submits that the Applicant's interpretation of the scheme would be contrary to the intent of risk assessments because it could bind an assessment where there is a time lapse between the PRRA and a Minister's delegate's decision. It also fails to explain why both assessments are sent to the delegate for review, regardless of the outcome of the security assessment. Where the security assessment is negative, sending it and the initial PRRA assessment to a Minister's delegate serves no purpose if its only role is to balance the two assessments.
+[63]
+The Respondent submits that the Minister's Delegate is qualified to perform the restricted PRRA assessment, having been hired through a merit-based selection process which includes a demonstrated knowledge of the PRRA process and the IRPA.
+Analysis
+[64]
+This issue has previously been before this Court. Based on both the legislation and that jurisprudence, it is my view that the Minister's Delegate is not bound by the PRRA Officer's risk assessment.
+[65]
+The Applicant's PRRA application was processed according to subsections 172(1) and (2) of the IRPA Regulations and the IRPA legislative scheme as described above. Section 172(1) states that before "making a decision to allow or reject" an application described in section 112(3) of the IRPA, a Minister's delegate "shall consider" the risk and security assessments and written response to them by an applicant. It does not restrict the consideration to a weighing of the assessments nor state that a Minister's delegate is bound by them.
+[66]
+The PRRA Operational Manual also describes this process, but as will be seen, not necessarily in the definitive manner(s) proposed by each party:
+Applicant not described in A97
+If the PRRA officer finds no danger of torture, no risk to life and no risk of cruel and unusual treatment or punishment, the assessment terminates at this point. The officer finalizes the assessment and prepares the refusal letter, which is sent with the file to the CBSA Removals office ...
+Applicant described in A97
+If the PRRA officer finds the applicant described in A97, the officer prepares the assessment referred to in R172(2)(a) and sends it and any supporting documentation to the CBSA removals office.
+The removals officer prepares supporting documentation regarding the restrictions set out in A112(3)(a),(b),(c), or (d), and A113(d)(1) or (ii), as applicable, and sends it, as well as the PRRA assessment and supporting documents, to the Coordinator, Danger to the Public/Rehabilitation Case Review, Case Management Branch (CMB), CIC. CMB will manage these cases, and forward the security, organized crime, and modern war crime cases to National Security Division, CBSA, for assessment.
+An analyst at Danger to the Public/Rehabilitation, Case Review, or National Security Division, as applicable, prepares an assessment, in accordance with R172(2)(b), with respect to whether the applicant's presence in Canada is a danger to the public or a danger to the country's security, or the nature or severity of the acts committed by the applicant are such that the application should be refused. The assessment referred to in R172(2)(b), including the supporting documentation, is returned to the CBSA removals office.
+The removals officer delivers the assessments referred to in R 172(2)(a) and (b), and the supporting documentation, to the applicant. Any new extrinsic evidence that is related and central to the assessment is disclosed.
+The applicant then has 15 days to respond in writing. The applicant is instructed to send any submissions directly to the removals office. The applicant may request an extension of time to respond ....
+Upon receipt of the applicant's submissions, the removals officer returns the two assessments, and the supporting documentation, as well as the applicant's submissions, to the Coordinator, Danger to the Public/Rehabilitation, Case Review, CMB. An analyst adds a covering memo to the package confirming that the applicant has seen the assessments, ensure that the applicant's submissions, if any, are included, and forwards the file to the C&I Minister's delegate.
+The C&I Minister's delegate considers the assessments, the supporting documentation, and the applicant's submissions, and renders a decision on the application
+. The decision is then returned to the CBSA removals office, concurrently, if NSD prepared an R172(2)(b) assessment, NSD will be notified of the decision .... [Emphasis added]
+[67]
+Thus, the PRRA Operation Manual also does not limit the Minister's Delegate's role to that of weighing the risk and security assessments.
+[68]
+The Minister's Delegate in her affidavit dated August 22, 2013, made reference to section 17.2 of the PRRA Operational Manual. It concerns the circumstances in which persons who are granted stays pursuant to subsections 112(3) and 172(2)(b) of the IRPA are re-examined, due to a change of circumstance, pursuant to section 172(2)(a) of the IRPA Regulations. The process to be followed in that event is set out, including:
+Once in receipt of the submissions of the individuals, the CBSA removal officer will forward the submissions to the Coordinator, Danger to the Public / Rehabilitation CMB for consideration by the C&I Minister's Delegate, who makes a decision to cancel or maintain the stay based on a balancing of the factors in A97(1) and A113(d)(i) and (ii) as applicable. The stay will be maintained if the C&I Minister's Delegate is of the opinion after balancing the risks to the individual against the risk to society that the individual, because of the risk that would be faced on removal, should be allowed to remain in Canada. However, should the C&I Minister's Delegate decide that risk to the individual no longer exists, or that the risk that the individual poses to Canada and Canadians outweighs the risk to the individual, the stay will be cancelled ...
+[69]
+This suggests that not only may the Minister's Delegate balance the risk and security assessments, but that he or she may also make a decision as to whether a risk still exists. Clearly if such a decision is made it may, or may not, be in accordance with the PRRA Officer's risk assessment.
+[70]
+The language of subsection 172(1) of the IRPA Regulations is that, before making a decision to allow or reject an application described in subsection 112(3) of the IRPA, the Minister "shall consider the assessments" referred to in subsection 172(2), being the PRRA assessment and the security assessment. The PRRA Operational Manual is also consistent in describing these as assessments and requiring a Minister's delegate to consider them prior to rendering a decision. Contrary to the suggestion of the Respondent, a PRRA officer's contribution is not described as an "opinion". Nor does the PRRA Operational Manual state that the decision of a Minister's delegate must be based on the assessments alone as suggested by the Applicant.
+[71]
+A plain reading of these provisions does not lead to a conclusion that the Minister's Delegate's jurisdiction is circumscribed by the PRRA Officer's finding as contained in his risk assessment submitted for her consideration. While the Minister's Delegate must consider, or weigh, these assessments, the provisions do not go further and circumscribe her ability to reconsider their conclusions. Indeed, subsection 172(1) acknowledges that the Minister's Delegate may allow or reject the application. This is of note because only positive risk assessments proceed to the Minister's Delegate. Thus, as here, she may receive a positive risk assessment, meaning that an applicant is at risk if returned, and a negative security assessment, meaning that the applicant does not pose a risk to the security of Canada. If she were only required to balance these two risks then the outcome would be obvious and foregone. The risk to the Applicant would outweigh the risk to Canada. She would have no latitude to reject the application on that basis.
+[72]
+In my view, the jurisprudence also suggests this finding. In
+Li
+, above, one of the issues before the Federal Court of Appeal was whether a PRRA officer was entitled to consider an application pursuant to subsection 113(d) of the IRPA after he or she determines that a person is excluded from protection under section 98. As to the role of a Minister's delegate, the decision addressed this only peripherally:
+[10] The PRRA officer concluded that there was a real risk that the Li brothers would be tortured, given the nature of the charges pending against them. She then sent the file on to the Minister's delegate for consideration of the factors militating against allowing the Li brothers to stay in Canada, that is, the nature and severity of the crimes alleged against them. This weighing exercise has yet to be competed ....
+[...]
+[54] ...Notwithstanding the PRRA officer's conclusion that section 98 applied to the Li brothers, she went on to find that they were at risk of torture if returned to China and forwarded the file to the Minister's delegate for weighing of the factors relevant to their removal to China in the face of that risk ....
+[73]
+However, the issue of the jurisdiction of a Minister's delegate to make a decision following the risk and security assessments was substantially considered by Justice Shore in <FRAGMENT_SUPPRESSED> , above.
+[74]
+In <FRAGMENT_SUPPRESSED> , the applicant was a Haitian citizen who sought judicial review of the decision of a Minister's delegate denying his application for refugee protection. Between 1989 and 2005 the applicant had been convicted of forty-four criminal offences and a removal order was issued against him. He then applied for a PRRA which was granted on the basis that he would face a risk to his life or a risk of cruel or unusual treatment or punishment if returned to Haiti. Subsequently, the Minister's delegate rejected the applicant's application for protection on the basis that he would not be subjected to danger of torture or a risk to his life or of cruel or unusual punishment if he were returned. The Minister's delegate also found that the applicant was a present and future danger to the Canadian public.
+[75]
+The Court dismissed the application for judicial review of that decision and, in the context of a change of circumstances analysis, noted that the Minister's delegate did not "reverse" the PRRA officer's decision and that "the reasons provided by the officer are only an assessment which the Minister's delegate has to consider in his final decision, but which he or she is not bound by". The delegate made his own decision as required under the IRPA on the basis of the evidence before him at the time of his decision. The Court stated that the applicant was attempting to give the PRRA risk assessment "weight that it does not have".
+[76]
+Justice Shore stated the following about the scheme of the relevant provisions:
+[60] In general, any foreigner who is subject to a removal order that is in force and who is not named in a security certificate or a danger opinion may apply to the Minister for protection (subsection 112(1) of the IRPA). If a foreigner, like Mr. Placide, is described in subsection 112(3) of the IRPA, refugee protection may not result (subsection 112(3) in limine). Consideration of such a person's application, in contrast to that of a regular application, which is considered on the basis of sections 96 to 98 of the IRPA, is -- in a situation such as Mr. Placide's -- on the basis of the grounds for protection set out in section 97 and the nature and severity of acts committed by the applicant or the danger that the applicant constitutes to the security of Canada (subparagraph 113(d)(i) of the IRPA).
+[61] Before making a decision, the Minister's delegate must take into consideration the written assessments of the grounds for protection described in section 97 and the factors set out in subparagraph 113(d)(i) of the IRPA (subsection 172(1) of the IRPR). The two assessments are disclosed to the applicant, who has 15 days to file written submissions with the Minister's delegate. If the delegate concludes that the applicant is not described in section 97, he or she is not required to take the factors set out in subparagraph 113(d)(i) into consideration and can reject the application for refugee protection (subsection 172(4) IRPR). This process is in fact a codification of
+ <FRAGMENT_SUPPRESSED> , 2002 SCC 1, at paras. 122-123).
+[62] Finally, if, however, the Minister's delegate concludes that the applicant would be subjected to a risk described in section 97, he or she must assess the factors set out in subparagraph 113(d)(i) and, if applicable, conduct a balancing exercise to determine whether the applicant's situation is exceptional enough to warrant his removal to a country where torture is used (paragraph 113(d) of the IRPA;
+Suresh
+, above, at paras. 76-79;
+Charkaoui (Re)
+, 2005 FC 1670 (CanLII), [2006] 3 F.C.R. 325, 2005 FC 1670, at paras. 12-13)).
+[63] In this context, it is obvious that the PRRA officer who conducted the assessment, dated November 16, 2007, merely gave advice or made a suggestion that is not binding upon the Minister's delegate. In accordance with section 6 of the IRPA, the Minister did not delegate to the PRRA officer but to National Headquarters only the power to dispose of an application for protection described in subsection 112(3) of the IRPA (Immigration Manual, ch. 1L3, CIC Instrument of Designation and Delegation, Item 48 (Delegated authority - Form an opinion whether, in relation to the eligibility of a claim under subsection 101(2) of the Act, a person who is inadmissible on grounds of serious criminality by reason of a conviction outside Canada is a danger to the public in Canada.) This is delegated to National Headquarters).
+[64] In fact, case law requires that the delegate make the decision himself and give reasons for it: "the reasons must also emanate from the person making the decision, in this case the Minister, rather than take the form of advice or suggestion" (
+Suresh
+, above, at para. 126). The process is similar to that of
+ <FRAGMENT_SUPPRESSED>  (CanLII), [2005] 1 F.C.R. 560, 2004 FCA 257, at paras. 17-22 (PRRA; obiter);
+ <FRAGMENT_SUPPRESSED>  A.C.W.S. (3d) 1098, at para. 23;
+ <FRAGMENT_SUPPRESSED>  A.C.W.S. (3d) 578 at para. 14).
+[65] Otherwise, the Minister's delegate would not really be exercising the power conferred on him. The Minister's delegate would merely be approving assessments administratively and giving them force of law.
+This would essentially give PRRA officers a decision-making power which the Minister decided to delegate to another officer in the public service
+. [Emphasis added]
+[77]
+Based on <FRAGMENT_SUPPRESSED> , the PRRA Officer's risk assessment is merely advice or a suggestion which does not bind the Minister's Delegate, who is permitted to make her own decision with reasons. Further, any balancing of the risk and security assessments only comes into play if the Minister's Delegate determines that a section 97 risk exists.
+[78]
+The Applicant submits that this Court should not follow <FRAGMENT_SUPPRESSED> as it was based on a wrong section of the Instrument of Designation and because the Court in that case failed to appreciate the PRRA officer's opinion as being formed before the Minister's delegate's opinion.
+[79]
+As to the first point, I believe the Applicant refers to paragraph 63, above, which made reference, in parenthesis, to the Immigration Manual, ch. 1L3, CIC Instrument of Designation and Delegation, Item 48. While the reference to Item 48 may have been misplaced (the correct reference possibly being section 68), in my view this is inconsequential. The relevant point is that in accordance with section 6 of the IRPA, the Minister did not delegate to the PRRA officer, but only to National Headquarters, the power to dispose of an application for protection of a person described in subsection 112(3) of the IRPA, which is also the case in this matter (IRPA, section 6, CIC Instrument of Delegation Item 68). In any event, <FRAGMENT_SUPPRESSED> still stands on the basis of its reliance on the other decisions described in paragraph 64 which indicate that delegates are to make the decision themselves and give reasons.
+[80]
+As to the second point, I do not believe that this has merit or that the Court in <FRAGMENT_SUPPRESSED> failed to appreciate that the PRRA officer's opinion was formed before the Minister's delegate's opinion. To the contrary, the Court set out the legislative process in detail as well as a chronology of the facts. This demonstrates that the Court was well aware of when the PRRA officer's decision was made.
+[81] <FRAGMENT_SUPPRESSED> was also followed by Justice Hughes in <FRAGMENT_SUPPRESSED> , above. In that case, the Board allowed the applicant's wife's claim for refugee protection but found that the applicant was excluded by reason of Article 1F(a) of the Convention. The applicant sought a PRRA and the PRRA officer determined that the applicant would be at risk if he were to be removed to Angola. However, a CBSA security assessment concluded that the applicant was complicit in crimes against humanity. The Minister's delegate rejected the applicant's application for a stay of removal and concluded that, on balance, there was insufficient evidence to demonstrate risk to life or that the applicant would face more than a mere possibility of cruel and unusual treatment and punishment or torture in Angola.
+[82]
+On judicial review of that decision, the applicant advanced a similar argument to that made in this case. Specifically, that under the scheme of the IRPA and the IRPA Regulations, the risk decision should have been made by a PRRA officer and not the Minister's delegate. Justice Hughes relied on <FRAGMENT_SUPPRESSED> , above and found that the Minister's delegate makes the final decision on the restricted PRRA application.
+[83]
+I would also note that in the earlier decision of <FRAGMENT_SUPPRESSED> , above, Justice Boivin relied on <FRAGMENT_SUPPRESSED> in finding that the Minister's delegate was entitled to conduct her own research because she was not engaging in a mere review of the PRRA officer's assessment and need not limit herself to the information considered at that level.
+[84]
+Based on the foregoing, it is my view that the Minister's Delegate makes the final decision on the restricted PRRA application and was not bound by the PRRA Officer's risk assessment. Thus, whether reviewed on the correctness or reasonableness standard, there was no reviewable error.
+Issue 3: Were the principles of procedural fairness violated, more specifically:
+(i) Is the structure of the decision-making process pursuant to section 112(3) independent and impartial; and, is the Minister's Delegate an independent decision-maker?
+(ii) Was there a reasonable apprehension of bias or an abuse of process?
+Applicant's Position
+(i) Structural Independence and Impartiality, Individual Independence
+[85]
+The Applicant submits that the Minister's Delegate lacks the necessary independence to make an assessment on a risk of torture. Section 7 of the
+Charter
+is engaged when one can be deported to a country to face a risk of torture, therefore, the principles of fundamental justice require that the Applicant is entitled to have his risk assessed by an independent and impartial tribunal.
+[86]
+The Applicant refers to
+ <FRAGMENT_SUPPRESSED>  [
+Matsqui Indian Band
+] and
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] which set out the test for independence and impartiality as including three criteria being security of tenure, financial security and administrative control. These criteria apply equally to tribunals although the level of independence can vary. Judicial independence can be both individual and institutional (
+Provincial  <FRAGMENT_SUPPRESSED> ). The requirements of independence and impartiality will vary depending on the nature of the administrative decision (
+ <FRAGMENT_SUPPRESSED> ;
+Bell Canada
+, above).
+[87]
+The Applicant states that the Minister's Delegate's position does not possess the hallmarks of independence required to satisfy a reasonable person that she holds the requisite degree of independence or impartiality for the following reasons:
+• The Minister's Delegate is situated in the Case Management Branch (CMB) of CIC which deals with sensitive cases;
+• The Case Review division provides support and advice on cases to senior management and the Minister of CIC;
+• The CMB has ministerial advisors who report directly to the Minister;
+• The CMB participates in litigation management;
+• The Manager of the CMB, who is the Manager to whom the Minister's Delegate reports, is also involved in managing sensitive high profile cases;
+• The Manager meets regularly with the delegates to discuss issues related to their cases;
+• There is no independent scheduling system and no effort is made to insulate delegates from other functions of the CMB; and
+• The intermingling of the Minister's Delegate's function with the other CMB functions undermines the perceptions that she is an independent and impartial decision-maker.
+[88]
+The Applicant submits that the fact that the Minister's Delegate is selected through a competition does not make her independent. Further, in high profile cases where the government has invested political capital in removing individuals from Canada, situating the decision-maker close to the Minister does not create an image that she is independent and impartial.
+[89]
+In order to assess whether there is institutional impartiality, the structure for the decision-making process and the decision-makers chosen must be such that they would be perceived by a reasonable person reviewing the matter objectively to be acting impartially. In the context of security certificate cases decided by Minister's delegate's who almost always found that the applicant faced no risk, the findings were overturned by this court as being unreasonable.
+[90]
+The Applicant submits that while in
+ <FRAGMENT_SUPPRESSED>  [
+Ocean Port
+], the Supreme Court concluded that, absent
+Charter
+considerations, the legislature is free to craft a structure for administrative tribunals, it acknowledged that the
+Charter
+may require a more independent structure.
+[91]
+The Applicant submits that although this Court has held that a PRRA officer has the requisite level of independence from the Minister to objectively decide risk, this was based on fixed term tenure and such an officer is not as close to the Minister's office as his delegate.
+[92]
+The Applicant states that the test for independence and institutional impartiality requires both the existence of institutional structures that provide sufficient independence and impartiality and the impartiality of decision-makers, both of which were not met in these circumstances.
+(ii) Reasonable Apprehension of Bias or Abuse of Process
+[93]
+The Applicant submits that a reasonable and informed person, viewing this matter realistically and practically, would believe that the Minister's Delegate is incapable of being impartial in her assessment of the Applicant's restricted PRRA application.
+[94]
+The Applicant submits that both Ministers concerned, as well as CBSA, have a direct and personal interest in the outcome of his case because of its implications for the CBSA wanted list. These parties have invested significant political capital in the list and were at the time of the Decision looking to expand the criteria for inclusion. If the Applicant was found to be at risk as a consequence of being placed on the list, this would be embarrassing to the government as it would be counter-productive to its stated goals.
+[95]
+The Applicant submits that this interest is further evidenced by Minister Kenney's many public statements and comments regarding the CBSA wanted list. The Minister defended the list in the face of criticism that it violates fairness and is ineffective as it may expose individuals to risk. The present case is distinguished from most of the case law because the Minister has referred to the Applicant specifically and to the CBSA's list on which he was named (
+ <FRAGMENT_SUPPRESSED>  (TD) (QL) [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED>  (TD)(QL) [ <FRAGMENT_SUPPRESSED> ]). The Applicant was also closely monitored by Ministers and senior officials. The Manager of Case Management intervened in an unprecedented fashion to expedite the decision-making process from six months to eight weeks.
+[96]
+Therefore, given the absence of insulation between the decision-maker and the Minister, and given the interest in the CBSA wanted list and the close proximity of the decision-maker to the Minister, there was a reasonable apprehension of bias.
+Respondent's Submissions
+(i) Structural Independence and Impartiality, Individual Independence
+[97]
+The Respondent agrees that section 7 of the
+Charter
+is engaged. Therefore, the issue is whether the PRRA legislative scheme comports with the principles of fundamental justice. This requires procedural fairness, which includes independence and impartiality. Tribunal members are presumed to be impartial (
+ <FRAGMENT_SUPPRESSED>  at paras 29, 32;
+ <FRAGMENT_SUPPRESSED>  at para 13 [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED>  submits that there must be an actual breach of natural justice or procedural fairness to trigger judicial review and that an apprehended lack of independence is insufficient to justify intervention (
+ <FRAGMENT_SUPPRESSED>  at paras 34, 49 [
+Ellis-Don
+]). Independence and impartiality are related but "separate and distinct values or requirements" ( <FRAGMENT_SUPPRESSED> , above; at p 685;
+Bell Canada
+, above, at para 18). The "criteria for independence is not absence of influence but rather the freedom to decide according to one's conscience and opinions" (
+ <FRAGMENT_SUPPRESSED> ).
+[99]
+The decision-maker must appear impartial in the objective view of a reasonable and well-informed observer (
+ <FRAGMENT_SUPPRESSED>  at para 20). The test for reasonable apprehension of bias is whether or not an informed person, viewing the matter realistically and practically and having thought the matter through, would think it more likely than not that the decision-maker would unconsciously or consciously decide an issue unfairly (
+Committee for Justice and  <FRAGMENT_SUPPRESSED>  at 394 [
+Committee for Justice
+]). The burden of proof is on the party alleging a real or apprehended breach of the duty of impartiality ( <FRAGMENT_SUPPRESSED> , above, at para 13), the threshold is a high one (
+R v. S (RD)
+, [1997] 3 SCR 484 at para 111-113 [
+R v. S(RD
+]) and the grounds for the apprehension as well as the evidence to support it must be substantial (
+Committee for Justice
+, above, at p 394;
+Say
+, above, at para 22).
+[100]
+As to institutional bias, the Applicant must demonstrate an apprehension of bias in a "substantial number of cases" (
+R v. Lippé
+, [1991] 2 SCR 114 at 141 [
+Lippé
+]; <FRAGMENT_SUPPRESSED> , above). The mindset of a reasonable person is not to be equated with the mindset of either a losing party or the "unduly suspicious" (
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> ). Further, substantial deference is owed to the appropriate organization of public servants devoted to the administration of the vast range of responsibilities of the government (
+Say
+, above, at para 22). Absent evidence to the contrary, public servants are presumed to be independent and impartial ( <FRAGMENT_SUPPRESSED> , above;
+ <FRAGMENT_SUPPRESSED>  (FCA) [
+Mohammad
+]).
+[101]
+On the question of institutional independence, the Respondent submits where an applicant is impugning the independence or impartiality of a decision-maker, the onus is on the applicant to prove the allegation and not on the Minister to disprove it ( <FRAGMENT_SUPPRESSED> , above, at paras 275-278). Here, the Applicant has failed to adduce sufficient evidence to prove that the Minister's Delegate was insufficiently independent.
+(ii) Reasonable Apprehension of Bias or Abuse of Process
+[102]
+The Respondent asserts that the evidence establishes that the Minister's Delegate is adequately insulated from any external pressures, has an obligation to ensure there is no bias in decision-making, makes her own decisions, and works for CIC and not for CBSA. The Respondent made lengthy submissions summarizing the evidence in support of this position.
+[103]
+As to the February 3, 2012 meeting between CBSA and CIC, the Respondent submits that even if it could be characterized as an attempt to influence the final outcome of the Decision, what transpired at the meeting was never communicated to the Minister's Delegate. The evidence is that Ms. Lavergne expressed her concerns to Mr. Dupuis. These concerns may have been based on a misunderstanding of the restricted PRRA process and potential lack of oversight of a junior officer. Mr. Dupuis explained that process to her. As to Ms. Lavergne's expressed concern about the impact of the positive PRRA assessment on CBSA's enforcement mandate, the Respondent submits that this is to be expected in the circumstances surrounding the new policy initiative.
+[104]
+The Respondent submits that the Applicant's attempt to demonstrate that CBSA's interest in maintaining the wanted list led its officials to attempt to influence the process is without basis. While a positive decision for the Applicant could have implications, the evidence is that it would not have undermined the entire program.
+[105]
+The Respondent submits that there was never an explicit attempt to try to influence Mr. Dupuis or the Minister's Delegate or to influence the ultimate outcome. Ms. Kramer's feeling or intuition about the outcome of the meeting on the ultimate decision should be accorded little weight in light of the evidence that the meeting intended to clarify procedural matters. There was no factual basis to support her intuition.
+[106]
+The Respondent submits that as to the communication from the Minister's Office, this was simply a request for a file status update for the High Profile Case List communications document. There is nothing to suggest any interaction between the Minister's Delegate and the Minister's Office regarding the substance of the Decision. The evidence of the Minister's Delegate was that she did not consider the communication to be an attempt to influence her decision. Direct communications with the Minister's Office, such as media relations, question period notes and other requests for information, are handled by other officials in her work unit and are outside the scope of the Minister's Delegate's functions.
+[107]
+The Respondent submits that simply because the Minister's Delegate may have been aware of the high profile nature of the Applicant's case, this does not demonstrate that her Decision was in any way subject to external influence. She is employed in a unit which works on such cases and it is not unusual. Her evidence was that she did not feel any pressure to decide the Applicant's case in a particular way as a result of the Minister's public statements.
+[108]
+The Respondent submits that the requisite link has not been established between the conduct alleged to be inappropriate, the meeting, and an ability to influence the outcome of the Decision. Even if the first restricted PRRA decision was flawed by reason of interference in the form of the meeting, this would have been fully addressed when this Court sent that matter back for redetermination. The Decision under review is the second restricted PRRA decision, thus the Applicant's challenge is a collateral attack on the first restricted PRRA decision as there was no similar meeting prior to the determination on May 17, 2013.
+[109]
+The Respondent submits that this Court has already found that a Minister's delegate is capable of arriving at an independent decision and deciding a PRRA application impartially (
+Sing
+, above, at paras 33-37). Even if the Director, within the scope of her position, advises the Minister of certain matters, this is insufficient to establish a lack of independence (
+ <FRAGMENT_SUPPRESSED> ).
+[110]
+The Respondent submits that grounds for a perception of a lack of independence and impartiality must be "substantial" (
+Say
+, above). In
+Say
+, this Court considered whether the transfer of the PRRA unit from CIC to the Minister of Public Safety and Emergency Preparedness gave rise to a reasonable apprehension of institutional, systemic or structural bias with respect to processing PRRA applications. It found that a fully informed person would not have a reasonable apprehension that bias would infect decision-makers in the PRRA program in "a substantial number of cases". Therefore, a decision-maker being part of a government branch is insufficient to support institutional bias.
+Summary of Relevant Evidence
+[111]
+It is helpful at the outset to briefly summarize some of the more relevant evidence forming part of the record in this matter:
+(i)
+Minister's Delegate and CMB
+[112]
+The Minister's Delegate was hired as a Director, Case Determination, following an internal public service competition process.
+[113]
+Her affidavit evidence was that she was appointed with indeterminate status by CIC in accordance with the PSEA. The job description for the Minister's Delegate calls for "extensive experience making recommendations and/or decisions under the
+Immigration and Refugee Protection Act
+[IRPA]".
+[114]
+The Minister's Delegate is situated in the CMB office, which office is divided into the Case Review division and Litigation Management division. The stated raison d'être of the CMB is "effective management of High Profile, complex, contentious & sensitive cases." The Case Review division provides support and advice on cases to senior management and the Minister of CIC. It also reviews and manages contentious, complex, high profile and sensitive immigration cases, provides guidance to CIC officers, and collaborates with CIC and CBSA.
+[115]
+The Minister's Delegate reports to Mr. Dupuis, the Director-General of the CMB, who in turn reports to the Associate Assistant Deputy Minister. Mr. Dupuis would have regular meetings with the Directors to discuss operational matters and individual files. Mr. Dupuis stated that he had advised the Minister's Delegates not to discuss their cases with him, that he has never discussed the contents of their decisions and that his practice is to emphasize to the Directors that their decisions are theirs alone. Mr. Dupuis also prepared the mid-year and year-end performance reviews for the Directors of case determination, which included the Minister's Delegate.
+[116]
+Mr. Dupuis confirmed that there are two ministerial advisers who are a part of the Case Review Branch and who report to him through their Director. They have a direct connection with the Minister's Office.
+[117]
+The Minister's Delegate's affidavit evidence was that she was aware of the importance of maintaining the independence of a decision-maker and rendering an impartial decision, which was also emphasized in her employment training. CIC's PRRA operational manual advises PRRA officers of their obligation to ensure that they are not, and do not appear to be biased when exercising their decision-making powers. The Minister's Delegate stated that her decisions are always her own and that, generally speaking, the only communications she has with Mr. Dupuis regarding a particular decision concerns who will assume carriage of a particular matter and the timing of the decision. However, she does from time to time consult with peers regarding a particular case, which includes general discussions of the facts and various aspects to be considered. She did not discuss the substance of her Decision in this case with Mr. Dupuis nor did he attempt to discuss it with her. She also did not communicate with anyone from CBSA about her decision.
+[118]
+The only communication she had with senior officials was a status update regarding the timing of her Decision. She received an email which was forwarded to her from Mr. Dupuis. The email was from Heather Primeau, dated January 30, 2013, and the subject line was "Hpcl question" (Hpcl stood for "high profile cases list"). The email stated that "Kennedy has asked where we are at with the arshad Muhammad prra". The Minister's Delegate did not know what Kennedy's role was but she knew he was with the Minister's Office. She stated that such questions occasionally occurred but that she did not have direct communications with Kennedy or the Minister's Office and did not consider the email to be an attempt to influence her Decision. Mr. Dupuis confirmed that Heather Primeau was his director at Case Review and that "Kennedy" was Kennedy Hong who was in the Case Management Unit of the Minister's Office. He also confirmed that the Minster's Delegate responded to him, providing an update on the status of the restricted PRRA.
+(ii)
+Interest in the CBSA Wanted List
+[119]
+With regard to the CBSA wanted list, the evidence establishes that there was considerable government interest in the list and that CBSA considered it to be an important new initiative. The evidence is that the federal government utilizes this list to locate individuals who are suspected war criminals. The evidence also includes media coverage suggesting that a positive risk opinion might undermine the government's efforts to remove the individuals who are on the list.
+[120]
+When the wanted list was first established and publicized in July 2011, Minister Kenney stated that those who have been involved in war crimes "arrive here by fraud, they will be identified, they will be located, and they will face the consequences". The Minister further referred to individuals on the list as foreign criminals who had been captured and he thanked all those Canadians who called the tip line.
+[121]
+The evidence of the Minister's Delegate was that she was aware of the CBSA wanted list program and had reviewed the news reports and the Minister's public statements submitted with the Applicant's submission. She did not feel any pressure to decide the case in a particular way and political agendas do not interfere with her decisions.
+(iii)
+Meeting between CBSA and CIC
+[122]
+Prior to the issuance of the Decision under review, a meeting was held on February 3, 2012 between CBSA and CIC which concerned, "Muhammad-discussion on next steps". The attendees were Ms. Glenda Lavergne, the former Director General, Border Operations at CBSA, Ms. Susan Kramer, Director, Case Management Division at CBSA, and Mr. Dupuis. The evidence is that Ms. Lavergne expressed her concern over the quality of, and a lack of oversight over, the Applicant's positive PRRA risk assessment and how a positive decision by the Minister's Delegate would impact the wanted list which was an important initiative to CBSA.
+[123]
+Ms. Kramer stated that the purpose of the meeting was to express concerns about the initial PRRA assessment. If the Applicant received a positive PRRA because of being posted on CBSA's wanted list, there was a possibility that the website could no longer be used as an effective tool. She stated that she found the meeting 'odd' as it was the first time she observed a meeting where her Director General sought to discuss a specific case with CIC. She stated that she and her colleagues do not normally meet with an independent decision-maker in advance of the decision and that she thought the meeting was ill advised. While there was no indication that the Minister's Delegate would decide in a particular way, following the meeting she felt comfortable that they would have a 'good decision' based on the meeting.
+Analysis
+(i)
+Structural Independence or Impartiality, Individual Independence
+[124]
+In my view, the Applicant's argument that there is a lack of structural independence or impartiality as a result of situating the Minister's Delegate in the CMB office cannot succeed.
+[125]
+An allegation of a lack of institutional impartiality requires that an informed person, viewing the matter realistically and practically and having thought the matter through, would have a reasonable apprehension of bias in a substantial number of cases (
+2747-3174  <FRAGMENT_SUPPRESSED>  at para 44) [
+2747-3174 Québec Inc
+];
+Lippé
+, above).
+[126]
+In
+R v. S (RD
+), above, at paras 111 to 113, Justice Cory, in the context of judicial independence, observed that "the threshold for a finding of real or perceived bias is high", and emphasized that "the reasonable person must be an informed person" with knowledge of all the relevant circumstances, including "the traditions of integrity and impartiality that form a part of the background" and would be "apprised also of the fact that impartiality is one of the duties the judges swear to uphold".
+[127]
+Say
+, above, is relevant to this application. There, the federal government transferred the PRRA program from CIC to CBSA, then later transferred it back. The applicant in
+Say
+argued that while the program was located within CBSA, a question of institutional impartiality arose. Justice Gibson applied the test for a reasonable apprehension of bias as described in
+Committee for Justice and Liberty
+, above, and acknowledged that the requirements of procedural fairness, which include independence and impartiality, vary for different tribunals, as set out in
+Bell Canada
+, above, and stated:
+[22] Against the foregoing, I will approach the allegations now before the Court of lack of independence or impartiality, or institutional bias, on a standard of reasonable apprehension of bias or lack of independence or impartiality, not viewed through the eyes of a person of "very sensitive or scrupulous conscience", but rather taking into account the guidance from the Supreme Court of Canada as quoted above. That guidance directs me to bear in mind that grounds for a reasonable apprehension of bias or perception of a lack of institutional independence and impartiality must be "substantial". I am satisfied that this is particularly true on the facts of this matter where I am further satisfied that substantial deference is owed to Government decisions that relate to appropriate organization of public servants devoted to the administration of the vast range of responsibilities of the Government of Canada.
+[128]
+Justice Gibson found that the only evidence adduced on behalf of the applicants tending to support institutional basis or want of impartiality and independence was anecdotal at best, while acknowledging that the test is the perception in the mind of the reasonably informed observer. In contrast, the respondent had adduced evidence that PRRA decision-makers generally had security of tenure and received extensive training including the importance of impartiality and independence, and that their immediate supervisors were without enforcement or removal responsibilities, which insulated the PRRA decision-makers.
+[129]
+Justice Gibson dismissed the argument, stating:
+[38] I am satisfied that what Chief Justice Lamer described as "a reasonable apprehension of a bias on an institutional level," and in the case there before the court, he was dealing with a court as an institution, applies equally to what is sometimes described as "structural bias" or "systemic bias" and to a reasonable apprehension of lack of independence and impartiality in the totality of members of an institution such as public officials charged with a largely adjudicative function, and, more specifically, such as members of the PRRA decision-making group.
+[39] On the evidence before the Court in this matter, I conclude that there would not be a reasonable apprehension of bias,
+in the mind of a fully informed person
+, in a substantial number of cases. That is not to say that there could not well be a reasonable apprehension of bias, as a matter of first impression, in the mind of a less than fully informed person, in a substantial number of cases. The mandate of the CBSA was portrayed in the substantial amount of public information surrounding its establishment as a security and enforcement mandate, a mandate quite distinct from a "protection" mandate. But the evidence before the Court indicates that its mandate was, at least in the period in question, rather multifaceted and that there was a conscious effort to insulate the PRRA program from the enforcement and removal functions of the CBSA. Thus, I conclude that a "fully informed person" would not have a reasonable apprehension that bias would infect decision makers in the PRRA program in a "substantial number of cases. [Emphasis original]
+[130]
+In
+Singh
+, above, one of the issues addressed also concerned whether the PRRA process raised the question of institutional bias. Justice Blanchard dismissed this argument and found that:
+[38] The Applicant submits that PRRA reviews are conducted by "low-level officials with little or no independence and with no recognized competence in analysis of human rights or international law, and the courts are not ensuring access to an effective remedy." Further, the Applicant argues that the "decision-maker is not someone of recognized competence, but rather an employee of the Ministry that wishes to deport the Applicant. There is no real judicial independence for the PRRA Officers." The Applicant states that "all decisions rendered by PRAA officers show a systematic bias in favour of deportation and against the application of international human rights law."
+[39] The Applicant is in essence raising the question of institutional bias of the PRRA process. That question was considered by my colleague, Mr. Justice de Montigny in
+ <FRAGMENT_SUPPRESSED> . I reproduce below paragraphs 64 and 74 of his reasons:
+[64] Because an allegation of bias is of such momentous importance, the grounds to establish such an apprehension must be substantial and must rest on something more than pure speculation or conjecture:
+Committee for Justice and Liberty
+, above, at pages 394-395;
+ <FRAGMENT_SUPPRESSED>  2001 FCA 223, at paragraph 8. In the present case, I have not understood counsel's submission to be that the PRRA officer was personally biased. What we are dealing with here is an allegation of institutional bias, which would have arisen in all the cases decided while the Minister of Citizenship and Immigration had overlapping statutory "intervention" and "protection" authority during the transition period following the IRPA's enactment ...
+[74] In coming to this conclusion, I am comforted by the decision reached by my colleague Justice Frederick Gibson in
+ <FRAGMENT_SUPPRESSED>  2005 FC 739 (aff'd, [2005] F.C.J. No. 2079, 2005 FCA 422) ....
+Also see
+ <FRAGMENT_SUPPRESSED> ; and
+ <FRAGMENT_SUPPRESSED> .
+[40] I adopt the reasoning and conclusions articulated by Mr. Justice de Montigny in
+Lai
+, above. Regarding the PRRA process in the circumstances of this case, I am also of the view that there is no reasonable apprehension of bias, either from an institutional or from an individualized point of view. It follows, therefore, that there can be no infringement of the principles of fundamental justice or procedural fairness.
+[131]
+ <FRAGMENT_SUPPRESSED>  the issue concerned the procedure laid out in section 44 of the IRPA, which provides that an officer who is of the opinion that a permanent resident or a foreign national in Canada is inadmissible may prepare a report setting out the relevant facts, which report shall be transmitted to the Minister. The ultimate decision is then made by a Minister's Delegate pursuant to subsection 44(2).
+[132]
+The applicant argued that the procedure laid out in section 44 violates the principles of fundamental justice because the Minister's delegate reviews a report prepared by an officer from the same department in order to adjudicate whether or not the person referred to in that report should be removed. The applicant argued that the same department is acting in both an executive and judicial capacity, thus violating the constitutional principle of the division of powers.
+[133]
+Justice O'Keefe stated that, "Working in the same department has not been considered as a reason to find a lack of independence, especially in the context of a decision in which neither the officers involved nor the institution has any substantial interest."
+[134]
+Based on the foregoing and given that an allegation of a lack of institutional impartiality is of such potential significance from both an operational and a procedural fairness perspective, the grounds to establish it must be substantial. The evidence adduced by the Applicant in this case is insufficient to meet this requirement and satisfy his onus of demonstrating want of impartiality in a substantial number of cases. The mere fact that the Minister's Delegate is situated in the CMB, particularly when considered together with the evidence concerning her relationship to and communications with both Mr. Dupuis and the Minister's Office, does not meet the onus.
+[135]
+In addition to his concern arising from the situating of the Minister's Delegate in the CMB and the structure of that office, the Applicant relies on a Statutory Declaration of Hadayt Nazami, a lawyer with the Applicant's counsel's firm, as evidence of a want of impartiality in a substantial member of cases. This affidavit states that where PRRA assessments were performed by Minister's delegates in the context of security certificate cases, the Minister's delegates "always", and unreasonably, found that the applicants faced no risk upon deportation:
+7. Post
+Suresh
+, where either the PRRA assessment or the danger opinion was made in the context of Security Certificate Cases, the Minister's Delegate always found that there was no risk of torture faced by the individual named in the Certificate. All of the persons represented by my firm in this situation were subsequently successful in obtaining stays of their removals from the Federal Court due to the unreasonableness of the Minister's Delegate's finding.
+[136]
+However, neither Mr. Nazami nor the Applicant have identified the decisions in question or produced any form of statistical analysis supporting this conclusion. Nor is the basis upon which Mr. Nazami states that the Minister's delegate "always" found that there was no risk supported by reference to all such dispositions in all cases so decided. And, in any event, each of those decisions is based on its individual facts. Thus, the mere fact that in some, or all, such cases it was found that there was no risk, without more, does not establish institutional bias. In my view, this evidence is insufficient to establish a want of independence in a substantial number of cases.
+[137]
+Where a substantial number of cases cannot be identified, allegations of an apprehension of bias cannot be brought on an institutional level, but must be dealt with on a case-by-case basis (
+ <FRAGMENT_SUPPRESSED> ;
+Lippé
+, above). Here, this involves a consideration of whether the Minister's Delegate lacked the hallmarks of independence, those being security of tenure, financial security and administrative control ( <FRAGMENT_SUPPRESSED> , above, at para 73, 75), and whether there was a reasonable apprehension of bias or abuse of process as a result of interest in the wanted list.
+[138]
+The classic articulation of the test for what constitutes a reasonable apprehension of bias was authored by Justice de Grandpré (as he then was) in
+Committee for Justice and Liberty
+, above, as:
+[T]he apprehension of bias must be a reasonable one, held by reasonable and right-minded persons, applying themselves to the question and obtaining thereon the required information. ... [The] test is "what would an informed person, viewing the matter realistically and practically -- and having thought the matter through -- conclude. ..."
+[139]
+Abuse of process is a common law principle invoked principally to stay proceedings in the context of a delay where to allow them to continue would be oppressive (
+ <FRAGMENT_SUPPRESSED>  at para 116 [ <FRAGMENT_SUPPRESSED> ]). However, in
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  (CA) [ <FRAGMENT_SUPPRESSED> ], it was used to support an argument of interference in the decision-making process. Abuse of process must only be invoked in the "clearest of cases" and such cases will be "extremely rare" ( <FRAGMENT_SUPPRESSED> , above, at para 120). The Supreme Court of Canada stated the following in <FRAGMENT_SUPPRESSED> , above:
+[120] In order to find an abuse of process, the court must be satisfied that, "the damage to the public interest in the fairness of the administrative process should the proceeding go ahead would exceed the harm to the public interest in the enforcement of the legislation if the proceedings were halted" (Brown and Evans, supra, at p. 9-68). According to L'Heureux Dubé J. in
+Power
+,
+supra
+, at p. 616, "abuse of process" has been characterized in the jurisprudence as a process tainted to such a degree that it amounts to one of the clearest of cases. In my opinion, this would apply equally to abuse of process in administrative proceedings. For there to be abuse of process, the proceedings must, in the words of L'Heureux Dubé J., be "unfair to the point that they are contrary to the interests of justice" (p. 616). "Cases of this nature will be extremely rare" (
+Power
+,
+supra
+, at p. 616). In the administrative context, there may be abuse of process where conduct is equally oppressive.
+[140]
+It is not disputed that there was considerable government interest in the CBSA's wanted list and that there were concerns about the implications of a positive risk assessment on the list. It is therefore certainly not outside the realm of possibilities that, given this interest, a decision-maker could be inclined toward a certain result in the absence of sufficient hallmarks of independence.
+[141]
+However, the Applicant has not put forth any evidence to demonstrate that the Minister's Delegate was not independent and impartial. Absent evidence to the contrary, a decision-maker is presumed to be impartial ( <FRAGMENT_SUPPRESSED> , above). Allegations of a lack of independence or a reasonable apprehension of bias are serious and cannot be based on pure speculation or limited evidence. Here, the Applicant's submissions in this regard are also rebutted by the evidence of the Minister's Delegate, Mr. Dupuis and others.
+[142]
+In
+Sing
+, above, the applicant argued that the Minister's Delegate was not an officer of the PRRA unit but a "Minister's Delegate" and, therefore, was not independent from the Minister. Justice Shore noted that:
+[34] Pursuant to section 6 of the
+IRPA
+, the Minister of Citizenship and Immigration has delegated PRRA Officers and certain officials of CIC at National Headquarters, including the Director of Case Determination, to make PRRA decisions. The decision-maker in Mr. Lai's PRRA application is the Director, Case Determination of the Case Management Branch at the National Headquarters of the Department of Citizenship and Immigration (CIC - Instrument of Designation and Delegation, Operational Manual, IL3, Column 52).
+[143]
+Applying the
+Committee for Justice and Liberty
+test, the Court concluded that the delegate had arrived at an independent and fair decision.
+[144]
+In
+Mohammad
+, above, the Federal Court of Appeal found that the adjudicator in that case, who was an immigration officer pursuant to the IRPA, had security of tenure, which is generally available to public servants. Similarly in <FRAGMENT_SUPPRESSED> , above, described in greater detail below, Chief Justice Crampton found that PRRA officers are independent as they are members of the Public Service of Canada which is independent from the executive branch of government. Here, the Minister's Delegate is also a member of the Public Service of Canada and therefore, by corollary, the same principles apply.
+(ii)
+Reasonable Apprehension of Bias or an Abuse of Process?
+[145]
+The Applicant also submits that a reasonable apprehension of bias exists as a result of the comments made by the Minister of CIC and CBSA's interest in the outcome of the Applicant's case as having implications for the wanted list. In this regard, the parties refer to <FRAGMENT_SUPPRESSED> , above, with the Applicant stating that it is distinguished from the present case.
+[146]
+In <FRAGMENT_SUPPRESSED> , the Court took note of the fact that Minister Kenney had made public comments concerning whether certain countries host persecution. Justice Crampton found that the Minister's political comments did not in and of themselves give rise to a reasonable apprehension of bias. He also stated the following which, in my view, equally applies in the present case:
+[69] Even if a reasonably informed person, viewing the matter realistically and practically, might reasonably apprehend the Minister to be biased based on the comments that he was reported to have made, that does not provide a sufficient basis for concluding that such a person also would reasonably apprehend the Officer to be biased. The Officer is a member of the Public Service of Canada. It is well accepted that the Public Service of Canada is independent of the executive branch of government. Absent evidence to the contrary, the Officer also should be presumed to be independent and impartial. No such evidence to the contrary was presented by the Applicant.
+[147]
+Similarly, in the present case, the public comments made by the Minister regarding the CBSA wanted list are insufficient to give rise to an apprehension that the Minister's Delegate, the decision-maker, was biased. According to the evidence, the Minister's Delegate is a member of the Public Service of Canada who was hired through public service staffing advertisement and notification. The presumption is that a decision-maker is impartial, absent evidence adduced to the contrary. Here, there is no evidence that the Minister's comments influenced the Minister's Delegate. Her evidence was that she was not influenced and that her position required that she ensure that not only she was not biased, but also that she did not appear to be biased.
+[148]
+This leaves the question of whether the meeting between CBSA and CIC or the email from the Minister' Office to the Minister's Delegate created a reasonable apprehension of bias or constituted an abuse of process.
+[149]
+This Court has already ruled on CBSA's failure to disclose the positive PRRA assessment in the context of the Applicant's detention review. Justice Beaudry found that a conscious decision to withhold the information from a detention hearing member of the Board amounted to a breach of the duty of candor.
+[150]
+With respect to the Respondent's submission that the Applicant's challenge to the second restricted PRRA decision is a collateral attack on the first restricted PRRA decision, it is of note that the subject meeting was held on February 3, 2012, before the first decision was rendered. However, the Applicant only became aware of the meeting after Justice Boivin's judicial review decision concerning the first restricted PRRA decision. Therefore, this evidence is new in the context of the present judicial review. I also understand the Applicant's submissions to suggest that it is the decision-making process which was tainted. Therefore, in my view, the fact that the meeting was held before the first restricted PRRA decision is not consequential to the Court considering this argument.
+[151]
+The question is whether the Minister's Delegate, in making the second restricted PRRA decision, the Decision under review, was influenced, or could have been influenced, by the meeting. There is no evidence in the record that the Minister's Delegate was actually influenced or that she deliberately acted unfairly in any way. The test, however, is whether a reasonable person, having known about the meeting between CBSA and CIC, would conclude that the Minister's Delegate could be free of bias or whether that person would conclude that the meeting had tainted the decision-making process.
+[152]
+In order to find that the meeting constituted an abuse of process, the process must have been "tainted to such a degree" that this would be one of the "clearest of cases". In other words, overwhelming evidence would be required showing that the proceedings under scrutiny were unfair to the point that they are contrary to the interest of justice.
+[153]
+The February 3, 2012 meeting was certainly ill-advised as it could easily be perceived as, and indeed may have been, an attempt to influence the decision-making process. Ms. Kramer's evidence was that she found the meeting to be unusual as normally such a meeting would take place after a decision is rendered. In addition, Ms. Kramer stated that following the meeting, she was comfortable that "a good decision" would be made.
+[154]
+Nevertheless, I am not persuaded that what occurred is sufficient to meet the test for a reasonable apprehension of bias or a finding of an abuse of process. Here, there is a significant link in the chain of events which is missing. While there is clear evidence of CBSA expressing its concerns to CIC over the implications of a positive PRRA assessment on the wanted list, there is no evidence that the actual decision-maker, the Minister's Delegate who rendered the Decision, was influenced by or biased as a result of the meeting. There is no evidence that the concerns raised in the meeting were conveyed by Mr. Dupuis or any other person attending the meeting to the Minister's Delegate.
+[155]
+As to the email from the Minister's Office to the Minister's Delegate, this was again ill-advised, but I am satisfied that the evidence demonstrates that this comprised only of a request for a status update and does not meet the test of reasonable apprehension of bias or a finding of an abuse of process.
+[156]
+In conclusion, the principles of procedural fairness were not breached on the basis of the structure of the decision-making process, a lack of independence of the Minister's Delegate, a reasonable apprehension of bias, or, an abuse of process.
+Issue 4: Did the Minister's Delegate reasonably conclude that the Applicant would not be at risk if returned to Pakistan?
+Applicant's Submissions
+[157]
+The Applicant submits that the Minister's Delegate ignored the vast majority of the evidence which clearly demonstrated that in Pakistan, torture and ill-treatment are widespread and common amongst the police dealing with suspected criminals and the military dealing with suspected terrorist suspects.
+[158]
+Although the Minister's Delegate acknowledged that because the Applicant travelled to Canada on a forged passport he could face questioning and criminal charges in Pakistan, she concluded that there was insufficient evidence that the Applicant personally would be at risk of torture. However, the Applicant submits that the documentary evidence established that someone in his position has a high likelihood of being tortured in the course of a criminal investigation. For example, the Asian Human Rights Commission report,
+The State of Human Rights in Pakistan 2012
+[AHRC 2012] indicates that torture by the military in the context of counter terrorism is endemic and that it is also widespread in routine investigations by the police. The failure to address this evidence, which points to an opposite conclusion from the one reached by the Minister's Delegate, is a reviewable error.
+[159]
+Furthermore, although the Minister's Delegate stated that the likelihood of torture is speculative because torture and mistreatment in detention happen mostly in Balochistan, KP and the FATA, this is contradicted by documentary evidence that was before her including the UKBA 2012 report which states that every police station has its own private torture centre. The documentary evidence confirms that torture is routine and pervasive and does not support the finding that it occurs only in the stated areas.
+[160]
+While the Minister's Delegate concluded that the Applicant would be brought before the authorities in Pakistan within twenty four hours, the Applicant submits that the evidence is that this amendment to the law only applies to the jurisdiction of the FATA. In addition, evidence demonstrates that pretrial detention in Pakistan is prevalent, is excessively long, and is a serious problem. The evidence does not indicate that those subject to short periods of detention do not run the risk of torture. Further, there is no evidence to indicate that the Applicant would be able to afford bail or that he would be granted bail, as it is routinely denied. To have reached the conclusions that she did, the Minister's Delegate had to have ignored the evidence.
+[161]
+The Minister's Delegate stated that only those who are linked to specific terrorist acts are arrested, which would not include the Applicant, yet she found that he would be detained but would be released quickly. The evidence is that the authorities do not just arrest those who are connected to a specific terrorist act. The evidence does not specify that only those who are detained for a protracted period of time are subjected to torture. Terrorist suspects are detained on an arbitrary and clandestine basis. Civilians are detained on grounds of links with terrorist organizations, held indefinitely and tortured. Arrests and detentions of terrorist suspects occur without specific charges and the military arbitrarily arrests civilians simply to extract confessions. It is therefore reasonable to assume that, because CBSA had identified the Applicant as belonging to a terrorist organization, he is likely to be detained upon his return to Pakistan. The evidence is clear that torture is widespread and pervasive in detention.
+[162]
+The Applicant also points out that the findings of the Minister's Delegate are contradictory to Justice Boivin's decision, which found that the first restricted PRRA decision made in this matter by a Minister's delegate was contrary to the bulk of the country conditions evidence. In addition to ignoring evidence, the Applicant submits that the Decision is also internally inconsistent. Having concluded that he would likely face "difficult detention conditions", which the documentary evidence described as often extremely poor, and including inadequate food and medical care along with prevalent sexual abuse and torture, the Minister's Delegate then concluded that the Applicant would not be exposed to risks of cruel and unusual treatment within section 97. This finding is inconsistent and constitutes a reviewable error.
+Respondent's Submissions
+[163]
+The Respondent submits that significant deference is owed to the Minister's Delegate's assessment of risk (
+Sing
+, above, at para 39). So long as the Minister's Delegate took into account the relevant considerations and came to a conclusion reasonably supported on the evidence it is not open to the Court to reweigh the evidence, regardless of whether the evidence might also support a different conclusion ( <FRAGMENT_SUPPRESSED> , above, at para 28; <FRAGMENT_SUPPRESSED> , above, at para 92;
+Dunsmuir
+, above, at para 47; <FRAGMENT_SUPPRESSED> , above, at para 12). Further, there is no requirement to refer to every piece of evidence (
+Newfoundland  <FRAGMENT_SUPPRESSED> , at para 62), and administrative decision-makers benefit from a presumption that all of the evidence before them is considered unless the contrary is shown (
+ <FRAGMENT_SUPPRESSED>  (CA) (QL)). The mere fact that specific evidence is not mentioned in the decision does not mean that it was ignored or that the decision is unreasonable (
+Newfoundland  <FRAGMENT_SUPPRESSED> , at paras 12-18).
+[164]
+The Respondent submits that the decision does not ignore the documentary evidence cited by the Applicant. While the Applicant submits that evidence as to the prevalence of mistreatment in Pakistan was ignored, the Minister's Delegate did acknowledge the presence of human rights abuses but found that they occur mostly in regions that the Applicant would not be returning to, and target minority ethnic and religious groups of which he is not a member. The Minister's Delegate did not find that mistreatment is confined or isolated to particular areas. The Respondent also submits that the evidence relied upon by the Applicant does not directly contradict the Minister's Delegate's finding, supported by the record, that most of the human rights abuses discussed in the evidence occurred outside Punjab, where the Applicant would be returning, and impacted particular groups. Given these findings, it was open to the Minister's Delegate to conclude that the Applicant had not established the risks alleged on the appropriate standard of proof.
+Analysis
+[165]
+In my view, the Decision of the Minister's Delegate is unreasonable because it is based on a selective reading of the documentary evidence and is inconsistent.
+[166]
+In her assessment of the risks to the Applicant upon his return to Pakistan, the Minister's Delegate stated that travelling with a fraudulent document to another country is unlawful in Pakistan:
+Therefore,
+if it becomes known
+to the immigration authorities upon return that he travelled on a fraudulent passport, there is a possibility that he could face charges and that he could be presented before a court of law. This would increase the chances that he spends time in detention. [Emphasis added]
+[167]
+The Minister's Delegate also stated, however, that she "could not deny that the fact that Mr. Muhammad's name and picture were published on CBSA's website can make it hard for him to return to Pakistan unnoticed."
+[168]
+The Minister's Delegate refers to the UKBA 2012 report which quotes a Request for Information response dated June 2003 describing correspondence with a London-based Barrister who indicates that persons returning to Pakistan and who had travelled on false passports may be detained. The report also states that the Federal Investigative Agency (FIA) only interviews those nationals who are wanted by the government or involved in any criminal, unlawful or anti-state activities. Further, if a person is deported by a foreign country for any reason and is formally handed over to the Pakistani authorities, then the FIA authorities would undertake an inquiry and all deportations are inquired into: "if a failed applicant for refugee status is handed over by the country concerned to Pakistani authorities, Pakistani FIA/relevant authorities would question such a person."
+[169]
+The documentary evidence is also replete with media reports of the Applicant's arrest in Canada as a result of his name being posted on CBSA's website. These document that his name, age and photograph were posted on the site and that Minister Kenney and CBSA had stated that he was linked to a Muslim organization that committed terrorist attacks in Pakistan.
+[170]
+Given this, in my view, in these circumstances it cannot reasonably be suggested that the Applicant would be able to return to Pakistan unnoticed.
+[171]
+As well, although the Minister's Delegate conducts a segregated analysis, that is, she considers the risk of detention based on the use of a forged passport discretely from the risk arising from the Applicant being named on the CBSA wanted list, the reality is that the Applicant is one and the same person. His return will not go unnoticed. Thus, even if he were questioned and detained based on the use of a forged passport, it is unlikely that this would be the extent of the authorities' interest in him. Accordingly, even if the Minister's Delegate was correct in her finding that if he were charged as a result of his use of a forged passport, he would be brought before a judge within 24 hours and would able to apply for bail, that is unlikely to be the outcome given his known alleged link to a terrorist organization.
+[172]
+The Minister's Delegate then quotes the UKBA 2012 Report at section 12.11 which refers to the Code of Criminal Procedure (Amendment) Bill, 2011 and grants statutory bail to prisoners undergoing trial and to convicts whose trials and appeals are pending over a prescribed time limit:
+Under the law prisoners undergoing trial are entitled to statutory bail if charged with any offense not punishable by death and if they have been detained by for one year. In the case of an offense punishable by death, the accused is eligible for statutory bail if the trial has not been concluded in two years.
+[173]
+The same report also states that:
+- judges sometimes denied bail at the request of the police or the community or upon payment of bribes;
+- in some cases trials did not start until six months after a First Information Report [FIR], the legal basis for arrests in Pakistan (although the law stipulates that detainees must be brought to trial within 30 days of arrest);
+- in some cases individuals remained in pretrial detention for periods longer than the maximum sentence for the crime with which they were;
+- it has been estimated that approximately 55% of the prison population is awaiting trial;
+- a source indicates that as many as 65 % (35,215) of the prison inmates in Punjab were yet to be convicted and were detained awaiting trial;
+- human rights problems included instances of arbitrary detention and lengthy pre-trial detention;
+- it was reported in March 2011 that at the end of 2010 the prison system was operating at 194% capacity, with more than two-thirds of all detainees in "pre-trial" detention detained for months or years before facing trial;
+- it was reported that in practice detainees have almost no access to effective judicial remedies. They are rarely, if ever, granted access to their families or a lawyer and frequently remain unaware of the charges, if any, against them, or the grounds for their detention.
+[174]
+The USSD 2011 report states:
+- In pre-trial detention police routinely did not seek a magistrate's approval for investigative detention and often held detainees without charge until a court challenged the detention.
+[175]
+Thus, while the
+Code of Criminal Procedure (Amendment) Bill
+, 2011 does indicate that bail may be available, it would appear that this is true only after charges have been laid and the person has remained in detention for one year and if the charge is not punishable by death. Further, the documentary evidence indicates that bail is not a certainty and that pretrial detention may be lengthy.
+[176]
+The Minister's Delegate states that a review of the country condition documentation concerning the conditions of detention in Pakistan reveal, "... difficult conditions" with over-populated prisons, few doctors for medical examination of detainees and reported acts of mistreatment including beating, prolonged isolation or denial of food and sleep. However, despite being exposed to those difficult conditions, "to affirm that Mr. Muhammad will likely be tortured or exposed to cruel and unusual treatment is quite speculative as there is insufficient evidence to support that Mr. Muhammad would personally be at any more risks of those treatments." She also states that the documentation showed that these situations have occurred in specific cases and are mostly identified to occur in the province of Balochistan, KP and FATA.
+[177]
+The documentary evidence is clear that torture is widespread, sanctioned by the authorities and that prison conditions are, at best, "difficult".
+[178]
+The UKBA 2012 report refers to the USSD 2011 report which states the following:
+- The most serious human rights problems were extrajudicial killings, torture, and disappearances committed by security forces, as well as militant, terrorist and extremist groups, which affected thousands of citizens in nearly all areas on the country...;
+- Other human rights problems included poor prison conditions, instances of arbitrary detention, lengthy pre-trial detention ...;
+- Lack of government accountability remained a pervasive problem. Abuses often went unpunished, fostering a culture of impunity;
+- The NGO SHARP [non-governmental organization - Society for Human Rights and Prisoner's Aid] reported that, as of December 15 [2011], police tortured persons in more than 8000 cases, compared with findings of 4,069 cases in 2010. Human rights organizations reported that methods of torture included beating with batons and whips, burning with cigarettes, whipping soles of feet, prolonged isolation, electric shock, denial of food or sleep, hanging upside down, and forced spreading of the legs with bar fetters. Torture occasionally resulted in death or serious injury. Observers noted the underreporting of torture throughout the country ....The government rarely took action against those responsible;
+- Some deaths of individuals accused of crimes allegedly resulted from extreme physical abuse while in custody. As of December [2011] the nongovernmental organization (NGO) Society for Human Rights and Prisoners' Aid (SHARP) reported 61 civilian deaths after encounters with police and 89 deaths in jails, a decrease from the previous year;
+- Prison conditions were often extremely poor and failed to meet international standards. Police sometimes tortured and mistreated those in custody and at times committed extrajudicial killings. Overcrowding was common ... Human rights groups that surveyed prison conditions found sexual abuse, torture, and prolonged detention prevalent ... inadequate food and medical care in prisons led to chronic health problems and malnutrition for those unable to supplement their diets with help from family or friends;
+[179]
+The UKBA 2012 report also references the AHRC 2011, stating that:
+- ...there has been no serious effort by the government to make torture a crime in the country. Rather the state provides impunity to the perpetrators who are mostly either policemen or members of the armed forces ...;
+- ... torture in custody is a serious problem affecting the rule of law in Pakistan. It is used as the most common means by which to obtain confessional statements and also for extracting bribes. Torture in custody has become endemic and on many occasions the police and members of the armed forced have demonstrated torture in open place to create fear in the general public;
+- Due to the absence of a functioning criminal justice framework and weak prosecution, torture in custody and extrajudicial executions have increased rapidly in comparison with previous years. Every police station has its own private torture center beside their lock ups. Every cantonment area of the armed forces runs at least one torture centre and the Inter-Services Intelligence (ISI) offices have their "safe houses";
+- "torture cells", or detention centers run by the military where people who were arrested and disappeared are kept incommunicado and tortured for several months to extract confessions;
+[180]
+The UKBA 2012 report also referenced an Amnesty International report, stating that:
+- Amnesty International noted in its report published 30 August 2011 that "Since Pakistan became a key ally in the US-led "war on terror" in late 2001, hundreds of people accused of links to terrorist activity have been arbitrarily detained and held in secret facilities ..."
+[181]
+The AHRC 2012 report states that:
+- Torture remains endemic, widespread and is typically accompanied by impunity in Pakistan. Extreme forms of torture continue to be documented in the country, including, inter alia: beatings with fists, sticks and guns on different parts of the body, including the soles of the feet, face, and sexual organs; death threats and mock executions; strangulation and asphyxiation; prolonged shackling in painful positions; use of chili-water in the eyes, throat and nose; exposure to extreme hot and cold temperatures; mutilation, including of sexual organs; and sexual violence, including rape. Torture is used by the military and intelligence agencies in the contexts of counter-terrorism and armed conflict, but is also wide spread in routine investigations by the police;
+- Mr. Abdul Qudoos Ahmad, a well respected school teacher, was tortured to death while in police custody in Chenab Nagar, Punjab, during which he was forced to confess to a murder;
+[182]
+The USSD 2011 report added that:
+- On September 9, the newspaper the
+Nation
+reported that a prisoner died after police torture in Chiniot, Punjab.
+[183]
+As demonstrated by the above, a review of the documentation does not support the finding of the Minister's Delegate that instances of torture in prisons were isolated and were mostly identified as occurring in the areas of "Balochistan, KP and FATA". While specific case studies were referenced, and while many instances of torture were reported in the provinces identified by the Minister's Delegate, the majority of the documentary evidence shows that torture while in detention is widespread.
+[184]
+While acknowledging that the Applicant will not return to Pakistan unnoticed, the Minister's Delegate finds that it is highly unlikely that he would be at a greater risk because of an alleged link to a terrorist organization. The reasoning for this conclusion being that because the terrorist organization's name was not made public, the Pakistani authorities will not be able to link him to a specific organization. Based on that assessment, she also found that there was insufficient evidence to suggest that once he was legally admitted to Pakistan he would be at risk on this basis. Further, that a review of the country documentation showed that in most cases the arrested persons were linked to a specific terrorist act, but that as the Applicant has been in Canada since 1996, he could not be linked to a specific organization or act.
+[185]
+The Minister's Delegate therefore concluded, on a balance of probabilities, that it was more likely than not that the Applicant would be released quickly from any detention based on suspected links to a terrorist organization.
+[186]
+In my view, this finding is also unreasonable for the reasons set out above and because the documentary evidence also indicates that alleged affiliation with terrorist organizations has resulted in detention. For example, the UKBA 2012 report which states that:
+... Human rights and international organizations reported that an unknown number of individuals allegedly affiliated with terrorist organizations were held indefinitely in preventive detention, tortured, and abused. In many cases these prisoners were held incommunicado and were not allowed prompt access to a lawyer of their choice; family members often were not allowed prompt access to detainees.
+[187]
+The UKBA, Operational Guidance Note dated January 2013 states:
+As well as terrorist related atrocities there have been allegations that security forces routinely violate basic human rights in the course of counterterrorism operations. Suspects are frequently detained without charge or are convicted without a fair trial;
+[188]
+It also cannot reasonably be inferred that just because the name of the terrorist organization was not publicly released, together with the Applicant's name and photograph, that the Pakistani authorities would not be able to link him to a specific organization. No doubt they would conduct their own inquiries in this regard. More significantly, it is not the linking of the Applicant to a specific terrorist organization that puts him at risk. The CBSA has publicly stated that the Applicant
+is
+linked to a terrorist organization. The failure to link him to a specific organization or specific terrorist act would not preclude his detention upon return nor does it mitigate a risk of torture while in detention.
+[189]
+Based on the majority of the documentary evidence, the Minister's Delegate's finding that the risk faced by the Applicant is general and not personal is also unreasonable. In these circumstances, where the Applicant has been publicly linked to a terrorist organization, his name and photograph have been publicized on the CBSA wanted list, and the Minister's Delegate has acknowledged that he will not return unnoticed to Pakistan, in my view the risk is clearly personalized. Recently, in
+ <FRAGMENT_SUPPRESSED>  Justice Russell addressed the issue of when, pursuant to section 97(1)(b)(ii) of the IRPA, a risk is faced personally by an applicant and is "not faced generally by other individuals" in or from the applicant's country of former habitual residence. Justice Russell stated:
+[74] Because the "personal risk" stage of the test is so often not distinguished from the "non-generalized risk" stage of the test, it is worth specifically identifying what each step requires. Justice Zinn observed in
+Guerrero
+, above, that:
+[26] Parsing this provision, it is evident that if a claimant is to be found to be a person in need of protection, then it must be found that:
+a. The claimant is in Canada;
+b. The claimant would be personally subjected to a risk to their life or to cruel and unusual treatment or punishment if returned to their country of nationality;
+c. The claimant would face that personal risk in every part of their country; and
+d. The personal risk the claimant faces "is not faced generally by other individuals in or from that country."
+[75] All four of these elements must be found if the person is to meet the statutory definition of a person in need of protection; it is only such persons who are permitted to remain in Canada.
+[190]
+In my view, based on the record before her, the Minister's Delegate unreasonably found that the Applicant's risk is general and is not personal.
+[191]
+In sum, the Decision is unreasonable because the record does not support the Minister's Delegate's finding that the Applicant will only be administratively detained and questioned on arrival and then quickly released and requested to appear at a later date for further questioning. Further, because the Minister's Delegate found that, while the Applicant will be detained and will face difficult detention conditions, she also found that it was speculative that he would be at a risk of torture because such risks were mostly identified to occur in other areas of Pakistan. That finding is not supported by the record, which indicates that torture is prevalent and widespread in Pakistan. Beyond that, the Minister's Delegate's conclusion that the Applicant would not be at risk of such treatment is inconsistent with her finding that he will likely be detained and that detention conditions are difficult, including mistreatment. I would also note that the fact that a detention may, or may not, be brief does not remove the risk of torture, it merely impacts how long one may be subjected to it. Finally, the Minister's Delegate's finding that the risk to the Applicant is not personal is not supported by the record.
+[192]
+In my view this Minister's Delegate repeats some of the same errors noted by Justice Boivin in the first restricted PPRA decision in <FRAGMENT_SUPPRESSED> , above:
+[61] The Minister's Delegate recognized a risk of questioning and possible detention upon arrival in Pakistan. She was in possession of the initial PRRA, which had concluded to the presence of risk and extremely difficult conditions for detained persons. Given the use of insufficient documentation to justify her conclusions which were contrary to the initial PRRA assessment, and contrary to the bulk of country conditions evidence, the Court finds that the Minister's Delegate's treatment of the evidence was unreasonable. Furthermore, the Minister's Delegate's statement that ill treatment was "not ruled out" raises a doubt with regards to the reasonableness of her assessment. While she is not required to show that ill treatment is "ruled out" in order to dismiss a PRRA, the test being whether it is more likely than not that the applicant would experience ill treatment (
+ <FRAGMENT_SUPPRESSED> ), the Minister's Delegate fails to adequately justify, on the basis of the evidence, why she concludes that the applicant will likely not be at risk. The Court's intervention is therefore warranted.
+[193]
+While it is true that an administrative decision-maker need not refer to every piece of evidence relied upon in the decision making process, in this situation, being aware of the PRRA assessment and knowing that the prior first restricted PRRA decision of another Minister's delegate had been found to be unreasonable for the reasons set out above, it was particularly incumbent upon the Minister's Delegate to clearly identify the documentation upon which she was relying to justify her finding. She did not do so. Rather, she made many general references to the evidence before her and made unsupportable inferences in her reasoning.
+VI. CONCLUSION
+[194]
+As this is the second failed effort by a Minister's delegate to refuse the restricted PRRA, it leads to the question of whether there is, in fact, sufficient evidence to support a finding that the Applicant is not at risk. However, that is not the question before this Court.
+[195]
+Therefore, this matter will be remitted to a third Minister's Delegate for a redetermination which shall also take into consideration the prior findings of this Court in the decision of Justice Boivin and in this decision.
+JUDGMENT
+[196]
+THIS COURT'S JUDGMENT is that
+the application for judicial review is granted. The Minister's Delegate's decision dated May 17, 2013, is set aside and the matter is remitted back to a different Minister's delegate for redetermination. No question of general importance for certification has been proposed and none arises.
+Order accordingly.
+Editor: Elizabeth M.A. Turgeon/vnh

@@ -1,0 +1,309 @@
+E ngineers Can. v. REM Chemicals Inc., [DATE_SUPPRESSED] F.T.R. Uned. 266 (FC)
+MLB unedited judgment
+[French language version follows English language version]
+[La version française vient à la suite de la version anglaise]
+Engineers Canada/Ingénieurs Canada (applicant) v. REM Chemicals, Inc. (respondent)
+(T-1816-13; DATE_SUPPRESSED FC 644; DATE_SUPPRESSED CF 644)
+Indexed As: Engineers Canada v. REM Chemicals Inc.
+Cite As: [DATE_SUPPRESSED] F.T.R. Uned. 266
+Federal Court
+Russell, J.
+July 3, DATE_SUPPRESSED.
+Counsel:
+John S. Macera, for the applicant;
+None disclosed for the respondent.
+Solicitors of Record:
+Macera & Jarzyna LLP, Ottawa, Ontario, for the applicant;
+None disclosed for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+INTRODUCTION
+[1]
+Russell, J.
+: This is an appeal under s. 56(1) of the
+Trade-marks Act
+, RSC, 1985, c T-13 [Act], of a decision of the Trade-marks Opposition Board [TMOB or the Board] dated September 3, 2013 and reported as 2013 TMOB 145, which rejected the Applicant's opposition to a trade-mark application filed by the Respondent pursuant to s. 38(8) of the Act [Decision]. Under Rule 300(d) of the
+Federal Courts Rules
+, SOR/98-106, such appeals are brought by notice of application and are governed by the Rules applicable to applications in this Court.
+BACKGROUND
+[2]
+The Respondent is a company based in the United States. The Applicant is the national federation of the provincial and territorial associations of professional engineers, which regulate the engineering profession and licence professional engineers in Canada.
+[3]
+On September 1, 2009 and September 2, 2009, the Respondent filed applications for two trade-marks, described as REM SURFACE ENGINEERING (application 1450250) [Word-mark] and REM SURFACE ENGINEERING & Design (application 1450269) [Mark].
+[4]
+The proposed Word-mark was as follows:
+[Diagram omitted]
+[5]
+The proposed Mark was as follows:
+[Diagram omitted]
+[6]
+The Respondent applied to register the Mark in association with the following wares and services:
+WARES:
+(1) Chemical substances for industrial use in metal finishing and metal treatment, namely, etchants, bright dips, descalers, chemical rust inhibitor compositions, conversion coating compositions, burnishing compounds, chemicals for treatment of waste streams; industrial abrasives for use in metal finishing and treatment; chemical cleaners directed to the metal finishing industries; rust removing preparations; polishing preparations.
+(2) Machines utilizing rotational motion for high energy surface finishing and material treatment; polishing machines for use in grinding and polishing metal, ceramics and plastics; vibratory grinding machines.
+SERVICES:
+(1) Materials treatment services, namely, superfinishing the surfaces of materials, namely, metal objects, for others; consulting services in the field of metal surface refinement and treatment.
+[7]
+The Applicant opposed both applications before the Board.
+[8]
+The Board refused the Word-mark application, finding that the Word-mark was deceptively misdescriptive of the Respondent's wares and services contrary to s. 12(1)(b) of the Act, and was non-distinctive (see
+REFERENCE_SUPPRESSED).
+[9]
+However, the Board rejected the Applicant's opposition to the Mark in the Decision under appeal here, finding that the Mark as a whole was not deceptively misdescriptive of the Respondent's wares and services and was distinctive.
+[10]
+The Respondent did not file a notice of appearance and has not taken part in these proceedings.
+DECISION UNDER REVIEW
+[11]
+The Board observed that the applicant for registration (the Respondent in this appeal) bore the onus of establishing, on a balance of probabilities, that its application for the Mark complied with the requirements of the Act. It found that the opponent (the Applicant in this appeal) bore an initial evidential burden to adduce sufficient admissible evidence from which it could reasonably be concluded that the facts alleged to support each ground of opposition existed.
+[12]
+The Board observed that the Applicant had pleaded a two-pronged ground of opposition based on s. 12(1)(b) of the Act: if members of the engineering profession in Canada were involved in the production of the Respondent's wares and the provision of its services, then the Mark was clearly descriptive of the character or quality of the wares and services and the persons employed in their production; if members of the engineering profession in Canada were not involved in such a manner, then the Mark was deceptively misdescriptive of the character or quality of the wares and services and the persons employed in their production.
+[13]
+The Board found that the test to be applied when assessing whether a trade-mark violates s. 12(1)(b) of the Act is set out in
+REFERENCE_SUPPRESSED:
+[29] It is trite law that the proper test for a determination of whether a trade-mark is clearly descriptive is one of first impression in the mind of a normal or reasonable person. If such a person is unclear or uncertain as to the significance of the trade-mark in relation to the wares or services or if the trade-mark is suggestive of a meaning other than one describing the wares or services, then the word is not clearly descriptive. One should not arrive at a determination of the issue by critically analyzing the words of the trade-mark, but rather by attempting to ascertain the immediate impression created by the trade-mark in association with the wares or services with which it is used or proposed to be used. In other words, the trade-mark must not be considered in isolation, but rather in its full context in conjunction with the wares and services ...
+[14]
+Referring to
+REFERENCE_SUPPRESSED, the Board found that since there was no evidence that Canadian registered engineers were employed in the production of the wares and the provision of the services in question, it was not necessary to consider whether the Mark was clearly descriptive of the character or quality of the wares and services and the persons employed in their production.
+[15]
+The Board found that the test for whether a Mark is deceptively misdescriptive of the character or quality of the wares and services and the persons employed in their production was whether deceptively misdescriptive words "so dominate the applied for trade mark as a whole such that... the trade mark would thereby be precluded from registration ...":
+REFERENCE_SUPPRESSED.
+[16]
+The Board considered the parties' submissions regarding whether the average purchaser or everyday user of the wares and services would be misled by the words "surface engineering" to believe that professional engineers were involved in providing those wares and services. It found that surface engineering is an existing sub-discipline of engineering, that the Respondent's wares and services were of a nature that they could be seen to be related to that sub-discipline, and that the record showed that the Respondent was not authorized to engage in the practice of engineering in Canada. The Board therefore found that the words "surface engineering" were deceptively misdescriptive of the Respondent's wares and services.
+[17]
+However, the Board went on to find that those words did not "so dominate" the Mark as to make it unregistrable. The Board considered the presence of the additional word "REM" and the design elements of the Mark, and concluded that "the design elements are such that they place the visual emphasis on the word REM such that the deceptively misdescriptive words SURFACE ENGINEERING cannot so dominate the Mark as to render it contrary to section 12(1)(b) of the Act."
+[18]
+With respect to the Applicant's argument that the Mark was non-distinctive, the Board agreed with the Applicant that a purely descriptive or deceptively misdescriptive trade-mark could not be distinctive. However, having found that the Mark was not deceptively misdescriptive, the Board dismissed this ground of opposition largely on the same reasoning, finding that:
+[52] [...] Ultimately, my findings under the section 12(1)(b) ground of opposition apply equally at the later material date for the non-distinctiveness ground of opposition and I find that the Mark is not deceptively misdescriptive at the later date either. Furthermore, I find that the Opponent has not established any other basis for finding that the Mark was not distinctive or so adapted to distinguish the Applicant's wares and services from those of others at the material date.
+[19]
+The Board also dismissed other grounds of opposition argued by the Applicant based on non-compliance with s. 10 or s. 30(d), (e) or (i) of the Act, but those findings have not been appealed and need not be described here.
+ISSUES
+[20]
+The Applicant raises the following issues in this proceeding:
+A. Did the Board err in holding that the Mark was not deceptively misdescriptive, and in particular by considering only the visual aspects of the Mark and failing to consider how it "sounded"?
+B. Did the Board err in holding that the Mark was distinctive?
+STANDARD OF REVIEW
+[21]
+The Supreme Court of Canada in
+REFERENCE_SUPPRESSED held that a standard of review analysis need not be conducted in every instance. Instead, where the standard of review applicable to a particular question before the court is settled in a satisfactory manner by past jurisprudence, the reviewing court may adopt that standard of review. Only where this search proves fruitless, or where the relevant precedents appear to be inconsistent with new developments in the common law principles of judicial review, must the reviewing court undertake a consideration of the four factors comprising the standard of review analysis:
+REFERENCE_SUPPRESSED.
+[22]
+The Applicant acknowledges that the "generally accepted standard of review" on a section 56 appeal is reasonableness where, as here, no new evidence is put forward (see
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED, the standard of review on the first issue ought to be correctness. The Applicant says that even if this issue has both factual and legal components, the failure to consider a required element of a legal test, as the Applicant alleges was done here, can be characterized as an error of law and reviewed on a standard of correctness (see
+REFERENCE_SUPPRESSED, discussing standards of review on appeal). In essence, the Applicant is arguing that there is an extricable question of law at issue here that should be reviewed on a correctness standard (see
+CITATION_SUPPRESSED).
+[23]
+In the alternative, the Applicant argues that failing to consider a mandatory component of a legal test set out in a statute makes a decision unreasonable:
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+CITATION_SUPPRESSED;
+REFERENCE_SUPPRESSED.
+[24]
+CITATION_SUPPRESSED
+, above, dealt with a decision of the Copyright Board. The Supreme Court noted that in administering royalties under the
+Copyright Act
+, the Copyright Board was interpreting and applying its home statute, such that deference would normally apply under the post-
+CITATION_SUPPRESSED
+approach to standards of review. However, as a result of the structure of the
+Copyright Act
+, the courts are also engaged in first-instance interpretations of some of the same provisions of that Act where the issue is not the setting or administration of royalties but the infringement of Copyright.
+[25]
+The Supreme Court found that incongruities could arise if a standard of reasonableness were applied to legal questions on judicial review of Copyright Board decisions. Not only would the court considering the judicial review application be required to show deference to legal interpretations by the Copyright Board that might differ from its own jurisprudence in the infringement context, but appellate courts would be placed in a seemingly awkward position as well. To put the matter concretely, for infringement matters, the Federal Court of Appeal would review the legal interpretations of this Court on a correctness standard, showing no deference to this Court's interpretation of the
+Copyright Act
+. However, if a judgment of this Court reviewing a Copyright Board decision were appealed, the Federal Court of Appeal would be required to show deference to the Board's legal interpretation of the
+Copyright Act
+. The Supreme Court found that this incongruous result negated the presumption of reasonableness review of the Copyright Board's interpretations of its home statute:
+[14] It would be inconsistent for the court to review a legal question on judicial review of a decision of the Board on a deferential standard and decide exactly the same legal question de novo if it arose in an infringement action in the court at first instance. It would be equally inconsistent if on appeal from a judicial review, the appeal court were to approach a legal question decided by the Board on a deferential standard, but adopt a correctness standard on an appeal from a decision of a court at first instance on the same legal question.
+[15] Because of the unusual statutory scheme under which the Board and the court may each have to consider the same legal question at first instance, it must be inferred that the legislative intent was not to recognize superior expertise of the Board relative to the court with respect to such legal questions. This concurrent jurisdiction of the Board and the court at first instance in interpreting the
+Copyright Act
+rebuts the presumption of reasonableness review of the Board's decisions on questions of law under its home statute. This is consistent with Dunsmuir, which directed that ""[a] discrete and special administrative regime in which the decision maker has special expertise" was a "facto[r that] will lead to the conclusion that the decision maker should be given deference and a reasonableness test applied" (para. 55). Because of the jurisdiction at first instance that it shares with the courts, the Board cannot be said to operate in such a "discrete ... administrative regime". Therefore, I cannot agree with Abella J. that the fact that courts routinely carry out the same interpretive tasks as the board at first instance "does not detract from the Board's particular familiarity and expertise with the provisions of the Copyright Act" (para. 11). In these circumstances, courts must be assumed to have the same familiarity and expertise with the statute as the board. Accordingly, I am of the opinion that in REFERENCE_SUPPRESSED, Binnie J. determined in a satisfactory manner that the standard of correctness should be the appropriate standard of review on questions of law arising on judicial review from the Copyright Board (CITATION_SUPPRESSED).
+[26]
+The Applicant says that a similar situation of "concurrent" or "shared primary jurisdiction" to interpret statutory provisions exists under the
+Trade-marks Act
+, and that therefore a standard of correctness should apply when reviewing the TMOB's legal interpretations of that Act. In
+CITATION_SUPPRESSED
+, after observing that "[c]oncurrent jurisdiction at first instance seems to appear only under intellectual property statutes where Parliament has preserved dual jurisdiction between the tribunals and the courts," Justice Rothstein declined to decide what standards of review should be applied in cases involving other intellectual property statutes, leaving this question for "a case in which it arises" (
+CITATION_SUPPRESSED).
+[27]
+In my reasons I explain why I believe a standard of correctness should apply in this case, but this is not strictly necessary for my decision. This is because I agree with the Applicant that if the Board omitted a mandatory component of the legal test under s. 12(1)(b) of the Act, that error would make the Decision unreasonable unless it was immaterial in the sense that the outcome could not have been any different if the omitted component of the test had been considered.
+[28]
+As for the second issue outlined above, the question of whether a Trade-mark is distinctive is a heavily factual question that must be reviewed on a standard of reasonableness.
+[29]
+When reviewing a decision on the standard of reasonableness, the analysis will be concerned with "the existence of justification, transparency and intelligibility within the decision-making process [and also with] whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law." See
+CITATION_SUPPRESSED, and
+REFERENCE_SUPPRESSED. Put another way, the Court should intervene only if the Decision was unreasonable in the sense that it falls outside the "range of possible, acceptable outcomes which are defensible in respect of the facts and law."
+STATUTORY PROVISIONS
+[30]
+The following provisions of the Act are applicable in these proceedings:
+Definitions
+2. In this Act,
+[...]
+"distinctive"
+"distinctive", in relation to a trade-mark, means a trade-mark that actually distinguishes the wares or services in association with which it is used by its owner from the wares or services of others or is adapted so to distinguish them;
+[...]
+When trade-mark registrable
+12. (1) Subject to section 13, a trade-mark is registrable if it is not
+[...]
+(b) whether depicted, written or sounded, either clearly descriptive or deceptively misdescriptive in the English or French language of the character or quality of the wares or services in association with which it is used or proposed to be used or of the conditions of or the persons employed in their production or of their place of origin;
+[...]
+Statement of opposition
+[...]
+38. (1) Within two months after the advertisement of an application for the registration of a trade-mark, any person may, on payment of the prescribed fee, file a statement of opposition with the Registrar.
+Grounds
+(2) A statement of opposition may be based on any of the following grounds:
+(a) that the application does not conform to the requirements of section 30;
+(b) that the trade-mark is not registrable;
+(c) that the applicant is not the person entitled to registration of the trade-mark; or
+(d) that the trade-mark is not distinctive.
+[...]
+Decision
+(8) After considering the evidence and representations of the opponent and the applicant, the Registrar shall refuse the application or reject the opposition and notify the parties of the decision and the reasons for the decision.
+Définitions
+2. Les définitions qui suivent s'appliquent à la présente loi.
+[...]
+« distinctive »
+« distinctive » Relativement à une marque de commerce, celle qui distingue véritablement les marchandises ou services en liaison avec lesquels elle est employée par son propriétaire, des marchandises ou services d'autres propriétaires, ou qui est adaptée à les distinguer ainsi.
+[...]
+Marque de commerce enregistrable
+12. (1) Sous réserve de l'article 13, une marque de commerce est enregistrable sauf dans l'un ou l'autre des cas suivants:
+[...]
+b) qu'elle soit sous forme graphique, écrite ou sonore, elle donne une description claire ou donne une description fausse et trompeuse, en langue française ou anglaise, de la nature ou de la qualité des marchandises ou services en liaison avec lesquels elle est employée, ou à l'égard desquels on projette de l'employer, ou des conditions de leur production, ou des personnes qui les produisent, ou du lieu d'origine de ces marchandises ou services;
+[...]
+Déclaration d'opposition
+[...]
+38. (1) Toute personne peut, dans le délai de deux mois à compter de l'annonce de la demande, et sur paiement du droit prescrit, produire au bureau du registraire une déclaration d'opposition.
+Motifs
+(2) Cette opposition peut être fondée sur l'un des motifs suivants:
+a) la demande ne satisfait pas aux exigences de l'article 30;
+b) la marque de commerce n'est pas enregistrable;
+c) le requérant n'est pas la personne ayant droit à l'enregistrement;
+d) la marque de commerce n'est pas distinctive.
+[...]
+Décision
+(8) Après avoir examiné la preuve et les observations des parties, le registraire repousse la demande ou rejette l'opposition et notifie aux parties sa décision ainsi que ses motifs.
+ARGUMENT
+Applicant
+[31]
+The Applicant argues that the Board's analysis of whether the Mark is deceptively misdescriptive ignored the specifically enumerated criteria found in s. 12(1)(b) of the Act, which are not solely visual. Rather, the provision states that a trade-mark is unregistrable if it is:
+whether
+depicted, written or sounded
+, either clearly descriptive or deceptively misdescriptive in the English or French language of the character or quality of the wares or services in association with which it is used or proposed to be used or of the conditions of or the persons employed in their production or of their place of origin
+[Applicant's emphasis]
+[32]
+The Applicant says the Board did not apply all parts of this test, and particularly, whether the Mark is deceptively misdescriptive of the character or quality of the wares or services when sounded.
+[33]
+The Applicant points to
+REFERENCE_SUPPRESSED, where the Court upheld a decision of the TMOB that a trade-mark depicted as follows:
+[Diagram omitted]
+was clearly descriptive "when sounded." The Court in that case, as had the TMOB, pointed to the Board's analysis in
+REFERENCE_SUPPRESSED where its then Chairperson observed:
+In my view, Paragraph 12(1)(b) of the Trade-marks Act may not have been intended to preclude the registration of a design trade-mark comprising design elements which could otherwise be registrable as a trade-mark apart from the descriptive wording. Certainly, it does not seem reasonable that a design trade-mark should suddenly become unregistrable by virtue of the addition of a descriptive word (or descriptive words), particularly where Section 35 of the Trade-marks Act contemplates the disclaimer of such portions of a trade-mark. On the other hand, the wording of Paragraph 12(1)(b) of the Act is clear in precluding the registration of a trade-mark which, when sounded, is inter alia clearly descriptive in the English language of the character or quality of the services in association with which it is used. In this regard, the Registrar must apply the Trade-marks Act as it currently exists and not as it ought to be drafted.
+[34]
+The Applicant says the Court in
+CITATION_SUPPRESSED accepted the Board's findings that "the applied for mark would be sounded by reference to the dominant words forming the mark," that "the average person [would] sound the applicant's mark as 'BEST CANADIAN MOTOR INNS'," and that the trade-mark in question was therefore "clearly descriptive, or deceptively misdescriptive, when sounded, of the applicant's services in Canada ...."
+[35]
+The Applicant says that that same reasoning applies here. The Mark under consideration is subject to the same "when sounded" test applied in
+CITATION_SUPPRESSED
+, and it was incumbent on the Board to apply that test, which it did not do. The Applicant argues that the Board's failure to consider this mandatory part of the test for whether a trade-mark is deceptively misdescriptive makes the Board's Decision both incorrect and unreasonable.
+[36]
+With respect to whether the Mark is in fact deceptively misdescriptive of the Respondents wares or services, the Applicant notes that this is to be considered from the perspective of the average purchaser of those wares or services, and that the Mark is not to be dissected into its component elements but must be considered in its entirety as a matter of immediate impression:
+REFERENCE_SUPPRESSED.
+[37]
+The Applicant submits that it does not matter that the word "REM" is larger than the words "Surface Engineering." All three words are part of the word portion of the Mark and are to be sounded out when applying the "when sounded" test:
+REFERENCE_SUPPRESSED. The Applicant argues that, when sounded, "REM Surface Engineering" is just as deceptively misdescriptive as the Word-mark REM SURFACE ENGINEERING, the registration of which the Board rejected based on a finding that it was deceptively misdescriptive contrary to s. 12(1)(b).
+[38]
+The Applicant also argues that the Word-mark, if registrable, would have entitled the Respondent to exclusive use of that Mark in various formats, including with design features added. The Applicant says it would be inconsistent if a word-mark permitting such variations in use were unregistrable, yet a design mark representing one such variation were registrable:
+REFERENCE_SUPPRESSED.
+[39]
+The Applicant says the Board also failed to consider the "meaning" of the Mark when sounded, considered from the perspective of the average consumer of the Respondent's wares or services. The words "Surface Engineering" are the only discernable written words in the Mark, and this makes them dominant within the Mark as a whole when applying the "when sounded" test. Upon reading these words, the average consumer of the services, who would be a person familiar with surface engineering, would be misled into the belief that the wares and services of the Respondent are produced by engineers licensed to practice engineering in Canada, when in fact they are not.
+[40]
+This is even more likely, the Applicant argues, since the word REM is an acronym standing for "Research, Engineering, Manufacturing," and a typical consumer of the Respondent's services would be aware of this.
+[41]
+Therefore, the Applicant argues, the entire Mark is unregistrable.
+[42]
+The Applicant says the use of the term "engineering" gives the impression of a higher standard or greater quality, safety and credibility than if the Mark were "REM Surface Coatings," "REM Surface Finishing" or "REM Surfacing Professionals." "Engineering" is a regulated word in Canada, and this has implications to the public that it is being used with proper authorization:
+CITATION_SUPPRESSED.
+[43]
+Moreover, the Applicant argues, the design elements here - two lines and a circle - are neither original nor memorable, and give no meaning to the Mark. They are not suggestive of anything, and contribute little if anything to the meaning to be ascribed to the Mark. A consumer with an imperfect memory will be more inclined to remember the recognizable word portion and associate it with the wares and services being offered:
+REFERENCE_SUPPRESSED, where the Court upheld a finding of the Registrar that the words, and not the design elements of the proposed trade-mark were dominant, and the design elements did not prevent the mark as a whole from being clearly descriptive when sounded out. Clearly descriptive or deceptively misdescriptive words cannot be rendered registrable by the addition of design features
+: CITATION_SUPPRESSED
+;REFERENCE_SUPPRESSED.
+[45]
+Ultimately, the Applicant says, it must be considered that engineering is a regulated profession, and that the purpose of such regulation is the protection of the public. It is prohibited for persons to use the terms "engineer" or "engineering" to imply that they are qualified to practice engineering in Canada unless they have a permit to practice, a Certificate of Authorization, or a Certificate of Compliance from one of the provincial or territorial associations. The Respondent, by its own admission, is not licensed to practice engineering in Canada.
+[46]
+The Applicant notes that this Court has previously held that the fact that the term "engineering" is closely regulated has implications in the trade-mark context. Most people would assume that businesses using that word in a trade-mark offer engineering services or employ professional engineers, unless the context clearly indicates otherwise. The word "engineering" as used in the Mark under consideration is, the Applicant argues, deceptive and misleading in the context:
+CITATION_SUPPRESSED. The Applicant quotes
+REFERENCE_SUPPRESSED, where Justice O'Keefe stated as follows:
+[157] I find that the acceptance of the trade-mark application runs the risk of opening up the door to abuse, thereby placing the public interest at risk, the protection of which lies at the core of the regulation of the engineering profession in Canada. This accentuates the importance that a trade-mark used in a field related to engineering not be deceptively misdescriptive or of such a nature as to deceive the public in a manner that ultimately offends the public order. The trade-mark is therefore not saved by subsection 14(1) of the Act.
+[47]
+With respect to the finding of distinctiveness, the Applicant argues that this finding is in error and the Mark is not distinctive based on two grounds: it is deceptively misdescriptive and therefore not distinctive; and it is incapable of distinguishing the Respondent's wares and services from those of others, including other professional engineers and entities licensed to practice surface engineering in Canada.
+[48]
+The Applicant argues that the Board's finding that the Mark is distinctive was inextricably linked to its finding that it is not deceptively misdescriptive, and since the latter finding was based on an error in law that makes it both incorrect and unreasonable, so too was the finding of disctinctiveness. Where a trade-mark consists of primarily unregistrable components such as deceptively misdescriptive words, the Applicant argues, it cannot distinguish or be adapted to distinguish an Applicant's wares and services from those of others:
+REFERENCE_SUPPRESSED].
+[49]
+Moreover, the Applicant says that while it may be true that a clearly descriptive or deceptively misdescriptive trade-mark cannot be distinctive, the converse is not always true; the fact that a trade-mark is found not to be clearly descriptive or deceptively misdescriptive does not necessarily mean that it is distinctive:
+APA
+, above, at p. 253.
+[50]
+The Applicant says that whether a particular trade-mark is distinctive is a question of fact determined by reference to the message that the mark conveys to the consuming public. If a trade-mark cannot function so as to indicate a single source, it is not registrable and is, in fact, no trade-mark at all:
+REFERENCE_SUPPRESSED. The Applicant says that an application for registration can be refused solely on the basis of non-distinctiveness provided that the ground of non-distinctiveness is raised in the opposition, which was done in the present case.
+[51]
+In opposition proceedings and on appeal, the Applicant notes, the legal onus on the issue of distinctiveness is on the trade-mark applicant to show that its mark is adapted to distinguish or actually distinguishes its services from the services of others throughout Canada. There is an initial evidentiary burden on the opponent to advance facts supporting its allegation of non-distinctiveness:
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED.
+[52]
+The Applicant argues that it has provided enough evidence to meet its "light evidentiary burden" of advancing facts to show that the Mark is not distinctive of REM Chemicals Inc., and that the Respondent has not met its burden of showing that the Mark is distinctive.
+[53]
+The overall consideration for distinctiveness, the Applicant argues, is whether the impugned mark actually distinguishes the services of its owner from those provided by other suppliers of such services, taking into account marketplace conditions. Thus, the widespread use of the term "engineering" by licensed engineers, used with acronyms or surnames, is evidence of a lack of distinctiveness of the Mark:
+REFERENCE_SUPPRESSED. The Applicant says it presented a number of examples of trade-marks matching this description. The proposed Mark is just another similar engineering firm name following this trend.
+[54]
+The Applicant notes that the Board found the words "surface engineering" to be deceptively misdescriptive, and they are therefore not distinctive. In addition, the Applicant argues that the letters REM form a weak non-distinctive component, as they are already in use by various other entities for similar wares. The acronym is therefore not distinctive, as it does not point to a single source.
+[55]
+The Applicant says that the Respondent has provided no evidence to show that its Mark is distinctive of it, and therefore the Mark is neither distinctive nor adapted to distinguish the Respondent's wares and services from those of others.
+ANALYSIS
+[56]
+No Notice of Appearance was filed by the Respondent in this application so that it remains unchallenged. My review of the record and consideration of the Applicant's submissions leads me to conclude that the decision cannot stand and must be overturned.
+[57]
+Essentially, I agree with the Applicant's submissions. The Board erred in finding that the Mark REM SURFACE ENGINEERING & Design is not deceptively misdescriptive pursuant to s. 12(1)(b) of the Act, and in finding the Mark distinctive and registrable under ss. 38(2)(d) and 38(2)(b) of the Act.
+[58]
+I am of the view that the Board's failure to properly apply s. 12(1)(b) should be reviewed on a standard of correctness. Although the Supreme Court of Canada in
+CITATION_SUPPRESSED left "the determination of the appropriate standard of review of a tribunal decision under other intellectual property statutes for a case in which it arises," I see no reason why the Supreme Court's reasoning in
+CITATION_SUPPRESSED
+should not apply equally well to the case before me involving an appeal from the Board. However, even if I am wrong on this issue, I am equally persuaded that this decision would, in any event, have to be overturned on a standard of reasonableness.
+[59]
+The TMOB Member did not apply all parts of the s. 12(1)(b) test. The Decision reveals that she only considered the visual components of the Mark and did not consider whether the Mark, "when sounded," was deceptively misdescriptive. This error of law also led the Officer to conclude that the Mark was distinctive because she found that the Mark was neither clearly descriptive or deceptively misdescriptive.
+[60]
+In my view, there are close similarities between the present case and
+CITATION_SUPPRESSED
+, above, in that:
+a) The Mark would be sounded by the dominant words "REM SURFACE ENGINEERING";
+b) The average person would sound the Mark as "REM SURFACE ENGINEERING";
+c) The circle and "REM" are not distinctive of any particular trader;
+d) The intersecting lines and the use of a different font for "REM" are not sufficient to render the Mark distinctive and registrable.
+[61]
+I also agree with the Applicant on the following points:
+a) Having regard to the Mark REM SURFACE ENGINEERING & Design, when the Mark is sounded either out loud or mentally, or read, the average consumer would sound the Mark as "REM SURFACE ENGINEERING" and not mention the geometric design elements of the two lines and circle to which no sound would be ascribed;
+b) It does not matter that the REM is larger than the words SURFACE ENGINEERING. All three of these words make up the word portion of the Mark and are sounded out. In the case of
+CITATION_SUPPRESSED
+, above, the Board determined that even though the letter "U" appeared much larger than the word "LOCK," the words "U" and "LOCK" were both considered as dominant. The average person would sound the Mark as "YOU LOCK," and not differentiate between the size of the lettering used. The Mark as a whole in that case was not saved by its design element nor by the size of the lettering used on one of the word components. It was clearly descriptive of the Applicant's services. The same reasoning applies to the present case;
+c) When sounded, REM SURFACE ENGINEERING & Design is equally deceptively misdescriptive as its word-mark counterpart REM SURFACE ENGINEERING, which the Board did find to be deceptively misdescriptive. This is especially true since, in both decisions, the Board found the words SURFACE ENGINEERING to be deceptively misdescriptive;
+d) The words SURFACE ENGINEERING are the only discernable written/readable words in the Mark and this makes them dominant within the Mark as a whole, particularly when sounded. The letters REM are an acronym for "Research, Engineering, Manufacturing" as stated by the president of Rem Chemicals;
+e) The average consumer of the services, who would be a person familiar with surface engineering, upon seeing the Mark, and reading the words would be misled into the belief that the wares and services of the Respondent are produced by engineers licensed to practice engineering in Canada, when in fact they are not. In this respect, the entire REM SURFACE ENGINEERING& Design Mark is unregistrable;
+f) Moreover, the Design elements comprise two lines and a circle, all of which are not original or memorable. They give no meaning to the Mark and are not suggestive of anything. As such they contribute little, if anything, to the meaning to be ascribed to the Mark. A consumer with an imperfect memory will be more inclined to remember the recognizable word portion and associate it with the wares and services being offered.
+[62]
+The jurisprudence is clear that, "when sounded," clearly descriptive or deceptively misdescriptive words cannot be rendered registrable by the addition of design features
+: CITATION_SUPPRESSED
+; CITATION_SUPPRESSED;
+CITATION_SUPPRESSED;
+CITATION_SUPPRESSED.
+[63]
+The Board's Decision on the issue of distinctiveness is simply a part of its conclusion that the Mark is not deceptively misdescriptive. The Mark in this case is not distinctive because it is both deceptively misdescriptive and incapable of distinguishing the Respondent's wares and services from those of others. The evidence before me reveals that:
+a. Licensed engineers in Canada habitually use the word "ENGINEERING" to describe their wares and services and that, as found by the Board, the words "SURFACE ENGINEERING" denote a sub-specialty of engineering in Canada;
+b. "REM" is a non-distinctive component because it is frequently used by various other entities for similar wares.
+This means, as the Applicant points out, that the Mark as a whole is a combination of non-distinctive elements that include the deceptively misdescriptive words "SURFACE ENGINEERING." The Mark cannot be distinctive of any trader, including the Respondent.
+JUDGMENT
+[64]
+THIS COURT'S JUDGMENT is that
+the appeal is allowed and the Decision of the Opposition Board as regards REM SURFACE ENGINEERING & Design (application 1450269) is overturned and set aside with costs to the Applicant.
+.........................
+CITATION_SUPPRESSED

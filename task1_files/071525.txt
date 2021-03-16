@@ -1,0 +1,1670 @@
+TABLE OF CONTENTS
+-
+Para.
+I. OVERVIEW
+1
+II. INTRODUCTION
+4
+III. THE PARTIES
+13
+IV. THE '287 PATENT GENERALLY
+19
+V. THE EVIDENCE
+27
+--A. For the applicant, Alcon:
+29
+---(1) Kingsley Koo:
+29
+---(2) Dr Peter Klimko:
+30
+---(3) Dr Mitchell deLong:
+31
+--B. For the respondent, Apotex:
+33
+---(1) Lisa Ebdon:
+33
+---(2) Dr Manfred Wolff:
+34
+---(3) Dr Thomas Mittag:
+35
+VI. ISSUES
+36
+--A. Alcon's overall position
+40
+--B. Apotex's overall position
+47
+VII. THE NOTICE OF ALLEGATION
+52
+VIII. BURDEN
+55
+IX. PERSON SKILLED IN THE ART
+63
+X. THE '287 PATENT IN DETAIL
+66
+XI. CONSTRUCTION OF THE CLAIMS
+119
+--A. Jurisprudence and Principles Governing the Construction of a Patent and its Claims
+120
+--B. Claims 12, 27, 35 and 46
+122
+XII. THE INVENTION
+125
+--A. Is it a selection patent?
+125
+--B. Jurisprudence and Principles on Selection Patents
+134
+--C. The '287 is not a selection patent
+146
+XIII. INVENTIVE CONCEPT
+154
+--A. Alcon's position
+155
+--B. Apotex's position
+159
+--C. What do the experts say?
+161
+--D. The inventive concept
+167
+XIV. UTILITY / SOUND PREDITION
+168
+--A. Jurisprudence and Principles on the Promise of the Patent
+174
+--B. Alcon's position
+187
+--C. Apotex's position
+200
+--D. What do the experts say?
+224
+--E. The Promised Utility was Soundly Predicted
+241
+XV. ANTICIPATION
+251
+--A. Jurisprudence and Principles on Anticipation
+254
+--B. Alcon's position
+264
+--C. Apotex's position
+286
+--D. What do the Experts Say?
+313
+--E. The '417 anticipates the invention of the '287
+342
+XVI. OBVIOUSNESS
+373
+--A. Jurisprudence and Principles on Obviousness
+378
+--B. Alcon's position
+385
+--C. Apotex's position
+395
+--D. What do the Experts say?
+425
+--E. The '287 was Obvious
+456
+XVII. CONCLUSIONS AND COSTS
+484
+I. OVERVIEW
+[1]
+Kane, J.
+: This application is brought under the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133, as amended [
+NOC Regulations
+] by Alcon to prohibit the Minister of Health from issuing a Notice of Compliance to Apotex in respect of its generic product (the Apotex product) until the expiry of Canadian Letters Patent No 2,129,287 (the '287 Patent) on August 3, 2014.
+[2]
+For the reasons that follow, I find that the allegations with respect to the invalidity of the claims at issue for anticipation and obviousness are justified and the allegations with respect to invalidity for lack of utility are not justified.
+[3]
+The application is dismissed with costs to the respondent.
+II. INTRODUCTION
+[4]
+Glaucoma is a disease of the eye resulting in a progressive loss of vision due to increased intraocular pressure ["IOP"], which is the pressure within the aqueous humour of the eye. There is no cure for glaucoma, however, it can be managed by reducing IOP. Such treatment is ongoing or "chronic" and requires the patient to take medication daily, generally for life, to maintain the IOP at a reduced level.
+[5]
+According to the inventors of the '287, drugs were available to treat glaucoma and ocular hypertension prior to the invention of the '287, but they had undesirable effects.
+[6]
+As the experts, Dr deLong and Dr Wolfe, described, prostaglandins [PGs] are a large class of biologically active chemical compounds with many different roles in the body. PGs, and in particular PGF
+2
+a
+and their derivatives, were known to reduce IOP since at least the mid 1980s (and Dr deLong suggests as early as 1977).
+[7]
+Although naturally occurring prostaglandins were known to reduce IOP, there were side effects, particularly irritation and hyperemia (blood shot eyes). The goal was therefore to develop a compound that reduced IOP without the side effects. Synthetic prostaglandins also led to side effects, however, various methods may be used to reduce or eliminate the side effects.
+[8]
+Fluprostenol is a PG, more specifically, a synthetic analogue of
+PGF
+2
+a
+, a naturally occurring prostaglandin. Alcon notes that the iso­propyl ester of (+)-fluprostenol, known as travo­prost, is the active ingredient in Travatan Z marketed by Alcon for the treatment of glau­coma. Apotex seeks to market its own product, Apo-Travoprost, also for the treatment of glaucoma.
+[9]
+Apotex alleges that it does not infringe the claims of the Patent at issue, the '287, because the claims are invalid. Apotex alleges that the patent is a selection patent from the genus of European Patent Application, (EP 0 364 417, referred to as the '417), and that it has not lived up to its promise of the substantial advantages over the '417 and specifically that its utility was not demonstrated or soundly predicted. Apotex alternatively alleges that if the '287 is not a selection patent, but a species patent as Alcon asserts, then it is not novel as it does only what the '417 promised, it is anticipated by the '417, and it is obvious.
+[10]
+Apotex argues that Alcon cannot characterize the '287 as a novel compound with unstated advantages, rather than a selection patent, yet rely on its unstated advantages to support its novelty. If it is novel then it will fail for want of utility because it does not meet its promise.
+[11]
+Alcon acknowledges that the '417 application discloses a huge genus of compounds, and that travoprost is included generically in this genus, but argues that the '417 application describes what Alcon refers to as a "functional carve out" of compounds that are not useful due to their side effects. Fluprostenol (and its esters) was carved out, therefore fluprostenol (travo­prost) does not fall within the '417 and it is not anticipated or obvious due to the reference in the '417. Alcon also argues that the promised utility of the '287 was soundly predicted.
+[12]
+The construction of the claims at issue is not in dispute. However, the determination of the allegations of invalidity is dependant upon the promise of the patent and the inventive concept of the claims, which are in dispute.
+III. THE PARTIES
+[13]
+The applicant, Alcon, is a "first person" as described in the
+NOC Regulations
+. It has listed the '287 Patent in accordance with the Regulations. Alcon obtained a Notice of Compliance [NOC] to sell travoprost, which it does under the brand name Travatan Z, from the Minister of Health.
+[14]
+The applicant, Alcon, is the owner of the '287 Patent and this is not contested.
+[15]
+The respondent, Apotex, is a "second person" as described in the
+NOC Regulations
+. In order to sell a generic version of travoprost, as Apo-Travoprost, it must receive a NOC from the Minister of Health. In accordance with the
+NOC Regulations
+, Apotex served Alcon with a Notice of Allegation [NOA] dated July 25, 2012.
+[16]
+In the NOA, Apotex alleges that claims 12, 27, 35 and 46 of the '287 Patent would not be infringed, and that the patent is invalid on the grounds of anticipation, obviousness, and lack of utility (alternative). Apotex also alleges that it does not infringe any valid claim in making, constructing, using or selling its Apotex product.
+[17]
+The applicant argues that the allegations advanced by Apotex do not align with its NOA. This issue is addressed later in these reasons.
+[18]
+The respondent, the Minister of Health, who has various responsibilities under the
+NOC Regulations
+, including the issuance of an NOC to a "second person" such as Apotex, took no active role in these proceedings.
+IV. THE '287 PATENT GENERALLY
+[19]
+Canadian Letters Patent 2,129,287 were applied for by an application deemed to be filed with the Canadian Patent Office on August 2, 1994. The Patent is therefore governed by the provisions of the new
+Patent Act
+, RSC 1985 c P-4, that governs patents applied for after October 1, 1989.
+[20]
+The application was filed under the provisions of the Patent Cooperation Treaty [PCT] and claims priority from a first application filed in the United States Patent Office on August 3, 1993. This is the date upon which the issues of anticipation and obviousness will be determined.
+[21]
+The date of filing in Canada, August 2, 1994, is the date upon which the issue of (utility) sound prediction will be determined.
+[22]
+The publication date, i.e. the date at which the patent was open to the public for inspection, was February 4, 1995. This is the date that is to be used for the purposes of the construction of the claims.
+[23]
+The '287 Patent lists the inventors as Paul W Zinke, Peter G Klimko, John E Bishop, Verney L Sallee, and Louis Desantis Jr, all of the United States of America. Only Peter Klimko provided evidence in these proceedings.
+[24]
+The '287 Patent was issued to Alcon Laboratories Inc, US.
+[25]
+The term of the '287 Patent, unless declared as invalid, will expire 20 years from the date of the filing of the application in Canada, which is August 2, 2014.
+[26]
+There are 54 claims in the '287 Patent, four of which are at issue in this proceeding (Claims 12, 27, 35 and 46). The construction of the claims and the inventive concept of the patent are addressed below.
+V. THE EVIDENCE
+[27]
+The evidence in this proceeding was provided in the form of affidavits and transcripts of cross-examinations of experts along with their exhibits. All of the experts were cross-examined. Each party also submitted as evidence the affidavits of law clerks to place documents on the record and attest to facts.
+[28]
+The evidence on the record includes the following:
+A.
+For the applicant, Alcon:
+(1) Kingsley Koo:
+[29]
+Kingsley Koo is a law clerk  <FRAGMENT_SUPPRESSED> 's solicitor's office. His affidavit attaches a variety of documents, such as the '287 patent, Apotex's Notice of Allegation, Apotex's prior art references, and the Travatan Z product monograph.
+(2) Dr Peter Klimko:
+[30]
+Dr Peter G Klimko is an inventor on the '287 patent. Dr Klimko is a medicinal chemist  <FRAGMENT_SUPPRESSED>  Research, Ltd, in Fort Worth, Texas. He has worked  <FRAGMENT_SUPPRESSED>  since 1993, after earn­ing his PhD in organic chemistry from Texas A&M University in May 1992. He discussed the work conducted by Alcon leading to the filing of the '287 patent, including biological test results. His affidavit reiterates, to a great extent, the contents of the '287 and sets out his role in the development of the patent.
+(3) Dr Mitchell deLong:
+[31]
+Dr deLong is an adjunct professor in the department of chemistry at Duke University, and holds a PhD in synthetic organic and medi­cinal chemistry. He is vice-president of chemistry at Aerie Pharmaceuticals Inc, a company which specializes in the development of ocular drugs. Dr deLong has 20 years experience in medicinal chemistry with prostaglandins and glaucoma treatments. For 13 years, he was a senior scientist at Procter & Gamble, from 1992 to 2005, researching the use of prostaglandins to treat a variety of illnesses.
+[32]
+Dr deLong was called upon by the applicant to review the '287 patent and provide an opinion on its construction, as well as utility and novelty. His opinion is detailed, and sets out the person skilled in the art, prior art, and the promise of the patent, among other opinions. He also provides a chemistry primer, explaining prostaglandins, their therapeutic effects, and the type of drug in issue in this case.
+B.
+For the respondent, Apotex:
+(1) Lisa Ebdon:
+[33]
+Lisa Ebdon is a law clerk at the respondent, Apotex's, solicitor's office. Her affidavit attaches a variety of documents, including Apotex's Notice of Allegation, the prior art references, and a copy of the '287 patent.
+(2) Dr Manfred Wolff:
+[34]
+Dr Manfred E Wolff is a pharmacist and a patent agent. He holds a PhD in medicinal chemistry, and is currently president and CEO of Intellepharm Inc. Dr Wolff was asked to comment on the person skilled in the art, and what that person would have understood as the subject matter in the '287 patent, as well as the claims of the patent. He also examines the state of the art and common general knowledge of the skilled person at the relevant date, the inventive concept of the '287 patent, and the difference between the two. His affidavit focuses on anticipation and obviousness. He also commented on the evidence of Alcon's experts.
+(3) Dr Thomas Mittag:
+[35]
+Dr Thomas W Mittag is a professor emeritus of ophthalmology and pharmacology at the Mount Sinai School of Medicine. Dr Mittag was asked to provide an overview of the state of the art as of the relevant date, how the patent would have been understood as of February 4, 1994, as well as to comment on who the skilled person is. He also examined the inventive concept of the claims of the '287 patent, the differences between the state of the art and the inventive concept as of the relevant date, and whether the skilled person would have considered this routine work or inventive. His affidavit focuses on anticipation, obviousness, and utility, in the form of sound prediction.
+VI. ISSUES
+[36]
+The principal issue is whether to grant an Order prohibiting the Minister of Health from granting a Notice of Compliance to Apotex for its generic product (Apo-Travoprost) until the expiry of the '287 Patent. This determination depends upon whether the allegations raised by Apotex as to the invalidity of the '287 Patent (and non-infringement) are justified.
+[37]
+Apotex alleges the '287 patent is invalid on the basis of utility, anticipation, and obviousness.
+[38]
+The key area of disagreement between the applicant and respondent (and from which the other issues depend) is the meaning of the patent i.e., what is the promise of the patent and what is the inventive concept (of each claim).
+[39]
+The parties also disagree on the characterisation of the '287 patent as a "selection patent". The applicant, Alcon, does not assert that the '287 is a selection patent from the genus in the '417; rather, it argues that it is a novel compound or invention with a promised utility of being useful in the treatment of glaucoma and ocular hypertension.
+A.
+Alcon's overall position
+[40]
+Alcon markets Travatan Z, which is travoprost, described by Alcon as the isopropyl ester of (+)-fluprostenol, structurally a "16-phenoxy" type of prostaglandin for the treatment of glaucoma.
+[41]
+The claims of the '287 Patent at issue (12, 27, 35 and 46) relate to pharmaceutically ac­ceptable esters of fluprostenol for the treatment of glaucoma.
+[42]
+Alcon submits that the claims are valid: they were not anticipated by '417 Application; they were not obvious; and, the use of flupro­stenol esters for the treatment of glaucoma was soundly predicted.
+[43]
+Alcon submits that the '417 references a huge genus of 800 billion compounds, but it only evaluated 11 compounds and only one of those compounds, Compound 4, is a 16-phenoxy (which Alcon submits is the most closely related to fluprostenol). This evaluation revealed that Compound 4 displayed an unacceptable therapeutic profile. Alcon submits that the '417 specifically excludes (or "functionally carves out") from its invention all non-therapeutically useful compounds. Therefore, Compound 4 was not included in the '417 and the '287 could not be anticipated by a compound which was excluded (or "carved out"). Alcon argues that for the same reason, the '287 could not be a selection from the '417.
+[44]
+Alcon acknowledges that fluprostenol is within the huge genus of the '417, but it is not referenced in any way in the '417 and was not disclosed.
+[45]
+Alcon submits that the '287 is not obvious because a Person of Ordinary Skill in the Art [POSITA] could not predict the side effect profile between structurally different PGs with­out testing the usefulness of the flupro­stenol esters to treat glaucoma. This testing had not been done and, therefore, it was not obvious.
+[46]
+Alcon submits that the utility of travoprost was soundly predicted, based on the test results of the '287 combined with the common general knowledge; there was a reasonable hypothesis that it would be useful for the treatment of glaucoma in humans.
+B.
+Apotex's overall position
+[47]
+Apotex submits that the '287 has all the hallmarks of a selection patent. The '417 application disclosed a genus of compounds all noted as being useful in the treatment of glaucoma and IOP with reduced side effects. The '287 Patent acknowledges that the '417 genus included fluprostenol (travoprost). The '287 also states that travoprost has substantial advantages over the compounds of the '417. Although Alcon does not assert that the '287 is a selection from the '417, Apotex submits that it appears to be a selection.
+[48]
+Apotex submits that while the '287 promises substantial advantages over the '417, Alcon could not demonstrate these advantages or soundly predict them at the time it filed the patent.
+[49]
+Apotex argues that Alcon has advanced the notion of a "functional carve out" from the '417 and proposed a construction of the promise of the patent and the inventive concept to avoid the fact that it cannot demonstrate the advantages. However, if there are no substantial advantages, the '287 is not new and basically no different than the '417 - and is anticipated by the '417 and obvious.
+[50]
+Apotex submits that the '287 either fails for anticipation and/or obviousness, or if the inventive concept and promise is its substantial advantages over the '417, it fails for lack of soundly predicted utility.
+[51]
+As noted above, the construction of the claims, the inventive concept and the promise of the patent will guide the analysis of the allegations and must be determined first.
+VII. THE NOTICE OF ALLEGATION
+[52]
+Alcon submits that Apotex in its NOA asserted that the inventive concept was the compounds, compositions and uses claimed. But in the alternative, Apotex argues that the '287 is a selection patent. Alcon also notes that the NOA included other allegations no longer pursued by Apotex.
+[53]
+Alcon submits that Apotex's memo of argument in response to its Notice of Application and Memo is not aligned with its Notice of Allegation. Apotex has changed its approach and now argues that the '287 must be a selection patent, otherwise it would be invalid and,
+in the alternative
+, that if the '287 is not a selection patent then it is anticipated by the '417 and it was obvious.
+[54]
+In the present case, the non-alignment of the NOA and the memorandum of argument is not an issue. Alternative arguments are simply alternatives, and all arguments were raised in the NOA, were argued and will be addressed. The allegations of anticipation, obviousness and inutility will be addressed whether or not the patent is a selection.
+VIII. BURDEN
+[55]
+The jurisprudence has clearly established who bears the burden of proof of the allegations.
+[56]
+As a starting point, where the validity of a patent is at issue, the patent will be presumed to be valid. However, where a generic manufacturer (a second person), in this case Apotex, raises allegations of invalidity and adduces some evidence capable of establishing the in­validity of the patent, the generic is said to put the issue "into play". The burden then moves to the brand or applicant (first person), in this case, Alcon, to establish on a balance of probabilities that all of the allegations of invalidity are not justified: see
+ <FRAGMENT_SUPPRESSED>  [2009] FCJ No 1466;
+ <FRAGMENT_SUPPRESSED>  [2007] FCJ No 543 at paras 9-10;
+ <FRAGMENT_SUPPRESSED>  [2007] FCJ No 767 at para 109;
+ <FRAGMENT_SUPPRESSED> ff'd in the result 2012 FCA 308;
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ No 111 at paras 24-27.
+[57]
+Justice O'Reilly set out the approach to be followed with respect to the burden of proof in
+ <FRAGMENT_SUPPRESSED>  [2007] FCJ No 36 (aff'd 2007 FCA 195, leave to appeal refused 32169 (November 1, 2007)) at paragraphs 9 and 12, characterizing the burden on the respondent as "an 'evidential burden', a burden merely to adduce evidence of invalidity". The respondent must adduce evidence to give its allegations an air of reality, and if it does so, it has put the issues "into play" and the presumption of validity no longer applies. The applicant must then discharge its legal burden of proof to the satisfaction of the court.
+[58]
+If the generic (second person, Apotex) does not adduce any evidence with respect to a ground of invalidity alleged, then the presumption is not rebutted. Similarly, if Apotex adduces some evidence but that evidence is in­sufficient to meet its evidential burden or does not have an "air of reality", the issues would not be put into play and Alcon would continue to rely on the presumption of validity to obtain its prohibition order.
+[59]
+However, if Apotex presents sufficient evidence to give its allegations an air of reality, then the presumption of validity is rebutted and the issue becomes whether Alcon has established that Apotex's allegations of invalidity are unjustified.
+[60]
+The brand (first person, Alcon) bears the burden with respect to allegations of non- infringement. Allegations of non-infringement of specific claims in the Notice of Allegation are presumed to be true. Alcon must, therefore, demonstrate on a balance of probabilities that any allegations of non-infringement are not justified.
+[61]
+In the present case, Apotex has raised allegations in its NOA and has led sufficient evidence as to the invalidity of the Patent on the basis of anticipation, obviousness and lack of demonstrated or soundly predicted utility to put those issues into play. The applicant, Alcon bears the burden of establishing, on a balance of probabilities, that these allegations are not justified.
+[62]
+Apotex also alleges that it will not infringe claims 12, 27, 35 and 46.
+IX. PERSON SKILLED IN THE ART
+[63]
+As I noted in
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ No 844 at paras 65-66:
+[65] The person skilled in the art (or person of ordinary skill in the art - a "POSITA") provides the lens through which the patent is construed and many other issues are assessed. As described by Justice Hughes in
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ 111:
+28 The person skilled in the art, or as sometimes described, the person of ordinary skill in the art (POSITA) is the notional person, which may include a team of persons, through whose eyes a patent is to be construed, the prior art is to be considered. This notional person may be pertinent to other issues that arise in respect of a patent under consideration by the Court.
+[66]  <FRAGMENT_SUPPRESSED>  [2011] FCJ 1813, Justice Boivin (as he then was) noted:
+[64] In assessing the hypothetical POSITA, the Court must define the person or group to whom the '777 Patent is addressed. This person is obviously not a real person. As explained by Justice Hughes in
+ <FRAGMENT_SUPPRESSED>  CPR (4th) 179, at para 42: "[T]hat person is to be unimaginative, but that does not mean that the person is slow-witted or graduated (if at all) at the bottom of the class. Nor is the person the gold medalist who graduated at the top of the class. That person is the average person in the group. Just as a "reasonable man" is expected to be reasonable, the POSITA is expected to possess the ordinary skill in the art".
+[65] The Supreme Court of Canada considered such a person in
+Whirlpool
+, above, at para 74, where Justice Binnie for the Court wrote that the POSITA refers to the hypothetical "ordinary worker" who is reasonably diligent in keeping up with advances in the field to which the patent relates.
+[64]
+In this case, there is no major dispute as to the Person of Ordinary Skill in the Art (POSITA, and also referred to as the person of skill or skilled person). The applicant and respondent agreed that the POSITA (the composite person or team of persons) includes a medical doctor specializing in eye diseases, ocular hypertension and glaucoma and persons with a background in pharmacology, medicinal chemistry, biochemistry or organic chemistry, preferably with a degree at the BSc level or higher, and with the ability to understand prostaglandin chemistry. Equally such a person or persons would have experience or an understanding of the pre-clinical evaluation of potential drugs in living animals.
+[65]
+Alcon's expert noted that if the person has a lower degree, they would have relevant practical experience. The POSITA would have some experience with prostaglandin chemistry and be familiar to some extent with the art relating to the potential therapeutic usefulness of prostaglandins, including testing models.
+X. THE '287 PATENT IN DETAIL
+[66]
+The title of the Patent is the "Use of Cloprostenol, Fluprostenol and Their Analogues to Treat Glaucoma and Ocular Hypertension".
+[67]
+The Patent begins with the Background to the Invention, noting:
+The present invention relates to the treatment of glaucoma and ocular hypertension. In particular, the present invention relates to the use of cloprostenol, fluprostenol, their analogues and their pharmaceutically acceptable salts and esters to treat glaucoma and ocular hypertension
+.
+Cloprostenol and fluprostenol, both known compounds, are synthetic analogues of PGF
+2a
+, a naturally-occurring F-series prostaglandin (PG)
+.
+[68]
+The Patent then depicts the chemical structures for PGF
+2
+a
+, cloprostenol and flupro­stenol.
+[69]
+The Patent also notes the chemical names for both cloprostenol and fluprostenol, and notes that both differ from the natural product in that an oxygen atom is embedded within the lower (omega) chain.
+[70]
+The Background continues at page 2 of the Patent stating:
+Naturally-occurring prostaglandins are known to lower intraocular pressure (IOP) after topical ocular instillation, but generally cause inflammation, as well as surface irritation characterized by conjunctival hyperemia and edema. Many synthetic prostaglandins have been observed to lower intraocular pres­sure, but such compounds also produce the aforementioned side effects. Various methods have been used in attempting to overcome the ocular side effects associated with prosta­glandins. Stjernschantz et al. (EP 364 417 A1) have synthesized derivatives or analogues of naturally-occurring prosta­glandins in order to design out selectively the undesired side effects while maintaining the IOP-lowering effect. Others, including Ueno et al. (EP 330 511 A2) and Wheeler (EP 435 682 A2) have tried complexing prostaglandins with various cyclodextrins.
+The Stjernschantz et al. publication is of parti­cular interest, as it demonstrates that certain synthetically-modified PGF
+2a
+analogues retain the potent IOP-lowering effect of the parent (PGF
+2a
+isopropyl ester) while decreasing the degree of conjunctival hyperemia. In this pub­lication, the only modification to the PG struc­ture is to the omega chain: the chain length is 4-13 carbon atoms "optionally interrupted by preferably not more than two heteroatoms (O, S, or N)" and includes a phenyl ring (substituted or unsubstituted) on the terminus (see page 3, line 44 to page 4, line 7). Stjerns­chantz et al. exemplify two subclasses within this definition: (1) carbon-only omega chains
+[and a depiction is set out]
+and (2) hetero­atom-interrupted omega chains
+[and a depiction is set out].
+In particular, the 17-phenyl-18,19,20-trinor analogue of PGF
+2a
+isopropyl ester (formula 1, n=2) displayed a superior separation of toward and untoward activities. Furthermore, the 13,14-dihydro analogue of 17-phenyl-18,19,20-trinor PGF
+2a
+isopropyl ester. displayed an even more favorable separation of activities. Both 17-phenyl PGF
+2a
+and its 13,14-dihydro congener fall into the former (formula 1, carbon-only omega chain) subclass. Additional synthetic analogues employing the phenyl substituent on the end of the omega chain explored the effects of chain elongation, chain contraction, and substitution on the phenyl ring, However, such analogues showed no apparent therapeutic improvement over the preferred formulation, 13,14-dihydro-17-phenyl-18,19,20-trinor PGF
+2a
+isopropyl ester.
+Because they contain heteroatom (O) interruption of the omega chain, both cloprostenol and fluprostenol are generically included in the subclass defined in formula 2 by Stjern­schantz et al. However, neither compound is specifically mentioned by Stjerns­chantz et al. and the disclosure is primarily related to carbon-only omega chains. The only example of a heteroatom- interrupted omega chain disclosed by Stjernschantz et al. is 16-phenoxy-17,18,19,20-tetranor PGF
+2a
+isopropyl ester (see formula 2, n=1). The IOP data revealed Stjernschantz et al for 16-phenoxy-17,18,19,20 tetranor PGF
+2a
+iso­propyl ester (see Stjernschantz et al., page 17, Table V) indicate an initial
+increase
+in IOP (1-2 hours after administration) followed by a decrease. Moreover, this compound displays unacceptable hyperemia (see Stjernschantz et al., Table IV, line 40). In short, data from Stjernschantz et al. demonstrate that the oxygen-interrupted omega chain subgeneric class of compounds (see formula 2) displays an unacceptable therapeutic profile.
+[Emphasis in original]
+SUMMARY OF THE INVENTION
+It has now been unexpectedly found that cloprostenol, fluprostenol, and their pharmaceutically acceptable salts and esters show significantly greater IOP reduction than the compounds of Stjernschantz et al., while having a similar or lower side effect profile. In particular, it appears that the addition of a chlorine atom or a trifluoromethyl group to the
+meta
+position on the phenoxy ring at the end of the omega chain provides a compound having excellent IOP reduction without the significant side effects found with other, closely related compounds.
+In addition, it has also been unexpectedly found that certain novel cloprostenol and fluprostenol analogues are useful in treating glaucoma and ocular hypertension. In particular, topical application of ophthalmic compositions comprising these novel cloprostenol and fluprostenol analogues result in significant IOP reduction.
+[71]
+The Patent does not set out other Prior Art, apart from several references to Stjernschantz et al, and the single reference to Ueno and Wheeler.
+[72]
+At pages 5-6, a detailed description of the formula (Formula IV) of the compounds useful in the invention is provided.
+[73]
+At page 6, the preferred salts and esters are described.
+[74]
+At page 7, the patent notes the preferred compounds which include cloprostenol iso­propyl ester (Table 11, Compound A) and fluprostenol isopropyl ester (Compound B), and a number of analogues of cloprostenol and fluprostenol.
+[75]
+The patent notes that "
+The compounds of formula (IV) are useful in lowering Intraocular pressure and thus are useful in the treatment of glaucoma
+".
+[76]
+At page 7-8 the patent notes that the preferred route is topical, sets out the dosage range, formulation details, and other desirable ingredients including preservatives, co-solvents and viscosity building agents.
+[77]
+Table 1, at page 9, depicts compounds 5-8.
+[78]
+Examples 1-4 detail the synthesis of the compounds, which are described at pages 10-27.
+[79]
+Examples 5-9 compared the IOP lowering activity and side effects of five compounds including cloprostenol isopropyl ester (Compound A) and fluprostenol isopropyl ester (Compound B), 16-Phenoxy-17,18,19,20-tetranor PGF
+2
+a
+isopropyl ester (Compound C), 17-Phenyl-18,19,20-trinor PGF
+2
+a
+isopropyl ester (Compound D) and 13,14-Dihydro-17-phenyl-18,19,20-trinor PGF
+2
+a
+isopropyl ester (latanoprost) (Compound E).
+[80]
+Table 2 at page 29 depicts the structures of these compounds (A-E). The testing compares cloprostenol (A) and fluprostenol (B) to three compounds that were tested in the '417 - that are said to "differ only slightly in structure" (Patent, p. 30). These are 16-phenoxy (C), 17-phenyl-trinor (D) and latanoprost (E)
+[81]
+The Patent notes at page 30 that the examples demonstrate that, although the compounds are structurally similar, slight structural differences produce greatly different IOP lowering effects and levels of hyperemia.
+[82]
+Example 5 tested for hyperemia in the guinea pig. The Patent notes that the goal of this model is to provide a primary screening indication of the potential of a prostaglandin for inducing conjunctival hyperemia in humans.
+[83]
+The testing for hyperemia and IOP lowering generally compares cloprostenol isopropyl ester and fluprostenol isopropyl ester to the three compounds tested in Stjernschantz et al (the 417).
+[84]
+At page 32, the results are set out and note that the hyperemia produced by Compound A (cloprostenol) and Compound B (fluprostenol) appear to be intermediate between that of Compound D (latanoprost) and Compound E, but this degree of hyperemia is also mild and cannot be distinguished from that produced by Compound E (latanoprost).
+[85]
+Example 6 tested the IOP-lowering effect in cynomolgus monkey eyes with the results were set out in Tables 4 and 5 (page 33-34). The Patent notes that Compounds A, B, C, and D produce similar degrees of IOP reduction with 0.3µg doses, but Compound E is inactive at this dose. Table 5 depicts only compounds A and E and notes that Compound A is more potent and produces a greater maximum response for IOP reduction than Compound E.
+[86]
+Example 7 tested contraction in the cat eye. Example 8 tested only one compound (6) for IOP lowering in the monkey eye. Example 9 set out various formulations for the compositions of the invention for topical use in lowering intraocular pressure.
+[87]
+The '287 ends with 54 claims. Only the claims that are asserted and the claims upon which they depend are noted below.
+• Claim 1 - Use of a therapeutically effective amount of a compound (of the formula depicted and described, and referred to as IV) for the treatment of glaucoma and ocular hypertension.
+• Claim 12 - The use of claim 9, wherein the compound of formula (IV) is selected from the group consisting of the pharmaceutically acceptable esters of fluprostenol.
+(Claim 9 is dependent on claim 8 which traces its dependency back to claim 1. Claim 9 is the use of claim 8, wherein the compound of formula (IV) is selected from the group consisting of the pharmaceutically acceptable esters of cloprostenol and fluprostenol.)
+• Claim 27 - The composition of claim 24, wherein the compound of formula (IV) is selected from the group consisting of the pharmaceutically acceptable esters of fluprostenol.
+(Claim 24 traces its dependency back to claim 16 which is a topical ophthalmic composition for the treatment of glaucoma and ocular hypertension comprising a therapeutically effective amount of a compound of the formula described (IV)).
+• Claim 35 - The use of claim 34, wherein for the compound (IV): Z = CF
+3
+.
+(Claim 34 traces back to claim 33 which claims the use of a therapeutically effective amount of a compound having the absolute stereochemical structure of the following formula (IV) (which is described and depicted) and being substantially free of the enantiomer of said compound).
+• Claim 46 - The composition of claim 45, wherein for the compound (IV): Z = CF
+3
+.
+(Claim 45 is dependent on claim 44 which claims a topical ophthalmic composition for the treatment of glaucoma and ocular hypertension comprising an opthalmically acceptable carrier and a therapeutically effective amount of a compound having the absolute stereochemical structure of the following formula (IV) (as described and depicted) and being substantially free of the enantiomer of said compound).
+[88]
+I observe that the experts had differing views on some aspects of the disclosure, including the summary of the invention, the promised utility, whether the references to Stjernschantz regarding the 16-phenoxy were misleading and whether fluprostenol was racemic, all of which are explored later in these reasons.
+[89]
+Dr deLong expresses his opinion on the claims at paragraphs 141-154 of his affidavit.
+[90]
+His evidence is similar in most respects to that of Dr Wolff.
+[91]
+Dr deLong notes that Claim 12 covers the use of pharmaceutically acceptable esters of fluprostenol for the treatment of glaucoma and ocular hypertension.
+[92]
+Claim 27 claims a topical ophthalmic composition for the treatment of glaucoma and ocular hypertension comprising a therapeutically effective amount of a compound of for­mula (IV) wherein the compound of formula (IV) is selected from a group consisting of "the pharmaceutically acceptable esters of flupro­stenol".
+[93]
+Claim 35, claims the use of claim 34, which claims the use of claim 33, with additional limitations on the substituents. At para 150 of his affidavit, Dr deLong provides the substitutions in formula (IV) that result from reading claims 33 and 35.
+[94]
+Claim 46 claims the composition of claim 44 and places additional limitations on the substituents. Dr deLong states, "When claim 46 is read in conjunction with claims 45 and 44, and the appropriate substitutions are made, it describes the compounds as claim 35 and com­pounds in which R1 is a cationic salt moiety."
+[95]
+Of note, Dr deLong explains the meaning of fluprostenol in claims 12 and 27. At para 158 he opines that the skilled reader would understand fluprostenol (in claims 12 and 27 and more broadly in the patent) "as (+)-fluprostenol, a single stereoisomer [...] ". Dr deLong sets out his reasons at para 158-170.
+[96]
+Dr deLong's reasons include that the use of PGF
+2
+a
+indicates the same absolute stereo­chemistry as the naturally-occurring prosta­glandins, that there is no indication in the '287 that the compounds are racemic and that there are several indications that the compounds are single isomers.
+[97]
+As noted below, Dr Wolff's evidence is that the skilled person would understand the word "fluprostenol" in claims 12 and 27 to encompass both racemic and enantiomeric forms. He notes that the Patent does not specify (+)-fluprostenol nor does the patent add any stereochemical designations that a POSITA would customarily use to describe the absolute stereochemistry of a compound, and if this were intended, the inventors would have so indicated.
+[98]
+For similar reasons, the two experts reach different conclusions. However, Apotex agrees that this is not a material issue. As this is not a factor in the determination of any of the allegations of invalidity, the construction of the claims will encompass both racemic and enantiomeric forms.
+[99]
+In the summary of his opinions, Dr Wolff states that the '287 discloses a class of compounds defined by Formula (IV) that are said to be useful to treat glaucoma and ocular hypertension without causing significant ocular side effects. The person skilled in the art would understand Formula (IV) of the '287 to encompass racemic forms of the compound. He adds at para 32 that each of the claims at issue "encompasses within its scope the isopropyl ester of fluprostenol, or the isopropyl ester of one of the specific enantiomers of the [
+sic
+] of fluprostenol."
+[100]
+With respect to the construction of the claims, Dr Wolff sets out his opinion beginning at para 97 of his affidavit.
+Claim 1 is directed to the use of a therapeutically effective amount of a compound of formula (IV) [
+depicted
+] for the treatment of glaucoma and ocular hypertension. Claim 1 includes a definition of the various substituents in formula (IV). Importantly for the purposes of my opinions below, the isopropyl ester of fluprostenol is one of the compounds encompassed by formula (IV) in claim 1.
+[101]
+Dr Wolff notes that claims 2, 3, 7-9 and 12-15 are all dependent on claim 1. He notes that each of the claims 2, 3, 7-9 narrow the scope of the compounds of formula (IV) but the isopropyl ester of fluprostenol is included in each of those claims.
+[102]
+Claim 12, a claim at issue, is dependent on claim 9, which in turn depends on claims 8, 7, 2 and 1. Dr Wolff notes that it is more limited because the compounds are selected from the group consisting of the pharmaceutically acceptable esters of fluprostenol. The isopropyl ester of fluprostenol is included in claim 12.
+[103]
+Dr Wolff explains at para 110 why he is of the view that the POSITA would understand this to mean that formula (IV) encompasses racemic forms.
+[104]
+He concludes at para 112:
+Therefore, the person skilled in the art would understand claim 12 to encompass certain ester forms of fluprostenol, wherein the fluprostenol moiety is either in an enantiopure or racemic form. Accordingly, claim 12 includes within its scope travoprost, which is the enantiopure form of fluprostenol isopropyl ester.
+[105]
+Dr Wolff notes that claims 17, 18, 22-24 and 27-30 are all dependent on claim 16.
+[106]
+He adds that claim 27, a claim at issue, is more limited because the compounds are selected from the group consisting of the pharmaceutically acceptable esters of fluprostenol. The isopropyl ester of fluprostenol is included in claim 27.
+[107]
+Dr Wolff notes at para 117 that the person skilled in the art would understand claim 27 to include certain ester forms of fluprostenol, either in racemic form or as single enantiomers and that claim 27 includes compositions containing travoprost, which is the isopropyl ester of an enantiopure form of fluprostenol.
+[108]
+At paras 119-127, Dr Wolff notes that he disagrees with Dr deLong that fluprostenol in claims 12 and 27, would be interpreted as (+)-fluprostenol. Among his reasons, he adds that the Patent does not use this term nor does the Patent add any stereochemical designations that a POSITA would customarily use to describe the absolute stereochemistry of a compound, and if this were intended, the inventors would have so indicated.
+[109]
+Dr Wolff concludes his opinion noting that the person skilled in the art would understand the word "fluprostenol" in claims 12 and 27 to encompass both racemic and enantiomeric forms.
+[110]
+With respect to claims 34-37 and 41-43, Dr Wolff notes that these are dependent on claim 33. Each of claims 34-37 narrows the scope of the compounds encompassed by formula (IV) but in each instance, one of the specific enantiomers of the isopropyl ester of fluprostenol is included in the claim
+[111]
+He adds that claim 35 is dependent on claim 34, which is dependant on claim 33. Dr Wolff notes that the person skilled in the art would understand that claim 35 is directed to the use of a small class of esters that are substantially free of the opposite enantiomer. One of the compounds claimed is travoprost and therefore, "claim 35 includes within its scope the use of travoprost, which is an ester form of an enantiopure compound having the substituents consistent with fluprostenol."
+[112]
+Similarly, he explains that claims 45-48 and 52-54 are all dependent on claim 44. Claim 44 is an independent claim directed at the topical ophthalmic composition for the treatment of glaucoma and ocular hypertension. Each of claims 45-48 narrows the scope of the compounds encompassed by formula (IV) but in each instance, one of the specific enantiomers of the isopropyl ester of fluprostenol is included in the claim
+[113]
+Dr Wolff notes at para 136 of his affidavit, that claim 46 would be understood as directed to compositions containing a small class of ester compounds that are substantially free of the opposite enantiomer. One of the compounds claimed in claim 46 is travoprost and therefore, "claim 46 includes within its scope a composition containing travoprost, which is an ester form of an enantiopure compound having the substituents consistent with fluprostenol."
+[114]
+Dr Wolff notes later in his affidavit that the description of Formula (IV) in the '287 does not clearly indicate the stereochemistry of the compounds and states that the person skilled in the art would understand that the '287 encompasses racemic forms of the compound (i.e. that it contains equal parts of each enantiomer).
+[115]
+Dr Mittag sets out his opinion on the disclosure of the '287 at paragraphs 82-124 of his affidavit and the construction of the claims at para 147-150.
+[116]
+Of note, at para 94, Dr Mittag comments on the reference in the '287 regarding the '417 data that indicated an initial increase in IOP followed by a decrease. Dr Mittag opines that the skilled reader would find this statement misleading and sets out his reasoning based on the results of testing disclosed.
+[117]
+Dr Mittag also notes that the Summary of the Invention is not supported by the data and that a skilled person would not understand it to be correct that the compounds of the '287 show a "significantly greater IOP reduction" than the compounds of the '417. This is because IOP results from a single dose protocol in normal monkey eyes cannot be compared to IOP results after four doses in glaucomatous monkey eyes (see para 103).
+[118]
+With respect to the construction of the claims, Dr Mittag notes:
+147. Counsel has advised that, where the inventive concept of the claims is not readily discernible from the claims themselves, then it is acceptable to read the specification of the patent to determine the inventive concept of the claims.
+148. There are a group of claims within the claims in issue that are directed to the use of a therapeutically effective amount of the compounds for the treatment of glaucoma and ocular hypertension. These are claims 1-3, 7-9, 12-15, 33-37 and 41-43. In my opinion, the inventive concept of these claims is the use of this group of compounds, including travo­prost, that have an acceptable therapeutic profile, for the treatment of glaucoma and ocular hypertension.
+149. The claims in issue include a second group of claims that are directed to topical ophthalmic compositions containing a therapeutically effective amount of the compounds for the treatment of glaucoma and ocular hypertension. These are claims 16-18, 22-24, 27-30, 44-48 and 52-54. In my opinion, the inventive concept of these claims is a topical ophthalmic composition containing this group of compounds, including travoprost, that have an acceptable therapeutic profile, for the treatment of glaucoma and ocular hypertension.
+150. An acceptable therapeutic profile, which is part of the inventive concept of all of the claims in issue, requires an acceptable separation between the dose-response for the desired therapeutic effect (lowering of intraocular pressure) and the dose-response for the undesired effects (
+e.g.
+, ocular irritation and hyperemia).
+XI. CONSTRUCTION OF THE CLAIMS
+[119]
+Although there is no material dispute between the parties about the construction of the claims, construction remains the role of the Court. I have, therefore, considered the relevant principles in construing the claims.
+A.
+Jurisprudence and Principles Governing the Construction of a Patent and its Claims
+[120]
+The principles governing claim construction are well settled and the construction of the claims is not in dispute in the present case.
+[121]
+Justice Hughes provided a useful summary of the relevant principles following a review of all the jurisprudence in
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ No 111:
+[64] There have been many judicial instructions as to the construction of a claim. To summarize:
+• construction must be done before considering the issues of validity and infringement;
+• construction is done by the Court alone, as a matter of law;
+• the Court is to construe the claim through the eyes of the person skilled in the art to which the patent pertains;
+• the Court may obtain the assistance of experts to explain the meaning of particular words and phrases, and as to the state of the art as of the date the claim was published;
+• the Court should read the claim in the context of the patent as a whole, including the description and other claims;
+• The Court should avoid importing this or that gloss from the description;
+• the Court should not restrict the claim to specific examples in the patent;
+• the Court should endeavour to interpret the claim in a way that gives effect to the intention of the inventor;
+• the Court should endeavour to support a meritorious invention.
+B.
+Claims 12, 27, 35 and 46
+[122]
+There is no dispute, for the purpose of this application, that claims 35 and 46 encompass travoprost. Apotex disagrees that claims 12 and 27 encompass travoprost (i.e. the (+)- flupro­stenol isopropyl ester), but notes that this disagreement is immaterial and has no impact on the outcome of this application; the construction will include both forms.
+[123]
+An informed and purposive construction through the eyes of the POSITA focusing on the claims while considering the patent as a whole and with the benefit of the evidence of the experts and the submissions of the parties, leads to the following construction:
+• Claim 1 is directed to the use of a therapeutically effective amount of a compound of formula (IV) for the treatment of glaucoma and ocular hypertension. The isopropyl ester of fluprostenol is one of the compounds encompassed by formula (IV) in claim 1.
+• Claim 12 is directed to the use of a compound of formula (IV) selected from pharmaceutically acceptable esters of fluprostenol, and more particularly encompasses certain ester forms of fluprostenol, wherein the fluprostenol moiety is either in an enantiopure or racemic form, for the treatment of glaucoma and ocular hypertension. Claim 12 includes within its scope travoprost, which is the enantiopure form of fluprostenol isopropyl ester.
+• Claim 27 is directed to the use of a topical ophthalmic composition for the treatment of glaucoma and ocular hypertension and, more particularly, encompasses certain ester forms of fluprostenol, either in racemic form or as single enantiomers and includes compositions containing travoprost, which is an isopropyl ester of fluprostenol.
+• Claim 35 is directed to the use, for the treatment of glaucoma and ocular hypertension, of a therapeutically effective amount of a compound with a small class of esters that are substantially free of the opposite enantiomer. Claim 35 includes within its scope, the use of travoprost, which is an isopropyl ester of fluprostenol.
+• Claim 46 is directed to topical ophthalmic compositions for the treatment of glaucoma and ocular hypertension containing a small class of ester compounds that are substantially free of the opposite enantiomer. Claim 46 includes within its scope a composition containing travoprost, which is an isopropyl ester of fluprostenol.
+[124]
+In my view the claims at issue, in their simplest/most understandable form, are:
+• Claims 12 and 35 claim the use of a compound containing a therapeutically effective amount of the pharmaceutically acceptable esters of fluprostenol (i.e. travoprost) for the treatment of glaucoma and ocular hypertension.
+• Claims 35 and 46 claim the use of a topical ophthalmic composition containing a therapeutically effective amount of the pharmaceutically acceptable esters of fluprostenol (i.e. travoprost) for the treatment of glaucoma and ocular hypertension.
+XII. THE INVENTION
+A.
+Is it a selection patent?
+[125]
+Alcon does not assert that the '287 is a selection from the genus of the '417. Alcon submits that the '287 does not disclose or assert the special advantages of the selected compound over the genus of the '417.
+[126]
+Apotex agrees that a selection patent must state its advantages in clear terms over the genus in order to obtain and to keep its monopoly, and submits that the '287 may well be a selection patent given that it is described in classic selection patent language with a clear promise that the compounds of the invention have particular substantial advantages over the compounds of the '417.
+[127]
+Apotex argues that Alcon has chosen to not assert the '287 as a selection patent to avoid demonstrating or soundly predicting the stated substantial advantages.
+[128]
+If Alcon's position prevails, that the '287 is not a selection, as it has no special advantages, and promises only therapeutic usefulness, Apotex argues that Alcon can not rely on the unstated advantages to support its validity and it will fail for anticipation and/or obviousness (basically because it does no more than the '417). Apotex submits that in the absence of substantial advantages, a patent which is a selection can not be validly issued because it gives the public nothing new and unobvious over the genus.
+[129]
+Apotex points to the "classic selection patent language" in the '287;
+[...]
+unexpectedly found that cloprostenol, fluprostenol, and their pharmaceutically acceptable salts and esters show significantly greater IOP reduction than the compounds of (the 417 application) while having a similar or lower side effect profile.
+[130]
+These compounds are stated to have, "
+Excellent IOP reduction without the significant side effects found with other closely related compounds
+".
+[131]
+The '287 further indicates that "
+these novel cloprostenol and fluprostenol analogues result in significant IOP reduction
+".
+[132]
+The jurisprudence has established that a selection patent is like all other patents; the same principles will apply. However, the characterization will inform the analysis of anticipation and obviousness, and in particular, utility. The assertions of the applicant and respondent regarding whether this is a selection are not determinative.
+[133]
+The assessment whether the '287 is a selection patent; i.e. is it a selection from the class of compounds set out in the '417, and what special advantages does it possess and disclose over and above the '417, will be guided by the relevant principles from the jurisprudence.
+B.
+Jurisprudence and Principles on Selection Patents
+[134]
+ <FRAGMENT_SUPPRESSED>  [2006] FCJ No 894, the Court of Appeal described the two classes of patents, noting:
+3 There are two general classes of chemical patents. The first is the 'originating patent' where there is an originating invention involving the discovery of a new reaction or a new compound. The second is the 'selection patent', which is based on a selection from related compounds derived from the original compound and which have been described in general terms and claimed in the originating patent (see
+In the Matter of I.G. Farben­industrie A.G.'s Patents
+, (1930) 47 R.P.C. 283 at page 321 per Maugham J).
+4 While there is little Canadian jurisprudence on the subject of selection patents, its elements are well defined in
+I.G. Farben­industrie
+. Lord Diplock cited this decision with approval in the House of Lords where he stated that the 'inventive step in a selection patent lies in the discovery that one or more members of a previously known class of products possess some special advantage for a particular purpose which could not be predicted before the discovery was made' (see
+ <FRAGMENT_SUPPRESSED>  at page 579). All claimed members of the known class must have the advantage and the advantage must not be one that those skilled in the art would expect to find in a large number of the previously disclosed class (i.e. a quality of special character) (see I.G. Farbenindustrie at page 323).
+5 Selection patents exist to encourage researchers to further use their inventive skills so as to discover new advantages for compounds within the known class. A selection patent can be claimed for a selection from a class of thousands or for a selection of one out of two (see for example
+I.G. Farben­industrie
+at page 323 and E
+.I. Dupont de Nemours & Co (Witsiepse's) Application
+, [1982] F.S.R. 303 (H.L) at page 310).
+[135]
+Although the Court of Appeal noted in 2006 that there was little Canadian jurisprudence on selection patents, and the above noted passages still reflect the law, there is now significant jurisprudence on the subject of selection patents from the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  [
+Plavix
+], from the Federal Court of Appeal, and from this Court.
+[136]
+In
+Plavix
+, above, Justice Rothstein adopted the conditions that must be satisfied for a selection patent as set out by Justice Maugham in
+In re I G Farbenindustrie AG's Patents
+(1930), 47 RPC 289 (Ch D) [
+Farbenindustrie
+] and which he noted were a useful starting point for the analysis:
+[9] The
+locus classicus
+describing selection patents is the decision of Maugham J. in
+In re I. G. Farbenindustrie A. G.'s Patents
+(1930), 47 R.P.C. 289 (Ch. D.). At p. 321, he explained that in the field of chemical patents (which would of course include pharmaceutical compounds), there are often two "sharply divided classes". The first class of patents, which he called originating patents, are based on an originating invention, namely, the discovery of a new reaction or a new compound. The second class comprises patents based on a selection of compounds from those described in general terms and claimed in the originating patent. Maugham J. cautioned that the selected compounds cannot have been made before, or the selection patent "would fail for want of novelty". But if the selected compound is "novel" and "possess[es] a special property of an unexpected character", the required "inventive" step would be satisfied (p. 321). At p. 322, Maugham J. stated that a selection patent "does not in its nature differ from any other patent".
+[10] While not exhaustively defining a selection patent, he set out (at pp. 322-23) three conditions that must be satisfied for a selection patent to be valid.
+1. There must be a substantial advantage to be secured or disadvantage to be avoided by the use of the selected members.
+2. The whole of the selected members (subject to "a few exceptions here and there") possess the advantage in question.
+3. The selection must be in respect of a quality of a special character peculiar to the selected group. If further research revealed a small number of unselected compounds possessing the same advantage, that would not invalidate the selection patent. However, if research showed that a larger number of unselected compounds possessed the same advantage, the quality of the compound claimed in the selection patent would not be of a special character.
+[137]
+ <FRAGMENT_SUPPRESSED>  [2010] FCJ No 951 [
+Olanzapine
+] at para 27, Justice Layden-Stevenson held that the failure of a patent to meet the conditions for a selection patent does not constitute an independent basis for challenge or invalidity, but informs the analysis of other bases for invalidity, "Rather, the conditions for a valid selection patent serve to characterize the patent and accordingly inform the analysis for the grounds of validity set out in the Act - novelty, obviousness, sufficiency and utility. In short, a selection patent is vulnerable to attack on any of the grounds set out in the Act." At para 28, Justice Layden-Stevenson noted, "It only stands to reason that in undertaking an analysis of novelty, obviousness, sufficiency and utility, one should know the nature of the beast with which one is dealing."
+[138]
+The special advantages or properties of a selection patent were highlighted at paras 46 and 57:
+[46] In <FRAGMENT_SUPPRESSED> , Rothstein J. is clear that in the case of a valid selection patent, the claimed compound is soundly predicted at the time of the genus patent, but it is not made and its special advantages are not known. After citing Lord Wilberforce's observation in
+E.I. Du Pont
+that, "it is the absence of the discovery of the special advantages, as well as the fact of non-making, that makes it possible for such persons to make an invention related to a member of the class", Rothstein J. concludes that "a patent should not be denied to the inventor who made and discovered the special advantages of the selection compound for the first time" (para. 31).
+[...]
+[57] In the context of a selection patent, the obviousness analysis considers the special properties of the compound, along with its alleged advantages, as described in the selection patent disclosure, for it is there that the inventiveness of the selection lies.
+[139]
+With respect to the inventive concept, which is an issue of dispute in the present case, Justice Layden-Stevenson noted (at paras 78-79):
+[78] With respect to selection patents, the inventiveness lies in the making of the selected compound, coupled with its advantage or advantages, over the genus patent. The selection patent must do more, in the sense of providing an advantage or avoiding a disadvantage, than the genus patent. The advantage or the nature of the characteristic possessed by the selection must be stated in the specification in clear terms ( <FRAGMENT_SUPPRESSED> , para. 114). In other words, the selection patent must promise an advantage in the sense that, if the advantage is not promised, the patentee will not be able to rely on the advantage to support the patent's validity.
+[79] However, no specific number of advantages is required. One advantage may be enough or any number of seemingly less sig­nificant advantages (when considered separately) may suffice when considered cumulatively, provided that, in either case, the advantage is substantial. It is also important to appreciate that there is a distinction between the promised advantage and the data upon which it is based. [...]
+[140]
+The jurisprudence has established that selection patents encourage researchers and inventors to use their skills to discover new advantages for compounds within a known class. However, in order for a selected compound or compounds to be patentable, the second patent, or species, must disclose something that is new, useful and not obvious.
+[141]
+The inventive step "lies in the making of the selected compound, coupled with its advantage or disadvantages over the genus" or in the discovery that one or more compounds from the genus possess some special advantage for a particular purpose.
+[142]
+There is no required number of advantages - one significant advantage may be enough, or the cumulative and substantial impact of several smaller advantages. The selected compounds or members must have a quality of a special character peculiar to that selected group. The selected compounds must not have been made and their special advantages must not have been known in order for the inventor to make an invention based on the selection.
+[143]
+The selection patent must set out its advantages in clear terms. If the advantage is not promised, the patentee can not point to the special advantages to support its novelty (
+Olanzapine
+, above).
+[144]
+Genus patents may cover many millions or more of compounds that were neither made nor tested. The compounds within the genus may have varying levels of utility. The patentee may hold a monopoly over each of these compounds - even if they are not specifically identified and or were ever made or tested.
+[145]
+A finding that the patent is a selection from a genus does not determine its validity; rather it will inform the analysis of the allegations of invalidity. A selection patent (the species) can be novel (not anticipated) if the species has not been previously made and the patentee discovers previously unknown (i.e. new) advantages that have not been disclosed in the genus. A selection patent can be un­obvious if the previously known advantages of the invention would not have been self-evident (i.e. it would not be obvious). A selection patent can satisfy utility if the patentee demonstrates or has a sound basis to predict that it would deliver the previously unknown advantages. Disclosure can be satisfied if the species patent accurately and fully describes the invention; i.e. describes the previously unknown, substantial advantages.
+C.
+The '287 is not a selection patent
+[146]
+One of the hallmarks of a selection patent is a clear statement of the promise of the special advantages of the selected compound over the genus. Although there appears to be a promise in the summary of the invention of the '287 that the IOP reduction will be significantly greater and the side effects similar or reduced over the compounds of the '417, as found below, this is not the inventive concept of the patent. The inventive concept of the claims and the promise of the patent is not that the '287 has qualities of a special character or substantial advantages over the '417.
+[147]
+Although the advantages now advanced by Alcon for the purpose of responding to the allegations of anticipation and obviousness (as more fully described below) were not disclosed in the '417, these advantages are not clearly stated in the claims at issue in the '287. The claims of the '287 do not promise greater advantages over all the compounds of the '417 or even over all the tested compounds of the '417. The Summary of Invention indicates that cloprostenol and fluprostenol show significantly greater IOP reduction and a similar or lower side effect profile and in the next paragraph disclose that certain cloprostenol and fluprostenol analogues are useful in treating glaucoma and ocular hypertension.
+[148]
+Although Alcon does use some classic selection language in describing the patent, the claims as construed do not promise more than therapeutic effectiveness in the treatment of glaucoma and ocular hypertension.
+[149]
+If the promise is only to be useful or to provide a therapeutically effective treatment for glaucoma in humans, then it has not asserted any special advantages over the '417 and it should not be characterized as a selection patent. The allegations of anticipation, obviousness and inutility will be considered on the basis that the '287 is a new compound, a species patent.
+[150]
+Alcon also argues that there are two aspects to the promise, and two aspects to its utility (specific and general) but also relies on the general utility and the promise of usefulness in the treatment of glaucoma in humans.
+[151]
+Like other aspects of this application, there are alternative arguments and competing interpretations, some of which arise legitimately from the inconsistent language of the '287 Pat­ent (which could be either intentional or inadvertent).
+[152]
+The characterization of the '287 as a selection patent would be possible, but based on the construction of the claims at issue and in the context of the Patent as a whole, I find that it is not a selection, but a species patent.
+[153]
+However, if the Patent had been found to be a selection from the '417, the determination of the allegations of lack of utility, anticipation and obviousness would have been the same.
+XIII. INVENTIVE CONCEPT
+[154]
+As noted, the identification of the inventive concept and the promise of the patent / the promised utility will inform the analysis of anticipation, obviousness and utility.
+A.
+Alcon's position
+[155]
+As noted above, Alcon submits that the inventive concept relates to the compounds, compositions and uses set out in the claims. Alcon does not assert that the '287 is a selection from the '417 with advantages over it.
+[156]
+Alcon submits that the inventive concept of claims 12, 27, 35 and 46 has two aspects:
+(i) the unexpected acute animal model demonstrated test results on IOP reduction and side effects of travoprost, in particular relative to the 16-phenoxy compound 4 exemplified in the 417 application, and
+(ii) the predicted therapeutic utility (chronic and in humans) of travoprost and related esters in the treatment of glaucoma and ocular hypertension.
+[157]
+Alcon later reiterates this two pronged promise in the context of its submissions on utility; a specific and a general utility.
+[158]
+Alcon suggests that the Apotex experts do not appear to disagree about the inventive concept, with the exception of Apotex's alternative allegation, that this is a selection patent.
+B.
+Apotex's position
+[159]
+Apotex disputes the two part inventive concept proposed by Alcon.
+[160]
+Apotex submits that the inventive concept is the use of, or an ophthalmic composition con­taining travoprost for the treatment of glaucoma with an acceptable therapeutic profile, which means an acceptable separation between the dose response for lowering IOP and the dose response for undesired side effects, such as ocular irritation and hyperemia.
+C.
+What do the experts say?
+[161]
+Alcon's expert Dr deLong is of the opinion that there are two aspects to the inventive concept and to aspects to the promised utility. In his affidavit at para 155, he states:
+155. As explained in more detail below, there appear to be two aspects to the inventive concept of claims 12, 27, 35 and 46, namely (i) the unexpected acute animal model demonstrated results on IOP reduction and side effects relative to certain compounds from
+Stjernschantz
+, and (ii) the predicted therapeutic utility (chronic and in humans) in the treatment of glaucoma and ocular hypertension.
+[162]
+At para 189, he expresses the same view with respect to the promise of the invention, stating:
+[...] In addition, the reader would understand that the tested claimed compounds were shown to have excellent IOP reduction properties combined with an improved or similar side effect profile (subject to whether the comparison is to a formula 1 or 2 compound) compared to the tested compounds of
+Stjern­schantz
+. These two aspects combined are the disclosed utility and invention of the 287 patent.
+[163]
+On cross examination he agrees (at Q 509) that the compounds disclosed are indicated to have significantly greater IOP and, in terms of side effects, the same or better side effect profiles than the '417. (However, his affidavit clarifies that he is referring to tested compounds in the '417.)
+[164]
+Dr Mittag summarises his opinion on the inventive concept of the claims in issue in his affidavit, at para 26-27:
+26. For claims 1-3, 7-9, 12-15, 33-37 and 41-43, the inventive concept is the use of this group of compounds, including travoprost, that have an acceptable therapeutic profile, for the treatment of glaucoma and ocular hypertension.
+27. For claims 16-18, 22-24, 27-30, 44-48 and 52-54, the inventive concept is a topical ophthalmic composition containing this group of compounds, including travoprost, that have an acceptable therapeutic profile, for the treatment of glaucoma and ocular hypertension.
+[165]
+Dr Mittag also clarifies that "acceptable therapeutic profile", which is part of the inventive concept, "requires an acceptable separation between the dose-response for the desired therapeutic effect (lowering of intraocular pres­sure) and the dose-response for the undesired effects (e.g., ocular irritation and hyperemia)".
+[166]
+Dr Wolff summarises his opinion of the inventive concept in his affidavit at para 35 as "A class of IOP-lowering prostaglandin ester compounds, that includes travoprost, having a therapeutically acceptable side effect profile, and their compositions and uses." He elaborates at para 196:
+196. In my opinion, the inventive concept of the claims in issue of the 287 Patent is directed to a class of IOP-lowering prostaglandin ester compounds, that includes travoprost, having a therapeutically acceptable side effect profile, and their compositions and uses. As I described above, each of the claims in issue encompasses within its scope the isopropyl ester of fluprostenol or one of the specific enantiomers of the isopropyl ester of fluprostenol.
+D.
+The inventive concept
+[167]
+While the summary of invention does refer to the '287 showing some advantages over the '417, the claims do not. Looking at the patent as a whole and the claims at issue and how these are expressed, and with the benefit of the expert evidence who all agree, including Dr Mittag, on the inventive concept of the claims at issue, I find the inventive concept to be a therapeutically effective amount of travo­prost or an ophthalmic composition containing a therapeutically effective amount of travoprost for the treatment of glaucoma with an acceptable side effect profile.
+XIV. UTILITY / SOUND PREDITION
+[168]
+If a promise is made, the patentee must live up to the promise. Where a patentee describes the invention as possessing a particular level of utility, he is bound by that promise. Otherwise, a mere scintilla of utility is sufficient.
+[169]
+Apotex asserts that Alcon had to make an "elevated" promise in order to get the patent, and having done so, it must live up to it, and it does not. Apotex submits that the '287 was not demonstrated and was not soundly predicted to be better than the '417 for the treatment of glaucoma and ocular hypertension in humans.
+[170]
+Alternatively, Apotex submits that if the promised utility is no more than therapeutic utility or effectiveness in humans, with no com­parative benefits, the '287 would be anticipated by the '417 and/or obvious.
+[171]
+Apotex maintains that Alcon has asserted a promise or an inventive concept with two aspects. Alcon then mirrors this two pronged approach in its submissions on utility; i.e. that there is both a specific utility related to demonstrated results in the animal testing and general utility related to the predicted therapeutic effectiveness or utility in humans.
+[172]
+Alcon seeks only to rely on the general utility of the invention for the purpose of responding to the allegations of inutility.
+[173]
+The issue is, once again, what was promised. The demonstrated or soundly predicted utility can only be measured against the explicit promise, or in the absence of such a promise, its mere usefulness.
+A.
+Jurisprudence and Principles on the Promise of the Patent
+[174]
+In
+Olanzapine
+, above, Justice Layden-Stevenson noted that the law had established that "where the specification sets out an explicit 'promise', utility will be measured against that promise". She then provided guidance on how the Court should ascertain the promise of the patent noting that this is a question of law for the court:
+[80] The promise of the patent must be ascertained. Like claims construction, the promise of the patent is a question of law. Generally, it is an exercise that requires the assistance of expert evidence:
+ <FRAGMENT_SUPPRESSED>  F.C.J. No. 1579 at para. 27. This is because the promise should be properly defined, within the context of the patent as a whole, through the eyes of the POSITA, in relation to the science and information available at the time of filing.
+[175]
+The Court of Appeal noted more recently in
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ No 856 at para 54:
+[54] An inventor whose invention is described in a patent which would otherwise be valid can nonetheless promise more for his invention than required by the Act so as to render his patent invalid. If he does so, so be it; it is a self-inflicted wound: see
+Free World Trust v. Électro Santé Inc.
+, 2000 SCC 66, [2000] 2 S.C.R. 1024, at paragraph 51. But Courts should not strive to find ways to defeat otherwise valid patents. [...]
+[176]
+The Court of Appeal went on to note, referring to
+ <FRAGMENT_SUPPRESSED> , that Courts should endeavor to construe the claims of the patent to support the invention, where the language of the patent can reasonably be read to do so.
+[177]
+Where there is no explicit promise made, mere usefulness will be sufficient.
+[178]
+ <FRAGMENT_SUPPRESSED>  [2012] FCJ No 422, the Federal Court of Appeal referred to the "low bar" for utility in the absence of a specific promise, at para 7:
+[7] The law sets the bar low for utility when the specification does not promise that the in­vention will produce a specific result. Inventors are not required to make such a promise. However, when they do, an invention that does not do what the specification promises lacks utility for the purpose of section 2:
+ <FRAGMENT_SUPPRESSED>  C.P.R. (4th) 413 at para. 76 (
+Eli Lilly
+).
+[179]
+Justice Hughes reviewed the case law on pharmaceutical claims in
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ No 111 at para 159 and summarized the key principles: the particular utility must be stated in the specification; the particular utility must be stated in the claim only where the compound is a previously known compound for which a new use is the invention; the specification must disclose information from which the utility can be confirmed or be said to be soundly predicted; where utility is challenged, the Court may determine whether the utility had been established or soundly predicted as of the relevant date.
+[180]
+In the present case, the invention is not a new use for a previously known compound. Therefore, the specific utility need not be set out in the claim. If it is not set out in the claim, the specification must disclose information from which the utility can be confirmed or be said to be soundly predicted. In the present case, the claims promise only to be therapeutically effective for the treatment of glaucoma and ocular hypertension.
+[181]
+ <FRAGMENT_SUPPRESSED>  [2012] FCJ No 901 [ <FRAGMENT_SUPPRESSED> ] at para 126, Justice Zinn noted that where the claims clearly set out the promise - which is the claimed utility, other statements "should be presumed to be a mere statement of advantage unless the inventor clearly and unequivocally states that it is part of the promised utility."
+[182]
+Justice Zinn added that the focus should be on the claims, noting at para 127:
+[127] The interpretation should be focused on the claims because an inventor is not obliged to claim a monopoly on everything new, ingenious, and useful disclosed in the specification. If, as here, the claims are certain and unambiguous in stating the promise, then the disclosure should not be examined microscopically to find additional promises that are outside the scope of the inventor's claimed monopoly.
+[183]
+ <FRAGMENT_SUPPRESSED>  [2014] FCJ No 126, Justice Harrington agreed that the claims take precedence when determining what is promised.
+[67] There is not a word of reduced side effects in the claims. What is usually not claimed is disclaimed. The claims take precedence of the disclosure portion of the specification, as the disclosure may lead to an understanding of what is meant by a word in the claims but neither contracts nor enlarges its scope.
+[184]
+Justice Harrington cited
+ <FRAGMENT_SUPPRESSED>  [2011] FCJ No 1262 [
+Arimidex 2011
+] at paragraph 61 "that not all statements of advantage in a patent rise to the level of a promise.
+A goal is not necessarily a promise
+". [Emphasis in original]
+[185]
+In the present case, there is no mention of reduced side effects in the claims. The claims refer only to therapeutic effectiveness and acceptable side effects.
+[186]
+With respect to sound prediction of utility, the applicable principles were established by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  prediction; there must be an articulable and sound line of reasoning from which the desired result can be inferred from the factual basis; and, there must be proper disclosure. It is normally sufficient if the specification provides a full, clear and exact description of the nature of the invention and the manner in which it can be practised.
+B.
+Alcon's position
+[187]
+Alcon notes that the law is clear; there must be an explicit promise, a goal is not a promise, and where the patent does not make an explicit promise, a mere scintilla of utility will suffice.
+[188]
+Alcon submits that the question is whether there was a promise that travoprost, when used to treat glaucoma, would be better than
+all
+of the '417 compounds. Alcon answers that this was not the promise; the promise was that travoprost would be useful or therapeutically effective for the treatment in humans, not better than all of the compounds of the '417.
+[189]
+Alcon asserts that the Summary of Invention set out a two part utility:
+i) a specific utility in the results of the tested compounds - excellent IOP lowering without significant side effects of travoprost when compared in particular to the 16-phenoxy compound 4 of the 417 application (compound C in the 287 patent), in the acute animal models reported in the 287 patent, and
+ii) a general utility relating to the use of travoprost in the treatment of glaucoma and ocular hypertension, which would be understood to be chronic use in humans, and which was soundly predicted at the filing date.
+[190]
+Alcon highlights that the utility of the claimed fluprostenol esters is limited to animal model testing results reported in the '287 and their
+predicted
+usefulness in the treatment of glaucoma.
+[191]
+Alcon submits that the common general knowledge was that one could not reasonably predict therapeutic utility in humans without animal model test results. The '287 patent does not indicate or even suggest that there is comparative testing to
+all
+of the compounds of the '417 application, and the POSITA would understand that such a comparison was not made and no such promise was made. Rather, the POSITA would understand that the utility is the testing reported in the '287 and a general prediction of utility in humans.
+[192]
+Alcon asserts that Apotex's allegation of inutility is based on Apotex's proposed construction of the promise, which is disputed; that the promise of the '287 is two-fold (i) that the compounds of the claims at issue will not cause significant side effects found with other, closely related compounds
+and
+(ii) they will have significantly greater IOP reduction with a better or similar side-effects in the treatment of glaucoma, than all of the compounds of the '417 application.
+[193]
+Alcon argues that Apotex cannot rely on the product monograph to assert that travoprost lacks utility because it causes unacceptable side effects. The monograph indicates that the hyper­emia was mild and subsides over time. Alcon also argues that travoprost is approved for use in Canada and Apotex would not seek approval to market it if it lacked utility.
+[194]
+Alcon also submits that Apotex's utility attack is based on its incorrect construction. Alcon disputes the interpretation offered by Apotex's witness Dr Mittag, who (at para 173 of his affidavit) described the promise as having two aspects; greater IOP reduction than all of the compounds of the '417 application, a similar side effect profile to the formula 1 compounds and a better side effect profile than the formula 2 compounds, when used for the chronic treat­ment of glaucoma in humans. Alcon also notes that on cross examination, Dr Mittag clarified that he should have indicated that he was referring to the
+tested
+compounds of the '417.
+[195]
+Alcon acknowledges that although utility was not demonstrated, the use of the compounds of claims 12, 27, 35 and 46 to treat glaucoma and ocular hypertension was soundly predicted; this was a reasonable scientific hypo­thesis or theory at the filing date. The factual basis for the sound prediction can be found within the '287 patent, including the background information regarding PGs, the references in the '417 application, and the hyperemia and IOP testing for the compounds including travoprost along with the common general knowledge. Stjernschantz et al tested animal models and it was common knowledge which animal models were the best indicators for good results in humans. The relevant common knowl­edge would indicate that the animal testing models reported in the '287 were the best models available, particularly the lazered mon­key eye model, to predict IOP lowering, including in humans. This was confirmed by Apotex's expert Dr Wolff. The guinea pig model was a preferred model for side effects and the best predictor of hyperemia and other side effects in humans, including for chronic use.
+[196]
+The POSITA would accept as a reasonable hypothesis that travoprost, given its excellent IOP lowering and improved side effect profile in the preferred animal models would be useful for the treatment of glaucoma and IOP in humans.
+[197]
+Alcon submits that this provided a sound line of reasoning from which the utility could be inferred from the factual basis. Based on the '287 patent and the common general knowledge, the promised therapeutic utility of the claims in issue - IOP lowering and an acceptable side effect profile for chronic use in humans - was soundly predicted.
+[198]
+The prediction of chronic (i.e. long term) use was supported by the common general knowledge, including that regarding latanoprost and PGF
+2
+a
+, which were known to be effective in chronic testing. Alcon notes that Apotex's expert, Dr Mittag, agreed that test results in the '287 supported sound prediction for the use of latanoprost in chronic treatment of glaucoma. Alcon submits that there was no reason not to make a corresponding prediction regarding flup­rostenol esters in the '287. The POSITA would - based on the common general knowledge - understand that all esters would have the utility predicted.
+[199]
+Alcon submits that the teachings of the '417 provided a reasonable hypothesis for use in humans. Alcon points to the hyperemia testing in guinea pigs, as the best predictor of hyperemia in humans and the IOP testing in the monkey as providing the factual basis along with the sound line of reasoning and therefore, sound prediction for utility in humans.
+C.
+Apotex's position
+[200]
+Apotex submits that a particular level of utility was promised, and the patentee did not demonstrate or soundly predicted this level of utility by the filing date (August 1994) and because the claims of the patent do not live up to the promised utility, the claims are invalid.
+[201]
+Apotex argues that there is an explicit two part promise; an intraocular pressure [IOP] promise and a Side Effects Promise.
+[202]
+The IOP promise is that fluprostenol and its esters "show significantly greater IOP re­duction than the compounds of [the '417 application] ", and "are useful in treating glaucoma", and that topical administration "result[s] in significant IOP reduction".
+[203]
+Apotex submits that the skilled person would understand that the '287 is promising that fluprostenol shows significantly greater IOP reduction than the compounds of both subclasses of the '417 during the chronic treatment of glaucoma in humans.
+[204]
+The Side Effects Promise is that flupro­stenol and its esters will have "a similar or lower side effect profile" than the compounds of the '417 and "excellent IOP reduction without the significant side effects found with other, closely related compounds".
+[205]
+Apotex submits that the skilled person would understand that the '287 is promising that, at least, fluprostenol and its esters possess a superior side effects profile than all of the formula 2 compounds of the '417, including the 16-phenoxy, as these are "other closely related compounds" and possess a similar side effects profile to all of the formula 1 compounds of the '417 application (e.g. latanoprost), during the chronic treatment of glaucoma in humans.
+[206]
+Apotex submits that the expert evidence supports this construction, including the evidence of Dr Mittag and Alcon's expert, Dr deLong.
+[207]
+For example, on cross-examination (at Q 509), Dr deLong agreed that the compounds disclosed are indicated to have significantly greater IOP and, in terms of side effects, the same or better side effect profiles than the compounds of the '417. He also agreed that the '287 indicated a better therapeutic profile over those of the '417. He further indicated that the compounds of the '287 are intended for use in humans.
+[208]
+Apotex takes issue with Alcon's interpretation that the only specific promise is related to a comparison with only the 16-phenoxy and only to the animal models tested in the Patent. Apotex submits that this promise is not what the clear words of the Patent indicate. The '287 refers to multiple "closely related compounds" and is not limited to the 16-phenoxy.
+[209]
+Apotex argues that the Alcon interpretation ignores the advantages stated in the '287 and requires the skilled person to look first to the tables of data of the animal model test results, ignore the comparisons between travo­prost and cloprostenol, 17-phenyl-trinor or latano­prost, and then focus only on the test re­sults comparing travoprost and the 16-phenoxy.
+[210]
+In addition, Apotex submits that such a characterization of the promise asserted by Alcon is less of a promise than that made in the '417 (i.e. it is a retraction), because the '417 promised that its compounds treat glaucoma in humans, but Alcon's promise is limited to predicting excellent IOP and improved side effect profile only in the animal models as tested and reported in the '287.
+[211]
+Apotex submits that Alcon has contrived this specific promise to focus on comparisons with the 16-phenoxy because this is the only compound against which Alcon can assert an advantage.
+[212]
+However, if the promised utility is a general prediction of therapeutic utility in humans, this is the same therapeutic use promised by the '417.
+[213]
+With respect to whether the claims lived up to their promised utility, Apotex submits that there was no demonstrated or sound prediction of the promised specific or general therapeutic utility for the treatment of glaucoma in humans (as advanced by Alcon).
+[214]
+Apotex also submits that there was no demonstrated or soundly predicted utility for the IOP or side effects promise, which Apotex argues is the promised utility.
+[215]
+The disclosure in the '287 established only that the IOP lowering effect of the tested compounds (fluprostenol, 16-phenoxy and 17-phenyl-trinor) was indistinguishable. Fluprostenol did not show greater IOP lowering effects. The 17-phenyl-trinor had the largest IOP lowering effect, according to Dr Wolff.
+[216]
+Apotex submits that this could not be sound prediction that fluprostenol and its esters show
+greater IOP reduction
+than the compounds of the '417 during the chronic treatment of glaucoma in humans.
+[217]
+With respect to the side effects promise, Apotex submits that the '287 promised that fluprostenol and its esters have a superior side effect profile than
+all
+of the formula 2 compounds (that includes the 16-phenoxy) and a similar side effect profile to
+all
+of the formula 1 compounds (e.g. latanoprost) .
+[218]
+Apotex submits, however, that the data establishes that travoprost produces more side effects than latanoprost.
+[219]
+Apotex further submits that the testing in animal models was insufficient to predict side effects for a chronic (long term) administration. The testing for hyperemia was based on applying only one dose of the test compounds which is not indicative of what occurs after multiple doses of a drug that is intended to and must be taken chronically.
+[220]
+For example, Dr Mittag indicates (at para 97 of his affidavit) that the incidence and severity after one dose is not representative of what occurs after multiple doses.
+[221]
+Apotex submits that Alcon seeks to avoid the express words of the patent. It could not predict the reduced side effects of travoprost because travoprost had unacceptable side effects.
+[222]
+Apotex submits that Alcon had to make the promise to get the patent but did not live up to the IOP or side effects promise and it was not soundly predicted to be better than the '417 for the treatment of glaucoma in humans.
+[223]
+Apotex submits that Alcon's construction of utility with a specific and general aspect is results oriented. Moreover, if the promised utility is no more than therapeutic utility in humans, with no comparative benefits, this was already taught in the '417, leading to the result that the '287 would be anticipated and/or obvious.
+D.
+What do the experts say?
+[224]
+Dr deLong provides his opinion at para 181-189 of his affidavit on the interpretation of each sentence of the Summary of Invention in the '287. He concludes at para 189 with his opinion, (as noted above), with respect to the inventive concept, that there are two aspects to both the inventive concept and the promised utility:
+Consequently, a skilled reader would understand from the 287 patent that the inventors are predicting that the compounds claimed in the 287 patent will have therapeutic usefulness in the treatment of glaucoma and ocular hypertension. The treatment of glaucoma would be understood to be chronic in nature. In addition, the reader would understand that the tested claimed compounds were shown to have excellent IOP reduction properties com­bined with an improved or similar side effect profile (subject to whether the comparison is to a formula 1 or 2 compound) compared to the tested compounds of
+Stjernschantz
+. These two aspects combined are the disclosed utility and the invention of the 287 patent.
+[225]
+Earlier in his affidavit at para 185, Dr deLong refers to the second sentence of the Summary of Invention and states that this means only that "compounds A and B when compared to the exemplified formula 2 compounds of
+Stjernschantz
+provide
+good
+IOP reduction without the significant side effects found with the closely related formula 2 compounds of
+Stjernschantz
+." [My emphasis]
+[226]
+As Apotex notes, on cross-examination at Q 509, Alcon's expert Dr deLong agrees that the compounds disclosed are indicated to have significantly greater IOP and, in terms of side effects, the same or better side effect profiles than the compounds of the '417. He also agrees that the '287 indicated a better therapeutic profile over those of the '417. He further indicated that the compounds of the '287 are intended for use in humans. However, it is clear that Dr deLong is referring to comparisons among the tested compounds of the '417 and not all the compounds.
+[227]
+Dr deLong notes that fluprostenol and cloprostenol were compared with the formula 2 compounds of the '417 that were tested - tested compounds in the '287 were compared to tested compounds in the '417.
+[228]
+This is stated again later in his affidavit at para 219, "The only utility demonstrated, relevant to claims 12, 27, 35 and 46 is the excellent IOP reduction activity and similar or improved side effect profile, of compound B relative to the
+tested
+compounds of
+Stjern­schantz
+, in the animal test models referenced in the patent". [My emphasis]
+[229]
+Dr deLong also attestes to the significance of the animal models as predictors of effects in humans to support the sound line of reasoning.
+[230]
+With respect to Alcon's sound prediction of the utility of travoprost, Dr deLong states, at para 236:
+Consequently, the skilled person would understand that it is a reasonable scientific theory or hypothesis to predict therapeutic utility in the treatment of glaucoma and ocular hypertension based on test results which show good IOP-lowering effects coupled with acceptable levels of hyperemia in the subject animal models. The test models set out in the 287 patent would be understood by the skilled reader as being likely the best models at the relevant time. Compound B is fluprostenol isopropyl ester. The extrapolation from com­pound B to the other esters claimed in claims 12, 27, 35 and 46 would be understood by the skilled reader as a reasonable scientific hypothesis based on the common general knowledge and the results of the 287 patent. It was common general knowledge that the related esters would likely work in humans.
+[231]
+Dr deLong adds (at para 237) that "[...] [i]n particular, the test results for IOP reduction and hyperemia effects coupled with the common general knowledge support a reasonable theory of therapeutic usefulness in humans".
+[232]
+On cross-examination, Dr deLong agrees that, with respect to claim 12, although the words "chronic" and "human" were not included in the claim, the skilled reader would know that glaucoma is a chronic disease and that chronic treatment is preferred for humans.
+[233]
+At Q 1340-1344, Dr deLong agrees that the IOP reductions for the isopropyl esters of cloprostenol and fluprostenol were comparable to that of Compound C (which is the 16-phenoxy and the same as Compound 4 in the '417). He also agrees that the IOP lowering effects of Compounds A and B cannot be said to be greater than the compounds of the '417 at the dose level indicated.
+[234]
+Dr Mittag supports Apotex's position that there is a two part elevated promise; an IOP promise and a side effects promise.
+168. First, it is stated that the compounds "show significantly greater IOP reduction than the compounds of [the 417 Application]" [...] The skilled person would understand this to mean that the compounds of the 287 Patent show significantly greater intraocular pressure reduction than all the compounds of the 417 Application, including those of both subclasses (i.e. formula 1, carbon-only and formula 2, heteroatom-interrupted) [...].
+169. Second, the 287 Patent states that the compounds have "
+a similar or lower side effect profile
+" than the compounds of the 417 Application [...].
+[235]
+Dr Mittag summarises his opinion at para 173 as follows:
+In summary, it is my opinion the skilled per­son would understand the 287 Patent to state that its compounds have significantly greater intraocular pressure reduction than all of the compounds of the 417 Application (formula 1 and formula 2), a similar side effect profile to the formula 1 compounds of the 417 Application, including latanoprost, and a lower (
+i.e.
+better) side effect profile than the formula 2 compounds of the 417 Application, including 16-phenoxy-17,18,19,20-tetranor PGF
+2
+a
+iso­propyl ester. As the 287 Patent states that its compounds "treat glaucoma and hypertension" (page 1, line 7), the skilled person would understand that the compounds can be used for the chronic treatment of glaucoma in humans.
+[236]
+I note that on cross-examination (at Q 548-549) he clarifies this opinion indicating that the comparisons were between the tested compounds in the '287 and the tested compounds in the '417 and not to all the compounds of the '417.
+[237]
+Dr Mittag expresses the opinion that the two promises could not have been soundly predicted.
+[238]
+When asked whether, in the absence of a statement in the patent that the compounds were tested in humans, a skilled reader would read the invention as only referring to a potential in humans, Dr Mittag indicated (at Q 229-231) "Yes, but the potential becomes closer to reality if the experiment is done in monkeys, in primates."
+[239]
+Dr Mittag was asked whether the '287 would support a prediction that latanoprost would be useful in humans. Dr Mittag indicates (at Q 557-561) "It has the potential to be so, yes." He further agreed that it would be a sound prediction, in the sense that it was a reasonable hypothesis, that it could be used chronically and in humans.
+[240]
+At Q 565-571, Dr Mittag responds to questions regarding the predictability of certain compounds and indicates that the side effect profile is unpredictable "depending on which substituent and where it is on the aromatic ring" and he agreed that you would have to test for side effects between different compounds.
+E.
+The Promised Utility was Soundly Predicted
+[241]
+The promised utility of the invention of the '287 is only the general utility; travoprost will be therapeutically effective for the treatment of glaucoma and ocular hypertension in humans.
+[242]
+Although Apotex has advanced credible arguments that the patent promises more and that the promised IOP and Side Effects utility have not been soundly predicted, the inventive concept of the claims and the promised utility, in this case, are consistent.
+[243]
+A promise must be explicit, and in this case, the parties have advanced different interpretations depending on the allegation of invalidity. As noted above, when the claims at issue are read with the specification, with weight given to the clear wording of the claims, I can not find that there was an explicit and elevated two part promise of utility as advanced by Apotex.
+[244]
+As noted by Justice Zinn in <FRAGMENT_SUPPRESSED> , above, the utility the inventor claims and expresses in the claims of the patent should be viewed as the promise and other statements should be presumed to be "a mere statement of advantage". Similarly, as noted in
+Arimidex
+2011
+, above, not all statements of advantages rise to the level of a promise and a goal is not necessarily a promise.
+[245]
+Having found the inventive concept to be a therapeutically effective amount of travoprost or an ophthalmic composition containing a therapeutically effective amount of travoprost for the treatment of glaucoma with an acceptable side effect profile, I also find that the promised utility is that travoprost will be therapeutically effective in the treatment of glaucoma and ocular hypertension. The utility is to be measured against this general utility (i.e. the
+predicted
+usefulness of travoprost in the treatment of glaucoma and ocular hypertension in humans). The other statements of advantages or goals do not rise to the level of an explicit promise.
+[246]
+Turning to the three part test set out in
+ <FRAGMENT_SUPPRESSED>  factual basis for the prediction of the therapeutic effectiveness of travoprost.
+[247]
+I agree with Alcon that the factual basis for the sound prediction lies within the '287 Patent coupled with the common general knowledge, confirmed by all the experts, that the animal models tested were predictors of the effects in humans. The prediction of chronic (i.e. long term) use was also supported by the common general knowledge, including of latanoprost. Apotex's expert, Dr Mittag, agreed that test results in the '287 supported sound prediction for the use of latanoprost in chronic treatment of glaucoma. I note that Apotex relied on this same prediction to advance its arguments on obviousness. I agree that the POSITA would infer that other esters would be useful or effective for treatment in humans.
+[248]
+In addition, there was a sound line of reasoning to get from the factual basis, particularly the results and invention of the '417 to similar results in the '287 that promised only therapeutic effectiveness for the treatment of glaucoma and ocular hypertension in humans and not specific and better results in comparison to the '417.
+[249]
+There was also sufficient disclosure; the '287 specification set out a full description of the nature of the invention and how to make it work.
+[250]
+Therefore, the allegation of lack of soundly predicted utility is not justified.
+XV. ANTICIPATION
+[251]
+Alcon argues that the '287 is a novel compound and that it was not anticipated by the '417 primarily because the invention of the '417 "carved out" or excluded compounds which were not therapeutically useful and that the most structurally related compound in the '417 to fluprostenol was "carved out" of the invention.
+[252]
+Apotex disputes the "carve out" approach and submits that it is not clear what is excluded from the '417 and, in addition, the compounds referred to as therapeutically unacceptable in the '287 were not unacceptable according to the re­sults of the testing. Therefore, these compounds would not be carved out. Apotex submits that the '417 discloses compounds, their properties and utilities which are the same as the subject matter of the asserted claims of the '287 and were, therefore, anticipated.
+[253]
+The more detailed arguments of the parties follow the review of the relevant jurisprudence.
+A.
+Jurisprudence and Principles on Anticipation
+[254]
+At the outset, it is helpful to note the distinction between assessing allegations of anticipation and obviousness.  <FRAGMENT_SUPPRESSED> , aff'd 2009 FCA 94, [2009] FCJ No 345 [ <FRAGMENT_SUPPRESSED> ], Justice Hughes clarified the distinctions, noting at para 59:
+[...] In brief, anticipation and obviousness are both questions of fact, prior art may be considered in respect of both, but the tests are to be used differently. In anticipation, a single document or, for post October 1989 patents, a single disclosure, is to be considered as it would have been considered by a person skilled in the art as of the relevant date to determine if the claimed invention would have been disclosed and enabled to such a person at that time. If so, the claimed invention was anticipated. With respect to obviousness, if there are differences between what was disclosed, was there room left for a person to make an inventive contribution. If what was not disclosed was something that a person skilled in the art as of the relevant date would have been expected to do without exercising invention ingenuity, hence the claimed invention is obvious.
+[255]
+Justice Hughes further noted at para 76 that "The claimed invention must be kept clearly in mind since it must be the invention,
+as claimed
+, that is to be the subject of the anticipation inquiry." [Emphasis in original]
+[256]
+In
+Plavix
+, above, the Supreme Court of Canada established the test for anticipation - which now has two branches; disclosure and enablement (at paras 30-32). The Court set out a non-exhaustive list of factors to consider to determine if the patent has provided enabling disclosure (see paragraphs 31-37).
+[257]
+Although the Court in
+Plavix
+was addressing selection patents, the Court held that its discussion of anticipation and obviousness would apply to patents more generally subject to any limitations of the
+Patent Act
+(at para 28).
+[258]
+The pre-
+Plavix
+law set a more stringent test for anticipation and was interpreted as requiring an exact description of the invention in the prior art.
+[259]
+Justice Hughes summarized the two part
+Plavix
+test in <FRAGMENT_SUPPRESSED> , above at para 67-68:
+[67] Prior disclosure means that the prior patent (publication, use or other disclosure) must disclose subject matter which, if performed, would necessarily result in infringement of the patent (claim at issue). The person skilled in the art looking at the disclosure must be taken to be trying to understand what the prior patent (or other disclosure) meant. There is no room for trial and error, the prior art is simply to be read for the purposes of understanding.
+[68] The second requirement is that of enablement which means that the person skilled in the art would have been able to perform what had been disclosed. At this stage the person skilled in the art is assumed to be willing to make trial and error experiments to get it to work. [...]
+[260]
+Alcon argues that the first part of the anticipation test remains stringent and requires that the disclosure would lead the skilled person to "necessarily infringe" or would inevitably result in infringement.
+[261]
+In <FRAGMENT_SUPPRESSED> , Justice Hughes considered the law in the UK which led up to and was considered by the Supreme Court of Canada in
+Plavix
+. He noted that the requirement that the disclosure if carried out would necessarily infringe or inevitably result in infringement was a high standard and must be considered in the context of the applicable burden of proof - the balance of probabilities.
+[262]
+Justice Hughes then provided a summary of the law governing anticipation, which has been cited in several subsequent cases (see
+ <FRAGMENT_SUPPRESSED>  [2009] FCJ No 675 at para 67;
+ <FRAGMENT_SUPPRESSED>  [2009] FCJ No 1703 at para 87;
+ <FRAGMENT_SUPPRESSED>  [2010] FCJ No 1014 at para 122;
+ <FRAGMENT_SUPPRESSED>  [2010] FCJ No 1322 at para 24,
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ No 844 at para 209):
+[75] To summarise the legal requirements for anticipation as they apply to the circumstances of this case:
+1. For there to be anticipation there must be both disclosure and enablement of the claimed invention.
+2. The disclosure does not have to be an "exact description" of the claimed invention. The disclosure must be sufficient so that when read by a person skilled in the art willing to understand what is being said, it can be understood without trial and error.
+3. If there is sufficient disclosure, what is disclosed must enable a person skilled in the art to carry out what is disclosed. A certain amount of trial and error experimentation of a kind normally expected may be carried out.
+4. The disclosure when carried out may be done without a person necessarily recognizing what is present or what is happening.
+5. If the claimed invention is directed to a use different from that previously disclosed and enabled then such claimed use is not anticipated. However if the claimed use is the same as the previously disclosed and enabled use, then there is anticipation.
+6. The Court is required to make its determinations as to disclosure and enablement on the usual civil burden of balance of probabilities, and not to any more exacting standard such as quasi-criminal.
+7. If a person carrying out the prior disclosure would infringe the claim then the claim is anticipated.
+[263]
+In
+Olanzapine
+, above Justice Layden-Stevenson applied the principles set out by the Supreme Court of Canada in
+Plavix
+. Although that case dealt with the issue of whether the patent was a selection, the principles regarding anticipation apply to patents more generally:
+[44] With respect to disclosure, section 28.2 of the Act is the governing section. Among other things, it requires that the invention was not disclosed "in such a manner that it became available to the public in Canada or elsewhere" more than one year before the patent was filed. Although <FRAGMENT_SUPPRESSED> addressed disclosure in the context of the predecessor Act, the principles enunciated in <FRAGMENT_SUPPRESSED> remain applicable. The POSITA reads the particular piece of prior art to understand whether it discloses the second invention. The evidence to be considered is comprised solely of the prior art, as the POSITA would understand it. No trial and error or experimentation is permitted.
+[45] Where disclosure is found to exist, the second requirement (enablement) requires the POSITA to be able to perform the invention. Enablement is assessed having regard to the particular piece of prior art as a whole. The prior art must provide the POSITA, using his or her common general knowledge, with enough information to allow the subsequently claimed invention to be performed without undue burden. Where the invention arises in a field of technology where trials and experiments are generally carried out, routine trials are acceptable.
+B.
+Alcon's position
+[264]
+The applicant, Alcon set out the relevant prior art, and there is no dispute that these references are relevant. However the parties are not in agreement about the teachings of some of the prior art, particularly Stjernschantz and Woodward.
+[265]
+Alcon submitted the following as the relevant teachings from the prior art:
+• Binder, 1974 - Discloses certain non-ocular biological activity for the free acid flupro­stenol and that activity resides in the enantiomer with the same absolute chemistry as the natural PG.
+• Stern, 1982 - Reports that PGF
+2a
+reduced IOP in the monkey with an expectation "that PGs also have a hypotensive effect on the human eye" and that PGF
+2a
+and/or its analogues "may" provide a new approach to the treatment of glaucoma.
+• Bito, 1984 - Concludes that PGF
+2
+a
+esters are highly lipophilic substances that can be expected to pass through the corneal epithelial barrier more readily than any of the naturally occurring PGs and suggests that acute ocular hypotensive effects and potential side effects of PG derivatives should be investigated for potential use in long-term therapy of glaucoma.
+• Woodward, 1989 - Examines ability of PGF
+2
+a
+derivatives, including flupro­stenol, to reduce IOP and concludes that: (i) fluprostenol was inactive, (ii) the ocular hypotensive response to PGF
+2
+a
+could not be attributed to FP-receptor stimulation and (iii) ranked a 16-phenoxy compound ahead of fluprostenol, noting a "transient hypertensive response" to the 16-phenoxy compound was observed in cats.
+• Alm, 1989 - Reviews the use of PGF
+2
+a
+IPEs in humans and concludes they reduce IOP but notes clinically unacceptable side effects.
+• Bito, 1989 - Noted that multiple dose studies on cynomolgus monkeys demonstrated no evidence of tolerance to the hypotensive effects of PGs after repeated dosing and concludes that PGs are effective hypotensive agents that can maintain a significant IOP reduction in mammalian eyes, with the notable exception of rabbit eyes.
+• EP 0 364 417 ("417 application"), 1990 - Refers to a chemical genus of at least 800 billion compounds in which 11 compounds are disclosed and tested, including latanoprost (Compound 9), one "oxygen-interrupted" (16-phenoxy) compound (Compound 4) and one "substituted" phenyl (Compound 8). The invention is described as limited to "therapeutically effective and physiologically acceptable derivatives" and specifically excludes compounds that are "not even useful due to adverse effects" (which Alcon refers to as a "functional carve-out") and Compound 1 is excluded from the scope of the invention.
+• Woodward, 1993 - Tested 6 compounds, including fluprostenol (free acid) and found these were potent ocular hypotensive agents in dogs and monkeys, suggesting that IOP is mediated by different receptor subtypes, but did not test side effects.
+[266]
+Alcon also described the common general knowledge of persons skilled in the relevant art as of August 3, 1993, which is not materially in dispute, including that:
+• Reducing IOP was accepted as the rational approach to the treatment of glaucoma;
+• PGs and their analogues were known to reduce IOP;
+• The goal was to find a PG with acceptable side effects and an overall acceptable therapeutic profile;
+• The experts agree that small changes in the structure of a PG could result in significant changes to the side effects or activity of the compound;
+• A POSITA could not predict between structurally different PGs about their side effect profile;
+• Hyperemia in acute animal model testing results was considered a reasonable prediction for a side effects profile generally in animals and humans, including chronically dosed compounds; and
+• There was a general consensus that a large number of prodrug esters would work to improve bioavailability.
+[267]
+With respect to the two part test for anticipation, Alcon agrees that the issue is whether the prior art disclosed the invention of the '287; the enablement branch of the test is not an issue.
+[268]
+Alcon submits that the '417 did not anticipate for two reasons:
+1) Although the '417 discloses a genus of billions of compounds, travoprost or flupro­stenol esters are not specifically disclosed and nothing points to them; and,
+2) The testing of the 16-phenoxy (compound 4) in the '417, which is the most closely structurally related compound to fluprostenol, showed poor results. The invention of the '417 is limited to the therapeutically effective and "physiologically acceptable derivatives" and excludes (or "carves out") compounds that are not useful due to their adverse side effects.
+[269]
+With respect to its first argument, Alcon submits that a POSITA attempting to carry out the disclosure of the '417 would not arrive at the claimed fluprostenol esters because they would not be perceived among the billions of compounds of the '417 and it would not be apparent which of the 16-phenoxy type compounds are included in the '417. In addition, animal testing would be required to determine the therapeutic utility for glaucoma, and this goes beyond the disclosure branch of the anticipation test.
+[270]
+Alcon submits that the Supreme Court of Canada made it clear that "necessarily infringe" is the test for anticipation; i.e. that the disclosure in the '417 would lead a person to necessarily infringe it by making the invention of '287 and this is not so.
+[271]
+The '287 noted that the '417 application, also referred to as
+Stjernschantz et al
+, or simply
+Stjernschantz
+, was of particular interest. Alcon notes that
+Stjernschantz
+disclosed that the prob­lematic side effects of PGs could be addressed stating (at p 3 of the '417):
+We have now found that a solution to the problems discussed above is the use of certain derivatives of prostaglandins A, B, D, E and F, in which the omega chain has been modified with the common feature of containing a ring structure, for the treatment of glaucoma or ocular hypertension
+.
+[272]
+Alcon highlights that the '287 clearly states that "[...] cloprostenol and fluprostenol are generically included in the subclass defined in formula 2 by
+Stjernschantz et al
+. However, neither compound is specifically mentioned in
+Stjernschantz et al.
+and the disclosure is primarily related to carbon-only omega chains." Alcon argues that the advantages of the '287, which have two aspects, could not be ascertained until it was made.
+[273]
+Alcon points to
+Olanzapine
+, above at para 52 where the Court of Appeal noted that the genus covered 15 trillion compounds but did not disclose olanzapine, and although it was one of a large class of most preferred compounds described by reference to several criteria, it had not been made and its advantages could not have been ascertained until it was made.
+[274]
+Alcon submits that the POSITA would understand that the '417 revealed that if the compound was not tested, its usefulness would not be known. Moreover, the '417 disclosed that some were not useful and carved these out.
+[275]
+Alcon submits that a POSITA would not see a clear disclosure of fluprostenol as being useful. The experts' opinions are that generally, you don't know what is in and what is excluded from the '417. Even if the POSITA picked fluprostenol from the '417, they would have to test it. If the compound must be tested to establish usefulness, there is no disclosure.
+[276]
+Alcon submits, therefore, that the '417 did not clearly or specifically disclose the use of fluprostenol esters (travoprost) as useful for the treatment of glaucoma so as to be "available to the public".
+[277]
+Alcon submits that the '417 tested Compound 4, a 16-phenoxy, and that it showed poor results and taught away from the use of fluprostenol (i.e. travoprost), which is also a 16-phenoxy. Therefore, it would not be clear to a POSITA that the 16-phenoxy (Compound 4, travoprost) is included and there was no disclosure of its usefulness.
+[278]
+Alcon submits that its researchers examined the testing done by
+Stjernschantz et al
+and then modified compounds within that 16-phenoxy type and found therapeutically useful compounds. Alcon notes that it synthesized at least 27 compounds, including travoprost before 1994. Compounds were tested
+in vitro
+and then in animal models (cats, rabbits or guinea pigs), and some were tested in monkeys.
+[279]
+Alcon notes that the Summary of the Invention of the '287 refers to the unexpected findings of the Alcon researchers, but for the purpose of the anticipation allegations, Alcon submits that the promise is that it is useful in the treatment of glaucoma and ocular hypertension, not that it is better.
+[280]
+With respect to the second argument, Alcon argues that the '417 includes a "functional carve out" from its invention of PG derivatives that are not therapeutically effective and physiologically acceptable. In other words, such derivatives are excluded from the invention. The derivatives or compounds most closely related to fluprostenol are in that excluded group and were not disclosed in the '417; therefore, the invention of the '287 is not anticipated by the '417.
+[281]
+Alcon notes the wording in the '417:
+The invention thus relates to the use of certain derivatives of PGA, PGB, PGD, PGE and PGF for the treatment of glaucoma or ocular hypertension. Among these derivatives defined above it has been found that some are irritating or otherwise not optimal, and in certain cases not even useful due to adverse effects and these are excluded in
+that the group of prostaglandin derivatives defined above is limited to therapeutically effective and physiologically acceptable derivatives
+. So is for instance (1) 16-phenyl-17,18,19,20-tetranor-PGF
+2a
+-isopropyl ester irritating while this can be eliminated by substituting the phenyl ring with a methoxy group giving formula (8) which represents a therapeutically more useful compound.
+[My emphasis]
+[282]
+Alcon highlights that the '417 covers 800 billion compounds but it only tested 11. The testing of the 16-phenoxy (asserted to be most closely related to fluprostenol) showed an initial increase in IOP with a reduction after six hours.
+[283]
+Alcon also points to the '287 at page 4:
+The IOP data revealed by Stjernschantz et al. for 16-phenoxy-17, 18,19,20-tetranor PGF
+2a
+isopropyl ester (see Stjernschantz et al, page 17, Table V) indicate initial increase in IOP (1-2 hours after administration) followed by a decrease. Moreover, the compound displays unacceptable hyperemia (see Stjernschantz et al., Table IV, line 40). In short, data from Stjernschantz et al. demonstrate that the oxygen-interrupted omega chain subgeneric class of compounds (see formula 2) displays an unacceptable therapeutic profile
+.
+[284]
+Apotex submits that the "functional carve out" is the strongest or clearest indication that there was no anticipation by the '417. Alcon argues that many or most compounds in the '417 are not useful. Alcon acknowledges that the experts cannot agree on what is in and what is out of the invention of the '417, but submits that it is not clear that the '417 discloses fluprostenol for the treatment of glaucoma.
+[285]
+In summary, Alcon argues that a POSITA seeking to carry out the disclosure of the '417 would not arrive at the claimed invention because they would not be perceived among the billions of compounds of the '417, it would not be clear which 16-phenoxy compounds are included and animal model testing would be required to determine therapeutic utility (and no such testing is permitted under the anticipation test).
+C.
+Apotex's position
+[286]
+Apotex submits that because Alcon has not asserted the '287 as a selection patent, the allegations of invalidity due to anticipation must be considered on the basis that the '287 is a species patent. Alcon cannot, therefore, rely on the previously unknown substantial advantages of travoprost over the compounds of the '417 to support the novelty of the '287.
+[287]
+Based on Alcon's promised utility or inventive concept as simply being useful for the treatment of glaucoma and as not including the advantages stated in the '287, Apotex submits it is both anticipated and obvious.
+[288]
+Apotex submits that the issue is, therefore, whether the '417 application disclosed and enabled the use of travoprost to treat glaucoma and ocular hypertension (i.e. without the advantages over the '417)
+[289]
+The '287 patent acknowledges that fluprostenol and its esters (i.e. travoprost) are included in the '417 application. Apotex notes that this admission is binding on the patentee, Alcon.
+[290]
+Apotex submits that Alcon's position on anticipation is based on an incorrect and outdated legal position and that the Supreme Court of Canada's decision in
+Plavix
+, above, governs. In addition, Alcon's argument that the '417 included a "functional carve out" - or excluded some compounds, one of which was travoprost - is not supported by the evidence.
+[291]
+Apotex reviewed the '287 in detail and submits that its characterisation in the '287 of the '417 into two subclasses is crafted only by the inventor of the '287, Alcon. The inventors of the '417 did not make this distinction and believed the two subclasses to be part of the same invention and with the same or comparable therapeutic profiles.
+[292]
+The '287 states that the '417 application tested two subclasses of prostaglandin analogues: formula 1 - carbon only omega chains and formula 2 - heteroatom-interrupted omega chains.
+[293]
+Apotex submits that based on this categorization of the '417, for formula 1, the '287 patent indicates that 17-phenyl-trinor "displayed a superior separation of toward and untoward activities" and 13,14-dihydro analogue (latano­prost) displayed even more favourable separation of activities. For formula 2, the '287 patent indicates that: cloprostenol and fluprostenol are generically included; 16-phenoxy showed an initial increase in IOP followed by a decrease and "unacceptable hyperemia"; and, the compounds display an unacceptable therapeutic profile.
+[294]
+Apotex submits that the skilled person would view these statements in the '287 as misleadin. Apotex argues that the '417 does not describe a formula 2 at all, nor does it suggest that the compounds that would be in such a formula 2 are unacceptable. Although there is an initial IOP increase for the 16-phenoxy, Apotex argues that the experts agree that this is not a problem because long term reduction in IOP is the goal.
+[295]
+With respect to Alcon's first argument that the '417 does not specifically disclose travoprost and fluprostenol esters and nothing points to them, Apotex submits that the '417 described the problem with the use of prostaglandins as causing irritation and noted that existing compounds did not have an acceptable therapeutic profile and its invention provided a solution.
+[296]
+The '417 invention discloses the use of prostaglandin analogues in which the omega chain has been modified by adding a ring structure, in ophthalmic compositions, for the treatment of glaucoma. The '417 tested eleven (11) specific compounds, all isopropyl esters. Three of the same compounds were later tested in the' 287: the 17-phenyl-trinor (Compound 2 in '417 and Compound D in '287); Latanoprost (Compound 9 in '417 and Compound E in '287); and, the 16-phenoxy (Compound 4 of '417 and Compound C of '287).
+[297]
+The '417 concludes at page 10:
+Thus, modifying the omega chain and substituting a carbon atom in the chain with a ring structure introduces completely new, unexpected and advantageous qualities to naturally occurring prostaglandins
+[...]
+[298]
+Apotex submits that in both monkey and cat testing, all compounds tested showed significant IOP lowering at least at one time point. In human testing, all compounds tested, including the 17-phenyl-trinor and latanoprost, showed significant IOP reduction and no significant irritating effect and little, if any, hyperemia in humans.
+[299]
+In response to Alcon's argument that a prediction of ophthalmic side effects for a specific PG cannot be made without animal model test results and that extending therapeutic utility to untested PG compounds would not be reasonable and, therefore, the utility of the invention was not disclosed in the '417, Apotex notes that the '417 discloses that its compounds, including travoprost, are useful to treat glaucoma. Apotex submits that a skilled person would not read a genus patent and assume that any untested compounds lack therapeutic utility when the wording of the disclosure and claims indicates otherwise.
+[300]
+With respect to the carve out argument, Apotex submits that this is, again, an argument contrived by the Alcon and is based on Alcon's rationale (which Apotex disputes) that:
+• The '417 invention excludes compounds that are not useful due to adverse side effects;
+• The data for the 16-phenoxy shows that it is not useful due to adverse effects; and,
+• Since the 16-phenoxy is the most closely structurally related to travoprost, a POSITA would deduce that travoprost had been carved out of the invention of the '417.
+[301]
+Apotex argues that the only formula 2 compound tested in the '417 (the 16-phenoxy) performed well. Apotex notes that the 16-phenoxy had identical hyperemia results to Compound 7 in the '417 application which was identified as one of the four most preferred derivatives of the compounds claimed. Apotex further notes that the 16-phenoxy was tested at five times the dose of the other tested compounds, but the results for irritation were approximately the same or better than all tested compounds. With respect to IOP reduction, the '417 described the 16-phenoxy as lowering the IOP in cats.
+[302]
+Apotex notes that the testing in the '287 for hyperemia and IOP lowering generally compares cloprostenol and fluprostenol to the three compounds tested in the '417.
+[303]
+Example 5 revealed that cloprostenol and fluprostenol produce hyperemia intermediate between 17-phenyl-trinor and latanoprost. The Patent states, at page 32, that the degree of hyperemia is also mild and cannot be distinguished from that produced by latanoprost.
+[304]
+Example 6, the testing on monkeys, indicates that all compounds other than latanoprost show similar IOP reduction.
+[305]
+The '417 states that its invention is limited to "therapeutically and physiologically acceptable derivatives". However, the '417 states that Compound 1 is irritating (Compound 1 is the 16-phenyl-17,18,19,20-tetranor-PGF
+2
+a
+isopropyl ester, which would be a formula 1 compound, as characterized by the '287). Apotex further notes that the '417 states that a chemical substitution to Compound 1 leads to Compound 8 which is therapeutically more useful.
+[306]
+Apotex notes that no other compound except Compound 1 is specifically mentioned as excluded (or in the "carve out"). The '417 never states that any formula 2 compound is carved out nor does it state that the 16-phenoxy compound is carved out nor does it state that travoprost is carved out.
+[307]
+Apotex notes that Alcon has repeatedly argued that it is not clear what is included and what is excluded in the '417 and submits that it is not possible to "carve out" anything on the basis of such lack of clarity. Apotex argues that no carve out of exclusions from the invention can be inferred.
+[308]
+With respect to whether the 16-phenoxy was unacceptable and that the '417 pointed away from it, Apotex submits that a skilled person would know that the side effects are dose dependent.
+[309]
+An initial increase in IOP at a higher dose could be addressed by lowering the dose. Apotex highlights that the goal was to lower IOP in the long term, and this was acknowledged by Alcon and confirmed by the experts and in the prior art (see, for example, Bito). Apotex notes that Dr deLong agreed, on cross-examination, that this was very common. Because the goal is long term IOP lowering, initial increases are not a problem.
+[310]
+Given that the 16-phenoxy was the only oxygen-interrupted omega chain compound (a so-called formula 2 compound) tested in the '417, Apotex suggests that it is not credible that the inventor of the '417 would make the 16-phenoxy, test it, and describe it positively, but then carve it out along with every other formula 2 compound claimed from its invention, which could be half of the 800 billion compounds.
+[311]
+Apotex submits that the '417 discloses the subject matter of the asserted claims: the '417 discloses a group of PGF
+2
+a
+analogues that inc­ludes travoprost, describes their use in the treat­ment of glaucoma and their incorporation into ophthalmic compositions; and the '417 also dis­closes that the compounds, including travoprost, have significant IOP lowering effects while causing diminished local side effects (hyperemia and irritation).
+[312]
+Apotex submits that it is not a novel invention to merely test a particular compound within a known genus and confirm that it has the same properties. Therefore, the '417 disclosed the subject matter of the asserted claims.
+D.
+What do the Experts Say?
+[313]
+Alcon's expert, Dr deLong expresses his opinion that the disclosure of the '417 excluded compounds that were not useful, noting, at para 74:
+Moreover,
+Stjernschantz
+then further qualifies the description, limiting his invention to 'thera­peutically effective and physiologically acceptable derivatives". Accordingly, the reference specifically excludes compounds that are "not even useful due to adverse effects". Thus compound 1 may be excluded from the scope of the invention (noting that the para-methoxy substituted compound 8 may represent a therapeutically more useful compound. (Dr deLong recited lines 31-37 of page 4 in his affidavit).
+[314]
+At para 85, Dr deLong notes that Stjernschantz tested only one oxygen interrupted compound (Compound 4). He asserts "It showed what appears to be an unacceptable degree of hyperemia and was not advanced for further testing."
+[315]
+At para 193 and 194, he adds:
+Stjernschantz
+only discloses a very large genus which includes fluprostenol. Flupro­stenol is not specifically identified or disclosed. The closest compound exemplified is the 16-phenoxy, for which the hyperemia testing provided relatively poor results.
+Stjernschantz
+excluded compounds using broad carve out language so it is unclear whether the 16-phenoxy was considered to be suitable or even included. In any event, the skilled person reading
+Stjernschantz
+would likely not conclude that the 16-phenoxy (or the structurally related compound flupro­stenol) does have an acceptable therapeutic profile (separation of toward and untoward effects). Put another way, a skilled person may conclude that the 16-phenoxy is not included within the
+Stjernschantz
+claims, in which case, a person performing the teachings of this reference would not necessarily infringe claims 12, 27, 35 and 46 of the 287 patent.
+[316]
+At para 194, Dr deLong concludes that "Consequently,
+Stjernschantz
+does not disclose the utility of fluprostenol isopropyl ester or the related esters disclosed and claimed in the 287 patent."
+[317]
+Dr deLong agrees on cross-examination, at Q 1147, that the inventors of the '287 acknowledged that the phenoxy compounds, cloprostenol and fluprostenol, are within the compounds disclosed in the '417.
+[318]
+With respect to the assertions of Alcon that some compounds had unacceptable or poor IOP results, Dr deLong agrees, at Q 1209-1210, that Dr Bito attributed the cause of an initial spike in IOP to excessive dosage of PGs. Dr deLong indicates that this is "one cause that was seen very commonly".
+[319]
+With respect to the notion of a carve out, when asked if the "carve out paragraph" is so ambiguous that it is hard to determine what is included, Dr deLong agrees at Q 1090, stating:
+Yes, it is my testimony that it is difficult to, just simply by reading that, determine what compounds should be carved out and which shouldn't.
+[320]
+Dr Wolff summarizes his opinion on the disclosure of the '287 at para 31 of his affidavit, noting that it discloses "A class of compounds defined by Formula (IV) that are said to be useful to treat glaucoma and ocular hypertension without causing significant ocular side effects."
+[321]
+With respect to Dr Wolff's detailed opinion on whether the '417 disclosed and enabled the subject matter of the claims in issue in the '287, Dr Wolff analyzes the '417 and the formulas of the derivatives described. At paras 146-154 of his affidavit he indicates that the POSITA would understand that travoprost was included in the group of compounds of the 417 when particular criteria are met, including when the chosen PG is a PGF
+2
+a
+and R1 is a isopropyl. He also opines that the 417 teaches how to make these compounds.
+[322]
+With respect to whether the 16-phenoxy was less irritating, Dr Wolff refers to the data in Table 11, regarding ocular irritation, at para 150, noting:
+[...] Compound 4, i.e. 16-phenoxy-17,18,19,20-tetranor-PGF
+2
+a
+isopropyl ester (IE) resulted in a score of only 0.3 irritation at 5µg-
+albeit five times the standard dose
+used when testing PGF
+2
+a
+isopropyl ester, showing the value of the 16-phenoxy modification in reducing ocular irritation."
+[323]
+Dr Wolff concludes his opinion at para 156, indicating, "[...] Stjernschantz et al. taught that the compounds, including travoprost, had significant IOP-lowering effects while causing diminished local side effects such as hyperemia and irritation".
+[324]
+On cross-examination, Dr Wolff agrees that Stjernschantz et al, at lines 31-37, excludes some compounds on the basis that they may be irritating or otherwise not optimal. When the question is put to him "So it's kind of a functional exclusion from the class", he agrees and also agrees that this is based on the results of testing. Dr Wolff notes, at Q 389-391, that Stjernschantz et al does not identify what other compounds are excluded on the basis of side effects, except for Compound 1.
+[325]
+He later adds, at Q 394: "He's eliminating the non-useful compounds, but some of them can be resurrected by appropriate structural change."
+[326]
+Dr Wolff agrees with the proposition put to him at Q 395 that if it works it is in and if it doesn't it is carved out.
+[327]
+Dr Mittag provides a summary of his opinion at para 25, stating that "[...] the 417 application discloses and enables travoprost and its use in a topical ophthalmic composition to lower intraocular pressure and treat glaucoma".
+[328]
+At para 126-144, he provides his detailed opinion and rationale for his conclusion.
+[329]
+At para 128, Dr Mittag indicates that the POSITA would understand that the inventors of the '417 are indicating that a modification of the omega chain of prostaglandins to include a ring structure results in derivatives that exhibit an improved side effect profile. In addition, at para 129-131, he indicates that the inventors of the '417 define a class of compounds that are said to lower IOP with an improved side effect profile. He explains what is included in that class and concludes that travoprost is an example of a compound that falls within the class of compounds defined by the '417 and explains why, with reference to the structure of travoprost.
+[330]
+Dr Mittag notes that the '417 is described as also relating to the use of these compounds as "ophthalmological compositions for the treatment of glaucoma or ocular hypertension". He notes the testing of compounds in the '417 and the testing of three of the same compounds in the '287 and their results.
+[331]
+Dr Mittag indicates at para 135 of his affidavit that each of the three common compounds (i.e. those tested in the '417 and the '287) was evaluated in the cat ocular irritation testing model and he sets out the results.
+[332]
+At para 138-140, Dr Mittag refers to the results of testing in the '417, which tested 11 compounds in either cat or cynamolgus monkey eyes for intraocular pressure. Dr Mittag notes that in the monkey model, the two phenyl substituted compounds showed a statistically significant reduction in IOP at doses of 3.2 and 10.4µg respectively after three to four hours.
+[333]
+He concludes his opinion at para 142:
+The group of compounds disclosed in the 417 Application includes travoprost. These compounds, including travoprost, are said to be effective in lowering intraocular pressure when applied topically to the eye, while causing less ocular side effects, such as irritation and hyperemia. The 417 Application also teaches how to make these compounds, how to formulate them into pharmaceutical compositions and how to use them to lower intraocular pressure and treat glaucoma.
+[334]
+On cross-examination, Dr Mittag offers his interpretation of what was excluded from the '417. Dr Mittag does not agree, despite extensive questioning, that the 16-phenoxy would be excluded because of poor results, noting that you have to look at both IOP and hyperemia. He would only agree that Compound 1 would be excluded (but notes that it was modified to create Compound 8).
+[335]
+In Dr Mittag's affidavit, at para 216, he indicates that the '417 does not state any limit on what grade of hyperemia is considered therapeutically acceptable. On cross-examination, he clarifies that he was speaking only of hyperemia and in subsequent answers he reiterates that the level of hyperemia that is acceptable is not set out. At Q 648 he adds that it is the combination of the two side effects (hyperemia and irritation) that is critical in determining if a compound is worth pursuing.
+[336]
+With respect to the initial spike in IOP, Dr Mittag states, at Q 2086, that "it would not concern a skilled reader because initial spikes in intraocular pressure are observed many times with drugs. If this was statistically relevant, which it is not, then it would be of some concern. The second point is that it's gone within the next hour, at three hours." At Q 289, he indicates that a spike that is short lived would not cause any permanent damage.
+[337]
+Dr Mittag does not agree that the 16-phenoxy was not advanced for human testing because it had undesirable side effects, noting that the inventors of the '417 never said such a thing and that there are various reasons for not advancing to human testing.
+[338]
+At Q 621-622, Dr Mittag agrees that there is lack of clarity in the '417 as to what is in and what is out, with the exception of Compound 1, which is out.
+[339]
+Dr Mittag agrees that predictions of side effects between different PGs are difficult. He also indicates at Q 566 that the side effect profile was unpredictable between different chemically structured compounds and testing would be required.
+[340]
+Overall, Dr Mittag's evidence is that the 16-phenoxy is part of the invention of the '417 (i.e. not carved out).
+[341]
+With respect to Alcon's position that Compound C (Compound 4 or the 16-phenoxy) tested poorly, the expert evidence, which includes opinions based on testing in the '287, is mixed. For the purpose of anticipation, it is only the disclosure in the '417 that is relevant.
+E.
+The '417 anticipates the invention of the '287
+[342]
+The analysis of allegations of anticipation requires the Court to look at a single disclosure, in this case the '417, and determine whether the POSITA reading the disclosure of the '417 and willing to understand it would be able to carry it out or perform it and if so, on a balance of probabilities, the result would be the infringement of the '417. The disclosure must be of subject matter that, if performed, would result in infringement of the invention as claimed but need not be an exact description of the invention.
+[343]
+Based on a review of all the evidence of the experts and the relevant principles from the jurisprudence, I have found that on a balance of probabilities, the invention of the '287 was anticipated by the '417.
+[344]
+The starting point is the inventive concept or promise of the '287. I have found earlier in these reasons that the inventive concept is a therapeutically effective amount of travoprost or an ophthalmic composition containing a therapeutically effective amount of travoprost for the treatment of glaucoma with an acceptable side effect profile.
+[345]
+I have also found the promised utility to be the general utility, expressed at its simplest; that travoprost will be therapeutically effective in the treatment of glaucoma and ocular hypertension.
+[346]
+I agree with Apotex, that if the promise of the '287 is simply to be useful or therapeutically effective in the treatment of glaucoma and ocular hypertension and not more therapeutically effective than the '417 in terms of lowering IOP or reducing side effects, then the '287 promised the same benefits as the '417. The purpose of the invention is the same.
+[347]
+As noted by Justice Hughes in <FRAGMENT_SUPPRESSED> , above, at para 75, "If the claimed invention is directed to a use different from that previously disclosed and enabled then such claimed use is not anticipated. However if the claimed use is the same as the previously disclosed and enabled use, then there is anticipation."
+[348]
+The issue is, therefore, whether the '417 disclosed fluprostenol or travoprost to the extent that it anticipates the invention for that same claimed use.
+[349]
+Alcon argues that the invention was not specifically disclosed in the '417 although it was generically encompassed. Alcon also argues that the '417 carved out compounds that were not therapeutically useful, including the 16-phenoxy; i.e., the '417 did not disclose the use of the invention as therapeutically effective for treatment of glaucoma. Alcon argues that there was not a clear direction in the '417 which gave travoprost to the public.
+[350]
+Apotex argues the opposite; the '417 discloses prostaglandins including travoprost and described their use for the treatment of glaucoma, including lower IOP and reduced side effects.
+[351]
+With respect to Alcon's first argument that the '417 disclosed billions of compounds but did not specifically disclose travoprost or flupro­stenol esters and that nothing points to travo­prost or fluprostenol esters, the expert evidence does not support this proposition.
+[352]
+Dr deLong indicates that the '417 discloses a large genus that includes fluprostenol, but that it was not specifically disclosed. However, on cross examination he agreesd that the inventors of the '287 acknowledged that the phenoxy compounds, cloprostenol and flupro­stenol, were within the compounds disclosed by the '417.
+[353]
+Dr Wolff indicates that the POSITA would understand that travoprost was included in the group of compounds of the '417 when the PG chosen is PGF
+2
+a
+and an isopropyl ester, in addition to other specified criteria.
+[354]
+Dr Mittag also indicates that the group of compounds in the '417 includes travoprost, and that these compounds are said to be effective in lowering IOP while causing less side effects.
+[355]
+Given that an exact description is not required in the test for anticipation, it appears that all the experts do agree that travoprost or fluprostenol was encompassed by the compounds of the '417.
+[356]
+With respect to Alcon's argument that the '417 taught away from fluprostenol, the test results in the '417 do not persuasively support this argument and, as Apotex submits, the statement in the '287 that the results of testing in the '417 indicates that some compounds were therapeutically unacceptable is misleading as a general statement.
+[357]
+The test results in the '417 do not provide such a clear direction away from the 16-phenoxy. Although the testing for the 16-phenoxy did not reveal that it was the best compound and the evidence of the experts was mixed, this does not support the argument that the 16-phenoxy was therapeutically unacceptable and not worth pursuing.
+[358]
+Dr Mittag and Dr Wolff states that the 16-phenoxy performed well in the testing disclosed in the '417, including performing better than the four most preferred compounds.
+[359]
+If it were so unacceptable, as Alcon submits, why would Alcon have pursued it?
+[360]
+With respect to Alcon's argument that the '417 carved out compounds which were not therapeutically effective and this carve out encompassed the 16-phenoxy (which Alcon alternatively referred to as travoprost or fluprostenol) and therefore, the '217 could not be anticipated by what was carved out, again the evidence does not support this theory.
+[361]
+None of the experts could determine what, if anything was specifically carved out of the '417, except perhaps Compound 1, but even Compound 1 could be made therapeutically effective. Alcon's expert, Dr deLong is very tentative in his testimony and cross-examination agreeing it was unclear and using terms like "could likely" or "may".
+[362]
+Dr deLong states that due to the broad carve out language "it is
+unclear
+whether the 16- phenoxy was considered to be suitable or even included", and "the skilled person reading Stjernschantz
+would likely not
+conclude that the 16-phenoxy (or the structurally related compound fluprostenol) does have an acceptable therapeutic profile (separation of toward and untoward effects)." He adds, "Put another way, a skilled person
+may conclude
+that the 16-phenoxy is not included within the Stjern­schantz claims, in which case, a person performing the teachings of this reference would not necessarily infringe claims 12, 27, 35 and 46 of the 287 patent."
+[363]
+On cross-examination he agrees that it is difficult to determine what compounds should be carved out.
+[364]
+Dr Wolff acknowledges, when the carve out theory is put to him, that the '417 sought to carve out some compounds, but states that the '417 does not indicate what compounds are carved out on the basis of side effects, except Compound 1.
+[365]
+Dr Mittag provides a similar opinion, noting that he does not agree that the 16-phenoxy was carved out and further noting that both IOP and hyperemia results were needed to assess the side effects profile. He states that it was only clear that Compound 1 was excluded.
+[366]
+The evidence of Alcon's expert, Dr deLong, that if it works it is included and if it does not work it is excluded is not at all helpful in supporting Alcon's argument that some compounds are specifically excluded and that the 16-phenoxy, or travoprost, is one such exclusion.
+[367]
+The wording of the '417 lacks the clarity to permit any coherent interpretation of what is excluded. Such lack of clarity cannot be relied on to avoid an allegation of anticipation where the prior art discloses a large number of compounds, tests 11 of them, including the 16-phenoxy, and promises the same result as the invention claimed.
+[368]
+Therefore, I do not agree that flupro­stenol, or travoprost, was excluded or "carved out" by the '417 because it was therapeutically unacceptable for the treatment of glaucoma and ocular hypertension. For the anticipation analysis, the issue remains whether the invention of the '287 was disclosed in the '417.
+[369]
+As noted by Justice Hughes, the application of the
+Plavix
+principles does not require an exact description for anticipation.
+[370]
+The question to address is whether, based on the experts' evidence, the POSITA would look at the prior disclosure of the '417 and find that it was sufficient to understand that the subject matter disclosed was the same as the subject matter of the claims asserted in the '287 and that if performed, on a balance of probabilities, the claims of the '287 would be infringed.
+[371]
+Given that the '417 did disclose travo­prost, although it was not specifically named or made, I find that the subject matter was disclosed for the same purpose as the invention of the '287. A person carrying out the prior disclosure in the '417 would, on a balance of probabilities, infringe the claims at issue of the '287.
+[372]
+Therefore, the allegation of anticipation is justified.
+XVI. OBVIOUSNESS
+[373]
+Alcon takes the position, as noted above, that the '287 is not a selection patent and does not assert special advantages over the '417 for the treatment of glaucoma and ocular hypertension in humans but promises that it is therapeutically effective. Alcon relies on both the specific promise of travoprost only with respect to the test results in comparison to particular compounds of the '417 and the general promise of predicted therapeutic effectiveness in humans. Alcon submits that the invention was not obvious.
+[374]
+Apotex submits that if the inventive concept is only that travoprost is therapeutically effective, it is not inventive and there is no substantial difference in this invention than the '417; it did not require any degree of invention to arrive at travoprost and was, therefore, obvious.
+[375]
+As noted above the inventive concept of the claims at issue has been found to be the use of a therapeutically effective amount of travo­prost or an ophthalmic composition containing a therapeutically effective amount of travoprost for the treatment of glaucoma with an acceptable side effect profile.
+[376]
+Note that the claims at issue, as construed above, in their simplest form, are:
+• Claims 12 and 35 claim the use of a compound containing a therapeutically effective amount of the pharmaceutically acceptable esters of fluprostenol (or travoprost) for the treatment of glaucoma and ocular hypertension.
+• Claims 35 and 46 claim the use of a topical ophthalmic composition containing a therapeutically effective amount of the pharmaceutically acceptable esters of fluprostenol (or travoprost) for the treatment of glaucoma and ocular hypertension.
+[377]
+The submissions of the parties with respect to the allegations of obviousness, as set out below, address their various alternative arguments with respect to the inventive concept and the promised utility (i.e. before their determination by the Court).
+A.
+Jurisprudence and Principles on Obviousness
+[378]
+The jurisprudence clearly guides the obviousness analysis.
+[379]
+The Supreme Court of Canada stated the current law on obviousness in Canada in
+Plavix
+, above at para 67-69. Justice Rothstein followed the four-step approach that originated in
+ <FRAGMENT_SUPPRESSED>  (CA) and was updated in
+ <FRAGMENT_SUPPRESSED>  [2007] EWCA Civ 588 (BAILII). The four steps or questions are:
+1. Identify the notional "person skilled in the art", i.e. the POSITA, and the relevant common knowledge of the POSITA as of the claim date (which is August 3, 1993);
+2. Identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+3. Identify what, if any, differences exist between the matter cited as forming part of the "state of the art" and the inventive concept of the claim or the claim as construed; and
+4. Determine whether these differences, viewed without any knowledge of the alleged invention as claimed, constitute steps which would have been obvious to the person skilled in the art or would have required any degree of invention.
+[380]
+Justice Rothstein further noted that in some areas of endeavour, including inventions in the pharmaceutical industry where chemical similar structures can yield different responses, the "obvious to try" test may be appropriate. Justice Rothstein identified a non-exhaustive list of relevant considerations for the fourth step, whether it would be obvious to try, at para 69:
+1. Is it more or less self-evident that what is being tried ought to work? Are there a finite number of identified predictable solutions known to persons skilled in the art?
+2. What is the extent, nature and amount of effort required to achieve the invention? Are routine trials carried out or is the experimentation prolonged and arduous, such that the trials would not be considered routine?
+3. Is there a motive provided in the prior art to find the solution the patent addresses?
+[381]
+Justice Rothstein added that other relevant factors may include the history of the invention, whether the inventor arrived at the invention quickly and easily based on the prior art and common general knowledge, and the inventors' particular expertise compared to that of the skilled person (at para 70 -71).
+[382]
+The Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  [2009] FCJ No 66, held that possibility and speculation is not the test, nor is "worth a try"; the invention must be more or less self-evident. Justice Noël wrote at paragraphs 29 to 30:
+29 The test recognized is "obvious to try" where the word "obvious" means "very plain". According to this test, an invention is not made obvious because the prior art would have alerted the person skilled in the art to the possibility that something might be worth trying. The invention must be more or less self-evident. The issue which must be decided in this appeal is whether the Federal Court Judge failed to apply this test.
+[383]
+ <FRAGMENT_SUPPRESSED>  [2014] FCJ No 175, Justice Gleason described the "obvious to try" aspect of the fourth part of the obviousness test as follows:
+[79] The jurisprudence recognises that for an invention to be "obvious to try", the solution must be self-evident to the ordinary person skilled in the art to which the patent applies; in other words, it is not enough if the prior art merely indicates a possibility of finding the invention or shows that it might be worthwhile to conduct the experiments which led to the invention (see e.g.
+Sanofi-Synthelabo
+at paras 61-71;
+ <FRAGMENT_SUPPRESSED> CPR (4th) 185;
+ <FRAGMENT_SUPPRESSED> CPR (4th) 88). The case law moreover recognises that it is an error to use the benefit of hindsight to evaluate if an invention was "obvious to try" as inventions may well appear obvious after they are made. As Justice Hugessen noted in
+ <FRAGMENT_SUPPRESSED>  at para 21:
+Every invention is obvious after it has been made, and to no one more so than an expert in the field. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of the patent is known, to say "I could have done that"; before the assertion can be given any weight, one must have a satisfactory answer to the question, "Why didn't you?"
+[384]
+As noted above in <FRAGMENT_SUPPRESSED> , at para 59 Justice Hughes reminds us that with respect to obviousness:
+[...] if there are differences between what was disclosed, was there room left for a person to make an inventive contribution. If what was not disclosed was something that a person skilled in the art as of the relevant date would have been expected to do without exercising invention ingenuity, hence the claimed invention is obvious."
+B.
+Alcon's position
+[385]
+Alcon submits that the invention was not obvious particularly because it was not obvious to try given the data in the '417 and the common general knowledge.
+[386]
+In this case, the general knowledge was that until the compound was tested the POSITA would not know if the invention would yield the results promised. The efficacy and side effects were not predictable; testing was necessary to assess both.
+[387]
+Alcon notes that the side effect profile was never investigated until the 1990s. Alcon posits that if had been obvious that the invention would be useful in the treatment of glaucoma, others would have found it before Alcon began to test and modify compounds in the early '90s to discover it had a useful therapeutic profile.
+[388]
+Alcon notes that
+Plavix
+, above at para 64, established that it must be more or less self-evident that what is being tested ought to work; i.e., it must be plain that the invention would work and an inventor cannot simply try to test various possibilities in the hope it will lead to success.
+[389]
+With respect to the inventive concept, according to Alcon, notwithstanding the poor testing results of the 16-phenoxy, Compound 4, and the functional carve-out in the '417 application, the inventors of the '287 patent tested travoprost and obtained animal model test results demonstrating that travoprost had a surprisingly better side effect profile than the 16-phenoxy (Compound 4) .
+[390]
+With respect to the differences between the "state of the art" and the inventive concept of the claim or the claim as construed, Alcon submits that there were two differences:
+(i) the unexpected finding in specific animal models that travoprost provided excellent IOP reduction without the significant side effects of the prior art 16-phenoxy, compound 4, and
+(ii) the predicted usefulness of the pharmaceutically acceptable esters of fluprostenol in the treatment of glaucoma and ocular hypertension.
+[391]
+With respect to whether these differences, when viewed without any knowledge of the alleged invention as claimed, constitute steps which would have been obvious to the POSITA or whether they would require any degree of invention, Alcon argues that the claims at issue would not have been obvious for several reasons including:
+• Without testing, the efficacy and side effect profile of PGs was not predictable.
+• (+)-fluprostenol was an old compound known to lower IOP, yet travoprost's advantageous side effect profile was not appreciated for many years, and was ultimately discovered by Alcon. Woodward, a prominent researcher in the field did not test fluprostenol for side effects.
+• Nothing in the '417 application (or the prior art more generally) points to fluprostenol or travoprost: there were no test results and no basis to predict their usefulness. Alcon submits that the results for the 16-phenoxy (Compound 4), were poor and it was not tested in humans. Alcon also submits that the '417 was focused on the phenyl compounds.
+• There were many paths to explore for the treatment of glaucoma. A significant number of PGs were known by the mid-1990s. Alcon notes that over 10,000 PGs had been synthesized and more than 40,000 papers had been published on PGs by 1989.
+[392]
+Alcon submits that the invention of the claims in issue was not obvious to try. With reference to the factors set out in
+Plavix
+, Alcon submits that it was
+not more or less self-evident that what is being tried ought to work
+. Without positive animal model testing for side effects, the skilled person could not predict that a structurally different PG would be useful for the treatment of glaucoma.
+[393]
+Alcon also submits that
+significant effort
+was required to achieve the invention. The testing in specific live animal models was relatively new in the early '90s and was time-consuming and expensive. Alcon argues that in the absence of a specific motivation, the skilled person would not have pursued this type of testing.
+[394]
+With respect to a
+motive
+in the prior art to find the solution to the concerns regarding side effects, Alcon notes that although there was a general motivation to identify PG analogues for use in the treatment of glaucoma, there was no specific motivation to test travoprost, because of the poor results in the '417 application, which Alcon reiterates, taught away from travoprost. The biologically active form of fluprostenol has been known since the 1970s but its side effect profile was never investigated until Alcon began to do so in the 1990s.
+C.
+Apotex's position
+[395]
+Although Apotex takes the position that because Alcon has not asserted the '287 as a selection patent, the allegations of invalidity due to obviousness must be considered on the basis that the '287 is a species patent.
+[396]
+Apotex disputes that the inventive concept for the purpose of assessing obviousness is that proposed by Alcon - i.e., that travoprost had a surprisingly better side effect profile than the 16-phenoxy in animal model testing. Apotex submits that Alcon cannot rely on this specific advantage as the inventive concept nor can it rely on any previously unknown and unstated advantages of travoprost to support its inventiveness for the purpose of meeting the allegations of obviousness.
+[397]
+Apotex notes that according to Alcon, for other purposes, the inventive concept of the claims is the treatment of glaucoma (i.e. therapeutic effectiveness) and no more. The issue is, therefore, whether the use of travoprost to treat glaucoma and ocular hypertension was inventive. Apotex submits that based on the state of the art, including the '417, the use of travoprost was not inventive.
+[398]
+With respect to the four part
+Plavix
+test, Apotex submits that there is no dispute about the POSITA.
+[399]
+Apotex also described the common general knowledge and state of the art, which appears to not be in dispute, and was described in a similar way by Alcon in its submissions on anticipation (although there are some differences in the interpretation of Woodward), Apotex noted that the
+common general knowledge
+included that topically administered PGF
+2
+a
+and its analogues were known to reduce IOP in the human eye. However, unacceptable side effects of irritation and hyperemia occurred. In the early 1980s (or according to some experts, as early as 1977), a prodrug strategy was employed to convert PGs to their ester forms, resulting in lower side effects. The isopropyl ester was favoured.
+[400]
+In the 1990s, the '417 application was published and taught the skilled person how to overcome the side effects by incorporating a ring structure (a phenyl or phenoxy group) at the terminus of the omega chain. By 1992-93, there were clinical trials of some of the analogues.
+[401]
+Fluprostenol was known since the 1970s and (+)-fluprostenol was known to be a potent IOP lowering agent. Apotex notes that the '287 stated that in 1989, Woodward disclosed that topical administration of fluprostenol resulted in a strong miotic response in cat eyes and that such a response was a generally accepted reference for activity in lowering IOP. Apotex notes that Woodward reported that (+)-fluprostenol caused significant lowering of IOP in dogs and was also active in monkey eyes, which was the most relevant animal model at that time for the human eye, and which was an accepted reference for lowering IOP according to the '287 (in other words, Woodward found that fluprostenol was good at lowering IOP).
+[402]
+In 1993, Woodward conducted tests in dogs and monkeys. Apotex notes that all experts agree that testing in monkeys is most relevant to the human eye. Apotex submits that the experts found that Woodward 1993 was significant with respect to the IOP lowering effects in humans.
+[403]
+Although Alcon argues that Woodward was not testing for glaucoma and did not test for side effects, Apotex argues that the POSITA would know that Woodward was looking for glaucoma drugs, and points to Dr deLong's evidence on cross-examination.
+[404]
+Apotex submits that it was known that PGs reduced IOP and some more than others. This would be a clear marker for the POSITA; i.e. the POSITA would focus on a PG that would lower IOP. To address the problem of the side effects, all the experts noted that a prodrug strategy - the use of esters - was the favoured approach to penetrate the eye and avoid side effects.
+[405]
+Apotex points to the evidence of Dr Mittag who indicates that fluprostenol was known back in 1974 to be very good at lowering IOP. Apotex also notes that there was no experimental data available that suggested that fluprostenol caused hyperemia or ocular irritation. Apotex also notes that Dr deLong, on cross-examination, indicates that Woodward found fluprostenol more potent than other compounds.
+[406]
+With respect to the identification of the
+inventive concept
+, as noted above, Apotex now submits that the inventive concept can only be what is set out in the claims, i.e., the compound is good for treatment of glaucoma, just like other compounds. If so, there is no difference between the state of the art and the inventive concept.
+[407]
+Apotex notes that the
+Plavix
+test calls for an assessment of the
+differences
+between common knowledge and state of the art and the inventive concept of the asserted claims (not between state of the art and the disclosure at large).
+[408]
+Apotex submits that there is no difference. The prior art taught that (+)-fluprostenol iso­propyl ester (i.e. travoprost) was useful to treat glaucoma with fewer side effects. The only possible difference is that travoprost had not been specifically prepared and tested.
+[409]
+Apotex notes that in an obviousness analysis, if a particular piece of prior art falls short of showing anticipation, it may demonstrate obviousness if the POSITA could fill in any gaps without exercising inventive ingenuity (e.g., with the '417 and common general knowledge). Although Apotex submits that there are no gaps to fill in due to the '417 and common knowledge, the teachings of Woodward would be relevant.
+[410]
+Apotex notes that if there was any difference, it was not inventive as it was testing to simply confirm the lesser side effects. Apotex submits that confirmatory testing is not inventive.
+[411]
+The expert evidence confirms that it would have been self-evident and routine for the POSITA to make and test travoprost to confirm its usefulness in treating glaucoma with an acceptable therapeutic profile.
+[412]
+Apotex alternatively submits that even if the inventive concept were the test results comparing travoprost to the 16-phenoxy (as Alcon argues) the difference, if there was a difference, over the prior art would not be sufficient to render the '287 inventive. Apotex notes that there is no advantage to select one compound and assert that it is better than only one other compound in the '417.
+[413]
+Apotex points out that Alcon is inconsistent because it argued, in its submissions on anticipation, that the side effect profile of the 16-phenoxy was problematic i.e. that the test results were poor and that it may have been "carved out" of the '417 invention.
+[414]
+Apotex notes that Alcon argued that travoprost's structural similarity to the 16-phenoxy renders the positive test results "surprising", "unexpected" and inventive. However, if this were so, travoprost would offer only an improvement over a poor or excluded compound of the genus and nothing more than other compounds of the '417. Apotex submits that this would not be inventive.
+[415]
+Apotex submits that it was
+obvious to try
+to achieve the invention; it was
+self-evident
+to make and test travoprost for the treatment of glaucoma and there was more than a reasonable expectation that it would have an acceptable therapeutic profile. Apotex notes that the
+Plavix
+test does not require a prediction with certainty but with a fair expectation of success.
+[416]
+Dr Mittag and Dr Wolff indicated that the POSITA would expect or know that there would be a fair chance of success that travoprost would have acceptable therapeutic profile. Although this is a prediction and there is no certainty until testing, the necessary testing would only be confirmatory.
+[417]
+Apotex responds to Alcon's argument that, without testing, the therapeutic profile was not predictable as ignoring the teaching of the '417 application. The '417 revealed positive test results for the 16-phenoxy, so the POSITA would expect travoprost to have a favourable or at least an acceptable side effect profile.
+[418]
+Apotex also responds to Alcon's assertion that nothing points to fluprostenol or travoprost as ignoring the work of Woodward. Woodward had already taught that fluprostenol had a significant IOP lowering effect. In addition, the '417 taught that its compounds (including travoprost) had improved side effects and the '417 highlighted that isopropyl esters were the most preferred esters. Therefore, it would have been surprising if fluprostenol (i.e. travoprost) did not have an acceptable therapeutic profile.
+[419]
+Similarly Alcon's reference to Zajacz pointing away from fluprostenol must be put in context. A POSITA would know that Zajacz reported on the results of intravenous administration for a very different purpose (to induce abortion) and these results could not be indicators for the ophthalmic context.
+[420]
+Apotex submits that even without a specific direction in the prior art, merely selecting a compound from the genus of the '417 and confirming that it had the same therapeutic profile taught by the '417 is not inventive. Only routine testing was done to determine the characteristics of known compounds.
+[421]
+Apotex also submits that the fact that Alcon began testing the side effects of travo­prost in the 1990s, although fluprostenol was known since the 1970s, does not make this work inventive, given that the '417 which taught that travoprost had an acceptable side effect profile was only published in 1990.
+[422]
+Apotex further argues that the
+extent, nature and amount of work
+, which was minimal, support a finding of obviousness. Apotex points to the evidence of Dr Klimko, one of the inventors, which indicates that it took Alcon less than a week to synthesize travoprost and it only did one test of travoprost's IOP lowering effect on monkeys at one dose. This test took only three days. Alcon only did two tests for hyperemia in guinea pigs and each test took one day.
+[423]
+Apotex points to the
+motivation
+to find a solution to the side effects concerns. The POSITA would focus on the genus of compounds of the '417 which disclosed a solution to local side effects and which disclosed latanoprost (which was in clinical trials). The '417 plus Woodward provide the motivation to find the solution with a fair expectation of success that travoprost would be useful to treat glaucoma with an acceptable therapeutic profile. Apotex also notes that although Alcon suggests that many PGs were possible treatments, Dr Mittag stated that the POSITA would focus on the '417.
+[424]
+Apotex notes that in
+Plavix
+the Court agreed that the actual efforts of the inventors can be considered to assess whether the patented subject matter was obvious, under the obvious to try branch. Alcon offered no evidence from the inventor, Dr Klimko, regarding the history of the invention, although Dr Klimko provided an affidavit. Apotex suggests that an adverse inference could be drawn from this.
+D.
+What do the Experts say?
+[425]
+The evidence of the experts with respect to obviousness must be considered in the context of how each expert viewed the inventive concept of the claims.
+[426]
+Dr deLong sets out his opinion on obviousness at paragraphs 196-208 of his affidavit and concludes, at para 208, that the inventive concept of claims 12, 27, 35 and 46 would not have been obvious to the POSITA.
+[427]
+Dr deLong's opinion stems from his interpretation of the inventive concept as having two aspects.
+[428]
+He notes at para 200 the differences between the prior art and the inventive concept which were the two differences stated by  <FRAGMENT_SUPPRESSED>  at para 391; the specific animal model test results and the predicted use for the treatment of glaucoma and ocular hypertension.
+[429]
+At para 201-202 he expresses the opinion that these differences would not be self-evident.
+[430]
+At para 204 Dr deLong indicates that "
+In vivo
+animal testing of prostaglandins for IOP reduction and side effects is time consuming and expensive" and therefore, "absent a teaching in a specific direction [...] would not likely be justified or motivated in conducting tests, in effect aimlessly."
+[431]
+At para 205-206, Dr deLong opines that although there was motive to find prostag­landins to treat glaucoma which was a prevalent disease and there were commercial rewards for a successful drug, there was "little, if any" motivation to test phenoxy compounds.
+[432]
+At para 207, he elaborates:
+It would not have been obvious to the skilled person to try to undertake the specific work set out in the 287 patent that led to the unexpected findings and the prediction of therapeutic utility. This is because there was no information in the prior art that would have directed the skilled person towards the fluprostenol isopropyl ester. The teachings on the use of any phenoxy were limited and not encouraging (see prior discussion on
+Scjtern­schantz
+[
+sic
+] and also the Syntex compound 92). As mentioned, there was also relatively little interest in a trifluoromethyl substitution on the phenyl. Some animal test models still led to confusing or misleading test results. Generally, it was understood that one could not accurately predict test results for a particular prostaglandin. Accordingly, it was not self-evident that fluprostenol isopropyl ester would provide the specific test results set out in the 287 patent or be therapeutically useful as reasonably predicted by the inventors.
+[433]
+He also notes at para 203, that "There was an extremely large number of prostaglandin analogues that could potentially be tested, but until one actually conducted the animal tests described in the 287 patent, one would not know whether the tested compounds would provide the results obtained by the 287 patent inventors."
+[434]
+In his opinion, there "was very little, if any motive, to test any phenoxy prostaglandin compounds, given the prior art information available". He discounts Woodward's work as an "interest in the free acid appears to have been primarily his research on receptor analysis."
+[435]
+Dr deLong also notes, with respect to Woodward, at para 195:
+Woodward, does appear to disclose an IOP lowering ability of fluprostenol free acid in the context of an investigation of receptor activity, but there is no mention or disclosure of esters or any side effect profile, and hence no disclosure of an acceptable therapeutic profile for human use in the treatment of glaucoma and ocular hypertension or the specific test results disclosed in the 287 patent. I note that the Apotex letter, at pages 21-22, does not appear to allege that
+Woodward
+anticipates claims 12, 27, 35 and 46 of the 287 patent.
+[436]
+In cross-examination, Dr deLong agrees that Woodward was doing glaucoma research.
+[437]
+Dr Wolff provides the opinion at para 36 of his affidavit that any differences between the inventive concept and the state of the art were self-evident and obvious. This opinion is based on the common knowledge described above by Apotex. Dr Wolff also notes that the structure and pharmacological properties of fluprostenol and cloprostenol and how to synthesize them were known.
+[438]
+Dr Wolff comments on the teachings of the '417, at para 209, noting the approach to resolve the side effects. Dr Wolff indicated that Stjernschantz provided a significant teaching to overcome the stumbling block with the use of prostaglandin derivatives.
+[439]
+At para 211, he notes that in addition to fluprostenol and cloprostenol, there were other compounds within the class described in the '417 that the POSITA would have expected to possess a similar side effect profile. He adds that the POSITA would have been motivated to prepare fluprostenol and would have known how to do so.
+[440]
+At para 216, Dr Wolff opines that any meaningful differences between the state of the art and the inventive concept of the claims at issue would have been self-evident or obvious to the POSITA. He states "[...] (travoprost) would have been self evident or obvious to a person skilled in the art looking for a compound for the topical treatment of glaucoma and ocular hypertension as of August 1993. By this time, the state of the art was such that travoprost had already been disclosed in
+Stjernschantz et al
+[...] and in any event, it was obvious to the person skilled in the art."
+[441]
+Dr Mittag also shares the opinion that any differences between the state of the art and the inventive concept of the claims would have been self-evident.
+[442]
+He summarized his opinion at para 28 of his affidavit:
+In my opinion, given the ample teachings available in the art with respect to PGF
+2
+a
+esters, fluprostenol and the 16-phenoxy-17,18,19,20-tetranor-PGF
+2
+a
+isopropyl ester compound specifically, as of August 3, 1993, it was self-evident and obvious to the skilled person to arrive at the inventive concept of the claims in issue of the '287 patent, as it relates to travoprost.
+[443]
+At para 153, Dr Mittag elaborates noting that "there is no material difference between the prior art and the inventive concept of the claims in issue of the 287 Patent, as it relates to travoprost. Travoprost is within the class of compounds taught by the 417 Application to lower intraocular pressure with an acceptable side effect profile. This is the same as the inventive concept of the claims in issue in the 287 Patent, as it relates to travoprost."
+[444]
+Dr Mittag adds at para 154, that if there is any difference, "it is that the preparation and the testing of the prodrug of (+)-fluprostenol, namely travoprost, had not been specifically done prior to August 1993".
+[445]
+At para 155, Dr Mittag again indicates that any differences between the inventive concept of the claims in issue as it related to travoprost and in light of the prior art would be self-evident or obvious. He notes that the "Woodward article had already taught that fluprostenol reduced intraocular pressure, both in non-primate animal species and in the primate eye. Further, the structurally-related compound 16-phenoxy-17,18,19,20-tetranor PGF
+2
+a
+isopropyl ester had been reported in the 417 Application to lower intraocular pressure with a therapeutically acceptable side effect profile."
+[446]
+Dr Mittag elaborates on his reasons for this opinion at para 156-166. At para 165, he indicates again that the 16-phenoxy is the closest structurally to fluprostenol and it exhibits a "desirable mix of properties". He notes based on the teachings of the '417, the POSITA would have expected fluprostenol (travoprost) to have a comparable side effect profile, in other words, a profile acceptable for therapeutic use.
+[447]
+With respect to Alcon's argument that the results could not be predicted without testing, and it was not obvious to try as the results were not self-evident, Dr Mittag on cross-examination at Q 147-150 indicates that without doing testing there was no guarantee, but that a prediction could be made. With respect to the side effect profile, he notes that a prediction could be difficult. Dr Mittag also indicates at Q 516-517 that although accurate predictions could not be made, and you would have to follow up with an experiment, the level of certainty of that prediction would be sufficient for someone (i.e. the POSITA) to follow up with experiments.
+[448]
+Dr Wolff also agreed that small changes could lead to different results.
+[449]
+With respect to Alcon's argument that Woodward does not lead the POSITA to fluprostenol, Dr deLong, on cross-examination, agrees that fluprostenol was being evaluated by Woodward in animal models in 1993 for its IOP lowering effects (Q 976-979). Dr deLong also agrees that the POSITA knew that Woodward was looking for glaucoma drugs and he was evaluating for this purpose.
+[450]
+On cross-examination, Dr deLong was asked about Woodward 1989 and 1993, and he acknowledges that Woodward used dogs and normotensive monkey eyes for the purposes of his work and that Woodward reported that fluprostenol caused a significant lowering of intraocular pressure in the animal models he used at some data points, but at others there was an increase or no effect (Q 1007).
+[451]
+Dr deLong also agrees that based on the work he did, Woodward concluded that flupro­stenol was a potent ocular hypotensive, as were other compounds he tested.
+[452]
+He also agrees at Q 1025 that an interested person reading the Woodward article would not be surprised at those results and would be aware of these results.
+[453]
+With respect to whether fluprostenol had unacceptable side effects, Dr deLong agrees, on cross-examination, at Q 1325-1326, that by August 1993, the POSITA had no data to suggest that fluprostenol caused either hyperemia or ocular irritation. He also agrees that based on the '417, the POSITA knew that changes to the omega chain reduced the side effects.
+[454]
+With respect to the issue of whether the '417 predicts the usefulness of travoprost or fluprostenol, Dr Mittag, indicates, at Q 139-140, that the '417 only predicted the use in terms of the closely related compound, the 16-phenoxy. He later indicates that tests would confirm if the predictions were accurate, and you could predict that the pharmacological results would be similar but the side effect profile prediction would be more difficult.
+[455]
+With respect to Apotex's submission that little effort was required by Alcon to get to the invention, the affidavit of Dr Klimko, which attaches his lab notes and includes a lab study cover page indicates a June 3, 1993 start date of testing in lasered-monkeys and an end date of June 5, 1993. The experiment lasted three days. Guinea pig testing occurred twice; on March 31, 1993 and June 14, 1993.
+E.
+The '287 was Obvious
+[456]
+Based on the submissions of the parties and the evidence of the experts, the application of the
+Plavix
+test leads me to the conclusion that the '287 was obvious.
+[457]
+The POSITA has been identified above.
+[458]
+The common general knowledge has been stated by Alcon and Apotex and is, for the most part, not in dispute.
+[459]
+The obviousness analysis in this case turns on the inventive concept in the claims. Alcon maintains that there are two aspects to the inventive concept for the purpose of responding to the allegations of obviousness. Their expert, Dr deLong supports the two aspect approach and his evidence focuses on the surprising results of the testing in animal models as compared to the 16- phenoxy as not obvious, not self-evident and as requiring fairly extensive testing to determine the side effect profile and the intraocular pressure reduction as significant over the 16-phenoxy.
+[460]
+However, this is not the inventive concept. The evidence of Dr deLong must be carefully scrutinized given his focus on the results of the testing in animal models.
+[461]
+As I have found, the inventive concept is the use of a therapeutically effective amount of travoprost or an ophthalmic composition containing a therapeutically effective amount of travoprost for the treatment of glaucoma with an acceptable side effect profile. In other words, the invention is that travoprost will be therapeutically effective in the treatment of glaucoma and ocular hypertension.
+[462]
+A therapeutically effective or an acceptable therapeutic profile is not one that is significantly better in reducing IOP with less side effects than the tested compounds of the '417; rather, one which is acceptable, or just as acceptable as the '417.
+[463]
+The differences between the "state of the art" and this inventive concept are the focus of the obviousness analysis.
+[464]
+Alcon's position is that the testing of the 16-phenoxy was poor and "taught away" and that its discovery of the advantages of travoprost was, therefore, surprising.
+[465]
+As noted above regarding the analysis of the allegations of anticipation, the evidence about the testing of the 16-phenoxy in the '417 was mixed. With respect to the allegations of obviousness, the expert evidence regarding the testing in the '417 and in the other prior art and the common general knowledge has not persuaded me that it was unacceptable or that it taught away, although the testing did not indicate that it was the best of the lot.
+[466]
+However, if the 16-phenoxy was so poor, as Alcon submits, I would question why Alcon would test it and why it would profile the surprising results in such a narrow way.
+[467]
+The evidence of Alcon's expert, Dr deLong, at para 207 of his affidavit was linked to his opinion on the inventive concept as being the narrow promise of the test results - he carefully stated "Accordingly, it was not self-evident that fluprostenol isopropyl ester would provide the specific test results set out in the 287 patent or be therapeutically useful as reasonably predicted by the inventors."
+[468]
+That may well be so, but the inventive concept is not the surprising or specific results of the animal model testing.
+[469]
+The inventive concept is only the therapeutic effectiveness and is no different than the state of the art.
+[470]
+Based on the expert evidence of Dr Mittag and Dr Wolff, who understood the inventive concept to be the use of a therapeutically effective amount of travoprost or an ophthalmic composition containing a therapeutically effective amount of travoprost for the treatment of glaucoma with an acceptable side effect profile, there is no difference between the state of the art, the common general knowledge and the invention as claimed.
+[471]
+Their evidence, which I accept, is that, while there was no guaranteed certainty that travoprost would result in an effective treatment of glaucoma and ocular hypertension with an acceptable therapeutic profile, the POSITA would predict that result with a fairly high expectation of success.
+[472]
+This was based on the teachings of the '417 and, if further support is needed, the work of Woodward. The '417 revealed acceptable test results for the 16-phenoxy, so the skilled person would expect travoprost to have a favourable, or at least an acceptable, side effect profile.
+[473]
+Although Woodward in 1993 was not testing for side effects, the experts all agreed that he was looking for drugs to treat glaucoma. It was also common knowledge that drugs to treat glaucoma had to address the side effect concerns.
+[474]
+It was obvious to try to make travoprost. As noted, it was more or less self-evident that it would work. Although it was not a 100% foregone conclusion, it was far more than "worth a try" given the results of the '417 and the state of the art and common general knowledge.
+[475]
+While there were other PGs being tested for glaucoma, the experts agree that the '417 was the focus of attention and it had disclosed how to resolve the side effect concerns.
+[476]
+I agree with Apotex that any difference between the '287 and the '417 as drugs to treat glaucoma with an acceptable therapeutic profile was not inventive but only confirmatory.
+[477]
+Alcon asks why, if its efforts to develop travoprost were not inventive, did others not invent it before Alcon, given that fluprostenol was known since the 1970s. As Apotex points out, the '417 was published in 1990, not back in the 1970s, and Woodward published his findings in 1989 and 1993. Therefore, it is the state of the art as of the early 1990s that is most relevant.
+[478]
+Alcon's submission that it was not obvious to try and that a significant amount of effort and experimentation was required to achieve the invention is also not supported by the evidence. Alcon's suggestion that the testing in specific live animal models was relatively new in the early '90s and was time-consuming and expensive is not persuasive given that other researchers, including Stjernschantz and Woodward, had conducted animal testing earlier.
+[479]
+Dr Klimko's affidavit indicates that the testing was done relatively quickly, over a few days and it does not appear to be onerous at all.
+[480]
+Although testing may be expensive, for a major drug company, this is not necessarily a disincentive.
+[481]
+It, therefore, appears that the testing required by Alcon was routine, just as other inventors would do routine tests with a fair expectation of success to confirm the expected results of travoprost as useful for the treatment of glaucoma and ocular hypertension.
+[482]
+There was motive for inventors to find a solution to the side effects concerns of the use of prostaglandins: the '417 disclosed a solution; latanoprost was in clinical trials; Woodward had published the results of his studies, albeit without specific data on the side effects; and, fluprostenol was well known. This coupled with the broader common general knowledge would motivate the POSITA to develop travoprost, with the same results as the '417, i.e. therapeutic effectiveness for the treatment of glaucoma and ocular hypertension.
+[483]
+In conclusion, I find that the allegations of obviousness are justified.
+XVII. CONCLUSIONS AND COSTS
+[484]
+My consideration of the positions of both parties and the extensive evidentiary record has been assisted by the submissions of counsel who were thorough and clear advocating their respective positions and in their submissions on the law and the science. I also appreciated the well-organized evidence provided in the form of day books and compendia.
+[485]
+For the reasons set out above, I have found the allegations as to invalidity on the grounds of anticipation and obviousness to be justified. The allegation of lack of demonstrated or soundly predicted utility is not justified.
+[486]
+In the result, the application for prohibition is dismissed.
+[487]
+With respect to costs, the respondent, Apotex, is entitled to costs to be assessed at the middle of Column IV of Tariff B.
+JUDGMENT
+[488]
+THIS COURT'S JUDGMENT is that
+:
+1. The applicant's application for an order prohibiting the Minister of Health from issuing a notice of compliance to Apotex for the Apotex product (Apo-Travoprost) until the expiry of Canadian Patent '287 on August 3, 2014 is dismissed.
+2. The respondents shall have their costs of the application.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/vnh

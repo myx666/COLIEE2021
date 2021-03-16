@@ -1,0 +1,469 @@
+[1]
+Barnes, J.
+: This is an application by Janssen Inc. [Janssen] under the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR 93-133 as amended [NOC Regulation] for an Order prohibiting the Minister of Health [Minister] from issuing a Notice of Compliance [NOC] to Teva Canada Limited [Teva] for a generic version of the drug VELCADE® bortezomib mannitol boronic ester for injection (velcade bortezomib). Velcade bortezomib is a very effective medicinal adjunct in the treatment of the blood cancer multiple myeloma.
+[2]
+The Patent in issue in this proceeding is Canadian Letters Patent 2,435,146 [the 146 Patent]. The only remaining issue in contention is whether Claim 30 of the 146 Patent was, as of January 25, 2001, invalid for obviousness.
+I.
+Background
+[3]
+The active pharmaceutical agent [API] that underlies the 146 Patent is the compound bortezomib, known to be an active proteasome inhibitor. Prior to the formulation in the 146 Patent, bortezomib was sufficiently stable to enable clinical trials but it was not stable enough for commercial exploitation. The 146 Patent addresses the issue of formulation stability.
+[4]
+Velcade bortezomib is, in practical terms, a stable formulation of bortezomib but it is also a different compound from bortezomib. Claim 30 of the 146 Patent is for the lyophilized (freeze-dried) mannitol ester of bortezomib which forms as a reaction product when the bulking agent, mannitol, is combined with bortezomib.
+[5]
+The 146 Patent states that boronic acid and ester compounds were known to be useful as inhibitors of certain proteolytic enzymes that, in some forms, were capable of inhibiting the growth of cancer cells. These compounds were also known to be unstable, particularly in the presence of oxygen. This instability was said to limit the pharmaceutical utility of the compounds and, hence, the need for improved formulations that could be conveniently prepared, that exhibited enhanced stability and shelf life as compared to free boronic acid compounds and that would readily liberate the API when administered. The invention is described at paragraph 6 as follows:
+[0006] The present invention provides stable, pharmaceutically acceptable compositions prepared from boronic acid compounds. The invention also provides methods for preparing such compositions. The invention provides the discovery that lyophilization of an aqueous mixture comprising boronic acid compound and a compound having at least two hydroxyl groups produces a stable composition that readily releases the boronic acid compound upon dissolution in aqueous media.
+[6]
+The 146 Patent asserts claims over a genus of "novel" boronate ester compounds as well as non-ester boronic acid compounds [see para 35, 38 and 135]. The claimed compounds are not limited to those constituted through lyophilization although that is said to be a preferred embodiment [see para 101]. Similarly, the use of mannitol is not asserted to be an essential embodiment for all of the claims although it, too, is said to be particularly preferred and most preferably D-mannitol. In other preferred embodiments, the dihydroxy compound (eg mannitol) remains "free" or unresolved [see para 99].
+[7]
+It is also of some note that the Patent specification does not maintain that the formation of a boronate ester from the reaction between mannitol and a chosen boronic acid compound is required for efficacy. Similarly, the Patent does not assert that the lyophilized ester was shown to have an enhanced stability profile over the other boronate esters formed by other means.
+II.
+Burden of Proof
+[8]
+Teva has met its evidentiary burden and the ultimate burden therefore rest with Janssen on a balance of probabilities.
+III.
+Obviousness - Legal Principles
+[9]
+Section 28.3 of the
+Patent Act
+, RSC, 1985, c P-4, requires that the subject matter of a patent claim not be obvious on the claim date to a person skilled in the art or science to which it pertains. The parties agree that the relevant date for determining whether Claim 30 is obvious is January 25, 2001.
+[10]
+In
+REFERENCE_SUPPRESSED, the Supreme Court of Canada set out a four-part test for assessing obviousness:
+a. Identify the notional 'person skilled in the art' and the relevant common general knowledge of that person;
+b. Identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+c. Identify what, if any, differences exist between the matter cited as forming part of the 'state of the art' and the inventive concept of the claim or the claim as construed; and
+d. Viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to a person skilled in the art or do they require any degree of invention.
+[11]
+The fourth step of an obviousness inquiry may require an "obvious to try" analysis which the Court in
+CITATION_SUPPRESSED
+described in the following way:
+a. Is it more or less self-evident that what is being tried ought to work? Are there a finite number of identified predictable solutions known to persons skilled in the art?
+b. What is the extent, nature and amount of effort required to achieve the invention? Are routine trials carried out or is the experimentation prolonged and arduous, such that the trials would not be considered routine?
+c. Is there a motive provided in the prior art to find the solution the patent addresses?
+[12]
+An obviousness challenge will not succeed if the prior art only establishes that something might work. On the other hand it does not require that there be a guarantee of success. The test is whether there would be a fair expectation of success: see
+REFERENCE_SUPPRESSED.
+[13]
+As with Justice Roger Hughes in
+REFERENCE_SUPPRESSED, I endorse the view of obviousness and obvious to try expressed in the following passage from by Kitchin L.J. in
+REFERENCE_SUPPRESSED:
+90. One of the matters which it may be appropriate to take into account is whether it was obvious to try a particular route to an improved product or process. There may be no certainty of success but the skilled person might nevertheless assess the prospects of success as being sufficient to warrant a trial. In some circumstances this may be sufficient to render an invention obvious. On the other hand, there are areas of technology such as pharmaceuticals and biotechnology which are heavily dependent on research, and where workers are faced with many possible avenues to explore but have little idea if any one of them will prove fruitful. Nevertheless they do pursue them in the hope that they will find new and useful products. They plainly would not carry out this work if the prospects of success were so low as not to make them worthwhile. But denial of patent protection in all such cases would act as a significant deterrent to research.
+91. For these reasons, the judgments of the courts in England and Wales and of the Boards of Appeal of the EPO often reveal an enquiry by the tribunal into whether it was obvious to pursue a particular approach with a reasonable or fair expectation of success as opposed to a hope to succeed. Whether a route has a reasonable or fair prospect of success will depend upon all the circumstances including an ability rationally to predict a successful outcome, how long the project may take, the extent to which the field is unexplored, the complexity or otherwise of any necessary experiments, whether such experiments can be performed by routine means and whether the skilled person will have to make a series of correct decisions along the way. Lord Hoffmann summarised the position in this way in
+CITATION_SUPPRESSED:
+"In the Court of Appeal, Jacob LJ dealt comprehensively with the question of when an invention could be considered obvious on the ground that it was obvious to try. He correctly summarised the authorities, starting with the judgment of Diplock LJ in Johns-Manville Corporation's Patent [1967] RPC 479, by saying that the notion of something being obvious to try was useful only in a case where there was a fair expectation of success. How much of an expectation would be needed depended on the particular facts of the case."
+92. Moreover, whether a route is obvious to try is only one of many considerations which it may be appropriate for the court to take into account.
+In REFERENCE_SUPPRESSED, Lord Hoffmann approved this statement of principle which I made at first instance in
+CITATION_SUPPRESSED
+:
+"The question of obviousness must be considered on the facts of each case. The court must consider the weight to be attached to any particular factor in the light of all the relevant circumstances. These may include such matters as the motive to find a solution to the problem the patent addresses, the number and extent of the possible avenues of research, the effort involved in pursuing them and the expectation of success."
+93. Ultimately the court has to evaluate all the relevant circumstances in order to answer a single and relatively simple question of fact: was it obvious to the skilled but unimaginative addressee to make a product or carry out a process falling within the claim ...
+Also see:
+REFERENCE_SUPPRESSED.
+[14]
+The strength of the ability to predict success is important to an obvious to try analysis and not necessarily whether the means or methods employed to arrive at the result were well-known. Nevertheless, the employment of known or routine testing to arrive at a solution is a relevant consideration. This point was recognized by Pelletier J. A. in the following passage from
+REFERENCE_SUPPRESSED:
+81 Given that the Trial Judge applied the test for obviousness set out in
+Plavix
+, and given that he applied it to the same material facts as the Supreme Court, he ought to have come to the same conclusion. His error lay in failing to recognize that the unknown nature of the properties of the enantiomers of PCR 4099, or of any of the other compounds of the '875 Patent, was fatal to the "obvious to try" analysis.
+Put another way, the distance between the common general knowledge and the inventive concept of the '777 Patent could not be bridged by routine experimentation since the results to be obtained were unknown
+. On the facts, this was confirmed by the fact that the inventors, who had more knowledge that the person of ordinary skill in the art, attempted to resolve a number of other compounds before finally trying PCR 4099: see Reasons, at paragraphs 752-759. [Emphasis added]
+IV.
+The Expert Witnesses
+[15]
+Janssen led evidence from one expert witness, Dr. Roland Bodmeier. Dr. Bodmeier's evidence is mainly in the area of formulation science, that being his field of specialization.
+[16]
+Teva led evidence from two expert witnesses. Dr. William Bachovchin is a bio-chemist and he gave evidence primarily from that perspective. Dr. Raj Suryanarayanan is a formulation scientist with a particular focus on the use of lyophilization. His evidence was provided from the perspective of a skilled formulator.
+[17]
+Both parties challenged the qualifications of the opposing expert witnesses with respect to some or all of the evidence they provided.
+[18]
+Teva argued that Dr. Bodmeier essentially disqualified himself on the topic of lyophilization when he testified that he did not "consider myself a freeze-drying expert because this is not my major research area, but I would say I'm expert enough and have a lot of experience with lyophilization to give a sound opinion or scientifically sound opinion about the 146 Patent". I do not consider this to be an acknowledgement of a lack of expertise on the part of Dr. Bodmeier. An issue of science need not be a focal aspect of a witnesses' expert knowledge or experience before it can be addressed in an opinion. That is particularly true of a formulation technique as basic as lyophilization. This is not a topic at the cutting edge of formulation science where general knowledge may not be sufficient; and even there the issue would generally go to the weight of the evidence and not to its admissibility.
+[19]
+Janssen criticized Dr. Bachovchin, saying that he lacked formulation experience. That reservation was borne out somewhat by Dr. Bachovchin when he acknowledged his limitations in that area. Dr. Bachovchin was, however, put forward by Teva for his experience as a medicinal chemist. He did express some views on the practices of formulation scientists based on his experience working with them. Much of this evidence was elicited under cross-examination. In the end Dr. Bachovchin gave evidence about what the person of skill would understand from a medicinal chemistry point of view and that evidence was left unchallenged. There is no basis to reject Dr. Bachovchin's evidence in whole or in part.
+[20]
+Janssen also asserted that Dr. Bachovchin's evidence ought to be excluded because he had been involved in the development of a compound that might ultimately be useful to treat multiple myeloma, thereby creating a commercial conflict of interest with the Janssen product. The mere possibility that this other compound might ultimately be shown to be useful and obtain regulatory approval to treat multiple myeloma is so remote that no reasonable person would conclude that a conflict existed. Furthermore, this argument cannot be isolated from Janssen's approach to Dr. Bachovchin's evidence which was, essentially, to leave it unchallenged. In the absence of conflicting evidence there is no reason to be suspicious of Dr. Bachovchin's evidence about what a person of skill with medicinal chemistry expertise would understand from the relevant prior art.
+[21]
+Janssen's criticism of Dr. Suryanarayanan was limited to the idea that he had a bias favouring the use of lyophilization as a stabilizing method. There is no plausible evidentiary support for this allegation and I reject it.
+[22]
+In my view, each of these witnesses was appropriately qualified to put forward the opinions they gave. They each had relative advantages and disadvantages in terms of their experience but there is nothing in the record that could properly disqualify any of them as an expert witness. My conclusions about their respective evidence turn, therefore, on weight and primarily on issues of clarity, consistency, logic and the presence of contradictions.
+V.
+Dr. Bodmeier's Evidence
+[23]
+Dr. Bodmeier is a Professor of Pharmaceutical Technology in the College of Pharmacy at the Frere University in Berlin, Germany. His teaching focuses on pharmaceutical technology, biopharmaceutics, doseage forms (including the formulation and characterization of doseage forms), use of excipients, parenteral drug delivery and lyophilization. He holds several editorial positions for international pharmaceutical publications and he sits on a number of scientific advisory boards.
+[24]
+Dr. Bodmeier's research includes the publication of 170 scientific articles and several book chapters. Some of his published work involves the process of lyophilization. He is clearly a skilled formulation scientist.
+[25]
+Dr. Bodmeier was asked by Janssen to review the 146 Patent to address some of the allegations of invalidity asserted by Teva and, in particular, obviousness.
+[26]
+Dr. Bodmeier's description of the person of skill was that of a drug formulator with a university degree and at least two years of experience working in a laboratory. That person would be familiar with drug formulation and with generally accepted textbooks in the field.
+[27]
+In his affidavit, Dr. Bodmeier discusses the usual approach to the development of a pharmaceutical formulation. Before beginning this work the formulator is typically given general information about the desired formulation including the pharmacokinetic profile of the compound and its stability parameters.
+[28]
+The usual first choice route of administration for a drug is oral. If that approach is unworkable, other methods will be considered including transdermal, injectable and nasal.
+[29]
+The formulator must consider the physiochemical properties of the subject compound including its solubility in a variety of solvents such as water. Stability of a formulation is almost always a requirement and a two-year shelf-life is the usual minimum goal. Instability can be caused by oxidation (reaction with oxygen or the removal of hydrogen), hydrolysis (reaction with water) and photochemical exposure (reaction to light).
+[30]
+According to Dr. Bodmeier, when the formulator's choice is an injectable formulation, ready-to-use is generally preferred over reconstituted solid state doseage forms. Solid state doseages require additional steps before administration to a patient thereby inviting human error. Problems can also be encountered in efficiently reconstituting a powder into a liquid injectable form. Nevertheless, when a compound is too unstable to be formulated in a liquid form it is sometimes necessary to consider other options such as a lyophilized or a dry powder formulation.
+[31]
+Dr. Bodmeier described the method of lyophilization and noted that it requires the formulator to make certain processing choices.
+[32]
+A bulking agent may also be necessary to increase the amount of solid material in a doseage. Dr. Bodmeier pointed out that the formulator has various options for bulking agents and for solvents (ideally water). The primary concern is that those choices not be harmful to humans.
+[33]
+Paragraph 54 of Dr. Bodmeier's affidavit states that lyophilization is sometimes unsuccessful for a particular compound because of unresolved stability issues or problems with reconstitution. He concludes that paragraph with the assertion that "there is no
+guarantee
+of success with a lyophilized formulation". [Emphasis added]
+[34]
+Paragraphs 54 and 55 of Dr. Bodmeier's affidavit discuss a variety of other options that may be useful to formulate poorly soluble compounds. Paragraph 57 then states:
+57. Most formulators have personal preferences for certain techniques. As a result, there are often a number of paths that could be taken by different formulators to arrive at a solution to a given formulation problem. In any event, the process of formulation is an iterative process that typically involves trying any number of formulations using any number of different options as discussed above. The job of the formulator is to narrow the options and ultimately come up with a workable formulation. Sometimes this can be extremely challenging and sometimes the formulator is met with failure and no workable formulation is developed.
+[35]
+In considering the 146 Patent, Dr. Bodmeier acknowledged that the first aspect deals with compounds and the second aspect relates to the composition of claimed compounds in lyophilized powder form.
+[36]
+Dr. Bodmeier noted the poor solubility and instability of bortezomib which makes the development of an acceptable formulation "more difficult". The problem of improved solubility is said to be overcome by lyophilization with mannitol.
+[37]
+According to Dr. Bodmeier, the instability of bortezomib in solution and in solid state is confirmed in the 146 Patent disclosure inasmuch as neither was stable for longer than six months. In contrast, the lyophilized product presented no evidence of degradation. The lyophilized product was also shown to be readily reconstituted within 10 seconds and stable for at least 43 hours. The bortezomib component of the composition also became available after reconstitution. On the basis of this evidence, Dr. Bodmeier concluded [see para 74] that "the 146 Patent addresses the key objectives of a formulator, namely the necessary stability of a minimum two year shelf life, while also making the bortezomib component of the drug product readily available at the time of use, in respect of a compound that was clearly highly unstable and poorly soluble". Dr. Bodmeier then went on to consider the obviousness of the claimed invention as of the claim date of January 25, 2001.
+[38]
+Dr. Bodmeier dismissed many of the prior art references relied upon by Teva on the basis that they would not be considered to be part of the common general knowledge of a formulator and were directed towards an organic or medicinal chemist. Furthermore, references dealing with other compounds "that are not related" to the subject compound are "not particularly useful either". That is said to be so because "every compound presents with different properties and different problems" [para 96].
+[39]
+Dr. Bodmeier acknowledged that the person of skill would search for literature concerned with bortezomib. Depending on those results, the search could be broadened to look at other boronate references. The person of skill would consider the
+Wu
+reference (Wu et al., "Degradation Pathways of a Peptide Boronic Acid Derivative") which is said to be the only prior art that discusses stability issues relating to bortezomib. Dr. Bodmeier took
+Wu
+to be teaching the following:
+101. The authors noted that bortezomib exhibits "erratic stability behaviour" and is "quite unstable" in a range of different solvents that are used commonly in development. The authors were attempting to understand the mechanism of degradation of bortezomib and therefore studied the stability and degradation products.
+102. The article discloses that oxidation is a serious issue to be addressed. A PSA would read this as indicating that measures should be taken during preparation to avoid oxidation, such as filling the dosage form under a nitrogen atmosphere.
+103. The article sets out that bortezomib is unstable in solution. The degradation occurred fairly rapidly and most likely too rapidly for a liquid formulation to be possible. Further, a PSA would have been directed away from an aqueous solution formulation because of the magnitude of degradation. A PSA would have understood from this Reference that the aqueous formulations are less stable than solid bortezomib, and would have been dissuaded from developing them.
+104. The steps taken by the authors to address the instability, such as adding ascorbate and a metal chelator, namely EDTA, were reasonable. If oxidation is suspected or known to occur, a formulator would generally consider these two compounds. However, these measures actually increased the degradation.
+105. In light of the information disclosed in this Reference, a PSA may consider using differing co-solvents or changing the pH. There is no information in the article proposing next steps the authors planned to take.
+[40]
+Dr. Bodmeier's affidavit states that "solid bortezomib would be the best starting point" but the person of skill would not have considered dissolving bortezomib in an aqueous medium, adding mannitol and then lyophilizing the solution because of bortezomib's susceptibility to hydrolytic degradation [para 106]. According to this view, the person of skill would expect a lower degree of storage stability from a lyophilized form of bortezomib because of the higher water content present in such a formulation. Furthermore,
+Wu
+did not teach that the stability of bortezomib could be improved through a reaction with a diol. That information only came from the disclosure of the 146 Patent.
+[41]
+Dr. Bodmeier also discussed the prior art in relation to the use of mannitol. That prior art indicated that mannitol would be expected to be generally safe but offered little else of value to a formulator. The references dealing with lyophilization would be unhelpful because the person of skill already understood that technique to be one option among others.
+[42]
+Dr. Bodmeier expressed the opinion that the person of skill would not consider references concerning boron compounds different than bortezomib. He also stated that the person of skill would review only the titles of the references cited in
+Wu
+and, in so doing, would see nothing of interest. In the result, the skilled formulator would just start working with the compound to develop different formulations.
+[43]
+Dr. Bodmeier's description of the inventive concept of Claim 30 and why it was unexpected is set out in the following passages from his affidavit:
+153. In my opinion, a PSA would consider the inventive concept of the '146 Patent to be a pharmaceutically stable formulation that also readily achieves a pharmaceutically active form upon dissolution. More specifically, as claimed in claim 30, it is a lyophilized mannitol ester of bortezomib that is easily reconstituted, and wherein a pharmaceutically active form is achieved upon dissolution.
+154. This inventive concept was unexpectedly found to occur by reaction of the boronic acid with mannitol.
+155. This is unexpected because the main reason for using mannitol as the bulking agent is because it is generally inert. For example, it is well known in the art that excipients should not react with the active ingredient. Excipients, and particularly bulking agents, are pharmacologically inactive substances. Indeed, what is disclosed to have happened in the '146 Patent is something that a formulator would want to avoid, namely the interaction between the active agent and the bulking agent. In this regard, it is clear that a PSA would not expect the mannitol to react with and form an ester with bortezomib. Even an expert formulator like myself would not expect this.
+[44]
+Dr. Bodmeier's conclusions about obviousness are discussed at paragraphs 160 to 168 of his affidavit. They include the following:
+a. Notwithstanding the teaching of
+Wu
+, the person of skill "may continue to try to develop a liquid formulation";
+b. The person of skill would consider a variety of alternative approaches including lyophilization. This could include a dry powder doseage form; and
+c. The person of skill using lyophilization will face a number of choices for solvents, bulking agents, other necessary excipients, pH and the drying cycle.
+[45]
+In the presence of the available choices Dr. Bodmeier repeated the point that "there is no
+guarantee
+that any of these options would work to result in a useable formulation. In other words it would not be self-evident that it would be possible to obtain a workable formulation" [Emphasis added] [para 165]. It would similarly not be self-evident to the person of skill that the mannitol ester of bortezomib would be formed completely during lyophilization, that this would result in greater stability of bortezomib or that bortezomib would be easily reconstituted in an active form upon dissolution.
+VI.
+Dr. Suryanarayanan's Evidence
+[46]
+Dr. Suryanarayanan is a Professor in the Department of Pharmaceutics at the University of Minnesota where he has taught since 1985. His principal area of research focuses on pharmaceutical formulations, including the characterization of drugs and excipients, phase transitions that take place during pharmaceutical processing with particular emphasis on lyophilization of pharmaceuticals. He has published extensively on the subject of lyophilization including the behaviour of mannitol in such preparations. For a period of time, he was the supervisor of the Injection Manufacturing Department at Hoffman-La Roche Limited (India).
+[47]
+Dr. Suryanarayanan was retained by Teva to provide an expert opinion concerning whether the subject matter of Claim 30 of the 146 Patent would have been obvious to the person of skill. His conclusion at paragraph 17 of this affidavit was that Claim 30 describes the invention of a lyophilized composition containing mannitol and bortezomib. At paragraph 26 of his affidavit he states that Claim 30 describes a lyophilized boronate ester of mannitol and bortezomib. According to Dr. Suryanarayanan it would have been obvious to a person skilled in the art to formulate bortezomib in this way.
+[48]
+Dr. Suryanarayanan described the inventive concept of Claim 30 at paragraph 64 as follows:
+Freeze-drying bortezomib and mannitol yields a pharmaceutically stable formulation.
+[49]
+The underlying factual basis for Dr. Suryanarayanan's obviousness opinion includes the following:
+a. Bortezomib is a peptide drug. Peptide drugs present formulation challenges and parenteral administration is frequently indicated;
+b. From reading
+Wu
+, the person of skill would know that bortezomib had been formulated as an injectable aqueous solution but, in that form, it was unstable. The very first thing the person of skill would think of doing to obtain better stability would be to remove the water by freeze-drying;
+c. Lyophilization is routinely used to solve the problem of aqueous instability. It results in a powder that can be reconstituted immediately before use;
+d. If the required amount of the active ingredient of a pharmaceutical preparation is small (a few mg), it is common to add a bulking agent;
+e. Mannitol was and is often the bulking agent of choice for lyophilized injectable formulations. In this case, mannitol would have been one of the first excipients a person of skill would try; and
+f. The person of skill would have had "every expectation that lyophilizing bortezomib with mannitol would yield a stable formation" [para 67]. This would be the case whether or not the person skill would expect the combination to form an ester.
+[50]
+Dr. Suryanarayanan was also asked to describe the notional person of skill to whom the 146 Patent is addressed. In carrying out that task, he noted that the 146 Patent asserts claims to a large number of stable compounds and formulations of boronic acids and boronic esters, although Claim 30 is limited to a single boronate ester. Several of the Patent claims are for compounds without a particular drying technique being stipulated. Other claims cover the same compounds that are freeze-dried. Dr. Suryanarayanan concluded from reading the patent as a whole that the person of skill would be a formulation development team that would include a formulator and a medicinal chemist. This view is supported by paragraph 40 of his affidavit:
+40. Lyophilization, including the selection of excipients and the method of carrying it out are clearly within the expertise of a formulation scientist or "formulator". Paragraph 4 of the 146 Patent discloses that alkylboronic acid compounds readily form boroxines under dehydrating conditions and are often air sensitive, thereby limiting their pharmaceutical utility. The 146 Patent also discloses the ability of boronic acids to form esters with dihydroxy compounds such as sugars. These aspects of the 146 Patent which involve the chemistry of boronic acid compounds fall squarely within the expertise of a medicinal chemist.
+[51]
+According to Dr. Suryanarayanan the skilled formulator would be familiar with the common stability issues encountered with peptide drugs. However, boronic acid chemistry is a relatively specialized field. Because the formulator would not be aware of the chemical properties of such compounds (including their capacity to form reaction products), he would not proceed with formulation work without input from a medicinal chemist.
+[52]
+The common general knowledge of a skilled formulator would include the following:
+a. Lyophilization was a known and standard technique for preparing stable drug products;
+b. Freeze-drying can accelerate the dissolution rate of an active compound;
+c. Although there is a general preference for ready-to-use injectable solutions, stability challenges may indicate that freeze-drying is the best option. Freeze-dried powders can usually be safely stored until they are reconstituted in solution for administration to a patient;
+d. Freeze-drying was a known dry state stabilization technique for peptides and proteins. Prior to 2001, most such compounds were prepared as freeze-dried powders. One prior art reference in support of this approach was Wang (1994) which said the following:
+Lyophilization of pharmaceuticals can yield high-quality products with an increased shelf life. Proteins or small drug molecules with stability problems are good candidates for lyophilization. Lyophilization is a process in which water is removed from formulations by sublimation at low temperatures under vacuum. The biological activity of proteins dried at low temperature is fairly well preserved and their shelf life prolonged in the dry state.
+e. Mannitol is one of the most commonly used excipients in freeze-dried formulations (of only a few) and would be considered for use as a matter of course. It was known to be well tolerated for injectable use. The known advantages for mannitol were described in Kim (1998) in the following terms;
+Mannitol is one of the most commonly used excipients in freeze-dried pharmaceutical products. One of the reasons for the widespread use of mannitol is its tendency to crystallize from frozen aqueous solutions and the high melting temperature of the mannitol/ice eutectic mixture (about - 1.5°C). This property promotes efficient freeze-drying and a physically stable, pharmaceutically elegant freeze-died solid.
+[53]
+In comparing the state of the art as described above to the inventive concept of Claim 30 to ascertain the differences, Dr. Suryanarayanan found nothing inventive. He justified this view on the following basis:
+71. Wu 2000 disclosed that bortezomib had been formulated for parenteral administration but that the compound was found to be unstable in various aqueous solutions. In particular, Wu 2000 disclosed that bortezomib had been studied in various mixed aqueous solutions (PEG 300/ethanol/water; ethanol/saline; propylene glycol/ethanol/water), and that significant degradation was observed when bortezomib was stored in these solutions, for periods ranging from one day to eight months. Wu 2000 also disclosed at page 762 that bortezomib was unstable when stored in saline (containing 2% ethanol) for short periods of time: 96% drug remaining after 5 days, 94.1% drug remaining after 14 days (see Table 1).
+72. Knowing that bortezomib was a peptide drug formulated for parenteral administration and that it was unstable in solution, it would have been self-evident to the skilled formulator that freeze-drying would almost certainly improve the stability of bortezomib. As discussed above in relation to the common general knowledge, the skilled formulator would know that lyophilization is routinely used to resolve aqueous stability problems of parenteral formulations and that most peptide and protein drugs were prepared as freeze-dried powders to address stability issues, it would be obvious to the skilled formulator to follow this route and to prepare bortezomib in a lyophilized formulation.
+73. Also, as discussed above in relation to the common general knowledge, the skilled formulator would also know that a lyophilized formulation of bortezomib would require a bulking agent, and that mannitol would be the first choice, given its widely accepted use for this purpose.
+74. At paragraph 103 of his affidavit, Dr. Bodmeier states, with reference to Wu 2000, that degradation occurred fairly rapidly "and most likely too rapidly for a liquid formulation to be possible." At paragraph 106, he states that a skilled formulator "...would not have considered dissolving solid bortezomib in an aqueous medium, adding mannitol and then lyophilizing this solution based on the information provided in this Reference about the degradation, and particularly hydrolysis, of bortezomib in an aqueous medium". I disagree.
+75. The key issue is the degradation kinetics, Table 1 of Wu 2000 (page 762) disclosed that 96% of intact bortezomib remained in normal saline solution (with 2% ethanol; pH 2.8) after 5 days at 25°C. This degradation rate would not deter a skilled team from using an aqueous medium for lyophilizing bortezomib. This rate of degradation is intolerable for long-term storage, but would be unlikely to pose any problem for the much shorter periods involved in the freeze-drying process and reconstitution. There would be no need to store bortezomib in an aqueous solution for extended periods at 25°C, either prior to lyophilizing it into a dried powder, or after it is reconstituted for use.
+76. In paragraph 107, Dr. Bodmeier argues that, based on Wu 2000, a skilled person would expect that lyophilized bortezomib would have lower storage stability than non-lyophilized solid bortezomib because of the higher water content in the lyophilized formulation. The problem disclosed in Wu 2000 is a lack of stability when formulated as an aqueous solution. Removal of the water by lyophilization is the obvious answer to this problem, and as discussed above in relation to the common general knowledge, is particularly suitable for drugs that may be susceptible to thermal degradation when dried under elevated temperatures.
+77. The issues relating to residual water content in mannitol containing formulations are well understood by the pharmaceutical community. The residual water content will be high only if a substantial fraction of the mannitol in the final lyophile is amorphous. Crystallization of mannitol can be brought about by annealing and differential scanning calorimetry (DSC) can be used to develop an appropriate annealing protocol. Thus the formulator can take fairly simple and straightforward steps to completely crystallize the mannitol and minimize the water content in the final lyophilized cake. Therefore, there is simply no support for Dr. Bodmeier's suggestion that the amount of residual water in a lyophilized solid would dissuade a skilled formulator from pursuing a lyophilized formulation.
+[54]
+Dr. Suryanarayanan then looked at the inventor's actual course of conduct in obtaining the results supporting Claim 30. A lyophilized mannitol formulation was quickly achieved and Dr. Suryanarayanan could identify no material difficulties in obtaining the desired stable formulation.
+[55]
+Dr. Suryanarayanan also considered the suggestion by Dr. Valentino Stella that the formation of an ester was unexpected. He noted that the 146 Patent claims were not limited to esters of boronic acid compounds but, in any event, the skilled formulator would find it self-evident that the stability and shelf-life of bortezomib could be enhanced by freeze-drying. That would be the case whether or not an ester was formed.
+[56]
+Dr. Suryanarayanan considered the prior art concerned with the potential for the formation of esters as reaction products from the combination of boronic acid compounds and polyols like mannitol. He drew from that material that the person of skill, whether it be a properly informed formulator or a medicinal chemist, would expect the reaction exemplified by Claim 30. He concluded this part of his analysis in the following way:
+95. As at 2001, bortezomib was a relatively new compound. The skilled formulator would not expect that the scientific, literature would include many references describing the compound, let alone pharmaceutical formulations containing the compound. Knowing this, the skilled formulator would in fact focus the search for useful information on references that describe the properties and formulations of closely related compounds. One of the first things that the skilled formulator would do when presented with the task of developing a more stable formulation of bortezomib would be to search the prior art references to learn how the most closely related compounds had been formulated in the past.
+96. The skilled team reading Wu 2000 would also observe that the authors cited and relied on information about other boronic acid compounds. Wu 2000 referred in the introduction to other boronic acid enzyme inhibitors, and the skilled person would be interested in any published formulation or stability information for related compounds.
+97. In paragraphs 150-152 of his affidavit, Dr. Bodmeier argues that the skilled person's search strategy would be to review the titles of the references cited in Wu 2000, but the skilled person would dismiss them as being of no interest, and as a result "would not obtain any of these references" and would "just start working with the formulations". I disagree. In my opinion, the skilled person would conduct a search for information about the chemistry and formulation properties of other boronic acid inhibitors and this would include the references cited in Wu 2000. The skilled person would not consider all of the cited references to be of no interest or help, as stated by Dr. Bodmeier.
+98. In paragraph 160 of his affidavit, Dr. Bodmeier argues that a skilled person would not find it self-evident that a lyophilized formulation of bortezomib would form a stable ester with mannitol that also readily reconstitutes and achieves a pharmaceutically active form when reconstituted. If one assumes that the skilled team was completely unaware that boronic acids would react with dihydroxy compounds when it carried out the project, there would be no reason not to lyophilize bortezomib with mannitol and there would be no reason to expect that the preparation would not be readily reconstituted.
+99. If one assumes that the skilled team knew or learned that boronic acids would react with dihydroxy compounds, this would not deter the skilled team form pursuing a lyophilized formulation. The skilled medicinal chemist on the formulation team would be expected to have an understanding of the reaction kinetics of ester formation and hydrolysis, and this understanding could be readily confirmed by simply dissolving the lyophilized preparation in water and analyzing for the active ingredient. Indeed, this is a common and routine test with any lyophilized formulation of a new compound.
+100. The skilled team would ultimately determine that an ester had formed between bortezomib and mannitol by conducting routine analysis of the lyophile (the freeze-dried product). The same mass spectral analysis that was reported at paragraph 141 of the 146 Patent to confirm the formation of the ester (by a strong signal at m/z = 531) was also conducted in Wu 2000 (method of analysis disclosed at page 759).
+VII.
+Dr. Bachovchin's Evidence
+[57]
+Dr. Bachovchin is a Professor of Developmental Molecular and Chemical Biology in the Department of Biochemistry at Tufts University School of Medicine in Boston, Massachusetts. His research is focussed on drug design and discovery, with particular emphasis on the study of serine protease inhibitors and other small molecules as drugs to treat cancer. Dr. Bachovchin was retained by Teva to provide an opinion as to whether the subject matter of Claim 30 of the 146 Patent would have been obvious to the person of skill.
+[58]
+Dr. Bachovchin concluded that as of January 25, 2001 it would have been obvious to the person of skill in the art that the lyophilized combination of bortezomib and mannitol would form a boronate ester and that that composition would be more chemically stable than bortezomib in solution. The person of skill would also know that the esterification of bortezomib is reversible such that free boronic acid would be quickly released on reconstitution into aqueous solution.
+[59]
+Dr. Bachovchin considered the scope of the 146 Patent. He noted that there are four stated 'aspects' of the claimed invention.
+[60]
+The structure of the first aspect is that of a boronate ester where boron is covalently bonded with a dihydroxy compound (eg. a sugar).
+[61]
+The second aspect of the invention differs from the first by being lyophilized.
+[62]
+The third aspect is a method for formulating a boronate ester by mixing a boronic acid compound with a compound with at least two hydroxyl groups in aqueous solution which is then lyophilized.
+[63]
+The fourth aspect provides "compositions prepared by the methods of the invention".
+[64]
+Claim 30 of the Patent is said to cover the lyophilized mannitol ester of bortezomib. In comparison, Claim 15 claims the mannitol ester of bortezomib alone. Dr. Bachovchin expressed the opinion that the person of skill is a drug development team that includes a medicinal chemist and a formulation scientist. Because the problem at hand concerned the known instability of alkyl boronic acids, it would be important to understand the chemical pathways that give rise to that instability. According to Dr. Bachovchin significant aspects of the 146 Patent falls squarely within the domain of the medicinal chemist because they describe the synthesis of claimed compounds as well as testing them for inhibitory activity.
+[65]
+Dr. Bachovchin did not purport to speak on behalf of the formulation scientist but only to the common general knowledge of the medicinal chemist. Nevertheless, under cross-examination he did express some views about the state of knowledge that a skilled formulator would be expected to bring the problem of finding a stable formulation for bortezomib. Dr. Bachovchin stated that the knowledge in the possession of the person of skill would include the following:
+a. Boronic acids tend not to be chemically stable compounds;
+b. The boronate moiety of boronic acid compounds was generally known to be chemically unstable;
+c. The person of skill looking to stabilize bortezomib would look for guidance to the known methods to stabilize other boronate compounds. Dr. Bodmeier's contrary suggestion "ignores basic chemistry precepts" and is inconsistent with the discussion in
+Wu
+(NOA document 130) who examined prior boronate references in conducting his work with bortezomib;
+d. Lyophilization is a standard procedure often used to prepare or stabilize a compound. It is a method of removing water at low temperatures resulting in a solid state composition. The removal of water at low temperature is known to stabilize compounds that are unstable in solution;
+e. Protein and peptide drugs were, as of January 25, 2001, often prepared as lyophilized formulations; and
+f. Mannitol is repeatedly recommended by introductory textbooks and review articles as a bulking agent for lyophilized formulations.
+[66]
+Dr. Bachovchin described the inventive concept of Claim 30 as the lyophilized compound D-mannitol N-(2-pyrazine) carbonyl-L-phenylalanine-L-leucine boronate, a form of bortezomib that is suitably stable to be acceptable for use in pharmaceutical preparations. He disagreed with Dr. Bodmeier's view that part of the inventive concept was the 'unexpected' reaction between boronic acid and mannitol. This was a reversible reaction that the person of skill would have expected and desired. That knowledge included the following:
+a. Bortezomib is a boronic acid peptide analog protease inhibitor that was known to be unstable in solution;
+b. Boronate esters form when boronic acids are combined with dihydroxy compounds and many of these will revert to free boronic acids when water is added;
+c. Boronate esters had been lyophilized. Most injectable peptides and protein drugs were prepared as lyophilized products for stability reasons and it was a preferred approach over dry powder formulations;
+d.
+Wu
+disclosed that bortezomib is chemically unstable in aqueous or mixed aqueous solutions such that its long-term storage in solution may not be feasible;
+e. U.S. 454 (referred to in Wu) disclosed a number of boronic acid and boronate ester compounds (including bortezomib) and procedures for their synthesis. It also disclosed that boronate esters of boronic acid compounds were preferred. It went on to explain how these esters could be formed with the use of hydroxyl compounds. This reference also disclosed the lyophilization of boronate ester compounds; and
+f. The person of skill would confidently predict that mannitol would form an ester with boronic acid and that bortezomib and its esters could be lyophilized. This is so because mannitol is a polyol that would be expected to react in the same manner as the diols specifically identified in U.S. 454.
+[67]
+Dr. Bachovchin also strongly disagreed with Dr. Bodmeier's opinion that the person of skill would ignore any prior art references that did not expressly concern bortezomib. Inasmuch as bortezomib was a relatively new chemical entity, the person of skill seeking to obtain a stable formulation would routinely consider chemical analogs to be a useful place to start. That prior art amply demonstrated that by combining an alkyl boronic acid (eg. bortezomib) with mannitol a reversible ester would form.
+[68]
+On the basis of the prior art, Dr. Bachovchin concluded that it would have been obvious to the skilled team seeking to develop a stable formulation of bortezomib to lyophilize bortezomib with mannitol. Following this approach, the person of skill would have had a very high degree of confidence that the resulting ester would be more stable than bortezomib. Furthermore, on reconstitution in aqueous solution the reaction would reverse because a boronate ester that is susceptible to hydrolysis before lyophilization will remain susceptible on reconstitution.
+[69]
+Dr. Bachovchin also took issue with Dr. Bodmeier's assertion that, given the instability of bortezomib, it was counter-intuitive to expose the compound to water during the process of lyophilization. The relatively brief exposure of solid bortezomib to water during this process (a few hours) was, according to Dr. Bachovchin, not inconsistent with the finding by
+Wu
+that the drug remained substantially intact after two weeks in solution.
+[70]
+Dr. Bachovchin also dismissed Dr. Bodmeier's concern that any lyophilized form of bortezomib would be unstable because of its residual water content. Dr. Bodmeier's view was said to be inconsistent with the routine and successful use of lyophilization to address aqueous instability problems generally and because the amount of residual water would be small and manageable.
+[71]
+Finally, Dr. Bachovchin described the amount of effort required to prepare the compound described by Claim 30 as 'trivial'. The process of lyophilization was routine, involving standard techniques and would take only a day or two to accomplish. The methods required to confirm stability and efficacy were similarly routine. This was said to be consistent with the evidence of the actual work carried out by Dr. Stella in arriving at the formulation described in Claim 30.
+[72]
+Under cross-examination, Dr. Bachovchin was asked about the state of the art as it pertained to the person of skill. He gave the following answers [pp 3322 and 3329]:
+A. There are two different levels of disagreement here. Yes, I disagree with him on the person skilled in the art. But even accepting the person skilled in the art is simply a formulator, I disagree that a formulator with - - should not - - should not know this simple chemical equilibrium that occurs between boronic acids and diols, and that a formulator, if he did not know, one of the first things he would have done was - - was consult with the - - with the literature and the - - and the medicinal chemist on this - - this elementary chemical reaction.
+...
+A. I can't - - I can't imagine that the formulator would not become aware of this in tackling this problem, that he would ask - - he would try to find out what is known about the elementary chemistry of these boronic acids. And this would be one of the first things he would turn up in talking to almost anybody who knows anything about the field, and it would be the first - - some of the first things he would read in looking at the literature relevant to boronic acids.
+[73]
+It is noteworthy that Dr. Bachovchin was not cross-examined about his evidence concerning the prior art and the expected reaction between bortezomib and mannitol or about the reversal of that reaction on reconstitution of the lyophilized powder. That evidence was also left unchallenged by Dr. Bodmeier who, instead, took the position that the person of skill would not have known about it nor have taken steps to obtain it.
+VIII.
+Who is the Person Skilled in the Art and What was the State of his Knowledge?
+[74]
+Janssen's case is largely built around the proposition that the person of skill (ie. the skilled formulator) would not have been aware of the likelihood of a reaction between bortezomib and mannitol to form an ester. According to this theory, the skilled formulator would be mindful of potential reactions and would usually seek to avoid them. If needed at all, he would choose a bulking agent that would be expected to be unreactive or inert.
+[75]
+Despite acknowledging that the 146 Patent includes aspects that would require the involvement of a medical chemist to understand Dr. Bodmeier was adamant that, at least for the purposes of understanding Claim 30, only the knowledge of a skilled formulator was required. According to Dr. Bodmeier, the skilled formulator would not appreciate that an ester was likely to form from the combination of mannitol and a free boronic acid and would thus be surprised by that result. Indeed, the skilled formulator would instinctively avoid such a reactive combination out of a concern that the efficacy of bortezomib could be compromised.
+[76]
+Dr. Bodmeier's description of the scope of enquiry undertaken by his proposed person of skill was also very narrow. His view was that the skilled formulator was likely to consider only one prior art reference, that being the paper by
+Wu
+. Beyond that he would simply get to work to solve the formulation problem on his own. Despite acknowledging the relevance of
+Wu
+, Dr. Bodmeier went so far as to say that the person of skill would ignore all of the other prior art it cites including the very patent covering bortezomib.
+[77]
+I have considerable scepticism about the evidence of Dr. Bodmeier in support of this aspect of Janssen's case. It seems inherently implausible that a skilled formulator, attempting to overcome the instability of bortezomib, would be oblivious to the basic chemistry of that compound. That information was clearly known to medicinal chemists and it was also readily available in the prior art concerned with bortezomib and with its close analogs. To my thinking, the person of skill in this case does not work in a silo of specialized knowledge uncaring about helpful available information from sources that may reside outside of the strict confines of his specialty.
+[78]
+I accept that the role of the medicinal chemist is to synthesis compounds, to scale up the processes for doing so and to identify degradation problems. Once that work is done it is the role of the formulator to take the compound and to find an effective formulation. Notwithstanding these distinctive roles, I do not accept the suggestion that the skilled formulator would blindly embark on the task of formulating bortezomib without any regard to relevant and available knowledge of its chemical properties and propensities.
+[79]
+I do not accept Dr. Bodmeier's narrow view of the scope of the prior art inquiry that the person of skill would take to seek out a stable formulation for bortezomib. The person of skill may not be inventive but she is not incompetent or prone to unnecessary experimentation. The skilled formulator would examine available prior art dealing with bortezomib or its closely related compounds to understand any chemical properties that could be helpful including those that discuss esterification of boronic acid compounds and polyls like mannitol.
+[80]
+It is not a matter of controversy that the primary piece of relevant prior art in this case is the
+Wu
+reference. The authors of that paper include one of the 146 Patent inventors, Dr. Stella. The focus of the work reported in
+Wu
+concerned the identification of bortezomib's degradation pathways with a view to addressing its instability for purposes of formulation. The authors confirmed that the major degradation pathway for bortezomib resulted from oxidation but they also noted that "it was quite unstable in certain solvents". One of the references cited in
+Wu
+is the equivalent patent to the Canadian Letters Patent 2,203,936 Patent (ie. U.S. 454) covering boronic
+ester
+and acid compounds including bortezomib itself. Also cited in
+Wu
+are references concerned with other boronic acid analogs to bortezomib.
+[81]
+U.S. 454 teaches that esters are formed by reacting the acid groups of boronic acids with dihydroxy compounds (eg. mannitol). The relevance of this earlier patent is further borne out by being cited in the 146 Patent as prior art.
+[82]
+Dr. Bodmeier's evidence was that the person of skill would only be interested in reading
+Wu
+. All of the prior art cited in
+Wu
+would be dismissed out of hand because the titles of those references would reflect nothing of relevant interest. Dr. Bodmeier's suggested approach to prior art references is unprofessional and it cannot be endorsed as an acceptable practice for the notional person of skill. I do not agree that the person of skill looking to solve a formulation problem with a relatively new and unstudied compound would treat potentially helpful prior art references (cited in admittedly relevant material) in such a cavalier way.
+[83]
+In some measure Dr. Bodmeier's testimony undermines his affidavit on this issue when he admitted that he had reviewed one of the
+Wu
+references (No. 5) and found it to be relevant notwithstanding its uninformative title and where, unlike U.S. 454, it did not directly concern bortezomib. Dr. Bodmeier's difficulty on this issue is further evidenced by his testimony under cross-examination at questions 728-745 where the content of paragraph 151 of his affidavit was substantially undermined.
+[84]
+At a minimum, the person of skill in this case would have reviewed all of the references cited in
+Wu
+to determine if their content was relevant to the task of finding a stable formulation for bortezomib.
+[85]
+I also do not agree with Dr. Bodmeier that the 146 Patent is addressed only to a formulation scientist. The patent clearly speaks to matters of chemistry and chemical synthesis. Claim 30 may be concerned with a formulation but, like Claim 15, it also claims a compound.
+[86]
+Janssen failed to articulate a consistent position concerning Claim 30. On the one hand it maintained that Claim 30 covered a formulation (pointing to the definition of "formulation" in the Patent) and, on the other, it characterized the inventive concept as the making of a new compound in the form of an unexpected ester. This position was supported, in some measure, by Dr. Bodmeier who testified that Claim 30 covered simultaneously a formulation and a new compound [p 2801-2802]. For the purposes of identifying the person of skill, Janssen cannot have it both ways. If Claim 30 is for a new compound, the person of skill is necessarily someone with skills exceeding those of a bare formulator. That would be so however the Patent purports to define its own terms.
+[87]
+There can be no serious dispute that some of the aspects of the 146 Patent describe processes of synthesization of claimed compounds as alternatives to lyophilization. In particular paragraph 101 advises the person of skill that the desired compounds can be obtained through the process of transesterification or by incorporating a sugar moiety at an earlier stage in the synthesis. According to Janssen and Dr. Bodmeier these other approaches would be matters of theoretical interest only because, unlike the described process that underlies Claim 30, no information is imparted about how one could make them work to solve the bortezomib formulation problem.
+[88]
+When Dr. Bodmeier was asked about these other processes, he acknowledged that they fell within the scope of work typically assigned to a medicinal chemist but he otherwise discounted their significance. His testimony was as follows:
+255 Q ...Who would carry out that process? Would that be a formulator or would that be a synthetic chemist?
+A. That would be a synthetic chemist. And I also saw this part, but if you read the patent starting with the field of the invention and the formulation and especially the examples, there's not a single example for this part, okay? So, I think you are correct, this does not fall in the expertise of a formulator, that would be an organic chemist or a medicinal chemist, but there's no further basis for this in the whole patent.
+...
+261 Q. But what this patent is teaching here is that you can get the product, the mannitol ester of bortezomib, through two alternative synthetic processes that are the work of a synthetic chemist and not a formulator, correct?
+A. No, I have to see this within the context of the '146 Patent. This patent again is directed to a formulator, okay? And this is the first part. The second part here I agree is for a synthetic chemist, but there is no example and no further mentioning of this route in the patent.
+262 Q. But this portion here is not directed to a formulator. Would you agree with that?
+A. This one sentence, if you had to do it, would not fall within the ex -- so just to be specific, the last sentence:
+"...alternatively, the boronate esters of formula (1) can be prepared by incorporation of the sugar moiety at an earlier stage in the synthesis."
+That would not fall within the expertise of a formulator.
+263 Q. Okay, so at least a portion of this patent is directed to a synthetic chemist?
+A. This one sentence.
+264 Q. Yes. That is directed --
+A. That sentence, yes.
+[89]
+Dr. Bodmeier's much repeated concern about the silence of the 146 Patent concerning these other identified processes of synthesization was qualified later by his acknowledgement that a medicinal chemist "probably should be able to do that, yes" [p 2769], meaning that the medicinal chemist did not need to be given process particulars. Dr. Suryanarayanan testified that the alternative methods of synthesis described in the 146 Patent were directed to a medicinal chemist [p 3160]. To the same effect is the evidence of Dr. Bachovchin [affidavit para 44] [see footnote 1].
+[90]
+Under further cross-examination about the significance of paragraph 101 of the 146 Patent, Dr. Bodmeier got into obvious difficulty. His evidence was evasive and unconvincing. His credibility was also significantly undermined by an inappropriate intervention by counsel for Janssen which he readily adopted. The entire exchange is set out below:
+430 Q. When you say the whole patent is about lyophilization, you conveniently ignore the two alternative synthetic processes in paragraph 101.
+A. I do not conveniently ignore them and we discussed this and I think I also said that the last part, this one sentence of paragraph 101 would be directed to an organic chemist or medicinal chemist and I can read this sentence again:
+"Alternatively, the boronate esters of formula (1) can be prepared by the incorporation of the sugar moiety at an earlier stage in the synthesis."
+That sentence is there, it's directed to an organic chemist, however, you have no teaching at all in this patent for this statement and that's why this patent is clearly directed to a formulator and not to a chemist. And, as I said; you know, the field of the invention, the title, the summary and all the examples are examples directed to formulation and to this invention making this compound by lyophilization.
+431 Q. But the portion that you just read from paragraph 101 is describing the first and second aspects of the invention, correct? Because that's how paragraph 101 starts out.
+A. The first? Yes, that is correct, yes.
+432 Q. Okay, so the first and second aspects of the invention include those two alternative synthetic processes, correct?
+A. I think I said all I have to say to this discussion. For me, this is a single sentence with no further information in the patent how to make these compounds.
+433 Q. Right, but you told me earlier that the medicinal chemist doesn't need the further information, he can do it. The only reason that you can't do it is because you're not a synthetic chemist.
+A. I cannot do it, but the question is to whom is this patent directed and what is this patent about? And this patent is about formulation and is not about organic chemistry, this is about formulation.
+434 Q. But you, when you give me that evidence, you say with the exception of paragraph 101?
+MR. MILLS: He's already answered.
+THE WITNESS: I have answered that, yes.
+BY MR. AITKEN:
+435 Q. You read it out of the patent?
+MR. MILLS: He's already answered.
+MR. AITKEN: No, I didn't ask him - -
+MR. MILLS: You have his position.
+MR. AITKEN: -- whether he read it out before
+BY MR. AITKEN:
+436 Q. Do you read paragraph 101 out of the patent?
+MR. MILLS: That's a legal term. Objection.
+BY MR. AITKEN:
+437 Q. Do you read the patent without regard to paragraph 101?
+A. I have said everything I have to say, and I read this, and this patent is all about formulation, except for that one single sentence.
+[91]
+The final point made above by Dr. Bodmeier that the 146 Patent contains only one sentence that would be within the purview of a medicinal chemist is not correct. When asked about the scope of Claim 15, he conceded that it covered the non-lyophilized ester of bortezomib produced by the alternative synthetic methods described in paragraph 101 [see pp 2809-2811]. He also acknowledged that Claim 30 incorporated both a formulation aspect and a new compound [p 2801-2802].
+[92]
+When Dr. Bodmeier was asked about U.S. 454, he acknowledged that it taught the person of skill, in the form of a medicinal chemist, that boronic acids form esters with diols. He dismissed the reference, however, on the basis that it was not addressed to a formulator. The problem facing the person of skill in formulating bortezomib "was not to make the ester but to formulate bortezomib" [pp 2812-2813]. He again dismissed the synthetic chemistry references in the 146 Patent on the basis that no description for making the ester by other means was described. His answer also contains the rather surprising statement that the problematic language was of no interest to him "because I was told to consider the patent under claim 30"... [p 2815]. He also said that he may not have read all of the claims of the Patent [p 2800]. This evidence is of concern because Janssen advanced the point in final argument that the claims of a patent can be construed by persons of skill endowed with different qualifications. If Dr. Bodmeier's approach was to define the person of skill by considering Claim 30 in isolation, his evidence is of little value. I do not agree that individual patent claims can be construed independently from the rest of the claims or from the specification as a whole. The idea that individual claims may require interpretation by persons of skill with different sets of qualifications is unworkable. Patent law teaches that the person of skill may be a character of composite skills. It also teaches that a patent is to be read as a whole. The contextual approach belies Janssen's argument that specific claims can be parsed from the whole and construed in isolation from the rest of patent by persons of skill with varying qualifications.
+[93]
+In order to properly construe Claim 30, the person of skill must be cable of understanding the entirety of the 146 Patent. A person of skill with the narrow qualifications and professional disinterest proposed by Dr. Bodmeier would not be capable of doing so. I accept the evidence of Dr. Bachovchin and Dr. Suryanarayanan that the person of skill has the composite expertise of a formulator and a medicinal chemist.
+IX.
+Obviousness
+[94]
+Janssen contends that the inventive concept of the 146 Patent lies in the identification of a pharmaceutically stable formulation of bortezomib that also readily achieves a pharmaceutically active form upon dissolution; in the case of Claim 30, this is the lyophilized mannitol ester of bortezomib.
+[95]
+Janssen also asserts that, apart from some general knowledge about formulation techniques and excipients, there existed no knowledge in the art describing a stable formulation of bortezomib. It sums up its obviousness position in the following way:
+110. A PSA would not find it self-evident that a lyophilized formulation of bortezomib would form a stable ester with mannitol that also readily reconstitutes and achieves a pharmaceutically active form when the lyophilized formulation is reconstituted.
+111. Notwithstanding that there are a variety of options that could be considered by a PSA for formulating bortezomib in light of the information available in Reference 130, there is no guarantee that any of these options would work to result in a usable formulation. In other words, it is not self-evident that it would be possible to obtain a workable formulation. Further, it is not self-evident that the mannitol ester of bortezomib would be formed completely during lyophilisation, or that this would result in greater stability of bortezomib, or that the bortezomib would be easily reconstituted and that the pharmaceutical active form is achieved upon dissolution. Mannitol is used because it is known to be generally inert. Accordingly, this reaction is unexpected and therefore not self-evident.
+According the above view, a very wide gulf existed between the state of prior art knowledge and the invention described in Claim 30.
+[96]
+Teva characterizes the inventive concept of Claim 30 of the Patent as the lyophilized mannitol ester of bortezomib yielding a suitable stable formulation acceptable for use in pharmaceutical preparations. Teva maintains that the person of skill would find it self-evident that the stability of bortezomib could be enhanced by preparing a lyophilized formulation of bortezomib and mannitol whether or not an ester is formed in that process.
+[97]
+Janssen's assertion of non-obviousness is based on the evidence of Dr. Bodmeier and on the fact evidence describing the history of the claimed invention. Dr. Bodmeier says that Claim 30 is inventive because the choices required to formulate bortezomib were complex and the results obtained were unexpected. In particular, Dr. Bodmeier asserts that the person of skill would not have expected that the lyophilization of bortezomib and mannitol would result in a ester of bortezomib that was stable and that could be easily reconstituted for effective administration.
+[98]
+Having found that the person of skill in this case is not as uninquisitive and professionally limited as Dr. Bodmeier suggests and considering the unchallenged evidence of Teva's expert witnesses about the scope of the prior art dealing with the expected reaction between bortezomib and mannitol [see footnote 2], I am essentially left to assess the inventiveness of the decisions to select mannitol as a bulking agent and to lyophilize the composition.
+[99]
+Before considering the inventiveness of those choices, I will, however, briefly comment on the argument that the discovery of the formation of an ester was part of the inventive concept of Claim 30.
+[100]
+Dr. Stella claims not to have been aware that he had created a mannitol ester when he arrived at the compound/formulation described in Claim 30. Nevertheless, he had in his hands what he was asked as a formulator to develop - a stable and useful formulation for bortezomib. That was so whether or not it was known that an ester had formed. The later characterization of the compound by others (who presumably did know what to expect) did not add anything inventive to Dr. Stella's work. If a patentee obtains a workable formulation, the later discovery of one of its inherent characteristics does not add anything inventive to what had already been discovered: see
+REFERENCE_SUPPRESSED. The question that remains is only whether Dr. Stella's development of the formulation for bortezomib described in Claim 30 was obvious.
+[101]
+Dr. Bodmeier's obviousness evidence suffers from a significant threshold problem. He appears to have understood that the obvious to try assessment is based on an expectation of a "guarantee" of success. He may well have been wrongly instructed in that regard because the same language is used in Janssen's Memorandum of Fact and Law at paragraph 111. I am not satisfied that Dr. Bodmeier approached this issue correctly and much of his evidence about what the person of skill would expect is, in the result, of doubtful value.
+[102]
+Dr. Bodmeier's evidence about the scope of inquiry that a person of skill would adopt in the face of the teaching of
+Wu
+is not entirely consistent.
+Wu
+teaches away from aqueous formulations - a point that Dr. Bodmeier seemingly acknowledges at paragraph 103 of his affidavit. There he states without apparent reservation that "[t]he degradation occurred fairly rapidly and most likely too rapidly for a liquid formulation to be possible" and, further, "a PSA would have been directed away from an aqueous solution formulation because of the magnitude of degradation". He concludes by stating that the person of skill "would have been dissuaded from developing [aqueous formulations] ". This evidence is somewhat out of step with paragraph 161 where Dr. Bodmeier states, albeit without much conviction, that "[a] PSA
+may
+continue to try to develop a liquid formulation" [Emphasis added].
+[103]
+Under cross-examination Dr. Bodmeier assumed a more strident tone. At that point he testified that, notwithstanding the teaching of
+Wu
+, the person of skill would continue to pursue aqueous formulations and would not start with a dry formulation. Only if aqueous options failed would one move on to dry doseage forms [see Q. 575]. He finally attempted to distance himself from the clear statements in his affidavit by saying that they were "not confusing but may not be clear". This is an important part of Dr. Bodmeier's obviousness opinion and I do not accept that it was drafted in error - particularly in the face of the careful vetting by counsel that would be expected.
+[104]
+Dr. Bodmeier's retreat from his affidavit evidence also seems to me to be inconsistent with his evidence that the person of skill would be initially inclined to avoid lyophilization because of concerns about hydrolytic degradation. If water was not of sufficient concern to exclude aqueous formulations, it would not be of any particular concern during or after lyophilization.
+[105]
+The impression left by Dr. Bodmeier's testimony is that he was attempting to distance himself from his affidavit in order to more closely align his evidence with Janssen's obviousness case and, in particular, with the history of the invention described by Dr. Stella.
+[106]
+On this point I much prefer the evidence of Dr. Bachovchin and Dr. Suryanarayanan to the effect that
+Wu
+teaches away from aqueous or mixed aqueous formulations and, by implication, directs the person of skill to work with dry state formulations. Of those, the choices were much more limited.
+[107]
+Much of Dr. Bodmeier's obviousness opinion was based on the supposed myriad of choices facing the person of skill trying to formulate bortezomib. On closer scrutiny much of that uncertainty proved to be theoretical and it fell away under cross-examination.
+[108]
+Dr. Bodmeier acknowledged that, for bortezomib, an oral formulation was a "non starter". He also agreed that most peptide and protein drugs are administered by injection [p 2712]. As noted above, he effectively conceded that the person of skill "would have been dissuaded from developing [an aqueous formulation] ".
+[109]
+The only two approaches to solid state formulations mentioned by Dr. Bodmeier were powder filling and lyophilization. Dr. Bodmeier recognized that lyophilization was an option and that it was a known method for stabilizing unstable compounds [p 2870]. It was also commonly used to formulate proteins and small molecules [pp 2905-2906]. Nevertheless, according to Dr. Bodmeier, it would not have been a formulator's "first choice" [p 2870].
+[110]
+Dr. Bodmeier agreed that the person of skill would know that mannitol is one of the most commonly used excipients in freeze-dried pharmaceutical products [p 2887] and it represented "one option as a bulking agent" [p 2889]. He also agreed that mannitol was known at the time to act as a stabilizer but not before he offered a lengthy dissertation about another bulking agent that would have been preferred to mannitol [pp 2902-2903 and p 2906].
+[111]
+Under careful scrutiny, what emerges from Dr. Bodmeier's evidence is that, faced with a compound that was unstable in solution, the person of skill would immediately consider solid state formulations for which there were two well-known options: lyophilization and powder filling. Each of these options presented some potential advantages and disadvantages but neither of them was counter-indicated. Given that bortezomib is a small molecule, it was a good candidate for lyophilization. The formulation also needed a bulking agent. Here there were a number of well-known choices. Mannitol was a commonly used bulking agent for freeze-dried formulations. Mannitol was also known to be a stabilizer. There were no apparent reasons to avoid mannitol or to think that it would not work in this application.
+[112]
+In the end there is not much to distinguish Dr. Bodmeier's evidence from that of the Teva witnesses. The differences are mainly matters of emphasis. Considering the above-described problems with Dr. Bodmeier's evidence and the virtual absence of any meaningful impeachment of Dr. Suryanarayanan and Dr. Bachovchin, I accept their evidence where is differs from that of Dr. Bodmeier. In particular, I accept the following points of evidence:
+a. Bortezomib was known to be unstable in aqueous solutions and it was, therefore, a good candidate for dry state formulation either with lyophilization or as a dry powder;
+b. Lyophilization was a widely used and routine method to stabilize compounds that were unstable in aqueous solution. It was also a method that had been successfully used with bortezomib and with other similar small molecules;
+c. The person of skill would know that to formulate bortezomib a bulking agent was required. Mannitol was a bulking agent widely used in lyophilized formulations and the person of skill would consider it to be a likely choice for use with bortezomib;
+d. The person of skill would know from U.S. 454 and other prior art that mannitol was a polyol that could be used to make a boronate ester and that an ester would form when combined with bortezomib;
+e. The person of skill would expect that the mannitol ester of bortezomib would be readily reversible on reconstitution; and
+f. The person of skill would not be concerned about the formation of an ester because boronate esters were known to have a stabilizing effect and because they were preferred over boronic acids for use as synthetic intermediates.
+[113]
+The choice of a routinely used stabilizing method and the selection of a routinely used bulking agent to formulate bortezomib cannot be said to be inventive. The fact that the formulator had a few choices to make and would need to test the formulation to ensure its efficacy does not render this exercise non-obvious. Here I adopt the point made by Justice Roger Hughes in
+CITATION_SUPPRESSED, that the existence of number of possible routes to solve a problem does not mean that the route taken was not obvious. In
+REFERENCE_SUPPRESSED, the same point was stated in the following way:
+"First a route may still be an obvious one to try even if it is not possible to be sure that taking it will produce success, or sufficient success to make it commercially worthwhile. ... Secondly, if a particular route is an obvious one to take or try, it is not rendered any less obvious from a technical point of view merely because there are a number, and perhaps a large number, of other obvious routes as well. If a number of obvious routes exist it is more or less inevitable that a skilled worker will try some before others."
+[114]
+The suggestion put forward by Dr. Bodmeier that a dry powder approach was another alternative to lyophilization is undoubtedly correct but it was never tried by Dr. Stella. When Dr. Stella proceeding with a dry state formulation, his immediate choice was lyophilization. That was precisely the approach that Dr. Suryanarayanan said would be the first choice of the person of skill. Dr. Stella's evidence that he elected to try a lyophilized powder so as not to be 'remiss' is a semantic characterization that is inconsistent with what took place. The same problem arises in connection with Dr. Stella's choice of mannitol. While it is true that other bulking agents might have been tried (and might well have worked), mannitol was one of only a few he tried. When asked about the motive to go with mannitol, Dr. Stella's answer did not suggest any particular insight. Mannitol was recommended to him by a colleague and he knew it to be a bulking agent "used in a number of commercial freeze dried products" [p 3017]. This is not the type of response that suggests that mannitol was an unlikely choice.
+[115]
+There is no doubt that Dr. Stella faced some stability and solubility issues in his efforts to formulate bortezomib but much of that difficulty arose in connection with his initial attempts to obtain an injectable solution. At that point Dr. Stella was aware of the data reported in
+Wu
+and he knew that a liquid formulation would be difficult to obtain. Despite that knowledge he tested a number of different solvents for liquid formulation and although some showed promise, he was not confident that a liquid formulation would work [p 2990]. In October 1997 he decided to adopt an alternative freeze-dried strategy. His solubility problem effectively disappeared when he was told by his supervisor that the earlier solubility target could be significantly reduced. Once Dr. Stella went with lyophilization and chose mannitol as a bulking agent, he determined very quickly that the formulation went into solution appropriately and readily reconstituted. He described the reaction of the formulation team as "a lot of whooping and hollering in the lab. We had discovered something that had not worked previously". This was followed by routine long-term stability analysis that showed the compound to have good stability.
+[116]
+It was only later that others did testing to characterize the compound and found that an ester had formed. Dr. Stella testified that, for him, this was unexpected and had he been aware of the reaction potential between mannitol and bortezomib, he would consider it to be a "pre-negative". Nevertheless, he conceded that excipients can sometimes enhance the efficacy of an API [p 3040]. He also testified that "every excipient has its warts and one tries to anticipate those warts impinging your product negatively as much as possible" [p 3041].
+[117]
+When Dr. Stella was fairly asked if there was anything unusually difficult or surprising about lyophilizing mannitol and bortezomib, he offered nothing specific. He answered only that a lot of work, thought and experience went into the exercise and he rather defensively characterized the question as "trivializing" those efforts [p 3031].
+[118]
+I would characterize the effort that went into the development of the compound described in Claim 30 as competent and detailed but, nevertheless, routine. There is nothing in the invention story offered by Dr. Stella that detracts from the fact that to obtain a workable formulation he applied a formulation technique known to provide stability to an unstable compound and used a well-known bulking agent. There was nothing teaching away from the approach he chose and there was no reason to believe that what was tried was unlikely to work. The fact that Dr. Stella continued to work in tandem on other options does not add anything inventive to the approach that ultimately proved to be successful.
+[119]
+In my view, there are no material differences between what was known in the prior art and what is claimed in Claim 30. The person of skill would have had a fair expectation that, by lyophilizing bortezomib and mannitol, a successful, stable formulation would be the result. That is so whether or not the person of skill understood that an ester would form.
+[120]
+It follows from all of the above that Claim 30 of the 146 Patent is invalid on the basis of obviousness and Janssen's application is dismissed. The issue of costs will be addressed by the parties upon release of the Court's Judgment in the related proceeding
+REFERENCE_SUPPRESSED.
+JUDGMENT
+[121]
+THIS COURT'S JUDGMENT is that
+Janssen's application is dismissed. The issue of costs will be addressed by the parties upon release of the Court's Judgment in the related proceeding
+REFERENCE_SUPPRESSED.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/bk
+Footnotes
+1. I do not agree that this evidence was displaced by Dr. Bachovchin's testimony to the effect that the inventors set out to develop a stable formulation of bortezomib. While that was assuredly one of their goals, the 146 Patent introduced medicinal chemistry elements to the claims that cannot simply be ignored.
+2. Dr. Bodmeier also accepted that a medical chemist would know from the prior art that a boronic acid compound would form an ester with mannitol, that the resulting ester could be freeze-dried and that composition could be successfully reconstituted. [pp 2893-2897 and pp 2908-2909]
+[End of document]

@@ -1,0 +1,186 @@
+INTRODUCTION
+[1]
+Gibson, J.
+: By motion filed the 22nd of February, 2005, the Plaintiff, Netbored Inc. ("Netbored"), appeals an order of a prothonotary issued the 15th of February, 2005 wherein the prothonotary struck a number of provisions in Netbored's Statement of Claim. A copy of the prothonotary's order, slightly modified, is attached to these reasons as Annex I. It is worthy of note that the order under appeal recites no rationale for the order. Similarly, no reasons were provided in support of the order.
+[2]
+Following the hearing of Netbored's motion in appeal, the matter was reserved. These reasons are in support of an order substantially dismissing Netbored's appeal by way of motion.
+BACKGROUND
+[3]
+Netbored commenced this action by Statement of Claim dated and filed the 10th of December, 2003. The Statement of Claim seeks damages and injunctive relief for copyright infringement and for other causes of action described in the material filed on behalf of Netbored on the appeal by way of motion as "... incidental and/or ancillary causes of action as against each of the Defendants." In support of the Statement of Claim, Netbored sought on an ex parte basis an Anton Piller Order. The Anton Piller Order was granted and was executed. Netbored, by motion, sought review of the execution of the Anton Piller Order. By motion filed the 7th of January, 2004, the Defendants sought, among other reliefs, an order setting aside and/or staying the interim injunction arising by reason of the execution of the Anton Piller Order and, effectively, striking the Anton Piller Order itself.
+[4]
+By Order dated the 20th of February, 2004, the Chief Justice adjourned, sine die, both Netbored's review motion and the Defendants' motion filed the 7th of January, 2004, just referred to. He continued, without limitation, the interim injunctions flowing from the execution of the Anton Piller Order. He directed that the action be case managed.
+[5]
+The Defendants sought an order striking elements of the Statement of Claim. The Order of the prothonotary assigned to assist the Case Management Judge followed, granting the Defendants' motion in part. It is that Order that is the subject of this appeal.
+THE STANDARD OF REVIEW ON APPEALS FROM ORDER OF THE PROTHONOTARIES
+[6]
+Rule 51 of the
+Federal Court Rules, 1998
+[see footnote 1] provides for appeals from orders from prothonotaries. The
+Rules
+do not prescribe a standard of review on such appeals. The standard was established by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  the
+Aqua-Gem
+test in
+ <FRAGMENT_SUPPRESSED>  factor is whether the potential effect of the order in question is vital in itself, and not whether the actual disposition by the prothonotary make the order vital to the case. As a result, a discretionary order of a prothonotary should only be reviewed de novo on appeal if the questions raised on the appeal are vital to the final issue in the case, or the orders are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts. [see footnote 5]
+[7]
+That the Order under appeal should be considered de novo was not in dispute before the Court. The appropriateness of a de novo review is, in the Court's view, heightened by the lack of any rationale provided by the prothonotary in support of the order.
+THE TESTS FOR STRIKING PLEADINGS AND FOR FINDING JURISDICTION IN THE FEDERAL COURT
+[8]
+Rule 221(1) of the
+Federal Court Rules, 1998
+, supra, provides that the Court may, on motion, strike out a pleading, or anything contained therein, with a without leave to amend, on the ground, among others, that the pleading, or the portion of the pleading at issue, discloses no reasonable cause of action. The test to strike out all or a portion of a pleading is whether it is "plain and obvious" that the impugned pleading or portion of a pleading discloses no reasonable cause of action. [see footnote 6] A prothonotary has jurisdiction to decide a motion to strike. [see footnote 7] The Court may strike pleadings under Rule 221(1) for want of jurisdiction. [see footnote 8]
+[9]
+Once again it was not in dispute before the Court that the issue on the motion to strike that was before the prothonotary was whether or not this Court had jurisdiction to entertain elements of Netbored's claim. For ease of reference, the elements of the Statement of Claim struck by the prothonotary by paragraphs (a) to (f) and (h) to (j) of the Order under appeal are set out in Annex II to these reasons.
+[10]
+Similarly, it was not in dispute before the Court that the essence of Netbored's claim is copyright infringement as detailed in paragraph 1(c) of its Statement of Claim.
+[11]
+ <FRAGMENT_SUPPRESSED>  McIntyre, for the majority, summarized the essential requirements to support a finding of jurisdiction in the Federal Court. He wrote at page 766:
+"... They are:
+1. There must be a statutory grant of jurisdiction by the federal Parliament.
+2. There must be an existing body of federal law which is essential to the disposition of the case and which nourishes the statutory grant of jurisdiction.
+3. The law on which the case is based must be 'a law of Canada' as the phrase is used in s. 101 of the
+Constitution Act, 1867
+."
+[12]
+I am satisfied that the first requirement is fulfilled, given that the essence of Netbored's claim is for copyright infringement, by s. 20(2) of the
+Federal Courts Act
+[see footnote 10] which is in the following terms:
+"20(2) The Federal Court has concurrent jurisdiction in all cases, other than those mentioned in subsection (1), in which a remedy is sought under the authority of an Act of Parliament or at law or in equity respecting any patent of invention, copyright, trade-mark, industrial design or topography referred to in paragraph (1)(a)."
+"20(2) Elle a compétence concurrente dans tous les autres cas de recours sous le régime d'une loi fédérale ou de toute autre règle de droit non visés par le paragraphe (1) relativement à un brevet d'invention, un droit d'auteur, une marque de commerce, un dessin industriel ou une topographie au sens de la Loi sur les topographies de circuits intégrés."
+[13]
+The cross-reference to s. 20(1) of the
+Federal Courts Act
+contained in the foregoing quotation is not relevant for the purposes of this
+Act
+. Section 20(2) of the
+Federal Courts Act
+is further strengthened by s. 44 of that
+Act
+which confers on the Federal Court authority to grant relief by way of an injunction, one of the central reliefs regarding copyright infringement that is sought by Netbored.
+[14]
+As to the second "essential requirement", I am satisfied that the
+Copyright Act
+[see footnote 11] constitutes an "... existing body of federal law which is essential to the disposition of the case and which nourishes the statutory grant of jurisdiction."
+[15]
+Finally, I am satisfied that the
+Copyright Act
+is "a law of Canada" as that phrase is used in s. 101 of the
+Constitution Act, 1867
+.
+THE REMAINING ISSUES
+[16]
+The central question that remains then, at least in relation to paragraphs 1(a)(i) to (iv) and 1(b)(i) and (ii) and paragraphs 32 and 33 of the Statement of Claim, is whether those paragraphs are so closely associated with the copyright infringement elements of the claim as to the inextricably caught up in the jurisdiction of this Court.
+[17]
+In the "Analysis" portion of these reasons, I will focus particularly on the foregoing issue. That being said, I will also turn briefly to the remaining elements of the prothonotary's Order which strike the expressions "use of the Plaintiff's confidential information" and "the enforcement of the Plaintiff's employment contracts" from paragraph 1(c)(v) of the Statement of Claim and the striking of paragraph 28.
+THE POSITION OF NETBORED
+[18]
+Counsel for Netbored relies on s. 34(1) of the
+Copyright Act
+which reads as follows:
+"34(1) Where copyright has been infringed, the owner of the copyright is, subject to this Act, entitled to all remedies by way of injunction, damages, accounts, delivery up and otherwise that are or may be conferred by law for the infringement of a right."
+"34(1) En cas de violation d'un droit d'auteur, le titulaire du droit est admis, sous réserve des autres dispositions de la présente loi, à exercer tous les recours - en vue notamment d'une injonction, de dommages-intérêts, d'une reddition de compte ou d'une remise - que la loi accorde ou peut accorder pour la violation d'un droit."
+[19]
+Counsel for Netbored further relies on the following passage from
+ <FRAGMENT_SUPPRESSED>  'pith and substance' within the court's statutory jurisdiction, the Federal Court may apply provincial law incidentally necessary to resolve the issues presented by the parties: see
+ <FRAGMENT_SUPPRESSED>  where, in a case involving a dispute over patent rights, the effect of an employment contract had to be considered in the Federal Court, and see as well:
+ <FRAGMENT_SUPPRESSED>  be applied by the Federal Court where jurisdiction is otherwise founded on federal law." (one citation omitted)
+THE POSITION OF THE RESPONDENTS, DEFENDANTS
+[20]
+Counsel for the Defendants, to the contrary, urged that the central copyright elements of Netbored's claim do not serve to shelter elements of the Statement of Claim that relate solely to contractual rights, obligations of confidence and breach of fiduciary duty, conversion, the tort of intentional interference with economic interests and theft and conversion. He noted that the central impugned paragraphs of the Statement of Claim, paragraphs 1(a)(i) to (iv), paragraphs 1(b)(i) and (ii) and paragraphs 32 and 33 make no reference whatsoever to copyright infringement while the equivalent paragraphs of the Statement of Claim dealing with copyright infringement, particularly paragraphs 1(c)(i) to (iv), similarly make no reference to the subject matter of the foregoing paragraphs.
+[21]
+In
+ <FRAGMENT_SUPPRESSED>  for the respondent in answer to a question from the Bench put it very well when he said that copyright law is neither tort law nor property law in classification, but is statutory law. It neither cuts across existing rights in property or conduct nor falls between rights and obligations heretofore existing in the common law. Copyright legislation simply creates rights and obligations upon the terms and in the circumstances set out in the statute. This creature of statute has been known to the law of England at least since the days of Queen Anne when the first copyright statute was passed. It does not assist the interpretive analysis to import tort concepts. The legislation speaks for itself and the actions of the appellant must be measured according to the terms of the statute."
+[22]
+Counsel urged that the foregoing passage stands for the proposition that "integrally connected" does not make contract or tort law "copyright law". Rather, he urges, the test is, "... is it in the
+Copyright Act
+?"
+[23]
+Counsel took the Court to
+ <FRAGMENT_SUPPRESSED>  from the reasons of Justice Rinfret in
+ <FRAGMENT_SUPPRESSED>  simply concerning a contract between subject and subject ...; but here the subject-matter of the appellant's allegation only incidently refers to the contract of employment ... . The allegation primarily concerns the invention alleged to have been made by him and of which the appellant claims to be the owner as a result of the contract and of the other facts set forth in the allegation. The contract and the claims based thereon are advanced for the purpose of establishing that the appellant is entitled both to rights deriving from the invention and to the issue of a patent in its own name. That is precisely the remedy that the Exchequer Court of Canada has the power to grant under paragraph (iv) of subs. 8 of sec. 44 of the
+Patent Act
+."
+wrote at page 349:
+"In the present case, this is an action for infringement of the plaintiffs' patent. The plaintiffs' allegations relating to breach of contract and breach of fiduciary duty, are not advanced for the purpose of establishing infringement. The subject-matter of the plaintiffs' allegations does not incidentally refer to certain contracts between the parties. Rather, these claims are advanced for the sole purpose of establishing that there was a breach of these contracts. These allegations are not incidental to the cause of action such as to confer jurisdiction on this court per <FRAGMENT_SUPPRESSED> , supra."
+ANALYSIS
+[24]
+I adopt the words of Justice Rouleau in
+ <FRAGMENT_SUPPRESSED>  "infringement of the plaintiffs' patent" the words "... infringement of the plaintiff's copyright". This is an action for infringement of the plaintiff's copyright. The plaintiff's allegations in the impugned paragraphs of the Statement of Claim relating to breach of contract and breach of fiduciary duty and the like are not advanced for the purpose of establishing infringement. Rather, they are advanced for the purpose of obtaining relief in respect of those breaches themselves. As such, this Court lacks jurisdiction to entertain them.
+[25]
+Before the prothonotary, the Defendants sought the striking of certain other paragraphs of the Statement of Claim. The prothonotary declined to grant relief in respect of those other paragraphs. Before the Court, counsel for the Defendants did not challenge the denial of such additional relief. He acknowledged that those further paragraphs could stand as within this Court's jurisdiction in that they are directly supportive of the Plaintiff's claim for aggravated, exemplary and punitive damages for copyright infringement. In support of those paragraphs of the Claim, at paragraph 28 of the Claim, the following appears:
+"The Plaintiff pleads and relies upon the terms of the Non-Disclosure Agreement."
+[26]
+The prothonotary saw fit to strike paragraph 28. Before the Court, counsel for the Defendants essentially took a neutral position as to whether paragraph 28 should or should not have been struck. I am satisfied that it should not have been struck. It relates directly to paragraphs that precede and that were allowed to stand as supportive of the aggravated, exemplary and punitive damages claim. Reliance on the terms of the Non-Disclosure Agreement is, I am satisfied, essential in support of the paragraphs which in turn are supportive of the Plaintiff's claim for aggravated, exemplary and punitive damages. I will reinstate paragraph 28 of the Statement of Claim.
+[27]
+Finally, the striking out of those parts of paragraph 1(c)(v) relating to the alleged "use of the Plaintiff's confidential information" and "the enforcement of the Plaintiff's employment contract" strikes at the basis for the inclusion of similar expressions in the outstanding Anton Piller Order that remains the subject of motions for the review of its execution and to strike it out. The striking out of those expressions from the Statement of Claim, in the opinion of the Court, prejudges the outcome of the review motion and of the motion to strike. I am satisfied that the disposition of those expressions in the Anton Piller Order should be left to be dealt with by the judge who considers the outstanding motions for review and to strike. Based upon the outcome on those motions, the expressions in the Statement of Claim might effectively be spent. In the result, I would reinstate those expressions in paragraph 1(c)(v) of the Statement of Claim.
+CONCLUSION
+[28]
+An Order will go allowing this appeal by way of motion to the extent of reinstating the expressions "use of the Plaintiff's confidential information" and "the enforcement of the Plaintiff's employment contracts" in paragraph 1(c)(v) and reinstating paragraph 28 in the Statement of Claim. In all other respects, I am satisfied that the prothonotary was correct in striking the various provisions of the Board's Statement of Claim identified in the prothonotary's order. In the result, in those other respects, this appeal will be dismissed.
+COSTS
+[29]
+Before the Court, counsel agreed that costs should follow the event. Success on this appeal has to some extent been divided but I am satisfied that the Defendants have been largely and substantially successful. In the result, an order will go for costs of this appeal in favour of the Defendants, in the cause.
+Motion allowed in part.
+Editor: Anick Ouellette-Levesque/gs
+Footnotes
+1. SOR/98 - 106.
+2. [1993] 2 F.C. 425; 149 N.R. 273 (F.C.A.) (Not cited before the Court).
+3. [2003] 1 S.C.R. 450; 303 N.R. 201; 2003 SCC 27.
+4. (2003), 30 C.P.R.(4th) 40 (Not cited before the Court).
+5. See the notes to Rule 51 at pages 366-7 of
+Federal Court Practice
+, Sgayias and others, 2005 edition, Thomson and Carswell.
+6.
+Hunt v. T & N plc et al.
+, [1990] 2 S.C.R. 959; 117 N.R. 321, at 980.
+7.
+First  <FRAGMENT_SUPPRESSED> .
+ANNEX I
+"Date: 20050215
+Docket: T-2289-03
+Toronto, Ontario, February 15th, 2005
+Present:	 -------- Prothonotary ----------
+BETWEEN:
+NETBORED INC.
+Plaintiff
+and
+AVERY HOLDINGS INC., SEAN EREN, SUSAN EREN, SUSAN KATZ,
+COREY KATZ and BINARY ENVIRONMENTS LTD.
+Defendants
+ORDER
+UPON MOTION made on Monday, January 12th, 2005, by the Defendants for an Order:
+(a) striking out those portions of the Statement of Claim that are outside the jurisdiction of the Federal Court;
+(b) requiring the Plaintiff to deliver an Amended Statement of Claim, with the impugned paragraphs removed, within one week of the date of the Order on this Motion;
+(c) for costs of this Motion be made payable forthwith to the Defendants on a solicitor and client basis; and
+(d) such further and other relief as to this Honourable Court seems just.
+AND UPON reading the materials filed and hearing the arguments of Counsel for all parties, judgment having been reserved to this day;
+1. THIS COURT ORDERS that the following portions of the Statement of Claim are hereby struck out:
+(a) paragraph 1(a)(i);
+(b) paragraph 1(a)(ii);
+(c) paragraph 1(a)(iii);
+(d) paragraph 1(a)(iv);
+(e) paragraph 1(b)(i);
+(f) paragraph 1(b)(ii);
+(g) those parts of paragraph 1(c)(v) relating to the alleged 'use of the Plaintiff's confidential information' and 'the enforcement of the Plaintiff's employment contracts';
+(h) paragraph 28;
+(i) paragraph 32; and
+(j) paragraph 33.
+2. If the Plaintiff wishes to make amendments to the Statement of Claim as may be necessitated by this Order, Counsel for the Plaintiff shall forthwith provide Counsel for the Defendants with a draft of such amendments. If there is any disagreement as to the propriety of such proposed amendments, any party may refer the issue to this Court for resolution;
+3. The costs of this Motion shall be to the Defendants in the cause.
+'---------------------'
+Prothonotary"
+ANNEX II
+"1. The Plaintiff claims:
+(a) as against the Defendant, Sean Eren:
+(i) an interim, interlocutory and permanent injunction restraining Sean Eren from (whether as an owner, manager, operator, consultant or employee of a business substantially similar to or competitive with the Plaintiff) competing with the Plaintiff until August 30, 2004;
+(ii) an interim, interlocutory and permanent injunction restraining Sean Eren from using, for himself or others, disclosing or divulging to others including future employers, any trade secrets, confidential information, or any other proprietary data of the Plaintiff which he received or created during the course of his employment with the Plaintiff including, but not limited to, methods, processes, formulae, compositions, systems, techniques, inventions, machines, computer programs, source code, research projects, customer lists, pricing data, sources of supply, financial date, marketing plans, production plans and merchandising systems;
+(iii) damages in the amount of $20,000,000.00 for breach of contract, breach of obligation of confidence and breach of fiduciary duty;
+(iv) damages in the amount of $200,000.00 for conversion;
+(b) as against the Defendant, Avery Holdings Inc. ('Avery');
+(i) damages in the amount of $20,000,000.00 for inducing breach of contract;
+(ii) in the alternative, damages in the amount of $20,000.000.00 for intentional interference with economic interests.
+. . . . .
+"28. The Plaintiff pleads and relies upon the terms of the Non-Disclosure Agreement.
+. . . . .
+"32. The Plaintiff states that Sean Eren's removal of the Plaintiff's property from the Plaintiff's premises without the Plaintiff's authorization constitutes theft and conversion of the Plaintiff's property.
+"33. As a result of Sean Eren's breaches of his contractual obligations, his obligation of confidence, his duty not to appropriate confidential information, his duty to be faithful and honest with the Plaintiff, his fiduciary duties to the Plaintiff and his conversion of the Plaintiff's property, the Plaintiff has suffered and will continue to suffer irreparable harm including, but not limited to, (i) loss of revenue; (ii) loss of business reputation and goodwill; and (iii) loss of business. In addition, as a result of the said breaches and conversion, the Plaintiff has suffered and will continue to suffer damages, the particulars of which will be provided in the course of this action."
+[End of document]

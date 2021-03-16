@@ -1,0 +1,69 @@
+ <FRAGMENT_SUPPRESSED> )
+Indexed  <FRAGMENT_SUPPRESSED> 
+Federal Court
+Barnes, J.
+October 17, 2007.
+Counsel:
+Paula Bremner and Robert Shapiro, for the defendant;
+Peter Choe, for the plaintiff.
+Solicitors of Record:
+Hitchman & Sprigings, Toronto, Ontario, for the defendant;
+Gowling Lafleur Henderson LLP, Toronto, Ontario, for the plaintiff.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2007] F.T.R. TBEd. OC.028.
+[1]
+Barnes, J.
+: This is an appeal by Sandoz Canada Incorporated (Sandoz) from a Prothonotary's Order dated June 8, 2007. The Order under appeal was made under Rule 221 of the
+Federal Courts Rules
+and it struck out, without leave to amend, paragraphs 29 to 33 and 46 to 56 of Sandoz's Amended Statement of Defence and Counterclaim (Amended Defence). Sandoz asserts that the Prothonotary erred by striking out the above passages from its Amended Defence and that her Order should be set aside.
+Procedural Background
+[2]
+This action involves a claim by Bayer Healthcare AG and Bayer Inc. (Bayer) against Sandoz seeking a declaration that Sandoz has infringed Bayer's Canadian Patent No. 1,282,006 ('006 Patent). In addition, Bayer claims liquidated damages, an accounting of profits, aggravated damages, punitive damages, exemplary damages, and solicitor-client costs.
+[3]
+On January 30, 2007, Sandoz delivered a Statement of Defence and Counterclaim (Defence) in this proceeding which alleged, inter alia, that the '006 Patent was invalid for claiming more than was invented or disclosed (the so-called "claims-broader" allegation). Those allegations were set out in paragraphs 24 to 27 of the Defence.
+[4]
+In an earlier motion brought by Bayer, Prothonotary Roger Lafrenière ordered that paragraphs 24 to 27 be struck from Sandoz's Defence with leave to amend. The basis of Prothonotary Lafrenière's Order was that Sandoz's claims-broader pleading was "solely based on an inventor's declaration" from the United States file history. He concluded that those allegations could not be maintained because they were inconsistent with
+ <FRAGMENT_SUPPRESSED>  (S.C.C.), which held that representations by an inventor are not admissible evidence to construe a patent claim. This Order was recently upheld on appeal by Justice John O'Keefe: see
+ <FRAGMENT_SUPPRESSED>  [2007] F.C.J. No. 1265.
+[5]
+Sandoz delivered the Amended Defence on April 20, 2007 and again it was alleged that the '006 Patent was invalid for claiming more than what had been invented but, this time, without any mention of the previously offending inventor's United States representations. The Amended Defence also raised a new issue of invalidity based on allegations of bad faith and a contravention of section 53 of the
+Patent Act
+(Act), R.S.C. 1985 c. P-4. Those new allegations concerned a failure by Bayer to respond in good faith to a requisition by a Patent Examiner. In particular, Sandoz asserted that Bayer had made "false" representations with respect to its disclosure of relevant prior art. This bad-faith pleading is set out within paragraphs 46 to 56 of the Amended Defence and is summarized in the following concluding passages:
+55. Contrary to s.53 of the
+Patent Act
+, the omission of the reference to Hoeffken Paper in the response by the Applicants and in the disclosure of the '006 Patent was willfully made for the purpose of misleading. The omission resulted in the scope of the claims in the '006 Patent being significantly broader than the claims of the corresponding United States patent, namely United States Patent No. 4,957,922 and the corresponding European patent, European Patent No. 219,784. Accordingly, the '006 Patent is void.
+56. Furthermore, as a result of the Applicants lack of good faith in responding to the examiner's request, the Plaintiffs are not entitled to the equitable remedy of an accounting of profits.
+Analysis
+[6]
+It is settled law that the standard of review for an appeal from a Prothonotary's Order striking out pleadings is
+de novo
+. This is so because an order of this type involves issues that are vital to the case, particularly where, as here, the order is made without leave to amend: see
+ <FRAGMENT_SUPPRESSED>  A.C.W.S. (3d) 619 at paras. 12 and 13.
+[7]
+The Court must be very careful when it strikes out allegations from a Statement of Defence. It would almost always be inappropriate to do so where the result would deprive a defendant of the opportunity to mount an arguable substantive defence. It is well accepted that the test for striking out pleadings is whether it is "plain and obvious" that the allegations are legally untenable and where the case for doing so is "beyond doubt": see
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  (F.C.T.D.) at para. 10.
+The Claims-Broader Pleading
+[8]
+Sandoz is entitled to defend this action on the basis that the '006 Patent is invalid because, allegedly, its claims are broader than the invention disclosed. Whether a patent claim is covetous is a matter of construction and, therefore, it could be found to be so without resorting to any extrinsic evidence. On the other hand, such a defence might be established with the assistance of expert testimony. There is no obligation upon a defendant like Sandoz to plead the evidence that it intends to rely upon to support a claims-broader defence. Indeed, the pleading of evidence is generally improper. In the case of Sandoz's initial pleading, that was precisely what Prothonotary Lafrenière ordered to be struck - inadmissible evidence about how it proposed to establish this defence.
+[9]
+I do not read into Prothonotary Lafrenière's Order anything more than this - Sandoz's initial defence allegation of claims-broader was tied to evidence that could not be used and, therefore, it could not be maintained in that form. I also do not believe that Prothonotary Lafrenière intended by his decision that Sandoz could not plead the substantive claims-broader defence or that it was necessary to support such an allegation with a description of the evidence to be adduced in proof. As noted previously, Sandoz might attempt to establish this defence without any extrinsic evidence and, in any event, it would be improper to require it to plead its evidence.
+[10]
+It follows from this that I do not agree with the learned Prothonotary that the new defence pleadings "are based on the same information" that was of concern to Prothonotary Lafrenière. Having removed the offending evidence from the Defence, the remaining allegations in the Amended Defence are not based on any "information" or evidence nor are they required to be. What Sandoz now asserts is that Bayer did not invent infusion solutions containing 1 mol or less of lactic acid to 1 mol of ciprofloxin because those solutions were known in the prior art. It also says that Bayer did not invent infusion solutions containing less than 1.33 mol of lactic acid to 1 mol of ciprofloxin because the '006 Patent inventors neither made nor tested such solutions. Finally Sandoz alleges that the '006 Patent disclosure acknowledged that formulations containing 1 mol or less of lactic acid are unstable and, therefore, the '006 Patent claims are broader than the invention claimed. Presumably, Sandoz has some means of proving these points; but if it cannot do so, the defence will fail. However, it should not be deprived of the opportunity to make its case within the confines of admissible evidence. The Prothonotary's concern that this defence allegation is a "fishing expedition" remains to be seen. If Sandoz ventures into areas of concern during the discovery phase, it will presumably be met with resistance. It may be worth remembering, though, that
+Free World Trust,
+above, did acknowledge that the inventor's representations or intentions may be relevant evidence for a purpose other than the construction of a claim: see para. 67.
+The Bad Faith Pleading
+[11]
+The learned Prothonotary struck paragraphs 46 to 56 of the Sandoz Amended Defence because she found that they were "not relevant to the law relied upon" and failed to "disclose a reasonable ... defence". She also held that those defence allegations were "doomed to fail".
+[12]
+With respect, I do not agree that it is beyond doubt that these defence allegations are hopeless.
+[13]
+Included among these allegations is the assertion that Bayer failed to respond in good faith to a requisition from an Examiner by failing to disclose a declaration by the inventor (the Serno Declaration) and a prior art reference (the Hoeffkin Paper). The Serno Declaration appears to be the same document that was of concern to Prothonotary Lafrenière when he struck earlier references from the Sandoz Defence with respect to its claims-broader allegations.
+[14]
+If I was convinced that these bad-faith allegations were pleaded solely to avoid Prothonotary Lafrenière's earlier Order, I would not hesitate to uphold the Prothonotary's Order to strike them from the Amended Defence. Here, however, Sandoz seeks to rely upon these allegations to support a defence under section 53 of the Act that Bayer misled the Patent Office by wilfully omitting the Hoeffkin Paper from the '006 Patent disclosure. While the related references to the Serno Declaration and to the adequacy of Bayer's response to the Examiner's requisition may have doubtful relevance to a section 53 defence, they may, nevertheless, be relevant to the issue of Bayer's alleged subjective intention to mislead the Patent Office in its '006 Patent petition. These bad-faith allegations are also arguably relevant to the issue of Bayer's claimed entitlement to an accounting of profits, not to mention its claims to aggravated, punitive and exemplary damages.
+[15]
+In the result, this appeal is allowed and the Order of the Prothonotary dated June 8, 2007 is set aside. Sandoz shall have its costs on this appeal and on the motion below in any event of the cause.
+ORDER
+[16]
+THIS COURT ORDERS that
+this appeal is allowed and the Order of the Prothonotary dated June 8, 2007 is set aside. Sandoz shall have its costs on this appeal and on the motion below in any event of the cause.
+[End of document]

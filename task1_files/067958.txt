@@ -1,0 +1,123 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Gibson, J.
+September 27, 2006.
+Counsel:
+Alex Barta, on his own behalf;
+Edward Burnet, for the respondent.
+Solicitors of Record:
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2006] F.T.R. TBEd. OC.009.
+I.
+Introduction
+[1]
+Gibson, J.
+: A complaint of criminal conduct was made against the Applicant, Alex Barta. Officers of the Royal Canadian Mounted Police (the “RCMP”) investigated. The Applicant was taken into custody. He was questioned, photographed and fingerprinted. Witness statements were taken. A report was made to Crown counsel. Charges were not pursued.
+[2]
+The Applicant believes that those who complained to the RCMP and gave witness statements regarding his conduct, and perhaps others, “maliciously” gave false information about him to the RCMP. In an effort to pursue a civil remedy against them, the Applicant made a request pursuant to the Privacy Act [see footnote 1] (the “Act”) for personal information held in the records of the RCMP about himself.
+[3]
+The RCMP provided reasonably extensive disclosure to the Applicant but exempted from disclosure certain other information. In particular, it provided no information that would serve to identify those who complained and who gave witness statements against the Applicant.
+[4]
+The Applicant complained to the Privacy Commissioner regarding the exemptions made by the RCMP. In a letter dated October 4, 2005, an officer in the Office of the Privacy Commissioner upheld the exemptions claimed by the RCMP. That letter reads in part as follows:
+... On May 21, the RCMP disclosed some information and exempted certain other information under sections 22(1)(a)(i), 22(1)(b), 26 and 27 of the Privacy Act.
+Section 22(1)(a) allows a government institution to withhold personal information if it was obtained or prepared by an investigative body during the course of a lawful investigation. Unlike other exempting provisions of the Privacy Act, this provision does not contain an injury test. In order to claim section 22(1)(a), the RCMP need only demonstrate that the information at issue is less than 20 years old and that it was prepared or obtained in the course of a lawful investigation by an investigative body listed in Schedule III of the Privacy Regulations. The RCMP is indeed an investigative body for the purposes of the Act and, in my view, all of the other requirements of this provision have been met as well. Therefore, I am satisfied that the RCMP had the legal authority to invoke this exemption at the time it was claimed
+Section 22(1)(b) of the Act states that a government institution may refuse to disclose personal information if the release of that information could reasonably be expected to be injurious to the enforcement of any law of Canada or to the conduct of lawful investigations.
+This is a discretionary exemption that applies to information obtained or prepared in the course of an investigation and institutions must demonstrate the resulting injury if the information was disclosed. It has been established to our satisfaction that the RCMP properly invoked this provision.
+Section 26 prohibits a government institution from disclosing personal information about other individuals except in certain circumstances. Personal information may be disclosed if the other individuals give consent, if it is permissible under section 8(2) of the Privacy Act which authorizes disclosure in limited and specific situations without consent, or if the information is already publicly available. Having reviewed the information at issue, I can confirm that it is information about another individual and not your personal information.
+Section 27 of the Privacy Act permits a federal institution to withhold from disclosure any personal information which is subject to solicitor-client privilege. This privilege extends to information prepared by or for a solicitor for the purpose of providing advice, or for litigation purposes. Our review of the very limited information that has been withheld under this provision has satisfied me that it is indeed subject to solicitor-client privilege and that, as the privilege has not been waived, the RCMP had the authority to refuse you access to it.
+Under the circumstances, I am of the view that you have received all of the personal information to which you are entitled under the Privacy Act and that RCMP did not contravene the access rights afforded you under the Act in this case. I have therefore concluded that this complaint is not well-founded.
+[5]
+It is this decision of the Office of the Privacy Commissioner that, under the authority of section 41 of the Privacy Act, underlies this application.
+II.
+The Statutory Scheme
+[6]
+Section 2 of the Privacy Act sets out the purpose of the Act. It reads as follows:
+2. The purpose of this Act is to extend the present laws of Canada that protect the privacy of individuals with respect to personal information about themselves held by a government institution and that provide individuals with a right of access to that information.
+2. La présente loi a pour objet de compléter la législation canadienne en matière de protection des renseignements personnels relevant des institutions fédérales et de droit d’accès des individus aux renseignements personnels qui les concernent.
+[7]
+Subsection 12(1) of the Act, subject to exempting provisions of the Act, provides a right to an individual to access personal information about himself or herself.
+[8]
+Subparagraph 22(1)(a)(i), paragraph 22(1)(b), section 26 and section 27 of the Act are exempting provisions from the general right of access provided by subsection 12(1) that were here relied on by the RCMP and that are commented on in the extract from the letter to the Applicant from the Office of the Privacy Commissioner referred to above.
+[9]
+Section 41 of the Act is the authority for this proceeding.
+[10]
+The text of subsection 12(1), subparagraph 22(1)(a)(i), paragraph 22(1)(b) and sections 26, 27 and 41 are set out in a schedule to these reasons.
+III.
+The Issues
+[11]
+In this application as originally filed, the Respondent was described as “the Honourable Miss Anne McLellan, Minister of Public Safety and Emergency Preparedness”. At the opening of submissions on behalf of the Respondent before the Court, counsel moved to amend the style of cause to substitute the Attorney General of Canada as the Respondent. The Applicant, representing himself, expressed no concern and the style of cause was thus amended to the form that appears on these reasons.
+[12]
+The Applicant described the substantive issues in his memorandum of fact and law in the following terms:
+Applicant is entitled to have this information, as the complainant knowingly and wilfully and with malice forethought [sic], gave false information to the R.C.M.P.
+This information is necessary, as the applicant has commenced civil proceedings against these individuals. In civil proceedings, there are no privacy laws.
+[13]
+In the memorandum of argument filed on behalf of the Respondent, the issues are more precisely described as whether information withheld by the RCMP was properly exempted under subparagraph 22(1)(a)(i) of the Act, and whether it was reasonable for the RCMP to have exercised its discretion under subparagraph 22(1)(a)(i) of the Act by not disclosing portions of the material that was provided to the Applicant.
+IV.
+Analysis
+A. Standard of Review
+[14]
+Recently, in  <FRAGMENT_SUPPRESSED>  Blanchard wrote at paragraphs [21] to [23] of his reasons:
+[21] Since Justice Strayer’s decision in Kelly, the jurisprudence regarding standard of review has evolved. Determining the standard applicable to the RCMP’s decision not to disclose personal information to the Applicant now requires the Court to conduct a pragmatic and functional analysis as first set out in  <FRAGMENT_SUPPRESSED>  four factors:
+1) the presence and absence of a privative clause or a statutory right of appeal;
+2) the expertise of the tribunal relative to that of the reviewing court on the issue in question;
+3) the purpose of the legislation and the provision in particular; and
+4) the nature of the question – law, fact or mixed law and fact.
+[22]  <FRAGMENT_SUPPRESSED>  appropriate standard for reviewing a decision of the RCMP to exempt information under the discretionary provisions of the [Privacy] Act, including subparagraph 22(1)(a)(i). With regards to the first type of decision as stated by Justice Strayer in Kelly, above – whether the requested information falls within a category of exemption – Justice O’Keefe held that, after weighing all the factors set out  <FRAGMENT_SUPPRESSED> , the appropriate standard of review is correctness. With regards to the second type of decision – whether the RCMP should exercise its discretion to release information even though it falls within an exemption category – Justice O’Keefe held that the appropriate standard of review is that of reasonableness simpliciter.
+[23] Thurlow and the present case before the Court involve decisions by the RCMP to deny an access request on the ground of paragraph 22(1)(a). I agree with Justice O’Keefe’s assessment of the applicable standard of review  <FRAGMENT_SUPPRESSED> . For the purposes of this case, I will therefore adopt the analysis and conclusions reached by Justice O’Keefe regarding the applicable standard of review. [citations omitted]
+[15]
+On the facts of this matter, in addition to subparagraph 22(1)(a)(i) of the Act, paragraph 22(1)(b) and sections 26 and 27 of the Act have been relied on as bases for exemption. Each of those provisions, like subparagraph 22(1)(a)(i), provides for discretion as to whether or not the exemption should be applied. Thus, then, I am satisfied that in reviewing exemptions under those provisions, as with a review of exemptions under subparagraph 22(1)(a)(i), the appropriate standard of review on whether the requested information falls within the category of exemption is correctness and, as to the exercise of discretion whether or not to release the information assuming it falls within the category of exemption is reasonableness simpliciter.
+B. Propriety of the Exemptions Applied
+[16]
+Subsection 46(1) of the Act provides authority to the Court in a proceeding such as this to “... take every reasonable precaution ...” to avoid the inappropriate disclosure of the information that is at issue. In this matter, leave was granted to the Respondent to file a confidential affidavit with the Court disclosing the information at issue in the full context of that information.
+[17]
+Following the hearing of this application, this judge reviewed in detail the exempted information in its context, having had the benefit of representations by the Applicant on his own behalf and by counsel for the Respondent. Against that review, and taking into account, in particular, the representations of counsel that by far the greater part of the information exempted is fully described in subparagraph 22(1)(a)(i) while only lesser portions of the information withheld fall within the ambit of paragraph 22(1)(b) and sections 26 and 27 of the Act, against a standard of review of correctness, I conclude that it was open to the RCMP to consider the exercise of discretion conferred on it by those provisions.
+[18]
+Further, against a standard of review of reasonableness simpliciter, I am satisfied that the discretion provided was, in each case, reasonably exercised bearing in mind the purpose of the Privacy Act as enunciated in section 2 of that Act.
+[19]
+Having reached the foregoing conclusions, it follows that the decision of the Office of the Privacy Commissioner to uphold the exemptions applied by the RCMP was open to it.
+V.
+Conclusion
+[20]
+Whatever might be the merits of the Applicant’s concern that the complaint made to the RCMP which underlies this matter “... knowingly and wilfully and with malice forethought [sic] ...” involved false information, and I certainly make no finding in that regard since that issue is not before this Court on this application, the Privacy Act, on the facts of this matter, does not provide to the Applicant a right to obtain information from the RCMP that would identify the complainant and those who gave witness statements in support of the complaint. The Applicant’s allegation that “In civil proceedings there are no privacy laws” is not supported by any authority that was put before the Court. The exercise of discretion by the RCMP that is here at issue was entirely open to it.
+[21]
+The application will be dismissed with costs payable by the Applicant to the Respondent.
+Footnotes
+1. R.S.C. 1985, c. P-21.
+2. 2006 FC 523, April 26, 2006.
+SCHEDULE
+12. (1) Subject to this Act, every individual who is a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act has a right to and shall, on request, be given access to
+(a) any personal information about the individual contained in a personal information bank; and
+(b) any other personal information about the individual under the control of a government institution with respect to which the individual is able to provide sufficiently specific information on the location of the information as to render it reasonably retrievable by the government institution.
+. . . . .
+22. (1) The head of a government institution may refuse to disclose any personal information requested under subsection 12(1)
+(a) that was obtained or prepared by any government institution, or part of any government institution, that is an investigative body specified in the regulations in the course of lawful investigations pertaining to
+(i) the detection, prevention or suppression of crime,
+. . . . .
+(b) the disclosure of which could reasonably be expected to be injurious to the enforcement of any law of Canada or a province or the conduct of lawful investigations, including, without restricting the generality of the foregoing, any such information
+(i) relating to the existence or nature of a particular investigation,
+(ii) that would reveal the identity of a confidential source of information, or
+(iii) that was obtained or prepared in the course of an investigation; or
+. . . . .
+26. The head of a government institution may refuse to disclose any personal information requested under subsection 12(1) about an individual other than the individual who made the request, and shall refuse to disclose such information where the disclosure is prohibited under section 8.
+27. The head of a government institution may refuse to disclose any personal information requested under subsection 12(1) that is subject to solicitor-client privilege.
+. . . . .
+41. Any individual who has been refused access to personal information requested under subsection 12(1) may, if a complaint has been made to the Privacy Commissioner in respect of the refusal, apply to the Court for a review of the matter within forty-five days after the time the results of an investigation of the complaint by the Privacy Commissioner are reported to the complainant under subsection 35(2) or within such further time as the Court may, either before or after the expiration of those forty-five days, fix or allow.
+12. (1) Sous réserve des autres dispositions de la présente loi, tout citoyen canadien et tout résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés ont le droit de se faire communiquer sur demande:
+a) les renseignements personnels le concernant et versés dans un fichier de renseignements personnels;
+b) les autres renseignements personnels le concernant et relevant d’une institution fédérale, dans la mesure où il peut fournir sur leur localisation des indications suffisamment précises pour que l’institution fédérale puisse les retrouver sans problèmes sérieux.
+. . . . .
+22. (1) Le responsable d’une institution fédérale peut refuser la communication des renseignements personnels demandés en vertu du paragraphe 12(1):
+a) soit qui remontent à moins de vingt ans lors de la demande et qui ont été obtenus ou préparés par une institution fédérale, ou par une subdivision d’une institution, qui constitue un organisme d’enquête déterminé par règlement, au cours d’enquêtes licites ayant trait:
+(i) à la détection, la prévention et la répression du crime,
+. . . . .
+b) soit dont la divulgation risquerait vraisemblablement de nuire aux activités destinées à faire respecter les lois fédérales ou provinciales ou au déroulement d’enquêtes licites, notamment:
+(i) des renseignements relatifs à l’existence ou à la nature d’une enquête déterminée,
+(ii) des renseignements qui permettraient de remonter à une source de renseignements confidentielle,
+(iii) des renseignements obtenus ou préparés au cours d’une enquête;
+. . . . .
+26. Le responsable d’une institution fédérale peut refuser la communication des renseignements personnels demandés en vertu du paragraphe 12(1) qui portent sur un autre individu que celui qui fait la demande et il est tenu de refuser cette communication dans les cas où elle est interdite en vertu de l’article 8.
+27. Le responsable d’une institution fédérale peut refuser la communication des renseignements personnels demandés en vertu du paragraphe 12(1) qui sont protégés par le secret professionnel qui lie un avocat à son client.
+. . . . .
+41. L’individu qui s’est vu refuser communication de renseignements personnels demandés en vertu du paragraphe 12(1) et qui a déposé ou fait déposer une plainte à ce sujet devant le Commissaire à la protection de la vie privée peut, dans un délai de quarante-cinq jours suivant le compte rendu du Commissaire prévu au paragraphe 35(2), exercer un recours en révision de la décision de refus devant la Cour. La Cour peut, avant ou après l’expiration du délai, le proroger ou en autoriser la prorogation.
+[End of document]

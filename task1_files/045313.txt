@@ -1,0 +1,407 @@
+ <FRAGMENT_SUPPRESSED>  CF 376)
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+de Montigny, J.
+March 25, 2015.
+Counsel:
+Sheldon Robins, for the applicant;
+Judy Michaely, for the respondent.
+Solicitors of Record:
+Mary Lam, Toronto, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+de Montigny, J.
+: This is an appeal, pursuant to the now repealed s. 14(5) of the
+Citizenship Act
+, RSC 1985, c C-29 (the
+Act
+) and s. 21 of the
+Federal Courts Act
+, RSC 1985, c F-7, from the decision of the Citizenship Judge Lilian Klein, dated March 27, 2014, rejecting the Applicant's application for Canadian citizenship pursuant to paragraph 5(1)(
+c
+) of the
+Act
+.
+I.
+Facts
+[2]
+Taghi Ghasem Boland (the Applicant) is a citizen of Iran who landed in Canada as a permanent resident on January 10, 2007. At the time, he was accompanied by his wife, who became a Canadian citizen in 2010. The couple has two children, who are both Canadian citizens.
+[3]
+The Applicant applied for citizenship after three years of permanent residency (on January 19, 2010), rather than the permitted four years, which gave him 1104 material days for his application, rather than the full 1460 days to draw from. In his application, the Applicant declared 477 days of absences, which meant that he had only been physically present in Canada for 627 days, 468 days short of the statutory minimum of 1,095 days as prescribed by paragraph 5(1)(
+c
+) of the
+Act
+.
+[4]
+On January 30, 2014, the Applicant attended a hearing with a Citizenship Judge because he had not fulfilled the residency requirement. At the hearing, the Applicant was represented by an immigration consultant. There is no record of what took place at the hearing.
+[5]
+On March 27, 2014, the Citizenship Judge rendered her decision rejecting the application because the Applicant fell short of the residency requirement under paragraph 5(1)(
+c
+) of the
+Act
+. The Applicant filed this appeal on May 2, 2014.
+II.
+The impugned decision
+[6]
+The Citizenship Judge first reviewed the facts of this application, including the documentation provided to support the Applicant's physical presence in Canada (domicile, employment, notices of assessment and other documents). She then identified the issue as being whether the Applicant meets the requirement of 1,095 days of physical presence in Canada. The Citizenship Judge noted that, at the hearing, the Applicant only produced his current passport, which does not cover the relevant period. As a result, the Citizenship Judge was unable to verify the Applicant's travel history, which he declared to include 13 absences for a total of 477 days. The Citizenship Judge also noted that the Applicant's current passport states he is a resident of Thailand, which was not declared in the application or residency questionnaire. She was prepared, nevertheless, to accept the Applicant's declared absences at their face value, which left him with only 627 days of physical presence in Canada.
+[7]
+The Applicant had explained that he applied early because his business requires him to travel extensively, and as a result, he would not have met the statutory requirement if he waited another year. The Citizenship Judge found that there is no provision in the
+Act
+for individual applicants who fall far short of the minimum 1,095 days to be able to circumvent this requirement by applying early.
+[8]
+The Citizenship Judge then applied the residency test as established by Justice Muldoon in
+Re Pourghasemi
+(1993), 62 FTR 122 [
+Re Pourghasemi
+], and found that the Applicant was no where near to meeting the requirement of 1,095 days of physical presence in Canada. As a result, the application for Canadian citizenship was rejected. She also considered whether to make a favourable recommendation under subsection 5(4) of the
+Act
+, and came to the conclusion that there were insufficient circumstances of special and unusual hardship or services of an exceptional value to Canada to warrant such a recommendation to the Minister for a discretionary grant of citizenship.
+III.
+Issues
+[9]
+The Applicant has raised a number of issues, which can be stated as follows:
+A. Did the Citizenship Judge err in selecting the physical presence test for residency?
+B. Did the Citizenship Judge err in applying the residency test?
+C. Was the Applicant denied procedural fairness?
+D. Did the Citizenship Judge exhibit an appearance of bias?
+E. Should costs be awarded to the Applicant regardless of the success of this application?
+IV.
+Analysis
+[10]
+The Applicant challenges both the Citizenship Judge's selection of the applicable legal test for citizenship, as well as her application of that test. There is no doubt that a citizenship judge's application of a particular test for residency is a question of mixed fact and law that is reviewable on the reasonableness standard.
+[11]
+As for the selection of the legal test for citizenship, I am in agreement with the analysis of the Chief Justice in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], according to which such a question must be reviewed against the standard of reasonableness as it involves the interpretation of a citizenship judge's home statute. The Supreme Court of Canada (and the Federal Court of Appeal) have clearly indicated in a number of recent cases that, absent exceptional circumstances (such as a question of law that is of central importance to the legal system as a whole and outside the adjudicator's expertise), determinations made by administrative tribunals with respect to the interpretation of statutes that are closely connected with their functions are presumed to be reviewable on a standard of reasonableness: see, for example,
+Alberta (Information and  <FRAGMENT_SUPPRESSED> . As a result, as long as the decision is justified, transparent and intelligible and falls within the "range of possible, acceptable outcomes which are defensible in respect of the facts and law," this Court ought not to intervene:
+ <FRAGMENT_SUPPRESSED> .
+[12]
+Of course, questions of procedural fairness, including allegations of bias, are subject to the correctness standard of review:
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> .
+A.
+Did the Citizenship Judge err in selecting the physical presence test for residency?
+[13]
+Under the reasonableness standard of review, deference is owed to the Citizenship Judge's selection of which residency test to apply. As is well known, the
+Act
+does not define "residence" or "resident". As a result, the jurisprudence of this Court has been divided as to the legal test an applicant must meet in order to satisfy the residency requirement under paragraph 5(1)(
+c
+) of the
+Act
+, and three different tests have emerged.
+[14]
+In
+Re Papadogiorgakis
+, [1978] 2 FC 208, the Court created a test that requires a citizenship judge to assess the quality of the applicant's attachment to Canada (the so-called "centralized mode of living test"). The applicant's absences from Canada during the relevant period can be counted towards satisfying the residence requirement where such absences are for a temporary purpose and the applicant demonstrates an intention to establish a permanent home in Canada.
+[15]
+The Court articulated a second test in
+Re Pourghasemi
+that requires the citizenship judge to determine whether the applicant has been physically present in Canada for at least 1095 days during the relevant period. According to this test, physical presence in Canada is essential to satisfy the residency requirement.
+[16]
+A third test was developed in
+Re Koo
+, [1993] 1 FC 286 [
+Koo
+], drawing on the elements of the other two approaches. The
+Koo
+test requires the citizenship judge to determine whether Canada is the place where the applicant "regularly, normally or customarily lives" or has "centralized his or her mode of existence" by examining six factors to guide the assessment.
+[17]
+ <FRAGMENT_SUPPRESSED>  [
+Lam
+], Justice Lutfy, as he then was, came to the conclusion that until the
+Act
+is amended to resolve this conflicting jurisprudence, it is open to a citizenship judge to choose any one of the three tests to assess the residency requirement, provided that he or she demonstrates an understanding of the case law and properly decides that the facts meet the test that has been applied.
+[18]
+Over time, several judges of this Court have expressed their frustration with that state of the law and have endeavoured to streamline the jurisprudence. In
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  Justice Mainville came to the conclusion that the
+Koo
+test has become the dominant test and should henceforth be the sole test to be applied under paragraph 5(1)(
+c
+) of the
+Act
+. More recently, Justice Rennie opined in
+ <FRAGMENT_SUPPRESSED>  that the "physical presence" test is the only one contemplated by paragraph 5(1)(
+c
+) of the
+Act
+and is therefore the correct one to apply. While that decision has been followed in a number of subsequent cases (see, for example,
+ <FRAGMENT_SUPPRESSED> ;
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED> ), it is not yet settled law and the jurisprudence pertaining to the test for citizenship is still in a state of flux. Indeed, judges of this Court have continued to follow
+Lam
+and to accept that citizenship judges have the ability to apply any one of the three tests for citizenship described above: see, for example, <FRAGMENT_SUPPRESSED> , above;
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED> .
+[19]
+Like the Chief Justice in <FRAGMENT_SUPPRESSED> , I am of the view that
+Lam
+is still good law and that a citizenship judge is free to assess an application for citizenship according to any one of these three tests, provided of course that the test selected is then applied correctly to the facts of the case. That may not be the most satisfying outcome for litigants, but until the matter is resolved legislatively or judicially, this is the inevitable result of the absence of a definition for the concept of "residence" in the
+Act.
+Fortunately, the introduction of sections 22.1 and 22.2 in the
+Act
+will allow for this matter to be definitively resolved by the Federal Court of Appeal, on a certified question from this Court.
+[20]
+Counsel for the Applicant did not seriously object to the test chosen by the Citizenship Judge, but nevertheless claimed that she erred in two respects. First, counsel submitted that she failed to make a finding on the establishment of residency prior to the relevant period. Second, counsel argued that the Citizenship Judge erred in blending the qualitative and the quantitative tests. According to counsel, the questions put to Mr. Boland by the Citizenship Judge show that she was engaged in either the quality of attachment test outlined in
+Re Pourghasemi
+or the substantial connection test developed in
+Koo
+, and not with the strict physical residence test.
+[21]
+The first argument is totally without merit, and indeed has no application to the present matter. In the decision relied upon by the Applicant (
+ <FRAGMENT_SUPPRESSED>  [
+Wong
+]), the applicant had resided in Canada as a permanent resident for nearly nine years before he applied for citizenship. In the case at bar, the Applicant had only landed in Canada three years before applying for citizenship. As a result, there was no period of time that the Citizenship Judge could refer to where the Applicant resided as a permanent resident prior to the four year period of relevance.
+[22]
+Furthermore, as noted by the Respondent, the initial determination of whether residency has been established is a threshold question. The decision in
+Wong
+and the jurisprudence that has followed simply states that where a citizenship judge is making a citizenship determination, the first step of the analysis is a determination of whether residence has been established. Following this, the second step is a consideration of the number of days. In the case at bar, it must be presumed that the Citizenship Judge was prepared to accept that the Applicant had established residence on the day of landing, otherwise there would have been no reason to determine whether the Applicant's residency satisfied the statutorily prescribed number of days. That being the case, I fail to understand what the Applicant is complaining about, as the Citizenship Judge implicitly decided that he had satisfied the first part of the analysis and had established residency at the earliest possible date.
+[23]
+As for the argument that the Citizenship Judge erred in blending the tests, it is equally devoid of any substance. It is no doubt true that the Citizenship Judge asked the Applicant a number of questions pertaining to his establishment in Canada. Her findings in this respect are set out in Part A of her reasons dealing with the facts. However, her decision (Part C of her reasons) makes it crystal clear that she uses the residency test as established in
+Re Pourghasemi
+(which she quotes) to dismiss the application. Her reasons at paragraphs 23 and 24 leave no ambiguity as to the rationale for not approving his application for Canadian citizenship: the Applicant applied a year early, "well before he was anywhere near meeting the residence requirement of the Act" (at paragraph 23). Nowhere does she discuss any of the six factors outlined in
+Koo
+. I am therefore unable to read in her decision any impermissible blending of the various tests developed by this Court to assess residency under paragraph 5(1)(
+c
+) of the
+Act
+.
+[24]
+The simple fact that during an interview, a citizenship judge may pose questions to an applicant that lead them to believe that one of the qualitative tests is being applied, does not cause the final decision to fall into error if that judge ultimately chooses to apply a quantitative test. The Citizenship Judge may well have chosen to disregard the strict physical presence test and to apply another test had she been convinced that the evidence established the Applicant's attachment to Canada or his centralized mode of existence in this country. It was her prerogative, however, to opt in the final analysis for any of the three tests currently in use to assess residency.
+B.
+Did the Citizenship Judge err in applying the residency test?
+[25]
+The Applicant also argued that the Citizenship Judge made factual errors. There is, indeed, a slight error on the Applicant's date of birth (August 22, 1965 instead of August 23, 1965), but it is likely a typographical error. As for the other alleged errors, they are not substantiated by the Applicant and in many instances it is not clear from the record why the Applicant's version should be preferred to the Citizenship Judge's findings.
+[26]
+The Applicant alleges that the Citizenship Judge made a mistake with respect to the residency of the Applicant in Thailand. Yet she accurately noted that both the Applicant's current and prior passports state that he is a resident of Thailand. She also noted that this residency overlaps with his relevant period in Canada.
+[27]
+The Applicant also states that there is a mistake with respect to his wife's citizenship, but did not clarify what that mistake is. The Judge simply noted that the Applicant's wife is now a Canadian citizen.
+[28]
+The Applicant further mentions that there is a mistake with respect to his parents' place of residence. The Citizenship Judge noted that the Residency Questionnaire completed by the Applicant states that their country of residence is Iran. However, in his affidavit, the Applicant says that they are actually citizens of the United States.
+[29]
+The Applicant also claims that the Citizenship Judge refused to accept as credible, documents provided by CBSA. While the Applicant does not explain what documents he is referring to, this assertion appears to be unwarranted. The Citizenship Judge did not refuse to consider the Integrated Customs Enforcement System, nor did she find that document lacking in credibility. It was merely found to be insufficient on its own to verify the Applicant's absences without the Applicant's passport to confirm departure dates from Canada and confirm the length of each trip.
+[30]
+In any event, none of these alleged errors are material to the final decision, which turns on whether the Applicant accumulated a sufficient number of days of residence in Canada. In that respect, the Citizenship Judge accepted the most favourable version for the Applicant, and was prepared to recognize his declared absences despite questioning their accuracy in the absence of a passport for the relevant time period. It is on the basis of these absences that she found the Applicant had failed to meet the residency requirements of the
+Act
+. The Applicant can hardly complain that the Citizenship Judge erred in refusing his application, as she concluded that he did not satisfy the statutorily prescribed number of days on the basis of the Applicant's own declared absences.
+C.
+Was the Applicant denied procedural fairness?
+[31]
+The Applicant argues that he was entitled to be informed of the consequences of not producing his former passport. This argument has no bearing on the outcome of this case because even if the Citizenship Judge had been able to verify his stated absences, it would not have made a difference to the application of the physical presence test.
+[32]
+The Applicant seems to be suggesting that if the Citizenship Judge had been able to verify his stated absences, she may have decided to apply one of the qualitative tests. There is nothing in the decision to suggest that is the case. Once again, the Citizenship Judge took the most favourable view of the Applicant's physical presence in Canada and accepted that he was in Canada for 627 days during the relevant period; his former passport would only confirm, at best, the Applicant's own acknowledged absences from Canada.
+D.
+Did the Citizenship Judge exhibit an appearance of bias?
+[33]
+The Applicant appears to suggest that the Citizenship Judge was biased as a result of having had access to the File Preparation and Analysis Template (FPAT), a document that was originally redacted from the Certified Tribunal Record and then confidentially disclosed to his counsel. The FPAT document is a standard form used by citizenship officers in analysing data in citizenship application cases. As described in the confidential affidavit of Catherine Thai filed as part of the Respondent's Confidentiality Motion Record, the FPAT is used to examine sensitive information. One of the purposes of the FPAT is to examine an individual's background to determine whether any fraud exists.
+[34]
+It is clear from reviewing the FPAT that there is no allegation of fraud against the Applicant in the case at bar. The FPAT was used in the normal course to examine the Applicant's background. Simply because one of the purposes of this document is to detect fraud does not mean that every individual who applies for citizenship and is examined has committed fraud. Indeed, the only time the word "fraud" was raised was in the Respondent's motion for confidentiality. In that motion, while arguing against the disclosure of the FPAT, the Respondent argued generally that disclosure of the FPAT document could lead to individuals learning methods of fraud detection used by the government. The Respondent at no point stated that there was fraud in the present matter. Likewise, simply because the FPAT was part of the package of documents considered by Judge Klein does not mean that she believed there would be fraud in the Applicant's case, nor does it connote any appearance of bias.
+[35]
+Further, as noted by the Respondent, the choice to further examine the Applicant for credibility related issues was done by the citizenship officer, not the Judge. Simply because the officer who prepares the file for review chooses to further investigate a particular avenue does not connote bias in the officer's examination or the Judge's final decision. As argued by the Respondent, such an assertion would be tantamount to prohibiting any investigations and would be, at the very least, a fettering of discretion on the part of the citizenship officer.
+[36]
+Be that as it may, even if fraud allegations had been raised, they would not have any bearing on the final decision in this matter, as fraud was not an issue. Rather, the Citizenship Judge found on the strict physical presence test that the Applicant did not meet the residency requirement.
+E.
+Should costs be awarded to the Applicant regardless of the success of this application?
+[37]
+The Applicant requests costs on a solicitor-client basis regardless of the outcome of this judicial review. Rule 400(1) gives the Court full discretion "over the amount and allocation of costs and the determination of by whom they are to be paid". Rule 400(3) sets out a number of factors for the Court to consider in exercising its discretion, including "(a) the result of the proceeding", and "(i) any conduct of a party that tended to shorten or unnecessarily lengthen the duration of the proceeding".
+[38]
+There is no evidence before the Court that the Respondent's refusal to disclose the redacted documents unnecessarily lengthened the duration of the proceedings. The Respondent was entitled to object to the disclosure of certain information pursuant to Rule 318(2). Just as the Applicant is free to object to those redactions, the Respondent is entitled to defend them by way of bringing a motion for confidentiality.
+[39]
+In the case at bar, the Respondent was prepared to bring a motion at the outset of the proceedings but was directed otherwise by the Court. The parties were requested to engage in case management conferences to resolve the dispute, and the case management judge encouraged the parties to work out the details of a confidentiality order on their own terms. It was only after the parties could not reach an agreement that the case management judge directed the Respondent to bring a motion for confidentiality.
+[40]
+The Applicant's entire basis for requesting solicitor-client costs is that he asked for redacted documents to be disclosed and the Respondent defended the redactions. This is not a basis for solicitor-client costs. The Respondent was entitled to defend his position in good faith and did not unduly lengthen or delay the proceedings. It took approximately three months before counsel for the Applicant was able to view the redacted documents. This delay hardly rises to the level of "reprehensible, scandalous or outrageous conduct" that is necessary to justify costs on a solicitor-client basis: see
+Microsoft Corporation v 9038-3746 Quebec Inc
+, 2007 FC 659 at paras 11 and 16;
+ <FRAGMENT_SUPPRESSED> .
+V.
+Conclusion
+[41]
+For all of the above reasons, the Applicant's application to quash the decision of the Citizenship Judge dated March 27, 2014 is dismissed, without costs.
+JUDGMENT
+[42]
+THIS COURT'S JUDGMENT is that
+the appeal from the decision of the Citizenship Judge denying the Applicant's application for citizenship under paragraph 5(1)(
+c
+) of the
+Citizenship Act
+, is dismissed. No costs are awarded.
+.........................
+ <FRAGMENT_SUPPRESSED>  La Cour est saisie d'un appel interjeté en vertu du paragraphe 14(5) (maintenant abrogé) de la
+Loi sur la citoyenneté
+, LRC 1985, ch C-29 (la Loi) et de l'article 21 de la
+Loi sur les Cours fédérales
+, LRC 1985, ch F-7, d'une décision en date du 27 mars 2014 par laquelle la juge de la citoyenneté Lilian Klein a rejeté la demande de citoyenneté canadienne présentée par le demandeur en vertu de l'alinéa 5(1)
+c
+) de la Loi.
+I.
+Les faits
+[2]
+Taghi Ghasem Boland (le demandeur) est un citoyen de l'Iran qui a obtenu le droit d'établissement au Canada à titre de résident permanent le 10 janvier 2007. À l'époque, il était accompagné de sa femme, qui est devenue une citoyenne canadienne en 2010. Ils ont deux enfants qui sont tous les deux des citoyens canadiens.
+[3]
+Le demandeur a soumis une demande de citoyenneté après trois ans de résidence permanente (le 19 janvier 2010) plutôt qu'après les quatre années habituelles, de sorte qu'il ne pouvait justifier que 1 104 jours de résidence et non les 1 460 jours requis. Dans sa demande, il a déclaré 477 jours d'absence, ce qui signifiait qu'il n'avait été physiquement présent au Canada que pendant 627 jours et qu'il lui manquait donc 468 jours pour respecter le nombre minimal requis de 1 095 jours prévu à l'alinéa 5(1)
+c
+) de la Loi.
+[4]
+Le 30 janvier 2014, le demandeur s'est présenté à une audience présidée par une juge de la citoyenneté parce qu'il n'avait pas respecté la condition de résidence. À l'audience, le demandeur était représenté par un consultant en immigration. Il n'y a pas de dossier faisant état de ce qui s'est produit à cette audience.
+[5]
+Le 27 mars 2014, la juge de la citoyenneté a rendu une décision par laquelle elle rejetait la demande au motif que le demandeur ne satisfaisait pas à la condition de résidence prévue à l'alinéa 5(1)
+c
+) de la Loi. Le présent appel a été interjeté par le demandeur le 2 mai 2014.
+II.
+La décision contestée
+[6]
+La juge de la citoyenneté a d'abord examiné les faits de la présente demande, y compris les documents qui avaient été fournis pour justifier la présence physique du demandeur au Canada (domicile, emploi, avis de cotisation et autres documents). Elle a ensuite précisé que la question en litige était celle de savoir si le demandeur satisfaisait à la condition des 1 095 jours de présence physique au Canada. La juge de la citoyenneté a fait observer qu'à l'audience, le demandeur n'avait produit que son passeport actuel, qui ne couvrait pas la période en cause. La juge de la citoyenneté n'était donc pas en mesure de vérifier les antécédents de voyage du demandeur qui, selon sa propre déclaration, comprenaient 13 absences, pour un total de 477 jours. La juge de la citoyenneté a également fait observer que le passeport actuel du demandeur indiquait qu'il résidait actuellement en Thaïlande, ce que le demandeur n'avait déclaré ni dans sa demande ni dans son questionnaire de résidence. La juge était néanmoins disposée à accepter sans réserve les absences déclarées par le demandeur, qui ne se retrouvait donc qu'avec 627 jours de présence physique au Canada.
+[7]
+Le demandeur avait expliqué qu'il avait présenté sa demande de façon anticipée parce que son entreprise l'obligeait à voyager beaucoup et que, par conséquent, il n'aurait pas pu remplir la condition prévue par la Loi s'il avait attendu encore un an. La juge de la citoyenneté a conclu que la Loi ne contenait aucune disposition prévoyant qu'une personne n'ayant pas accumulé les 1 095 jours exigés pouvait présenter une demande anticipée pour pouvoir contourner cette exigence.
+[8]
+La juge de la citoyenneté a ensuite appliqué le critère de la résidence énoncé par le juge Muldoon dans l'affaire
+Pourghasemi
+(1993), 62 FTR 122 [
+Pourghasemi
+] et a conclu que le demandeur était loin de satisfaire à l'exigence des 1 095 jours de présence physique au Canada. Par conséquent, la juge a rejeté la demande de citoyenneté canadienne. Elle a également envisagé la possibilité de formuler une recommandation favorable en vertu du paragraphe 5(4) de la Loi et en est venue à la conclusion qu'il n'existait pas de situation particulière et inhabituelle de détresse ou de services exceptionnels rendus au Canada justifiant de recommander au ministre d'exercer son pouvoir discrétionnaire en accordant la citoyenneté.
+III.
+Les questions en litige
+[9]
+Le demandeur a soulevé plusieurs questions qui peuvent être formulées comme suit:
+A. La juge de la citoyenneté a-t-elle commis une erreur en retenant le critère de la présence physique comme critère de résidence?
+B. La juge de la citoyenneté a commis une erreur en appliquant le critère de la résidence?
+C. Le demandeur a-t-il été privé de son droit à l'équité procédurale?
+D. La juge de la citoyenneté a-t-elle fait preuve d'une apparence de partialité?
+E. Les dépens devraient-ils être adjugés au demandeur, indépendamment du sort de la présente demande?
+IV.
+Analyse
+[10]
+Le demandeur conteste le choix du critère légal applicable qu'a fait la juge de la citoyenneté ainsi que l'application qu'elle a faite de ce critère. Il n'y a aucun doute que l'application qu'un juge de la citoyenneté fait d'un critère de résidence déterminé constitue une question mixte de fait et de droit qui est assujettie à la norme de contrôle de la décision raisonnable.
+[11]
+Quant au choix du critère légal de la citoyenneté, je souscris à l'analyse du juge en chef dans le jugement
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], suivant la norme de contrôle de la décision raisonnable s'applique à cette question, étant donné qu'elle suppose l'interprétation de la loi habilitante à laquelle est assujetti le juge de la citoyenneté. La Cour suprême du Canada - et la Cour d'appel fédérale - ont clairement indiqué dans plusieurs décisions récentes qu'à défaut de circonstances exceptionnelles - notamment lorsqu'il existe une question de droit qui revêt une importance cruciale pour le système de droit dans son ensemble et que cette question déborde le champ de compétence de l'arbitre -, les décisions rendues par les tribunaux administratifs au sujet de l'interprétation des lois qui sont étroitement liées à leurs fonctions sont présumées être assujetties à la norme de contrôle de la décision raisonnable (voir, par exemple,
+Alberta (Information and  <FRAGMENT_SUPPRESSED> . Par conséquent, dès lors que la décision est justifiée, transparente et intelligible et qu'elle appartient « aux issues possibles acceptables pouvant se justifier au regard des faits et du droit », la Cour ne devrait pas intervenir (
+ <FRAGMENT_SUPPRESSED> ).
+[12]
+Évidemment, les questions d'équité procédurale, y compris celles portant sur des allégations de partialité, sont assujetties à la norme de contrôle de la décision correcte (
+Canada (Ministre de la Citoyenneté et de l' <FRAGMENT_SUPPRESSED> ).
+A.
+La juge de la citoyenneté a-t-elle commis une erreur en retenant le critère de la présence physique comme critère de résidence?
+[13]
+Lorsqu'on applique la norme de contrôle de la décision raisonnable, on doit faire preuve de déférence envers le choix du critère de résidence retenu par le juge de la citoyenneté. Comme on le sait bien, la Loi ne définit pas les concepts de « résidence » et de « résident ». Par conséquent, la jurisprudence de la Cour est partagée en ce qui concerne le critère légal que doit respecter le demandeur pour satisfaire à la condition de résidence prévue à l'alinéa 5(1)
+c
+) de la Loi et trois critères différents ont été élaborés.
+[14]
+Dans l'affaire
+Papadogiorgakis
+, [1978] 2 CF 208, la Cour a élaboré un critère qui oblige le juge de la citoyenneté à apprécier la qualité de l'attachement du demandeur au Canada (ce qu'on est convenu d'appeler « le critère du mode de vie centralisé »). Les absences du demandeur du Canada pendant la période en cause peuvent être comptées comme des périodes de résidence au Canada si le demandeur démontre que ces absences étaient temporaires et qu'il avait l'intention de faire du Canada le lieu de son domicile permanent.
+[15]
+La Cour a articulé dans l'affaire
+Pourghasemi
+un deuxième critère qui oblige le juge de la citoyenneté à déterminer si le demandeur a été physiquement présent au Canada pendant au moins 1 095 jours pendant la période en cause. Suivant ce critère, la présence physique au Canada est essentielle pour pouvoir satisfaire à la condition de résidence.
+[16]
+Le troisième critère a été élaboré dans l'affaire
+Koo
+, [1993] 1 CF 286 [
+Koo
+], en s'inspirant des deux premiers critères. Le critère de l'arrêt
+Koo
+exige du juge de la citoyenneté qu'il détermine si le Canada est le lieu où le demandeur « vit régulièrement, normalement ou habituellement » ou s'il est l'endroit où il a « centralisé son mode d'existence » en tenant compte de six facteurs censés guider son appréciation.
+[17]
+Dans le jugement
+ <FRAGMENT_SUPPRESSED>  [
+Lam
+], le juge Lutfy, alors juge de la Cour fédérale, a conclu que tant que la Loi ne serait pas modifiée pour résoudre les interprétations contradictoires de la jurisprudence, il serait loisible au juge de la citoyenneté de choisir l'un ou l'autre de ces trois critères pour évaluer la condition de la résidence, à condition que sa décision dénote une compréhension de la jurisprudence, et qu'il décide à bon droit que les faits satisfont sa conception du critère législatif qu'il applique.
+[18]
+Avec le temps, plusieurs juges de la Cour ont exprimé leur frustration à l'égard de l'état du droit et ont tâché de simplifier la jurisprudence. Dans le jugement
+Canada (Ministre de la Citoyenneté et de l' <FRAGMENT_SUPPRESSED>  le juge Mainville est venu à la conclusion que le critère de l'arrêt
+Koo
+était celui qui s'était imposé et qu'il devait désormais être le seul que l'on devait appliquer en vertu de l'alinéa 5(1)
+c
+) de la Loi. Plus récemment, le juge Rennie s'est dit d'avis, dans le jugement
+ <FRAGMENT_SUPPRESSED>  que le critère de la « présence physique » était le seul que prévoyait l'alinéa 5(1)
+c
+) de la Loi et qu'il s'agissait donc du bon critère à appliquer. Bien que cette décision ait été suivie dans plusieurs affaires subséquentes (voir, par exemple,
+ <FRAGMENT_SUPPRESSED> ), la jurisprudence relative au critère de la citoyenneté est toujours flottante. D'ailleurs, les juges de notre Cour continuent à suivre le jugement
+Lam
+et à accepter qu'il est loisible aux juges de la citoyenneté d'appliquer l'un ou l'autre des trois critères de la citoyenneté que nous avons mentionnés (voir, par ex., <FRAGMENT_SUPPRESSED> , précité;
+ <FRAGMENT_SUPPRESSED> ).
+[19]
+À l'instar du juge en chef dans le jugement <FRAGMENT_SUPPRESSED> , j'estime que la décision
+Lam
+fait encore jurisprudence et qu'un juge de la citoyenneté est libre d'apprécier une demande de citoyenneté selon l'un ou l'autre des trois critères en question, à condition évidemment qu'il applique correctement le critère qu'il retient aux faits de l'espèce. Ce n'est peut-être pas la solution la plus satisfaisante pour les plaideurs, mais tant que la question ne sera pas tranchée par le législateur ou par les tribunaux, c'est inévitablement le résultat de l'absence de définition du concept de « résidence » dans la Loi. Heureusement, l'introduction des articles 22.1 et 22.2 dans la Loi permettra à la Cour d'appel fédéral de trancher définitivement la question lorsqu'elle sera saisie d'une question certifiée soumise par notre Cour.
+[20]
+L'avocat du demandeur ne s'est pas vraiment opposé au critère retenu par la juge de la citoyenneté, mais il a néanmoins affirmé qu'elle s'était trompée à deux égards. Il affirme tout d'abord que la juge a omis de tirer une conclusion quant à savoir si le demandeur avait établi sa résidence avant la période pertinente. En second lieu, il soutient que la juge de la citoyenneté a commis une erreur en amalgamant le critère qualitatif et le critère quantitatif. Suivant l'avocat, les questions posées à M. Boland par la juge de la citoyenneté démontrent que cette dernière s'est attardée soit au critère de la qualité des attaches énoncé dans l'affaire
+Pourghasemi
+, soit au critère du lien substantiel élaboré dans l'affaire
+Koo
+, au lieu d'appliquer le strict critère de la résidence physique.
+[21]
+Le premier argument est dénué de tout fondement et ne s'applique d'ailleurs pas à la présente affaire. Dans la décision sur laquelle le demandeur se fonde (
+ <FRAGMENT_SUPPRESSED>  [
+Wong
+] ), le demandeur se trouvait au Canada à titre de résident permanent depuis près de neuf ans avant de présenter sa demande de citoyenneté. En l'espèce, le demandeur n'avait obtenu le droit d'établissement au Canada que trois ans avant de présenter sa demande de citoyenneté. Par conséquent, il n'y avait pas de période à laquelle la juge de la citoyenneté pouvait se référer et pendant laquelle le demandeur aurait résidé comme résident permanent avant la période de quatre ans pertinente.
+[22]
+De plus, ainsi que le défendeur l'a fait observer, la décision initiale de savoir si le demandeur avait établi sa résidence constitue une question préalable. La décision
+Wong
+et la jurisprudence qui l'a suivie affirment simplement que, lorsque la juge de la citoyenneté se prononce sur la citoyenneté, la première étape de l'analyse consiste à décider si le demandeur a établi sa résidence. La seconde étape vise à calculer le nombre de jours de résidence. En l'espèce, il y a lieu de présumer que la juge de la citoyenneté était disposée à accepter que le demandeur avait établi sa résidence au Canada le jour où il avait obtenu le droit d'établissement, sinon il n'y aurait eu aucune raison de chercher à savoir si la résidence du demandeur satisfaisait au nombre de jours prescrits par la Loi. Dans ces conditions, je ne comprends pas de quoi se plaint le demandeur, puisque la juge de la citoyenneté a implicitement décidé qu'il répondait au premier volet de l'analyse et qu'il avait établi sa résidence au Canada à la première date possible.
+[23]
+Quant à l'argument suivant lequel la juge de la citoyenneté a commis une erreur en amalgamant les critères, il est également mal fondé. Certes, la juge de la citoyenneté a posé au demandeur plusieurs questions concernant son degré d'établissement au Canada. Les conclusions qu'elle a tirées à cet égard sont énoncées à la partie A de ses motifs, qui porte sur les faits. Toutefois, sa décision (partie C de ses motifs) démontre à l'évidence qu'elle a appliqué le critère de la résidence défini dans l'affaire
+Pourghasemi
+(qu'elle cite) pour rejeter la demande. Les motifs qu'elle expose aux paragraphes 23 et 24 ne laissent aucun doute quant au raisonnement qu'elle a suivi pour refuser la demande de citoyenneté canadienne: le demandeur avait soumis sa demande une année plus tôt, [traduction] « longtemps avant d'être en mesure de satisfaire à la condition de résidence prévue par la Loi » (au paragraphe 23). Elle ne discute nulle part d'aucun des six facteurs énumérés dans la décision
+Koo
+. Je suis donc incapable de déceler dans sa décision une combinaison inacceptable des divers critères élaborés par notre Cour pour évaluer la résidence en vertu de l'alinéa 5(1)
+c
+) de la Loi.
+[24]
+Le simple fait qu'au cours d'une entrevue, un juge de la citoyenneté puisse poser à un demandeur des questions qui l'amènent à croire que l'un des critères qualitatifs est appliqué ne fait pas en sorte que sa décision finale est erronée s'il choisit finalement d'appliquer un critère quantitatif. La juge de la citoyenneté peut fort bien avoir choisi en l'espèce d'écarter le critère strict de la présence physique et d'appliquer un autre critère si elle était convaincue que la preuve démontrait l'attachement du demandeur au Canada ou encore qu'il avait centralisé son mode d'existence au Canada. Il était toutefois loisible à la juge de la citoyenneté en l'espèce d'opter en dernière analyse pour l'un ou l'autre des trois critères présentement utilisés pour évaluer la résidence.
+B.
+La juge de la citoyenneté a-t-elle commis une erreur en appliquant le critère de la résidence?
+[25]
+Le demandeur soutient également que la juge de la citoyenneté a commis des erreurs de fait. Elle aurait ainsi commis une erreur mineure dans la date de naissance du demandeur (22 août 1965 au lieu du 23 août 1965), mais il s'agit probablement d'une faute de frappe. Quant aux autres présumées erreurs, le demandeur ne les a pas démontrées et, dans de nombreux cas, le dossier ne démontre pas pourquoi la version du demandeur devrait être préférée aux conclusions de la juge de la citoyenneté.
+[26]
+Le demandeur allègue que la juge de la citoyenneté a commis une erreur en ce qui concerne sa période de résidence en Thaïlande. Elle a pourtant signalé à juste titre que le passeport actuel et les anciens passeports du demandeur indiquaient qu'il était un résident de la Thaïlande. Elle a également fait observer que cette résidence chevauchait sa période pertinente au Canada.
+[27]
+Le demandeur affirme également qu'une erreur a été commise en ce qui concerne la citoyenneté de sa femme, sans toutefois en préciser la nature. La juge a simplement fait observer que l'épouse du demandeur était maintenant une citoyenne canadienne.
+[28]
+Le demandeur mentionne également qu'il y a une erreur au sujet du lieu de résidence de ses parents. La juge de la citoyenneté a fait observer que le questionnaire sur la résidence que le demandeur avait rempli précisait que le pays de résidence de ses parents était l'Iran. Toutefois, dans son affidavit, le demandeur a affirmé qu'ils étaient en fait des résidents des États-Unis.
+[29]
+Le demandeur affirme également que la juge de la citoyenneté n'a pas jugé crédibles certains documents fournis par l'ASFC. Bien que le demandeur n'explique pas de quels documents il parle, cette affirmation semble injustifiée. La juge de la citoyenneté n'a pas refusé de tenir compte du Système intégré d'exécution des douanes et elle n'a pas non plus conclu que le document manquait de crédibilité. Elle a simplement conclu qu'à lui seul, ce document était insuffisant pour confirmer les absences du demandeur, à défaut de passeport de ce dernier confirmant ses dates de départ du Canada et la durée de chacun de ses voyages.
+[30]
+En tout état de cause, aucune des présumées erreurs n'a joué un rôle déterminant en ce qui concerne la décision finale, qui portait sur la question de savoir si le demandeur avait accumulé un nombre suffisant de jours de résidence au Canada. À cet égard, la juge de la citoyenneté a accepté la version la plus favorable au demandeur et elle était disposée à reconnaître ses absences déclarées malgré le fait qu'elle doutait de leur exactitude, compte tenu de l'absence de passeport couvrant la période applicable. C'est en se fondant sur les absences en question qu'elle a conclu que le demandeur ne satisfaisait pas aux exigences en matière de résidence de la Loi. Le demandeur ne peut guère reprocher à la juge de la citoyenneté d'avoir commis une erreur en rejetant sa demande, étant donné que la juge a conclu qu'il ne satisfaisait pas au nombre de jours prévus par la Loi en se fondant sur le nombre de jours d'absence qu'il avait lui-même déclarés.
+C.
+Le demandeur a-t-il été privé de son droit à l'équité procédurale?
+[31]
+Le demandeur soutient qu'il avait le droit d'être informé des conséquences de la non-production de son ancien passeport. Cet argument n'a aucune incidence sur l'issue de la présente demande parce que, même si la juge de la citoyenneté avait été en mesure de vérifier ses absences déclarées, cela n'aurait eu aucune incidence sur l'application du critère de la présence physique.
+[32]
+Le demandeur semble laisser entendre que, si la juge de la citoyenneté avait été en mesure de vérifier ses absences déclarées, elle aurait pu décider d'appliquer l'un des critères qualitatifs. Rien dans la décision ne permet de penser que tel était le cas. Là encore, la juge de la citoyenneté a retenu l'interprétation la plus favorable de la présence physique du demandeur au Canada et elle a accepté qu'il s'était trouvé au Canada pendant 627 jours au cours de la période applicable; son ancien passeport n'aurait confirmé tout au plus que les absences reconnues par le demandeur lui-même.
+D.
+La juge de la citoyenneté a-t-elle fait preuve d'une apparence de partialité?
+[33]
+Le demandeur semble laisser entendre que la juge de la citoyenneté avait un parti pris parce qu'elle avait eu accès au gabarit pour la préparation et l'analyse du dossier, un document qui avait au départ été caviardé du dossier certifié du tribunal pour ensuite être communiqué à l'avocat du demandeur sous le sceau de la confidentialité. Le gabarit pour la préparation et l'analyse du dossier est une formule standard utilisée par les agents de la Citoyenneté pour analyser les données dans les dossiers de demande de citoyenneté. Comme Catherine Thai l'a expliqué dans son affidavit confidentiel versé au dossier de la requête en confidentialité du défendeur, le gabarit pour la préparation et l'analyse du dossier sert à analyser des renseignements sensibles. Un des objectifs du gabarit est d'examiner les antécédents de l'intéressé pour déceler toute fraude.
+[34]
+Il ressort de l'examen du gabarit pour la préparation et l'analyse du dossier qu'il n'y a aucune allégation de fraude contre le demandeur en l'espèce. Le gabarit a été utilisé comme à l'accoutumée pour examiner les antécédents du demandeur. Ce n'est pas parce que l'un des objectifs de ce document est de déceler les fraudes qu'il s'ensuit pour autant que chaque personne qui présente une demande de citoyenneté et qui est interrogée a commis une fraude. D'ailleurs, la seule fois où le mot « fraude » apparaît, c'est dans la requête en confidentialité du défendeur. Dans cette requête, tout en plaidant contre la communication du gabarit pour la préparation et l'analyse du dossier, le défendeur soutenait de façon générale que la divulgation du gabarit pourrait amener des individus à découvrir les méthodes de détection de la fraude utilisées par le gouvernement. Le défendeur n'a jamais affirmé qu'une fraude avait été commise en l'espèce. De même, le simple fait que le gabarit pour la préparation et l'analyse du dossier fait partie de la trousse de documents examinée par la juge Klein ne signifie pas pour autant qu'elle croyait qu'il y aurait fraude dans le cas du demandeur ni qu'il y avait apparence de partialité.
+[35]
+De plus, comme l'a fait observer le défendeur, c'est l'agent de la citoyenneté et non la juge qui a décidé d'interroger plus à fond le demandeur sur des questions mettant en cause sa crédibilité. Le fait que l'agent qui a préparé le dossier à examiner choisit d'enquêter plus à fond sur un point particulier ne permet pas nécessairement de conclure à un parti pris de sa part ou de penser que la décision finale de la juge était entachée de partialité. Comme le défendeur l'a soutenu, une telle affirmation reviendrait à interdire toute enquête et constituerait à tout le moins une entrave au pouvoir discrétionnaire de la part de l'agent de la citoyenneté.
+[36]
+Quoi qu'il en soit, même si des allégations de fraude avaient été formulées, elles n'auraient aucune incidence sur la décision finale rendue dans la présente affaire, étant donné que la fraude n'était pas en cause. La juge de la citoyenneté a estimé, se fondant sur le strict critère de la présence physique, que le demandeur ne remplissait pas la condition de la résidence.
+E.
+Les dépens devraient-ils être adjugés au demandeur indépendamment du sort de la présente demande?
+[37]
+Le demandeur réclame les dépens au tarif des dépens procureur-client indépendamment de l'issue du présent contrôle judiciaire. Le paragraphe 400(1) confère à la Cour pleine latitude pour « déterminer le montant des dépens [...] les répartir et [...] désigner les personnes qui doivent les payer ». Le paragraphe 400(3) énumère un certain nombre de critères dont la Cour doit tenir compte pour exercer ce pouvoir discrétionnaire et notamment: « a) le résultat de l'instance et i) la conduite d'une partie qui a eu pour effet d'abréger ou de prolonger inutilement la durée de l'instance ».
+[38]
+La Cour ne dispose d'aucun élément de preuve lui permettant de penser que le refus du défendeur de communiquer les documents caviardés a prolongé inutilement la durée de l'instance. Le défendeur avait le droit de s'opposer à la divulgation de certains renseignements en vertu du paragraphe 318(2) des Règles. Tout comme le demandeur était libre de s'opposer au caviardage de ces passages, le défendeur a le droit de chercher à en interdire la communication au moyen d'une requête en confidentialité.
+[39]
+Dans le cas qui nous occupe, le défendeur était disposé à présenter une requête dès l'introduction de l'instance, mais il a reçu d'autres directives de la Cour. Les parties ont reçu l'ordre de se présenter à des conférences de gestion de l'instance pour régler leurs différends et le juge chargé de la gestion de l'instance les a encouragées à préciser la teneur d'une ordonnance de confidentialité selon les modalités qui leur convenaient. Ce n'est qu'après que les parties n'eurent pas réussi à s'entendre que le juge chargé de la gestion de l'instance a ordonné au défendeur de présenter une requête en confidentialité.
+[40]
+Le demandeur fait reposer toute sa demande d'adjudication de dépens au tarif des dépens avocat-client sur le fait qu'il a demandé la communication des documents caviardés et que le défendeur s'est opposé à leur divulgation. Les dépens procureur-client ne peuvent être adjugés sur ce fondement. Le défendeur avait le droit de défendre sa position de bonne foi et il n'a pas retardé ou prolongé inutilement la durée de l'instance. Il a fallu environ trois mois avant que l'avocat du demandeur soit en mesure de prendre connaissance des documents caviardés. On peut difficilement parler de la « conduite répréhensible, scandaleuse ou outrageante » nécessaire pour justifier une adjudication de dépens au tarif des dépens procureur-client dans le cas d'un tel retard (voir
+Microsoft Corporation c 9038-3746 Québec Inc
+, 2007 CF 659, aux paragraphes 11 et 16;
+ <FRAGMENT_SUPPRESSED> ).
+V.
+Dispositif
+[41]
+Pour les motifs qui ont été exposés, la demande présentée par le demandeur en vue de faire annuler la décision du 27 mars 2014 de la juge de la citoyenneté est rejetée, le tout sans frais.
+JUGEMENT
+[42]
+LA COUR STATUE que
+l'appel de la décision par laquelle la juge de la citoyenneté a rejeté la demande de citoyenneté présentée par le demandeur en vertu de l'alinéa 5(1)
+c
+) de la
+Loi sur la citoyenneté
+est rejeté
+.
+Aucuns dépens ne sont adjugés.
+[End of document]

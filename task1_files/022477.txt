@@ -1,0 +1,451 @@
+..................................................
+[1]
+Southcott, J.
+: This is an application brought pursuant to section 41 of the
+Access to Information Act
+, RSC 1985, c A-1 [ATIA] concerning a request for access to certain records under the control of the respondent, Defence Construction (1951) Limited, a.k.a. Defence Construction Canada [the respondent]. The context is a public procurement for construction of a maintenance hangar in Trenton, Ontario.
+[2]
+The applicant seeks an order directing the respondent to disclose in full certain of the requested records that were redacted in the course of the respondent's disclosure. For the reasons that follow, this application is allowed in part.
+I.
+Background
+[3]
+The applicant is a corporation incorporated under the laws of the province of Alberta. The respondent is a parent Crown corporation within the meaning of section 83 of the
+Financial Administration Act
+, RSC 1985, c F-11 and a government institution within the meaning of the ATIA.
+[4]
+On July 30, 2012, the applicant made an access to information request to "National Defence and the Canadian Forces" seeking information relating to a contract between the respondent and "Graham Construction and Engineering a JV".
+[5]
+On August 16, 2012, the Director of Access to Information and Privacy of the Department of National Defence transferred the request to the respondent.
+[6]
+On September 6, 2012, the respondent provided the applicant with a CD containing 3650 pages of records in response to the request and further advised the applicant that remaining documents would not be released until third party consultations were completed.
+[7]
+On November 9, 2012, following consultation with The Graham Group (which appears to represent the counterparty to the relevant contract with the respondent), the respondent released to the applicant a package of 17 redacted pages of records. The respondent's correspondence advised the applicant that it had exempted some information pursuant to ss. 19(1) and 20(1)(b) of the ATIA. As further detailed below, these exemptions relate, respectively, to personal information as defined in the
+Privacy Act
+, RSC 1985, c P-21 [Privacy Act] and confidential commercial information of a third party.
+[8]
+On January 11, 2013, the Office of the Information Commissioner of Canada [OIC] registered a complaint from the applicant concerning the respondent's application of the exemptions. During the subsequent investigation by the OIC, the respondent consulted with The Graham Group in relation to the request.
+[9]
+The OIC conducted its investigation and did not agree, in some cases, with the respondent's application of the exemptions in ss. 19(1) and 20(1)(b) of the ATIA. The respondent agreed to reconsider its positions and, on December 3, 2013, it provided the applicant with a final release package in which some of the previously redacted records were disclosed.
+[10]
+The remaining redactions, which are challenged by the applicant in this application, are:
+A. portions of a Joint Venture Agreement dated February 1, 2011 among Graham Construction and Engineering LP, Graham Construction and Engineering Inc. and Jardeg Construction Services Ltd. [the Joint Venture Agreement];
+B. a covering letter dated March 25, 2011 from The Graham Group to the respondent, which accompanied the Joint Venture Agreement;
+C. the signatures of employees of Graham Construction and Engineering LP, Graham Construction and Engineering Inc. and Jardeg Construction Services, who signed the Joint Venture Agreement; and
+D. the name and signature of a witness to the Tender Form signed by Graham Construction and Engineering, a JV and submitted to the respondent in the course of the respondent's tender process for the contract for construction of the maintenance hangar.
+[11]
+On February 11, 2014, the OIC issued its investigation report concluding that, with the benefit of the disclosure in the final release package, the respondent had properly applied these exemptions.
+[12]
+On March 19, 2014, the applicant filed this application for review of this matter.
+II.
+Issues
+[13]
+Based on the Memoranda of Fact and Law filed by the parties, the issues in this application are as follows:
+A. What is the standard of review?
+B. Does the information withheld on the basis of ss. 19(1) of the ATIA, namely the signatures of the parties to the Joint Venture Agreement and the name and signature of the witness to the Tender Form, properly constitute "personal information" as defined in section 3 of the Privacy Act?
+C. Does ss. 19(2) of the Privacy Act apply to the signatures of the parties to the Joint Venture Agreement, on the basis that the information is publicly available and, if so, did the respondent reasonably exercise its discretion under subsection 19(2) of the ATIA to withhold this information?
+D. Is the information withheld under ss. 20(1)(b) of the ATIA, namely the redacted portions of the Joint Venture Agreement and covering letter, confidential commercial information of a third party such that the respondent was authorized to refuse to disclose it?
+E. Was the decision of the respondent reasonable in not severing and disclosing additional portions of the disputed records under section 25 of the ATIA?
+[14]
+There is also a further set of issues, raised in the week preceding the hearing, which the Court is required to address. By letter dated July 8, 2015, five days in advance of the scheduled July 13, 2015 hearing of this application, the respondent's counsel requested an adjournment of the hearing, on the basis that she had recently taken carriage of this matter and identified an exemption under the ATIA and
+Defence Production Act
+, RSC 1985, cD-1 [DPA] that had not previously been relied on by the respondent. This exemption, pursuant to ss. 24(1) of the ATIA and s.30 of the DPA, applies to information with respect to an individual business that has been obtained under or by virtue of the DPA.
+[15]
+The respondent sought an adjournment to permit further materials including supplementary submissions by the parties on this new issue to be placed before the Court prior to the hearing. By letter dated July 8, 2015, the applicant advised that it opposed the request for an adjournment and noted that the statutory exemption now raised by the respondent had not been previously relied on by the respondent in this matter including in the respondent's initial response to the applicant's request under the ATIA.
+[16]
+By Order dated July 9, 2015, being guided by the Notice to the Profession issued by Chief Justice Crampton dated May 8, 2013, I denied the request for an adjournment, on the basis that the request did not raise exceptional and unforeseen circumstances, including those that are outside the control of a party or its counsel. However, my Order advised that I would hear counsel at the hearing, including on the possibility of supplementary written submissions following the hearing, on the following two issues that I concluded were raised by their correspondence with the Court:
+A. whether the respondent should be permitted to rely on the additional statutory exemption at this stage in the proceeding; and
+B. if so, the effect of such exemption on the merits of this application.
+[17]
+The parties argued these issues at the hearing and confirmed to the Court at the conclusion of the hearing that the issues had been sufficiently canvassed, such that no further written submissions were necessary.
+III.
+Relevant Statutory Provisions
+[18]
+The statutory provisions relevant to this application are as follows:
+Access to Information Act
+, RSC 1985, c A-1
+19. (1) Subject to subsection (2), the head of a government institution shall refuse to disclose any record requested under this Act that contains personal information as defined in section 3 of the Privacy Act.
+(2) The head of a government institution may disclose any record requested under this Act that contains personal information if
+(a) the individual to whom it relates consents to the disclosure;
+(b) the information is publicly available; or
+(c) the disclosure is in accordance with section 8 of the Privacy Act.
+20. (1) Subject to this section, the head of a government institution shall refuse to disclose any record requested under this Act that contains
+[...]
+(b) financial, commercial, scientific or technical information that is confidential information supplied to a government institution by a third party and is treated consistently in a confidential manner by the third party;
+[...]
+24.(1) The head of a government institution shall refuse to disclose any record requested under this Act that contains information the disclosure of which is restricted by or pursuant to any provision set out in Schedule II.
+(2) Such committee as may be designated or established under section 75 shall review every provision set out in Schedule II and shall, not later than July 1, 1986 or, if Parliament is not then sitting, on any of the first fifteen days next thereafter that Parliament is sitting, cause a report to be laid before Parliament on whether and to what extent the provisions are necessary.
+25. Notwithstanding any other provision of this Act, where a request is made to a government institution for access to a record that the head of the institution is authorized to refuse to disclose under this Act by reason of information or other material contained in the record, the head of the institution shall disclose any part of the record that does not contain, and can reasonably be severed from any part that contains, any such information or material.
+19. (1) Sous réserve du paragraphe (2), le responsable d'une institution fédérale est tenu de refuser la communication de documents contenant les renseignements personnels visés à l'article 3 de la Loi sur la protection des renseignements personnels.
+(2) Le responsable d'une institution fédérale peut donner communication de documents contenant des renseignements personnels dans les cas où:
+a) l'individu qu'ils concernent y consent;
+b) le public y a accès;
+c) la communication est conforme à l'article 8 de la Loi sur la protection des renseignements personnels.
+20. (1) Le responsable d'une institution fédérale est tenu, sous réserve des autres dispositions du présent article, de refuser la communication de documents contenant:
+[...]
+b) des renseignements financiers, commerciaux, scientifiques ou techniques fournis à une institution fédérale par un tiers, qui sont de nature confidentielle et qui sont traités comme tels de façon constante par ce tiers;
+[...]
+24. (1) Le responsable d'une institution fédérale est tenu de refuser la communication de documents contenant des renseignements dont la communication est restreinte en vertu d'une disposition figurant à l'annexe II.
+(2) Le comité prévu à l'article 75 examine toutes les dispositions figurant à l'annexe II et dépose devant le Parlement un rapport portant sur la nécessité de ces dispositions, ou sur la mesure dans laquelle elles doivent être conservées, au plus tard le 1er juillet 1986, ou, si le Parlement ne siège pas, dans les quinze premiers jours de séance ultérieurs.
+25. Le responsable d'une institution fédérale, dans les cas où il pourrait, vu la nature des renseignements contenus dans le document demandé, s'autoriser de la présente loi pour refuser la communication du document, est cependant tenu, nonobstant les autres dispositions de la présente loi, d'en communiquer les parties dépourvues des renseignements en cause, à condition que le prélèvement de ces parties ne pose pas de problèmes sérieux.
+Privacy Act
+, RSC 1985, c P-21
+3.
+"personal information" means information about an identifiable individual that is recorded in any form including, without restricting the generality of the foregoing,
+(a) information relating to the race, national or ethnic origin, colour, religion, age or marital status of the individual,
+(b) information relating to the education or the medical, criminal or employment history of the individual or information relating to financial transactions in which the individual has been involved,
+(c) any identifying number, symbol or other particular assigned to the individual,
+(d) the address, fingerprints or blood type of the individual,
+(e) the personal opinions or views of the individual except where they are about another individual or about a proposal for a grant, an award or a prize to be made to another individual by a government institution or a part of a government institution specified in the regulations,
+(f) correspondence sent to a government institution by the individual that is implicitly or explicitly of a private or confidential nature, and replies to such correspondence that would reveal the contents of the original correspondence,
+(g) the views or opinions of another individual about the individual,
+(h) the views or opinions of another individual about a proposal for a grant, an award or a prize to be made to the individual by an institution or a part of an institution referred to in paragraph (e), but excluding the name of the other individual where it appears with the views or opinions of the other individual, and
+(i) the name of the individual where it appears with other personal information relating to the individual or where the disclosure of the name itself would reveal information about the individual,but, for the purposes of sections 7, 8 and 26 and section 19 of the Access to Information Act, does not include
+(j) information about an individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual including,
+(i) the fact that the individual is or was an officer or employee of the government institution,
+(ii) the title, business address and telephone number of the individual,
+(iii) the classification, salary range and responsibilities of the position held by the individual,
+(iv) the name of the individual on a document prepared by the individual in the course of employment, and
+(v) the personal opinions or views of the individual given in the course of employment,
+(k) information about an individual who is or was performing services under contract for a government institution that relates to the services performed, including the terms of the contract, the name of the individual and the opinions or views of the individual given in the course of the performance of those services,
+(l) information relating to any discretionary benefit of a financial nature, including the granting of a licence or permit, conferred on an individual, including the name of the individual and the exact nature of the benefit, and
+(m) information about an individual who has been dead for more than twenty years;
+3.
+« renseignements personnels » Les renseignements, quels que soient leur forme et leur support, concernant un individu identifiable, notamment:
+a) les renseignements relatifs à sa race, à son origine nationale ou ethnique, à sa couleur, à sa religion, à son âge ou à sa situation de famille;
+b) les renseignements relatifs à son éducation, à son dossier médical, à son casier judiciaire, à ses antécédents professionnels ou à des opérations financières auxquelles il a participé;
+c) tout numéro ou symbole, ou toute autre indication identificatrice, qui lui est propre;
+d) son adresse, ses empreintes digitales ou son groupe sanguin;
+e) ses opinions ou ses idées personnelles, à l'exclusion de celles qui portent sur un autre individu ou sur une proposition de subvention, de récompense ou de prix à octroyer à un autre individu par une institution fédérale, ou subdivision de celle-ci visée par règlement;
+f) toute correspondance de nature, implicitement ou explicitement, privée ou confidentielle envoyée par lui à une institution fédérale, ainsi que les réponses de l'institution dans la mesure où elles révèlent le contenu de la correspondance de l'expéditeur;
+g) les idées ou opinions d'autrui sur lui;
+h) les idées ou opinions d'un autre individu qui portent sur une proposition de subvention, de récompense ou de prix à lui octroyer par une institution, ou subdivision de celle-ci, visée à l'alinéa e), à l'exclusion du nom de cet autre individu si ce nom est mentionné avec les idées ou opinions;
+i) son nom lorsque celui-ci est mentionné avec d'autres renseignements personnels le concernant ou lorsque la seule divulgation du nom révélerait des renseignements à son sujet;toutefois, il demeure entendu que, pour l'application des articles 7, 8 et 26, et de l'article 19 de la Loi sur l'accès à l'information, les renseignements personnels ne comprennent pas les renseignements concernant:
+j) un cadre ou employé, actuel ou ancien, d'une institution fédérale et portant sur son poste ou ses fonctions, notamment:
+(i) le fait même qu'il est ou a été employé par l'institution,
+(ii) son titre et les adresse et numéro de téléphone de son lieu de travail,
+(iii) la classification, l'éventail des salaires et les attributions de son poste,
+(iv) son nom lorsque celui-ci figure sur un document qu'il a établi au cours de son emploi,
+(v) les idées et opinions personnelles qu'il a exprimées au cours de son emploi;
+k) un individu qui, au titre d'un contrat, assure ou a assuré la prestation de services à une institution fédérale et portant sur la nature de la prestation, notamment les conditions du contrat, le nom de l'individu ainsi que les idées et opinions personnelles qu'il a exprimées au cours de la prestation;
+l) des avantages financiers facultatifs, notamment la délivrance d'un permis ou d'une licence accordés à un individu, y compris le nom de celui-ci et la nature précise de ces avantages;
+m) un individu décédé depuis plus de vingt ans.
+Defence Production Act
+, R.S.C. 1985, c.D-1
+30. No information with respect to an individual business that has been obtained under or by virtue of this Act shall be disclosed without the consent of the person carrying on that business, except
+(a)
+to a government department, or any person authorized by a government department, requiring the information for the purpose of the discharge of the functions of that department; or
+(b)
+for the purposes of any prosecution for an offence under this Act or, with the consent of the Minister, for the purposes of any civil suit or other proceeding at law.
+30. Les renseignements recueillis sur une entreprise dans le cadre de la présente loi ne peuvent être communiqués sans le consentement de l'exploitant de l'entreprise, sauf:
+a)
+à un ministère, ou à une personne autorisée par un ministère, qui en a besoin pour l'accomplissement de ses fonctions;
+b)
+aux fins de toute poursuite pour infraction à la présente loi ou, avec le consentement du ministre, de toute affaire civile ou autre procédure judiciaire.
+IV.
+Applicant's Memorandum of Fact and Law
+[19]
+The applicant submits the proper standard of review for a refusal to disclose requested documents is correctness (
+REFERENCE_SUPPRESSED). It argues that, pursuant to section 48 of the ATIA, it is the respondent's burden to establish that the withheld records are properly excluded and that discharging this burden requires specific and detailed evidence (
+CITATION_SUPPRESSED).
+[20]
+The applicant's position is that the information withheld on the basis that it is personal information, namely the signatures of two signatories to the Joint Venture Agreement and the name and signature of the witness to the Tender Form, does not properly fall within the scope of the exemptions under s. 19 of the ATIA.
+[21]
+The applicant refers to decisions of the Information and Privacy Commissioner of Ontario that information associated with an individual in their professional, official, or business capacity is generally not considered to be "about" the individual for purposes of the substantially similar definition of "personal information" under Ontario's privacy legislation (see
+Corporation of the City of Pembroke (Re)
+(Order MO-2611), 2011 CanLII 20310 (ON IPC) [
+Pembroke
+];
+Ontario Parks Board of Directors (Re)
+(Order PO-3277), 2013 CanLII 75976 (ON IPC); and
+Corporation of the Town of Orangeville (Re)
+(Order MO-3044), 2014 CanLII 24524 (ON IPC)). Alberta's Office of the Information and Privacy Commissioner has reached similar conclusions regarding signatures on business records (See
+Alberta Transportation (Re)
+(Order F2012-15), 2012 CanLII 70620 (AB OIPC) at paras 132-133, 143).
+[22]
+The applicant also argues that the names and signatures withheld by the respondent fall under the exception set out in paragraph (k) of the definition of "personal information" under the Privacy Act, because they concern individuals involved in the performance of services under contract for a government institution. The applicant refers to this exception as representing a policy decision by Parliament that there are overriding public interest reasons for disclosure of information related to such individuals (See
+REFERENCE_SUPPRESSED).
+[23]
+The applicant submits that, even where a record is shown to be
+prima facie
+personal information, the party resisting disclosure retains the burden of establishing that it does not fall within any of the exceptions set out in the definition of "personal information" and of establishing that he or she is authorized to refuse to disclose a requested record (REFERENCE_SUPPRESSED).
+[24]
+In the alternative, the applicant argues that, even if the signatures on the Joint Venture Agreement are found to constitute personal information, they nevertheless ought to be disclosed because the information is already publicly available. The applicant's affidavit filed in support of this application demonstrates that such signatures are publicly available in other business-related documents which were signed in a professional capacity. The applicant points out that one of the signatures is available on publicly accessible court documents and the other is accessible on a collective bargaining agreement available on a public website.
+[25]
+Turning to the content of the Joint Venture Agreement, the applicant submits that the withheld information does not properly fall within the scope of the exemptions under s. 20 of the ATIA. Section 20 sets out mandatory exemptions with respect to third party information. There are three requirements under the ss. 20(1)(b) exemption. The information must be: i) financial, commercial, scientific or technical information; ii) confidential and consistently treated in a confidential manner by the third party; and, iii) supplied to a government institution by a third party (
+CITATION_SUPPRESSED). The applicant argues that the first two requirements are not met.
+[26]
+It argues, first, not all of the information in the Joint Venture Agreement and its accompanying covering letter is properly characterized as commercial information. The applicant points to a disclosed portion of the covering letter to indicate that the contents of at least portions of the Joint Venture Agreement relate to administrative and management responsibilities and are therefore not commercial information.
+[27]
+Second, the applicant argues that the withheld information is not confidential. It submits there is no direct sworn evidence regarding confidentiality in the present case and relies on
+REFERENCE_SUPPRESSED, where the Federal Court of Appeal held that unsworn statements submitted by third parties to the Information Commissioner could not be treated as evidence as to the confidentiality of information for purposes of ss. 20(1)(b).
+[28]
+The applicant also refers the Court to
+REFERENCE_SUPPRESSED, where the Federal Court of Appeal found sworn affidavit evidence to be insufficient to support a conclusion that the information at issue was confidential, in part because there was nothing in the record to indicate that the third party had communicated to the government institution, at any time prior to the consultation process under the ATIA, that it regarded the information it had supplied to be confidential.
+[29]
+The applicant further argues that the information has not been consistently treated as confidential by the third party, referring to evidence in the respondent's correspondence with the third party indicating that the respondent understood that the third party had previously made information concerning similar joint ventures publicly accessible.
+[30]
+Finally, the applicant submits that, even if it could be established that some of the information qualifies for exemption under ss. 20(1)(b) of the ATIA, portions of the records must be severed in accordance with s. 25 of ATIA.
+V.
+Respondent's Memorandum of Fact and Law
+[31]
+The respondent agrees with the applicant that the standard of review for a decision to disclose records under ss. 19(1) and ss. 20(1)(b) of the ATIA is correctness (REFERENCE_SUPPRESSED). However, the exercise of the respondent's residual discretion under ss.19(2) to disclose personal information, where the information is publicly available, is to be reviewed on a standard of reasonableness.
+[32]
+The respondent also argues that, once it establishes that information is "personal information" and exempt from disclosure under the ATIA, the burden of proof shifts to the party seeking disclosure, the applicant, to show that an exception such as public availability applies. (
+CITATION_SUPPRESSED).
+[33]
+The respondent's positon is that it was authorized to refuse to disclose the personal information.
+[34]
+First, the respondent argues that the information is personal information as defined in the Privacy Act. Section 3 of the Privacy Act provides a general definition of "personal information" followed by a series of examples which the Supreme Court of Canada has held to be illustrative and not exhaustive (
+CITATION_SUPPRESSED). Personal information is deliberately broad and does not have to meet any other requirements or have other special characteristics. Under
+CITATION_SUPPRESSED, once it is determined that a record falls within the opening words of the definition of "personal information" in s. 3 of the Privacy Act, it is not necessary to consider whether it also falls in one of the examples. In
+Information Commissioner
+, the Supreme Court of Canada held at paragraph 22 that the general rule is that any information about an identifiable individual is "personal information", entitled to the right of privacy and excluded from access.
+[35]
+Here, the respondent's position is that the information at issue falls within the general definition of personal information. However, the signatures also fall within paragraph (c) of the definition, as a distinct mark a person uses as an identifier, and paragraph (i), the name of the individual appearing with other personal information related to the individual. The respondent refers to
+CITATION_SUPPRESSED
+as holding that individual's names, identification numbers and signatures on workplace sign-in logs were their personal information.
+[36]
+On the subject of the exception found in paragraph (k) of the definition of "personal information" in the Privacy Act, the respondent submits that the names and signatures do not relate to the services performed under a contract with a government institution. The act of signing the Joint Venture Agreement or witnessing the signing of the Tender Form does not represent performing a service that is related to a contract with the government.
+[37]
+Turning to ss. 19(2), the respondent submits it reasonably exercised its discretion not to disclose personal information. It has a narrow scope of discretion to disclose personal information if the conditions in ss. 19(2) apply. Here, none of the exceptions apply. The documents that the applicant recently acquired and appended to its affidavit are not relevant because they were not before the respondent when it responded to the ATIA request, and a government institution has no obligation to search every conceivable source to verify if personal information found in a record is available to the public in any shape or form. When the respondent conducted online searches of the relevant personal information, it did not retrieve any results.
+[38]
+The respondent also maintains the position that it was authorized to refuse to disclose the redacted portions of the Joint Venture Agreement as confidential commercial information under ss. 20(1)(b).
+[39]
+It argues the information is commercial information because the Joint Venture Agreement is a contract and its terms are inherently commercial in nature. The information at issue was clearly provided to the respondent by a third party. The respondent argues the information sought by the applicant is confidential in nature and has been consistently treated as confidential by the third party. The way in which corporate entities negotiate and establish their internal business affairs is inherently confidential. (See
+Ontario Hydro (Re)
+, 1995 CanLII 6543 (ON IPC)). The Joint Venture Agreement was not provided to the respondent voluntarily, but rather in response to a specific request. As such, it was implicitly provided in confidence. The respondent argues that the absence of an express statement of confidentiality is not determinative of this issue (
+REFERENCE_SUPPRESSED).
+[40]
+The respondent notes that applications under s. 41 of the ATIA are summary in nature and argues that it would be an impractical application of the ATIA to require the respondent to obtain affidavits from third parties every time a s. 41 application is filed.
+[41]
+Finally, the respondent submits that no further information contained in the Joint Venture Agreement is required to be severed and disclosed pursuant to section 25 of the ATIA.
+VI.
+Analysis
+A.
+Standard of Review
+[42]
+The parties agree, and I concur, that the standard of review for a decision to disclose requested records under subsection 19(1) and paragraph 20(1)(b) of the ATIA is correctness (
+CITATION_SUPPRESSED; and
+CITATION_SUPPRESSED).
+[43]
+In
+CITATION_SUPPRESSED
+, Justice Martineau examined the jurisprudence on this issue as follows:
+[11] The applicable standard of review is correctness. The use of the word 'shall' in subsection 20(1) clearly suggests that no deference should be accorded to the government institutions who decide to disclose information in their possession (
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED). Moreover, with regard to subsection 19(1), in light of the lack of privative clause in the Act and the nature of decisions made pursuant to section 19, no deference is owed to the head of the government institution (REFERENCE_SUPPRESSED).
+[44]
+The parties also agree, the applicant's counsel having confirmed such agreement in oral argument, that the standard of review for a discretionary decision whether to disclose information under ss. 19(2) of the ATIA is reasonableness (
+REFERENCE_SUPPRESSED).
+[45]
+As explained in
+CITATION_SUPPRESSED, where the requested record constitutes personal information, the government institution is authorized to refuse disclosure under ss. 19(1), and the
+de novo
+review power set out in s. 49 of the ATIA is exhausted. The Court's role is then as stated by Justice Shore in
+REFERENCE_SUPPRESSED:
+[66] Even if some of the personal information would have been publicly available, the head of the government institution has the discretion to refuse to disclose the personal information. (REFERENCE_SUPPRESSED)
+[67] This Court, in reviewing a Minister or delegate's decision, must consider the exercise of their discretion and whether in doing so the discretion was exercised in good faith, in accordance with the principles of natural justice, and taking into consideration matters extraneous or irrelevant to the statutory purpose. The Court is not to substitute its view of how the discretion should have been exercised for the manner in which it was exercised by the Minister or delegate. The burden of proving otherwise rests on the Applicant. (
+CITATION_SUPPRESSED.)
+B.
+Personal Information
+[46]
+Neither of the parties could point to definitive authority from this Court on the question whether signatures constitute "personal information" as defined in the Privacy Act. As noted above, the respondent refers the Court to the decision of the Supreme Court of Canada in
+CITATION_SUPPRESSED for the propositions that the definition is expansive and that the list of examples that follow the general definition is not intended to limit the scope of the general definition. These propositions are undoubtedly correct.
+[47]
+The respondent also notes that
+CITATION_SUPPRESSED
+involved records that included individuals' signatures and includes an analysis of the interpretation of paragraph (i) of the definition of "personal information", although the respondent acknowledges that the context in that case was different. The applicant argues that the Supreme Court's reasons did not specifically address the question whether signatures constitute personal information.
+[48]
+The records at issue in
+CITATION_SUPPRESSED
+were individuals' names, identification numbers and signatures on work-place sign-in logs. The majority, adopting this component of Justice La Forest's reasons in dissent, held that the names on the sign-in logs were "personal information" for the purposes of s. 3 of the Privacy Act. Justice La Forest concluded at paragraph 70 that the information requested by the appellant in that case constituted personal information because it revealed the times during which employees of the Department of Finance attended their workplace on weekends and was therefore "information about an identifiable individual". However, the applicant is correct that the Court's analysis focuses upon the information revealed as to the employee's activities, such that it would be difficult to regard this case as binding authority for the proposition that signatures
+per se
+constitute personal information.
+[49]
+The applicant relies principally on provincial Information and Privacy Commissioner decisions to support its position that the signatures are not personal information, because information associated with an individual in his or her professional, official, or business capacity is generally not considered to be "about" the individual. The applicant acknowledges limits to the persuasive value of these decisions but commends the Commissioner's analysis to the Court for its consideration. However, having reviewed these decisions, I note that while elements of the definition of "personal information" in ss. 2(1) of
+Ontario's Municipal Freedom of Information and Protection of Privacy Act
+, RSO 1990, c M.56 are very similar to the definition in the Privacy Act, there are repeated references in these decisions to ss. 2(2.1) of that statute, which provides that:
+(2.1) Personal information does not include the name, title, contact information or designation of an individual that identifies the individual in a business, professional or official capacity.
+(2.1) Les renseignements personnels excluent le nom, le titre, les coordonnées et la désignation d'un particulier qui servent à l'identifier par rapport à ses activités commerciales ou à ses attributions professionnelles ou officielles.
+[50]
+I therefore consider these decisions to be of limited value in interpreting the definition of "personal information" in the Privacy Act. I also note that, unlike in the provincial legislation, the federal definition includes paragraphs (j) to (m), which are specific exclusions from the definition for purposes of its use in the ATIA. These exclusions include paragraph (k), which provides as follows:
+(k) information about an individual who is or was performing services under contract for a government institution that relates to the services performed, including the terms of the contract, the name of the individual and the opinions or views of the individual given in the course of the performance of those services,
+k) un individu qui, au titre d'un contrat, assure ou a assuré la prestation de services à une institution fédérale et portant sur la nature de la prestation, notamment les conditions du contrat, le nom de l'individu ainsi que les idées et opinions personnelles qu'il a exprimées au cours de la prestation;
+[51]
+Given that paragraph (k) creates an express and specific exclusion from the general definition of "personal information" in the context of an individual performing services under contract with a government institution, I would consider it inconsistent with the statutory intent to adopt an interpretation of the general definition, as advocated by the applicant, to the effect that such definition itself excludes information associated with an individual in his or her professional, official, or business capacity.
+[52]
+Rather, being guided by the analysis in
+CITATION_SUPPRESSED
+that this definition should be given an expansive interpretation, my conclusion (subject to the below analysis of the application of the exception in paragraph (k)) is that the names and signatures at issue in the case at hand do fall within the general definition of "personal information", as information about an identifiable individual. I consider this conclusion to be consistent with the reasoning in
+CITATION_SUPPRESSED
+, in which Justice Heneghan, after noting the requirement that the definition of "personal information" be read broadly, held as follows at paragraph 42:
+[42] [...] It is hard to imagine information that could be more accurately described as "about" an individual than their name, phone number and business or professional title.
+[53]
+CITATION_SUPPRESSED
+supports directly the conclusion that the name of the witness to the Tender Form constitutes "personal information" within the meaning of the general definition. As I consider Justice Heneghan's analysis to be equally applicable to an individual's signature, my conclusion is the same with respect to the witness's signature and the signatures on the Joint Venture Agreement.
+[54]
+It is therefore unnecessary to consider whether, as argued by the respondent, the names and signatures also fall within the specific examples enumerated in paragraphs (c) and (i) of the definition. However, it is necessary to consider the exception in paragraph (k). The applicant asserts, and I agree, that the respondent has the burden of establishing that the requested information does not fall within this exception (see
+CITATION_SUPPRESSED).
+[55]
+I find that the respondent has met this burden by virtue of the nature of the information at issue and a plain reading of the language of paragraph (k). The difficulty for the applicant in attempting to characterize either the name or signatures as being information falling within this exception is the requirement that such information, in addition to being information "about an individual who is or was performing services under contract for a government institution", must also be information "that relates to the services performed".
+[56]
+The applicant argues that the names and signatures concern individuals directly involved in the performance of services under contract for a government institution and refers to evidence to the effect that the respondent required that the Joint Venture Agreement be provided as a pre-condition to the award of the construction contract to the joint venture. One might question this argument, particularly in relation to the witness to the Tender Form. However, even if this argument were correct, it misses the additional requirement that the information relate to the services performed. I agree with the respondent's position that neither the signing of the Joint Venture Agreement nor the witnessing of the Tender Form can be characterized as related to the services performed under the construction contract with the respondent.
+[57]
+In reaching that conclusion, I have considered the authority in
+CITATION_SUPPRESSED
+upon which the applicant relies. The applicant refers to that case as involving a major government contract akin to the contract in the case at hand. However, as the records at issue in that case are described as statements found in minutes of meetings between the third party and the government institution, I do not find that decision to be analogous.
+[58]
+It is accordingly my conclusion, applying the standard of correctness, that the respondent was correct in reaching the decision it was authorized under ss. 19(1) of the ATIA to refuse to disclose the witness's name and the three signatures at issue.
+[59]
+It is therefore necessary to turn to the application of ss. 19(2) of the AITA. In its affidavit filed in support of this application, the applicant has adduced evidence that the signatures of the two signatories to the Joint Venture Agreement are publicly available on the internet. In describing the effect of ss.19(2), the applicant refers to the comments of Justice Muldoon at page 8 of
+REFERENCE_SUPPRESSED:
+[...] If, for example, information is publicly available as is provided in paragraph 19(2)(b) of the information access law, then the "bird" has flown the "coop" and the head of a government institution may, and should with good grace, disclose it. [...]
+[60]
+The respondent's position on this issue is that the decision whether to disclose under ss. 19(2) is a discretionary decision and that, in this case, the respondent took relevant factors into account in exercising its discretion to disclose only the personal information that was available in the public domain as determined by the inquiries made by the respondent at the time. It argues that the documents appended to the applicant's affidavit were only recently acquired and are not relevant to assessing whether the respondent reasonably exercised its discretion under ss. 19(2), because there is no evidence they were before or available to the respondent when it responded to the applicant's request under the ATIA.
+[61]
+The respondent relies on authority that there is no obligation on a government institution to search every conceivable source to verify if personal information found in a record is available to the public (see
+REFERENCE_SUPPRESSED; and
+CITATION_SUPPRESSED). The respondent's evidence is that it performed a google search in an effort to identify whether the relevant signatures were in the public domain, and it argues that it is not reasonable to expect government institutions to conduct ongoing inquiries into the public availability of records long after they have responded to ATIA requests.
+[62]
+CITATION_SUPPRESSED
+addresses this issue directly, as the Court in that case dealt expressly with evidence, that the disputed records were publicly available, that was obtained as a result of internet searches that were conducted after the commencement of the application. Justice Heneghan's analysis at paragraphs 52 to 61 is as follows:
+[52] In my opinion, the decision of the Minister to not disclose personal information pursuant to subsection 19(2) of the Privacy Act is a discretionary decision, reviewable on a standard of reasonableness. The reasonableness standard requires that the decision be justifiable, transparent and intelligible, and fall within a range of possible, acceptable outcomes; see the decision in
+CITATION_SUPPRESSED.
+[53] I acknowledge that some of the redacted information is publicly available. The question is whether it should be disclosed pursuant to paragraph 19(2)(b) of the Act.
+[54] The Applicant includes in the confidential record evidence indicating that information relating to [redacted] is publicly available on the internet.
+[55] The Respondent correctly notes that disclosure is discretionary under section 19(2) and that it is not necessary to search every possible source before determining whether personal information is publicly available. He argues that at the time that disclosure of this information was refused, the said information was not disclosed by the internet searches that were conducted in response to the access request.
+[56] In my opinion, in asking that the said information be disclosed pursuant to paragraph 19(2)(b), the Applicant is asking that the exercise of discretion be put in the hands of the Court. I am not prepared to go that far.
+[57] Insofar as there was a discretion to be exercised, it lay with the Respondent, under subsection 19(2)(b). On the basis of the information available to him, prior to this application, the information referred to in paragraph 54 above was not publicly available.
+[58] In my view, a condition of disclosure pursuant to subsection 19(2)(b) is that information was publicly available. That condition did not exist when the Respondent responded to the access request. In the circumstances, I fail to see how the Respondent had a discretion that he could exercise. The reasonableness standard cannot be applied.
+[59] In the alternative, if the information was not publicly available, the Respondent's refusal to disclose was reasonable.
+[60] It appears that the so-called publicly available information was obtained as a result of internet searches conducted after the commencement of this application.
+[61] As a matter of practicality, this information, now that it is in the public domain, could be disclosed by the Respondent on a voluntary basis, but that is a matter for the parties to address and not the Court.
+[63]
+Justice Heneghan's analysis identifies the challenge for the Court in reviewing a discretionary decision on the basis of facts that were not before the decision-maker and concludes that the Court should be reluctant to do so, as this would effectively require the Court to make the discretionary decision itself, rather than considering the reasonableness of the decision by the government institution.
+[64]
+I find no basis to distinguish between the circumstances in
+CITATION_SUPPRESSED
+and those in the case at hand and therefore follow Justice Heneghan's reasoning in declining to interfere with the respondent's decision on the basis of ss. 19(2) of the ATIA.
+C.
+Confidential Commercial Information
+[65]
+The requirements that must be met, in order for a government institution to rely on ss. 20(1)(b) of the ATIA to refuse to disclose a third party's confidential commercial information, are set out at CITATION_SUPPRESSED
+:
+[21] Paragraph 20(1)(b) of the Act provides for an exemption to disclosure for information which has been supplied by a third party to a government institution, and which is confidential commercial information that has consistently been treated in a confidential manner. The information must be: (1) financial, commercial, scientific or technical information as those terms are commonly understood; (2) confidential in its nature, according to an objective standard which takes into account the content of the information, its purposes and the conditions under which it was prepared and communicated; (3) supplied to a government institution by a third party; and (4) treated consistently in a confidential manner by the third party (
+REFERENCE_SUPPRESSED, quoting from Air Atonabee, above).
+[66]
+The parties' dispute the application of this test to the contents of the Joint Venture Agreement. Specifically, whether such contents constitute commercial information and whether such information was confidential in nature and treated consistently in a confidential manner by the third party.
+[67]
+The applicant refers to the decision of the Federal Court of Appeal in
+REFERENCE_SUPPRESSED, as explaining that the word "commercial" connotes information that pertains to trade or commerce. It acknowledges that any information in the Joint Venture Agreement relating to allocation of revenues or profits would be commercial information but that other information, for instance related to delegation of authority or the identification of contacts under the Agreement, would not qualify. I would not necessarily accept this narrow an interpretation, but I am not required to reach a conclusion on this, as the analysis below of the issue of confidentiality is dispositive of the application of ss. 20(1)(b).
+[68]
+My conclusion, having considered the record before me and the applicable authorities, is that there is insufficient evidence for the respondent to satisfy its burden of showing that the contents of the Joint Venture Agreement are confidential in nature and were treated consistently in a confidential manner by the third party.
+[69]
+The Federal Court of Appeal in
+CITATION_SUPPRESSED, explained the imposition of this burden upon the government institution that such burden must be satisfied with "actual direct evidence" of the confidential nature of the information at issue, and that information that is vague or speculative cannot be relied on for this purpose.
+[70]
+The requirement for actual direct evidence to support the requirement for confidentiality was also relied upon by the Federal Court of Appeal in
+CITATION_SUPPRESSED, in concluding that unsworn statements, consisting of representations made by companies to the Information Commissioner in the course of his investigation, could not be treated as evidence as to the confidentiality of the information of these companies.
+[71]
+The evidence relied upon by the respondent, in support of its position that the third party provided the Joint Venture Agreement to the respondent in confidence, consists of letters containing representations made by the third party to the respondent. As in
+CITATION_SUPPRESSED
+, they are unsworn statements. They are also assertions of confidentiality made after the applicant initiated its ATIA request. There is no evidence that the third party communicated to the respondent, at the time the Joint Venture Agreement was provided, that it had an expectation of confidentiality.
+[72]
+I appreciate that the question whether information is confidential must be established taking into account the content and purposes of the information, as well as the context in which it was communicated (see
+REFERENCE_SUPPRESSED), and therefore whether there is an express statement of an expectation of confidentiality is not determinative. However, there is little in the case at hand that can be characterized as actual direct evidence of the confidential nature of the information at issue. The respondent refers to the evidence of its Coordinator, Access to Information and Privacy, contained in responses to undertakings given during cross-examination on his affidavit. When asked whether the third party articulated an expectation of confidence in respect of the Joint Venture Agreement at the time of the tender, the Coordinator's response was:
+The March 25, 2011 fax cover sheet and letter which attached the joint venture agreement are attached as exhibit "C" to my Confidential Affidavit and was also released (page 9 of 17) with a redacted paragraph. The fax cover sheet and letter do not articulate an expectation of confidence, but they did not have to. During the tender process documents are not shared and DCC keeps them confidential. The ATIP Office is not involved in the tender process and each case is treated based on the circumstances of that case.
+[73]
+In my view, this evidence fall short of what is required to establish the required confidentiality. It speaks to the treatment that the respondent is prepared to afford the information, rather than to the third party's expectations. It also speaks to such treatment during the tender process, when the ATIP Office is not involved. This begs the question whether the confidentiality that the respondent is prepared to apply to the information during the tender process, when disclosure would of course subvert the purpose of that process, should apply when the tender process has run its course.
+[74]
+This question was expressly canvassed by this Court in
+REFERENCE_SUPPRESSED:
+[38] In
+CITATION_SUPPRESSED, supra
+, the Court also dealt with records that had been submitted to a government institution in response to a call for proposals for a government contract for the provision of services. The Court said as follows at paragraph 8:
+[...] One must keep in mind that these Proposals are put together for the purpose of obtaining a government contract, with payment to come from public funds. While there may be much to be said for proposals or tenders being treated as confidential until a contract is granted, once the contract is either granted or withheld there would not, except in special cases, appear to be a need for keeping tenders secret. In other words,
+when a would-be contractor sets out to win a government contract he should not expect that the terms upon which he is prepared to contract, including the capacities his firm brings to the task, are to be kept fully insulated from the disclosure obligations of the Government of Canada as part of its accountability.
+The onus as has been well established is always on the person claiming an exemption from disclosure to show that the material in question comes within one of the criteria of subsection 20(1) and I do not think that the claimant here has adequately demonstrated that, tested objectively, this material is of a confidential nature [...]
+[Emphasis added]
+[39] In the present case, the Applicant provided information to Public Works for the purpose of expressing its interest in bidding on a government contract. It was ultimately successful in obtaining the contract as part of a consortium. The reasoning in
+CITATION_SUPPRESSED, supra
+, is equally applicable here.
+[40] The public policy rationale underlying the Act is that the disclosure of information provided to a government institution is the rule not the exception. The tendering process for government contracts is subject to the Act. A potential bidder for a government contract knows, or should know, when submitting documents as part of the bidding process that there is no general expectation that such documents will remain fully insulated from the government's obligation to disclose, as part of its accountability for the expenditure of public funds. In this context, the Applicant's claim that it held an "expectation" that its records would be held in confidence, based on the disputed letter, is unreasonable.
+[75]
+Against the backdrop of this jurisprudence, I am unable to conclude that the respondent has met the burden necessary to rely on ss. 20(1)(b) of the ATIA to refuse to disclose the contents of the Joint Venture Agreement. In so finding, I am conscious that I am, with great respect, diverging from the conclusion reached by the Information Commissioner on this ground of exemption.
+D.
+Severance
+[76]
+Given my conclusion with respect to ss. 20(1)(b), there is no need to consider the possibility of severance under s. 25 in relation to the content of the Joint Venture Agreement and the covering letter. I have concluded that the respondent is authorized to refuse to disclose the name and signatures that are at issue. No possibility of severance applies within those records.
+E.
+Defence Production Act
+[77]
+The additional exemption, raised the week before the hearing, upon which the respondent wishes to rely is the application of ss. 24(1) of the ATIA and s. 30 of the DPA, pursuant to the combination of which (subject to certain exceptions, which do not apply here) no information with respect to an individual business that has been obtained under or by virtue of the DPA shall be disclosed without the consent of the person carrying on that business. The respondent wishes the Court to consider its arguments that the respondent carries out a mandate pursuant to the DPA and that the information at issue in this application can be characterized as having been obtained by the respondent under or by virtue of that statute.
+[78]
+My conclusion is that the disposition of this issue turns on the preliminary question of whether the respondent is entitled to rely on this additional statutory exemption at this stage in the proceeding, when it was not previously relied on by the respondent including in the respondent's initial response to the applicant's request under the ATIA or during the subsequent investigation by the OIC of the applicant's complaint.
+[79]
+The parties' counsel ably canvassed at the hearing the jurisprudence applicable to this question. The starting point in the evolution of that jurisprudence appears to be the decision of the Federal Court of Appeal in
+REFERENCE_SUPPRESSED. That case involved an appeal from a decision of the Federal Court relating to an application under s. 41 of the
+Privacy Act
+, SC 1980-81-82-83, c. 111. The respondent had sought disclosure of his personal information in the records of the RCMP. After the initial refusal of his request, he filed a complaint with the Privacy Commissioner, through the process comparable to that available under the ATIA, and subsequently brought an application to the Federal Court for review under s. 41.
+[80]
+At the hearing of the application for judicial review, the respondent sought to rely on different grounds of exemption than were the subject of its notice of refusal. The judge hearing the application refused to allow this, holding that the government institution is bound by the grounds asserted in its notice of refusal, with no possibility of subsequent amendment. The Federal Court of Appeal upheld this ruling, explaining that a person seeking access to personal information is entitled to reply on the complaint mechanism that is provided through the commissioner. If new grounds of exemption were allowed to be introduced before the Court after the completion of the Commissioner's investigation into entirely different grounds, the complainant would be denied the benefit of the Commissioner's investigation and thus be cut down from two levels of protection to one. The complainant cannot be denied recourse to the stage involving the Commissioner, because the complainant then loses the benefit of the possibility of the Commissioner exercising his direction to appear before the Court in the complainant's stead or as a supporting party under s. 42 of the Privacy Act. I note that this section is effectively mirrored by s. 42 of the ATIA.
+[81]
+As a final comment at the end of his analysis as to why a government institution is bound by the grounds asserted in the notice of refusal, with no possibility of subsequent amendment, Justice MacGuigan referred at CITATION_SUPPRESSED
+to the following possible exception to this rule:
+[11] The only possible exception to the generality of this rule that appears to me is with respect to the mandatory grounds of exemption contained in subs. 19(1) ("the head of a government institution shall refuse to disclose ..."). Paragraph 19(1)(c), personal information "obtained in confidence from ... the government of a province," was relied on in Chief Superintendent Banning's supplementary affidavit of November 18, 1985, but was later abandoned by the appellant. It has therefore not been necessary to consider whether an institution head should have the right to add a mandatory ground of exemption under subs. 19(1), and I express no opinion on this point.
+[82]
+The rule set out in
+CITATION_SUPPRESSED
+has subsequently been relied upon and applied in other decisions of this Court, in the context of mandatory exemptions under the ATIA. In
+CITATION_SUPPRESSED
+, the Court applied this rule to an effort by the respondent to invoke, after the report of the Information Commissioner had been issued, the mandatory exemption in ss.13(1)(a) of the ATIA, which relates to records containing information obtained in confidence from the government or an institution of a foreign state. Justice Nadon canvassed the analysis in
+CITATION_SUPPRESSED, after noting that the ATIA clearly stated that the provisions relied on by the respondent must be included in the notice of refusal, held that the respondent was precluded from relying on s. 13 of the ATIA before the Court.
+[83]
+In
+REFERENCE_SUPPRESSED, the Federal Court of Appeal affirmed this decision on other grounds, stating that it made no comment on Justice Nadon's analysis on this issue.
+[84]
+In
+REFERENCE_SUPPRESSED, this Court relied on Justice Nadon's analysis in
+CITATION_SUPPRESSED
+and applied it to mandatory exemptions that the respondents sought to raise before the Court that had not been raised when the applicant's complaints were before the Information Commissioner. These included, as in the case at hand, mandatory grounds of exemption under ss. 24(1) of the ATIA. Justice Gibson held as follows at paragraphs 40-41:
+[40] I adopt Justice Nadon's reasoning in respect of the bases of exemption first relied on by the National Board and the Canada-Nova Scotia Board in their Memoranda of Fact and Law filed in these proceedings after the Information Commissioner had reported to the Applicant on his investigations into complaints made by the Applicant in respect of those Boards' positions. While it is entirely possible that the Information Commissioner, if those grounds for exemption had been before him, would have chosen not to comment on them based upon his conclusion that the exemptions in question were justified under paragraph 20(1)(c) of the Access Act, I regard that possibility as mere speculation. The scheme of the Access Act contemplates full disclosure to the requester on the bases claimed for exemptions in order that the requester might exercise the right of complaint to the Information Commissioner. On the facts of this matter, as with the facts before Justice Nadon, the requester, here the Applicant, was denied the right of complaint to the Information Commissioner in respect of a range of bases for exemption from disclosure that the National Board and the Canada-Nova Scotia Board now seek to rely on before this Court. I am satisfied that to allow those Boards to do so would contravene the spirit, if not the letter, of the Access Act and deny fairness to the Applicant.
+[41] The supplementary basis for exemption relied on by the National Board and the Canada-Nova Scotia Board in their Memoranda of Fact and Law, and not earlier made known to the Applicant, will not be further considered.
+[85]
+The Court's recent decision in
+REFERENCE_SUPPRESSED has clarified that a government institution is permitted to amend its grounds for refusal after a complaint has been filed with the Information Commissioner and while it remains under investigation by the Information Commissioner. However, this does not assist the respondent in the case at hand, as the new ground under the DPA was raised only the week before the hearing of the application and therefore long after the Office of the Information Commissioner issued its report on February 11, 2014.
+[86]
+In arguing that it should be permitted to rely on the DPA exemption in this application, the respondent notes that the Federal Court of Appeal had left open in
+CITATION_SUPPRESSED
+the question whether the rule in that case should be applied to mandatory exemptions and that this question has not yet had the benefit of consideration at the appellate level. The respondent also points out that, in
+REFERENCE_SUPPRESSED, the Federal Court of Appeal referred to its ruling in
+CITATION_SUPPRESSED
+in relation to discretionary exemptions and noted that the Commissioner had taken the position that the government institution could no longer invoke discretionary exemptions, once an application for judicial review had been filed, but that he advised he did not take this position in relation to mandatory exemptions. While I note the respondent's argument, the fact that the Commissioner did not take issue with delayed reliance on mandatory exemptions in that case means that the issue was not before the Federal Court of Appeal and the case is therefore of little assistance to the respondent.
+[87]
+The respondent also refers to the decision in
+REFERENCE_SUPPRESSED as a case where the Federal Court of Appeal held that the government institution should be given an opportunity to claim at the judicial review stage any exemption that might apply under the ATIA. However, I find this case distinguishable as it deals with a very specific set of circumstances where at earlier stages of the process there had not been any consideration given to the application of the ATIA and which exemptions might apply thereunder. The Court's analysis to this effect is set out as follows at paragraphs 17-18:
+[17] With respect to this last argument, I agree that the Minister should be given an opportunity to claim any exemption that might apply. I recognize that the case law suggests that a government institution ought to claim the relevant exemptions at the initial stage; at least insofar as non-mandatory exemptions are concerned (see
+REFERENCE_SUPPRESSED).
+[18] However, this is a novel case where, from the outset, the government officials took the position that the four documents in issue were entirely outside the purview of the Access Act. I am satisfied that, owing to that approach, those charged with the task of reviewing the documents have not turned their mind to the exemptions which might come into play if parts of the requested documents are to be released. In the circumstances, and having regard to the fact that third party rights may be affected, it would be just and appropriate to vary the order of the Applications Judge to allow the head of the government institution the opportunity to consider and claim any exemption that may apply.
+[88]
+It is accordingly my decision, based on the current status of the applicable jurisprudence that the respondent is not entitled to rely on the additional exemption under ss. 24(1) of the ATIA and s. 30 of the DPA. I will therefore not consider the parties' arguments on the substantive issue of the application of that exemption.
+VII.
+Conclusion
+[89]
+In the result, my decision is that the respondent is authorized to refuse to disclose the name and signatures that are at issue but that it must disclose the contents of the Joint Venture Agreement and covering letter. I will suspend the operation of the resulting Judgment for 30 days to allow the respondent to consider whether it wishes to appeal.
+VIII.
+Costs
+[90]
+Given that the success in this application has been divided between the parties, I make no order as to costs. In so deciding, I have considered the applicant's position that, even if it were to lose this application in its entirety, the Court should consider exercising its discretion under ss. 53(2) of the ATIA to order that costs be awarded to the applicant, because the question whether an individual's signature represents "personal information" for purposes of the Privacy Act raises an important new principle in relation to the ATIA. However, notwithstanding that there appears to have been no definitive consideration of that specific issue by this Court, its adjudication has been based on established principles of interpretation and, in my view, does not raise an important new principle in relation to the ATIA that would merit an award of costs to the applicant.
+JUDGMENT
+[91]
+THIS COURT'S JUDGMENT is that
+:
+This application is allowed in part, with the following result:
+1. the respondent shall disclose to the applicant the previously redacted portions of:
+a) the Joint Venture Agreement dated February 1, 2011 among Graham Construction and Engineering LP, Graham Construction and Engineering Inc. and Jardeg Construction Services Ltd., excepting the signatures of the parties to such Joint Venture Agreement; and
+b) the covering letter dated March 25, 2011 from The Graham Group to the respondent which accompanied such Joint Venture Agreement.
+2. the operation of this Judgment shall be suspended for 30 days from the date hereof; and
+3. there shall be no order as to costs on this application.
+Application allowed in part.
+Editor: Elizabeth M.A. Turgeon
+[End of document]

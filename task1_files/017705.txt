@@ -1,0 +1,326 @@
+I.
+Introduction
+[1]
+Lemieux, J.
+: By notice of motion dated November 9, 2011, the Defendants seek the dismissal, on grounds of mootness and lack of standing, part of an impeachment action launched by the Plaintiff (Apotex) on
+August 4, 2009
+in which the relief sought by Apotex is a declaration that the '330 and the '615 patents are invalid and that Apotex's Apo-quinapril tablets will not infringe any valid claim in either of these patents which are owned by the Defendant, Parke, Davis & Company LLC (Parke Davis). Mootness and lack of standing are triggered say the Defendants because the '
+615 patent
+expired
+in August 2011
+. The '330 patent does not expire until
+January 1, 2019
+.
+[2]
+Apotex responds arguing its impeachment action is not moot because it concerns whether the '615 patent
+was ever a valid patent
+. If the '615 patent is found to have never been valid, Apotex submits it will seek to avail itself; (1) of a remedy under an Ontario statute enacted in 1897 known as
+An Act concerning Monopolies and Dispensation with penal laws, etc.
+, RSO 1897, c 323 (
+Ontario Monopolies Act
+); and (2) a remedy under section 8 of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133, as amended (the NOC Regulations) for having been kept off the market as a result of having been subjected to prohibitions proceedings under those Regulations. The NOC Regulations were substantively amended by SOR/98-166.
+[3]
+Should the Court find that part of its action based on the '615 patent to be moot, Apotex argues the circumstances of this case warrant the exercise of this Court's discretion to nonetheless hear the entire action because the action will continue with the '330 patent regardless whether the '615 patent is struck or not. Apotex adds the '330 and '615 patents each have a common originating patent application.
+II.
+Background Facts
+[4]
+The NOC Regulations were triggered when Apotex sought from the Minister of Health (the Minister) a Notice of Compliance (NOC) in order to be authorized to market its Apo-quinapril in Canada. The '330 and '615 patents were both on the Patent List such that on
+July 18, 2003
+, Apotex served Pfizer Canada Inc., as a licensee, two notices of allegations: one which alleged non-infringement of the '615 patent and the other the invalidity of the '330 patent. Pfizer Canada Inc., Warner-Lambert and Parke Davis commenced in this Court a proceeding seeking to prohibit the Minister from issuing a NOC to Apotex until after the expiry of the '330 and '615 patents (the prohibition proceedings).
+[5]
+The prohibition proceedings launched by the Defendants were dismissed at trial,
+in September 2005
+, but that decision was reversed by the Federal Court of Appeal (FCA) in May 2007 (see
+ <FRAGMENT_SUPPRESSED> ); the result was the issuance by that Court of a prohibition order prohibiting the Minister from issuing a NOC to Apotex in respect of its Apo-quinapril tablets. Apotex sought from the Supreme Court of Canada leave to appeal the FCA's decision which was refused in
+November 2007
+. After this decision, Apotex, two years later, commenced in
+August 2009
+the impeachment action. The Defendants seek partial dismissal in respect of the now expired '615 patent. The action is scheduled to be heard in August 2013 at a 15 day trial.
+III.
+Principles
+[6]
+Based on the Supreme Court of Canada's lead decision in
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ), there is no dispute between the parties on the following points:
+a. This Court has jurisdiction to dismiss a claim for mootness based on the Court's exercise of its inherent power to control its own process.
+b. Where mootness is the ground asserted to dispose of an action, a motion to strike under section 221(1) of the
+Federal Courts Rules
+, SOR/98-106 (the Rules)
+is not
+the appropriate vehicle; the plain obvious test does not apply to a motion to dismiss for mootness.
+c. In deciding whether to dismiss for mootness a two stage analysis is required: (1) the first question is whether the action is moot; and (2) the second question is whether there are factors present which compel the exercise of this Court's discretion to hear a case on the merits even if moot.
+d. Whether an action or other proceeding before the Court is moot turns on an assessment by the Court whether the changed circumstances, here the expiry of the '615 patent, results in there
+being no live controversy
+between the parties that can be resolved by a decision in that proceeding, here Apotex's impeachment action.
+e. The second stage of the mootness analysis is whether the Court should hear a moot case. The Supreme Court of Canada has identified two main factors which, if met, favour the exercise of discretion. The first factor is if the continued presence of an adversarial context remains between the parties. The main gauge of that factor is whether a dismissal for mootness will have nonetheless practical effect on a party's rights, in other words, collateral consequences, in this case to Apotex.
+[7]
+It is Apotex's burden to show the Court, on a balance of probabilities, a dismissal of its impeachment action against the Defendants as it relates to the '615 patent will have such an effect on its rights (see
+ <FRAGMENT_SUPPRESSED> ). Apotex argues this will be the case because any remedy which it has in terms of its future Ontario monopolies' action or a future action pursuant to section 8 of the NOC Regulations depend upon a finding the '615 and the '330 patents are invalid.
+[8]
+The second main factor identified to persuade a Court to hear a moot proceeding is the concern for judicial economy and the scarcity of judicial resources. This factor was recently relied on by Justice Barnes in
+ <FRAGMENT_SUPPRESSED> . A third factor identified by the Supreme Court of Canada concerning the role of the Court in the adjudicative process does not arise here.
+IV.
+The Arguments
+1.
+By Parke Davis et al
+[9]
+First, the moving parties say it is settled law the fact the '615 patent has expired triggers a finding Apotex' impeachment action, on which the expired patent is partly based, is moot and for that part of the action, there is no live controversy between the parties in respect of that patent. They submit there is jurisprudence directly on point citing the FCA's decision in
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ) where Justice Sexton stated: "
+There is no question that the invalidity action involving an expired patent is moot: the thing that  <FRAGMENT_SUPPRESSED>  seeks to be declared invalid no longer exists
+..." [Emphasis added]. They cite other FCA jurisprudence, namely:
+•
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> )
+•
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ) at paras 10, 11 and 13.
+[10]
+Moving to the second stage of the <FRAGMENT_SUPPRESSED> test, they say, for several reasons, Apotex will not experience any collateral consequence (and therefore no presence of a continued adversarial context) if its impeachment action is partly dismissed on account of the expired '615 patent since; (1) there is presently no live proceeding which is impacted by a decision on that patent and; (2) more important, a finding that the '615 patent is invalid will not have any effect on its rights
+under section 8 of the NOC Regulations
+(an action for damages) because a declaration of invalidity in an impeachment action is not one of the specified events triggering the application of that section. On possibility of a successful action under the
+Ontario Monopolies Act
+, they submit is speculative and remote, there having been no reported cases under that Act.
+[11]
+Not having shown the maintenance of its impeachment action is necessary to preserve past or future rights, the hearing of evidence on the validity or non-infringement of the '615 patent, they urge on the Court, is clearly a waste of scarce judicial resources.
+2.
+By Apotex
+[12]
+Counsel for Apotex makes these points.
+[13]
+First, the perspective of Apotex' impeachment action is important. That action is the necessary tool, if successful, in obtaining a declaration of invalidity of the '615 and '330 patents which will open the door to two action for damages on account of Apotex being unlawfully barred from entering the market for its Apo-quinapril tablets. A declaration of invalidity means the '615 patent was never valid i.e. void
+ab initio
+. As such, there remains a live controversy between the parties; Apotex' rights - to be compensated for past damages are affected. The expiry of the '615 patent does not render reliance on it in its impeachment action moot.
+[14]
+Second, the burden is on the moving parties to establish, on a balance of probabilities, Apotex' impeachment action it moot and should not continue.
+[15]
+Third, the <FRAGMENT_SUPPRESSED> case relied upon by the moving parties
+is
+obiter
+as it was only offered as guidance and did not deal with an impeachment action brought by <FRAGMENT_SUPPRESSED> but was a motion under Rule 399 of the Federal Courts Rules (SOR/98-106) (the Rules).
+[16]
+Fourth, the fact there has been no decided case under the Ontario Monopolies Act is irrelevant citing the Ontario Court of Appeal's judgment in
+ <FRAGMENT_SUPPRESSED>  where that court reversed a decision of a motions' judge who had struck out on the grounds of no reasonable cause of action an action for triple damages commenced under the
+Ontario Monopolies Act
+arising out of the defendant's enforcement activities under a patent it had received under the
+Patent Act
+(R.S.C., 1985, c. P-4) (
+Patent Act
+) for the manufacture of a pharmaceutical product. The Ontario Court of Appeal was of the view that, at this early stage of the litigation, it could not be concluded the action "...cannot possibly succeed or that clearly and beyond all doubt, no reasonable cause of action has been shown." with Aylesworth J.A. expressing the view "
+Not only is there in issue the question of the interpretation and application of a difficult statute, but there is substantial indication in the statement of claim as delivered, that there may be important questions of fact to be decided concerning the extent of the respondent's patent
+...". [Emphasis added] Apotex mentions it has recently commenced two other actions in the Ontario Superior Court of Justice under the
+Ontario Monopolies Act
+.
+[17]
+Fifth, Apotex says the scope of section 8 of the NOC Regulations is not settled law to the point where it can be asserted there can be no success under section 8 of the NOC Regulations. He says there are conflicting decisions in the FCA.
+[18]
+Counsel argues in <FRAGMENT_SUPPRESSED> the FCA did not examine
+the 2006
+decision in
+ <FRAGMENT_SUPPRESSED> where Justice Sharlow found, in the event of a declaration of invalidity under section 60 of the
+Patent Act
+, either the prohibition order would cease to have any effect or that order could be set aside under Rule 397 of the Rules.
+[19]
+Sixth, the fact its impeachment action will continue with the '330 patent militates in favour of this Court permitting its action to proceed in respect of the '615 patent. Scarce Court resources will not be substantially saved because both the '615 and '330 patents have a common originating patent application. The pleadings are closed, affidavits of documents have been exchanged and discoveries have been completed. The action with both the '615 and '330 patents in play has been set down for trial.
+V.
+Analysis
+1.
+Is Apotex' impeachment action moot as it relates to the Defendants' '615 patent?
+[20]
+Apotex, in its impeachment action, seeks a declaration of invalidity of the '615 patent, now expired. In my view, it is too late for Apotex to argue that its impeachment action is not moot insofar as the '615 patent is concerned. This issue has been decided recently against Apotex by the Federal Court of Appeal in
+Hassle
+, supra. That case is, for the most part, identical to the case before me:
+• An NOC proceeding following an allegation by Apotex that the '751 patent was invalid. (As noted in the case before the Court Apotex did not urge that the '615 patent was invalid.)
+• The issuance of a prohibition order barring, until the expiry of the '751 patent, the Minister from issuing an NOC to Apotex to market its generic product after finding that Apotex' allegation of invalidity was not justified.
+• The commencement by Apotex of an impeachment action in which Apotex sought a declaration of the '751 patent was invalid which action had been set down for a 10 day trial.
+• The expiry of the '751 patent in
+January 2007
+.
+• A motion by Hassle to dismiss the impeachment action in its entirety on the grounds of mootness and lack of standing i.e. lack of being an interested party.
+• A decision by a Prothonotary of this Court, sustained on appeal by a Motions Judge, that "it was not plain and obvious that a determination of the impeachment action could have no legal effect or consequences on the parties or that Apotex had no longer any standing to pursue its action."
+[21]
+The FCA
+allowed the appeal
+from the decision of the Motions Judge. First, it found the lower court had applied the wrong test, the plain and obvious test, which is not the correct one to assess whether a proceeding is moot. As noted, Justice Sexton, writing for the FCA, also found: "There is no question that the invalidity action involving an expired patent is moot: the thing that  <FRAGMENT_SUPPRESSED>  seeks to be declared invalid no longer exists." He stated the real question at bar was whether the Court should exercise its discretion to decide a moot dispute (i.e. the impeachment action). He refused to hear the matter on grounds of judicial economy.
+[22]
+The FCA, in <FRAGMENT_SUPPRESSED> had dealt with the issue of whether an expired patent rendered moot
+an appeal to it
+. Justice Rothstein, as he then was, had no trouble finding
+the appeal
+was moot because the '067 patent had expired and an NOC had issued to Apotex. He was of the view "the live controversy between the parties has ceased to exist." See also <FRAGMENT_SUPPRESSED> at para 14 and <FRAGMENT_SUPPRESSED> at paras 10, 11 and 13.
+2.
+Should the Court Applying the Relevant Factors Exercise its Discretion to Allow Apotex's Impeachment Action to Proceed to Trial?
+[23]
+As previously mentioned, the two factors which are relevant for the determination in this case are the collateral consequences factor in not letting continue Apotex's impeachment action in respect to the '615 patent and the factor of judicial economy.
+(a)
+The practical effect test
+[24]
+There has been recent jurisprudence by the FCA on this point, namely, its 2010 decision in
+ <FRAGMENT_SUPPRESSED>  ( <FRAGMENT_SUPPRESSED> ) and the <FRAGMENT_SUPPRESSED> case. The previously mentioned <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> cases serve as background.
+(i)
+The <FRAGMENT_SUPPRESSED> case
+[25]
+In the <FRAGMENT_SUPPRESSED> case the FCA, as noted, decided the appeal was moot because the underlying patent had expired. The Court then considered the issue of whether it should hear the case, notwithstanding. Justice Rothstein, writing on behalf of his colleagues, deciding to hear the appeal being of the view, at paragraphs 8 and 9:
+First,
+this is a case in which there may be "collateral consequences" from the outcome of the appeal that provide the necessary adversarial context
+referred to in <FRAGMENT_SUPPRESSED> . Section 8 of the Regulations provides that a patentee may be liable to a generic manufacturer for loss suffered by the generic if an order prohibiting the Minister from issuing a Notice of Compliance to the generic
+is reversed on appeal
+.
+[...]
+Second,
+a decision on the appeal will have a practical effect on the rights of the parties
+. If Apotex is successful, its access to the remedy under section 8 will be preserved.
+If the appeal is dismissed for mootness, Apotex will be denied access to that remedy with no other remedy being available to it
+. [Emphasis added]
+[26]
+Justice Rothstein referred to the NOC Regulations as
+amended by SOR/98-166
+which imported changes to the first enacted NOC Regulations in 1993. He referred to the Regulatory Impact Analysis which stated the 1998 version of the NOC Regulations indicated more clearly to the Court on the circumstances where damages could be awarded to a generic manufacturer to compensate for loss suffered by reason of delayed market entry of its drug under the NOC Regulations and the factors that may be taken into account in calculating damages.
+Unlike the former section 8, the current section 8 expressly refers to the reversal on appeal of a prohibition order giving rise to liability by a patentee to a generic manufacturer
+.
+[27]
+Justice Rothstein then wrote:
+There is no indication in section 8 that
+the reversal on appeal must occur prior to expiry of the patent at issue or the issuance of a Notice of Compliance to the generic
+. Nor is there any rationale for such a requirement. If a generic manufacturer
+has been wrongly excluded from the market during the lifetime of a patent
+, the fact that an appeal is decided
+after the patent expires should have no bearing
+on the generic's entitlement to damages. In my respectful opinion, it would be inconsistent with the object of the current Regulations to deprive a generic manufacturer of the opportunity to avail itself of section 8 of the Regulations merely because a patent has expired or a Notice of Compliance has issued. The liability referred to in section 8 arises from the period prior to the expiry of the patent or issuance of the Notice of Compliance to the generic and the mere fact that the appeal is decided after that date has no bearing on the application of section 8. [Emphasis added]
+(ii)
+The <FRAGMENT_SUPPRESSED> case
+[28]
+As noted, this case was decided by the FCA on October 11, 2006. Aventis, the patentee, had appealed to the FCA an order from Justice Tremblay-Lamer dismissing an application by <FRAGMENT_SUPPRESSED> for a prohibition order under the NOC Regulations.
+Its '457 patent expired December 13, 2005
+. Apotex moved to
+dismiss the appeal
+on grounds of mootness. Having failed to persuade the FCA that its appeal was not moot, Aventis had argued on the second branch of the test that it should hear the appeal nevertheless because, absent a favourable decision on appeal, it will be exposed to damages pursuant to section 8 of the NOC Regulations and that, as a result, it finds itself in the same position as Apotex did in the <FRAGMENT_SUPPRESSED> case and, as such, the Court should exercise its discretion the same way. The FCA did not accept the argument for the following reasons:
+We first note that unlike Apotex in the <FRAGMENT_SUPPRESSED> case, Aventis has, as a patentee the right to undertake a patent infringement action (circumstances permitting) and, if successful, obtain compensation either in the form of damages or loss of profits.
+[29]
+Second, it was of the view Aventis' potential exposure to damages under section 8 was too remote and speculative to justify it hearing the appeal. The reason it came to this conclusion was because in the specific circumstances Apotex had proceeded with two different Notices of Allegations decided by two different Judges of this Court, i.e. failure in the first Notice to plead invalidity of the '457 patent but being successful on that plea in the second Notice ( <FRAGMENT_SUPPRESSED> , paras 19, 20 and 21).
+[30]
+In sum, the FCA was not satisfied, on the balance of probabilities, a decision on the appeal would have a practical effect on Aventis' rights.
+(iii)
+The <FRAGMENT_SUPPRESSED> case
+[31]
+This case, as noted, was decided by the FCA in
+June 2010
+. It was on appeal from my colleague Justice Hughes' decision reported at 2009 FC 494. He had dismissed Apotex's action for damages under section 8 of the NOC Regulations against Syntex and Hoffman La Roche finding the
+1993 version of the NOC Regulations applied to the action
+and section 8,
+as then in force
+, was not triggered by the events in the action.
+[32]
+Given the unique facts of this case and the fact that it turned on the 1993 version of the NOC Regulations, many of the questions of law decided in that case are not relevant to the case to be decided here. However, one finding is of interest, Justice Hughes held, in construing the 1993 version of the NOC Regulations and that based on the facts at hand, those Regulations prevented Apotex from recovering damages.
+[33]
+Dawson J.A. wrote the reasons of the FCA. She recited the unique facts of the case and noted Justice Hughes' had found no undue delay on the Minister's part to issue an NOC to Apotex.
+[34]
+She wrote at paras 36 and 37:
+Under the 1993 version of the Regulations
+, when an innovator commenced a proceeding seeking a prohibition order it obtained the equivalent of an interlocutory injunction prohibiting the issuance of a notice of compliance for up to 30 months. The innovator need not have satisfied the criteria for obtaining injunctive relief and no undertaking for damages was required.
+In that circumstance, section 8 of the Regulations was intended to provide redress to the generic where the innovator failed to establish that the generic's allegations of invalidity or non-infringement were not justified. In my view, section 8 was not intended to provide redress where the innovator prevailed in the prohibition proceeding, even if the generic was later successful in patent litigation. It follows that I agree with the Judge that Apotex can not "reach back and apply the finding of invalidity in the action so as to argue that the '671 patent had 'expired' within the meaning of section 8" of the 1993 version of the Regulations
+.
+I do not find the interpretation of the Regulations advanced by Apotex to be correct
+because it would require extensive judicial re-writing of section 8
+. Further, as noted by Apotex at paragraph 62 of its memorandum of fact and law, Apotex' interpretation
+requires that no prohibition order issue on the patent in respect of which the section 8 action is brought
+. Here a prohibition order did issue with respect to the patent which forms the basis of the section 8 action. [Emphasis added]
+(iv) The <FRAGMENT_SUPPRESSED> case
+[35]
+This case was decided by the FCA on
+June 28, 2011
+. The proceeding before it was a motion pursuant to Rule 399 of the Rules by Ratiopharm to set aside the prohibition order which that Court issued on
+June 9, 2006
+in favour of Pfizer when allowing an appeal from the FC which had dismissed a request for such an order.
+[36]
+Subsequent to the FCA 2006 Order, Ratiopharm took an impeachment proceedings under the
+Patent Act
+to have Pfizer's '393 patent declared invalid. By judgment dated
+July 8, 2009
+, Justice Hughes found the patent invalid on a number of grounds. That decision was affirmed by the FCA in 2010 FCA 204. Ratiopharm's motion before the FCA was to set aside the FCA's prohibition order which was made under Rule 399(2)(a) "by reason of a matter that arose or was discovered subsequent to the making of the Order" (the prohibition order of 2006)
+or
+on the basis of Rule 399(2)(b), the order had been obtained by fraud.
+[37]
+Ratiopharm also sought an order dismissing the original application for prohibition filed
+in 2004
+in the Federal Court.
+[38]
+Ratiopharm argued before the FCA that, upon the setting aside of the 2006 the prohibition order, it would be entitled to seek compensation pursuant to section 8 of the NOC Regulations for losses incurred during the time it was held off the market because of the NOC proceedings. The 2006 prohibition order expired once an NOC issued to Ratiopharm whose product is on the market. The FCA held the issue was moot in terms of a determination under section 399(2)(a) of the Rules but was no moot in terms of Rule 399(2)(b). Justice Létourneau, writing for the FCA, went on to say:
+...
+However, Ratiopharm's challenge and the recurring litigation surrounding the interpretation and application of section 8 show that there still seems to be some ambiguity concerning the interplay between NOC and impeachment proceedings. I think it would be in the public interest and in the interest of would-be litigants to provide what we hope will be clear guidance
+. [Emphasis added]
+[39]
+Under the heading "
+Whether the decision of Hughes J. in the impeachment proceedings is a new matter under Rule 399(2)(
+a
+)
+" he wrote at paragraph 14 of his reasons:
+I begin my analysis with two settled principles.
+First, NOC proceedings and impeachment proceedings are different in scope, purpose and procedure
+. Consequently, different legal consequences ensue. Second,
+NOC proceedings are not preemptive of an impeachment proceeding under the Act to have a patent declared invalid. They are not a final determination of a patentee's rights
+. [Emphasis added]
+[40]
+He then quoted at paragraphs 6 to 9 of Justice Layden-Stevenson's decision, as she then was, in
+ <FRAGMENT_SUPPRESSED>  on the nature, purpose and scope of the NOC proceedings and their relationships with impeachment proceedings.
+[41]
+He then wrote at paragraphs 16,17 and 18 as follows:
+As this Court said in  <FRAGMENT_SUPPRESSED>  person gains a significant short-term advantage when it obtains a prohibition order. However, it exposes itself to a claim for compensatory damages under section 8 if the application for prohibition
+is withdrawn, discontinued or dismissed by the court hearing the application. The remedy of section 8 is also available if the prohibition order granted is reversed on appeal
+. This balance struck between the rights and obligations of the parties "promotes the use of the PM (NOC) Regulations for the purpose for which they are intended: the prevention of infringement": see  <FRAGMENT_SUPPRESSED> .
+The section 6 proceedings are instituted by the patentee who seeks a prohibition against the Minister. "Since
+they take the form of a summary application for judicial review, it is impossible to conceive of them giving rise to a counterclaim by the respondent seeking a declaration" of invalidity or non-infringement
+: see the statement of Hugessen J.A. in  <FRAGMENT_SUPPRESSED> , at paragraph 95. "
+Patent invalidity, like patent infringement, cannot be litigated in this kind of proceeding
+" notwithstanding that paragraph 7(2)(b) of the NOC Regulations seems to envisage such declaration: ibidem.
+The scope of application of section 8 and its interplay with impeachment proceedings were reviewed by our Court in
+ <FRAGMENT_SUPPRESSED> . Writing for a unanimous court, Dawson J.A. held at paragraph 36:
+[36] Under the 1993 version of the Regulations, when an innovator commenced a proceeding seeking a prohibition order it obtained the equivalent of an interlocutory injunction prohibiting the issuance of a notice of compliance for up to 30 months. The innovator need not have satisfied the criteria for obtaining injunctive relief and no undertaking for damages was required. In that circumstance, section 8 of the Regulations was intended to provide redress to the generic where the innovator failed to establish that the generic's allegations of invalidity or non-infringement were not justified. In my view, section 8 was not intended to provide redress where the innovator prevailed in the prohibition proceeding, even if the generic was later successful in patent litigation. It follows that I agree with the Judge that Apotex can not "reach back and apply the finding of invalidity in the action so as to argue that the '671 patent had 'expired' within the meaning of section 8" of the 1993 version of the Regulations. [Emphasis omitted]
+[Emphasis added]
+[42]
+Justice Létourneau concluded at paragraph 19 on this point:
+Counsel for Ratiopharm argued that this finding of Dawson J.A. was made in respect of
+an earlier version
+of section 8 and, therefore,
+should not be followed. With respect, I think the finding is still good and sound law under the new section 8 and ought to be applied in this case. The invalidity of the '393 Patent found in the impeachment proceedings is a fact discovered after the 2006 order
+. However, it is not a new matter within the meaning of Rule 399(2)(
+a
+) which, as a matter of law, would warrant setting aside the 2006 order on the basis that the '393 Patent had "expired" within the meaning of paragraph 7(2)(
+a
+) and section 8 of the NOC Regulations.
+The subsequent decision invalidating the '393 Patent does not provide a basis upon which the prohibition order issued by this Court should be set aside
+. [Emphasis added]
+[43]
+Justice Létourneau went on to rule that the application of Rule 399(2)(b) was not established on the evidence as a basis to set aside the 2006 order. As a result he dismissed Ratiopharm's motion.
+[44]
+Counsel for Apotex argued there was potential at the level of the Supreme Court of Canada to clarify what he claimed was conflicting jurisprudence. He mentioned Ratiopharm had sought leave to appeal from the FCA's decision submitting that:
+Ratiopharm's proposed appeal raises the following issues of national importance: (a)
+Is liability for damages by an innovator drug company to a generic drug company required in order to maintain the balance at the heart of the
+Regulations
+when the patent used to prohibit the approval of a generic drug under the
+Regulations
+is later declared invalid in an action, and should the order of prohibition be set aside pursuant to Federal Courts Rule 399(a), as a matter subsequently arising, or pursuant to the Court's inherent jurisdiction
+... [Emphasis added]
+[45]
+I was advised that on December 22, 2011 that Court refused to grant leave and, as usual, did not provide reasons.
+[46]
+Counsel for Apotex also mentioned his client had filed a motion to the Supreme Court of Canada, filed on June 11, 2011 for reconsideration of that Court's decision refusing leave in <FRAGMENT_SUPPRESSED> , was still outstanding.
+VI.
+Conclusions
+[47]
+The Defendants' motion to dismiss Apotex' impeachment action must be granted.
+[48]
+The expiry of the '615 patent renders Apotex' impeachment action, to the extent its success depends on the '615 patent, moot.
+[49]
+The fundamental issue in this case was always whether the Court should exercise its discretion to hear the action which is partly dependant upon the existence of the '615 patent.
+[50]
+Counsel for Apotex has not satisfied me, on the balance of probabilities, that it will experience an adverse effect on its rights if its impeachment action is struck insofar as the '615 patent is concerned. The jurisprudence established by the FCA is clear that in the circumstances of this case there is no reach-back under section 8 of the NOC Regulations.
+[51]
+Apotex argued forcefully that the Defendants' motion should not be granted on grounds or judicial economy because the impeachment action would continue in any event with the '330 patent emphasizing that both the '615 patent and the '330 patent had a common source, that they were both heard together at trial and in the FCA and that the evidence would be dovetailing.
+[52]
+This argument has a certain attraction but I cannot accept it for the following reasons. First, in this decision I have ruled, on a balance of probabilities, Apotex' rights will not be affected if the '615 patent, now expired, is struck from the impeachment action. In the circumstances, there is no purpose in pursuing the '615 patent at trial. Second, the invalidity of the '615 patent was not put in issue during the NOC proceedings. New evidence would be required at trial. Apotex has not provided this Court by way of affidavit what impact the pursuit of a non-issue would have on the trial. Third, in the circumstances, it makes no sense to use up court time and engage a judge in examining complex evidence and rendering a decision which has no practical purpose.
+JUDGMENT
+[53]
+THIS COURT'S JUDGMENT is that
+the Defendants' motion is granted with costs. That part of Apotex' impeachment action grounded on the '615 patent, now expired, is dismissed.
+Motion allowed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

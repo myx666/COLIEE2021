@@ -1,0 +1,491 @@
+[1]
+Scott, J.
+: The plaintiffs, Hollick Solar Systems Limited (HOLLICK) and Conserval Engineering Inc. (CONSERVAL), claim that the defendant, Matrix Energy Inc. (MATRIX) has infringed their Canadian Patent No 1,326,619 (the '619 patent), more particularly claims 1 and 10, by selling a solar air heating system known as the MatrixAir system (MatrixAir). The plaintiffs also claim the infringement and depreciation of the value of the goodwill of the Trade-mark TMA 371,622 (SOLARWALL Trade-mark). Finally, the plaintiffs claim that the defendant has passed-off its solar air heating systems for those of CONSERVAL. Their action is based on section 55 of the
+Patent Act
+(RSC, 1985, c P-4) (
+Patent Act
+) and the
+Trade-marks Act
+(RSC, 1985, c T-13) (
+Trade-marks Act
+). For ease of reference, the relevant articles of both
+Patent Act
+and
+Trade-marks Act
+have been appended hereto as Appendix A and B.
+[2]
+Initially the defendant disputed the validity of the patent. Subsequently, it amended its pleading and took the position that the MatrixAir system is a variant outside the scope of the '619 patent, as a result the patent cannot be infringed. The defendant filed an amended statement of defence and counterclaim on January 11, 2008. The defendant also asserts it did not use the SOLARWALL Trade-mark outside the scope of the Distributorship Agreements that were in place between 1991 and March 31st, 2007.
+[3]
+At the beginning of trial on September 6th, 2011, the Statement of claim in all proceedings was amended on consent to remove from the style of cause all parties that were no longer parties in the present instance that is: Enerconcept Technologies Inc., Solutions Énergétiques Enerconcept Inc., 9153-1103 Quebec Inc. and Christian Vachon.
+II. FACTS
+A. The parties
+(1) The plaintiffs
+[4]
+HOLLICK is a corporation incorporated in 1976 pursuant to the laws of Ontario. HOLLICK is a holding company; therefore it does not have any manufacturing, distributing or selling activities (Agreed Statement of Facts and Documents, volume I, tab 1).
+[5]
+CONSERVAL is a corporation incorporated in 1977 pursuant to the laws of Ontario (Agreed Statement of Facts and Documents, volume I, tab 2). It designs, markets and sells solar heating systems in Canada, under the SOLARWALL Trade-mark (Agreed Statement of Facts and Documents, volume I, tab 3).
+[6]
+CONSERVAL and HOLLICK are associated companies. The president of the plaintiffs is Mr. John Hollick.
+[7]
+CONSERVAL has been delivering renewable energy solutions for 30 years, such as solar air heating systems and more recently hybrid PV/thermal systems. It has been involved in numerous solar air heating systems projects throughout the years.
+[8]
+CONSERVAL does not manufacture solar air heating systems. Rather, it purchases key components from suppliers and resells them at a profit.
+2. The defendant
+[9]
+MATRIX is a corporation incorporated in 1995 pursuant to the laws of Canada. The President of MATRIX is Brian Wilkinson (transcript, volume 5, page 176, testimony of Brian Wilkinson).
+[10]
+MATRIX offers a range of solar electric air heating, solar heating, solar thermal, wind energy, micro hydro products and systems since 1985 (transcript, volume 5, pages 177 to 179, testimony of Brian Wilkinson).
+B. Relationship between the parties and their sales
+(1) Distributor Agreements
+[11]
+MATRIX distributed solar air heating systems designed by CONSERVAL from 1991 until about March 31, 2007, at which time the terms of the latest Distribution Agreement dated January 14, 2005 between the parties expired. Notwithstanding the expiration of the contract, the parties continued to conduct some business together until September 2007 as MATRIX was permitted to complete six projects that were already signed on March 31, 2007 (transcript volume 1, September 6, page 157, lines 18 to 20, testimony of John Hollick and plaintiffs' Exhibit P-29, list of SOLARWALL permitted projects).
+[12]
+The first Distributor Agreement between CONSERVAL and MATRIX was concluded on August 13, 1991 (Agreed Statement of Facts and Documents, volume III, tab 57).
+[13]
+A second Distributor Agreement between CONSERVAL and MATRIX was concluded on August 11, 1994 (Agreed Statement of Facts and Documents, volume III, tab 58). Upon expiry of the second Agreement, John Hollick proposed to Brian Wilkinson to continue the same agreement (Agreed Statement of Facts and Documents, volume III, tab 60).
+[14]
+A third Distributor Agreement between CONSERVAL and MATRIX was concluded on August 13, 1999 and was to remain in full force for 5 years (Agreed Statement of Facts and Documents, volume III, tab 61).
+[15]
+The last Distributor Agreement between CONSERVAL and MATRIX was concluded on January 14, 2005 and was set to expire on March 31, 2007 (Agreed Statement of Facts and Documents, volume III, tab 62).
+[16]
+At different times over the years, MATRIX expressed a desire to obtain a license to manufacture SOLARWALL cladding in Quebec.
+[17]
+A disagreement arose between the parties over the purchase of components (transcript, volume 1, page 151, lines 4 to 14, testimony of John Hollick) and over the terms of a revised distributor agreement that led them not to renew their agreement or continue their relationship (transcript, volume 1, page 155, lines 1 to 25, testimony of John Hollick). Discussions took place between the parties (E-mails exchanged between Brian Wilkinson and Duncan Coutts between March 16, 2007 and June 4, 2007) regarding continued distributorship after the expiry of the last Distributor Agreement, but no agreement was reached or executed between the parties (Agreed Statement of Facts and Documents, volume III, tab 71).
+[18]
+After the expiration of its Distributorship Agreement with CONSERVAL, MATRIX began quoting and selling a solar air heating system known as the MatrixAir system, which is the subject of this litigation (Agreed Statement of Facts and Documents, volume IV, tabs 92.1 to 92.55).
+(2) The plaintiff's alleged rights
+(a) The SOLARWALL Trade-mark
+[19]
+CONSERVAL is the recorded owner in Canada of Trade-mark registration number TMA371,622 for the SOLARWALL Trade-mark (Agreed Statement of Facts and Documents, volume I, tab 3).
+(b) The '619 patent
+[20]
+Patent 619 entitled "Improved method and apparatus for pre-heating ventilation air for a building" was issued on February 1, 1994. Patent 619 expired on February 1, 2011 (Agreed Statement of Facts and Documents, volume I, tab 4). The invention in patent 619 is described as follows on pages 2 and 3:
+"GENERAL DESCRIPTION OF THIS INVENTION
+We now have a new devised method and apparatus for accomplishing the desired goal at low cost and without the above efficiency limitations for high panels.
+More specifically, this invention provides a method of preheating ventilation air for a building having a sun-facing outer surface through which heat from the interior of the building escapes, the method comprising the steps:
+a) providing on the sun facing outer surface of the building a solar radiation-absorbent collector panel having an inside surface and an outside surface, the collector panel defining an air collection space between its inside surface and said sun-facing outer surface, said outside surface being exposed to the ambience, the panel having substantially uniformly distributed over the panel, a plurality of air inlet openings communicating with said air collection space;
+b) heating outside air with solar heat from the collector panel and with heat being lost from the interior of the building, and passing the heated air upwardly in laminar flow along the panel; and
+c) withdrawing heated outside air through the air inlet openings of the collector panel and into the air collection space behind the panel, using air-moving means
+having an inlet at the top of the air collection space
+and having an outlet within the interior of the building, the air-moving means establishing a negative pressure differential across the collector panel with respect to the ambience." [Emphasis added]
+[21]
+Further, this invention provides an apparatus for preheating ventilation air for a building having a sun facing outer surface through which heat from the interior of the building escapes, comprising:
+"A sunlight absorben collector panel on the sun-facing surface, the panel having an inside surface and an outside surface, the collector panel defining an air collection space between its inside surface and the outer surface of the building, said outside surface being exposed to the ambience, the panel being provided with a plurality of air inlet openings substantially uniformly distributed over the panel and communicating with the said space between the panel and the wall, and air-moving means
+having at the top of the panel an inlet
+which communicates with the air collection space between the panel and said outer surface for receiving air that has been heated during upward passage and drawn in through the plurality of air inlet openings, and having an outlet within the interior of the building, the air-moving means establishing a negative pressure differential across the panel with respect to the ambience." [Emphasis added]
+[22]
+The plaintiffs assert that defendant's MatrixAir system infringes claims 1 and 10 of the '619 patent. These claims read as follows:
+THE EMBODIMENTS OF THE INVENTION IN WHICH AN EXCLUSIVE PROPERTY OR PRIVILEGE IS CLAIMED ARE DEFINED AS FOLLOWS:
+1. A method of preheating ventilation air for a building having a sun-facing outer surface through which heat from the interior of the building escapes, the method comprising the steps:
+a) providing on the sun-facing outer surface of the building a solar radiation -absorbent collector panel having an inside surface and an outside surface, the collector panel defining an air collection space between its inside surface and said sun-facing outer surface, said outside surface being exposed to the ambience, the panel having, substantially uniformly distributed over the panel a plurality of air inlet openings communicating with said air collection space;
+b) heating outside air with solar heat from the collector panel and with heat being lost from the interior of the building, and passing the heated air upwardly in laminar flow along the panel; and
+c) Withdrawing heated outside air through the air inlet openings of the collector panel and into the air collection space behind the panel, using air-moving means
+having an inlet at the top of the air collection space
+and having an outlet within the interior of the building, the air-moving means establishing a negative pressure differential across the collector panel with respect to the ambience. [Emphasis added]
+10. An apparatus for preheating ventilation air for a building having a sun-facing outer surface through which heat from the interior of the building escapes, comprising:
+A sunlight-absorbent collector panel on the sun-facing surface, the panel having an inside surface and an outside surface, the collector panel defining an air collection space between its inside surface and the outer surface of the building, said outside surface being exposed to the ambience, the panel being provided with a plurality of air inlet openings substantially uniformly distributed over the panel and communicating with the said space between the panel and the wall, and air moving means
+having at the top of the panel an inlet
+which communicates with the air collection space between the panel and said outer space for receiving air that has been heated during upward passage and drawn in through the plurality of air inlet openings, and having an outlet within the interior of the building, the air-moving means establishing a negative pressure differential across the panel with respect to the ambience. [Emphasis added]
+[23]
+On November 6, 1991, SOLARWALL International Limited granted an exclusive license to CONSERVAL to make, construct, manufacture, use and sell to others to be used the method and apparatus forming the subject matter of the '619 patent in Canada (Agreed Statement of Facts and Documents, volume I, tab 5).
+[24]
+SOLARWALL International Limited assigned the entire right, title and interest in and to the '619 patent to Hollick Solar Systems Limited as of December 15, 2003 (Agreed Statement of Facts and Documents, volume I, tab 6).
+C. Scope of alleged infringing activities
+(1) Alleged Infringement and Passing-off of the SOLARWALL Trade-mark
+[25]
+The expression SOLARWALL appears on specific documents of MATRIX (Agreed Statement of Facts and Documents, volume II, tabs 37 to 44). Quotes were produced, invoices were issued, plans and drawings were provided by MATRIX to its clients after March 31, 2007, in which the words "mur solaire" appeared (Agreed Statement of Facts and Documents, volumes IV, V and VI, tabs 92.7 to 92.53).
+(2) Alleged Infringement of the '619 patent
+[26]
+Between June 2007 and January 2011, MATRIX sold several solar air heating systems and issued a great number of quotes for which no purchase order were received by MATRIX to this day (Agreed Statement of Facts and Documents, volumes IV, V and VI, tabs 92.1 to 92.55 and volume VII, tabs 93 to 139).
+D. Evolution of the Canadian market for solar air heating and incentives
+[27]
+According to the evidence adduced, solar air heating systems have been gaining in popularity and the Canadian thermal industry has grown over the years (transcript, volume 1, September 6, pages 133 and 134, testimony of John Hollick).
+[28]
+Through the Renewable Energy Deployment Initiative [REDI] program, Natural Resources Canada offered a 25% subsidy starting in 1998. However, the initiative has not been continuous and the subsidy has changed over the period. SOLARWALL solar air heating system was accredited as a solar collector eligible under the REDI program (transcript, volume 4, pages 18-20, testimony of Al Clark).
+[29]
+The EcoENERGY for Renewable Heat program from Natural Resources Canada ran from April 1, 2007 to March 31, 2011 (not continuously). Incentives were offered to the industrial/commercial/institutional/agricultural sectors to install active energy-efficient solar air and/or water heating systems (transcript, volume 4, page 19, testimony of Al Clark).
+[30]
+Over the relevant years, SOLARWALL, MATRIXAIR, Luba Solar, Unitair and VTP were solar collectors eligible for subsidy under the EcoENERGY program (Exhibit P-61).
+[31]
+The Energy Efficiency Fund [EEF] for Gaz Metro Customers program offers a financial assistance for energy efficiency work done on the building envelope, such as solar heating, since 2001. The EEF offers financial assistance towards the purchase and installation of solar air or water heating system. All the panels which were recognized by the old EcoENERGY Renewable Heat program at its closure, on October 1, 2010, are accepted for the EEF program. In total 21 projects installing the Unitair and Luba solar heaters received grants between March 31, 2007 and December 31, 2010 (transcript, volume 4, page 13, testimony of Benoît Paillé).
+[32]
+The Quebec Government also ran an energy efficiency program for which SOLARWALL and MatrixAir were eligible for grants.
+III. ISSUES
+1. Did MATRIX infringe the '619 patent by promoting, offering for sale and selling the MATRIXAIR solar air heating systems?
+2. If the answer to question 1 is affirmative, what are the damages to which the plaintiffs are entitled?
+3. Did MATRIX infringe the SOLARWALL Trade-mark that is the object of CanadianTrade-mark registration TMA371,622 or pass-off in any manner its solar air heating systems for those of CONSERVAL?
+4. If the answers to question 3 are affirmative, what are the remedies (damages, injunction) to which CONSERVAL is entitled?
+5. Are the plaintiffs entitled to exemplary and punitive damages?
+IV. ANALYSIS
+Preliminary objections
+[33]
+At trial, counsel for the defendant objected to the production of the following documents in the Agreed Statement of Facts and Documents, that is volume I, tabs 14 to 23, CONSERVAL Sales Journal between April 2001 and March 2011; and volume I, tabs 24 to 31, the unaudited financial statements of CONSERVAL for years ending March 31, 2003 to March 31, 2010, inclusively, on the basis that they could not be introduced at this later date because they were requested during discoveries and refused by acting counsel for the plaintiffs at the time. Counsel for defendant therefore argued that pursuant to the rules of the Court they could not be introduced in the Agreed Statement of Facts and Documents. Me Lauzon, who is now representing the plaintiffs, submitted to the Court that the documents in question were properly introduced on the basis of the March 26, 2010 Order issued by Prothonotary Tabib (the Order), based upon the parties' agreement as to the further steps to be taken in the proceedings. The Order set the timelines for the parties to file all documents and amended affidavits if necessary. The Court took the objection under reserve. Having reviewed the documents, the transcript from the examination of John Hollick which was read in the record, and the Order, it is clear to this Court that the documents are admissible. The Order rendered was based on the mutual agreement of parties. Paragraphs 8 to 10 of the Order clearly addressed the documents and set a timeline for filing which plaintiffs abided by. The objection is therefore dismissed.
+[34]
+Counsel for plaintiffs objected during trial to the production of an expert report entitled in the Matter of Claims by Matrix Energy Inc. with Respect to the Performance of the MatrixAir Solar Heating Device vis-à-vis other Similar Devices and particularly the Solar Wall ® Device dated August 25, 2010 and signed by Dr. K.G. Terry Hollands. That report was prepared for the litigation between
+ <FRAGMENT_SUPPRESSED>  No 500-17-056428-108. The Court took the objection under reserve. Clearly, the document is admissible under rule 291 of the
+Federal Courts Rules
+, SOR/98-106, since it was introduced by counsel for the defendant to establish that the plaintiffs' expert witness was contradicting himself in his testimony and was deviating from previous statements he made in the past. Exhibit D-7 is therefore admitted in the record.
+1. Did MATRIX infringe the '619 patent by promoting, offering for sale and selling the MATRIXAIR solar air heating systems?
+Position of the plaintiffs
+[35]
+The plaintiffs allege that the present case concerns one sole issue; that is, whether the limitation "at the top" found in claims 1 and 10 is essential or not . A finding that said limitation is not essential according to plaintiffs means that it can be omitted and consequently all MatrixAir systems offered for sale and sold by defendant have infringed Canadian Patent 619.
+[36]
+The plaintiffs further assert that the expression "at the top" is not ambiguous but the question is to how the Court must purposively interpret the term in an informed way, taking into consideration the teachings of the patent as would have the skilled addressee in 1994.
+[37]
+The plaintiffs submit that both the '619 patent and the MatrixAir system fundamentally perform the same function in that they
+(1) preheat outside air on the sun facing surface of a transpired air collector;
+(2) withdraw the heated air through the openings on the collector on the basis of a negative pressure behind the plate; and
+(3) further duct the heated air into the building through an inlet using a ventilation fan.
+[38]
+The plaintiffs contend that the position of the air intake in the plenum, in the MatrixAir device, is not "at the top" simply has no material effect on how the invention works.
+[39]
+The plaintiffs submit that MATRIX's contention that its system performs less efficiently due to the effects of buoyancy forces in the plenum is irrelevant. They also claim that this assertion is unsupported by the evidence and contrary to MATRIX's own representation and admissions.
+[40]
+With respect to the second question, that is on the understanding of the relevant person of ordinary skill in the art of solar heating, on February 1, 1994, plaintiffs allege that Dr. Hollands' testimony that it would have been obvious to the person of ordinary skill in the art, at the relevant time, that to place the air inlet at the bottom or below the middle rather than at the top would not have had a material effect on the way the '619 system works. Rather, what was relevant to the person of ordinary skill in the art, at the relevant time, was what was occurring on the outside of the plate, not in the plenum as plenum design was very well known.
+[41]
+Finally, on the third question, plaintiffs refer to Dr. Hollands' assertion that the reader skilled in the art nevertheless would have understood from the wording of the claims that the patentees had not intended strict compliance with the primary meaning of the words used. According to Dr. Hollands, the patentees had clear knowledge of plenum design. Therefore, they knew that the height of the air intake did not have a material effect on the way the system would work. Furthermore, the patentees did suggest that the ventilation fan could be ducted at various levels.
+Position of the defendant
+[42]
+The defendant asserts firstly that plaintiffs bear the burden of proof. They must establish on a balance of probabilities that the MatrixAir system sold after March 31st 2007 infringes at least one claim of patent 619.
+[43]
+With respect to claim 1, MATRIX takes the position that it did not use a "method of preheating ventilation air for a building". Therefore, in order to find infringement, the Court will have to conclude that MATRIX induced the use of said method described in claim 1.
+[44]
+The defendant also claims that since March 31, 2007, it has been selling the MatrixAir system with an intake in the air collection space (between the solar panel and the exterior wall of the building), located at the bottom of the panel. According to defendant this constitutes a "variant"of the system described and claimed in patent 619.
+[45]
+The defendant submits that the words used in claims 1 and 10 are clear and unambiguous and that no evidence was adduced to establish that MATRIX ever sold, installed or induced the installation of a MatrixAir system with an air intake located at the top of the panel.
+[46]
+The defendant further affirms that plaintiffs' contention with respect to infringement can be summarized as follows: on a purposive construction of claims 1 and 10, the location of the air intake at the top of the panel was clearly not intended to be an essential element of the invention and that in any event the skilled addressee would have understood that locating the air intake at the bottom part of the panel would have no material effect on the performance of the invention.
+[47]
+The defendant relies on the principles established by the Supreme Court with respect to patent construction in paragraph 31 and where a variant exits between the features of the device and the limitations of the asserted claims in paragraph 55 of
+Free World Trust
+v. Électro Santé Inc
+, [2000] 2 SCR 1024, [2000] SCJ No 67 [
+Free World Trust
+].
+[48]
+Accordingly the defendant submits that three questions must be answered:
+(1) Does the variant have a material effect upon the way the invention works? If the answer is in the affirmative then the variant is outside the claim.
+(2) If the answer is in the negative would the fact that it has no material effect have been obvious at the date of publication of the patent to a reader skilled in the art? If the answer to this last question is also negative then the variant is also outside the claim.
+(3) Should the answer be affirmative then a third and final question should be answered. Would the reader skilled in the art have nevertheless understood from the language of the claim that the patentee intended that strict compliance with the primary meaning was an essential requirement of the invention?
+[49]
+Finally, the defendant asserts that the location of the air intake in the MatrixAir system has a material effect on the way the invention works and points to testimony provided by one of the patentees, Mr. Hollick, and to Dr. Rice, defendant's expert report and testimony, and thirdly to the lesser performance factor attributed to the MatrixAir system by Natural Resources Canada based on the Bodycote report.
+Analysis
+[50]
+Infringement is not defined in the
+Patent Act
+. The patentee bears the onus of proving that its patent has been infringed (
+ <FRAGMENT_SUPPRESSED>  at para 29 [ <FRAGMENT_SUPPRESSED> ] ). Any act that prevents the enjoyment of the monopolistic rights granted by the patent has been held to constitute infringement ( <FRAGMENT_SUPPRESSED> at para 34;  <FRAGMENT_SUPPRESSED>  (1996), 68 CPR (3d) 72 at para 16). This Court must therefore define the scope of the rights granted in the '619 patent in order to determine whether the defendant's MatrixAir system infringes claims 1 and 10 as alleged by the plaintiffs.
+[51]
+The Supreme Court of Canada defined the approach to claim interpretation in
+Free World Trust
+. Justice Binnie, at paragraph 31 of the decision, states that:
+"(a) the Patent Act promotes adherence to the language of the claims.
+(b) Adherence to the language of the claim in turn promotes both fairness and predictability
+(c) The claim language must, however be read in an informed and purposive way.
+(d) The language of the claims thus construed defines the monopoly. There is no recourse to such vague notions as the 'spirit of the invention' to expand it further.
+(e) The claims language will, on a purposive construction, show that some elements of the claimed invention are essential while others are non-essential. The identification of elements as essential or non-essential are made:
+(i) on the basis of the common knowledge of the worker skilled in the art to which the patent relates;
+(ii) as of the date the patent is published;
+(iii) having regard to whether or not it was obvious to the skilled reader at the time the patent was published that a variant of a particular element would not make a difference to the way in which the invention works; or
+(iv) according to the intent of the inventor, expressed or inferred from the claims, that a particular element is essential irrespective of its practical effect;
+(v) without however, resort to extrinsic evidence of the inventor's intention.
+(f) There is no infringement if an essential element is different or omitted. There may still be infringement, however, if non-essential elements are substituted or omitted."
+[52]
+The Supreme Court also affirmed the primacy of the language of the claims since it defines the monopoly to which the patentee is entitled and the boundaries that cannot be crossed.
+[53]
+The Supreme Court in paragraphs 50, 51 and 54 of the
+Free World Trust
+decision provided further guidance to determine the essential and non-essential elements of a patent which must be determined from the language used in the claims as follows:
+"(i) On the basis of the common knowledge of the worker skilled in the art to which the patent relates.
+(ii) What constitutes an 'essential element' is to be interpreted in light of the knowledge of the art at the date of publication of the patent specification.
+(iii) Regard is to be had to whether it was obvious at the time the patent was published that substitution of a different variant would make a difference to the way in which the invention works."
+[54]
+Justice Binnie went on, in paragraph 55 of the
+Free World Trust
+decision, to consider the following three precise questions identified by J. Hoffman in
+ <FRAGMENT_SUPPRESSED>  that should be answered to determine if the missing element of the asserted claims is essential to the patent:
+"(i) Does the variant have a material effect upon the way the invention works? If yes, the variant is outside the claim. If no:--
+(ii) Would this (i.e. that the variant has no material effect) have been obvious at the date of publication of the patent to a reader skilled in the art? If no, the variant is outside the claim. If yes:--
+(iii) Would the reader skilled in the art nevertheless have understood from the language of the claim that the patentee intended that strict compliance with the primary meaning was an essential requirement of the invention? If yes, the variant is outside the claim."
+[55]
+Furthermore, "the patentee[s] [have] the burden of proving, [on the balance of probabilities], the known and obvious substitutability of a variant in the scope of the claim at the date of publication of the patent" (
+Lapierre
+v
+.
+Équipements d'Érablière C.D.L. Inc.
+, [2004] FCJ No 1091, 33 CPR (4th) 402 at para 35).
+[56]
+The location of the air intake in the MatrixAir systems sold after March 31, 2007, is at the bottom or at least below the midpoint in the air collection space between the solar panel and the outside wall of the buildings where such systems were installed. This constitutes, according to the defendant, the variant from the system described and claimed in patent 619. This Court must therefore determine, on a purposive construction of that patent, whether the position of the air inlet inside the plenum at the top is an essential element of claims 1 and 10 of the '619 patent or not.
+[57]
+Plaintiffs argue that the location of the air inlet is not an essential element since it has no material effect on how the invention works. Dr. Hollands, the plaintiffs' expert, was qualified as an expert in heat transfer, solar heating and fluid mechanics by the Court (transcript, volume 2, pages 66 to 68). Dr. Hollands is the only witness who testified to the effect that locating the air intake at the bottom of the panel would have no material effect upon the way the invention works and that it was not essential (Exhibit P-52, page 7, Dr. Hollands' expert report).
+[58]
+When examined on this point by plaintiffs' counsel, Dr. Hollands explained his understanding of the
+Free World Trust
+decision, at para 55, and more precisely the extract "It would be unfair to allow a patent monopoly to be breached with impunity by a copycat device that simply switched belles and whistles to escape the literal claims of the patent." "Now, in this context I would say with the new ... with the variant, it would ... if we are to take efficiency as being the criteria here, where does that lead us? The device can either be an improvement, improve the efficiency, or it can actually decrease the efficiency. Now, if it's an improvement and improves the efficiency, this is a moot point whether ... I believe that is undecided, as far as I'm concerned. I just want to deal with if it has a negative effect on the efficiency, if it detracts from the efficiency. It if detracts from the efficiency, why is the copycat or ... why is the other person ... why is he bringing it in if it doesn't add to the efficiency, if it's negative on the efficiency. It seems to me the only reason would be is that he just wants to have a device that escapes the literal claims of the patent. So I think there's a conflict between the first question and the spirit of the paragraph, particularly the first sentence, because I think it could be interpreted, if one just looks at the sentence, that if the variant decreases the efficiency ... and efficiency is the criteria to be used here ... that, therefore, you can't get by the first question. I think that may be being argued here; I don't know. And I don't believe that that interpretation is what the authors implied. I'm not ... of course, forgive me for arguing law here, but ... at any rate, for this reason, I did not interpret the effect on efficiency as being the criteria on when we're talking about a material effect, the way the invention works" (transcript, volume 2, page 71, lines 8 to 25 and page 72, lines 1 to 18).
+[59]
+In this context Dr. Hollands was clearly applying a criterion that is not accepted by the jurisprudence of this Court. The criteria is not whether the variant improves the performance of the invention but rather does it have a significant effect on how the device functions, be it positive or negative.
+[60]
+Dr. Rice, defendant's expert, was recognized by the Court as an expert in the field of fluid dynamics and heat transfer, qualified to assist the Court in understanding the apparatus and method described in patent '619 and the workings of the SOLARWALL and MatrixAir devices. He opines that the variants identified in the MatrixAir Sytems have a material effect on the way the invention works. He attributes this difference to the presence of both buoyancy and pressure forces in the plenum. "In the 619 collector" according to Dr. Rice "the buoyancy and pressure forces are in the same direction as the flow, while in the Matrix collector the buoyancy and pressure forces are in opposing directions with the buoyancy force opposing the flow" (Exhibit D-16, pages 14 and 15).
+[61]
+Dr. Hollands did not consider the direction of the buoyancy and pressure forces in the plenum chamber. He simply states that "The details of the airflow in the plenum will depend in a modest way on where the air is taken off the plenum, but these differences in flow pattern will not have a material effect on the overall operation of the device, provided the plenum is properly sized to maintain a uniform pressure" (Expert report of Dr. K.G. Terry Hollands, page 7). By omitting to do so, he did not discuss the role of the air inlet at the top of the panel which is specifically mentioned in claims 1 and 10 of the '619 patent.
+[62]
+Yet when cross examined by defendant's counsel on this very point and when confronted with an opinion previously given, albeit in a different case before the Superior Court of Quebec when comparing the '619 patent and the MatrixAir system, he acknowledged that buoyancy and pressure forces are both at work in the plenum. On page 5 of his report dated August 25, 2010 (Exhibit D-7), he writes:
+"The effect of collector height is to lower the efficiency, sometimes drastically, most especially if air is withdrawn from the bottom of the collector, as in the case of the Matrix collector. Thus it is my opinion that if the collectors had been tested at full height, the MatrixAir performance would have performed even less well vis-à-vis SOLARWALL.
+The reason is something called the buoyancy effect, the chimney effect or the stack effect."
+[63]
+In his expert report dated March 9, 2010 at pages 8 and 9, Dr. Hollands writes: "it is preferred that the duct 34 [be] located at the ceiling level for the sake of convenience in industrial and commercial buildings. Other levels and routings for duct 34 may be chosen in apartment buildings" ('619 patent, page 6, lines 15 to18). According to Dr. Hollands' perspective and his interpretation of the words of the '619 patent, having the air flowing out of the plenum at the top is a matter of convenience and is not an essential variant. This is somewhat contradictory to the conclusions found in D-7, where Dr Hollands writes, in his concluding paragraph at page 9:
+"Based on physical reasoning using well-known laws and supported by thermographic images of systems with low and high intakes, the full-scale systems with low air intake will be more subject to loss flow (flow of air actually leaving the collector and returning to the ambient) and to non uniform air-heating than full scale versions of the systems with high air intake. This will reduce their performance vis-à-vis systems with high air intake even further than the thermal testing had indicated."
+[64]
+On the other hand, Dr. Rice opines that the role of buoyancy forces in a convection process is generally considered to be of "fundamental importance and has a material effect on the resulting flow and heat transfer processes by those of skill in the art" (Exhibit D-16, para 31). Further, on page 17 of his expert report he underlines that "it is interesting to observe that Dr. Hollands makes no mention whatsoever in his report of the role buoyancy forces play in the performance of the UTP collector." According to Dr. Rice, having an air intake near the top of the wall, such as the '619 patent, changes the performance of a system. In his opinion, the variants between claims 1 and 10 of the '619 patent and the MatrixAir system collector have a material effect on the way the invention works.
+[65]
+With respect to both expert reports the Court finds that the probative value of Dr. Hollands' report is seriously undermined and lessened by the contradictions and misinterpretations identified above.
+[66]
+While Dr. Hollands states that there is no variant because of the terms used in the disclosure of the '619 patent. Dr. Rice clearly demonstrates that having the air inlet at the top of the panel would result in a better flow distribution.
+[67]
+Other evidence clearly establishes the inferior performance of the MatrixAir system vis-à-vis the '619 patent because of the location of the air inlet at the bottom or below the midpoint of the panel. Mr. John Hollick stated, in examination on discovery, that there is a benefit lost in the MatrixAir system compared to the CONSERVAL system (the '619 patent) because "he is not collecting as much of the solar heat as he could be collecting had it been properly" (Exhibit D-15, page 46, lines 23 to 25). When asked where to place the inlet in the CONSERVAL system he replied near the top in order to have the benefit (Exhibit D-15, page 47, lines 5 to 10). During the same examination, when questioned on the performance of one system vis-à-vis the other and more precisely on their essential difference, Mr. Hollick stated that the essential difference is the positioning on the air intake and that this provides an essential benefit: "Well according to the EcoEnergy program, our system is rated 1.0 and the matrix system is rated at .86 so there's the federal government recognized that we get at least 14 percent more energy that the Matrix system does" (Exhibit D-15, page 49, lines 20 to 25).
+[68]
+Mr. Clark, the Manager of the EcoENERGY Program at Natural Resources Canada which provided an incentive of 25 percent of the installation and capital costs of solar energy collectors in commercial and institutional buildings, explained how the performance factors were attributed to the MatrixAir system and to the '619 patent system. The latter received a rating of 1.0 whereas the MatrixAir system received a rating of .86. The rating is based on the report by Bodycote which rated the performance factor of different systems (transcript, volume 4, pages 21 to 23). The difference of 14% is significant.
+[69]
+The plaintiffs questioned the reliability of Dr. Rice's testimony, arguing that his report is based solely on a theoretical model and not the actual system. According to the plaintiffs, the evidence presented showed systems where the air intake was actually closer to the middle. The Agreed Statement of Facts and Documents contained drawings for different installations. There was no evidence adduced by any witness on the actual physical location of an air intake in an installed MatrixAir system after March 31, 2007. The only testimony related to an existing installation was the Starbuck Project, in Kanata, Ontario. Even then, Mr. Landry, the contractor, was not able to clearly establish the actual location of the intake. This lack of evidence as to actually built MatrixAir systems also defeats plaintiffs' subsidiary argument on MatrixAir systems with deflectors or large air intakes near the middle.
+[70]
+Upon review the Court finds that Dr. Rice's report is also based on the infrared images of three MatrixAir Collectors that were taken by the plaintiffs. These images showed significant temperature difference at the bottom of the collector and the top which, according to Dr. Rice, confirmed that the variant is not as efficient (Exhibit D-16, pages 19 to 24). The plaintiffs' argument that the report is based on a purely theoretical model must therefore be rejected.
+[71]
+Counsel for plaintiffs argued that the drawings of MatrixAir systems produced by defendant's counsel in the Agreed Statement of Facts and Documents did not portray any reverse flow phenomenon and as such this constitutes a judicial admission. The Court does not accept said argument because the indication of a general flow will not necessarily preclude the existence of reverse flow or the admissibility of expert evidence to establish the existence of such reverse flow. The drawings have to be understood and interpreted in the overall context in which they were produced.
+[72]
+The plaintiffs have not adduced any persuasive evidence showing that the MatrixAir system performs essentially the same as the '619 patent. The burden of proof is on the plaintiffs' patentees. The Court acknowledges that some of the apparatus used is the same, but the performance of one system in relation to the other is significantly different because of the location of the air inlet in the plenum. It is akin to two automobiles, one having rear wheel drive and the other front wheel drive. Both serve the same function but the placement of the drive train does have a direct impact on performance and handling. The variant has a material effect on the way the invention works.
+[73]
+The Court therefore finds, from all the evidence presented, that on a balance of probabilities, the variant, that is the placement of the air inlet at the bottom or at least below the midpoint of the panel, has a material effect on the way the invention described in claims 1 and 10 of the '619 patent works.
+[74]
+To summarize, the plaintiffs have failed to discharge their burden of proving, on a balance of probabilities, that the variant does not have a material effect.
+[75]
+Would it have been obvious, at the date of publication of '619 patent, that is on February 10, 1994, to an expert in the field , that drawing air from the bottom part or at least below the midpoint of the panel would have a material effect upon the way the invention works?
+[76]
+Dr. Hollands, the plaintiffs' expert, opined that it is only through subsequent work in the late 1990's that the phenomenon of reverse flow was identified. On the other hand Mr. Hollick, one of the patentees, testified that drawing air from the bottom defied the basic laws of physics. Dr. Hollands, when cross examined, acknowledged that in 1994 it was known that it was desirable to extract as much of the heated air from the collector as possible (transcript, volume 2, page 203, lines 1-14 and page 204, line 1).
+[77]
+It is obvious from the evidence provided that a person skilled in the art would have understood that the MatrixAir system variant would have a material effect on the way the '619 patent system worked since it ran counter to the basic laws of physics.
+[78]
+If we look at the third question, would a person skilled in the art have understood that strict compliance with the primary meaning was an essential element of the invention?
+[79]
+The disclosure only mentions one location from which to draw the air at the top. The same wording is repeated in claims 1 and 10. It has been established that a person skilled in the art, at the relevant time that is in February 1994, knew that its objective was to draw as much heated air from the collector as possible. The position of the air intake at the top had a direct impact on attaining this, thereby adding to the efficiency of the device.
+[80]
+The Court cannot accept Dr. Hollands' position that the air intake could be located anywhere, since he concluded to the opposite in a previous opinion.
+[81]
+Therefore, the Court concludes, based on the evidence and on the balance of probabilities that on February 10, 1994, a person skilled in the art would nonetheless have concluded, on reading the language in claims 1 and 10 that the patentees believed that strict compliance with the words chosen was a requirement of the invention.
+[82]
+The Court finds that placement of the air inlet at the top of the panel to be an essential element of the '619 patent. Since the placement of the inlet in the variant is at the bottom, therefore at opposites or at least below the midpoint and therefore not at the top, there is no infringement. The MatrixAir system did not infringe patent 619.
+2. If the answer to questions 1 is affirmative, what are the damages to which the plaintiffs are entitled?
+[83]
+The Court's answer to question 1 is negative. As a result, the plaintiffs are not entitled to any damages.
+3. Did MATRIX infringe the SOLARWALL Trade-mark that is the object of Canadian Trade-mark registration TMA371,622 or pass-off in any manner its solar heating systems for those of CONSERVAL?
+Plaintiffs' submissions
+[84]
+In the present case, plaintiffs allege that MATRIX lost all rights to the use of the SOLARWALL Trade-mark when the distributor agreement ended on March 31, 2007 as per section 8.2 of said agreement (Agreed Statement of Facts and Documents, volume III, tab 62).
+[85]
+They also claim that MATRIX failed to remove from its website any reference to the SOLARWALL Trade-mark until at least the summer of 2007 that is three months after the expiry of said distributor agreement. According to the plaintiffs, the defendant, MATRIX, also failed to remove the links from within its website to other pages that contained SOLARWALL material such as Fraser's industrial directory (Exhibit P-32).
+[86]
+The plaintiffs also reference the MATRIX catalogue that was distributed at the CANSIA tradeshow in November 2007, as evidence of Trade-mark infringement since it contained two pages related to SOLARWALL products.
+[87]
+Plaintiffs also claim that defendant failed to refer any potential client interested in a SOLARWALL system as evidenced by Brian Wilkinson's testimony. Rather defendant would have offered its MatrixAir system instead.
+[88]
+Advertising using CONSERVAL's SOLARWALL Trade-mark constitutes according to the plaintiffs an infringement under subsections 6(5), 19, 20(1), and 22(1) of the
+Trade-marks Act
+or at minimum an act of passing-off pursuant to subsections 7(b) and (c) of the
+Trade-marks Act
+. The plaintiffs refer this Court to the safeguard order that was awarded by the Quebec Superior Court in
+ <FRAGMENT_SUPPRESSED> .
+[89]
+Consequently, it claims damages of 10,000$ on the basis that this Court will have partially compensated plaintiffs for lost sales as a result of its claim for patent infringement and since the illegal use of the Trade-mark did eventually cease.
+Defendant's submissions
+[90]
+The defendant claims never to have used the SOLARWALL Trade-mark outside the scope of the distributor agreement. It asserts that during the summer of 2007, Mr. Wilkinson requested that all references to the SOLARWALL Trade-mark be removed from its website.
+[91]
+The defendant acknowledges that it is nor clear whether the reference to the SOLARWALL Trade-mark was still on its website other than by using a "way back" function, but claims that any such reference was associated with plaintiffs' products and not its own since the reference to ownership of the Trade-mark was clearly identified.
+[92]
+Finally, defendant takes the position that if still available on MATRIX's website after March 2007, it was clearly inadvertently and that it derived no benefit from promoting a system that was in direct competition with its own, the MatrixAir system.
+[93]
+The defendant also claims that in order to succeed, plaintiffs had to show that the appearance of the SOLARWALL Trade-mark, on its website, lead to confusion and sales, both of which have not been proven.
+Analysis
+Infringement of the SOLARWALL Trade-mark
+[94]
+Registration number TMA371,622 gives CONSERVAL the exclusive right to the use of the SOLARWALL Trade-mark in respect of the wares for which it is registered.
+[95]
+The plaintiffs plead an infringement of their Trade-mark. They have to prove that the defendant, MATRIX, used the SOLARWALL Trade-mark outside the scope of the Distributor Agreement.
+[96]
+The use of a Trade-mark under section 2 of the
+Trade-marks Act
+means "any use that by section 4 is deemed to be a use in association with wares or services". Section 4(2) of the
+Trade-marks Act
+, specifies that "a trade-mark is deemed to be used in association with services if it is used or displayed in the performance or advertising of those services."
+[97]
+In
+Cie générale des établissements Michelin -  <FRAGMENT_SUPPRESSED>  Justice Teitelbaum writes at paragraph 35 "section 19 requires use of the identical mark for identical wares and services while section 20 states that the mark need only be "confusing" and not identical to the registered mark. Section 22 is even more open-ended since the mark need not even be confusing as long as its use is likely to depreciate the value of the goodwill".
+[98]
+In the present case, Mr. Hollick testified that defendant used the SOLARWALL Trade-mark in several instances after the expiry of the last Distributor Agreement on March 31, 2007.
+(1) In the first instance, he went on the Matrix Energy website in April, 2007, and noticed that SOLARWALL projects and brochures were still mentioned and visible (transcript, volume 1, page 158, lines 12 to 25 and Exhibit P-30).
+(2) On August 8, 2007, Mr. Hollick went on the wayback machine and printed document 52 from the Matrix Energy website (Agreed Statement of Facts and Documents, Volume II, tab 52) which is dated May 16, 2007. It portrays SOLARWALL projects.
+(3) Thirdly, Mr. Hollick explained having picked up a catalogue from the MATRIX booth at the CANSIA conference in November of 2007. Said catalogue contained description of SOLARWALL products on pages 71 and 72 (transcript, volume 1, page 163, lines 3 to 24 and Agreed Statement of facts and Documents, volume II, tab 47).
+(4) In May 2008, the Frasers.com website which is the "to go-directory" for trades also had a link under SOLARWALL to the Matrix Energy website and to a SOLARWALL brochure according to John Hollick (transcript, volume 1, page 167 and Exhibit P-32).
+(5) Exhibits P-33 and P-34 identified by John Hollick are documents describing SOLARWALL projects that still appeared on the Matrix Energy website after March 31, 2007.
+[99]
+The defendant's President, Brian Wilkinson, testified that after it became clear that MATRIX was no longer representing SOLARWALL, he instructed his marketing group to remove all information related to SOLARWALL from the Matrix Energy website around June or July of 2007 (transcript, volume 5, pages 196 to 198, testimony of Brian Wilkinson). Subsequently, in May 2008, Mr. Wilkinson would have been alerted to the fact that SOLARWALL material was appearing on the Matrix Energy website, he followed up with the employee who had been instructed to delete said material in the summer of 2007 (Exhibit D-20, e-mail exchange between Brian Wilkinson and Claudia Matus, May 26, 2008).
+[100]
+When cross examined by plaintiffs' counsel, Mr. Wilkinson acknowledged that pages 71 and 72 of the catalogue distributed by MATRIX at the CANSIA tradeshow in November 2007 (Agreed Statement of Facts and Documents, volume II, tab 47) did portray a SOLARWALL product but that product was for residential use and distributed by Solar Home, a duly licensed distributor of CONSERVAL, who was purchasing the panel from CONSERVAL (transcript, volume 6, pages 58 to 60, Brian Wilkinson cross examination).
+[101]
+Mrs. Matus, the marketing coordinator for MATRIX, testified and explained that she was instructed to delete any reference to SOLARWALL, which she did in 2007. According to her, the pages could still be accessed but they did not appear on the website (transcript, volume 6, pages 3 and 4, testimony of Claudia Matus).
+[102]
+The Court finds that it is clear that all references to the SOLARWALL Trade-mark were not removed after March 31, 2007. At best, the website would have been expurgated at the earliest in June or July of 2007. The reference to two SOLARWALL products in the catalogue distributed in November 2007 is also established and proven but said products do not compete with plaintiffs. The link between SOLARWALL and MatrixAir in the Fraser.com website is clearly beyond the control of the defendant and there was no evidence adduced to link MATRIX with the creation of said link. Therefore, of the five incidents related by plaintiffs, three are proven.
+[103]
+There was no evidence adduced by plaintiffs to establish that the use of the expression "mur solaire" is covered by the SOLARWALL Trade-mark. The owner of the Trade-mark has not registered the French equivalent of SOLARWALL and has therefore no rights with respect to the expression "mur solaire".
+[104]
+The three incidents are the SOLARWALL projects seen in April, May and June 2007 (Exhibits P-30 and P-32, Document 52, Agreed Statement of Facts and Documents and Exhibits). It is not clear whether document 52 could be seen by the general public.
+[105]
+In order to succeed in its claim on infringement and passing-off of the Trade-mark, plaintiffs must also establish that the defendant, MATRIX, has acted in such a way that it is likely to interfere with the services or wares associated with the owner of the SOLARWALL Trade-mark. By its acts, statements and omissions, the defendant, MATRIX has misrepresented to the public that it is an authorized or licensed source of CONSERVAL and SOLARWALL services and wares. As a result of the aforesaid conduct, the plaintiffs have suffered loss and damage.
+[106]
+The defendant, MATRIX, pleads that it has used the plaintiffs' Trade-mark in a proper manner approved by the plaintiffs and in accordance with the Distributor Agreement. The defendant MATRIX also denies that its conduct related to the sale of its MATRIXAIR solar air heating system can in any manner be considered as passing-off its wares, services or business for those of the plaintiffs.
+[107]
+The defendant, MATRIX, adds that the plaintiffs did not suffer any loss or damages by reason of any activity of the defendant, MATRIX.
+[108]
+Although it has been established that the SOLARWALL Trade-mark was used on three occasions by the defendant, the Court concludes that the evidence adduced proves that the use was not to represent the MatrixAir system as a SOLARWALL system, since Mr. Hollick acknowledged that ownership of the Trade-mark was clearly mentioned as CONSERVAL's. Hence, "where the use of the trade mark was not for the purpose of distinguishing the goods as goods of the defendant, there [is] no breach of section 19 of the Act" (
+ <FRAGMENT_SUPPRESSED> ).
+[109]
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], Justice Thurlow concludes at para 33 that:
+... It is, however, in my view, of some importance to bear in mind that in the case of the packages the attack failed not because the trade marks were not used "in association with" the defendants' goods within the meaning of sections 2(v) and 4(1) but because the use made of them "in association with" the defendants' goods was not a use for the purpose of distinguishing the goods as goods of the defendants and for that reason alone was not a use the exclusive right to which had been conferred on the plaintiffs by section 19.
+The Court finds in the present case that the use is somewhat similar to that found in the <FRAGMENT_SUPPRESSED> case cited above. Consequently there is no infringement under sections 19 and 20 of the
+Trade-marks Act
+and no damages can be awarded.
+Depreciation of goodwill under section 22
+[110]
+Plaintiffs claim that defendant depreciated the value of the goodwill associated with the SOLARWALL Trade-mark by their use, that is the manner in which it was presented in the catalogue and on the website after March 31, 2007.
+[111]
+A claim under section 22 is based on a prohibition to use a Trade-mark in association with wares, as defined in section 4, for the purpose of distinguishing such wares with those manufactured by another person in such a manner as to depreciate the value of the goodwill attaching to them. In this instance the issue before the Court pursuant to section 22 is whether the defendant's use of the SOLARWALL Trade-mark after March 31, 2007 diminished its value.
+[112]
+There is no doubt that there is valuable goodwill associated with the SOLARWALL Trade-mark. A depreciation of the value of the SOLARWALL goodwill means to reduce in some way the reputation or to make it less extensive or advantageous. The Court does not have any evidence before it that the goodwill of SOLARWALL was so affected as a result of the references to SOLARWALL projects on the Matrix Energy website or catalogue. In this instance the registered Trade-mark was not used in comparison to the MatrixAir system or in any depreciative manner but rather, it still appeared despite the fact that MATRIX no longer represented CONSERVAL and SOLARWALL products. Clearly there was no malignant intent and no evidence to such effect was presented. What appeared on the Matrix Energy website prior to March 31, 2007 was endorsed by Plaintiffs. In the absence of any evidence proving that what was leftover somehow depreciated the Trade-mark the Court cannot find in favour of plaintiffs. Consequently, the Court must reject the plaintiffs' claim under section 22.
+Confusion as to wares, services or business under section 7(b
+)
+[113]
+Section 7(b) of the
+Trade-marks Act
+does not incorporate criteria specific to Trade-marks which are otherwise governed by section 6 of the
+Trade-marks Act
+. To make a successful claim pursuant to section 7(b) of the
+Trade-marks Act
+, the plaintiffs must meet: i) a conduct test; ii) a confusion test; and iii) a timing test.
+i)
+Conduct test: direct public attention
+[114]
+The plaintiffs had to demonstrate that defendant advertised using the SOLARWALL Trade-mark and sold solar air heating systems to clients under the SOLARWALL name. That was not proven. The presence of the name SOLARWALL on the defendant's website after March 31 could be construed as such, but there was no evidence that MatrixAir systems were sold as SOLARWALL systems.
+ii)
+Confusion test: in such a way as to cause or be likely to cause confusion in Canada
+[115]
+Plaintiffs also had to demonstrate that this conduct fell outside the scope of the Distributor Agreement and brought confusion in the Canadian market. The likelihood of confusion is a matter of first impression and is generally difficult to demonstrate. The Court must take into consideration the fact that both parties are selling solar air heating systems. Solar systems are specialized goods. There is less likelihood of confusion even in the case of identical marks, because it can be assumed that purchasers of solar heating systems make judicious inquiries as to the quality and performance of the wares and services they are purchasing, more so, when the amount of government grants differs between the two systems. In this case, there is no evidence that confusion existed. Furthermore, Mr. Hollick acknowledged, in cross examination, that the notice of ownership of the SOLARWALL Trade-mark also appeared on Exhibits P-33 and P-34 which are the printouts from the Matrix Energy website (transcript, volume 1, page 200, cross examination of John Hollick).
+iii)
+Timing test:
+[116]
+ <FRAGMENT_SUPPRESSED>  at para 34, Justice Gibson points out that "The relevant time to consider in determining whether or not this statutory tort has been committed is the time of the commencement of the employment of any such method of directing public attention to them or it". The plaintiffs have proven that the defendant utilized the SOLARWALL Trade-mark after March 31, 2007.
+[117]
+All three criteria must be satisfied (
+ <FRAGMENT_SUPPRESSED>  13 CPR (4th) 515 at para 36). In light of the absence of evidence before the Court to establish that there was confusion which lead to lost sales, the only evidence adduced was Brian Wilkinson's statement that he did not refer clients back to plaintiffs after March 31st but that does not prove confusion. The second criteria is therefore not met under section 7(b) of the
+Trade-marks Act
+and consequently this claim based on section 7(b) is rejected and no damages can be awarded.
+Statutory passing-off under section 7(c)
+[118]
+In
+Kirkbi AG
+v
+.
+Ritvik Holdings Inc.,
+[2005] 3 SCR 302, 2005 SCC 65, the Supreme Court of Canada underlines the three components of a passing-off action. The three components are: i) the existence of goodwill; ii) deception of the public due to a misrepresentation; and iii) actual or potential damage to the plaintiff.
+i) The existence of goodwill
+[119]
+There is no doubt in the Court's assessment that there is goodwill associated with the SOLARWALL Trade-mark, and that was established by Mr. Hollick's testimony.
+ii) Deception of the public
+[120]
+The action of passing-off covers negligent or careless representation by the trader ( <FRAGMENT_SUPPRESSED> ). The plaintiffs had to demonstrate to the Court that MATRIX' representations misled their clients into thinking they were purchasing SOLARWALL heating systems from CONSERVAL. No evidence was introduced to establish that when MATRIX started promoting its MatrixAir system shortly after March 31, 2007, it used the SOLARWALL Trade-mark in association with its system, save for SOLARWALL projects and catalogue still appearing on the website in April. MATRIX never depicted the MatrixAir system as a SOLARWALL system. In fact, a clear notice appeared distinguishing the variant in the MatrixAir system that is the placement of the air intake.
+iii) Actual or potential damage
+[121]
+The proof of actual or potential damages is essential to any passing-off action under 7(c) of the
+Trade-marks Act
+. The plaintiffs must prove they have suffered damages from the passing-off of their wares by the defendant, MATRIX. There is no evidence before this Court that sales of specific projects were actually lost on account of the three incidents that were proven. CONSERVAL's financial statements were presented but no evidence was provided to link decreased revenues with the illegal use of the SOLARWALL Trade-mark on the website or in the catalogue after March 31, 2007.
+[122]
+Therefore the Court rejects plaintiffs' claim of passing-off and Trade-mark infringement and no damages can be awarded.
+V. CONCLUSION
+[123]
+The defendant, MATRIX, did not infringe the '619 patent by making, designing and selling the MatrixAir system since the placement of the air inlet at the top of the air collection space constitutes an essential element of the invention described in patent 619, more precisely claims 1 and 10. Since the placement of the air inlet in the MatrixAir system is at the bottom or at least below the middle point of the air collection space it constitutes a variant there can therefore be no infringement.
+[124]
+Because there is no infringement the infringement action is dismissed with costs.
+[125]
+The plaintiffs failed to prove loss of sales from the use of the SOLARWALL Trade-mark by defendant, MATRIX, after March 31, 2007. Therefore, their claim for Trade-mark infringement and passing-off is also dismissed, with costs.
+[126]
+THIS COURT'S JUDGMENT is that
+:
+1. The patent infringement action is dismissed with costs against the plaintiffs as per the column 3 of the tariff.
+2. The Trade-mark infringement and passing-off action is also dismissed with costs against the plaintiffs.
+Action dismissed.
+Editor: E. Joanne Oley/tw
+APPENDIX A
+Section 55 of the
+Patent Act
+, RSC, 1985, c. P-4
+Liability for patent infringement
+55.
+(1) A person who infringes a patent is liable to the patentee and to all persons claiming under the patentee for all damage sustained by the patentee or by any such person, after the grant of the patent, by reason of the infringement.
+Liability damage before patent is granted
+(2) A person is liable to pay reasonable compensation to a patentee and to all persons claiming under the patentee for any damage sustained by the patentee or by any of those persons by reason of any act on the part of that person, after the application for the patent became open to public inspection under section 10 and before the grant of the patent, that would have constituted an infringement of the patent if the patent had been granted on the day the application became open to public inspection under that section.
+Patentee to be a party
+(3) Unless otherwise expressly provided, the patentee shall be or be made a party to any proceeding under subsection (1) or (2).
+Deemed action for infringement
+(4) For the purposes of this section and sections 54 and 55.01 to 59, any proceeding under subsection (2) is deemed to be an action for the infringement of a patent and the act on which that proceeding is based is deemed to be an act of infringement of the patent.
+APPENDIX B
+Sections 2, 4(2), 6(5), 7(b) and (c), 19, 20(1) and 22(1) of the
+Trade-marks Act
+, RSC, 1985, c T-13
+Definitions
+2.
+In this Act,
+"use", in relation to a trade-mark, means any use that by section 4 is deemed to be a use in association with wares or services;
+. . . . .
+When deemed to be used
+4.
+(2) A trade-mark is deemed to be used in association with services if it is used or displayed in the performance or advertising of those services.
+. . . . .
+What to be considered
+6.
+(5) In determining whether trade-marks or trade-names are confusing, the court or the Registrar, as the case may be, shall have regard to all the surrounding circumstances including
+(a)
+the inherent distinctiveness of the trade-marks or trade-names and the extent to which they have become known;
+(b)
+the length of time the trade-marks or trade-names have been in use;
+(c)
+the nature of the wares, services or business;
+(d)
+the nature of the trade; and
+(e)
+the degree of resemblance between the trade-marks or trade-names in appearance or sound or in the ideas suggested by them.
+. . . . .
+7.
+No person shall
+. . . . .
+(b)
+direct public attention to his wares, services or business in such a way as to cause or be likely to cause confusion in Canada, at the time he commenced so to direct attention to them, between his wares, services or business and the wares, services or business of another;
+(c)
+pass off other wares or services as and for those ordered or requested
+. . . . .
+Rights conferred by registration
+19.
+Subject to sections 21, 32 and 67, the registration of a trade-mark in respect of any wares or services, unless shown to be invalid, gives to the owner of the trade-mark the exclusive right to the use throughout Canada of the trade-mark in respect of those wares or services;
+. . . . .
+Infringement
+20.
+(1) The right of the owner of a registered trade-mark to its exclusive use shall be deemed to be infringed by a person not entitled to its use under this Act who sells, distributes or advertises wares or services in association with a confusing trade-mark or trade-name, but no registration of a trade-mark prevents a person from making
+(a)
+any bona fide use of his personal name as a trade-name, or
+(b)
+any bona fide use, other than as a trade-mark,
+(i) of the geographical name of his place of business, or
+(ii) of any accurate description of the character or quality of his wares or services,
+in such a manner as is not likely to have the effect of depreciating the value of the goodwill attaching to the trade-mark;
+. . . . .
+Depreciation of goodwill
+22.
+(1) No person shall use a trade-mark registered by another person in a manner that is likely to have the effect of depreciating the value of the goodwill attaching thereto.
+[End of document]

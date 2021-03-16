@@ -1,0 +1,336 @@
+ <FRAGMENT_SUPPRESSED>  CF 253)
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Russell, J.
+March 14, 2014.
+Counsel:
+Lorne Waldman and Adrienne Smith, for the applicant;
+Martin Anderson, for the respondent.
+Solicitors of Record:
+Waldman & Associates, Toronto, Ontario, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+INTRODUCTION
+[1]
+Russell, J.
+: This is an application for judicial review under subsection 72(1) of the
+Immigration and Refugee Protection Act
+, SC- 2001, c 27 [Act] and section 18.1 of the
+Federal Courts Act
+, RSC 1985, c F-7. The Applicant is requesting an order of
+mandamus
+with respect to his application for permanent residence in Canada as a member of the Federal Skilled Worker [FSW] class.
+BACKGROUND
+[2]
+The Applicant is a citizen of China. He submitted an application for Permanent Residence as a FSW through the Beijing visa office on or about 7 December 2007. After he was married in August 2008, his spouse was included in his application as a dependent.
+[3]
+On 20 October 2010, a Program Assistant at the Beijing Embassy reviewed the Applicant's application and assessed it against the selection criteria listed in section 76 of the
+Immigration and Refugee Protection Regulations, SOR/2002-227
+[Regulations]. Based on this review, the Program Assistant calculated that the Applicant would receive 68 points, and noted this total in his file on the Computer-Assisted Immigration Processing System [CAIPS].
+[4]
+On 29 March 2012, the Federal government proposed amendments to the Act. These amendments included the addition of section 87.4, which terminated FSW applications filed before 27 February 2008, unless an officer had determined before 29 March 2012 that the FSW selection criteria and other statutory requirements were met.
+[5]
+On 29 June 2012, section 87.4 of the Act came into force. On 17 December 2012, the Applicant received correspondence from Citizenship and Immigration Canada [CIC] informing him that since a selection decision had not been made on his application before 29 March 2012, his application had been terminated by operation of law.
+[6]
+This application for judicial review was originally included as part of a representative proceeding challenging the termination of some 1400 FSW applications under section 87.4, which has now been heard and determined by my colleague Justice Rennie: see
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]. Justice Rennie dismissed the applications, while certifying certain questions of general importance under subsection 74(d) of the Act, and an appeal to the Federal Court of Appeal is currently under way (Federal Court of Appeal File No. A-185-13). However, prior to the determination of <FRAGMENT_SUPPRESSED> , above, the Court had granted the Applicant permission to file a separate application and record on 9 January 2013, and leave on that separate application was granted on 6 September 2013. The Applicant argues that the factual basis of his claim differs from the claims at issue in the <FRAGMENT_SUPPRESSED> proceeding, and that the Court should reach a different conclusion.
+STATUTORY PROVISIONS
+[7]
+The following provisions of the Act are applicable in these proceedings:
+Application made before February 27, 2008
+87.4 (1) An application by a foreign national for a permanent resident visa as a member of the prescribed class of federal skilled workers that was made before February 27, 2008 is terminated if, before March 29, 2012, it has not been established by an officer, in accordance with the regulations, whether the applicant meets the selection criteria and other requirements applicable to that class.
+[...]
+Demandes antérieures au 27 février 2008
+87.4 (1) Il est mis fin à toute demande de visa de résident permanent faite avant le 27 février 2008 au titre de la catégorie réglementaire des travailleurs qualifiés (fédéral) si, au 29 mars 2012, un agent n'a pas statué, conformément aux règlements, quant à la conformité de la demande aux critères de sélection et autres exigences applicables à cette catégorie.
+[...]
+[8]
+The following provisions of the Regulations are applicable in these proceedings:
+Selection criteria
+76. (1) For the purpose of determining whether a skilled worker, as a member of the federal skilled worker class, will be able to become economically established in Canada, they must be assessed on the basis of the following criteria:
+(a) the skilled worker must be awarded not less than the minimum number of required points referred to in subsection (2) on the basis of the following factors, namely,
+(i) education, in accordance with section 78,
+(ii) proficiency in the official languages of Canada, in accordance with section 79,
+(iii) experience, in accordance with section 80,
+(iv) age, in accordance with section 81,
+(v) arranged employment, in accordance with section 82, and
+(vi) adaptability, in accordance with section 83; and
+(b) the skilled worker must
+(i) have in the form of transferable and available funds, unencumbered by debts or other obligations, an amount equal to one half of the minimum necessary income applicable in respect of the group of persons consisting of the skilled worker and their family members, or
+(ii) be awarded points under paragraph 82(2)(a), (b) or (d) for arranged employment, as defined in subsection 82(1), in Canada.
+Number of points
+(2) The Minister shall fix and make available to the public the minimum number of points required of a skilled worker, on the basis of
+(a) the number of applications by skilled workers as members of the federal skilled worker class currently being processed;
+(b) the number of skilled workers projected to become permanent residents according to the report to Parliament referred to in section 94 of the Act; and
+(c) the potential, taking into account economic and other relevant factors, for the establishment of skilled workers in Canada.
+[...]
+Critères de sélection
+76. (1) Les critères ci-après indiquent que le travailleur qualifié peut réussir son établissement économique au Canada à titre de membre de la catégorie des travailleurs qualifiés (fédéral):
+a) le travailleur qualifié accumule le nombre minimum de points visé au paragraphe (2), au titre des facteurs suivants:
+(i) les études, aux termes de l'article 78,
+(ii) la compétence dans les langues officielles du Canada, aux termes de l'article 79,
+(iii) l'expérience, aux termes de l'article 80,
+(iv) l'âge, aux termes de l'article 81,
+(v) l'exercice d'un emploi réservé, aux termes de l'article 82,
+(vi) la capacité d'adaptation, aux termes de l'article 83;
+b) le travailleur qualifié:
+(i) soit dispose de fonds transférables et disponibles - non grevés de dettes ou d'autres obligations financières - d'un montant égal à la moitié du revenu vital minimum qui lui permettrait de subvenir à ses propres besoins et à ceux des membres de sa famille,
+(ii) soit s'est vu attribuer des points aux termes des alinéas 82(2)a), b) ou d) pour un emploi réservé, au Canada, au sens du paragraphe 82(1).
+Nombre de points
+(2) Le ministre établit le nombre minimum de points que doit obtenir le travailleur qualifié en se fondant sur les éléments ci-après et en informe le public:
+a) le nombre de demandes, au titre de la catégorie des travailleurs qualifiés (fédéral), déjà en cours de traitement;
+b) le nombre de travailleurs qualifiés qui devraient devenir résidents permanents selon le rapport présenté au Parlement conformément à l'article 94 de la Loi;
+c) les perspectives d'établissement des travailleurs qualifiés au Canada, compte tenu des facteurs économiques et autres facteurs pertinents.
+[...]
+ISSUES
+[9]
+The Applicant raises the following issue:
+a. Is the Applicant's application terminated by operation of section 87.4 of the Act?
+ARGUMENTS
+The Applicant
+[10]
+The Applicant submits that the CAIPS notes show that an officer established, prior to 29 March 2012, that the Applicant met the selection criteria for the FSW class. As such, section 87.4 ought not to apply to him.
+[11]
+The Applicant says that section 87.4 does not terminate all FSW applications received before 27 February 2008. Rather, it selectively terminates certain of these applications. For each file, he argues, an individualized assessment must be made as to whether the file was reviewed by an officer and a determination was made prior to 29 March 2012 that the applicant met the selection criteria. In this case, he argues, the CAIPS notes show that a determination was made on 20 October 2010 that he met the selection criteria. As such, his application should not have been automatically terminated under section 87.4.
+[12]
+The Applicant argues that this interpretation is confirmed by reviewing Operational Bulletin 442 [OB 442], which provides instructions for processing FSW applications received prior to 27 February 2008 in light of the enactment of section 87.4. He says that OB 442 presents three scenarios where an FSW application received before 27 February 2008 will not be terminated: 1) where a positive determination has been made and entered into the processing system prior to 29 March 2012; 2) where a selection decision was not entered into the processing system, but the file notes prior to 29 March 2012 clearly state that the selection criteria have or have not been met; and 3) where a negative decision was previously made but the file was re-opened due to an order of a Superior Court (including the Federal Court) or a settlement agreement entered into by way of a Court order. The Applicant argues that he falls within the second category: while no final selection decision was entered into the processing system, the CAIPS notes clearly state that he met the selection criteria.
+i. Selection criteria under section 76 of the Regulations
+[13]
+The Applicant submits that the term "selection criteria" in section 87.4 refers to the "points system" established by section 76 of the Regulations. FSW applicants must receive at least 67 points. Since the Applicant was awarded 68 points, he met the selection criteria.
+[14]
+The Applicant argues that section 87.4 must be interpreted restrictively using the principles of statutory interpretation. The provision does not state that a final selection decision must have been made before 29 March 2012 in order to avoid termination of the application. The provision makes no mention of a final decision. Rather, it states that it must have been "established" by an officer prior to 29 March 2012 that the Applicant met the selection criteria. In this case, he argues, this requirement was met, because the CAIPS notes entered on 20 October 2010 show an officer's assessment that he met the selection criteria.
+[15]
+The Applicant does not dispute the Respondent's assertion that a Program Assistant does not have the authority to make a final decision on the Applicant's FSW application. However, he argues that section 87.4 does not require a final decision. He says that OB 442, discussed below, makes no distinction between an assessment made by a Program Assistant and an assessment made by a visa officer.
+[16]
+While the Applicant maintains that a final selection decision is not required under section 87.4, he notes that CIC inquiries into admissibility criteria, such as health and security checks, are indications that such a decision has been made. He says it is CIC procedure to request a medical examination only after an applicant has been found to meet the selection criteria, and the CAIPS notes reveal that medical checks were initiated on his application on 23 November 2010. This is indicated by the notation "IMM1017S REQUESTED: 23-11-2010", and suggests that a positive selection decision had been made. The Applicant says that the Respondent's submissions on this point are contradictory: the Respondent acknowledges at one point that medical checks may have been triggered, but argues elsewhere that the fact that medical checks were not initiated is evidence that the review of the Applicant's application did not result in a favourable selection decision.
+ii. Operational Bulletin 442
+[17]
+The Applicant asserts that OB 442, mentioned above, entitles him to have his application processed to a final decision. OB 442 states that a decision as to whether the applicant meets the selection criteria "was made" prior to 29 March 2012 if "the file notes clearly state that the selection criteria have or have not been met, but a selection decision has not yet been entered into the processing system." Here, it is clear that a Program Assistant reviewed the file on 20 October 2012, after the Applicant had submitted everything that was required, and awarded the Applicant 68 points. Therefore, the Program Assistant made a determination that the Applicant met the selection criteria.
+[18]
+The Applicant says that the language of OB 442 supports his view that section 87.4 does not require a final decision. OB 442 recommends processing applications to a final decision in cases where it was established before 29 March 2012 that the applicant met the selection criteria, but the application was not finalized prior to 29 June 2012. This indicates that the word "established" in section 87.4 does not mean that a final selection decision must have been made.
+[19]
+Furthermore, none of the scenarios described in OB 442 that indicate that a selection decision was "not made" apply to the Applicant. Apart from additional documentation relating to the birth of his son, which was requested on 17 April 2012, no further documentation was requested from him that could have served to inform of a selection decision.
+The Respondent
+i. Application Properly Identified as Terminated
+[20]
+The Respondent asserts that the Applicant's application was terminated when subsection 87.4(1) came into force on 29 June 2012. Only a conclusive determination by a visa officer before 29 March 2012 that the Applicant met the selection criteria would avoid termination, and such a determination did not occur.
+[21]
+For a FSW applicant who applied before 27 February 2008 to avoid having their application terminated, he or she must demonstrate: I) the existence of a conclusive selection decision; ii) made on or before 28 March 2012; iii) by an officer authorized by law to assess the selection criteria: <FRAGMENT_SUPPRESSED> , above, at para 28.
+[22]
+The Respondent says that the word "established," which precedes the phrase "meets the selection criteria," envisions a conclusive determination on the selection criteria. When used in a statutory provision, the word "established" requires that the fact in question be demonstrated on a balance of probabilities:
+ <FRAGMENT_SUPPRESSED> .
+[23]
+The Program Assistant who conducted the review was not a visa officer or a Designated Immigration Officer and was not authorized to make a selection decision. While the term "officer" is not defined in the Act, section 2 of the Regulations defines it to mean "a person designated as an officer by the Minister under subsection 6(1) of the Act." The CIC Instruments of Designation and Delegation stipulate which officials at visa posts are authorized to assess FSW applications based on the FSW selection criteria. The Program Assistant lacked the authority to make a selection decision, and was not an "officer" as contemplated in subsection 87.4(1).
+[24]
+Furthermore, the Respondent argues, the 20 October 2010 paper screening was not a selection decision. It was tentative, not conclusive. It outlined the points that the Applicant might receive based on the selection criteria, pending the receipt of further information. For example, three points were preliminarily allocated for adaptability, but this was subject to confirmation of the Applicant's wife's educational credentials. <FRAGMENT_SUPPRESSED> , above, at para 28 confirmed that a paper screening is not a selection decision as envisioned in subsection 87.4(1). OB 442 also confirms that a preliminary review of the file does not qualify as a selection decision pursuant to paragraph 87.4(1), and that no decision could have been made when further information had been requested but not assessed.
+[25]
+As further evidence that a favourable selection decision was not made, the Respondent notes that the security, criminality or medical checks that would have resulted from such a decision were not initiated.
+[26]
+The Respondent argues that the rules of statutory interpretation require that subsection 87.4(1) be given a large and liberal interpretation that best ensures the attainment of its objects:
+Interpretation Act
+, RSC 1985, c I-21, section 12. The terms in the provision must be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament:
+Rizzo & Rizzo Shoes Ltd. (Re),
+[1998] 1 SCR 27. This Court has affirmed that the language in subsection 87.4(1) displaces the presumptions against retrospectivity and interference with vested rights that might otherwise warrant a restrictive interpretation: <FRAGMENT_SUPPRESSED> , above, at paras 22-23 and 29.
+[27]
+Subsection 87.4(1) does not require an individualized assessment of the case for non-termination before a FSW application can be identified as terminated. The factual criteria for termination either do or do not exist: <FRAGMENT_SUPPRESSED> , above, at paras 31 and 36. Subsection 87.4(1) provides no discretion to avoid termination if these factual criteria are met.
+ii.
+Mandamus
+Cannot be Issued
+[28]
+The Respondent submits that
+mandamus
+cannot be issued because the application was terminated by operation of law pursuant to paragraph 87.4(1). Mandamus cannot lie to compel a decision on an application that no longer exists:
+ <FRAGMENT_SUPPRESSED> ; <FRAGMENT_SUPPRESSED> , above, at para 139.
+ANALYSIS
+[29]
+At the judicial review hearing before me the Applicant conceded that Justice Rennie has already assessed most of the issues raised in this case in <FRAGMENT_SUPPRESSED> , above. Justice Rennie certified several questions in <FRAGMENT_SUPPRESSED> , so those issues will be determined by the Federal Court of Appeal.
+[30]
+The only issue before me is a factual one. The Applicant says that, in his case, a positive selection decision was made by a qualified officer before 29 March 2012. The evidentiary basis offered for this assertion is the affidavit of Mr. Daniel Vaughan submitted by the Respondent in the present application. Mr. Vaughan is the Operations Manager in the Immigration Section in Beijing.
+[31]
+Paragraphs 3 to 5 of Mr. Vaughan's affidavit read as follows:
+3. I reviewed the CAIPS notes pertaining to the Applicant's terminated FSW application. There is an October 20 2010 entry in the CAIPS made by "VCH". The initials VCH refer to Victoria Chua. Ms. Chua is locally engaged staff employed at the Canadian Embassy in Beijing. Although I was not responsible for the assessment of economic applications in October 2010, I understand that, at that time, Program Assistants in Beijing would review FSW applications and enter points against selection criteria in preparation for review by an officer. This was an administrative task - taking information on file at face value and putting the information against the assessment criteria. The file was then reviewed by an officer for selection; only after an officer had reviewed the file would a selection decision be entered, and next processing actions initiated. Program Assistants do not have the delegated authority to make selection decisions.
+4. Based on my knowledge of the locally engaged staff, I can confirm that Victoria Chua was employed in the Immigration Section as a Program Assistant in the Immigration Registry at the time I arrived in Beijing. She joined the Economic Class Unit as a Program Assistant in September, 2010. Although she was not under my supervision as a member of the Economic Class Unit, I was aware of the work performed by Program Assistants in that unit. Ms. Chua continued to work in the Economic Class Unit until April, 2011. She worked in the Family Class Unit from April, 2011 to November, 2011 as a Program Assistant; since November, 2011 she has worked as a Program, Assistant in the Medical Unit.
+5. At no time has Ms Chua worked as a Visa Officer or Designated Immigration Officer or possessed the authority to render decisions on immigration applications.
+[32]
+I cannot accept the Applicant's interpretation of these paragraphs. I do not think Mr. Vaughan is saying that a selection decision was made in this case. The affidavit read as a whole makes it clear that he is referring to the general process involved, and not the Applicant's particular file. In my view, the affidavit shows that no selection decision was made by a qualified officer.
+[33]
+There is nothing else on the record before me that supports the proposition that a selection decision was made in this case that would exempt the Applicant from subsection 87.4(1) of the Act. That being the case, his application was terminated and there is no basis for a grant of
+mandamus
+.
+[34]
+Counsel agree there is no question for certification and the Court concurs.
+JUDGMENT
+[35]
+THIS COURT'S JUDGMENT is that
+:
+1. The application is dismissed.
+2. There is no question for certification.
+.........................
+ <FRAGMENT_SUPPRESSED>  Russell
+[Traduction]: La Cour est saisie d'une demande de contrôle judiciaire présentée en vertu du paragraphe 72(1) de la
+Loi sur l'immigration et la protection des réfugiés
+, LC 2001, c 27 (la Loi), et de l'article 18.1 de la
+Loi sur les Cours fédérales,
+LRC 1985, c F-7. Le demandeur sollicite un bref de
+mandamus
+relativement à sa demande de résidence permanente au Canada présentée à titre de membre de la catégorie des travailleurs qualifiés (fédéral) (la catégorie des TQF).
+LE CONTEXTE
+[2]
+Le demandeur est citoyen de la Chine. Il a présenté une demande de résidence permanente, au titre de la catégorie des TQF, au bureau des visas à Beijing vers le 7 décembre 2007. Après son mariage en août 2008, son épouse a été inscrite dans sa demande comme personne à charge.
+[3]
+Le 20 octobre 2010, une adjointe aux programmes à l'ambassade de Beijing a examiné la demande du demandeur et l'a appréciée eu égard aux critères de sélection énumérés à l'article 67 du
+Règlement sur l'immigration et la protection des réfugiés
+, DORS/2002-227 [le Règlement
+].
+Se fondant sur cet examen, l'adjointe aux programmes a estimé que le demandeur recevrait 68 points et a inscrit ce nombre de points dans son dossier du système de traitement informatisé des dossiers d'immigration [le STIDI].
+[4]
+Le 29 mars 2012, le gouvernement fédéral a proposé des modifications à la Loi. Ces modifications prévoyaient l'ajout de l'article 87.4, lequel a mis fin aux demandes au titre de la catégorie des TQF déposées avant le 27 février 2008, à moins qu'un agent n'eût décidé avant le 29 mars 2012, que les critères de sélection et autres exigences réglementaires applicables à la catégorie des TQF aient été remplis.
+[5]
+Le 29 juin 2012, l'article 87.4 de la Loi est entré en vigueur. Le 17 décembre 2012, le demandeur a reçu une lettre de Citoyenneté et Immigration Canada [CIC] par laquelle on l'informait que comme une décision quant à la sélection n'avait pas été prise dans le cadre de sa demande avant le 29 mars 2012, il était mis fin à sa demande par application de la Loi.
+[6]
+La présente demande de contrôle judiciaire faisait à l'origine partie de l'instance par représentation d'environ 1400 demandes au titre de la catégorie des TQF visant à contester la caducité des demandes, en vertu de l'article 87.4. Cette instance par représentation a maintenant été entendue et tranchée par mon collègue, le juge Rennie: voir la décision
+ <FRAGMENT_SUPPRESSED> et 36 [ <FRAGMENT_SUPPRESSED> ]. Bien qu'il ait certifié certaines questions de portée générale, le juge Rennie a rejeté les demandes, en vertu de l'alinéa 74
+d
+) de la Loi. Un appel a été interjeté à la Cour d'appel fédérale et il est en cours (Cour d'appel fédérale dossier no A-185-13). Toutefois, avant que la décision <FRAGMENT_SUPPRESSED> , précitée, ne soit rendue, la Cour a accordé au demandeur l'autorisation de déposer une demande et un dossier distincts, le 9 janvier 2013; il a été fait droit à la demande distincte d'autorisation, le 6 septembre 2013. Le demandeur soutient que le fondement factuel de sa demande est différent de celui des demandes en litige dans la décision <FRAGMENT_SUPPRESSED> et que la Cour devrait arriver à une conclusion différente.
+LES DISPOSITIONS LÉGALES APPLICABLES
+[7]
+Les dispositions suivantes de la Loi s'appliquent à la présente instance:
+Demandes antérieures au 27 février 2008
+87.4 (1) Il est mis fin à toute demande de visa de résident permanent faite avant le 27 février 2008 au titre de la catégorie réglementaire des travailleurs qualifiés (fédéral) si, au 29 mars 2012, un agent n'a pas statué, conformément aux règlements, quant à la conformité de la demande aux critères de sélection et autres exigences applicables à cette catégorie.
+[...]
+Application made before February 27, 2008
+87.4 (1) An application by a foreign national for a permanent resident visa as a member of the prescribed class of federal skilled workers that was made before February 27, 2008 is terminated if, before March 29, 2012, it has not been established by an officer, in accordance with the regulations, whether the applicant meets the selection criteria and other requirements applicable to that class.
+[...]
+[8]
+Les dispositions suivantes du Règlement s'appliquent à la présente instance:
+Critères de sélection
+76. (1) Les critères ci-après indiquent que le travailleur qualifié peut réussir son établissement économique au Canada à titre de membre de la catégorie des travailleurs qualifiés (fédéral):
+a) le travailleur qualifié accumule le nombre minimum de points visé au paragraphe (2), au titre des facteurs suivants:
+(i) les études, aux termes de l'article 78,
+(ii) la compétence dans les langues officielles du Canada, aux termes de l'article 79,
+(iii) l'expérience, aux termes de l'article 80,
+(iv) l'âge, aux termes de l'article 81,
+(v) l'exercice d'un emploi réservé, aux termes de l'article 82,
+(vi) la capacité d'adaptation, aux termes de l'article 83;
+b) le travailleur qualifié:
+(i) soit dispose de fonds transférables et disponibles - non grevés de dettes ou d'autres obligations financières - d'un montant égal à la moitié du revenu vital minimum qui lui permettrait de subvenir à ses propres besoins et à ceux des membres de sa famille,
+(ii) soit s'est vu attribuer des points aux termes des alinéas 82(2)a), b) ou d) pour un emploi réservé, au Canada, au sens du paragraphe 82(1).
+Nombre de points
+(2) Le ministre établit le nombre minimum de points que doit obtenir le travailleur qualifié en se fondant sur les éléments ci-après et en informe le public:
+a) le nombre de demandes, au titre de la catégorie des travailleurs qualifiés (fédéral), déjà en cours de traitement;
+b) le nombre de travailleurs qualifiés qui devraient devenir résidents permanents selon le rapport présenté au Parlement conformément à l'article 94 de la Loi;
+c) les perspectives d'établissement des travailleurs qualifiés au Canada, compte tenu des facteurs économiques et autres facteurs pertinents.
+[...]
+Selection criteria
+76. (1) For the purpose of determining whether a skilled worker, as a member of the federal skilled worker class, will be able to become economically established in Canada, they must be assessed on the basis of the following criteria:
+(
+a
+) the skilled worker must be awarded not less than the minimum number of required points referred to in subsection (2) on the basis of the following factors, namely,
+(i) education, in accordance with section 78,
+(ii) proficiency in the official languages of Canada, in accordance with section 79,
+(iii) experience, in accordance with section 80,
+(iv) age, in accordance with section 81,
+(v) arranged employment, in accordance with section 82, and
+(vi) adaptability, in accordance with section 83; and
+(
+b
+) the skilled worker must
+(i) have in the form of transferable and available funds, unencumbered by debts or other obligations, an amount equal to one half of the minimum necessary income applicable in respect of the group of persons consisting of the skilled worker and their family members, or
+(ii) be awarded points under paragraph 82(2)(a), (b) or (d) for arranged employment, as defined in subsection 82(1), in Canada.
+Number of points
+(2) The Minister shall fix and make available to the public the minimum number of points required of a skilled worker, on the basis of
+(
+a
+) the number of applications by skilled workers as members of the federal skilled worker class currently being processed;
+(
+b
+) the number of skilled workers projected to become permanent residents according to the report to Parliament referred to in section 94 of the Act; and
+(
+c
+) the potential, taking into account economic and other relevant factors, for the establishment of skilled workers in Canada.
+[...]
+LA QUESTION EN LITIGE
+[9]
+Le demandeur soulève la question suivante:
+a. Est-il mis fin à la demande du demandeur en vertu de l'article 87.4 de la Loi?
+LES ARGUMENTS
+Le demandeur
+[10]
+Le demandeur soutient que les notes du STIDI révèlent qu'un agent a décidé, avant le 29 mars 2012, qu'il avait satisfait aux critères de sélection de la catégorie des TQF. Ainsi, l'article 87.4 n'est pas censé s'appliquer à sa demande.
+[11]
+Selon le demandeur, l'article 87.4 ne met pas fin à toutes les demandes au titre de la catégorie des TQF reçues avant le 27 février 2008. Au contraire, cet article met fin à certaines demandes, de façon sélective. Le demandeur soutient que pour chaque dossier, une appréciation individualisée doit être faite quant à savoir si le dossier a été examiné par un agent et si une décision a été prise, avant le 29 mars 2012, selon laquelle le demandeur a satisfait aux critères de sélection. Selon le demandeur, en l'espèce, il ressort des notes du STIDI que le 20 octobre 2010 une décision a été prise selon laquelle il a satisfait aux critères de sélection. Ainsi, il n'aurait pas dû être automatiquement mis fin à sa demande, en vertu de l'article 87.4.
+[12]
+Selon le demandeur, cette interprétation est étayée par la lecture du Bulletin opérationnel 442 [BO 442] qui donne des instructions pour le traitement des demandes au titre de la catégorie des TQF reçues avant le 27 février 2008, à la suite de l'adoption de l'article 87.4. Selon le demandeur, le BO 442 énonce trois hypothèses dans lesquelles il ne serait pas mis fin à une demande au titre de la catégorie des TQF reçue avant le 27 février 2008: 1) lorsqu'une décision favorable a été prise et entrée dans le système de traitement avant le 29 mars 2012; 2) lorsqu'on a inscrit clairement dans les notes au dossier, avant le 29 mars 2012, que le demandeur répond ou pas aux critères de sélection, sans qu'une décision de sélection ait encore été entrée dans le système de traitement; 3) lorsqu'on a rouvert le dossier - qui avait été fermé à la suite d'une décision défavorable - pour un nouvel examen en vertu d'une ordonnance d'une cour supérieure (y compris de la Cour fédérale) ou d'un règlement à l'amiable intervenu par le truchement d'une ordonnance judiciaire. Le demandeur prétend qu'il appartient à la deuxième catégorie: bien qu'une décision quant à la sélection n'ait pas été entrée dans le système de traitement, il ressort clairement des notes du STIDI qu'il a satisfait aux critères de sélection.
+i. Les critères de sélection en vertu de l'article 76 du Règlement
+[13]
+Le demandeur soutient que l'expression « critères de sélection » à l'article 87.4 renvoie au système de points prévu à l'article 76 du Règlement. Les demandeurs au titre de la catégorie des TQF doivent obtenir au moins 67 points. Étant donné que le demandeur s'est vu accorder 68 points, il a satisfait aux critères de sélection.
+[14]
+Le demandeur soutient qu'il faut interpréter l'article 87.4 de façon restrictive suivant les principes d'interprétation des lois. L'article ne mentionne pas qu'une décision définitive quant à la sélection doit avoir été prise avant le 29 mars 2012 pour qu'il ne soit pas mis fin à la demande. L'article ne fait aucune mention d'une décision définitive. Au contraire, il en ressort qu'un agent doit avoir « statué », avant le 29 mars 2012, que le demandeur a satisfait aux critères de sélection. Selon le demandeur, en l'espèce, cette exigence a été remplie, parce que les notes du STIDI entrées le 20 octobre 2010 faisaient état de l'appréciation de l'agente selon laquelle il a satisfait aux critères de sélection.
+[15]
+Le demandeur ne conteste pas l'affirmation du défendeur selon laquelle un adjoint aux programmes n'a pas le pouvoir de prendre une décision définitive quant à sa demande au titre de la catégorie des TQF. Toutefois, il soutient que l'application de l'article 87.4 ne requiert pas de décision définitive. Il affirme que le BO 442, précité, ne fait pas de distinction entre une appréciation faite par un adjoint aux programmes et une appréciation faite par un agent des visas.
+[16]
+Bien que le demandeur soutienne qu'une décision définitive quant à la sélection n'est pas requise pour l'application de l'article 87.4, il relève que les questions de CIC quant aux critères d'admissibilité, telles que l'examen médical et la vérification de sécurité, sont des indices qu'une telle décision a été prise. Il affirme que la procédure suivie par CIC consiste à demander un examen médical seulement après qu'il eut été décidé que le demandeur a satisfait aux critères de sélection, et que les notes du STIDI révèlent que des examens médicaux avaient été demandés, le 23 novembre 2010, dans le cadre de sa demande. Cela ressort de la mention « IMM1017S demandé: 23-11-2010 » et cela donne à penser qu'une décision favorable quant à la sélection avait été prise. Le demandeur affirme que les observations du défendeur sont contradictoires sur cet aspect: d'une part, le défendeur reconnaît que les examens médicaux peuvent avoir été demandés, mais il déclare d'autre part que le fait que les examens médicaux n'ont pas été demandés est la preuve que l'examen de la demande du demandeur n'a pas entraîné une décision favorable quant à la sélection.
+ii. Le Bulletin opérationnel 442
+[17]
+Le demandeur affirme que le BO 442, précité, lui donne le droit de voir sa demande traitée et une décision définitive prise. Selon le BO 442, la décision quant à savoir si un demandeur satisfait aux critères de sélection « a été prise » avant le 29 mars 2012, si « on a inscrit clairement dans les notes au dossier que le demandeur répond ou pas aux critères de sélection, sans qu'une décision de sélection ait encore été entrée dans le système de traitement ». En l'Espèce, il est évident qu'une adjointe aux programmes a examiné le dossier le 20 octobre 2012, après que le demandeur eut présenté tout ce qu'on lui avait demandé, et qu'elle a accordé 68 points au demandeur. Par conséquent, l'adjointe aux programmes a décidé que le demandeur a satisfait aux critères de sélection.
+[18]
+Le demandeur déclare que le libellé du BO 442 étaye son point de vue selon lequel l'article 87.4 ne requiert pas de décision définitive. Le BO 442 recommande le traitement des demandes jusqu'à ce qu'une décision définitive soit prise dans les cas où il a été statué, avant le 29 mars 2012, que le demandeur a satisfait aux critères de sélection, mais qu'il n'a pas été statué sur la demande avant le 29 juin 2012. Ce qui indique que le terme « statué » à l'article 87.4 ne signifie pas qu'une décision définitive quant à la sélection doit avoir été prise.
+[19]
+En outre, aucune des hypothèses envisagées dans le BO 442 qui indique qu'une décision quant à la sélection n'avait « pas été prise » ne s'applique au demandeur. Hormis des documents supplémentaires relatifs à la naissance de son fils, lesquels ont été demandés le 17 avril 2012, aucun autre document n'a été demandé au demandeur qui pourrait servir à une décision informée quant à la sélection.
+Le défendeur
+i. Demande à laquelle il a été adéquatement mis fin
+[20]
+Le défendeur affirme qu'il a été mis fin à la demande du demandeur le 29 juin 2012, lorsque le paragraphe 87.4(1) est entré en vigueur. Seule une conclusion définitive prise par un agent des visas avant le 29 mars 2012 selon laquelle le demandeur a satisfait aux critères de sélection pourrait empêcher qu'il soit mis fin à la demande et une telle conclusion n'a pas été tirée.
+[21]
+Pour qu'il ne soit pas mis fin à sa demande au titre de la catégorie des TQF avant le 27 février 2008, le demandeur doit établir: i) qu'il existe une conclusion définitive quant à la sélection; ii) que la conclusion a été tirée avant le 28 mars 2012; iii) que la conclusion a été tirée par un agent autorisé en droit à apprécier les critères de sélection: décision <FRAGMENT_SUPPRESSED> , précitée, au paragraphe 28.
+[22]
+Le défendeur affirme que le terme « statué » qui précède l'expression « conformité de la demande aux critères de sélection » vise une conclusion définitive quant aux critères de sélection. Lorsqu'il est utilisé dans une disposition légale, le terme « statué [établi] » requiert que les faits en question soient prouvés selon la prépondérance des probabilités:
+ <FRAGMENT_SUPPRESSED> et 172.
+[23]
+L'adjointe au programme qui a fait l'examen n'était pas un agent des visas ou un agent d'immigration désigné et elle n'avait pas le pouvoir de prendre une décision quant à la sélection. Bien que le terme « agent » ne soit pas défini dans la Loi, l'article 2 du Règlement le définit comme étant la « personne désignée à ce titre par le ministre en vertu du paragraphe 6(1) de la Loi ». Les instruments de désignation et de délégation de CIC désignent quels fonctionnaires des bureaux des visas sont autorisés à traiter les demandes fondées sur des critères de sélection au titre de la catégorie des TQF. L'adjointe aux programmes n'avait pas le pouvoir de prendre une décision quant à la sélection, et elle n'était pas un « agent » au sens du paragraphe 87.4(1).
+[24]
+En outre, le défendeur soutient que le document du 20 octobre 2010 était un examen administratif initial, et non pas une décision quant à la sélection. Il s'agissait d'un document provisoire et non pas d'une décision. Ce document mentionnait les points que le demandeur pouvait obtenir, selon les critères de sélection, dans l'attente de la réception d'autres renseignements. Par exemple, trois points lui avaient été attribués de façon préliminaire pour l'adaptation, mais cette attribution était assujettie à la confirmation des diplômes de son épouse. Le paragraphe 28 de la décision <FRAGMENT_SUPPRESSED> , précitée, a confirmé qu'un examen administratif initial n'est pas une décision quant à la sélection au sens du paragraphe 87.4(1). Le BO 442 confirme aussi qu'un examen préliminaire du dossier n'est pas une décision quant à la sélection au sens du paragraphe 87.4 (1), et qu'aucune décision ne pouvait avoir été prise tant que des renseignements supplémentaires étaient demandés, mais qu'ils n'avaient pas encore été examinés.
+[25]
+Comme preuve supplémentaire qu'une décision favorable quant à la sélection n'a pas été prise, le défendeur relève que la vérification de sécurité, le casier judiciaire ou l'examen médical qui auraient résulté de cette décision n'avaient pas été demandés.
+[26]
+Le défendeur soutient que selon les règles en matière d'interprétation des lois, le paragraphe 87.4(1) doit s'interpréter de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet: article 12 de la
+Loi d'interprétation
+, LRC 1985, c I-21. Il faut lire les termes d'une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s'harmonise avec l'esprit de la loi, l'objet de la loi et l'intention du législateur:
+Rizzo & Rizzo Shoes Ltd. (Re),
+[1998] 1 RCS 27. La Cour a confirmé que le libellé du paragraphe 87.4(1) déplace la présomption quant à l'application rétrospective et quant à l'atteinte aux droits acquis, qui autrement justifierait une interprétation restrictive: <FRAGMENT_SUPPRESSED> précitée aux paragraphes 22 et 23, et 29.
+[27]
+Le paragraphe 87. 4 (1) n'exige pas qu'on fasse une appréciation individualisée dans le cas où il n'est pas mis fin à la demande, avant que cette dernière, présentée au titre de la catégorie des TQF, puisse être identifiée comme caduque. Le critère factuel de caducité soit existe, soit n'existe pas: <FRAGMENT_SUPPRESSED> précitée aux paragraphes 31 et 36. Le paragraphe 87. 4 (1) n'octroie aucun pouvoir discrétionnaire pour éviter la caducité si les conditions factuelles sont remplies.
+ii. Un bref de mandamus ne peut pas être rendu
+[28]
+Le défendeur soutient que le bref de
+mandamus
+ne peut pas être rendu, parce que l'application du paragraphe 87.4(1) a mis fin à la demande. Le bref de
+mandamus
+ne peut pas avoir pour fondement l'obligation de rendre une décision quant à une demande qui n'existe plus:
+ <FRAGMENT_SUPPRESSED> et 30; <FRAGMENT_SUPPRESSED> , précitée, au paragraphe 139
+ANALYSE
+[29]
+Lors de l'audition du présent contrôle judiciaire, le demandeur a admis que le juge Rennie a déjà statué sur la majorité des questions en litige soulevées dans la présente affaire dans la décision <FRAGMENT_SUPPRESSED> , précitée. Le juge Rennie a certifié plusieurs questions dans la décision <FRAGMENT_SUPPRESSED> , ces questions seront donc tranchées par la Cour d'appel fédérale.
+[30]
+La seule question en litige dont je suis saisi est une question factuelle. Le demandeur déclare que dans son cas, une décision favorable quant à la sélection avait été prise par un agent désigné avant le 29 mars 2012. Le fondement probant de cette affirmation est l'affidavit de M. Daniel Vaughan produit par le défendeur dans la présente demande. M. Vaughan est le gestionnaire des opérations à la Section de l'immigration à Beijing.
+[31]
+Les paragraphes 3 et 5 de l'affidavit de M. Vaughan sont rédigés ainsi:
+[traduction]
+3. J'ai examiné les notes du STIDI relatives à la demande du demandeur au titre de la catégorie des TQF à laquelle il a été mis fin. Dans les notes du STIDI, il y a une entrée du 20 octobre 2010 faite par « VCH ». Les initiales VCH renvoient à Victoria Chua. Mme Chua est une employée, recrutée sur place, à l'ambassade canadienne à Beijing. Bien que je ne fusse pas responsable du traitement des demandes au titre de la catégorie économique en octobre 2010, je comprends qu'à ce moment-là, les adjoints aux programmes à Beijing examinaient les demandes au titre de la catégorie des TQF et faisaient l'entrée des points correspondants aux critères de sélection, en préparation de l'examen fait par un agent. Il s'agissait d'une tâche administrative - prendre les renseignements du dossier au pied de la lettre et les opposer aux critères d'appréciation. Le dossier était ensuite examiné par un agent pour qu'il rende une décision quant à la sélection; ce n'est qu'après qu'un agent avait examiné le dossier qu'une décision quant à la sélection était entrée, et l'étape suivante du traitement commençait. Les adjoints aux programmes n'ont pas le pouvoir délégué de prendre des décisions quant à la sélection.
+4. Selon mes connaissances des employés recrutés sur place, je peux confirmer que Victoria Chua était employée à la Section de l'immigration comme adjointe aux programmes au Service des dossiers d'immigration quand je suis arrivé à Beijing. Elle a intégré la Section de la catégorie économique comme adjointe aux programmes en septembre 2010. Bien qu'elle ne fût pas sous ma supervision comme membre du Service de la catégorie économique, je connaissais le travail qu'elle accomplissait comme adjointe aux programmes dans ce service. Mme Chua a continué à travailler dans le Service de la catégorie économique jusqu'en avril 2011. Elle a travaillé dans le Service de la catégorie du regroupement familial d'avril 2011 à novembre 2011 comme adjointe aux programmes; depuis novembre 2011, elle travaille comme adjointe aux programmes dans le Service médical.
+5. Mme Chua n'a jamais travaillé comme agente des visas ou agente d'immigration désignée, et n'a jamais eu le pouvoir de prendre des décisions quant aux demandes d'immigration.
+[32]
+Je ne peux pas souscrire à l'interprétation que le demandeur a faite de ces paragraphes. Je ne pense pas que M. Vaughan dit qu'une décision quant à la sélection a été prise en l'espèce. Lorsqu'on lit l'affidavit dans son ensemble, il en ressort clairement que M. Vaughan fait référence au processus général en cause, et non pas au dossier particulier du demandeur. Selon moi, l'affidavit établit qu'aucune décision quant à la sélection n'a été prise par un agent qualifié.
+[33]
+Il n'y a rien de plus dans le dossier dont je suis saisi qui étaye l'hypothèse selon laquelle une décision quant à la sélection a été prise dans la présente affaire qui exempterait le demandeur de l'application du paragraphe 87.4(1) de la Loi. Ainsi, il a été mis fin à sa demande et il n'y a aucun fondement sur lequel je peux délivrer un bref de
+mandamus
+.
+[34]
+Les avocats conviennent qu'il n'y a aucune question à certifier et la Cour est du même avis.
+JUGEMENT
+[35]
+LA COUR STATUE que
+:
+1. La demande est rejetée.
+2. Il n'y a pas de question à certifier.
+[End of document]

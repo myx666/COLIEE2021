@@ -1,0 +1,364 @@
+[1]
+Tabib, Prothonotary
+: In July 2010, Alexander Chapman filed a complaint with the Canadian Judicial Council (CJC), alleging sexual harassment and discrimination by the Honourable Lori Douglas, Associate Chief Justice of the Manitoba Court of Queen's Bench ("Douglas, ACJ"), and her husband, Jack King (the "Chapman Complaint").
+[2]
+Pursuant to the CJC's complaints process, a Review Panel of five judges was tasked with investigating and reviewing the Chapman Complaint. According to the submissions made on behalf of Douglas, ACJ, the Review Panel concluded that the Chapman Complaint did not warrant further investigation, but that the following two other related matters had retained the Review Panel's attention, and required further investigation: Whether the nature and availability of certain photographs released by King engages s. 65(2)(d) of the
+Judges Act
+(RSC, 1985, c. J-1) and whether Douglas, ACJ had sufficiently disclosed the matters surrounding the complaint in the course of the process leading to her appointment as a judge.
+[3]
+Upon the determination of the Review Panel, an Inquiry Committee was established pursuant to the
+Judges Act
+to conduct a public inquiry. The CJC appointed an Independent Counsel, whose task it is to present the case to the Inquiry Committee. As permitted by the CJC by-laws, the Inquiry Committee also appointed its own counsel (Committee Counsel), to assist it in carrying out its mandate.
+[4]
+Pursuant to the
+Judges Act
+and the by-laws made under it, the Inquiry Committee's mandate is to conduct an inquiry or investigation into the complaints or allegations and make a report of its conclusions to the CJC. The CJC, upon reviewing the report and the record of the investigation, must then report to the Minister of Justice and may recommend that the judge be removed from office.
+[5]
+In May 2012, the Independent Counsel presented to the Inquiry Committee a "Notice of Allegations". A Notice of Allegations is intended to inform the judge, whose conduct is being investigated, of the complaints and allegations he/she is expected to face in the course of the inquiry. The Notice of Allegations did not include the Chapman Complaint. The Inquiry Committee then directed the Independent Counsel to include the Chapman Complaint in the Notice of Allegations.
+[6]
+The Inquiry Committee thus proceeded to carry out its mandate on the basis that the Chapman Complaint would also be considered.
+[7]
+On application from Chapman, the Inquiry Committee granted him limited rights of participation in the investigation, with associated funding for legal representation.
+[8]
+In the course of hearings in July 2012, issues arose in respect of the Inquiry Committee's request that the Committee Counsel cross-examine certain witnesses on the Inquiry Committee's behalf. Counsel for Douglas, ACJ subsequently moved for the Inquiry Committee to recuse itself on the basis that Committee Counsel's examination of the witnesses created an apprehension of bias. The Inquiry Committee declined to do so. That decision is the subject of the present judicial review application.
+[9]
+It may also be of interest to note that the Independent Counsel filed his own judicial review application in respect of the Inquiry Committee's decision that it was empowered to instruct Committee Counsel to question witnesses on its behalf (T-1562-12). Within a week of that application being filed, Independent Counsel tendered, and the CJC accepted, his resignation as Independent Counsel. Mr. Chapman then filed an application for judicial review of the legality of Independent Counsel's resignation and of the CJC's decision to accept same (T-1789-12).
+The Underlying Application for Judicial Review
+[10]
+In the present application, Douglas, ACJ seeks to review the decision of the Inquiry Committee in which it refused to recuse itself. The Notice of Application also seeks a declaration that the manner in which the Inquiry Committee has conducted itself gives rise to a reasonable apprehension of bias, and an order prohibiting it from continuing its proceedings and remitting the complaints against Douglas, ACJ back to the CJC.
+[11]
+The grounds cited in support of the application center on the manner in which the Inquiry Committee conducted the July 2012 hearings, including: by instructing and permitting Committee Counsel to undertake cross-examinations of two witnesses on its behalf and the manner in which these cross-examinations were conducted; by refusing Independent Counsel's request to end the allegedly improper questioning; by advising Committee Counsel to transmit to Independent Counsel instructions as to how to cross-examine Mr. Chapman; and by preventing Douglas, ACJ's counsel from asking certain questions relating to Mr. Chapman's testimony.
+[12]
+In September 2012, Douglas, ACJ also gave notice to the Attorney General, as respondent to her application for judicial review, of her intention to amend the Notice of Application. The amendments would cite the CJC's assertion of a solicitor-client relationship between the Vice-Chair of the CJC and the Independent Counsel as creating a further reasonable apprehension of institutional bias against her. Any determination as to Douglas, ACJ's intention to amend remains suspended pending the determination of the present motion, but the Court has taken into account the potential that these new issues might become part of the litigation in arriving at its decision.
+The Motions at Issue
+[13]
+Before the Court are motions by Mr. Chapman seeking to be named a necessary respondent to this application and a motion by the Attorney General - who was named as sole respondent - that he be removed as a respondent to this application, pursuant to Rule 303(3) of the
+Federal Courts Rules
+, SOR/98-106.
+[14]
+Rule 303(3) provides that, where the Attorney General is named as a respondent on the basis that there are no persons that are directly affected by the order sought in the application or who are required to be named as respondents, the Attorney General may move for another person to be named in his place.
+[15]
+If Mr. Chapman is correct that he is a necessary respondent to this application, it follows that the Attorney General should not have been named as a respondent pursuant to Rule 303(2) and that Rule 303(3) would no longer be applicable. The Attorney General's motion would then fall to be resolved solely on the basis of whether, pursuant to Rule 104, he should be removed because he is "not a proper or necessary party". Accordingly, I will consider and determine Mr. Chapman's motion first.
+Mr. Chapman's Motion
+[16]
+It is generally accepted that parties to proceedings before a federal board, commission or tribunal are,
+prima facie
+, proper and necessary parties to judicial review applications attacking these proceedings or the results thereof (
+ <FRAGMENT_SUPPRESSED>  (FCA)).
+[17]
+Mr. Chapman's first argument on this motion is to the effect that he was "a party" to the hearings before the Inquiry Committee, having been granted standing by the Inquiry Committee, and that, as such, he is a necessary party to this judicial review.
+[18]
+This argument cannot be retained for two reasons. First, the general understanding that parties to the original proceedings are automatically to be named as respondents when these proceedings are subject to judicial review was developed in the context of adversarial proceedings, in which the competing rights of two or more parties are adjudicated, and not necessarily where the proceedings, as here, are in the nature of an inquiry.
+[19]
+Indeed, prior to the major overhaul of the
+Federal Court Rules
+in 1998, Rule 1602(3) did provide that "Any interested person who is adverse in interest to the applicant in the proceedings before the federal board, commission or other tribunal shall be named as a respondent" in a judicial review application. The Federal Court, in
+ <FRAGMENT_SUPPRESSED>  held that this rule did not apply to persons who were granted standing before a commission of inquiry. It reasoned that because the nature of such a commission was inquisitorial rather than adversarial, persons who had been granted standing before a commission were not entitled to be named as respondents but could seek leave to intervene pursuant to the Court's discretionary powers under Rule 1611 - akin to the current Rule 109 of the
+Federal Courts Rules
+. Although the relevant provisions of the
+Federal Courts Rules
+have changed, and that decision is therefore not directly applicable here, the Court's analysis of the distinction between adversarial and inquisitorial processes remains relevant. A person who was granted standing, even as a full participant, before an inquisitorial body should not, in my view, automatically be considered a necessary respondent to an application for judicial review arising out of these proceedings; that person would still be required to show that it is "directly affected by the order sought in the application", as provided by Rule 303(1).
+[20]
+The second and perhaps most obvious reason why Mr. Chapman's argument cannot be retained is that he was not, in fact, granted standing as a party in the proceedings before the Inquiry Committee.
+[21]
+The record shows that Mr. Chapman did seek "full standing to participate in the entirety of the Hearing, with the rights of a party, including the rights to full disclosure, as well as to cross-examine and call evidence and make legal submissions" [see footnote 1] based on his alleged rights and interests as complainant. The Inquiry Committee considered and expressly rejected this request as follows [see footnote 2]:
+"[15] We have concluded that the mere status of being the complainant whose complaint has initiated an investigation under s. 63(2) of the
+Judges Act
+does not grant any right to standing before an inquiry committee constituted in the course of that investigation. That said, there may be exceptional circumstances warranting limited participation in an inquiry under the
+Judges Act
+where the person who has made the complaint also has an interest that goes beyond the status generally of a complainant. That is a separate issue which we address below."
+[22]
+In considering the nature of Mr. Chapman's interest, the Inquiry Committee also determined that:
+"[34]
+While Mr. Chapman does not have any legal rights that will be affected by these proceedings
+, he does have a direct and substantial interest in potential findings in this case about his character that could negatively affect his reputation."
+[23]
+The interest that Mr. Chapman was recognized was with respect to how potential findings made in respect of Douglas, ACJ's version of events would directly reflect upon or impugn his character and reputation. [see footnote 3]
+[24]
+The Inquiry Committee's resulting order reflects that very limited interest, confining Mr. Chapman's participation to his counsel's questioning of four witnesses and to making final submissions, but only in respect of the Chapman Complaint.
+[25]
+The conclusions of the Inquiry Committee on the issue of Mr. Chapman's standing before it have not been challenged in any of the applications pending before the Court. For the purpose of this motion, they conclusively establish that Mr. Chapman was not granted the rights of a party in the underlying proceedings, or recognized any legal interest in the outcome of the proceedings, such that could require, on a
+prima facie
+basis, that he be named as a necessary respondent to this application.
+[26]
+Quite aside from rights arising out of his "standing" before the Inquiry Committee, should Mr. Chapman be named as a proper or necessary respondent here because he would be "directly affected by the order sought in this application"? As succinctly put by the Federal Court in
+ <FRAGMENT_SUPPRESSED> [2001] FCJ No 1534:
+"[30] In order to be directly affected by the orders Chemicor seeks in the judicial proceeding, AstroZeneca (sic) must point to how a sufficient interest in terms of legal rights or otherwise would be adversely impacted or prejudiced by them."
+[27]
+The relief sought in Douglas, ACJ's application is an order:
+"(1) declaring the manner in which the Inquiry Committee has conducted itself gives rise to a reasonable apprehension of bias;
+(2) setting aside the July 27, 2012 ruling of the Inquiry Committee, which was that it did not have to recuse itself;
+(3) prohibiting the Inquiry Committee from continuing its proceedings and remitting the complaints against Douglas, ACJ back to the Canadian Judicial Council (the "CJC");
+(4) granting Douglas, ACJ her costs of this application on a full indemnity basis; and
+(5) such other relief as may seem just."
+[28]
+Neither in his written representations nor in oral argument has counsel for Mr. Chapman articulated a basis upon which these declarations and orders might affect any of Mr. Chapman's rights. Mr. Chapman's arguments are entirely based on the Inquiry Committee's finding that he had "a direct and substantial interest of an exceptional nature in the [Inquiry Committee's] proceedings". It is argued that the same "direct and substantial interest of an exceptional nature" equally justifies that he be granted status as respondent here.
+[29]
+Having an interest in certain proceedings that would justify the grant of a limited right of participation, akin to intervener status, is not at all the same as being directly affected by the order sought in a proceeding. This Court, in
+ <FRAGMENT_SUPPRESSED>  (FC) described the distinction as follows:
+"12 As I understand it, the essential difference in the standing of a party respondent when compared with that of an intervenor is that the former is deemed to have an interest adverse to that of the applicant which is a legal interest to be directly affected by the decision of the tribunal or officer that is subject to review. Moreover, a party may exercise all the rights of a party in the proceedings, including the right to appeal the decision that is made when the matter is heard, while an intervenor essentially has the right to participate within the limits the Court may impose and has no right to appeal except by leave of the Court."
+[30]
+As mentioned, the Inquiry Committee specifically found that Mr. Chapman had no legal rights that will be affected by the proceedings before it, but that he did, in the particular circumstances of the case, have an interest justifying limited participation.
+[31]
+That interest laid in ensuring that he be afforded procedural and substantive fairness where evidence going to the credibility of the factual allegations he made in respect of private events was adduced and considered.
+[32]
+This Court, in hearing and determining the present application, will not be called upon to hear, weigh or express any opinion as to the credibility of or conclusions to be drawn from that evidence. This Court, whether in hearing the application or in making any of the orders sought, will not make any findings that could affect Mr. Chapman's credibility, character or reputation. Mr. Chapman's interest in ensuring that his version of events is presented and assessed fairly is not engaged in this application.
+[33]
+It was argued orally before me that because Mr. Chapman was granted certain rights in the proceedings before the Inquiry Committee, any order prohibiting or bringing an end to the proceedings would extinguish those rights and directly affect him.
+[34]
+The rights given to Mr. Chapman were strictly tied to the evidence to be adduced before the Inquiry Committee by those enjoying full party status - the Independent Counsel and Douglas, ACJ - and the manner in which that evidence would be introduced and assessed. Any rights he was given were, as such, contingent upon the hearings proceeding as contemplated. They implied or gave rise to no substantive right to see that the inquiry was conducted, or by whom.
+[35]
+As found by the Inquiry Committee, the investigation process contemplated under section 63(3) of the
+Judges Act
+is concerned with the broader public interest in protecting public confidence in the administration of justice. It transcends the interests of the individual complainant. Once engaged, it is only the public interest, as represented by the Independent Counsel, and the rights of the judge whose conduct is investigated and to whom party status is expressly conferred by section 64 of the
+Judges Act
+, that are at issue. The complainant has no individual legal right to have his or her complaint determined, or in the outcome of the inquiry process.
+[36]
+Mr. Chapman, as complainant, has no right or interest in whether or not the Inquiry Committee should be recused, or whether the proceedings should be prohibited. The fact that he enjoyed procedural rights in that proceeding does not transform these procedural rights into substantive rights.
+[37]
+Finally, Mr. Chapman alleges that some of the evidence led by Douglas, ACJ in support of the application for judicial review is being used in this application in breach of certain rulings of the Inquiry Committee and of an order of the Manitoba Court of Queen's Bench, and in violation of his section 8 Charter rights, giving him a direct interest in this application.
+[38]
+I make no determination as to the merits of these allegations. However, even if they were justified, they would not give Mr. Chapman a respondent's interest in this application.
+[39]
+This Court has been given no jurisdiction over the enforcement of rulings of the Inquiry Committee or of the Superior Courts of the provinces. To the extent the public disclosure of this evidence has prejudiced Mr. Chapman's procedural rights in the inquiry, it will be for the Inquiry Committee, if its proceedings are to resume, to determine whether and by what means such prejudice is to be redressed. To the extent substantive prejudice was caused, any remedy lies with the competent court of general jurisdiction.
+[40]
+While the Inquiry Committee's ruling that certain evidence was not admissible before it is referred to as a factor giving rise to a reasonable apprehension of bias, the application does not seek an order setting aside that ruling, or an order declaring the evidence admissible for the purpose of the inquiry. Mr. Chapman's procedural rights before the Inquiry Committee can therefore not be affected by the order sought herein.
+[41]
+I therefore conclude that Mr. Chapman is not a person directly affected by any order sought in this application. His motion to be named a necessary respondent to the within application is dismissed.
+[42]
+Mr. Chapman's notice of motion and motion record also seek an order staying and/or quashing the within judicial review for want of jurisdiction and/or as an abuse of process. By direction dated October 31, 2012, I directed that this portion of the motion would not be entertained unless and until Mr. Chapman was found to have status as a respondent in this application. Given the above determination, that part of the motion is dismissed for lack of standing.
+[43]
+The present determination addresses only Mr. Chapman's submission that he should be named as a respondent pursuant to Rule 303(1). It does not address or consider whether Mr. Chapman could, on any basis, be granted intervener status in this application pursuant to Rule 109. Mr. Chapman's motion record and his solicitor's representations before me did not seek such an order, nor did they address the matters required to be considered and addressed pursuant to Rule 109(2)(b) and 109(3)(b).
+The Attorney General's motion
+[44]
+The Attorney General, in his motion, seeks to be removed as respondent to this application. The primary basis for the Attorney General's motion is Rule 303(3), which will be fully addressed below. Reference is also made to Rule 104, pursuant to which the Court may order that a person who is not a proper or necessary party shall cease to be a party. Rule 104 was invoked solely in the event the Court were to hold that Mr. Chapman is a person directly affected by the order sought who should be named as a respondent. As I have determined that Mr. Chapman is not an appropriate respondent, Rule 303(3) remains the only ground upon which the Attorney General's motion is to be considered and determined.
+[45]
+It is appropriate to begin the analysis by considering Rule 303(3) in context.
+[46]
+The present proceeding is an application for judicial review, brought pursuant to section 18.1 of the
+Federal Courts Act
+. Rules 300 and following govern the manner in which applications generally, including applications for judicial review, are to be conducted. Rule 303 prescribes the persons who are to be named as respondents.
+[47]
+Persons named as respondents have the right to participate fully, as parties, in an application, but they do not have the obligation to do so. They may decline to participate at all or choose to address only certain issues in the proceedings. Nor is their participation restricted to opposing the application: they may support or consent to any or all parts of it.
+[48]
+Participation in an application is, further, not exclusively restricted to those named as respondents. Persons who have no right to be named as respondents but have a recognizable interest in the proceedings or who can show that their participation will assist in the determination of the application may seek and be granted leave to intervene. The ability of the Court to recognize and authorize interventions by non-parties further demonstrates that parties are not expected to always be willing or able to defend all aspects of an application.
+[49]
+Thus, it would be misleading to interpret or apply Rule 303 as defining the respondent's role as an opponent to an application. Rule 303 merely prescribes the persons who, as respondents, will have automatic and full rights to determine and decide whether and how they will participate in an application.
+[50]
+Rule 303 reads as follows:
+"303. (1) Subject to subsection (2), an applicant shall name as a respondent every person
+(
+a
+) directly affected by the order sought in the application, other than a tribunal in respect of which the application is brought; or
+(
+b
+) required to be named as a party under an Act of Parliament pursuant to which the application is brought.
+(2) Where in an application for judicial review there are no persons that can be named under subsection (1), the applicant shall name the Attorney General of Canada as a respondent.
+(3) On a motion by the Attorney General of Canada, where the Court is satisfied that the Attorney General is unable or unwilling to act as a respondent after having been named under subsection (2), the Court may substitute another person or body, including the tribunal in respect of which the application is made, as a respondent in the place of the Attorney General of Canada."
+303. (1) Sous réserve du paragraphe (2), le demandeur désigne à titre de défendeur:
+a
+) toute personne directement touchée par l'ordonnance recherchée, autre que l'office fédéral visé par la demande;
+b
+) toute autre personne qui doit être désignée à titre de partie aux termes de la loi fédérale ou de ses textes d'application qui prévoient ou autorisent la présentation de la demande.
+(2) Dans une demande de contrôle judiciaire, si aucun défendeur n'est désigné en application du paragraphe (1), le demandeur désigne le procureur général du Canada à ce titre.
+(3) La Cour peut, sur requête du procureur général du Canada, si elle est convaincue que celui-ci est incapable d'agir à titre de défendeur ou n'est pas disposé à le faire après avoir été ainsi désigné conformément au paragraphe (2), désigner en remplacement une autre personne ou entité, y compris l'office fédéral visé par la demande. »
+[51]
+Rule 303(1) requires that any person directly affected by an order sought be named as a respondent. In judicial review proceedings, this provision will generally apply where the decision under review itself determined or affected the legal rights of another person. In such cases, the respondent's rights will generally be in conflict with the applicant's and the respondent can assist the Court by bringing an opposite point of view to the applicant's. Because judicial review involves the exercise of the Court's supervisory jurisdiction over public bodies, Rule 304 requires that the Attorney General be served with any application for judicial review. This allows the Attorney General to consider whether, even where a party adverse in interest can be expected to defend the application, it is nevertheless necessary or appropriate for him to seek leave to intervene in the application.
+[52]
+Not all decisions or orders of federal boards, commissions or other tribunals involve the competing rights of two or more persons. Often, the decision and resulting judicial review process will affect the legal rights of only one person. Indeed, with the exception of Mr. Chapman, whose motion has been dismissed, none of the parties or recognized interveners on this motion have suggested that there exists a person directly affected by the order sought herein or required to be named as a party respondent pursuant to Rule 303(1).
+[53]
+Rule 303(2), applicable only to applications for judicial review, mandates in such cases that the Attorney General be named as a respondent. This ensures, but does not require, that the Attorney General can fulfill his role as guardian of the public interest and protector of the rule of law by opposing the application or making such submissions as are appropriate, without the need to seek and obtain leave to intervene in the proceeding (see
+ <FRAGMENT_SUPPRESSED>  (Ont CA) at para 17-18).
+[54]
+As mentioned, the role of a respondent is not confined to opposing an application. A party respondent enjoys the right to consider and determine the extent and purpose of his participation. In the context of judicial review, the Attorney General, as the respondent named by default pursuant to Rule 303(2), is expected to exercise that right in the public interest.
+[55]
+In carrying out his role as respondent, the Attorney General's overarching mandate is to assist the Court in reaching a decision that accords with the law. It is not uncommon for the Attorney General to refrain from making submissions or observations on particular aspects of the case, to support the applicant's request for relief on the same or other grounds as the applicant, or even to take no position on any of the issues raised (
+ <FRAGMENT_SUPPRESSED> ). Thus, Rule 303(2) does not mandate how the Attorney General must choose to act as a respondent, but that he be given the ability to exercise that choice.
+[56]
+Rule 303(3) essentially provides that the Attorney General may, on motion and in certain circumstances, ask the Court that another person or body be named to act as respondent in his place. I am not aware of, nor have any of the parties and interveners before me found, any case where the Attorney General has invoked Rule 303(3). It is the Attorney General's position on this motion that he is unable to assume the role of respondent, as defined above, in this application. To be clear, the Attorney General does not take the position that he is unwilling to act, but that, in view of the nature of the proceedings giving rise to this application, he is unable, at law, to act as respondent.
+[57]
+The rationale supporting the Attorney General's position is presented in detail in his motion record, and will be analyzed below. However, as a preliminary issue raised at the hearing before me, the Attorney General argued that it is not the Court's task, on this motion, to determine whether the Attorney General is indeed unable to act as respondent herein. The Attorney General submits that Rule 303(3) only requires him to provide a reasonable basis for his conclusion that he is unable to act. Upon this, the Court should show significant deference to the Attorney General's determination, and proceed directly to consider whether another person should be substituted to the Attorney General.
+[58]
+There is no support in the wording of Rule 303(3) or at law for this interpretation. Rule 303(3) explicitly provides that the Court's discretion to order the substitution of the Attorney General is to be exercised on the motion of the Attorney General, and "where
+the Court
+is satisfied that the Attorney General is unable" to act. It is, on a plain reading of the rule, the Court and not the Attorney General who is required to be satisfied of the alleged inability to act. Had the drafters of the
+Federal Courts Rules
+contemplated that the threshold for the exercise of the Court's discretion should be the Attorney General's own determination, or the existence of reasonable grounds for the Attorney General to believe that he is unable to act, it would have been a simple matter to draft Rule 303(3) accordingly. Deference to the Attorney General, it seems to me, might come into consideration where the grounds for the motion is unwillingness to act, but I need not determine this point on this motion.
+[59]
+To summarize, then, the application of Rule 303, in the context of this judicial review application, proceeds from the following analytical sequence: As there are no persons directly affected by the order sought and required to be named as respondents pursuant to Rule 303(1), the Attorney General was properly named pursuant to Rule 303(2). Rule 303(2) requires that the Attorney General be named as a respondent by default to enable him to exercise his function as guardian of the rule of law. In exercising this function, the Attorney General is not required to defend the application. He may support it, or limit his participation to make submissions to assist the Court in reaching a decision that accords with the law. The Court may, on the motion of the Attorney General, consider whether another person should be named respondent in his place, but only if the Attorney General can show, and the Court is satisfied, that the Attorney General is unable to act as respondent.
+[60]
+Before considering the reasons for which the Attorney General considers himself unable to act in this matter, it is helpful to understand the traditional role and mandate of the Attorney General.
+[61]
+Section 5 of the
+Department of Justice Act
+, RSC 1985, c. J-2 provides in part as follows:
+"5. The Attorney General of Canada
+(a) is entrusted with the powers and charged with the duties that belong to the office of the Attorney General of England by law or usage, in so far as those powers and duties are applicable to Canada, and also with the powers and duties that, by the laws of the several provinces, belonged to the office of attorney general of each province up to the time when the
+Constitution Act, 1867
+, came into effect, in so far as those laws under the provisions of the said Act are to be administered and carried into effect by the Government of Canada;
+(...)
+(d) shall have the regulation and conduct of all litigation for or against the Crown or any department, in respect of any subject within the authority or jurisdiction of Canada;"
+« 5 Les attributions du procureur général du Canada sont les suivantes:
+a) il est investi des pouvoirs et fonctions afférents de par la loi ou l'usage à la charge de procureur général d'Angleterre, en tant que ces pouvoirs et ces fonctions s'appliquent au Canada, ainsi que de ceux qui, en vertu des lois des diverses provinces, ressortissaient à la charge de procureur général de chaque province jusqu'à l'entrée en vigueur de la
+Loi constitutionnelle de 1867
+, dans la mesure où celle-ci prévoit que l'application et la mise en oeuvre de ces lois provinciales relèvent du gouvernement fédéral;
+(...)
+d) il est chargé des intérêts de la Couronne et des ministères dans tout litige où ils sont parties et portant sur des matières de compétence fédérale; »
+[62]
+Considering the role and standing of the Attorney General in instituting judicial review proceedings, the Federal Court, in
+ <FRAGMENT_SUPPRESSED> , described the Attorney General's role as follows:
+"48 The Attorney General has standing which cannot be brought into question in the courts to assert a claim for declaratory relief to protect the public interest. De Smith et al. in Judicial Review of Administrative Action (5th ed., 1995), at page 147 has provided the following explanation of the broad limits on the "public interest" in respect of which the Attorney General can seek declaratory relief:
+What are the limits of the public interest is almost impossible to accurately define. Examination of a large number of authorities would indicate the wide range of situations in which the public interest has been accepted by the courts as being involved, however, the courts have, probably deliberately, refrained from spelling out its boundary.
+Certainly
+, however, any interference with the rights of the public (for example, in the highway),
+failure to perform or unsatisfactory performance of duties by public bodies for the benefit of the public, abuse of discretionary powers and illegal acts of a public nature will be regarded as raising issues of public interest
+.
+49 The English Court of Appeal has also stated [
+ <FRAGMENT_SUPPRESSED>  (C.A.) (QL), at paragraph 46]:
+In advancing ... a claim for relief in public law, the Attorney is performing a different role. He is not merely a convenient nominal plaintiff representing the Crown. He is seeking relief in his historic role as guardian of the public interest. This gives the Attorney a special status in relation to the courts. He has a particular role and a particular responsibility
+. The role extends well beyond the field of criminal law, for example to the fields of contempt of court, charities and coroners' inquisitions. Its sources in some instances is derived from statute. However, in relation to other functions, the role is an inherent part of his ancient office. It is the inherent power flowing from his office which enables the Attorney either to bring proceedings ex officio himself or to consent to the use of his name....
+50 In all the applications for judicial review in which the Attorney General is an applicant, remedies are sought to curb [See:
+De Smith
+, supra, at page 147]
+:
+...unsatisfactory performance of duties by public bodies for the benefit of the public, abuse of discretionary powers and illegal acts of a public nature...
+" [emphasis added]
+[63]
+In judicial review proceedings, where the Court exercises supervisory jurisdiction over the "performance of duties by public bodies for the benefit of the public", that role justifies the Attorney General's standing to bring proceedings to redress perceived illegality or improper performance by public bodies. It also justifies the Attorney General's standing and mandate to act as respondent or intervener in judicial review proceedings when the attacks on the performance of public bodies are made by others.
+[64]
+The role performed by the Attorney General in judicial review applications is an important, yet delicate one. As noted in
+ <FRAGMENT_SUPPRESSED>  [2007] FCJ No 352, at paragraph 51, "Attorneys General are constitutionally obliged to exercise their discretionary authority in good faith, objectively, independently, and in the public interest (...). Attorneys General are entitled to the benefit of a rebuttable presumption that they will fulfill that obligation."
+[65]
+It is well established that a tribunal whose decision is challenged in judicial review proceedings should not appear to defend the merits of its decisions. As stated by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  (SCC) at page 709:
+"Such active and even aggressive participation can have no other effect than to discredit the impartiality of an administrative tribunal either in the case where the matter is referred back to it, or in future proceedings involving similar interests and issues or the same parties. The Board is given a clear opportunity to make its point in its reasons for its decision, and it abuses one's notion of propriety to countenance its participation as a full-fledged litigant in this Court, in complete adversarial confrontation with one of the principals in the contest before the Board itself in the first instance."
+[66]
+The Attorney General's participation as the default respondent in judicial review proceedings pursuant to Rule 303(2) ensures that there can be a party present at the judicial review to present an opposite point of view to the applicant's and defend the tribunal's decision.
+[67]
+However, because the Attorney General is also the defender of the public interest and has a duty to uphold the rule of law, there may be limits to how vigorously he should properly defend the merits of a public body's decision.
+[68]
+The case of
+ <FRAGMENT_SUPPRESSED>  [2012] FCJ No 1357 involved a decision of the Public Service Commission. The Attorney General was named as sole respondent pursuant to Rule 303(2). The Federal Court expressed the following concerns:
+"37 The respondent is acting on behalf of the Commission here. This is not the first time that the respondent has taken a position that could be characterized as "aggressive", even "forceful", or even, in the absence of other qualifiers, "very defensive". For example, in Challal, the respondent argued that it was "too late to question the finding of guilt issued by the Commission" and that the corrective measures "were indeed within the Commission's jurisdiction and were reasonable" (Challal, at paragraphs 4 and 5).
+38 However, there is generally no dispute that it is not up to a tribunal whose decision is under review, whether it is an appeal or a judicial review, to vindicate itself, as well as the merit of its decision. As it was so aptly stated in
+ <FRAGMENT_SUPPRESSED> , at paragraph 39: "To allow an administrative board the opportunity to justify its action and indeed to vindicate itself would produce a spectacle not ordinarily contemplated in our judicial traditions."
+(...)
+43
+In my opinion, when the respondent agrees to act on behalf of the Commission, in the absence of another party to support the legality of the impugned decision, the respondent should try to intervene like an
+amicus curiae
+, even if the respondent has more latitude that an
+amicus curiae
+. After all, the respondent represents the public interest. That being said, the respondent should, first and foremost, enlighten the Court objectively and completely on the facts stated in the impugned decision and on the Commission's reasoning, without seeking justification that was not provided by the Commission itself in the impugned decision
+- which of course includes the reasons in the investigation report that the Commission supported.
+44 In short, there is no problem as long as the respondent explains the impugned decision and provides objective light on the Commission's jurisdiction and the powers vested in it under the law. I acknowledge that this can be difficult in some cases." [emphasis added]
+[69]
+The presumption that the Attorney General will perform his duty as guardian of the public interest and exercise his special status in relation to the courts in good faith has allowed the courts to rely on the expectation that the Attorney General will faithfully fulfill that role, even when he may have directly appeared before the federal body at issue. (see
+ <FRAGMENT_SUPPRESSED>  [2005] FCJ No 684 at para 29 to 31 and 36).
+[70]
+Such is the Attorney General's special status of independence from the government, in his role as the Chief Law Officer of the Crown, that the Ontario Court of Appeal noted the existence of a body of opinion to the effect that the Attorney General would even be entitled to bring an action against a cabinet colleague if he believed that the Minister's proposed action was not in accordance with the law (see <FRAGMENT_SUPPRESSED> , cited above)
+[71]
+With this understanding of the particular role and duty of the Attorney General as respondent to a judicial review application, I now turn to the Attorney General's submissions as to why, in this case, he is unable to carry out these functions.
+[72]
+The Attorney General notes that in accordance with the
+Department of Justice Act
+(RSC, 1985, c. J-2), the functions of Minister of Justice and of Attorney General are exercised by the same person. It is the Attorney General's submission that Parliament intended, in establishing the framework of the disciplinary inquiry process under the
+Judges Act
+, to keep the Minister of Justice - and the Attorney General - away from any involvement in this inquiry process, except as expressly provided in the
+Judges Act
+. This separation, it is argued, is necessary to preserve the independence of the judiciary and to avoid the perception that the Minister may have pre-judged the outcome of the process when he receives and acts upon the CJC's recommendation with respect to the removal of a judge.
+[73]
+Security of tenure - the assurance that a judge will not be removed from office at the whim of the government or to exert improper political pressure on the judiciary - is one of the three essential attributes of judicial independence.
+[74]
+Section 99 of the
+Constitution Act, 1867
+provides that judges hold office "during good behaviour" and can only be removed "by the Governor General on address of the Senate and House of Commons". The
+Constitution Act, 1867
+however offers no guidance as to the mechanism for determining whether the conduct of judges would warrant removal. While it is generally accepted that the Minister of Justice should present the question to the Houses of Parliament and that a judge should be entitled to a fair process in the investigation of his or her conduct, the details of these inquiries, prior to 1971, were devised on an
+ad hoc
+basis (
+ <FRAGMENT_SUPPRESSED> , at para 44).
+[75]
+Following the particularly problematic process followed in the case of Justice Leo Landreville in the late 1960's, Parliament amended the
+Judges Act
+to establish the Canadian Judicial Council, to empower it to conduct inquiries into complaints and allegations of misconduct by judges, and to report its findings and recommendations to the Minister.
+[76]
+From this history, and from the then Minister of Justice's comments in the House of Commons that the amendments would ensure the separation of powers and free the judges from the pressures of the Attorney General, the Attorney General draws the inference that Parliament's intent was to deliberately exclude the Attorney General and the Minister of Justice from all aspects of the inquiry process, and to entrust the CJC with the sole responsibility for carrying out and ensuring the fairness of the process. The Attorney General carries this inference further yet in suggesting that the CJC thus became the exclusive guardian of the integrity and fairness of the process, leaving no role to the Attorney General, even where the fairness and integrity of the process is challenged on judicial review.
+[77]
+The Attorney General submits that his exclusion from the process is also necessary to preserve the appearance of the Minister of Justice's impartiality, as he will ultimately be called upon to receive the report of the CJC and determine, on the strength of that report, whether to put the issue of removal of the judge to the joint Houses.
+[78]
+Nothing in the framework of the CJC's discipline process under the
+Judges Act
+or in the applicable constitutional principles supports the inference that such an extraordinary measure of non-involvement was intended by Parliament or is necessary to respect the separation of powers or the principles of judicial independence.
+[79]
+To be sure, the
+Judges Act
+does not attribute to the Attorney General or to the Minister of Justice any role in the day-to-day conduct of an Inquiry Committee's investigation, or in the deliberation of the CJC following its receipt of the Inquiry Committee's report. The
+Judges Act
+also empowers the CJC to make its own by-laws as to the conduct of inquiries.
+[80]
+It is, however, very clear from section 63 of the
+Judges Act
+that Parliament did not intend to delegate to the CJC all matters pertaining to judicial discipline or to constitute the CJC as exclusive guardian of the public interest in this matter. Whereas discretion to commence an inquiry into allegations or complaints received from members of the public rests with the CJC, Parliament has reserved to the Minister of Justice the power to compel the CJC to commence an inquiry as to whether a judge should be removed from office (s. 63(1)). The Minister of Justice is also entitled to designate the members of the bar who will form part of the Inquiry Committee's composition (s. 63(3)) and to require that any investigation be held in public (s. 63(6)).
+[81]
+The Federal Court of Appeal in <FRAGMENT_SUPPRESSED> , above, recognized that if misused, these powers could indeed be used to "hurt the judge", with the potential that these provisions might subjectively be thought to violate the principles of judicial independence. The Federal Court of Appeal, however, found that the constitutional role of Attorneys General and the presumption that the Attorneys General will act in accordance with their constitutional obligation, together with other protections and safeguards provided by the process, should inform an objective analysis and lead to the conclusion that these provisions are constitutional.
+[82]
+The fact that Parliament conferred on the Minister considerable powers of intervention in the initiation of the inquiry process fundamentally contradicts the Attorney General's theory that Parliament intended to keep the Minister - and the Attorney General - detached and uninvolved in the disciplinary process. The determination in <FRAGMENT_SUPPRESSED> that the Minister's power to compel the CJC to commence an inquiry in respect of a specific judge does not violate the principle of judicial independence or the separation of powers also negates the suggestion that the same constitutional principles would, as a general matter of principle, preclude any participation by the Attorney General in judicial review proceedings concerning the legality of the inquiry process.
+[83]
+The Attorney General's argument that the separation of powers requires him to remain entirely uninvolved in the conduct of the inquiry process also appears to rely on a construction of the disciplinary process of the
+Judges Act
+as a devolution, by Parliament to the CJC, of the exclusive right to conduct or oversee the fairness of the inquiry process. The scope of the Minister's constitutional role in referring the matter of a judge's removal to Parliament would, in that perspective, be confined to evaluating the CJC's report and recommendation for the purpose of deciding whether to put the matter before Parliament. This would in turn magnify the need for him to remain at a distance from the conduct of that inquiry, so as not to taint himself with the perception that he may have pre-judged the matter.
+[84]
+This argument does not stand up to scrutiny. Parliament has indeed empowered the CJC to investigate complaints and allegations made against judges, including those sufficiently serious to warrant their removal. However, as s. 71 of the
+Judges Act
+makes abundantly clear, neither the creation of the CJC's inquiry process nor the CJC's exercise of its investigative powers in any way detract, remove or constrain the constitutional rights, powers or duties of the Minister of Justice, or of the Houses of Parliament, in the removal of judges. Thus, as recognized in <FRAGMENT_SUPPRESSED> , the Minister of Justice may refer the matter of a judge's removal to the Senate and the House of Commons whether an inquiry under the
+Judges Act
+has been conducted or not, and whatever the recommendations of the CJC:
+49 I pause at this point to note that the power of the Governor General to remove a judge from office upon the joint address of the Senate and the House of Commons is not affected by anything done, or omitted to be done, under Part II of the
+Judges Act
+. Section 71 of the
+Judges Act
+is explicit on that point. That means, in my view, that it is possible in theory for a judge to be removed from office even if the inquiry procedure in Part II of the
+Judges Act
+is never engaged. As a practical matter, however, and especially with the lessons learned from the Landreville experience, it seems to me improbable that Parliament could be moved to recommend the removal of a judge without the kind of firm foundation in fact and principle that is likely to be obtained through an inquiry under Part II of the
+Judges Act
+or its functional equivalent.
+[85]
+The above passage acknowledges that it would be improbable that the Minister would put such a matter before Parliament without "the kind of firm foundation in fact and principle that is likely to be obtained through an inquiry under Part II of the
+Judges Act
+", but also remarks that the Minister could see fit to rely on the "functional equivalent" of an inquiry under the
+Judges Act
+, such as, for example, an inquiry under the
+Inquiries Act
+, RS 1985 c I-11.
+[86]
+Parliament, in establishing the inquiry process under the
+Judges Act
+, has not created a special body or process placed beyond judicial review. Where, in judicial review proceedings, a question arises as to whether the Inquiry Committee has properly discharged the functions entrusted to it by Parliament, the rule of law is at issue and the public interest is engaged. The Attorney General's role as protector of the rule of law is to ensure that public bodies such as the Inquiry Committee carry out their duties in accordance with the law, and that when they do so, their decisions are respected. As such, the Attorney General has a public interest duty to consider and determine whether and to what extent his participation in the judicial review process is necessary and appropriate to assist the Court in reaching a decision that accords with the law.
+[87]
+The fact that the fruit of the Inquiry Committee's work is destined to be placed before the Minister for his consideration does not diminish, and is not incompatible with, that role. Indeed, if the Minister is to carry out his constitutional role of determining whether to refer the matter of a judge's removal to the Houses of Parliament on "the firm foundation in fact and in principle" of an inquiry under the
+Judges Act
+, that inquiry must be carried out in compliance with the provisions of the
+Judges
+Act
+and the requirements of procedural fairness. Where the integrity and fairness of this process are impugned, it is in the public interest, and in the interest of the Minister, that the Attorney General have the ability to defend - if he is so advised - the legality of the Inquiry Committee's processes and decisions, or to make such submissions as may assist the Court in determining the issues in accordance with the law. There is nothing inconsistent or incompatible, in principle, in the exercise of the Minister's constitutional role and the Attorney General's participation in the judicial review process.
+[88]
+This application does go to whether the manner in which the inquiry was in fact conducted gives rise to a reasonable apprehension of bias, and the Attorney General's participation may on that account require circumspection, but I cannot see how the Attorney General might be unable to properly exercise his role as respondent in this case.
+[89]
+It further appears that the determination of this application may require consideration of the respective roles of the Independent Counsel and of the Committee Counsel, of the relationship between the Independent Counsel and the CJC, and of an alleged institutional bias due to the latter relationship. These are issues of law that go to the structure and functioning of the Inquiry Committee. There is no reason why the Attorney General would be unable to speak to these issues as respondent if he so chooses, or to exercise his discretion as to whether and how to address them.
+[90]
+I therefore am not satisfied that the Attorney General is unable to act as respondent in this matter.
+[91]
+The CJC and the Independent Counsel were given status as interveners on this motion to answer the Attorney General's submissions that either of them could be designated to act as respondent if the Attorney General's motion to be removed as respondent was granted. Douglas, ACJ and the Attorney General also made submissions as to who, of the Attorney General, the CJC or Independent Counsel could more appropriately or be better placed to act as respondent. I am grateful to all counsel for their thoughtful and helpful submissions on this issue. However, having determined that the Attorney General is not unable to act as respondent in this matter, it follows that there is no basis upon which the Court can exercise its discretion to substitute another person or body to act as respondent. I therefore do no need to consider or determine that issue.
+ORDER
+[92]
+THIS COURT ORDERS that
+:
+1. The motions of Alexander Chapman and of the Attorney General are dismissed.
+2. No costs having been sought by any party or intervener on the Attorney General's motion, none are awarded.
+3. Douglas, ACJ and Mr. Chapman may, within 10 days of this Order, make submissions as to why the costs of Mr. Chapman's motion should not be awarded against Mr. Chapman and in favour of Douglas, ACJ, in accordance with the middle of Column III of the Tariff.
+Motions dismissed.
+Editor: Jana A. Andersen/vnh
+Footnotes
+1. Chapman's notice of application for standing and funding filed before the Inquiry Committee, Exhibit "I" to the affidavit of Diane Zimmerman.
+2. Ruling of the Inquiry Committee concerning the Honourable Lori Douglas with respect to the application of Alex Chapman for standing and the funding of legal counsel, July 2012, Exhibit « D » to the affidavit of Dushahi Sribavan.
+3. Unresolved issues about Mr. Chapman's claim to solicitor-client privilege and the extent to which it has been waived were also considered as justifying the limited rights of participation.

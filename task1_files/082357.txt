@@ -1,0 +1,62 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Barnes, J.
+September 21, 2009.
+Counsel:
+Dalwinder S. Hayer, for the applicant;
+Rick Garvin, for the respondent.
+Solicitors of Record:
+Dalwinder S. Hayer, Calgary, Alberta, for the applicant;
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Barnes, J.
+: This application for judicial review challenges a decision to refuse the Applicant's request for a skilled-worker visa. The decision under review was made on October 20, 2008 from the office of the Canadian High Commission in New Delhi, India. The sole basis for the decision was the failure by Ms. Kaur and her legal counsel to provide additional evidence in support of the application including evidence of language proficiency, and family and financial support. The issue presented by this application is whether the Respondent or Ms. Kaur should bear the consequence of an apparent failed communication between them.
+I. Background
+[2]
+Ms. Kaur is a citizen of India. On October 10, 2003 she applied for permanent residency under the skilled-worker class. Included with her application was an authorization which allowed the High Commission to deal with her "Canadian representative", Mr. Dalwinder Hayer. That authorization included a business address, telephone and fax numbers and an e-mail address for Mr. Hayer. Mr. Hayer provided further documents to the High Commission under the cover of letters dated September 29, 2003 and March 28, 2004. Those letters contained the same contact information as the previous authorization, including Mr. Hayer's e-mail address. On September 20, 2007 Mr. Hayer sent a fax to the High Commission providing a new postal address for his office. The fax page included Mr. Hayer's telephone and fax numbers which remained unchanged, but it contained no information about an e-mail address.
+[3]
+On May 13, 2008 the High Commission sent a lengthy message to Mr. Hayer's e-mail address. That e-mail requested considerable additional information and concluded with the following caveat:
+The requested information must be received in our office
+within 90 days
+from the date of this letter. If we do not receive the requested documents within this specified period we will make a decision on your application based on the information and documents already at our disposal. We will not request further documentation to support your application. You must therefore submit complete and detailed documents and information at this time. [Emphasis in original]
+When Ms. Kaur failed to reply to this outstanding request her visa application was refused.
+[4]
+Ms. Kaur asserts that neither she nor Mr. Hayer ever received the e-mail. Her affidavit states that the e-mail address used by the High Commission "is not working" but she has provided no details as to when or why that occurred. The evidence provided by the Respondent's witnesses indicates that the request was sent to Mr. Hayer's last known e-mail address and that no indication of non-delivery was received thereafter.
+II. Issue
+[5]
+Did the High Commission err by using Mr. Hayer's last-known e-mail address as a method of communicating a request for further information?
+III. Analysis
+[6]
+This case presents the not uncommon problem of a visa applicant's failure to respond to a request for additional information because of an apparent communication breakdown. The question for the Court is, as between the parties, who should bear the consequence of this failure. As Mr. Garvin aptly put it in argument, according to the authorities, "it all depends". For the sake of argument I am prepared to consider this as an issue of procedural fairness which should be assessed on the standard of correctness.
+[7]
+It was argued on behalf of Ms. Kaur that the Respondent's evidence confirming the sending of the High Commission e-mail is unreliable and should not be accepted. There is, however, only one logical inference to be drawn from the evidence before me which is that the High Commission's e-mail request was sent to Mr. Hayer's last known e-mail address. It is no more than speculation to suggest otherwise. If one accepts Ms. Kaur's evidence that Mr. Hayer's e-mail address was no longer active it is likely that the communication was never received and, therefore, never answered. It is against this factual background that the relevant legal authorities must be applied.
+[8]
+Mr. Hayer argues that the Respondent must bear the risk in these circumstances because the High Commission had always used regular mail to communicate with him and he reasonably assumed that that practice would continue. He also contends that it was unreasonable for the High Commission visa officer to assume that his e-mail was still operational when his last change-of-address communication contained no e-mail reference. This case, he says, is indistinguishable from
+ <FRAGMENT_SUPPRESSED>  Imm. L.R. (3d) 153 which involved a failed fax communication from a visa officer. There the applicant's failure to attend a requested interview was found to be the responsibility of the respondent.
+[9]
+The Respondent has cited the decisions of Justice Judith Snider in
+ <FRAGMENT_SUPPRESSED>  A.C.W.S. (3d) 656 and
+ <FRAGMENT_SUPPRESSED>  Imm. L.R. (3d) 154, both of which state the following principles:
+In general, immigration officials at overseas visa offices bear responsibility for ensuring that the notice of an interview is sent. The Court must be satisfied that the notice was properly sent (
+Herrara
+, above;
+Ilahi
+, above; <FRAGMENT_SUPPRESSED> , above). While the evidence must be examined in each case, evidence of receipt of the fax at the number provided by an applicant or his consultant would normally satisfy that burden. Factors such as the unavailability of a person to receive the fax, malfunctions of equipment at the receiving end or administrative errors such as simple failure of a consultant to advise his client are not the responsibility of the immigration officials.
+See
+Shah
+, above, at paragraph 9.
+[10]
+It seems to me that Justice Snider was correct when she found consistency among the authorities. In <FRAGMENT_SUPPRESSED> , above, there was "overwhelming" evidence that the visa officer's communication had not been properly sent to the applicant. Here the situation is different because the e-mail was sent to an address which was believed to be valid and where no corrective advice had been provided to the High Commission.
+[11]
+Mr. Hayer's assumption that the High Commission would continue to communicate by regular mail was, as the facts attest, a dangerous one. It was not reasonable for him to expect the High Commission to figure out from the absence of an e-mail address on his last communication that his e-mail was no longer functioning. This was a risk which Ms. Kaur and Mr. Hayer could have avoided by the simple step of advising the High Commission that the previously identified e-mail address was no longer valid, just as Mr. Hayer had done for his postal address. E-mail is, after all, a standard method of business communication. It is fast, efficient and reliable and it was not unreasonable or unfair for the High Commission to have relied upon it. In these circumstances the failed e-mail delivery was solely caused by Mr. Hayer's unwarranted assumption and by the failure to provide complete and accurate contact information to the High Commission.
+[12]
+In summary, when a communication is correctly sent by a visa officer to an address (e-mail or otherwise) that has been provided by an applicant which has not been revoked or revised and where there has been no indication received that the communication may have failed, the risk of non-delivery rests with the applicant and not with the respondent. In the result, this application must be dismissed.
+[13]
+Neither party proposed a certified question and no issue of general importance arises on this record.
+JUDGMENT
+[14]
+THIS COURT ADJUDGES THAT
+this application for judicial review is dismissed.
+[End of document]

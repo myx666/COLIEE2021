@@ -1,0 +1,331 @@
+  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED>  
+ 
+  <FRAGMENT_SUPPRESSED>  (FC)  <FRAGMENT_SUPPRESSED>  
+ MLB headnote and full text  <FRAGMENT_SUPPRESSED>  
+ Temp. Cite: [2010] F.T.R. TBEd. OC.004  <FRAGMENT_SUPPRESSED>  
+ Wenzel Downhole Tools Ltd and  <FRAGMENT_SUPPRESSED>  Services Ltd., Vector Oil Tool Ltd. and Frederick W. Pheasey (defendants)  <FRAGMENT_SUPPRESSED>  
+ National-Oilwell Canada Ltd., National Oilwell Nova Scotia Company, National Oilwell Varco Inc., Dreco Energy Services Ltd., Vector Oil Tool Ltd. and Frederick W. Pheasey (plaintiffs by counterclaim) v. Wenzel Downhole Tools Ltd. and William Wenzel (defendants by counterclaim) 
+ 
+ (T-1327-05; 2010 FC 966)  <FRAGMENT_SUPPRESSED>  
+ Indexed As:  <FRAGMENT_SUPPRESSED>  
+ The plaintiffs alleged that the defendants had infringed the plaintiffs' '630 patent. The defendants claimed that the subject matter defined by the claims in the '630 patent were disclosed before the claim date in the patent by persons other than the inventor in a U.S. patent. The defendants moved for summary dismissal of the action under rule 213 of the Federal Courts Rules on the basis that the '630 patent was obvious in light of, or anticipated by, the U.S. patent and was, therefore, invalid. The plaintiffs brought a motion asking the court to decline to hear the summary judgment motion in light of the defendants' representations at a pretrial conference that obviousness and anticipation were issues for trial.  <FRAGMENT_SUPPRESSED>  
+ A Prothonotary of the Federal Court, in a decision reported at [2010] F.T.R. Uned. 440; 2010 FC 669, referred the motion to the trial judge.  <FRAGMENT_SUPPRESSED>  
+  The Federal Court held that the motion for summary dismissal should not proceed.  <FRAGMENT_SUPPRESSED>  
+ Patents of Invention - Topic 8006 
+ 
+ Practice - General - Summary judgments - The plaintiffs alleged that the defendants had infringed the plaintiffs' '630 patent - The defendants claimed that the subject matter defined by the claims in the '630 patent were disclosed before the claim date in the patent by persons other than the inventor in a U.S. patent - The defendants moved for summary dismissal of the action under rule 213 of the Federal Courts Rules on the basis that the '630 patent was obvious in light of, or anticipated by, the U.S. patent and was, therefore, invalid - The plaintiffs brought a motion asking the court to decline to hear the summary judgment motion in light of the defendants' representations at a pretrial conference that obviousness and anticipation were issues for trial - The Federal Court held that the motion for summary dismissal should not proceed as there were genuine issues for trial - There were errors in the defendants' position that this was a case where there was no genuine issue - Before anticipation and obviousness could be considered, the court had to construe the '630 patent - This required the assistance of expert witnesses - Here, no expert evidence had been provided - There was contradictory evidence on the issues of the patent's construction and whether it was anticipated by prior art - Further, where there would be expert testimony, there were often issues of credibility, requiring the court to assess and weigh the experts' opinions - Cross-examination was an essential feature in these cases - See paragraphs 25 to 32.  <FRAGMENT_SUPPRESSED>  
+ Patents of Invention - Topic 8006 
+ 
+ Practice - General - Summary judgments - [See  
+ Practice - Topic 5255.4 
+ ].  <FRAGMENT_SUPPRESSED>  
+ Practice - Topic 5255.4 
+ 
+ Trials - General - Summary trials - Availability of - The plaintiffs alleged that the defendants had infringed the plaintiffs' '630 patent - The defendants claimed that the subject matter defined by the claims in the '630 patent were disclosed before the claim date in the patent by persons other than the inventor in a U.S. patent - The defendants moved for summary dismissal of the action under rule 213 of the Federal Courts Rules on the basis that the '630 patent was obvious in light of, or anticipated by, the U.S. patent and was, therefore, invalid - The plaintiffs brought a motion asking the court to decline to hear the summary judgment motion in light of the defendants' representations at a pretrial conference that obviousness and anticipation were issues for trial - The Federal Court, having held that the motion for summary dismissal should not proceed, considered whether the issues could be determined by summary trial under rule 216 - There were several factors that weighed against directing the parties toward a motion for summary trial, including the matter's complexity and the consequent costs and time required due to the technical nature of the issues - It was possible that a summary trial could be found to be an efficient and effective procedure in a patent infringement proceeding - However, based on the amount of time required to prepare the summary trial, the proximity of the actual trial date and the lack of independent expert evidence available on the motion, allowing the motion to proceed was not in the interests of justice - See paragraphs 33 to 41.  <FRAGMENT_SUPPRESSED>  
+ Practice - Topic 5702 
+ 
+ Judgments and orders - Summary judgments - Jurisdiction or when available or when appropriate - [See first  
+ Patents of Invention - Topic 8006 
+ ].  <FRAGMENT_SUPPRESSED>  
+ Practice - Topic 5708 
+ 
+ Judgments and orders - Summary judgments - Bar to application - Existence of issue to be tried - [See first  
+ Patents of Invention - Topic 8006 
+ ].  <FRAGMENT_SUPPRESSED>  
+ Practice - Topic 5719 
+ 
+ Judgments and orders - Summary judgments - To dismiss action - [See first  
+ Patents of Invention - Topic 8006 
+ ].  <FRAGMENT_SUPPRESSED>  
+  <FRAGMENT_SUPPRESSED>  refd to. [para. 13]. 
+ 
+ Bourque (Pierre) & Fils ltée v. Canada (1998), 150 F.T.R. 140 (T.D.), refd to. [para. 13]. 
+ 
+ Society of Composers, Authors and  <FRAGMENT_SUPPRESSED>  refd to. [para. 27]. 
+ 
+  <FRAGMENT_SUPPRESSED>  refd to. [para. 29]. 
+ 
+  <FRAGMENT_SUPPRESSED>  B.C.L.R.(4th) 342; 2005 BCSC 1263, refd to. [para. 37].  <FRAGMENT_SUPPRESSED>  
+ Counsel: 
+ 
+ Grant S. Dunlop, for the plaintiffs/defendants by counterclaim; 
+ 
+ Kevin P. Feehan, Q.C., and Dennis R. Schmidt, for the defendants/plaintiffs by counterclaim.  <FRAGMENT_SUPPRESSED>  
+ Solicitors of Record: 
+ 
+ Ogilvie LLP, Edmonton, Alberta, for the plaintiffs/defendants by counterclaim; 
+ 
+ Fraser Milner Casgrain LLP, Edmonton, Alberta, for the defendants/plaintiffs by counterclaim.  <FRAGMENT_SUPPRESSED>  
+ This motion was considered in writing without the personal appearance of the parties at Ottawa, Ontario, by Snider, J., of the Federal Court, who delivered the following reasons for order on September 28, 2010.  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED>                                                                                                        <FRAGMENT_SUPPRESSED>  
+ I.  
+ Background  <FRAGMENT_SUPPRESSED>  
+ [1] 
+   
+ Snider, J. 
+ : The motion now before the Court relates to a patent infringement action brought by the Plaintiffs, William Wenzel and Wenzel Downhole Tools Ltd. (Wenzel Tools) against the Defendants. Mr. Wenzel claims that he is the inventor of Canadian Patent No. 2,206,630 ('630 Patent). Wenzel Tools claims to be the owner of the '630 Patent by way of assignment. In their Statement of Defence and Counterclaim, the Defendants: (a) deny that Mr. Wenzel is the true inventor of the subject matter of the claims in the '630 Patent; and (b) claim that the '630 Patent is invalid on the grounds of obviousness, anticipation, and lack of inventiveness and utility.  <FRAGMENT_SUPPRESSED>  
+ [2] 
+  The proceeding has been specially managed, under the competent oversight of Prothonotary Lafrèniere, since the close of pleadings in 2006, and has been the subject of numerous interlocutory motions and orders. Finally, the parties came to a pre-trial conference, as provided for in Rule 258 of the  
+ Federal Courts Rules 
+ , SOR/98-106, on July 17, 2009. The Minutes of the Pre-Trial Conference reflect the extensive discussions that took place at that meeting. Under the heading "Outstanding Motions", no mention is made of any outstanding motions other than those that might relate to further discovery, or to a potential motion for summary judgment.  <FRAGMENT_SUPPRESSED>  
+ [3] 
+  An Order resulting from the pre-trial conference was signed on October 13, 2009. The Order permits the Plaintiffs to bring a motion regarding further discovery and permits the Defendants to bring a motion regarding the examination of Douglas Wenzel. The Order is silent with respect to any other motions. In an Order dated February 4, 2010, the matter was set down for a 30-day trial commencing in September 2011.  <FRAGMENT_SUPPRESSED>  
+ [4] 
+  On December 14, 2009, the Defendants served and filed a motion for summary dismissal of the Plaintiffs' action. The Defendants claim in their notice of motion that the subject matter defined by the claims in the '630 Patent was disclosed before the claim date in the patent by persons other than the named inventor, namely in U.S. Patent No. 1,643,338 filed March 16, 1921 (Halvorsen Patent). The grounds for summary dismissal are that the '630 Patent was obvious in light of, or anticipated by the Halvorsen Patent and, accordingly, is invalid.  <FRAGMENT_SUPPRESSED>  
+ [5] 
+  In response to the Defendants' motion, the Plaintiffs brought a motion requesting that the Court decline to hear the Defendants' motion for summary judgment in light of the Defendants' representations at the pre-trial conference that obviousness and anticipation were issues for trial.  <FRAGMENT_SUPPRESSED>  
+ [6] 
+  Prothonotary Lafrèniere dealt with the Plaintiffs' motion in a decision dated June 21, 2010 ( 
+  <FRAGMENT_SUPPRESSED> ; 2010 FC 669). The learned prothonotary was very critical of the Defendants in bringing this motion after the pre-trial conference. Nevertheless, he determined that he would refer the motion for summary judgment to the trial judge.  <FRAGMENT_SUPPRESSED>  
+ [7] 
+  As I am currently scheduled to be the trial judge, the summary judgment motion was brought to my attention. After a teleconference with the parties, I directed that further written submissions be made on the question of whether the Defendants' motion for summary judgment should be heard prior to trial or at all. I have now had an opportunity to review the file and the submissions of the parties and have determined that I will refuse to consider the motion for summary judgment.  <FRAGMENT_SUPPRESSED>  
+ II.  
+ Overview - Motion for Summary Judgment  <FRAGMENT_SUPPRESSED>  
+ [8] 
+  On December 9, 2009, amendments to Rules 213-219 of the  
+ Federal Courts Rules 
+  relating to motions for summary judgment and summary trials came into effect (SOR/2009-331, s. 3). The most significant change in these amendments is that the Federal Court now has the ability to hear summary trials. The new rules, modeled after British Columbia's Rule 18-A (now 9-7), allow the Court to call for and assess evidence in a summary manner.  <FRAGMENT_SUPPRESSED>  
+ [9] 
+  The motion of the Defendants for summary dismissal was brought on December 14, 2009, and is subject to the new provisions of the  
+ Federal Courts Rules 
+ . In particular, the Defendants rely on Rule 213(1) which provides that:  <FRAGMENT_SUPPRESSED>  
+ "213(1) A party may bring a motion for summary judgment or summary trial on all or some of the issues raised in the pleadings at any time after the defendant has filed a defence but before the time and place for trial have been fixed. <FRAGMENT_SUPPRESSED>  
+ 
+                                                                                                       <FRAGMENT_SUPPRESSED>  
+ "213(1) Une partie peut présenter une requête en jugement sommaire ou en procès sommaire à l'égard de toutes ou d'une partie des questions que soulèvent les actes de procédure. Le cas échéant, elle la présente après le dépôt de la défense du défendeur et avant que les heure, date et lieu de l'instruction soient fixés. <FRAGMENT_SUPPRESSED>  
+ 
+ [10] 
+  Rule 215 speaks to the nature of summary judgment and the powers of the Court.  <FRAGMENT_SUPPRESSED>  
+ "If no genuine issue for trial  <FRAGMENT_SUPPRESSED>  
+ "215(1) If on a motion for summary judgment the Court is satisfied that there is no genuine issue for trial with respect to a claim or defence, the Court shall grant summary judgment accordingly.  <FRAGMENT_SUPPRESSED>  
+ "Genuine issue of amount or question of law  <FRAGMENT_SUPPRESSED>  
+ "215(2) If the Court is satisfied that the only genuine issue is  <FRAGMENT_SUPPRESSED>  
+ (a) the amount to which the moving party is entitled, the Court may order a trial of that issue or grant summary judgment with a reference under rule 153 to determine the amount; or  <FRAGMENT_SUPPRESSED>  
+ (b) a question of law, the Court may determine the question and grant summary judgment accordingly.  <FRAGMENT_SUPPRESSED>  
+ "Powers of Court  <FRAGMENT_SUPPRESSED>  
+ "215(3) If the Court is satisfied that there is a genuine issue of fact or law for trial with respect to a claim or a defence, the Court may  <FRAGMENT_SUPPRESSED>  
+ (a) nevertheless determine that issue by way of summary trial and make any order necessary for the conduct of the summary trial; or  <FRAGMENT_SUPPRESSED>  
+ (b) dismiss the motion in whole or in part and order that the action, or the issues in the action not disposed of by summary judgment, proceed to trial or that the action be conducted as a specially managed proceeding. <FRAGMENT_SUPPRESSED>  
+ 
+                                                                                                       <FRAGMENT_SUPPRESSED>  
+ "Absence de véritable question litigieuse  <FRAGMENT_SUPPRESSED>  
+ "215(1) Si, par suite d'une requête en jugement sommaire, la Cour est convaincue qu'il n'existe pas de véritable question litigieuse quant à une déclaration ou à une défense, elle rend un jugement sommaire en conséquence.  <FRAGMENT_SUPPRESSED>  
+ "Somme d'argent ou point de droit  <FRAGMENT_SUPPRESSED>  
+ "215(2) Si la Cour est convaincue que la seule véritable question litigieuse est:  <FRAGMENT_SUPPRESSED>  
+ a) la somme à laquelle le requérant a droit, elle peut ordonner l'instruction de cette question ou rendre un jugement sommaire assorti d'un renvoi pour détermination de la somme conformément à la règle 153;  <FRAGMENT_SUPPRESSED>  
+ b) un point de droit, elle peut statuer sur celui-ci et rendre un jugement sommaire en conséquence.  <FRAGMENT_SUPPRESSED>  
+ "Pouvoirs de la Cour  <FRAGMENT_SUPPRESSED>  
+ "215(3) Si la Cour est convaincue qu'il existe une véritable question de fait ou de droit litigieuse à l'égard d'une déclaration ou d'une défense, elle peut:  <FRAGMENT_SUPPRESSED>  
+ a) néanmoins trancher cette question par voie de procès sommaire et rendre toute ordonnance nécessaire pour le déroulement de ce procès;  <FRAGMENT_SUPPRESSED>  
+ b) rejeter la requête en tout ou en partie et ordonner que l'action ou toute question litigieuse non tranchée par jugement sommaire soit instruite ou que l'action se poursuive à titre d'instance à gestion spéciale. <FRAGMENT_SUPPRESSED>  
+ 
+ III.  
+ Defendants' Submissions  <FRAGMENT_SUPPRESSED>  
+ [11] 
+  The Defendants argue that they are entitled to bring a motion pursuant to Rule 213 of the  
+ Federal Courts Rules 
+  for summary dismissal of the action. The Defendants rely on three main points to support their position that this motion should be heard as soon as possible:  <FRAGMENT_SUPPRESSED>  
+ 1) the motion is very simple, as it entails the plain English-language comparison by the Court of the '630 Patent with the Halvorsen patent, which renders the '630 Patent obvious and anticipated;  <FRAGMENT_SUPPRESSED>  
+ 2) the motion will only take a single day of Court's time, as compared with 30 days of trial time currently scheduled; and  <FRAGMENT_SUPPRESSED>  
+ 3) there would be sufficient time for the matter to be heard, and appealed (if necessary) before the commencement of the trial in September 2011.  <FRAGMENT_SUPPRESSED>  
+ [12] 
+  The Defendants further argue that their motion for summary dismissal was not contemplated at the time of the pre-trial conference of July 17, 2009, and Rule 213 clearly states that "a party may bring a motion for summary judgment on all or some of the issues raised in the pleadings  
+ at any time 
+  after the defendant has filed a defence but before the time and place for trial have been fixed. <FRAGMENT_SUPPRESSED>  
+ 
+ [13] 
+  The Defendants argue that there is no basis for the Plaintiffs to dispute the entitlement of the Defendants to bring the motion for summary dismissal under Rules 213, 214 and 215. The Defendants refer to two cases to substantiate their argument:  
+  <FRAGMENT_SUPPRESSED> ; 2001 FCT 1374 and  
+ Bourque (Pierre) & Fils ltée v. Canada 
+ , [1998] F.C.J. No. 908; 150 F.T.R. 140 (T.D.).  <FRAGMENT_SUPPRESSED>  
+ [14] 
+  The Defendants submit that they are ready to proceed with the motion and that six weeks would be sufficient for the Plaintiffs to prepare and file an Affidavit prior to the hearing of the motion.  <FRAGMENT_SUPPRESSED>  
+ [15] 
+  The Defendants have filed the Affidavit of Frederick W. Pheasey, sworn December 7, 2009 and suggest that this is the only evidence that will be led with respect to the issue of prior art. Mr. Pheasey is not an expert witness. Rather, he is a named Defendant in the action.  <FRAGMENT_SUPPRESSED>  
+ [16] 
+  The Defendants submit that a total of one day of time would be required for the hearing of the motion.  <FRAGMENT_SUPPRESSED>  
+ IV.  
+ Plaintiffs' Submissions  <FRAGMENT_SUPPRESSED>  
+ [17] 
+  The Plaintiffs argue that the Defendants' motion for summary judgment is egregiously late, without excuse, and should be dismissed. The Plaintiffs rely on three main points to substantiate their argument. The Plaintiffs argue that:  <FRAGMENT_SUPPRESSED>  
+ 1) summary judgment is only available where there is no issue to be tried, which is not the case here since: (a) there is contradictory evidence as to the construction of the '630 Patent: and (b) the Defendants argue that the patent is invalid due to obviousness and anticipation which are two separate legal tests, and therefore would require separate expert evidence; and  <FRAGMENT_SUPPRESSED>  
+ 2) the Plaintiffs would incur additional costs to obtain expert reports to respond to the summary judgment motion (possibly up to four reports). It would be a heavy burden to prepare these reports at the same time as preparing for expert trial reports; and  <FRAGMENT_SUPPRESSED>  
+ 3) allowing the summary judgment motion to go forward would unnecessary delay the scheduled September 2011 trial date.  <FRAGMENT_SUPPRESSED>  
+ [18] 
+  The Plaintiffs argue that it would be most efficient to dispose of the Defendants' motion for summary dismissal and proceed with the scheduled trial.  <FRAGMENT_SUPPRESSED>  
+ [19] 
+  The Plaintiffs state that they will require at least 6 months to prepare for a motion for summary judgment. This includes:  <FRAGMENT_SUPPRESSED>  
+ - two months to prepare for and schedule cross-examination of Messrs, Pheasey, Wooley, Miller and Nelson; and  <FRAGMENT_SUPPRESSED>  
+ - one day for each of those cross-examinations; and  <FRAGMENT_SUPPRESSED>  
+ - one half month to obtain transcripts of those cross-examinations; and  <FRAGMENT_SUPPRESSED>  
+ - one month to obtain a responding expert's report, from the date cross-examination transcripts are obtained; and  <FRAGMENT_SUPPRESSED>  
+ - one month to schedule the cross-examination of responding expert and one half month to obtain the transcript of it; and  <FRAGMENT_SUPPRESSED>  
+ - one month to prepare a memorandum of fact and law, from the date the transcript of the cross-examination of the responding expert is obtained.  <FRAGMENT_SUPPRESSED>  
+ V.  
+ Analysis  <FRAGMENT_SUPPRESSED>  
+ [20] 
+  The determinative issue in this case is whether a motion for summary judgment should be allowed to go forward.  <FRAGMENT_SUPPRESSED>  
+ [21] 
+  The major issues with respect to allowing the motion going forward are:  <FRAGMENT_SUPPRESSED>  
+ - proximity to the scheduled trial;  <FRAGMENT_SUPPRESSED>  
+ - efficient use of judicial resources;  <FRAGMENT_SUPPRESSED>  
+ - expense of the parties; and  <FRAGMENT_SUPPRESSED>  
+ - lack of expert evidence in the current motion record.  <FRAGMENT_SUPPRESSED>  
+ [22] 
+  It is trite law that a summary judgment motion should address whether there is a "genuine issue" for trial. In addition to this, the Court must weigh the many competing interests involved before determining whether the motion should go forward. In the case at hand, the interests include:  <FRAGMENT_SUPPRESSED>  
+ 1) the interests of the Defendants who wish to expeditiously dispose of specific issues which may prevent the necessity of a trial;  <FRAGMENT_SUPPRESSED>  
+ 2) the interests of the Plaintiffs in having their "day in court", as well as and the additional economic burden of preparing for a summary proceeding while concurrently undergoing trial preparations;  <FRAGMENT_SUPPRESSED>  
+ 3) the interests of the Court in not wasting judicial resources where the trial date is set and less than one year away; and  <FRAGMENT_SUPPRESSED>  
+ 4) the interests of the Court in expeditiously disposing of a lengthy trial.  <FRAGMENT_SUPPRESSED>  
+ [23] 
+  As noted, Rule 213(1) directs that "a party may bring a motion for summary judgment or summary trial on all or some of the issues raised in the pleadings at any time after the defendant has filed a defence but before the time and place for a trial have been fixed". In this case, the trial date was not communicated to the parties until February 4, 2010. I would have expected the Defendants, who were aware of the Halvorsen Patent, to have raised the possibility of this motion much earlier. Nevertheless, the Defendants were technically within the time permitted for bringing the motion.  <FRAGMENT_SUPPRESSED>  
+ [24] 
+  I will briefly address the current case law pertaining to summary judgments, and the jurisprudence from British Columbia on summary trials, to determine whether this Court should allow the Defendants' motion for summary dismissal to move forward.  <FRAGMENT_SUPPRESSED>  
+ A.  
+ Summary judgment  <FRAGMENT_SUPPRESSED>  
+ [25] 
+  The amendments to the  
+ Federal Courts Rules 
+  attempt to alleviate any inflexibility that the old Rules had which prevented expedited disposition of cases that did not require a full trial. However, this provision only pertains to cases that do not require a full trial. It is not in the interests of justice (or economics) for parties to be subject to an additional burden of preparing for a summary judgment motion when a full trial on the merits is necessary.  <FRAGMENT_SUPPRESSED>  
+ [26] 
+  Justice Phelan in  
+ Society of Composers, Authors and  <FRAGMENT_SUPPRESSED> ; 2010 FC 731 ( 
+ Socan) 
+  was one of the first in this Court to consider a motion for summary judgment in light of the amended rules. As Justice Phelan highlights, a motion for summary judgment is to determine whether there is a "genuine issue for trial", and not to litigate the merits of the trial. After hearing the motion in  
+ Socan 
+ , Justice Phelan states "one wonders if the same time, efforts and client expense would have been better spent getting this case ready for trial" (para. 3). The additional time and cost burden to the parties must be balanced against the efficiency of providing an expedited disposition of a case that does not require a full trial.  <FRAGMENT_SUPPRESSED>  
+ [27] 
+  The Supreme Court had the opportunity to comment on the basic principles of summary judgments in  
+  <FRAGMENT_SUPPRESSED> . The Court commenced with this comment as to their purpose and limitations:  <FRAGMENT_SUPPRESSED>  
+ "... The summary judgment rule serves an important purpose in the civil litigation system. It prevents claims or defences that have no chance of success from proceeding to trial. Trying unmeritorious claims imposes a heavy price in terms of time and cost on the parties to the litigation and on the justice system. It is essential to the proper operation of the justice system and beneficial to the parties that claims that have no chance of success be weeded out at an early stage. Conversely, it is essential to justice that claims disclosing real issues that may be successful proceed to trial. <FRAGMENT_SUPPRESSED>  
+ 
+ [28] 
+  The Federal Court and Court of Appeal have adopted some basic principles which govern summary judgments. The general principles in the Federal Court context, which were later adopted by the Court of Appeal, were set out by Justice Tremblay-Lamer in  
+  <FRAGMENT_SUPPRESSED>  (T.D.) ( 
+ Granville Shipping) 
+  at paragraph 8 (with emphasis added):  <FRAGMENT_SUPPRESSED>  
+ "I have considered all of the case law pertaining to summary judgment and I summarize the general principles accordingly:  <FRAGMENT_SUPPRESSED>  
+ 1. the purpose of the provisions is to allow the Court to summarily dispense with cases which ought not proceed to trial because there is no genuine issue to be tried ( 
+ Old Fish Market Restaurants Ltd. v. 1000357 Ontario Inc. et al. 
+ );  <FRAGMENT_SUPPRESSED>  
+ 2. there is no determinative test ( 
+  <FRAGMENT_SUPPRESSED>  doubtful that it does not deserve consideration by the trier of fact at a future trial 
+ ;  <FRAGMENT_SUPPRESSED>  
+ 3. each case should be interpreted in reference to its own contextual framework ( 
+ Blyth and Feoso 
+ );  <FRAGMENT_SUPPRESSED>  
+ 4. provincial practice rules (especially Rule 20 of the Ontario  
+ Rules of Civil Procedure 
+ , [R.R.O. 1990, Reg. 194] ) can aid in interpretation ( 
+ Feoso and Collie 
+ );  <FRAGMENT_SUPPRESSED>  
+ 5. this Court may determine questions of fact and law on the motion for summary judgment if this can be done on the material before the Court (this is broader than Rule 20 of the Ontario  
+ Rules of Civil Procedure 
+ ) ( 
+ Patrick 
+ );  <FRAGMENT_SUPPRESSED>  
+ 6. on the whole of the evidence,  
+ summary judgment cannot be granted if the necessary facts cannot be found or if it would be unjust to do so 
+  ( 
+ Pallman and Sears 
+ );  <FRAGMENT_SUPPRESSED>  
+ 7. in the case of a  
+ serious issue with respect to credibility, the case should go to trial because the parties should be cross-examined before the trial judge 
+  ( 
+ Forde and Sears 
+ ). The mere existence of apparent conflict in the evidence does not preclude summary judgment; the court should take a 'hard look' at the merits and decide if there are issues of credibility to be resolved ( 
+ Stokes 
+ ). <FRAGMENT_SUPPRESSED>  
+ 
+ [29] 
+  Finally, one of the most recurring principles in the jurisprudence on summary judgments is the need for caution. As stated by Justice Mactavish in  
+ Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> ; 2008 FC 528 at para. 18:  <FRAGMENT_SUPPRESSED>  
+ "In making this determination, a motions judge must proceed with care, as the effect of the granting of summary judgment will be to preclude a party from presenting any evidence at trial with respect to the issue in dispute. In other words, the unsuccessful responding party will lose its 'day in court': see  
+  <FRAGMENT_SUPPRESSED> . <FRAGMENT_SUPPRESSED>  
+ 
+ [30] 
+  The Court must consider the competing objectives of a summary judgment when deciding whether a motion on the facts of the case should proceed. In the case at hand, I must carefully weigh the importance of efficiently expediting the disposition of a complex patent infringement action, and the equally important objective of ensuring that the Plaintiffs have their "day in Court" to present evidence with respect to "genuine" issues in the dispute.  <FRAGMENT_SUPPRESSED>  
+ [31] 
+  I would conclude that in the current proceeding, there are several factors that weigh against allowing the motion for summary judgment to proceed ( 
+ Granville Shipping) 
+ .  <FRAGMENT_SUPPRESSED>  
+ -  
+ Purpose: 
+  The purpose of the Rule 213 is to allow the Court to summarily dispose of cases when there is no genuine issue, and ought not to be allowed to proceed to trial. The Defendants argue that this is a case with no genuine issue, as they only have one expert who they would be required to satisfy the Court that the '630 patent is both anticipated and obvious. There are a few errors in their argument. Firstly, anticipation and obviousness are two separate legal tests which need to be addressed separately. Moreover, before anticipation and obviousness can be considered, the Court must construe the '630 patent, an exercise that requires the assistance of expert witnesses. Finally, in this case, the Defendants have only put forward the opinion of Mr. Frederick Pheasey, a named Defendant in the action; no expert evidence has been provided.  <FRAGMENT_SUPPRESSED>  
+ -  
+ Determinative Test: 
+  There is no determinative test as to whether there is a "genuine issue" for trial. The Court must not consider whether a party cannot possibly succeed at trial, but whether the case is so doubtful that it does not deserve consideration by a trier of fact at a future trial. In the context of patent infringement actions, the issues and facts are often complex and interwoven. In this case, there are at least two issues which need to be determined: (1) what is the construction of the patent; and (2) was the patent, as construed, anticipated by the prior art? On both of these issues, there is contradictory evidence presented by the Plaintiffs and Defendants which needs to be weighed.  <FRAGMENT_SUPPRESSED>  
+ -  
+ Credibility: 
+  As in the case at hand, where there will be expert witness testimony, there are often issues with respect to credibility, and contradictory evidence. This requires a Court to assess and weigh the opinions of all of the experts. Cross-examination is an essential feature in these cases.  <FRAGMENT_SUPPRESSED>  
+ [32] 
+  In considering and weighing all of the factors above, I conclude that a motion for summary judgment ought not to proceed, as there are genuine issues which need to be examined at trial.  <FRAGMENT_SUPPRESSED>  
+ B.  
+ Summary Trial  <FRAGMENT_SUPPRESSED>  
+ [33] 
+  While neither party directly advanced an argument that these issues could be determined by summary trial pursuant to Rule 216, the Court has a duty to consider the matter ( 
+ Socan, 
+  at para. 40).  <FRAGMENT_SUPPRESSED>  
+ [34] 
+  There is little jurisprudence on the whether a Court should direct that a summary trial proceed pursuant to Rule 216 of the  
+ Federal Courts Rules 
+ . However, guidance can be found in the jurisprudence from British Columbia pursuant to what is now Rule 9-7 (previously Rule 18A) of the British Columbia  
+ Supreme Court Civil Rules 
+ , B.C. Reg. 168/2009, where there is a similar mechanism in place.  <FRAGMENT_SUPPRESSED>  
+ [35] 
+  British Columbia's Rule 9-7 provides a Court with procedures to conduct a "summary trial", including providing power for the Court to order that a deponent "attend for cross-examination ... before the Court".  <FRAGMENT_SUPPRESSED>  
+ [36] 
+  The leading case on the extent of a Court's discretion to grant judgment pursuant to the Rule 9-7 summary trial procedure is  
+  <FRAGMENT_SUPPRESSED> ; 36 C.P.C.(2d) 199 (C.A.). In that case, the British Columbia Court of Appeal, at paragraph 48, set out a number of factors to be considered:  <FRAGMENT_SUPPRESSED>  
+ "In deciding whether it will be unjust to give judgment the chambers judge is entitled to consider, inter alia, the amount involved, the complexity of the matter, its urgency, any prejudice likely to arise by reason of delay, the cost of taking the case forward to a conventional trial in relation to the amount involved, the course of the proceedings and any other matters which arise for consideration on this important question. <FRAGMENT_SUPPRESSED>  
+ 
+ [37] 
+  In subsequent cases, additional factors have been considered when deciding whether a matter is suitable for determination pursuant to Rule 9-7. The Court in  
+  <FRAGMENT_SUPPRESSED>  B.C.L.R.(4th) 342; 2005 BCSC 1263, at paragraph 12, stated:  <FRAGMENT_SUPPRESSED>  
+ "... The additional factors trial judges take into account in determining whether a case is suitable include:  <FRAGMENT_SUPPRESSED>  
+ - is the litigation extensive and will the summary trial take considerable time;  <FRAGMENT_SUPPRESSED>  
+ - is credibility a crucial factor - and have the deponents of the conflicting affidavits been cross examined;  <FRAGMENT_SUPPRESSED>  
+ - will the summary trial involve a substantial risk of wasting time and effort, and producing unnecessary complexity; and  <FRAGMENT_SUPPRESSED>  
+ - does the application result in litigating in slices. <FRAGMENT_SUPPRESSED>  
+ 
+ [38] 
+  I conclude that, for the case at hand, there are several factors that weigh against directing the parties towards a motion for summary trial ( 
+ Inspiration 
+ ,  
+ Dahl 
+ ):  <FRAGMENT_SUPPRESSED>  
+ -  
+ Complexity of the Matter: 
+  Patent infringement trials and issues are inherently complex, and technical. The technical nature of the '630 Patent requires review by expert witnesses to assist the Court in construing the patent, in addition to the fact that contradictory evidence will be presented by both the Defendants and the Plaintiffs on the subject.  <FRAGMENT_SUPPRESSED>  
+ -  
+ Cost: 
+  As a consequence of the technical nature, a summary trial would require a substantial amount of time and cost in preparation.  <FRAGMENT_SUPPRESSED>  
+ -  
+ Time: 
+  It is apparent that a summary trial would take a considerable amount of time, as the parties estimate that between two and six months of preparation would be required.  <FRAGMENT_SUPPRESSED>  
+ -  
+ Lack of Expert Opinions: 
+  At this stage, it appears that the Defendants intend to rely on Mr. Pheasey to provide his opinions on claims construction and the issue of anticipation and obviousness. It is a basic principle of the law of evidence that a fact witness cannot provide opinion evidence. Mr. Pheasey appears to be relying on the opinions of Messrs, Wooley, Miller and Nelson. However, these "experts" are not before the Court in this motion. The problem cannot be remedied by merely ordering cross-examination of Mr. Pheasey.  <FRAGMENT_SUPPRESSED>  
+ -  
+ Urgency/ Wasted Time: 
+  Time could be wasted that would better be spent preparing for the September 2011 trial; and  <FRAGMENT_SUPPRESSED>  
+ -  
+ Litigation in Slices 
+ : Severing off the issue of anticipation would not conclusively dispose of the trial if, on considering the motion, this Court made a determination against the Defendants. In that event, the issue of obviousness - based on much of the same evidence - would still be considered at trial.  <FRAGMENT_SUPPRESSED>  
+ [39] 
+  It is possible that a summary trial could be found to be efficient and effective procedure in a patent infringement proceeding. However, based on the amount of time required to prepare the summary trial, the proximity of the actual trial date, and the lack of independent expert evidence available at the moment, I would conclude that allowing this motion for summary judgment to proceed would not be in the interest of justice.  <FRAGMENT_SUPPRESSED>  
+ [40] 
+  Accordingly, the motion for summary judgment will not be heard. Of course, it follows that the issues of anticipation and obviousness will be matters to be fully explored at trial, in the presence of proper expert and fact evidence. In addition, most of the procedural steps required prior to trial will remain in the very capable hands of Prothonotary Lafrèniere.  <FRAGMENT_SUPPRESSED>  
+ [41] 
+  I would assess costs against the Defendants, fixed in the amount of $5000 plus reasonable disbursements, in respect of this motion.  <FRAGMENT_SUPPRESSED>  
+ ORDER  <FRAGMENT_SUPPRESSED>  
+ [42] 
+   
+ THIS COURT ORDERS that:  <FRAGMENT_SUPPRESSED>  
+ 1. The Defendants' motion is dismissed; and  <FRAGMENT_SUPPRESSED>  
+ 2. Costs, fixed in the amount of $5000 plus reasonable disbursements, are payable by the Defendants to the Plaintiffs, in any event of the cause.  <FRAGMENT_SUPPRESSED>  
+ Order accordingly.  <FRAGMENT_SUPPRESSED>  
+ Editor: Sharon McCartney/vnh  <FRAGMENT_SUPPRESSED>  
+ [End of document]  <FRAGMENT_SUPPRESSED>  
+
+
+

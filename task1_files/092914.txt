@@ -1,0 +1,435 @@
+[1]
+Strickland, J.
+: This decision concerns the appeals by Harry Sargeant III (Sargeant) and Comerica Bank (Comerica), pursuant to Rule 51 of the
+Federal Courts Rules
+, SOR/98-106 (Rules), of the Order of Prothonotary Lafrenière dated March 5, 2013 (
+ <FRAGMENT_SUPPRESSED> ) declaring that the builder's mortgage held by Sargeant against the defendant vessel QE014226C010 (Vessel) does not create a lien or charge in the Vessel other than to secure delivery.
+Background
+[2]
+The background facts in this matter are not in dispute. Sargeant and Worldspan Marine Inc. (Worldspan) entered into a Vessel Construction Agreement (VCA) dated February 29, 2008 whereby Worldspan agreed to design, construct, outfit, launch, complete, sell and deliver the Vessel, a 142 foot custom built luxury yacht, to Sargeant.
+[3]
+Construction of the Vessel began in March 2008. A Builder's Mortgage in favour of Sargeant as against the Vessel was filed in the Vancouver Ship Registry on May 14, 2008 (Builder's Mortgage).
+[4]
+By August 2009 payments made by or on behalf of Sargeant to Worldspan totalled USD$11,064,525.38. On August 14, 2009, Sargeant entered into a Construction Loan Agreement (CLA) with Comerica and others for USD$9,400,000.00 to finance the completion of the construction of the Vessel. Sargeant's interests in the VCA, the Vessel, and the Builder's Mortgage were assigned to Comerica by way of an Assignment of Security Agreement and Mortgage of same date.
+[5]
+From August 2009 to March 2010, Comerica paid to Worldspan, on Sargeant's behalf, the sum of USD$9,387,398.67. By April 2010 the total amount paid to Worldspan by or on behalf of Sargeant in connection with the construction of the Vessel was USD$20,651,924.05.
+[6]
+A dispute arose between Sargeant and Worldspan concerning project costs. Construction of the Vessel ceased in April or May 2010. Offshore commenced the underlying action on July 20, 2010 against Worldspan, Crescent Custom Yachts Inc., the Owners and all others interested in the Vessel, and the Vessel itself for unpaid invoices for services and materials rendered in connection with construction of the Vessel. The Vessel was arrested on July 28, 2010 and remains under arrest.
+[7]
+On May 27, 2011, Worldspan and related entities filed a Petition in the British Columbia Supreme Court seeking relief under the
+Companies Creditors' Arrangement Act
+, RSC 1985, c C-36 (CCAA Proceedings). On July 22, 2011, Justice Pearlman of the British Columbia Supreme Court issued a claims process order in the CCAA Proceedings (CCAA Claims Process Order). This required all creditors to deliver proofs of claim on or before the claims bar date, September 9, 2011, failing which the creditor would be forever barred from making or enforcing any claim. It also provided that any creditor that filed a proof of claim in the CCAA Proceedings asserting an
+in rem
+claim against the Vessel could pursue that claim, outside the CCAA Proceeding, in this Court.
+[8]
+By order dated August 29, 2011, the Prothonotary, as case management judge, established a claims process for all creditors with
+in rem
+claims against the Vessel (Federal Court Claims Process Order). That order provided that notice be given to all creditors of the requirement to file an affidavit containing particulars in support of the claim against the Vessel, specifying the nature of the claim to enable the Court to determine if such a claim constituted an
+in rem
+claim and, if so, its priority. It also required all such affidavits to be filed 21 days after the
+in rem
+creditor received the required notice and provided that all questions relating to the right of any
+in rem
+claimant be determined by the Federal Court upon application.
+[9]
+On February 9, 2012, Offshore filed a motion seeking an order of this Court declaring that the Builder's Mortgage does not create a lien or charge in the Vessel other than to secure its delivery. The order was granted by the Prothonotary, sitting as Case Management Judge, on March 5, 2013, with costs as set out. That order is the subject of this appeal.
+Decision Under Appeal
+[10]
+The Prothonotary set out the context of the motion before him being that, as a condition of participating in a priorities distribution following judicial sale of the Vessel, each claimant must have an existing, valid and enforceable
+in rem
+claim against the Vessel. Claimants could present their own claims and could also attack others, including their ranking in terms of priority. The relief sought by Offshore in its motion was not intended to preclude Sargeant or Comerica from participating in the priorities hearing, but rather to limit their claim by excluding from it the repayment of the funds advanced by or on behalf of Sergeant for the construction of the Vessel.
+[11]
+The Prothonotary set out the positions of the parties. Offshore submitted that the Builder's Mortgage did not create a lien or charge in the Vessel, but only secured delivery. Mohammed Anwar Farid Al-Saleh (Al-Saleh) adopted this position.
+[12]
+Sargeant and Comerica opposed Offshore's motion, arguing that the Builder's Mortgage, expressly or impliedly, allows them to secure repayment of the amounts advanced to Worldspan by or on behalf of Sargeant. The VCA expressly provides that advances made by Sargeant to Worldspan are not earned until a future date, being the delivery of the Vessel. As it was never delivered, the advances are recoverable as money lent. Alternatively, Sargeant has an equitable mortgage or a claim against the Vessel pursuant to subsection 22(2)(n) of the
+Federal Courts Act
+, RSC 1985, c F-7 for the amounts advanced for the construction of the Vessel.
+[13]
+The Prothonotary adopted Offshore's supplementary written submissions on the subsection 22(2)(n) claim and concluded that the claim was "of no moment".
+[14]
+The Prothonotary noted that the question of whether Worldspan had an obligation under the Builder's Mortgage or the VCA to repay the funds advanced by Sargeant turned on the interpretation of those documents. In that regard, he referenced the principles of contract interpretation found in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]. Considering the factors and circumstances, he was not persuaded that the evidence supported any indebtedness.
+[15]
+He noted that the Builder's Mortgage is in the form prescribed by the
+Canada Shipping Act
+, 2001, SC 2001, c 26 (
+Canada Shipping Act, 2001
+) (Form 16) which permits only a principal sum and fixed rate of interest, or, an "account current." The Builder's Mortgage stated only that there was an account pursuant to, and the obligations secured by, the VCA. However, while the form required specifics of the transaction so as to determine the amount owing and the "time of payment", neither the Builder's Mortgage nor the VCA contained such specifics.
+[16]
+Further, while the VCA set out the rights and obligations of the parties in the event of breach, termination or upon completion, it contained no explicit provision for repayment for the funds provided for construction of the Vessel.
+[17]
+The Prothonotary also found that whether a mortgage implies a loan is dependant on the circumstances of the specific situation. Here, regardless of the wording of the Builder's Mortgage, there was no evidence of an account current being created pursuant to the VCA. The VCA clearly permitted Worldspan to retain all advances for the purpose of paying for labour and material used to construct the Vessel and "would not exist as a fund" (
+FC Yachts Ltd, PR Yacht Builders Ltd and New World Expedition Yachts
+(31 August, 2010) arbitration decision of Mr. John J McIntyre [
+FC Yachts
+]).
+[18]
+The Prothonotary found that the parties must have contemplated that, following a breach, Worldspan would have no ability to repay the substantial amounts advanced to construct the Vessel leaving Sargeant and Comerica with the obvious remedy of taking the Vessel from the yard and completing it elsewhere or selling it. The VCA contained no provision for repayment and a contractual term will not be implied merely because, in hindsight, it would have been reasonable to do so. The Prothonotary adopted para 57 of Offshore's supplementary written representations to the effect that the VCA is not a loan agreement and that if the advanced finds were intended as a loan and were to be repaid then the VCA would have said so.
+[19]
+The Prothonotary concluded that, for these reasons, there were no financial obligations of Worldspan to Sargeant under the VCA. If Worldspan was in breach, Sargeant's remedies were limited to possession and ownership of the Vessel and an
+in personam
+action against Worldspan.
+Issues
+[20]
+The issues on this appeal are:
+(1) What is the standard of review?
+(2) Did the Prothonotary err in finding that the Builder's Mortgage does not create a lien or a charge in the Vessel other than to secure its delivery?
+(3) Did the Prothonotary err by not considering Sargeant's alternate claim under subsection 22(2)(n)
+Federal Courts Act
+?
+(1) What is the Standard of Review?
+[21]
+The modified test in
+ <FRAGMENT_SUPPRESSED>  at para 19 describes the standard of review for discretionary orders made by a prothonotary. Here the Prothonotary was called upon to interpret and apply the Builder's Mortgage and the VCA in determining whether the Builder's Mortgage created a lien or charge in the Vessel other than to secure its delivery. This did not involve an exercise of discretion, but rather, concerned the task of gleaning the parties' intentions by interpreting the relevant facts and contract provisions. Therefore, the normal appellate standards of review apply (
+ <FRAGMENT_SUPPRESSED>  at para 8 [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> ).
+[22]
+Sargeant, Comerica and Offshore all rely on
+General Motors of Canada Ltd v R
+, 2008 FCA 142 [
+General Motors
+] for their standard of review analysis, although they come to different conclusions as to its application. Sargeant and Comerica assert that it supports the correctness standard while Offshore submits that it supports the palpable or overriding error standard. The relevant portions of that decision are as follows:
+[29]  <FRAGMENT_SUPPRESSED>  interpretation of a spousal support section of a marriage contract, i.e. the interpretation of a variation provision in a domestic contract. Thus, the Court of Appeal had to determine on what standard it would review the Trial Judge's interpretation. The appellant contended that the question before the Court raised a question of law and was thus reviewable on a standard of correctness because it related to the legal effect to be given to the words of the contract. The respondent argued that the question before the Court was a mixed question of fact and law which should be reviewed on a standard of palpable and overriding error.
+[30] After reviewing a number of Ontario Court decisions in the light of  <FRAGMENT_SUPPRESSED> , Lang J.A. wrote at paragraphs 30 to 33 of her Reasons for the Court:
+30
+To begin with, the trial judge must apply the proper principles of contract interpretation, including consideration of the clause in the context of the entirety of the contract. A failure to follow the proper principles, including a failure to apply a fundamental principle of interpretation, would be an error of law attracting review on the standard of correctness.
+31
+To the extent that this task of interpretation includes consideration of extrinsic evidence, or a determination of the factual matrix, the trial judge is involved in making a finding of fact, or drawing inferences from a finding of fact
+. Further, the trial judge's "interpretation of the evidence as a whole" is one involving factual or inferential determinations.  <FRAGMENT_SUPPRESSED>  at para. 68. Such questions of fact are entitled to deference and are not to be overturned except in the case of palpable or overriding error, or its "functional equivalents": "clearly wrong", "unreasonable", and "not reasonably supported by the evidence".  <FRAGMENT_SUPPRESSED>  at para. 110.
+32 In interpreting the contract, the trial judge also applies the legal principles to the language of the contract in the context of the relevant facts and inferences. This requires the application of law to fact. This has been said to be a question of mixed fact and law.  <FRAGMENT_SUPPRESSED>  at paras. 19-21 (C.A.);  <FRAGMENT_SUPPRESSED> , at para. 68.
+33
+Accordingly, in reviewing the trial judge's interpretation of a contract, the appellate court must first classify the question as one of fact, law, or mixed fact and law. If the question is an inextricable intertwining of both fact and law, the question can be said to be one of mixed fact and law.
+[...] [Emphasis added]
+[23]
+Sargeant submits that the Prothonotary failed to apply the appropriate principles of contractual interpretation on the motion before him. This was error of law which led him to incorrectly conclude that the Builder's Mortgage does not secure repayment of the amounts advanced by Sargeant pursuant to the VCA. Further, that the Prothonotary erred in law by failing to consider or apply the applicable legal principles to his alternate claim against the Vessel pursuant to subsection 22(2)(n) of the
+Federal Courts Act
+. Both errors of law are reviewable on the standard of correctness.
+[24]
+Sargeant submits that the Prothonotary did not apply the principles of contractual interpretation that required the VCA and Builder's Mortgage to be interpreted in accordance with sound commercial principles and business sense; to avoid a commercial absurdity; and, to extract meaning from the parties expression of their contractual intention in accordance with the language used. Instead of interpreting the language and grappling with the principles, the Prothonotary applied an overly formalistic and literal approach basing his decisions on the perceived absence of explicit provisions and evidence.
+[25]
+Comerica submits that interpreting an agreement involves referring to the context, or factual matrix, in which it was made. The factual matrix in this case was that Sargeant was to provide the working capital needed by Worldspan to construct the Vessel, Worldspan would remain the owner until delivery, and, Sargeant's advances were to be secured by the Builder's Mortgage. It was within that context that the Prothonotary was required to interpret the VCA. Further, that the Prothonotary erred in law in failing to apply the proper principles of contract interpretation and erred in fact as regards to the existence of an account current.
+[26]
+Offshore submits that the standard of review is that of palpable or overriding error as interpreting the VCA within the factual matrix is a mixed question of fact and law (
+General Motors
+, above, at paras 29-33). Here, there was no palpable or overriding error and, in any event, the Prothonotary's decision would also survive review on a correctness standard.
+[27]
+The applicable standard of review for a question involving contractual interpretation was well described in Geoff R. Hall, Canadian Contractual Interpretation Law, 2nd ed (Markhan: LexisNexis Canada Inc, 2012), at 125:
+...The new approach holds that different standards of review apply depending upon the precise nature of the question. This is because contractual interpretation involves questions of law (what are the applicable principles of interpretation?), questions of fact (what is the factual matrix?), and questions of mixed fact and law (what is the meaning of a particular contract in light of the legal principles and the factual matrix?). The standard of review for each of these questions is defined by the Supreme Court of Canada's leading case on standards of appellate review,  <FRAGMENT_SUPPRESSED>  question of fact and (in general) palpable and overriding error for questions of mixed fact and law.
+[28]
+Here, at the outset of his decision, the Prothonotary correctly identifies the applicable principles of contract interpretation. Thus, there is no error of law in this regard. However, he does not state how those principles are applied to the matter before him or how his conclusion is related to those principles. In my view, with the exception of the alleged failure to address the alternate subsection 22(2)(n) submission which was an error in law reviewable on the correctness standard, the remaining issues are all linked to factual inquiries. Thus, they are mixed questions of fact and law, making the appropriate standard of review that of a palpable and overriding error.
+[29]
+In that regard, I would note that although Sargeant and Comerica both submit that the correctness standard applies, they also make submissions disputing the Prothonotary's assessment of the underlying factual matrix relevant to interpreting the VCA.
+Relevant Provisions of the VCA and Builder's Mortgage
+[30]
+Prior to considering the second issue, it is useful to set out the relevant provisions of the VCA and Builder's Mortgage.
+[31]
+Worldspan, as the builder, undertook to design, construct, outfit, launch, complete and sell and deliver the Vessel to Sargeant subject to the provisions of the VCA (section 1.1). Worldspan also agreed to deliver the Vessel to Sargeant upon completion (section 2.1).
+[32]
+Section 2.3 provides that:
+Upon Delivery, the Vessel, including any equipment, materials, supplies, parts or other components ...shall be free and clear of all liens, mortgages, and encumbrances (except liens and encumbrances approved by Owner in favour of Owner's construction finance lender, if any) ...which arise or attach prior to the delivery of the Vessel to Owner, against the Vessel or against the materials, labour, supplies or equipment furnished by Builder in performance of this Agreement.
+[33]
+Worldspan also agreed to provide a bill of sale warranting that the Vessel is free and clear of any and all claims, debts, liabilities, liens, charges, mortgages and encumbrances of any nature whatsoever (subsection 2.5(b)) and an affidavit confirming that materials, equipment, parts, components and supplies furnished by Worldspan and all persons who provided labour or material to the Vessel have been paid in full (subsection 2.5(d)).
+[34]
+Section 4.1 addresses payments on account made by Sargeant to Worldspan during construction which are in the nature of advances:
+The cost of the Vessel and the final purchase price payable by Owner (the "Final Purchase Price") will be finally determined on a time-and-materials basis subject to reasonable verification/audit ... During the course of construction of the Vessel Owner will make payments on account of the Final Purchase Price as hereinafter provided but these payments will be in the nature of advances to Builder and the Final Purchase Price will not be earned by Builder until delivery and acceptance of the Vessel in accordance with this Agreement.
+[35]
+The estimated price of the Vessel was US $15.0 million subject to any agreed changes (section 4.2). During construction of the Vessel, Sargeant was required to make monthly payments in arrears to cover Worldspan's expenditures for the previous month (subsection 4.3(a)). In the event that the final purchase price would be more than 10% greater that the estimated price plus agreed changes, then Sargeant had the option of terminating the VCA with the consequences set out in section 13. Each month Worldspan was to submit to Sargeant, for verification and approval, a Claim Certificate setting out that month's expenditures (subsection 4.3(c)). These arrangements were acknowledged as intended to maintain positive cash flow (subsection 4.3(e)).
+[36]
+Risk remained with Worldspan during construction (section 5). Total loss was addressed in section 5.3:
+In the event Builder is unable or otherwise fails to deliver the Vessel to Owner as required hereunder due to total loss of the Vessel during construction, Owner shall be entitled to recover all amounts paid to Builder hereunder, whether by insurance or otherwise (the "Refund"). The Refund shall be without prejudice to any other rights of owner under the law, this Agreement or otherwise.
+[37]
+Pursuant to section 8.1, Sargeant was permitted to assign the benefit of the VCA by way of security to any bank or financial institution providing financing in connection with the construction of the Vessel.
+[38]
+By section 12.1, Worldspan retained title to the Vessel until delivery and granted Sargeant a continuing first priority security interest to secure the sums advanced to Worldspan:
+Builder will retain title to the Vessel until delivery to the Owner. Builder grants to Owner a continuing first priority security interest in the Vessel, including all work, materials, machinery, and equipment relating to the Vessel, to secure any sums advanced or paid to Builder under this Agreement; provided however, that such security interest shall be subordinate to Owner's obligations under the Contract Documents including Builder's right to receive payments pursuant to this Agreement. In support of Owner's security interest in the Vessel Builder agrees to register a Ship's Mortgage in favour of Owner or Owner's construction lender (the form of the mortgage document is to be agreed upon between the parties acting reasonably) if Owner requests that this be done for any purpose.
+[39]
+Section 13.1 gives Sargeant the "right and power, without prejudice to any other remedy," to terminate the VCA in certain events of default, including if Worldspan suspended payment of its debts or ceased to carry on business or made any arrangement or compromise with its creditors. By section 13.2, should Sargeant terminate the VCA then he was entitled to take over and complete the Vessel elsewhere in which event Worldspan's liabilities are set out, including:
+(a) to deliver up the Vessel and/or such parts as have been constructed and all materials, engines, machinery, outfit and equipment from time to time appropriated to the Vessel and/or pertaining to this Agreement ...free and clear of all mortgages, maritime liens and debts and claims whatsoever for removal from Builder's shipyard;
+(b) to do and execute all acts, matters, things and documents necessary or reasonably required by owner to transfer and convey all right, title and interest to and in the Vessel to owner and protect the same against claims by other persons (including suppliers, subcontractors and creditors of the Builder ...)
+13.3 As an alternative to its rights under the preceding provisions of this SECTION13 Owner will be entitled by notice in writing given at anytime within thirty (30) days after termination of this Agreement to require Builder to cooperate in the prompt sale of the vessel on such terms and in such manner as owner may decide and Builder may approve ....and following such sale the provisions of SECTION 24 will apply.
+[40]
+Section 24 of the VCA sets out a formula that applies in the event of a sale of the Vessel by Sargeant pursuant to which Worldspan is obligated to pay Sargeant a calculated sum in the event that the sale proceeds are less than the advances made by Sargeant to Worldspan; similarly, if the sale proceeds exceed the advances made by Sargeant to Worldspan, Sargeant is to pay a portion of the profit to Worldspan.
+[41]
+Section 13.5 of the VCA deals with default by Sargeant providing that Worldspan has a right to terminate in the event that Sargeant fails to make payments pursuant to the VCA, in which case Worldspan may offer the Vessel for sale. Worldspan's "property in the Vessel will revert or pass to Builder and Owner will promptly do and exercise all acts, matters, things and documents necessary or reasonably required by Builder to perfect Builder's property therein." Further, if Worldspan resells the Vessel for an amount less than the Capped Purchase Price, it shall refund to Sargeant all instalment payments less Worldspan's direct out-of-pocket costs and expenses for storage and resale. If Worldspan resells the Vessel for an amount equal to or in excess of the Capped Purchase Price, then it shall refund to Sargeant any instalment payments less Worldspan's costs and expenses for storage and resale.
+Builder's Mortgage
+[42]
+The Builder's Mortgage is in statutory form (Form 16) in favour of Sargeant, as mortgagee, by Worldspan, as mortgagor. The form includes the wording "Whereas (State that there is an account current between mortgagor and mortgagee (describing both), and describe the nature of the transaction so as to show how the amount of principle and interest due at any given time is to be ascertained and the manner and time of payment)". In response was entered:
+There is an account current pursuant to that certain Vessel Construction Agreement dated February 29, 2008 among mortgagor and mortgagee which Agreement specifies the obligations hereby secured.
+[43]
+The form then states:
+I/We, the mortgagor(s) in consideration of the above now covenant with the mortgagee(s) to pay to the mortgagee(s) the sums for the time being due on this security, whether by way of principal or interest, at the times and in the manner set out. For the purposes of better securing payment to the mortgagee(s), the mortgagor(s) hereby mortgage to the mortgagee(s)
+64
+shares ...of which the mortgagor(s) are the owner(s) in the vessel described above ...
+(2) Did the Prothonotary err in finding that the Builder's Mortgage does not create a lien or a charge in the Vessel other than to secure its delivery?
+[44]
+The Prothonotary correctly recognized at the outset of his analysis that the aim of contract interpretation is to determine the intent of the parties based on the language of the contract documents and having regard to the context in which the contract was executed. He also acknowledged the principles of contract interpretation as set out in <FRAGMENT_SUPPRESSED> , above at para 16. Thus, the issue is whether the Prothonotary properly applied those principles in his analysis.
+[45]
+For the reasons outlined below, I am not satisfied that the Prothonotary's analysis, while considering individual aspects of the VCA, employed an overall view of the factual matrix and consideration of the VCA and the Builder's Mortgage as a whole so as to garner the true intent of the parties. This impacted his analysis of the nature of the advances and the scope of Sargeant's security interest.
+Scope of Security
+[46]
+The starting point of the analysis is, as the Prothonotary determined, clause 12.1 of the VCA:
+12.1 Builder will retain title to the Vessel until delivery to the Owner. Builder grants to Owner
+a continuing first priority security interest in the Vessel
+, including all work, materials, machinery, and equipment relating to the Vessel,
+to secure any sums advanced or paid to Builder under this Agreement
+; provided, however, that such security interest shall be subordinate to Owner's obligations under the Contract Documents including Builder's right to receive payments pursuant to this Agreement.
+In support of Owner's security interest in the Vessel Builder agrees to register a Ship's Mortgage
+in favour of Owner or Owner's construction lender ... [Emphasis added]
+[47]
+The parties agreed that the Builder would retain title to the Vessel during construction, this necessarily puts the Owner at risk as regards to the advances. Therefore, the broad question on this appeal is how did the parties intend for that risk to be managed? Put otherwise, what was the intended scope of the security interest?
+[48]
+The management of this type of risk during the construction of a vessel is not unique or outside usual commercial practice. This is often dealt with in one of two ways, as described in Simon Curtis,
+The Law of Shipbuilding Contracts
+, 4th ed (London: Informa Law, 2012) at 135:
+The time at which title to the vessel passes to the buyer is for two reasons an issue of central importance to the entire shipbuilding project. First, whoever owns the vessel during her construction period enjoys a measure of security against the risk of the other party's financial default; in such event his rights of ownership should (at least in theory) prevail against the other's creditors and permit him to sell the vessel in order to recoup his investment. Secondly, depending on local law and practice, ownership of the vessel may afford to the builder the right to mortgage or charge her for the purpose of securing the finance needed for her construction.
+The overwhelming majority of international shipbuilding contracts confer title to the vessel upon the builder throughout the construction period on the basis that the buyer's pre-delivery credit risk will be secured by a refund guarantee; this will typically be provided to the buyer as a condition of payment of the first instalment of the contract price. Title to the vessel will be transferred to the buyer concurrently with execution of the Protocol of Delivery and Acceptance ...
+If, however, the builder is not in a position to provide a satisfactory refund guarantee, it may be agreed that the vessel itself should stand as security for the buyer's pre-delivery instalments. In such circumstances the contract will provide that title to the vessel, together with all equipment and materials intended for her, should pass to the buyer during the course of construction. The title vested in the buyer will, however, usually be conditional, rather than absolute, in nature and will in particular not preclude him from exercising his rights to reject the vessel and rescind the contract. In such circumstances title will normally revert to the builder following the buyer's notice of termination and upon the builder's refundment to him of the pre-delivery instalments of the contract price paid at that time, together with interest thereon.
+[49]
+These situations are not representative of the title and risk provisions contained in the VCA, and it must also be recalled that, in the United Kingdom, there is no right to place a builder's mortgage during construction. In that regard, Curtis, above states the following at 42:
+Secondly, in certain European shipbuilding jurisdictions, it is possible for the builder to create and register a mortgage over the partly-built vessel to secure construction financing; such mortgage will obviously be redeemed prior to delivery in order to permit the buyer to take the vessel free of all encumbrances. During the construction period, however, the existence of the mortgage will usually ensure that it is the mortgagee, rather than the liquidator of the builder, who will be entitled to dispose of the vessel in the event of the builder's insolvency. Where the vessel's construction is financed on a mortgage basis, the buyer may therefore wish at the outset to reach a separate agreement with the mortgagee permitting him an option to purchase the vessel should the builder default and the mortgagee enter legal possession.
+[50]
+Here, of course the factual situation differs as the mortgagor was Worldspan and the mortgagee was the purchaser, Sargeant, whose advances were utilized to construct the Vessel. However, these provisions demonstrate that title, the risk of financial default and of third party claims, and, the securing against same, are inter-related.
+[51]
+Pursuant to section 13.1 of the VCA, in the event of default by Worldspan, Sargeant, had the right to terminate the VCA, without prejudice to any other right or remedy. In that event, Sargeant was entitled to take over and complete the Vessel free and clear of all claims (section 13.2), alternatively, to cause the sale of the Vessel (section 13.3) and to recover the funds he expended by way of the advances pursuant to the formula set out in section 24. Of note is that those remedies are as between Worldspan and Sargeant, and, that Sargeant's remedies in the event of default were not limited to termination of the VCA and the exercise of his section 13 rights as contended by Offshore in its submissions.
+[52]
+Thus, while the VCA included provisions to contend with default by either party or total loss during construction, the Builder's Mortgage had a different purpose. That purpose was explicitly stated by the parties as serving to provide a continuing first priority security interest in the Vessel to secure the unearned advances (sections 12.1 and 4.1). As such, it can reasonably be implied that it was intended to be effective against third parties and was not limited in effect as between Worldspan and Sargeant. In short, it served to manage the risk to Sargeant which arose by making the advances while not holding title to the Vessel. Based on the foregoing, in my view, the scope of the Builder's Mortgage security was not limited to securing the delivery of the Vessel, rather, it was intended that the Vessel itself was to stand as security for Sargeant's pre-delivery instalments.
+Obligation to Repay
+[53]
+I agree with Comerica that the factual matrix in this matter, supported by sections 12.1 and 4.3 of the VCA, is that Sergeant was to provide the working capital needed by Worldspan to construct the Vessel, Worldspan was to remain the owner until delivery, and, the advances made by Sargeant were to be secured by the Builder's Mortgage. As to the question of whether the advances secured by the Builder's Mortgage constituted a loan with an obligation to repay the funds advanced for the construction of the Vessel, the VCA does not explicitly state that the advances are provided by way of a "loan". Nor is there an underlying loan document such as a promissory note or deed of covenants made collateral to the Builder's Mortgage, a schedule of principal and interest payments or a specified interest rate. Accordingly, the VCA and Builder's Mortgage did not comprise a "loan" in the conventional sense. However, section 4.1 states that the payments would be made "on account" of the purchase price but would be in the nature of advances and that the purchase price would not be earned by Worldspan until delivery and acceptance of the Vessel in accordance with the VCA. This at least implies the existence of an extended credit, and resultant potential debt, until the advances were earned.
+[54]
+In that regard Comerica submits that a number of the VCA provisions, specifically sections 4.1, 5.3, 13.3, 13.5 and 24.8, require repayment of the advances and that the Prothonotary therefore erred in finding that an obligation to repay could not be implied.
+[55]
+As to section 4.1, Comerica submits that the advances made by Sargeant pursuant to section 4.1 could be satisfied by Worldspan by delivery of the Vessel. Offshore submits that while this provision does not mention repayment, it agrees that delivery would be sufficient to deem the advances earned.
+[56]
+While section 4.1 does not explicitly mention repayment, it does state that: i) Sargeant is making payments "on account"; ii) the payments are in the nature of advances; and iii) the advances are not earned until delivery. On a plain reading, this suggests that Worldspan is not entitled to retain and not disgorge the advances if the Vessel was not delivered.
+[57]
+Section 5.3 provides that in the event that Worldspan fails to deliver the Vessel due to total loss during construction, Sargeant "shall be entitled to recover all amounts paid to Builder hereunder, whether by insurance or otherwise (the "Refund")". This provision clearly contemplates a refund in the event of non-delivery. However, Offshore submits this provision would only result in payment of funds recovered from an insurer and that it does not refer to the advances.
+[58]
+In my view, as the amounts Sargeant paid to Worldspan were paid by the advances, it can reasonably be inferred that it is the advances that are to be refunded by way of any insurance proceeds paid to Worldspan. Further, as to the submission that the provision does not require Worldspan itself to provide the payments, the provision states that Sargeant "shall be entitled to recover all amounts paid to Builder hereunder, whether by insurance or otherwise ..." Thus, while it clearly envisions the Refund being paid by Worldspan to Sargeant from insurance proceeds following a total loss, it is not limited to such payments. As the advances are paid pursuant to the VCA, they could also be recovered under this provision. This would permit, for example, recovery directly from Worldspan in the event of a denial of coverage by Worldspan's insurer.
+[59]
+Sections 13.3 and 24.8 provide that as an alternative to its other rights under section 13 in the event of default by Worldspan, Sargeant may require the sale of the Vessel upon termination of the VCA (section 13.3) in accordance with the provisions of section 24 which, in essence, stipulates that if the Vessel is sold at a loss that Worldspan is to pay a portion of the loss to Sargeant and, conversely, if it is sold at a profit, Sargeant is to pay a portion of the profit to Worldspan. While, neither section expressly refers to a refund or repayment, Comerica points out that one element of the formula contained in section 24.2 refers to "the Final Purchase Price taking into account all sums contributed by the Owner and the Builder." As Sargeant contributed to the Final Purchase Price by way of the advances, these sections therefore require Worldspan to repay the advances on default. Offshore argues that the advances are only used in this scenario to calculate how proceeds of a sale would be distributed and that sale proceeds and the advances are two separate things.
+[60]
+It seems to me that the primary purpose of stipulating in the VCA that the Vessel may be sold in the event of default by Worldspan is so that Sargeant can recover that which he had contributed to the cost of construction. The formula serves to determine the liabilities as between the parties in that event, depending on the sale price. One element of the formula refers to the "Final Purchase Price" which is defined in section 4.1 and provides that during construction, the Owner will make payments on account of the Final Purchase and those payments will be in the nature of advances to the Builder and the Final Purchase Price will not be earned by the Builder until delivery and acceptance of the Vessel. Accordingly, in my view, it cannot reasonably be argued that the proceeds from the sale of the Vessel payable to Sargeant are anything other than repayment of the advances under this provision.
+[61]
+Section 13.5 concerns default by Sargeant and, in that event, Worldspan's right to terminate the VCA and sell the Vessel. In that case the "property in the Vessel ...will revert or pass to Builder and Owner will promptly do and exercise all acts, matters, things and documents necessary...to perfect Builder's property therein." Further:
+If Builder resells the Vessel for an amount less than the Capped Purchase Price, Builder shall refund to Owner all instalment payments made to the Builder less Builder's direct out-of-pocket costs and expenses for storage and resale ...If Builder resells the Vessel for an amount equal to or in excess of the Capped Purchase price, Builder shall refund to Owner any instalment payments made to the Builder less Builders costs and expenses for storage and resale ...in an amount equal to or in excess of the Capped Purchase Price...
+[62]
+Comerica submits that this illustrates that the instalment payments, less adjustments, were intended to be repaid from the sale proceeds. Worldspan submits that this provision is to be interpreted such that it is the Builder's Mortgage interest which would revert to Worldspan and that it cannot secure payment under section 13.5 as that section expressly cancels the property interests created by the Builder's Mortgage which is therefore not secured.
+[63]
+Section 13.5 does not expressly refer to the Builder's Mortgage or its cancellation. That said, in the event of default by Sargeant, in order to effect sale of the Vessel with clear title, the Builder's Mortgage would ultimately have to be discharged. However, this would not impact the requirement to refund the instalments as otherwise set out in section 13.5 prior to that occurring. In my view, this provision does suggest a circumstance where the advances would have to be refunded.
+[64]
+The Prothonotary correctly stated that the parties must have contemplated that upon total loss or breach of the VCA, Worldspan would not have cash at hand to enable it to repay the construction costs. However, in my view, the VCA provisions indicate that the parties also contemplated and intended, in that event, that the Vessel would be sold to repay the advances made to fund its construction. As the Vessel has been arrested and is subject to claims by third parties, these provisions have no application in the present circumstance. However, they are relevant with respect to the intent of the parties and the interpretation of the provisions of the VCA in whole in the context of the factual matrix. In my view, given the above, while the Prothonotary was correct that there was no explicit provision for the repayment of the advances, in view of the VCA and Builder's Mortgage as a whole, there was an implied obligation to repay.
+[65]
+The Prothonotary relied on
+FC Yachts
+, above, an arbitral decision, in support of his finding that the Builder's Mortgage did not secure a loan and, therefore, there was no obligation to repay. It is not binding on this Court (
+Desputeaux v Éditions Chouette (1987) Inc
+, 2003 SCC 17, [2003] 1 SCR 178 at para 62) nor was it subject to appeal. In any event, that decision is also distinguished from the present case.
+[66]
+There, pursuant to a yacht construction agreement, the purchaser, NWEY, deposited $500,000 in a labour and materials account to fund ongoing labour and materials charges. The builder, PRYB, was to invoice NWEY bi-weekly for labour and material charges incurred to be deducted from the labour and materials account which would then be replenished to its original level by NWEY. To secure the builder's obligations under the yacht construction agreement, the builder granted NWEY a first position security interest and mortgage on the vessel under construction. The security interest and mortgage were to be perfected and evidenced by a security agreement.
+[67]
+Schedule B of the security agreement stated that in order to secure the payment and performance of the builder's obligations under the yacht construction agreement, the builder granted a builder's mortgage in favour of NWEY in the principal amount of $4,340,000 for the purpose of providing NWEY with a first ranking security interest in all of the builder's right, title and interest in the Vessel.
+[68]
+The standard form builder's mortgage did not state a principal amount. It referred to an account current between PRYB, as mortgagor, and NWEY, as mortgagee, in support of PRYB's obligations under the yacht construction agreement for which the amount of principal and interest due at any time could be ascertained by reference to PRYB's records and books.
+[69]
+The arbitrator found that there were no financial obligations of PRYB to NWEY under the yacht construction agreement. There were no payments for principal or interest due from PRYB to NWEY. The financial obligations were the reverse, NWEY was to advance funds to PRYB via the labour and materials account to construct the vessel. There was nothing in the wording of the yacht construction agreement to characterize the payments by NWEY to the labour and materials account as a loan.
+[70]
+The arbitrator rejected the submission that the builder's mortgage secured the cash advances made for the construction of the vessel and that the use of the word "account" in the standard form suggested that the builder's mortgage was to secure a sum of money and not just the builder's obligations under the yacht construction agreement. The arbitrator found that the form of the builder's mortgage dictates a certain format to be followed, but that there was no evidence that the accounts of PRYB recorded any amount owing by them to NWEY and that the evidence of the yacht construction agreement did not support any such indebtedness. The arbitrator stated that he was not satisfied that the builder's mortgage was to secure amounts advanced to PRYB by NWEY. While PRYB and NWEY "may have intended" to give NWEY a first ranking security interest in the vessel they did not accomplish this by way of a standard form builder's mortgage. "The requirement of a debt obligation from PRYB to NWEY in order to give some validity to the use of such a form is completely missing from the record."
+[71]
+Unlike
+FC Yachts
+, the VCA did not contemplate a separate security agreement meant to perfect and evidence the mortgage. In that case, both the yacht construction agreement and Recital B of Schedule B of the security agreement stated that in order to secure the payment and performance of the builder's obligations under the yacht construction agreement, the builder granted a builder's mortgage. This is not the case at hand where the VCA states that the security interest was to secure sums advanced to Worldspan, the buyer, which were not earned until delivery of the Vessel. There was nothing in the wording of the yacht construction agreement to characterise the payments by NWEY as advances not earned until delivery of the vessel. This is, in my view, sufficient to differentiate
+FC Yachts
+, above, from the matter before me. That wording in the VCA can be interpreted to characterize the advances as being in the nature of a loan. And, as I have addressed below, the mere fact that the Builder's Mortgage itself does not state the particulars of the account current is not fatal.
+[72]
+Even if I had not found this I would have concluded that, interpreting the transaction as a whole to determine the intent of the parties and within the relevant factual matrix, the Builder's Mortgage and VCA implied an obligation to repay the unearned advances which created a potential debt that would, in effect, crystallize upon failure to deliver the Vessel in these circumstances. Although there was no actual "loan" there was a potential debt created by the provisions of the VCA and Sargeant secured the satisfaction of the potential debt by way of the Builder's Mortgage.
+[73]
+This is conceptually similar to
+S  <FRAGMENT_SUPPRESSED>  (QL) (Sup Ct) [
+S Funtig
+] where a municipality approved a grant of $1,830,000 for the acquisition and renovation of a theatre by a not for profit organization. The not-for-profit organization gave a mortgage to the municipality stating the principal amount and, as to payment date and period, referred to an attached schedule. The schedule stated that the mortgage was given as collateral security to an operating agreement which, in turn, stipulated that default under it was also default under the mortgage in which event the mortgaged property would revert to the municipality. Although there was no actual loan, the court found that there was a debt which was "...created by the condition imposed by the grant" and that the "City secured the satisfaction of the debt by the Mortgage in its favour and the financial monitoring provisions outlined in the Operating Agreement" (para 60). Further, in
+ <FRAGMENT_SUPPRESSED>  (HC), mortgaged property secured both the payment of money, performance of a transfer of a building lot and the construction of a dwelling on it.
+[74]
+Here, the potential debt was created by the advances that would not be earned until delivery. The satisfaction of that debt would have occurred by delivery of the Vessel. As that did not occur, and the VCA contractual terms that would have otherwise governed the parties upon default have no application in these circumstances, the debt crystallized and satisfaction would be achieved by repaying the advances, accounts of which were kept by both parties.
+[75]
+I would also note Graeme Bowtle & Kevin McGuinness,
+The Law of Ship Mortgages
+(Great Britain: Informa Law, 2001 at 37) which defines a mortgage as:
+It must now be considered to be a form of security created by or under a contract that confers an interest in the property subject to it .... That is annulled upon the performance of some agreed obligation - usually, but not necessarily, the payment of a debt ...
+[76]
+Thus, in these circumstances, the Builder's Mortgage would be annulled upon Worldspan meeting its VCA obligation to deliver the Vessel or, failing that, upon repayment of the advances.
+Advances as a Fund
+[77]
+A further reason given by the Prothonotary for determining that the advances did not comprise a loan was that the parties clearly contemplated that all monies provided for construction of the Vessel would be utilized in its construction and would not exist as a fund.
+[78]
+As Comerica and Sargeant submit, the purpose of a loan is to permit the borrower to spend the monies lent. It may also be to allow the borrower to advance them to a third party to achieve the purpose of the loan. A ship's mortgage may serve to finance its construction (Gold, above, at 242) which is not unique or outside of the usual commercial practice. As stated in Curtis, above, at 40-41:
+In most shipbuilding projects, the primary source of financing for the builder lies in the pre-delivery instalments of the contract price payable by the buyer. In addition to assisting the builder in meeting the costs of construction, the practice of requiring the buyer to pay the contract price by instalments involves him in making a gradually increasing financial commitment to the project ...
+[79]
+Upon execution of the VCA, a $1,000,000.00 deposit was required and the Builder was under no obligation to commence construction until it was received. Thereafter, monthly payments were required. Each monthly payment was to cover the Builder's expenditure for the previous month and all such payments claimed by the Builder were the Owner subject to Owner audit and verification (subsection 4.3(a)). By the tenth working day after each month, the Builder was required to submit for verification and approval of the Owner, a Claim Certificate setting out that month's expenditures accompanied by all relevant invoices and other documentation to substantiate same.
+[80]
+The Builder was also required to provide such additional information and documentation as the Owner required for the purpose of verifying the payment claimed in the Claim Certificate (subsection 4.2(c)). Amounts properly claimed were payable by the last day of the month in which the Claim Certificate was received by the Owner. The intended use of those payments was clearly stated as, "It is acknowledged that the foregoing arrangements are intended to maintain positive cash flow and expedite payments to the Builder ...." (Subsection 4.3(e)).
+[81]
+A commercial absurdity (
+ <FRAGMENT_SUPPRESSED>  [
+WH Hotel
+]; <FRAGMENT_SUPPRESSED> , above, at para 16) would result if advanced funds could not be used for the intended purpose of the construction of a ship, and instead had to be set aside to repay the advances. Therefore, the Prothonotary erred in finding that advances did not comprise a loan because monies provided for the construction of the Vessel would be utilized in its construction and would not exist as a fund.
+Evidence of Account Current
+[82]
+The Prothonotary also found that there was no evidence of an account current being created pursuant to the VCA, but rather, that the VCA permitted Worldspan to use the advances to pay its construction costs. This too indicated that the advanced funds were not intended by the parties to be a loan.
+[83]
+Comerica submits that the advances referred to in section 4.1 of the VCA to be secured under section 12.1 are clearly the monies that comprise the account current referenced in the Builder's Mortgage and that there was evidence before the Prothonotary that the parties had kept an account of Sargeant's advances. Further, that an account current must be broadly interpreted. Offshore submits that keeping track of such amounts does not create or infer an obligation to repay such monies. Tracking Sargeant's payments was for the purpose of determining what Sargeant owed, not what was owed to him.
+[84]
+The terms of the VCA clearly contemplated that the monthly payments claimed by Worldspan to cover the construction costs, and paid by Sargeant's advances, would be subject to verification and audit, that Worldspan was required to keep appropriate records in this regard (subsection 4.3(a)) and to submit to Sargeant for verification and approval a Claim Certificate setting out and supporting the claimed monthly expenditures (subsections 4.3(c) and (d)). This verified what was spent by Worldspan each month and, therefore, what Sargeant owed. It also ensured that the amounts claimed by Worldspan were valid. Further, it enabled both parties to determine, each month, the total cost of the construction to date which was significant in the context of any exceedence of the Estimated Purchase Price and associated termination rights (section 4.1 and 4.2).
+[85]
+Comerica refers to the Affidavit of Cynthia Jones, dated October 7, 2011, which was before the Prothonotary as evidence of the existence of an account current. Attached to that affidavit is the Builder's Acknowledgement and Consent whereby Worldspan acknowledged and consented to the Assignment of Vessel Construction Agreement and whereby Sargeant assigned "all of its beneficial interests and all of its benefits, rights and titles (but not its obligations) in and under the Vessel Construction Agreement". Therein, Worldspan confirmed that as of that date, Sargeant had paid "...$11,131,192.04 representing the Deposit and all payments presently due towards the Final Purchase Price under the terms of Section 4 of the Vessel Construction Agreement" and that "the amounts currently due" to Worldspan with respect to invoices issued but not yet paid was $1,884,187.88 and that the estimated cost of completion was $6,516,374.08.
+[86]
+Comerica also submits that the Prothonotary had evidence of an account current before him by way of two other affidavits. The first was that of Michel Nesbitt, a chartered accountant, retained by Worldspan who set out the amounts paid and unpaid pursuant to the Claim Certificates. The second affidavit was that of Sargeant. Exhibit E of Sargeant's affidavit is a spreadsheet summarizing the Claims Certificates issued by Worldspan and payments totalling $20,651,924.05 that were made to Worldspan between March 2007 and April 2010. Comerica points out that in each of the above examples, the amounts assigned or claimed and paid by way of the Claims Certificates, were the unearned advances.
+[87]
+Comerica also submits that an account current in a ship's mortgage is to be given a broad interpretation and allows for future advances (Edgar Gold, Aldo Chircop & Hugh Kindred,
+Essentials of Canadian Maritime Law
+(Toronto: Irwin Law, 2003) at 246 [Gold]). Further, that the Prothonotary failed to recognize its submission that security documentation consisting merely of a ship's mortgage in statutory form will be interpreted and enforced pursuant to the common law bearing on mortgages of ships and any relevant underlying legislation (
+Royal Bank of Scotland plc v "Golden Trinity" (The)
+, 2004 FC 795 at para 20 [
+Royal Bank of Scotland
+]) or that an account current form of mortgage can be all encompassing, including money used in advances (
+Governor and Company of the Bank of Scotland v  <FRAGMENT_SUPPRESSED> "
+(The)
+, [2001] 1 FC 408 at para 20-22 [
+The Nel
+]). Offshore submits that an account current mortgage secures an obligation which is not created by the mortgage and cannot secure advances.
+[88]
+In my view,
+The  <FRAGMENT_SUPPRESSED> , is helpful in understanding account current mortgages. In that case, Prothonotary Hargrave provided the following description:
+[20] I will touch upon further pertinent terms of the Bank's security against the Nel and the other vessels providing security under the Bank of Scotland's fleet mortgage where appropriate. Here I will, however, observe that the mortgage is in account current form, a document which can form all encompassing security. In the view of the Bank of Scotland, the mortgage secures the initial loan, the running account kept between the Bank of Scotland and the owner of the fleet which included the Nel, and interest. As to the running account, the account current mortgage of the Nel, on its face, covers a broad range of amounts owing, including advances made to or on behalf of the owner, by the Bank of Scotland, from time to time. The second paragraph of the Bank of Scotland's mortgage sets out that it secures payment of:
+...all sums for the time being owing to the Mortgagee on the account current, including all sums due or to become due to the Mortgagee under and by virtue of the Loan Agreement and Deed of Covenants whether by way of principle, interest or otherwise and all costs, charges, expenses and other monies connected with or incurred for the purpose of creating, preserving, maintaining, protecting, enforcing or attempting to enforce this security ...
+[21] This broad view of the scope of security provided by an account current mortgage is not only in keeping with the practice of marine solicitors and within the intent of the parties, viewing the transactions between the Bank of Scotland and the owners of the mortgaged fleet as a whole, but it also corresponds with the view of the Nova Scotia Court of Appeal in  <FRAGMENT_SUPPRESSED> , two pertinent passages from which are as follows [at pages 43-45]:
+The plaintiff's contention is that by the terms of the recital the mortgage was given as security for "money advanced and to be advanced for purposes connected with shipping and trade," and was not for, and does not cover supplies for defendant, or obtained by defendant from other merchants, and supplied to him. However inapt the language used in the mortgage may have been, it is selfevident, viewing the whole transaction between the parties, that the real intention of the plaintiff was to give the defendant security on his vessel for his current account, including moneys and supplies of every kind.
+[...]
+It cannot be contended the "account current" meant money advanced only. As used it clearly meant money used in advances, and such articles as were, and had been charged in accounts current from year to year, all of which was to be settled up and ascertained on 31st December in each year. The nature and course of dealings between the parties must be taken into consideration in interpreting such an instrument as this.
+[22] Taking into account the general nature of an account current mortgage, together with the specific circumstances in this instance, I have concluded that proper portions of the loan account, the running account, including the distress payments made to keep the vessels in the fleet operating and interest are secured by the account current fleet mortgage over the various vessels, including the Nel. There were suggestions, and I would not give those propositions any higher standing, that the mortgage security was, in itself, invalid or improperly registered. All of the factors and circumstances considered, there are no real reasons to doubt the validity and effectiveness of the mortgage security. I now turn to the sums said to be secured, a more involved aspect.
+[89]
+The applicable principle of contract interpretation is that the intention of the parties is to be determined, on the whole of the relevant documents (
+WH Hotel
+, above)
+.
+Here the intention was, as stated in section 4.1, that the payments made by Sargeant would be "on account of" the Final Purchase Price but would be in the nature of advances and would not be earned by Worldspan until delivery and acceptance of the Vessel. Section 12 of the VCA states that Worldspan granted to Sargeant a continuing first priority security interest in the Vessel to secure any sums advanced or paid to the Builder under the VCA. The sums "advanced" were the monthly payments. Accordingly, it follows that they comprised the account current secured by the Builder's Mortgage, even in the absence of an explicit reference in the VCA to an account current, as there is no other reasonable explanation but that the intent of the parties was that the account current was comprised of the advances. As was the case in
+ <FRAGMENT_SUPPRESSED>  for the advances by way of the Builder's Mortgage. It also cannot reasonably be argued that an account current does not capture future advances (see also Gold, above, at 246).
+[90]
+Offshore submits that there is a commercial explanation for why the money advanced was not earned, other than an implied obligation to repay. That is, title to the Vessel, which was destined for export, was retained by Worldspan because if the payments were earned prior to delivery then Sargeant would be assessed sales tax (
+Excise Tax Act
+, RSC, 1985, c E-15 subsection 168(9)). While that may be the case, there was no affidavit or other evidence before the Prothonotary to support the submission.
+Particulars of Builder's Mortgage
+[91]
+A further part of the Prothonotary's reasoning was based on his view that the standard form of mortgage required the specifics of the transaction to determine the amount owing and the "time of payment" and that neither the Builder's Mortgage nor the VCA contains such specifics.
+[92]
+ <FRAGMENT_SUPPRESSED> the Court held that contractual interpretation requires determining whether the contract discloses the parties' intentions as to the "substance of their agreement". There, the Court found that the trial judge, in interpreting the contractual documents, did not employ the applicable principles and instead pointed to matters of form to undermine the enforceability of the documents rather than trying to ascertain meaning. The court found that the defects such as an inaccurate reference to the type of shares and the absence of a completion date, were irrelevant a consideration of the enforceability of the contracts unless they rendered the essential terms of the contracts so vague and uncertain as to be incapable of interpretation. It did not matter that the shares were not properly described so long as the subject matter of the contract was clear.
+[93]
+The Court further stated the following:
+[55] The trial judge did not make every effort to give effect to the parties' intentions by looking at substance and not mere form. Rather than attempting to extract meaning from the parties' expression of their contractual intention as the authorities require, the trial judge applied an overly formalistic and literal approach to interpreting the document ...
+[94]
+Here, the Builder's Mortgage is in standard form, and includes instructions requiring the user to state that there is an account current between the mortgagor and mortgagee and describing the nature of the transaction including how the amount of principle and interest due at any given time is to be ascertained and the manner and time of payment. In response was entered that there is an account current pursuant to the VCA, dated February 29, 2008, among mortgagor and mortgagee which agreement specified the obligations thereby secured. The form then provides the covenant to pay the sums due on that security at the time and in the manner set out and pledges the shares in the Vessel to better secure that payment.
+[95]
+In my view, the Builder's Mortgage did not require any further detail than was provided, being that an account current existed and that the VCA specified the obligations secured by the Builder's Mortgage. It was not necessary to specify the amount owing or the "time of payment" as found by the Prothonotary, rather, this could be accomplished by a reference to an underlying document. In that regard, there was sufficient detail in the VCA, by way of the Claim Certificate and prescribed verification and audit process, to delineate the amount potentially owing at any given time, being the balance of the advances. As noted above, applying the principles of contract interpretation, the intent of the parties was to give Sargeant a security interest in the Vessel, by way of the Builder's Mortgage, for the unearned advances.
+[96]
+Further, in
+ <FRAGMENT_SUPPRESSED>  no interest rate was included on the statutory mortgage form, however, to avoid unjust enrichment resulting from the determination of priorities, one was applied by the Court. In this situation in the overall context of the transaction and the interpretation of the VCA and the Builder's Mortgage, any absence of details, was an issue of form over substance.
+[97]
+It is also difficult to see how the Builder's Mortgage in this case could be intended for only the purpose of securing delivery of the Vessel as submitted by Offshore. The VCA explicitly states that a first priority security interest in the Vessel, as supported by the Builder's Mortgage, was "to secure any sums advanced or paid to the Builder under this Agreement." It does not state that it was to secure delivery of the Vessel. Further, Worldspan was obliged by the terms of the VCA to deliver the Vessel. If it failed to do so due to default or total loss then those events were addressed by the terms of the VCA. It is hard to imagine that Worldspan would simply decide, in breach of its VCA obligations, to keep the Vessel upon completion, or sell it to a third party, and that the Builder's Mortgage was intended to prevent such a circumstance and instead somehow "secure delivery". And, even if the logic of Worldspan were accepted, if that was the intent, then it would not succeed because, if the Builder's Mortgage does not secure a debt, then it is essentially of no force or effect either to secure delivery or otherwise. While the VCA and Builder's Mortgage language may have been inept (
+The  <FRAGMENT_SUPPRESSED> ), I am not prepared to find that the latter was of no force and effect.
+[98]
+As to the submission that the
+Canada Shipping Act, 2001
+permits a mortgagor only to sell a vessel upon default of the mortgage and that there is no statutory requirement of repayment, it seems clear that the purpose of selling the vessel in such a circumstance is to repay the mortgage debt, however it may have been advanced. Further, the parties could and typically would provide for repayment implicitly or explicitly in a contract between them. I see no merit in this submission.
+[99]
+Given the factual matrix, Comerica's explanation is the most plausible one being that the Builder's Mortgage was intended to secure Sargeant's first priority rights in the Vessel as against third parties in circumstances, such as these, where the terms of the VCA do not govern the disposition of the Vessel as between Worldspan and Sargeant as it has been arrested by third parties and will be sold by the Court.
+[100]
+In conclusion, in my view the Prothonotary's failure to apply the principles of contract interpretation so as to determine the true intent of the parties based on the whole of the transaction and within the relevant factual matrix, and in a manner that would not lead to a commercial absurdity as regards to the absence of a "fund" created to repay the Builder's Mortgage, was a palpable and overriding error which led to an erroneous conclusion that the Builder's Mortgage does not create a lien or charge against the Vessel other than to secure its delivery. Upon interpreting the overall context of the VCA, I find that the Builder's Mortgage secured the unearned advances which were in the nature of a loan or a potential debt and an obligation to repay in the event of non-delivery in the circumstances described in this decision.
+(3) Did the Prothonotary err by not considering Sargeant's alternate claim under subsection 22(2)(n)
+Federal Courts Act
+?
+[101]
+Sargeant submits that the Prothonotary failed to consider or apply the applicable legal principles to his alternative subsection 22(2)(n) claim.
+[102]
+In his decision, the Prothonotary stated that for the reasons set out in paragraphs 60 to 64 of Offshore's supplementary written reasons, which the Prothonotary adopted and made his own, the submission by Sergeant that he had an equitable mortgage or a subsection 22(2)(n) claim was "of no moment".
+[103]
+Those reasons read as follows:
+60. An equitable mortgage is one that does not transfer the legal estate in the property to the mortgagee, but [only] creates in equity a charge upon the property. [
+ <FRAGMENT_SUPPRESSED>  equitable mortgage, one is then drawn back to the same issue: what is the obligation secured?
+62. An equitable mortgage in this case can only serve to secure obligations of the Builder
+up until delivery of the Vessel
+but does not at any time create an obligation of repayment of advances because the VCA does not make such an obligation on the Builder.
+63. Any equitable mortgage will be subject to the terms and conditions of the VCA. Section 12.1 provides that any security interest as such will be subordinate to Sargeant's obligations to Worldspan under the VCA.
+64. Once the Vessel is delivered pursuant to the terms of the VCA, such security ceases to exist. Alternatively, if the Vessel is sold pursuant to the terms of the VCA, such security ceases to exist with the only obligation to Sargeant being payment (if any) of sale proceeds (as
+in personam liability
+). [Emphasis in original]
+Thus, based on those reasons, the decision does not address the subsection 22(2)(n) alternate claim nor does it provide reasons as to why this was unnecessary.
+[104]
+Sargeant submits that subsection 22(2)(n) establishes that any claim arising out of a contract relating to the construction, repair or equipping of a ship falls within this Court's jurisdiction. Section 43 of the
+Federal Courts Act
+which specifies when the jurisdiction conferred by section 22 may be exercised
+in rem
+, confirms that a claim that falls within subsection 22(2)(n) may be exercised
+in rem
+. Sargeant's claim against Worldspan arises from the VCA and, therefore, falls within the Court's maritime jurisdiction. Worldspan failed to complete the Vessel in breach of its obligations under the VCA as supported by Sargeant's Affidavit of October 13, 2011.
+[105]
+Offshore submits that the affidavits filed on behalf of Sargeant and Comerica pursuant to the Federal Court Claims Process Order were to the effect that the construction cost had escalated leading to the termination of the contract and that Sargeant and/or Comerica had advanced $21million towards the construction secured by a mortgage. No claim was made in respect of damages for breach of the VCA and no particulars of the breach were provided. No claim was made for delivery, possession or ownership. Thus, any claim pursuant to subsection 22(2)(n) is barred by the Claims Process Order except for a claim that $21 million was advanced and is debt obligation to be repaid by Worldspan. Subsection 22(2)(n) creates the jurisdiction of the Court to deal with certain subject matter, it does not create a cause of action. The Prothonotary did not err when he held that claims based on an equitable mortgage or subsection 22(2)(n) were "of no moment".
+[106]
+There is no question that this Court has jurisdiction over claims arising from a ship construction contract:
+22. ...
+Maritime jurisdiction
+(2) Without limiting the generality of the subsection (1), for greater certainty, the Federal Court has jurisdiction with respect to the following:
+...
+(n) any claim arising out of a contract relating to the construction, repair or equipping of a ship;
+22. ...
+Compétence maritime
+(2) Il demeure entendu que, sans préjudice de la portée générale du paragraphe (1), elle a compétence dans les cas suivants:
+...
+n) une demande fondée sur un contrat de construction, de réparation ou d'équipement d'un navire;
+(See
+R v Cdn Vickers Ltd
+. [1980] 1 FC 266 (CA) [
+Cdn Vickers
+];
+ <FRAGMENT_SUPPRESSED> ;
+FC Yachts
+, above).
+[107]
+It is also without question that subsection 22(2)(n) jurisdiction may be exercised
+in personam
+and
+in rem
+:
+Jurisdiction in personam
+43.
+(1) Subject to subsection (4), the jurisdiction conferred on the Federal Court by section 22 may in all cases be exercised in personam.
+Jurisdiction in rem
+(2) Subject to subsection (3), the jurisdiction conferred on the Federal Court by section 22 may be exercised in rem against the ship, aircraft or other property that is the subject of the action, or against any proceeds from its sale that have been paid into court.
+Compétence en matière personnelle
+43.
+(1) Sous réserve du paragraphe (4), la Cour fédérale peut, aux termes de l'article 22, avoir compétence en matière personnelle dans tous les cas.
+Compétence en matière réelle
+(2) Sous réserve du paragraphe (3), elle peut, aux termes de l'article 22, avoir compétence en matière réelle dans toute action portant sur un navire, un aéronef ou d'autres biens, ou sur le produit de leur vente consigné au tribunal.
+[108]
+It is also true that these provisions address the jurisdiction of the Court to deal this subject matter but do not create a cause of action.
+[109]
+Sargeant's affidavit of October 13, 2011 states that it supports his claim against the Vessel "which is derived from payments that were made by me or on my behalf, at my direction and for my benefit to the legal owner of the Vessel, the Defendant Worldspan Marine Inc totalling $20,965,924.05 ...for the construction of the Vessel, and from the security interest in the Vessel granted to me by Worldspan to secure these payments, all as further described below." The affidavit proceeds to describe the VCA including that Worldspan undertook to design, construct, outfit, launch, complete and sell and delivery the Vessel to Sargeant as well as the security interest provided pursuant to the VCA. The remainder of the affidavit describes the payments made in connection with the Vessel construction.
+[110]
+While it is true that the affidavit does not assert a claim for "delivery, possession or ownership" as submitted by Offshore, in my view, this is not required to support a claim made pursuant to subsection 22(2)(n) which permits any claim arising out of a contract relating to the construction of a ship. Here, the claim is for recovery of the advances made for the construction of the Vessel pursuant to the VCA, a ship construction contract. In my view, this is a sufficient basis to found an
+in rem
+claim pursuant to subsection 22(2)(n). This Court has confirmed its jurisdiction under subsection 22(2)(n) over claims which arise out of a ship construction contract (
+Cdn Vickers
+, above;
+FC Yachts
+, above).
+[111]
+As the Prothonotary did not give reasons for refusing to consider the alternate subsection 22(2)(n) claim it is not possible to determine if he erred in his assessment. However, the failure to address the issue is an error of law attracting the correctness standard. As the standard of review on pure questions of law is one of correctness, an appellate court is free to replace the opinion of the trial judge with its own opinion (
+ <FRAGMENT_SUPPRESSED> ). Accordingly, as in my view the alternate position has merit, Sargeant and Comerica's position in this regard is to be addressed at the priorities hearing.
+ORDER
+[112]
+THIS COURT'S JUDGMENT is that
+:
+1. This appeal is allowed.
+2. The order of Prothonotary Lafrenière dated March 5, 2013 in finding that the Builder's Mortgage granted to Harry Sargeant III, against the Defendant Vessel "QE014226C010" pursuant to the Vessel Construction Agreement between Harry Sargeant III and the Defendant, Worldspan Marine Inc dated February 29, 2008 does not create a lien or charge in the Vessel other than to secure delivery, is set aside.
+3. Costs of the motion shall be paid to each of the Appellants, Sargeant and Comerica on this motion by the Defendant, Offshore in the amount of $1,500 inclusive of disbursements and taxes.
+Appeal allowed.
+Editor: Anick Ouellette-Levesque/vnh

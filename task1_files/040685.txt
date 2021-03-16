@@ -1,0 +1,572 @@
+  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED>  
+ 
+  <FRAGMENT_SUPPRESSED>  (TD)  <FRAGMENT_SUPPRESSED>  
+ MLB headnote and full text  <FRAGMENT_SUPPRESSED>  
+ In The Matter Of a Request by Celltech Limited to the Commissioner of Patents for entry into the national phase of International Patent Application No. PCT/GB90/02017 pursuant to the Patent Cooperation Treaty done at Washington on June 19, 1970 and adhered to by Canada on January 2, 1990;  <FRAGMENT_SUPPRESSED>  
+ And In The Matter Of a Request by Celltech Limited to the Commissioner of Patents to Issue a Certificate of Correction in respect of International Patent Application No. PCT/GB90/02017 pursuant to section 8 of the Patent Act, R.S.C. 1985, c. P-4, and Articles 24, 25 and 26 of the Patent Cooperation Treaty;  <FRAGMENT_SUPPRESSED>  
+ And In The Matter Of the Federal Court Act, R.S.C. 1985, c. F-7, s. 18.  <FRAGMENT_SUPPRESSED>  
+  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED>  
+ Summary: 
+ 
+ Celltech (an English company) obtained a patent in the United Kingdom in 1989 and sought to register the patent in contracting states under the Patent Cooperation Treaty, giving the patent the priority date of the original national application. Unfortunately, Celltech's patent agents failed to designate Canada for registration. An application for rectification to add Canada was denied in the United Kingdom. Celltech requested the Canadian Commissioner of Patents to accept the international application under the Treaty for registration in Canada and sought rectifi­cation under the Treaty and Patent Act. The Commissioner denied the request for want of jurisdiction and because there was no valid application filed in Canada and s. 8 of the Patent Act therefore did not apply. Celltech applied under s. 18 of the Federal Court Act for judicial review of the Commissioner's decision.  <FRAGMENT_SUPPRESSED>  
+ The Federal Court of Canada, Trial Divi­sion, dismissed the application. The Com­missioner did not err in denying the request or in refusing rectification.  <FRAGMENT_SUPPRESSED>  
+ Patents of Invention - Topic 523 
+ 
+ Registration - International patents - Designation of state - Celltech registered a patent in England and sought registration in all contracting states designated on its international application under the Patent Cooperation Treaty - Canada was errone­ously omitted as a designated state - The Canadian Commissioner of Patents refused Celltech's request to accept the application and to rectify the application - The Feder­al Court of Canada, Trial Division, dis­missed an application for judicial review of the Commissioner's decision - An international application failing to desig­nate Canada was not an application to which the Treaty and its Regulations applied and the Patent Act and Regulations also did not apply - The court stated that even if the Treaty and Act applied, the Commissioner did not err in interpreting the Treaty and Act to deny rectification and refuse acceptance of the application.  <FRAGMENT_SUPPRESSED>  
+  <FRAGMENT_SUPPRESSED>  D.L.R.(3d) 721 (T.D.), refd to. [para. 38].  <FRAGMENT_SUPPRESSED>  
+ Statutes Noticed: 
+ 
+ Federal Court Act, R.S.C. 1985, c. F-7, sect. 18 [para. 1]. 
+ 
+ Patent Act, R.S.C. 1985, c. P-4, sect. 8 [para. 9]; sect. 12(1)(i), sect. 12(2) [para. 2]. 
+ 
+ Patent Cooperation Treaty, C.T.S. 1990, No. 22, sect. 2(xiii), sect. 4(1)(ii) [para. 40]; sect. 11 [para. 9]; sect. 13(2)(a) [para. 27]; sect. 14 [para. 18]; sect. 23, sect. 24, sect. 25(1)(a), sect. 25(1)(b), sect. 25(2)(a), sect. 26, sect. 27 [para. 9]. 
+ 
+ Patent Cooperation Treaty Regulations, SOR/89-453, sect. 6, sect. 7, sect. 8, sect. 9 [para. 9]. 
+ 
+ Patent Cooperation Treaty Rules, sect. 91 [para. 19]; sect. 91.1(a), sect. 91.1(b), sect. 91.1(e)(i) [para. 9]. 
+ 
+ Vienna Convention, Law of Treaties, C.T.S. 1980, No. 37, generally [para. 36].  <FRAGMENT_SUPPRESSED>  
+ Counsel: 
+ 
+ Peter Dauphinee, for the applicant; 
+ 
+ John S. Tyhurst, for the respondent.  <FRAGMENT_SUPPRESSED>  
+ Solicitors of Record: 
+ 
+ Potvin & Co., Ottawa, Ontario, for the applicant; 
+ 
+ Department of Justice, Ottawa, Ontario, for the respondent.  <FRAGMENT_SUPPRESSED>  
+ This application was heard in Ottawa, Ontario, on March 23, 1992, before Mac­Kay, J., of the Federal Court of Canada, Trial Division, who delivered the following judgment on February 1, 1993.  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED>                                                                                                        <FRAGMENT_SUPPRESSED>  
+ Introduction  <FRAGMENT_SUPPRESSED>  
+ [1] 
+   
+ MacKay, J. 
+ : In these proceedings, the applicant, Celltech Limited, a biotechnology company incorporated in the United Kingdom, brings an application pursuant to s. 18 of the  
+ Federal Court Act 
+ , R.S.C. 1985, c. F-7 (since amended by S.C. 1990, c. 8, in force February 1, 1992) seeking judicial review of a decision of the respondent, the Commissioner of Patents, communicated to the applicant by letter of December 12, 1991. In that letter the respondent upheld the decision of an officer of the Patent Office to refuse to grant the applicant's request for entry, in Canada, into the national phase for registration of its International Application PCT/GB90/02017 (the "Application") relating to an invention entitled Humanised Antibodies and to refuse a request for rectification of the Application under the Canadian  
+ Patent Act 
+ , R.S.C. 1985, c. P-4, as amended (the " 
+ Act 
+ "), in particular s. 8. The Application originated under the terms of the  
+ Patent Cooperation Treaty 
+  (the " 
+ PCT 
+ " or the " 
+ Treaty 
+ "), concluded at Washington, 1970 (Canada Treaty Series, 1990, No. 22).  <FRAGMENT_SUPPRESSED>  
+ [2] 
+  This application raises issues concerning the construction of that  
+ Treaty 
+  in accord with Canadian law and about s. 8 of the  
+ Patent Act 
+ . Canada ratified the  
+ Treaty 
+  October 2, 1989 and it came into force for Canada on January 2, 1990. Prior to its coming into force s. 12 of the  
+ Patent Act 
+  was amended (R.S.C. 1985, c. 33 (3rd Supp.), s. 3, originally enacted as S.C. 1987, c. 41, s. 3) and s. 12(1)(i) authorizes the Governor-in-Council to make rules or regulations  <FRAGMENT_SUPPRESSED>  
+ "(i) notwithstanding anything in this Act, for carrying into effect the terms of the Patent Cooperation Treaty done at Washington on June 19, 1970; ... <FRAGMENT_SUPPRESSED>  
+ 
+ I note that s. 12(2) provides  <FRAGMENT_SUPPRESSED>  
+ "(2) Any rule or regulation made by the Governor-in-Council has the same force and effect as if it had been enacted herein. <FRAGMENT_SUPPRESSED>  
+ 
+ Regulations were made under s. 12(1)(i), known as the  
+ Patent Cooperation Treaty Regulations 
+  (SOR/89-453, 21 September 1989) for carrying into effect in Canada the terms of the  
+ PCT 
+ , effective January 2, 1990.  <FRAGMENT_SUPPRESSED>  
+ [3] 
+  Relief is sought in the nature of a writ of certiorari to quash the respondent's decisions refusing the applicant's request for entry into the national phase of the Application, and in regard to that Application that there is no valid application filed in the Canadian Patent Office. Relief is also sought in the nature of a writ of mandamus, to require the respondent to consider the request of Celltech, made in relation to certain provisions of the  
+ PCT 
+  and of s. 8 of the  
+ Patent Act 
+  for correction of what is described as a clerical error in International Application PCT/GB90/ 02017. Other relief sought in the originating notice of motion as filed was not pursued at the hearing.  <FRAGMENT_SUPPRESSED>  
+ [4] 
+  The  
+ PCT 
+  enables a party seeking patent protection for an invention in more than one country to make one application in a contracting state and thereafter, through procedures established by the  
+ Treaty 
+ , patents may be obtained in other contracting states. A description of the  
+ Treaty's 
+  process is included in the decision of Mr. Justice Aldous in  
+  <FRAGMENT_SUPPRESSED>  High Ct. (Q.B.D.), May 21, 1991), as follows:  <FRAGMENT_SUPPRESSED>  
+ "The basic scheme of the  
+ PCT 
+  is that an applicant for a patent applies to his local patent office and fills in a form if he wishes to make 'an international application' enabling him to claim priority in designated states. That local office is by an agreement with WIPO designated as a receiving office for the purpose of international applications. The receiving office checks the application to see that it complies with the formalities required under the  
+ PCT 
+  and the  
+ PCT 
+  rules and, if so, gives to the application an international filing date. Thereafter the receiving office sends one copy of the application to the International Bureau in Geneva and another to the International Searching Authority which searches for prior art which might throw doubt on the validity of the invention. The result of that search is then forwarded to all the patent offices of the states which the applicant has designated in its application as a country in which patent protection is to be sought. The local patent offices thereafter take over the application and provided the application satisfies the law of the relevant country a patent is granted in that country with a priority date of the date of the international application. <FRAGMENT_SUPPRESSED>  
+ 
+ I add to this description one factor of some significance in this case, that is, under the  
+ PCT 
+  an international application may claim an earlier priority date with reference to the date of an earlier application made to the national office, i.e., the receiving office, up to one year before the filing of the international application.  <FRAGMENT_SUPPRESSED>  
+ [5] 
+  In this case, on behalf of Celltech an application for a patent was originally filed December 21, 1989 in the United Kingdom patent office in accord with the national law and a year later, on December 21, 1990 the international Application of interest in this case was filed in the same office, in accord with the  
+ PCT 
+ . Under the  
+ Treaty 
+ , the latter application would have the priority date of the original application in the U.K. patent office for all contracting states designated by the international application. Unfortunately for Celltech, its patent agents erred when completing the international application in failing to designate Canada as one of the countries in which national registration would be pursued on the basis of the application.  <FRAGMENT_SUPPRESSED>  
+ [6] 
+  By this application for judicial review the applicant seeks to overcome the error made by its agents in the international application in which Canada was not included as a designated country. If the Application were now rectified or otherwise were acceptable under the  
+ Treaty 
+  for entry into the national phase it would have the benefit of the priority date of December 21, 1989. I note that upon discovery of the error, Celltech did apply in March 1991 for patent registration under the  
+ Patent Act 
+  in Canada for the same invention as dealt with in the international Application, but it could not by that action claim the same priority date as under the international application.  <FRAGMENT_SUPPRESSED>  
+ [7] 
+  Celltech attempted to have the error rectified through the U.K. patent office which was the receiving office under the  
+ Treaty 
+  for the Application, without success. Thereafter, on June 28, 1991, the applicant requested the Canadian Commissioner of Patents to accept the international Application for entry in the national phase in Canada, and for rectification under the  
+ PCT 
+  and the  
+ Patent Act 
+ . That request was followed in July by the applicant forwarding to the Director of the Receiving Office,  
+ PCT 
+ , in the office of the respondent Commissioner of Patents, a copy of the Application since a copy had not been forwarded under the  
+ PCT 
+ . Upon consideration, including consideration of written submissions on behalf of Celltech, the Director wrote refusing the requests. That decision was appealed by Celltech to the Commissioner of Patents, and on December 12, 1991, he responded in the following terms, after considering written submissions including a request for an oral hearing.  <FRAGMENT_SUPPRESSED>  
+ "I refer to your submissions of November 21 and 27, 1991 concerning an appeal from a decision of the  
+ PCT 
+  Branch of the Canadian Patent Office in regard to a request for national entry for international application PCT/GB90/02017.  <FRAGMENT_SUPPRESSED>  
+ "I have reviewed and considered all the arguments presented in the above submissions. I have also considered Canada's obligation under the  
+ Patent Cooperation Treaty 
+  ( 
+ PCT 
+ ), the  
+ Regulations 
+  under the  
+ PCT 
+ , the  
+ Patent Act 
+  and the  
+ Patent Rules 
+ .  <FRAGMENT_SUPPRESSED>  
+ "I find that I have no authority under articles 25 and 26 of the  
+ Patent Cooperation Treaty 
+  to grant your request for national entry status for the above application. I also find that since there is no valid application filed in the Patent Office, section 8 of the  
+ Patent Act 
+  cannot be invoked.  <FRAGMENT_SUPPRESSED>  
+ "In view of the above I consider that an oral hearing is not necessary. <FRAGMENT_SUPPRESSED>  
+ 
+ [8] 
+  In this application for judicial review, Celltech seeks relief specifically in relation to decisions of the respondent, the Commissioner of Patents, but at the hearing counsel urged the court to consider the decisions of the Director of the Receiving Office,  
+ PCT 
+  and of the respondent Commissioner, rendered on appeal from the decision of the Director, to be a single decision for purposes of this application. In my view, this is not a matter of significance and I propose to consider the Director's decision, which was to the same effect as the Commissioner's, as providing, at least in part, reasons supportive of the conclusions in the Commissioner's letter setting out his decision.  <FRAGMENT_SUPPRESSED>  
+ Key Treaty And 
+ 
+ Statutory Provisions  <FRAGMENT_SUPPRESSED>  
+ [9] 
+  In its originating motion Celltech indicates its reliance upon arts. 11, 23, 24, 25, 26 and 27 of the  
+ PCT 
+ , rules 4.1 and 91 of the  
+ PCT Rules 
+ , s. 8 of the  
+ Patent Act 
+  and ss. 6, 7, 8 and 9 of the  
+ Patent Cooperation Treaty Regulations 
+  made under that  
+ Act 
+ . Those which were given special attention by counsel for the parties at the hearing of this application are arts. 25 and 26 of the  
+ Treaty 
+ , rule 91.1 made under the  
+ Treaty 
+ , s. 8 of the  
+ Patent Act 
+ , and ss. 6 and 7 of the  
+ Patent Cooperation Treaty Regulations 
+ . In turn, the relevant portions of these provisions are:  <FRAGMENT_SUPPRESSED>  
+ The Patent Cooperation Treaty  <FRAGMENT_SUPPRESSED>  
+ "Article 25 
+ 
+ Review by Designated Office  <FRAGMENT_SUPPRESSED>  
+ (1)(a) Where the receiving Office has refused to accord an international filing date or has declared that the international application is considered withdrawn, or where the International Bureau has made a finding under article 12(3), the International Bureau shall promptly send, at the request of the applicant, copies of any document in the file to any of the designated Offices named by the applicant.  <FRAGMENT_SUPPRESSED>  
+ (b) Where the receiving Office has declared that the designation of any given State is considered withdrawn, the International Bureau shall promptly send, at the request of the applicant, copies of any document in the file to the national Office of such State.  <FRAGMENT_SUPPRESSED>  
+ (2)(a) ... [E]ach designated Office shall, provided that the national fee (if any) has been paid and the appropriate translation (as prescribed) has been furnished within the prescribed time limit, decide whether the refusal, declaration, or finding, referred to in paragraph (1) was justified under the provisions of this Treaty and the Regulations, and, if it finds that the refusal or declaration was the result of an error or omission on the part of the receiving Office or that the finding was the result of an error or omission on the part of the International Bureau, it shall, as far as effects in the State of the designated Office are concerned, treat the international application as if such error or omission had not occurred.  <FRAGMENT_SUPPRESSED>  
+ . . . . .  <FRAGMENT_SUPPRESSED>  
+ "Article 26 
+ 
+ Opportunity to Correct before Designated Office  <FRAGMENT_SUPPRESSED>  
+ No designated Office shall reject an international application on the grounds of noncompliance with the requirements of this Treaty and the Regulations without first giving the applicant the opportunity to correct the same application to the extent and according to the procedure provided by the national law for the same or comparable situations in respect of national applications. <FRAGMENT_SUPPRESSED>  
+ 
+ Rules Made Under The Treaty  <FRAGMENT_SUPPRESSED>  
+ "Rule 91 
+ 
+ Obvious Errors In Documents  <FRAGMENT_SUPPRESSED>  
+ "91.1 Rectification  <FRAGMENT_SUPPRESSED>  
+ (a) Subject to paragraphs (b) to (g 
+ quater 
+ ), obvious errors in the international application or other papers submitted by the applicant may be rectified.  <FRAGMENT_SUPPRESSED>  
+ (b) Errors which are due to the fact that something other than what was obviously intended was written in the international application shall be regarded as obvious errors. The rectification itself shall be obvious in the sense that anyone would immediately realize that nothing else could have been intended than what was offered as rectification.  <FRAGMENT_SUPPRESSED>  
+ . . . . .  <FRAGMENT_SUPPRESSED>  
+ (e) no rectification shall be made except with the express authorization:  <FRAGMENT_SUPPRESSED>  
+ (i) of the receiving Office if the error is in the request, <FRAGMENT_SUPPRESSED>  
+ 
+ The Patent Act  <FRAGMENT_SUPPRESSED>  
+ "8. Clerical errors in any instrument of record in the Patent Office shall not be construed as invalidating the instrument, but, when discovered, they may be corrected by certificate under the authority of the Commissioner. <FRAGMENT_SUPPRESSED>  
+ 
+ The Patent Cooperation 
+ 
+ Treaty Regulations  <FRAGMENT_SUPPRESSED>  
+ "6. The provisions of the Treaty and the Regulations under the Treaty shall apply in respect of  <FRAGMENT_SUPPRESSED>  
+ (a) an international application that is filed with the receiving Office in Canada;  <FRAGMENT_SUPPRESSED>  
+ (b) an international application in which Canada is designated; and  <FRAGMENT_SUPPRESSED>  
+ (c) an international application in which Canada is designated and elected.  <FRAGMENT_SUPPRESSED>  
+ "7. Subject to these Regulations, the Act and the Rules shall apply in respect of an international application when the applicant has complied with the requirements of section 13 and, where applicable, section 14. <FRAGMENT_SUPPRESSED>  
+ 
+ Background  <FRAGMENT_SUPPRESSED>  
+ [10] 
+  It is useful to describe summarily the background leading to this application for judicial review, in particular the preparation of the international Application and Celltech's efforts to rectify the failure to designate Canada on the application submitted.  <FRAGMENT_SUPPRESSED>  
+ [11] 
+  On December 21, 1990, the applicant, through its Patent Manager, advised its U.K. patent agents that they should designate "all possible states" on three  
+ PCT 
+  applications to be filed that day in order to claim the priority date, one year earlier, of prior U.K. patent applications for each patent.  <FRAGMENT_SUPPRESSED>  
+ [12] 
+  Under the direction of the  
+ PCT 
+  authorities, standardized application forms (which include pages referred to as "Request" forms) are prepared and distributed to patent agents in contracting states. On December 21, 1990, the most up-to-date Request form was one issued in January 1990, on which Canada was listed among the contracting states and groups of states that could be designated by typing an "X" in the box opposite each of those listed. The previous Request form, dated July 1987, was drafted before Canada joined as a contracting state, and therefore did not list Canada as a potential designated state.  <FRAGMENT_SUPPRESSED>  
+ [13] 
+  It appears to have been the practice of the applicant's U.K. patent agents, in cases where countries became contracting states in the period after one form was available and before a revised Request form was produced, to add the names of any of these countries that were desired to be designated, at the bottom of the Request form's listing of potential designated states, indicating that the  
+ PCT 
+  applicant wished to designate these countries as well as those specifically listed on the printed form for completion. Thus, in this case the applicant's agent had added "Greece" in the space provided for designating states which joined the  
+ PCT 
+  after the form was issued, in this case adding "Greece" in all three international application request forms filed on the same day since that country had joined the  
+ PCT 
+  arrangements after January 1990.  <FRAGMENT_SUPPRESSED>  
+ [14] 
+  A portion of the affidavit of the U.K. patent agent responsible for the preparation of the three  
+ PCT 
+  applications outlines his belief as to how the Application in issue came, in error, to be filed using an outdated 1987 Request form, and without Canada being typed in with an "X" as a designated state.  <FRAGMENT_SUPPRESSED>  
+ "8. ... My instructions were that I should designate all possible states ... I received similar instructions on the other two applications which were to be filed at the same time. In order to save time I gave these instructions to my secretary and asked her to fill in as far as possible the Request Form for each application. My secretary has been continuously employed as my secretary since 1982 and has had considerable experience in filling in  
+ PCT 
+  Request Forms.  <FRAGMENT_SUPPRESSED>  
+ "9. In the case of the other two applications, my secretary used [Request Form] dated January 1990, whereas for the  
+ PCT 
+  Application she inadvertently used an out of date [Request Form] dated July 1987. The reason for this mistake is unknown. I am informed by the head of our Filing Department that as soon as a new version of the  
+ PCT 
+  Request form is issued, any remaining copies of the previous version are thrown away. It is therefore not apparent how my secretary came to use the July 1987 version of the Request form for the  
+ PCT 
+  Application.  <FRAGMENT_SUPPRESSED>  
+ . . . . .  <FRAGMENT_SUPPRESSED>  
+ "13. When I checked the Request Forms after they had been completed as far as possible by my Secretary, I assumed that the current version of the Request Form had been used for each application. I therefore simply checked to see that in Box V on sheet 3 of the form ... a cross had been placed in every box ... <FRAGMENT_SUPPRESSED>  
+ 
+ [15] 
+  The discovery of the error was made by the U.K. patent agent firm shortly before the U.K. Receiving Office invited, in accord with the  
+ PCT 
+ , a correction of a defect in the Application, namely the failure to provide a title for the invention. That defect is of the kind described in art. 14. In responding to the Receiving Office on January 23, 1991, to correct this defect, the applicant's U.K. patent agents also sought to rectify the spelling of an inventor's name and, as well, the error arising from use of the outdated Request form by having Canada and Spain added as designated states.  <FRAGMENT_SUPPRESSED>  
+ [16] 
+  The failure to designate Canada was not the only unintended consequence resulting from the use of the outdated Request form. Spain, having joined as a contracting state after publication of the 1987 Request form, was also not designated. Moreover, because the states listed on the 1987 Request form under "European Patent Community" did not include Denmark, Greece and Spain, countries that only became EPC members after publication of the 1987 Request form, a technical argument might have arisen about the intended designation of Denmark and Spain when the EPC box was checked with an "X" by the applicant's agents as a designated group of states.  <FRAGMENT_SUPPRESSED>  
+ [17] 
+  The EPC situation was subsequently dealt with by the European Patent Office which designated all possible states within the EPC as the EPC stood at the date the Application was filed. The result of this action was that the Application was allowed to enter the European Patent Community examination phase, and should an EPC patent registration result from the Application, this registration will have effect for Denmark, Greece and Spain, as for other EPC countries, at least under EPC regional patent arrangements if not by national action.  <FRAGMENT_SUPPRESSED>  
+ [18] 
+  By letter dated February 26, 1991, the Receiving Office within the British Patent Office agreed to rectify only the defects contemplated by art. 14 of the  
+ PCT 
+  but it declined to rectify the form by designating Canada. At an oral hearing on May 10, 1991, the applicant's patent agent made submissions before the U.K. Receiving Office, but for written reasons provided on May 13, the request for rectification in the designation was again refused. The applicant then sought judicial review before Aldous, J., of the High Court of Justice, without success.  <FRAGMENT_SUPPRESSED>  
+ [19] 
+  The reasons of Aldous, J., dated May 21, 1991, examine the interpretation to be applied to rule 91 of the  
+ Regulations under the Patent Cooperation Treaty 
+ , which allows for correction of "obvious errors". The learned judge held the U.K. Receiving Office had not erred in declining to rectify the Application. At pp. 7-8 of his reasons, he discussed the requirements of rule 91.  <FRAGMENT_SUPPRESSED>  
+ "... In my view the rule must mean that both the error and its rectification must be self-evident from the documents originally filed.  <FRAGMENT_SUPPRESSED>  
+ "... What must be obvious is not simply that there has been some mistake, but also what the error is so it can be rectified. If extraneous evidence of the applicant's intention is necessary to show that there has been an error, then that error cannot be an obvious error.  <FRAGMENT_SUPPRESSED>  
+ "... A possibility, or even a probability, that an error might have been made does not prove an obvious intention. The applicants, for a variety of reasons, might have intended not to obtain patent protection in Spain and Canada by means of an international application.  <FRAGMENT_SUPPRESSED>  
+ "... I am therefore not satisfied that the request form filed proves the intention to designate all the member states of the  
+ PCT 
+  at the time of filing. ... <FRAGMENT_SUPPRESSED>  
+ 
+ [20] 
+  Following dismissal of the application for judicial review by Aldous, J., Celltech filed a Notice of Appeal concerning his decision, but at the hearing of this matter counsel advised that course had not been pursued on the advice of U.K. counsel.  <FRAGMENT_SUPPRESSED>  
+ Requests Of, And Review By, 
+ 
+ The Commissioner Of Patents  <FRAGMENT_SUPPRESSED>  
+ [21] 
+  The June 28, 1991 submission on behalf of Celltech to the respondent Commissioner of Patents requested  <FRAGMENT_SUPPRESSED>  
+ - first, entry into the national phase of the  
+ PCT 
+ , in Canada, in respect of the Application, pursuant to art. 23(2) of the  
+ Treaty 
+  dealing with processing of international applications by designated offices, and  <FRAGMENT_SUPPRESSED>  
+ - second, review under art. 25(2) of the  
+ PCT 
+  of the unfavourable decision made by the receiving office in the U.K. in relation to the error in omitting Canada as a designated country, and in the course of that review to take fully into account art. 26 since it was submitted that s. 8 of the  
+ Patent Act 
+  would permit correction of an unintentional clerical error in a document. It was urged that the "instrument of record in the Patent Office" within the meaning of s. 8 was the Application forwarded to the Canadian office by the World Intellectual Property Organization ("WIPO") at the request of Celltech.  <FRAGMENT_SUPPRESSED>  
+ [22] 
+  That submission was apparently referred by the Commissioner to the Director, Receiving Office,  
+ PCT 
+  within the Canadian Patent Office, for decision. When he received the submission, the Director advised that no Application had been received from WIPO. Indeed, it appears that organization initially declined to forward the Application though it may subsequently have done so, and the copy of the Application originally received in the Patent Office was submitted by counsel for Celltech.  <FRAGMENT_SUPPRESSED>  
+ [23] 
+  On August 27, 1991, the Director wrote, conveying his decision, refusing the applicant's requests. In that decision reference is made to  
+ PCT 
+  rule 91.1(e)(i) providing "no rectification shall be made except with the express authorization of the receiving office if the error is in the request". Rectification of the error here involved, the failure to include Canada as a designated state, was considered not to be possible under art. 25(2)(a) of the  
+ Treaty 
+  which provides for rectification by a designated state, which Canada was not, of decisions on specified matters other than designation of states, where the receiving office is found to have based the decision on error or omission. Article 26 of the  
+ PCT 
+ , it was concluded, provided procedures that might be followed by a designated state, which Canada was not. Finally, since Canada was not designated, the documents submitted on behalf of Celltech "are only copies of an international application and do not constitute a record within the meaning of s. 8 of the  
+ Patent Act 
+  as they do not represent a validly filed application in the Patent Office". Thus, rectification was not possible under s. 8.  <FRAGMENT_SUPPRESSED>  
+ [24] 
+  In his decision the Director stated:  <FRAGMENT_SUPPRESSED>  
+ "I sympathize with the plight of the applicant whose problem is not unique. It has happened many times that because of the use of outdated forms, Canada has not been designated or elected in international applications, with the result of losing such designations or elections. <FRAGMENT_SUPPRESSED>  
+ 
+ [25] 
+  That decision, as earlier noted, was appealed to the Commissioner of Patents, whose decision, reflecting similar conclusions, refused the requests of the applicant, as earlier quoted in these Reasons.  <FRAGMENT_SUPPRESSED>  
+ The Positions Of The Parties  <FRAGMENT_SUPPRESSED>  
+ [26] 
+  In seeking judicial review of the Commissioner's decision, Celltech argued primarily that the decision was based on errors in law in the application of the  
+ PCT 
+  and s. 8 of the  
+ Patent Act 
+ . In argument, counsel submitted that "clerical errors" referred to in s. 8 of the  
+ Act 
+  had a broader meaning than "obvious errors" within rule 91.1  
+ PCT 
+ ; that the error here was a "clerical error" in light of the evident intent to include Canada as a designated state; that the benefit of s. 8, properly construed as an integral part of the law in light of the incorporation of the  
+ PCT 
+  into Canadian law, and in light of the object of the  
+ PCT 
+ , ought to be available to rectify the error in this case. Thus Canada would be deemed to be a designated state for purposes of the  
+ PCT 
+  and the Application should be entered in the national phase, for registration in Canada in accord with the  
+ Treaty 
+ .  <FRAGMENT_SUPPRESSED>  
+ [27] 
+  Three possible interpretations of the  
+ PCT 
+  and s. 8 of the  
+ Act 
+  were proposed which would permit rectification of the Application to include Canada as a designated state. Under the  
+ Treaty 
+  itself art. 25 provides one method whereby the Canadian office applying its own standards for correction of errors, here broader than obvious errors under the  
+ PCT 
+ , could correct the application, amending it to eliminate the clerical error made, and thus Canada would be designated, as originally intended by Celltech. Moreover, the refusal of the receiving office to correct the application had the effect of refusing to accord an international filing date in relation to Canada, an effect included within the type of decision found to be in error by, and subject to correction by, a designated office under art. 25. The second method would be to construe s. 8 of the  
+ Act 
+  and art. 26  
+ PCT 
+  so that the benefit of the broader standard for correction of error under s. 8 is made available for an international application, thus interpreting the  
+ Act 
+  in a manner consistent with that article, with the result that Canada would be a designated state. That it was urged would be an apt construction, since s. 8 ought now to be construed in relation to an international application in light of the  
+ PCT 
+  becoming a part of Canadian law relating to patents, the sort of error here made being a situation comparable but admittedly not the same in nature to the sort of error which, if the application were a national one, might be corrected under Canadian law. The third possibility would be to rectify the error under s. 8 of the  
+ Act 
+ , taking account of the  
+ PCT 
+  provision art. 13(2)(a), which permits the applicant for an international application to transmit a copy of that application to any designated office, and Celltech had forwarded its Application to the Canadian office. In this regard it was urged that under the  
+ PCT 
+ , filing in the U.K. office must be deemed to create a nexus, a connection between that office and the Canadian office so that filing in the U.K. should be deemed to create "an instrument of record in the Patent Office" in Canada so far as it is possible that Canada could be a designated state. With rectification of the clerical error here made Canada would be a designated state.  <FRAGMENT_SUPPRESSED>  
+ [28] 
+  The applicant urges that any of the possible interpretations leading to rectification would affect only Canada and no other parties to the  
+ PCT 
+ . In this regard, for Celltech reference was made to two other instances of decisions supporting patents in states not originally designated. The first was the EPC decision accepting the Application here in question for all member states of the EPC at the time of application for community patent rights, admittedly a decision under rules of that EPC  
+ Treaty 
+  not the  
+ PCT 
+ , and the second, where a Swiss patent was granted in relation to an invention on the basis of an international application originating in Australia which neglected to include Switzerland as a designated state. There is no basis for comparison of the law applicable in those instances, and indeed the respondent suggests that under the EPC there is no requirement for states to be designated in an international application. Neither of the examples is of assistance in determining the ultimate issue in this case, which concerns the application of Canadian law including the  
+ PCT 
+ , if it be applicable.  <FRAGMENT_SUPPRESSED>  
+ [29] 
+  Each of the possible means of interpretation urged for the applicant Celltech depends upon the appropriate construction or application of the  
+ Treaty 
+  and the  
+ Patent Act 
+  to the circumstances of this case. In effect the applicant urges a liberal interpretation and not the literal meaning here said to have been relied upon by the Commission and the Director. In particular, the applicant seeks a liberal construction that serves the objectives of the  
+ PCT 
+  and avoids frustration of those objectives by what is said to be too literal reading of particular provisions of the  
+ Treaty 
+ . It was submitted that such an appropriate interpretation had not been demonstrated by the Commissioner's decision here questioned, and thus he had erred in law.  <FRAGMENT_SUPPRESSED>  
+ [30] 
+  For the respondent, it was urged that a precondition to the application of the  
+ Treaty 
+ , the  
+ Act 
+  and  
+ Regulations 
+ , in light of ss. 6 and 7 of the  
+ Patent Cooperation Treaty Regulations 
+ , is that Canada be designated in the Application. Since this was not done, the Application was not to be dealt with under the law applicable to international applications in Canada. Moreover, while the error was here described by the applicant as a mere technicality, it relates to a matter vital to the operation of the  
+ PCT 
+ , that is the designation of states, a matter which, if there be error in the request for an international application, is only capable of being rectified by the receiving office in accord with rule 91.1  
+ PCT 
+ . That is consistent with the arrangements provided by the  
+ Treaty 
+ , since it is the request as filed in the receiving office upon which rights of the applicant and obligations of contracting states are based. Construction of the  
+ PCT 
+  provisions should not only be consistent with its object and purposes, but also with the clear meaning of its words, and absent any ambiguity the words should be construed and applied in accord with their plain meaning. In this case the effectiveness of the  
+ Treaty 
+  was not adversely affected if the correction sought were not made by Canadian authorities for the remedy provided by the  
+ Treaty 
+  itself, by action of the receiving office, was pursued, albeit unsuccessfully. In sum, for the respondent it was submitted there was no error in the construction of the  
+ PCT 
+  and the  
+ Patent Act 
+  by the Commissioner of Patents.  <FRAGMENT_SUPPRESSED>  
+ Reasons And Conclusions  <FRAGMENT_SUPPRESSED>  
+ [31] 
+  The  
+ PCT 
+  was incorporated into the law of Canada by virtue of the  
+ Patent Cooperation Treaty Regulations 
+  made pursuant to s. 12(1)(e) of the  
+ Patent Act 
+ . Those  
+ Regulations 
+  set out the circumstances in which the  
+ Treaty 
+  will apply to international applications made under the  
+ Treaty 
+ . By s. 6 of those  
+ Regulations 
+  it is specifically provided that the  
+ PCT 
+  and  
+ Regulations 
+  under the  
+ Treaty 
+  shall apply in respect of three kinds of international applications, one filed with the receiving office in Canada, one in which Canada is designated, and one in which Canada is both designated and elected. The international Application in issue in this proceeding cannot be classed in any of those categories. It simply does not qualify as an application to which, under Canadian law, the law of the  
+ Treaty 
+  and its  
+ Regulations 
+  are to be applied.  <FRAGMENT_SUPPRESSED>  
+ [32] 
+  Moreover, under s. 7 of the Canadian  
+ Regulations 
+  the  
+ Patent Act 
+  and  
+ Regulations 
+  made under it are to apply in respect of an international application when the applicant has complied with ss. 13 and 14 of the  
+ Regulations 
+ . Section 14 is not applicable in the circumstances of this case for it deals with a situation where Canada is elected by an applicant in an international application. Section 13 sets out requirements, for entry into the national phase, of "an applicant who designates Canada in an international application". Since the international application in this case did not designate Canada the requirements for entry into the national phase of the application cannot be met. Thus, the requirements set by s. 7 for the application of the  
+ Patent Act 
+  and  
+ Regulations 
+  made under it, including the  
+ Patent Cooperation Treaty Regulations 
+  themselves, are not met. The  
+ Act 
+  and  
+ Regulations 
+  do not apply to the Celltech application as submitted to the Patent Office.  <FRAGMENT_SUPPRESSED>  
+ [33] 
+  In sum, by the  
+ Regulations 
+  incorporating the  
+ PCT 
+  into Canadian law, neither the  
+ Treaty 
+  and its  
+ Regulations 
+  nor the  
+ Act 
+  and  
+ Regulations 
+  made under it apply to the Application by Celltech submitted with a request for its entry into the national phase under the  
+ PCT 
+ . On this ground there is no basis for finding any error in law in the decision of the Commissioner, even if it be considered that his decision was reached for other reasons.  <FRAGMENT_SUPPRESSED>  
+ [34] 
+  If I am wrong in this conclusion and the  
+ Treaty 
+  and the  
+ Act 
+  are considered applicable to the international Application as submitted by Celltech, then I reach the same conclusion, that the Commissioner did not err in law, after construing the  
+ PCT 
+  and s. 8 of the  
+ Act 
+ .  <FRAGMENT_SUPPRESSED>  
+ [35] 
+  Without finally determining the matter, I accept for purposes of examining the issues raised by the applicant, that the meaning ascribed by Aldous, J., supra, to "obvious errors" under rule 91.1 of the  
+ PCT Regulations 
+  is narrower in scope than the meaning of "clerical errors" in s. 8 of the  
+ Patent Act 
+ . As the latter has been defined by Mr. Justice Mahoney in  
+  <FRAGMENT_SUPPRESSED> , at pp. 73-74 (T.D.), a "clerical error" within s. 8 of one "that arises in the mechanical process of writing or transcribing"; its origin is clerical, and it does not depend on its relative obviousness or the gravity or triviality of its consequences. Extrinsic evidence is admissible to establish a clerical error, within s. 8, and the error need not be one obvious from the face of the document. The fact that there may be two bases for rectification of errors, under the  
+ Treaty 
+  and under the  
+ Patent Act 
+ , at first glance may appear to lend weight to the applicant's claim that art. 26 of the  
+ Treaty 
+  should be considered as a means of ensuring that national applications in Canada and international applications originating abroad are treated on the same basis by extending to the latter the benefit of the wider opportunity for correction of error under the  
+ Patent Act 
+ . Yet, I point out that this would presumably be the result for an international application in which Canada is a designated country, just as in a national application, if the former were filed with the Canadian Patent Office for entry into the national phase. In other words, the fact that the Celltech Application does not meet requirements of an international application with respect to Canada as a designated state has no significance for the application of Canadian law, including s. 8 of the  
+ Act 
+ , for other applications that do meet those requirements. Nor is it a reason, despite the original and continuing intentions of Celltech, to treat the application in the same way as if it did meet those requirements.  <FRAGMENT_SUPPRESSED>  
+ [36] 
+  Counsel for the parties agree on the general principles applicable in interpreting and applying the terms of the  
+ Treaty 
+ . These may be expressed in the general principle of statutory construction applicable under Canadian domestic law, that legislation should be interpreted and applied, unless by its clear terms this is impossible, in a manner consistent with international obligations, and further, in accord with the general rule for interpretation of treaties that "a treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose". The latter general rule is included in the  
+ Vienna Convention on the Law of Treaties 
+  (1969, Vienna; in force in Canada 1980; Canada Treaty Series 1980, No. 37).  <FRAGMENT_SUPPRESSED>  
+ [37] 
+  For Celltech it is urged that the primary end of treaty interpretation is to give effect to the intentions of the parties, and not frustrate them. This "effectiveness principle" requires courts to read a treaty as a whole to ascertain its purpose and intent and to give effect thereto rather than to rely on a literal interpretation of some articles which might produce results contrary to the aims of the treaty. The respondent urges that in circumstances where the plain meaning of the words of the treaty is clear, where no ambiguity arises, then the general objectives of the treaty are to be interpreted in light of its terms as used and there is no justification for departing from the application of the plain meaning.  <FRAGMENT_SUPPRESSED>  
+ [38] 
+  In my view the general rule for construction of treaties requires appropriate attention to both the terms of the treaty in their context, that is the words as used in the treaty, and its objects and purpose.  <FRAGMENT_SUPPRESSED>  D.L.R.(3d) 721, at p. 679 (T.D.), Mr. Justice Cattanach of this court said:  <FRAGMENT_SUPPRESSED>  
+ "Counsel for the appellant submitted that a treaty must be interpreted so as to give effect to the rule of effectiveness and the rule of liberal interpretation. I fail to follow how the rule of effectiveness can mean any more than the obvious duty of the court to give effect to the treaty. That duty is, as I conceive it, to ascertain and give effect to the intention of the contracting states as expressed in the words used by them.  <FRAGMENT_SUPPRESSED>  
+ "Similarly I find little help in the statement that a treaty shall receive a liberal or extensive construction rather than a strict one. The consensus of all writers is that treaties are to be construed in the most liberal spirit provided that the sense is not wrested from its plain and obvious meaning.  <FRAGMENT_SUPPRESSED>  
+ "In my view the duty of the court is to construe a treaty as it would construe any other instrument public or private, that is to ascertain the true intent and meaning of the contracting states collected from the subject matter and from the words employed by them in their context. ... <FRAGMENT_SUPPRESSED>  
+ 
+ [39] 
+  It seems to me that art. 25 cannot appropriately be construed as Celltech argues. Article 25 does recognize authority of a designated office to review certain decisions of the receiving office, namely where the latter has refused to accord an international filing date or has declared an international application withdrawn, including the decision that the designation of any given state has been withdrawn. The decision here by the receiving office, not to rectify the international Application by adding a designation for Canada, does not fall within either category. Canada was not designated and the Canadian Patent Office has no authority under art. 25(2)(a) to review the decision of the receiving office and thus no authority from the  
+ Treaty 
+  itself to treat the international application as if the refusal, should it find that to be the result of error, had not occurred. I do not accept counsel's submission that the effect of the refusal by the U.K. office to rectify the request, thus refusing an international filing date in relation to Canada, constituted a decision within the terms of art. 25, for the decision here, by the receiving office, related to designation of a state originally omitted, not to refusing to accord an international filing date to the Application. That date was in fact accorded by the U.K. office to the international Application of Celltech.  <FRAGMENT_SUPPRESSED>  
+ [40] 
+  Further, it is my view that art. 26 of the  
+ Treaty 
+  cannot be appropriately interpreted as authority for the Canadian Patent Office to resort to s. 8 of the  
+ Patent Act 
+  to correct the error here even if that error be determined to be a clerical error. That article speaks to responsibilities of a designated office, that is a national office designated by the applicant in its request to a receiving office that an international application be processed according to the  
+ Treaty 
+  ( 
+ PCT 
+ , art. 2(xiii) and art. 4(1)(ii)). The Canadian Patent Office, which is not a designated office under the  
+ Treaty 
+ , could not claim authority under art. 26 to amend or rectify the omission of Canada as a designated state. Moreover, the error in this case could not be said, in the terms of art. 26, to be one that is the same or comparable to an error capable of being remedied under s. 8 of the  
+ Patent Act 
+ , for the failure to designate Canada is comparable, in the case of a national application, to a failure to file the Application. Moreover, I am not persuaded, as the applicant urged, that s. 8 of the  
+ Patent Act 
+  should be construed since the coming into force of the  
+ Patent Cooperation Treaty Regulations 
+ , in light of art. 26 of the  
+ PCT 
+  to permit correction of errors where authority so to do is not itself based in the provisions of the  
+ Treaty 
+ , which upon examination, has numerous provisions for correction of particular forms of errors by various offices, and which provides for rectification of obvious errors made in the request by the receiving office (rule 91.1(e),  
+ PCT 
+ ).  <FRAGMENT_SUPPRESSED>  
+ [41] 
+  Finally, I am not persuaded that authority for rectifying the Application by the Canadian Patent Office can be based on s. 8 of the  
+ Patent Act 
+ . It is true that art. 13(2)(a) of the  
+ Treaty 
+  provides that "the applicant may, at any time transmit a copy of his international application to any designated office", but I note again that Canada was not designated and the international Application is not before the Canadian office in the manner envisaged by the  
+ Treaty 
+ . The applicant's conception of a connection between the receiving office and the Canadian Patent Office may have some merit in a case where Canada is designated in the request filed in the receiving office but it cannot have any significance for situations involving states which are not designated and it cannot be deemed that an international application in which Canada is not designated can be considered "an instrument of record" in the Canadian Patent Office within the meaning of those words in s. 8 of the  
+ Patent Act 
+ . The  
+ Treaty 
+  and the  
+ Act 
+  and  
+ Regulations 
+  when read together provide no basis for the Commissioner of Patents to consider the Application submitted by Celltech as one formally before the Canadian Patent Office for entry into the national phase under the  
+ Treaty 
+ . It was not here argued that Celltech's submission might constitute an appropriate application under the  
+ Patent Act 
+ , aside from the  
+ Treaty 
+ , and I make no finding on that question. As noted earlier Celltech had already submitted an application under the  
+ Patent Act 
+ , before submission of the international Application, but that national application would not provide the advantage of the early priority date that would have been applicable under an international application that designated Canada.  <FRAGMENT_SUPPRESSED>  
+ [42] 
+  This result may appear to the applicant to be based on a literal reading of the  
+ Treaty 
+  provisions. In my view, it is based on the terms of the  
+ Treaty 
+  itself, keeping in mind the objectives of the contracting parties to simplify the application for and protection of patents in inventions in more than one country by processes set out in the  
+ PCT 
+ . The objectives are to be met through those processes as set out in the words of the  
+ Treaty 
+  itself, not by ignoring those words. The result, in my view, does not denigrate from the effectiveness of the  
+ Treaty 
+ , indeed it respects the effectiveness by taking into account the processes to be followed under the  
+ PCT 
+ , in particular in relation to the rectification of errors or review of decisions made at various stages in the processing of applications under the  
+ Treaty 
+ .  <FRAGMENT_SUPPRESSED> 

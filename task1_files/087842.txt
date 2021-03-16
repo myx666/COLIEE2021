@@ -1,0 +1,173 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Mactavish, J.
+February 24, 2010.
+Counsel:
+Gary Sauvé, on his own behalf;
+Patrick Bendin, for the defendants.
+Solicitors of Record:
+John H.Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the defendants.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Mactavish, J.
+: Gary Sauvé is a member of the Royal Canadian Mounted Police who is currently on suspension without pay. Mr. Sauvé has commenced an action for damages against Her Majesty the Queen in Right of Canada, the RCMP and several RCMP officers. The defendants now seek an order striking Mr. Sauvé's statement of claim in its entirety, without leave to amend.
+[2]
+For the reasons that follow, I have concluded that the statement of claim should indeed be struck. I have further concluded that, with the exception of one claim, leave to amend should not be granted.
+Background
+[3]
+Mr. Sauvé was engaged in protracted litigation in the province of Québec with respect to the paternity of two children. In the course of this litigation, documents were sent by Mr. Sauvé to the children's mother's lawyer and to the Supreme Court of Canada. As a result of this correspondence, the mother of the children filed a public complaint against Mr. Sauvé with the RCMP under the provisions of the
+Royal Canadian Mounted Police Act
+, R.S.C. 1985, c. R-10. In addition, the mother's lawyer filed a criminal complaint with the police in Thetford Mines, Québec.
+[4]
+The Ottawa-Carleton Police Service ultimately charged Mr. Sauvé with two counts of uttering death threats and two counts of criminal harassment under the provisions of sections 264.1(2) and 264(3) of the
+Criminal Code of Canada
+, R.S.C. 1985, c. C-46, respectively. Because of concerns that he was potentially a danger to himself or others, Mr. Sauvé was held without bail at the Ottawa-Carleton Regional Detention Centre for some five months pending his criminal trial.
+[5]
+Following a trial in the Ontario Court of Justice, Mr. Sauvé was acquitted of the charges of uttering death threats, but was convicted of both counts of criminal harassment. While I understand Mr. Sauvé to have appealed his convictions, there is no suggestion in either the evidence before me or in the parties' oral submissions that either conviction was ever quashed.
+[6]
+Mr. Sauvé has commenced an action in the Province of Ontario against Her Majesty the Queen in Right of Ontario with respect to the conduct of various provincial authorities in relation to his arrest, pre-trial detention and prosecution. This litigation is ongoing.
+[7]
+Mr. Sauvé has also commenced this action in the Federal Court seeking some $13 million in general, punitive and aggravated damages. Mr. Sauvé's amended statement of claim asserts numerous different causes of action, and contains allegations that several of his rights under the
+Canadian Charter of Rights and Freedoms
+, Part I of the Constitution Act, 1982, being schedule B to the Canada Act 1982 (U.K.), 1982, c. 11, have been violated. As I understand his claim, Mr. Sauvé alleges that he was wrongfully treated by the RCMP and its officers, who failed to properly investigate the allegations made against him. Mr. Sauvé further alleges that the RCMP is vicariously liable for the treatment that he received at the hands of provincial authorities in the course of his criminal investigation, arrest, pre-trial detention, prosecution and trial.
+Principles Governing Motions to Strike
+[8]
+The defendants' motion to strike Mr. Sauvé's amended statement of claim is brought under Rule 221(1)(a), (b), (c) and (f) of the
+Federal Courts Rules
+, which provide that:
+221. (1) On motion, the Court may, at any time, order that a pleading, or anything contained therein, be struck out, with or without leave to amend, on the ground that it
+(
+a
+) discloses no reasonable cause of action or defence, as the case may be,
+(
+b
+) is immaterial or redundant,
+(
+c
+) is scandalous, frivolous or vexatious,
+[...]
+(
+f
+) is otherwise an abuse of the process of the Court,
+and may order the action be dismissed or judgment entered accordingly.
+221. (1) À tout moment, la Cour peut, sur requête, ordonner la radiation de tout ou partie d'un acte de procédure, avec ou sans autorisation de le modifier, au motif, selon le cas:
+a
+) qu'il ne révèle aucune cause d'action ou de défense valable;
+b) qu'il n'est pas pertinent ou qu'il est redondant;
+c) qu'il est scandaleux, frivole ou vexatoire;
+[...]
+f
+) qu'il constitue autrement un abus de procédure.
+Elle peut aussi ordonner que l'action soit rejetée ou qu'un jugement soit enregistré en conséquence.
+[9]
+A motion to strike will only be granted where it is plain and obvious that the action cannot succeed, assuming the facts alleged in the statement of claim to be true:
+ <FRAGMENT_SUPPRESSED> .
+[10]
+In considering a motion to strike, the statement of claim should be read as generously as possible, in a manner that accommodates any inadequacies in the allegations that are merely the result of deficiencies in the drafting of the document: see
+ <FRAGMENT_SUPPRESSED>  at para.14.
+Does Mr. Sauvé's Statement of Claim Disclose a Reasonable Cause of Action?
+[11]
+Rule 221(2) further provides that no evidence shall be heard on a motion for an order under Rule 221(1)(a). That is, the pleading must stand or fall on its own. Thus, while I have set out some background information in the first part of this decision in order to provide a context for these reasons, I have limited my examination to the matters pleaded in the claim itself in considering whether Mr. Sauvé's statement of claim discloses a reasonable cause of action.
+[12]
+Rule 174 of the
+Federal Courts Rules
+requires that "[e] very pleading shall contain a concise statement of the material facts on which the party relies". A statement of claim that contains bare assertions, but no facts on which to base those assertions discloses no cause of action: see
+ <FRAGMENT_SUPPRESSED> , 6 A.C.W.S. (3d) 203, (F.C.A.).
+[13]
+While Rule 175 permits a party to raise a point of law in a pleading, a conclusion of law pleaded without the requisite factual underpinning to support the legal conclusions asserted is defective, and may be struck out as an abuse of  <FRAGMENT_SUPPRESSED>  C.P.R. (4th) 522 at para. 29, aff'd (2000), 193 F.T.R. 256, 9 C.P.R. (4th) 379.
+[14]
+A number of paragraphs in the statement of claim relate to the alleged vicarious liability of the defendants for the damages that Mr. Sauvé says he suffered at the hands of provincial law enforcement, correctional and prosecutorial authorities: see, for example, paragraph 12 (after the words "the plaintiff submits that he was detained by the RCMP police officers for over two (2) hours"), and paragraphs 13, 19, 25, 26, 27, 28, 39, 40 and 45.
+[15]
+Mr. Sauvé makes the bald assertion that the defendants owed him a duty of care and are vicariously liable for the actions of the provincial authorities, but provides no factual underpinning for this assertion. In paragraph 50, Mr. Sauvé asserts that the defendants owed him a duty of care "as any other reasonable person would owe a duty of care to any other person". This is clearly insufficient.
+[16]
+Similarly, in paragraph 23 of the claim, Mr. Sauvé asserts that the RCMP had him under its care, and as such became vicariously liable for his safety while he was in custody. No facts have been pleaded, however, to show how Mr. Sauvé was in the care of the RCMP while he was in the custody of provincial officials, nor is there any allegation that any of the defendants had any control over the conditions of Mr. Sauvé's pre-trial detention, or the manner in which his case was prosecuted by the provincial Crown.
+[17]
+Given that insufficient material facts have been pleaded by Mr. Sauvé to link the RCMP to the damages that he says he suffered at the hands of provincial law enforcement, correctional and prosecutorial authorities, paragraphs 12, 13, 19, 23, 25, 26, 27, 28, 39, 40 and 50 disclose no cause of action and should be struck.
+[18]
+In paragraphs 24, 30, and 42 of his amended statement of claim Mr. Sauvé pleads that he has been defamed. Paragraph 24 refers to news of his arrest and incarceration having been broadcast over the Ottawa Police Services' airways. Not only have the precise words complained of not been pleaded as is necessary in a claim for defamation, more fundamentally, there is nothing in the pleading to suggest that the statements complained of were untrue. Indeed, Mr. Sauvé acknowledges in his amended statement of claim that he was arrested and incarcerated: see paragraphs 12 and 25.
+[19]
+Furthermore, there is nothing in the pleading to connect the broadcast complained of to any actions on the part of any of the defendants in this action.
+[20]
+Paragraph 30 relates to the defendants' release to the media of information regarding Mr. Sauvé's name, years of service, position within the RCMP and the charges that he was facing. Once again, there is no suggestion in the pleading that any of this information was inaccurate or untrue. As such, the publication of this information by the defendants cannot support a claim in defamation, and these paragraphs will be struck, as will paragraphs 31, 32 and 42, which relate to damages allegedly suffered by Mr. Sauvé and by his child and ex-wife (who are not parties to this action) as a result of the alleged defamation.
+[21]
+In paragraphs 16 and 29, Mr. Sauvé alleges that the defendants, specifically Messrs. Franche and Tremblay, wrongfully accused Mr. Sauvé in court of having uttered threats. Testimony given in court is subject to an absolute privilege, and thus cannot form the basis of a claim in defamation:
+ <FRAGMENT_SUPPRESSED>  A.R. 340 at para. 10;
+ <FRAGMENT_SUPPRESSED> , 50 A.C.W.S. (3d) 1011 at para. 12. Consequently, these paragraphs will also be struck.
+[22]
+Mr. Sauvé has made a number of allegations of conspiracy. He has, however, failed to plead the requisite elements of the tort. In particular, he has not identified the parties to the conspiracy, the agreement between the defendants, the precise purpose of objects of the conspiracy and the overt acts alleged to have been done in furtherance of the conspiracy: see
+ <FRAGMENT_SUPPRESSED>  at para. 71;
+ <FRAGMENT_SUPPRESSED>  (Ont. H.C.) at 27-28;
+ <FRAGMENT_SUPPRESSED>  at 104.
+[23]
+For example, in paragraph 29, Mr. Sauvé asserts that the defendants conspired to injure him during his bail hearing and criminal trial. However, Mr. Sauvé does not provide any material facts as to who the defendants conspired with, or what the agreement was between these defendants and any other parties to the conspiracy. While I will make additional comments with respect to paragraph 38 of the statement of claim further on in these reasons, I would also observe that the pleading of conspiracy in this paragraph is similarly deficient.
+Is the Claim an Abuse of Process in Light of the Ontario Action?
+[24]
+The defendants also submit that Mr. Sauvé's entire amended statement of claim is an abuse of process, as he is attempting to relitigate matters that are currently before the Ontario Courts. As a result, the defendants say that the claim should therefore be struck under the provisions of Rule 221(1)(f). In the alternative, the defendants ask that this action be stayed pending the outcome of the Ontario proceeding.
+[25]
+I do not agree that the matter is an abuse of process in light of Mr. Sauvé's pending Ontario civil action. While it is true that the Ontario action relates to many of the events referred to in Mr. Sauvé's Federal Court claim, the defendants to the two actions are different. The fundamental issue in the Ontario action is the liability of various provincial entities in relation to the matters complained of, whereas the question at issue in this case is the liability of Mr. Sauvé's employer and co-workers at the RCMP for the same matters.
+Is Mr. Sauvé's Statement of Claim Otherwise an Abuse of Process?
+[26]
+While I do not accept that Mr. Sauvé's claim is an abuse of process in light of his Ontario civil action, a close examination of Mr. Sauvé's amended statement of claim nevertheless discloses that it is an abuse of process as it is largely an attempt to relitigate the question of his guilt in relation to the criminal charges laid against him - a matter that has been resolved in his criminal trial.
+[27]
+This is particularly evident from paragraphs 14 and 21 of the amended statement of claim, which plead that:
+[14] The plaintiff respectfully submits that if the defendants had properly investigated the matter, they would have found out that the plaintiff and his family have been harassed, threatened, defamed by [the mother of the children] for over a period of 23 years (1983 to present) and as such, would not have detained and arrested the plaintiff on October 8, 2004.
+[...]
+[21] The plaintiff submits that had the defendants conducted a proper and diligent investigation, they would have realized that the two documents were not threatening in nature and there were no reasonable and probable grounds to detain, arrest and incarcerate the plaintiff.
+[28]
+Indeed, a fair reading of the amended statement of claim as a whole discloses that Mr. Sauvé's action is premised on the idea that he was wrongfully detained by the RCMP, and then wrongfully arrested, charged, held in pre-trial detention and tried. Indeed, Mr. Sauvé asserts in paragraph 35 of his amended statement of claim that there was an absence of reasonable and probable cause to commence criminal proceedings against him, and that these proceedings were ultimately terminated in his favour.
+[29]
+However, as Mr. Sauvé acknowledges in paragraph 36 of his amended statement of claim, he was in fact convicted of two counts of criminal harassment as a result of his having sent the documents in question. The fact that he was ultimately acquitted of the charges of uttering threats does not in any way detract from the fact that his conduct in sending these documents has been found by the courts to have been criminal in nature.
+[30]
+As the Supreme Court of Canada observed in  <FRAGMENT_SUPPRESSED>  [Toronto (City)], it is both improper and an abuse of process to attempt to impeach a judicial finding of criminal guilt by the impermissible route of relitigation in a different forum: see para. 46.
+[31]
+The fact that Mr. Sauvé's motive for attempting to relitigate the matter of his guilt may be to secure damages rather than to directly challenge his criminal conviction does not render it any less abusive: see Toronto (City), at para. 46.
+[32]
+This Court could not find any of the defendants liable to Mr. Sauvé for, by way of example, "wrongful prosecution, detention, arrest and imprisonment" or "abuse of process", without the Court first finding that Mr. Sauvé was not guilty of the matters with which he was charged. This the Court cannot do.
+[33]
+As a consequence, and subject to the comments in the next paragraphs with respect to paragraphs 33 and 38 of the amended statement of claim, the remainder of the claims will be struck as an abuse of process, without leave to amend.
+Is Mr. Sauvé's Statement of Claim Scandalous, Frivolous or Vexatious?
+[34]
+In paragraphs 33 and 38 of Mr. Sauvé's statement of claim, he complains about the conduct of the defendants in relation to subpoenas served upon him. These claims do not arise out of the criminal charges against him, and thus do not constitute an abuse of process as discussed in the previous section of these reasons.
+[35]
+The question, then, is whether the claims asserted in either of these paragraphs are scandalous, frivolous or vexatious within the meaning of Rule 221(1)(c) of the
+Federal Courts Rules
+.
+[36]
+Paragraph 38 alleges that an unidentified individual acting on behalf of the defendants served Mr. Sauvé with a subpoena at his home to compel him to appear as a witness in a criminal trial in which he was involved as a police officer. As I understand the paragraph, Mr. Sauvé's concern is not that he was served with the subpoena, but the fact that his home address and work phone number were disclosed on the face of the subpoena. Because of this, Mr. Sauvé claims that the defendants are liable to him for damages for "invasion of privacy, intrusion upon plaintiff's solitude, harassment, conspiracy to injure and breaches pursuant to the Charter." The damages that he claims to have suffered as a result were "stress, worry, fear and anxiety".
+[37]
+Mr. Sauvé and his employer would both have already been in possession of information regarding Mr. Sauvé's home address or work phone number, and there is no assertion in the pleading that this information was ever disclosed to a third party. I cannot see how the disclosure of Mr. Sauvé's personal information to Mr. Sauvé himself could be actionable.
+[38]
+Moreover, Canadian courts have generally resisted emotional distress claims based on pure nervous shock, or fear, without visible and provable illness: see  <FRAGMENT_SUPPRESSED>  at 216.
+[39]
+A claim is frivolous "where it is of little weight or importance or for which there is no rational argument based upon the evidence or law in support of the claim". A vexatious proceeding is "one that is begun maliciously or without a probable cause, or one which will not lead to any practical result": see Steiner, at para. 16. The claim asserted at paragraph 38 of the amended statement of claim is both frivolous and vexatious.
+[40]
+More difficult, however, is the claim asserted in paragraph 33 of Mr. Sauvé's amended statement of claim, which states that:
+[33] On or about the 30th day of November 2004, the plaintiff submits that the defendants caused damages to his person by serving a subpoena to the plaintiff while incarcerated and by removing him out of segregation to attend the Ottawa Court House to testify as a police officer, for and on behalf of the RCMP and the Ottawa Police Services with respect to a criminal case involving organized crime. The plaintiff feared for his safety and that of his family by increasing the risk by exposing his identity as a police officer. The plaintiff sustained fear, stress, anxiety, emotional trauma, loss of reputation, loss of integrity, dignity, respect, humiliation, embarrassment and degradation. The Plaintiff submits that being experienced and well trained, the defendants knew or ought to have known that their actions and/or inactions would cause damages to the plaintiff.
+[41]
+The pleading with respect to this claim is clearly defective in its current form, in that it does not identify a cause of action. That said, while there are undoubtedly deficiencies in the drafting of the claim, I am not persuaded that it is plain and obvious that this claim could not succeed.
+[42]
+Indeed, in response to questions from the Court, counsel for the defendants fairly conceded that although the claim was novel, it was not plain and obvious that the "outing" of an incarcerated individual as a police officer, with the potential increase in risk to the individual's personal safety that could ensue, could not potentially attract liability, for example, in negligence. Moreover, it is not at all clear that the damages that Mr. Sauvé allegedly suffered in this regard were limited to emotional distress.
+[43]
+As a consequence, while paragraph 33 of the claim will be struck, leave will be granted for Mr. Sauvé to amend his statement of claim to advance this one claim. Mr. Sauvé shall have 30 days in which to file a further amended statement of claim with respect to this claim.
+The Naming of the Royal Canadian Mounted Police as a Defendant
+[44]
+The RCMP is not a suable entity: see
+ <FRAGMENT_SUPPRESSED>  at para. 18 and
+ <FRAGMENT_SUPPRESSED> . Actions seeking monetary compensation against the RCMP should instead be instituted against the Crown: see
+ <FRAGMENT_SUPPRESSED>  at para. 39. Consequently, the style of cause must be amended to remove the RCMP as a defendant, and paragraph 4 of the statement of claim is struck, without leave to amend.
+Case Management
+[45]
+I agree with the defendants that in the event that this matter is to proceed, it would benefit from case management. Indeed, I do not understand Mr. Sauvé to object to this. As a consequence, the matter will continue as a specially-managed proceeding.
+Costs
+[46]
+I acknowledge that Mr. Sauvé is a self-represented litigant. Nevertheless, all parties appearing before the Court are obliged to comply with the rules governing pleadings. Given the defendants' substantial success on the motion, I am of the view that an award of costs in their favour is appropriate. Having regard to all of the circumstances, including Mr. Sauvé's apparent impecuniosity, I fix these costs at $250.
+ORDER
+[47]
+THIS COURT ORDERS that
+:
+1. The defendants' motion is granted in part. All of the claims in Mr. Sauvé's amended statement of claim, with the exception of the claim identified in paragraph 33, are struck without leave to amend. The claim identified in paragraph 33 of the amended statement of claim is struck, with leave to amend. Mr. Sauvé shall have 30 days in which to file a further amended statement of claim with respect to this one claim;
+2. The style of cause is amended to remove the RCMP as a defendant. Paragraph 4 of the amended statement of claim is also struck without leave to amend;
+3. This matter will be continued as a specially managed proceeding; and
+4. The defendants will have their costs fixed at $250.
+[End of document]

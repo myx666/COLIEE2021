@@ -1,0 +1,265 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Tremblay-Lamer, J.
+October 4, 2007.
+Counsel:
+Gabriel Fontaine, on his own behalf;
+Marie Josée Bertrand, for the respondent.
+Solicitors of Record:
+Justice Canada, Quebec, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2007] F.T.R. TBEd. OC.017.
+[1]
+Le juge Tremblay-Lamer
+: Il s'agit d'une demande de révision en vertu de l'article 41 de la
+Loi sur l'accès à l'information
+, L.R., 1985, ch. A-1 (la Loi), concernant la décision de la Gendarmerie royale du Canada (la GRC) de refuser la divulgation de certains documents faisant l'objet d'une demande d'accès à l'information soumise par le demandeur.
+Les faits
+[2]
+Le ou vers le 6 mars 2004, la GRC recevait une demande d'accès à l'information par laquelle Gabriel Fontaine (le demandeur) demandait la communication d'un rapport de continuation contenu dans le dossier d'enquête ouvert à son sujet le 5 décembre 1988.
+[3]
+Les rapports de continuation de la GRC ont étés préparés dans le cadre de l'enquête ouverte par celle-ci à la suite d'une plainte déposée en décembre 1988 concernant des actes criminels imputés au demandeur. Ces rapports sont utilisés par les membres de la GRC impliqués dans l'enquête comme outil de gestion pour documenter leurs démarches; ils relatent les faits et gestes des enquêteurs, leurs conversations, entrevues, rencontres ainsi que leurs observations dans le cadre de l'enquête. Les preuves obtenues à la suite de cette enquête ont mené au dépôt d'accusations criminelles contre le demandeur, qui a plaidé coupable à trois chefs d'accusation de fraude envers le gouvernement devant la Cour du Québec (Chambre criminelle et pénale) en juillet 1999.
+[4]
+Par lettre datée du 2 novembre 2004, la GRC transmettait au demandeur les renseignements pertinents qu'elle estimait pouvoir lui communiquer aux termes de la Loi en lui indiquant que certains autres renseignements ne pouvaient lui être divulgués, étant assujettis à une exemption prévue au sous-alinéa et a indiqué que des exemptions prévues par les articles 16(1), 19(1) et 23 de la Loi pourraient également s'appliquer à certains renseignements.
+[5]
+Le 15 novembre 2004, le demandeur contesta le refus de la part de la GRC concernant les renseignements non fournis en s'adressant au Commissaire à l'information du Canada (le Commissaire).
+[6]
+Par lettre datée du 10 janvier 2006, le Commissaire informait le demandeur que son enquête l'avait amené à conclure que la GRC était justifiée de refuser la divulgation des documents demandés, aux termes des articles 16, 19 et 23 de la Loi.
+[7]
+Le 8 février 2006, le demandeur déposait une demande de révision avec cette Cour, en vertu de l'article 41 de la Loi, afin de casser la décision du Commissaire.
+[8]
+Suite à l'ordonnance de la Cour datée du 16 mars 2007, la partie défenderesse a déposé un dossier public et un dossier confidentiel. Tous les documents, incluant ceux dont la divulgation a été refusée au demandeur, ont donc été produits à la Cour. Ces derniers ont été inclus en annexe à la déclaration assermentée confidentielle du Coordinateur de l'accès à l'information et la protection des renseignements personnels de la GRC (le Coordinateur).
+Question en litige
+[9]
+La seule question en litige est la suivante:
+La GRC pouvait-elle refuser de divulguer les documents faisant l'objet de la demande d'accès à l'information du demandeur?
+Principes généraux
+[10]
+La Loi a pour objet de favoriser la communication des documents sous le contrôle de l'administration fédérale en prévoyant un droit d'accès général au bénéfice des citoyens canadiens et des résidents permanents. En matière d'accès à l'information, la communication des renseignements est la règle (
+ <FRAGMENT_SUPPRESSED>  (C.A.). Toutefois, ce droit à la communication n'est pas absolu et le législateur a prévu deux types d'exceptions à ce droit: les exceptions obligatoires et les exceptions discrétionnaires.
+[11]
+Les exceptions obligatoires, telles que prévues aux articles 13, 20 et 24 de la Loi par exemple, obligent le gouvernement à ne pas divulguer l'information demandée. Dès que l'institution fédérale est satisfaite que l'information se qualifie sous l'exception invoquée, elle est tenue de refuser la communication.
+[12]
+Les exceptions discrétionnaires, par exemple celles prévues aux articles 14 à 16, et 21 à 23 de la Loi, laissent à l'institution fédérale l'obligation de faire une analyse qui est susceptible de comporter deux étapes.
+[13]
+Le juge  <FRAGMENT_SUPPRESSED>  conf. par (1993), 154 N.R. 319 (C.A.F.), expliquait le processus décisionnel comme suit:
+[...] ces exemptions exigent que le responsable d'un établissement prenne deux décisions: 1) une décision de fait sur la question de savoir si les renseignements en question correspondent à la description de renseignements susceptibles de ne pas être divulgués; et 2) une décision discrétionnaire sur la question de savoir s'il convient néanmoins de divulguer lesdits renseignements.
+[14]
+En l'espèce, la GRC a refusé la communication des documents demandés principalement aux termes du sous-alinéa 16(1)a)i), et des articles 19 et 23, de la Loi.
+[15]
+Les dispositions pertinentes sont reproduites en Annexe.
+La norme de contrôle
+[16]
+Lorsqu'une institution fédérale refuse la communication de document et que le Commissaire à l'information rejette la plainte du demandeur concernant ce refus, ce dernier peut exercer un recours en révision à la Cour fédérale conformément à l'article 41 de la Loi.
+[17]
+Lorsque la cour est appelée à réviser une décision portant sur l'application d'une exception obligatoire, elle agit de novo. Elle peut alors substituer son appréciation à celle de l'institution fédérale, (
+ <FRAGMENT_SUPPRESSED>  portant sur une exception de type discrétionnaire, le processus est prévu en deux étapes: La cour agit
+de novo
+à la première étape: elle détermine si les renseignements demandés sont visés par l'exception. Si tel est le cas, la deuxième étape consiste à s'assurer que le refus de divulguer l'information découle d'un exercice légal du pouvoir discrétionnaire. Le juge Strayer résumait comme suit la façon de procéder à la révision dans
+Kelly
+, précité, aux paras. 6 et 7:
+Le premier type de décision est, je crois, révisable par la Cour et celle-ci peut y substituer sa propre conclusion, sous réserve, à mon avis, de la nécessité de faire preuve d'une certaine déférence envers les décisions des personnes qui, de par les responsabilités institutionnelles qu'elles assument, sont mieux placés pour juger la question. [...]
+Le second type de décision est purement discrétionnaire. À mon sens, en révisant une telle décision la Cour ne devrait pas tenter elle-même d'exercer de nouveau le pouvoir discrétionnaire, mais plutôt examiner le document en question et les circonstances qui l'entourent et se demander simplement si le pouvoir discrétionnaire semble avoir été exercé en bonne foi et pour un motif qui se rapporte de façon logique à la raison pour laquelle il a été accordé.[...]
+Ces propos ont été cités avec approbation par le juge La Forest dans Dagg,
+précité
+.
+[19]
+Dans l'arrêt
+3430901  <FRAGMENT_SUPPRESSED>  (l'arrêt
+Telezone
+) au paragraphe 47, la Cour d'appel résumait ainsi:
+Lorsqu'elle examine le refus du responsable d'une institution fédérale de communiquer un document, la Cour doit déterminer, en appliquant la norme de la décision correcte, si le document demandé est visé par une exception. Toutefois, lorsque la Loi confère au responsable d'une institution fédérale le pouvoir discrétionnaire de refuser de communiquer un document visé par une exception, la légalité de l'exercice de ce pouvoir doit faire l'objet d'un examen s'appuyant sur les motifs qui permettent normalement, en droit administratif, de revoir l'exercice d'un pouvoir discrétionnaire administratif, notamment le caractère déraisonnable. [...]
+Au même effet,
+ <FRAGMENT_SUPPRESSED>  [2003] A.C.F. no 1802 ( <FRAGMENT_SUPPRESSED> .
+Analyse
+1.
+Le sous-alinéa 16(1)a)i)
+[20]
+Le sous-alinéa 16(1)a), prévoit une exception discrétionnaire. Il y a trois conditions pour qu'un document puisse se qualifier sous cette exception:
+1) le document doit être daté de moins de 20 ans;
+2) il doit contenir des renseignements préparés ou obtenus par une institution fédérale (ou sa subdivision) qui constitue un organisme d'enquête déterminé par règlement;
+3) les documents doivent avoir été obtenus ou préparés par cette institution dans le cadre d'enquêtes licites ayant trait à la détection, la prévention et la répression du crime.
+[21]
+Après avoir minutieusement révisé les documents en question, je suis satisfaite qu'ils sont datés de moins de 20 ans, et ont été préparés par la GRC dans le cadre de l'enquête visant à déterminer si un crime avait été commis par le demandeur. Finalement, la GRC est un organisme d'enquête au sens de l'article 9 du
+Règlement sur l'accès à l'information
+(selon le paragraphe 6 de l'annexe I de ce règlement).
+[22]
+Les renseignements que la défenderesse, dans sa discrétion, a considéré appropriés de maintenir confidentiels sont essentiellement des renseignements qui révèlent l'identité de ses sources de renseignements, c'est-à-dire des personnes qui ont formulé des plaintes à l'égard du demandeur, qui ont collaboré ou qui ont été interrogé par les enquêteurs dans le cadre de leur enquête ayant trait à la détection et répression du crime.
+[23]
+Puisque la GRC les a correctement qualifiés, elle pouvait refuser leur communication. Il s'agit donc pour la Cour de revoir l'exercice du pouvoir discrétionnaire afin de s'assurer de son caractère raisonnable.
+[24]
+La GRC estime qu'il est important qu'elle maintienne confidentielle l'identité de ses sources afin de favoriser la collaboration du public à ses enquêtes. De même, afin de maintenir et de favoriser le lien de confiance qui unit les organismes provinciaux, la GRC croit qu'il était préférable qu'elle maintienne confidentiels les documents qu'elle a obtenus de ces organismes.
+[25]
+J'ai trouvé que ces motifs étaient raisonnables. Le législateur a décidé de permettre à certains organismes responsables de mener des enquêtes, dont la GRC, de maintenir la confidentialité de documents obtenus ou préparés dans le cadre d'enquêtes visant notamment la détection et répression du crime. La cour ne peut conclure que la défenderesse a exercé son pouvoir discrétionnaire de façon inappropriée et il n'y a aucune indication qui permettait de conclure à sa mauvaise foi.
+2.
+L'article 19 de la Loi
+[26]
+Eu égard à cette disposition, qui prévoit une exception obligatoire à son premier paragraphe et une exception discrétionnaire à son deuxième, j'adopte les conclusions du juge Heald dans
+Congrès juif canadien c. Canada
+(Ministre de l'Emploi et de l'Immigration
+), [1996] 1 C.F. 268,
+[1995] A.C.F. no 1456
+(QL) (1re inst.) au paragraphe 27, qu'au fond, l'exemption prévue à l'article 19 constitue une exemption discrétionnaire dans les cas où les exceptions prévues au paragraphe 19(2) s'appliquent, c'est-à-dire où l'individu dont les documents concernent y consent, le public y a accès et la communication est conforme à l'article 8 de la
+Loi sur la protection des renseignements personnels
+(la LPRP).
+[27]
+En conséquence, la GRC a l'obligation d'établir que les renseignements demandés sont des « renseignements personnels » visés par l'article 3 de la LPRP. (
+ <FRAGMENT_SUPPRESSED>  (1re inst.)). Une fois que cette preuve est faite, il incombe au requérant d'établir qu'une des exceptions prévues aux alinéas 3j) à 3m) s'applique (
+Congrès juif
+, ci-dessus, aux pars. 29, 30).
+[28]
+L'examen des documents en litige permet de conclure qu'il s'agit de renseignements personnels au sens de l'article 3 de la LPRP, et qu'aucune des exceptions des alinéas 3m) à 3j) de la LPRP ne s'applique.
+[29]
+Quant à l'exception selon l'alinéa 8(2)m) de la LPRP et l'alinéa 19(2)c) de la Loi, le demandeur n'a fait aucun argument relatif à un intérêt public qui aurait justifié la violation du droit à la vie privée des individus mentionnés dans les renseignements non divulgués.
+[30]
+En l'espèce, la défenderesse soumet qu'elle n'a pas eu à exercer son pouvoir discrétionnaire puisqu'elle était d'avis qu'aucune des exceptions prévues au paragraphe 19(2) de la Loi n'était applicable.
+[31]
+Je partage l'opinion de la défenderesse à cet égard. Comme le paragraphe 19(2) de la Loi ne s'appliquait pas, la GRC était tenue de refuser la communication des renseignements demandés en vertu du paragraphe 19(1) de la Loi, en tant qu'exception obligatoire. Après avoir examiné les documents et extraits de documents refusés à ce titre
+,
+j'en conclus que la GRC a correctement refusé la divulgation de ceux-ci.
+3.
+L' article 23 de la Loi
+[32]
+Nonobstant l'application des exceptions selon le paragraphe 16(1) et l'article 19 de la Loi, la GRC était également d'avis que certains documents en cause se qualifiaient sous l'article 23 de la Loi et ne devaient être divulgués.
+[33]
+L'article 23 de la Loi permet à l'institution fédérale de refuser la divulgation des renseignements protégés par le privilège du secret professionnel de l'avocat qui lie un avocat à son client.
+[34]
+La jurisprudence reconnaît que le système de justice dépend sur une communication complète, libre et franche entre ceux qui ont besoin de conseils juridiques et l'avocat. Le rapport de confiance qui s'établit alors entre l'avocat et son client est une condition nécessaire et essentielle à l'administration efficace de la justice (
+ <FRAGMENT_SUPPRESSED>  [2006] A.C.S. no 39 au par. 26 [
+Blank <FRAGMENT_SUPPRESSED>  ).
+[35]
+La majorité de la Cour dans
+Blank
+CSC, ci-dessus
+,
+a reconnu que le privilège du secret professionnel de l'avocat, dont il est question à l'article 23 de la Loi, comprend à la fois le privilège de la consultation juridique et le privilège relatif au litige lui-même. La majorité de la cour a indiqué cependant qu'il est préférable de reconnaître qu'il s'agit de concepts distincts, et non de deux composantes d'un même concept. La protection contre la divulgation accordée aux communications entre un client et son avocat concerne l'intérêt de tous les citoyens dans la possibilité de consulter sans réserve et facilement un avocat, et d'obtenir en toute franchise des conseils juridiques judicieux.
+[36]
+Le secret professionnel de l'avocat s'applique aux communications confidentielles entre le client et son avocat; il existe à chaque fois qu'un client consulte son avocat, que ce soit à propos d'un litige ou non. Il s'étend à tout document établi en vue d'être communiqué à l'avocat pour obtenir son avis ou lui permettre de poursuivre ou se défendre à une action y compris les documents provenant de tiers parties.
+[37]
+De plus, la Cour suprême dans l'arrêt
+ <FRAGMENT_SUPPRESSED>  a conclu au paragraphe 19 que le secret professionnel de l'avocat « s'applique lorsqu'un avocat salarié de l'État donne un avis juridique à son client, l'organisme gouvernemental ».
+[38]
+Par contre, le privilège relatif au litige est adapté directement au processus du litige; il n'a pas pour cible, et encore moins pour cible unique, les communications entre un avocat et son client. Il touche aussi les communications entre un avocat et des tiers, et l'objet de ce privilège est de créer une zone de confidentialité à l'occasion ou en prévision d'un litige. Le privilège relatif au litige devrait s'attacher aux documents créés principalement en vue du litige, et devrait être considéré comme une exception limitée au principe de la communication complète et non comme un concept parallèle à égalité avec le secret professionnel de l'avocat interprété au sens large du terme,
+Blank,
+précité.
+[39]
+Les principes applicables pour déterminer si un document est visé par le privilège du secret professionnel de l'avocat sont ceux développés à cet égard par la common law (
+Blank
+CSC, précité, au par. 26
+;
+Congrès juif, précité), à savoir:
+- il doit s'agir d'une consultation ou échange
+avec un client
+;
+- la consultation ou échange doit être voulue confidentielle;
+- la contribution de l'avocat doit être recherchée en raison de sa
+qualité d'avocat
+;
+- La consultation ou échange ne doit pas avoir pour but d'atteindre des fins illégales.
+(
+ <FRAGMENT_SUPPRESSED>  au par. 49; voir aussi,
+ <FRAGMENT_SUPPRESSED> .
+[40]
+Dans le premier dossier, après avoir révisé les documents pour lesquels est invoqué le secret professionnel de l'avocat, à part quelques documents qui concernent plus particulièrement le privilège relatif au litige et qui suite à la décision de la Cour suprême dans
+Blank
+ne seraient plus privilégiés puisque le litige a pris fin, je suis d'avis qu'ils sont visés par le privilège du secret professionnel de l'avocat. Quant aux autres documents se rapportant au litige, ceux-ci se qualifiaient également sous l'alinéa 16(i)a), de sorte que c'est validement qu'ils n'ont pas été transmis.
+[41]
+Encore une fois, je n'ai trouvé aucune preuve que la défenderesse ait exercé son pouvoir discrétionnaire de façon irrégulière ou de mauvaise foi. Je confirme donc la décision de la défenderesse de refuser la divulgation de ces documents.
+[42]
+Pour ces motifs, la présente demande de révision en vertu de l'article 41 de la Loi, est rejetée.
+JUGEMENT
+[43]
+LA COUR ORDONNE que
+la présente demande de révision soit rejetée.
+ANNEXE
+Loi sur l'accès à l'information
+(L.R., 1985, ch. A-1)
+2.
+(1) La présente loi a pour objet d'élargir l'accès aux documents de l'administration fédérale en consacrant le principe du droit du public à leur communication, les exceptions indispensables à ce droit étant précises et limitées et les décisions quant à la communication étant susceptibles de recours indépendants du pouvoir exécutif.
+[. . . . .]
+4.
+(1) Sous réserve des autres dispositions de la présente loi mais nonobstant toute autre loi fédérale, ont droit à l'accès aux documents relevant d'une institution fédérale et peuvent se les faire communiquer sur demande:
+a) les citoyens canadiens;
+b) les résidents permanents au sens du paragraphe 2(1) de la
+Loi sur l'immigration et la protection des réfugiés
+.
+[. . . . .]
+16.
+(1) Le responsable d'une institution fédérale peut refuser la communication de documents:
+a) datés de moins de vingt ans lors de la demande et contenant des renseignements obtenus ou préparés par une institution fédérale, ou par une subdivision d'une institution, qui constitue un organisme d'enquête déterminé par règlement, au cours d'enquêtes licites ayant trait:
+(i) à la détection, la prévention et la répression du crime,
+(ii) aux activités destinées à faire respecter les lois fédérales ou provinciales,
+(iii) aux activités soupçonnées de constituer des menaces envers la sécurité du Canada au sens de la
+Loi sur le Service canadien du renseignement de sécurité
+;
+b) contenant des renseignements relatifs à des techniques d'enquêtes ou à des projets d'enquêtes licites déterminées;
+c) contenant des renseignements dont la divulgation risquerait vraisemblablement de nuire aux activités destinées à faire respecter les lois fédérales ou provinciales ou au déroulement d'enquêtes licites, notamment:
+(i) des renseignements relatifs à l'existence ou à la nature d'une enquête déterminée,
+(ii) des renseignements qui permettraient de remonter à une source de renseignements confidentielle,
+(iii) des renseignements obtenus ou préparés au cours d'une enquête;
+d) contenant des renseignements dont la divulgation risquerait vraisemblablement de nuire à la sécurité des établissements pénitentiaires.
+[. . . . .]
+Définition de « enquête »
+(4) Pour l'application des alinéas (1)b) et c), «enquête » s'entend de celle qui:
+a) se rapporte à l'application d'une loi fédérale;
+b) est autorisée sous le régime d'une loi fédérale;
+c) fait partie d'une catégorie d'enquêtes précisée dans les règlements.
+[. . . . .]
+19.
+(1) Sous réserve du paragraphe (2), le responsable d'une institution fédérale est tenu de refuser la communication de documents contenant les renseignements personnels visés à l'article 3 de la
+Loi sur la protection des renseignements personnels
+.
+Cas où la divulgation est autorisée
+(2) Le responsable d'une institution fédérale peut donner communication de documents contenant des renseignements personnels dans les cas où:
+a) l'individu qu'ils concernent y consent;
+b) le public y a accès;
+c) la communication est conforme à l'article 8 de la
+Loi sur la protection des renseignements personnels
+.
+[. . . . .]
+23.
+Le responsable d'une institution fédérale peut refuser la communication de documents contenant des renseignements protégés par le secret professionnel qui lie un avocat à son client.
+[. . . . .]
+41.
+La personne qui s'est vu refuser communication totale ou partielle d'un document demandé en vertu de la présente loi et qui a déposé ou fait déposer une plainte à ce sujet devant le Commissaire à l'information peut, dans un délai de quarante-cinq jours suivant le compte rendu du Commissaire prévu au paragraphe 37(2), exercer un recours en révision de la décision de refus devant la Cour. La Cour peut, avant ou après l'expiration du délai, le proroger ou en autoriser la prorogation.
+Loi sur la protection des renseignements personnels
+(L.R., 1985, ch. P-21)
+3.
+[. . . . .]
+«renseignements personnels » Les renseignements, quels que soient leur forme et leur support, concernant un individu identifiable, notamment:
+[. . . . .]
+toutefois, il demeure entendu que, pour l'application des articles 7, 8 et 26, et de l'article 19 de la
+Loi sur l'accès à l'information
+, les renseignements personnels ne comprennent pas les renseignements concernant:
+j) un cadre ou employé, actuel ou ancien, d'une institution fédérale et portant sur son poste ou ses fonctions, notamment:
+(i) le fait même qu'il est ou a été employé par l'institution,
+(ii) son titre et les adresse et numéro de téléphone de son lieu de travail,
+(iii) la classification, l'éventail des salaires et les attributions de son poste,
+(iv) son nom lorsque celui-ci figure sur un document qu'il a établi au cours de son emploi,
+(v) les idées et opinions personnelles qu'il a exprimées au cours de son emploi;
+k) un individu qui, au titre d'un contrat, assure ou a assuré la prestation de services à une institution fédérale et portant sur la nature de la prestation, notamment les conditions du contrat, le nom de l'individu ainsi que les idées et opinions personnelles qu'il a exprimées au cours de la prestation;
+l) des avantages financiers facultatifs, notamment la délivrance d'un permis ou d'une licence accordés à un individu, y compris le nom de celui-ci et la nature précise de ces avantages;
+m) un individu décédé depuis plus de vingt ans.
+[. . . . .]
+8.
+(1) Les renseignements personnels qui relèvent d'une institution fédérale ne peuvent être communiqués, à défaut du consentement de l'individu qu'ils concernent, que conformément au présent article.
+Cas d'autorisation
+(2) Sous réserve d'autres lois fédérales, la communication des renseignements personnels qui relèvent d'une institution fédérale est autorisée dans les cas suivants:
+a) communication aux fins auxquelles ils ont été recueillis ou préparés par l'institution ou pour les usages qui sont compatibles avec ces fins;
+b) communication aux fins qui sont conformes avec les lois fédérales ou ceux de leurs règlements qui autorisent cette communication;
+c) communication exigée par subpoena, mandat ou ordonnance d'un tribunal, d'une personne ou d'un organisme ayant le pouvoir de contraindre à la production de renseignements ou exigée par des règles de procédure se rapportant à la production de renseignements;
+d) communication au Procureur général du Canada pour usage dans des poursuites judiciaires intéressant la Couronne du chef du Canada ou le gouvernement fédéral;
+e) communication à un organisme d'enquête déterminé par règlement et qui en fait la demande par écrit, en vue de faire respecter des lois fédérales ou provinciales ou pour la tenue d'enquêtes licites, pourvu que la demande précise les fins auxquelles les renseignements sont destinés et la nature des renseignements demandés;
+f) communication aux termes d'accords ou d'ententes conclus d'une part entre le gouvernement du Canada ou l'un de ses organismes et, d'autre part, le gouvernement d'une province ou d'un État étranger, une organisation internationale d'États ou de gouvernements, le conseil de la première nation de Westbank, ou l'un de leurs organismes, en vue de l'application des lois ou pour la tenue d'enquêtes licites;
+g) communication à un parlementaire fédéral en vue d'aider l'individu concerné par les renseignements à résoudre un problème;
+h) communication pour vérification interne au personnel de l'institution ou pour vérification comptable au bureau du contrôleur général ou à toute personne ou tout organisme déterminé par règlement;
+i) communication à Bibliothèque et Archives du Canada pour dépôt;
+j) communication à toute personne ou à tout organisme, pour des travaux de recherche ou de statistique, pourvu que soient réalisées les deux conditions suivantes:
+(i) le responsable de l'institution est convaincu que les fins auxquelles les renseignements sont communiqués ne peuvent être normalement atteintes que si les renseignements sont donnés sous une forme qui permette d'identifier l'individu qu'ils concernent,
+(ii) la personne ou l'organisme s'engagent par écrit auprès du responsable de l'institution à s'abstenir de toute communication ultérieure des renseignements tant que leur forme risque vraisemblablement de permettre l'identification de l'individu qu'ils concernent;
+k) communication à tout gouvernement autochtone, association d'autochtones, bande d'Indiens, institution fédérale ou subdivision de celle-ci, ou à leur représentant, en vue de l'établissement des droits des peuples autochtones ou du règlement de leurs griefs;
+l) communication à toute institution fédérale en vue de joindre un débiteur ou un créancier de Sa Majesté du chef du Canada et de recouvrer ou d'acquitter la créance;
+m) communication à toute autre fin dans les cas où, de l'avis du responsable de l'institution:
+(i) des raisons d'intérêt public justifieraient nettement une éventuelle violation de la vie privée,
+(ii) l'individu concerné en tirerait un avantage certain
+[End of document]

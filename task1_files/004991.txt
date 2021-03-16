@@ -1,0 +1,645 @@
+[1]
+Kane, J.
+: The applicant, the Public Service Alliance of Canada ["PSAC"], seeks judicial review of the decision of the Canadian Human Rights Commission (the "Commission") dated October 23, 2012, in which the Commission exercised its discretion under section 41 of the
+Canadian Human Rights Act
+, RSC 1985, c H-6 ["
+CHRA
+"] to not deal with some of the allegations raised in the human rights complaint brought by PSAC. The complaint at issue, made in 2002, alleged that the wage adjustments ordered in 1998 by the Canadian Human Rights Tribunal (the "Tribunal") had not been extended to employees working at certain agencies governed by the
+Canada Labour Code
+and other agencies in the public service.
+[2]
+Although PSAC submits that two-thirds of the complaint was refused, the Commission allowed significant aspects of the complaint to proceed to the investigation stage.
+[3]
+For the reasons that follow, the application for judicial review is dismissed.
+Background
+[4]
+The complaint has a long and important history, with its origins in complaints made in the early 1980s regarding wage discrimination.
+[5]
+In 1984, PSAC alleged that Treasury Board ["TB"] had engaged and continued to engage in wage rate discrimination contrary to section 11 of the
+CHRA
+and filed a complaint with the Commission. Subsequent to the complaint, a Public Service-wide study was conducted pursuant to the Joint Union-Management Initiative (the "JUMI study"). The JUMI Study examined job value and wage rates applicable to all the female dominated occupational groups and all the male dominated occupational groups where TB was the employer. In 1990, PSAC filed another complaint on behalf of six occupational groups. The 1984 and 1990 complaints were referred to the Tribunal for determination. On July 29, 1998, the Tribunal concluded that TB was in breach of section 11 and ordered it to make payments in respect of certain occupational groups in the core public administration (the "1998 Order").
+[6]
+PSAC and TB then entered into a pay equity settlement on October 29, 1999 (the "1999 Settlement"). The 1999 Settlement applied to certain groups of TB employees and did not cover separate agency employees, Crown corporations, or any other organizations not found in Schedule I, Part I of the
+Public Service Staff Relations Act
+(currently Schedules I and IV of the
+Financial Administration Act
+, RSC 1985, c F-11 [
+FAA
+]).
+[7]
+With the exception of TB itself, the 1999 Settlement did not cover any of the organizations that are the respondents to the present complaint because these organizations had by that time been created by Parliament as separate agencies regulated by the
+Canada Labour Code
+, RSC 1985, c L-2. These agencies, being Canada Science and Technology Museum Corporation ("CSTM"), Canadian Museum of Civilization ("CMC"), National Gallery of Canada (the "Gallery"), Canadian Centre for Occupational Health and Safety ("CCOHS"), Weeneebayko Health Ahtuskaywin ("WHA") and NAV Canada ("NAV"), will be referred to as the "Code Agencies". After being carved out of the core public administration, the Code Agencies then became the employer of their own employees; i.e. TB was no longer the employer. Retroactive payments were made for the period during which the employees of these agencies were still part of the core public administration, i.e. as employees of TB, in order to comply with the 1998 Order. However, PSAC notes that wages were not adjusted afterward on a going forward basis.
+The 2002 complaint
+[8]
+In 2002, PSAC launched the complaint which is the subject of the present application for judicial review, alleging that the failure to address discriminatory wage rates for the period following the establishment of the Code Agencies and their transfer from the core public administration constituted a prohibited practice under sections 7 and 10 of the
+CHRA
+. PSAC also alleged that TB and/or the Code Agencies maintained discriminatory wages contrary to section 11 of the
+CHRA
+. The primary complaint (the "primary allegation") was made against the Code Agencies as co-employers with TB (i.e. as co-respondents) and the alternative complaint (the "alternate allegation") was made against the Code Agencies as individual employers (i.e. as individual respondents).
+[9]
+In the original complaint, PSAC named 17 agencies, but later withdrew the complaint against all but the current respondents.
+[10]
+The 2002 complaint was held in abeyance by the Commission from 2004 to 2008 pending a
+Charter
+action initiated by individuals working at seven employer agencies. The action was discontinued and PSAC then requested that the Commission re-activate the 2002 complaint.
+[11]
+To elaborate, the primary allegation noted that TB employs many individuals through various Crown organizations as separate employers and alleged that TB has discriminated against these employees on the ground of sex by not extending pay equity adjustments to female employees contrary to sections 7 and 10 of the
+CHRA
+. PSAC further alleged that TB discriminated and continues to discriminate against its employees by maintaining differences in wages between employees performing predominantly female work and employees performing predominantly male work of equal value in the same establishment, contrary to section 11 of the
+CHRA
+.
+[12]
+In the alternative allegation, PSAC alleged that if TB is not the employer of these individuals then the separate employers, i.e., the Code Agencies, are each the employer and have discriminated and continue to discriminate against their employees in the same manner.
+[13]
+The Commission sought submissions from the parties regarding whether it should decline to deal with the complaint pursuant to paragraphs 41(1)(c) and (d) of the
+CHRA
+and provided a copy of the Early Resolution Advisor's findings (the "Section 41 Report") to the parties.
+The Section 41 Report
+[14]
+The Section 41 Report essentially recommended that the Commission not deal with any part of the complaint as it was beyond its jurisdiction. The Section 41 Report found that:
+• The complaint was in essence a pay equity complaint and, relying on
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], it could not proceed under sections 7 and 10.
+• It was plain and obvious that TB is not the employer for the purposes of section 11. Even if TB were the employer, the complaint did not provide a comparator group within TB and did not provide a reasonable basis for the allegations under section 11.
+• PSAC did not provide a comparator group within each of the separate Code Agencies and did not provide a reasonable basis for the allegations against them as individual employers under section 11.
+[15]
+Other findings made in the Section 41 Report are not at issue in the present application.
+[16]
+In its submissions in response to the Section 41 Report, PSAC noted that while TB may not be the employer for labour relations and collective bargaining purposes, it has been, directly or indirectly, the central directing agency for the purposes of classification and compensation.
+[17]
+PSAC submitted that the definition of employer for the purpose of human rights legislation is not necessarily the same as for labour relations purposes. As noted in
+ <FRAGMENT_SUPPRESSED>  BCLR (4th) 49 [
+Reid
+], the most important factor in determining the employer is identifying who is responsible for compensation practices and the valuation of work. PSAC submits that TB has been responsible for compensation practices and the valuation of work for employees at Code Agencies.
+[18]
+PSAC submitted that employees carried the TB classifications and wage rates (which were later deemed to be discriminatory) to the Code Agencies. These classifications continued for much of the 1990s. PSAC noted that TB's control continued, as evidenced, for example, by its authority over finances at the agencies falling under the
+FAA
+. PSAC submitted that, therefore, TB was and is the employer for this period.
+[19]
+The Commission considered the submissions of the parties with respect to the Section 41 Report and rendered its decision on October 23, 2012.
+The Commission's decision
+[20]
+In exercising its discretion pursuant to section 41 of the
+CHRA
+, the Commission applied the "plain and obvious test". The Commission acknowledged that while this is a high threshold for the exercise of its discretion, the ultimate purpose of section 41 is to remove some complaints from the investigation process. The Commission noted that even issues involving significant factual components may be addressed at the section 41 stage where it is plain and obvious that the complaint should not be dealt with.
+[21]
+In summary, the Commission decided, pursuant to paragraph 41(1)(c) of the
+CHRA
+:
+• To deal with the sections 7, 10 and 11 allegations against CSTM, CCOHS, CMC and the Gallery, only as co-respondents with TB (but not as individual respondents).
+• To not to deal with the sections 7, 10 and 11 allegations against NAV and WHA at all; i.e. not as either co-respondents with TB or as individual respondents.
+[22]
+The result of the decision is that significant parts of the complaint will be investigated; specifically, the sections 7, 10 and 11 allegations against CSTM, CCOHS, CMC and the Gallery as co-respondents (i.e. co-employers) with TB.
+[23]
+The Commission also decided, pursuant to paragraph 41(1)(d) of the
+CHRA
+, that the complaint was not trivial, frivolous, vexatious or made in bad faith.
+[24]
+The following details elaborate on the Commission's decision.
+Sections 7 and 10 Allegations
+[25]
+The Commission found that <FRAGMENT_SUPPRESSED> , in which the Tribunal decided (among other things) that allegations of sex-based wage discrimination should be dealt with, as a matter of law, under section 11 and not sections 7 and 10, did not bar the present complaint from proceeding under sections 7 and 10. The Commission found that PSAC's complaint appeared to be broader than simply a pay equity complaint, as it was not about wage discrimination itself but the failure of TB and/or the Code Agencies to address wage rates that had already been determined to be discriminatory.
+Primary Allegation: CCOHS, CMC, CSTM and the Gallery as Co-Respondents with TB
+[26]
+The Commission decided to deal with the sections 7 and 10 complaints against these agencies as co-respondents, finding that it was not plain and obvious that CCOHS, CMC, CSTM, and the Gallery were not co-employers with TB within the context of this complaint. The Commission noted that the CCOHS is listed on Schedule II of the
+FAA
+and CMC, CSTM, and the Gallery are listed on Schedule III. The Commission concluded that the question of whether these organizations are co-employers should be revisited following an investigation into the applicable legislation and jurisprudence.
+Primary Allegation: NAV and WHA Not Co-Respondents with TB
+[27]
+The Commission dismissed the sections 7 and 10 complaints against these two agencies as co-respondents with TB pursuant to paragraph 41(1)(c), finding that it was plain and obvious that NAV and WHA are not co-employers with TB. The Commission recognized that NAV, established by statute on April 1, 1996, is a private sector non-share capital corporation, is not subject to the control and accountability provisions in the
+FAA
+and is not relying on appropriations from Parliament. With respect to WHA, the Commission recognized that the Government had no role in its employment matters after April 1, 1996, and that it is a federally incorporated non-profit corporation separate from the federal public administration.
+Alternate Allegation: Code Agencies Not Individual Respondents
+[28]
+The Commission decided, pursuant to paragraph 41(1)(c), to not deal with the sections 7 and 10 complaints against these agencies as individual respondents finding that there was no legal basis to apply the 1998 Order to CCOHS, CMC, CSTM, and the Gallery, because the 1998 Order could only bind the parties to it. Therefore, without any other basis or obligations linking these agencies to the 1998 Order, the Commission decided that the complaints against them as individual respondents lacked reasonable grounds.
+Section 11 Allegations
+[29]
+The Commission noted at the outset that, in order for a section 11 complaint to be dealt with, there must be reasonable grounds for believing that the employees named in the complaint work for the same employer and work in the same establishment. Moreover, the complaint must also name a female predominant group and a male predominant comparator within that establishment, and provide reasonable grounds for believing that the female predominant groups are being paid less for performing work of equal value. The Commission noted that "[t]he requirement of reasonable grounds means that even if the complainant's allegations are taken as true at the section 41 stage (which is the submission of the PSAC), there must be a basis for the allegations that goes beyond mere assertion or speculation".
+Primary Allegation: CCOHS, CMC, CSTM and the Gallery as Co-Respondents with TB
+[30]
+The Commission found that it was not plain and obvious that CCOHS, CMC, CSTM, and the Gallery are not co-employers with TB within the context of the section 11 complaint. On the basis of the current record, the Commission concluded that it is also not plain and obvious whether these agencies are the "same establishment". The Commission especially noted the need to investigate the impact of the
+Museums Act
+, SC 1990, c 3 [
+Museums Act
+] and the
+Canadian Centre for Occupational Health and Safety Act
+, RSC 1985, c C-13 [
+CCOHS Act
+] on the issue of whether these agencies are the same employer or establishment as TB. The Commission, therefore, decided to deal with the sections 7 and 10 complaints against these agencies as co-respondents.
+Primary Allegation: NAV and WHA Not Co-Respondents with TB
+[31]
+For the reasons provided in connection with the sections 7 and 10 primary allegations, the Commission found it is plain and obvious that NAV and WHA are not co-employers with TB.
+Alternate Allegation: Code Agencies Not Individual Respondents
+[32]
+The Commission found that the alternate allegation against all Code Agencies as individual employers lacked reasonable grounds and should not be dealt with pursuant to paragraph 41(1)(c) of the
+CHRA
+:
+[I]t is important to recognize that although pay equity is systemic in nature, there are limits to the application of the basis of the CHRT 1998 decision. A section 11 allegation requires naming female predominant and male predominant jobs
+within the same establishment for which the named employer is responsible,
+and providing reasonable grounds that a comparison of the value of their work and wages suggests wage discrimination. The threshold is a low one, however,
+mere assertion, speculation or information that does not meet the requirements of section 11 and does not fall within the boundaries of the pay equity analysis that it prescribes, cannot serve as reasonable grounds.
+[emphasis added]
+For the section 11 alternative allegations to make sense, they must be looked at discretely as against each of the organizations in its capacity as an independent employer, separate from the TB. [...] [i]t is difficult to see how the basis of the CHRT 1998 decision, specifically, the female predominant jobs, the male comparators and the wage/value analysis all of which are derived from the same establishment over which the TB is the employer, can be used to provide reasonable grounds for section 11 allegations against different and separate employers.
+[...] [R]easonable grounds for a complaint under section 11 cannot be based on a different establishment controlled by a different employer. [...]
+[33]
+In other words, the Commission found that there was no basis for the section 11 complaints against the agencies as individual employers because they relied solely on comparators under a different employer (i.e. TB). The role of comparators in section 11 is unique and the Commission found that the jurisprudence dealing with other provisions of the
+CHRA
+which downplayed the need for comparators was inapplicable to section 11.
+The Standard of Review
+[34]
+PSAC submits that the Commission's decision not to deal with parts of the complaint is unreasonable. The respondents share the view that the decision is reasonable, as the Commission conducted a careful consideration of the complaint and of all the submissions and reasonably exercised its discretion to screen out parts of the complaint.
+[35]
+Both the applicant and the respondents agree that the applicable standard of review is reasonableness. However, PSAC relies on two recent judgments of Justice Stratas (
+ <FRAGMENT_SUPPRESSED> NR 201 [
+Abraham
+];
+ <FRAGMENT_SUPPRESSED> NR 120 [
+ <FRAGMENT_SUPPRESSED>  present circumstances.
+[36]
+PSAC submits, therefore, that the Commission's decision should be given less deference on judicial review for two reasons. First, section 41 of the
+CHRA
+creates a presumption in favour of proceeding to the investigative stage, given that "the Commission shall deal with any complaint filed with it unless [...]" one of the listed exceptions applies. Second, due to the preliminary and summary nature of section 41, a screening decision to dismiss a complaint should be treated with a higher degree of scrutiny than a decision to accept it, as a dismissal constitutes a final determination of the complainant's rights (
+ <FRAGMENT_SUPPRESSED> NR 257 [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> Admin LR (4th) 255 [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> NR 121).
+[37]
+The respondents emphasize the discretionary nature of paragraph 41(1)(c) and submit that the Commission is owed a high degree of deference (
+ <FRAGMENT_SUPPRESSED> FTR 136 [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> [2009] FCJ No 1374 [ <FRAGMENT_SUPPRESSED> ]).
+[38]
+The respondents note that in
+ <FRAGMENT_SUPPRESSED>  FTR 173 [ <FRAGMENT_SUPPRESSED> ], the Court cautioned against generally interfering with the Commission's exercise of discretion under section 41 merely because it may have exercised this discretion differently. The respondents also submit that Justice Stratas' comments in
+Abraham
+are
+obiter
+.
+[39]
+Given the applicant's reliance on Justice Stratas' judgment in
+Abraham
+, the relevant parts have been set out below.
+41
+As is well-known, reasonableness is concerned "mostly with the existence of justification, transparency and intelligibility within the decision-making process." But reasonableness "is also concerned with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law." The discussion of a "range of possible, acceptable outcomes" recognizes that decision-makers "have a margin of appreciation within [that] range." See
+Dunsmuir
+,
+supra
+at paragraph 47.
+42
+Reasonableness is a single standard of review. But asserting that there is a range of possible, acceptable outcomes begs the question as to how narrow or broad the range should be in a particular case. As the majority of the Supreme Court said in
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED>  at paragraph 59, while "[r]easonableness is a single standard," it "takes its colour from the context."
+43
+That context affects the breadth of the ranges. The Supreme Court has confirmed that the range of acceptable and rational solutions depends on "all relevant factors" surrounding the decision-making:
+ <FRAGMENT_SUPPRESSED>  at paragraphs 17-18 and 23;
+Halifax (Regional Municipality)
+,
+supra
+at paragraph 44.
+44
+For example, where the decision-maker is considering a discretionary matter that is based primarily on factual and policy matters having very little legal content, the range of possible, acceptable outcomes open to the decision-maker can be expected to be quite broad. As a practical matter, the breadth of the range in that sort of case means that it will be relatively difficult for a party applying for judicial review of the decision to show that it falls outside of the range.
+45
+In other cases, however, the situation might be different. For example, where the decision-maker is considering a discretionary matter that has greater legal content, the range of possible, acceptable outcomes open to the decision-maker might be narrower. Legal matters, as opposed to factual or policy matters, admit of fewer possible, acceptable outcomes.
+[40]
+In my view, Justice Stratas echoed the Supreme Court's decision in
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED> , and elaborated on the principle that reasonableness takes its colour from the context.
+[41]
+In the present case, the decision is based on an assessment of the facts and the law; the context does not suggest that the range of outcomes should be narrow.
+[42]
+It is also important to recall the clear wording of paragraph 41(1)(c):
+41. (1) Subject to section 40, the Commission shall deal with any complaint filed with it
+unless in respect of that complaint it appears to the Commission that
+[...]
+(c) the complaint is beyond the jurisdiction of the Commission;
+41. (1) Sous réserve de l'article 40, la Commission statue sur toute plainte
+dont elle est saisie à moins qu'elle estime celle-ci irrecevable pour un des motifs suivants
+:
+[...]
+c) la plainte n'est pas de sa compétence;
+[43]
+Clearly, the Commission has some scope to consider whether "it appears" to it that the complaint is not within its jurisdiction.
+[44]
+The words of Justice Rothstein (as he then was) in
+ <FRAGMENT_SUPPRESSED>  (FC) [
+Canada Post
+], which all parties rely upon, are also clear:
+I think the same approach is called for with respect to section 41 of the
+Canadian Human Rights Act
+. The decision is one for the Commission and the determination is set forth in subjective and not objective terms.
+Thus the scope for judicial review of such a decision is narrow
+. Only considerations such as bad faith by the Commission, error of law or acting on the basis of irrelevant considerations are applicable.
+[...]
+I think it follows that if substantial deference by the Court is applicable when questions of jurisdiction are at issue, at least the same degree of deference if not more, would be applicable to other types of decisions under section 41 e.g. discretionary, factual or even mixed fact and law decisions
+. [emphasis added]
+[45]
+In
+Abraham
+, Justice Stratas noted that where the decision is based on legal issues or legal content, the range of reasonable outcomes may be narrow. For example, in
+ <FRAGMENT_SUPPRESSED>  Tribunal's decision primarily involved statutory interpretation and equality law. The scope of the reasonable outcomes "takes its colour" and would be narrowed by such context.
+[46]
+However, assessing the nature, organization, and employment relationships and practices of the Code Agencies involves preliminary assessments of the facts and law, which falls squarely within the expertise of the Commission. Moreover, as noted by Justice Rothstein in
+Canada Post
+, the scope of judicial review of the Commission's section 41 decision is narrow and deference is owed by the reviewing Court. Although the reasonableness standard of review is informed by the context and the range of possible, acceptable outcomes would vary depending on that context, in the present circumstances the range would not be narrow.
+Other Relevant Principles from the Jurisprudence
+[47]
+PSAC submits that the Commission's discretion to decline to deal with a complaint under section 41 is exceptional, that complaints must meet the high threshold of "plain and obvious" before being screened out at this preliminary stage and that PSAC's complaints do not meet this threshold.
+[48]
+The respondents submit that the "plain and obvious" threshold does not unduly constrain the Commission's discretion and that to give meaning to the Commission's gatekeeping role pursuant to section 41, its decision to screen out complaints is owed deference.
+[49]
+There is extensive jurisprudence regarding the exercise of discretion pursuant to section 41.
+[50]
+The Commission's mandate was stated by Justice Laforest in
+ <FRAGMENT_SUPPRESSED> :
+53 The Commission is not an adjudicative body; that is the role of a tribunal appointed under the Act. When deciding whether a complaint should proceed to be inquired into by a tribunal, the Commission fulfills a screening analysis somewhat analogous to that of a judge at a preliminary inquiry. It is not the job of the Commission to determine if the complaint is made out. Rather its duty is to decide if, under the provisions of the Act, an inquiry is warranted having regard to all the facts. The central component of the Commission's role, then, is that of assessing the sufficiency of the evidence before it. [...]
+[51]
+Subsequent case law has continued to borrow the preliminary inquiry analogy for the screening function.
+[52]
+The "plain and obvious" test was first articulated by Justice Rothstein (as he then was) in
+Canada Post
+,
+supra
+at paras 3-4:
+A decision by the Commission under section 41 is normally made at an early stage before any investigation is carried out. Because a decision not to deal with the complaint will summarily end a matter before the complaint is investigated, the Commission should only decide not to deal with a complaint at this stage in plain and obvious cases. The timely processing of complaints also supports such an approach. A lengthy analysis of a complaint at this stage is, at least to some extent, duplicative of the investigation yet to be carried out. A time consuming analysis will, where the Commission decides to deal with the complaint, delay the processing of the complaint. If it is not plain and obvious to the Commission that the complaint falls under one of the grounds for not dealing with it under section 41, the Commission should, with dispatch, proceed to deal with it.
+[53]
+Since
+Canada Post
+, the jurisprudence has continued to address the two relevant considerations; the clear words of the section which give the Commission the discretion to screen complaints out at the preliminary stage where it appears that one of the exceptions listed in subsection 41(1) applies, and the summary and determinative nature of a section 41 decision.
+[54]
+This was well-articulated by Justice Bédard in both
+ <FRAGMENT_SUPPRESSED>  FTR 179 [ <FRAGMENT_SUPPRESSED> ] and <FRAGMENT_SUPPRESSED> ,
+supra
+at paras 40-46.
+[55]
+In <FRAGMENT_SUPPRESSED> ,
+supra
+at paras 40-43, Justice Bédard commented on the
+Canada Post
+approach:
+[40] This approach has been endorsed by this Court in several judgments (
+Comstock
+, above, at paras 39-40, 43;
+Hartjes
+, above, at para 30, <FRAGMENT_SUPPRESSED> , above, at para 22;
+ <FRAGMENT_SUPPRESSED> (available on CanLII) [
+Michon-Hamelin
+]) and I also endorse it. This approach is consistent with the Commission's primary role under the Act as a gate keeper responsible for assessing the allegations of a complaint and determining whether they warrant an inquiry by the Tribunal. In deciding whether to deal with a complaint, the Commission is vested with a certain level of discretion but it must be wary of summarily dismissing a complaint since the decision is made at a very early stage and before any investigation. The question of whether a complaint falls within the Commission's jurisdiction may, in itself, require some investigation before it can be properly answered. It is worth noting that, at the end of the investigation process, the Commission can again, pursuant to subparagraph 44(3)(1)(b)(ii) of the Act, dismiss a complaint for lack of jurisdiction.
+[41] A complainant is not required to present evidence at the pre-investigation stage but the complaint must nevertheless disclose a sufficient link to a prohibited ground of discrimination.
+[42] As the respondents suggest, the "plain and obvious" test proposed by Justice Rothstein is very similar to the test for striking out a court pleading on the basis that it discloses no reasonable cause of action. The approach proposed in the context of such a motion by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> , may be of assistance to the Commission when it determines whether a complaint should be summarily dismissed without any investigation:
+Thus, the test in Canada . . . is . . .
+assuming that the facts as stated can be proved
+, is it "plain and obvious" that the plaintiff's statements of claim discloses no reasonable cause of action? As in England, if there is a chance that the plaintiff might succeed, then the plaintiff should not be "driven from the judgment seat".
+Neither the length and
+complexity of the issues, the novelty of the cause of action, nor
+the potential for the defendant to present strong defence
+should prevent the plaintiff from proceeding with his or her cause. ... [Emphasis in original]
+[43] This Court has endorsed a similar approach  <FRAGMENT_SUPPRESSED> - <FRAGMENT_SUPPRESSED> , at para 23, where Justice Mactavish held that at the pre-investigation stage, the factual allegations contained in the complaint should be taken as true. In my view, this is an appropriate approach. The decision of the Commission is of a preliminary nature and is based on arguments presented by the parties without any examination of evidence. A thorough analysis of the complainant's allegations and of the arguments of the opposing party, at the pre-investigation stage would be "to some extent, duplicative of the investigation yet to be carried" (
+Canada Post
+, above, at para 3). Furthermore, where a party alleging a lack of jurisdiction from the Commission raises arguments that involve both factual and legal arguments, it is, in my view, an indication that some investigation is required in order for the Commission to determine whether the allegations disclose a sufficient link to a prohibited ground.
+[56]
+At the screening stage, the applicant is required to set out the allegations but is not required to provide any evidence to prove those allegations. There is no need to provide supporting documentation or evidence; such evidence only becomes necessary if the complaint proceeds to an investigation ( <FRAGMENT_SUPPRESSED> ,
+supra
+at para 22;
+ <FRAGMENT_SUPPRESSED>  [2007] FCJ No 1607 [
+Michon-Hamelin
+]).
+[57]
+Although many cases have since relied on the proposition  <FRAGMENT_SUPPRESSED> -Hamelin
+that the allegations of a complainant must be taken as true at the screening stage, the passage from Justice Mactavish's judgment at para 23 that is often relied upon added that there was no information other than the evidence of the complainant and no investigation was carried out:
+23 Given that no investigation was carried out in relation to the substance of Ms. Michon-Hamelin's human rights complaint, the allegations contained in her complaint form must be taken as true. Indeed, the Investigator had no evidence or information before her from the respondent to counter Ms. Michon-Hamelin's version of events.
+[58]
+Recently, in
+ <FRAGMENT_SUPPRESSED> [2013] FCJ No 743 [ <FRAGMENT_SUPPRESSED> ], Justice Hughes nuanced the principle that allegations must be taken as true at the preliminary stage:
+5 [...] What was before the Commission was a Report from a member of the Resolution Services Division, which summarized the previous submissions of the parties and made a recommendation. A copy of that Report was sent to each of the Applicants' lawyer and Scotiabank, and each provided submissions as to the Report. Those submissions were also before the Commission when it made its decision.
+6 The point to be made is that there were initial investigations made into those matters. Those investigations were considered and summarized in the Report, and each party made submissions as to the Report. The Commission did not make a decision based on the complaint alone; it had before it the Report and the parties' submissions as to the Report.
+[...]
+18 The Courts have stated that normally the Commission would deal with such issues at the outset of the matter and strike out the "plain and obvious" matters, and where no investigation has been carried out, the allegations in the Complaint must be accepted as true [ <FRAGMENT_SUPPRESSED> -Hamelin
+].
+19 The circumstances in the present case are different. The parties were given an opportunity at the outset to present their case in detail, which they did. A Report was written. The parties were given an extensive opportunity to make submissions as to the Report, which they did. Only then was a decision made.
+[59]
+Similar to <FRAGMENT_SUPPRESSED> , in the present case, the Commission's decision was based on the Section 41 Report of the Early Resolution Advisor, to which the parties made submissions in response.
+[60]
+The respondents' submissions provided information to put PSAC's allegations into context and the Commission considered all the submissions.
+[61]
+Although screening out a complaint is regarded as exceptional because it finally disposes of the complaint without any investigation, this consideration must be balanced against the purpose of section 41, which is to provide for the screening out of complaints in plain and obvious cases, including where the complaint fails to disclose a sufficient link to a ground of discrimination or where the complainant fails to provide sufficient information to establish the link.
+[62]
+The Commission dismissed PSAC's alternate allegations against all Code Agencies as well as its primary allegations against NAV and WHA, but it has allowed significant aspects of the complaint to proceed to the investigation stage, namely, the allegations against the agencies (except NAV and WHA) as co-respondents with TB. Such narrowing is, according to
+Canada Post
+, the very purpose of section 41.
+Was the Commission's decision reasonable?
+Overview of PSAC's position
+[63]
+With respect to the decision to not deal with the any of the complaints against NAV and WHA, PSAC submits that the Commission erred in finding that these agencies were not co-respondents with TB. PSAC submits that the Commission failed to identify or apply the legal test for determining the employer in a pay equity complaint and that it ignored evidence that TB maintained control over wages at these agencies.
+[64]
+With respect to the decision to not deal with the sections 7 and 10 complaints against CCOHS, CMC, CSTM and the Gallery as individual respondents, PSAC submits that it is illogical for the Commission to conclude that the failure to address discriminatory wage rates may be a prohibited practice by TB and these agencies as co-employers, but not as individual employers. PSAC argues that the Commission misunderstood the basis for the complaint, which is that the failure to correct the discriminatory wage and classification structure identified in the 1998 Order was a violation of the
+CHRA
+.
+[65]
+With respect to the Commission's decision to not deal with the section 11 complaint against the Code Agencies as individual respondents, PSAC submits that it did identify comparator groups within each agency and that the Commission ignored that the employees at issue were part of the population sampled in the original JUMI Study. PSAC notes that the only reason the 1998 Order did not apply to these employees was because their employers, which became the Code Agencies, were carved out of the core public administration before the 1998 Order. PSAC submits that this is not a basis to dismiss the complaint without an investigation.
+Overview of the respondents' position
+[66]
+Although the respondents, given their separate status, made individual submissions to reflect their particular positions on each aspect of the decision, they all submit that the Commission's decision was reasonable. The Commission undertook a thorough analysis of all the submissions as well as the Section 41 Report. While TB, CCOHS, CMC, CSTM and the Gallery maintain that they are separate employers, they note that this issue will be fully canvassed at the investigation stage.
+Was the Commission's Decision that NAV and WHA are not Co-Respondents with TB Reasonable?
+PSAC's submissions
+[67]
+PSAC submits that the Commission erred by finding that it could, at the section 41 stage, determine that TB was not a co-employer with NAV and WHA. Relying on <FRAGMENT_SUPPRESSED> ,
+supra
+at para 43, PSAC argues that where a party alleging a lack of jurisdiction of the Commission raises arguments that involve both factual and legal arguments, this is an indication that some investigation is required in order for the Commission to determine whether the allegations disclose a sufficient link to a prohibited ground. PSAC argues that NAV raised legal arguments regarding who constitutes the employer and factual arguments regarding the relationship between it and TB; therefore, the Commission should have proceeded to the investigation stage rather than dismissing the complaint at the section 41 stage.
+[68]
+PSAC submits that even if the Commission were permitted to determine that TB was not a co-employer at the section 41 stage, the Commission did not apply the proper legal test for determining the employer in a pay equity context. PSAC reiterates that in the context of a complaint of wage discrimination, the employer is determined by considering several factors, with emphasis on who is responsible for compensation practices and the valuing of work (
+Reid
+,
+supra
+). PSAC argues that an employer in human rights complaints may differ from an employer in labour relations issues, and submits that the Commission erred in failing to identify the test.
+[69]
+PSAC further argues that the Commission ignored relevant factual allegations, including: that TB remained a co-employer for pay equity purposes because it exerted a significant measure of control over wage rates; that TB developed the classification system and wage rates applicable to all the employees at issue; that NAV was party to a Tripartite Agreement where it agreed that the existing classification system would continue following a transition period after its transfer out of the core public administration, and that agreement was conditional upon TB's approval; and, that TB and NAV had turned their minds to their ongoing joint obligations stemming from a pay equity complaint that remained outstanding at the time of the transfer.
+[70]
+PSAC argues the circumstances were similar to those  <FRAGMENT_SUPPRESSED> -Hamelin
+and <FRAGMENT_SUPPRESSED> , where the Commission's decision not to deal with a complaint pursuant to section 41 was set aside on judicial review because it was based on a factual finding that contradicted the factual allegations made by the complainant, which should be taken as true.
+[71]
+In summary, PSAC submits that the Commission made a final determination regarding the employees at NAV and WHA without identifying the legal test and without regard to the facts and evidence.
+Submissions of the Respondent AGC, TB and CCOHS
+[72]
+These respondents submit that the Commission's decision with respect to NAV and WHA is reasonable. Where legislation defines the identity of the employer, that legislation is highly relevant, if not determinative (
+Reid
+,
+supra
+at para 49). In the present case, the legislation is very clear that WHA and NAV are not part of the "core public administration", as defined under the
+Public Service Labour Relations Act
+, SC 2003, c 22, s 2 [
+PSLRA
+] and under schedules of the
+FAA
+. Moreover, through the enactment of the
+Civil Air Navigation Services Commercialization Act
+, SC 1996, c 20 [
+CANSCA
+], particularly sections 58 and 68, and through the Transfer Agreement, Parliament clearly stated that the Crown would not be liable for payments in respect of employment claims against NAV.
+Submissions of the respondent NAV
+[73]
+NAV submits that the Commission was entitled to rely primarily on the legislative framework in determining the employer. NAV notes
+ <FRAGMENT_SUPPRESSED> , where the SCC found that employee status in the federal public service regime cannot be inferred from the facts or on the application of traditional common law tests. NAV submits that this argument extends to identifying an employer in the federal public service, i.e. that employer status cannot rely on common law tests but must be determined on the basis of the legislative regime that establishes an agency's identity and authority. In this case, TB is not identified as the employer of NAV in the
+PSLRA
+and the
+FAA
+.
+[74]
+NAV also notes that section 68 of
+CANSCA
+clearly states that TB ceased to be responsible for the terms and conditions of the employment of NAV employees who accepted offers in 1996, and the Transfer Agreement governed NAV's transition from the core public administration. NAV points out that the employees of Transport Canada were laid off and then hired by NAV, that the employees' relationship with TB ended at the transfer date and that TB did not retain any control over its employment.
+[75]
+NAV also emphasized that the Tripartite Agreement was entered into in 1995 and, as a result, the Commission reasonably concluded that the Tripartite Agreement was not relevant after 1996, when NAV transferred out of the core public administration.
+[76]
+NAV submits that the common law test for determining whether it was a co-employer with TB need not be mentioned given the clear wording of the legislation which sets out the identity of the employer.
+[77]
+Alternatively, NAV submits that omitting to set out the legal test is not fatal to the decision because the reasons for the decision include the Section 41 Report, which did address the proper test ( <FRAGMENT_SUPPRESSED> ,
+supra
+at paras 37-38; see also
+Newfoundland and  <FRAGMENT_SUPPRESSED>  [
+Newfoundland Nurses
+]).
+Submissions of the respondent WHA
+[78]
+WHA submits that the Commission applied the appropriate test to determine that WHA and TB are not co-employers or the same "establishment". WHA argues that PSAC cannot simply allege that WHA and others are co-employers with TB and then assert that this requires a complex analysis.
+[79]
+WHA also notes that the Commission's reasons consist of the decision letter as well as the Section 41 Report ( <FRAGMENT_SUPPRESSED> ,
+supra
+at para 37.) The Section 41 Report devoted 10 pages to reviewing and applying the appropriate tests to determine the employer(s) and the Commission stated that it read all the submissions of the parties, including the cited jurisprudence.
+[80]
+WHA argues that the Commission reasonably concluded that it is not in the same establishment as TB because the two occupy different sectors and labour relations regimes. WHA is exclusively a health provider to Aboriginal communities in Northern Ontario.
+The Commission's Decision that NAV and WHA are not Co-Respondents with TB is reasonable
+[81]
+The Commission reasonably concluded that it was plain and obvious that NAV and WHA were not co-employers with TB.
+[82]
+In <FRAGMENT_SUPPRESSED> ,
+supra
+at para 43, Justice Bédard stated that a factual objection at the section 41 stage is "an indication" that some investigation is required. I do not read <FRAGMENT_SUPPRESSED> to mandate that the Commission deal with a complaint where there are factual disagreements between the complainant and the respondent. As discussed above, to adopt such an approach would mean that the Commission would never be able to dismiss a complaint involving a factual dispute at the section 41 stage, despite the Commission's consideration of the respondent's submissions. As noted above, such a result appears to be inconsistent with the discretion accorded to the Commission under section 41 and the gatekeeping purposes underlying the section.
+[83]
+I also agree with the respondent that the Commission was not required to set out the legal test it applied in its decision. The test was canvassed in the Section 41 Report.
+[84]
+The Section 41 Report reflected a consideration of the submissions of all parties on the issue of who the employer is and an analysis with reference to the case law. The Section 41 Report cited
+Reid
+for the proposition that the most important factors for determining the identity of the employer are responsibility for compensation practices and the valuation of work. The Commission was also entitled to rely on legislation governing NAV and WHA to determine the identity of the employer. As stated in
+Reid
+,
+supra
+at para 49, unambiguous legislation is an "important fact".
+[85]
+PSAC argues that the Section 41 Report is not part of the reasons because the Commission did not adopt it and because the Commission provided its own reasons, unlike <FRAGMENT_SUPPRESSED> , where the reasons of the Commission were brief and the Commission adopted the Section 41 recommendations.
+[86]
+Although the Commission provided reasons for its decision, and did not wholly adopt the conclusion in the Section 41 Report, which was that TB was not the employer, the Commission clearly indicated in its reasons that it considered the submissions of the parties, the jurisprudence cited in the submissions and the Section 41 Report. The jurisprudence cited includes that which addresses the meaning of employer in the human rights context and in the labour relations context. Moreover, the Commission is presumed to have considered all the evidence, even if it does not mention each document or case.
+[87]
+PSAC relied extensively on <FRAGMENT_SUPPRESSED> and
+ <FRAGMENT_SUPPRESSED>  NR 235 [ <FRAGMENT_SUPPRESSED> ] for the proposition that the Commission must set out the legal test it relies upon.
+[88]
+In <FRAGMENT_SUPPRESSED> ,
+supra
+at para 2, the Court of Appeal noted:
+The reasons given by the Commission for screening out the complaint indicate that the Commission adopted a legal test for
+prima facie
+discrimination that is apparently consistent with
+ <FRAGMENT_SUPPRESSED>  but inconsistent with the subsequent decision of the Canadian Human Rights Tribunal in
+ <FRAGMENT_SUPPRESSED> . We express no opinion on what the correct legal test is. We say only that the Commission's reasons raise a serious question as to what legal test the Commission actually applied in deciding as it did. In our view that is a valid basis for finding the decision of the Commission to be unreasonable, and justifies the order of Justice Barnes referring the matter back to the Commission for reconsideration.
+[89]
+In <FRAGMENT_SUPPRESSED> ,
+supra
+at para 23, Justice Snider cited the same passage from <FRAGMENT_SUPPRESSED> , noting that "[o]n any standard of review, the Federal Court may grant relief if it is satisfied that a tribunal made its decision without regard for the material before it (
+Federal Courts Act
+, R.S.C. 1985, c F-7, s. 18.1(4))". However, that case was about deficiencies in the reasons and Justice Snider found that she could not determine whether the arguments advanced by the applicant had been considered; the failure of the decision-maker to cite the legal test it relied on was not the issue.
+[90]
+I do not interpret <FRAGMENT_SUPPRESSED> as imposing a duty on the decision-maker to explicitly state the legal test it applied; rather, it establishes that the reasons provided must permit one to determine the legal analysis undertaken by the decision-maker to reach its conclusion.
+[91]
+Moreover, in
+Newfoundland Nurses
+, the Supreme Court of Canada established that the reasons must be read together with the outcome to assess whether the result falls within a range of possible outcomes. Justice Abella noted at para 16:
+[16] Reasons may not include all the arguments, statutory provisions, jurisprudence or other details the reviewing judge would have preferred, but that does not impugn the validity of either the reasons or the result under a reasonableness analysis. A decision-maker is not required to make an explicit finding on each constituent element, however subordinate, leading to its final conclusion (
+Service Employees' International Union, Local No. 333 v. Nipawin District Staff Nurses Assn.
+, [1975] 1 S.C.R. 382, at p. 391). In other words, if the reasons allow the reviewing court to understand why the tribunal made its decision and permit it to determine whether the conclusion is within the range of acceptable outcomes, the
+Dunsmuir
+criteria are met.
+[92]
+The question is whether the Commission's reasons allow the reviewing court to understand why the Commission made the decision that it did. In my view, the reasons do so, and the Section 41 Report is part of these reasons given that the Commission made explicit reference to its consideration of the Section 41 Report and the jurisprudence cited.
+[93]
+Even though the Commission disagreed with the conclusion of the Section 41 Report, it essentially applied the same "test" and the same analysis that was applied with respect to identifying the employer, including a consideration of the statutory framework. The Commission reached a different conclusion, noting that the Section 41 stage should have considered the entire statutory framework. For example, the Commission looked at the
+FAA
+and found that CCOHS, CMCC, CMST, and the Gallery are listed on Schedules II and III, which necessitated further investigation into the impact of the
+Museums Act
+and the
+CCOHS Act
+.
+[94]
+Nor did the Commission err by ignoring relevant facts. The Commission need not refer to every single piece of evidence; on the contrary, it is assumed to have weighed and considered all the evidence presented to it unless the contrary is shown (
+ <FRAGMENT_SUPPRESSED>  (FCA)).
+[95]
+In any event, the other documents, including the Tripartite Agreement between NAV, Transport Canada and the bargaining agents, do not provide sufficient basis upon which to infer that TB continued to exert any control over the wage and personnel policies at NAV. These documents, which are part of the record, convey the opposite; that NAV employees had severed their ties with Transport Canada and TB and that the Tripartite Agreement and Transfer agreements were transitional documents that governed for a fixed period only. The Commission's failure to specifically mention these documents in its decision was not unreasonable.
+[96]
+Unlike the situation  <FRAGMENT_SUPPRESSED> -Hamelin
+and <FRAGMENT_SUPPRESSED> , the Commission did not make a factual finding contrary to the evidence. An assessment of the sufficiency of the evidence in support of the allegations made in a complaint is an essential part of the preliminary screening exercise undertaken by the Commission at the section 41 stage (
+ <FRAGMENT_SUPPRESSED> FTR 106 affd 2012 FCA 119, 433 NR 286;
+ <FRAGMENT_SUPPRESSED> FTR 60). It was open to the Commission to find that the evidence was insufficient to establish a link to a prohibited ground of discrimination by these agencies.
+Was the Commission's Decision to Not Deal with the Sections 7 and 10 Complaints against the Code Agencies as Individual Respondents reasonable?
+PSAC's Submissions
+[97]
+PSAC submits that the Commission erred by focusing on the fact that the 1998 Order only bound the parties to it and, therefore, was not binding on the employers of the employees in the present complaint. PSAC argues that the Commission was overly formalistic and ignored or misunderstood its argument that the factual foundation for the 1998 Order was actually the JUMI Study, which surveyed employees that are now part of this complaint.
+[98]
+PSAC also submits that the Commission's decision was illogical. The Code Agencies had an obligation to address discrimination of this nature for the period during which they employed these individuals (
+ <FRAGMENT_SUPPRESSED> FTR 85 [ <FRAGMENT_SUPPRESSED> ]). PSAC argues that it is therefore illogical and unreasonable for the Commission to conclude that the failure to address the discriminatory wage rates may constitute a prohibited practice on the part of the Code Agencies and TB as co-employers, but reach the opposite conclusion on the allegation that the same practice was committed by the Code Agencies as sole-employers.
+Submissions of the respondents AGC, TB and CCOHS
+[99]
+These respondents note that PSAC's complaint is essentially that the Code Agencies have failed to extend the remedies contained in the 1998 Order to their employees. They submit that such an allegation requires the existence of some legal obligation linking the Code Agencies to the 1998 Order; however, the 1998 Order only bound the parties to it. Having found that such legal obligation was absent, the Commission reasonably concluded that it was not plain and obvious that the allegation had merit.
+[100]
+These respondents also submit that it was not illogical for the Commission to allow the primary sections 7 and 10 allegations against them as co-employers yet dismiss the alternate allegations. The Commission simply decided not to deal with the allegation when it was raised solely against agencies not party to the 1998 Order, in light of the fact that it opted to investigate a similar allegation made against the agencies as co-respondents with TB, and is otherwise entitled in its discretion to allow part of the complaint to proceed, while rejecting the most obviously flawed components.
+Submissions of the respondent CMC
+[101]
+CMC submits that it was plain and obvious that no cause of action under sections 7 and 10 could lie against it simply because an order made against its former employer, TB, addressed discriminatory pay practices that were found to exist in that previous establishment. CMC suggests that PSAC's argument was that if CMC employees had remained as TB employees their incomes would have gone up. CMC notes, however, that these employees were not TB employees at the time of the 1998 Order because CMC was established by statute in 1990. CMC also notes that by 1997, it had adopted its own wage and classification system.
+Submissions of the respondent NAV
+[102]
+NAV notes that the Commission responded to PSAC's concerns that employers have a legal obligation to address the possibility of systemic wage and other discrimination in their workplace, but found that such an obligation cannot be extended to apply the pay equity findings from a different establishment. NAV notes that although the analysis was set out in the part of the decision regarding section 11, the conclusion applies equally to a wage discrimination claim made pursuant to sections 7 and 10.
+Submissions of the respondent WHA
+[103]
+WHA submits that the crux of PSAC's sections 7 and 10 argument is the extension of the pay equity adjustments found in the 1998 Order, which, as the Commission reasonably found, cannot apply to WHA in the absence of a co-employer relationship with TB. WHA submits that the 1998 Order does not create any stand-alone obligations requiring WHA to address the discrimination found in the Order.
+The Commission's Decision to Not Deal with the Sections 7 and 10 Complaints Against the Code Agencies as Individual Respondents Was Reasonable
+[104]
+The Commission reasonably decided that it was plain and obvious that PSAC's alternate sections 7 and 10 allegations against the Code Agencies lacked reasonable grounds.
+[105]
+PSAC's complaint is, in essence, that the Code Agencies have failed to apply the pay equity adjustments found in the 1998 Order. It was reasonable for the Commission to look at the terms and legal effect of the 1998 Order and to conclude that the lack of legal basis or obligations connecting the 1998 Order to the Code Agencies is determinative in dismissing PSAC's alternate sections 7 and 10 allegations.
+[106]
+The Commission did not misapprehend the factual nature of PSAC's allegations. PSAC contends that its allegation of wage discrimination that persisted in the Code Agencies' wage structures is a factual allegation documented by the JUMI Study. However, this submission was addressed by the Commission in the context of its analysis of PSAC's alternate section 11 allegations. The Commission found that the JUMI Study cannot be the basis for a complaint against the Code Agencies as individual employers because it was conducted when the Code Agencies were still within the same establishment as TB.
+[107]
+I do not agree that the Commission's decision is illogical. The Commission decided not to deal with the allegation when it was raised solely against agencies not party to the 1998 Order, but did decide to investigate the same allegations made against the agencies as co-respondents with TB. This is logical because the JUMI Study, which is the factual basis of the 1998 Order and the current complaint, implicated TB and the Code Agencies as co-employers but it did not implicate the Code Agencies as individual employers.
+[108]
+I also note that in its April 2011 submissions to the Commission, PSAC stated that it had consistently maintained that TB was the proper principal respondent to this complaint.
+[109]
+Moreover, the Commission is entitled in the exercise of its discretion to allow part of the complaint to proceed, while rejecting other components that it finds are plain and obvious to be beyond its jurisdiction.
+[110]
+Although PSAC relied on <FRAGMENT_SUPPRESSED> for its argument that the Code Agencies knew about the wage gap and had an obligation to address wage discrimination for the period when they employed these employees, in my view, <FRAGMENT_SUPPRESSED> refers to a more general principle that there is a positive obligation on employers to provide a workplace that is free from discrimination ( <FRAGMENT_SUPPRESSED> ,
+supra
+at para 188). PSAC does not provide any evidence that the Code Agencies have not, as individual employers, complied with this positive obligation, as this is not the nature of the 2002 complaint.
+Is the Commission's Decision to Not Deal with the Section 11 Complaints against the Code Agencies as Individual Respondents reasonable?
+PSAC's Submissions
+[111]
+PSAC submits that contrary to the Commission's finding, it did identify male and female predominant occupational groups within each of the Code Agencies. PSAC refers to its April 17, 2012 submissions, which identified male and female predominant groups at NAV. PSAC submits that the Commission cannot dismiss its complaint simply because NAV disputed those facts (i.e., by noting that only two of those groups were female predominant), because a factual dispute must be investigated.
+[112]
+PSAC also submits that the Commission erred in concluding that it failed to provide a reasonable basis to support its section 11 claim against the Code Agencies. PSAC refers to the JUMI Study, which gathered data from approximately 3,200 employees, including employees from across the core public administration (some of which later became employees of the Code Agencies) and demonstrated that the federal government's wage and classification structure failed to pay female and male predominant groups equally for work of equal value.
+[113]
+PSAC submits that in these circumstances, there is no basis on which the Commission could reasonably decide not to deal with the section 11 complaints against the Code Agencies as individual respondents.
+[114]
+After the data for the JUMI Study was collected but before the 1998 Order, the Code Agencies were established and carved out of the core public administration. PSAC notes that the Code Agencies retained the wage and classification structure inherited from TB, which the 1998 Order had determined was discriminatory. PSAC submits that this is a
+prima facie
+finding of wage discrimination and that its allegations are not mere speculation.
+[115]
+PSAC submits that the establishment of separate employers cannot be the vehicle to avoid addressing the ongoing discrimination in wages.
+[116]
+PSAC argues that several of the Code Agencies continued to rely on the same wage and classification system for many years and discriminatory wages have, therefore, continued. The employers were aware of the wage gap, yet did nothing to remedy this.
+Submissions of the respondents AGC, TB and CCOHS
+[117]
+These respondents submit that section 11 requires that male and female employees' comparator groups be from the same employer and establishment. These respondents note that PSAC did not, in its complaint, identify any comparator group particular to the individual Code Agencies, notwithstanding that the Section 41 Report had put PSAC on notice about what was required and it was then up to PSAC to remedy the situation or risk having its complaint dismissed pursuant to section 41 (see <FRAGMENT_SUPPRESSED> ,
+supra
+at para 18; <FRAGMENT_SUPPRESSED> ,
+supra
+at para 16).
+[118]
+These respondents contest PSAC's allegation that the JUMI Study sampled employees from those portions of the core public administration that eventually became the Code Agencies. Once the employees were transferred to their new organizations, the context for the relative valuing of those employees' work changed and its internal relativity within the new organizations cannot be assumed to be the same as the core public administration; neither can the gender composition be assumed to have remained the same (see <FRAGMENT_SUPPRESSED> ,
+supra
+at paras 77-79). In short, these respondents submit that section 11 requires specific allegations regarding a specific employer and establishment.
+[119]
+These respondents note that PSAC was aware that it was required to provide separate employer information internal to each of the Code Agencies to permit the proper comparisons to be made; the fact that such data does not exist does not permit PSAC to rely on the JUMI Study.
+Submissions of the respondents CSTM and the Gallery
+[120]
+CSTM and the Gallery submit that PSAC failed to put forward evidence which, if believed, would be sufficient to support a
+prima facie
+claim of discrimination ( <FRAGMENT_SUPPRESSED> ,
+supra
+at para 28).These respondents note that PSAC did not make any specific allegations against them.
+[121]
+These respondents echo the submissions of AGC, TB and CCOHS and submit that, in support of a pay equity complaint, PSAC must show that a group is composed predominantly of members of the same sex, that there is another group performing work of equal value, that the other group is composed predominantly of members of the opposite sex and that the two groups are employed in the same establishment ( <FRAGMENT_SUPPRESSED> ,
+supra
+at para 16).
+[122]
+These respondents also note that the Section 41 Report put PSAC on notice of exactly what was needed:
+In order to meet the threshold of reasonable grounds, PSAC must indicate what comparator group is it using, on what basis it believes this group is male- dominant, on what basis it believes the groups are performing work of equal value, and on what basis it believes there is a wage gap.
+[123]
+These respondents submit that, despite the warning, PSAC failed to produce the necessary factual basis, although it could likely have provided the information because it remains the bargaining unit for the employees. As such, these respondents submit that it is not up to the Commission or the investigator to improve PSAC's complaint (
+Syndicat des communications de  <FRAGMENT_SUPPRESSED> FTR 18 [
+Syndicat Radio-Canada
+]).
+[124]
+These respondents submit that it is not possible to compare female dominated jobs at the Gallery or CMST with those in the core public administration. This case is analogous to the <FRAGMENT_SUPPRESSED> decision, where the Tribunal dismissed a section 11 complaint on the basis that no comparative study of the female and male dominated groups within the PSSRB was done to assess the relative value of the work performed ( <FRAGMENT_SUPPRESSED> ,
+supra
+at paras 75-78) and the Court noted that no proxy comparators are permitted.
+Submissions of the respondent CMC
+[125]
+CMC submits that the
+Equal Wages Guidelines
+, 1986 SOR/86-1082 [
+Equal Wages Guidelines
+] established clear requirements for pay equity complaints and that PSAC is well aware of what is required. CMC submits that the Commission reasonably concluded that PSAC cannot bypass the requirements of section 11 by disguising it as a section 7 or 10 complaint or by relying on the 1998 Order or 1999 Settlement against a different employer and establishment.
+Submissions of the respondent NAV
+[126]
+NAV submits that the Commission reviewed the information provided by PSAC and reasonably decided not to deal with PSAC's section 11 allegation against it as an individual respondent. Moreover, NAV notes that the Commission reasonably considered its objections to the JUMI Study, namely, that only two of the four occupational groups identified in the study were predominantly female and one no longer existed at NAV.
+[127]
+NAV emphasised that wages cannot be inherently discriminatory, as there must be a pay equity analysis within the same establishment.
+[128]
+NAV submits that it is consistent with the language of section 11 and the case law that an employer is under no legal obligation to address wage rates that were found to be discriminatory in another establishment, unless that employer is found to be a co-employer with the employer of the other establishment ( <FRAGMENT_SUPPRESSED> ,
+supra
+at paras 97-99). NAV notes that the importance of an establishment-specific analysis is informed by the centrality of comparators in a wage discrimination analysis (
+ <FRAGMENT_SUPPRESSED>  [
+Canadian Airlines International
+]).
+[129]
+NAV submits, as noted in <FRAGMENT_SUPPRESSED> ,
+supra
+at paras 28-29, that it is not up to the Commission to improve a complaint that is deficient on its face. NAV suggests that if PSAC believed there was pay inequity at NAV, they should have brought a complaint in 1996, when it was carved out of TB.
+Submissions of the respondent WHA
+[130]
+WHA submits that the Commission's decision was comprehensive and reasonable, having considered, through its Section 41 Report, the
+Equal Wages Guidelines
+, the jurisprudence and the submissions of the parties in coming to the conclusion that WHA is not the same establishment as TB.
+[131]
+WHA also submits that by insisting that the JUMI Study provided a basis for the complaint, PSAC is attempting to use the core public administration as a "surrogate or proxy comparator" to the WHA, an approach that was rejected by the Tribunal in <FRAGMENT_SUPPRESSED> ,
+supra
+at para 103). In the event that the JUMI Study could provide a basis for PSAC's section 11 allegations, WHA submits that it is out of date, as the study reviewed wage rates between 1985 and 1999, and that PSAC is speculating that such wage disparities have continued at WHA.
+The Commission's Decision to Not Deal with the Section 11 Complaints against the Code Agencies as Individual Respondents is Reasonable
+[132]
+The Commission noted the importance of comparators in a wage discrimination analysis. This was highlighted by the Supreme Court in
+Canadian Airlines International
+,
+supra
+at para 14:
+14 In this Court, there was no challenge to the validity of s. 10 of the Guidelines. The issue then becomes a question of statutory interpretation in the context of human rights legislation. More particularly, the issue is the interpretation of the word "establishment" found in both s. 11 of the Act and s. 10 of the Guidelines. The correct interpretation of "establishment" will allow the identification of appropriate comparators.
+Given the nature of its principles and objectives, pay equity cannot be achieved without proper comparators. The notion of establishment is central to the analysis because the Act requires that the proper comparators be found within an "establishment".
+We must then determine the meaning or scope of this word when s. 11 of the Act is read in conjunction with s. 10 of the Guidelines, using the relevant rules of statutory interpretation. [emphasis added]
+[133]
+The Commission did not err in concluding that the comparators used must exist within the same establishment. This is reflected in section 11, the
+Equal Wages Guidelines
+and the Tribunal decision in <FRAGMENT_SUPPRESSED> ,
+supra
+at paras 77-79.
+[134]
+As the respondents AGC, TB and CCOHS point out, once the employees were transferred to their new organizations, the context for the relative valuing of those employees' work changed. Internal relativity within the new organizations cannot be assumed to be the same as within the core public administration; therefore, it cannot be assumed that the gender composition has remained the same. This was acknowledged by the Commission in its decision, noting that it makes no sense to conceive of a section 11 complaint against the Code Agencies as individual employers using comparators derived from an establishment in which TB was the employer:
+For the section 11 alternative allegations to make sense, they must be looked at discretely as against each of the organizations in its capacity as an independent employer, separate from the TB. From that perspective, it is difficult to see how the basis of the CHRT 1998 decision, specifically, the female predominant jobs, the male comparators and the wage/value analysis all of which are derived from the same establishment over which the TB is the employer, can be used to provide reasonable grounds for section 11 allegations against different and separate employers.
+[135]
+While PSAC submits that it did identify male and female predominant occupational groups within each of the Code Agencies, the Commission specifically considered and rejected this argument. For example, the Commission noted that, according to NAV, only two of the seven groups identified by PSAC in NAV were still predominantly female, and that one group actually no longer exists:
+[...] These differences may be significant for pay equity purposes and demonstrate why, however "systemic" the alleged wage discrimination may be, reasonable grounds for filing a section 11 complaint must be based on the circumstances of an employer within one establishment. [...]
+Contrary to what is stated by the PSAC to the effect that these discrepancies in information show why an investigation is needed, these discrepancies show why the basis of a complaint must be found within an employer's establishment and why reasonable grounds must be based on something more than mere assertion or speculation as to whether or not fundamental elements of the pay equity analysis (e.g., gender predominance) have or have not changed over time and between workplaces that may have been formerly linked. That is the analysis that is required by section 11. Failing this, there is a lack of reasonable grounds and however potentially complex the allegations of wage discrimination may be, the complaint should not be dealt with. [...]
+[136]
+The onus lies on the complainant to prove
+prima facie
+discrimination or the existence of wage disparity ( <FRAGMENT_SUPPRESSED> ,
+supra
+at para 28). Failing this, PSAC cannot expect the Commission to improve its claim by allowing it to be investigated (
+Syndicat Radio-Canada
+,
+supra
+at para 33).
+[137]
+I appreciate that the only data available, the JUMI Study, pre-dates the carving out of the individual Code Agencies from the core public administration. However, in light of the fact that the core public administration has undergone substantial reorganization since the JUMI Study, new employer-specific wage data would be necessary.
+[138]
+In conclusion, significant aspects of the complaint will proceed and it is expected that the respondents, with the exception of NAV and WHA, will continue to advance their view that they were not co-employers with TB, but separate employers. The Commission's decision to dismiss the complaints against NAV and WHA entirely and to dismiss the complaints against the respondents as individual employers is reasonable.
+[139]
+As the parties requested, submissions on costs will be considered following the release of this judgment.
+JUDGMENT
+[140]
+THIS COURT'S JUDGMENT is that
+:
+1. The application for judicial review is dismissed.
+2. Costs will be awarded to the respondents. Submissions of the respondents on costs should be made within 45 days of this judgment. The applicant will then have 15 days to respond to the respondents' submissions.
+Application dismissed.
+Editor: Gary W. McLaughlin/vnh

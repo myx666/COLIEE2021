@@ -1,0 +1,105 @@
+[1]
+von Finckenstein, J.
+: This is an application under section 52 of the
+Patent Act
+, R.S.C. 1985, c. P-4. The Applicant ("Axia") is seeking an order to correct Canadian Patent Number 2,031,952 concerning a device referred to as the "Adjustable Handle" and Canadian Patent Number 2,035,484 regarding a device referred to as the "Flat Box".
+[2]
+The facts leading to this application are as follows.
+[3]
+Donald Mark MacMillan ( <FRAGMENT_SUPPRESSED> ) is the inventor of both the Adjustable Handle and the Flat Box. He is also a former employee of Concorde Tool Corporation ("CTC") and of Kaiser International Developments Limited ("Kaiser").
+[4]
+There are two companion U.S. patents for the Adjustable Handle and the Flat Box: U.S. Patent No. 5,088,147 and U.S. Patent No. 5,143,264 respectively, registered in the name of Axia.
+[5]
+On June 13, 1990, MacMillan entered into a Share Purchase Agreement and Consulting Agreement with CTC whereby he assigned his right, title and interest in the Adjustable Handle and the Flat Box to CTC.
+[6]
+On November 1, 1995, MacMillan entered into an Employment Agreement with Kaiser and further assigned his title, right and interest in the Adjustable Handle and the Flat Box to Kaiser.
+[7]
+On February 28, 1997, Kaiser terminated MacMillan's employment and, in December 1997, MacMillan and Dick established Northstar Tool Corporation ("Northstar").
+[8]
+On June 25, 1999, CTC, Kaiser, and LFD Industries ("LFD") entered into an Asset Purchase Agreement with Axia. Under this agreement, Axia acquired interest in all of the intellectual property invented by MacMillan that had been acquired by CTC and Kaiser. The 1995 Employment Agreement was assigned to Axia under the terms of the Asset Purchase Agreement.
+[9]
+On September 25, 2002, MacMillan assigned his title, right and interest in the Adjustable Handle to Northstar ("the First Assignment") and on January 29, 2003, assigned his title, right and interest in the Flat Box to Northstar ("the Second Assignment"). The Patent Office issued the Flat Box patent to Northstar on April 15, 2003, and the Adjustable Handle patent was issued to Northstar on June 17, 2003. Accordingly, Northstar is currently the registered owner of the Canadian patents for both the Adjustable Handle and the Flat Box.
+[10]
+MacMillan started an action against Kaiser, Axia and others in the Supreme Court of British Columbia claiming that he was induced to enter the Share Purchase Agreement and the Consulting Agreement because he was to receive 10% of CTC and, as he did not receive the 10%, the Consulting Agreement and the Employment Agreement are void ab initio and therefore he was still the owner of the U.S. patents for the Adjustable Handle and the Flat Box.
+[11]
+The case was heard by  <FRAGMENT_SUPPRESSED> ), who dismissed the action. Her decision was affirmed by the B.C. Court of Appeal (
+ <FRAGMENT_SUPPRESSED> ).
+[12]
+On the basis of these decisions, the Applicant is now seeking an order to have the Canadian patent register for the Adjustable Handle and the Flat Box changed, and to reflect the owner as Axia rather than Northstar. The Commissioner of Patents (the "Commissioner") has advised that he will not change the register without a court order.
+[13]
+The Applicant suggests that the findings contained in the reasons for judgment dated April 30, 2003 of Madam Justice Allan in
+ <FRAGMENT_SUPPRESSED>  reasons:
+- She stated in respect of the 1990 Share Purchase Agreement:
+"Accordingly, upon the execution of the Share Purchase Agreement, all of MacMillan's interest in Concorde was transferred to LFD and the Early Patents were then assigned to Concorde."
+- She stated in respect of the 1990 Consulting Agreement:
+"Accordingly, the 1990 Consulting Agreement obliged MacMillan to assign all new patents to Concorde while he was a consultant."
+- She stated in respect of the 1995 Employment Agreement:
+"In addition, Clause 8 provided that KIDL [Kaiser] would pay $35,000 to MacMillan as consideration for his agreement that all past, present and future patents and patentable concepts, including those registered in his name, were and would be the exclusive property of KIDL [Kaiser]. The current patents, which were listed as Schedule 'A' included all of the Early Patents and the New Patents. MacMillan received the sum of $35,000.
+"MacMillan also agreed to execute any instruments needed to register the patents. He provided a 'full and irrevocable Power of Attorney to register assignments of all past, present and future Patents in the name of the Employer without further consultation or permission from the Employee'."
+- She stated in respect of his claim of inducement:
+"In my opinion, the 'employment' of MacMillan included all of the terms of the 1995 Employment Agreement that defined his employment. Those terms required the plaintiff to assign both the Early and New Patents to KIDL [Kaiser], prevented him from acquiring patentable rights to work done 'outside his employment', and set out the terms of his remuneration. It is significant that MacMillan, after receiving the benefit of legal advice, signed the 1995 Employment Agreement which provided for a monthly salary of $5,540 as consideration for his continued employment and $35,000 as consideration for vesting all of the patents in KIDL [Kaiser].
+"Accordingly, I conclude that the express terms of the 1995 Employment Agreement constitute the entire agreement between the parties as to all of the terms of MacMillan's employment. Clause 23 precludes him from claiming that he was induced to continue his employment and assign the patents by the representations of Lee and Young that he would receive 10% of the shares of Concorde."
+- Her overall conclusion was:
+"It follows that, as a result of the terms of the 1990 Shareholders Agreement, the 1990 Consulting Agreement and the 1995 Employment Agreement, MacMillan had no interest in the Early Patents and the new Patents that were owned by Concorde and later by KIDL [Kaiser], and then validly assigned to Axia/Ames."
+[14]
+In the Applicant's view, issue estoppel as defined in
+ <FRAGMENT_SUPPRESSED> ; 2 N.R. 397, applies and the Respondent is therefore estopped from raising this point. In
+Angle
+, supra, the Court laid out the test for issue estoppel as follows:
+(1) that the same question has been decided;
+(2) that the judicial decision which is said to create the estoppel was final; and
+(3) that the parties to the judicial decision or their privies were the same persons as the parties to the proceedings in which the estoppel is raised or their privies. ...
+[15]
+I cannot accede to this argument. I note that in the action of MacMillan against Axia:
+a) MacMillan only claimed ownership to the U.S. patents; the Canadian patents are not mentioned in his Statement of Claim, or in the reasons for judgment or the Order.
+b) the Order merely states that Northstar's action was dismissed; there is no declaration that Axia is the owner of the patents.
+[16]
+Madam Justice Allen's findings may be helpful to determine the ownership of the Canadian patents; they may have a persuasive value, but they are not determinative or dispositive in respect of the ownership of the Canadian patents. I cannot find, on the basis of her reasoning, that the issue of whether Northstar is entitled to the Canadian patents has been judicially decided. The B.C. action merely dismissed his claim to the U.S. patents and did not deal with Canadian patents at all. While the parties are the same or their privies, and while the decision is final, the issue was not the same. Thus, there is no room for issue estoppel.
+[17]
+Second, the question to be decided involves the ownership of patents. To determine that ownership, the various contractual documents between the parties need to be interpreted. Their interpretation will determine the ownership. This is a matter of property and civil rights, with the patents being merely the item the ownership of which is in dispute. Clearly, the patent aspect is secondary to the ownership.
+[18]
+Simpson, J., examined a similar scenario in
+Lawther v. 424470 B.C. Ltd.
+(1995), 95 F.T.R. 81; 60 C.P.R.(3d) 510 (T.D.):
+"This court has no jurisdiction to entertain a dispute which is solely a matter of contract. However, it will entertain an action which involves a contractual dispute, if the action primarily concerns a patent, trade mark or copyright:
+ <FRAGMENT_SUPPRESSED>  at p. 472, 58 F.T.R. 1; 35 A.C.W.S.(3d) 416 (T.D.). In this case, the pleadings disclose that the principal issue is whether or not the plaintiff is entitled, in Canada, to a reassignment of the Patent. The defendant alleges that the plaintiff was offered an option to reacquire the patent but that the plaintiff refused to pay the agreed price and that the option has lapsed. The central issue would seem to be the nature of the option agreement and whether or not the parties have complied with its terms.
+"
+In my view, the determination of this contractual issue will dictate ownership of the patent and the appropriate relief in respect of the patent. For this reason, I have concluded that this is primarily a case in contract and that the patent issues are ancillary. Accordingly, this court is without jurisdiction
+. The plaintiff should pursue his rights in the Supreme Court of British Columbia. As Mr. Justice Dube noted in
+ <FRAGMENT_SUPPRESSED>  at p. 196, 49 F.T.R. 280; 29 A.C.W.S.(3d) 538 (T.D.), the plaintiff may apply to this court in the future to vary the registration of the Assignment should such an application be required." (My emphasis)
+[19]
+I find Simpson, J.'s, logic compelling and find that it equally applies to this case. Thus applying
+Lawther
+, I must decline to exercise jurisdiction. This matter is not within the jurisdiction of this Court.
+[20]
+Third, there is an outstanding lawsuit between Axia and MacMillan in British Columbia to determine the ownership of the Adjustable Handle Canadian patent. It was filed by Axia on June 3, 2004 (B.C. Court No. S033105) (the "Axia Action"). It refers to both the Canadian patents for the Adjustable Handle and the Flat Box. The prayer for relief in the Statement of Claim specifically asks for:
+"(d) an order for specific performance compelling the Defendant, MacMillan, to perform his obligations contained in Articles 8 and 12 of the 1995 Employment Agreement;"
+And with respect to the Adjustable Handle (but not the Flat Box) demands:
+"(g) further or in the alternative, a declaration that the patent issued to Northstar for the Adjustable Handle is invalid pursuant to s. 53(1) of the
+Patent Act
+;"
+[21]
+As mentioned before, this is primarily a question of ownership, which must be decided by the courts in British Columbia. If this Court, extrapolating from a decision concerning U.S. patent rights, made a declaration about companion Canadian patents while the matter is being adjudicated before B.C. courts, there is a considerable risk of conflicting decisions. This should be avoided at all costs and can best be achieved by awaiting the judgment of the B.C. court in the Axia action. Once a decision is rendered, that decision can be filed with the Commissioner of Patents and, if necessary, a section 52 application under the
+Patent Act
+can be brought at that time.
+[22]
+This brings me to a minor procedural point that was raised at the outset. The question arose whether the Commissioner should be a party to this application.
+[23]
+The prayer for relief in this application, with respect to the Adjustable Handle, seeks:
+"(d) to revoke the issuance of Patent No. 2,031,952 to Northstar Tool Corporation forthwith and to issue Patent No. 2,031,952 to Axia Incorporated."
+And, with respect to the Flat Box, seeks:
+"(d) to revoke the issuance of Patent No. 2,035,484 to Northstar Tool Corporation forthwith and to issue Patent No. 2,035,484 to Axia Incorporated." (Mistakenly referred to as Patent No. 2,031,952 at page 4 of Applicant's Application Record)
+[24]
+The Applicant argues that the Commissioner here acts as a tribunal and therefore he does not need to be a party in light of Rules 301 and 303.
+[25]
+This action, however, was brought as a section 52 application, not as a judicial review of the Commissioner's refusal to change the register of the Canadian patents. I do not see how this Court can order the Commissioner to do something when he is not a party before this Court. I would think that to obtain an order directing the Commissioner to change the register, as requested in the prayer for relief, it will be necessary to make the Commissioner a party. This may be of little practical difference and not prove fatal, as counsel for the Applicant was advised by the Commissioner's counsel that the Commissioner would change the register when served with a declaration of a Court that Axia is the owner of the Canadian patents. However, I remain of the view that for an application under s. 52 of the
+Patent Act
+, it would be proper to make the Commissioner a party to the proceedings. As this point is not in issue, there is no need to dwell further upon it.
+[26]
+For the three substantive reasons stated above, this application cannot succeed.
+ORDER
+[27]
+THIS COURT ORDERS that this application is dismissed, with costs in favour of the Defendant.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/clh
+[End of document]

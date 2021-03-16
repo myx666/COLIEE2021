@@ -1,0 +1,185 @@
+..................................................
+[1]
+de Montigny, J.
+: This is an appeal from an Order made by Prothonotary Morneau dated February 3, 2015, granting, in part, the Interveners' motion to stay the proceedings commenced by the Plaintiff before this Court on December 23, 2014. This appeal brings to the fore, complex issues relating to the interplay between the law of bankruptcy and maritime law, as well as the relationship between the jurisdiction of this Court in matters of admiralty and the jurisdiction of provincial superior courts in matters of bankruptcy and insolvency.
+[2]
+Having carefully considered the written and oral arguments made by counsel on behalf of the Plaintiff and the Interveners, I have determined that the decision of the Prothonotary must be upheld.
+I.
+Facts
+[3]
+LF Centennial PTE Ltd. (LF Centennial) is a Singaporean company which acts as a buying agent for and on behalf of garment retailers. Mexx Canada Company (Mexx) is a clothing retailer who purchased a significant amount of its wares through LF Centennial. Richter Advisory Group Inc. (Richter) is the appointed trustee in the insolvency of Mexx.
+[4]
+On December 3, 2014, Mexx filed a Notice of Intention to Make a Proposal (NOI) with the Official Receiver and commenced restructuring proceedings in furtherance of the NOI before the Québec Superior Court (Commercial Division), (the Superior Court), pursuant to section 50.4(6) of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the Act). In so doing, it received the benefit of the stay of proceedings set out at section 69 of that Act.
+[5]
+On December 16, 2014, Mexx filed a motion for an extension of the delay in which to file a proposal. In addition to requesting an extension of the delay for the filing of a proposal, Mexx also filed a motion with the Superior Court for authorization to enter into an agreement for the liquidation of its inventory, fixtures, furniture, and equipment. Both Mexx and Richter agreed that this was the best way of ensuring that proceeds would be available to fund a proposal that would provide some return to Mexx's unsecured creditors. On December 18, 2014, Justice Louis Gouin of the Superior Court granted the two motions.
+[6]
+On December 23, 2014, the Plaintiff obtained the issuance of a warrant from this Court for the arrest of shipments consisting of over 155,000 garments that Mexx had purchased from suppliers located in Europe, China, Bangladesh and India. It did so on the basis of its interest in the cargo as an unpaid seller, and in exercise of its alleged right to stop goods in transit. Whether the garments had been delivered to Mexx or were still in the hands of the carrier or of the carrier's agent when the warrant was issued is a matter of dispute between the parties. What is not in dispute is that the Plaintiff did not obtain leave from the Superior Court before instituting the proceedings before this Court.
+[7]
+On January 5, 2015, Mexx and LF Centennial reached an agreement on bail for the arrested cargo (the Escrow Agreement). This agreement allowed Mexx to ship the garments to its stores and sell them, in return of which Mexx agreed to deposit into an escrow account the proceeds of the sale of the garments, less certain amounts, up to a maximum of $1,100,000. The parties furthermore agreed that the net proceeds would stand as bail in the Federal Court proceedings, the whole without prejudice to the parties' respective rights. Mexx agreed to this arrangement without admission that the Federal Court has jurisdiction over the matter or that LF Centennial was entitled to arrest the garments.
+[8]
+On January 6, 2015, Mexx and LF Centennial appeared before the Québec Superior Court and informed that Court of the arrests and the agreement for the release of the containers. A Safeguard Order was issued as a result, on consent of the parties and LF Centennial released all the cargo from arrest on January 6, 2015.
+[9]
+Mexx and Richter then sought to quash those arrests and to strike the claim by asserting the existence of the insolvency proceedings before the Québec Superior Court. The Interveners furthermore contended that the Federal Court was without jurisdiction, and also sought the dismissal of the Plaintiff's action on the basis that it was an abuse of the process of the Court within the meaning of Rule 221(1)(f) of the
+Federal Courts Rules
+, SOR/98-106 (the Rules). By Order dated February 3, 2015, Prothonotary Morneau granted, in part, the relief sought by the Interveners.
+II.
+The impugned decision
+[10]
+The Prothonotary adopted Mexx's submissions that the Plaintiff knew at the time it commenced the Federal Court proceedings, that Mexx was the owner of the garments, and that given the provisions of section 69.4 of the Act, the Plaintiff had no right to institute these proceedings without first obtaining permission of the Superior Court, which it did not do. In coming to this conclusion, the Prothonotary found that the timing of the insolvency proceedings as compared to the arrests was a central fact to consider, and distinguished on that basis the decision of the Supreme Court in
+REFERENCE_SUPPRESSED. In that case, the ship against which an
+in rem
+action had been filed by secured creditors had already been arrested and sold at the time of the intervention of the Canadian bankruptcy court. Moreover, LF Centennial's right as a secured creditor had not yet crystallized at the time of the arrests, according to the Prothonotary, which further distinguished this case from
+CITATION_SUPPRESSED
+.
+[11]
+The Prothonotary also found that the Plaintiff and its counsel knew or ought to have known of the NOI and failed to disclose the existence of the restructuring proceedings pending before the Québec Superior Court when it applied for the arrest of the garments.
+[12]
+As a result, the Prothonotary granted aid to the Superior Court, as requested by the Interveners, by:
+(i)
+ORDERING
+Plaintiff to respect the Stay and the Extension and Liquidation Orders;
+(ii)
+ORDERING
+a stay of the present action;
+(iii)
+DISCHARGING
+the arrest;
+(iv)
+RELEASING
+Mexx from its obligations under the Escrow Agreement and
+DECLARING
+the Escrow Agreement dissolved and without effect as of the date of the order to be rendered herein; and
+(v)
+DECLARING
+that Mexx may remove from escrow any Net Proceeds deposited pursuant to the Escrow Agreement.
+[13]
+In
+obiter
+, the Prothonotary went further and added that even if he had not granted the above mentioned remedy, he would have seriously considered striking and quashing the Statement of Claim filed in this Court by LF Centennial as a result the arrest of the garments. The Prothonotary found that "un poids certain" must be given to Mexx's submission that the Plaintiff's claim does not rise out of a contract for the carriage of goods or for the use or hire of a ship, since the only contracts between Mexx and the suppliers of the garments were strictly for the sale of those goods and had nothing to do with the carriage of the garments. Moreover, Mexx was neither the owner, charterer or operator of any ship or conveyance involved in the carriage of the garments. As a result, the dispute between the Plaintiff and Mexx is of a commercial nature only, and has no connection with carriage by sea or maritime law. This Court would therefore be without jurisdiction to deal with Plaintiff's alleged right of stoppage in transit, as such a remedy in the present context has no connection to maritime law pursuant to section 22 of the
+Federal Courts Act
+, RSC 1985, c F-7.
+III.
+Issues
+[14]
+The issues to be determined in this appeal are the following:
+A. What is the standard of review of the decision of the Prothonotary?
+B. Did the Prothonotary err in ordering that the Plaintiff's action be stayed and the security be dissolved because it did not apply for permission under section 69.4 of the Act to exercise a right of stoppage in transit?
+C. Does the Federal Court have jurisdiction over this matter?
+IV.
+Analysis
+A. What is the standard of review of the decision of the Prothonotary?
+[15]
+It is well established that discretionary orders of prothonotaries are not to be disturbed on appeal unless:
+a) the questions raised in the motion are vital to the final issue of the case; or
+b) the orders are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts.
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED
+[16]
+There is no dispute between the parties that the discretionary decision made by the Prothonotary is vital to the final issue of the case, to the extent that discharging the arrests and dissolving the Escrow Agreement could in effect render the underlying action
+in rem
+moot or significantly reduce the possibility of realizing any possible judgment in such an action.
+[17]
+On that ground alone, and quite apart from any error of fact or law that the Prothonotary may have made with respect to the test for a motion to strike a claim or to stay proceedings, this appeal must be heard on a
+de novo
+basis.
+B. Did the Prothonotary err in ordering that the Plaintiff's action be stayed and the security be dissolved because it did not apply for permission under section 69.4 of the Act to exercise a right of stoppage in transit?
+[18]
+Counsel for the Plaintiff submitted that the Prothonotary erred in ordering the discharge of the arrest and the dissolution of the Escrow Agreement without applying the test for a motion to strike a statement of claim. As Mexx is presently in the midst of insolvency proceedings, the Order of the Prothonotary will effectively render the Plaintiff's
+in rem
+action moot as the possibility of any eventual judgment on the right to arrest the goods in transit will be of no effect, according to counsel. Quite apart from this context, counsel further submits that a defendant must always apply to strike out the statement of claim in order to set aside the warrant of arrest, as the latter is the accessory of the former. That being the case, the Plaintiff's claim should only have been struck if it is plain and obvious that the pleading discloses no reasonable cause of action, assuming the facts pleaded to be true, pursuant to Rule 221(1)(a) of the
+Federal Courts Rules
+.
+[19]
+With all due respect, this argument is without merit. The Notice of Motion filed by the Interveners requested a stay of the Federal Court proceedings on the basis of section 50 of the
+Federal Courts Act
+and of section 188(2) of the Act. This relief is distinct and alternative to the Interveners' demand that the Plaintiff's action be struck for want of jurisdiction pursuant to Rules 208 and 221, because the action discloses no reasonable cause of action, pursuant to Rule 221(1)(a), or because the action is abusive within the meaning of Rule 221(1)(f). In applying for a stay of the Federal Court proceedings pursuant to section 188(2) of the Act, the Prothonotary was not bound to apply the test that would ordinarily apply to a motion to strike; the tests and rules applicable to one do not apply to the other.
+[20]
+Section 188(2) of the Act is prescriptive and mandatory, and directs all courts and officers of all courts to act in aid of the Superior Court in ensuring that its process with respect to Mexx's insolvency proceedings is obeyed. It reads as follows:
+All courts and the officers of all courts shall severally act in aid of and be auxiliary to each other in all matters of bankruptcy, and an order of one court seeking aid, with a request to another court, shall be deemed sufficient to enable the latter court to exercise, in regard to the matters directed by the order, such jurisdiction as either the court that made the request or the court to which the request is made could exercise in regard to similar matters within its jurisdiction.
+Tous les tribunaux, ainsi que les fonctionnaires de ces tribunaux, doivent s'entraider et se faire les auxiliaires les uns des autres en toutes matières de faillite; une ordonnance d'un tribunal demandant de l'aide, accompagnée d'une requête à un autre tribunal, est censée suffisante pour permettre au dernier tribunal d'exercer, en ce qui concerne les affaires prescrites par l'ordonnance, la juridiction que le tribunal qui a présenté la requête ou le tribunal à qui la requête a été présentée, pourrait exercer relativement à des affaires semblables dans sa juridiction.
+[21]
+The Prothonotary, therefore, had no discretion to exercise and was bound to come to the aid of the Superior Court and ensure that the stay was respected. I agree with the Interveners that the only way the Prothonotary could do so was by staying the Federal Court proceedings and vacating the security.
+[22]
+Given the provisions of section 69 of the Act, the Plaintiff had no right to institute the Federal Court proceedings without first obtaining permission of the Superior Court pursuant to section 69.4. In the case at bar, not only has the Plaintiff not sought permission from the Superior Court, but it did not even disclose the existence of the restructuring proceedings pending before that Court. If leave is not obtained under section 69.4 of the Act, the proceedings are ineffective and do not confer any rights on a creditor:
+Textiles Tri-Star Ltée c Dominion Novelty Inc
+(1993), 22 CBR (3d) 213 (QCCS).
+[23]
+Counsel for the Plaintiff argued that a stay pursuant to section 69 does not apply to
+in rem
+proceedings and does not strip this Court of its admiralty jurisdiction to hear the action. At most, this Court should have "due regard" for those proceedings, and the Prothonotary erred in distinguishing the decision of the Supreme Court in
+CITATION_SUPPRESSED
+on the basis that the bankruptcy procedures in that case were initiated after the ship had been arrested and ordered to be appraised and sold by this Court.
+[24]
+The first and most obvious distinction between the facts underlying
+CITATION_SUPPRESSED
+and those at play in the case at bar is that stressed by the Prothonotary, to wit, the timing of the bankruptcy proceeding. As noted by the Prothonotary, the
+in rem
+proceedings before the Federal Court were well under way in
+CITATION_SUPPRESSED
+; not only had the ship been arrested for six weeks when the trustees in bankruptcy sought the adjournment of the
+in rem
+proceedings, but it was ordered appraised and sold a week after the trustees' motion before the Québec Superior Court was granted, obtaining an order recognizing and declaring executory in Québec a Belgian bankruptcy order. Nowhere in that decision are sections 69 or 188(2) of the Act alluded to or discussed by the Court, for the obvious reason that the train had left the station before they could be implemented.
+[25]
+There is, however, another, more fundamental reason why
+CITATION_SUPPRESSED
+ought to be distinguished from the facts that are before this Court. In
+CITATION_SUPPRESSED
+, this Court was faced with a bankruptcy proceeding, which is intended to facilitate the distribution of a debtor's property to its creditors in a manner that is fair to the debtor's stakeholders. To ensure that this process takes place in an orderly and equitable manner, section 69.3(1) of the Act imposes a stay of proceedings against the debtor and its property; that stay, however, does not affect secured creditors, and pursuant to section 69.3(2) "the bankruptcy of a debtor does not prevent a secured creditor from realizing or otherwise dealing with his or her security in the same manner as he or she would have been entitled to realize or deal with it if this section had not been passed".
+[26]
+The situation is quite different in an insolvency proceeding, where the objective is to provide breathing space for the debtor company to restructure and refinance. Upon the filing of a notice of intention pursuant to section 50.4(1) of the Act, a stay of proceedings arises through the operation of subsections 69(1)(a) and (b), and such a stay binds all the creditors including the secured creditors. Indeed, it even binds Her Majesty in Right of Canada and Her Majesty in Right of a province, pursuant to subsections 69(1)(c) and (d). Any creditors, secured or not, who wish to commence any action or assert any claim against an insolvent person or its property must obtain leave from the Court pursuant to section 69.4, which is granted only in extraordinary circumstances. Given the breadth of this provision and the mandatory nature of section 188(2) of the Act, I see no reason why it should not have been given effect by the Prothonotary. If the Plaintiff was allowed to proceed with its
+in rem
+action in this Court without leave from the Superior Court, it would be granted an unfair advantage over other ordinary creditors and even over the Crown, and there is nothing in the language of section 69 read as a whole to allow for that construction.
+[27]
+Even if one were to accept that the Prothonotary had some discretion as to the way in which he could come to the aid of the Superior Court pursuant to section 188(2) of the Act, I agree with counsel for the Interveners that ordering a stay of the Federal Court proceedings was the appropriate course of action in the circumstances. As explained by Justice Hugessen in
+REFERENCE_SUPPRESSED, the "proper attitude of respectful cooperation" which this Court has to judgments of a provincial superior court will require that, "as a matter of course", this Court gives aid "in virtually every case" to orders issued by such court that requests this Court's aid. While Justice Hugessen was dealing with an order made by the Superior Court of Ontario under the
+Companies' Creditors Arrangement Act
+, RSC 1985, c C-36, the same is true of an order by the Superior Court of Québec under the Act. Indeed, his reasoning is even more compelling where the insolvency proceedings occur under the umbrella of the Act which, unlike the
+Companies' Creditors Arrangement Act
+, provides for a mandatory, statutory stay of proceedings binding upon all of the insolvent person's creditors, including secured creditors.
+[28]
+Justice Hugessen did leave the door open for this Court to refuse the granting of a stay in aid of a provincial superior court order when, for some reason, it is established that such a stay should not be granted. The burden, however, will always be on the person seeking to avoid the consequences of this Court acting in furtherance of a provincial superior court order. In the case at bar, the Plaintiff introduced no meaningful evidence at the hearing before Prothonotary Morneau; indeed, the only evidence of substance was the affidavit filed by the Interveners of Mr. Andrew Adessky, a chartered accountant and trustee in bankruptcy employed by Richter. In the absence of any particular circumstances brought to the attention of the Prothonotary establishing why a stay was unwarranted, he was entirely justified to grant the stay, to discharge the arrest of the cargo and to dissolve the bail agreement, thereby ensuring the proper administration of the restructuring process initiated in the Québec Superior Court.
+[29]
+These reasons, in and of themselves, would be sufficient to dispose of this matter. Yet the Prothonotary also made some comments in
+obiter
+on the jurisdiction of this Court, and I will now address them briefly.
+C. Does the Federal Court have jurisdiction over this matter?
+[30]
+LF Centennial submits that its cause of action for stoppage in transit of cargo being carried pursuant to multimodal bills of lading falls under the jurisdiction of the Federal Court pursuant to subsection 22(2)(i) of the
+Federal Courts Act
+. Relying on the allegedly broader language of that section as compared to subsection 22(2)(f), the Plaintiff submits that subsection 22(2)(i) does not require that it be a party to the contract of carriage, as long as its cause of action invokes the carriage of goods.
+[31]
+While I accept that subsection 22(2)(i) must be read purposively, it cannot be stretched indefinitely. The Plaintiff's claim does not arise out of a contract for the carriage of goods or for the use or hire of a ship, but flows exclusively from contracts of sale. The only contract in existence between the Plaintiff and Mexx is the Buying Agency Agreement. The only contracts in existence between Mexx and the suppliers of the garments were strictly for the sale of those goods. I fail to understand how any of these contracts can be interpreted as having the slightest thing to do with the carriage of the garments. Indeed, section 5.2 of the Buying Agency Agreement carves out from that agreement the "insurance, shipping, forwarding, handling, and other incidental charges against shipments incurred" by Mexx or its affiliates.
+[32]
+Mexx was neither the owner, charterer or operator of any ship or conveyance involved in the carriage of the garments. It is Mexx's freight forwarder that made arrangements with common carriers for the carriage of the garments from their FOB/FAS points to Montréal. In the absence of any further evidence, subsection 22(2)(i) is clearly insufficient to ground the jurisdiction of this Court over the Statement of Claim brought by Plaintiff. It would be an impermissible, unwarranted and unconstitutional extension of this Court's jurisdiction over maritime and admiralty law to deal with such a matter.
+[33]
+I accept, of course, that the type of claims enumerated at section 22(2) are not exhaustive and that other actions in maritime law may be available pursuant to the general grant of jurisdiction over maritime matters at section 22(1). I also accept, of course, that as part of "the law that was administered by the Exchequer Court of Canada on its Admiralty side by virtue of the
+Admiralty Act
+... or any other statute" (see the definition of "Canadian maritime law" in section 2 of the
+Federal Courts Act
+), English admiralty law as it existed in 1934 is part of Canadian law:
+REFERENCE_SUPPRESSED. That being said, this is far from sufficient to demonstrate that the Plaintiff's claim pertains to maritime law. Once again, the dispute between LF Centennial and Mexx arises out of purely commercial contracts of sale, with no maritime component. The mere fact that the garments had been carried on a ship at some point in their voyage to Canada does not establish a sufficient connection between the dispute and maritime transport. The concept of maritime law must not be expanded to such an extent as to encroach upon provincial legislative competence:
+CITATION_SUPPRESSED;
+REFERENCE_SUPPRESSED.
+[34]
+Counsel for the Plaintiff tried to substantiate an integral connection between its claim and maritime law with a number of factors, many of which are not supported by the evidence. In particular, the Plaintiff relies on the fact that every single arrest was carried out on cargo that was shipped by sea. As previously mentioned, this is insufficient to connect the claim to maritime law, especially since most of the garments were already in storage in warehouses far removed from any port and had already been delivered to Mexx when the arrest took place. The evidence is clear that most of the garments were no longer in the hands of any ocean carriers (or other carriers in the multimodal chain) or in the course of transit when the arrest was carried out.
+[35]
+Finally, counsel for the Plaintiff submitted that stoppage of goods in transit is a remedy recognized by maritime law. This is no doubt true, but it is immaterial in the context of the case at bar. First of all, there were no such rights for the Plaintiff to exercise, as it appears that the carriage of the garments had ended. As mentioned above, the evidence is to the effect that most of the garments had already been delivered to Mexx in Montréal either at its distribution center or at other warehouses when the warrant was issued. Furthermore, if the Plaintiff is the assignee of any agreement which could give rise to a right of stoppage in transit, as it purports to be, such assignment was not made known to Mexx prior to the time that it learned on December 24, 2014 of the arrest of the garments, contrary to article 1641 of the
+Civil Code of Québec
+.
+[36]
+More importantly, for this Court to have jurisdiction, the underlying claims to which the Plaintiff's demand for
+in rem
+relates, must be connected to shipping and navigation. In other words, the mere existence of a remedy does not determine whether a court has jurisdiction. The remedy is the accessory, not the principal. In the absence of any evidence to the contrary, any rights that the Plaintiff may have had as an unpaid vendor falls within the rubric of "property and civil rights" and should have been exercised before the Superior Court. The Plaintiff, not having seen fit to lead any evidence that linked its claim to a contract of carriage or that disclosed any other meaningful factor that would have given that claim a maritime flavour, I am unable to find that its claim is integrally connected with maritime matters.
+[37]
+I come to the conclusion, therefore, that the Prothonotary was correct in determining that this Court would not have jurisdiction over this matter. I need not strike the action, however, as it has been stayed by Order of the Prothonotary.
+V.
+Conclusion
+[38]
+The appeal is therefore dismissed, with costs in favour of the Interveners. Because the Plaintiff failed to make full and frank disclosure of all relevant facts when seeking the warrant for the arrest of the garments, the costs shall be assessed under Column IV of Tariff B. While the affidavit to lead warrant sworn by a director of the Plaintiff may have complied with the minimum technical requirements of the Rules, it did not relieve him of disclosing the existence of the NOI, of the Stay or of the Extension and Liquidation Orders. The Plaintiff and its counsel knew or ought to have known of the insolvency proceedings before the Québec Superior Court, and they had an obligation to be transparent. They were not entitled as of right to the issuance of a warrant, and they had an obligation to make full disclosure to enable the designated officer to exercise his discretion.
+ORDER
+[39]
+THIS COURT ORDERS that
+this appeal be dismissed, with costs to the Interveners to be assessed in accordance with Column IV of Tariff B.
+Appeal dismissed.
+Editor: Angela E. McKay
+[End of document]

@@ -1,0 +1,306 @@
+PREAMBLE
+[1]
+Shore, J.
+[Translation]:
+"[8] ... the applicant bears the burden to establish the grounds for humanitarian and compassionate consideration. The weighing of the relevant factors is the responsibility of the Minister's delegate. It is not the role of the courts to re-examine the weight given to the different factors by the immigration officer:
+ <FRAGMENT_SUPPRESSED> ."
+(Noted by Chief Justice Allan Lutfy in
+ <FRAGMENT_SUPPRESSED> ; 2005 FC 960).
+[2]
+The Court can only intervene if the impugned decision, taken as whole, is unreasonable, which is not the case here.
+INTRODUCTION
+[3]
+This is an application for judicial review under subsection 72(1) of the
+Immigration and Refugee Protection
+Act
+, S.C. 2001, c. 27 (
+Act
+), of a decision dated November 24, 2006, in which immigration officer Ms. Chantal Roy refused to grant the applicant, Mr. Kelety Doumbouya, an exemption, based on humanitarian and compassionate grounds, from the requirement to obtain an immigrant visa abroad, an exemption that would have allowed his application for permanent residence to be processed in Canada.
+[4]
+Under subsection 11(1) of the
+Act
+, a person who wishes to immigrate to Canada must file an application for permanent residence from outside Canada.
+"11(1) A foreign national must, before entering Canada, apply to an officer for a visa or for any other document required by the regulations. The visa or document shall be issued if, following an examination, the officer is satisfied that the foreign national is not inadmissible and meets the requirements of this Act."
+[5]
+Subsection 25(1) of the
+Act
+provides, however, that the Minister has discretion to facilitate the admission of a person to Canada or to exempt the person from any criteria or obligations in the
+Act
+if the Minister is satisfied that such an exemption or facilitation should be granted based on humanitarian and compassionate considerations.
+"25(1) The Minister shall, upon request of a foreign national who is inadmissible or who does not meet the requirements of this Act, and may, on the Minister's own initiative, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligation of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to them, taking into account the best interests of a child directly affected, or by public policy considerations."
+[6]
+As Mr. Justice Yves de Montigny wrote in
+ <FRAGMENT_SUPPRESSED> ; 2006 FC 356:
+"[20] One of the cornerstones of the
+Immigration and Refugee Protection
+Act
+is the requirement that persons who wish to live permanently in Canada must, prior to their arrival in Canada, submit their application outside Canada and qualify for, and obtain, a permanent resident visa. Section 25 of the
+Act
+gives to the Minister the flexibility to approve deserving cases for processing within Canada. This is clearly meant to be an exceptional remedy, as is made clear by the wording of that provision ..."
+[7]
+"The H&C decision-making process is a highly discretionary one that considers whether a special grant of an exemption is warranted ..." (
+ <FRAGMENT_SUPPRESSED> ; 2006 FC 162, paragraph 15).
+[8]
+Mr. Doumbouya had the burden of proving that he would face unusual, undeserved or disproportionate hardship if he were required to file his application for permanent residence from outside the country; this is the test adopted in
+ <FRAGMENT_SUPPRESSED> ; 2007 FC 651 and
+ <FRAGMENT_SUPPRESSED> ; 288 N.R. 174; 2002 FCA 125, paragraphs 23 and 28.
+[9]
+In <FRAGMENT_SUPPRESSED> , above, de Montigny, J., wrote the following regarding the meaning of the words "unusual and unjustified or disproportionate" in this context:
+"[20] ...
+"In assessing an application for landing from within Canada on Humanitarian and Compassionate grounds made pursuant to section 25, the Immigration Officer is provided with Ministerial guidelines.
+Immigration Manual IP5 - Immigration Applications in Canada made on Humanitarian or compassionate Grounds
+, a manual put out by the Minister of Citizenship and Immigration Canada, provides guidelines on what is meant by Humanitarian and Compassionate grounds ...
+. . . . .
+"The
+IP5 Manual
+goes on to define 'unusual and undeserved' hardship and 'disproportionate' hardship. It states, at paragraphs 6.7 and 6.8:
+'
+6.7 Unusual and undeserved hardship
+'Unusual and undeserved hardship is:
+- the hardship (of having to apply for a permanent resident visa from outside of Canada) that the applicant would have to face should be, in most cases, unusual, in other words, a hardship not anticipated by the Act or Regulations; and
+- the hardship (of having to apply for a permanent resident visa from outside of Canada) that the applicant would face should be, in most cases, the result of circumstances beyond the person's control
+'
+6.8 Disproportionate hardship
+'Humanitarian and compassionate grounds may exist in cases that would not meet the "unusual and undeserved" criteria but where the hardship (of having to apply for a permanent resident visa from outside of Canada) would have a disproportionate impact on the applicant due to their personal circumstances'"
+[10]
+Hardship that is inherent in having to leave Canada is not enough ( <FRAGMENT_SUPPRESSED> , above, paragraph 16).
+FACTS
+[11]
+Mr. Doumbouya is a citizen of Guinea and is 28 years old.
+[12]
+He arrived in Canada on December 8, 2002, and claimed refugee protection the same day.
+[13]
+The Refugee Protection Division (RPD) refused his claim on December 17, 2003. His application for leave and judicial review was dismissed on April 6, 2004.
+[14]
+Mr. Doumbouya claimed that he was the founder of a young people's movement (Peace and Love), a cultural association with no political aspirations.
+[15]
+As a result of various political pressures, the group Peace and Love decided to support the Parti Unité et Progrès (PUP) in the election campaign.
+[16]
+After the elections, the PUP allegedly failed to keep its promises after its electoral victory, and Peace and Love decided to support the Rally for the Guinean People (RGP).
+[17]
+Mr. Doumbouya claims that he was arrested and released, then went to the Ivory Coast where he lived for more than two years.
+[18]
+In his H&C application, Mr. Doumbouya presented arguments about alleged errors made by the RPD. He asserts that he has defended the RGP's ideals since his arrival in Canada and relies on the general political instability in Guinea as well as the lack of security.
+[19]
+Mr. Doumbouya argues that his stay in Canada has led to his establishment and integration into Canadian society. He has been working full-time since June 2003, has taken various courses and began operating his own business. He is financially independent, pays his taxes, owns a car and rents an apartment.
+ISSUES
+[20]
+(1) Did the officer apply the proper criteria?
+(2) Did the officer give sufficient reasons for her decision?
+(3) Is the impugned decision vitiated because it is based on a Pre-Removal Risk Assessment (PRRA) that is allegedly wrong in fact and in law?
+(4) Did the officer consider all the evidence?
+(5) Did the officer refuse to exercise her jurisdiction?
+(6) Did the officer erroneously rely on the documentary evidence concerning the situation in Guinea?
+(7) Did the officer make unreasonable findings about the applicant's risks of return?
+(8) Did the officer infringe the applicant's right to be heard because she did not interview him prior to making her decision?
+ANALYSIS
+Appropriate standards of review
+[21]
+Since the decision in
+ <FRAGMENT_SUPPRESSED> , it is now well settled that the appropriate standard of review of decisions under subsection 25(1) of the
+Act
+is reasonableness simpliciter (
+ <FRAGMENT_SUPPRESSED> ; 2007 FC 498, paragraph 11.
+[22]
+As Mr. Justice Maurice Lagacé wrote in
+ <FRAGMENT_SUPPRESSED> ; 2007 FC 468:
+"[18] When the standard of review is reasonableness simpliciter, the Court may not substitute its own assessment of the facts for that of the decision-maker. Instead, the Court must ensure that 'the reasons, taken as a whole, are tenable as support for the decision' (
+ <FRAGMENT_SUPPRESSED> , at paragraph 56). As long as the officer considers the relevant, appropriate factors from an H&C perspective, the Court cannot interfere with the weight the officer gave to the different factors to conclude as he or she did, even if the Court would have weighed them differently (
+ <FRAGMENT_SUPPRESSED> ; 2006 FC 1108, at paragraph 24)."
+[23]
+Moreover, questions of a purely factual nature that are decided by an officer in arriving at the impugned decision are reviewable against the patently unreasonable standard (
+ <FRAGMENT_SUPPRESSED> ; 302 N.R. 178; 2003 FCA 39).
+[24]
+Essentially, Mr. Doumbouya submits that the officer erred in law in failing to apply the proper criteria, not giving sufficient reasons for her decision, relying on a PRRA decision that is wrong in fact and in law, failing to consider all the evidence, refusing to exercise her jurisdiction, erroneously relying on the documentary evidence concerning the situation in Guinea and making unreasonable findings about Mr. Doumbouya's risks of return.
+[25]
+Mr. Doumbouya also submits that the decision-maker infringed his right to be heard because she did not interview him prior to making her decision.
+The officer's decision
+[26]
+The officer reviewed the facts relied on by Mr. Doumbouya to demonstrate his establishment and integration in Canada: he works, has taken courses, started his own business, purchased a vehicle, rents an apartment and pays his taxes. She examined the various documents submitted by Mr. Doumbouya to this effect.
+[27]
+Regarding Mr. Doumbouya's establishment and integration in Canada, the officer noted that the applicant's personal qualities, which she acknowledged he has, are not among the factors to consider in analyzing an H&C application. Such an analysis does not involve assessing the applicant as an immigrant but, rather, considering the difficulties he would face if he had to comply with the requirement to obtain his immigrant visa from outside Canada.
+[28]
+The officer considered the time that Mr. Doumbouya has spent in Canada, acknowledging that this was a factor to be taken into account. She noted that although Mr. Doumbouya had registered a company, he had not established its viability. Also, his departure from Canada to comply with the requirements of the
+Act
+would not, in the officer's opinion, cause unusual, undeserved or disproportionate hardship in this regard.
+[29]
+After analyzing all the evidence, the officer concluded that the humanitarian and compassionate considerations relied on by Mr. Doumbouya were insufficient to enable her to find that the requirement to obtain his visa abroad would have an unusual, undeserved or disproportionate impact on him.
+[30]
+After noting that Mr. Doumbouya had had the opportunity to submit both a refugee claim and a PRRA application, the officer noted that in assessing humanitarian and compassionate considerations, she had to evaluate the risk of return from a more general perspective, in accordance with chapter IP-5 of the Immigration Manual, taking into account the current situation in the country.
+[31]
+She referred to Mr. Doumbouya's fears about his political involvement in the RGP and noted that they were essentially the same fears as those set out in his PRRA application. She also mentioned that he described the political instability of Guinea, particularly regarding members of the opposition and those who criticize the government, and she reviewed the public documentary evidence on this issue. She noted that the president of the RGP, who had been in exile for two years, had returned to Guinea and that the government had taken positive political measures in terms of political openness. The officer also commented on the poverty, corruption and maladministration in Guinea.
+[32]
+In the end, the officer concluded that Mr. Doumbouya had not demonstrated that his departure from Canada would cause him serious harm based on the ties he had developed in Canada and that he had not established that the alleged risks would cause unusual, undeserved or disproportionate hardship should he return to his country to obtain his visa.
+(1) The officer applied the proper criteria to her findings of fact
+[33]
+Mr. Doumbouya submits that the officer erred in law in requiring that he demonstrate personal risk in his H&C application.
+[34]
+The officer did not err in addressing the personal risk factor in her analysis of all the grounds relied on by Mr. Doumbouya.
+[35]
+Risk is a factor to be considered in assessing "unusual and undeserved or disproportionate hardship" within the context of a humanitarian and compassionate application (
+Lin
+, above, paragraph 7).
+[36]
+Moreover, according to the
+Immigration Manual
+of the Department of Citizenship and Immigration, regarding applications under section 25 of the
+Act
+(paragraph 13 of chapter IP-5):
+"Positive (H&C) consideration may be warranted for persons whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally to a risk to their life or to a risk to security of the person."
+[37]
+However, as Mr. Justice Sean Harrington wrote in <FRAGMENT_SUPPRESSED> , above:
+"[7] While PRRA and H&C applications take risk into account, the manner in which they are assessed is quite different. In the context of a PRRA, 'risk' as per section 97 of
+IRPA
+involves assessing whether the applicant would be personally subjected to a danger of torture or to a risk to life or to cruel and unusual treatment or punishment.
+"[8] In an H&C application, however, risk should be addressed as but one of the factors relevant to determining whether the applicant would face unusual, and underserved or disproportionate hardship. Thus the focus is on hardship, which has a risk component, not on risk as such.
+"[9] In general terms, it is more difficult for a PRRA applicant to establish risk than it is for an H&C applicant to establish hardship (see:
+ <FRAGMENT_SUPPRESSED> ; 2004 FC 1327;
+ <FRAGMENT_SUPPRESSED> ; 2006 FC 674; and
+ <FRAGMENT_SUPPRESSED> ; 2005 FC 296).
+. . . . .
+"[12] In the current case, the officer considered the risk factors set out in the negative refugee claim decision, and updated them. Although he considered Mr. Singh Sahota's connections with Canada, as far as India is concerned, although he used the humanitarian and compassionate form, in reality all he did was assess risk, not hardship. For instance he said, 'in assessing the risk invoked by the applicant I note that they have, in substance, been previously considered by the IRB.' It may well be that a risk may not be so sufficient as to support a refugee claim under sections 96 or 97 of
+IRPA
+, but still be of sufficient severity to constitute a hardship.
+"[13] The officer applied the wrong test. ..."
+[38]
+In this case, after considering Mr. Doumbouya's entire file, including his application for visa exemption, the officer determined, in the part of her reasons concerning [Translation] "Risks" that, considering Mr. Doumbouya's personal profile and the current situation in Guinea described in public information sources, Mr. Doumbouya failed to establish that the particular circumstances of his case were such that he would face unusual, undeserved or disproportionate hardship if required to apply for a visa abroad.
+[39]
+Further on, in her general conclusion, the officer noted that [Translation] "the applicant failed to establish that the alleged risks would cause him to suffer unusual, undeserved or disproportionate hardship." (
+ <FRAGMENT_SUPPRESSED> ; 2006 FC 1356, paragraph 37).
+[40]
+The officer thus considered the risk factors, even though a valid negative PRRA had been made. She was aware there could be risk factors that might be relevant to an application for permanent residence in Canada under section 25 of the
+Act
+but that fall well below the more rigorous threshold of a risk to life or a risk of cruel and unusual punishment on a PRRA, since she herself referred to the lower burden on this issue.
+[41]
+It is therefore clear from the officer's reasons that she applied the proper criteria in assessing Mr. Doumbouya's H&C application.
+(2) The officer's decision is sufficient
+[42]
+According to Mr. Doumbouya, the officer's decision [Translation] "suffers from ... a lack of reasons."
+[43]
+In support of this position, Mr. Doumbouya takes issue with the vague nature of the words [Translation] "does not possess the characteristics of individuals who are particularly targeted" at the very end of the following passage from Ms. Roy's reasons (at page 4, just before her general conclusion):
+[Translation] "Considering the applicant's personal profile and the current situation in Guinea described in the public information sources, the claimant has not demonstrated that the particular circumstances of his case are such that applying for a permanent resident visa in Guinea would cause him unusual or undeserved hardship, i.e. not anticipated by the
+Act
+, or disproportionate. Therefore, based on the documentation I consulted and the IRB's decision, I find that the claimant's allegations are not corroborated by the objective documentation that I consulted and that
+he does not have the characteristics of individuals who are particularly targeted
+." (Emphasis added.)
+[44]
+This last part of the sentence at the beginning of the first paragraph on page 4 of the officer's reasons, where she wrote the following, must be re-read:
+[Translation] "Every applicant must demonstrate the existence of a personalized risk to his or her life and safety. The pre-removal risk assessment found that the claimant was not a person in need of protection. I have reviewed the applicant's evidence and arguments. I consulted the public documentation myself. The facts as stated, the evidence submitted and the conditions relating to the country at the time of the decision
+do not establish in a significant way that the applicant would be targeted
+should he return to his country." (Emphasis added.)
+[45]
+It is therefore clear that by using the expression "does not have the characteristics of individuals who are particularly targeted", the decision-maker meant that the applicant does not have the characteristics of a person personally facing a risk to his life or a risk of cruel and unusual punishment or any type of persecution.
+[46]
+Essentially, the officer found that Mr. Doumbouya had failed to discharge his burden of proof. She was not satisfied on a balance of probabilities that he would face unusual, undeserved or disproportionate hardship if he had to apply for permanent residence abroad. She concluded that he had not established that his situation presented sufficient humanitarian considerations to warrant an exemption. Last, she determined that he had not established that he had a personal profile that could cause unusual, undeserved or disproportionate hardship for him should he return to Guinea.
+[47]
+It is clear from all of the officer's reasons that she stated her findings clearly and explained her conclusions appropriately. She reviewed all the considerations that Mr. Doumbouya relied on and weighed the evidence. Her reasons are clear, specific and intelligible.
+[48]
+Under the circumstances, the reasons for the decision are sufficiently detailed to explain the basis for it and to follow the path of the decision-maker's reasoning (
+ <FRAGMENT_SUPPRESSED> ; 299 F.T.R. 262; 2006 FC 1089, paragraphs 26-28).
+[49]
+Mr. Doumbouya's submission that the officer's reasons are insufficient is therefore without merit.
+(3) The H&C decision is not tainted by its wording
+[50]
+Mr. Doumbouya submits that since the H&C decision at issue in this case is based on errors made by the same decision-maker, Ms. Roy, in her PRRA concerning Mr. Doumbouya, the H&C decision is tainted by the same errors.
+[51]
+The PRRA decision is not tainted, and accordingly, the H&C decision at issue in this case is not weakened by the alleged errors Ms. Roy made in her PRRA concerning Mr. Doumbouya.
+(4) The decision-maker considered all the evidence
+[52]
+Mr. Doumbouya argues that Ms. Roy failed to analyze all the evidence before making the impugned decision in this case.
+[53]
+As noted by Mr. Justice Yvon Pinard in
+ <FRAGMENT_SUPPRESSED> ; 2006 FC 168:
+"[37] ... There is a presumption that the decision-maker considered all of the evidence before making a decision (
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.))."
+[54]
+Mr. Doumbouya does not raise any ground in his memorandum that would provide a basis for the Court to disregard the presumption in this case.
+[55]
+Therefore, Mr. Doumbouya's argument on this issue must be dismissed.
+(5) The officer did not refuse to exercise her jurisdiction
+[56]
+Mr. Doumbouya maintains that the officer in this case declined to exercise her jurisdiction in refusing to consider the applicant's arguments about errors made by the RPD of the Immigration and Refugee Board (Board) in its decision concerning Mr. Doumbouya.
+[57]
+On this point, the officer was correct because the officer who processes an H&C application does not sit on an appeal or review of the Board's decision (
+ <FRAGMENT_SUPPRESSED> ; 2006 FC 1003, paragraph 38).
+(6) The officer did not erroneously rely on the documentary evidence
+[58]
+Mr. Doumbouya submits that the officer erred in writing the following in her reasons (page 4):
+[Translation] "The overall situation in the country, as in many African countries, is one of poverty and lack of education; despite its natural resources, the country suffers from problems of corruption and maladministration. Although this situation is regrettable, it does not in itself constitute a risk of return ..."
+[59]
+The respondent contends that this finding is based on the evidence and is not tainted by an error of law.
+[60]
+Moreover, the Court notes that
+the excerpt from the PRRA decision about Mr. Doumbouya, which is found at paragraph 92 of his memorandum, is not in the impugned H&C decision in this case
+.
+[61]
+Accordingly, there is no need to deal with this excerpt on this application.
+(7) The officer's findings regarding the applicant's risks of return are not unreasonable
+[62]
+Mr. Doumbouya submits that the officer's findings regarding his risks of return to Guinea are unreasonable.
+[63]
+The officer listed the evidence adduced by Mr. Doumbouya to support his fear based on his political involvement in both Guinea and Canada. She noted that the allegations of risk of return were essentially the same as those described in the PRRA application. She referred to these allegations and weighed them in light of the documentary evidence about Guinea.
+[64]
+The officer was entitled to give more weight to the documentary evidence than to Mr. Doumbouya's evidence especially since she noted that the president of the RGP had returned to Guinea without incident after being in exile for two years.
+[65]
+In the circumstances, she concluded that Mr. Doumbouya's profile and the current situation in Guinea did not demonstrate that Mr. Doumbouya's particular circumstances were such that he would face unusual, undeserved or disproportionate hardship if he had to apply for a visa in Guinea.
+[66]
+The role of the Court is not to reassess the evidence, and the fact that the Court might have arrived at a different conclusion does not justify its intervention.
+[67]
+As Chief Justice Allan Lutfy noted in
+Lin
+, above:
+"[8] ... the applicant bears the burden to establish the grounds for humanitarian and compassionate consideration. The weighing of the relevant factors is the responsibility of the Minister's delegate. It is not the role of the courts to re-examine the weight given to the different factors by the immigration officer:
+ <FRAGMENT_SUPPRESSED> ."
+[68]
+The Court can only intervene if the impugned decision, taken as a whole, is unreasonable, which is not the case here.
+(8) The officer did not infringe the applicant's right to be heard by not interviewing the applicant about his H&C application
+[69]
+Mr. Doumbouya submits that the officer should have met with him before making her decision, given that she [Translation] "seriously questioned" his credibility on key points of his H&C application by relying on the Board's findings.
+[70]
+Mr. Doumbouya relies on section 167 of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 (as amended) (
+Regulations
+); however, this provision does not apply to applications under section 25 of the
+Act
+. Section 167 expressly states that it only applies to paragraph 113(b) of the
+Act
+.
+[71]
+Moreover, as Mr. Justice Richard Mosley stated in
+ <FRAGMENT_SUPPRESSED> ; 2005 FC 816:
+"[10] In
+Baker
+, supra, the Supreme Court of Canada observed at paragraph 34 that immigration officer decisions are 'very different from judicial decisions'. The Court recognized that the statute provides for flexibility on practice and procedure.
+An oral hearing is not always necessary to ensure a fair hearing
+. The applicant must have a meaningful opportunity to present the various types of evidence relevant to his or her case and have it fully and fairly considered. What is required is meaningful participation in the decision making process." (Emphasis added)
+[72]
+In fact, as Mr. Justice Pinard noted in
+Étienne et al. v. Canada (Ministre de la Citoyenneté et de l'Immigration)
+, [2003] F.T.R. Uned. 786; [2003] F.C.J. No. 1659; 2003 FC 1314, at paragraph 9: "... The caselaw of this Court is consistent that an interview is not required to ensure procedural fairness in processing applications for visa exemptions for humanitarian considerations ..."
+[73]
+The
+Étienne
+decision was cited with approval on this point by Mr. Justice Conrad von Finckenstein in
+ <FRAGMENT_SUPPRESSED> ; 2006 FC 1530, at paragraph 20.
+[74]
+Furthermore, a careful reading of the officer's reasons in this case shows that she did not base her decision on Mr. Doumbouya's lack of credibility.
+[75]
+Even if the officer had relied on such a deficiency, she would not have been required to conduct an interview with Mr. Doumbouya about his application under section 25 of the
+Act
+(
+ <FRAGMENT_SUPPRESSED> ; 2006 FC 1322, paragraph 17).
+[76]
+For these reasons, Mr. Doumbouya's arguments on this issue fail.
+CONCLUSION
+[77]
+The decision of the H&C officer in this case contains no reviewable errors and is not vitiated by a breach of natural justice.
+[78]
+In light of the foregoing, Mr. Doumbouya's application for judicial review is dismissed.
+JUDGMENT
+[79]
+THE COURT ORDERS that
+1. The application for judicial review is dismissed.
+2. No serious question of general importance is certified.
+Application dismissed.
+Editor: Elizabeth MA Turgeon/pdk

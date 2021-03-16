@@ -1,0 +1,561 @@
+[1]
+Harrington, J.
+: Are government institutions which are subject to the
+Access to Information Act
+, at liberty to charge the public a fee to search for, and prepare for disclosure, information found in governmental electronic records? The problem lies in the definition of "record" ("document"). There are two types of electronic records contemplated by the
+Act
+: those that already exist and those that do not but can be created with the aid of computers. The current Information Commissioner submits that fees may only be levied with respect to the latter. The Attorney General and the Crown corporations which have intervened hold the view that a fee may be levied irrespective of whether or not the record currently exists. That view was also held by the commissioner's predecessor.
+[2]
+The point is a narrow one, one which is not easy to resolve. Not only is the language of the
+Act
+and the
+Regulations
+enacted thereunder vague, but they have practically stood still since they were passed in the early 1980s. At that time, although personal computers existed, their use in the government workplace was more or less non-existent. Over the years there has been a shift from records which were solely paper based to electronic records, although hard copy versions may also exist. Personal computers, laptops and tablets are now widely used in the government workplace.
+[3]
+The answer lies in the intention of Parliament and the Governor-in-Council. I must say I am far from certain what that intention was. The decision of Lord Justice Edmund Davies in
+The Putbus
+, [1969] 2 All ER 676, [1969] 1 Lloyd's Rep p 253 comes to mind. This is what he had to say about a difficult provision in the
+Merchant Shipping (Liability of Shipowners and Others) Act 1958
+(U.K.), 6 & 7 Eliz. II, c 62:
+This obscure provision tempts one to adopt feelingly the words of Lord Justice Scrutton in
+REFERENCE_SUPPRESSED,
+... If I am asked whether I have arrived at the meaning of the words which Parliament intended I say frankly I have not the slightest idea ...
+But, while tempted to echo those words, I do not dismiss the problem of construction as wholly beyond solution.
+[4]
+A great many aids to statutory interpretation have been invoked: the "modern" approach, shared meaning in bilingual legislation, and originalism as opposed to the "living tree" approach, among others. An extensive body of case law has been summarized in two of Canada's leading texts, Pierre-André Côté, collaboration Mathieu Devinat and Stéphane Beaulac,
+The Interpretation of Legislation in Canada
+, 4th ed (Toronto: Carswell, 2011) and Ruth Sullian,
+Sullivan on the Construction of Statutes
+, 5th ed (Markham: Lexis Nexis, 2008).
+[5]
+The question was referred to this Court by the Information Commissioner under s 18.3(1) of the
+Federal Courts Act
+, which provides that a federal board, commission or other tribunal may refer any question of law to this Court for determination. The Attorney General initially took the position that the Commissioner fell outside the scope of s 18.3 because her functions are advisory, rather than determinative. Prothonotary Tabib dismissed his motion to strike on the grounds that it was not plain and obvious that the Information Commissioner could not take advantage of s 18.3 (
+REFERENCE_SUPPRESSED).
+[6]
+The Attorney General subsequently resiled from his original position. His client, Human Resources and Skills Development Canada (HRSDC), now known as the Department of Employment and Social Development, intends to levy a search and preparation charge with respect to electronic records to be found in its computers. I am satisfied that the Information Commissioner is entitled to pose a question to this Court under s 18.3.
+I.
+The Facts
+[7]
+The parties are to be applauded for the time and effort expended in reaching an Agreed Statement of Facts with exhibits.
+[8]
+The current dispute began in 2011. A Canadian citizen made a request under the
+Act
+to HRSDC for the following three sets of records:
+1. Relational database "table relationship diagram" (or otherwise formatted "data dictionary") which defines the table structure present in the SIN record database, including the schema of all tables (names and datatypes of all fields), and table relationships.
+2. All system user manuals and/or guides concerning the database system and associated front-end user interface(s) which is/are used to provide the services associated with "Social Insurance Registration", including but not limited to the process of updating an existing SIN record,
+3. Developer's "Changelog" document description describing incremental changes in said database system and its front-end user interface application from version to version."
+It is accepted that these records exist in electronic form and do not have to be created from other records by a computer.
+[9]
+Following some discussion, the first set was provided. However, HRSDC calculated search and preparation fees in the amount of $4,180 for the other two and required prepayment, the whole in accordance with ss 11(2) and 11(3) of the
+Act
+. The fee was calculated on the basis that it would take 423 hours to locate and prepare all the relevant records.
+[10]
+Thereafter, the requestor complained to the Office of the Information Commissioner. His complaint was as to the estimate of the time required and hence the amount of the fee. However, the Commissioner took the position that since the records in question exist and were computerized no search and preparation fee was payable at all. Thus the reasonableness of the estimate is not before me.
+[11]
+This position constituted a sea change as the previous Information Commissioner was of the view that government institutions were entitled to charge for the search of and preparation of electronic records. That opinion was based upon the decision of Mr. Justice Muldoon in
+REFERENCE_SUPPRESSED. The current Information Commissioner is of the view that
+CITATION_SUPPRESSED
+did not decide the point and that on a proper interpretation of the
+Access to Information Act
+and the
+Access to Information Regulations
+, such fees may not be levied.
+II.
+The
+Ac
+t and
+Regulations
+[12]
+The
+Act
+was assented to in 1982 (SC 1980-81-82-83, c 111). The
+Regulations
+were registered the following year (SOR/83-507). Both were subsequently amended to provide for the creation of records in an "alternative format" in order to allow a person with a sensory disability to read or listen thereto. Alternative format records are not in issue.
+[13]
+The only amendment to the
+Act
+which might be relevant is the definition of "record/document". A "record" ("document") is defined in s 3 of the
+Act
+:
+"record" means any documentary material, regardless of medium or form;
+« document » Éléments d'information, quel qu'en soit le support.
+It used to read:
+"record" includes any correspondence, memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microform, sound recording, videotape, machine readable record, and any other documentary material, regardless of physical form or characteristics, and any copy thereof;
+« document » Tous éléments d'information, quels que soient leur forme et leur support, notamment correspondance, note, livre, plan, carte, dessin, diagramme, illustration ou graphique, photographie, film, micro-formule, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d'information.
+[14]
+"Record" was further defined in s 4(3) of the
+Ac
+t which has never been amended. It provides:
+For the purposes of this Act, any record requested under this Act that does not exist but can, subject to such limitations as may be prescribed by regulation, be produced from a
+machine readable record
+under the control of a government institution using computer hardware and software and technical expertise normally used by the government institution shall be deemed to be a record under the control of the government institution.
+(My emphasis.)
+Pour l'application de la présente loi, les documents qu'il est possible de préparer à partir d'un
+document informatisé
+relevant d'une institution fédérale sont eux-mêmes considérés comme relevant de celle-ci, même s'ils n'existent pas en tant que tels au moment où ils font l'objet d'une demande de communication. La présente disposition ne vaut que sous réserve des restrictions réglementaires éventuellement applicables à la possibilité de préparer les documents et que si l'institution a normalement à sa disposition le matériel, le logiciel et les compétences techniques nécessaires à la préparation.
+(Je souligne.)
+[15]
+The debate focuses on the meaning "record/document"; "machine readable record/document informatisé"; "non-computerized record/document ...pas informatisé" and "a computer/l'ordinateur" within the meaning of the
+Act
+and
+Regulations
+.
+[16]
+As set out in s 2 of the
+Act
+, its purpose is to give Canadians a right of access to information in records under the control of certain government institutions.
+[17]
+Fees are provided for in s 11 of the
+Act
+and in s 7 of the
+Regulations
+, both of which are appended hereto in full. Section 11 of the
+Act
+contemplates that a person requesting access to a record may be required to pay:
+a. an application fee not exceeding $25;
+b. a fee reflecting the cost of reproduction;
+c. the cost of converting a record into an alternative format; and
+d. a fee for every hour in excess of five hours that is reasonably required to search for the record or prepare any part of it for disclosure, be it prepared from a machine readable record or not, all as may be prescribed by regulation.
+[18]
+Section 77 of the
+Act
+provides that the Governor-in-Council may make regulations, among other things, for:
+(
+d
+) prescribing a fee for the purpose of paragraph 11(1)(a) and the manner of calculating fees or amounts payable for the purposes of paragraphs 11(1)(b) and (c) and subsections 11(2) and (3);
+d) fixer le montant des droits prévus à l'alinéa 11(1)a) et déterminer le mode de calcul du montant exigible en vertu des alinéas 11(1)b) et c) et des paragraphes 11(2) et (3);
+[19]
+Section 7 of the
+Regulations
+covers the four types of fees which Parliament authorized the Governor-in-Council to enact by way of regulation:
+a. the application fee is $5;
+b. reproduction costs are set out for photocopying, microfiche duplication, microfilm duplication, microfilm to paper duplication and magnetic tape to tape duplication;
+c. costs for producing a record in alternative format, be it brail, large print, audio cassette or microcomputer diskette.
+These fees are not in direct issue but do inform the debate as to the fourth type of fee: search and preparation fees. For instance, it is common ground that no fee is chargeable for producing a record in a more modern format such as in DVDs or USBs.
+[20]
+This brings us to the heart of the problem, ss (2) and (3) of s 7 of the
+Regulations
+. Under s 7(2) of the
+Regulations
+, if the record is a
+"non-computerized record" ("le document n'est pas informatisé")
+the head of the government institution in question may require payment in the amount of $2.50 per person per quarter hour for every hour in excess of five hours that is spent on search and preparation.
+[21]
+Subsection 7(3) goes on to provide that where the record is produced from "a
+machine readable
+record" ("lorsque le document demandé est produit à partir d'un
+document informatisé
+") the head of the government institution may, in addition to any other fee, impose two more fees:
+(a) $16.50 per minute for the cost of the central processor and all locally attached devices; and
+(b) $5 per person per quarter hour for time spent on programming a computer.
+a) 16,50 $ par minute pour l'utilisation de l'unité centrale de traitement et de tous les périphériques connectés sur place; et
+b) 5 $ la personne par quart d'heure passé à programmer l'ordinateur.
+III.
+The position of the parties
+[22]
+The formal reference is framed as follows:
+Are electronic records non-computerized records for the purpose of the search and preparation fees authorized by subsection 11(2) of the
+Access to Information Act
+(the Act) and subsection 7(2) of the
+Access to Information Regulations
+(the Regulations)?
+[23]
+The Information Commissioner submits that the answer is "no". In her view, "non-computerized records" mean records which are not stored in or on a computer or in electronic format.
+[24]
+The Attorney General submits the answer should be:
+Yes. Applying a contextual analysis, records that are subject to the search and preparations fees in subsection 7(2) of the Regulations include records in electronic format (such as Word documents or emails) that can be produced without the need to program a computer to create the record
+[25]
+The interveners also submit that the answer should be "yes".
+[26]
+The parties all agree that the
+Regulations
+are out of date. The fees, leaving aside the subsequent amendment to allow for records in alternative format remain as they were in 1983, except that in 1986 the photocopying fee was reduced from $0.25 per page to $0.20 per page. The Commissioner realizes that while in some cases searching for electronic records is straightforward; in others it can be difficult, time consuming and resource intensive. Government information exists in electronic and non-electronic format alike. Electronic records may be stored in various systems using a variety of traditional and new technologies. There is and has been a quickly changing array of hardware and software. There is no integrated system for data management as information may be stored on personal computers, hard drives, external drives, USB devices, tablets, standalone servers, common access servers and the like.
+IV.
+Deference
+[27]
+The question arises whether I owe deference to judges who looked at relevant portions of the
+Act
+and
+Regulations
+in the past; to the Information Commissioner whose home statute it is and to the opinion of Ministers of the Crown, particularly the President of the Treasury Board, whose predecessors fixed the search and preparation fees. In my opinion the question must be answered in the negative.
+[28]
+In
+CITATION_SUPPRESSED
+referred to earlier, the main focus was on whether certain documents existed. However Mr. Justice Muldoon was also of the view that the proposed charges to search and prepare for disclosure emails which already existed were reasonable.
+[29]
+Mr. Justice Muldoon and I are at the same level, subject to correction by the Federal Court of Appeal. Thus the applicable principle is not
+stare decisis
+but rather judicial comity. This principle was clearly explained by Lord Goddard C.J. in
+REFERENCE_SUPPRESSED:
+... I think the modern practice, and the modern view of the subject, is that a judge of first instance, though he would always follow the decision of another judge of first instance, unless he is convinced the judgment is wrong, would follow it as a matter of judicial comity. He certainly is not bound to follow the decision of a judge of equal jurisdiction. He is only bound to follow the decisions which are binding on him, which, in the case of a judge of first instance, are the decisions of the Court of Appeal, the House of Lords and the Divisional Court.
+[30]
+In
+REFERENCE_SUPPRESSED, Madam Justice Dawson set out circumstances which would justify a refusal to follow a prior decision of the same court:
+[52] A judge of this Court, as a matter of judicial comity, should follow a prior decision made by another judge of this Court unless satisfied that: (a) subsequent decisions have affected the validity of the prior decision; (b) the prior decision failed to consider some binding precedent or relevant statute; or (c) the prior decision was unconsidered; that is, made without an opportunity to fully consult authority. If any of those circumstances are found to exist, a judge may depart from the prior decision, provided that clear reasons are given for the departure and, in the immigration context, an opportunity to settle the law is afforded to the Federal Court of Appeal by way of a certified question. See:
+Re Hansard Spruce Mills Ltd.
+, [1954] 4 D.L.R. 590 at page 591 (B.C.C.A.), and
+REFERENCE_SUPPRESSED.
+[31]
+It does not appear that the issue as to whether fees were chargeable at all, as opposed to their reasonableness, was ever put before Mr. Justice Muldoon. In my view,
+CITATION_SUPPRESSED
+is not on point.
+[32]
+The other decision to consider is that of the Federal Court of Appeal in
+REFERENCE_SUPPRESSED. That case, if on point, is binding on the basis of
+stare decisis
+. The case is very useful in identifying records which are subject to disclosure. Yeager was carrying out research regarding the Canadian penal system. The data he sought did not exist but could be created. However considerable work, resources and expertise would be involved. There were also privacy and security concerns. The Federal Court of Appeal opined that the records sought were records within the meaning of s 4(3) of the
+Act
+. However it declared that the records need not be produced as s 3 of the
+Regulations
+provides that a record need not be produced if such production would unreasonably interfere with the operation of the government institution in question. The decision does not touch upon fees and so cannot be considered binding in this context.
+[33]
+The Office of the Information Commissioner has been on both sides of this issue at different times. Although the opinions expressed, indeed expressed in annual reports to Parliament, should be carefully considered, they are not binding.
+[34]
+This is a reference to the Court by the Information Commissioner as to the proper interpretation of the
+Act
+and
+Regulations
+. The Court is called upon to form its own opinion, not to decide whether or not the opinion of the Information Commissioner, then or now, is reasonable, as might well be the case were this a matter of judicial review. There is no decision of the Information Commissioner under review.
+[35]
+Consequently the general principle enounced by the Supreme Court of Canada that deference should be given a decision-maker interpreting his or her home statue does not apply.
+[36]
+In
+REFERENCE_SUPPRESSED the Court held that deference was owed to the Information and Privacy Commissioner under Alberta's
+Personal Information Protection Act
+. Mr. Justice Rothstein made it clear that he was addressing the issue of deference to administrative decisions. At paragraph 1 he said:
+Through the creation of administrative tribunals, legislatures confer decision-making authority on certain matters to decision makers who are assumed to have specialized expertise with the assigned subject matter. Courts owe deference to administrative decisions within the area of decision-making authority conferred to such tribunals.
+He added at paragraph 34:
+... it is sufficient in these reasons to say that, unless the situation is exceptional, and we have not seen such a situation since
+CITATION_SUPPRESSED
+, the interpretation by the tribunal of "its own statute or statutes closely connected to its function, with which it will have particular familiarity" should be presumed to be a question of statutory interpretation subject to deference on
+judicial review
+.
+(My emphasis.)
+[37]
+The reference to
+CITATION_SUPPRESSED
+above, of course, is a reference to the Supreme Court's landmark decision:
+REFERENCE_SUPPRESSED.
+[38]
+As part of her duties the Information Commissioner wrote to various Ministers of the Crown in an effort to persuade them as to the correctness of her office's current point of view. Of particular interest is the reply of the Honourable Tony Clement, President of the Treasury Board, in September 2011. The Commissioner's letter dealt with investigations relating to fees assessed by the Department of Foreign Affairs and International Trade. He said
+The policy guidance provided by the Treasury Board Secretariat to institutions subject to the
+Access to Information Act
+requires that institutions ensure that applicants are charged fees only for the activities and formats described in section 7 of the
+Access to Information Regulations
+, and that institutions exercise discretion when applying fees, waivers, reductions or refunds. As such, DFAIT has exercised discretion in accordance with legal and policy requirements.
+[39]
+Other ministers deferred to the Treasury Board. It is not suggested that Mr. Clement's opinion is binding, but it should be carefully considered as the policy has remained unchanged for many years. However, the Federal Court of Appeal held in
+REFERENCE_SUPPRESSED, that the correctness standard applies to a minister's interpretation of an enabling statute.
+V.
+The Rules of Statutory Interpretation
+[40]
+The parties all agree on Driedger's "modern" approach to statutory interpretation. As Madam Justice Deschamps said in
+REFERENCE_SUPPRESSED:
+The approach to statutory interpretation is well-known (
+REFERENCE_SUPPRESSED). A statutory provision must be read in its entire context, taking into consideration not only the ordinary and grammatical sense of the words, but also the scheme and object of the statute, and the intention of the legislature. This approach to statutory interpretation must also be followed, with necessary adaptations, in interpreting regulations.
+[41]
+This contextual approach to statutory interpretation as opposed to a more literal approach is not particularly new. In
+REFERENCE_SUPPRESSED, the Privy Council had to deal with the division of legislative powers found in s 91 and 92 of what was then the
+British North America Act, 1867
+. Sir Montague Smith said at pages 108 and 109:
+With regard to certain classes of subjects, therefore, generally described in sect. 91, legislative power may reside as to some matters falling within the general description of these subjects in the legislatures of the provinces. In these cases it is the duty of the Courts, however difficult it may be, to ascertain in what degree, and to what extent, authority to deal with matters falling within these classes of subjects exists in each legislature, and to define in the particular case before them the limits of their respective powers. It could not have been the intention that a conflict should exist; and, in order to prevent such a result, the two sections must be read together, and the language of one interpreted, and, where necessary, modified by that of the other. In this way it may, in most cases, be found possible to arrive at a reasonable and practical construction of the language of the sections, so as to reconcile the respective powers they contain, and give effect to all of them. In performing this difficult duty, it will be a wise course for those on whom it is thrown, to decide each case which arises as best they can, without entering more largely upon an interpretation of the statute than is necessary for the decision of the particular question in hand.
+[42]
+This contextual approach to statutory interpretation is hardly unique to Canada. Just recently in
+REFERENCE_SUPPRESSED, Madam Justice Ginsburg, speaking for the majority, said at page 7:
+Whether a statutory term is unambiguous, however, does not turn solely on dictionary definitions of its component words. Rather, "[t]he plainness or ambiguity of statutory language is determined [not only] by reference to the language itself, [but as well by] the specific context in which that language is used, and the broader context of the statute as a whole."
+REFERENCE_SUPPRESSED (it is a "fundamental principle of statutory construction (and, indeed, of language itself) that the meaning of a word cannot be determined in isolation, but must be drawn from the context in which it is used"). Ordinarily, a word's usage accords with its dictionary definition. In law as in life, however, the same words, placed in different contexts, sometimes mean different things.
+[43]
+Another rule of interpretation invoked relates to bilingual legislation, and the presumption of uniform expression in both versions. If one version is ambiguous and the other is clear then the shared meaning is presumed to be the intended meaning. The parties submit there is no ambiguity. However the Attorney General and Interveners submit that if there is ambiguity it is in the English version and so it must be read with the French version. Their submission is that a "computerized record" is a record which did not exist at the time the request was made but was thereafter created from a machine readable record. Therefore, a "non-computerized" record within the meaning of s 7(2) of the
+Regulations
+is any electronic record which is not in itself created from a machine readable record. Put another way, existing emails, Word documents and the like are non-computerized records.
+[44]
+Still another principle relied upon is that statutes are to be read as of the day after they were enacted (
+REFERENCE_SUPPRESSED - the doctrine of
+contemporanea expositio
+).
+VI.
+Analysis
+[45]
+There is a rebuttable presumption that Parliament and the Governor-in-Council intended to give words their ordinary meaning (
+REFERENCE_SUPPRESSED). I shall first interpret the
+Act
+and the
+Regulations
+in that light and then consider whether context gives the words used another meaning.
+[46]
+In my view the change in the definition of "record/document" is a matter of style rather than substance. The original definition was a "for greater certainty" one, such as found in s 91 of the
+Constitution
+. The amendment in 2006 was as part of the
+Federal Accountability Act
+. The new definition is neutral and allows for changing technology without having to repeatedly revise the definition.
+[47]
+The
+Act
+itself poses no difficulty. Apart from providing that an application fee is not to exceed $25, Parliament left fees to the Governor-in-Council. Parliament enabled the Governor-in-Council to regulate search and preparation fees irrespective of the form of the record, electronic or hard copy, and if in electronic form whether it already existed or had to be created from a machine readable record.
+[48]
+The difficulty lies in interpreting the
+Regulations
+. I am at a loss to understand why s 7(2) refers to a "non-computerized record" ("[un] document [qui] n'est pas informatisé") instead of simply referring to a record, as is the case in the
+Act
+itself.
+[49]
+Subsection 7(3) must be taken to refer to documents which did not exist at the time of the request, but were subsequently created.
+[50]
+In my view, in ordinary parlance, emails, Word documents and other records in electronic format are computerized records. The regulation is extremely specific with respect to the types of reproduction for which fees may be levied. They have not been updated to cover the production of DVD or USB device forms. In like fashion there is a gap in the search and preparation fees in that they do not cover electronic documents which were not themselves created from a machine readable record.
+[51]
+It may well be that the Governor-in-Council did not anticipate today's widespread use of computers in the workplace. However the parties have all admitted that come 1983 Apple, Tandy Radioshack, Atari, IBM and Compac all had personal computers on the market.
+[52]
+I see no ambiguity between the English and French versions of the
+Act
+and
+Regulations
+. Subsection 7(2) of the
+Regulations
+speaks of a "non-computerized record". There is nothing which would give that term the restricted meaning urged upon me by the Attorney General and the interveners that a "non-computerized record" includes any electronic record which did not in itself exist but was created from other records in order to satisfy a demand under s 4(3) of the
+Act
+.
+[53]
+The Attorney General says that the term "non-computerized record" in English sticks out like a sore thumb as it is not found anywhere else in the federal statutes or regulations. However, it does not follow that the term means something other than what it says.
+[54]
+Whether stored in an internal hard drive, external hard drive or the now obsolete punch cards and floppy disks, such records are machine readable and therefore computerized.
+[55]
+Legislation is promulgated to the public. This
+Act
+and these
+Regulations
+are addressed to all Canadians. The language cannot be so obscure that one must glean through hundreds of statutes and thousands of regulations in order to arrive at its true meaning.
+[56]
+The Governor-in-Council was very precise in setting out copying charges. Likewise, the regulation with respect to search and preparation is very precise. There is a gap. However, Parliament made it very clear: no regulation - no fee.
+[57]
+We are now at the stage where context must be considered to ascertain whether the language used must be given an interpretation other than its plain and ordinary meaning.
+[58]
+It is submitted that it is illogical that no fee is payable for search and preparation of electronic records, as most records in the Federal depository are now in that form.
+[59]
+That, indeed, may be so. However, I do not think it is the role of the Court to read a regulation as it ought to be, rather than as it is.
+[60]
+The interveners submit that fees can serve as a deterrent, as indeed mentioned by Mr. Justice Muldoon in
+CITATION_SUPPRESSED
+. The Information Commissioner counters that the whole purpose of the
+Act
+is to give access to government records, so that if there were any ambiguity, and she insists there is not, one should lean on the side of access.
+[61]
+In his letter referred to above, Minister Clement pointed out that the fees are not calculated on a cost recovery basis. That is not in dispute. However, the purpose of the fees is nowhere stated and so I give this point no weight.
+[62]
+Some of the interveners are ill-equipped to deal with requests, and have budgetary restraints. Search and preparation fees would help their financial situation. However, it is Parliament that placed these government institutions under the
+Act
+. If they are underfunded, they should not be looking to the courts for redress.
+[63]
+This reference might be somewhat of a red herring in that the Federal Government has collected fees relating to the search of both hard copies and electronic records in less than one percent of access requests in the last two fiscal years. For instance, in 2012-2013 fees were collected in 306 requests out of a total of 53,993 which works out to only 0.56%; 164 files had the fees waived or reimbursed, which the head of government institutions is authorized to do. However, I do not see that this fact is relevant. The issue is not whether fees may be waived, but whether they are imposable. Furthermore, given that the first five hours are free, the statistics have to be somewhat skewed.
+[64]
+Finally, I agree with the Information Commissioner when she says: "Contextual analysis has limits. A Court should not, under the guise of contextual analysis or liberal and purposive interpretation, attribute a meaning to statutory language that goes beyond what the words of the statute or regulation can reasonably bear. To do so would be to step outside the proper judicial role and enter the role of legislating." (
+REFERENCE_SUPPRESSED) The Regulations were amended in the past and there is nothing to prevent a further amendment now.
+[65]
+There is a hint of Lewis Carroll in the position of those who oppose the Information Commissioner:
+"[w]hen I use a word,' Humpty Dumpty said, in rather a scornful tone, 'it means just what I choose it to mean -- neither more nor less.'
+'The question is,' said Alice, 'whether you can make words mean so many different things.'
+'The question is,' said Humpty Dumpty, 'which is to be master - that's all.'"
+[66]
+By the end of oral submissions, all parties agreed that the decision should be on a no-costs basis.
+[67]
+Finally, given the importance of the
+Access to Information Act
+, it could be said that these reasons should be delivered simultaneously in both English and French in accordance with s 20 of the
+Official Languages Act.
+However, the parties all asked that one version be delivered first, in whichever language that might be, rather than having to wait for the translation. The reason is that a delay would be prejudicial to the public interest as there is a backlog of complaints.
+JUDGMENT
+[68]
+FOR REASONS GIVEN;
+THIS COURT'S JUDGMENT is that
+:
+1. The formal reference is framed as follows:
+Are electronic records non-computerized records for the purpose of the search and preparation fees authorized by subsection 11(2) of the
+Access to Information Act
+(the Act) and subsection 7(2) of the
+Access to Information Regulations
+(the Regulations)?
+2. The Court's answer is "no".
+3. There shall be no order as to costs.
+Judgment accordingly.
+Editor: J. Danielle King/nmg
+APPENDIX
+Access to Information Act
+RSC, 1985, c A-1
+11.
+(1) Subject to this section, a person who makes a request for access to a record under this Act may be required to pay
+(a
+) at the time the request is made, such application fee, not exceeding twenty-five dollars, as may be prescribed by regulation;
+(
+b
+) before any copies are made, such fee as may be prescribed by regulation reflecting the cost of reproduction calculated in the manner prescribed by regulation; and
+(
+c
+) before the record is converted into an alternative format or any copies are made in that format, such fee as may be prescribed by regulation reflecting the cost of the medium in which the alternative format is produced.
+(2) The head of a government institution to which a request for access to a record is made under this Act may require, in addition to the fee payable under paragraph (1)(a), payment of an amount, calculated in the manner prescribed by regulation, for every hour in excess of five hours that is reasonably required to search for the record or prepare any part of it for disclosure, and may require that the payment be made before access to the record is given.
+(3) Where a record requested under this Act is produced as a result of the request from a machine readable record under the control of a government institution, the head of the institution may require payment of an amount calculated in the manner prescribed by regulation.
+(4) Where the head of a government institution requires payment of an amount under subsection (2) or (3) in respect of a request for a record, the head of the institution may require that a reasonable proportion of that amount be paid as a deposit before the search or production of the record is undertaken or the part of the record is prepared for disclosure.
+(5) Where the head of a government institution requires a person to pay an amount under this section, the head of the institution shall
+(
+a
+) give written notice to the person of the amount required; and
+(
+b
+) state in the notice that the person has a right to make a complaint to the Information Commissioner about the amount required.
+(6) The head of a government institution to which a request for access to a record is made under this Act may waive the requirement to pay a fee or other amount or a part thereof under this section or may refund a fee or other amount or a part thereof paid under this section.
+Loi sur l'accès à l'information
+LRC (1985), c A-1
+11. (1) Sous réserve des autres dispositions du présent article, il peut être exigé que la personne qui fait la demande acquitte les droits suivants:
+a) un versement initial accompagnant la demande et don't le montant, d'un maximum de vingt-cinq dollars, peut être fixé par règlement;
+b) un versement prévu par règlement et exigible avant la préparation de copies, correspondant aux frais de reproduction;
+c) un versement prévu par règlement, exigible avant le transfert, ou la production de copies, du document sur support de substitution et correspondant au coût du support de substitution.
+(2) Le responsable de l'institution fédérale à qui la demande est faite peut en outre exiger, avant de donner communication ou par la suite, le versement d'un montant déterminé par règlement, s'il faut plus de cinq heures pour rechercher le document ou pour en prélever la partie communicable.
+(3) Dans les cas où le document demandé ne peut être préparé qu'à partir d'un document informatisé qui relève d'une institution fédérale, le responsable de l'institution peut exiger le versement d'un montant déterminé par règlement.
+(4) Dans les cas prévus au paragraphe (2) ou (3), le responsable d'une institution fédérale peut exiger une partie raisonnable du versement additionnel avant que ne soient effectuées la recherche ou la préparation du document ou que la partie communicable n'en soit prélevée.
+(5) Dans les cas où sont exigés les versements prévus au présent article, le responsable de l'institution fédérale:
+a) avise par écrit la personne qui a fait la demande du versement exigible;
+b) l'informe, par le même avis, qu'elle a le droit de déposer une plainte à ce propos auprès du Commissaire à l'information.
+(6) Le responsable de l'institution fédérale peut dispenser en tout ou en partie la personne qui fait la demande du versement des droits ou lui rembourser tout ou partie du montant déjà versé.
+Access to Information Regulations
+SOR/83-50
+7.
+(1) Subject to subsection 11(6) of the Act, a person who makes a request for access to a record shall pay
+(a) an application fee of $5 at the time the request is made;
+(b) where applicable, a fee for reproduction of the record or part thereof to be calculated in the following manner:
+(i) for photocopying a page with dimensions of not more than 21.5 cm by 35.5 cm, $0.20 per page,
+(ii) for microfiche duplication, non-silver, $0.40 per fiche,
+(iii) for 16 mm microfilm duplication, non-silver, $12 per 30.5 m roll,
+(iv) for 35 mm microfilm duplication, non-silver, $14 per 30.5 m roll,
+(v) for microform to paper duplication, $0.25 per page, and
+(vi) for magnetic tape-to-tape duplication, $25 per 731.5 m reel; and
+(c) where the record or part thereof is produced in an alternative format, a fee, not to exceed the amount that would be charged for the record under paragraph (b),
+(i) of $.05 per page of braille, on paper with dimensions of not more than 21.5 cm by 35.5 cm,
+(ii) of $.05 per page of large print, on paper with dimensions of not more than 21.5 cm by 35.5 cm,
+(iii) of $2.50 per audiocassette, or
+(iv) of $2 per microcomputer diskette.
+(2) Where the record requested pursuant to subsection (1) is a non-computerized record, the head of the government institution may, in addition to the fee prescribed by paragraph (1)(a), require payment in the amount of $2.50 per person per quarter hour for every hour in excess of five hours that is spent by any person on search and preparation.
+(3) Where the record requested pursuant to subsection (1) is produced from a machine readable record, the head of the government institution may, in addition to any other fees, require payment for the cost of production and programming calculated in the following manner:
+(
+a
+) $16.50 per minute for the cost of the central processor and all locally attached devices; and
+(
+b
+) $5 per person per quarter hour for time spent on programming a computer.
+Règlement sur l'accès à l'information
+DORS/83-507
+7.
+(1) Sous réserve du paragraphe 11(6) de la Loi, la personne qui présente une demande de communication d'un document doit payer
+a) un droit de 5 $ au moment de présenter la demande;
+b) s'il y a lieu, un droit pour la reproduction d'une partie ou de la totalité du document, établi comme suit:
+(i) photocopie d'une page dont les dimensions n'excèdent pas 21,5 cm sur 35,5 cm, 0,20 $ la page,
+(ii) reproduction d'une micro-fiche, sans emploi d'argent, 0,40 $ la fiche,
+(iii) reproduction d'un microfilm de 16 mm, sans emploi d'argent, 12 $ la bobine de 30,5 m,
+(iv) reproduction d'un microfilm de 35 mm, sans emploi d'argent, 14 $ la bobine de 30,5 m,
+(v) reproduction d'une micro-forme sur papier, 0,25 $ la page, et
+(vi) reproduction d'une bande magnétique sur une autre bande, 25 $ la bobine de 731,5 m;
+c) s'il y a lieu, un droit pour le support de substitution sur lequel une partie ou la totalité du document est reproduite, ce droit ne dépassant pas celui exigible aux termes de l'alinéa b) pour le même document, établi comme suit:
+(i) version en braille sur papier d'au plus 21,5 cm sur 35,5 cm, 0,05 $ la page,
+(ii) version en gros caractères sur papier d'au plus 21,5 cm sur 35,5 cm, 0,05 $ la page,
+(iii) version sur audiocassette, 2,50 $ l'audiocassette,
+(iv) version sur disquette de micro-ordinateur, 2 $ la disquette.
+(2) Lorsque le document demandé en vertu du paragraphe (1) n'est pas informatisé, le responsable de l'institution fédérale en cause peut, outre les droits prescrits à l'alinéa (1)a), exiger le versement d'un montant de 2,50 $ la personne par quart d'heure pour chaque heure en sus de cinq passée à la recherche et à la préparation.
+(3) Lorsque le document demandé conformément au paragraphe (1) est produit à partir d'un document informatisé, le responsable de l'institution fédérale en cause peut, en plus de tout autre droit, exiger le paiement du coût de la production du document et de la programmation, calculé comme suit:
+a) 16,50 $ par minute pour l'utilisation de l'unité centrale de traitement et de tous les périphériques connectés sur place; et
+b) 5 $ la personne par quart d'heure passé à programmer l'ordinateur.
+ANNEXE
+Loi sur l'accès à l'information
+LRC (1985), c A-1
+11. (1) Sous réserve des autres dispositions du présent article, il peut être exigé que la personne qui fait la demande acquitte les droits suivants:
+a)
+un versement initial accompagnant la demande et dont le montant, d'un maximum de vingt-cinq dollars, peut être fixé par règlement;
+b)
+un versement prévu par règlement et exigible avant la préparation de copies, correspondant aux frais de reproduction;
+c)
+un versement prévu par règlement, exigible avant le transfert, ou la production de copies, du document sur support de substitution et correspondant au coût du support de substitution.
+(2) Le responsable de l'institution fédérale à qui la demande est faite peut en outre exiger, avant de donner communication ou par la suite, le versement d'un montant déterminé par règlement, s'il faut plus de cinq heures pour rechercher le document ou pour en prélever la partie communicable.
+(3) Dans les cas où le document demandé ne peut être préparé qu'à partir d'un document informatisé qui relève d'une institution fédérale, le responsable de l'institution peut exiger le versement d'un montant déterminé par règlement.
+(4) Dans les cas prévus au paragraphe (2) ou (3), le responsable d'une institution fédérale peut exiger une partie raisonnable du versement additionnel avant que ne soient effectuées la recherche ou la préparation du document ou que la partie communicable n'en soit prélevée.
+(5) Dans les cas où sont exigés les versements prévus au présent article, le responsable de l'institution fédérale:
+a)
+avise par écrit la personne qui a fait la demande du versement exigible;
+b)
+l'informe, par le même avis, qu'elle a le droit de déposer une plainte à ce propos auprès du Commissaire à l'information.
+(6) Le responsable de l'institution fédérale peut dispenser en tout ou en partie la personne qui fait la demande du versement des droits ou lui rembourser tout ou partie du montant déjà versé.
+Access to Information Act
+RSC, 1985, c A-1
+11.
+(1) Subject to this section, a person who makes a request for access to a record under this Act may be required to pay
+(
+a
+) at the time the request is made, such application fee, not exceeding twenty-five dollars, as may be prescribed by regulation;
+(
+b
+) before any copies are made, such fee as may be prescribed by regulation reflecting the cost of reproduction calculated in the manner prescribed by regulation; and
+(
+c
+) before the record is converted into an alternative format or any copies are made in that format, such fee as may be prescribed by regulation reflecting the cost of the medium in which the alternative format is produced.
+(2) The head of a government institution to which a request for access to a record is made under this Act may require, in addition to the fee payable under paragraph (1)(a), payment of an amount, calculated in the manner prescribed by regulation, for every hour in excess of five hours that is reasonably required to search for the record or prepare any part of it for disclosure, and may require that the payment be made before access to the record is given.
+(3) Where a record requested under this Act is produced as a result of the request from a machine readable record under the control of a government institution, the head of the institution may require payment of an amount calculated in the manner prescribed by regulation.
+(4) Where the head of a government institution requires payment of an amount under subsection (2) or (3) in respect of a request for a record, the head of the institution may require that a reasonable proportion of that amount be paid as a deposit before the search or production of the record is undertaken or the part of the record is prepared for disclosure.
+(5) Where the head of a government institution requires a person to pay an amount under this section, the head of the institution shall
+(
+a
+) give written notice to the person of the amount required; and
+(
+b
+) state in the notice that the person has a right to make a complaint to the Information Commissioner about the amount required.
+(6) The head of a government institution to which a request for access to a record is made under this Act may waive the requirement to pay a fee or other amount or a part thereof under this section or may refund a fee or other amount or a part thereof paid under this section.
+Règlement sur l'accès à l'information
+DORS/83-507
+7.
+(1) Sous réserve du paragraphe 11(6) de la Loi, la personne qui présente une demande de communication d'un document doit payer
+a)
+un droit de 5 $ au moment de présenter la demande;
+b)
+s'il y a lieu, un droit pour la reproduction d'une partie ou de la totalité du document, établi comme suit:
+(i) photocopie d'une page dont les dimensions n'excèdent pas 21,5 cm sur 35,5 cm, 0,20 $ la page,
+(ii) reproduction d'une micro-fiche, sans emploi d'argent, 0,40 $ la fiche,
+(iii) reproduction d'un microfilm de 16 mm, sans emploi d'argent, 12 $ la bobine de 30,5 m,
+(iv) reproduction d'un microfilm de 35 mm, sans emploi d'argent, 14 $ la bobine de 30,5 m,
+(v) reproduction d'une micro-forme sur papier, 0,25 $ la page, et
+(vi) reproduction d'une bande magnétique sur une autre bande, 25 $ la bobine de 731,5 m;
+c) s'il y a lieu, un droit pour le support de substitution sur lequel une partie ou la totalité du document est reproduite, ce droit ne dépassant pas celui exigible aux termes de l'alinéa b) pour le même document, établi comme suit:
+(i) version en braille sur papier d'au plus 21,5 cm sur 35,5 cm, 0,05 $ la page,
+(ii) version en gros caractères sur papier d'au plus 21,5 cm sur 35,5 cm, 0,05 $ la page,
+(iii) version sur audiocassette, 2,50 $ l'audiocassette,
+(iv) version sur disquette de micro-ordinateur, 2 $ la disquette.
+(2) Lorsque le document demandé en vertu du paragraphe (1) n'est pas informatisé, le responsable de l'institution fédérale en cause peut, outre les droits prescrits à l'alinéa (1)a), exiger le versement d'un montant de 2,50 $ la personne par quart d'heure pour chaque heure en sus de cinq passée à la recherche et à la préparation.
+(3) Lorsque le document demandé conformément au paragraphe (1) est produit à partir d'un document informatisé, le responsable de l'institution fédérale en cause peut, en plus de tout autre droit, exiger le paiement du coût de la production du document et de la programmation, calculé comme suit:
+a
+) 16,50 $ par minute pour l'utilisation de l'unité centrale de traitement et de tous les périphériques connectés sur place; et
+b)
+5 $ la personne par quart d'heure passé à programmer l'ordinateur.
+Access to Information Regulations
+SOR/83-50
+7.
+(1) Subject to subsection 11(6) of the Act, a person who makes a request for access to a record shall pay
+(
+a
+) an application fee of $5 at the time the request is made;
+(
+b
+) where applicable, a fee for reproduction of the record or part thereof to be calculated in the following manner:
+(i) for photocopying a page with dimensions of not more than 21.5 cm by 35.5 cm, $0.20 per page,
+(ii) for microfiche duplication, non-silver, $0.40 per fiche,
+(iii) for 16 mm microfilm duplication, non-silver, $12 per 30.5 m roll,
+(iv) for 35 mm microfilm duplication, non-silver, $14 per 30.5 m roll,
+(v) for microform to paper duplication, $0.25 per page, and
+(vi) for magnetic tape-to-tape duplication, $25 per 731.5 m reel; and
+(c) where the record or part thereof is produced in an alternative format, a fee, not to exceed the amount that would be charged for the record under paragraph (b),
+(i) of $.05 per page of braille, on paper with dimensions of not more than 21.5 cm by 35.5 cm,
+(ii) of $.05 per page of large print, on paper with dimensions of not more than 21.5 cm by 35.5 cm,
+(iii) of $2.50 per audiocassette, or
+(iv) of $2 per microcomputer diskette.
+(2) Where the record requested pursuant to subsection (1) is a non-computerized record, the head of the government institution may, in addition to the fee prescribed by paragraph (1)(a), require payment in the amount of $2.50 per person per quarter hour for every hour in excess of five hours that is spent by any person on search and preparation.
+(3) Where the record requested pursuant to subsection (1) is produced from a machine readable record, the head of the government institution may, in addition to any other fees, require payment for the cost of production and programming calculated in the following manner:
+(
+a
+) $16.50 per minute for the cost of the central processor and all locally attached devices; and
+(
+b
+) $5 per person per quarter hour for time spent on programming a computer.
+[End of document]

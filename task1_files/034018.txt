@@ -1,0 +1,213 @@
+[1]
+Morneau, Prothonotary
+[Translation]: The court has before it a motion by the defendants MOS Shipping Ltd. and CIS Navigation, Inc. (hereinafter collectively "MOS") pursuant to s. 50(1)(b) of the
+Federal Court Act
+, R.S.C. 1985, c. F-7, and Rule 208 of the
+Federal Court Rules (1998)
+, asking the court to issue an order staying proceedings in the case at bar based on a jurisdiction clause contained in a maritime bill of lading, which in the submission of MOS is binding on the plaintiffs.
+[2]
+In the submission of the plaintiffs (hereinafter collectively "Nestlé"), the only bill of lading binding on Nestlé is not with MOS but with the defendant Tropical Shipping of Canada Inc. (hereinafter "Tropical"), and that bill of lading contains no clause as to jurisdiction.
+FACTUAL BACKGROUND
+[3]
+Nestlé is suing MOS and Tropical, inter alia, for damages following the destruction in Puerto Rico of a cargo of evaporated milk ("the cargo"). It appeared that in December 2000 Nestlé was seeking to ship the said cargo to Puerto Rico. To do this it contacted Tropical, which on or about January 5, 2001, issued a maritime bill of lading (hereinafter "the Tropical bill of lading"), which indicated that the consignor and shipper was Nestlé. This bill of lading does not appear to have clearly indicated the status of Tropical in this document. It simply provided that "CARGO RECEIVED BY TROPICAL SHIPPING AT SHERBROOKE, QUEBEC FOR SHIPMENT VIA PORT OF BELLEDUNE, NEW BRUNSWICK".
+[4]
+Clause 22 of this document further provides the following:
+"22. If the Ship is not owned by or chartered by demise to the Company of Line by whom this Bill of Lading is issued (as may be the case notwithstanding anything that appears to the contrary) this Bill of Lading shall take effect only as a contract with the owner or demise charterer as the case may be as principal made through the agency of the said Company or Line who act as agents only and shall be under no personal liability whatsoever in respect thereof."
+[5]
+For the purposes of this clause Tropical is the "company" issuing the bill of lading. As the ship identified in the bill of lading, the "Viljandi", is neither the property of Tropical nor chartered to Tropical, anyone could at the very least conclude that this bill of lading created a contract between Nestlé and the owner or charterer of the ship (MOS being the charterer here), and accordingly, Tropical was taking under this bill of lading as agent.
+[6]
+However, as can be seen below from paras. 5 to 7 of Aman Kermally's affidavit, filed by Nestlé in opposition to the motion at bar, it appeared that Nestlé never discussed with Tropical the presence of a jurisdiction clause in the Tropical bill of lading. However, Tropical, acting concurrently it would seem, turned around and signed with MOS (the defendant CIS Navigation, Inc., acting at the time for MOS) a bill of lading ("the MOS bill of lading"), which unlike the Tropical bill of lading contained a jurisdiction clause in favour of the New York courts.
+[7]
+This is how Mr. Kermally saw the situation for Nestlé:
+"1. I am manager of the International Traffic and Customs department of Nestlé Canada Inc. ('Nestlé') in North York, Province of Ontario.
+"2. I have been working for Nestlé for 26 years and I am the person at Nestlé that was responsible for arranging the shipment of 129,699 cases of evaporated milk in cans from Canada to Puerto (the 'Shipment') in December 2000 which cases are the subject of the present action.
+"3. In December 2000, I was approached by Mr. Jim Scott, who I believe was the Canadian manager of Tropical Shipping of Canada Inc. ('Tropical Shipping') in Ontario who offered to carry for Nestlé approximately 130,000 cases of evaporated milk in cans from Sherbrooke, Quebec to San Juan, Puerto Rico.
+"4. I negotiated with Mr. Scott the carriage of the cases from our plant in Sherbrooke, Quebec to a warehouse in San Juan, Puerto Rico via the port of Belledune, New Brunswick for a lump sum freight of US$205,875.00.
+"5. During the discussions and negotiations surrounding the formation of this agreement (the result of which was Tropical Shipping's Bill of Lading No. 00234757, attached as Exhibit 'A' to this my Affidavit) a jurisdiction clause was never discussed, contemplated or agreed to by me or anybody at Nestlé that I know.
+"6. At all relevant times, I was unaware of the existence of the additional bill of lading no. BLSJ120001 issued by CIS Navigation to Tropical Shipping and I only found out about its existence some weeks after the vessel arrived in Puerto Rico. I never authorized Tropical Shipping to agree on Nestlé's behalf to any jurisdiction clause.
+"7. At all relevant times, I was unaware of the existence of a jurisdiction clause alleged to be applicable to the contract of carriage of the Shipment."
+[8]
+It appears that para. 5 of Mr. Kermally's affidavit refers to the Tropical bill of lading and that para. 6 of the said affidavit refers to the MOS bill of lading.
+[9]
+The jurisdiction clause in the MOS bill of lading (hereinafter "the Clause") reads as follows:
+"3.
+Jurisdiction and Claims
+Any dispute or claim arising under this Bill of Lading shall be decided exclusively by arbitration in New York before a single arbitrator pursuant to the rules of the Society of Maritime Arbitrators if not exceeding $50,000, and otherwise exclusively by the United States District Court for the Southern District of New York."
+Analysis
+[10]
+It appeared from the submissions of the parties that three fundamental points were raised by the motion at bar.
+[11]
+First, the court must decide whether the Clause is binding on Nestlé. If the reply to this first point is in the affirmative, it must then be decided whether s. 46 of the
+Marine Liability Act
+, S.C. 2001, c. 6, as interpreted by the court in
+Incremona-Salerno Marmi Affini Siciliani (I.S.M.A.S.) s.n.c. et al. v. Ship Castor et al.
+, [2001] F.C.J. No. 1821; 213 F.T.R. 308 (T.D.), nevertheless allows Nestlé to have its action continue in this court. Notwithstanding any conclusion in respect of the said s. 46, we will proceed to review the guidelines laid down in
+Ship Eleftheria, Re
+, [1969] 1 Lloyd's L.R. 237, to determine whether Nestlé, in accordance with the test in that case, which was later adopted by this court, put forward strong reasons for excluding application of the Clause.
+I
+Whether Nestlé bound by Clause
+[12]
+For the reasons that follow, I consider that ultimately this question must be answered in the affirmative.
+[13]
+According to Nestlé, the Clause should not bind it because it is contained in a bill of lading, that of MOS, which was approved not by itself but instead by Tropical, an entity which at best must be regarded as acting beyond its instructions.
+[14]
+However, as MOS maintained, it has to be admitted that Nestlé itself in its statement of claim in the case at bar relied both on the Tropical bill of lading and on the MOS bill of lading.
+[15]
+Paragraphs 3 and 10 of that statement of claim read as follows:
+"3. On or about the 5th day of January 2001, under clean on board Bill of Lading No. 00234757 of defendants Tropical Shipping Canada Inc., Tropical Shipping & Construction Co. Ltd. and Tropical Shipping International, Ltd. [Tropical bill of lading]
+and
+under clean on board Bill of Lading No. BLSJ20001 of the master of the 'VILJANDI' dated at Montreal, Quebec, Canada [MOS bill of lading], a shipment belonging to the plaintiffs was received by the defendants at Sherbrooke, Quebec, Canada and loaded on board the Vessel 'VILJANDI' at the Port of Belledune, New Brunswick, Canada in good order and condition for carriage and delivery in like good order and condition to the plaintiffs at the Port of San Juan, Puerto Rico;"
+and
+"10. At all material times, the plaintiffs were the owners of the aforesaid shipment and the holders and endorsees for value of the said Bills of Lading, and, in any event, the parties at interest and the ones entitled to claim payment from the defendants jointly and severally ..." (My emphasis)
+[16]
+Since Nestlé relied on the MOS bill of lading in the statement of claim, it clearly cannot be allowed to repudiate the Clause.
+[17]
+Additionally, clause 22 of the Tropical bill of lading reproduced above (see para. [4], supra) certainly establishes that Tropical is an agent under the Tropical bill of lading. That clause in my opinion does not establish expressly or by implication that Tropical was prohibited from going beyond the bill of lading in order to carry out the instructions received from Nestlé about shipment of the cargo. Nestlé must have known at the time it negotiated the Tropical bill of lading that the latter was neither the owner nor charterer of the ship "Viljandi" mentioned in the bill of lading. Consequently, it was highly likely that Tropical would in return have to approve a bill of lading with the charterer of the ship, MOS. In view of these facts, if Nestlé wished to limit Tropical's actions after signature of the Tropical bill of lading, Nestlé should have said so expressly in the said bill of lading.
+[18]
+If Tropical exceeded the terms of its mandate, this situation may give rise to an action between these two parties, that is between Nestlé and Tropical. As regards MOS, however, as I understood it nothing was entered in evidence tending to show that this company could not rely on Tropical's apparent mandate, namely that Tropical could bind itself in the MOS bill of lading.
+[19]
+For these reasons, therefore, I consider that Nestlé is bound by the Clause. In view of this position, it is now necessary to see whether s. 46 of the
+Marine Liability Act
+("the
+Act
+"), applies in the case at bar so as to allow Nestlé to prosecute its action in this court.
+II
+Whether s. 46 of Act applies here
+[20]
+That section reads as follows:
+"46(1) If a contract for the carriage of goods by water to which the Hamburg Rules do not apply provides for the adjudication or arbitration of claims arising under the contract in a place other than Canada, a claimant may institute judicial or arbitral proceedings in a court or arbitral tribunal in Canada that would be competent to determine the claim if the contract had referred the claim to Canada, where
+(a) the actual port of loading or discharge, or the intended port of loading or discharge under the contract, is in Canada;
+(b) the person against whom the claim is made resides or has a place of business, branch or agency in Canada; or
+c) the contract was made in Canada."
+[21]
+In the case at bar, the only hesitation one might have regarding the application of this section would be due to the fact that the incidents which gave rise to the statement of claim all took place before the
+Act
+came into effect, on August 8, 2001. However, in
+Incremona-Salerno Marmi Affini Siciliani (I.S.M.A.S.) s.n.c. v. Castor (The)
+, supra (currently on appeal in the Federal Court of Appeal), the court came to the conclusion that in such a situation where the hearing of a motion to stay took place after the
+Act
+came into effect - which was the case in The Castor, like the situation at bar - s. 46 applied without any need to be concerned about retrospective application of the
+Act
+.
+[22]
+This is what the court said at 10, 11 and 13:
+"[18] Counsel for the plaintiffs submits that the applications for stays of proceedings
+and the disposition of those applications
+are relevant facts necessary for s. 46(1) of the
+Marine Liability Act
+to apply with respect to this proceeding. Since the applications for stays were not disposed of on the coming into force of the
+Marine Liability Act
+, and remain undisposed of, there remained relevant facts situated in time after the coming into force of the
+Marine Liability Act
+and therefore there is no retroactive or retrospective effect in applying s. 46(1) here.
+. . . . .
+"[21] I concur with the position advanced on behalf of the plaintiffs. I conclude that the motions for a stay of proceedings filed by the KATSURAGI and the CASTOR defendants are relevant facts that are continuing in nature; that is to say, they represent situations that consist of one or more facts that endure over a period of time, such time extending to the time at which they are ultimately disposed of. They were not ultimately disposed of when the
+Marine Liability Act
+came into force.
+. . . . .
+"[25] I conclude that the simple answer to the issue of 'vested' or 'crystallized' rights on the facts of this matter is that rights under the jurisdiction clause of the bill of lading simply were not vested or crystallized at the time s. 46(1) of the
+Marine Liability Act
+came into force. The KATSURAGI and CASTOR defendants appear to have recognized this fact when this action was brought and they felt compelled to seek an order staying this proceeding. As noted earlier in these reasons, a stay of this proceeding under s. 50(1) of the
+Federal Court Act
+is a discretionary relief. In the absence of the exercise of that discretion in favour of the KATSURAGI and CASTOR defendants, and such an exercise of discretion has not yet taken place, as against this proceeding in this court, the rights of the KATSURAGI and CASTOR defendants under the jurisdiction clause in bill of lading have neither vested nor crystallized."
+[23]
+It appears that to date that case is the only one which has dealt with the application of s. 46 in a situation similar to the one at bar. Accordingly, the rule of stare decisis requires me to follow that case and I do not have to weigh the position of MOS, which regards that judgment as wrong.
+[24]
+I have to conclude, based on
+The Castor
+, that s. 46 of the
+Act
+applies in the case at bar.
+[25]
+In view of my conclusions on the two points considered so far, I must forthwith dismiss the MOS motion, with costs to follow. This result will form the body of the order accompanying these reasons.
+[26]
+However, counsel for Nestlé strongly urged the court to take its analysis further and assess the situation in the case at bar in light of the
+Eleftheria
+rules, so as to immediately counter the possibility that the superior courts will decide not to follow the trial judgment in
+The Castor
+.
+[27]
+I am willing to do this. Accordingly, it must now be considered whether Nestlé has put forward strong reasons for excluding application of the Clause, in accordance with the test in that case, later adopted by this court.
+III
+The clause and Eleftheria test
+[28]
+It should be noted in passing that although counsel for Nestlé argued in his written submissions that the Federal Court of Appeal's judgment in
+ <FRAGMENT_SUPPRESSED> ; 268 N.R. 364 (F.C.A.), may have set out a test which would exclude the traditional
+Eleftheria
+test, he did not emphasize this Federal Court of Appeal judgment in his oral argument and undertook to review the situation in accordance with the
+Eleftheria
+test. Accordingly, we will proceed with our analysis on the basis of the latter test, as implemented by this court on several occasions.
+[29]
+ <FRAGMENT_SUPPRESSED>  (T.D.), I said the following at 5:
+"As reaffirmed by my colleague Hargrave in
+ <FRAGMENT_SUPPRESSED>  D.L.R.(3d) 669 (F.C.A.) and
+ <FRAGMENT_SUPPRESSED>  (T.D.).
+'In the
+Sea Pearl
+(supra) Mr. Justice Pratte, speaking for the Court of Appeal, pointed out that, "Prima facie, an application to stay proceedings commenced in the Federal Court in defiance of undertaking to submit a dispute to arbitration or to a foreign court must succeed because, as a rule, contractual undertakings must be honoured." (at p. 681). He went on to point out that to depart from the prima facie rule there must be strong reasons to enable a court to conclude that it would not be just or reasonable, in the circumstances, to enforce the contractual obligation.
+'In all three of the cases,
+The "Hoegh Merchant"
+,
+The "Sea Pearl"
+and
+Mountainbell Co.
+, the courts either considered or quoted from the leading case in the area of an application for a stay grounded upon a jurisdiction clause in a bill of lading,
+The "Eleftheria"
+, [1969] 1 Lloyd's Rep. 23, a decision of Mr. Justice Brandon (as he then was) [footnote omitted]. The much quoted passage is at p. 242:
+"The principles established by the authorities can, I think, be summarized as follows: (1) Where plaintiffs sue in England in breach of an agreement to refer disputes to a foreign court, and the defendants apply for a stay, the English court, assuming the claim to be otherwise within the jurisdiction, is not bound to grant a stay but has a discretion whether to do so or not. (2) The discretion should be exercised by granting a stay unless strong cause for not doing so is shown. (3) The burden of proving such strong cause is on the plaintiffs. (4) In exercising its discretion the court should take into account all the circumstances of the particular case. (5) In particular, but without prejudice to (4), the following matters, where they arise, may be properly regarded: (a) In what country the evidence on the issues of fact is situated, or more readily available, and the effect of that on the relative convenience and expense of trial as between the English and foreign courts. (b) Whether the law of the foreign court applies and, if so, whether it differs from English law in any material respects. (c) With what country either party is connected, and how closely. (d) Whether the defendants genuinely desire trial in the foreign, or are only seeking procedural advantages. (e) Whether the plaintiffs would be prejudiced by having to sue in the foreign court because they would (i) be deprived of security for that claim; (ii) be unable to enforce any judgment obtained; (iii) be faced with a time-bar not applicable in England; or (iv) for political, racial, religious or other reasons by unlikely to get a fair trial."
+'
+The "Eleftheria"
+involved a Greek jurisdiction clause in a bill of lading for carriage of plywood from Galatz in Romania to the United Kingdom. Mr. Justice Brandon began his consideration of the arguments by the parties by pointing out:
+"First, as to the prima facie case for a stay arising from the Greek jurisdiction clause. I think that it is essential that the court should give full weight to the prima facie desirability of holding the plaintiffs to their agreement. In this connection I think that the court must be careful not just to pay lip service to the principle involved, and then fail to give effect to it because of a mere balance of convenience."
+'These cautions, against only paying lip service to the principle, and against the granting of a stay, where there is a contractual obligation as to jurisdiction, on the basis of a "mere balance of convenience" is the corollary to the general proposition that there must be a strong reason to deny a contractual jurisdiction clause.'
+(See also the following case for an application of the factors looked at in the Eleftheria case:
+ <FRAGMENT_SUPPRESSED>  (Fed. C.A.), at 273-274; leave to appeal to S.C.C. refused (March 22, 2001) 269 N.R. 393.)"
+[30]
+Counsel for Nestlé summarized the principal factors emerging from the
+Eleftheria
+as follows, at para. 10 of his written submissions:
+"10. The test set out in
+The 'Eleftheria'
+provides that all the circumstances of a particular case should be taken into account, but that specifically, the following matters may be regarded:
+(a) In what country the evidence on the issues of fact is situated, or more readily available, and the effect of that on the relative convenience and expense of trial between the two courts;
+(b) Whether the law of the foreign court applies and, if so, whether it differs from Canadian law in any material respects;
+(c) With what country either party is connected, and how closely;
+(d) Whether the defendants genuinely desire trial in the foreign, or are only seeking procedural advantages;
+(e) Whether the plaintiffs would be prejudiced by having to sue in the foreign court because they would
+(i) be deprived of security for that claim;
+(ii) be unable to enforce any judgment obtained;
+(iii) be faced with time bar; or
+(iv) for political, racial, religious or other reasons by unlike (sic) to get a fair trial."
+[31]
+As regards para. 10(a), I am satisfied by the affidavit evidence introduced by MOS that the facts in dispute probably occurred after the cargo was unloaded in Puerto Rico. The witnesses for these events are probably located there or somewhere else in the world at the present time, but there was nothing to indicate that they were in Canada. As to the facts which took place in Canada, namely the facts preceding the loading in New Brunswick, I agree with counsel for MOS that the Tropical bill of lading, which has no notation, should reduce the evidence of any Canadian aspect to a minimum.
+[32]
+As to para. 10(b), the applicable law regarding the loading and storage situation subsequently will be the law of the U.S. or of Puerto Rico, not that of Canada. The disputed evidence certainly is not in Canada. This conclusion is accordingly unfavourable to Nestlé.
+[33]
+As to para. 10(c), a review of the parties concerned indicates that there is a slight advantage in favour of Canada. However, that does not suffice to constitute a strong reason in favour of Nestlé.
+[34]
+As to para. 10(d), the following conclusion which I drew in
+Atlantic Cement
+, para. [28], also applies here:
+"[28] Here, as found by the court in the <FRAGMENT_SUPPRESSED> decision, there is no evidence to support the conclusion that the defendant's main motive in seeking a stay of proceedings is to attempt to seek a procedural advantage."
+[35]
+As to para. 10(e), Nestlé mentioned two kinds of harm which in its view would result from the fact that under the clause it must sue MOS in the U.S.
+[36]
+It referred to a prescription on which MOS could rely. This obstacle might be quickly dealt with, because the court would ask MOS to undertake not to raise that defence in the U.S.
+[37]
+Nestlé further mentioned the fact that it was suing Tropical in Canada forthwith (probably under the Tropical bill of lading) and if the Clause was not excluded it would have to sue MOS in the U.S. Duplication of evidence and witnesses would result, and would possibly entail contradictory judgments.
+[38]
+This possible duplication of proceedings results from the fact that because of Tropical's actions there were two bills of lading. Any harm here is therefore something that must be resolved above all between Nestlé and Tropical.
+[39]
+Second, it appeared that in fact the role of Tropical and of MOS was partly different. The possibility that contradictory judgments would result is thereby reduced.
+[40]
+Finally, in a situation which has certain analogies with the one at bar, this court refused to regard the question of separate proceedings as a strong reason. In
+Can-Am Produce and  <FRAGMENT_SUPPRESSED>  (F.C.A.), the Court of Appeal was faced with an instance in which there were a number of factors, in favour of denying a stay, including that many witnesses were in Quebec and that there was a cross-demand which could not be dealt with through arbitration in England. This latter aspect is analogous to the separate claim, in the present proceedings, against Empire Stevedoring Company Ltd. for failing to properly care for the cargo while the container was in their hands in Vancouver. Mr. Justice Pratte, who wrote the principal reasons in the
+'Seapearl'
+, pointed out that 'As a rule, it is certainly in the interests of justice that contractual undertakings be honoured.' (p. 176) and concluded that the party seeking to deny the stay had failed to show sufficiently strong reasons why it should not be held to its contract.
+"[33] That the claim against Empire Stevedoring, for failing to keep the container at a proper temperature on the dock in Vancouver, must be the subject of a separate action is not a sufficiently strong reason to deny a stay in this instance."
+[41]
+Accordingly, if I did not have to consider the application of s. 46 of the
+Act
+, I would have concluded under the third question that Nestlé did not establish grounds strong enough to lead the court to conclude that it would be unreasonable or unfair to require Nestlé to observe the Clause.
+Motion denied.
+Editor: Jana A. Andersen/gs

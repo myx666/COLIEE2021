@@ -1,0 +1,205 @@
+Competition Commr. v. Indigo Books, [DATE_SUPPRESSED] F.T.R. Uned. 317 (FC)
+MLB unedited judgment
+[French language version follows English language version]
+[La version française vient à la suite de la version anglaise]
+The Commissioner of Competition (applicant) v. Indigo Books & Music Inc. (respondent)
+(T-61-15)
+The Commissioner of Competition (applicant) v. Rakuten Kobo Inc. (respondent)
+(T-62-15; DATE_SUPPRESSED FC 256; DATE_SUPPRESSED CF 256)
+Indexed As: Commissioner of Competition v. Indigo Books & Music Inc.
+Cite As: [DATE_SUPPRESSED] F.T.R. Uned. 317
+Federal Court
+Crampton, C.J.
+February 27, DATE_SUPPRESSED.
+Counsel:
+John Syme and Esther Rossman, for the applicant;
+No one appearing, for the respondents.
+Solicitors of Record:
+Department of Justice Canada, Gatineau, Quebec, for the applicant;
+Davies Ward Phillips & Vineberg LLP, Toronto, Ontario, for the respondents;
+WeirFoulds LLP, Toronto, Ontario, for the respondents.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Crampton, C.J.
+: On January 22, 2015 I granted the
+ex parte
+application by the Commissioner of Competition for Orders requiring the production of records and the delivery of written returns by the Respondents, pursuant to paragraphs 11(1)(
+b
+) and 11(1)(
+c
+) of the
+Competition Act
+, RSC, 1985, c C-34 [the "
+Act
+"], respectively.
+[2]
+The purpose of these reasons is to address certain positions advanced by one or both of the Respondents in their exchanges of correspondence with the Commissioner prior to the
+ex parte
+hearing.
+I.
+Background
+[3]
+As described more fully in
+REFERENCE_SUPPRESSED, in mid-2012 the Commissioner commenced an inquiry [the "
+Inquiry
+"] under subparagraph 10(1)(
+b
+)(ii) of the Act with respect to certain alleged anti-competitive conduct to restrict electronic book ("
+E-book
+") retail price competition in the markets for E-books in Canada. Among other things, that conduct involved a change by the largest publishers of general interest and non-fiction books in Canada from a wholesale distribution model to an agency distribution model. As a result of that change, retail price competition in the markets for E-books in Canada is alleged to have been restricted.
+[4]
+The initiation of the Inquiry followed investigations and subsequent enforcement action taken in the United States and Europe in relation to a similar change from a wholesale distribution model to an agency distribution model that occurred in those jurisdictions.
+[5]
+On February 7, 2014, a consent agreement [the "
+CA
+"] between the Commissioner and four of those publishers [the "
+Settling Publishers
+"] was filed with the Competition Tribunal [the "
+Tribunal
+"]. The Settling Publishers are Hachette Book Canada Ltd. and certain of its affiliates, Hotlzbrinck Publishers, LLC (doing business as Macmillan), HarperCollins Canada Limited and Simon & Schuster Canada, a division of CBS Canada Holdings Co.
+[6]
+One of the recitals to the CA states that "the Commissioner alleges that further to an agreement or arrangement, the [Settling Publishers] have engaged in conduct with the result that competition in the markets for E-books in Canada has been substantially prevented or lessened, contrary to section 90.1 of the Act."
+[7]
+Broadly speaking, the CA is directed towards distribution agreements between the Settling Publishers and retailers of E-books. Among other things, the CA prohibits the Settling Publishers from directly or indirectly restricting, limiting or impeding an E-book retailer's ability to set, alter or reduce the retail price of any E-book for sale to consumers in Canada, or to offer price discounts or any other form of promotions to encourage consumers in Canada to purchase one or more E-books. The CA also prohibits the Settling Publishers from entering into an agreement with any E-book retailer that has one of those effects. These prohibitions apply for 18 months, commencing on the fortieth day following the registration of the CA.
+[8]
+Certain other terms in the CA prohibit the Settling Publishers from entering into agreements with E-book retailers that contain particular types of most-favoured nation clauses, for a period of four years and six months from the date of the registration of the CA.
+[9]
+In addition, the CA requires the Settling Publishers to take steps to terminate, and not renew or extend, agreements with E-book retailers that have certain types of provisions. In lieu of such action, the CA permits the Settling Publishers to take certain alternative steps to satisfy their obligations.
+[10]
+According to an affidavit filed by Barbara Russell on behalf of the Commissioner in each of these applications [the "
+Russell Affidavits
+"], in the days following the registration of the CA, certain of the Settling Publishers began taking steps to implement its terms by sending amendment and termination notices to E-book retailers, including Kobo Inc., which has since changed its name to Rakuten Kobo Inc. [collectively, "
+CITATION_SUPPRESSED
+"].
+[11]
+Kobo also develops and retails E-Book reading devices and creates free application software for reading E-books on computers and mobile devices.
+[12]
+On February 21, 2014, Kobo filed a Notice of Application pursuant to subsection 106(2) of the Act for, among other things:
+a. an order rescinding the CA; and
+b. in the alternative, an order varying the terms of the CA, to remove certain obligations of the Settling Publishers;
+[13]
+Pursuant to an order issued by Justice Rennie, dated March 18, 2014, the registration of the CA has been stayed "pending the determination of Kobo's application under section 106 of the Act."
+[14]
+On April 15, 2014, the Commissioner filed a Notice of Reference pursuant to subsection 124.2(2) of the Act, concerning the nature and scope of the Tribunal's jurisdiction under subsection 106(2).
+[15]
+In September 2014, the Competition Tribunal issued its decision in connection with that reference (
+REFERENCE_SUPPRESSED). That decision is currently under appeal before the Federal Court of Appeal.
+[16]
+On December 15, 2014, the Commissioner expanded the Inquiry to include Kobo and an unnamed third party as targets. The Commissioner then engaged in a dialogue with Kobo and Indigo, respectively, regarding early versions of the draft Orders that he sent to each of them.
+[17]
+According to the Russell Affidavits, on December 14, 2009, Indigo Books & Music Inc. ["
+Indigo
+"] transferred all of the assets of its "Shortcovers" digital reading business to Kobo. Following the transfer, Indigo was the majority shareholder of Kobo and Indigo's Chief Executive Officer, Heather Reisman, became the Chair of Kobo.
+[18]
+At the hearing of this application, the Commissioner confirmed that Indigo is not a target of the Inquiry.
+[19]
+In January 2012, Rakuten Inc. acquired 100% of the issued and outstanding shares of Kobo Inc., and changed its name to Rakuten Kobo Inc. According to an affidavit sworn by Ms. Reisman in connection with Indigo's request for leave to intervene in Kobo's above-mentioned application under subsection 106(2) of the Act, Kobo's business remains "a central and integral component of Indigo's E-book and broader eReading strategy."
+II.
+Relevant legislation
+[20]
+The legislation that is relevant to this application is essentially the same as the legislation addressed in
+CITATION_SUPPRESSED.
+III.
+The Draft Orders and their Schedules
+[21]
+The draft Orders submitted by the Commissioner on these applications (the "Kobo Draft Order" and the "Indigo Draft Order," respectively) were virtually identical in all material respects to the orders recently issued by this Court pursuant to section 11 of the Act. As noted in
+CITATION_SUPPRESSED, those Orders have evolved into essentially a template that reflects comments provided by the Court to the Commissioner in prior hearings under section 11. The Court expects that that template will continue to evolve as circumstances warrant. In their correspondence with the Commissioner prior to the hearing of this application, and as has generally been the case in recent applications under section 11, the Respondents did not raise any concerns with respect to the text in the main body of the draft Orders.
+[22]
+Schedules I and II to the draft Orders described the records to be produced pursuant to subparagraph 11(1)(
+b
+) of the Act and the written returns of information to be produced pursuant to subparagraph 11(1)(
+c
+), respectively. Those schedules each had a modest number of specifications and, at least to some extent, reflected input previously provided by the Respondents to the Commissioner.
+[23]
+In its correspondence with the Commissioner, Kobo raised a number of concerns with respect to Schedules I and II to the Kobo Draft Order. I will address below those concerns that may be relevant to other respondents to
+ex parte
+applications under section 11 of the Act in the future. I will also address certain general concerns that were raised by each of Kobo and Indigo. However, I will refrain from addressing concerns that led the Commissioner to make changes to earlier versions of the Kobo Draft Order or the Indigo Draft Order, prior to making these applications.
+[24]
+At the outset, it bears repeating that the Court's focus in proceedings initiated under section 11 of the Act typically will be on satisfying itself that (i) an inquiry is in fact being made, (ii) the Commissioner has provided full and frank disclosure, (iii) the information or records described in the Order(s) being sought are relevant to the inquiry in question, and (iv) the scope of such information or records is not excessive, disproportionate or unnecessarily burdensome (
+CITATION_SUPPRESSED).
+[25]
+In this application, after reviewing the materials filed by the Commissioner, I satisfied myself as to the first two of those matters. After the Commissioner agreed during the hearing to make certain changes to the draft Order, I was also satisfied with respect to the third and fourth of those matters.
+[26]
+In its correspondence, Kobo noted that the Commissioner has been investigating this matter for over two years and had already entered into the CA. In those circumstances, it submitted that it was incumbent upon the Commissioner to provide a clear, full and compelling explanation for suddenly imposing upon Kobo an onerous request for information.
+[27]
+In my view, paragraphs 40 - 48 of the Russell Affidavit filed in proceeding T-62-15 provided that explanation. In brief, those paragraphs described the basis for the Commissioner's reason to believe that grounds exist for the making of an order under Part VIII of the Act against Kobo. Among other things, the Russell Affidavit explained that information obtained after the CA was concluded suggests that Kobo, or in some instances Indigo negotiating on Kobo's behalf, may have influenced or attempted to influence the switch from the wholesale model to the agency model in Canada.
+[28]
+Kobo also was troubled that the Russell Affidavit failed to address the fact that Kobo had offered to voluntarily provide any information that the Commissioner might still require, after having reviewed the substantial amount of information that Kobo previously provided to the Commissioner.
+[29]
+There are perfectly valid reasons why the Commissioner may prefer to seek information under section 11, rather than on a voluntary basis, from targets of inquiries as well as from third parties. These include the fact that compliance with an order issued under section 11 may be more effectively and efficiently enforced than compliance with a less formal request for information by the Commissioner. This Court will not interfere with this exercise of the Commissioner's discretion.
+[30]
+Kobo further asserted that some of the information described in the Kobo Draft Order had previously been provided, and that Kobo "should not be put to the cost of having to re-review prior answers and engage in a line-by-line analysis in order to filter out duplicative responses." Kobo maintained that "the proper way to proceed is for the Commissioner to actually determine what it [sic] needs, then seek it, rather than shifting the burden and cost on a respondent like Kobo."
+[31]
+I am very sympathetic to this position. In my view, the burden should be on the Commissioner to demonstrate persuasively why information that has previously been provided by a respondent should be provided again.
+[32]
+In this application, the key focus of Kobo's concern in this regard appeared to be upon an extensive request for data that was described in specification 12 of Schedule II to the Kobo Draft Order. Among other things, that specification sought such data for the entire Relevant Period, as defined in the introduction to Schedules I and II (September 1, 2009 to the date of the Order). This request was made notwithstanding the fact that Kobo had voluntarily provided essentially the same data, for the period September 1, 2008 to mid-November 2012, pursuant to a request for information issued by the Competition Bureau on November 16, 2012.
+[33]
+Initially, counsel to the Commissioner explained that the information previously supplied was being requested again to ensure that "there is no break in the data." However, it was not immediately apparent why it would be necessary to request the information in question again for that purpose.
+[34]
+When pressed on this issue during the hearing, and after being given an opportunity to confer with staff in the Competition Bureau, counsel explained that their concern was that they were "not going to be able to sew the original response together with the new response because there may be some new fields or the data set may not be compatible. In other words, we may not be able to put them together ... to do an analysis or a complete run" (Transcript, at 55). I was satisfied with this explanation, particularly after the Commissioner agreed to amend Specification 12 of Schedule II of the draft Order to state that Kobo need not reproduce the data previously submitted, provided that the additional data is in the same format and based on the same methodology as the prior data, and is capable of being successfully merged with that prior data, to create a continuous, successive and uninterrupted data base.
+[35]
+Kobo also objected to having to provide five additional fields of data, relative to the data it previously supplied, and to having to provide "two extra years of data, effectively doubling the size of the request." With respect to the five additional fields, Kobo explained that it does not keep its data in a format that has those fields.
+[36]
+In my view, the more appropriate way for Kobo to deal with this latter issue is to invoke paragraph 10 of the Order, which contemplates that Kobo need not provide information that it does not have, because it never existed.
+[37]
+As to the additional two years' worth of data, I am satisfied that this will be relevant to the Commissioner's assessment of whether competition is or is likely to be prevented or lessened substantially, as set forth in section 90.1 of the Act.
+[38]
+Kobo raised a related objection that because E-book distribution "contracts disclose a gradual shift to agency in Canada, beginning in 2010 and ending in 2012 ... that period of time should be the focus of the Draft Order." Once again, I am satisfied that information pre-dating (to September 2009) and post-dating (to the date of the Order) that period of time is relevant to the Commissioner's assessment of whether competition is or is likely to be prevented or lessened substantially. I am also satisfied that it would not be disproportionate or unduly burdensome for the Commissioner to request such information from Kobo.
+[39]
+Stated differently, it is understandable that the Commissioner might require information pertaining to a reasonable period of time pre-dating and post-dating the period of time that is the focus of the Inquiry. Such information typically will be relevant to the Commissioner's assessment of the business context in which the conduct that is the subject of the Inquiry may have taken place and the extent to which, if at all, that conduct prevented or lessened competition, or is likely to prevent or lessen competition substantially, relative to the situation that would have existed "but for" that conduct (
+CITATION_SUPPRESSED).
+[40]
+Kobo also asserted that it had filed an application pursuant to subsection 106(2) of the Act in respect of the CA, that the Commissioner then filed a reference under subsection 124.2(2) of the Act, and that, as a result of that reference, the Commissioner had not yet filed a response to that application. It maintained that the effect of the Order being sought under section 11 of the Act was "to unfairly circumvent the normal Tribunal process, and remove from the Tribunal its ability to exercise oversight over the discovery process." Indigo shared this concern, and added that it fully expected that, "as part of the Tribunal proceedings, the Commissioner will seek to compel Indigo to produce relevant records and other information in furtherance of its application for leave to intervene or as part of the ultimate proceedings."
+[41]
+In support of its position, Indigo referred to Justice McKeown's decision in
+REFERENCE_SUPPRESSED. That case concerned a motion by the Director of Investigation and Research (now the Commissioner) to strike out portions of a response filed by the respondents to that proceeding. Among other things, the respondents there alleged that the Director had "abused his section 11 powers by using them as a substitute for the Tribunal's discovery process, gaining advantages (such as productions from third parties) not available to CP." In essence, the Director took the position that the Tribunal has no supervisory jurisdiction over the Director's exercise of his statutory powers accorded to him under the Act. CP replied that subsection 8(1) of the
+Competition Tribunal Act,
+RSC, 1985, c 19 (2nd Supp), provides the Tribunal with the jurisdiction to govern its own process, and that implicit in this jurisdiction is the power to ensure that such process is not subverted through the Director's conduct of inquiries.
+[42]
+Justice McKeown agreed with both the position of the Director and with CP. He therefore declined to strike the allegations of abuse of process on the basis that the Tribunal lacks jurisdiction. However, he proceeded to strike the above-quoted allegation from the respondents' response on the ground that it was "plain and obvious" and "beyond doubt" that it should be struck, as it contained no reasonable defence and was immaterial. In so doing, he observed: "Any advantage which the Director obtains through the use of section 11 examinations is an advantage accorded to him under the Act." He added: "If, however, at a later date, evidence is obtained by the respondents which would directly link the Director's conduct in his inquiry to a subversion of the process of the Tribunal, it would be open to the respondents to bring a motion before the Tribunal to deal with such an allegation." (
+CP
+, above, at para 13).
+[43]
+In the proceedings that Kobo has initiated before the Tribunal under subsection 106(2) of the Act, it will similarly be open to Kobo or Indigo to bring such a motion, should they wish to do so. However, for the purposes of the present application before me under section 11 of the Act, I do not agree with the suggestions of Kobo and Indigo that the Commissioner is acting inappropriately by seeking the information described in Schedules I and II of the Orders, pursuant to section 11 rather than as part of the Tribunal's discovery process. Stated differently, Kobo and Indigo have not displaced the presumption that actions taken by the Commissioner pursuant to the Act are
+bona fide
+and in the public interest (
+CITATION_SUPPRESSED).
+[44]
+The information described in Schedules I and II to the Orders is relevant to the Inquiry and relates to matters which are much broader in scope than those being raised in Kobo's application before the Tribunal, pursuant to subsection 106(2) of the Act. Among other things, the focus of that application is upon the CA between the Commissioner and the Settling Publishers. By contrast, the information being sought from Kobo and Indigo pursuant to the present application under section 11 of the Act relates to an inquiry that continues to evolve, and now includes Kobo and an unnamed third party as targets.
+[45]
+I recognize that, in its application before the Tribunal, Kobo is seeking broad rights to "test the basis of" the CA - a position that has been rejected by the Tribunal and is now being advanced before the Federal Court of Appeal. However, Kobo clarified in its oral submissions before the Tribunal that it does not wish to make submissions with respect to whether the impugned conduct of the Settling Publishers "prevents or lessens, or is likely to prevent or lessen, competition substantially in a market," as is also required by subsection 90.1(1), (
+CITATION_SUPPRESSED).
+[46]
+Kobo and Indigo also suggested that the Commissioner is acting inappropriately because he is only seeking information pursuant to section 11 from the two parties seeking to have the CA set aside or varied, and is not seeking to obtain information from other participants in the Canadian book industry, including the Settling Publishers.
+[47]
+Leaving aside the Settling Publishers for a moment, for the reasons discussed at paragraphs 27 to 29 above, and based on the information set forth in section III of the Russell Affidavit filed in proceeding T-61-15, I am satisfied that it is entirely legitimate for the Commissioner to be seeking, pursuant to section 11, the information described in Schedules I and II to the Orders. If the Commissioner later decides to seek information pursuant to section 11 from additional parties in the Canadian book industry, the Court will assess the Commissioner's applications at that time. For the purposes of the present application, there does not appear to be anything untoward associated with the Commissioner seeking information under section 11 only from Kobo and Indigo. Contrary to the position taken by Kobo and Indigo, I am satisfied that they are not being targeted as a result of their involvement in proceedings before the Tribunal.
+[48]
+With respect to the Settling Publishers, the Commissioner has entered into the CA and has preserved his right to obtain additional information from those persons. In this regard, paragraph 68 of the Russell Affidavit filed in proceeding T-62-15 states that "the Commissioner has obtained records and information from the Settling Publishers pursuant to a request for information [the "SP RFI"] provided to each of the Settling Publishers on 7 February 2014." A similar statement is made at paragraph 59 of the Russell Affidavit filed in proceeding T-61-15. Exhibits 16 and 14 to those affidavits, respectively, include a copy of the cover letter to the SP RFI that was sent to one of the Settling Publishers. That document states that the Commissioner may seek additional information on a voluntary basis in certain circumstances, and that the Commissioner may seek an order under section 11 of the Act only in the following circumstances:
+... if the Commissioner is not satisfied with the response to the RFI or the additional requests for records or information as set out above, and his concerns are not addressed to his satisfaction within a reasonable time period after having provided written notice to the Settling Publisher setting out his concern(s) regarding the response referred to above, and having provided to the Settling Publisher a reasonable opportunity to address those concerns; or if (for any reason) the agreement between the Commissioner and the Settling Publisher, which the Competition Tribunal registered on 7 February 2014 pursuant to section 105 of the Act, is rescinded.
+[49]
+When pressed during the hearing on the scope of the limitations in the cover letter to the SP RFI, counsel to the Commissioner categorically rejected the suggestion that the terms of the letter might preclude the Commissioner from seeking information described in Schedules I or II of the Order from the Settling Publishers. In this regard, counsel stated that the Commissioner reads the terms of the letter as reflecting his view that the Settling Publishers have a broad based commitment to cooperate with the Commissioner's ongoing inquiry. He added that those terms do not preclude the Commissioner from obtaining any of the information that Kobo and Indigo state is more appropriately sought from the Settling Publishers (Transcript, at 33). In my view, that is a reasonable interpretation of the terms of that letter.
+[50]
+For greater certainty, there is nothing inappropriate about the Commissioner having taken the position described immediately above with the Settling Publishers. As stated earlier, it is within the Commissioner's discretion to decide whether to seek information from targets of inquiries or third parties on a voluntary basis or pursuant to section 11 of the Act. There may be very legitimate reasons for the Commissioner to exercise that discretion in favour of electing to seek certain types of information on a voluntary basis, including where this is done as part of a negotiated settlement. I do not read terms of the letter described above as precluding the Commissioner from seeking from the Settling Publishers, pursuant to section 11 of the Act, the type of information that he has decided to seek from Kobo and Indigo, should he decide that it is necessary to do so, i.e., because he is not able to obtain that information on a voluntary basis.
+[51]
+More broadly, while it may be the case that information that is relevant to an inquiry may be more conveniently, expeditiously or efficiently provided by a person other than a respondent to an application under section 11 of the Act, it is within the Commissioner's discretion to seek the information from that respondent, rather than from such other person.
+[52]
+In any event, counsel to the Commissioner provided reasonable explanations for seeking information from Kobo and Indigo that they believe should have been sought from the Settling Publishers. In brief, he stated that the case team had assessed the extent to which the Settling Publishers might have some of the information being sought from Kobo and Indigo, and concluded that such information was minimal, and largely confined to the agency agreements and communications between Kobo or Indigo and the Settling Publishers. With respect to the agency agreements, counsel added that the Commissioner wants to ensure that he has a full set of them (Transcript, at 36-37). With respect to communications with the Settling Publishers, he stated:" In other words, if there is follow-on communications internal to Kobo or Indigo or with some third party commenting upon or discussing the strategy and so forth, we are not going to see that" if they only request a copy of the communications from the Settling Publishers (Transcript, at 34).
+[53]
+Finally, some of the specifications in Schedules I and II of the draft Orders requested information in respect of the U.S. operations of Kobo and Indigo. Neither Kobo nor Indigo raised a question with respect to this issue. Nevertheless, it was not immediately apparent why such information might be relevant to the Inquiry, given that focus of the Inquiry, as described at paragraphs 8 and 40 - 47 of the Russell Affidavit filed in proceeding T-62-15, is upon the impact on competition
+in Canada
+that has resulted from, or is likely to result from, the shift from wholesale distribution agreements to agency distribution agreements for the sale of E-books
+in this country
+.
+[54]
+When pressed on this point during the hearing of this application, counsel to the Commissioner explained that information pertaining to the market(s) for the sale of E-books in the U.S. is relevant to the Inquiry because it can assist the Commissioner to understand how competition in the sale of E-books in Canada may have evolved, in the absence of the shift from wholesale distribution agreements to agency distribution agreements. In this regard, counsel noted that, as a result of the final judgments issued in the U.S., there was a movement away from agency agreements and from some of the terms that were contained in those agreements. That movement resulted in some changes in the market, such that the Commissioner can assess "what happened through that whole period, from wholesale to agency, and then the removal of agency ... [in terms of] price and other competitive dynamics in the market." (Transcript, at 26).
+[55]
+I agree with the Commissioner that such information is relevant, and may indeed be very helpful, to the Inquiry.
+[56]
+Nevertheless, the Court will remain vigilant in the future to ensure that information sought from respondents in respect of their U.S. operations is not disproportionate, having regard to the scope of those operations, relative to the scope of the respondents' Canadian operations. Where, for example, it may not be necessary to seek information in respect of a respondent's operations throughout the U.S., the Court's proportionality concern may be adequately addressed by seeking such information only in respect of certain representative States in the U.S.
+IV.
+Conclusion
+[57]
+Given all of the foregoing, and the changes that the Commissioner made prior to filing these applications to address various specific concerns that were raised either by Kobo or Indigo, I was satisfied that the information set forth in the Orders that I have issued, including the schedules thereto, is relevant to the Inquiry and not disproportionate, excessive or unnecessarily burdensome.
+.........................
+CITATION_SUPPRESSED

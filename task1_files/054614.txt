@@ -1,0 +1,155 @@
+[1]
+Bédard, J.
+[Translation]: This order follows the confidentiality order issued orally at the hearing on July 10, 2014, and completes it.
+I.
+Background
+[2]
+This is a motion for an order of confidentiality submitted by the respondent, the Minister of Citizenship and Immigration [the Minister], in the application filed by the applicant for leave and judicial review of a decision dated April 10, 2014, by the Refugee Protection Division of the Immigration and Refugee Board [the RPD], rejecting his refugee claim. This application for leave has not yet been dealt with by the Court.
+[3]
+The hearing of the motion took place
+in camera
+.
+[4]
+The Minister is requesting that Exhibit M-13 of the applicant's record and any reference to that exhibit or its contents in the applicant's record and in the RPD's decision that is the subject of the application for leave and judicial review be declared confidential and sealed.
+[5]
+Exhibit M-13 consists of an investigation report [the investigation report] prepared by the Intelligence Division of the Canada Border Services Agency [CBSA]. The investigation was initiated to review the files of a number of refugee claimants that contained numerous similarities; this was done to determine whether the methods and networks used by these persons to enter Canada were a threat to the integrity of Canadian immigration programs. Generally, the purpose of the investigation was to examine whether the refugee claimants at issue were members of a group that used the same fraudulent, organized scheme to enter Canada and seek refugee status there. The investigation report refers to the research, methodology and analysis that was done and the CBSA's findings. It also contains the identification numbers of the persons under investigation.
+[6]
+The applicant was one of the persons under investigation by the CBSA. It appears from the evidence that the RPD did not hear all the refugee claims of the other persons involved in the CBSA investigation.
+[7]
+The Minister intervened in the applicant's hearing before the RPD to oppose his refugee claim because he had entered Canada fraudulently. In support of his opposition, the Minister filed the CBSA's investigation report. It is helpful to note that the hearing before the RPD was held
+in camera
+but that counsel for the Minister sent the RPD and applicant's counsel a complete, unredacted version of the CBSA's investigation report (Exhibit M-13 to the applicant's record). The RPD rejected the applicant's refugee claim, and its decision was based in part on the CBSA's investigation report.
+[8]
+The Minister argues that the investigation report, in its complete version and with no measures taken to maintain its confidentiality to protect the identity of the persons under investigation, was sent to the applicant and filed before the RPD in error, contrary to the CBSA's guidelines. The affidavits of two CBSA officers filed in support of the motion for a confidentiality order confirm this allegation.
+[9]
+In his motion for a confidentiality order, the Minister initially requested that the CBSA's investigation report (Exhibit M-13) be removed in its entirety from the Court file. The applicant, for his part, did not object to the investigation report being declared confidential but did object to it being removed in its entirety from the file on the basis that it was relevant evidence for the purposes of determining the application for leave and judicial review of the RPD's decision. I share the applicant's view in this regard. At the hearing, I indicated to the parties that, in the circumstances of this case, it seemed clear to me that the CBSA's investigation report was relevant for the purposes of determining the application for leave and judicial review because the RPD's decision was, in part, based on the investigation report. In addition, this report was introduced into evidence before the RPD by the Minister himself in support of his intervention. In my opinion, the Minister cannot,
+a
+posteriori
+and after using the report to justify his opposition to the applicant's refugee claim, ask the Court to simply remove it from the file. Exchanges between counsel and the undersigned resulted in an agreement between the parties and permitted me to order measures (which I will repeat in the conclusions of this order) that I consider appropriate to protect the confidentiality of the CBSA's report (Exhibit M-13 to the applicant's record) without infringing the applicant's right to put forward all his arguments in support of his application for leave and judicial review.
+II.
+Analysis
+(a) Legal framework
+[10]
+Rule 151 of the
+Federal Courts Rules
+, SOR/98-106, [the Rules] governs motions for an order of confidentiality and reads as follows:
+Motion for order of confidentiality
+151. (1) On motion, the Court may order that material to be filed shall be treated as confidential.
+Demonstrated need for confidentiality
+(2) Before making an order under subsection (1), the Court must be satisfied that the material should be treated as confidential, notwithstanding the public interest in open and accessible court proceedings.
+Requête en Confidentialité
+151 (1) La Cour peut, sur requête, ordonner que des documents ou éléments matériels qui seront déposés soient considérés comme confidentiels.
+Circonstances justifiant la confidentialité
+-
+(2) Avant de rendre une ordonnance en application du paragraphe (1), la Cour doit être convaincue de la nécessité de considérer les documents ou éléments matériels comme confidentiels, étant donné l'intérêt du public à la publicité des débats judiciaires.
+[11]
+Rule 151 of the Rules deals specifically with cases where the documents for which one party claims confidentiality have not yet been filed in the Court file. Rule 152 deals with the applicable terms and conditions and the parties' obligations where material is declared confidential under rule 151.
+[12]
+The situation in this case is different because the CBSA's investigation report is included in the applicant's record, which was already filed with the Court. It is therefore already in the public domain, which causes problems with respect to the real scope of a confidentiality order. Moreover, the RPD's decision, which was also filed in the Court file in its entirety, contains excerpts from this report.
+[13]
+I find that section 44 of the
+Federal Courts Act
+, RSC 1985, c F-7 as well as rules 4 and 26(2) of the Rules give the Court the power to deal with a motion for a confidentiality order even where the documents in question have already been placed in the Court file and to apply, by analogy, the principles set out in rules 151 and 152 (
+ <FRAGMENT_SUPPRESSED> ). I also find, for the reasons that follow and despite the fact that the CBSA's investigation report and the references to its content in other documents are already in the public domain, that the investigation report should be declared confidential and that it is appropriate to issue a confidentiality order to protect the confidentiality of the report to the extent possible
+[14]
+Under rule 151 of the Rules, before making a confidentiality order, the Court must be satisfied that the material should be treated as confidential, notwithstanding the public interest in open and accessible court proceedings. It is clear from the rule and the jurisprudence on confidentiality orders that confidentiality is an exception to the general rule of open and accessible court proceedings that must be applied with caution and rigour.  <FRAGMENT_SUPPRESSED>  [
+Sierra Club
+], the Supreme Court set out the guidelines and the test that the Court must apply on a motion for a confidentiality order. Prior to issuing a confidentiality order, the Court must be satisfied that the need to protect the confidentiality of a document outweighs the public interest in open and accessible court proceedings. The Court repeated and adapted the two-part test set out in previous decisions (
+ <FRAGMENT_SUPPRESSED>  [2001] 3 SCR 442) [ <FRAGMENT_SUPPRESSED> ]) to the context of the case that was before it. Accordingly, a confidentiality order will be made only if the Court considers that
+(1) such an order is necessary in order to prevent a serious risk to an important interest, including a commercial interest, in the context of litigation because reasonably alternative measures will not prevent the risk.
+(2) the salutary effects of the confidentiality order, including the effects on the right of civil litigants to a fair trial, outweigh its deleterious effects, including the effects on the right to free expression, which in this context includes the public interest in open and accessible court proceedings.
+(
+Sierra Club
+at pp. 543-544; see also
+ <FRAGMENT_SUPPRESSED> [
+British Columbia
+])
+[15]
+The Court also reiterated that three elements must be considered under the first part of the test: (1) the risk must be serious and well grounded in evidence; (2) the Court must ensure that it does not prevent the disclosure of an excessive number of documents; and (3) the Court must determine whether reasonable alternatives are available and must restrict the order as much as possible (
+Sierra Club
+at pp. 540, 543, 544).
+[16]
+ <FRAGMENT_SUPPRESSED>  at para 13, the Court pointed out that the analytical approach developed in <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> applies to all discretionary decisions that affect the openness of proceedings.
+[17]
+ <FRAGMENT_SUPPRESSED>  the onus on the party seeking a confidentiality order:
+[6] This application is made against the backdrop of the general principle that judicial proceedings in this country are open to the public. That principle has been extended to documents filed with the Court. The circumstances where that principle of openness is departed from are narrowly circumscribed.
+[7] In Canada
+(Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  derogation from the principle of open and accessible court proceedings, and I am satisfied that that principle extends to open and accessible court records, Rule 151(2) requires that the Court must be satisfied that the material sought to be protected from access should be treated as confidential. The extract from
+Pacific Press (supra)
+, makes it clear that the onus on an applicant such as the respondent here to so satisfy the Court is a heavy one.
+[8] The justifiable desire to keep one's affairs private is not, as a matter of law, a sufficient ground on which to seek a confidentiality order. In order to obtain relief under Rule 151, the Court must be satisfied that both a subjective and an objective test are met.  <FRAGMENT_SUPPRESSED> . Subjectively, the party seeking relief must establish that it believes its interest would be harmed by disclosure. Objectively, the party seeking relief must prove, on a balance of probabilities, that the information is in fact confidential.
+(see also
+British Columbia
+at para 36)
+(b) Confidentiality of the CBSA's investigation report (Exhibit M-13 to the applicant's record)
+[18]
+It should be reiterated that the applicant did not object to the investigation report being declared confidential. However, a consent to a motion for a confidentiality order is not sufficient for the Court to issue it (
+ <FRAGMENT_SUPPRESSED> ;
+British Columbia
+at para 34). The Court must be satisfied that the order is warranted based on the assessment criteria developed in the jurisprudence.
+[19]
+In this case, the Minister has satisfied me that the CBSA's investigation report (Exhibit M-13 to the applicant's record) should be declared confidential.
+[20]
+What is the serious risk for an important interest that the Minister seeks to prevent through his motion for a confidentiality order?
+[21]
+The Minister's motion is supported by the affidavits of two CBSA officers. It is clear from these affidavits that the purpose of the CBSA's investigation, which led to the investigation report, was to review whether the refugee claimants who had submitted applications with a number of similarities had used a fraudulent, organized scheme to enter Canada illegally. This type of investigation falls under the CBSA's functions. The mission of the CBSA is set out in section 5 of the
+Canada Border Services Agency Act
+, SC 2005, c 38:
+5.
+(1) The Agency is responsible for providing integrated border services that support national security and public safety priorities and facilitate the free flow of persons and goods, including animals and plants, that meet all requirements under the program legislation, by
+(
+a
+) supporting the administration or enforcement, or both, as the case may be, of the program legislation;
+(
+b
+) implementing agreements between the Government of Canada or the Agency and a foreign state or a public body performing a function of government in a foreign state to carry out an activity, provide a service or administer a tax or program;
+(
+c
+) implementing agreements between the Government of Canada or the Agency and the government of a province or other public body performing a function of the Government in Canada to carry out an activity, provide a service or administer a tax or program;
+(
+d
+) implementing agreements or arrangements between the Agency and departments or agencies of the Government of Canada to carry out an activity, provide a service or administer a program; and
+(
+e
+) providing cooperation and support, including advice and information, to other departments and agencies of the Government of Canada to assist them in developing, evaluating and implementing policies and decisions in relation to program legislation for which they have responsibility.
+5.
+(1) L'Agence est chargée de fournir des services frontaliers intégrés contribuant à la mise en œuvre des priorités en matière de sécurité nationale et de sécurité publique et facilitant le libre mouvement des personnes et des biens - notamment les animaux et les végétaux - qui respectent toutes les exigences imposées sous le régime de la législation frontalière. À cette fin, elle:
+a) fournit l'appui nécessaire à l'application ou au contrôle d'application, ou aux deux, de la législation frontalière;
+b) met en œuvre tout accord conclu entre elle ou le gouvernement fédéral et un État étranger ou un organisme public remplissant des fonctions gouvernementales dans un État étranger et portant sur l'exercice d'une activité, la prestation d'un service, l'administration d'une taxe ou l'application d'un programme;
+c) met en œuvre tout accord conclu entre elle ou le gouvernement fédéral et le gouvernement d'une province ou un organisme public remplissant des fonctions gouvernementales au Canada et portant sur l'exercice d'une activité, la prestation d'un service, l'administration d'une taxe ou l'application d'un programme;
+d) met en œuvre tout accord ou entente conclu entre elle et un ministère ou organisme fédéral et portant sur l'exercice d'une activité, la prestation d'un service ou l'application d'un programme;
+e) fournit aux autres ministères ou organismes fédéraux l'appui et la collaboration nécessaires, notamment par la prestation d'avis ou de renseignements, pour les aider dans l'élaboration, l'examen et la mise en œuvre des orientations et des décisions relatives à la législation frontalière qui relève d'eux.
+[22]
+This type of report, prepared in line with the CBSA's investigation powers, appears to me to be a document covered by the exception in section 16 of the
+Access to Information Act
+, RSC 1985, c 1 (2nd Supp.), which would enable the CBSA to refuse to publicly disclose it.
+[23]
+It is also clear from the evidence that the CBSA did not intend for this investigation report to be in the public domain and that it was not until June 25, 2014, that its officer was informed that it had been filed before the RPD and in the Court file. Indeed, the first page of the report contains a warning that dissemination of it is strictly controlled and reproduction of it is prohibited without the written authorization of the Intelligence Division of the CBSA. The evidence also shows that the CBSA did not authorize the disclosure or filing of the investigation report and that it would not have authorized the filing of this report without first redacting the information that the CBSA considered confidential.
+[24]
+Accordingly, the evidence establishes that the filing of the complete version of the investigation report at the hearing of the applicant's refugee claim before the RPD was an error on the part of the Minister and was done without the CBSA being informed of it.
+[25]
+The report clearly contains information that identifies the persons who were under investigation and also reveals the CBSA's methods and investigation techniques as well as the research and reviews it conducted. Apart from the applicant, the persons investigated by the CBSA and identified in the investigation report are not involved in this case. In addition, the evidence shows that the RPD has not heard all the refugee claims of the other persons identified in the investigation report. I find, in light of the evidence and the contents of the report, that public access to the investigation report, in its current form, could adversely affect the ongoing proceedings relating to the refugee claims of the other persons identified in the CBSA's investigation report.
+[26]
+In the circumstances, it appears to me that this motion for a confidentiality order is aimed at preventing a serious risk-a possible interference with the normal course of the refugee claims of the persons identified in the investigation report-that is well grounded in the evidence.
+[27]
+The evidence establishes that, before it was filed, the investigation report should have been internally redacted by the CBSA so that confidential information would be expunged. No redacted version of the report was available at the hearing, and it appears difficult to me, based on the evidence and the stage of the proceedings, to identify the information in the investigation report that could remain in the public domain without the redacted report being an empty, incomprehensible shell. Consequently, in light of the information I have, it appears difficult to me to identify a reasonable alternative that would avoid sealing the investigation report (Exhibit M-13 to the applicant's record).
+[28]
+Considering the impact that the disclosure of the CBSA's investigation report could have on processing the refugee claims of the other persons who were investigated, I find that the salutary effects of a confidentiality order fall within the smooth operation of administrative and legal procedures and challenge the effectiveness of the administration of justice. Moreover, the benefits of a confidential order in the circumstances of this case outweigh, in my view, its deleterious effects including its effects on freedom of expression, which encompasses the public interest in open and accessible court proceedings.
+[29]
+At this stage of the proceedings, and given the circumstances and the exchanges I had with the parties at the hearing, I find it is reasonable to order that the measures necessary for maintaining the confidentiality of the CBSA's investigation report be implemented. Moreover, this case is only at the stage of the application for leave to seek judicial review of the RPD's decision rejecting the applicant's refugee claim. If the application for leave is granted, the case will proceed, and it is possible that the circumstances presented to me will evolve over time. If necessary, it will be up to the parties, if they consider it advisable, to bring the matter back to Court in order for it to determine whether this order is still appropriate and, if that is the case, to identify the measures that must be implemented to maintain the confidentiality of the investigation report (Exhibit M-13 of the applicant's record) or of certain information contained in the report for the purpose of the judicial review hearing.
+ORDER
+[30]
+THIS COURT ORDERS
+that the Minister's motion is allowed in part and that the CBSA's investigation report (Exhibit M-13 to the applicant's record) is declared confidential.
+[31]
+THIS COURT ALSO ORDERS that
+the following measures be implemented to maintain the confidentiality of the CBSA's investigation report (Exhibit M-13 to the applicant's record):
+1. The Minister's motion record for a confidentiality order and the applicant's reply shall be sealed.
+2. The applicant's record containing Exhibit M-13 and the references to its contents shall be sealed and replaced, in the Court's public file, by the applicant's record after Exhibit M-13 and any reference to its contents that the parties submitted to the Court have been redacted from it.
+3. Only counsel of record shall have access to the CBSA's investigation report (Exhibit M-13 of the applicant's record) and the unredacted version of the RPD's decision that is the subject of the application for leave and judicial review, which have been sealed.
+4. Counsel of record shall comply with the requirements set out in subsection 2 of rule 152 of the Rules with respect to the disclosure, reproduction and destruction of the CBSA's investigation report (Exhibit M-13 of the applicant's record) and any other document referring to its contents.
+5. This order shall continue in effect until the Court orders that it be revised or amended based on circumstances that may arise as the case progresses.
+6. The undersigned shall remain seized of the matter for the purposes of resolving any difficulty that may result from the implementation of this order.
+7. No costs.
+Motion allowed in part.
+Editor: J. Danielle King/vnh

@@ -1,0 +1,147 @@
+[1]
+O'Reilly, J.
+: In 2009, the warden at Ferndale Institution rejected Mr Michael Spidel's nomination to serve on the inmate committee. The issue ultimately made its way to this Court by way of judicial review. Justice Anne Mactavish concluded that Mr Spidel had been treated unfairly and that the warden's decision had been unreasonable (
+ <FRAGMENT_SUPPRESSED> ).
+[2]
+Mr Spidel subsequently submitted another grievance in which he identified several errors in the Commissioner's Directive relating to Inmate Committees [CD 083]. His main concern is that CD 083 does not accord with Justice Mactavish's decision. He filed this latest grievance at the final, third-level of the Offender Grievance Procedure based on his view that issues relating to the content of Commissioner's Directives should be brought directly to the Commissioner himself. A delegate of the Commissioner, a Senior Deputy Commissioner [SDC], concluded that Mr Spidel's grievance essentially raised matters of general policy that fell outside the ambit of the grievance process. The SDC therefore rejected Mr Spidel's grievance and suggested that he bring the matter before an inmate committee, where members can make recommendations relating to matters affecting the inmate population as a whole.
+[3]
+Mr Spidel argues that the SDC erred in concluding that his complaint fell outside the grievance procedure and that it should have been brought to an inmate committee. He asks me to quash the SDC's decision and refer the matter back for reconsideration.
+[4]
+I can find no basis for overturning the SDC's decision and must, therefore, dismiss this application for judicial review.
+[5]
+The issue is whether the SDC erred in law.
+II.
+The Legal Framework
+(1) The Grievance Process
+[6]
+Offenders are entitled to a fair and expeditious process for resolving grievances that fall within the jurisdiction of the Commissioner of Corrections (
+Corrections and Conditional Release Act
+, SC 1992, c 20, s 90 [CCRA]; provisions cited are set out in an Annex).
+[7]
+The Offender Grievance Procedure is set out in the
+Corrections and Conditional Release Regulations
+, SOR/92-620 [CCRR]. It includes the following steps:
+• an offender who is dissatisfied with an action or decision of a staff member may make a written complaint to the staff member's supervisor (s 74(1));
+• the offender and staff must try to resolve the matter informally (s 74(2));
+• the supervisor must review the complaint and provide the offender with a copy of his or her decision as soon as practicable (s 74(3));
+• if the offender is not satisfied with the decision, the offender may submit a grievance to the institutional head (s 75(
+a
+));
+• the institutional head must review the grievance to determine whether it falls within the jurisdiction of the Correctional Service of Canada [CSC] (s 76(1));
+• if the grievance does not fall within the CSC's jurisdiction, the institutional head must advise the offender in writing and inform the offender of any other available remedy (s 76(2));
+• the institutional head must give the offender a copy of his or her decision as soon as practicable (s 78);
+• if the offender is not satisfied with the decision, the offender can appeal to the head of the region (s 80(1));
+• the offender can appeal the decision of the regional head to the Commissioner (s 80(2));
+• the offender must be provided a copy of the regional head's decision and the Commissioner's decision as soon as practicable (s 80(3)).
+[8]
+Further details of the process are contained in Commissioner's Directive 081 - Offender Complaints and Grievances [CD 081]. It makes clear that offenders should begin the process with a complaint to the supervisor of the staff member involved, unless the supervisor is the Institutional Head, the Regional Deputy Commissioner, or the Commissioner himself (s 13). In any case, the decision of the Commissioner represents the final stage of the grievance process (s 15). CD 081 also sets out the time frames within which decision makers at the various levels must respond, depending on the priority of the complaint (s 18).
+[9]
+Additional details can be found in Commissioner's Directive 081-1 - Offender Complaint and Grievance Process [CD 081-1]. It describes the four-level process set out above. It confirms that the final decision-maker is the Commissioner (s 7). Sometimes, inmates can file a complaint above the initial level. For example, a complaint about inter-regional transfers, or a transfer to or from the Special Handling Unit must go directly to the third level. The other exceptions, mentioned above, arise when the complaint relates to the conduct of a senior staff member;
+eg
+, a complaint about an institutional head should be made at the second level to the regional head.
+[10]
+CD-081-1 lists some matters that cannot be grieved. For example, matters relating to access to information or privacy must be made to the Information Commissioner or the Privacy Commissioner, as the case may be. Mr Spidel points out that CD-081-1 does not state explicitly that complaints about Commissioner's Directives cannot be grieved.
+(2) Inmate Committees
+[11]
+Offenders are entitled to an opportunity to contribute to decisions of the CSC that affect the inmate population as a whole, except security matters (CCRA, s 74).
+[12]
+Particulars relating to inmate committees are set out in Commissioner's Directive 083, the document Mr Spidel argues contains numerous errors. However, it is clear that CD 083 provides that inmate committees may make recommendations to the institutional head in relation to decisions affecting the inmate population (s 10).
+III.
+Did the SDC err in law?
+[13]
+Mr Spidel argues that the SDC erred in concluding that his grievance did not fall within the jurisdiction of the Commissioner and that he should have presented his concerns about CD 083 to an inmate committee. Obviously, he says, the content of a Commissioner's Directive is within the Commissioner's jurisdiction.
+[14]
+In particular, he maintains that his complaint falls within the grievance procedure because he is "an offender who is dissatisfied with an action or decision of a staff member" (CCRR, s 74(1)). The "action or decision" is CD 083; the "staff member" is the Commissioner of Corrections.
+[15]
+I cannot agree with Mr Spidel's submissions.
+[16]
+It is possible that the issue of a Commissioner's Directive is an "action or decision" of the Commissioner. But it is clear to me that a complaint about the content of a Commissioner's Directive does not fall within the Offender Grievance Procedure.
+[17]
+Complaints can be made about the conduct of a "staff member". Is the Commissioner a staff member in this context? In my view, he is not.
+[18]
+The procedure provides that inmates should commence the grievance process by filing a complaint with the staff member's supervisor. It is not clear who the Commissioner's supervisor would be. The next steps would involve an institutional head and a regional head. It seems unlikely that a decision of the Commissioner's supervisor, whoever that might be, would be reviewed by officials subordinate to the Commissioner himself. Further, the final step would involve review by the Commissioner, bringing the matter full circle back to the person about whose conduct the offender is complaining in the first place. It is unlikely that this process accommodates complaints about the Commissioner, given that it creates a closed loop with the Commissioner himself having the final word about the disposition of the complaint.
+[19]
+Accordingly, I cannot conclude that the SDC erred in finding that Mr Spidel's grievance did not fall within the Offender Grievance Procedure. If the intention had been to allow inmates to grieve Commissioner's Directives, it is likely that CD-081-1, which sets out circumstances where inmates can bring complaints directly to the third-level, would so provide.
+[20]
+As far as the alternative remedy suggested by the SDC, it is clear that inmate committees can make recommendations about matters involving the inmate population as a whole. Therefore, the SDC did not err in referring to that potential alternative remedy. Her decision was consistent with the obligation to inform the offender of another available remedy when a grievance is beyond the jurisdiction of the CSC (CCRR, s 76(2)).
+IV.
+Conclusion and Disposition
+[21]
+The SDC did not err in concluding that Mr Spidel's grievance fell outside the jurisdiction of the Offender Grievance Procedure and should have been raised with his inmate committee. Accordingly, I must dismiss this application for judicial review. As Mr Spidel raised a matter of general public interest, there is no order as to costs.
+JUDGMENT
+[22]
+THIS COURT'S JUDGMENT is that:
+1. The application for judicial review is dismissed. There is no order as to costs.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/vnh
+Annex
+Corrections and Conditional Release Act
+(SC 1992, c 20)
+Inmate input into decisions
+74. The Service shall provide inmates with the opportunity to contribute to decisions of the Service affecting the inmate population as a whole, or affecting a group within the inmate population, except decisions relating to security matters.
+Grievance procedure
+90. There shall be a procedure for fairly and expeditiously resolving offenders' grievances on matters within the jurisdiction of the Commissioner, and the procedure shall operate in accordance with the regulations made under paragraph 96(
+u
+).
+Corrections and Conditional Release Regulations
+(SOR/92-620)
+Offender Grievance Procedure
+74. (1) Where an offender is dissatisfied with an action or a decision by a staff member, the offender may submit a written complaint, preferably in the form provided by the Service, to the supervisor of that staff member.
+(2) Where a complaint is submitted pursuant to subsection (1), every effort shall be made by staff members and the offender to resolve the matter informally through discussion.
+(3) Subject to subsections (4) and (5), a supervisor shall review a complaint and give the offender a copy of the supervisor's decision as soon as practicable after the offender submits the complaint.
+75. Where a supervisor refuses to review a complaint pursuant to subsection 74(4) or where an offender is not satisfied with the decision of a supervisor referred to in subsection 74(3), the offender may submit a written grievance, preferably in the form provided by the Service,
+(a) to the institutional head or to the director of the parole district, as the case may be; or
+76. (1) The institutional head, director of the parole district or head of the region, as the case may be, shall review a grievance to determine whether the subject-matter of the grievance falls within the jurisdiction of the Service.
+(2) Where the subject-matter of a grievance does not fall within the jurisdiction of the Service, the person who is reviewing the grievance pursuant to subsection (1) shall advise the offender in writing and inform the offender of any other means of redress available.
+78. The person who is reviewing a grievance pursuant to section 75 shall give the offender a copy of the person's decision as soon as practicable after the offender submits the grievance.
+80. (1) Where an offender is not satisfied with a decision of the institutional head or director of the parole district respecting the offender's grievance, the offender may appeal the decision to the head of the region.
+(2) Where an offender is not satisfied with the decision of the head of the region respecting the offender's grievance, the offender may appeal the decision to the Commissioner.
+(3) The head of the region or the Commissioner, as the case may be, shall give the offender a copy of the head of the region's or Commissioner's decision, including the reasons for the decision, as soon as practicable after the offender submits an appeal.
+Commissioner's Directive 081: Offender Complaint and Grievance Procedure
+Responsibilities
+...
+11. Grievors will:
+use the complaint and grievance process as a means of redress when they believe that they have been treated unfairly, or in a manner that is not consistent with legislation or policy on matters within the jurisdiction of the Commissioner;
+...
+13. Where an offender is dissatisfied with an action or a decision by a staff member, the offender may submit a written complaint, preferably on the form provided by the Service. The initial submission will be at the complaint level unless otherwise indicated in this directive or unless the supervisor of the staff member in question is the Institutional Head, the Regional Deputy Commissioner or the Commissioner.
+...
+15. The decision of the Commissioner or his/her delegate constitutes the final stage of the complaint and grievance process. Grievors who are not satisfied with the final decision of the complaint and grievance process may seek judicial review of the third-level grievance decision at the Federal Court within the time limit prescribed in subsection 18.1(2) of the Federal Courts Act.
+Commissioner's Directive 083: Inmate Committees
+Responsibilities
+...
+10. The Inmate Committee will make recommendations to the Institutional Head on decisions affecting the inmate population, except decisions relating to security matters.
+Loi sur le système correctionnel et la mise en liberté sous condition
+(LC 1992, ch 20)
+Participation aux décisions
+74. Le Service doit permettre aux détenus de participer à ses décisions concernant tout ou partie de la population carcérale, sauf pour les questions de sécurité.
+Procédure de règlement
+90. Est établie, conformément aux règlements d'application de l'alinéa 96
+u
+), une procédure de règlement juste et expéditif des griefs des délinquants sur des questions relevant du commissaire.
+Règlement sur le système correctionnel et la mise en liberté sous condition
+(DORS/92-620)
+Procédure de règlement de griefs des délinquants
+74. (1) Lorsqu'il est insatisfait d'une action ou d'une décision de l'agent, le délinquant peut présenter une plainte au supérieur de cet agent, par écrit et de préférence sur une formule fournie par le Service.
+(2) Les agents et le délinquant qui a présenté une plainte conformément au paragraphe (1) doivent prendre toutes les mesures utiles pour régler la question de façon informelle.
+(3) Sous réserve des paragraphes (4) et (5), le supérieur doit examiner la plainte et fournir copie de sa décision au délinquant aussitôt que possible après que celui-ci a présenté sa plainte.
+75. Lorsque, conformément au paragraphe 74(4), le supérieur refuse d'examiner la plainte ou que la décision visée au paragraphe 74(3) ne satisfait pas le délinquant, celui-ci peut présenter un grief, par écrit et de préférence sur une formule fournie par le Service:
+a) soit au directeur du pénitencier ou au directeur de district des libérations conditionnelles, selon le cas;
+76. (1) Le directeur du pénitencier, le directeur de district des libérations conditionnelles ou le responsable de la région, selon le cas, doit examiner le grief afin de déterminer s'il relève de la compétence du Service.
+(2) Lorsque le grief porte sur un sujet qui ne relève pas de la compétence du Service, la personne qui a examiné le grief conformément au paragraphe (1) doit en informer le délinquant par écrit et lui indiquer les autres recours possibles.
+78. La personne qui examine un grief selon l'article 75 doit remettre copie de sa décision au délinquant aussitôt que possible après que le détenu a présenté le grief.
+80. (1) Lorsque le délinquant est insatisfait de la décision rendue au sujet de son grief par le directeur du pénitencier ou par le directeur de district des libérations conditionnelles, il peut en appeler au responsable de la région.
+(2) Lorsque le délinquant est insatisfait de la décision rendue au sujet de son grief par le responsable de la région, il peut en appeler au commissaire.
+(3) Le responsable de la région ou le commissaire, selon le cas, doit transmettre au délinquant copie de sa décision motivée aussitôt que possible après que le délinquant a interjeté appel.
+Directive du commissaire 081: Plaintes et griefs des délinquants
+Responsabilités
+[...]
+11. Les plaignants:
+utiliseront le processus de règlement des plaintes et griefs en vue d'obtenir une réparation lorsqu'ils estiment avoir été traités de façon injuste ou non conforme à la loi ou aux politiques relativement à des questions qui relèvent de la compétence du commissaire;
+[...]
+13. Lorsqu'un délinquant n'est pas satisfait de la mesure ou de la décision prise par un membre du personnel, il peut présenter une plainte écrite, de préférence à l'aide du formulaire fourni par le Service. La plainte sera d'abord présentée au palier des plaintes, à moins d'indication contraire dans la présente directive ou à moins que le surveillant de l'employé visé dans la plainte soit le directeur de l'établissement, le sous-commissaire régional ou le commissaire.
+[...]
+15. La décision du commissaire ou de son représentant constitue l'étape finale du processus de règlement des plaintes et griefs. Le plaignant qui n'est pas satisfait de la décision finale rendue au troisième palier du processus de règlement des plaintes et griefs peut faire une demande de révision judiciaire à la Cour fédérale dans les délais prescrits au paragraphe 18.1(2) de la Loi sur les Cours fédérales.
+Directive du commissaire 083: Comités de Détenus
+Responsabilités
+[...]
+10. Le Comité de détenus doit présenter des recommandations au directeur de l'établissement concernant les décisions relatives à la population carcérale, sauf celles ayant trait à la sécurité.

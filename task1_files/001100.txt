@@ -1,0 +1,329 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  <FRAGMENT_SUPPRESSED>  Summary: 
+ 
+ The Minister of National Revenue gave a direction to a taxpayer pursuant to s. 225.2(1) of the Income Tax Act. S. 225.2(1) authorized the Minister to take immediate action to collect taxes when it might reasonably be considered that the collection of an amount assessed might be jeopardized by delay. The taxpayer applied to vacate the Minister's direction. 
+ 
+ 
+ 
+ The Federal Court of Canada, Trial Division, dismissed the taxpayer's application. 
+ 
+ 
+ 
+ Income Tax - Topic 9235 
+ 
+ Enforcement - Collection - Demand for payment - Notice of - Judicial review - The Minister of National Revenue sent a taxpayer a notice under s. 226.1 of the Income Tax Act, demanding immediate payment of the tax assessed, on the ground that the Minister suspected the taxpayer was about to leave Canada - The Federal Court of Canada, Trial Division, held that a Minister's decision under s. 226.1 was not subject to judicial review - See paragraphs 26 to 27. 
+ 
+ 
+ 
+ Income Tax - Topic 9241 
+ 
+ Enforcement - Collection - Statutory limitations - Exceptions - A new amendment to the Income Tax Act, s. 225.1(1), limited the authority of the Minister of National Revenue to enforce payment of taxes owing on an assessment until there had been a final determination of the amount payable - By s. 225.2(1), however, the Minister could take immediate action to collect when it may reasonably be considered that the collection of an amount assessed might be jeopardized by delay - The Federal Court of Canada, Trial Division, confirmed the issuance of a direction by the Minister under s. 225.2(1), where the taxpayer, an accused drug trafficker on bail, had transferred funds to a friend, transferred property to his parents, smuggled cash into the U.S., etc. - See paragraphs 19 to 20. 
+ 
+ 
+ 
+ Cases  <FRAGMENT_SUPPRESSED>  (Ont. H.C.), refd to. [para. 21]. 
+ 
+  <FRAGMENT_SUPPRESSED> , refd to. [para. 21]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Income Tax Amendment Act, S.C. 1985, c. 45, sect. 116 [para. 2]. 
+ 
+ Income Tax Act, S.C. 1970-71-72, c. 63, sect. 225.1(1) [para. 3]; sect. 225.2(1) [paras. 4-5, 23, 25, 27]; sect. 225.2(2) [paras. 7, 27]; sect. 226.1 [para. 26]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ J.I. Laskin, and C. Medland, for the applicant; 
+ 
+ P. Vita, Q.C., and M.J.B. Wood, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Davies, Ward and Beck, Toronto, Ontario, for the applicant; 
+ 
+ Frank Iacobucci, Q.C., Deputy Attorney General of Canada, for the respondent. 
+ 
+ 
+ 
+ This application was heard before Joyal, J., of the Federal Court of Canada, Trial Division, at Toronto, Ontario, on May 22, 1986. 
+ 
+ 
+ 
+ The decision of Joyal, J., was delivered on July 2, 1986. 
+ 
+ 
+  <FRAGMENT_SUPPRESSED>  
+ 
+                                                                                                
+ 
+ 
+ 
+ [1] 
+   
+ Joyal, J. 
+ : This is an application to vacate a direction by the Minister of National Revenue made pursuant to paragraph 225.2(1) of the Income Tax Act, S.C. 1970-71-72, c. 63. It arises from the enactment by Parliament in 1985 of certain amendments to the Income Tax Act limiting the authority of the Minister of National Revenue to enforce payment of taxes owing on an assessment until there has been a final determination of the tax payable. 
+ 
+ 
+ 
+ [2] 
+  These amendments are found in s. 225 of the Income Tax Act and were enacted in S.C. 1985, c. 45, s. 116. 
+ 
+ 
+ 
+ [3] 
+  Paragraph 225.1(1) contains detailed rules restricting the right of the Minister to collect taxes owing. These rules represent a considerable departure from a long-standing provision in the Income Tax Act and are meant to dampen considerably the right of the Minister to collect a tax until various avenues of appeal have been exhausted. The full text of the paragraph is as follows: 
+ 
+ 
+ 
+ "225.1(1) Collection restrictions. - Where a taxpayer is liable for the payment of an amount assessed under this Act (in this subsection referred to as the 'unpaid amount'), other than an amount payable under subsection 227(9), the Minister shall not, for the purpose of collecting the unpaid amount, 
+ 
+ 
+ 
+ (a) commence legal proceedings in a court, 
+ 
+ 
+ 
+ (b) certify the unpaid amount under subsection 223(1), 
+ 
+ 
+ 
+ (c) require a person to make a payment under subsection 224(1), 
+ 
+ 
+ 
+ (d) require an institution or person to make a payment under subsection 224(1.1), 
+ 
+ 
+ 
+ (e) require the retention of the unpaid amount by way of deduction or set-off under section 224.1, 
+ 
+ 
+ 
+ (f) require a person to turn over moneys under subsection 224.3(1), or 
+ 
+ 
+ 
+ (g) give a notice, issue a certificate or make a direction under subsection 225(1) before the day that is 90 days after the day of mailing of the notice of assessment." 
+ 
+ 
+ 
+ [4] 
+  Notwithstanding these limitations, however, the new amendments provide an exception. This exception is found in paragraph 225.2(1) and authorizes the Minister to take immediate action to collect when it may reasonably be considered that the collection of an amount assessed might be jeopardized by delay. 
+ 
+ 
+ 
+ [5] 
+  The full text of paragraph 225.2(1) reads as follows: 
+ 
+ 
+ 
+ "225.2(1) Collection in jeopardy. - Notwithstanding section 225.1, where it may reasonably be considered that collection of an amount assessed in respect of a taxpayer would be jeopardized by a delay in the collection thereof, and the Minister has, by notice served personally or by registered letter addressed to the taxpayer at his latest known address, so advised the taxpayer and directed the taxpayer to pay forthwith the amount assessed or any part thereof, the Minister may forthwith take any of the actions described in paragraphs 225.1(1)(a) to (g) with respect to that amount or that part thereof." 
+ 
+ 
+ 
+ [6] 
+  By direction, therefore, the Minister in such circumstances may demand immediate payment of the amount assessed and take such procedures to enforce payment as would otherwise be denied him. 
+ 
+ 
+ 
+ [7] 
+  The taxpayer, however, is not without recourse. Pursuant to paragraph 225.2(2), he may file an application to a Superior Court or Federal Court judge to have the direction varied or vacated. It is a kind of show cause hearing where the Minister has the burden of justifying his direction. The judge may then dispose of the application by confirming the direction, by vacating it or varying it and may make such other order as he considers appropriate. In effect, a judge may look at the grounds on which the Minister has made his direction and decide whether or not they are of a nature to justify the exceptional measure the Minister has taken. In effect, the procedure is a check on the Minister's authority which would otherwise be substantially unfettered. 
+ 
+ 
+ 
+ [8] 
+  The applicant before me is a taxpayer who was assessed on February 18, 1985. He was assessed in the amount of $85,129.06 on an income calculated on a net worth basis of $184,929. This assessment was the result of an investigation by the Special Investigations Division of the Windsor District Taxation Office of Revenue Canada. The investigation disclosed that although the taxpayer appeared unemployed, there was evidence of some affluent pursuits in which the taxpayer had been engaged, namely the purchase of a car for $13,700, the purchase of a pleasure boat for $15,500, the transfer of $65,000 to a friend or associate and the transportation to the United States of some $14,000 concealed underneath his automobile. The taxpayer also held some $13,000 in a bank account. 
+ 
+ 
+ 
+ [9] 
+  Law enforcement agencies as well had reasons to be concerned with the taxpayer. Drug section officers of the Royal Canadian Mounted Police became interested in the taxpayer's activities and suspected that the taxpayer's source of income was from trafficking in drugs. This interest was in tandem with Revenue Canada which always takes the position that notwithstanding the source of any income, a taxpayer should pay his fair share of taxes on it. 
+ 
+ 
+ 
+ [10] 
+  The result of the investigations by law enforcement agencies was to arrest the taxpayer on January 28, 1986 on charges of conspiracy to traffic in narcotics. He was released on bail. The result of the investigation by Revenue Canada was to submit to the Minister a lengthy telex message dated February 14, 1984 outlining the following: 
+ 
+ 
+ 
+ 1. The proposed assessment in the amount I have stated; 
+ 
+ 
+ 
+ 2. The grounds for assessment; 
+ 
+ 
+ 
+ 3. The fact of the criminal charges laid against him; 
+ 
+ 
+ 
+ 4. The grounds for the application of the jeopardy provisions I have previously explained; 
+ 
+ 
+ 
+ 5. A statement of the assets to be seized or proposed collection action to be taken. 
+ 
+ 
+ 
+ [11] 
+  The grounds for the application of the jeopardy provisions are summarized in four affidavits filed on behalf of the Minister. 
+ 
+ 
+ 
+ [12] 
+  The first affidavit is by Mr. H.A. Diguer, an Assistant Deputy Minister of Revenue Canada who states that his decision to make a direction was based on information in the statement contained in the telex of February 14, 1986. The direction he did make was communicated to the taxpayer by registered mail on February 18, 1986 and copy of that letter together with copy of the Notice of Assessment and of the telex are attached as exhibits to the affidavit. 
+ 
+ 
+ 
+ [13] 
+  The next affidavit is from Constable R. Reynolds of the Royal Canadian Mounted Police who states that on January 10, 1986, he had proceeded to the international border at the Ambassador Bridge linking Windsor, Ontario to Detroit, Michigan, where he observed that the U.S. Customs Service had taken the taxpayer into custody and had seized the equivalent of some $14,000 in Canadian funds which the U.S. authorities had discovered concealed underneath the taxpayer's car. 
+ 
+ 
+ 
+ [14] 
+  The third affidavit is from another R.C.M.P. constable, N. Wentoniuk, who stated he had obtained a copy of a withdrawal receipt from the Toronto-Dominion Bank dated February 10, 1986 in the amount of $11,000 and signed by the taxpayer. He also stated that on or about February 10, 1986, he had questioned the taxpayer about the withdrawal and he had replied as follows: "I have it; I stashed it and you will never find it." 
+ 
+ 
+ 
+ [15] 
+  The last affidavit on behalf of the Minister is from G. Hooft of the Special Investigations Division of Revenue Canada. It is in this affidavit that the various assets of the taxpayer are disclosed with copies of documents witnessing the various transactions attached as exhibits. Included in these documents is a deed of sale from the taxpayer to his parents of property at 1419 Prince Road in Windsor for nominal consideration and the assumption of a $21,000 mortgage as well as copies of I.O.U.'s in the total amount of $65,000 paid to an associate of the taxpayer for investment purposes. 
+ 
+ 
+ 
+ [16] 
+  The case for the taxpayer against what appears, prima facie, to be reasonable grounds for the direction is set out in the taxpayer's affidavit dated May 16, 1986. The material elements in the affidavit are that: 
+ 
+ 
+ 
+ 1. the taxpayer has strong roots in the community of Windsor; 
+ 
+ 
+ 
+ 2. he owns a house; his wife is gainfully employed; his parents live in Windsor and since an industrial accident on June 30, 1984, has been in receipt of Workmen's Compensation benefits of $412 per week; 
+ 
+ 
+ 
+ 3. on or about May 6, 1986, he filed a notice of objection to the assessment; 
+ 
+ 
+ 
+ 4. upon his release pending trial on the criminal charges, bail was set at $10,000 cash and $60,000 securities toegether with the condition that he remain in the County of Essex as well as sign in at the local police station every Sunday. 
+ 
+ 
+ 
+ [17] 
+  The taxpayer further states that the bail conditions imposed on him have not been breached to date and that he has no intention of breaching them prior to his criminal trial. 
+ 
+ 
+ 
+ [18] 
+  The taxpayer's notice of objection is attached to his affidavit. The grounds stated are that no reason was advanced to him to explain or justify the amount of tax assessed nor to justify jeopardy procedures against him. 
+ 
+ 
+ 
+ [19] 
+  On the basis of the evidence before me, I have no hesitation in concluding that the Minister, on February 18, 1986, had sufficient grounds to make his direction. I find that the nature of the assessment itself raises reasonable apprehensions that the taxpayer had not been conducting his affairs in what might be called orthodox fashion. There is reasonable apprehension that in placing surplus funds for investment purposes through the hands of a third party instead of directly, there would be difficulty in retracing these funds or in recovering them. 
+ 
+ 
+ 
+ [20] 
+  Discounting for the moment the real apprehension that the taxpayer's income might have come from criminal pursuits, the incident at the Ambassador Bridge, the withdrawal of cash from the Toronto Dominion Bank, the taxpayer's statement to a police constable, the exchange of cash for tangible assets, all of these factors taken together provide, in my opinion, sufficient grounds for the Minister to have exercised his power at that particular time. 
+ 
+ 
+ 
+ [21] 
+  Counsel for the taxpayer urged the court to find that there were serious deficiencies in the affidavit evidence submitted on behalf of the Minister. Relying on  <FRAGMENT_SUPPRESSED>  (Ont. H.C.) and  <FRAGMENT_SUPPRESSED> , and other cases dealing with the well-known Mareva injunction procedures, counsel for the taxpayer ably and articulately pleaded that the burden on the Minister to justify his actions is a very heavy one and that such action should not be endorsed by this court except on unassailable grounds. The rules of evidence when submitted in affidavit form must be strictly construed, he said, and particularly in the case of H.A. Diguer's evidence, did the affidavit fail to state that he "believed" in the information communicated to him in telex form by the district investigator, G. Hooft. 
+ 
+ 
+ 
+ [22] 
+  The taxpayer's counsel might have an arguable point were the evidence before me limited exclusively to that particular affidavit. As counsel for the Crown reminded me, however, I am entitled to look at all the evidence contained in the other affidavits. These affidavits might also be submitted to theological dissection by anyone who is dialectically inclined but I find on the whole that those essential elements in these affidavits and in the evidence which they contain pass the well-known tests and are sufficiently demonstrated to justify the Minister's action. 
+ 
+ 
+ 
+ [23] 
+  I would further observe that the Minister's authority under paragraph 225.2(1) is exercisable when "... it may reasonably be considered that collection of an amount assessed ... would be jeopardized by a delay ...". The expression has sufficiently liberal qualifications to it that its ambit appears to me of far greater scope than that found in Mareva injunctions. The word "may" and the expression "reasonably considered", when read together, provide considerable latitude to the Minister, a latitude which I believe is not found whenever one deals with a seizure before judgment. 
+ 
+ 
+ 
+ [24] 
+  Logic and good sense tell me that it should be so. The institution of an action by a private litigant against another private litigant cannot be equated with a notice of assessment under the Income Tax Act. The balances which a court must maintain are not the same. Between private parties, it is necessary for a plaintiff to establish a strong prima facie case. By a notice of assessment, however, the case is made as far as the Minister is concerned and the burden rests on the taxpayer to disprove or vary it through appeal procedures. It is the kind of presumption which is not found when dealing with actions on contract or in tort. The uncertainties when dealing with the latter cases are ever present and the consequential damages when a Mareva order is granted too generously may be incalculable or at least be extremely vexatious. 
+ 
+ 
+ 
+ [25] 
+  I should also observe that paragraph 225.2(1) refers to the "collection of an amount assessed [which] would be jeopardized  
+ by a delay in the collection thereof 
+ ..." (my underlining), a wording which establishes the presumption that the amount is a "collectible" amount, collectible forthwith, were it not for the delays which s. 225.1 contemplates. I conclude that, although indicative of the tests which might be applied by a court in dealing with a Minister's direction, the tests found in Mareva proceedings are far from being determinative or conclusive. 
+ 
+ 
+ 
+ [26] 
+  A further argument advanced by counsel for the taxpayer is with respect to another notice sent by Revenue Canada dated February 18, 1986, where a demand is made for immediate payment of the tax assessed. This notice is pursuant to s. 226.1 and authorizes the Minister to demand payment when he suspects that a taxpayer is about to leave Canada. I was urged to find that there were no grounds for this suspicion. The evidence in the taxpayer's affidavit as to his family roots in Windsor, his wife's employment, a home which he owns, all of this quells any reasonable suspicion the Minister might have had. Furthermore, counsel argued, the conditions of the taxpayer's bail requiring him to stay in Essex County and to report regularly to the local authorities had not been breached and the taxpayer had no intention of breaking them. 
+ 
+ 
+ 
+ [27] 
+  Perhaps a case could be made on this were it not for a fact that I should doubt that a Minister's decision under s. 226 is reviewable by a court. It appears to be independent of the powers conferred under paragraph 225. 2(1) and as such is not reviewable under paragraph 225.2(2). Whether this is by reason of legislative policy or legislative oversight is not for me to decide. I can only declare that the leaving Canada issue is not before me nor do I have the necessary jurisdiction to determine whether or not the Minister had reasonable grounds to suspect that the taxpayer would depart our shores. 
+ 
+ 
+ 
+ [28] 
+  The statute provides that on an application of this nature, a judge may confirm, vacate or vary the direction of the Minister. According to the taxpayer's affidavit, the Minister's direction has to-date caused the seizure of an amount of $1,700 in the Toronto-Dominion Bank, the seizure of a 1975 Mustang automobile, the filing of a lien on the taxpayer's house which has a net value of some $35,000 and a lien on the property transferred by the taxpayer to his parents allegedly for a nominal consideration. The affidavit of the taxpayer, although traversing at length the issue of his leaving Canada and denying that the transfer of real estate to his parents was otherwise than at arm's length, provides the court with little guidance as to the degeee of impediment to his current financial needs which the exercise of some of the executory processes under sub-paragraph 225.1(1)(a) to (g) might have caused. 
+ 
+ 
+ 
+ [29] 
+  Similarly, the record is silent as to any garnishment proceedings having been taken with respect to the large amount of funds entrusted by the taxpayer to a third person. 
+ 
+ 
+ 
+ [30] 
+  I would think that it is incumbent on the Minister in exercising his executory powers under paragraph 225.1(1) to limit the freeze to those assets which roughly equal the amount at risk. Again, the record is silent on this point. 
+ 
+ 
+ 
+ [31] 
+  In such circumstances, I should very much hesitate at this stage to vary the Minister's direction, leaving it to the parties to make such adjustments as may be necessary so that the essential purposes of the jeopardy provisions are maintained and that the taxpayer, qua taxpayer, be otherwise capable of managing his affairs, whatever those affairs may be. 
+ 
+ 
+ 
+ [32] 
+  I am informed by counsel that to their knowledge, the new jeopardy provisions under the Income Tax Act have not previously been subjected to a judicial test. In such circumstances, a court is often tempted to stray further afield than the strict requirements of the case and end up with musings of dobutful value. Perhaps, I have not sufficiently resisted that temptation. I will only concede that as a response to the wide-ranging and interesting debate provided to me by counsel on both sides, the temptation was strong. 
+ 
+ 
+ 
+ [33] 
+  The minister's direction is confirmed. Pursuant to the provisions of paragraph 225.2(8), there are no costs. 
+ 
+ 
+ 
+ Application dismissed. 
+ 
+ 
+ 
+ Editor: Debra F. MacCausland/eaw 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+

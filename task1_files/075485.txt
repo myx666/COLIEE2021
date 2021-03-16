@@ -1,0 +1,169 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Near, J.
+July 28, 2011.
+Counsel:
+Steven Welchner, for the applicants;
+David Cowie, for the respondent.
+Solicitors of Record:
+Steven Welchner, Welchner Law Office, Ottawa, Ontario, for the applicants;
+David Cowie, Department of Justice, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Near, J.
+: This is an application for judicial review of three decisions made by Ms. Deborah Danis in her capacity as a Decision Reviewer of the Canadian Revenue Agency (CRA). The Applicants made several allegations of arbitrary treatment after they were unsuccessful in a promotional process at the CRA. In each case the Decision Reviewer did not find any evidence of arbitrary treatment in the selection process. The Applicants allege that the reasons given by the Decision Reviewer are inadequate, and that the Decision Reviewer failed to either address or consider all of their submitted allegations. Further, the Applicants argue that they were denied the benefit of full disclosure prior to the decision review meeting. For these reasons the Applicants seek judicial review and request that the decisions by the Decision Reviewer be set aside, and that the matter be referred back to a different Decision Reviewer to be decided in accordance with the reasons of this Court. The Applicants also seek their costs.
+[2]
+Based on the reasons below, this application is allowed.
+I.
+Background
+A.
+Factual Background
+[3]
+The Applicants, Ms. D'Urzo, Mr. Violo and Mr. Stratigos, are employees of the CRA. They entered a selection process for the position of Coordinator, Large File Appeals. This position is classified at the AU-06 group and level. At the time the job notice was posted in 2008, Ms. D'Urzo had been acting in the position of an AU-06 Coordinator in Large File Appeal since May 2007, Mr. Violo had worked as an AU-06 Large File Case Manager in an acting capacity for more than three years and Mr. Stratigos had also been acting in the position since May 2007.
+[4]
+The selection process was divided into three stages, or tiers. In order to advance to the next tier, and ultimately be placed into a pool of qualified candidates, candidates needed to demonstrate that they met the threshold requirements of the previous tier. In order to advance to tier 3, the candidates needed to show, among other things, that they had achieved a Level 3 designation in the competency of "Legislation, Policy and Procedures" (LPP).
+[5]
+A standardized evaluation tool known as a "Portfolio of Technical Competencies" (PoTC) was used to assess the LPP competency. The PoTC asked candidates to describe in writing an example of a situation where he or she demonstrated the competency in question. The PoTC had an 800-word limit. According to the job notice, candidates who had previously been assessed as meeting the requirements of LPP3 were permitted to submit those results for consideration in the AU-06 process.
+[6]
+Once the Applicants submitted their completed PoTC's they were independently assessed by two Technical Competency Assessors (TCA), Judy Dakers and Mark Salutin. Both results were calibrated to obtain a final score.
+[7]
+The Applicants were screened out of the competition at this stage. The TCAs determined that the Applicants did not meet the required Level 3 rating of the LPP competency. As such, they did not advance to the next tier.
+[8]
+The Applicants all decided to exercise their recourse options pursuant to the CRA's "Directive on Recourse for Assessment and Staffing". This consisted of "Individual Feedback", followed by "Decision Review".
+[9]
+Individual Feedback was provided by the TCAs who had rated the LPP competency. Decision Review was provided by Deborah Danis, who had been appointed as Decision Reviewer by the CRA.
+[10]
+It is the three decisions that she rendered with respect to each of the Applicants that are now under review.
+B.
+Impugned Decision
+[11]
+In each of the decisions in question, the Decision Reviewer began by outlining the process of Decision Review. She then explained that she had carefully reviewed the issues raised in the submissions of the Applicants as well as the TCAs' responses to those issues. She added:
+Furthermore, and as previously shared with you, your submission was subsequently forwarded for a further assessment by different Technical Competency Assessors. Their conclusions corroborated the initial findings.
+[12]
+She then summarized what she considered to be the issue and the evidence she considered in coming to her conclusion. In all three decisions, under the "issues" section the Decision Reviewer provided the same one sentence of analysis:
+I have concluded that even though the example you provided articulates legislative references and, to some degree, application to the event in question, you have not detailed your analysis sufficiently nor provided a comprehensive analysis of the references you cite throughout your narrative.
+[13]
+She then went on to clarify that her role was to consider whether the employee exercising recourse was treated in an arbitrary way. As mandated by the "Directives on Recourse for Staffing", she focused on the treatment of the individual employee in the process and not on the evaluation of other candidates. The Decision Reviewer reproduced the definition of "Arbitrary" which the CRA defines as:
+In an unreasonable manner, done capriciously; not done or acting according to reason or judgment; not based on rationale, or established policy; not the result of a reasoning applied to relevant considerations; discriminatory i.e. difference of treatment or denial of normal privileges to persons because of their race, age, sex, nationality, religion or union affiliation.
+[14]
+In all three decisions, she provided the following concluding paragraph:
+As a result of the fact-finding process undertaken during this review, and in keeping with our discussion, it has been determined that the Technical Competency Assessors were reasonable in awarding the level they did for the competency in question. I can find no fault of the Technical Competency Assessors in making their decision to warrant my intervention. It is my conclusion that you were not treated in an arbitrary manner in this selection process.
+II.
+Issues
+[15]
+The issues raised in this application are:
+(a) Were the Applicants' rights to procedural fairness breached?
+(i) Were the reasons adequate?
+(ii) Were the Applicants' afforded disclosure?
+(b) Was the Decision at Decision Review reasonable?
+III.
+Standard of Review
+[16]
+The content of the decision of a Decision Reviewer is reviewable on a standard of reasonableness. As Justice Leonard Mandamin explained in
+ <FRAGMENT_SUPPRESSED> :
+[21] [...] at issue is whether the reviewer considered the appropriate factors in arriving at his decision. The Decision Reviewer must review the facts and determine if the action offended the directive against arbitrary treatment. I concluded in
+ <FRAGMENT_SUPPRESSED> , a review on the standard of reasonableness requires consideration of the existence of justification, transparency, and intelligibility in the decision-making process. It is also concerned with whether the decision falls within a range of acceptable outcomes that are defensible in respect of the facts and law.
+[18]
+The Applicants submits that the issue of adequacy of reasons and disclosure should be reviewed on the correctness standard as they are questions of law. The Respondent disagrees and relies on
+ <FRAGMENT_SUPPRESSED>  FTR 256, to argue that the reasonableness standard should apply to the review of questions of the type at issue in this case.
+[19]
+Certainly, in <FRAGMENT_SUPPRESSED> , above, the Court found that the reasonableness standard applied to the questions of fact and policy raised in that application. However, Justice Mandamin also found that the first issue in that application involved procedural fairness. Accordingly no assessment of a standard of review was required because, if found, a breach of procedural fairness results in the setting aside of the decision (at para 14). This is functionally equivalent to reviewing questions of procedural fairness are evaluated on the standard of correctness, as caselaw supports even in the context of CRA staffing decisions (see
+ <FRAGMENT_SUPPRESSED>  FTR 298 at para 28).
+[20]
+As the first two issues amount to allegations that the Applicants' rights to procedural fairness were breached, they will be reviewed on the correctness standard.
+IV.
+Argument and Analysis
+A.
+Were the Applicants' Rights to Procedural Fairness Breached?
+[21]
+The Applicants allege that their rights to procedural fairness were breached in two ways. Firstly, the reasons provided by the Decision Reviewer were inadequate. Secondly, during the process of Decision Review, all relevant documents were not disclosed to the Applicants as per CRA policy.
+[22]
+In
+Ng
+, above, Justice John O'Keefe applied the factors laid out by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  to the CRA's Decision Review process. He concluded that the content of the duty of procedural fairness owed to the employee in this context falls within the middle to lower end of the spectrum (at para 31).
+(i)
+Were the Reasons Adequate?
+[23]
+The Applicants submit that the Decision Reviewer rejected the Applicants' submissions without providing meaningful reasons. The Applicants describe the identical conclusory paragraph as terse and lacking supporting rationale. The Applicants argue that the decision fails to adequately explain why the Applicants allegations were rejected and does not permit effective review by this Court. The Applicants consider the reasons to be merely conclusions that do not demonstrate that the Decision Reviewer grappled and resolved the issues presented by the Applicants' submissions.
+[24]
+Furthermore, the Applicants allege that the Decision Reviewer failed to address four allegations in her reasons: 1) the portfolio word limit was unfair; 2) the TCAs did not have the required expertise; 3) the CRA failed to take into account that the Applicants had been successfully performing in the position in question for a lengthy period of time; and 5) Mr. Violo was not given credit for previously obtaining a Level 4 on the LPP competency.
+[25]
+The Respondent takes the position that when evaluating the adequacy of reasons, courts should recognize "the day-to-day realities of administrative agencies and the many ways in which the values underlying the principles of procedural fairness can be assured," (
+Baker
+, above, at para 44). While para 9.2.6. of the Directive on Recourse requires the decision-maker to "make the final decision in writing and ensure that it is recorded in the staffing file or the employee's competency profile," it does not specifically mandate that detailed reasons be provided. The Directive on Recourse also provides, at para 9.2.11, that "the written decision is not a record of everything that was said or done during the review, but rather a record of the findings."
+[26]
+The Federal Court of Appeal (FCA) recently discussed adequacy of reasons in
+ <FRAGMENT_SUPPRESSED>  Admin LR (5th) 79. In the context of administrative law, the FCA had held that reasons "must provide an assurance to the parties that their submissions have been considered, enable the reviewing court to conduct a meaningful review, and be transparent so that regulatees can receive guidance ..." (at para 14). Taking this into account, the FCA determined that the adequacy of a decision-maker's reasons must be evaluated with four fundamental purposes in mind. These were listed at para 16:
+(a)
+The substantive purpose.
+At least in a minimal way, the substance of the decision must be understood, along with why the administrative decision-maker ruled in the way that it did.
+(b)
+The procedural purpose.
+The parties must be able to decide whether or not to invoke their rights to have the decision reviewed by a supervising court. This is an aspect of procedural fairness in administrative law. If the bases underlying the decision are withheld, a party cannot assess whether the bases give rise to a ground for review.
+(c)
+The accountability purpose.
+There must be enough information about the decision and its bases so that the supervising court can assess, meaningfully, whether the decision-maker met minimum standards of legality. This role of supervising courts is an important aspect of the rule of law and must be respected:
+ <FRAGMENT_SUPPRESSED> ; <FRAGMENT_SUPPRESSED> , supra at paragraphs 27 to 31. In cases where the standard of review is reasonableness, the supervising court must assess "whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law": <FRAGMENT_SUPPRESSED> , supra at paragraph 47. If the supervising court has been prevented from assessing this because too little information has been provided, the reasons are inadequate: see, e.g.,
+Canadian Association of Broadcasters
+, supra at paragraph 11.
+(d)
+The "justification, transparency and intelligibility" purpose
+: <FRAGMENT_SUPPRESSED> , supra at paragraph 47. This purpose overlaps, to some extent, with the substantive purpose. Justification and intelligibility are present when a basis for a decision has been given, and the basis is understandable, with some discernable rationality and logic. Transparency speaks to the ability of observers to scrutinize and understand what an administrative decision-maker has decided and why [...]
+[27]
+The FCA went on to list other important principles to be kept in mind when evaluating the adequacy of reasons. Most pertinent in this case, is the relevancy of extraneous materials. The FCA remarked that notes in the decision-maker's file and other matters in the record may serve to clarify or amplify the reasons, and in some cases extraneous material might express the basis for the decision. Further, a court ruling on adequacy of reasons should not frustrate procedures set out by specialized decision-makers empowered by parliament in order to achieve timely, cost-effective justice.
+[28]
+Applying these principles to the present matter, I find that the reasons provided in each of the three cases do not live up to the standard. The reasons are inadequate.
+[29]
+It is not due to brevity that the reasons fail to meet the minimum requirements. The reasons are set out in an organized fashion and describe the Decision Review Process, but the analysis conducted by the Decision Reviewer is confined to a sentence in which she expresses that the Applicants' provided insufficient analysis in their PoTCs. This decision is identical in all three cases - "I have concluded that even though the example provided articulates legislative references, and to some degree, application to the event in question, you have not detailed your analysis sufficiently nor provided a comprehensive analysis of the references you cite throughout your narrative" She then goes on to find that the TCAs were reasonable in awarding the scores that they did. This last paragraph is also identical in all three cases:
+As a result of the fact-finding process undertaken during this review, and in keeping with our discussion, it has been determined that the Technical Competency Assessors were reasonable in awarding the level they did for the competency in question. I can find no fault of the Technical Competency Assessors in making their decision to warrant my intervention. It is my conclusion that you were not treated in an arbitrary manner in this selection process.
+[30]
+Keeping in mind that the decision review process is meant to be efficient and timely, and the Decision Reviewer is not required to produce detailed reasons, I still find that the decisions rendered in these cases fall short of the mark. The analysis is generic, and akin to a rubber stamp. There is nothing to suggest that the allegations of the Applicants were seriously considered before reaching the stated conclusion. For instance, Ms. D'Urzo argued that the TCAs arbitrarily focused their marking only on the "legislation" aspect of the LPP competency, thereby giving insufficient weight to factors relation to "policies and procedures". Similarly, Mr. Stratigos argued that the TCAs arbitrarily concluded that the sole use of policies and procedures is to clarify legislation. There is nothing to tell the Applicants why these allegations were rejected, seemingly out of hand.
+[31]
+I have reviewed the consolidated Certified Tribunal Record (CTR). Instead of clarifying the reasons, or expressing the basis for the decision, the "Decision Review Form: Request for Consultation with SACS" raises further concerns. In each case, the Decision Reviewer listed "arbitrary assessment" as her preliminary decision. Her notes reveal that she found some of the TCAs worksheet comments to be questionable. For example, with reference to Ms. D'Urzo the Decision Reviewer found:
+• Some Assessment Worksheet commentary unclear
+• The primary observation that the narrative is overly brief is not well-founded
+• TCA statement, that if the candidate qualified they would be placed in the job given their experience, is of concern and suggests the possibility of bias in the assessment
+[32]
+From my reading, it seems that she requested a second assessment of each Applicant's submission "with a view to determining the level achieved" (for example, Applicants' Record pg 304). There are several e-mails from November 2009 in the CTR in which the Decision Reviewer expresses that the requests for decision review may represent "arbitrary decisions" (see for example, Applicants' Record pg 291).
+[33]
+In March 2010, it appears, the Applicants' PoTCs were evaluated by two different TCAs. The new TCAs confirmed that the Applicants failed to meet the Level 3 requirements for the LPP competency, echoing the reasoning of the original TCAs. This might explain why, on March 17, 2010 the Decision Reviewer came to the conclusion in all three cases that the Applicants were not treated arbitrarily. This might explain the Decision Reviewer's change of heart, but it might not. I am only guessing. And guessing is not good enough.
+[34]
+There is nothing to indicate how the Decision Reviewer resolved both the issues presented by the Applicants and the issues she uncovered by way of her own review (and detailed in her handwritten notes) to come to the conclusion that the TCAs were reasonable in awarding the scores they awarded. While I am cognizant of the position in the Directive, that the written reasons are not a record of everything that was done, I share the view of the Applicants that a record of the findings must be more than a bald statement of conclusion. This is especially so when the conclusion is so disparate from the rest of the contents of the CTR.
+[35]
+Additionally, several of the allegations of the Applicants are invisible in the reasons. While the Decision Reviewer cannot be required to thoroughly respond to allegations that are clearly baseless or outside of her jurisdiction on Decision Review, in my view she is required to explain that they are outside of her jurisdiction to permit effective review of the decision For example, the word limit was the same for all candidates. The Decision Reviewer is not empowered to undermine set policies of the CRA or impugn a selection process as a whole, however, if the Decision Reviewer considered such issues to be outside her jurisdiction, it would be helpful if that reasoning was reflected in the decisions. The Applicants must know that their submissions were considered, and this Court must be able to conduct a meaningful review. I am unable to do so, and so would allow the judicial review on this ground alone.
+(i)
+Was there Sufficient Disclosure?
+[36]
+The Applicants submit that they were not provided with the Assessment Worksheet (Marking Guide, with notes) during Individual Feedback in violation of the CRA's own policy on disclosure. The Applicants argue that this amounts to a breach of procedural fairness in that they did not have a "meaningful ability to know of evidence relevant to [their] complaint" upon which the Decision Reviewer relied (
+ <FRAGMENT_SUPPRESSED>  FTR 95 at para 29).
+[37]
+The Respondent takes the position that as a standardized assessment tool, the Assessment Worksheet is shielded from disclosure. Disclosing standardized assessment tools risks compromising the integrity of the selection process. The Respondent submits that although the Worksheet was not disclosed prior to the Individual Feedback sessions, the contents of the document was discussed with the Applicants either during that session or at the Decision Review stage and so the Applicants were aware of the contents of the worksheets and were able to ask questions and raise concerns regarding their assessment.
+[38]
+While the Respondent correctly submits that the Directive on Recourse protects the disclosure of information that would compromise the security of standardized assessment tools, the CRA's policy on mandatory disclosure is fairly broad. Furthermore, an e-mail query sent on behalf of the Decision Reviewer contained in the CTR reveals that it is internal policy to allow candidates to view the Assessment Worksheets during recourse in the presence of an authorized person, i.e. the TCA "to get meaningful information on their decision, as to the criteria used by them, and on the requirements [the candidate] did not meet in order to improve ..." (CTR pg 76).
+[39]
+Although not argued by the Applicants, the doctrine of legitimate expectations essentially provides that if an administrative body makes promises regarding the procedure it follows, it will be unfair if the body does not follow that expected procedure in a given case (
+Baker
+, above, at para 26). In the present matter, the Applicants should have been able to review the Assessment Worksheets during Individual Feedback and prior to Decision Review. It would be important for the Applicants to access the information contained therein in order to establish arbitrary treatment. Justice O'Keefe stated in
+Ng
+, above, that the CRA's recourse program vests the decision-maker with "the discretion to ensure that disclosure is provided where necessary to ensure that procedural fairness is not violated," (at para 35).
+[40]
+I am not certain from the record whether the Applicants had meaningful access to the contents of the worksheets prior to Decision Review or not. The Respondent claims the contents of these worksheets were discussed with the Applicants at Individual Feedback, while the Applicants deposed that they were never provided with the worksheets either during Individual Feedback or Decision Review. (Mr. Violo was able to view the Assessment Worksheet at the Decision Review meeting, but only when the meeting commenced. As such, he argues that he did not have the opportunity to prepare his arguments). Although the contents of the reports would have necessarily been generally discussed as the subject-matter of Individual Feedback, the internal policy seems quite clear that candidates should be able to "view" the worksheets in the presence of an authorized person. A general discussion does not suffice. This application could be sent back on this ground as well.
+B.
+Was the Decision Reasonable (Were all Allegations Considered)?
+[41]
+For the most part, a consideration of whether all of the Applicants' allegations were considered is subsumed in the adequacy of reasons analysis. The allegedly ignored allegations are, for the most part, blatantly outside the scope of Decision Review. The Directive instructs that Decision Review focuses on how the individual was treated, and is not meant as a platform to criticize the selection process or treatment of other employees (see Directive on Recourse, para 4.1, Respondent's Record pg 9). The 800-word limit is clearly not arbitrary as it was applied to everyone in the process. If there is an institutional bias in favour of people coming from audit as opposed to appeals, Decision Review is not the proper arena in which to raise this issue. The Decision Reviewer is powerless to address such an allegation. The allegation that the TCAs were not qualified to assess the Applicants is similarly out of place in recourse. The TCAs were accredited by the CRA and evaluated all of the PoTCs. There may be a legitimate basis for criticism with regards to the expertise required by the CRA to become a TCA. That, in the Applicants' submission, an AU-02 assesses competencies required for a future AU-06 does at first glance appear suspicious. In any event, decision review is not the place to level these criticisms. That the Decision Reviewer suspected potential bias after having a phone conversation with one of the TCAs during fact-finding is something, however, that ought to be resolved during Decision Review. I cannot tell, based on a review of the reasons, how or why this concern seemed to disappear. The Applicants also argued that the Decision Reviewer should have considered that Ms. D'Urzo and Mr. Violo had been successfully performing in the same or a similar position to that that was the subject of the competition for a lengthy period of time. This is a baseless argument because there is nothing to support it. If acting in an AU-06 position were sufficient to show that a candidate meets the requirements to be placed in the qualified AU-06 pool, the CRA would not be running a competition. Although it might seem strange to non-career bureaucrats to run extensive, tiered competitions to ascertain whether employees are qualified to fill a position they have been being paid to "act" in for years, this is the nature of federal government staffing. This may suggest that the PoTCs were marked unreasonably, but the Decision Reviewer clearly, based on her notes, attempted to investigate this allegation. Lastly, Mr. Violo submits that he was not given credit for previously achieving Level 4 on the LPP. The staffing notice does say that the results of standardized assessments are portable. However, there is no evidence that he ever submitted those results for consideration.
+[42]
+The Respondent submits that in effect, the Applicants only disagree with the Respondent's interpretation of the marking criteria, their interpretation of which falls within the range of defensible outcomes. With respect, I must disagree with this position. The Decision Reviewer's notes reveal that she found some of the worksheet commentary with respect to the assessment of the Applicants PoTC to be questionable and not well-founded. It is impossible for me on judicial review to assess whether the Decision Reviewer's subsequent change of mind falls within the range of defensible outcomes due to reasons which I find to be inadequate.
+[43]
+While reasonableness is a deferential standard, and the expertise of the TCAs and the Decision Reviewer should be deferred to with respect to the evaluation of the substantive matter in question, the Applicants have the right to know that their allegations were fully considered and resolved by the Decision Reviewer. If the Respondent's submissions are upheld on judicial review, they have the effect of shielding the recourse process from any kind of meaningful review by this Court. The decisions are neither transparent, justified, nor intelligible, and so they cannot be said to be reasonable.
+V.
+Conclusion
+[44]
+In consideration of the above conclusions, this application for judicial review is allowed; with costs to the Applicants.
+JUDGMENT
+[45]
+THIS COURT'S JUDGMENT is that
+this application for judicial review is allowed; with costs to the Applicants.
+[End of document]

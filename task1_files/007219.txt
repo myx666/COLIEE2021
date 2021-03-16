@@ -1,0 +1,718 @@
+[1]
+Hughes, J.
+: This is an Application brought under the provisions of the
+Patented Medicines
+(
+Notice of Compliance
+) SOR/93-133 (
+NOC Regulations
+) wherein the Applicant Novartis is seeking to prohibit the Minister of Health from issuing a Notice of Compliance to the Respondent Cobalt in respect of a drug containing zoledronic acid to be administered in once-yearly doses for the treatment of osteoporosis in humans until the expiry of Canadian Letters Patent Number 2,410,201 on June 18, 2021.
+[2]
+For the reasons that follow, I find that the application is dismissed.
+[3]
+The following is an index to these Reasons by paragraph number:
+PARTIES
+Paras 4 - 8
+THE '201 PATENT GENERALLY
+Paras 9-14
+THE EVIDENCE
+Paras 15-18
+ISSUES
+Paras 19 - 22
+BURDEN
+Para 23
+BONES - BISPHOSPHONATES
+Paras 24 - 30
+THE '201 PATENT - IN DETAIL
+Paras 31 - 35
+THE CLAIMS OF THE '201 PATENT
+Paras 46 - 49
+PERSON SKILLED IN THE ART
+Paras 50 - 55
+CONSTRUCTION OF THE CLAIMS
+Paras 56 - 59
+ISSUE #1: OBVIOUSNESS
+Paras 60 - 69
+ISSUE #2: METHOD OF MEDICAL TREATMENT
+Paras 70 -101
+ISSUE #3: NOC LISTING
+Paras 102 - 110
+CONCLUSIONS AND COSTS
+Paras 111 - 112
+THE PARTIES
+[4]
+The Applicant Novartis Pharmaceuticals Canada Inc. (Novartis) is described as a "first person" in the
+NOC Regulations
+. It has received approval from the Minister of Health, by way of a Notice of Compliance, to market in Canada a drug containing zoledronic acid (also called zoledronate) for once-a-year administration in the treatment of osteoporosis in humans. It markets that drug under the brand name ACLASTA. Novartis has listed Canadian Letters Patent Number 2,401,201 under the provisions of the
+NOC Regulations
+.
+[5]
+The Respondent Cobalt Pharmaceuticals Company (Cobalt) is described as a "second person" in the
+NOC Regulations
+. It seeks approval by way of a Notice of Compliance from the Minister of Health to market a generic version of Novartis ACLASTA drug in Canada.
+[6]
+The Respondent Minister of Health (Minister) has been served with the relevant documents in these proceedings, but has taken no active part. The Minister is charged under the
+NOC Regulations
+with various duties, including the issuance, or not, of a Notice of Compliance in appropriate circumstances.
+[7]
+The Respondent Novartis AG is recorded as the owner of the patent at issue but has taken no active part in these present proceedings.
+[8]
+The Respondent Roche Diagnostics GmbH has taken no active part in these present proceedings.
+THE '201 PATENT GENERALLY
+[9]
+Canadian Letters Patent Number 2,410,201 (the '201 patent) were issued and granted to the Respondent Novartis AG on October 26, 2010. The application for that patent was filed with the Canadian Patent Office under the provisions of the Patent Cooperation Treaty (PCT) effective as of June 18, 2001. Since that application was filed subsequent to October 1, 1989, the provisions of the "new"
+Patent Act
+, RSC 1985, c. P-4 are applicable to this patent.
+[10]
+The application claimed priority from applications filed in the United States Patent Office on June 20, 2000, and another on February 9, 2001.
+[11]
+The application for the patent became available to the public (publication date) on December 27, 2001.
+[12]
+The '201 patent names Peter C. Richardson, Zebulun D. Horowitz and Ulrich Trechsel as inventors. One of them, Richardson, gave evidence in these proceedings.
+[13]
+The '201 patent, unless earlier declared invalid in proceedings other than this one, will expire twenty (20) years from its Canadian filing date; that is, on june 18, 2021.
+[14]
+The patent contains 41 claims. At the hearing Novartis' Counsel withdrew reliance upon any of claims 37 to 41 (the so-called "kit" claims) therefore they are no longer at issue here.
+THE EVIDENCE
+[15]
+As is usual in proceedings of this kind, the evidence took the form of affidavits and transcripts of the cross-examination upon those affidavits; together with exhibits as identified.
+[16]
+The Applicant Novartis filed the affidavits of the following witnesses:
+1.
+Peter Richardson
+of Fort Worth, Texas: He was a fact witness and, as one of the named inventors of the '201 patent, gave evidence as to the research and development leading to and surrounding that patent. He was cross-examined.
+2.
+Dr. Nora Zorich
+of Cincinnati, Ohio: She was offered as an expert witness; no challenge was made by Cobalt in that respect. She spent many years with Proctor & Gamble in the development of bisphosponate drugs for the treatment of bone disease. Since her retirement in June 2012, she has been working as an independent consultant in respect of pharmaceuticals, over-the-counter drugs and dietary supplements. She addressed issues of obviousness and method of medical treatment respecting the '201 patent. She was cross-examined.
+3.
+Dr. Frank H. (Hal) Ebetino
+of Venice, Florida: He was offered as an expert witness; no challenge was made by Cobalt in that respect. He claims expertise and extensive experience in the discovery and development of bisphosphonates. He began working with bisphosphonates at Proctor & Gamble in the 1980's. In 2010, he moved to Ireland to lead the Drug Discovery Department at Warner-Chilcott. Since 2012, he has his own consulting firm practising in the pharmaceutical field. He was cross-examined.
+4.
+Erin McIntomny
+of Ottawa, Ontario: She is a law clerk employed by the law firm acting for Novartis in these proceedings. Her affidavit served to make of record certain correspondence between the solicitors for the parties herein. She was not cross-examined.
+[17]
+The Respondent Cobalt filed the affidavits of the following witnesses:
+1.
+Dr. Terrance L. Baker
+of Kingsville, Maryland: He was offered as an expert witness; no challenge was made by Novartis in that respect. He is a practicing medical doctor specializing in many areas, including osteoporosis, an area in which he has extensive experience. He addressed the '201 patent, including whether the claims encroach on his skill and judgment as a physician. He was cross-examined.
+2.
+Dr. William Singer
+of Port Credit, Ontario: He is an Honorary Consultant Physician in the Division of Endocrinology and Medicine at St. Michael's Hospital, and Staff Physician at the LMC Endocrinology Centre in Toronto; as well as an Associate Professor of Medicine at the University of Toronto. He was offered as an expert witness; no challenge was made by Novartis in that respect. He provided opinions respecting the '201 patent, including obviousness. He was cross-examined.
+[18]
+There is no confidentiality Order.
+ISSUES
+[19]
+This proceeding began by putting three patents in issue. By the Order of Prothonotary Tabib dated May 30, 2012, the present proceeding dealing only with the '201 patent has been heard separately from proceedings respecting the other two patents.
+[20]
+Only the validity of the '201 patent is at issue. Infringement is not an issue. As to validity, there are two issues to be determined:
+1. Obviousness; and
+2. Is the subject matter ineligible for patent protection - is it a method of medical treatment?
+[21]
+A third issue arose during the exchange of the parties' memoranda of argument; namely:
+3. Is the '201 patent one that can properly be listed under the
+NOC Regulations
+?
+[22]
+Novartis argues that it is too late for Cobalt to raise this argument.
+BURDEN
+[23]
+Who bears the burden when validity of a patent is at issue  <FRAGMENT_SUPPRESSED>  proceedings has been discussed many times in this Court. In brief: a patent is presumed to be valid in the absence of evidence to the contrary (
+Patent Act
+, s. 43(2)). The party alleging invalidity (here Cobalt) has the burden of putting forth evidence supporting its allegations. Once evidence is led the matter is determined by the Court on the civil burden of proof; namely, balance of probabilities. If the Court finds the matter to be evenly balanced, then it should find in favour of the person alleging invalidity since, under the
+NOC Regulations
+, subsection 6(2), the first person (here Novartis) bears the burden of demonstrating that the allegations of invalidity are not justified.
+BONES - BISPHOSPHONATES
+[24]
+Bones are a major organ in the human body. They are made up of collagen, minerals and cells. Bones are continuously reformed. Bone tissue is degraded and resorbed into the body through the activity of osteoclasts. New material from the body, through the activity of oseoblasts, is layered on the bone and becomes mineralized so as to replace the lost bone tissue. The whole process is described as remodelling. An entire cycle for remodelling a bone is in the order of a hundred days.
+[25]
+When the remodelling proceeds in a normal way, all is well. When more bone material is deposited than is resorbed, unwanted growth develops; an extreme form of which is called Paget's disease. When more material is resorbed than is deposited, conditions such as osteoporosis occur. An extreme form brought about by certain cancers is hypercalcemia of malignancy.
+[26]
+It has long been known that at least some members of a class of chemical compounds known as bisphosphonates are useful in regulating bone remodelling. Early versions included etidronate and clodronate. Etidronate was the subject of early NOC litigation in this Court; for example,
+ <FRAGMENT_SUPPRESSED> .
+[27]
+Over the course of time, other bisphosphonates have been developed. One of the most recent is zoledronate, which was the subject of my recent decision, now under appeal,
+ <FRAGMENT_SUPPRESSED> .
+[28]
+At the hearing, Novartis' Counsel accepted the following assertions made at paragraph 70 of Cobalt's Memorandum:
+70. As of June 20, 2000, the claim date of the '201 patent, it was known that
+:
+i. Bisphosphonates such as zoledronic acid, etidronate, clodronate, pamidronate, alendronate, risedronate and ibandronate were useful in the treatment of bone diseases;
+ii. Zoledronic acid, etidronate, alendronate and risedronate were useful in the treatment of osteoporosis;
+iii. Zoledronic acid was one of the most potent anti-resorptive bisphosphonates.
+[29]
+I accept that the evidence demonstrates, as asserted by Novartis at paragraph 24 of its Memorandum, that by June 2000, a handful of bisphosphonates had received government approval to be sold for the treatment of different metabolic bone diseases; including Paget's disease, hypercalcemia of malignancy and osteoporosis. However, zoledronate had not yet been approved for any indication. Further, no clinical test results for zoledronate in the treatment of osteoporosis had been published as of that time.
+[30]
+I also accept that as of June 2000, the prevailing method of treatment of osteoporosis by the use of a bisphosphonate was to administer low doses orally; usually one a day for a period of days, followed by a rest period; repeated, as needed. I also accept that as of June 2000, certain bisphosphonates were administered weekly instead of daily. I further accept that the literature postulated that less frequent dosing may be desirable provided that it was effective.
+THE '201 PATENT - IN DETAIL
+[31]
+It is tempting in patent proceedings for the Court to be distracted from what the patent says by the evidence of experts and others, as well as the argument of Counsel. It must be remembered that the proceedings are about the patent, which is a document that must, as provided for in section 27(3)(a) of the
+Patent Act
+, correctly and fully describe the invention and its operation as contemplated by the inventor and, as provided in section 27(a) of that
+Act
+, end with claims that define distinctly and in explicit terms the subject matter of the invention. The patent is something drafted by persons seeking a patent monopoly; thus, if they say something in a patent, they must accept what is said is their position in the matter, notwithstanding what experts or others may say later. I addressed this in part  <FRAGMENT_SUPPRESSED>  & co.  <FRAGMENT_SUPPRESSED> :
+8 The '457 Patent is to be read from the viewpoint of a person skilled in the art to which it pertains as of the publication date, April 20, 1995. It must be remembered that statements made by the patentee, such as what constitutes the prior art, are to be treated as binding admissions by the patentee ( <FRAGMENT_SUPPRESSED>  C.P.R. (4th) 94 at para. 24; <FRAGMENT_SUPPRESSED>  C.P.R. (4th) 502 at para. 78).
+[32]
+In the present proceedings, Cobalt does not challenge the '201 patent for insufficiency or lack of utility. The only validity issues are obviousness and method of medical treatment. Thus, the Court must assume that the description provided in the patent is sufficient for a person skilled in the art to put the invention into practice, and that the invention is useful.
+[33]
+The '201 patent begins at page 1 by stating that the invention relates to the pharmaceutical use of bisphosphonates in the treatment of conditions such as osteoporosis. It acknowledges that bisphosphonates have been widely known, used and proposed for use in treating osteoporosis. It says, in part:
+This invention relates to bisphosphonates, in particular to the pharmaceutical use of bisphosphonates in the treatment of conditions of abnormally increased bone turnover, such as osteoporosis.
+Bisphosphonates are widely used to inhibit osteoclast activity in a variety of both benign and malignant diseases in which bone resorption is increased.
+. . .
+In addition bisphosphonates have been proposed for use in the treatment of osteoporosis. Thus for instance ...
+. . .
+[34]
+Beginning at the bottom of page 2, through pages 2a, 2b, 2c, and to the first part of page 3, the patent describes what the invention is. That description takes several forms, such as
+"use of zoledronic acid"
+or
+"use of zoledronic acid ...in the manufacture of a medicament"
+or
+"zoledronic acid ...for treatment of a condition"
+or
+"a pharmaceutical
+composition comprising ...zoledronic acid".
+These are different ways of describing the invention and reflect practices, particularly in Europe, where for a long time claims directed to a medicine or use of a medicine were prohibited or restricted. Ways were devised to get around such restrictions, including a so-called "Swiss claim", i.e. "the use of A in the manufacture of a medicament to treat condition B", which was discussed at length in my decision
+ <FRAGMENT_SUPPRESSED>  supra. I will repeat only a portion of what is written at pages 2 and following, of the '201 patent:
+Surprisingly we have now found that bisphosphonates, in particular more potent nitrogen-containing bisphosphonates, can be used for prolonged inhibition of bone resorption in conditions of abnormally increased bone turnover by intermittent administration, wherein the periods between bisphosphonate administrations are longer than was previously considered appropriate to achieve satisfactory treatment. In particular and contrary to expectation we have found that satisfactory treatment results can be obtained even when the dosing intervals greatly exceed the natural bone remodelling cycle.
+Accordingly the present invention provides a method for the treatment of conditions of abnormally increased bone turnover in a patient in need of such treatment which comprises intermittently administering an effective amount of a bisphosphonate to the patient, wherein the period between administrations of bisphosphonate is at least about 6 months.
+According to one aspect of the present invention, there is provided use of zoledronic acid, a pharmaceutically acceptable salt thereof, or a hydrate thereof for treatment of a condition of abnormally increased bone turnover wherein the zoledronic acid, the salt or the hydrate is for intermittent administration, with a period of at least about one year between a first administration and each subsequent administration in the intermittent administration, wherein the first administration and each subsequent administration is parenteral administration.
+In another aspect, the invention provides use of zoledronic acid, a pharmaceutically acceptable salt thereof, or a hydrate thereof in manufacture of a medicament for treatment of a condition of abnormally increased bone turnover wherein the zoledronic acid, the salt or the hydrate is for intermittent administration, with a period of at least about one year between a first administration and each subsequent administration in the intermittent administration, wherein the first administration and each subsequent administration is parenteral administration.
+[35]
+It is to be noted that the above description is directed only to one bisphosphonate; namely, zoledronate. However, beginning at the bottom of page 3, the patent discusses treatment at intervals of six months or a year, or in between; or greater, in the context of a broad range of bisphosphonates, including the previously known ones such as clodronate, pamidronate, alendronate, risedronate, and others; as well as zoledronate. It says at pages 3 to 5:
+In accordance with the present invention the bisphosphonate dosing interval is at least about 6 months, e.g. once every 180 days, or less frequently, conveniently once a year, or at any interval in between, e.g. once every 7, 8, 9, 10, or 11 months. Dosing intervals of greater than once per year may be used, e.g. about once every 18 months or about once every 2 years, or even less frequently, e.g. a frequencey of up to about once every 3 years or less often.
+The biphosphonates used in the present invention are typically those which inhibit bone resorption. Such compounds characteristically contain two phosponate groups attached to a single carbon atom, forming a "P-C-P" structure, e.g. in a compound formula I
+[Diagram omitted - see printed version]
+wherein
+X is hydrogen, hydroxyl, amino, alkanoyl, or an amino group mono- or distributed by C
+1
+-C
+4
+alkyl;
+R is hydrogen or C
+1
+-C
+4
+alkyl and
+Rx is an optionally substituted hydrocarbyl group, and is pharmaceutically acceptable salts thereof or any hydrate thereof.
+Thus, for example, suitable bisphosphonates for use in the invention may include the following compounds or a pharmaceutically acceptable salt thereof, or any hydrate thereof: 3-amino-1-hydroxypropane-1,1-diphosphonic acid (pamidronic acid), e.g. pamidronate (APD); 3-(N,N-dimethyl-amino)-1-hydroxypropane-1,1-diphosphonic acid, e.g. dimethyl-APD; 4-amino-1-hydroxybutane-1,1-diphosphonic acid (alendronic acid), e.g. alendronate; 1-hydroxy-ethidene-bisphosphonic acid, e.g. etidronate; 1-hydroxy-3-(methylpentylamino)-propylidene-bisphosphonic acid, (ibandronic acid), e.g. ibandronate; 6-amino-1-hydroxyhexane-1,1-diphosphonic acid, e.g. amino-hexl-BP; 3-(N-methyl-N-n-pentylamino)-1-hydroxypropane-1,1-diphosphonic acid, e.g. methyl-pentyl-APD (=BM 21.0955); 1-hydroxy-2-(imidazol-
+y
+1)ethane-1,1-diphosphonic acid, e.g. zoledronic acid; 1-hydroxy-2-(3-pyridyl)ethane-1,1-diphosphonic acid (risedronic acid) e.g. risedronate, including N-methyl pyridinium salts thereof, for example N-methyl pyridinium iodides such as NE-10244 or NE-10446; 1-(4-chlorophenylthio)methane-1,1-diphosphonic acid (tiludronic acid) e.g. tiludronate; 3-[N-(2-phenylthioethyl)-N-methylamino]-1-hydroxypropane-1,1-diphosphonic acid; 1-hydroxy-3-(pyrrolidin-1-
+y
+l)propane-1,1-diphosphonic acid, e.g. EB 1053 (Leo); 1-(N-phenylaminothiocarbonyl)methane--1,1-diphosphonic acid, e.g. FR 78844 (Fujisawa); 5-benzoyl-3,4-dihydro-2H-pyrazole-3,3-diphosphonic acid tetraethyl ester, e.g. U-81581 (Upjohn); 1-hydroxy-2-(imidazo[1,2-a]pyridin-3y1)ethane-1,1-diphosphonic acid, e.g. YM 529; and 1,1-dichloromethane-1,1-diphosphic acid (clodronic acid), e.g. clodronate; YM175.
+[36]
+Beginning about one-third down page 5 and over to page 6, of the '201 patent, a number of preferred bisphosphonates are identified, including: pamidronate, alendronate, ibandronate, risedronate, zoledronate, and others. In other words, several previously known bisphosphonates, as well as zoledronate, are said to be preferred for the once every six months or once a year administration.
+[37]
+At page 9, it is stated that zoledronic acid is the most preferred:
+The most preferred N-bisphosphonate for use in the invention is 2-(imidazol-1yl)-1-hydroxyethane-1,1-disphosphonic acid (zoledronic acid) or a pharmacologically acceptable salt thereof.
+[38]
+The patent then describes from pages 9 to 11 that a number of different salts can be used, isomers of the bisphosphonates can be used, the material can be formulated into pharmaceutical compositions, and that a number of different modes of administration - oral, rectal, intravenous and so forth - may be used. Intravenous is the most preferred.
+[39]
+At page 11, there is a discussion of dosage which
+"depends on various factors".
+Most preferred is a single dose in a range of 0.005 - 20 mg/kg; especially 0.01 - 10 mg/kg. This dosage is administered intermittently every six months or once a year or longer. A particular dosage depends on factors such as age, weight, lifestyle, and so forth.
+The particular mode of administration and the dosage may be selected by the attending physician taking into account the particulars of the patient, especially age, weight, life style, activity level, hormonal status (e.g. post-menopausal) and bone mineral density as appropriate.
+The dosage of the Agents of the Invention may depend on various factors, such as effectiveness and duration of action of the active ingredient, e.g. including the relative potency of the bisphosphonate used, mode of administration, warm-blooded species, and/or sex, age, weight and individual condition of the warm-blooded animal.
+Normally the dosage is such that a single dose of the bisphosphonate active ingredient from 0.005 - 20 mg/kg, especially 0.01 - 10 mg/kg, is administered to a warm-blooded animal weighing approximately 75kg.
+"mg/kg" means mg drug per kg body weight of the mammal - including man - to be treated.
+The dose mentioned above is typically administered intermittently with a period of at least 6 months between doses. The period between bisphosphonate administrations may be longer, e.g. conveniently once per year, once per 18 months or once every 2 years, or even longer, or any period in between.
+[40]
+At page 12, the patent asks the reader to appreciate that the unit dose to be used will depend on the potency of the bisphosphonate, dosing interval, and mode of administration. Zoledronic acid is described as a more potent bisphosphonates.
+...It will be appreciated that the actual unit dose used will depend upon the potency of the bisphosphonates, the dosing interval and route of administration amongst other things. Thus the size of the unit dose is typically lower for more potent bisphosphonates and greater the longer the dosing interval. For example, the more potent, N-bisphosphonates such as zoledronic acid a unit dose of from about 1 up to about 10 mg may be used for a parenteral, e.g. intravenous, administration. For example, also for more potent N-bisphosphonates a unit dose of from about 1 to about 5 mg may be used parenterally for dosing once every 6 months; whereas a dose of from about 2 up to about 10 mg may be used for once a year parenteral dosing.
+[41]
+The patent proceeds to describe the form that the dosages may take and other matters.
+[42]
+A number of Examples, one to five, are provided. They are preceded by the statement at page 14 that any of the previously mentioned bisphosphonates could be the active ingredient in the Examples.
+In the following Examples the term "active ingredient" is to be understood as being any one of the bisphosphonic acid derivatives mentioned above as being useful according to the present invention.
+[43]
+Example 5, beginning at page 18 of the patent, is specific to zoledronate. It describes a test conducted on three hundred and fifty-one patients suffering from post-menopausal osteoporosis. They are randomly divided into six groups (study arms), one group is given a placebo and the others different dosages of zoledronic acid over different intervals. The results are presented in a table found at page 19:
+Summary of stepwise multiple comparisons of the active doses of zoledronate versus placebo for percent change from baseline in bone mineral density of the lumbar, spine; postero anterior (L1-L4) at 12 months
+Confirmatory analysis
+ITT population
+Step Number
+Most significant contrast
+Difference
+Standard error of difference
+Lower 97.5% confidence limit
+p-value
+1
+zoledronate 4 x 0.25 mg - placebo
+5.1
+0.55
+3.7
+<0.001
+2
+zoledronate 4 x 0.5 mg - placebo
+4.9
+0.56
+3.5
+<0.001
+3
+zoledronate 1 x 4.0 mg - placebo
+4.6
+0.53
+3.3
+<0.001
+4
+zoledronate 4 x 1.0 mg - placebo
+4.5
+0.55
+3.2
+<0.001
+5
+zoledronate 2 x 2.0 mg - placebo
+4.2
+0.57
+3.1
+<0.001
+[44]
+The conclusion stated at page 20 is that dosages of zoledronate as infrequent as every six to twelve months can safely and significantly result in increased bone mass and reduce risk of osteoporotic fracture:
+The BMD data indicate that zoledronic acid dose administration as infrequent as every 6 or 12 months can safely result in a statistically significant and medically relevant bone mass increase. It is believed that these data further indicate that a continued preservation of new bone beyond one year, without additional dose administration, is likely or that further bone mass increase is possible. It is also believed that re-treatment in additional cycles of every 6 month, 12 month, or less frequent dose administration will lead to further BMD increase. A reduction of risk of osteoporotic fracture is expected to accompany the bone mass increases.
+[45]
+The claims follow.
+THE CLAIMS OF THE '201 PATENT
+[46]
+The claims at issue - claims 1 to 36 - can be considered as being in different groups; each with a general claim, followed by more specific claims. The specific claims in each group are essentially the same. The general claims differ only in the manner in which they are expressed. I accept Novartis' Counsel's summary as to these groups of claims as set out in paragraph 61 of Novartis' Memorandum, noting that claims 37 and following are no longer at issue, and that ZA is an acronym for zoledronate or zoledronic acid:
+61. There are 5 types of claims in the Patent
+:
+a. Claims 1-9 are Swiss-type claims, in that they relate to the use of ZA in the manufacture of a medicament;
+b. Claims 10-18 are use claims, in that they relate to the use of  <FRAGMENT_SUPPRESSED>  composition containing ZA; and
+e. Claims 37-39 are claims to a kit containing ZA.
+[47]
+I will set out in full claims 10 to 18:
+10. Use of zoledronic acid, a pharmaceutically acceptable salt thereof, or a hydrate thereof for treatment of a condition of abnormally increased bone turnover wherein the zoledronic acide, the salt or the hydrate is for intermittent administration, with a period of at least about one year between a first administration and each subsequent administration in the intermittent administration, wherein the first administration and each subsequent administration is parenteral administration.
+11. Use according to claim 10, wherein the period between the first administration and each subsequent administration is about one year.
+12. Use according to claim 10 or 11, wherein the first administration and each subsequent administration is intravenous administration.
+13. Use according to any one of claims 10 to 12, herein the zoledronic acide, the salt or the hydrate is in a unit dosage form comprising from about 2 mg up to about 10 mg of the zoledronic acid, the salt or the hydrate.
+14. Use according to claim 13, wherein the unit dosage form comprises about 5 mg of the zoledronic acid, the salt or the hydrate.
+15. Use according to any one of claims 10 to 14 wherein the condition of abnormally increased bone turnover is osteoporosis.
+16. Use according to any one of claims 10 to 14, wherein the condition of abnormally increased bone turnover is postmenopausal osteoporosis.
+17. Use according to any one of claims 10 to 14, wherein the condition of abnormally increased bone turnover is male osteoporosis.
+18. Use of zoledronic acid, a pharmaceutically acceptable salt thereof, or a hydrate for treatment or prevention of corticosteroid induced osteoporosis wherein the zoledronic acid, the salt or the hydrate is for intermittent administration, with a period of at least about one year between a first administration and each subsequent administration in the intermittent administration, wherein the first administration and each subsequent administration is parenteral administration.
+[48]
+Claim 16 is representative of the claims most focused upon in argument. It is written in dependent form referring back to any of claims 10 to 14. To incorporate the limitations of those earlier claims, claim 16 can be written as follows:
+"Use of zoledronic acid, a pharmaceutically acceptable salt thereof, or a hydrate thereof for the treatment of postmenopausal osteoporosis wherein the zoledronic acid, salt or hydrate is in a unit dosage form of about 5 mg which is administered intermittently, with a period of about one year between the first and each subsequent administration, wherein each administration is intravenous."
+[49]
+This definition coincides with Novartis' commercial product, which is sold in a vial containing 5 mg of zoledronate for intravenous administration once a year.
+PERSON SKILLED IN THE ART
+[50]
+Novartis and Cobalt disagree as to a definition of the notional "person of ordinary skill in the art" (POSITA), to whom the patent is addressed and through whose eyes the patent is to be read.
+[51]
+Novartis submits that it is a person "knowledgeable with respect to the treatment of PMO (postmenopausal osteoporosis) with BP's (bisphosphonates), including those with experience in chemistry, biopharmaceuticals and experience in designing and interpreting chemical trials." Novartis' expert witnesses fit this profile.
+[52]
+Cobalt submits that it is "a medial doctor who has experience treating patients with abnormal bone mechanism disorders or bone disorders such as osteoporosis and Paget's disease. Such a medical doctor would be a specialist in endocrinology, geriatrics, rheumatology, and/or oncology." Cobalt's expert witnesses fit this profile.
+[53]
+In reading the '201 patent, I am inclined to accept the Cobalt definition. At page 1, the patent begins:
+This invention relates to bisphosphonates, in
+particular the pharmaceutical use
+of bisphosphonates
+in the treatment
+of abnormally increased bone turnover such as osteoporosis.
+(emphasis added)
+[54]
+At page 2a, the patent says:
+Accordingly, the present invention provides
+a method of treatment
+of conditions which comprise
+intermittently administering
+an effective amount of a bisphosphonate
+to a patient
+...
+(emphasis added)
+[55]
+Fortunately, at the hearing Counsel for each of the parties agreed that it does not really matter which of the definitions the Court accepts; both should be equally applicable.
+CONSTRUCTION OF THE CLAIMS
+[56]
+Each of the parties focused in their Memoranda on the construction of claim 7, which ultimately depends on claim 1, which is written in "Swiss" form. I have focused more on claim 16, which avoids the Swiss form and is written directly as a use claim. Regardless, the construction of claim 7 made by each party in their Memoranda is remarkably similar.
+[57]
+Novartis, at paragraphs 64 - 67 of its Memorandum, construes claim 7 and other claims as follows:
+64.
+Claim 7/5/4/3/2/1:
+Claim 7, as dependent on claims 5, 4, 3, 2 and 1 would be read by the PSIA as related to the use of ZA in the manufacture of a medicament
+:
+•
+For the treatment of PMO;
+•
+Wherein the ZA (or salt or hydrate) will be used for intermittent administration;
+•
+The period between the first administration and each subsequent administration is about 1 year; and
+•
+The vial contains about 5 mg of the zoledronic acid, the salt or the hydrate.
+65.
+Claim 7/3/2/1:
+This claim would be read in a similar fashion, except that it does not specify the amount of ZA in the vial.
+66. Summarized in the following table is the construction of the remainder of the claims that Novartis focuses on specifically for the purpose of this proceeding
+:
+Claim16/14/13/12/11/10
+covers the use of ZA:
+Claim 25/23/22/21/20/19
+covers the compound ZA:
+Claim 34/32/31/30/29/28
+covers a pharmaceutical composition containing ZA:
+• For the treatment of PMO;
+• Wherein the ZA (or salt or hydrate) will be used for intermittent administration;
+• The period between the first administration and each subsequent administration is 1 year +/- month; and
+• The vial contains about 5 mg of the ZA, the salt or hydrate.
+67. As with Claim 7/3/2/1,
+Claims 16/12/11/10, 25/21/20/19
+and
+34/30/29/28
+would be read similarly, except that they do not specify the amount of ZA in the vial.
+[58]
+Cobalt at paragraph 50 of its Memorandum submits:
+Cobalt submits that the proper construction is a purposive, not literal interpretation. Therefore, claim 7 claims the
+:
+■ use of zoledronic acid
+■ for the treatment of PMO
+■ by administering the zoledronic acid intermittently with a period of at least about one year between each administration
+■ wherein the administration is intravenous administration
+■ wherein the amount of zoledronic acid is unspecified (claim 7 dependent on claims 3, 2, 1) or wherein the amount is 5 mg (claim 7 dependent on claims 5, 4, 3, 2, 1)
+[59]
+I accept each of these submissions, as they are essentially the same.
+ISSUE #1: OBVIOUSNESS
+[60]
+One of the most difficult issues faced by a Court in patent litigation is that of obviousness. The Court must address the alleged invention through the eyes of a person skilled in the art and ask whether it is deserving of patent protection; that is, whether it is either inventive or obvious.
+[61]
+The rationale has been put well by Professor Carl Moy of William Mitchell College of Law, author of
+Moy's Walker on Patents
+, Thomson/West, in addressing a Master of Law Class at Osgood Hall Law School. He said that a patent is a bargain between the public and the patentee which provides a monopoly to a person (patentee) in respect of certain scientific subject matter, provided that it is purchased from the public by disclosing something that is new, useful and inventive. If it is not new, then the monopoly has been purchased for nothing and cannot be valid. If it is something that that the public would get anyway from a person of ordinary skill practicing their craft, then nothing has been paid for the monopoly and the monopoly cannot be valid.
+[62]
+The concepts of inventiveness or obviousness are elusive, which has caused the Courts to endeavour to articulate tests and criteria to be examined and assessed against the evidence. The current state of such tests in Canada is that set out by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  ("Plavix"), per Rothstein J, for the Court, at paragraphs 67 and 69 to 70:
+67 It will be useful in an obviousness inquiry to follow the four-step approach first outlined by Oliver L.J. in  <FRAGMENT_SUPPRESSED>  (C.A.). This approach should bring better structure to the obviousness inquiry and more objectivity and clarity to the analysis. The Windsurfing approach was recently updated by Jacob L.J. in  <FRAGMENT_SUPPRESSED>  [2007] EWCA Civ 588, at para. 23
+:
+In the result I would restate the Windsurfing questions thus
+:
+(1) (a) Identify the notional "person skilled in the art";
+(b) Identify the relevant common general knowledge of that person;
+(2) Identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+(3) Identify what, if any, differences exist between the matter cited as forming part of the "state of the art" and the inventive concept of the claim or the claim as construed;
+(4) Viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention? [Emphasis added.]
+It will be at the fourth step of the Windsurfing/Pozzoli approach to obviousness that the issue of "obvious to try" will arise.
+. . .
+69 If an "obvious to try" test is warranted, the following factors should be taken into consideration at the fourth step of the obviousness inquiry. As with anticipation, this list is not exhaustive. The factors will apply in accordance with the evidence in each case.
+(1) Is it more or less self-evident that what is being tried ought to work? Are there a finite number of identified predictable solutions known to persons skilled in the art?
+(2) What is the extent, nature and amount of effort required to achieve the invention? Are routine trials carried out or is the experimentation prolonged and arduous, such that the trials would not be considered routine?
+(3) Is there a motive provided in the prior art to find the solution the patent addresses?
+70 Another important factor may arise from considering the actual course of conduct which culminated in the making of the invention. It is true that obviousness is largely concerned with how a skilled worker would have acted in the light of the prior art. But this is no reason to exclude evidence of the history of the invention, particularly where the knowledge of those involved in finding the invention is no lower than what would be expected of the skilled person.
+[63]
+The Federal Court of Appeal subsequently dealt with this test and, in particular, the question of motivation in
+ <FRAGMENT_SUPPRESSED> . That Court distinguished as between "obvious to try" and "more or less self-evident". The Court rejected the "obvious to try" test if it was based on the "possibility" that something might work, and accepted the "more or less self-evident" test. Noel JA wrote at paragraphs 43 to 45:
+43 The reasoning advanced by Mr. Justice Laddie and approved by the English Court of Appeal is that where the motivation to achieve a result is very high, the degree of expected success becomes a minor matter. In such circumstances, the skilled person may feel compelled to pursue experimentation even though the chances of success are not particularly high.
+44 This is no doubt the case. However, the degree of motivation cannot transform a possible solution into an obvious one. Motivation is relevant in determining whether the skilled person has good reason to pursue "predictable" solutions or solutions that provide "a fair expectation of success" (see respectively the passages in  <FRAGMENT_SUPPRESSED> both of which are referred to with approval  <FRAGMENT_SUPPRESSED> - <FRAGMENT_SUPPRESSED> , at paragraphs 57 and 59).
+45 In contrast, the test applied by Mr. Justice Laddie appears to be met if the prior art indicates that something may work, and the motivation is such as to make this avenue "worthwhile" to pursue (Pfizer Ltd., supra, para. 107, as quoted at para. 42 above). As such, a solution may be "worthwhile" to pursue even though it is not "obvious to try" or in the words of Rothstein J. even though it is not "more or less self-evident" (Sanofi- <FRAGMENT_SUPPRESSED> , para. 66). In my view, this approach which is based on the possibility that something might work, was expressly rejected by the Supreme Court  <FRAGMENT_SUPPRESSED> -Synthelabo, at paragraph 66.
+[64]
+These principles have been applied recently by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  wherein the Court of Appeal found that the Trial Judge had erred in concluding that if the necessary techniques were available to arrive at the alleged invention, the invention itself was obvious. Pelletier JA (with whom Noel JA agreed) wrote at paragraphs 73 and 74:
+73 With these facts in mind, the Supreme Court articulated why the separation of the racemate was not obvious to try. It held that just because the methods of separating a racemate into its isomers are known, it does not follow that a person skilled in the art would necessarily apply them. The Supreme Court explained
+:
+It is true that at the relevant time there was evidence that a skilled person would know that the properties of a racemate and its isomers might be different. However, a possibility of finding the invention is not enough. The invention must be self-evident from the prior art and common general knowledge in order to satisfy the "obvious to try" test. That is not the evidence in this case.
+Plavix, cited above, at paragraph 85
+However, the prior patent did not differentiate between the efficacy and the toxicity of any of the compounds it covered. This suggests that what to select or omit was not then self-evident to the person skilled in the art.
+Plavix, cited above, at paragraph 90
+74 What emerges from this review of the Supreme Court's decision in Plavix, cited above, is that the key factor in its "obvious to try" analysis was the lack of knowledge of the properties of the enantiomers of the compounds of the '875 Patent, including the racemate from which clopidogrel was obtained. Absent that knowledge, it was not obvious to try to resolve the racemate, or any other compound, so as to obtain the enantiomer having those advantageous properties.
+and at paragraph 81:
+81 Given that the Trial Judge applied the test for obviousness set out in Plavix, and given that he applied it to the same material facts as the Supreme Court, he ought to have come to the same conclusion. His error lay in failing to recognize that the unknown nature of the properties of the enantiomers of PCR 4099, or of any of the other compounds of the '875 Patent, was fatal to the "obvious to try" analysis. Put another way, the distance between the common general knowledge and the inventive concept of the '777 Patent could not be bridged by routine experimentation since the results to be obtained were unknown. On the facts, this was confirmed by the fact that the inventors, who had more knowledge that the person of ordinary skill in the art, attempted to resolve a number of other compounds before finally trying PCR 4099: see Reasons, at paragraphs 752-759.
+[65]
+Gauthier JA wrote concurring reasons. At paragraph 137 she wrote:
+137 The Trial Judge believed that the evidence before him with respect to the separation of the enantiomers was significantly different from the evidence before the Supreme Court of Canada in Plavix because: i) he found that a line had been drawn in the sand at the time the application was filed, and that as part of the process of developing a racemic drug a sponsor would be motivated to separate the enantiomers to get information to pre-empt expected new regulatory requirements (See Reasons at paragraphs 748-749); and ii) in his view, the separation itself did not involve substantial difficulties and was routine. However, Rothstein J. made it clear in Plavix that whether the separation or resolution of the enantiomers was routine or involved arduous work would assume small significance in this case when one considers the whole course of conduct that led to the decision to separate (See Plavix at paragraph 89).
+[66]
+I will turn to the various criteria for assessing obviousness as set out by the Supreme Court in <FRAGMENT_SUPPRESSED> , supra, as further considered by the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> and
+Sanofi  <FRAGMENT_SUPPRESSED> .
+•
+Person Skilled in the Art
+This has been discussed previously in these Reasons.
+•
+Relevant common general knowledge
+I have discussed this to some extent under the caption BONES - BISPHOSPHONATES. In considering the subject of the common general knowledge as of mid-2000, I rely more heavily on the expert evidence of Dr. Zorich and Dr. Ebetino. They were working in the field at the time and have provided clear and cogent evidence on the point. I am placing less weight on the evidence of Dr. Singer. He appears familiar with the area, but was clearly less involved than either Dr. Zorich or Dr. Ebetino at the relevant time. Further, Dr. Singer's evidence is flawed in that he did not conduct a search for the prior art that he relies upon in his evidence. A bundle of prior art was given to him by Cobalt's Counsel. How and where they found it, we don't know.
+In dealing with common general knowledge, the Court must consider the knowledge that a person skilled in the art at the relevant date would have or would have obtained through a reasonably diligent search conducted by that person using the means available at the relevant time. A search later conducted with the benefit of hindsight is not the best way to put the Court in a position to assess the common general knowledge at the time.
+I am, however, sceptical of the evidence of Drs. Zorich and Ebetino on the point that each bisphosphonate must be considered on its own, and that experience with one cannot be translated into experience with another. In brief, they say that the consideration is an empirical one. I am not sceptical on the basis that such evidence has been shown to be wrong. It has not. Rather, I am sceptical because the description in the '201 patent lumps all bisphosphonates; zoledronate, as well as the earlier ones such as elindronate and alendronate, together. The patent suggests that all could usefully be administered in a cyclic pattern of months between administration. Perhaps this is not true, but no challenge has been made to the '201 patent in that regard. The point is that neither Dr. Zorich nor Dr. Ebetino chose to give evidence as to why their evidence is to be preferred to what the '201 patent apparently teaches.
+Dr. Ebetino, in particular, provides evidence as to the mechanism by which bisphosphonates are believed to work in affecting bone remodelling. The '201 patent says nothing about the mechanism, nor does it attempt to tie in some form of mechanism to the dosage or intervals of treatment save only to say at page 12, lines 2 and 3, that the dose will depend upon the potency of the bisphosphonates.
+Dr. Ebetino frankly admits at paragraph 86 of his affidavit that it was not until well after June 2000 that people working in the field realized the inaccuracy of the assumption that all bisphosphonates with the same R1 group had similar binding affinities at clinically relevant concentrations, and that these differences may be chemically important.
+At paragraphs 39 and 40 of his affidavit, Dr. Ebetino frankly admits that, even today, we do not know why zoledronate displays such a long duration of action.
+I accept Dr. Zorich's evidence at paragraphs 146 to 148 of her affidavit that, as of mid 2000, it would not have been evident to a person skilled in the art that once-a-year dosing of zoledronate would be statistically better than a placebo. I accept what she says that while some pharmaceutical companies may have privately been conducting tests as to less frequent dosing, the predominant view was that dosing such as daily or weekly was required, and that dosing intervals greater than three months would have been "off the radar". I accept her conclusion at paragraph 165 that a person skilled in the art would not have expected that the time period between dosing could be extended to one year without losing efficacy of the bisphosphonate.
+•
+The inventive concept
+Novartis, in its written argument, paragraph 103, submits that the inventive concept of the claims is that zoledronate is effective to treat postmenopausal osteoporosis by continuously inhibiting bone resorption when administered only once per year. I disagree that the inventive concept had a grasp that the mechanism was "by continuously inhibiting bone resorption". No mechanism is stated in the '201 patent.
+Cobalt submits at paragraph 98 of its memorandum that the inventive concept of claim 7 lies in the dosage regimen; namely, the approximately once-a-year intermittent dosing of zoledronate to treat postmenopausal osteoporosis. This definition, which I accept, ties in closely with what Richardson, one of the named inventors of the'201 patent, gave in answer to question 36 of his cross-examination:
+36 Q. And I would take it that it wasn't a surprise that zoledronic acid could treat postmenopausal osteoporosis. The dosing regimen, frequency, route of administration were things to be determined, but the fact that zoledronic acid could treat postmenopausal osteoporosis was not unexpected.
+A. That's true. It wasn't a surprise that it could be used in the treatment of postmenopausal osteoporosis. Bisphosphonates have been used. The real surprise was that it could be done with such an infrequent use and that the data which we generated from this study was so convincing.
+•
+Identify the differences between the state of the art and the inventive concept
+The difference, as stated by Richardson, that zoledronate could be administered infrequently such as once a year and still treat postmenopausal osteoporosis.
+[67]
+At this point, <FRAGMENT_SUPPRESSED> instructs the Court to consider, if warranted, the obvious-to-try test, utilizing the following factors:
+•
+Is it more or less self-evident that what is being tried ought to work?
+I am satisfied through the evidence of Dr. Zorich that a dosage regimen with a frequency less than three months was "off the radar" (paragraphs 146 - 147 of his affidavit). Dr. Singer, in cross examination (questions 265 and 479) agreed that persons engaged in a longer-term study really wouldn't know what the result might be.
+•
+Extent, nature, and amount of effort required
+Dr. Singer in his affidavit, for instance, paragraph 28, described the record as "merely attempting to optimize the dosage regimen". At paragraph 49 of his affidavit, Dr. Singer modified his statement by saying that he was not suggesting that a clinical trial was simple or quick to perform, but they were commonplace.
+Dr. Zorich, at paragraphs 146 to 148 of her affidavit, states that it would have been a fight to go against prevailing wisdom that dosing less frequent than every three months would be effective.
+In cross-examination, Richardson, one of the named inventors of the '201 patent, said that most people thought he was slightly crazy testing a single dosage (arm) at one year:
+64 Q. -- that - am I correct that a dose of 5 milligrams was not tested in the - I'm going to call it the phase II trial - the phase II trial that's reported in Example 5?
+A. That's correct.
+65 Q. That's right. There was a single administration of a 4 milligram dosage.
+A. That is correct.
+66 Q. That's one of - one of the - one of the arms tested was a single administration.
+A. Potentially the most interesting arm.
+67 Q. And that was something that you knew beforehand, that that was going to be the most interesting - potentially the most interesting?
+A. Personally?
+68 Q. Yeah.
+A. I was very interested in terms of that. Many people thought I was slightly crazy by putting that arm in because it was going to cost us extra money and was rather a controversial thing to do because many said, It's pointless. We're to do three monthly and do that dosing. However, I was fortunate enough to work for a company that listened to some crazy ideas from me at the time.
+I am satisfied that tests of the nature set out in Example 5 of the '201 patent were conducted by researchers and the procedures, although costly and arduous, were known. I am, however, satisfied that no previous researchers had pushed those tests into the unknown territory of administration at less than six-month intervals, and there was no expectation as to what the results may be. As the Federal Court of Appeal said recently  <FRAGMENT_SUPPRESSED> - <FRAGMENT_SUPPRESSED> , just because the means were available, it does not follow that the use of those means was obvious.
+•
+Is there a motive provided in the prior art to find the solution that the patent addresses?
+Cobalt points to a conclusion written by Dr. Fleisch, a well-known expert in the field in 1995 in his textbook on the subject. At section 3.10, he postulates:
+3.10. FUTURE PROSPECTS
+The bisphosphonates present a most interesting development in the field of treatment of bone diseases, and it is probable that we are only at the beginning of a new area of therapy.
+Many issues are still unresolved. For example, we do not yet know whether we have found the optimal regimen for the compounds available. This is especially the case in treatment of osteoporosis. Is there an advantage to the use of an intermittent therapy, as is proposed for etidronate? If so, which would be the optimal regimen? Could one think of a longer, possibly even yearly treatment interval?
+Of course, to postulate a desired result is not to solve it. This statement shows that there is possible motivation to reach that result, but it does not deprive those persons who do achieve that result from claiming to have made an invention.
+In the present case, the evidence is that only zoledronate has proven to be capable of providing once-a-year effective treatment for postmenopausal osteoporosis. There is nothing in the evidence to show that any other bisphosphonate has been developed that satisfactorily achieves similar results.
+[68]
+The course of conduct in achieving a once-a-year bisphosphonate was explained by one of the named inventors, Dr. Richardson. I am satisfied that he dared to go beyond what a person of ordinary still in the art would have done at the time. He unexpectedly achieved a good result.
+[69]
+I find that, on the evidence before me, the invention as claimed in claims 7, 16, 25 and 34 of the '201 patent was not obvious.
+ISSUE #2: METHOD OF MEDICAL TREATMENT
+[70]
+A number of claims of the '201 patent have been previously set out in these Reasons; in particular claims 10 to 18, together with a rewritten claim 16. The construction of those claims and the other claims at issue has been done. For purposes of considering the method of medical treatment issue, the following elements of representative claims 10 to 16 can be considered:
+Claim 10:
+- use of zoledronic acid
+-
+- to treat abnormal bone turnover
+-
+- intermittent administration of about at least one year
+Claim 11:
+- administration about one year
+Claim 12:
+- intravenous administration
+Claim 13:
+- dosage from about 2 mg to about 10 mg
+Claim 14:
+- dosage of about 5 mg
+Claim 15:
+- condition is osteoporosis
+Claim 16:
+- once-a-year administration intravenously, 5 mg dose, for osteoporosis
+[71]
+In brief, claims 10 and 11 do not claim any dosage range, but do claim administration at intervals of about one year. Claim 13 claims a dosage range from about 2 mg to about 10 mg. Claims 14, 15 and 16 claim a specific dosage of about 5 mg.
+[72]
+Much has been written about whether "methods of medical treatment" fall within the definition of "invention" as set out in section 2 of the
+Patent Act
+:
+"invention" means any new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter;
+« invention » Toute réalisation, tout procédé, toute machine, fabrication ou composition de matières, ainsi que tout perfectionnement de l'un d'eux, présentant le caractère de la nouveauté et de l'utilité.
+[73]
+The jurisprudence begins with the Supreme Court of Canada decision in
+ <FRAGMENT_SUPPRESSED>  the effect of which was concisely stated by Heald JA for the Panel of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  Court of Canada, Mr. Justice Pigeon delivered the Court's decision. He commences his reasons by setting out the agreed statement of facts and issues. At p. 204 of the report, he reproduces, with approval, that portion of the reasons of Kerr J. set out above. It is true that he does discuss the impact of s. 41, presumably since that case was a s-s. 41(1) case. However, after that discussion, at p. 207 of the report, he states
+:
+Having come to the conclusion that methods of medical treatment are not contemplated in the definition of "invention" as a kind of "process", the same must, on the same basis, be true of a method or surgical treatment.
+In my opinion, this is a clear and unequivocal statement that "...methods of medical treatment are not contemplated in the definition of "invention" as a kind of process ...". That was the sole issue before the court and it is here answered in unmistakeable and unambiguous language. Accordingly, in my view, the force of that pronouncement cannot be restricted merely to factual situations where s-s. 41(1) of the Act applies. It follows, therefore, that the commissioner did not err in considering himself bound by the ratio of Tennessee Eastman.
+[74]
+Counsel for Novartis places much reliance on the decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> ; however, I view that decision as standing for the proposition that a patent may be obtained for a new use of a known substance, provided that it is inventive. No broad proposition respecting methods of medical treatment can be drawn. I repeat what Justice Wilson, for the Court, wrote at pages 551 to 552:
+In my view, this is the thrust of the appellant's appeal to this Court. It says: "I recognize that these compounds are old; I acknowledge that there is nothing inventive in mixing them with these adjuvants once their properties as plant growth regulators have been discovered; but I have discovered these properties in those old compounds and I want a patent on the practical embodiment of my invention". I think he is entitled to receive it.
+[75]
+Justice Wilson did comment on the
+Tennessee Eastman
+case at page 554 of her reasons, stating that a process of surgical or medical treatment was not patentable because it was non-economic and unrelated to trade, industry or commerce:
+ <FRAGMENT_SUPPRESSED>  the applicant sought a patent on a method of closing incisions following surgery by the use of an adhesive substance discovered to have a marked affinity for adhering to living tissue. The Commissioner refused the patent on the basis that this was not the kind of discovery (the adhesive itself not being new) which fell within the definition of "invention" in the Act. In particular, he found that it was not an "art" because it was useful only in the process of surgical or medical treatment and produced no result in relation to trade, commerce or industry. The applicant appealed to the Exchequer Court and the issue there was limited to the question whether this use of the adhesive fell within the meaning of new and useful "art" or "process" within the meaning of the Patent Act. It was held that it did not for the reasons given by the Commissioner. In effect, it was not patentable because it was essentially non-economic and unrelated to trade, industry or commerce. It was related rather to the area of professional skills. The Court, however, affirmed that "art" was a word of very wide connotation and was not to be confined to new processes or products or manufacturing techniques but extended as well to new and innovative methods of applying skill or knowledge provided they produced effects or results commercially useful to the public.
+[76]
+Subsequently, the Supreme Court of Canada in a case that has become known as
+ <FRAGMENT_SUPPRESSED> , particularly at paragraphs 72 and 73, and the decision of the Federal Court of Appeal reported at [2001] 1 FC 495, especially at pages 527 to 531, in order to determine what the claims were that the Supreme Court of Canada was considering. The Trial Court considered claims to the substance AZT itself to be patentable, even though AZT was a known compound. The Trial Court also held patentable the so-called prophylaxis claims; that is, claims directed to the use of AZT to treat HIV, to be patentable. The Court of Appeal held that only the prophylaxis claims were patentable.
+[77]
+Thus, the Supreme Court was dealing only with the prophylaxis claims when Binnie J, for the Court, wrote at paragraph 177:
+1.
+Patentable Subject Matter
+There is no serious challenge in this case to subject matter patentability. "[H]itherto unrecognized properties" can constitute a patentable new use for an old substance: Shell Oil, supra, at p. 549, per Wilson J. In that case, it was disclosed in the patent that known chemical compounds revealed a previously unrecognized use as plant growth regulators.
+At trial, the present appellants argued that the patent was invalid as seeking to monopolize a method of medical treatment contrary to Tennessee  <FRAGMENT_SUPPRESSED> , but this was rightly rejected. Tennessee Eastman was concerned with the patentability of a surgical method for joining incisions or wounds by applying certain compounds. The decision was based on the former s. 41 of the Patent Act, now repealed. The Court concluded that the method (apart from the compounds) was not patentable. The policy rationale, as explained by Wilson J. in Shell Oil, supra, at p. 554, was that the unpatentable claim was essentially non-economic and unrelated to trade, industry, or commerce. It was related rather to the area of professional skills.
+The AZT patent does not seek to "fence in" an area of medical treatment. It seeks the exclusive right to provide AZT as a commercial offering. How and when, if at all, AZT is employed is left to the professional skill and judgment of the medical profession.
+[78]
+The Supreme Court has thus left us with the following with respect to method of medical treatment:
+• patent protection is not available where the subject matter is directed to the skill of a professional, such as surgical procedures
+• patent protection is available for vendible products in the area of medical treatment such as a new substance to be used in the treatment of a disease, or an old substance where it has been discovered that it can unexpectedly treat another disease
+[79]
+Consideration must be given in this case to patents directed to dosage regimens for substances used for medical treatment.
+[80]
+ <FRAGMENT_SUPPRESSED>  Justice Mosley of this Court dealt with a number of claims which are set out in paragraph 28 of his Reasons, including claims 35, 89 and 139, which are very similar to claim 16 of the '201 patent at issue here. I repeat claim 35 as he set it out:
+Claim 35
+:
+Use of alendronate monosodium trihydrate in the manufacture of a medicament for treating osteoporosis in a human wherein said medicament is adapted for oral administration as a unit dosage from compromising about 70 mg on an alendronic acid active basis according to a continuous schedule having a once weekly dosing interval.
+[81]
+Justice Mosley gave considerable thought as to whether such a claim was directed to a method of medical treatment, and concluded that it was not. He said it was for a vendible product having real economic value. He wrote at paragraphs 135 to 138:
+135 Apotex argues that the impugned claims in the '595 Patent are essentially methods of medical treatment in that they simply provide instructions to the physician to alter the dosage regime, as found by the Australian court and the U.K.  <FRAGMENT_SUPPRESSED>  patent are for a vendible product having economic value in trade, industry and commerce and are distinguishable from the work of a physician, which requires the exercise of specialized skill, the patent is taken out of the realm of Tennessee Eastman. The how and when of administration is not a part of the patent. The inventors provide a new product which physicians may choose to use in treating patients, based on their own skill and judgment:  <FRAGMENT_SUPPRESSED> .
+137 I find that the patent is for a vendible product having real economic value, as demonstrated by its immediate success in the market, and is, therefore, not for an unpatentable method of treatment. I note, however, that this is contrary to the position reached by the U.K. courts. But for the decision of the Court of Appeal in  <FRAGMENT_SUPPRESSED>  Justice Jacob would have held that it was not a method of treatment patent. The words of Holman J. (at para. 111) in Bristol Myers were adapted by counsel for the claimant in that case by substituting alendronate for taxol, the drug in question in that case, in the following manner;
+In the present case, however, the drug alendronate is exactly the same; the method of administration, orally, is exactly the same; and the therapeutic application or purpose, namely the attempt to treat osteoporosis is exactly the same. The only difference is the discovery that if the drug is administered in a unit dosage form of 70mg once weekly rather than 10mg once daily an undesirable side effect, adverse GI effects, is less than it otherwise would be, whilst the therapeutic effect remains. No previously unrecognized advantageous properties in the chemical compound have been discovered ... All that has been discovered ... is that if the compound is administered once a week rather than daily, one of its disadvantageous side effects will be less than it otherwise would be.
+138 Consequently, Jacob J. found that the claim was in substance a method of treatment of the human body by therapy, which finding was upheld by the Court of Appeal: [2003] All E.R. (D) 62.
+[82]
+Justice Harrington of this Court in
+ <FRAGMENT_SUPPRESSED>  considered a patent which claimed a substance to be administered within a dosage range for the treatment of a disease. The English language translation is set out at paragraph 3 of his Reasons:
+3 Pharmascience submitted the following English translation which was used by the medical experts called by both parties
+:
+"Pharmaceutical composition for the treatment of primary biliary cirrhosis, characterized in that it includes ursodeoxyscholic acid as well as a vehicle and if necessary pharmaceutical excipcients, the said composition being processed in a form allowing for the said treatment of primary biliary cirrohosis based on a dose of 13 to 15 mg/kg/day."
+[83]
+Justice Harrington reviewed the applicable Canadian law respecting method of medical treatment and concluded at paragraph 51 that a patent claiming a dosage range within which the physician is to exercise skill and judgment was not a vendible product; and thus, not patentable. He wrote:
+51 There is a distinction between the dosage in a capsule and a dosage range based on the patient's weight. As I read the claim, the emphasis is on the dosage range, and a dosage range is not a vendable product.
+[84]
+The Patent Appeal Board addressed the issue in Re
+Allergan, Inc. Patent Application No. 2,300,723
+(2009), 79 CPR (4th) 161. The patent application contained claims directed to a range of dosages of a substance to treat a disease. The Board described the claims at paragraph 7 of their decision, as follows
+:
+[7] In response to the Final Action, the Applicant chose to focus the claims on the specific range of dosages of botulinum toxin which were useful in treating pain associated with a muscle disorder, wherein the muscle disorder is a spasticity condition secondary to a stroke or cerebral vascular event. Prior to the Final Action the independent claims were not limited to any particular amount or range, and included claims directed to treating pain and separate claims directed to the treatment of spasticity, with, for the most part, a focus on particular serotypes. Seven claims were substituted for those on file and the Applicant, in its submissions, emphasized that the claims were directed to treating "pain" and not a spastic muscle.
+[85]
+The Board proceeded to consider the jurisprudence, including the decisions of Justice Mosley in <FRAGMENT_SUPPRESSED> , supra, and Justice Harrington in <FRAGMENT_SUPPRESSED> , supra. At paragraph 93 of its reasons, the Board concluded that if a dosage is claimed as part of the patent monopoly, it must not be in the form of a range. It wrote:
+93 From this limited jurisprudence we may take that, if a dosage is claimed as part of the patent monopoly it must not be in the form of a range, such that in order to determine the appropriate dosage for a particular patient, specific knowledge of that patient is required, and judgement is required based on that knowledge, matters which fall within the skills of the physician, and are therefore unpatentable. As Mr. Justice Harrington put it, the dosage must be in "vendible product" form, and not in the form of a guideline to physicians. This would seem to accord with the previous quote from Mr. Justice Binnie in  <FRAGMENT_SUPPRESSED> . If what is claimed can no longer be considered a "commercial offering", then it may fall within the exclusion. This is of course, not to say that a claim, in order to be patentable, must be directed to a "vendible product" or a "commercial offering". The above guidance is restricted to the case where a dosage range is found in a claim.
+[86]
+I considered the matter in
+ <FRAGMENT_SUPPRESSED> . The form of the claim at issue was set out at paragraph 5 of my Reasons:
+5 To incorporate all the references to the prior claims into claim 5 it would read
+:
+5. The use of 17[beta]-(N-tert-butylcarbamoyl)-4-aza-5[alpha] -androst-1 -ene-3-one for the preparation of a medicament adapted for oral administration useful for the treatment of male pattern baldness in a person and wherein the dosage amount is about 1.0 mg.
+[87]
+I reviewed the jurisprudence, including <FRAGMENT_SUPPRESSED> , supra, <FRAGMENT_SUPPRESSED> , supra, and
+Allergan
+, supra; and considered, at paragraph 114 of my Reasons, that a claim directed to a tablet containing a single specific dosage was directed to a vendible product, not to a method of medical treatment, and was patentable. I wrote:
+114 I note, as explained in paragraph 50 of  <FRAGMENT_SUPPRESSED> , that Justice Heald of this Court has found that the decision of the Supreme Court of Canada  <FRAGMENT_SUPPRESSED>  Eastman the case that is considered to be the basis of arguments as to method of medical treatment, is not to be distinguished on the basis that there were express statutory prohibitions at the time, now repealed. However, a distinction must be made between claims that rely upon the skill and judgment of a medial practitioner and those that deal with a vendible product, be it a scalpel, X-ray machine or 1 mg tablet that are to be used or prescribed for use by such practitioner. In the present case, we have a 1.0 mg tablet taken as a daily dose. No skill or judgment is brought to bear. It is a vendible product and not a method of medical treatment.
+[88]
+The latest decision in which the matter of dosage was considered is that of Justice Barnes, of this Court, in
+ <FRAGMENT_SUPPRESSED> . The claims considered by Justice Barnes are set out at paragraph 5 of his Reasons:
+5 The only claims that are in issue in this proceeding are claims 3, 5, 6, 7 and 8 (the relevant claims)
+:
+3. A use of galantamine from a first dosage of about 8 mg/day to a final dosage of about 16 mg/day to 24 mg/day for treating Alzheimer's Disease wherein said first dosage is for use for a period from about two weeks to about ten weeks; and wherein the use of the first dosage from about two weeks to ten weeks results in a lower final dosage.
+5. The use of any one of Claims 1 to 4 wherein the galantamine is for use at a first dosage of about 8 mg/day, a second dosage of about 16 mg/day, and a final dosage of about 24 mg/day; wherein said first dosage is for use for a period from about two weeks to about four weeks, said second dosage is for use for a period from about two weeks to about four weeks and said final dosage is for use thereafter.
+6. The use of Claim 5 wherein the first dosage is for use for about four weeks and said second dosage is for use for about four weeks.
+7. The use of any one of Claims 1 to 4 wherein the galantamine is for use at a first dosage of about 8 mg/day and a final dosage of about 16 mg/day; wherein the first said dosage is for use from about two weeks to about four weeks and said final dosage is for use thereafter.
+8. The use of Claim 7 wherein said first dosage is for use for about four weeks.
+Claim 3 has the following elements
+:
+1. the use of galantamine to treat Alzheimer's disease;
+2. in a first dosage of about 8 mg per day for about 2-10 weeks;
+3. followed by a final dosage of about 16-24 mg per day thereafter; and
+4. wherein the use of such a slow-dose regimen results in a lower final dosage.
+Claims 5 and 6 are dependant on claim 3. They both describe a dosing regimen starting with 8 mg per day of galantamine working up to 16 mg per day, and ending with 24 mg per day. The proposed titration schedule in these claims is somewhat variable with the administration of galantamine in each of the initial stages having a duration of two to four weeks. Claims 7 and 8 are also dependant on claim 3 and differ only to the extent that the final dose of 16 mg per day is achieved after the completion of the first titration stage having a duration of two to four weeks.
+[89]
+He reviewed the law and concluded at paragraph 26 of his Reasons that claims of a patent which cover an area for which a physician's skill or judgment is expected, is not patentable. He wrote:
+26 What I take from the above authorities is that a patent claim over a method of medical treatment that, by its nature, covers an area for which a physician's skill or judgment is expected to be exercised is not patentable in Canada. This would include the administration of a drug whereby the physician, while relying upon the dosage advice of the patentee, would still be expected to be alert and responsive to a patient's profile and to the patient's reaction to the compound.
+[90]
+He reviewed the evidence, which he summarized at paragraph 50 of his Reasons; and concluded at paragraph 52 that the claims covered a method of medical treatment. He wrote:
+50 What is clear from the evidence is that prudent physicians like Dr. Sadavoy who are attempting to manage the administration of drugs carrying side effects in the treatment of geriatric patients do so by considering a number of individualized factors. Contrary to the affidavit evidence put forward by Janssen's witnesses, this does not begin and end with the manufacturer's dosing advice. In this context, the titration regimen claimed by Janssen can only be seen as a recommendation to physicians. Effective patient management may require on-going individualized surveillance and concomitant dosing adjustments.
+. . .
+52 In conclusion, I have no doubt whatsoever that the '950 Patent relevant claims cover a method of medical treatment. By attempting to monopolize an effective titration regimen for galantamine, the '950 Patent interferes with the ability of physicians to exercise their judgment in the administration of generic versions of the drug. This is because, absent a license from Janssen, any physician attempting to administer a generic version of galantamine to treat Alzheimer's disease by the method claimed by the '950 Patent would infringe. Indeed, in theory, any physician who attempted to prescribe Reminyl to a patient without Janssen's permission in the manner claimed by the '950 Patent would also infringe.
+[91]
+What the jurisprudence establishes is that a claim to a vendible product, including a substance intended for the treatment of a medical condition, can be good subject matter for a patent claim. Thus, claims such as the following are proper subject matter:
+• the substance X for the treatment of Y
+• the substance X in the form of a 5 mg tablet for the treatment of Y
+[92]
+What is improper subject matter is a claim that encompasses the skill of a medical professional, such as:
+• the closure of a surgical incision by the use of adhesive X
+• the use of substance X in a dosage range between A and B for the treatment of X
+[93]
+Turning to the claims of the '201 patent at issue, every claim includes directions that the substance (zoledronic acid also called zoledronate) is to be used to treat a bone condition. Some claims do not specify any dosage; some claims specify a dosage range; other claims specify a specific dosage (5 mg). Every claim, however, also includes the following:
+• the substance will be used for intermittent administration
+• the period between the first and subsequent administrations is about one year
+[94]
+The '201 patent specifically states that the mode of administration and dosage "
+may be selected by the attending physician
+taking into account the particulars of the patient, especially age, weight, life style, activity level, hormonal status (e.g. postmenopausal) and bone mineral density
+as appropriate
+". (page 11, emphasis added)
+[95]
+Further at page 11, the '201 patent states that the "dose mentioned above is
+typically
+administered intermittently, with a period of
+at
+least 6 months
+between doses. The period between bisphosphonate administrations may be longer, e.g. conveniently once per year, once per 18 months, or once every 2 years, or even longer, or any period in between." (emphasis added)
+[96]
+Page 12 of the '201 patent describes dosages that depend on the potency of the bisphosphonates and that dosages may be administered in a divided manner, such as 4 mg one day, and a further 1 mg a few days later.
+[97]
+The only expert witness to address the issue of method of medical treatment in chief was Cobalt's witness, Dr. Baker. He summarized the discussion in some of the descriptive portions of the '201 patent at paragraphs 18, 19, 30 and 31 of his affidavit, as follows:
+18. Starting at the middle of page 10, the Patent states that the agents of the invention, i.e. bisphosphonates, can be administered alone or in combination with other bone active drugs. It goes on to describe various routes of administration and corresponding formulations. At page 11, the inventors state
+:
+The particular mode of administration and the dosages may be selected by the attending physician taking into account the particulars of the patient, especially age, weight, life style, activity level, hormonal status (e.g. post-menopausal) and bone mineral density as appropriate.
+The dosage of the Agents of the Invention may depend on various factors, such as effectiveness and duration of action of the active ingredient, e.g. including the relative potency of the bisphosphonate used, mode of administration, warm-blooded species, and/or sex, age, weight and individual condition of the warm-blooded animal.
+19. The reference to mode of administration and dosage refers to aspects of the dosage regimen to be given to the patient. The inventors are stating that these ultimately will be within the judgment of the physician treating the patient. The mode and dosage will vary from patient to patient and the physician must determine, based on his or skill and professional judgment, the appropriate dosage regiment to give.
+. . .
+30. Neither phrase is defined in the 201 Patent. Based on my reading of the entire 201 Patent, I understand "about one year" to mean a range of dosing intervals between once every 6 months to once every 12 months.
+31. My opinion is based on the multiple references in the 201 Patent to the invention including administration once every 6 months (see my earlier discussion). There is no information in the 201 Patent to suggest that the once every 6 month dosing interval is less favourable than once a year. To the contrary, the text of the 201 Patent makes repeated statements regarding the efficacy of the 6 month dosing frequency including when reporting the results of the clinical trial in Example 5. There is nothing in the 201 Patent to suggest a difference between a dosing interval of 6 months and 12 months nor any reason provided to select one over the other.
+[98]
+In argument, Novartis's Counsel says that the patent claims a vendible product; namely, a bottle containing 5 mg of zoledronic acid, the use of the bottle's contents is a once-a-year injection to treat osteoporosis.
+[99]
+It is precisely the last portion of that argument that is critical. If the patent claimed only zoledronic acid, or even 5 mg of zoledronic acid for the treatment of osteoporosis, the subject matter would be proper under Canadian law provided other criteria, such as novelty and non-obviousness, are met. However, because each claim of the '201 patent, directly or by incorporation by reference, includes as well treatment by intermittent dosages with some claims specifying a dosage range and others specifying specific dosages; and some claims claiming more frequent intervals of dosing, and others less; that the claims include that which lies within the skill of the medical practitioner and are thus invalid.
+[100]
+In Europe, legislation has been enacted to deal with methods of medical treatment.  <FRAGMENT_SUPPRESSED> , the English Court of Appeal dealt with that legislation, and whether the drafting of a claim in the form of a "Swiss" claim would save a claim from being a method of medical treatment even though the claim included a dosage regimen. After considerable agonizing, the English Court of Appeal refused to follow its earlier decision in
+ <FRAGMENT_SUPPRESSED> 
+(BMS),
+and instead, followed the later decision of the Legal Board of Appeal of the European Patent Office in
+Genentech/method of administration of IFG-1
+, [2006] EPOR9. I repeat part of the reasons of the Court of Appeal in <FRAGMENT_SUPPRESSED> , written by Lord Justice Jacob, for the Court:
+71. Accordingly we are not satisfied that BMS contains a clear ratio that a Swiss form claim lacks novelty if the only difference between it and the prior art is a new dosage regime for a known medical condition.
+72. As to method of treatment, Buxton LJ reasoned the same way as Aldous LJ:
+[93] In relation to the patent in suit, however, the manufacture claimed is not the use of the active ingredient, paclitaxel, in the manufacture of taxol; but the mixing in the hospital pharmacy of taxol and other ingredients to produce the medium that is injected into the patient. It is that latter process that is said to be susceptible of industrial application, under Article 52(1) of the EPC. I am afraid that I found that assertion to be, at best, artificial, and one that I do not think would have been made were it not for the need to demonstrate that the invention is not of a method of treatment. We were told that the mixing process could be, and in some cases was, sub-contracted outside the hospital; but that does not prevent it from being a long way away from anything that in normal parlance would be considered an industrial application; or, for that matter, as under the old English law, "manufacture". As my Lord has described, the mixing is of amounts and types of premedication, and of amounts of taxol, all determined by the doctor in relation to the specific patient. It is in reality not a self-standing operation, but subordinate and incidental to the doctor's treatment of the patient. True it is that, in treating the patient, the doctor will, or at least may, administer the drugs according to the guidance contained in the patent. But that merely underlines that what the patent teaches is not how to manufacture a drug for use in the treatment of the patient, which would be in form at least a Swiss form claim, but how to treat the patient: which is the teaching that the Swiss form claim is designed to avoid.
+73. There is a ratio here - that the claim concerned was essentially to a method of medical treatment. It is the same ratio as that of Aldous LJ. Holman J agreed. However it seems clear that the EPO would not accept it as correct. For it accepts that any Swiss form claim by its nature stops short at claiming a method of medical treatment - it does not monopolise the actual treatment of a patient.
+The Judge's conclusions
+74. The Judge held the claim lacked novelty and was for a method of treatment. In both cases he considered that BMS required him so to do. As to novelty for the reasons we have given we think he was wrong because there is no clear ratio of BMS on the point.
+75. As to the method of treatment point, the Judge dealt with it briefly. He accepted Mr Thorley's submission that the dosing regime was a matter of choice for the doctor and that as far as the prior art was concerned it would make no difference whether the patient was given five 1 mg tablets a day or one 5mg tablets per day. But that is not enough in our view to mean that the claim is in substance to a method of treatment. There is nowhere near the degree of involvement of medical personnel which turned the case in BMS. In its essence the claim here is to the use of finasteride for the preparation of a medicament of the specified dosages. It is not aimed at and does not touch the doctor - it is directed at the manufacturer. Putting it another way, even if BMS is right on this point, it cannot be extended to cover every case where novelty depends on a specified dosage regime. After all every prescription medicine must be prescribed - that does not mean they are all for methods of treatment.
+76. Accordingly we think the Judge was wrong on both aspects. We should record in fairness that he did not have the benefit of the sustained argument we have had before us on these points.
+. . .
+84. Since we are satisfied that there is no clear ratio of BMS governing this case, we are free therefore to hold, and do hold, that we should follow Genentech and, subject to the cross-appeal on obviousness, allow the appeal.
+[101]
+In the present case, this Court, unlike the English Courts, is not bound by a European Patent Office Court (EPO) decision. Further, in this case, both Novartis and Cobalt construed the claims of the '201 patent, including the "Swiss" claims, as being "use" claims. As the English Courts did in
+BMS
+, prior to the EPO decision, this Court should disregard the artificial nature of a Swiss claim and look at what is the real subject matter of the claim. Here the invention is, as previously discussed, the recognition that zoledronate can be administered infrequently, such as once yearly injections of 5 mg, and provide effective treatment for osteoporosis. It is in reality, however contrived the wording of the claim may be, a method of medical treatment; hence, under Canadian law, unpatentable.
+ISSUE#3: NOC LISTING
+[102]
+Cobalt asserts that the '201 patent did not qualify for listing under the
+NOC Regulations
+applicable at the time of listing. Those Regulations provided in subsection 4(2)(d) that a "first person" such as Novartis could list a patent if it contains:
+4(2)(d) a claim for the use of the medical ingredient, and the use has been approved through the issuance of a notice of compliance in respect of the submission.
+[103]
+The words "claim for the use of the medicinal ingredient" are defined in section 2 of the applicable
+NOC Regulations
+as follows:
+"claim for the use of the medicinal ingredient" means a claim for the use of the medicinal ingredient for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or its symptoms; (revendication de l'utilisation de l'ingrédient médicinal)
+[104]
+Cobalt argues that the '201 patent does not contain a
+"claim for the use of a
+medicinal ingredient"
+as so defined; thus, the patent should never have been listed; thus, this present proceeding respecting the '201 patent should be dismissed.
+[105]
+Novartis argues that the '201 patent does contain a
+"claim for the use of a medicinal ingredient
+" and, in any event, the
+NOC Regulations
+provide a specific mechanism for raising such an argument; namely, by a motion brought before the hearing; and for Cobalt simply to raise this argument for the first time in its Memorandum of Law filed a few weeks prior to the hearing of the matter, is improper.
+[106]
+As to the first point; namely, whether the '201 patent contains a
+"claim for the use of a medicinal ingredient',
+this turns on the construction of the claims. Cobalt's argument is directed to the "Swiss claims" 1 to 7. In the present case, the "use" claims 10 to 18 clearly fit squarely within the definition. Therefore, I do not find it necessary to consider further whether the "Swiss claims" would also fit.
+[107]
+As to the proper procedure for challenging the listing of a patent, it is clear that a person cannot challenge a listing in the absence of proceedings taken by the person listing the patent under the
+NOC Regulations
+. There is no "white knight" who can seek to "cleanse" the listing of a patent before they are in fact engaged in proceedings under the
+NOC Regulations
+. I repeat what I wrote in
+ <FRAGMENT_SUPPRESSED>  reversed on other grounds (2007 FCA 264) at paragraph 2:
+2 Section 6(1)(a) of the NOC Regulations as amended October 5, 2006 permits a second person such as ratiopharm to make a motion to this Court to dismiss the application in whole or in part in respect of those patents that are not eligible for inclusion on the register as listed in respect of certain NOCs issued to the first party Wyeth. This is not a ground which a second party can raise prior to the institution of Court proceedings in its notice of allegations to a first party (compare section 5(1)(b) of the NOC Regulations). A generic drug company that may, at some time, become a second party has no status to challenge the listing of a patent on the register in the absence of pending proceedings under the  <FRAGMENT_SUPPRESSED>  a challenge to the listing of a patent under the <FRAGMENT_SUPPRESSED> Regulations
+is usually raised by way of a separate motion made pursuant to paragraph 6(5)(a); however, where the trial judge disposed of the matter on the basis of submissions made during the hearing itself (2006 FC 1558), nothing turned on the fact that she found the patent ineligible for listing. Nöel JA, in his concurring reasons, wrote at paragraphs 44 to 46:
+44 Finally, I note that Henegan J. spoke on occasion of the '361 Patent (or parts thereof) not meeting "the eligibility requirements for inclusion in the Patent List" (see for instance, Reasons at para. 134). The eligibility of a Patent for inclusion on the Register is usually raised by way of a separate motion made pursuant to paragraph 6(5)(a) of the  <FRAGMENT_SUPPRESSED>  2004 FC 650 at paras. 59 to 64). It does not appear as though such a motion was made in this instance.
+45 However, nothing turns on this as Heneghan J.'s conclusion is properly stated at paragraph 133 of her reasons where she holds that claim 31 "is ineligible under the NOC Regulations".
+46 Having decided that Heneghan J. committed no error in reaching this conclusion, we need not consider Apotex' alternative contention that the '361 Patent is invalid based on obviousness and anticipation. Had it been necessary to consider this issue, a continuation of the one-day hearing which had been set for this appeal on an urgent basis would have been required. I note in this respect that the hearing before the Federal Court lasted six days, most of which were spent canvassing prior art and evidence as to anticipation and obviousness. Since this Court does not have the benefit of prior reasons on this point, it would have to consider the issue of validity as a matter of first instance.
+[109]
+In the present case, Cobalt argues that it could not have brought its motion earlier since it did not know what construction Novartis would place on the claims, and that Cobalt believed only the Swiss-type claims were at issue. I find no basis for Cobalt to believe that only the Swiss claims were at issue; however, if that were the case, I would allow the matter of listing to be raised at the hearing. In any event, the "use" claims 10 to 16 are at issue and do meet the criteria for listing.
+[110]
+I will, therefore, dismiss Cobalt's arguments on this issue.
+CONCLUSIONS AND COSTS
+[111]
+In conclusion, I have found that Cobalt's allegation as to obviousness is not justified, but that its allegation that the claims at issue are directed to a method of medical treatment is justified. In the result, the application is dismissed.
+[112]
+Cobalt is entitled to its costs of this application at the middle of Column IV. Costs of a senior and junior Counsel at the hearing of one day are awarded. Expert fees are awarded, provided that they are reasonable and do not exceed the fees of senior Counsel for like time involvement. Disbursements relating to travel for conducting or defending a cross-examination of a witness for one Counsel, but not otherwise, are awarded provided they are reasonable. I consider business-class travel to be reasonable.
+JUDGMENT
+[113]
+FOR THE REASONS PROVIDED
+:
+THIS COURT'S JUDGMENT is that
+:
+1. The Application is dismissed;
+2. The Respondent Cobalt is entitled to its costs as set out in the Reasons.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/vnh

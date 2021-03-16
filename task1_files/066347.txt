@@ -1,0 +1,231 @@
+..................................................
+[1]
+Southcott, J.
+: This is a judicial review of a decision of the Immigration Appeal Division of the Immigration and Refugee Board [the IAD] made October 23, 2014, in which the appeal of a Removal Order issued against the Applicant by the Immigration Division [the ID] was dismissed. The Applicant seeks to have his appeal re-determined by a different panel of the IAD
+[2]
+For the reasons that follow, this application is dismissed.
+I.
+Background
+[3]
+The relevant provisions of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [IRPA] and
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 [Regulations] are set out in Appendix "A" to these Reasons.
+[4]
+The Applicant is a citizen of Surinam and Guyana. On March 1, 2010, his spouse, Freya Damaris Vigilance, a Canadian citizen, sponsored his application for permanent residence. In that application, the Applicant failed to disclose his criminal history in the US and on July 5, 2011, he was issued a permanent resident visa.
+[5]
+On August 15, 2011, he appeared for landing at the port of entry at Pearson International Airport in Toronto. The port of entry officer did not land him because his fingerprints matched an FBI number showing a US drug conviction. After admitting his conviction, he was allowed to enter Canada but was not landed. He was reported and referred to an admissibility hearing before the ID.
+[6]
+On October 20, 2011, the Applicant made a refugee claim. He was issued a deportation order, following an admissibility hearing on October 25, 2011, for inadmissibility under section 36(1)(b) of the
+IRPA
+, having been convicted of an offence outside Canada that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years. On January 14, 2013, CBSA informed the Applicant that he is ineligible to claim refugee status because he was found inadmissible.
+[7]
+The Applicant subsequently appealed his removal order to the IAD under section 63(2) of the IRPA on the basis of humanitarian and compassionate [H&C] considerations. The IAD hearing took place on July 22, 2014 and, in his direct testimony, the Applicant indicated that he and his sponsor had separated. This raised questions surrounding the jurisdiction of IAD to consider the appeal. The IAD adjourned the hearing to seek written submissions on the jurisdictional issue and, following receipt of such submissions, issued its decision on October 23, 2014, concluding that it was without jurisdiction to consider the appeal.
+[8]
+The Applicant seeks judicial review of this decision.
+II.
+IAD Decision
+[9]
+The IAD noted that the Applicant was not challenging that the deportation order was valid in law. Nor was the issue before it whether the Applicant had a right of appeal under section 63(2) of the IRPA. Rather, the only issue was whether the IAD should exercise H&C discretion, after determining if it had jurisdiction given the effect of section 65 of the IRPA, which provides as follows:
+65.
+In an appeal under subsection 63(1) or (2) respecting an application based on membership in the family class, the Immigration Appeal Division may not consider humanitarian and compassionate considerations unless it has decided that the foreign national is a member of the family class and that their sponsor is a sponsor within the meaning of the regulations.
+[10]
+Following consideration of the facts, the IAD concluded based on the ordinary rules of statutory interpretation, and specifically the plain meaning rule, that section 65 makes it clear it cannot exercise H&C jurisdiction without first deciding that "the foreign national is a member of the family class".
+[11]
+The Applicant had argued that the IAD should consider his status as a member of the family class at the time he was issued the permanent resident visa. In considering this argument, the IAD reviewed authorities to the effect that a permanent resident application consists of a two stage process - the original application is made before the foreign national enters Canada, but the permanent residence status is obtained only once the foreign national has been examined at a port of entry in Canada where he or she must declare any important changes since the issuance of the visa (
+ <FRAGMENT_SUPPRESSED> ).
+[12]
+The Applicant also argued that, if the IAD were to consider his membership in the family class as of the time of the appeal hearing, he would be denied access to the IAD's equitable jurisdiction due to the passage of time from when the appeal was filed until it was heard. The IAD reviewed the relevant sequence of events and concluded that there was no evidence of undue or unreasonable delay by the IAD in scheduling the appeal hearing.
+[13]
+In interpreting the relevant legislative and regulatory provisions, the IAD noted that section 65 of the IRPA required it to decide that the Applicant "is" a member of the family class "within the meaning of the regulations". Similarly, section 117(1) of the Regulations uses the present tense in stating that a foreign national "is" a member of the family class if he is the sponsor's spouse, and section 4(1) of the Regulations uses the present tense in requiring that the marriage "is" genuine. The IAD found that section 65 of the IRPA required the foreign national to be a member of the family class in the present tense.
+[14]
+Having referred to
+ <FRAGMENT_SUPPRESSED>  [
+Fang
+], the IAD noted as well that the appeal before it was an appeal
+de novo
+and concluded that it was required to look at the Applicant's relationship with his sponsor at the time of the hearing. It ultimately held that the Applicant was not a member of the family class because the marriage was now not genuine, given that he and his sponsor were now separated.
+[15]
+The IAD also considered the Applicant's argument that it had jurisdiction under section 25 of IRPA to direct the port of entry to land him and to grant him permanent resident status. It held that being a member of the family class is an eligibility requirement of IRPA that the Applicant would have to meet in order to immigrate to Canada as a sponsored permanent resident, a requirement which cannot be overcome through the exercise of H&C jurisdiction. The visa post, the port of entry and the ID had to determine whether the Applicant met the requirements of the IRPA, and the IAD did not have jurisdiction to direct these authorities to ignore their own jurisdiction.
+[16]
+Section 65 of IRPA also required the IAD to decide that the Applicant's sponsor is a sponsor within the meaning of the Regulations, before it could exercise its H&C jurisdiction. Based on the evidence that the Applicant and his sponsor had separated, the IAD held that the Applicant had not established that the sponsorship was still in effect.
+[17]
+In conclusion, the Officer stated that, without making any specific findings, it would appear that based on the evidence and the record, the Applicant had positive and negative H&C considerations. These included two young children, one with special needs, and a history of employment in Canada through which he had provided for his children, but also having engaged in serious criminality and having an adverse immigration history in Canada.
+[18]
+Based on the totality of the evidence, the IAD held that the deportation order was valid because the Applicant did not meet his onus to establish that he is a member of his sponsor's family class and that the sponsor is a sponsor as per the Regulations
+,
+such that the IAD did not have jurisdiction to hear the appeal.
+III.
+Issues and Standard of Review
+[19]
+The Applicant submits that the substantive issues for consideration by the Court are:
+A. whether the IAD erred in its application of the legislation; and
+B. whether the date of the genuineness of the marriage should have crystalized at the time of the submission of the appeal.
+[20]
+The Applicant has not disputed that he is no longer a member of the family class. Therefore, I would characterize the Applicant's arguments, as canvassed below, to raise together the sole issue whether the IAD erred in its interpretation of the relevant legislation, by concluding that it must consider the Applicant's membership in the family class as of the time of the IAD hearing.
+[21]
+Both parties take the position that the IAD's interpretation of the legislation is reviewable on a standard of correctness, with the Respondent referring to this as a jurisdictional question. I note that there is authority that the application of section 65 of the IRPA raises jurisdictional conclusions reviewable on a standard of correctness (see
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> [
+Chen
+];
+Fang
+at para 23). However, I am also conscious of the authority to the effect that the interpretation by a tribunal of its home statute, even when raising jurisdictional issues, should be presumed to be a question of statutory interpretation subject to deference and reviewable on a standard of reasonableness (see Alberta (Information and  <FRAGMENT_SUPPRESSED> ). I note that I would reach the same conclusion in this matter regardless of the standard applied.
+IV.
+Submissions of the Parties
+A. Applicant's Position
+[22]
+The Applicant submits that the IAD erred in its application of sections 63(2) and 65 of IRPA. The Applicant relies on the case of
+ <FRAGMENT_SUPPRESSED>  required to decide whether it had jurisdiction to hear an appeal based on section 63(2) of the IRPA. The appellants were included on their mother's application for permanent residence. However, between the time of submission of the application and the issuance of the visas, the appellants had been married. The Applicant argues that the IAD applied a purposive assessment of the legislation and concluded that the appellants still had the right of appeal and consideration under section 65 of the IRPA, despite the fact that their appeals had been filed based on their membership in the family class and they had ceased being members of that class.
+[23]
+The Applicant further submits that the IAD did not apply the correct approach to statutory interpretation and failed to follow the modern principles requiring consideration of the legislation as a whole. The Applicant argues that taking such an approach mandates an interpretation such as was applied in <FRAGMENT_SUPPRESSED> , which recognizes that sections 63(1) and (2) afford appeal rights to different groups. The only meaningful interpretation of section 63(2) is that, given that the Applicant had such rights by virtue of being the holder of a visa, irrespective of his ceasing to be a member of the family class, he retained those rights and should have had full recourse to the IAD.
+[24]
+With respect to the time that the determination as to the genuineness of the marriage ought to have crystalized, the Applicant submits that it should be when the appeal to the IAD was filed. The Applicant notes that appeals can take years to be scheduled and argues, for instance, that the IAD's interpretation would force individuals in certain circumstances to remain in abusive relationships or would allow individuals to rekindle relationships just before an appeal.
+B. Respondent's Position
+[25]
+The Respondent submits that the IAD provided detailed and clear reasons as to why the Applicant's submissions failed to persuade it. The IAD noted that its hearing is
+de novo
+and held that, given the plain reading of the statute and its use of the present tense, the Applicant had to be a member of the family class at the time of the IAD hearing.
+[26]
+Further, the Respondent submits that the Applicant's interpretation of <FRAGMENT_SUPPRESSED> is incorrect and that this decision does not apply to family class sponsorships, noting that the appellants in that case specifically argued that they were not members of the family class and that the IAD held that for that reason section 65 was not applicable.
+[27]
+The Respondent argues that the IAD correctly found the Applicant's position be problematic, as accepting his arguments would mean that once an individual marries a Canadian citizen or permanent resident, entitlement to status in Canada would accrue despite the qualifying relationship not enduring prior to obtaining status.
+[28]
+In responding to the Applicant's policy arguments surrounding the appropriate time to assess the genuineness of the marriage, the Respondent noted that, in the case of an individual with an abusive spouse, there are other avenues available to provide relief, such as a section 25 H&C application. The Respondent argues that a permanent residence application is an ongoing process, and that for the IAD to exercise jurisdiction in the Applicant's favour, despite his separation from his sponsor, would not be consistent with the IRPA's objective of family reunification.
+V.
+Analysis
+[29]
+My conclusion is that the IAD was both reasonable and correct in its interpretation of section 65 of the IRPA, by finding that it must consider the Applicant's membership in the family class as of the time of the IAD hearing. As noted by the IAD, this issue must be resolved according to the modern principle of statutory interpretation: "the words of an Act are to be read in their entire context, in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act and the intention of Parliament" (R. Sullivan,
+Sullivan on the Construction of Statutes
+(5th ed. 2008), at p. 1, citing E.A. Driedger,
+Construction of Statutes
+(2nd ed. 1983), at p. 87).
+[30]
+The IAD referred to the operative language in section 65 as providing that it cannot exercise its jurisdiction without first deciding that "the foreign national is a member of the family class and that their sponsor is a sponsor within the meaning of the regulations". The IAD noted the use of the present tense verb "is", both in the statement in section 65 as to what it must decide and in the relevant regulatory sections 117(1) and 4(1), which prescribe when a foreign national is a member of the family class.
+[31]
+The Applicant argues that the IAD erred by failing to adopt a purposive interpretation of section 65, considering the legislation as a whole. While I do not disagree with this principle of statutory interpretation, I do not believe it assists the Applicant in the case at hand. The Applicant argues that the decision of the IAD in <FRAGMENT_SUPPRESSED> contains such an interpretation and supports its position. I disagree with the Applicant's interpretation of
+Geda.
+The Applicant argues that the IAD in <FRAGMENT_SUPPRESSED> held that the appellants still had the right of appeal and consideration under section 65 of IRPA, despite the fact that their appeals had been filed based on their membership in the family class and they had ceased being members of that class. However, while the IAD in that case did reject the argument of the Minister that the appellants were deprived by section 65 of the right to raise H&C considerations, it is clear that this decision turned on the fact that the appellants' applications for permanent residence were not based on sponsorship as members of the family class. Rather, their right to a visa stemmed from the fact that their mother had obtained status as a protected person. The IAD held that section 65 had no application, but this was because it applied only to family class sponsorships, not because the IAD was considering family class status of the appellants as of a time other than the time of the hearing.
+[32]
+The Applicant also argues that authorities such as
+Fang
+and
+Chen
+, which have considered section 65 in the context of the operation of section 117(9)(d) of the Regulations, support his position because they take into account decisions on family class membership based on events at the time a permanent residence application was submitted. In
+Fang
+, the applicant's daughter had not been examined when she immigrated to Canada, and therefore she was excluded from the family class pursuant to section 117(9)(d) of the Regulations, such that section 65 applied to limit her subsequent appeal to the IAD. Similarly, 117(9)(d) of the Regulations and therefore section 65 of IRPA applied to a family member in
+Chen
+, because her mother had failed to declare her on the permanent residence application. However, I consider these cases to be distinguishable, because of the nature of section 117(9)(d), which expressly operates to exclude foreign nationals from membership in the family class as a result of events occurring at the time of the application for permanent residence:
+(9) Excluded relationships - A foreign national shall not be considered a member of the family class by virtue of their relationship to a sponsor if
+...
+(d) Subject to subsection (10), the sponsor previously made an application for permanent residence and became a permanent resident and,
+at the time of that application
+, the foreign national was a non-accompanying family member of the sponsor and was not examined. [my emphasis]
+[33]
+These decisions are not inconsistent with the IAD's interpretation of section 65 as requiring that it consider the question of the foreign national's membership in the family class as of the time of the appeal hearing. Section 117(9)(d) of the Regulations will operate to exclude such membership, based on which family members were included and examined at the time of the permanent residence application process, regardless of when that question is considered.
+[34]
+If affording deference to the IAD's interpretation of its home statute, I would conclude based on the above analysis that the IAD's interpretation is a reasonable one that is within the range of acceptable outcomes. However, conscious of the authorities cited above to the effect that the standard for review applicable to this interpretation is one of correctness, I would in the alternative also regard this as the correct interpretation.
+[35]
+In considering the correctness of the IAD's conclusion, I note that, while this particular point was not expressly made by the IAD, the use in section 65 of the language "unless it has decided", referencing the IAD, favours the interpretation that the IAD adopted. It is clear that the decision, whether the foreign national is member of the family class and their sponsor is a sponsor within the meaning of the regulations, is a decision to be made by the IAD. This wording does not contemplate the IAD reviewing a previous decision of an immigration officer but rather making its own decision. This is consistent with the legislative intent being that the IAD will make this decision based on the information currently available to it at the time the decision is made.
+[36]
+I am conscious of the policy arguments advanced by the Applicant, to the effect that the IAD's interpretation of section 65 could drive certain undesirable behaviours, as appellants remain in relationships, or rekindle them, in an effort to preserve their right to seek H&C consideration on appeal. However, I also note the Respondent's position on the policy considerations, that it would be less desirable that a foreign national be afforded a guaranteed status notwithstanding a change in circumstances impacting eligibility for that status prior to an IAD appeal hearing. I am not persuaded by the policy arguments to depart from the conclusion that the legislative intent in this particular case can be found in the plain reading of the language of section 65 as described above.
+[37]
+It is accordingly my decision that the IAD both reasonably and correctly interpreted section 65 of the IRPA, thereby concluding that it did not have jurisdiction to consider the H&C considerations that the Applicant wished to raise in his appeal. This application for judicial review is therefore dismissed.
+VI.
+Certified Question for Appeal
+[38]
+The Applicant proposes certification of the following question:
+In an appeal pursuant to s. 63(2) of the
+Immigration and Refugee Protection Act
+, in relation to what period in time should an assessment of membership in the family class under s. 65 be conducted by the Immigration Appeal Division?
+[39]
+The Applicant submits that this question meets the tripartite test for certification, in that it transcends the interests of the immediate parties, it contemplates issues of broad significance or general application, and it is determinative of the appeal. He argues that, if the interpretation of section 65 for which he advocates were adopted, this would dispose of the appeal, as the IAD would then have jurisdiction to consider his H&C submissions. He also argues that it would be beneficial to the IAD, and presumably to other potential appellants, to have clear direction from the Federal Court of Appeal as to how to interpret section 65 in considering whether an appellant, who no longer meets the criteria by which he or she had originally been granted an immigrant visa, can invoke a right of appeal to the IAD based on H&C considerations.
+[40]
+In response, the Respondent does not take issue with the Applicant's articulation of the proposed certified question but argues that the test for certification is not met, because section 65 of IRPA is unambiguous and is a complete answer to the proposed question.
+[41]
+With respect, I cannot conclude that section 65 is so unambiguous as to make the Applicant's proposed question frivolous. If the Applicant were to succeed in advocating for his interpretation of section 65, this would be dispositive of an appeal on the question of the IAD's jurisdiction to consider his H&C submissions. Further, this question does transcend the interests of the parties to this matter, as the answer would apply to other appellants before the IAD whose membership in the family class changed prior to the hearing of their appeal. As such, it is as question of general application that I consider to be appropriate to certify for appeal.
+JUDGMENT
+[42]
+THIS COURT'S JUDGMENT is that
+this application is dismissed. The following question is certified as a serious question of general importance:
+In an appeal pursuant to s. 63(2) of the
+Immigration and Refugee Protection Act
+, in relation to what period in time should an assessment of membership in the family class under s. 65 be conducted by the Immigration Appeal Division?
+APPENDIX "A"
+Relevant Legislation
+Immigration and Refugee Protection Act
+, SC 2001, c 27
+11.
+(1) A foreign national must, before entering Canada, apply to an officer for a visa or for any other document required by the regulations. The visa or document may be issued if, following an examination, the officer is satisfied that the foreign national is not inadmissible and meets the requirements of this Act.
+12.
+(1) A foreign national may be selected as a member of the family class on the basis of their relationship as the spouse, common-law partner, child, parent or other prescribed family member of a Canadian citizen or permanent resident.
+20.
+(1) Every foreign national, other than a foreign national referred to in section 19, who seeks to enter or remain in Canada must establish,
+(a) to become a permanent resident, that they hold the visa or other document required under the regulations and have come to Canada in order to establish permanent residence; and
+(b) to become a temporary resident, that they hold the visa or other document required under the regulations and will leave Canada by the end of the period authorized for their stay.
+23.
+An officer may authorize a person to enter Canada for the purpose of further examination or an admissibility hearing under this Part.
+25.
+(1) Subject to subsection (1.2), the Minister must, on request of a foreign national in Canada who applies for permanent resident status and who is inadmissible - other than under section 34, 35 or 37 - or who does not meet the requirements of this Act, and may, on request of a foreign national outside Canada - other than a foreign national who is inadmissible under section 34, 35 or 37 - who applies for a permanent resident visa, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+62.
+The Immigration Appeal Division is the competent Division of the Board with respect to appeals under this Division.
+63.
+(1) A person who has filed in the prescribed manner an application to sponsor a foreign national as a member of the family class may appeal to the Immigration Appeal Division against a decision not to issue the foreign national a permanent resident visa. (2) A foreign national who holds a permanent resident visa may appeal to the Immigration Appeal Division against a decision to make a removal order against them made under sub-subsection 44(2) or made at an admissibility hearing.
+65.
+In an appeal under subsection 63(1) or (2) respecting an application based on membership in the family class, the Immigration Appeal Division may not consider humanitarian and compassionate considerations unless it has decided that the foreign national is a member of the family class and that their sponsor is a sponsor within the meaning of the regulations.
+Loi sur l'immigration et la protection des réfugiés (L.C. 2001, ch. 27)
+11.
+(1) L'étranger doit, préalablement à son entrée au Canada, demander à l'agent les visa et autres documents requis par règlement. L'agent peut les délivrer sur preuve, à la suite d'un contrôle, que l'étranger n'est pas interdit de territoire et se conforme à la présente loi.
+12.
+(1) La sélection des étrangers de la catégorie
+« regroupement familial » se fait en fonction de la relation qu'ils ont avec un citoyen canadien ou un résident permanent, à titre d'époux, de conjoint de fait, d'enfant ou de père ou mère ou à titre d'autre membre de la famille prévu par règlement.
+20.
+(1) L'étranger non visé à l'article 19 qui cherche à entrer au Canada ou à y séjourner est tenu de prouver:
+a) pour devenir un résident permanent, qu'il détient les visa ou autres documents réglementaires et vient s'y établir en permanence;
+b) pour devenir un résident temporaire, qu'il détient les visa ou autres documents requis par règlement et aura quitté le Canada à la fin de la période de séjour autorisée;
+23.
+L'entrée peut aussi être autorisée en vue du contrôle complémentaire ou de l'enquête prévus par la présente partie.
+25.
+(1) Sous réserve du paragraphe (1.2), le ministre doit, sur demande d'un étranger se trouvant au Canada qui demande le statut de résident permanent et qui soit est interdit de territoire - sauf si c'est en raison d'un cas visé aux articles 34, 35 ou 37 -, soit ne se conforme pas à la présente loi, et peut, sur demande d'un étranger se trouvant hors du Canada - sauf s'il est interdit de territoire au titre des articles 34, 35 ou 37 - qui demande un visa de résident permanent, étudier le cas de cet étranger; il peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s'il estime que des considérations d'ordre humanitaire relatives à l'étranger le justifient, compte tenu de l'intérêt supérieur de l'enfant directement touché.
+62.
+La Section d'appel de l'immigration est la section de la Commission qui connaît de l'appel visé à la présente section.
+63.
+(1) Quiconque a déposé, conformément au règlement, une demande de parrainage au titre du regroupement familial peut interjeter appel du refus de délivrer le visa de résident permanent. (2) Le titulaire d'un visa de résident permanent peut interjeter appel de la mesure de renvoi prise en vertu du paragraphe 44(2) ou prise à l'enquête.
+65.
+Dans le cas de l'appel visé aux paragraphes 63(1) ou (2) d'une décision portant sur une demande au titre du regroupement familial, les motifs d'ordre humanitaire ne peuvent être pris en considération que s'il a été statué que l'étranger fait bien partie de cette catégorie et que le répondant a bien la qualité réglementaire.
+Immigration and Refugee Protection Regulations
+, SOR/2002-227
+4.
+(1) For the purposes of these Regulations, a foreign national shall not be considered a spouse, a common-law partner or a conjugal partner of a person if the marriage, common-law partnership or conjugal partnership
+(a) was entered into primarily for the purpose of acquiring any status or privilege under the Act; or
+(b) is not genuine.
+37.
+The examination of a person who seeks to enter Canada, or who makes an application to transit through Canada, ends only when
+(a) a determination is made that the person has a right to enter Canada, or is authorized to enter Canada as a temporary resident or permanent resident, the person is authorized to leave the port of entry at which the examination takes place and the person leaves the port of entry;
+(b) if the person is an in-transit passenger, the person departs from Canada;
+(c) the person is authorized to withdraw their application to enter Canada and an officer verifies their departure from Canada; or
+(d) a decision in respect of the person is made under subsection 44(2) of the Act and the person leaves the port of entry.
+117.
+(1) A foreign national is a member of the family class if, with respect to a sponsor, the foreign national is
+(a) the sponsor's spouse, common-law partner or conjugal partner;
+...
+(9) A foreign national shall not be considered a member of the family class by virtue of their relationship to a sponsor if
+(d) subject to subsection (10), the sponsor previously made an application for permanent residence and became a permanent resident and, at the time of that application, the foreign national was a non-accompanying family member of the sponsor and was not examined.
+Règlement sur l'immigration et la protection des réfugiés (DORS/2002-227)
+4.
+(1) Pour l'application du présent règlement, l'étranger n'est pas considéré comme étant l'époux, le conjoint de fait ou le partenaire conjugal d'une personne si le mariage ou la relation des conjoints de fait ou des partenaires conjugaux, selon le cas:
+a) visait principalement l'acquisition d'un statut ou d'un privilège sous le régime de la Loi;
+b) n'est pas authentique
+37.
+Le contrôle de la personne qui cherche à entrer au Canada ou qui fait une demande de transit ne prend fin que lorsqu'un des événements suivants survient:
+a) une décision est rendue selon laquelle la personne a le droit d'entrer au Canada ou est autorisée à entrer au Canada à titre de résident temporaire ou de résident permanent, la personne est autorisée à quitter le point d'entrée et quitte effectivement le point d'entrée;
+b) le passager en transit quitte le Canada;
+c) la personne est autorisée à retirer sa demande d'entrée au Canada et l'agent constate son départ du Canada;
+d) une décision est rendue en vertu du paragraphe 44(2) de la Loi à l'égard de cette personne et celle-ci quitte le point d'entrée.
+117.
+(1) Appartiennent à la catégorie du regroupement familial du fait de la relation qu'ils ont avec le répondant les étrangers suivants:
+a) son époux, conjoint de fait ou partenaire conjugal;
+...
+(9) Ne sont pas considérées comme appartenant à la catégorie du regroupement familial du fait de leur relation avec le répondant les personnes suivantes:
+d) sous réserve du paragraphe (10), dans le cas où le répondant est devenu résident permanent à la suite d'une demande à cet effet, l'étranger qui, à l'époque où cette demande a été faite, était un membre de la famille du répondant n'accompagnant pas ce dernier et n'a pas fait l'objet d'un contrôle.
+[End of document]

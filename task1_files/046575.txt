@@ -1,0 +1,195 @@
+[1]
+Richard, J.
+: By originating notices of motion dated June 15 and August 12, 1993, the applicant, Zeneca Pharma Inc. ("Zeneca") applied to this court for an order prohibiting the Minister of National Health and Welfare (the "Minister") from issuing a Notice of Compliance ("NOC") to Apotex Inc. ( <FRAGMENT_SUPPRESSED> ) in respect of the medicine lisinopril, until after the expiration of Canadian Letters Patent 1,275,350 ("'350 patent") and 1,288,351 ("'351 patent"). Both applications were made pursuant to s. 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (12 March 1993) (the "
+Regulations
+"). These applications were heard together, but were not consolidated. The parties are identical and the principal issue is common to both. As such, a single set of reasons will be issued with separate orders for each application. The applicant, Zeneca, is the licensee of the patentee, Merck, who was named as a respondent in these proceedings. The respondent, Apotex, is a generic manufacturer. The other respondent is the Minister, who took no part in these proceedings.
+[2]
+The parties have agreed that there is no issue before me as to the vires of the
+Regulations
+and their applicability to these proceedings. The applicant has accepted that it has the overall burden of proof in each of these applications, but asserts that there is an evidential burden on the respondent, particularly with respect to its reliance on s. 56 of the
+Patent Act
+, R.S.C. 1985, c. P-4.
+[3]
+There are two applications before me because the respondent filed two notices of allegation with the Minister and the applicant has commenced an application for prohibition with respect to each. The applicant claims that the respondent was not entitled to file a second notice of allegation and that, therefore, it is a nullity.
+Facts
+[4]
+It would be useful at this juncture to review the relevant facts giving rise to these proceedings. There was no dispute about these facts. Both Zeneca and Apotex filed affidavit material but neither party crossexamined the other. Much of the detailed material is subject to a confidentiality order.
+[5]
+Merck is the owner of the '350 patent, issued on October 16, 1990, and the '351 patent, issued on September 3, 1991. Both patents relate to lisinopril, a chemical compound useful in the treatment of certain medical conditions and disorders. Zeneca sells lisinopril in Canada under the trade mark ZESTRIL, with the consent of Merck.
+[6]
+The '350 patent contains six claims, including claims for the medicine itself as well as a claim for the use of a medicine. Claim 1 of this patent is directed to a group of chemical compounds, which include lisinopril. Claim 2 is specifically directed at the compound lisinopril. Claim 3 is for a pharmaceutically acceptable acid addition salt preparation of lisinopril and claim 4 is for the hydrochloride salt preparation of lisinopril. Claims 5 and 6 are for a pharmaceutical composition for reducing hypertension containing lisinopril together with a pharmaceutically acceptable carrier. The '350 patent expires on October 16, 2007.
+[7]
+The '351 patent contains five claims, including claims for the use of the medicine. Claims 1, 2 and 4 are directed to the use of lisinopril for the treatment of congestive heart failure in mammalians. The '351 patent expires on September 3, 2008.
+[8]
+Prior to April 22, 1993, Zeneca's name was ICI Pharma Canada Inc. ("ICI"). ICI filed a patent list dated March 26, 1993, pursuant to s. 4 of the
+Regulations
+in respect of lisinopril, and in particular 5, 10, 20, and 40 mg lisinopril tablets. The patent list refers to both the '350 and '351 patents.
+[9]
+By letter dated April 29, 1993, Apotex forwarded to ICI a Notice of Allegation in respect of 5, 10, 20, and 40 mg tablets of lisinopril, pursuant to s. 5(3)(b) of the
+Regulations
+, which provides as follows:
+"With respect to patents 127530 and 1288351, we allege that no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling of lisinopril tablets by us.
+"The legal and factual basis for the aforesaid allegation is as follows:
+"
+Patent 127350
+"Apotex has inventory of lisinopril acquired before the issuance of patent 1275350, and Apotex Inc. intends, upon issuance of its Notice of Compliance, to sell tablets made from this inventory. The Patent Act provides that the use of such inventory does not constitute infringement.
+"
+Patent 1288351
+"This patent has claims for use of lisinopril for the purpose of prolonging the survival of mammalians with congestion [sic] heart failure. Apotex Inc. will not make, construct, use or sell lisinopril tablets for that purpose." [See footnote 1]
+This letter alleges, with respect to both the '350 and '351 patents, that no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using, or selling of lisinopril tablets by Apotex. The sole basis for the allegation made with respect to the '350 patent is that Apotex has an inventory of bulk lisinopril acquired before the issuance of the '350 patent and that Apotex intends, upon issuance of its NOC, to sell tablets made from this inventory. The sole basis for the allegation made with respect to the '351 patent is that Apotex will not make, construct, use, or sell Lisinopril tablets for the purpose of prolonging the survival of mammalians with congestive heart failure.
+[10]
+A proceeding was commenced, in file no. T-1454-93, by the filing of an originating notice of motion by Zeneca, dated June 15, 1993, in respect of the letter of April 29, 1993. Subsequently, Apotex forwarded to ICI a letter dated June 24, 1993, purporting to be a further notice of allegation in respect of 5, 10, 20, and 40 mg lisinopril tablets, which provides as follows:
+"In addition to the legal and factual basis for the aforesaid allegation as set out in our letter of April 29, 1993, we assert the following additional basis:
+"
+Patent 1288351
+"Apotex has inventory of lisinopril acquired before the issuance of patent 1288351, and Apotex Inc. intends, upon issuance of its Notice of Compliance, to sell tablets made from this inventory. The Patent Act provides that use of such inventory does not constitute infringement." [See footnote 2]
+This letter alleges, in addition to the allegations contained in the first letter, one additional ground supporting the allegation of noninfringement: that Apotex has inventory of lisinopril acquired before the issuance of the '351 patent and that Apotex intends, upon issuance of the NOC, to sell tablets made from this inventory. A further proceeding was commenced, file no. T-1968-93, by the filing of another originating notice of motion by Zeneca on August 12, 1993, in respect of the second letter.
+Analysis
+[11]
+ <FRAGMENT_SUPPRESSED>  (T.D.), I analyzed the regulatory framework which governs applications of this kind and I also reviewed the burden of proof on the parties to the proceeding. I do not intend to repeat these here save to emphasize the following:
+1) this is a summary application for judicial review and not an action for infringement;
+2) the stated purpose of the enabling statutory provision is to prevent infringement; and
+3) this court must decide on the basis of all of the evidence, assumed or proven, adduced in this summary application.
+[12]
+Apart from the applicant's claim that the second notice of allegation is a nullity, these applications raise two principal issues:
+1) with respect to both the '350 and the '351 patents, whether s. 56 of the
+Patent Act
+supports the respondent's allegations of noninfringement (the s. 56 issue); and
+2) with respect to the '351 patent only, whether the respondent's claim in the first notice of allegation that it will not sell the composition for use for congestive heart failure supports its allegation of noninfringement (the "for use" issue).
+With respect to both patents, counsel for Apotex admitted that there would be infringement absent the protection of s. 56 of the
+Patent Act
+and additionally, with respect to the '351 patent, if the "for use" argument was rejected.
+[13]
+It is significant that, in its application for the NOC, Apotex did not limit its claim to the lisinopril acquired in bulk form prior to the issuance of the '350 and '351 patents and that it acknowledged that the uses for which it has sought government approval are for the treatment of hypertension, renovascular hypertension, and congestive heart failure.
+Section 56 Issue
+[14]
+Section 56(1) of the
+Patent Act
+reads as follows:
+"(1) Every person who, before the earlier of the date of filing of an application for a patent and the priority date of the application, if any, has purchased, constructed or acquired the invention for which a patent is afterward obtained under this Act, has the right to use and sell to others the specific article, machine, manufacture or composition of matter patented and so purchased, constructed or acquired without being liable to the patentee or the legal representatives of the patentee for so doing."
+As recently as April 1995, the Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (hereinafter
+ <FRAGMENT_SUPPRESSED>  of the protection offered by s. 56 is limited in two important respects:
+1) the protection is limited to the quantity acquired before the issuance of the patent; and
+2) the protection is limited to the scope of the invention disclosed in the patent.
+[16]
+With respect to both patents, I am prepared to find that Apotex has met the evidential burden required of it under s. 56 which requires evidence that the composition of matter be acquired before the issuance of the patent [
+ <FRAGMENT_SUPPRESSED>  clearly established the date and quantity of the compound lisinopril acquired by it with supporting invoices [see footnote 3]. There is no claim that this was done in a wrongful manner.
+[17]
+The second question to be determined in order for s. 56 to apply relates to whether the respondent acquired the scope of the invention before the issuance of the patent.  <FRAGMENT_SUPPRESSED>  interpretation of the scope of the invention protected as follows [p. 386]:
+"In my view, the appellant was in error in contending that the invention was simply chemical molecules of enalapril. Chemically speaking, that was so. But the specification of the patent, properly constructed, asserts more than that. In this respect, the Trial Judge was entirely right when he wrote (Appeal Book I at 27):
+'[T]he patent ... claims more than a molecule with a chemical formula. Rather, the claims describe several or many compounds, and several compositions, and specific uses for them, all aspects of the same invention. Enalapril may be the essence of each claim, but the claims, and the patent for the invention, are more than the chemical molecule of enalapril or of enalapril maleate.'
+"
+Inherent in the compound, and indeed in the patent, is the purpose and utility of the compound of enalapril
+." (emphasis mine)
+In that case, on the "whole invention" principle, the acquisition of bulk enalapril prior to the grant of the patent allowed Apotex to compound the bulk enalapril into tablets and sell the tablets for the only use which was described in the patent.
+[18]
+For the purpose of these proceedings, I am satisfied on the basis of the evidence before me that the respondent acquired the scope of the invention disclosed in the '350 patent in a limited quantity before the issuance of that patent. This limited quantity was disclosed in the material subject to the confidentiality order (which counsel for the respondent continued to rely on at the hearing before me). However, both counsel agreed that the quantity was sufficient to supply the respondent for less than half of the remaining period of the '350 patent.
+[19]
+However, with respect to the '351 patent, I am not satisfied that Apotex acquired the scope of the invention described therein prior to the grant of the '351 patent. In order to avail itself of s. 56, Apotex must show that it "acquired" the "invention" or novel subject matter of the '351 patent. The invention of the '351 patent is described therein as follows:
+"The use of an angiotensin converting enzyme inhibitor selected from the group consisting of ... lisinopril, for the purpose of prolonging survival of mammalians with congestive heart failure." [See footnote 4]
+The invention of the '351 patent is not lisinopril, in bulk or tablet form. Lisinopril in bulk and tablet form is the invention in the '350 patent and hence known prior art in relation to the '351 patent. The invention or novel subject matter of the '350 patent is separate and distinct from the invention or novel subject matter in the '351 patent. As the '351 patent must be presumed to be valid, and indeed its validity has not been questioned by Apotex, there is invention in the new and not obvious use of lisinopril claimed in the patent. Thus, only if Apotex used lisinopril for the purpose of prolonging survival of mammalians with congestive heart failure, could Apotex be said to have acquired the invention or novel subject matter of the '351 patent.
+[20]
+In both <FRAGMENT_SUPPRESSED> [see footnote 5] and <FRAGMENT_SUPPRESSED> , there was only one patent at issue. One aspect of the invention in each case was the specific thing (i.e. the actual apparatus or the bulk enalapril) acquired before the grant of the patent. Further, in <FRAGMENT_SUPPRESSED> , Thurlow, J., granted immunity with respect to the process claims because the defendant had practiced the process prior to grant. In the case at bar, there are two separate and distinct inventions. As s. 56 applies only to an invention which is acquired prior to grant, each invention must be examined separately. Considering the '350 patent, one aspect thereof relates to bulk lisinopril, and another aspect to lisinopril compounded into tablets. The only intended use of the lisinopril in the '350 patent is for treating hypertension. Considering the '351 patent, lisinopril per se is not an inherent aspect of the invention. At the date of issuance of the '351 patent, lisinopril was known subject matter. The invention of the '351 patent lies solely in the new and not obvious use claimed. To acquire the invention of the '351 patent is to use lisinopril for the novel use, namely, for the purpose of prolonging survival of mammalians with congestive heart failure. There was no evidence before me indicating that Apotex did so prior to the grant of the '351 patent.
+[21]
+Indeed, Apotex's position with respect to this issue would also contradict the essence of s. 32 of the
+Patent Act
+. The invention in the '351 patent is an improvement on the patented invention in the '350 patent. By virtue of s. 32, the patent for the original invention (the '350 patent) does not confer the right of making, vending or using the patented improvement (the '351 patent). As a result, even if Apotex had a licence under the '350 patent, it would likely be an infringement of the '351 patent to sell lisinopril for the purpose of prolonging the survival of mammalians with congestive heart failure.
+[22]
+In summary, I am satisfied that Apotex has met both of the necessary pre-conditions for s. 56 to apply with respect to the '350 patent, but it has failed to discharge its evidential burden with respect to acquiring the scope of the invention in the '351 patent prior to its issuance.
+[23]
+The next question to consider is the nature of the protection or immunity provided by s. 56 and whether this protection justifies Apotex's allegation of noninfringement. It is clear that s. 56 provides an immunity from liability for what would otherwise be an infringing activity. It is also clear that s. 56 was designed to be invoked as a defence in an action for declaration of infringement where damages or an accounting are claimed by the patentee. In my view, it was clearly not designed with the
+Regulations
+in mind.
+[24]
+The immunity which is provided in s. 56 is for an act which would have infringed the patent and entitled the patentee to damages and other remedies. Merely because Parliament has legislated that the person will not be liable for such act does not make it any the less an infringing act, no more so than a statute of limitations which bars an action converts the wrongful act to one that is not. The result in both cases is that the person aggrieved cannot recover. What s. 56 accomplishes is to deny the patentee compensation for the infringement of his exclusive right of making, constructing, using and vending to others to be used the invention covered by the patent. Upon the issuance of the patent, the articles acquired before the grant may be used or disposed of, but s. 56 does not accord any right to continue to manufacture or sell articles not acquired before the grant.
+[25]
+Counsel for Apotex argued before me that a finding that the limited quantity acquired by it prior to the issuance of the patent is noninfringing justifies its allegation of noninfringement. This argument assumes that once s. 56 is applied, it amounts to a declaration of noninfringement, rather than an immunity from liability. I do not accept that proposition. As noted by Thurlow, J., in <FRAGMENT_SUPPRESSED> [see footnote 6] and repeated by MacGuigan, J.A., in
+ <FRAGMENT_SUPPRESSED>  law of the Province of Canada, and it represents a statutory formulation of the common law right of a bona fide purchaser in good faith. The purpose of both the prior common law remedy and the statutory provision is the protection of a prior purchaser. In the editorial note to the Supreme Court of Canada's decision in <FRAGMENT_SUPPRESSED> , the commentator notes that the extent of the immunity from suit provided in s. 56 had not been defined. [See footnote 7] However, it is clear from the language of both decisions in <FRAGMENT_SUPPRESSED> and the Court of Appeal's decision in
+ <FRAGMENT_SUPPRESSED>  infringement. That does not require a finding of noninfringement.
+[26]
+Further support for the proposition that s. 56 does not provide support for an allegation of noninfringement may be found in the actual wording and structure of the
+Patent Act
+. The
+Act
+does not define infringement, but any act that interferes with the full enjoyment of the monopoly granted to the patentee is an infringement if done without his consent. [See footnote 8] In
+Canadian Patent Law and Practice
+, infringement is defined as follows: [See footnote 9]
+"In general, infringement is committed where any person without licence from the patentee, either directly or indirectly makes, uses, or puts into practice the invention, or any part of it that is embraced by the claims. It consists in the making, using or vending to others to be used the subject matter claimed in the patent. It means doing one of the things which, by the terms of the grant, a person is not entitled to do."
+However, the
+Act
+does provide a clear indication in ss. 55.2(1) and (2) of what is not an infringement: uses related to the development and submission of information and information and the manufacture and storage of articles for sale after the expiration of the patent. [See footnote 10] Had the legislature intended that the scope of the immunity provided in s. 56 would amount to noninfringement of a patent, it would also have clearly indicated this intention. The section clearly states that the person "has the right to use and sell to others ...
+without being liable
+to the patentee or the legal representatives of the patentee for so doing" (emphasis mine). It does not state that such a use amounts to noninfringement. Further, the
+Regulations
+have been enacted pursuant to the authority granted in s. 55.2. In my view, in an application for prohibition pursuant to the
+Regulations
+, just as the applicant may not rely upon the presumption of infringement in 55.1 [see footnote 11] the respondent may not rely upon the immunity from liability for infringement in s. 56.
+[27]
+The process provided for in the
+Regulations
+is a summary one which does not involve issues such as liability for infringement. The only remedy provided for is prohibition. In these proceedings, I am called upon to make a decision as to whether the respondent's allegation of noninfringement is justified, not whether Apotex may be liable for an infringing use. Even if the compound acquired by Apotex comes within the meaning of s. 56 of the
+Act
+, which for the purpose of this proceeding I have found with respect to the '350 patent only, s. 56 does not support an allegation of noninfringement under s. 5 of the
+Regulations
+. Section 56 only provides immunity from liability in an action for a declaration of infringement to the limited extent it is available. The limited quantity protected by s. 56 cannot provide justification for an allegation of noninfringement for the entire life of the patent.
+[28]
+The
+Regulations
+clearly contemplate that an NOC is granted for the life of a patent. In this instance, Apotex has not applied for an NOC that is limited to the quantity protected by s. 56. Apotex has not offered any undertaking to make an accounting and to surrender the NOC once the limited quantity protected by s. 56 is exhausted. Nor could either counsel suggest a manner in which such undertakings could be monitored or enforced in the context of a judicial review application for prohibition. Counsel for Apotex suggested that the patentee could commence an action for infringement. It is also clear that Apotex could have commenced an action for a declaration of noninfringement. No such actions have been brought.
+"For Use" Issue
+[29]
+At issue here is a determination of whether Apotex's claim in the first notice of allegation with respect to the '351 patent that it will not make, construct, use, or sell lisinopril tablets for purpose of treating congestive heart failure justifies its allegation of noninfringement. The '351 patent claims, inter alia, in claim 1
+"The use of an angiotensin converting enzyme inhibitor selected from the group consisting of ... lisinopril, for the purpose of prolonging survival of mammalians with congestive heart failure." [See footnote 12]
+Thus, the invention or novel subject matter claimed is the prolonged survival of mammalians with congestive heart failure using the known compound lisinopril.
+[30]
+The '350 patent claims, inter alia, protection of pharmaceutical compositions including lisinopril for reducing hypertension. The invention or novel subject matter claimed is the compound lisinopril and pharmaceutical compositions including lisinopril for reducing hypertension. The only utility of the invention in the '350 patent is stated to be its use in treating hypertension. The disclosure portion of the '350 patent states:
+"Thus, the compounds of this invention are useful as antihypertensives in treating hypertensive mammals, including humans ..." [See footnote 13]
+Apotex acquired bulk lisinopril prior to the issuance of the '350 patent, which it intends to formulate into tablets. As discussed above, Apotex acquired the invention which is the subject of the '350 patent. Following the decision of the Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  liability for infringement of the '350 patent. In view of the "whole invention" approach, the tablets can be sold for the purpose of reducing hypertension. However, this is not so with respect to the '351 patent which is limited to claims for the use of the compound.
+[31]
+Counsel for Apotex requested that I make a finding on the "for use" argument relating to the '351 patent, even if I rejected the s. 56 claim, because the '351 patent expires one year later than the '350 patent. If I accepted the "for use" argument counsel urged me to issue a prohibition only in respect of the '350 patent which, as I understand his reasoning, would allow his client to obtain an NOC under the '351 patent, after the expiry of the '350 patent.
+[32]
+Apotex claims that it does not propose to use lisinopril tablets or direct others in their use. Rather, Apotex proposes simply to sell lisinopril tablets to pharmacies. According to Apotex, it is the prescribing physician and the patient, not Apotex itself, that determine the use to which lisinopril tablets will be put. Given that the Apotex lisinopril tablets may be prescribed for the treatment of maladies other than those claimed in the '351 patent, the use of these tablets cannot be said to be infringing of the claims of the '351 patent. Further, the respondent argued that Apotex cannot be said to induce others to infringe the '351 patent. The use by doctors and patients of the noninfringing lisinopril tablets is not an infringing activity both because persons acquiring noninfringing lisinopril tablets are free to use these tablets in any way and because the users to which the Apotex tablets can be put are broader than the uses contained in the '351 patent.
+[33]
+In the alternative, counsel for Apotex submitted that given that it is the effectiveness of lisinopril in the treatment of hypertension that satisfies the requirement of the usefulness in the '350 patent, the use claims in the '351 patent are redundant. As such, these claims cannot defeat Apotex's right to use the lisinopril it acquired before the issuance of the '350 patent by virtue of s. 56. The redundant claims of the '351 patent cannot serve to remove rights granted to Apotex by s. 56 in respect of the '350 patent.
+[34]
+However, as noted above, Apotex acknowledged that the uses for which it sought governmental approval included congestive heart failure. I conclude on the basis of the material before me that the lisinopril tablets are intended by Apotex and capable of being used for the treatment of congestive heart failure. It makes no difference that a physician and a pharmacist are involved as intermediaries in the prescribing and sale of the medicine to the ultimate consumer. Section 55.2(4)(e) of the
+Patent Act
+specifically contemplates regulations governing the issue of a notice in circumstances where the issue of such notice might result directly
+or indirectly
+in the infringement of a patent. In these circumstances, the claim for use in the '351 patent would be infringed, if not directly, then certainly indirectly.
+Conclusion
+[35]
+Given my decision, it is not necessary for me to deal with the applicant's claim that the second notice of allegation is a nullity. However, I would not be disposed in the circumstances of this case to agree with counsel. I do not believe that in these proceedings the second notice of allegation could be characterized as an abuse of process. It was done early in the proceedings and extended to the '351 patent an allegation that had already been made with respect to the '350 patent.
+[36]
+For these reasons, the application is allowed and an order will go prohibiting the Minister from issuing a Notice of Compliance to Apotex until after the expiration of Canadian Letters Patent 1,275,350 and 1,288,351.
+Applications allowed.
+Editor: Jana A. Andersen/sg
+Footnotes
+1.	Exhibit "D" attached to the Affidavit of Karen Feltmate sworn on June 15, 1993, Applicant's Application Record, Tab 2 at 36.
+2.	Exhibit "3" attached to the Affidavit of Brian P. Isaac sworn on July 29, 1993, Applicant's Application Record, Tab 10 at 73.
+3.	Applicant's Application Record, Tab 20 at 230-231 and exhibit "A" attached thereto.
+4.	Affidavit of Karen Feltmate sworn on June 15, 1993, Applicant's Application Record, Tab 2 at 33.
+5.
+ <FRAGMENT_SUPPRESSED> ; (sub. nom.
+ <FRAGMENT_SUPPRESSED> , affing. [1969] 1 Ex. C.R. 529; 57 C.P.R. 155.
+6.	57 C.P.R. 155, at 181.
+7.	In (1970), 62 C.P.R. 223, at 223.
+8.	See Robert T. Hughes & John H. Woodley,
+Hughes and Woodley on Patents
+(Markham: Butterworths, 1994) at 413.
+9.	Harold G. Fox, 4th Ed. (Toronto: Carswell, 1969) at 349-350.
+10.	"55.2(1)
+It is not an infringement of a patent
+for any person to make, construct, use or sell the patented invention solely for uses reasonably related to the development and submission of information required under any law of Canada, a province or a country other than Canada that regulates the manufacture, construction, use or sale of any product.
+"(2)
+It is not an infringement of a patent
+for any person who makes, constructs, uses or sells a patented invention in accordance with subsection (1) to make, construct or use the invention, during the applicable period provided for by the regulations, for the manufacture and storage of articles intended for sale after the date on which the term of the patent expires." (emphasis mine)
+11.	See
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 302 at 319  <FRAGMENT_SUPPRESSED>  (F.C.A.).
+12.	Affidavit of Karen Feltmate sworn on June 15, 1993, Applicant's Application Record, Tab 2 at 33.
+13.	Ibid. at 18.
+[End of document]

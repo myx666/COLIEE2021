@@ -1,0 +1,137 @@
+[1]
+Mosley, J.
+: This is an application for judicial review in relation to a decision of the Commissioner of Patents (the "Commissioner"), dated August 14, 2003. The Commissioner refused to revive Canadian patent No. 1, 283, 520 (the "patent") which was noted in the records of the Canadian Patent Office as having lapsed for failure to pay the required maintenance fees. The applicant seeks an order directing that the Commissioner accept the maintenance fee and correct the records of the Canadian Patent Office to show that the patent has not lapsed.
+BACKGROUND
+[2]
+The applicant, P.E. Fusion, LLC, is the owner of the patent and concedes that it failed to pay the required maintenance fee by April 30, 2001 and failed to reinstate the patent within the one year time period for reinstatement following that time. On April 30, 2002 therefore the patent lapsed.
+[3]
+The events that gave rise to this failure to pay the maintenance fee are as follows. Mr. George Rakes, the inventor and original owner of the patent, transferred ownership in October 1999 to the applicant. Such record of ownership change was registered with the Patent Office in late 2000.
+[4]
+The law firm, Reed Smith LLP which represented Mr. Rakes with respect to the patent informed him by letter in March 2000 that the 9th annual maintenance fee was due by April 30, 2000. Mr. Rakes then advised Reed Smith that no further action was required and informed the applicant of the March 2000 letter. The applicant sent a cheque on April 3, 2000 to Reed Smith for payment of the 9th maintenance fee, instructing that all future correspondence be directed to it. Inadvertently, Reed Smith credited the applicant's cheque to Mr. Rakes' account, however, the 9th maintenance fee was paid by Reed Smith's Canadian representative, Smart & Biggar.
+[5]
+The 10th maintenance fee for the patent was due on April 30, 2001. In March 2001, a charge was erroneously applied to Mr. Rakes account by Reed Smith, resulting in an invoice of about $184 being sent to Mr. Rakes. Mr. Rakes forwarded this invoice to the applicant and P.E. Fusion then sent payment to Reed Smith by cheque dated October 1, 2001. The amount and time of the invoice led the applicant to believe that this payment was for the 10th maintenance fee. This was not the case, as Reed Smith was under the assumption that they were to remove the patent from their docket. Therefore, they instructed their Canadian representative, Smart & Biggar, to remove the patent from their payment records.
+[6]
+Throughout the one year grace period provided for reinstatement of missed patent maintenance fees in the
+Patent Act
+, R.S.C. 1985, c. P-4 (the "
+Act
+"), the applicant assumed that the 10th maintenance fee had been paid. On April 30, 2002 the patent lapsed, upon expiry of the one year reinstatement period. After discovering what had occurred, the applicant's agents wrote to the Commissioner on two occasions between December 2002 and February 2003, requesting the same relief which is sought in this judicial review application. The Commissioner responded in January 2003 and again in August 2003, refusing to make the requested "correction" to the lapsed patent.
+The Commissioner's Decision
+[7]
+By letter dated August 14, 2003, a delegate of the Commissioner responded to the applicant's request to have its patent revived pursuant to s. 8 of the
+Act
+. After stating that she had reviewed all the evidence pertaining to the patent, the delegate concluded that a s. 8 correction is applied only for a clerical error that had been inserted in an instrument of record in the Patent Office and that the Office did not have any record of such error. The delegate also concluded that the
+Act
+did not provide authority to revive a lapsed patent pursuant to a s. 8 request.
+ISSUES
+[8]
+1. Did the Commissioner err in failing to apply s. 8 of the
+Patent Act
+, R.S.C. 1985, c. P-4 (the "
+Act
+") [see footnote 1]?
+2. Did the Commissioner err in refusing to correct the error made on the part of the applicant or its agent pursuant to any inherent jurisdiction of the Commissioner to revive an expired patent?
+ANALYSIS OF THE PARTIES' SUBMISSIONS
+No error in interpretation of "clerical error" in s. 8
+[9]
+The applicant argues that the Commissioner erred in law in her interpretation of the term "clerical error" in s. 8 of the
+Act
+and thereby erred in refusing to exercise her jurisdiction to consider the applicant's application for a certificate correcting such error. The applicant submits that the clerical error originated from the erroneous charge applied by Reed Smith to the account of Mr. Rakes in March 2001. This resulted in a serious of events leading the applicant to believe that the 10th maintenance fee had already been paid and the patent was inadvertently allowed to lapse. According to the applicant, this erroneous charge is an error of writing or transcribing and fits within the category of "clerical error" as described by the Federal Court in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.).
+[10]
+The applicant contends that this clerical error has been inserted in an instrument of record in the Patent Office, as the records in the Patent Office now show that the patent has lapsed. The applicant refers to the decision of
+Heberlien and Co. A.G.'s Apl'n
+, [1971] F.S.R. 373, quoted with approval by the Federal Court in <FRAGMENT_SUPPRESSED> , supra, where it was emphasized that it is the clerical
+origin
+of the error that is important.
+[11]
+The respondent submits that it is clear that s. 8 has no application to the case at bar. Section 8 is not intended to apply to situations where the clerical error occurred somewhere other than in the instrument of record held in the Patent Office, as has occurred in the present case. Since the prescribed fee was not paid to the Patent Office by the deadline set out by the legislation, the respondent argues that the patent must be deemed to have expired and no "clerical error" appears in any instrument of record in the Patent Office, as the error appears to have been caused by the applicant's own, or its agents, internal management of its affairs.
+[12]
+The patent at issue in this case was granted on April 30, 1991 as a result of an application which was filed in Canada on June 3, 1987. Therefore, pursuant to s. 78.2(2) of the
+Act
+, s. 8 as it read immediately prior to October 1, 1989 is the provision applicable in this case. That section provides as follows:
+"8. Clerical errors in any instrument of record in the Patent Office shall not be construed as invalidating the instrument, but, when discovered, they may be corrected by certificate under the authority of the Commissioner."
+"8. Les erreurs d'écriture dans tout document en dépôt au Bureau des brevets ne sont pas considérées comme invalidant le document. Toutefois, lorsqu'il s'en découvre, elles peuvent être corrigées au moyen d'un certificat sous l'autorité du commissaire."
+[13]
+Despite the rather creative argument, I cannot accept the applicant's interpretation of s. 8. At p. 73, Justice Mahoney stated as follows in <FRAGMENT_SUPPRESSED> , supra, in dealing with the identical provision under the 1970
+Act
+:
+"I accept that a clerical error is an error that arises in the mechanical process of writing or transcribing and that its characteristic does not depend at all on its relative obviousness or the relative gravity or triviality of its consequences."
+[14]
+Section 8 speaks of "clerical errors in any instrument of record in the Patent Office". In this case, the lapsing of the patent is the notation which the applicant desires to have remedied. Such notation was
+not
+in error, but was made in accordance with the
+Act
+and the
+Regulations
+. Whether the applicant's inadvertent failure to submit the prescribed maintenance fee within the prescribed time frame was due to its or its agent's clerical error or otherwise is immaterial to the application of s. 8.
+[15]
+Furthermore, Justice MacKay's determination in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 424 (T.D.), affd. (1994), 166 N.R. 69; 55 C.P.R.(3d) 59 (F.C.A.) supports this interpretation. In that decision, the applicant erred in not claiming Canada as a designated state on its international patent application. Justice MacKay held that the erroneous international application could not be considered "an instrument of record" in the Patent Office within the meaning of those words in s. 8 of the
+Act
+. Similarly in this case, the actual error which occurred, that is a law firm's mistaken charge to the account of Mr. Rakes, rather than to the account of the applicant, cannot be viewed as "a clerical error in any instrument of record" in the Patent Office.
+No error in declining alleged inherent jurisdiction to revive patent
+[16]
+The applicant's second argument is that the Commissioner erred in law in refusing to revive its lapsed patent by failing to acknowledge an inherent jurisdiction to correct an error which is the result of a "genuine" mistake on the part of a patentee or its agent. The applicant relies heavily on the Federal Court of Appeal decision of
+ <FRAGMENT_SUPPRESSED> ; 320 N.R. 192, in support of this submission.
+[17]
+The respondent argues that the Commissioner is a creature of statute and has no express power or any discretion to revive a lapsed patent where a patent has expired pursuant to the
+Act
+, regardless of the reason for the missed maintenance fee. The respondent also contends that such inherent power to grant the relief sought by the applicant does not arise by necessary implication.
+[18]
+In my opinion, the applicant's argument cannot succeed for several reasons. First, the wording of s. 46(2) of the
+Act
+indicates that a patent "shall" be deemed to have expired if the fees payable pursuant to s. 46(1) are not paid within the time provided in the
+Regulations
+. Such wording presents a mandatory requirement and does not indicate that there is discretion on the part of the Commissioner to modify or grant relief from such provision:
+"46(1) A patentee of a patent issued by the Patent Office under this Act after the coming into force of this section shall, to maintain the rights accorded by the patent, pay to the Commissioner such fees, in respect of such periods, as may be prescribed.
+"46(2) Where the fees payable under subsection (1) are not paid within the time provided by the regulations, the term limited for the duration of the patent shall be deemed to have expired at the end of that time."
+"46(1) Le titulaire d'un brevet délivré par le Bureau des brevets conformément à la présente loi après l'entrée en vigueur du présent article est tenu de payer au commissaire, afin de maintenir les droits conférés par le brevet en état, les taxes réglementaires pour chaque période réglementaire.
+"46(2) En cas de non-paiement dans le délai réglementaire des taxes réglementaires, le brevet est périmé."
+Rule 182 of the
+Patent Rules
+, SOR/96-423, also uses the word "shall" in stating that an applicant must pay the applicable fee, set out in item 32 of Schedule II of the
+Rules
+, to maintain the rights accorded by a patent issued on or after October 1, 1989, within the time period set out in item 32.
+[19]
+Second, the decisions of
+ <FRAGMENT_SUPPRESSED> ; 269 N.R. 373 ( <FRAGMENT_SUPPRESSED>  (T.D.) and
+ <FRAGMENT_SUPPRESSED> ; 247 F.T.R. 260 (T.D.), have held that the Commissioner does not have the authority, pursuant to the
+Act
+or the
+Rules
+, to extend the deadline for payment of fees or offer relief against the consequences of underpaying a maintenance fee. Similarly, in the present case, the Commissioner has no express or implied authority to modify or waive requirements with regards to the mandatory payment of fees. The applicant's attempt to distinguish
+Hoffmann-La  <FRAGMENT_SUPPRESSED> , is not persuasive, given that I have concluded that the applicant's interpretation of s. 8 of the
+Act
+is incorrect.
+[20]
+By analogy, the respondent refers to the decision of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.). There, the court held that the Registrar of Trademarks did not have an inherent power to grant certain relief when such authority could not be found through express statutory language or by necessary implication from the provisions of the statute. In my opinion, the Commissioner does not have inherent authority, as claimed by the applicant, to revisit an expired patent under the guise of "correcting" it for a genuinely mistaken applicant. Such interpretation does not arise from the express statutory language of the
+Act
+and the
+Rules
+or by necessary implication therefrom.
+[21]
+Third, I find that
+Parke-Davis
+, supra, does not aid the applicant. As pointed out by the respondent, that decision does not discuss the Commissioner's jurisdiction, but rather deals with the effect of dedicating a patent to the public and whether such dedication occurred in that case. The court in
+Parke-Davis
+, supra, held that a principle recognized at common law that does not contradict anything in the
+Act
+may be found to affect the law of patents, despite the
+Act
+'s silence as to that issue. In my view, this finding, arising from very different factual circumstances than in the present case, cannot be regarded as authority for the proposition that the Commissioner possesses an inherent jurisdiction to waive or bend the rules in relation to the time limits for annual maintenance fees, or in relation to the consequences for failing to pay such fees within the time limits.
+[22]
+Fourth, the proposition of finding inherent jurisdiction of the Commissioner to correct "genuine" mistakes made by patentees or their agents is a concept fraught with difficulty. What would be the parameters of a "genuine" mistake, versus a "non-genuine" one? Unfortunate as it is for the applicant, Parliament has devised a legislative scheme for the payment of maintenance fees that does not contain any relief provisions, beyond the allowable one year reinstatement period, and has not vested the Commissioner or the court with any discretion to correct mistakes, even ones by well-intentioned patentees, from the strict rules related to the payment of the prescribed fees when such payment is neglected past the reinstatement time period.
+[23]
+The patent in question in this case was being exploited and revenue was being generated for the applicant. While I find it very unfortunate that a simple mistake has resulted in the loss of the applicant's interest I can find no basis for the court to provide a remedy in these circumstances.
+[24]
+Accordingly, the Commissioner's decision was correct in law and there are no grounds for intervention by this court.
+ORDER
+[25]
+THIS COURT ORDERS that this application for judicial review is dismissed. Costs to the respondent.
+Application dismissed.
+Editor: Angela E. McKay/kawm
+Footnotes
+1. The wording of s. 8 was amended through S.C. 1993, c. 15, s. 27, effective as of October 1, 1996 by SI/96-81. In this application, s. 8 as it was worded just prior to October 1, 1989 is relevant.
+[End of document]

@@ -1,0 +1,439 @@
+[1]
+Hughes, J.
+: The trial of this action has been divided into several parts: This is the second part, and deals with the matter of an injunction. The first part of this trial dealt with the allegations of infringement and invalidity of Canadian Letters Patent No. 2,365,281 (the'281 patent). On January 17, 2014, I rendered a decision, cited as 2014 FC 55, wherein I determined that claims 143 and 222 of that patent were valid and have been infringed by the Defendant Janssen Inc. by its promoting, offering for sale, and selling in Canada its product known as STELARA. That decision is currently under appeal to the Federal Court of Appeal (Docket: A-95-14).
+[2]
+By an Order of the Case Management Prothonotary dated September 26, 2011, the issues in this action were separated; whereby, the issues of infringement and invalidity of the '281 patent were divided out from the remaining issues. The remaining issues were further divided by an Order of the Case Management Prothonotary dated February 13, 2014; affirmed on appeal (2014 FC 178), whereby the question of an injunction was to be determined first and separately from the remaining issues as to damages or profits. I have now heard the issues as to an injunction during the week of May 12, 2014. The remaining issues as to damages or profits are scheduled to be heard in September 2015.
+[3]
+With respect to the issues as to an injunction, which I am to determine at this time, I find that an injunction shall issue subject to specific terms and conditions.
+[4]
+The following index to these Reasons, by paragraph number, is provided:
+PARAGRAPH HEADING
+PARA.
+I.
+The Evidence
+5 to 12
+II.
+Issues
+13 to 16
+III.
+Psoriasis
+17 to 19
+IV.
+Treatment for Psoriasis
+20 to 25
+V.
+Other Uses for Biologics
+26 to 28
+VI. Sale and Promotion of STELARA in Canada
+29 to 33
+VII.
+To Grant an Injunction - and on What Terms?
+34 to 53
+--A.
+What is the Plaintiff Requesting?
+40 to 42
+--B.
+What is the Defendant Proposing?
+43
+--C.
+What Interests are the Plaintiffs Seeking to Protect?
+44 and 45
+--D.
+What Interests is the Defendant Seeking to Protect?
+46 to 49
+--E.
+What Interests does the Public Have?
+50 to 53
+VIII.
+Balancing the Interests and Crafting the Terms
+54 to 56
+IX.
+Party to be Enjoined
+57 to 61
+X.
+Certifying the need for STELARA for New Patients
+62 to 66
+XI.
+Marketing and Promoting STELARA
+67 to 71
+XII.
+Notifying Formularies
+72 to 74
+XIII.
+Health Canada
+75 to 77
+XIV.
+A Letter
+78 to 81
+XV.
+Phase IV Trials
+82 to 87
+XVI.
+Stay
+88 to 87
+XVII.
+Conclusion and Costs
+98 to 100
+I.
+The Evidence
+[5]
+The evidence in the present portion of the action took various forms. By an Order of the Case Management Prothonotary dated February 13, 2014, all evidence in chief, both factual and expert, was to be presented in the form of an affidavit, upon which there would be cross-examination of the witnesses in person before me, if requested. A few weeks prior to the commencement of the hearing before me, Janssen had brought a motion in the Federal Court of Appeal to stay the trial before me. That motion was denied by a decision of that Court dated May 1, 2014 (cited as 2014 FCA 112). In respect of that motion, certain affidavits were filed and cross-examinations conducted. In some instances, the evidence in the record before me comprised the affidavits filed with the Federal Court of Appeal, and transcripts of the cross-examination. As a result, the following evidence was placed in the record in the current phase of these proceedings; I have found all the witnesses to be credible, the corporate witnesses were surprisingly candid, the experts were very helpful with their opinions:
+Exhibit P-1: Two volumes of documents agreed upon between the parties
+[6]
+The Plaintiffs Abbvie provided the evidence of the following persons as expert witnesses:
+1.
+Kabeer Baig
+of Mississauga, Ontario: His evidence was provided by way of an affidavit (Exhibit P-2), upon which there was no cross-examination. His qualifications were not contested by the Defendant:
+Kabeer Baig is a licensed Ontario pharmacist who has been involved in the pharmaceutical dispensing of biologic response modifiers since 2001, both as an owner and operator of the largest single pharmacy dispenser of biologics in Canada and as a consultant to pharmacies who distributed biologics. Abbvie proposes that Mr. Baig be qualified as an expert in the practice of front-line pharmacists across Canada and to express opinions set out in his affidavit.
+2.
+Dr. Charles Lynde
+of Markham, Ontario: His evidence in chief was provided by way of two affidavits (Exhibits P-15 and P-16). He was cross-examined in person before me. His qualifications were not contested by the Defendants:
+Dr. Charles Lynde is currently a dermatologist practicing at the Lynde Centre for dermatology, a full service dermatology clinic in Ontario. Dr. Lynde is an Associate Professor at the University of Toronto, the Clinical Director of the Toronto Western Dermatology Clinic at the University of Toronto and was a previous President and board member of the Canadian Dermatology Association. Abbvie proposes that Dr. Lynde be qualified as an expert in dermatology with specific expertise in the treatment and management of psoriasis and the use, efficacy, and safety of biologics in the treatment of psoriasis. Abbvie proposes that Dr. Lynde also be qualified to provide opinions about the standard of practice of dermatologists in Canada and the educational needs of dermatologists in Canada and to express opinions set out in his affidavits.
+3.
+Rosemary Bacovsky
+, of Calgary, Alberta: Her evidence in chief was provided by way of two affidavits (Exhibits P-30 and P-31). She was cross-examined in person before me. Her qualifications were not contested by the Defendant:
+Rosemary Bacovsky is a consultant relating to drug plans and pharmaceutical policy. She was previously Director of Pharmacy Services where she managed Alberta Health's drug program. In that role, she was responsible for making recommendations to Alberta's Minister of Health on whether to list a drug on the Alberta provincial formulary. Abbvie proposes that Ms. Bacovsky be qualified as an expert in the practice and procedures of both provincial and private drug plans. Abbvie proposes that Ms. Bacovsky also be qualified about the application and amendment procedures for drug listings in both public and private drug plans and to express the opinion set out in her affidavits.
+4.
+Brenda Gryfe
+, of Markham, Ontario: Her evidence in chief was provided by way of an affidavit (Exhibit P-33). She was cross-examined in person before me. Her qualifications were not contested by the Defendant:
+Brenda Gryfe is the Director of Canadian Regulatory Affairs of OPTUMInsight where she prepares and reviews regulatory drug submissions to ensure they are in compliance with applicable guidelines and regulations. Ms. Gryfe has over 25 years of experience in the pharmaceutical regulatory sector. Abbvie proposes that Ms. Gryfe be qualified as a regulatory expert on the requirements imposed by Health Canada on pharmaceutical companies, including as they relate to advertising and promotion. Ms. Gryfe will be qualified to opine on the continuing regulatory requirements applicable to a manufacturer of biologics and to express the opinions set out in her affidavit.
+[7]
+The Plaintiffs also provided the evidence of the following fact witnesses:
+5.
+Todd Manning
+, of Montreal Quebec: He is employed by an affiliate of the Plaintiffs. His responsibilities include managing the sales and marketing of the Plaintiffs' HUMIRA product in Canada. His evidence in chief was provided by way of an affidavit (Exhibit P-13). He was cross-examined in person before me.
+[8]
+In addition, the Plaintiffs provided portions of the examination for discovery of the Defendant Janssen, and related documents, in a booklet that was deemed to be read into the record (Exhibit P-40).
+[9]
+The Defendant provided the evidence of the following expert witnesses:
+1.
+Ross A. Hamilton
+, of Toronto, Ontario: He is a Chartered Professional Accountant and a specialist in Investigative and Forensic Accounting. His evidence was provided by way of an affidavit (Exhibit D-34). He was not cross-examined.
+2.
+Dr. Neil Shear
+, of Toronto, Ontario: His evidence in chief was provided by way of two affidavits (Exhibits D-22 and D-23). He was cross-examined in person before me. His qualifications were not contested by the Plaintiffs.
+Dr. Neil Shear is a dermatologist licensed to practice medicine in the province of Ontario with privileges at Sunnybrook Health Sciences Centre and Women's College Hospital. He has been the Head of Dermatology at Sunnybrook since 2001. He is also the Chief of Dermatology at the University of Toronto and a Professor at the University of Toronto. In his dermatology practice, he regularly treats patients with psoriasis and prescribes biologics, including Stelara, Humira, Remicade, and Enbrel.
+Janssen proposes to qualify Dr. Shear as an expert dermatologist to testify on the disease psoriasis, the treatment of the disease with biologics, the determination of medical need for a particular biologic and the education of dermatologists about biologics, as set out in his affidavits, sworn February 24 and April 23, 2014 or as otherwise permitted to respond to Abbvie's reply evidence.
+3.
+Barbara Shea
+, of Ottawa, Ontario: Her evidence in chief was provided by way of an affidavit (Exhibit D-36). She was cross-examined in person before me. Her qualifications were not contested by the Plaintiffs:
+Barbara Shea has a Bachelor of Science in Pharmacy and is currently an independent health care consultant. From 1992 to 2002, she was the Executive Director, Drug Plan and Benefits Branch of Saskatchewan Health. From 2003 to 2011, she was employed by the Canadian Agency for Drugs and Technologies in Health (CADTH).
+Janssen proposes to qualify Ms. Shea as an expert in the field of pharmaceutical drug coverage to testify about the administration of private and public drug plans or formularies across Canada, including the role of CADTH and the Common Drug Review (CDR). She will express the opinions set out in her affidavit, sworn April 22, 2014, or as otherwise permitted to respond Abbvie's reply evidence.
+[10]
+The Defendant also provided the evidence of the following fact witnesses:
+4.
+Allan Stordy
+, of Calgary, Alberta: His evidence was provided by way of an affidavit (Exhibit D-3). He was not cross-examined. He gave evidence from the point of view of a person suffering from moderate to severe psoriasis.
+5.
+Gwendolyn Ward
+, of Georgina, Ontario: She is a law clerk in the offices of the Defendant's solicitors. Her affidavit (Exhibit D-4) served to make of record certain documents. She was not cross-examined.
+6.
+Michael Santusso
+, of Oakville, Ontario: He is a Manager, Medical Information,  <FRAGMENT_SUPPRESSED>  Inc. His evidence in chief was provided by way of an affidavit (Exhibit D-5). A transcript of his cross-examination on the Court of Appeal motion was entered into evidence by the Plaintiffs (Exhibit P-6).
+7.
+Christine Janus
+, of Ottawa, Ontario: She is the Chief Executive Officer and Executive Director of the Canadian Skin Patent Alliance (SSPA). Her evidence in chief was provided by way of an affidavit (Exhibit D-7). The Plaintiffs entered into evidence a transcript of her cross-examination on the Court of Appeal motion (Exhibit P-8).
+8.
+Jason Nitert
+, of Markham, Ontario. He is the Business Unit Director, Rheumatology and Dermatology  <FRAGMENT_SUPPRESSED>  Inc. and has been responsible for the STELARA product in Canada. His evidence in chief was provided by way of an affidavit (Exhibit D-35). He was cross-examined in person before me.
+9.
+Anne Messner
+, of Toronto, Ontario: She is employed by Janssen Inc. as a Senior Associate, Regulatory Affairs. She has dealt with Health Canada with respect to the STELARA product. Her evidence in chief was provided by way of an affidavit (Exhibit D-37). She was cross-examined in person before me.
+[11]
+Each of the parties also provided an affidavit of an English solicitor addressing proceedings in the United Kingdom Courts and the European Board of Technical Appeals. In this regard the Defendant provided the affidavit of Wilton Emerys-Evans (Exhibit D-38) and the Plaintiffs provided the affidavit of David Lawrence Wilson (Exhibit P-39). There was no cross-examination upon either affidavit. These affidavits were admitted into evidence, subject to further argument as to relevance. I find their relevance to be marginal.
+[12]
+Lastly, each party submitted a document that they said had been provided to the other party; and no adverse comment received. I took this as consent that the parties were content as to the contents of the documents. The Plaintiffs entered a Statement of Facts (Exhibit P-11), and the Defendant a table as to biologics approved for the treatment of psoriasis in Canada as of May 10, 2014 (Exhibit D-12).
+II.
+Issues
+[13]
+The essential issue to be determined at this portion of the trial of this action is whether the Court should grant an injunction; and, if so, under what terms and conditions, if any.
+[14]
+The Plaintiffs have presented a document entitled "Third Amended Statement of Issues to be Dealt with at the Injunction Hearing" which, they argue, sets out their preferences as to the terms of an injunction to restrain the Defendant from dealing with its STELARA product in Canada, subject to a number of terms and exceptions. In closing argument the Plaintiffs presented a much briefer document in the form of a draft Judgment.
+[15]
+What makes this case different from the usual patent case is that the Plaintiffs do sell a product in Canada which is competitive with the Defendant's STELARA product, it is called HUMIRA, but it does not fall within the scope of the '281 patent claims at issue. Other than the Defendant, nobody sells a product in Canada that comes within the scope of the claims at issue. Further, there appears to be a medical need that at least a portion of psoriasis sufferers in Canada require the Defendant's STELARA product for the effective treatment of their condition.
+[16]
+Thus, the Court is required to balance on the one hand, the rights of a patentee to the exclusive use of their claimed invention, including the right to control, by licence, others who wish to use the claimed invention, with the commercial desire of the Defendant to sell the infringing drug and, with a medical need by some members of the Canadian public to have continued access to the infringing drug.
+III.
+Psoriasis
+[17]
+The '281 patent, at page 120, states that psoriasis involves acute and chronic skin lesions associated with a TH1-type cytokine expression profile. Dr. Lynde, at paragraph 11 of his first affidavit (Exhibit P-15) states that psoriasis is a chronic inflammatory skin disease, which manifests itself in red, scaly, raised patches known as plaques on the skin, that affects 2 to 3% of the world's population. Dr. Shear in his opinion letter (Tab C - Exhibit D-22) says that severe plaque psoriasis is not a disease that comes and goes; it is relentless and life-long.
+[18]
+Dr. Lynde, at paragraphs 11 to 13 of his first affidavit, describes how the severity of psoriasis has come to be defined as existing at different levels; from mild, to moderate, to severe, depending on several indicia that have been established by the medical profession. It can range from simply irritating, to disfiguring, to disabling; particularly when it occurs on the palms of the hand or soles of the feet.
+[19]
+In this particular case, we are dealing with psoriasis, which has been classified as moderate to severe.
+IV.
+Treatment for Psoriasis
+[20]
+Psoriasis cannot, apparently, be cured; but it can be treated so as to alleviate the symptoms for a period of time. Dr. Lynde, at paragraph 11 of his first affidavit, says that the majority of psoriasis patients are at the mild to moderate level; patients with moderate to severe psoriasis are typically treated with a systemic agent such as methotrexate, acitretin, cyclosporine, or a biologic agent.
+[21]
+This action is concerned with biologic agents. The Defendant's product at issue is STELARA; the Plaintiffs sell a product called HUMIRA. Biologic agents came on the market in the last decade. Approved for use in Canada in the treatment of psoriasis are four such products: HUMIRA, STELARA, REMICADE (also sold by Janssen), and ENBREL (sold by a company known as Amgen). Three of those products; ENBREC, HUMIRA and STELARA, are administered by subcutaneous injection, which can often be done by the patient. The fourth, REMICADE, is administered by intravenous infusion. Of these four products, three operate by targeting the body's tumor necrosis factor alpha, usually stated as TNF-, or simply, TNF. Those three are REMICADE, ENBREL and HUMIRA. Only the fourth, STELARA, operates by inhibiting IL-12.
+[22]
+In cross-examination, Dr. Lynde at Volume 1, pages 144 and 145, estimated that the number of patients worldwide that have been on ENBREL was well over one million; that HUMIRA approaches a similar number; and that STELARA, which is relatively new on the market, is probably about eighty thousand people. At paragraph 14 of his affidavit, Dr. Lynde stated that of the five hundred to six hundred of his own patients that are treated with biologic, approximately 30% use ENBREL, 40% use HUMIRA, 25% use STELARA, and 5% use REMICADE.
+[23]
+Dr. Shear in cross-examination, Volume 2, page 321 and 350, described that REMICADE is given in most countries in hospitals; the others by injection. He described ENBREL as weaker, followed by HUMIRA, and then you have REMICADE, which was probably the strongest of the three. He described how, if a patient did not appear to be responding to one, the doctor may switch to another, which may include switching to STELARA. In his opinion letter (Tab C, Exhibit D-22), Dr. Shear described switching between various of these drugs and increasing dosage levels of a particular drug in order to find a drug and level that would be most effective in the treatment of a particular patient. Dr. Lynde, at Volume 1, page 171 of his cross-examination, said that it was a common scenario to switch among the TNF drugs before going to the IL-12 (STELARA) drug.
+[24]
+Dr. Shear, at the last page of his opinion letter, expressed great concern as to what might happen if STELARA were to be removed from the Canadian market, and that medical information publishing and supporting of clinical trials and databases, would be of concern. In cross-examination, Volume 2, pages 287 to 289, he agreed that those concerns were directed only to a situation where STELARA was to be completely removed from the market, and there was a complete ban on information.
+[25]
+Dr. Lynde, in his affidavit at paragraphs 52 to 58, stated that the limited access to STELARA as proposed by the Plaintiffs - that is, access if a doctor said it was necessary - would alleviate any genuine risk to patients, and, at paragraphs 36 to 51, described that the curtailment of sales promotional activity would not impair the dissemination of medical and scientific information.
+V.
+Other Uses for Biologics
+[26]
+In addition to being used in the treatment of psoriasis, Health Canada has given approval for the use of these four biologics in the treatment of other diseases. The three TNF drugs, ENBREL, REMICADE, and HUMIRA, have been approved for several other indications; among them, psoriatic arthritis. As of January 2014, STELARA has also received Health Canada approval for psoriatic arthritis; however, STELARA has not yet been listed on any provincial formulary for that purpose.
+[27]
+No argument has been raised before me that psoriatic arthritis falls within the claims at issue of the '281 patent. However, it is argued that, in promoting STELARA ostensibly for treating psoriatic arthritis, the Defendants may be, in effect, circumventing any injunction respecting promotion for psoriasis. Also, it is argued, that in treating psoriatic arthritis with STELARA, a patient who also suffers from psoriasis may be receiving treatment for his or her psoriasis.
+[28]
+Psoriatic arthritis is usually dealt with by doctors specializing in rheumatology, while psoriasis is dealt with by dermatologists. There may be some doctors who are aware that in treating one condition, they are also treating the other. That number seems to be very small.
+VI.
+Sale and Promotion of STELARA in Canada
+[29]
+Jason Nitert on behalf of the Defendant gave most of the evidence as to the sale and promotion in Canada by Janssen. He has been one of the persons most responsible for that activity. In his affidavit, filed with the Court of Appeal and reaffirmed in his affidavit before me (it is Tab A to Exhibit D-35), Nitert describes how STELARA came into the Canadian market in January 2008 and, as of December 2013, is the number one biologic product for the treatment of psoriasis in Canada; it continues to gain market share from patients who have just started to use biologics (called naive patients) and those who have switched from another biologic. He states his belief that there is an average of [...] dollars' worth of inventory of STELARA on the market in Canada in a given month, not including inventory remaining  <FRAGMENT_SUPPRESSED>  Inc. itself.
+[30]
+In cross-examination, at page 473 of Volume 3, Nitert testified that Janssen spent in the ballpark of [...] dollars in 2013 to market, advertise, and promote STELARA. He testified that STELARA comes in either 45 or 90 milligram pre-filled syringes for which a person would pay approximately forty-five hundred ($4500.00) dollars per syringe. In an initial year of therapy, when a greater number of syringes were administered, the cost would be twenty-five thousand ($25,000) dollars for that year; and thereafter, in maintenance years, the cost would be about eighteen thousand ($18,000) dollars per year.
+[31]
+Janssen does not subsidize the cost of the drug, but has in place a programme that it calls BioAdvance, whereby it will assist a patient in attempting to secure funding from government sources or private insurers.
+[32]
+At pages 474 and 475 of Volume 3, Nitert testified that the gross profit margin for Janssen on a vial was about [...] percent on a system-wide basis, and that the profit on a local cost basis for Janssen Canada was around [...] to [...] percent.
+[33]
+Nitert testified that the Defendant Janssen Inc. has done nothing, since my judgment was issued on January 17, 2014, finding that STELARA infringed claims of the valid '281 patent, to curtail its marketing and sale of STELARA in Canada, or to stop its promotion of that drug for psoriasis in Canada (Volume 3, page 488).
+VII.
+To Grant an Injunction - and on What Terms?
+[34]
+The
+Patent Act
+, RSC 1985, c. P-4, section 57(1)(a) provides that the Court may make such order as it sees fit restraining a party from further use, manufacture, or sale of the subject matter of a patent:
+57. (1) In any action for infringement of a patent, the court, or any judge thereof, may, on the application of the plaintiff or defendant, make such order as the court or judge sees fit,
+(a) restraining or enjoining the opposite party from further use, manufacture or sale of the subject-matter of the patent, and for his punishment in the event of disobedience of that order,
+57. (1) Dans toute action en contrefaçon de brevet, le tribunal, ou l'un de ses juges, peut, sur requête du plaignant ou du défendeur, rendre l'ordonnance qu'il juge à propos de rendre:
+a) pour interdire ou défendre à la partie adverse de continuer à exploiter, fabriquer ou vendre l'article qui fait l'objet du brevet, et pour prescrire la peine à subir dans le cas de désobéissance à cette ordonnance;
+[35]
+An injunction normally will follow once the Court has found that a patent is valid and has been infringed. A classic statement to that effect is found in the Reasons of Justice Martineau in
+ <FRAGMENT_SUPPRESSED>  (aff'd 2013 FCA 219) at paragraph 397:
+397 Section 57 of the Act provides the Court with the discretionary power to issue an injunction, which will be commonly granted for an infringement or threatened infringement, unless there is some equitable reason not to do so, such as acquiescence, long delay, lack of clean hands, unconscionability, or triviality. Moreover, the granting of injunctive relief is not only to the benefit of a successful party but it is issued by the Court in the public interest to ensure the enforceability of the Canadian patent system (see Harold G. Fox, Canadian Patent Law and Practice, 4th ed (Toronto: Carswell, 1969) at page 487; David Vaver, Intellectual Property Law, 2nd ed (Toronto: Irwin Law Inc, 2011) at page 618 ( <FRAGMENT_SUPPRESSED>  C.P.R. (4th) 6 at para 132, aff'd 2007 FCA 217, 59 CPR (4th) 116 leave to appeal to SCC refused, [2007] S.C.C.A. No. 442 (QL), 383 N.R. 397 ( <FRAGMENT_SUPPRESSED> ).
+[36]
+Justice Gauthier (as she then was) in
+ <FRAGMENT_SUPPRESSED>  (aff'd 2011 FCA 237), wrote at paragraphs 239 and 240 that an injunction should only be refused in rare circumstances:
+239 Phostech argues that the Court should exercise its discretion not to grant an injunction until it is in a position to use its P2 process at the new factory being built in Quebec. It says that the Court should give it a two year grace period because the said installation will not be ready before at least 2012. In that respect, it relies on  <FRAGMENT_SUPPRESSED>  at para. 230.
+240 This caselaw is clearly distinguishable on its facts. The Court should refuse to grant a permanent injunction where there is a finding of infringement, only in very rare circumstances. I am not satisfied that those raised in this case warrant such an exception.
+[37]
+One of those rare circumstances occurred in a case decided by the late Justice Muldoon when he was a judge of this Court, in
+ <FRAGMENT_SUPPRESSED> , where the patent had less than two years of life left; the patentee did not sell a product that came within the scope of the patent, although it sold a competitive product; and the defendant's product was made by people with disabilities, who were otherwise unemployable. He wrote, in part:
+The patent in suit was issued in 1977 and the present litigation was commenced in 1985. As already found by the Court the plaintiffs' conduct falls short of barring their law suit on account of alleged acquiescence, but if as alleged by plaintiffs' counsel, they were being led "up [sic] the garden path" by P & G's Witte, they could always have declined to be so seduced, as plaintiffs' counsel would have the Court believe, and they could have shown their determination by instituting court action some year or two before 1985. Such delay is only one factor to be considered in these circumstances as was held in Consolboard, supra.
+. . .
+In the circumstances of this case the Court declines, as above mentioned, to issue an injunction against P & G for effect throughout the balance of the patent's term which will expire in September, 1994. The fact of the plaintiffs' never having practised the patented invention in Canada, the hardship which an injunction would inflict on the infringing defendants, and also, and especially, on their innocent employees in these hard economic times which still appear to be a full blown recession (pace Statistics Canada) in which unemployment insurance benefits payable and the level of unemployment do not need to be expanded, and by contrast, the absence of a competing workforce engaged by Lever, are all factors inter alia in the exercise of the Court's discretion. No permanent injunction is awarded.
+[38]
+The Ontario Court of Appeal very recently considered the test applicable in considering whether to grant a permanent injunction in
+1711811  <FRAGMENT_SUPPRESSED> . It held, in adopting the reasoning of Groberman JA of the British Columbia Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (referred to as
+Cambie Surgeries
+) that the three-part test used in considering interlocutory injunctions did not apply when considering final injunctions. In considering a final injunction, a party is required to establish its legal rights; the Court must then determine whether an injunction is an appropriate remedy. Irreparable harm and balance of convenience,
+per se
+, are not relevant, but may inform the determination as to whether an injunction is an appropriate remedy. Gillese JA, for the Court, wrote at paragraphs 74 to 80:
+74 The test for interlocutory injunctions is the familiar three-part inquiry set out in RJR-MacDonald: is there a serious issue to be tried; would the moving party otherwise suffer irreparable harm; and, does the balance of convenience favour granting the injunction.
+75 Does that same test apply when the court is deciding whether to grant permanent injunctive relief? AdLine contends that it does and points to cases such as  <FRAGMENT_SUPPRESSED>  at para. 111, and  <FRAGMENT_SUPPRESSED>  deciding whether to grant permanent injunctive relief.
+76 I would not accept this submission. In my view, a different test must apply.
+77 The British Columbia Court of Appeal recently considered the test for a permanent injunction and its relationship to the test for an interlocutory injunction. In the decision under review in  <FRAGMENT_SUPPRESSED>  D.L.R. (4th) 680, the trial judge granted permanent injunctive relief based on the test for an interlocutory injunction. Despite the parties' agreement that the trial judge correctly set out the test, the British Columbia Court of Appeal held that the wrong test had been applied and reversed the trial decision.
+78 Justice Groberman, writing for the court, explained that the RJR-Macdonald test is for interlocutory -- not final or permanent -- injunctions. At para. 24 of Cambie Surgeries, he explained that the RJR-Macdonald test is designed to address situations in which the court does not have the ability to finally determine the merits of the case but, nonetheless, must decide whether interim relief is necessary to protect the applicant's interests.
+79 In paras. 27-28 of Cambie Surgeries, Groberman J.A. explained:
+Neither the usual nor the modified test discussed in RJR-MacDonald has application when a court is making a final (as opposed to interlocutory) determination as to whether an injunction should be granted. The issues of irreparable harm and balance of convenience are relevant to interlocutory injunctions precisely because the court does not, on such applications, have the ability to finally determine the matter in issue. A court considering an application for a final injunction, on the other hand, will fully evaluate the legal rights of the parties.
+In order to obtain final injunctive relief, a party is required to establish its legal rights. The court must then determine whether an injunction is an appropriate remedy. Irreparable harm and balance of convenience are not, per se, relevant to the granting of a final injunction, though some of the evidence that a court would use to evaluate those issues on an interlocutory injunction application might also be considered in evaluating whether the court ought to exercise its discretion to grant final injunctive relief.
+80 I would adopt this reasoning. The RJR-Macdonald test is designed for interlocutory injunctive relief. Permanent relief can be granted only after a final adjudication. Different considerations operate and, therefore, a different test must be applied, pre- and post-trial.
+[39]
+In considering the discretion that I have, I will address the following:
+a. What are the Plaintiffs Requesting?
+b. What is the  <FRAGMENT_SUPPRESSED>  Protect?
+e. What Interests does the Public Have?
+A.
+What are the Plaintiffs Requesting?
+[40]
+The Plaintiffs are requesting a permanent injunction for the remaining life of the '281 patent, which expires March 24, 2020 subject, however, to significant exceptions.
+[41]
+The Plaintiffs are prepared to allow, as an exception, the continued use of STELARA by existing patients, and the use by new patients in particular circumstances. The Plaintiffs are requesting that the Defendant send a letter to dermatologists acknowledging the Plaintiffs' victory in the patent dispute and explaining why STELARA will not be promoted.
+[42]
+The Plaintiffs are content to let Janssen continue to provide medical information and to comply with Health Canada's lawful requests. They want Janssen to stop marketing activity, such as detailing.
+B.
+What is the Defendant Proposing?
+[43]
+The Defendant, in closing argument, proposes that I wait until the Court of Appeal disposes of its appeal on the infringement and validity issues. It proposes further that the matter wait until damages have been assessed, at which time Janssen will continue to sell, subject to paying what, in effect, would be a continuing royalty.
+C.
+What Interests are the Plaintiffs Seeking to Protect?
+[44]
+The Plaintiffs do not make or sell a product in Canada, or anywhere else, that comes within the scope of the claims at issue of the '281 patent. They do make another biologic product, HUMIRA, that competes, for the most part, for the same patients seeking treatment for their psoriasis; as does Janssen's STELARA.
+[45]
+Mr. Manning, the Plaintiffs' representative, put the Plaintiffs' interests very candidly in response to a question put to him by Counsel in direct examination; the Plaintiffs want to preserve the largest "footprint" possible for HUMIRA. At Volume 1, pages 87 to 88, he said:
+Q. Thank you. I have one last question which relates to the damages issues in this case.
+Can you tell the court, Mr. Manning, why isn't Abbvie willing to let Janssen continue to infringe unrestrictedly and just take a cheque now for damages?
+A. From a strictly commercial standpoint, and I know that this morning there's been a lot of talk about sales, but in my role leading the immunology division my job was to drive the profitability of my division.
+And so, what I'd like to do as a person that's driving the commercial aspect of this business, is to have the largest Humira footprint that I can possibly have and the reason for that is that I can utilize that footprint in order to negotiate with payers, with wholesalers, with other third-party providers in order to make my business more profitable.
+So just receiving a royalty cheque doesn't actually allow me to leverage to try to become a more profitable business. Secondly, in a market like this that's so innovative and so fast-changing I think it would be very difficult to determine, especially to try to determine into the future, what the damages might look like.
+As you can see from the graph we've went through you have competitors changing positions all the time.
+And then, lastly, I'm aware through the process of this case that Abbvie's IL-12 patent lapses in 2020 and my understanding is that we wouldn't be able to seek damages beyond 2020. That could mean a patient put on Stelara today there's a likelihood that that patient would remain on Stelara past 2020 and Abbvie would lose any benefit from that patient, where if the patient were to go on Humira today with a high likelihood that that patient remains on therapy post-2020, then we would be able to capture a benefit post the lapse of the IL-12 patent here in Canada.
+D.
+What Interests is the Defendant Seeking to Protect?
+[46]
+The evidence of Mr. Nitert, the Defendant's representative, shows that STELARA entered the Canadian market in 2008. It competes with three other biologics; one of them is HUMIRA. Presently, STELARA is the largest-selling single biologic in the market, and experiences continued growth.
+[47]
+As previously discussed, the cost of the drug is high, and the profit margins of the Defendant are large; and the profit margins of the entire Janssen organization are enormous.
+[48]
+The Defendant is seeking to protect a very lucrative and growing market in Canada.
+[49]
+There is no evidence before me that an injunction would cause serious or irreparable harm to Janssen. It may have a loss of income and some possible loss of reputation in having its sales stopped or curtailed but that is a natural consequence of losing a patent action.
+E.
+What Interests does the Public Have?
+[50]
+In many patent actions, the subject matter of the patent is directed to something that is readily replaced by, or substituted with, another product; for instance, a watch or a bicycle. The public may lose its ability to acquire or use one such product, but it can readily access a reasonable alternative.
+[51]
+Here, however, there are some patients in Canada for whom there is no alternative to STELARA in the effective treatment of their psoriasis. Another consideration is that of the treating physician, Dr. Shear, in his opinion letter (Tab C, Exhibit D-22) said "we need options". He argued that a physician should have a reasonable opportunity to switch from one product to another, so as to determine which product may best serve the particular needs of a particular patient.
+[52]
+The needs of the larger community should also be kept in mind.
+[53]
+These drugs are very expensive. Very few, if any, patients pick up the cost themselves. The cost is borne by private insurers, or some government agency. Janssen has a programme in place, which it calls BioAdvance, whereby it undertakes, on behalf of the patient, to negotiate with the insurer or agency so far as to secure funding for the patient. The Plaintiffs have a similar programme for HUMIRA. I suspect that, given the high costs of their drugs and the high profit margin, there may be a significant degree of self interest in the drug companies to ensure that the costs are passed on to third parties such as insurers and the government, and to insulate the patient and the doctor from any concerns as to costs.
+VIII.
+Balancing the Interests and Crafting the Terms
+[54]
+Having regard to the foregoing, I will grant an injunction; but, especially since the Plaintiffs themselves have proposed it, there will be an exception for existing and new patients. I will curtail the marketing of STELARA while ensuring that medical information will continue to be available.
+[55]
+My task in crafting the terms of the injunction is to make those terms clear and workable.
+[56]
+The following parts of these Reasons are directed as to why I crafted some of the terms in the way that I did.
+IX.
+Party to be Enjoined
+[57]
+There is only one Defendant, Janssen Inc. I have worded the injunction in a way that is usual in such cases so as to enjoin Janssen Inc, its officers, directors, servants, agents, employees, all those with whom it acts in concert, and all those over whom it exercises control. This is defined as Janssen in the Judgment.
+[58]
+The Plaintiffs want me to add as persons restrained by the injunction:
+a Janssen Affiliate, or(person) with which Janssen Inc. or a Janssen Affiliate has contracted to do or assist in doing any of the acts enjoined herein:
+[59]
+A "Janssen Affiliate" is described by the Plaintiffs as:
+any other person, company, partnership or business with which it [Janssen Inc.] is associated or affiliated
+[60]
+A "
+Janssen Affiliate
+", as so defined, is potentially quite broad, and certainly is indefinite. It would appear to include parties not before the Court in this action; including, possibly, parties in other jurisdictions.
+[61]
+I will not extend the injunction as far as the Plaintiffs request. My definition is sufficient to deal with the Defendant before me, and the activities which it may contract, or with which it may be involved.
+X.
+Certifying the Need for STELARA for New Patients
+[62]
+The Plaintiffs propose that STELARA may be prescribed for use by patients who have never used it before, provided that the patient's physician has certified, in effect, that it is the last resort. The Plaintiffs' initial proposal was that the physician certify that all other biologics have been tried. Apparently, the doctors balked at this, since it would require them to try all three alternatives first. The Plaintiffs modified their request to that requiring the physicians certify that they have at least tried HUMIRA, the Plaintiffs' biologic.
+[63]
+The Plaintiffs propose that the physician certify the need for STELARA by checking off a box next to a statement saying:
+I hereby certify that this patient has a medical need for Stelara that cannot be met by Humira.
+[64]
+The Plaintiffs propose that the box and caption be placed on a form called "Patient Enrolment and Rx Form", which Janssen provides with its BioAdvance programme to insurers and government agencies to secure funding, on the patient's behalf, for STELARA.
+[65]
+Janssen argues that doctors will, in effect, be forced to prescribe HUMIRA to their patients before certifying the need for STELARA. They also argue that it is difficult and time consuming to amend the form. These matters are contested by the Plaintiffs.
+[66]
+I propose to have faith in the integrity of our medical profession in Canada. New patients may be prescribed STELARA, provided that such patient's own physician has determined that prescribing STELARA is necessary for treatment of the patient's psoriasis. I will not require that the physician sign a form or check off a box. I appreciate that this provision does not have the rigour of the method urged by the Plaintiffs; however, I view that rigour to be overly restrictive and too skeptical of the integrity of our doctors. I have included a provision prohibiting Janssen from trying to influence the decisions of such doctors.
+XI.
+Marketing and Promoting STELARA
+[67]
+Central to the issue of the marketing and promotion of STELARA for the treatment of psoriasis in Canada is the role of persons called product representatives or "detail" persons. The evidence of Drs. Lynde and Shear illustrated the role of such persons, as did the evidence of Mr. Manning and Mr. Nitert.
+[68]
+Drs. Lynde and Shear explained that they gained most of their information about a drug such as STELARA from a product monograph, scientific literature, meetings, conferences, and discussions with peers. Janssen has a Medical Information Specialist on staff who can answer technical inquiries from doctors about such a drug. The Plaintiffs do not seek to restrain the dissemination of, or access to, technical information or this sort.
+[69]
+A "detail" person, of whom Janssen employs a number, is essentially a sales representative. "Detail" persons visit doctors several times a year, as explained by Mr. Nitert in cross-examination, Volume 3, pages 465 to 473. Their function is to execute the marketing strategy of Janssen. They are paid a salary and, if they meet certain sales quota - for instance, for STELARA - they are paid a bonus. They are not allowed to give information beyond that contained in a product monograph. They may "leave behind" literature that promotes the product, but does not go beyond the monograph. As Dr. Shear said in cross-examination, at Volume 2, page 273, someone who is working for the marketing department must be considered as part of the marketing strategy.
+[70]
+In cross-examination, Volume 3, pages 470 to 472, Mr. Nitert explained that not every dermatologist is as diligent as Drs. Lynde and Shear, and may require the assistance of a detail person to "
+shape their own decisions
+".
+[71]
+The injunction provided herein is intended to permit the dissemination of scientific and medical information, while restraining marketing activity by detail persons.
+XII.
+Notifying Formularies
+[72]
+The Plaintiffs have requested that the Judgment granting an injunction include provisions requiring Janssen to approach all public and private formularies to add new criteria respecting the provision of and funding for STELARA having regard to the injunction.
+[73]
+I will not make such provision. If it is necessary by law or by the requirements of the formularies on by Janssen's relationship with those formularies, then I expect that Janssen will take the initiative to do what is necessary.
+[74]
+If the Plaintiffs believe that it is desirable that such formularies be informed as to the injunction and its terms, they are free to provide accurate information, such as may be necessary.
+XIII.
+Health Canada
+[75]
+Health Canada, a federal government agency, plays a role in ensuring that drugs made available to the public in Canada are safe and effective. Before a drug is allowed to be made available, it must undergo rigorous testing and receive a Notice of Compliance before it can be made available. That Notice permits the drug to be available in a particular form and dosage for a particular use, such as treatment of psoriasis. If a different form or dosage or use is sought by the drug company, it must receive a new or a Supplementary Notice of Compliance. Health Canada plays a continuing role in monitoring the drugs on the market, even after a Notice of Compliance has been issued.
+[76]
+The evidence of Anne Messner is a Janssen employee responsible for, among others, the STELARA drug. She was cross-examined at length concerning the nature of requests that were made by Health Canada of a drug company such as Janssen. I conclude from her evidence that requests from Health Canada can be based on the
+Food and Drug Act
+or its
+Regulations
+, or Guidelines of Health Canada, or policy provisions. Sometimes it is difficult to tell which of these forms the basis of the request; particularly from the point of view of a layperson not highly experienced in the legal niceties of the situation. As Ms. Messner answered in cross-examination, at Volume 3, page 538:
+However, in my experience, pharmaceutical manufacturers do clearly abide not only by the Act and the regulations, but by the guidance provided to them by Health Canada.
+[77]
+I have discussed Health Canada because the Plaintiffs urged, as a term of the injunction requested, that Janssen be ordered to comply only with
+lawful
+requests from Health Canada. I am satisfied that this places too great a burden on Janssen in determining whether the request is "lawful" or not. I am satisfied that Health Canada would not knowingly make an unlawful or frivolous request. Janssen would feel obliged to answer any request from Health Canada as best it could; therefore, I will make it clear in my Judgment that Janssen is free to respond to any request from Health Canada.
+XIV.
+A Letter
+[78]
+The Plaintiffs requested that I include as part of my Judgment, terms requiring Janssen to send a letter to Canadian physicians who had prescribed STELARA for the treatment of psoriasis in the previous year, and to dermatologists who had been visited by a Janssen representative for the purpose of detailing the use of STELARA for the treatment of psoriasis in the previous year. A draft of such a letter was provided, which, over two pages, states that Abbvie was the inventor of the use of IL-12 antibodies, that the patent was found to be valid and infringed by Janssen's STELARA, that every sale was an infringement, that this Court provided an injunction whereby limited use could continue, and so forth.
+[79]
+Understandably, Janssen has resisted any Order that would require it to send such a letter. It goes so far as to rely on section 2(b) of the
+Charter of Rights and Freedoms
+, and the decision of Justice Beetz of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> , where, at paragraph 81, he wrote, in respect of such a letter ordered by the Canada Labour Board to be written:
+I cannot be persuaded that the Parliament of Canada intended to confer on the Canada Labour Relations Board the power to impose such extreme measures, even assuming that it could confer such a power bearing in mind the Canadian Charter of Rights and Freedoms, which guarantees freedom of thought, belief, opinion and expression.
+[80]
+The Plaintiffs rely on a subsequent decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> , where Dickson CJ, for the majority, at paragraph 21, wrote that a tightly and carefully designed letter would minimally impair the rights of the parties and could be ordered in the particular facts of that case:
+21 Consider the facts of this particular case. The letter was tightly and carefully designed to reflect only a very narrow range of facts which, we saw, were not really contested. As already discussed, unlike in National Bank, supra, the employer has not been forced to state opinions ("views and sentiments", per Beetz J., at p. 295) which are not its own. Rather, the negative order seeks to prevent the employer from passing on an opinion, such prohibition being closely tied to the history of abuse of power which had been found to exist. Furthermore, that prohibition is very circumscribed. Firstly, it is triggered only in cases when the appellant is contacted for a reference and, secondly, there is no requirement to send the letter to anyone other then prospective employers. In sum, this is a much less intrusive and carefully designed order than that in National Bank in which the bank was required to send to a very large audience (all the employees and management staff of the bank) what amounted to a letter of contrition which conveyed the impression that certain opinions expressed therein were those of the employer.
+[81]
+In the present case, I asked Counsel for the Plaintiffs why the Plaintiffs themselves could not communicate with doctors to present the circumstances of their victory and the terms of an injunction. The answer was that they could, but that it would have greater weight if it came from Janssen. I am not persuaded that this is a sufficient basis upon which I should order that Janssen send such a letter. Such a letter is an exceptional thing to order; simply because a letter from Janssen, albeit a "forced" letter, may have greater weight; particularly from a marketing or bragging rights point of view, simply does not provide a sound basis for ordering such a letter to be sent.
+XV.
+Phase IV Trials
+[82]
+The Plaintiffs request, as a term of the injunction, that Janssen be precluded from conducting any Phase IV trial in Canada in respect of STELARA for use in the treatment of psoriasis.
+[83]
+As explained by Ms. Gryfe in her examination in chief, Volume 2, page 435, Phase IV clinical trials are conducted after the drug has been approved by Health Canada, and are voluntary. They are generally done to confirm or support information, and sometimes to support marketing efforts.
+[84]
+The Janssen executive, Nitert, in cross-examination, Volume 3, pages 484 and 485, stated that Janssen does not have any Phase IV studies underway, and none are planned.
+[85]
+Plaintiff's Counsel explained, in argument, that Phase IV studies would require recruitment by Janssen of persons suffering from psoriasis for the purpose of administering STELARA as a treatment, and analyzing the results.
+[86]
+The recruitment of new patients would, therefore, undermine the terms of the injunction sought. I agree.
+[87]
+Given that no Phase IV trials are underway or contemplated, and that such studies may undermine the terms of the injunction, the injunction shall include a prohibition against Phase IV trials by Janssen; unless, of course, they are required by law, in which case I expect Janssen to demonstrate any basis relied upon by it that the tests are required by law.
+XVI.
+Stay
+[88]
+Janssen requested in final argument that if I were to grant an injunction, that I stay the implementation of the injunction for a period of time. A selection of periods of time were suggested by Janssen's Counsel in closing submissions.
+[89]
+ <FRAGMENT_SUPPRESSED> I granted a stay of thirty (30) days, but I ordered that the monies received upon the sale of the drug in that period be set aside and put into a trust account:
+133 As to an injunction that remedy normally follows a finding that a valid patent has been infringed. While this action has gone on for a much lesser time than the  <FRAGMENT_SUPPRESSED> , action, here only about two years, it must be considered that this Court has in other proceedings refused to prohibit the granting of an NOC to the Defendant so that the Defendant had entered the market and commenced to sell its levofloxacin products. The English Court of Appeal in  <FRAGMENT_SUPPRESSED>  at 676 et seq reviewed the importance of the exercise of discretion in awarding a permanent injunction. Accordingly, an injunction will be granted, but to take effect only after thirty days from the date of issuing of these Reasons that is the period of time allowed for filing an appeal. In that time the Defendant's may continue to sell or otherwise dispose of its levofloxacin products already in its possession, custody or control, but only in the normal course of business and provided that all monies received in respect thereof are accounted for and held in a separate trust fund to be paid to the Plaintiffs or as they may direct by December 31, 2006. These monies are to be taken into consideration, by way of set off or otherwise, when a final calculation as to damages is made.
+[90]
+Neither party in the present action wanted me to make a similar order here.
+[91]
+While there are occasions where a stay is desirable, this is not one of them. First, Janssen has provided me with no evidence as to hardship that it would suffer. A party seeking a stay has an obligation to provide some evidence as to hardship. In fact, the evidence is to the contrary. This action was commenced in 2009; at that time, Janssen had just come on the market with STELARA. It knew that there would be some chance that an injunction could be granted; it took the risk. On January 17, 2014, I released a Judgment finding that Janssen's STELARA product infringed two valid claims of the '281 patent. At that point, Janssen was faced with the near certainty of an injunction. As Prothonotary Aalto put it in his reasons for his Order dated September 26, 2011, when he bifurcated the trial of infringement and validity from the remedies, at page 9:
+...Janssen would be ill-advised to continue selling the drug in the face of a finding of infringement.
+[92]
+Given all this advance warning, it is puzzling why Janssen would not have made appropriate plans to deal with an injunction. It did nothing. I repeat the answers given by Janssen's executive Nitert in cross-examination, Volume 3, page 488:
+Q. You are aware, sir, that in January this Court found that Stelara infringes Abbvie's patent"
+A. I'm aware.
+Q. And since that time, has Janssen done anything to curtail its marketing and sale of Stelara for psoriasis in Canada?
+A. No.
+Q. Has Janssen taken any steps to stop its promotion of Stelara for psoriasis in Canada?
+A. No.
+[93]
+Janssen was either ill-advised or afflicted with hubris.
+[94]
+A second reason for declining to grant a stay is that if Janssen takes a careful look at the terms of the injunction, what it must do immediately is curtail its marketing and advertising of STELARA as directed to psoriasis, and restrain itself from influencing doctors in choosing whether to prescribe the drug or not. Existing patients and new patients who need the drug continue to be able to receive it.
+[95]
+I am aware, through the affidavits of Emerys-Evans and Wilson, of proceedings in the United Kingdom Courts and the European Board of Technical Appeals. The United Kingdom proceedings brought by the Plaintiffs or their counterparts against Janssen counterparts for infringement of a patent that may be similar to the one at issue here; have been stayed, pending a final validity determination by the European Board. Wilson says that this is a normal practice in the circumstances.
+[96]
+I am also aware, as I commented in my earlier decision, 2014 FC 55, at paragraphs 86 to 88, of proceedings in the United States of the same nature. Janssen's Counsel advised that there was a stay there.
+[97]
+I do not consider the foreign proceedings to have any material bearing on the matters now before me. I will not grant a stay of the injunction.
+XVII.
+Conclusion and Costs
+[98]
+In conclusion, I will grant an injunction, with exceptions, in the terms recited in the Judgment issued contemporaneously with these Reasons.
+[99]
+I will award costs to the Plaintiffs at the high end of Column V. I do so, recognizing that the cost levels in this Court have fallen below those granted in many other Courts in Canada; because, other than full indemnity, these are the highest costs allowable. I award costs at this level because Janssen did not co-operate in endeavouring to craft a suitable Judgment; it did nothing in response to several drafts proposed by the Plaintiffs. I also do so because Janssen did nothing, following the release of my decision in January 2014, to curtail its activities.
+[100]
+In assessing its costs, the following principles shall apply:
+• the Plaintiffs are allowed the reasonable fees and disbursements of all of their experts, provided that the fees do not exceed the rates chargeable by the Plaintiffs' senior Counsel for like time;
+• the fees of two senior and two junior Counsel at the trial are allowed;
+• no fees or disbursements are allowed in respect of the evidence filed in the Court of Appeal and re-filed in this Court, as the Court of Appeal has already disposed of those costs
+• no fees or disbursements of any person other than Counsel and expert witnesses, as stated above, who attended at trial are allowed;
+• disbursements of fact witnesses are allowed; and
+• six copies of documents filed as exhibits or used in argument, in addition to that filed with the Court, are allowed.
+Order accordingly.
+Editor: Angela E. McKay/vnh

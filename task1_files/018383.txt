@@ -1,0 +1,387 @@
+Lambert v. Can. (A.G.), [DATE_SUPPRESSED] F.T.R. TBEd. JA.011
+MLB being edited
+Currently being edited for F.T.R. - judgment temporarily in rough form.
+Ashley Lambert (applicant) v. Attorney General of Canada (respondents)
+(T-2634-14)
+Leslie Sobey (applicant) v. Attorney General of Canada (respondent)
+(T-2635-14)
+Brian Gillespie (applicant) v. Attorney General of Canada (respondent)
+(T-2636-14; DATE_SUPPRESSED FC 1236)
+Indexed As: Lambert v. Canada (Attorney General)
+Temp. Cite: [DATE_SUPPRESSED] F.T.R. TBEd. JA.011
+Federal Court
+Manson, J.
+October 30, DATE_SUPPRESSED.
+Counsel:
+Jeff Pniowsky, for the applicants;
+Melissa Danish, for the respondent.
+Solicitors of Record:
+Thompson Dorfman Sweatman, LLP, Winnipeg, Manitoba, for the applicants;
+William F. Pentney, Deputy Attorney General of Canada, Winnipeg, Manitoba, for the respondent.
+Summary:
+The headnote and the decision for this document are in preparation. Any footnotes found in this case will appear below end of document.
+[1]
+Manson, J.
+: This is an application for judicial review of three second level decisions by a delegate of the Minister of National Revenue [the Delegate], represented here by the Attorney General of Canada [the Respondent], dated December 1, 2014, exercising his discretion to deny the Applicants' taxpayer relief requests to reassess their income tax returns for the 2003 through 2011 taxation years. Ashley Lambert, Leslie Sobey and Brian Gillespie [the Applicants] filed separate Notices of Application on December 30, 2014. Given that their applications are identical, they seek the same relief and their memoranda differ only marginally, this decision will deal with the three proceedings jointly, noting any differences where required.
+I.
+Background
+[2]
+The Applicants were in the business of training and racing horses during the 2003 through 2011 tax years, during which they did not report the horse operations because they were allegedly unaware it should be reported as a farm. In each of the relevant tax years the horse operation resulted in net farming losses.
+[3]
+In February and March of 2013, the Applicants, through their representative, submitted letters to the Canada Revenue Agency [CRA] requesting adjustments to their 2003 - 2011 tax returns to reflect the farming losses [First Level Taxpayer Relief Requests]. The letters reference the Supreme Court of Canada decision in
+REFERENCE_SUPPRESSED, the change in law it created, and claim the "[Applicants'] situation is comparable to the circumstances in Craig". The letters state the Applicants were unaware they should report their horse operations as a farm. The cumulative reassessment amount claimed for the years 2003 to 2011 by each Applicant is:
+• Ms. Lambert: $102,596.96
+• Mr. Sobey: $234,314.80
+• Mr. Gillespie: $214,779.41
+[4]
+In response to this request, on August 1, 2013, an auditor at the Winnipeg Tax Services Office informed the Applicants that the income tax returns submitted for the pertinent years had been selected for audit. An Audit Report was prepared, denying the Applicants' First Level Taxpayer Relief Requests on the basis that CRA policy does not permit income tax return adjustments if the request is made as a result of a court decision. This was communicated to the Applicants by letter in March and April of 2014, to which the Applicants requested that CRA undertake a second review of the first request [Second Level Taxpayer Relief Requests].
+[5]
+The files were transferred and assigned to the Saskatchewan Tax Services Office in Saskatoon for a review independent of the Winnipeg office. Following a review of the files, relevant CRA policies and guidelines, applicable case law, and an inquiry with the Technical Section of Business Audit of CRA, the auditor assigned to the files made a recommendation to deny all three Applicants' requests on the same basis as the first denial: that a court decision,
+CITATION_SUPPRESSED
+, had prompted the taxpayer relief requests and it would be against CRA policy to accept the requests for that reason [the Recommendation Reports]. In Ms. Lambert and Mr. Sobey's case, the auditor found it was possible they were unaware the horse operation constituted operating a farming business, but was not convinced of this in the case of Mr. Gillespie.
+[6]
+The Recommendation Reports rely in part upon CRA guidelines and policies, including:
+a. Information Circular 07-1 -
+Taxpayer Relief Provisions
+[
+IC07-1
+];
+b. Information Circular 75-7R3 -
+Reassessment of a Return of Income
+[
+IC75-7R3
+]; and
+c. Communication ATR-2014-02 -
+Retroactive Application of an Adverse Court Decision and Taxpayer Requested Reassessments
+, issued by the Taxpayer Relief and Service Complaints Directorate, Appeals Branch on July 28, 2014 [
+ATR 2014-02
+].
+[7]
+Mr. Wayne Turgeon, Acting Assistant Director of Audit in the Saskatchewan office [the Delegate], confirmed the recommendations to deny the Second Level Taxpayer Relief after reviewing the documents and correspondence set out above [the Decisions]. This was communicated to the Applicants by letter dated December 1, 2014 [the Decision Letters].
+[8]
+Mr. Turgeon provided an affidavit in this proceeding on behalf of the Respondent. The Affidavit outlines the decision-making process in respect of refunds or reductions in amounts payable beyond the normal three-year period pursuant to subsection 152(4.2) of the
+CITATION_SUPPRESSED
+. The Recommendation Report is based upon a review of the entire file, which is referred to a team leader and finally reviewed by the Director or Assistant Director, who makes a final decision.
+[9]
+The Applicants' representative, Gayle Callis, swore an Affidavit that sets out the relevant documents and correspondence.
+[10]
+The Decision Letters denying the Applicants' reassessment requests are virtually identical and state that CRA carefully considered the requests with regards to applicable legislation, CRA guidelines, the
+Taxpayer Bill of Rights
+, case law, the Applicants' compliance history, and reporting obligations under the self-assessment tax system. More weight was placed on CRA guidelines and taxpayer responsibilities under the self-assessment system.
+[11]
+The Delegate concluded that the requests were submitted in response to a court case and it is against CRA policy to reassess returns for that reason. The Minister's Delegate has discretion to deviate from its reassessing policy, however the Applicants were required to demonstrate that an extraordinary or exceptional circumstance prevented them from filing objections to the original assessments, which upon review of the facts, he determined was not the case.
+[12]
+The Decision Letters are based upon a review of the Recommendation Reports. The Reports are similar, with relevant differences outlined below.
+A.
+Recommendation Report (Lambert)
+[13]
+Unlike Mr. Sobey and Mr. Gillespie's Reports, Ms. Lambert's Report does not address whether her request, if filed on time, would have been allowed. It further states:
+[d]espite the fact that her father was operating a farming business of his own, it is possible that Ms. Lambert did not know she was required to report her horse operation on her tax return. ... However, the fact remains that Ms. Lambert's request was filed as a result of a court decision, and she must satisfy CRA that there were extraordinary or exceptional circumstances or situation that prevented her from filing an objection to the tax returns as originally filed.
+[14]
+The Report goes on to conclude that it was Ms. Lambert's responsibility to determine the reporting requirements for any operation undertaken with a business-like view. The fact that she was not aware that she was to report her operation as a farm was not exceptional or extraordinary. The Report does not analyse at any point whether the auditor was or was not satisfied CRA would have accepted the farm losses had they been filed on time. The request was denied.
+B.
+Recommendation Report (Sobey)
+[15]
+Mr. Sobey's Report questioned whether the horse operation was a business for certain years and readjusted the total amount that would be considered if reassessment were permitted. The auditor was not satisfied CRA would have accepted the farm losses if they had been filed as requested in the fairness request. This is because the claims would have been audited, and the auditor at the time would have applied
+REFERENCE_SUPPRESSED, the law of that day. The auditor states it is highly probable that Mr. Sobey's farm losses would have been restricted, although there is no indication on what this conclusion is based and the analysis does not consider how
+CITATION_SUPPRESSED
+would have led to this outcome. The request was denied.
+C.
+Recommendation Report (Gillespie)
+[16]
+An auditor at the Winnipeg Tax Services Office of the CRA initially assigned to the Second Level Taxpayer Relief Request, before it was transferred to the Saskatchewan office, prepared an unsigned draft Taxpayer Relief Decision Report recommending that the request be allowed.
+[17]
+In the official Recommendation Report, prepared at the Saskatchewan CRA Office, the auditor did not accept that Mr. Gillespie was unaware that the horse operation was a farming business. She found that Mr. Gillespie knew he was operating a business and chose not to report the income, which is considered careless under the self-assessment system. The reassessment was denied.
+II.
+Issues
+[18]
+The issues are:
+A. Is the Decision to deny the Applicants' request for taxpayer relief reasonable?
+i. Did the Minister's Delegate fetter his discretion under subsection 152(4.2) and paragraph 164(1.5)(a) of the
+CITATION_SUPPRESSED
+?
+ii. Did the Minister's Delegate provide adequate reasons?
+iii. Did the Minister's Delegate properly and reasonably apply CRA policy?
+III.
+Standard of Review
+[19]
+The Applicants claim that their allegations regarding inadequacy of reasons and fettering discretion are issues of procedural fairness and should be reviewed on a correctness standard (REFERENCE_SUPPRESSED citing
+REFERENCE_SUPPRESSED).
+[20]
+The Federal Court of Appeal [FCA] has determined that the appropriate standard of review for exercises of discretion under subsection 152(4.2) of the
+CITATION_SUPPRESSED
+is reasonableness (REFERENCE_SUPPRESSED).
+[21]
+In the particular circumstances, the Minister is owed considerable deference, as the discretion afforded under subsection 152(4.2) is broad and policy-based (REFERENCE_SUPPRESSED).
+[22]
+The Supreme Court has determined that where reasons exist, lack of adequate reasons is not a standalone ground for judicial review but instead forms part of the analysis of whether a delegate's decision is reasonable (
+REFERENCE_SUPPRESSED).
+[23]
+In
+REFERENCE_SUPPRESSED, Justice David Stratas of the Court of Appeal reasoned that although
+Dunsmuir
+did not discuss how a ground such as fettering discretion falls within the standard of review analysis, the result is the same:
+Any decision that draws upon something other than the law - for example a decision based solely upon an informal policy statement without regard or cognizance of law, cannot fall within the range of what is acceptable and defensible and, thus, be reasonable as that is defined in
+Dunsmuir
+at paragraph 47. A decision that is the product of a fettered discretion must per se be unreasonable (at para 24).
+[24]
+I find that all three issues should be reviewed on a reasonableness standard.
+IV.
+Analysis
+[25]
+The relevant provisions of the
+Income Tax Act
+, 1985, C 1 (5th Supp) [
+CITATION_SUPPRESSED
+] and CRA policies are attached as Appendix A.
+A.
+Did the Minister's Delegate fetter his discretion under subsection 152(4.2) and paragraph 164(1.5)(a) of the ITA?
+[26]
+Subsection 152(4.2) and paragraph 164(1.5)(a) of the
+CITATION_SUPPRESSED
+are discretionary provisions. Since the subsections themselves do not list factors to consider or qualify the scope of the Minister's discretion in determining whether a taxpayer request for reassessment should be approved, reference is made to the guidelines set out in Part IV of
+IC07-1
+.
+[27]
+The Applicants argue that the Delegate relied on CRA policy not as a guideline, but as a statement of law. They claim he followed the policy's direction not to reassess a statute-barred return if the request is made as a result of a court decision as a complete bar to the Applicants' relief requests, ignoring other relevant considerations. This constitutes an improper fettering of discretion and narrowed its scope to that of CRA policy, thereby rendering the Decision to deny relief to the Applicants' requests unreasonable.
+[28]
+Reliance on CRA Information Circulars is acceptable, within limits (
+CITATION_SUPPRESSED): they generate a more organized analysis and enhance consistency and public accountability (REFERENCE_SUPPRESSED). However, administrative decision-makers cannot reduce the discretion afforded them by the legislature by giving guidelines the force of law (
+CITATION_SUPPRESSED;
+REFERENCE_SUPPRESSED).
+[29]
+Contrary to the Applicants' view that the Delegate fettered his discretion by only applying CRA policy, it appears that the Report did in fact address and analyze other relevant considerations. The Decision Letters state that reliance on a court decision was one of two factors upon which the Delegate placed more weight in his conclusion. It did not serve as an outright bar to relief, as the Applicants allege.
+[30]
+In making discretionary decisions, the Delegate has the freedom to find some factors more persuasive and afford them more weight than others. His decision to rely more heavily on CRA policies and taxpayer responsibilities under the self-assessment system does not indicate that he raised guidelines to the level of law and in so doing fettered his discretion. Allocating more weight to certain factors over others is part and parcel of an administrative decision-maker's task when exercising discretionary authority and it does not in itself suggest the Decisions were unreasonable.
+[31]
+Excerpts from the Reports also show that the auditor and Delegate, who reviewed the Reports in making a final determination, were aware of the law regarding fettering discretion under the pertinent provisions of the
+CITATION_SUPPRESSED
+.
+[32]
+The Delegate's Decision was not based solely upon an informal policy statement without regard to or appreciation of the law. The Reports set out the Applicants' particular situations and consider the legislation, policies, related jurisprudence and discuss the First Level Review auditor's legal errors created by his fettering of discretion. Although the policy's guidance that requests submitted in response to a court case should not be granted relief was clearly persuasive to the Decision, there is no evidence that the Delegate felt bound or fettered by the guideline.
+B.
+Did the Minister's Delegate provide adequate reasons?
+[33]
+The Applicants contend that the Court should not consider the record as part of the reasons in this case. They claim that since the Delegate's decision to deny relief was exclusively governed by CRA policy, the reasoning in
+CITATION_SUPPRESSED
+applies, where the FCA found that the Minister's decision was entirely governed by the Information Circular. In that case, it was not appropriate to resort to the record in assessing the reasons provided in his decision letter, as he did not consider the record in coming to his decision (at para 38).
+[34]
+The present circumstances are not analogous: nothing in the Decision Letters suggest the Delegate thought he was bound exclusively by the Information Circulars. Instead, the letters outline the various considerations at play and state that ultimately the Delegate "placed more weight on CRA guidelines and taxpayer responsibilities under the self-assessment system," not that he was bound to do so.
+[35]
+In the present circumstances, the adequacy of reasons should be examined in the context of the record before the Delegate. The Delegate accepted the recommendations made in the Reports, thus their content helps to serve as justification for and may constitute part of the reasons for the impugned Decision (REFERENCE_SUPPRESSED).
+[36]
+The Decision Letters as well as the Reports adequately explain the reasons for the refusal of relief.
+[37]
+While the Decision Letters alone do not address the Applicants' reasons for requesting taxpayer relief, the Recommendation Reports make explicit findings regarding whether the Applicants were unaware they could claim their operations as income from a farm. Ms. Lambert's Report states "it is possible that Ms. Lambert did not know she was required to report her horse operation on her tax-return" (Recommendation Report, p 9; AR (Lambert), p 28). Mr. Sobey's Report is to the same effect (Recommendation Report, p 10; AR (Sobey), p 32). Mr. Gillespie's Report states that the auditor did not accept that Mr. Gillespie was unaware that the horse operation was a farming business and sets out the reasons why. The auditor concluded that a conversation between Mr. Gillespie and his representative pertaining to the
+CITATION_SUPPRESSED
+case prompted his requested adjustment (Recommendation Report, p 10; AR (Gillespie), p 32).
+[38]
+Although the Decision Letters do not state upon which court case the Applicants relied, or how the Delegate came to this conclusion, the Recommendation Reports explain the case law, connecting factors between the Applicants that led the auditor to believe they were submitted in response to a court case, and correspondence from the Applicants' representative referencing a court decision.
+[39]
+The Delegate is not required to enumerate each finding of fact and the Decision does not have to be perfect to withstand review (
+REFERENCE_SUPPRESSED). For reasons to be inadequate, they must contain no line of analysis that could reasonably lead the Delegate from the evidence to the conclusion arrived at (REFERENCE_SUPPRESSED). Although the Decision Letter could have provided more information regarding how the Delegate arrived at his conclusion, and should have at the very least expressly addressed the Applicants' stated reasons for their taxpayer relief requests, it cannot be said that the Decision, when viewed in conjunction with the Report, contains no line of analysis reasonably leading the Delegate to his conclusion. The Decision Letters and Reports considered together show how and on what evidence the Delegate relied in arriving at his ultimate conclusion (
+REFERENCE_SUPPRESSED).
+C.
+Did the Minister's Delegate properly and reasonably apply CRA policy?
+[40]
+The Applicants argue that the Delegate improperly applied CRA policy. They claim it is unclear from the Decisions whether or not the Delegate's reliance on "taxpayer responsibilities under the self-assessment system" constitutes an application of paragraph 71 of Part IV of
+IC07-1
+, which guides the appropriate considerations in making a decision under subsection 152(4.2).
+[41]
+For ease of reference, the applicable paragraphs of
+IC07-1
+state:
+71. The CRA may issue a refund or reduce the amount owed if it is satisfied that such a refund or reduction would have been made if the return or request had been filed or made on time, and provided that the necessary assessment is correct in law and has not been already allowed.
+87. CRA policy does not allow for the reassessment of a statute-barred return if the request is made as a result of a court decision (for more information, see Information Circular 75-7R3, Reassessment of a Return of Income). Requests made to reassess a statute-barred return based only on the successful appeal by another taxpayer will not be granted under subsection 152(4.2).
+[42]
+Mr. Turgeon's affidavit states that the following factors are considered in deciding whether a refund or reduction in tax will be issued:
+(a) whether the request is made as a result of a court decision;
+(b) whether the taxpayer has a history of compliance with tax obligations;
+(c) whether the taxpayer has knowingly allowed a balance to exist in which arrears or interest has accrued;
+(d) whether the taxpayer has exercised a reasonable amount of care, and has not been negligent in conducting their affairs under the self-assessment system; and
+(e) whether the taxpayer has acted quickly to remedy any delay or omission (Affidavit of Wayne Turgeon; AR (Lambert), p 348-481 at 353, para 6).
+[43]
+Factors (b) through (e) are listed under Part II, not Part IV, of
+IC07-1
+and relate to cancellation or waiver of penalties and interest. Thus, the Applicants' argue the Delegate incorrectly applied the above factors intended for a different type of taxpayer relief request to their requests for reassessment. The Applicants were not advised these factors were taken into account and they are not referenced in the Decision.
+[44]
+The Recommendation Reports addressed and analyzed the content of factors (b) through (e), although they were not specifically referred to. Considering relevant factors above and beyond the guidelines is not unreasonable: the guidelines are not binding, nor intended to be exhaustive (
+CITATION_SUPPRESSED). Although factors (b) through (e) are not listed under Part IV of
+IC07-1
+, they strike me as relevant considerations to a Delegate's determination of whether or not to issue a refund or reduction in tax under the
+CITATION_SUPPRESSED
+'s fairness provisions, particularly under the guidance of paragraph 71 and where the Delegate placed weight on self-reporting obligations.
+[45]
+The Applicants also submit that the Delegate failed to consider their stated reasons for reassessment - that they were unaware they were to claim their horse operations as a farm.
+[46]
+The Recommendation Reports canvassed the Applicants' submissions, the First Level Decisions and outline the steps taken and documents reviewed in conducting the Second Level Taxpayer Relief Requests. The Reports set out the applicable legislation, policies, guidelines and case law, including
+CITATION_SUPPRESSED
+. All three Reports discuss the Applicants' stated reasons for reassessment, and made findings as to whether the evidence indeed suggested they were unaware they were to claim their horse operations as a farm. The Reports also describe the connecting factors between the Applicants' claims that led the auditor to believe that they were submitted in response to a court case, which include the following:
+(a) taxpayer relief was filed by the same authorized representative, approximately two weeks apart (six months after the decision in
+CITATION_SUPPRESSED
+), and involved the same type of activities and tax issues;
+(b) all tax years requesting an adjustment resulted in a net loss;
+(c) the Applicants requested that farm losses not be restricted pursuant to
+CITATION_SUPPRESSED
+;
+(d) all requests were on the same basis - that the taxpayers did not know their activities constituted a business for income tax purposes; and
+(e) one of the three (Mr. Gillespie) explicitly stated that the taxpayer relief was filed in response to a court case, stating "[t]he legal interpretation and Supreme Court decisions released in 2012 prompted a submission of the adjustment requests from 2003 forward to 2011" (CRA Audit Report, Ashley Lambert; AR, p 56);
+(f) Mr. Gillespie is Ms. Lambert's father.
+[47]
+The Reports were thorough and it is simply not accurate or reasonable to claim that the Delegate failed to consider relevant evidence in coming to his Decisions.
+[48]
+The Respondent argues that the decision in
+CITATION_SUPPRESSED
+is a complete answer to the Applicants' position, and that he Court should only concern itself with the adequacy and reasonableness of the Decision, not the policy in Information Circulars relied upon in support of that Decision.
+[49]
+I disagree. The reasonableness of the policy is clearly at play: if a Decision relies primarily on an unreasonable policy, it cannot be considered reasonable.
+[50]
+The Court was directed to the decision in
+CITATION_SUPPRESSED. I find the Court of Appeal's interpretation of the provisions and policies applicable to the present case:
+31 Seen in this way, subsection 152(4.2) of the
+Income Tax Act
+is like any other section that vests a broad discretion in a decision-maker, a discretion founded upon legal and factual matters. Here, the Minister (or, in this case, the Delegate) must, in the words of section 71 of
+Information Circular 07-1-Taxpayer Relief Provisions
+, be "satisfied that such a refund or reduction would have been made if the return or request had been filed on time" - this is the component in the discretion that has some legal content - and may take into account a number of other factors, many of which are also enumerated in the Information Circular.
+52 In making her decision, the Delegate closely followed the relevant Information Circular,
+Information Circular 07-1-Taxpayer Relief Provisions
+, and reached an outcome that was consistent with it. As is well-known, Information Circulars such as this have the legal status as policies or guidelines, not laws.
+54 Compliance by an administrative decision-maker with unchallenged policy statements and guidelines has been taken to be an indicator - not a conclusive one - of reasonableness:
+REFERENCE_SUPPRESSED. Similarly, on occasion, a decision's unexplained deviation from policy statements and guidelines can raise concerns about its reasonableness:
+REFERENCE_SUPPRESSED.
+57 Also relevant are paragraphs 73, 87 and 88 of the Information Circular. Broadly speaking, these provisions prevent persons seeking reassessment after the normal deadlines have expired from taking advantage of later changes in the law or its application. These provisions read as follows:
+73....The ability of the CRA to allow an adjustment to amounts for a statute-barred tax year should not be used as a means to have issues reconsidered ... [where the individual] chose not to challenge the issues through the normal objection/appeals processes....
+87. CRA policy does not allow for the reassessment of a statute-barred return if the request is made as a result of a court decision (for more information, see Information Circular 75-7R3, Reassessment of a Return of Income). Requests made to reassess a statute-barred return based only on the successful appeal by another taxpayer will not be granted under subsection 152(4.2) ...
+58 The Delegate followed these provisions of the Information Circular. In her reasons for decision, she stated:
+The CRA policy also states that the taxpayer relief provisions are not an acceptable substitute for the retroactive application of an adverse decision of a court where the taxpayer has not protected his or her right of objection or appeal.
+59 For completeness, I would add that there is no suggestion that the Delegate fettered her discretion by using the Information Circular in the way she did. In the circumstances of this case, her compliance with the Information Circular is an indication that her decision was reasonable.
+60 The Delegate then assessed whether, in the words of paragraph 71 of the Information Circular, she was "satisfied that...a refund or reduction would have been made if the return or request had been filed or made on time." This entailed an examination of the case law concerning section 87 of the
+Indian Act
+. She looked at each taxation year, assessed what the state of the law under section 87 was at that time, and asked whether the respondents would be entitled to a reduction of tax in that year in light of the state of the law in that year.
+61 This methodology of conducting a year-by-year examination of the state of the law is supported by the wording of subsection 152(4.2) of the
+Income Tax Act
+. If the Delegate adopted a methodology that were contrary to subsection 152(4.2), her exercise of discretion would fall outside the range of legal acceptability and defensibility. But that is not the case here.
+66 In fact, in my view, this reasoning is unassailable. It supports the view that in each of the taxation years 1985 to 1991, the Minister would not have been "satisfied that...a refund or reduction would have been made if the return or request had been filed or made on time."
+[51]
+The outcome in
+CITATION_SUPPRESSED
+- that the Minister's decision was reasonable - is based upon the Delegate having conducted a detailed year-by-year examination of the state of the law as it applied to the tax years in question to conclude whether or not she was satisfied a refund or reduction would have been made had the return or request been filed on time. This is not the case here; the Delegate did not analyze the 2003 through 2011 tax years according to the law at the time, and in fact did not rest his Decision on any findings regarding same.
+[52]
+Taxpayer responsibilities under the self-assessment system were also cited as influential to the final Decision. The Applicants are responsible for ensuring that their tax returns are filed correctly under Canada's self-assessing tax system (REFERENCE_SUPPRESSED). The Minister has no obligation to reassess the years originally assessed as filed. As the FCA stated in
+REFERENCE_SUPPRESSED, "[t]he granting of relief is discretionary, and cannot be claimed as of right."
+[53]
+What the Respondent did not refer the Court to in the
+CITATION_SUPPRESSED, where the FCA stated:
+53 It would be open to a party to argue that the Delegate has misinterpreted subsection 152(4.2) of the
+Income Tax Act
+or that the Information Circular is inconsistent with subsection 152(4.2), such that the Delegate's reliance on the Information Circular is contrary to law. But the respondents do not make these arguments in this case.
+[54]
+The interpretation of subsection 154(4.2) and whether the Information Circulars are congruent with this interpretation is precisely what the Applicants are challenging in this case. They claim that reliance on CRA policy not to allow requests based solely on a court decision is subjective, leads to absurdity and is unreasonable.
+[55]
+On this point, I disagree. The Delegate's conclusion that the request is based on a court decision comes from an objective assessment of the evidence. As well, any subjective element to the decision-making does not render a Decision ad hoc and lead to uncertainty or inconsistency.
+[56]
+As the Respondent submits, the policies are not inconsistent with the fairness provisions of the
+CITATION_SUPPRESSED
+. The applicable paragraphs of
+IC07-1
+(71 and 87) align with the objective of subsection 152(4.2), setting out that taxpayers seeking reassessment after the expiry of normal deadlines should not be able to take advantage of later changes in the law (
+CITATION_SUPPRESSED). This is emphasized in Communication
+ATR-2014-02
+. Inconsistency and absurd results are more likely to ensue if CRA were to permit taxpayers to retroactively apply a subsequent change in the law through reassessment requests every time a court decision changed it.
+[57]
+In my opinion, the policy is not unlawful or unreasonable, nor is the Delegate's reliance on it.
+[58]
+I do however find that the outcome the Delegate reached was unreasonable in the case of Ms. Lambert and Mr. Sobey, as the evidence and findings suggest they did not request reassessments solely based on a court case. The situation is different for Mr. Gillespie, as there is more evidence upon which the Delegate could reasonably conclude his request was based solely on a court decision.
+[59]
+I agree with the Applicants that a policy purporting to ignore stare decisis, jurisprudence and the proper interpretation of legislation would quite obviously be unreasonable. However, in my view, which coincides with the FCA's interpretation, that is not what the policy purports to do. Its purpose is to "prevent persons seeking reassessment after the normal deadlines have expired from taking advantage of later changes in the law or its application" (
+CITATION_SUPPRESSED). The policy has as its underlying objective promoting certainty and finality in an area of law that deals annually with individual taxpayers' situations and the law as it applies in those years. In my opinion, that fact, and the policy's narrow application (only being relevant when a request is based
+solely
+on a court decision) does not make the policy - if applied appropriately - contrary to law.
+[60]
+However, if the Minister's Delegate is claiming to have relied on the policy in coming to his Decision, the policy must be properly applied for the Decision to be reasonable.
+[61]
+The record demonstrates that it was not entirely evident the requests (at least for Ms. Lambert and Mr. Sobey) were filed in response to a court case. In the memo to the file of Ashley Lambert, Mr. Omaga, auditor at the Winnipeg office who audited the First Level Taxpayer Requests, stated in his November 29, 2013 note (excerpt):
+I advised AM of Joe's recommendation and AM confirmed that I should seek the opinion from one of the contacts listed on
+REFERENCE_SUPPRESSED
+. Although, AM stated that we cannot wait too long for them to get back to us. AM indicated that we have to carefully looked at the issue and Joe Gaspar confirmed that there is no basis to deny the TPR as no solid evidence that it was filed in response to a court case.
+[62]
+Moreover, the policy states that the Minister is to disallow reassessments based
+solely
+on a court decision. I am sympathetic to the Applicants' arguments that by simply referring to a court decision, they were deemed to have "solely" relied on it. As well, there appears to be evidence, (and in the case of the Lambert and of the Sobey Decisions, the Report indeed found) that it is possible they were unaware they should claim their horse operations as farm property until early 2013, the date of their request. This constitutes an explanation for their request for reassessment, and thus reliance on a court decision cannot reasonably be said to be the sole reason for the Applicants' requests. A determination that it was the sole motivation is unreasonable given the evidence and Report's findings.
+[63]
+Had the Applicants applied for reassessment on the basis of being unaware that they could claim their operation as a farm, with no mention of
+CITATION_SUPPRESSED
+, there does not appear to be anything else in the Decision to suggest they would not be reassessed. The record shows that this consideration was the primary, and in reality probably only, reason for the denial of reassessment of Ms. Lambert and Mr. Sobey's requests. The Delegate misapplied the policy, which makes the Decision unreasonable for both individuals.
+[64]
+In contrast, the auditor did not accept that Mr. Gillespie was unaware he should claim his horse operation as a farm, finding he simply chose not to claim his losses until this application. Further, his evidence shows that he told CRA in response to a questionnaire that a court case prompted his request. The application of the policy to his situation is not unreasonable on the facts.
+[65]
+THIS COURT'S JUDGMENT is that
+:
+1. With respect to Ms. Lambert's application in Court file T-2634-14, the application is allowed and the decision denying her request for reassessment for the tax years 2003 to 2011 is quashed and the matter is remitted back to the Minister for reconsideration and redetermination in accordance with the reasons herein;
+2. With respect to Mr. Sobey's application in Court file T-2635-14, the application is allowed and the decision denying his request for reassessment for the tax years 2003 to 2011 is quashed and the matter is remitted back to the Minister for reconsideration and redetermination in accordance with the reasons herein;
+3. With respect to Mr. Gillespie's application in Court file T-2637-14, the application is dismissed;
+4. Costs to the Applicants Ms. Lambert and Mr. Sobey in Court files T-2634-14 and T-2635-14, respectively;
+5. Costs to the Respondent in Court file T-2637-14.
+APPENDIX A
+Income Tax Act
+, 1985, c 1 (5th Supp)
+Reassessment with taxpayer's consent
+152(4.2)
+Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining?- at any time after the end of the normal reassessment period, of a taxpayer who is an individual (other than a trust) or a graduated rate estate, in respect of a taxation year?- the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under this Part by the taxpayer for the year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is 10 calendar years after the end of that taxation year,
+(a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year; and
+(b) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 122.8(2) or (3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+Refunds: Exception
+164(1.5)
+Notwithstanding subsection (1), the Minister may, on or after sending a notice of assessment for a taxation year, refund all or any portion of any overpayment of a taxpayer for the year
+(a) if the taxpayer is an individual (other than a trust) or a graduated rate estate for the year and the taxpayer's return of income under this Part for the year was filed on or before the day that is 10 calendar years after the end of the year;
+Nouvelle cotisation et nouvelle détermination
+152(4.2)
+Malgré les paragraphes (4), (4.1) et (5), pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable - particulier (sauf une fiducie) ou succession assujettie à l'imposition à taux progressifs - pour une année d'imposition, le remboursement auquel le contribuable a droit à ce moment pour l'année ou la réduction d'un montant payable par le contribuable pour l'année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d'imposition, à la fois:
+a) établir de nouvelles cotisations concernant l'impôt, les intérêts ou les pénalités payables par le contribuable pour l'année en vertu de la présente partie;
+b) déterminer de nouveau l'impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 122.8(2) ou (3), 127.1(1), 127.41(3), ou 210.2(3) ou (4), avoir été payé au titre de l'impôt payable par le contribuable en vertu de la présente partie pour l'année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l'année.
+Remboursement: Exception
+164(1.5)
+Malgré le paragraphe (1), le ministre peut, à la date d'envoi d'un avis de cotisation pour une année d'imposition ou par la suite, rembourser tout ou partie d'un paiement en trop d'un contribuable pour l'année si, selon le cas:
+a) le contribuable est un particulier (sauf une fiducie) ou une succession assujettie à l'imposition à taux progressifs pour l'année et sa déclaration de revenu pour l'année en vertu de la présente partie a été produite au plus tard le jour qui suit de dix années civiles la fin de l'année d'imposition;
+CRA Policies and Guidelines
+Information Circular 07-1
+-
+Taxpayer Relief Provisions
+[IC07-1] Part IV, "Guidelines for Refunds or Reduction in Amounts Payable Beyond the Normal Three-Year Period"
+Acceptance of a Refund or Adjustment Request
+¶ 71. The CRA may issue a refund or reduce the amount owed if it is satisfied that such a refund or reduction would have been made if the return or request had been filed or made on time, and provided that the necessary assessment is correct in law and has not been already allowed.
+Requests Based on a Court Decision or Other Resolution
+¶ 87. CRA policy does not allow for the reassessment of a statute-barred return if the request is made as a result of a court decision (for more information, see Information Circular 75-7R3, Reassessment of a Return of Income). Requests made to reassess a statute-barred return based only on the successful appeal by another taxpayer will not be granted under subsection 152(4.2).
+¶88. Similarly, knowledge of another taxpayer's negotiated settlement to resolve an objection, or another taxpayer's consent to judgment on an appeal, will not be extended to permit a reassessment of a taxpayer's statute barred return under subsection 152(4.2), if the taxpayer has chosen not to protect his or her right of objection or appeal.
+Acceptation d'une demande de remboursement ou de rajustement
+¶ 71. L'ARC peut émettre un remboursement ou réduire le montant dû si elle est convaincue qu'un tel remboursement ou une telle réduction aurait été accordé si la déclaration ou la demande avait été produite ou présentée à temps et à condition que la cotisation à établir soit conforme à la Loi et qu'elle n'ait pas déjà été accordée.
+Demandes fondées sur une décision judiciaire ou autre règlement
+¶ 87. La politique de l'ARC ne permet pas l'établissement d'une nouvelle cotisation à l'égard d'une déclaration frappée de prescription si la demande est motivée par une décision judiciaire (pour obtenir de plus amples renseignements, veuillez consulter la circulaire d'information IC75-7R3, Nouvelle cotisation relative à une déclaration de revenus). Les demandes visant l'établissement d'une nouvelle cotisation à l'égard d'une déclaration frappée de prescription fondée uniquement sur le fait qu'un autre contribuable a obtenu gain de cause dans le cadre d'un appel ne seront pas acceptées en vertu du paragraphe 152(4.2).
+¶88. De même, la connaissance d'un règlement négocié d'un autre contribuable visant à régler une opposition, ou d'un consentement à jugement à l'égard d'un appel d'un autre contribuable ne pourra être utilisée pour permettre l'établissement d'une nouvelle cotisation à l'égard de la déclaration frappée de prescription d'un contribuable en vertu du paragraphe 152(4.2) lorsque le contribuable a choisi de ne pas protéger son droit de faire opposition ou d'interjeter appel.
+Information Circular75-7R3
+-
+Reassessment of a Return of Income
+[IC75-7R3]
+Reassessment to reduce tax payable
+4. A reassessment to create a refund ordinarily will be made upon receipt of a written request by the taxpayer, even if a notice of objection has not been filed within the prescribed time, provided that
+a) the taxpayer has, within the four year filing period required by subsection 164(1), filed the return of income;
+b) the Department is satisfied that the previous assessment or reassessment was wrong;
+c) the reassessment can be made within the four year period or the seven-year period, as the case may be, referred to in paragraph 1 above or, if that is not possible, the taxpayer has filed a waiver in prescribed form;
+d) the requested decrease in taxable income assessed is not based solely on an increased claim for capital cost allowances or other permissive deductions, where the taxpayer originally claimed less than the maximum allowable; and
+e) the application for a refund is not based solely upon a successful appeal to the Courts by a taxpayer.
+Nouvelle cotisation visant à réduire l'impôt à payer
+4. Sur réception d'une demande écrite du contribuable, le Ministère établit ordinairement une nouvelle cotisation pour donner un remboursement, même si un avis d'opposition n'a pas été produit dans le délai prescrit, pourvu
+a) que le contribuable ait produit la déclaration de revenu dans le délai de quatre ans mentionné au paragraphe 164(1);
+b) que le Ministère soit convaincu que la cotisation ou nouvelle cotisation précédente était inexacte;
+c) qu'il soit possible d'établir une nouvelle cotisation dans le délai de quatre ans ou de sept ans, selon le cas, dont il est fait mention au numéro 1 précédent ou, s'il n'est pas possible de remplir cette condition, que le contribuable ait produit une renonciation en la forme prescrite;
+d) que la réduction du revenu imposable établi ne résulte pas uniquement d'une majoration des déductions pour amortissement ou d'autres déductions laissant une marge de manoeuvre au contribuable, lorsque ce dernier a demandé au départ une déduction inférieure au maximum déductible; et
+e) que la demande de remboursement ne se fonde pas uniquement sur un appel devant les tribunaux d'un autre contribuable ayant eu gain de cause.
+Communication ATR 2014-02
+-
+Retroactive Application of an Adverse Court Decision and Taxpayer Requested Reassessments,
+Issued by the Taxpayer Relief and Service Complaints Directorate, Appeals Branch on July 28, 2014 [ATR 2014-02].
+Relevant Excerpt:
+The policy is meant to limit the application of changes in the interpretation or application of the law resulting from a successful appeal of another taxpayer when the prescribed time limit to object or appeal an (re)assessment as expired. The discretionary authority to reassess a return under either subsection 152(4) or (4.2) should not be used as an indirect method for the retroactive application of an adverse court decision where taxpayers have chosen no to challenge an (re)assessment through the normal objection or appeal mechanism provided for under the ITA. Such reassessments would undermine the purpose of the objection and appeal process.
+However, the reassessment provisions are discretionary in nature and strict policy adherence to refuse an adjustment related to an adverse court decision without proper consideration of the specific circumstances of the request would be an inappropriate use of discretion. There may be exceptional situations that would warrant the agency to deviate from its reassessing policy when the taxpayer can demonstrate he or she had an intention of filing a notice of objection or appeal, but was unable to act due to exceptional circumstances. Every case must be considered on its own merit.
+Departure from the policy to reassess a prior tax return and apply an adverse court decision retroactively should be in rare and exceptional circumstances.
+[End of document]

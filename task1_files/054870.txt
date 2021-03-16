@@ -1,0 +1,1225 @@
+[1]
+Zinn, J.
+: This is an action for damages under section 8 of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 [the
+PMNOC Regulations
+].
+[2]
+Teva Canada Limited is the corporate successor to the original plaintiff, ratiopharm inc.  <FRAGMENT_SUPPRESSED> . The Defendant, Pfizer Canada Inc. [Pfizer] is the corporate successor to the original defendants, Wyeth and Wyeth Canada  <FRAGMENT_SUPPRESSED> .
+[3]
+In 2010, Ratiopharm was sold to Novopharm Limited  <FRAGMENT_SUPPRESSED>  which, shortly before the acquisition, changed its name to Teva Canada Limited. On August 10, 2010, Ratiopharm and Teva Canada Limited amalgamated under the name Teva Canada Limited  <FRAGMENT_SUPPRESSED> , the current Plaintiff. Novopharm, prior to its purchase of Ratiopharm, plays a separate and independent role in the issues under consideration. As a result, the relevant facts are more easily understood if the names of the pharmaceutical companies in the 2005 to 2007 period are maintained throughout notwithstanding subsequent corporate changes. Accordingly, I shall refer to the relevant pharmaceutical companies as Ratiopharm, Novopharm and Wyeth.
+[4]
+These reasons use the following headings for ease of reference:
+-
+Para.
+The PMNOC Regime
+5
+Background to the Action
+14
+The Issues
+25
+The Evidence
+29
+What is the Relevant Period?
+42
+What is the size of the Overall Venlafaxine Market?
+66
+What is Ratiopharm's Share?
+82
+--(a) Would any other generics have entered the market during the Relevant period and, if so, when would they have launched?
+90
+---
+Novo-Venlafaxine
+93
+---
+PMS-Venlafaxine
+130
+--
+(b) At what date would Ratiopharm have launched and were they any impediments to it being able to supply the market?
+144
+--(c)
+When would Ratiopharm and its generic competitors have been listed on the provincial formularies?
+160
+---
+Ratiopharm formulary listing
+161
+---
+Novopharm formulary listing
+176
+--(d) Pipe-fill
+186
+What is the value of Ratiopharm's Lost Sales in the Relevant Period?
+191
+--(a) At what price would Ratiopharm have sold its product in each province?
+192
+--(b) When does Ratiopharm's price change from single-source to multi-source in each province?
+195
+--(c) What would Ratiopharm's trade-spend (or rebates or allowance expense) have been during the Relevant Period?
+207
+---
+What is Ratiopharm's single-source trade-spend rate?
+208
+---
+What is Ratiopharm's multi-source trade-spend rate?
+222
+---
+When does Ratiopharm's multi-source trade-spend rate take effect?
+228
+--
+(d) What costs would Ratiopharm have incurred?
+233
+What deductions, if any, should the Court make under s. 8(5)?
+235
+--
+(a) Did Ratiopharm's validation and launch process contravene the Food and Drug process contravene the Food and Drug Regulations? If so, what effect does this have?
+236
+--(b)
+Should the Court not include ramp-up in the Relevant Period?
+240
+Interest
+255
+Costs
+261
+Conclusion and Summary
+262
+Postscript
+264
+The PMNOC Regime
+[5]
+The PMNOC Regime in existence at the time relevant to this action, is fully explained by Justice Sharlow in
+ <FRAGMENT_SUPPRESSED>  at paras 3 to 36. Given the issues raised in this action, only a very brief recitation of the principles relevant to this action is required to provide a framework to the analysis that follows.
+[6]
+In order to market a drug in Canada, a manufacturer must have received a notice of compliance [NOC] and a drug identification number [DIN] from the Minister of Health. If the drug is new, the innovator manufacturer submits a new drug submission [NDS] to the Minister with data sufficient to establish its safety and efficacy. Upon approval, the Minister issues the manufacturer a NOC which permits the drug to be marketed in Canada, and a DIN which attests that the product has passed a review of its formulation, labelling and instructions for use. After these issues, if the manufacturer wishes to effect any change, it must file a supplement to a new drug submission [SNDS], for which a separate NOC will be issued.
+[7]
+Where a generic drug manufacturer seeks a NOC on the basis of a comparison between its drug and the innovator's previously approved original drug, the generic manufacturer submits an abbreviated new drug submission [ANDS] demonstrating that the generic formulation is bioequivalent to the innovator's drug by cross-referencing clinical trials regarding safety and effectiveness undertaken by the innovator. Through this process, a generic manufacturer is able to demonstrate the safety and effectiveness of its drug without having to undertake its own clinical trials.
+[8]
+The
+PMNOC Regulations
+require the Minister to maintain a public register of patents pertaining to drugs for which a NOC has issued [the Patent Register]. The person who has filed a NDS or SNDS files a list of all the relevant patents pertaining to that specific submission or supplement, and these patents are then entered on the Patent Register. In order to be listed on the Patent Register, patents must satisfy the subject matter and relevance requirements in the
+PMNOC Regulations
+. Every patent on the Patent Register is specifically tied to a NDS or SNDS, and the corresponding NOC.
+[9]
+When the generic drug manufacturer's ANDS compares the generic drug to a brand or innovator drug and a patent is listed in respect of that innovator drug, the generic drug manufacturer is required by section 5 of the
+PMNOC Regulations
+to address that patent. It does so by stating either that it is not seeking the issuance of the NOC until the patent expires, or that the patent is not valid or will not be infringed by the making, using, or selling of the generic product. If it alleges that the patent is not valid or not infringed, then the generic drug manufacturer must serve the innovator with a notice of allegation [NOA] which is accompanied by a detailed statement of the factual and legal basis for the allegation.
+[10]
+If the innovator wishes to challenge the allegation of invalidity or non-infringement in the NOA, it must apply to the Federal Court within 45 days for an order prohibiting the Minister from issuing a NOC for the generic product prior to the expiry of the patent(s) [the Prohibition Application] that are the subject of the NOA. The innovator is not required to take any action in response to a NOA; however, if a Prohibition Application is commenced, the Minister is automatically precluded from issuing a NOC to the generic manufacturer for a period of 24 months, or earlier if the Prohibition Application has been dismissed [the Statutory Stay].
+[11]
+In addition to defending a Prohibition Application, a generic drug manufacturer may move under paragraph 6(5)(a) of the
+PMNOC Regulations
+for an order dismissing all or part of the Prohibition Application in respect of patents it alleges are not eligible for inclusion on the Patent Register. If the motion is successful, the Prohibition Application will be dismissed as it relates to the improperly listed patents. That is what occurred in this case.
+[12]
+If a Prohibition Application is ultimately unsuccessful, discontinued, withdrawn or successfully appealed, section 8 of the
+PMNOC Regulations
+provides that the innovator is then liable to the generic manufacturer for "any loss suffered" by the generic manufacturer in the period defined by subsection 8(1). Such losses are limited to compensatory damages and do not extend to a disgorgement of the innovator's profits. Losses suffered after the Prohibition Application is withdrawn, dismissed, discontinued, or reversed on appeal, are also not compensable.
+[13]
+In determining the amount of compensation, the Court is to take into account "all matters it considers relevant" including any conduct of either party that contributed to delay the disposition of the Prohibition Application.
+Background to the Action
+[14]
+Wyeth marketed an extended release version of venlafaxine hydrochloride [Venlafaxine], under the trade name Effexor XR, under Canadian Patents 1,248,540 [the 540 Patent] and 2,199,778 [the 778 Patent]. Initially, only the 540 Patent (which covered the substance itself) was listed against Effexor XR, and it was to expire on January 10, 2006; however, on December 20, 2005, the 778 Patent (which covered the extended release formulation of Venlafaxine) was issued and was listed by Wyeth against Venlafaxine on December 23, 2005. Wyeth had applied for the 778 Patent in March 1997.
+[15]
+In 2005, Ratiopharm wished to market its generic version of Venlafaxine - ratio-Venlafaxine XR [Ratio-Venlafaxine] - and filed an ANDS with the Minister of Health on February 24, 2005. By letter dated December 9, 2005, Health Canada informed Ratiopharm that it had completed its review of the ANDS on December 7, 2005 [the Patent Hold Date] but that the NOC would not be issued until the requirements of the
+PMNOC Regulations
+were met. Subsequently, as part of this litigation, Ratiopharm wrote to Health Canada requesting "certification of the date that a notice of compliance would have issued to ratiopharm Inc. in respect of venlafaxine hydrochloride capsules in the absence of the
+Patented Medicines (Notice of Compliance Regulations)
+." It received the following reply:
+Pursuant to subsection 8(1) of the
+PM(NOC) Regulations
+, I certify that in the absence of the
+PM(NOC) Regulations
+a notice of compliance would have issued to Ratiopharm Inc. in respect of venlafaxine hydrochloride capsules on December 7, 2005.
+[16]
+When the 778 Patent was listed on the Patent Register on December 23, 2005, Ratiopharm served a NOA on the same day. In the NOA, Ratiopharm accepted that its NOC would not issue until the expiration of the 540 Patent on January 10, 2006. Ratiopharm also alleged that the 778 Patent was invalid or would not be infringed by Ratio-Venlafaxine. In response, on February 10, 2006, Wyeth commenced a Prohibition Application (Court File T-243-06) seeking an order prohibiting the Minister from issuing a NOC to Ratiopharm.
+[17]
+The addition of the 778 Patent to the Patent Register substantially extended the time before Ratiopharm could enter the Venlafaxine market because it now had to address the 778 Patent as well as wait for the expiry of the 540 Patent. It is relevant to note that these events occurred prior to the amendment to section 5 of the
+PMNOC Regulations
+in 2006, which "freezes" the Patent Register on the date a generic manufacturer files its ANDS. As a result of that amendment, from October 5, 2006 onwards, a generic manufacturer is not required to address a patent added to the Patent Register after it files its ANDS. However, in 2005 when Ratiopharm filed its ANDS referencing Effexor XR, it had a continuing obligation to address all patents on the Patent Register, including the 778 Patent which was added after it filed its ANDS and before it obtained its NOC.
+[18]
+On December 18, 2006, Ratiopharm, under paragraph 6(5)(a) of the
+PMNOC Regulations
+, filed a motion to dismiss the Prohibition Application on the basis that the 778 Patent was not eligible for listing on the Patent Register in respect of Effexor XR. On March 29, 2007, the motion judge found that the 778 Patent was eligible for listing against two of the six NOCs listed on the Patent Register for Effexor XR, but not as against the remaining four  <FRAGMENT_SUPPRESSED>  CPR (4th) 154 [
+Venlafaxine FC 2007
+]. On August 1, 2007, the Court of Appeal allowed an appeal and held that the 778 Patent was not eligible for listing against any NOC because the SNDSs against which the 778 Patent was listed could not support a patent listing. Therefore, Ratiopharm's motion was allowed and Wyeth's Prohibition Application was dismissed:
+ <FRAGMENT_SUPPRESSED>  [
+Venlafaxine FCA 2007
+]. Ratiopharm received its NOC on August 2, 2007, and launched Ratio-Venlafaxine into the Canadian market on September 18, 2007.
+[19]
+The Court of Appeal also found that an order directing the Minister to remove the 778 Patent from the Patent Register was not an available remedy, despite the fact that it had been improperly listed, because Ratiopharm did not seek such an order in its motion. Therefore, the 778 Patent remained listed on the Patent Register, but would not apply vis-à-vis Ratiopharm.
+[20]
+The Prohibition Application and the attendant Statutory Stay of the issuance to Ratiopharm of a NOC for its drug, together with the subsequent dismissal of the Prohibition Application by
+Venlafaxine FCA 2007
+, provides the basis for this action for damages under section 8 of the
+PMNOC Regulations
+.
+[21]
+Ratiopharm commenced this action against Wyeth on October 22, 2007. Wyeth responded, in part, by commencing a counterclaim alleging that Ratiopharm's product infringed the 778 Patent. That counterclaim was discontinued by Notice of Discontinuance filed by Wyeth on September 21, 2011.
+[22]
+On motion by the Plaintiff for a summary trial, Justice Hughes held that Teva was not entitled to continue Ratiopharm's claim for damages under section 8 of the
+PMNOC Regulations
+and he dismissed the action:
+ <FRAGMENT_SUPPRESSED>  CPR (4th) 398, and 2011 FC 1442, [2011] FCJ No 1741 (QL) [
+Venlafaxine FC 2011
+].
+[23]
+The Court of Appeal set aside that judgment:
+ <FRAGMENT_SUPPRESSED>  NR 342 [
+Venlafaxine FCA 2012
+]. It held that Teva was entitled to continue Ratiopharm's claim for damages and, most relevant to this trial, it addressed the impact of the license agreement Wyeth had entered into with Novopharm on December 7, 2005 [the Wyeth-Novopharm Agreement] pursuant to which Wyeth licensed Novopharm to sell Novopharm's generic version of Venlafaxine [Novo-Venlafaxine]. Novopharm commenced selling Novo-Venlafaxine on December 1, 2006. The Court of Appeal held that Ratiopharm's claim for damages under section 8 of the
+PMNOC Regulations
+is not to be reduced by gains realized by Novopharm as a licensee of Wyeth during the period January 10, 2006 to August 2, 2007, notwithstanding that those companies later amalgamated and are continued as the Plaintiff in this action.
+[24]
+In addition to Ratiopharm and Novopharm, another generic drug company entered the Venlafaxine market. Ratiopharm entered into a cross-license agreement with Pharmascience Inc. [Pharmascience] on September 20, 2005 [the Ratiopharm-PMS Agreement] pursuant to which [Redacted its Venlafaxine product [PMS-Venlafaxine]. Pharmascience was issued a NOC on August 17, 2007 for PMS-Venlafaxine and commenced marketing it on October 29, 2007.
+The Issues
+[25]
+The cases setting out the framework for an action under section 8 which guide this judgment are:
+ <FRAGMENT_SUPPRESSED>  [
+Alendronate FC 2008
+];
+ <FRAGMENT_SUPPRESSED>  [
+Alendronate FCA 2009
+];
+ <FRAGMENT_SUPPRESSED>  CPR (4th) 155 [
+Norfloxacin FCA 2011
+];
+ <FRAGMENT_SUPPRESSED>  [2012] FCJ No 1323 [
+Alendronate FC 2012
+];
+ <FRAGMENT_SUPPRESSED>  FTR 168 [
+Omeprazole FC 2012
+];
+ <FRAGMENT_SUPPRESSED>  NR 254 [
+Omeprazole FCA 2013
+];
+ <FRAGMENT_SUPPRESSED>  FTR 1 [
+Teva-Ramipril FC 2012
+];
+ <FRAGMENT_SUPPRESSED>  [2012] FCJ No 620 [
+Apotex-Ramipril FC 2012
+]; and
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ No 1355 (QL) [
+Pantoprazole FC 2013
+].
+[26]
+The seminal cases,
+Alendronate FC 2012, Teva-Ramipril FC 2012
+,
+Apotex-Ramipril FC 2012
+, and
+Pantoprazole FC 2013
+are all currently under appeal; however, as of the date of issuance of the Confidential Reasons in this action, no judgment has yet issued from the Court of Appeal.
+[27]
+In
+Teva-Ramipril FC 2012
+and
+Apotex-Ramipril FC 2012
+, Justice Snider outlined the steps to follow in assessing a damages claim under section 8 of the
+PMNOC Regulations
+. That framework has since been followed in all section 8 actions, as it will be in this action. It is the following:
+1. Determine the period of liability [the Relevant Period];
+2. Determine the overall size of the market for the relevant pharmaceutical [the Relevant Pharmaceutical Market] during the Relevant Period;
+3. Determine the portion of the Relevant Pharmaceutical Market that would have been held by generic manufacturers during the Relevant Period [The Generic Market];
+4. Determine the portion of the Generic Market that would have been held by the plaintiff [the Plaintiff's Lost Volume]; 26 September 2014 and
+5. Quantify the damages that would have been suffered by the plaintiff in respect of the Plaintiff's Lost Volume [the Plaintiff's Net Lost Profit].
+[28]
+Applying that framework to this action, the questions that must be answered, are the following:
+1. What is the Relevant Period?
+2. What would have been the size of the Venlafaxine market during the Relevant Period [the Overall Venlafaxine Market]?
+3. What would have been the size of the generics' share of the venlafaxine market during the Relevant Period [the Generic Venlafaxine Market]?
+4. What portion of the Generic Venlafaxine Market would have been captured by Ratiopharm during the Relevant Period [Ratiopharm's Market Share]? The answer to this is dependant on determining the following:
+(a) Would any other generics have entered the market during the Relevant Period and, if so, when would they have launched?
+(b) At what date would Ratiopharm have launched and were there any impediments to it being able to supply the market?
+(c) When would Ratiopharm and its generic competitors have been listed on provincial formularies?
+(d) What is the appropriate pipe-fill inventory adjustment?
+5. What is the value of Ratiopharm's lost sales during the Relevant Period [Ratiopharm's Lost Sales]? The answer to this is dependant on determining the following:
+(a) At what price would Ratiopharm have sold its product in each province?
+(b) What would Ratiopharm's trade-spend (or rebates or allowances expense) have been during the Relevant Period? The answer to this is dependant on determining the following:
+(i) What is Ratiopharm's single-source trade-spend rate?
+(ii) What is Ratiopharm's multi-source trade-spend rate?
+(iii) When does Ratiopharm's multi-source trade-spend rate take effect?
+(c) What other costs would Ratiopharm have incurred in making and selling its product?
+6. What deductions or adjustments should be made to Ratiopharm's damages pursuant to subsection 8(5) of the
+PMNOC Regulations
+?
+(a) Did Ratiopharm's validation and launch process contravene the
+Food and Drug Regulations
+? If so, what effect does this have?
+(b) Should the Court not include ramp-up in the Relevant Period?
+7. What is the applicable period and rate of pre-judgment interest?
+The Evidence
+[29]
+Ratiopharm called the following as fact witnesses:
+1. John Kane Denike, Director of Intellectual Property  <FRAGMENT_SUPPRESSED> : Prior to the amalgamation of Ratiopharm and Teva, he was with Ratiopharm and was head of the team responsible for its ANDS for Ratio-Venlafaxine. At the relevant time he was Ratiopharm's Director for Regulatory Affairs and Patent Affairs. He testified as to Ratiopharm's development and plans for marketing Ratio-Venlafaxine, the state of the Patent Register with respect to Effexor XR, the Ratiopharm-PMS Agreement, and the various steps taken in the current litigation.
+2. Kent Major, Vice-President for Scientific Affairs, Cobalt Pharmaceuticals: Prior to June 2011, Mr. Major was employed with Ratiopharm and at the relevant time was its Vice-President for Development Management and Regulatory Affairs. He testified as to the development of Ratio-Venlafaxine, the commercial supply agreement with Alembic Pharmaceuticals [Alembic] to manufacture Ratio-Venlafaxine, its expected launch in January 2006, Ratiopharm's trade-spend practices, the Ratiopharm-PMS Agreement, and the validation process for Ratio-Venlafaxine.
+3. Doug Somerville, Senior Vice-President and General Manager, Teva: At the relevant time, he was its Vice-President Sales for Corporate and Retail Accounts. He testified as to the marketing, pricing and trade-spend of Novo-Venlafaxine.
+4. David Boughner, Director of Strategic Initiatives, Teva: At the relevant time, he was its Director of Marketing. He testified as to the development of Novo-Venlafaxine, as well as production and validation issues relating to it.
+5. Brian Des Islet, Executive Director of Scientific Affairs, Teva: At the relevant time, he was its Executive Director of Research and Development. In 2006, he also took over responsibility for regulatory affairs. He testified as to quality assurance and formulary listing of Novo-Venlafaxine.
+6. Brent David Fraser, Director of Direct Program Services, Ontario Public Drug Program, Ministry of Health and Long-Term Care: He testified as to Ontario's formulary, pricing, interchangeability, reimbursement and drug submission regime.
+7. Uri Hillel, Deputy of the Executive Vice-President for Quality, Vice-President of Compliance and Vice-President of Research & Development, Teva Pharmaceuticals [Teva Israel]: At the relevant time, he was Quality Assurance Manager of the Oral Dosage Form Production Plant in Kfar-Saba, Israel, and in 2006 he became the Executive Director of Quality for the Pharmaceutical Operation Division in Israel. He testified as to the validation process for Novo-Venlafaxine.
+[30]
+Ratiopharm also called the following expert witnesses:
+1. Rosemary Bacovsky: On the parties' agreement she was qualified as a pharmaceutical industry consultant and pharmacist with expertise in formulary listings, market access, and reimbursement policies of the Canadian pharmaceutical marketplace. She testified as to provincial drug plans, the formulary listing process, and provincial pricing and interchangeability regimes.
+2. Scott Davidson, Managing Director of the Toronto office of Duff & Phelps: On the parties' agreement he was qualified as an expert in business valuation, financial loss damage quantification in commercial and intellectual property disputes.
+3. Dr. Aidan Hollis, Professor of Economics, University of Calgary: On the parties' agreement he was qualified as an expert in economics and industrial organization with particular expertise in pharmaceutical markets and competition in pharmaceutical markets. Dr. Hollis gave evidence on the Overall Venlafaxine Market, the Generic Venlafaxine Market, Ratiopharm's Market Share, penetration rate and extent, erosion dynamics, pipe-fill adjustment, and trade-spend.
+4. Paul Larocque, President of Acerna Incorporated: On the parties' agreement he was qualified as an expert in pharmaceutical regulatory issues including the validation of processes to manufacture pharmaceuticals for sale in the Canadian market.
+[31]
+Wyeth called the following as fact witnesses:
+1. Steven Whitehead: At the relevant time he was Vice-President of Strategic and Commercial Advancement and a part of the Wyeth senior leadership team. He testified as to the Wyeth-Novopharm Agreement, Wyeth's preparations for the genericization of Effexor XR, and Wyeth's reaction to generic versions of Effexor XR in 2006.
+2. Virginia Cirocco: She is presently a consultant but at the relevant time was an Executive Vice-President of Shoppers Drug Mart. She testified as to her employer's purchasing practices and rebate expectations in the relevant time.
+3. Michael Blacher: He is a pharmacist and owes his own dispensary that is located inside a medical clinic in Windsor, Ontario. He testified as to his experience in receiving rebates and in purchasing of brand name and generic pharmaceuticals.
+4. Lucie Robitaille, Secrétaire générale et vice-président à la gouvernance et à l'administration, Québec Institut national d'excellence en santé et en services sociaux: At the relevant time she was the Directrice générale Conseil des Médicaments. She testified regarding Québec's formulary, pricing, interchangeability, and drug submission regime.
+5. Glen Monteith, Chief Delivery Officer, Alberta Ministry of Health and Wellness: At the relevant time, he was the Executive Director of the Pharmaceutical and Life Sciences Branch, Alberta Ministry of Health and Wellness. He testified regarding Alberta's formulary, pricing, interchangeability, reimbursement, and drug submission regime.
+6. Debby Ship, Senior Director, Portfolio and Project Management, Pharmascience: At the relevant time she was its Senior Director, Business Development. She testified as to the Ratiopharm-PMS Agreement, the PMS-Venlafaxine product, and the ability of Pharmascience to enter the Venlafaxine market in the Relevant Period.
+[32]
+Wyeth also called the following expert witnesses:
+1. W. Neil Palmer: On the parties' agreement he was qualified as a pharmaceutical industry consultant with expertise in formulary listings, market access, and reimbursement policies of the Canadian pharmaceutical marketplace.
+2. Stuart Wright, a consultant with OptumInsight: On the parties' agreement he was qualified as an expert in pharmaceutical regulatory issues, including the validation of processes to manufacture pharmaceuticals for sale in the Canadian market.
+3. Dr. Andrew Tepperman, a principal at Charles River Associates with a PhD in economics: On the parties' agreement he was qualified as an expert in economics and industrial organizations with particular expertise in pharmaceutical markets and competition in pharmaceutical markets. He gave evidence on the Overall Venlafaxine Market, the Generic Venlafaxine Market, and Ratiopharm's Market Share in various hypothetical scenarios through the use of an econometric model.
+4. Ross Hamilton, a principal at Cohen Hamilton Steger & Co: On the parties' agreement he was qualified as a chartered accountant with a specialist designation in investigative and forensic accounting and expertise in damages quantification in commercial and intellectual property disputes, including in the Canadian pharmaceutical marketplace. He testified as to the assessment and quantification of Ratiopharm's lost profits in various scenarios.
+[33]
+All of the witnesses were subject to vigorous and, on occasion, very effective cross-examination. I find all of them, but one, to be generally credible; however, I also have the following observations with respect to some of the witnesses who were otherwise found credible.
+[34]
+I found Virginia Cirocco not credible. Ms. Cirocco has previously testified before this Court in two section 8 claims. In
+Alendronate FC 2012
+, Justice Hughes found her to be lacking in candour and to engage in game playing. Justice Phelan in
+Pantoprazole FC 2013
+found "her evidence was straightforward" but not particularly helpful because her knowledge of the generic's rebate rate was based on a blended rate across all products and she had no knowledge as to what rebate the generic company gave internally on a given product.
+[35]
+I found Ms. Cirocco to be less than forthright in her evidence. She attempted to leave the Court with the impression that she was a reluctant witness. In chief she was asked: "Under what circumstances you're here today?" She responded: "I received a summons to appear." She also said that she was being compensated for her time through her consulting company. When asked about her frame of mind, she testified that "[i]t's not my favourite thing to do, to be here." However, on cross-examination, it was revealed that she had arranged compensation with Wyeth prior to her receiving a summons to appear.
+[36]
+Before this Court, she testified that Shoppers Drug Mart received rebates on a molecule-by-molecule basis and not on the basis of a bundle or basket of drugs. This evidence is contrary to that which she gave in
+Pantoprazole FC 2013
+where, as noted, Justice Phelan found that her knowledge of the rebates received was based on a blended rate across all products in a bundle or basket of products. Her previous testimony regarding rebates on baskets or bundles of products was put to her. Her responses were evasive and lacking in candour. She described what the Court views as a fundamental and material contradiction between her evidence here and that offered earlier, to be "semantics." It is not. Her evidence before this Court was at odds with evidence she provided previously on the same questions. Accordingly, unless her evidence is corroborated by other witnesses or documentary evidence, it is not accepted.
+[37]
+Uri Hillel appeared overly prepared - as if he had been told that he had one message to convey and he ensured that he did so at every opportunity. His evidence was directed to the manufacturing process and problems Teva Israel had with the manufacture of Novo-Venlafaxine. He was put forward by Ratiopharm to support its position that Novo-Venlafaxine would not have come to market in the but-for world sooner than it did in the real world. Mr. Hillel testified that the manufacture of the product was a "high priority" for Teva Israel. He added that observation frequently and often when it was not responsive to the question asked. Notwithstanding this propensity, Mr. Hillel was found credible because, despite this concern, the Court was not provided with any convincing evidence that challenged his evidence. All the Defendant offered was suspicion and speculation.
+[38]
+The last witness deserving of comment is Dr. Tepperman. Dr. Tepperman exhibited extreme reluctance to concede any point; even the most obvious. As an example, he refused to acknowledge that the data he used (which was provided to him by Wyeth) produced results that were inconsistent with and contrary to his own findings in
+Pantoprazole FC 2013
+where he testified as an expert for the generic Apotex. Moreover, he firmly resisted stating the obvious, that the results of his report in this case were contrary to common sense.
+[39]
+In his report filed in this action, Dr. Tepperman found that the two largest generic companies at the relevant time, Apotex and Novopharm, "had inherent competitive advantages relative to other generic companies." Based on the data he used, he concluded that "[Novopharm's] average market share premium is approximately 8 percentage points as of its date of initial market entry; Apotex's is approximately 4 percentage points." However, on cross-examination it was put to him that in his report filed in
+Pantoprazole FC 2013
+he concluded, based on the data he used there, that Novopharm's average market share premium is approximately 5 percentage points as of its date of initial market entry; and Apotex's is approximately 12 percentage points.
+[40]
+Dr. Tepperman simply refused to accept that the data obtained from Wyeth that he used may have resulted in a finding inconsistent with his previous expert evidence and with common sense, given that Apotex is the larger of the two generic companies in the market. His response was simply to say: "There's nothing wrong with the analysis. The analysis is dependent on the data, and this is the data that I have here." This begs the question: Should he have questioned the appropriateness of the data he used?
+[41]
+This inconsistency is one of the reasons the Court preferred the approach used by Dr. Hollis over Dr. Tepperman.
+What is the Relevant Period?
+[42]
+The Relevant Period is the period within which the loss suffered by the plaintiff generic is compensable. In my view, there is no requirement that the actual loss commences on the first day or that it continues through to the last day of the Relevant Period. Rather, the Relevant Period is merely the period of time within which any loss suffered is compensable.
+[43]
+Paragraph 8(1)(b) of the
+PMNOC Regulations
+allows no discretion as to the end date of the Relevant Period - it is the date the Prohibition Application is withdrawn, discontinued, dismissed, or reversed. The parties are in agreement that the Relevant Period ends on August 1, 2007, the date that the Court of Appeal issued
+Venlafaxine FCA 2007
+, dismissing Wyeth's Prohibition Application.
+[44]
+I am mindful that Justice Snider held  <FRAGMENT_SUPPRESSED> -Ramipril FC 2012
+that the Court has some discretion to choose a more appropriate end date. While this is not a live issue in this case because the parties agree on the end date, I respectfully disagree with Justice Snider on this point. In my view, the statutory language is explicit as to when the end date for the period of liability must be fixed. Even though the end date is fixed, it may be that the loss ends at an earlier date, as was the effect of Justice Snider's judgment. In the unique circumstances  <FRAGMENT_SUPPRESSED> -Ramipril FC 2012
+the NOC had issued notwithstanding that procedurally, the Prohibition Application was still outstanding. Accordingly, the Prohibition Application was no longer a barrier to the generic's entry into the market and there was no evidence establishing a causal connection between the Prohibition Application and any subsequent loss. In such circumstances, where a plaintiff generic is unable to establish that connection, it will be precluded from recovering damages, despite the fact that the period of liability and potential for recovery extends further to the end date fixed by the
+PMNOC Regulations
+.
+[45]
+Paragraph 8(1)(a) of the
+PMNOC Regulations
+allows a Court discretion as to the start date of the Relevant Period. The relevant part of the paragraph reads that the Relevant Period starts "on the date, as certified by the Minister, on which a notice of compliance would have been issued in the absence of these Regulations [the Patent Hold Date], unless the court concludes that ... a date other than the certified date is more appropriate."
+[46]
+The parties are not in agreement as to the date the Relevant Period commences.
+[47]
+Ratiopharm submits that the Relevant Period commences on January 10, 2006, the date of the expiry of the 540 Patent. It will be recalled that in its ANDS and NOA, Ratiopharm had agreed to wait for the expiry of that patent before launching Ratio-Venlafaxine.
+[48]
+Wyeth submits that the Relevant Period can commence no earlier than February 13, 2006; the date the Minister would have issued a NOC to Ratiopharm if it had served Wyeth with a NOA relating to the 778 Patent and Wyeth had not commenced a Prohibition Application within the 45 day period permitted by the
+PMNOC Regulations
+. Wyeth says that it could not be an earlier date because there is jurisprudence holding that the Relevant Period cannot commence prior to the date the Statutory Stay would have been triggered. As a consequence, Wyeth says that in the but-for world, a plaintiff generic must comply with the
+PMNOC Regulations
+and serve a NOA on the innovator because that is a condition precedent to the potential triggering of the Statutory Stay. It relies on the decisions  <FRAGMENT_SUPPRESSED> -Ramipril FC 2012
+,
+Norfloxacin FCA 2011
+, and
+Alendronate FCA 2009
+. I do not accept either of Wyeth's propositions.
+[49]
+Wyeth's submission that the start of the Relevant Period can never be earlier than the date the Statutory Stay would be triggered was as follows:
+In this case, the date as certified by the Minister on which Ratiopharm would have received its NOC for RATIO-VELAFAXINE XR is December 7, 2005. On that day, Health Canada completed its review of Ratiopharm's ANDS and placed Ratiopharm's application on administrative hold until Ratiopharm finished addressing the
+Regulations
+' requirements ("patent-hold"). However, in this case, the date at which Ratiopharm was placed on patent-hold is not the date at which the liability period under section 8(1) of the Regulations commences.
+As was the case in the
+Teva Ramipril
+case, this case presents the "somewhat unusual situation in which the certified, or 'patent hold' date precedes the beginning of the statutory stay." As a result the period of liability
+cannot
+begin until the date at which the Application was commenced and the statutory stay under the
+Regulations
+was triggered. [emphasis added]
+[50]
+I agree that the Patent Hold Date, in this case, may not be the appropriate date at which Wyeth's liability under the
+PMNOC Regulations
+begins. However that has nothing to do with the fact that the Patent Hold date precedes the beginning of the Statutory Stay.
+[51]
+The submission of Wyeth is that when the Patent Hold Date precedes the commencement of the Statutory Stay under the
+PMNOC Regulations
+, it is not that there is a
+more
+appropriate commencement date; rather, the commencement date of the liability period
+cannot
+be that Patent Hold Date. In my view, in order to accept that submission, one would have to ignore the clear and unambiguous wording of section 8.
+[52]
+Paragraph 8(1)(a) clearly establishes a default commencement date - the Patent Hold Date. It is only if the Court finds that there is a "more appropriate" commencement date, that the Court, in the exercise of its discretion, may substitute that other date. The use of the phrase "
+more
+appropriate" ("
+plus
+appropriée") (emphasis added) in the relevant paragraph, makes it clear that the Patent Hold Date
+is
+an appropriate date for the commencement of the Relevant Period, although another date may be more appropriate given the particular circumstances of the case under consideration. Accordingly, to say, as Wyeth does, that the Patent Hold Date "cannot" be the start date, in the present circumstances, quite simply is not correct, based on the clear and unambiguous wording of paragraph 8(1)(a) of the
+PMNOC Regulations
+. The real question is whether there is a more appropriate start date.
+[53]
+In my view, where the loss suffered by the plaintiff generic commences only after the Patent Hold Date, a more appropriate start date of the Relevant Period may well be the date that the plaintiff generic's loss began. That is what Justice Snider found  <FRAGMENT_SUPPRESSED> -Ramipril FC 2012
+.
+[54]
+In
+Teva-Ramipril FC 2012
+all of the patents on the Patent Register but one had been addressed by Teva through serving a NOA and each of those patents had been found by the Court not to be an impediment to Teva marketing Teva-Ramipril. The sole patent that had not been addressed by Teva through a NOA was the 457 Patent. In its ANDS Teva had agreed not to market Teva-Ramipril until the expiry of the 457 Patent on December 13, 2005, a date subsequent to the Patent Hold Date of October 14, 2003. Justice Snider held that December 13, 2005, was the more appropriate date for the commencement of the Relevant Period.
+[55]
+In
+Apotex-Ramipril FC 2012
+the plaintiff generic addressed all of the patents on the Patent Register by serving several NOAs (three of those patents were listed after the Patent Hold Date) and all were found by the Court not to be an impediment to Apotex marketing Apo-Ramipril. In assessing the damages incurred by the plaintiff generic, the Court held that it did not have to serve a NOA on the innovator in the but-for world.
+[56]
+In
+Teva-Ramipril FC 2012
+,
+Apotex-Ramipril FC 2012
+, and
+Pantoprazole FC 2013
+the start date selected by the trial judge was the date when, with the benefit of hindsight from the results of the Prohibition Applications, all impediments to the plaintiff generic marketing its product had been removed. In short, the real world informs the but-for world and tells us in those three decisions that, with one exception, the patents listed on the Patent Register by the innovator ought not to have been an impediment to the plaintiff generic coming to market. The exception was the 457 Patent  <FRAGMENT_SUPPRESSED> -Ramipril FC 2012
+, which the plaintiff generic agreed to let expire before marketing its product.
+[57]
+The imposition of the Statutory Stay by the innovator commencing an unsuccessful Prohibition Application triggers liability under section 8; however, the damages are those that the plaintiff generic suffered "by reason of the delayed market entry of its drug" as stated in the
+Regulatory Impact Analysis Statement
+[RIAS] published with the proposed amendments to the
+PMNOC Regulations
+SOR/98-166 in the Canada Gazette Part II, Volume 132, No 7 at 1056. This includes the delay occasioned by filing the NOA and the 45 days before the Prohibition Application is initiated.
+[58]
+The but-for world is a hypothetical construct used by the Court to ascertain the loss suffered by a generic manufacturer because it was wrongly delayed in entering the market. The question that must be answered is: "What is the loss suffered by the generic manufacturer from the delay in getting its product to market?"
+[59]
+Generally those losses will begin on the Patent Hold Date when the plaintiff generic would have received its NOC, for it is only then that it can begin marketing its product. However, as  <FRAGMENT_SUPPRESSED> -Ramipril FC 2012
+, where the generic has agreed to delay marketing until the expiry of a patent on the Patent Register, that later date may well be more appropriate because no earlier product marketing was possible.
+[60]
+I note that there appears to be no impediment in section 8 to a court finding that a date earlier than the certified date is a more appropriate date to commence the Relevant Period. In my view, this would require a unique situation where the plaintiff generic can prove that it suffered a loss prior to that date as a result of it being improperly delayed in getting its product to market. One such situation may be where prior to the Patent Hold Date, the generic had entered into a supply agreement with an API manufacturer and had paid it a deposit which it was unable to recover or reuse after it was subsequently prevented from marketing the drug. In this case, there is no evidence that Ratiopharm incurred any loss prior to January 10, 2006, the date that the 540 Patent would expire. Had there been such evidence, an earlier date may have been a more appropriate start date, and in my view, this Court would have had discretion to choose it.
+[61]
+The question for the Court is whether there is a causal connection between the failed PMNOC proceedings and the loss claimed as damages and if so when did that loss first arise. This causal connection is noted by Justice Stratas in
+Norfloxacin FCA 2011
+, where he framed the question as "what would have happened had [the innovator] not brought an application for prohibition." Similarly, in
+Alendronate FCA 2009
+, Justice Noël said that "an award of damages under section 8 logically flows from the section 6 prohibition proceedings." These comments cannot be taken as any restriction as to when the Relevant Period may begin, as was suggested by Wyeth; rather, they demonstrate that the damages claimed in an action under section 8 must be causally connected to the Prohibition Application.
+[62]
+Before leaving the discussion of the Relevant Period, I wish to briefly address a submission made by Wyeth that the period of damages cannot begin prior to the commencement of the Statutory Stay because prior to that date the innovator had no way of foreseeing or controlling its liability for damages suffered by the generic. It framed its submission, as follows:
+In this case, Ratiopharm did not tell Wyeth that it was on patent-hold prior to Wyeth commencing the Application and there was no evidence to suggest that Wyeth could have found out from another source. Without this key piece of information, it was impossible for Wyeth to foresee or control any liability regarding losses suffered by Ratiopharm prior to commencing an application for prohibition.
+Applying the current status of the law in determining the start date to the liability period, it is clear that the start date to the liability period in this case cannot predate February 10, 2006, the date at which Wyeth commenced the Application against Ratiopharm and accepted to be liable for the loss suffered by Ratiopharm during the period where the statutory stay is in effect should Wyeth be unsuccessful in its Application.
+[63]
+This submission fails for three reasons. First, it is wrongly premised on an assumption that one is in a position to assess the probable extent of section 8 damages when deciding whether to trigger the event that may give rise to such a claim. Second, it assumes that the innovator's decision on whether to trigger that event is based on the extent of its potential liability. In reality, if that figure plays any role, it is a very small one, given that the profits the innovator will make during the Statutory Stay will outstrip any potential liability to the generic under section 8. Third, it is disingenuous of Wyeth to assert that it had no knowledge of a generic's entry into the Venlafaxine market until it filed the Prohibition Application. In this case, Wyeth knew full-well that the only patent on the Patent Register against Effexor XR was due to expire on January 10, 2006. It also knew that the Venlafaxine market was significant and profitable. It entered into the Wyeth-Novopharm Agreement in late December 2005 specifically to address a generic coming to market after the expiry of the 540 Patent; it knew that such an event was virtually a certainty. Moreover, it knew that Ratiopharm's lawyers had filed submissions with the Patent Office opposing the listing of the 778 Patent on the Patent Register in late 2005. The most likely reason for such action was because it had a product ready to come to market on the expiration of the 540 Patent.
+[64]
+In short, based on the evidence, Wyeth knew that Ratiopharm or another generic would be entering the market in January 2006 or very shortly thereafter and it chose to list the 778 Patent in an attempt to evergreen its drug and prevent generic competition. It knew or ought to have known that a generic ready to enter the market in January 2006 would very likely serve it with a NOA, rather than wait many more years to gain entry into the Venlafaxine market.
+[65]
+In this case, but for the improper listing of the 778 Patent on the Patent Register, all other things being equal, Ratiopharm would have received its NOC and been in a position to launch its product on January 10, 2006. The earlier Patent Hold date is an appropriate date to commence the Relevant Period; however, because no loss is claimed by Ratiopharm prior to January 10, 2006, I accept Ratiopharm's submission that January 10, 2006, is a more appropriate commencement date for the Relevant Period than the Patent Hold Date.
+What is the size of the Overall Venlafaxine Market?
+[66]
+Dr. Hollis and Dr. Tepperman both opined as to the size of the Overall Venlafaxine Market. The difference between their opinions rests on whether or not there would be a demand-suppressing effect on sales resulting from a withdrawal of promotional efforts by Wyeth when a generic comes on the market. In both of their models, Québec is used as a proxy for the effect of promotions because innovator companies tend to continue promotional efforts in Québec due to its rule that guarantees that the innovator will continue to be fully reimbursed under the provincial public insurance program for 15 years following genericization.
+[67]
+Dr. Hollis used an "analogue approach" by using the sales of Venlafaxine in the real world as an analogue for sales in the but-for world. He found that in the real world, there was an overall long term decline in sales growth, but only a moderate short term decline in sales growth in other provinces relative to Québec following genericization. However, not only must there be a decline in sales growth in the real world, that decline must be specifically attributable to a factor or agent common to both the but-for world and the real world in order for the Court to infer that a similar trend would exhibit itself in the but-for world.
+[68]
+Dr. Hollis determined that there is no reason to believe that this trend in sales was caused by the withdrawal of promotion specifically. He proposed an alternative hypothesis: that negative media regarding Venlafaxine and similar drugs in its class following genericization could have contributed to a decline in sales growth. Given this alternative explanation, Dr. Hollis determined that there is no reason to believe that the same decline in sales would occur in the but-for world.
+[69]
+Furthermore, Dr. Hollis found that it would take time for any effect of reduced promotions to actually impact sales. He acknowledged that in the real world, sales growth rates in Québec began to increase relative to other provinces beginning in 2009; however, this trend started more than 18 months after genericization, leading him to conclude that the size of the Venlafaxine market would not have been smaller in the Relevant Period in the but-for world than it was in the real world, even if reduced promotion eventually had an effect on sales.
+[70]
+In summary, Dr. Hollis concluded that the actual real world sales of Venlafaxine during the Relevant Period should be used as an indicator of the level of sales during the Relevant Period in the but-for world.
+[71]
+Dr. Tepperman conducted a regression analysis to assess the trend in sales in other provinces relative to Québec. This analysis was intended to test what effect two competing explanatory factors had on the overall demand for Venlafaxine. These two explanatory factors were: (1) the reduction of promotion, and (2) the effect of elasticity of price (i.e. the responsiveness of the market to lower prices). He expressed the view that reduction of promotion would tend to reduce overall demand for the product, whereas the availability of product at a lower price would work in the opposite direction and increase demand.
+[72]
+Dr. Tepperman used Venlafaxine sales data for each of the three dosage strengths from January 2006 to December 2009 in his model. He determined that in some provinces there was a statistically significant reduction in demand relative to Québec, in others there was no effect, and in others there was an increase in demand relative to Québec. The results also differed depending on the strengths of the capsules.
+[73]
+Neither methodology employed by Dr. Hollis nor Dr. Tepperman is entirely satisfactory. Dr. Hollis conceded on cross-examination that there may be some flaws in his negative media hypothesis including that none of the "negative media" actually suggested that physicians stop prescribing Venlafaxine, and there was no way to determine how widely read the publications were in either the physician population or the general population.
+[74]
+On the other hand, Dr. Tepperman's regression model used data that extended beyond the 18 month period immediately following genericization - the period that most closely mirrors the Relevant Period in the but-for world. The problem with the use of an extended data set is that it combines potential trends specific to the data after the 18 month period, with trends specific to the 18 month period immediately following genericization. Therefore, the model may display trends that would not occur in the 18 month Relevant Period in the but-for world.
+[75]
+On cross-examination, Dr. Tepperman stated that where the overall goal is to determine an underlying trend, more data is better. I do not disagree; however, this Court does not need to determine whether there is some underlying demand suppressing effect for Venlafaxine in the abstract. Rather, it must determine whether there would have been a demand suppressing effect during the Relevant Period specifically. Accordingly, what is relevant is the specific trend that manifests itself
+within that time frame
+, not underlying trends that may occur outside of that timeframe.
+[76]
+Dr. Hollis provided an example in his examination in chief that illustrates this. If, he said, we want to determine the average temperature in Ottawa during the winter months, we would take as much data
+within
+that time period as possible. Although data might be available from summer months, it would be inappropriate to use that data given the specific goal. Using data from all 12 months of the year would be appropriate only if the goal is to determine the average temperature in Ottawa over the whole year.
+[77]
+Dr. Hollis redid Dr. Tepperman's regression analysis using only data from the 19 months immediately following genericization and found that in all of the provinces across all of the strengths of the drug, there was either no statistically significant change in the growth of sales or there was positive growth in sales relative to Québec, in that time period. This supports Dr. Hollis' theory that there is no significant short term demand suppressing effect, and that the long term effect takes time to manifest itself.
+[78]
+Dr. Tepperman's regression analysis included an R2 value showing how well the model fit the data and how much of the variation is explained by the model. He explained that a higher R2 value means that more of the variation in the data is explained by the model and indicates that the model fits the data better. Dr. Tepperman's model using the full 37 month period achieved R2 values for the three drug strengths of 0.9951, 0.9952, and 0.9960. In contrast, when Dr. Hollis restated that regression analysis using only data within the Relevant Period, it produced R2 values of 0.9958, 0.9958, and 0.9968. While the differences are marginal, these values do show that Dr. Hollis' model fits the data better, even if only slightly.
+[79]
+Dr. Hollis and Dr. Tepperman both agree that there is some demand suppressing effect. The difference is that Dr. Hollis observes this effect occurring sometime after the Relevant Period, whereas Dr. Tepperman does not identify exactly when the demand suppressing effect begins to actually affect sales. Given that the regression analysis for the Relevant Period of 19 months following genericization does not show a demand suppressing effect, Dr. Tepperman's analysis is rejected.
+[80]
+Both experts agreed that where there is a good analogue, that approach is preferred over a regression analysis. Dr. Tepperman could not describe any reason why actual sales of Venlafaxine following generic entry in the real world would not be a good analogue for sales of Venlafaxine in the but-for world. In my view, Dr. Hollis' analogue approach is an adequate and appropriate model for three reasons. First, it accounts for any trends that might be unique to Venlafaxine. Second, the difference in the actual time period between the real world and the but-for world is relatively insignificant as generic entry in the real world occurred on December 1, 2006 and on January 10, 2006, in the but-for world. Third, the market dynamics in the real world closely mirror those in the but-for world. Moreover, I agree with the observation of Justice Phelan in
+Pantoprazole FC 2013
+at para 21 that quantification of damages in the but-for world should be grounded in the experience of the real world, and using an analogue approach where an adequate analogue is available is consistent with that approach.
+[81]
+In conclusion, using real world actual sales of Venlafaxine in the Relevant Period, as proposed by Dr. Hollis, is a proper basis to determine the size of the Overall Venlafaxine Market in the but-for world. The Overall Venlafaxine Market in the period January 10, 2006 to August 1, 2007 is as follows:
+1. 37.5 mg: 86,024,500 pills,
+2. 75 mg: 159,496,500 pills, and
+3. 150 mg: 115,985,200 pills.
+What is the size of the Generic Venlafaxine Market?
+[82]
+Dr. Hollis again used the analogue approach and based the share of the Overall Venlafaxine Market that would be occupied by generic manufacturer(s) in the but-for world on the actual share occupied by Novopharm in the real world. Dr. Hollis also adjusted for differences in the time it would take to be listed on each of the provincial formularies in the but-for world versus the real world. He based his adjustments on inputs from Ms. Bacovsky's analysis. Prior to the hearing he amended his opinion as he originally failed to take into account the different pharmacy regulations in different provinces and accordingly, he admitted that his "first report overestimates the market share that would have been captured by generics in the "but for" analysis by approximately 1.3%."
+[83]
+Dr. Tepperman agrees with Dr. Hollis' approach that Novopharm's real world experience in capturing the Venlafaxine market would be an accurate representation of the generic market in the but-for world. He further agrees that an adjustment should be made to account for differences in formulary listing dates, but he uses the inputs generated by Mr. Palmer instead of Ms. Bacovsky.
+[84]
+In my view, Dr. Tepperman's willingness to adopt the analogue approach in this context undermines his use of a regression model to calculate the size of the Overall Venlafaxine Market. If it is appropriate for this purpose, why is that approach not also appropriate for the other purpose? I simply do not accept his explanation that he accepted Dr. Hollis' approach merely to limit the areas of their disagreement. That is hardly an approach one expects from an expert. One does not just agree to avoid conflict; one must be certain that the approach one is accepting is valid.
+[85]
+Both experts agree that Novopharm's actual sales, with an adjustment for differences in provincial formulary listing dates is the best measure of the size of the Generic Venlafaxine Market. Given, as discussed below, that I prefer Ms. Bacovsky's opinion on formulary listing over Mr. Palmer's, I adopt Dr. Hollis' estimate of the size of the Generic Venlafaxine Market in the period from January 10, 2006 to August 1, 2007, as set out at paragraph 28 of his first expert report, adjusted downwards by 1.3%.
+[86]
+I note that there was conflicting evidence regarding the proportion of sales that would be affected by formulary listing (i.e. the level of sales Ratiopharm could have obtained for privately insured or out-of-pocket paying patients). This was a factor Dr. Hollis incorporated into his model of the Generic Venlafaxine Market. Dr. Hollis assumed that 50% of sales are in the public system and would be affected by formulary listing. Dr. Tepperman agreed that based on the best data available, a "50/50 split of public and private may be a reasonable starting point." In order to provide a "conservative estimate," Dr. Tepperman adopted Dr. Hollis' model of sales prior to formulary listing. Dr. Palmer did not agree with this approach and noted that generally, generic substitution prior to formulary listing did not happen.
+[87]
+While I acknowledge that Dr. Hollis' model is based on both an assumption as to the split between public and private sales and as to the level of sales in the private market that could be obtained irrespective of formulary listing, it is the best evidence available. Dr. Tepperman agrees that it is a reasonable starting point. Dr. Palmer's observations do not permit the Court to identify with any degree of precision, what effect on overall market share any pre-formulary sales may have.
+[88]
+Accordingly, the size of the Generic Venlafaxine Market in the Relevant Period is as follows:
+1. 37.5 mg: 67.7%,
+2. 75 mg: 70.0%, and
+3. 150 mg: 67.9%.
+What is Ratiopharm's Market Share?
+[89]
+If no other generic entered the Venlafaxine market in the Relevant Period, then all of it was Ratiopharm's Market Share. Therefore, in principle, I agree with Dr. Hollis' approach that Ratiopharm's Market Share will be analogous to Novopharm's, with the adjustment for the delay in formulary listing. However, Wyeth has identified two possible generic manufacturers that might have entered the market during the Relevant Period: Novopharm and Pharmascience. Ratiopharm submits that only Novopharm would have entered the Venlafaxine market during the Relevant Period and submits that it would have done so on December 1, 2006, the date that it did in the real world.
+(a) Would any other generics have entered the market during the Relevant Period and, if so, when would they have launched?
+[90]
+Wyeth submits that Novopharm would have entered the Venlafaxine market earlier than December 1, 2006, in the but-for world, and provided models based on it entering the market on March 28, 2006, or August 1, 2006. It also offered a model based on it entering the market on December 1, 2006, the scenario proposed by Ratiopharm.
+[91]
+Ratiopharm submits, and I agree, that the burden of establishing if and when Novopharm and Pharmascience would have entered the Venlafaxine market rests on Wyeth: See
+Pantoprazole FC 2013
+at para 23.
+[92]
+The approach to determining when a competitor might come to market has been set out in
+Alendronate FC
+2012
+at para 44. This framework requires that the Court ask the following questions:
+1. When would the generic have received its NOC;
+2. When would the generic have had the capacity to manufacture or acquire the product;
+3. Was there anything to motivate or dissuade the generic from entering the market during the Relevant Period; and
+4. When, if at all, would the product have been accepted by each of the provincial formularies?
+Novo-Venlafaxine
+[93]
+Deciding when Novo-Venlafaxine would have come to market turns on when Novopharm would have had Novo-Venlafaxine to sell in the but-for world. This turns on the issue of its manufacture.
+[94]
+In the real world, Novopharm was placed on patent hold on January 10, 2006 and received its NOC on October 6, 2006. On December 7, 2005, it had negotiated the Wyeth-Novopharm Agreement, the effect of which allowed Novopharm to obtain its NOC as early as October 1, 2006 and market its Novo-Venlafaxine in Canada on December 1, 2006, or earlier if another generic company obtained a NOC for Venlafaxine. Under the agreement, Wyeth would provide Novopharm with a written consent in respect of any patents listed on the Patent Register, thus permitting the Minister to issue a NOC immediately. Therefore, it is reasonable to conclude that Novopharm would have received its NOC shortly after Ratiopharm would have in the but-for world.
+[95]
+The Wyeth-Novopharm Agreement also provides that Novopharm can seek formulary listing on the date that a second generic receives its NOC. Thus when Ratiopharm receives its NOC in the but-for world, there is no impediment to Novopharm applying for formulary listing immediately, provided it can commit that it has adequate product to supply the market.
+[96]
+Novopharm would have had every motivation to come to market as soon as possible once Ratiopharm received its NOC. Dr. Denike, Teva's Director of Intellectual Property, testified that every generic's goal is to either be first to the market or tied for first. Knowing that Ratiopharm's entry to the market was imminent, Novopharm would have had the motivation and the desire to try and come to market in step with Ratiopharm.
+[97]
+There was additional motivation for Novopharm to come to market contained within the Wyeth-Novopharm Agreement. Under that agreement, if Novopharm could come to market before Wyeth was able to remove the other generic from the market (for example, by obtaining an injunction in an infringement action), it would stop paying royalties (amounting to
+[Redacted
+] of its net profits) to Wyeth.
+[98]
+Therefore, the only limiting factor to Novopharm's market entry in the but-for world is its ability to manufacture Novo-Venlafaxine. This determination largely turns on when Novopharm could have completed validation in the but-for world. Validation is the process by which a manufacturer verifies that the product is consistently reproducible and robust and maintains its quality attributes. The manufacturing process is what is being validated. Validation must be conducted in order to release the product to market.
+[99]
+Teva Israel was the manufacturer of Novo-Venlafaxine and it was responsible for the validation process. Novopharm was a subsidiary of Teva Israel, but Teva Israel had numerous other global subsidiaries making demands on its production facilities, including those in the USA.
+[100]
+David Boughner, Novopharm's Director of Marketing, and Uri Hillel, Teva Israel's Quality Assurance Manager of the Oral Dosage Form Production Plant in Kfar-Saba, gave evidence about the issues Novopharm faced in its validation of Novo-Venlafaxine prior to its December 1, 2006, launch in the real world.
+[101]
+Mr. Boughner testified that Novo-Venlafaxine was assigned the highest priority - "S" priority - which signalled to everyone involved that this was an important product for Novopharm. Typically products with an "S" priority carry the opportunity of launching first in the market, and the potential to capture a large share of the market. Mr. Boughner also testified that Novopharm was constantly competing with Teva Israel's other subsidiaries for manufacturing capacity. In this case, the Novo-Venlafaxine launch conflicted with three key launches in the USA which led to issues with supply.
+[102]
+According to Mr. Boughner, Novopharm had initially planned for a January 10, 2006 launch date to coincide with the expiry of the 540 Patent. It planned to have the product delivered from Teva Israel by November 29, 2005, in order to provide time to allow the quality control group to run tests.
+[103]
+Mr. Boughner testified that he knew that a January 10, 2006 launch date was optimistic and says that when the 778 Patent was listed, he felt personally relieved because he would not have to deal with the consequences of the failure to launch on time. However, Mr. Boughner says that Novopharm continued to press forward and urged Teva Israel to continue the validation process in an effort to be ready as soon as possible.
+[104]
+Novopharm's problems persisted with repeated failed validations for various reasons. Nevertheless, Mr. Boughner explained that he was putting pressure on Teva Israel to complete the validation as quickly as possible. Meeting minutes confirm that Teva Israel was experiencing significant problems with the validation process. This necessitated moving the proposed launch date back on numerous occasions.
+[105]
+There are aspects of Mr. Boughner's testimony that are of concern. First, he claims not to have known about the Wyeth-Novopharm Agreement until June 2006. This is difficult to believe given his responsibility within Novopharm for the launch of the product and Mr. Des Islet testified that Mr. Boughner would have known about the Wyeth-Novopharm Agreement.
+[106]
+Second, although Mr. Boughner claims that Novopharm was always working hard towards a January 10, 2006 launch date, the documentary evidence shows that as of July 2005, before the Wyeth-Novopharm Agreement had been negotiated, Teva Israel had told Novopharm that January 10, 2006 was unrealistic and that March 2006 was a more realistic launch date.
+[107]
+This same evidence supports that the problems Teva Israel was experiencing in the validation process were such that it was already resigned to missing Novopharm's first opportunity to launch on the expiration of the 540 Patent. Accordingly, there is no persuasive evidence that added pressure from Ratiopharm's launch in January 2006 in the but-for world would have changed Teva Israel's approach or hastened Novopharm's entry into the market.
+[108]
+Third, although Mr. Boughner testified that he was constantly putting pressure on Teva Israel to complete validation, there is no documentary evidence in the form of correspondence or meeting minutes that corroborates that testimony. Given the importance of Novo-Venlafaxine to Novopharm and to Teva Israel and the many documents by way of emails and meeting minutes produced in this action that relate to the production of Novo-Venlafaxine by Teva Israel, it defies common sense that there is no documentary support for his evidence that he was constantly impressing on Teva Israel the urgency required to complete validation.
+[109]
+For these reasons, I do not accept Mr. Boughner's evidence that he did not know of the Wyeth-Novopharm Agreement prior to June 2006, or his evidence that he was pressing Teva Israel to complete the validation process urgently after the listing of the 778 Patent in December 2005.
+[110]
+Being aware of the Wyeth-Novopharm Agreement, Mr. Boughner knew that unless another generic received a NOC for Venlafaxine, the earliest Novopharm could launch its product was December 1, 2006. Given the listing of the 778 Patent in December 2005 and the obligation of Wyeth under the Wyeth-Novopharm Agreement to take all "commercially reasonable efforts" to prevent Ratiopharm from infringing the listed patent, Ratiopharm was not likely to receive a NOC in 2006 until it moved to set aside the listing of the 778 Patent. In short, armed with this knowledge, it was reasonable for Mr. Boughner to expect that the earliest Novo-Venlafaxine would be able to launch was December 1, 2006, and thus from his perspective, there was no real urgency to validate Novo-Venlafaxine.
+[111]
+Importantly, Mr. Uri Hillel provided extensive detail about the validation process of Novo-Venlafaxine by Teva Israel. His evidence was most important because he was directly involved and he was unaware of the terms of the Wyeth-Novopharm Agreement. He confirmed that Novo-Venlafaxine was always a high priority product and that Teva Israel was always doing everything it could to complete validation in compliance with Health Canada's Guidelines. He also confirmed that Venlafaxine was a very challenging product to make and the process involved the use of new technology for the site.
+[112]
+The manufacturing process involves two stages: coating pellets which contain the medical ingredient, and encapsulating the pellets. Mr. Hillel provided detailed testimony, supported by documentary evidence, of the batches manufactured, the problems that Teva Israel encountered, and the ultimate solutions used to address these problems.
+[113]
+There is no real dispute that the manufacturing process was problematic, nor that the problems Mr. Hillel described needed to be addressed to achieve validation. Rather, Wyeth through its expert Stuart Wright, attempted to convince the Court that had there truly been a sense of urgency, as there would have been in the but-for world, these problems could have and would have been addressed sooner.
+[114]
+Wyeth takes issue with four periods of delay by Teva Israel. During these periods, it says that, had Novopharm faced competition from Ratiopharm, it would have been motivated to complete these stages faster and these delays would therefore not exist or would have been ameliorated. The periods of delay that Wyeth takes issue with are: (1) between the first and second validation batches; (2) between the manufacturing of batch 8 and the completion of the investigation into the questionable results; (3) between the completion of the investigation into the anomalous results from batch 8 and the release of the final test results; and (4) between the release of the final test results and the completion of the final validation report.
+[115]
+Stuart Wright testified that Novopharm could have taken different steps to complete validation faster. Mr. Wright opined that Novopharm could have (1) started validation of batch 2 no later than February 17, 2006, or shortly thereafter; (2) used batches 4 and 5 to complete validation through the use of a capsule sorter; (3) elected not to investigate the questionable results of batch 8; and (4) completed the final report in 15 days.
+[116]
+Ratiopharm called Paul Larocque who testified that validation could not have been completed faster. Mr. Larocque concluded that: (1) the steps Teva Israel took to complete validation were reasonable as they were directed to a root cause analysis of the problem rather than a cosmetic quick fix; (2) Teva Israel was required to investigate questionable results to comply with Health Canada Guidelines which it could not disregard; (3) a capsule sorter could not have been used to validate the product faster because the sorter did not solve the problem leading to the failed validations and acted only as an additional control; and (4) the completion of a validation report can take varying amounts of time depending on how many issues were experienced and what needed to be addressed.
+[117]
+Mr. Larocque worked for Health Canada and has personal knowledge of what Health Canada requires regarding validation. Where his evidence conflicts with Mr. Wright on the issue of what Health Canada would require, I prefer Mr. Larocque's evidence.
+[118]
+Mr. Wright's evidence is the only evidence Wyeth led to support what Teva Israel "could have done." Other than his evidence, Wyeth implies that something akin to an adverse inference ought to be drawn because Novopharm and Ratiopharm are now one.
+[119]
+Mr. Wright acknowledged in cross-examination that: (1) he was not aware of Teva Israel's internal controls; (2) he did not know anyone personally from Teva Israel; and (3) he assumed that the capsule sorter ultimately solved the problems with validation.
+[120]
+On the balance of probabilities, I find that, the steps Teva Israel took to validate its process were reasonable and would not have been different if Ratiopharm was on the market. Wyeth's allegation that the capsule sorter could have been used to achieve validation and that it was the solution to the problem is not supported by the documentary evidence. In response to undertakings, it was revealed that verbal confirmation of validation of all three strengths was given on August 3, 2006, but the capsule sorting machine was not implemented until August 13, 2006. This confirms that validation was successful prior to the implementation of the capsule sorter.
+[121]
+Further, Mr. Hillel and Mr. Larocque both testified numerous times that it was the implementation of an ionizer which discharged static electricity in the encapsulating machines that ultimately brought the capsules within the specifications needed to complete validation. Nevertheless, in order to remain in compliance with Health Canada's requirements, and to satisfy Teva Israel's own policies and internal controls, Teva Israel still needed to investigate the questionable (albeit, within specification) results. Therefore, even though validation was successful after the implementation of the ionizer, Teva Israel could not complete the validation report until the investigation into the questionable results was complete.
+[122]
+In my view, the only questionable periods of delay are between the first batch and the second batch, and the time between the completion of the investigation into the questionable results from the high-performance liquid chromatography [HPLC] machine and the completion of the final report.
+[123]
+The delay between the first and second batches seems questionable because the documentary evidence shows that the investigation into why the validation failed was completed by February 2, 2006, and the solutions recommended by the Bosch experts were implemented by February 16, 2006, and yet validation did not commence again until March 19, 2006. This may suggest a lack of urgency that might not have existed in the but-for world.
+[124]
+Mr. Hillel's explanation for the delay was that they wanted to have Bosch experts on site during the second batch to "help us with the encapsulation" and that the "experts came as soon as they could" to supervise the second batch. Given the problems experienced to date and the fact that the equipment was Bosch equipment, that seems reasonable. When asked if Teva Israel would have acted more expeditiously if a competitor had entered the market in January or February, Mr. Hillel responded:
+Because we started to investigate batch VEN001, and we consulted also with Bosch, and we asked also Bosch to come and help us with the encapsulation. So Bosch experts came as soon as they could. We could not jump into the second batch without understanding what is -- what are the issues.
+[125]
+It was established in cross-examination that Mr. Hillel had no personal knowledge of when or how these expert Bosch technicians were contacted or whether any urgency was expressed to them in traveling to Israel. Nevertheless, there is no evidence to suggest that these technicians could have arrived on site earlier, had a competitor entered the market. Accordingly, I accept Mr. Hillel's evidence that the delay in starting the second batch was warranted by the problems experienced and was reasonable, despite the solution to the problem having been implemented earlier.
+[126]
+The delay in completing the validation reports was also questioned by Wyeth. The last of the investigations Teva Israel performed of the many problems it had experienced was completed on September 20, 2006. At the weekly project update meeting on September 21, 2006, it was reported that the validation report would be provided the first week of October. However, the final test data was released only on October 21, 2006 and the validation reports were completed on November 20, 2006.
+[127]
+Mr. Wright testified that written reports concerning failed batches are generally written up immediately after the batches fail and that once the data has been collected the validation report generally takes about three weeks to finalize. The difficulty with this evidence is that it is general in nature and Mr. Wright has no knowledge of Teva Israel's operation, policies, or processes. On the other hand, Mr. Hillel, who was in the best position to know of Teva Israel's practices and policies, testified that it generally takes about 30 days to compile the data and to review laboratory notebooks in preparation for the compilation and drafting of the validation report. In this case, that process took some 41 days; however, given the complexities of the manufacturing process and the numerous issues experienced, this was not the usual case - it was an exceptional one. Therefore, I am prepared to accept Mr. Hillel's evidence that the data collection was done as soon as reasonably possible within the policies and procedures in place  <FRAGMENT_SUPPRESSED>  Israel.
+[128]
+The validation reports were ultimately prepared and signed off on November 20, 2006. Again, although this was somewhat longer than the norm, it cannot be said to have been unreasonable given the difficult circumstances of the manufacturing process which can hardly be said to have been the norm. Even then, the evidence was that Novopharm had to hurry and put extraordinary measures in place to get product to Canada and ready for market by December 1, 2006. If anything, this suggests that the problems experienced were genuinely delaying validation and production and that all reasonable steps were being taken to achieve success as soon as possible.
+[129]
+For these reasons, I conclude that Novopharm would have entered the market with Novo-Venlafaxine on December 1, 2006 in the but-for world, as it did in the real world.
+PMS-Venlafaxine
+[130]
+The plaintiff generic need not comply with the
+NOC Regulations
+in the but-for world as they relate to the patent(s) that were the subject of the Prohibition Application for the reasons provided above. However, any competing generic manufacturer must do so because in the real world it has not addressed the patents on the Patent Register. Determinations in proceedings under the
+PMNOC Regulations
+are decisions specific to the parties and not
+in rem
+determinations against the world at large:
+ <FRAGMENT_SUPPRESSED>  at para 40.
+[131]
+Accordingly, when ascertaining when a competing generic would enter the market, one must do so considering the requirement that it serve a NOA.
+[132]
+In my view, the critical issue is whether Pharmascience would have served a NOA on Wyeth in the but-for world. I have concluded that it is not likely that it would have done so for the following reasons.
+[133]
+Pharmascience entered into the Ratiopharm-PMS Agreement with Ratiopharm on September 20, 2005, so that it could enter the generic market at the same time as Ratiopharm in January 2006. Under that agreement Ratiopharm agreed to allow Pharmascience to cross-reference its ANDS and to provide reasonable assistance to enable Pharmascience to obtain its NOC for its Venlafaxine product, PMS-Venlafaxine.
+[... ... ... ... ... Redacted
+... ... ... ...]
+.
+[134]
+Under the Ratiopharm-PMS Agreement, Pharmascience had to provide a purchase order
+[..Redacted..
+] "at least" 150 days (five months) in advance of delivery.
+[... Redacted ... ... ...
+... ... ... ... ... ... ... ... ... ... ... ... ..... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ....].
+[135]
+Documentary evidence supports that in the real world, Pharmascience intended to place an order for PMS-Venlafaxine
+[ ... ...Redacted ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ....
+]. However, by email dated October 5, 2005, Pharmascience cancelled its order that was scheduled for delivery in January 2006. Debby Ship, Pharmascience's Senior Director of Business Development, testified that the reason the order was cancelled was because Pharmascience was anticipating the listing of the 778 Patent. Pharmascience decided to time its order to what it hoped would be a positive decision about the 778 Patent in favour of Ratiopharm. I accept that this would not have changed in the but-for world. Therefore, the earliest Pharmascience would have placed an order is when Ratiopharm actually received its NOC. Had it placed an order in January 2006, it would not have been in a position to have product and to launch PMS-Venlafaxine until June 2006.
+[136]
+It is not disputed that the goal of every generic is to be the first to market, but if not the first to be tied for first. Coming second or later is never the goal. The first generic to market has the advantage. It is the only generic alternative to the innovator product and given the provincial formulary and many private plan requirements that the generic product is to be used to fill a prescription, it will quickly occupy a large share of the market. Once established, the evidence is that it is difficult for another generic to displace the first generic's product on the pharmacy shelves. As a result, if Pharmascience was coming to market five months after Ratiopharm in the but-for world (because it had to place an order five months in advance), there was little incentive for it to do so, unless it could do so with little or no risk of an attack on it by the innovator manufacturer.
+[137]
+Ms. Ship testified that once Ratiopharm obtained its NOC in the but-for world, there would be nothing preventing Pharmascience from serving Wyeth with a NOA. However, Ms. Ship was unable to testify as to whether or not Pharmascience actually would serve a NOA in the but-for world.
+[138]
+If Pharmascience served its NOA as soon as Ratiopharm entered the market in the but-for world, Wyeth had three possible courses of action: (1) initiate a Prohibition Application against Pharmascience to keep it off of the market; (2) let Pharmascience come to market and sue it for infringement; or (3) let Pharmascience come to market and do nothing. Wyeth submits that it would not have launched a Prohibition Application because (1) Ratiopharm was already on the market and thus the market share of Wyeth was already compromised and Pharmascience would only take a small portion of the generic market, and (2) Wyeth did not know at that time whether under section 8 it would be liable to disgorge its profits, as that issue had not yet been determined by the Court of Appeal.
+[139]
+I do not have to determine whether Wyeth would have let Pharmascience come to market or whether it would have initiated a Prohibition Application in the but-for world because I have concluded that Pharmascience would not have served a NOA in the first place.
+[140]
+Pharmascience had to weigh the risk of Wyeth bringing a Prohibition Application against it and, if it did not or if it was not ultimately successful, whether Wyeth would launch an infringement action against it. Although the evidence of Ms. Ship was that Pharmascience wanted a Venlafaxine product in its portfolio, it had to weigh the risks of an infringement action against the likely result of launching as the second (or potentially later) generic and its significant challenge in penetrating the generic market. Moreover, in a successful infringement action, Wyeth could elect to recover its lost profits, which would have put Pharmascience in a position where it was potentially liable for more than the profit it might make in going to market.
+[141]
+In my view, from a cost-benefit analysis, Pharmascience would more likely than not have been averse to the risk of litigation and have decided against serving a NOA. The fact that it had negotiated the Ratiopharm-PMS Agreement earlier is inconsequential because at the time it was negotiated, the only impediment to coming to market was the 540 Patent. It was not until October 18, 2005, after the Agreement was negotiated, that it became clear that the 778 Patent would be issued (and the attendant risk of litigation associated with it crystallized).
+[142]
+On the balance of probabilities, I conclude that Pharmascience would not have served a NOA and thus would not have entered the generic market during the Relevant Period.
+[143]
+I find that the only generic competitor to Ratiopharm in the Relevant Period would have been Novo-Venlafaxine which would have entered the market on December 1, 2006.
+(b) At what date would Ratiopharm have launched and were there any impediments to it being able to supply the market?
+[144]
+The burden of establishing that it could have come to market during the Relevant Period rests with Ratiopharm; this is a prerequisite to recovering damages:
+Alendronate FC 2012
+at paras 36 and 45.
+[145]
+Wyeth submits that Ratiopharm would not have had the capacity to supply the full generic market during the Relevant Period. In response, relying on
+Apotex-Rampiril FC 2012
+and
+Teva-Ramipril FC 2012
+, Ratiopharm says that its burden is a low one, that it does not have to even identify an active pharmaceutical ingredient [API] supplier let alone that API supplier's ability to fully supply the market. In any event, it says that Mr. Major testified that Alembic, Ratiopharm's API supplier, confirmed that it had capacity to supply much larger quantities, and Mr. Major inspected its facilities and confirmed this for himself.
+[146]
+The reliance by Ratiopharm on Justice Snider's comments in the
+Ramipril
+cases is misplaced. Justice Snider stated that, in evaluating whether a generic could come to market, no specific API supplier had to be identified. However, those comments are distinguishable from this case for three reasons. First, they were made in the context of evaluating whether a competitor generic would come to market, not the plaintiff generic. As Justice Snider observed, determining what a competitor generic might do is a "hypothetical analysis" and in my view, highly speculative when it is the defendant innovator who has the burden of leading evidence as to generic competitors in the but-for world. Requiring a defendant to identify a generic manufacturer's specific API supplier would place too high of an evidentiary burden on the defendant where such information is likely not in its direct knowledge, information, and belief.
+[147]
+Second,  <FRAGMENT_SUPPRESSED> -Ramipril FC 2012
+, a representative from the API supplier was subpoenaed and testified as to the supplier's capacity at trial. That API supplier was supplying both the plaintiff and the competitors. In this case no one from Alembic was called to testify. Third, in both
+Apotex-Rampiril FC 2012
+and
+Teva-Ramipril FC 2012
+, Sanofi (the innovator) never contested the plaintiff generic's ability to supply the entire market; in this case, that is exactly what is being disputed by Wyeth.
+[148]
+Thus, contrary to Ratiopharm's submissions, it must show on a balance of probabilities that it was able to supply the market. To do so, it must both identify an API supplier (since it is the plaintiff generic), and it must show that the API supplier had the capacity to supply the market over the Relevant Period.
+[149]
+The only evidence about Ratiopharm's ability to supply came from Mr. Major who testified that Alembic, an API manufactur, was responsible for manufacturing Ratio-Venlafaxine. Alembic was a long-standing API supplier to Ratiopharm.
+[150]
+He testified that in 2005, he accompanied an inspector from Health Canada to the Alembic facilities to verify that they met Health Canada's Good Manufacturing Practice Guidelines. During this time, he was personally on site for two weeks. Mr. Major described Alembic's production facilities as follows:
+It is a large facility, very large API, very large dosage manufacturing. They had what we call pilot scale, and pilot scales are equipment that we use in order to produce the batches for Health Canada that they can review, and they also had a number of production suites where they had same [
+sic
+] equipment. They were specifically designed to do sustained release dosage forms, and a lot of the equipment that they had used in that type of formulative work are considered fluid bed processors, so they had different sizes of fluid bed processors.
+...
+They had these fluid bed processors in going up to commercial sizes that would be -- allow them to manufacture large volumes of product.
+[151]
+Mr. Major explained that making API was Alembic's specialty: "They were initially an API facility, and they had enormous capacity in tonnages in order to produce the active pharmaceutical ingredient."
+[152]
+Further, "the way that the active pharmaceutical ingredient is made is along with what we call a route of synthesis, and the route of synthesis for producing Venlafaxine is actually quite short.
+It's not that complicated
+. So it doesn't take a great deal of time" (emphasis added). This suggests that any bottleneck in production would have come at the encapsulation stage, not at the API production stage. When asked what, if anything, Ratiopharm could have done in order to assist Alembic in the encapsulation stage, Mr. Major explained:
+[Ratiopharm was] the premiere client to Glatt which is the foremost manufacturer designer and supplier of these fluid bed process units [which are used for encapsulation]. If we knew -- or the time that we would have to have enormous volume, we would have bought equipment, put equipment in place. They already had equipment in place, but we would have, in fact, done that.
+... Alembic being a long-term supplier, we had a long relationship, that would have been something that could have been quite easily done.
+[153]
+Wyeth says that Mr. Major's evidence of Alembic's capacity and what Alembic would have done is hearsay because he was not personally a part of that company. While Mr. Major did not explain exactly how many capsules could have been made by the equipment that he personally observed at Alembic, he did personally observe commercial size fluid bed processors and he indicated that Ratiopharm could have easily ordered more if they were required. Although Mr. Major speaks as an observer rather than as an employee of Alembic, I find that his evidence is reliable.
+[154]
+Mr. Major testified that Alembic "had expressed an intense desire to support the launch of the product. They were very interested in meeting our business. We were a very long established partnership -- very long established partnership. In our run-up to the actual manufacturing, they were prepared to redirect equipment." That evidence is supported by an email from Kavit Tyagi of Alembic, to Jim Mihail, a Product Manager within Ratiopharm's Marketing Group, dated September 2, 2005, that states:
+We are evaluating the possibility of creating the additional batches before Dec - 05 with all possible option [
+sic
+]. We anticipate that this may calll [
+sic
+] for diversion & utilization of resources from various other ongoing projects, because of the additional resource [
+sic
+] which is required to be deployed the cost of additional batches may increase.
+[155]
+Additionally, Alembic committed to being able to supply Ratiopharm, as required in the Alembic Supply Agreement dated April 13, 2005. Section 3.2 of that agreement states:
+During the term of this Agreement, Alembic
+shall
+furnish all labour, equipment, facilities, Active Ingredients and raw materials necessary to manufacture, test, label and package the Product
+ordered by ratiopharm
+in accordance with the terms of this Agreement and the Specifications, and with Good Manufacturing Practices to analyse the Product for quality control, test the Product, store the Product, label and package the Product and to ship the Product in accordance with ratiopharm's instructions. (emphasis added)
+[156]
+Mr. Major further said that Bob Woloschuk, Ratiopharm's Vice-President for Business Development at the time, asked Alembic about whether or not Alembic had the capacity to produce enough capsules to supply the USA market as well. According to Mr. Major, Bob Woloschuk reported at a pipeline meeting for the senior executives (which Mr. Major attended), that Alembic could supply "around about a billion dosage forms a year." This was corroborated by an email exchange between Alembic and Bob Woloschuk which indicated that Alembic was only operating at 40 per cent capacity and that it was planning to expand its manufacturing plant to "double its capacity to handle at least 2 billion capsules." Mr. Major testified that this was consistent with his understanding of Alembic's capacity, having inspected its plant himself.
+[157]
+Mr. Major reviewed an email exchange between Ratiopharm representatives and Alembic which indicated that, had Ratiopharm not called off production in October 2005 in view of the listing of the 778 Patent, by the end of December 2005, Alembic would have produced 2.4 million capsules in the 37.5 mg strength, 2.4 million capsules in the 75 mg strength, and 1.8 million capsules in the 150 mg strength for a total of 6.6 million capsules. This was in addition to the bio-batches produced for validation, bringing the total to roughly 7 million capsules. This was at a time when Ratiopharm was forecasting to capture 20% of the market with a launch in January 2006.
+[158]
+Wyeth notes that Ratiopharm called off its order in October 2005, and says that it would not even have had the 6.6 million capsules it planned to launch with. Wyeth has misunderstood the burden that Ratiopharm must discharge. Ratiopharm only has to show that it "had the capacity" to supply the market in the Relevant Period: See
+Alendronate FC 2012
+at para 44. Ratiopharm called off its order in the real world in response to the high probability of the 778 Patent being listed. Had it been required to address the 778 Patent, it is true that Ratiopharm would not have had enough product to supply the full market. However, in the but-for world, Ratiopharm does not have to address the 778 Patent; the 778 Patent should never have been an impediment to Ratiopharm's entry into the market. Ratiopharm must be presumed to behave in accordance with the fact that the 778 Patent would not impede its entry. In such a scenario, it would not have called off its order. Irrespective, it is clear that even operating at 40% of its plant capacity, Alembic had the
+ability
+to produce 400 million capsules-enough to supply the entire Venlafaxine market of 226 million capsules annually.
+[159]
+That it would not have had the volume of capsules necessary to supply the market in the same time-frame if it had to address the 778 Patent is therefore irrelevant. Ratiopharm has discharged its burden of establishing that in the but-for world, it had the capacity to supply the market.
+(c) When would Ratiopharm and its generic competitors have been listed on the provincial formularies?
+[160]
+The most significant portion of the pharmaceutical market in Canada is public sales made under provincial drug plans. These sales cannot occur prior to the drug being listed on the relevant provincial formulary in accordance with each province's laws and processes. Therefore, any pre-formulary listing sales are sales to the private market to patients paying out-of-pocket or to patents with private insurance plans.
+Ratiopharm formulary listing
+[161]
+Rosemary Bacovsky was put forward as an expert witness by Ratiopharm. She provided her opinion as to when Ratiopharm and Novopharm would each be listed on the provincial formularies (based on Dr. Hollis' scenarios). She assumed, in the absence of changes to (1) provincial drug plan policies and procedures; (2) listing schedules; (3) staffing considerations; or (4) delays with the manufacturer being able to supply the product to meet the demand, that what happened in the real world would have happened in a similar timeframe in the but-for world.
+[162]
+She also assumed that Ratiopharm would apply for listing on its NOC date or within days after receiving its NOC, and that Novopharm would have applied for listing on the same dates that it did in the real world, given its supply issues. Certain provinces have the potential for a "fast-track" or streamlined application process (typically for drugs that provide substantial savings to the province). She was of the view that Ratiopharm, being the first generic to market, would have received fast-track treatment where available, and that Novopharm would have not, except in Alberta where it could have received fast track treatment if it met certain requirements.
+[163]
+Neil Palmer was put forward as an expert witness by Wyeth. He provided his opinion as to when Ratiopharm, Novopharm, and Pharmascience would each be listed on the provincial formularies (based on Dr. Tepperman's scenarios). In brief, Mr. Palmer's approach determines the average listing time of a subcategory of drugs, and then assumes that Ratio-Venlafaxine would be listed in a similar timeframe.
+[164]
+Mr. Palmer assumed that each manufacturer would apply for formulary listing "in advance of their ability to supply dates" just as they did in the real world, but would not have applied for listing prior to receiving a NOC. Mr. Palmer assumed that generic manufacturers would apply for listing as early as 47 days in advance of the expected launch date, based on Ratiopharm's experience in the real world.
+[165]
+Based on the scenario where Ratiopharm enters the market first and receives its NOC on February 13, 2006, and Novopharm enters the market on December 1, 2006, Mr. Palmer determined that Ratiopharm would have applied for listing on February 13, 2006 and Novopharm would have applied for listing in October 2006 (as it did in the real world).
+[166]
+Mr. Palmer then employed an "analogue approach" based on this scenario for all provinces except for British Columbia and Alberta. Using the likely Venlafaxine submission date for Ratiopharm of February 13, 2006, he then looked to the next formulary update in the real world following that submission date. All generics listed on that formulary update were considered potential analogue drugs for that province. He then determined the dates on which the NOCs for those potential analogue drugs were issued using the Health Canada Notice of Compliance Database. Drugs that had a NOC issued on the Ratio-Venlafaxine submission date of February 13, 2006, or anytime thereafter, were selected as analogue drugs for that province. If all NOCs for drugs on that formulary update were issued before February 13, 2006, Mr. Palmer concluded that it was unlikely that Ratio-Venlafaxine would be listed on that update based on his assumption that the manufacturers of the analogue drugs applied for formulary listing on the NOC date. He therefore used the next earliest update to select analogue drugs and repeated the process. Finally, he then took the average time to listing of the analogue drugs and assumed that this would be the most likely time to listing for Ratio-Venlafaxine in that province.
+[167]
+In some provinces, there are application "cut off dates" that must be met in order for a drug to be considered for listing on the next formulary update. Mr. Palmer considered such cut off dates where applicable and where February 13, 2006 post-dated a cut off date, he assumed that Ratiopharm would have to wait until the following update to be listed. Mr. Palmer also considered the effect of fast-track programs where these processes were available.
+[168]
+In British Columbia, the formulary is constantly updated. In Alberta, the formal "fast-track" process allowed manufacturers to work around the cut off dates and be listed on the formulary on the first of the next month following the submission of their application. Therefore, a different approach was required in these two provinces.
+[169]
+In British Columbia, Mr. Palmer took the average time to listing for all products that received NOCs between February and August 2006 that were listed by December 31, 2006. In Alberta, Mr. Palmer took the average time to listing of all drugs that received "fast-track" treatment and were listed on the formulary updates between April and October 2006. He then compared this time to the actual time to listing of Novo-Venlafaxine in the real world and adopted the earlier of these two times.
+[170]
+Apart from the fact that Mr. Palmer used a cut-off date that is a month after the date on which I have determined Ratiopharm would have received its NOC, there are conceptual problems with this model. Mr. Palmer's approach is premised on the assumption that Ratio-Venlafaxine would most likely be listed in the same time-frame as other drugs in the Relevant Period. In my view, this approach fails to account for unique aspects of Venlafaxine and introduces variation that might be specific to the particular group of analogue drugs on which the model is based. For example, for certain drugs, it might be easier to submit a complete application faster. In cross-examination, Mr. Palmer:
+(1) explained that the average times to listing included both complete and incomplete applications;
+(2) conceded that he did not consider the class of drugs that the analogue drugs came from in comparison to Venlafaxine;
+(3) conceded that he did not employ a firm cut off date for selecting analogues in his expert report in
+Pantoprazole FC 2013
+, as he did in this case (by only selecting drugs with NOCs that issued after February 13, 2006) and provided no explanation for the difference in methodology; and
+(4) conceded that he would defer to Mr. Fraser and Mr. Monteith where his opinion conflicted with their evidence.
+[171]
+These aspects of Mr. Palmer's evidence are significant and undermine the accuracy of his model for the following reasons:
+(1) His evidence here and in
+Pantoprazole FC 2013
+differ significantly. In
+Pantoprazole FC 2013
+Mr. Palmer found that in British Columbia 19 days to listing was a reasonable estimate, which is close to the 14 days Ms. Bacovsky found in this case. However, in this case Mr. Palmer found that it was more likely that it would take 42 days to be listed in British Columbia. On cross-examination, he conceded that 14 days was not an unreasonable estimate.
+(2) In Alberta, Mr. Palmer found that it would be reasonable for Ratio-Venlafaxine to be listed on June 1, 2006. Mr. Monteith, to whom Mr. Palmer defers, testified that if a completed application were submitted on February 13, 2006, the drug would be listed on March 1, 2006. Again, Ms. Bacovsky's estimate of April 1, 2006, is much closer to Mr. Monteith's testimony than Mr. Palmer's.
+(3) In Ontario, Mr. Palmer found that May 19, 2006 was the most likely listing date. Mr. Fraser, to whom Mr. Palmer defers, testified that there was an internal cut-off date of February 17, 2006, and that if a completed application was submitted by that date, the drug would be listed on April 4, 2006. This date accords with what Ms. Bacovsky found.
+[172]
+Accordingly, Ms. Bacovsky's estimates align more closely with the testimony from representatives from the formularies than Mr. Palmer's, in the two provinces where such evidence was available. Mr. Palmer explained that Mr. Monteith and Mr. Fraser were operating under the assumption that applications were complete and that the prices submitted to the formulary would be acceptable, but that in the real world, it is often not the case that an application is processed so smoothly.
+[173]
+No evidence was presented to suggest how often an application is complete or a price is accepted on the first submission. Even if in the real world, applications in general are not processed to completion after only one submission, there is no evidence that the application for Ratio-Venlafaxine specifically, would be deficient.
+[174]
+Therefore, I prefer Ms. Bacovsky's evidence because Ms. Bacovsky used real world processing times for Venlafaxine to extrapolate what would happen in the but-for world, and her dates more closely align with the evidence from the fact witnesses.
+[175]
+Ms. Bacovsky's conclusions as to when Ratio-Venlafaxine would be listed on the provincial formularies, which is accepted by the Court, is shown below (month/day/year):
+BC
+AB
+SK
+MB
+ON
+QC
+NB
+NS
+PEI
+NL
+01/24/2006
+03/01/2006
+02/01/2006
+06/15/2006
+03/01/2006
+10/11/2006
+03/31/2006
+03/15/2006
+05/29/2006
+08/03/2006
+Novopharm formulary listing
+[176]
+Ms. Bacovsky and Mr. Palmer only diverge in their estimate as to when Novo-Venlafaxine would achieve formulary listing in three provinces: British Columbia, Saskatchewan, and Manitoba. In each of these provinces, Ratiopharm experienced a longer time to listing than Novopharm did in the real world. Mr. Palmer simply adopts Novopharm's real world time to listing. Ms. Bacovsky takes the view that it would be inappropriate to use Novo-Venlafaxine's real world time to listing in the but-for world in these provinces because the first generic is listed faster. Because Ratiopharm was the second generic in the real-world, it experienced a longer time to listing than Novopharm did. In the but-for world, Novopharm would be the second generic so it would experience a similar delay in listing in these provinces.
+[177]
+Ms. Bacovsky testified that in British Columbia, in the real-world, as a first generic, Novo-Venlafaxine was listed in 57 days from receiving its NOC, on December 13, 2006, while Ratio-Venlafaxine, as the second generic was listed in 105 days. I agree with Ms. Bacovsky that the evidence shows that Novo-Venlafaxine, as a second generic would not have received the priority treatment that it received in the real world, and it would have been listed later than December 13, 2006.
+[178]
+Ms. Bacovsky noted that the first BC PharmaCare newsletter in 2007 was published on March 21, 2007 and it indicated that those drugs listed therein would become effective April 23, 2007. She reasonably concluded, in my view, that Novo-Venlafaxine would have been included in that first newsletter in 2007, and thus would have received a listing in British Columbia on April 23, 2007.
+[179]
+In Saskatchewan in the 2006-2007 timeframe, formulary updates were only issued in January, April, July, and October. In the real-world, Novopharm received special treatment for Venlafaxine and was able to list it on December 1, 2006, outside of the normally scheduled updates because it was the first generic. According to Ms. Bacovsky, Novopharm would not have received the same treatment in the but-for world as the second generic. She therefore concludes that Novo-Venlafaxine would have been listed on January 1, 2007, on the regular formulary update. That is a reasonable view, and I accept it.
+[180]
+In 2006, Manitoba updated its formulary on February 9, March 13, June 15, September 14, and December 14. In 2007, the formulary was updated on February 9 and March 15. Manitoba has a practice of handling submissions in chronological order. Ms. Bacovsky observed that another drug, Novo-Sumatriptan, which was issued a NOC on October 6, 2006, was listed on March 15, 2007. Because this date was the same date the NOC for Novo-Venlafaxine was issued and because Novopharm was a subsequent generic for Novo-Sumatriptan as well, Ms. Bacovsky concluded that Novo-Venlafaxine would also have been listed on March 15, 2007.
+[181]
+Although Ms. Bacovsky uses Novo-Sumatriptan as a proxy for Novo-Venlafaxine, I am prepared to accept her comparison because the NOC dates were identical and the evidence was that manufacturers apply for listing as soon as possible after receiving a NOC. Novo-Venlafaxine was exceptional in that it was able to receive its NOC early and quickly as an authorized first generic, but its manufacturing problems resulted in it not being able to come to market until significantly later.
+[182]
+In conclusion, I accept Ms. Bacovsky's estimate of Novopharm's listing dates, as set out below (month/day/year):
+BC
+AB
+SK
+MB
+ON
+QC
+NB
+NS
+PEI
+NL
+04/23/2007
+02/01/2007
+01/01/2007
+03/15/2007
+01/02/2007
+06/22/2007
+12/04/2007
+12/15/2007
+03/19/2007
+04/07/2007
+[183]
+With these dates in mind, I adopt the approach of Dr. Hollis in determining the effect on Ratiopharm's market share as a result of Novopharm's entry. Ratiopharm's market share will drop once Novopharm enters the market in the but-for world, by the same proportion as Ratiopharm reduced Novopharm's market share in the real world. In other words, Ratiopharm steps into Novopharm's shoes, and vice-versa.
+[184]
+I accept that Dr. Hollis' model is not perfect. As Dr. Tepperman has identified, Dr. Hollis' model may not account for particular advantages specific to either Ratiopharm or Novopharm. It may not account for the supply issues Ratiopharm experienced in the real world. However, it is the best model available. Dr. Tepperman used an econometric model based on a selection of 40 drugs and attempted to extrapolate from this data what Ratiopharm's market share would have been. Although I have already pointed out what I consider to be flaws in Dr. Tepperman's approach, I also note the following:
+1. Of the 40 drugs selected by Dr. Tepperman, only 3 had any data from the Relevant Period;
+2. Dr. Tepperman's model does not accurately account for the length of the period of exclusivity of the first generic (he simply controls for drugs that had 3 months of exclusivity or longer versus those that had less than 3 months of exclusivity);
+3. Dr. Tepperman conceded that where a real-world analog is available, that is preferred over an econometric analysis.
+[185]
+For those reasons, I find that Novopharm's market share is a suitable, although imperfect analogue for Ratiopharm's Market Share. Therefore, I prefer and adopt Dr. Hollis' model of Ratiopharm's Market Share.
+(d) Pipe-fill
+[186]
+There are predominantly two types of data used to calculate sales - IMS data, which represents inventory actually sold to patients, and ex-factory data which is the actual sales by the manufacturer based on invoices.
+[187]
+Pipe-fill represents the initial inventory purchased in order to stock up on the product or "fill the pipe." Because these are sales to wholesalers and pharmacies and not necessarily to patients, this initial stockpiling will not be captured by IMS data. Therefore, over the same period of time, IMS data underreports the actual sales by a manufacturer as compared to ex-factory data.
+[188]
+In this case, Dr. Hollis performed a pipe-fill adjustment by calculating the ratio of ex-factory sales to sales reported by IMS for each strength of Novo-Venlafaxine over the 18 month period following Novopharm's entry to market. He then added this ratio to the volume reported by IMS data.
+[189]
+Because I accept Dr. Hollis' approach to calculating the Overall Venlafaxine Market, the Generic Venlafaxine Market, and Ratiopharm's Market Share, I accept his approach for adjusting for pipe-fill. Mr. Hamilton advised that if I accepted Dr. Hollis' model, I should use Dr. Hollis' pipe-fill calculation.
+[190]
+However, I observe that where ex-factory data is available, I see no reason to use IMS data. What is being calculated is the total volume of sales that would have been made by the plaintiff generic during the Relevant Period, and to the extent that ex-factory sales actually made in the period by another is an appropriate analogue, this eliminates the need to calculate pipe-fill altogether.
+What is the value of Ratiopharm's Lost Sales in the Relevant Period?
+[191]
+As noted above, calculating Ratiopharm's Lost Sales requires that the following be addressed:
+a. At what price would Ratiopharm have sold its product in each province?
+b. When does Ratiopharm's price change from single-source to multi-source in each province?
+c. What would Ratiopharm's trade-spend (or rebates or allowances expense) have been during the Relevant Period? The answer to this is dependant on determining the following:
+i. What is Ratiopharm's single-source trade-spend rate?
+ii. What is Ratiopharm's multi-source trade-spend rate?
+iii. When does Ratiopharm's multi-source trade-spend rate take effect?
+d. What costs would Ratiopharm have incurred?
+(a) At what price would Ratiopharm have sold its product in each province?
+[192]
+The best evidence as to Ratiopharm's pricing of Ratio-Venlafaxine was provided by Mr. Major, Ratiopharm's Vice-President for Development Management and Regulatory Affairs during the Relevant Period. He testified that if Ratiopharm was the only generic on the market, it would have been priced at 70% of the innovator drug in Ontario. Furthermore, as the following exchange from his examination in chief shows, it is more probable than not that Ratiopharm would have maintained the same price in all of the Canadian provincial markets.
+Q. And was the proposal to price on launch at 70 per cent, was that a proposal for any particular province or was it Canada-wide?
+A. No, that would have been national. I mean, the convention was that though Ontario has regulation dictating price
+, it's simply easier to, as a company, to have a price nationally. So you offer the same price across the board
+. (emphasis added)
+[193]
+The practice of generic pharmaceutical companies having a single price across all provinces was supported by Glen Monteith who in 2006 was the Executive Director for the Pharmaceuticals and Life Sciences Branch for the Province of Alberta. He testified that "even though our policy allows 75 percent [for a sole generic], we would often see manufacturers submitting at 70 percent as per the Ontario rule at the time." He also observed that "it's easier when they're putting it in the supply chain at a single price that would run in different jurisdictions. So quite frankly, we were a beneficiary often at that time of Ontario having a more aggressive price policy, particularly on large volume generics at the time. But we didn't have a hard rule for that."
+[194]
+This evidence leads me to conclude that Ratiopharm would have submitted the same price (70% of the price of Effexor XR in Ontario), to all provincial formularies. For the same reasons, I find that when Ratiopharm dropped its price from the 70% single price to a multi-source price, that price would also have been uniform across Canada, although the timing of that drop in price would have varied.
+(b) When does Ratiopharm's price change from single-source to multi-source in each province?
+[195]
+Consideration must also be given to the change in price instigated by a second generic coming to market. Brent Fraser, Director of Drug Programme Services of the Ontario Public Drug Program, testified that in Ontario, when a second generic entered the market, the generic price dropped to 63% of the innovator drug's price. This changed with the enactment of Bill 102 which came into force on October 1, 2006. From that date forward, unless a generic obtained an exemption, the generic price was always 50% of the innovator drug's price. Further, any exemption obtained would expire on the addition of a second generic to the formulary. Mr. Fraser testified that Novopharm applied for and was granted an exemption for Novo-Venlafaxine allowing it to maintain its price on the formulary at 70% of the Effexor XR price until Ratiopharm was listed on the formulary.
+[196]
+Mr. Fraser also testified that there were many exemption requests. When asked if those exemptions for sole-source generic products were generally granted, he replied:
+For the most part we granted the price exemptions, provided they provided information through to us as part of their request. There were a few cases where we did deny, but for the majority, we did accept the exemption request.
+[197]
+I find on the balance of probabilities that Ratiopharm would have sought an exemption from the price reduction under Bill 102. I further find that it would have been more likely than not to have been successful, given that most sole-source exemption requests were granted, and given that Novo-Venlafaxine was granted such an exemption in the real world. Accordingly, I find that the price of Ratio-Venlafaxine on the Ontario formulary would have been at 70% of the innovator's drug price until January 2, 2007 when Novo-Venlafaxine was listed on the Ontario formulary. At that date, it would have been reduced in price to 50% of the innovator's drug price.
+[198]
+Some provinces have regulations in place that drop the price for a first generic when a second generic comes to market; others do not. British Colombia, Saskatchewan, Manitoba, New Brunswick, Nova Scotia, and Prince Edward Island had no such regulations in the Relevant Period.
+[199]
+Alberta provides that if a second generic enters the market, it could apply at the same price as the first generic; however, if it applies at a lower price, then the first generic would have to match that price or it would not be reimbursed. Québec and Newfoundland and Labrador provide that a generic could not sell at a price higher than the lowest price at which it was sold in any other province.
+[200]
+Despite the regulations in place, there was evidence that sometimes the price of a generic does not adjust as quickly as it should. Ms. Robitaille and Mr. Major testified that as a precondition to listing in Québec, generic manufacturers had to commit that they would match the best price in any other province in Canada as soon as that price was available. However, in the real world, the price for Novo-Venlafaxine did not drop in Québec until four months after the price dropped in Ontario. Ms. Robitaille explained in cross-examination that price reductions did not always take effect immediately and sometimes the price was not lowered until the second generic was listed on the Québec formulary.
+[201]
+Although there is no explanation for why in the real world, Novopharm failed to honour its commitment to lower the price in Québec until four months after the price drop in Ontario, I am not prepared to accept that Ratiopharm would have disregarded its obligation, as Novopharm apparently did. It must be assumed in the but-for world that generic manufacturers adhere to their commitments and legal obligations, unless there is convincing evidence that the particular generic does not do so on a regular and consistent basis. There was no such evidence in respect of Ratiopharm's practices.
+[202]
+Accordingly, I find that Ratiopharm would have dropped its price to 50% of the innovator product in Ontario on January 2, 2007 when Novopharm was listed on the formulary and would have done likewise in Québec and Newfoundland and Labrador as each provides that a generic can not sell at a price higher than the lowest price at which it was sold in any other province.
+[203]
+In those provinces without a regulation effecting a price change when a second generic comes on the market, I find that Ratiopharm would have matched the price of the second generic; otherwise, it would soon have found itself at a significant competitive disadvantage. However, in those provinces, there was no incentive for Ratiopharm to lower its price to 50% until Novopharm actually achieved listing. In fact, Ratiopharm could make a lot more money by just holding at the same price, especially in those provinces where Novopharm's lisiting was significantly delayed.
+[204]
+The parties agree that the price of EFFEXOR XR in Ontario during the Relevant Period is as follows:
+-
+January 2006 to December 2006
+January 2007 to December 2007
+37.5 mg
+$0.78 per capsule
+$0.8399 per capsule
+75 mg
+$1.56 per capsule
+$1.6797 per capsule
+150 mg
+$1.65 per capsule
+$1.7735 per capsule
+[205]
+Accordingly, I find that the price of Ratio-Venlafaxine in Ontario during the Relevant Period in the but-for world would have been as follows:
+-
+January 2006 to December 2006
+January 2007 to December 2007
+37.5 mg
+$0.546 per capsule
+$0.41995 per capsule
+75 mg
+$1.092 per capsule
+$0.83985 per capsule
+150 mg
+$1.155 per capsule
+$0.88675 per capsule
+[206]
+For the reasons given, I find that Ratiopharm's price would have dropped to the lower price above on the dates set out below (month/day/year):
+BC
+AB
+SK
+MB
+ON
+QC
+NB
+NS
+PEI
+NL
+04/23/2007
+02/01/2007
+01/01/2007
+03/15/2007
+01/02/2007
+01/02/2007
+12/04/2007
+12/15/2007
+03/19/2007
+01/02/2007
+(c) What would Ratiopharm's trade-spend (or rebates or allowances expense) have been during the Relevant Period?
+[207]
+It is accepted that pharmaceutical companies provide rebates under different descriptions to pharmaceutical purchasers to encourage them to buy their product and to reward them when they do. This is called "trade-spend." It is also accepted as fact that when a generic manufacturer is the sole source generic in the market, the amount of trade-spend that it pays is less than what it offers when there are competitor generic manufacturers in the market.
+What is Ratiopharm's single-source trade-spend rate?
+[208]
+It is Ratiopharm's burden to show what level of trade-spend it would have paid during the Relevant Period: See
+Pantoprazole
+FC 2013
+at para 150. Ratiopharm submits that it would have paid a rebate of 15% during the Relevant Period when it was the sole generic on the market. Pfizer submits that Ratiopharm would have paid no less than what Novopharm paid in the real world when it was the sole generic on the market, namely
+[Redacted
+].
+[209]
+Ratiopharm at this time did not have any sole source products in the marketplace - Ratio-Venlafaxine was to be its first. Thus there is no history from Ratiopharm to guide in this determination. Mr. Major testified that in a sole-source market, a 10-20% trade-spend rate was typical. He said that this was based on "commercial intel" and "practices in the market space" that had been learned from customers. He acknowledged, however, that rates were negotiable and could vary from customer to customer.
+[210]
+Mr. Major suggested that where a product was launching "at-risk" of an infringement action, manufacturers tended to provide more conservative levels of trade-spend. Mr. Major also testified that "having one single-source product is a lot different than having more than one single-source product. If you have more than one single-source product you have some leverage."
+[211]
+Mr. Sommerville testified that rebate rates differed based on the type of customer. For supporting (loyal) customers, the company would allocate a higher rate, whereas for non-supporting customers, there would be a lower rebate rate or no rate at all. He also stated that as a sole generic supplier, pharmacies have no choice but to stock that manufacturer's product so the company would allocate as low a rate as possible in order to maximize profitability. Mr. Sommerville testified that "I can tell you from the negotiations I'm involved in, pretty regularly, and for the years I've been, 15 to 20 per cent of that time was the standard rate." He also testified that for Shoppers Drug Mart, Novopharm offered an exceptional rate for Venlafaxine of
+[Redacted
+] and that the 15-20% rate represented an average rate across all customers.
+[212]
+On behalf of Wyeth, Ms. Cirocco stated that Shoppers Drug Mart negotiated rebates on a molecule-by-molecule basis. She testified that Shoppers Drug Mart accepted a "lower" rebate rate of
+[Redacted
+] for Novo-Venlafaxine, with the opportunity to get a rate of
+[Redacted
+] if certain sales milestones were met. She also testified that had a manufacturer offered a rebate rate that was too low and Shoppers Drug Mart found it unacceptable, if it was a single-source market, Shoppers Drug Mart would be forced to accept the rate up until a competitor came on the market, but that it would then switch to the competitor.
+[213]
+Mr. Blacher, an owner-operator of an independent pharmacy, testified that he typically received around a 20% rebate in a single-source market. He attributed part of the 20% to a premium as a result of being a "blue store" (i.e. a store that carried Apotex products almost exclusively). Had he not been a blue store, his rebate likely would have been lower. He claimed to have received rebates as low as 10% for sole source products. Mr. Blacher also testified that during negotiations, "the rep would say we have a 20 per cent, which would be typical on a brand new drug, rebate; but if you buy this medication from me, I can increase your rebate on a different molecule, or I can send you some free goods, or whatever. It's all variable."
+[214]
+Ratiopharm submits that the Court ought not give much weight to the trade-spend levels paid by Novopharm. It points out that under the Wyeth-Novopharm Agreement, Novopharm had to pay a significant royalty to Wyeth from its net profits. As that rate was based on the profits after it paid its trade-spend, Ratiopharm says that Wyeth was effectively subsidizing Novopharm's trade-spend and that allowed it to pay it at a higher rate than would otherwise have been the case.
+[215]
+Further, it submits that Novopharm would have made use of this effective subsidy and offered a higher rebate on Novo-Venlafaxine in order to drive sales of its other products, or to offer lower rebates on products that would not have been subsidized. Mr. Sommerville described this practice as "leverag[ing] a very strategic large molecule." Mr. Sommerville gave the example of how Teva used rebate rates to secure business with Loblaws:
+We utilized Venlafaxine by giving them a much higher rate than we would normally give to negotiate not only a larger supply of -- larger listing of molecules, but also the ones we wanted. So we got a margin improvement. We got a share improvement and we got an overall benefit for long term, because this was a long-term arrangement.
+[216]
+Wyeth submits that that even if the trade-spend was effectively subsidized, it is still  <FRAGMENT_SUPPRESSED> 's best interests to maximize its profit and thus keep the level at a minimum. It suggests that if anything, the need to pay royalties would have driven Novopharm to offer even a lower rate of trade-spend.
+[217]
+I conclude, on the balance of probabilities, that Ratiopharm would have paid trade-spend of 15% for the following reasons.
+[218]
+First, Mr. Blacher testified that he typically received a 20% rebate for sole source products which included some premium for being a "blue store", and that "the smallest [he] ever saw was 10 per cent, but usually on a single-source, about 20 per cent was the number [he] was looking for." Additionally, Mr. Major testified that generally, Ratiopharm wanted "to make sure that we have minimized the amount of monies that we're giving out in order to have a product stocked on a shelf and increase margin. I mean, it's a common business practice." However, this was also Ratiopharm's first single-source molecule; it had no leverage because it had no other single-source molecules in its portfolio and would not have been able to "leverage" its presence in the industry to offer the "very, very low" rebate rates (such as 10%) as Apotex did.
+[219]
+Ms. Cirocco testified that independent pharmacies received 5-10% less than Shoppers Drug Mart, but I find this not credible. She stated that Shoppers Drug Mart was offered between
+[Redacted
+], which it considered a "lower rate on that molecule." In her view, independents would therefore have received roughly 30-40%. It seems improbable that Apotex would offer a loyal "blue store" a rebate that was lower than the average that Ms. Cirocco claims to have seen from independent pharmacies. Further, her evidence as to the rate that Shoppers Drug Mart received was directly contradicted by Mr. Sommerville who testified that Shoppers Drug Mart was offered
+[Redacted
+] on Novo-Venlafaxine.
+[220]
+Second, because of the structure of the Wyeth-Novopharm Agreement, it would make sense for Novopharm to allocate a higher rebate to Novo-Venlafaxine in order to drive sales in its other products or allow it to offer lower rebates on non-subsidized products. This would defer some of that cost to Wyeth, while still maximizing its overall profit
+across all products
+, albeit, by sacrificing profits for Novo-Venlafaxine. This is exactly the type of negotiation in which Mr. Blacher testified he had engaged. Additionally, Mr. Sommerville testified that certain molecules would be strategically leveraged. In my view, it made sense from Novopharm's perspective that Novo-Venlafaxine be one of those molecules.
+[221]
+Therefore, I find that Ratiopharm would not have paid the same rate as Novopharm; it would have paid 15%.
+What is Ratiopharm's multi-source trade-spend rate?
+[222]
+Ratiopharm contends that it would have paid a rebate of no more than it did in the real world -
+[Redacted
+]. Pfizer contends Ratiopharm would have paid higher rebates than it did in the real world because it would want to try to attract large customers like Shoppers Drug Mart for long contract terms, as Novopharm did with Loblaws. Wyeth estimates the rate to be 60% based on Ratiopharm's own forecasts for the rebate levels it expected to pay on launch in 2006. Pfizer contends that at the very least, Ratiopharm would have paid
+[Redacted
+], the rate that Novopharm paid in the real world.
+[223]
+The best evidence available on this question is that of Mr. Major. He testified that in a competitive market, "around 40 to 50 per cent would be considered trade-spend ... in a competitive market." This is consistent with what Ratiopharm paid in the real world.
+[224]
+Wyeth submits that Ratiopharm would have paid more in the but-for world than in the real world because in the real world Ratiopharm had already lost out on the advantage of being first to market. Therefore, it argued that in the real world Ratiopharm had no incentive to offer a higher rebate because it would likely have not been able to penetrate the market, having entered the market as the second generic. By contrast, in the but-for world, Ratiopharm would have offered a higher rebate to maintain as much market share as it could so that it could catch up to Novopharm as the second biggest generic manufacturer in Canada.
+[225]
+Wyeth's analysis equally applies to Novopharm in the but-for world. By coming to market second in the but-for world, Novopharm would have lost out on the first-mover advantage. It would not have had an incentive to offer high rebates because it was late to market and Ratiopharm would be experiencing a first-mover advantage.
+[226]
+In order to retain its market share, Ratiopharm would only have to match or slightly beat Novopharm's rebates because, as both Mr. Blacher and Ms. Cirocco testified, pharmacies are resistant to switch suppliers. Switching suppliers entails restocking new product, notifying patients of the change, explaining the differences between the products, and providing assurances that there would be no clinical differences to that patient as a result of the switch. In my view, if pharmacies could avoid switching suppliers they would. Therefore, Ratiopharm offering a higher rebate than necessary would only have minimized its profit, with no additional benefit.
+[227]
+I conclude, on the balance of probabilities, that Ratiopharm would have offered 46.6% as a competitive trade-spend rate in the but-for world. In my view, this accords with Mr. Major's evidence, the evidence that a second generic would have little incentive to offer a higher rebate because it has already lost market share, the evidence that pharmacies prefer to stay with the supplier that they first sign on with, as long as that supplier matches the rebate rates of its competitors, and the evidence of the levels of rebates that Ratiopharm offered in the real world.
+When does Ratiopharm's multi-source trade-spend rate take effect?
+[228]
+Ratiopharm submits that it would not have paid a multi-source rebate until a competitor was listed on the formulary. Wyeth says that Ratiopharm would have either paid a multi-source rebate throughout the Relevant Period or have switched to a competitive rebate in advance of another competitor obtaining formulary listing.
+[229]
+I do not accept Wyeth's submission that Ratiopharm would pay a higher rebate when it is sole-source in order to penetrate the market and secure long-term contracts, rather than wait until a competitor is listed. There is simply no evidence to support that position - it is mere speculation.
+[230]
+Wyeth's alternative submission that Ratiopharm would offer a multi-source rebate slightly in advance of the competition being listed on the formulary in order to ensure continued business with its customers is similarly uncompelling. First, if Wyeth is correct, there is simply no evidence as to how far in advance of formulary listing Ratiopharm would have offered a competitive rebate. Second, as I have found, pharmacies are reluctant to switch suppliers and as long as the first generic matches the second generic's rebate rate, no additional incentive should be needed to ensure continued business. It seems tenuous to suggest that pharmacies would go through the painstaking effort to switch suppliers for an additional month or two of a slightly higher rebate rate.
+[231]
+Third, although Mr. Sommerville testified that with Shoppers Drug Mart, for example, Novopharm had a practice of providing a higher rate "close to having competition come in," known as a "come early," there is no evidence that Ratiopharm had such a practice. In fact, Ratiopharm could not have had such a practice in place at the time because Ratio-Venlafaxine was its first sole-source molecule. Further, Mr. Sommerville attributed the "come early" practice to the "very good relationship" that Novopharm had with Shoppers Drug Mart. Despite this example and the apparent sound business rationale for a decision to come early, unlike Novopharm, Ratiopharm did not have the same very good relationship with large purchasers to maintain. While it may have "come early" to build that goodwill, there is insufficient evidence on which to draw such an inference; therefore, I am unable to accept Wyeth's submission that Ratiopharm would have "come early."
+[232]
+For these reasons, I find that Ratiopharm would have switched to the multi-source trade-spend rate in each province on the date Novo-Venlafaxine was listed on that province's formulary.
+(d) What costs would Ratiopharm have incurred?
+[233]
+The parties and the experts all agree that the following additional costs would be incurred by Ratiopharm and must be deducted from its gross sales: (1) Distribution allowances; (2) freight expenses; (3) early payment discounts; (4) sales returns (5) cost of sales; (6) royalty fees; (7) sales & marketing; and (8) product liability insurance.
+[234]
+The parties' respective experts also generally agree as to the quantum of each of these costs. The only real difference between Mr. Hamilton's and Mr. Davidson's approaches is the inputs they were given from other experts. I have generally preferred the evidence of Dr. Hollis and Ms. Bacovsky over that of Dr. Tepperman and Mr. Palmer, and for that reason, prefer the assessment of Mr. Davidson on this issue over that of Mr. Hamilton, as those were the experts upon whom he relied.
+What deductions, if any, should the Court make under s. 8(5)?
+[235]
+Wyeth submits that either a complete or substantial deduction ought to be made from the damages awarded to Ratiopharm because it failed to comply with the
+Food and Drug Regulations
+, CRC c 870 [
+F&D Regulations
+] before coming to market and this breach ought to disentitle it to any damages.
+(a) Did Ratiopharm's validation and launch process contravene the Food & Drug Regulations? If so, what effect does this have?
+[236]
+Wyeth alleges that Ratiopharm launched its product without having fully completed its validation and thus Ratiopharm contravened the
+F&D Regulations.
+Essentially, Wyeth's argument is grounded in equity: Because Ratiopharm did not comply with all legal requirements at launch, it should be precluded from recovering damages under section 8.
+[237]
+Ratiopharm says that it had completed validation with its bio-batches prior to launch, and that by the time it launched it had completed part of its concurrent validation procedure. By definition, part of concurrent validation will occur after the launch of the product. Therefore, Ratiopharm was not in breach of the
+F&D Regulations
+. In any event, it submits that even if it were, this is not a valid reason to preclude recovery of damages.
+[238]
+In support of its position, Wyeth largely relies on the evidence of Stuart Wright who pointed to alleged breaches of Health Canada's Guidelines, not the
+F&D Regulations
+. He testified that breaches of the Guidelines were effectively breaches of the
+F&D Regulations
+, but in cross-examination, admitted that he could point to no authority for that position. Moreover, the Guidelines specifically provide that they do not have the force of law as they state that "it is not intended that the recommendations made in these guidelines become requirements under all circumstances." For these reasons, I am not satisfied that Wyeth met its burden of establishing, on the balance of probabilities, that Ratiopharm breached the
+F&D Regulations
+.
+[239]
+In any event, the evidence of Paul Larocque who, unlike Stuart Wright, had been employed at one time by Health Canada and was head of the department responsible for the review of chemistry and manufacturing aspects of new drug submissions, testified very forcefully that there was no such breach and that the Guidelines were flexible. I prefer his evidence on this issue over that of Mr. Wright.
+(b) Should the Court not include ramp-up in the Relevant Period?
+[240]
+Ratiopharm, relying on
+Pantoprazole FC 2013
+, submits that no deduction ought to be made for ramp-up.
+[241]
+Wyeth submits that this Court should not consider the issue of ramp-up because it was not pled by Ratiopharm. I find no merit in this submission because: (1) leave was granted to amend the pleadings to include the issue of ramp-up; (2) it was never Ratiopharm's responsibility to plead the issue of ramp-up because they are not seeking to recover for the ramp-up; rather, it is simply trying to convince the Court that no deduction should be made under section 8(5) for ramp-up and since this is a deduction, the legal burden falls on Wyeth, and (3) as Justice Hughes has found in
+Omeprazole FC 2012
+at para 149, a party cannot be faulted for not pleading a defence that only recently developed in the law.
+[242]
+The issue of double ramp-up relates to whether or not a deduction should be made to Ratiopharm's but-for world sales to account for the lower level of sales experienced in the first few months after receiving its NOC, while sales "ramp up" to a steady state.
+[243]
+Justice Snider described the concept of "ramp-up" in
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ No 840 (QL) at paras 201-202:
+Once a generic drug company receives approval to market a drug, it may enter the market. In most cases, the approval would be issued immediately upon expiry of the listed patent. At that time, the patentee will begin to see the loss of sales to the generic entrant.
+However, the effects of generic entry are not instantaneous. Even with its Notice of Compliance (NOC) permitting the generic to commence sales, the new market entrant must negotiate agreements with pharmacies and distributors, acquire formulary listings and physically move product to drug stores, all of which takes some time. This period of time required for building a market to its ultimate level of sales or "steady state" is often referred to as the "ramp-up". Assuming that total sales of the product remain at the same total level after patent expiry and prior to the new entrants achieving their steady state, the patentee or original marketer will retain sales. The volume of sales retained will decline over the ramp-up period, as the generic market entrants capture more and more of the market.
+[244]
+Since manufacturers cannot market the drug and are unlikely to be in a position to negotiate contracts or obtain formulary listing before the NOC is actually issued, there is a period following the issuance of the NOC where there would be minimal or reduced sales relative to steady state sales while the manufacturer is undertaking the activities required to actually get product to customers.
+[245]
+Whether or not ramp-up is something that should be deducted was explored by Justice Phelan recently in
+Pantoprazole FC 2013
+. He concluded that no deduction for ramp-up in the but-for world should be made. He found that in the real world, a plaintiff generic experiences a ramp-up and to deduct for a ramp-up in the but-for world as well would be "double counting for the same circumstance." In his view, this results in a windfall to the innovator and double-penalization for the generic. He noted that section 8(5) mandates the Court to consider "all circumstances it considers relevant" in assessing damages. In his view, whether something is double counted is "relevant to assessing compensation" and "the purpose of section 8 is to provide proper compensation." His was the first occasion where the Court refused to deduct for ramp-up, and this is the first occasion where his conclusion has been challenged.
+[246]
+With great respect, Justice Phelan's approach can lead to problematic results where the ramp-up experienced in the real world differs from that experienced in the but-for world. For example, if a provincial formulary is back-logged and short staffed in the but-for world, it may take many months to be listed on the formulary whereas in the real world, where those issues have been addressed, it may have taken only weeks to get listed. The plaintiff would then receive a windfall of a number of months of steady sales.
+[247]
+However, even if the ramp-up
+periods
+are the same, the quantum of damage suffered within those periods likely will not be. As in this case, the level of sales in the real-world is typically lower than the level of sales in the but-for world because in the but-for world, the plaintiff might be the sole-source generic. Sales will be significantly higher and at higher prices (for example, 70% of the brand versus 50% of the brand) than in the real world. To simply transplant the ramp-up periods without accounting for these other differences will more often than not, result in a windfall to the generic even where the ramp-up periods themselves are identical. On this basis alone, it cannot be said that the ramp-up costs would be double-counted.
+[248]
+Prior to Justice Phelan's decision, the Federal Court of Appeal held that the damages that a plaintiff can recover under section 8 are limited to those suffered in the Relevant Period:
+Alendronate FCA 2009
+at paras 99 -102:
+According to the analysis of the Federal Court Judge, the losses claimed by Apotex were caused during the period since that is when Apotex was prevented from occupying the market and obtaining the market share which, based on its claim, it would otherwise have had.
+No one takes issue with this reasoning.
+The question is whether the decrease in sales which occurs in future years as a result of this decreased market share comes within section 8. The Federal Court Judge, by allowing the claim for losses "beyond May 26, 2005" to proceed, answered this question in the affirmative.
+When regard is had to the broad grant of authority conferred by subsection 55.2(4) of the Patent Act, it seems clear that the measure of the compensation which can be awarded under the PM(NOC) Regulations is a matter within the discretion of the Governor-in-Council. It is also clear that in keeping with the purpose of the PM(NOC) Regulations and the balance which the Patent Act seeks to achieve, a range of compensation was open to the Governor-in-Council in the exercise of this discretion.
+In this case, we have the advantage of knowing that
+in 1998 the Governor-in-Council focused on this very issue, and chose to limit the measure of the losses which can be compensated by way of damages to those suffered during the period.
+No issue of principle flows from this. The Governor-in-Council could have extended the measure of the losses to include those caused during the period, regardless of when they are suffered. However, it did not do that.
+The Governor-in-Council's clearly expressed intent must be given effect to. This excludes compensation for losses occurring in future years since such losses cannot be said to have been suffered during the period.
+It follows, for instance, that Apotex's entitlement to damages for lost sales resulting from the alleged decrease in its market share must be
+confined to sales that can be shown to have been lost within the period
+. In order to be compensated, the losses must be shown to have been incurred during the period. I therefore conclude that the appeal should be allowed on this limited point. (emphasis added)
+[249]
+Ratiopharm argues that in
+Alendronate FCA 2009
+, the Court of Appeal's comments were narrowly focused on the issue of compensation for permanent lost market share - a concept totally unrelated to double ramp-up. I disagree. The two concepts are analogous because they are both predicated on recovery for damages incurred outside of the Relevant Period, and artificially shoehorning them into the Relevant Period.
+[250]
+I agree with Justice Snider's comments at para 270 of
+Apotex-Ramipril FC 2012
+:
+Apotex argues that the decision of the Court of Appeal in
+Alendronate (FCA)
+did not extend to a claim for subsequent ramp-up. I do not agree. The holding of the Court of Appeal is directly applicable to this type of loss. Apotex is claiming for a loss that may have been caused during the Relevant Period but that was
+not incurred during that time.
+The claimed loss - however named - falls squarely within the exceptions set out in
+Alendronate (FCA)
+and, unfortunately, is not recoverable.
+[251]
+If the Court is not to deduct for ramp-up in the but-for world, it must construct a world in which the plaintiff has immediate steady-state sales - a fiction divorced from reality in
+any
+world, and an inaccurate accounting for the actual loss incurred in the Relevant Period.
+[252]
+The Court of Appeal in
+Alendronate FCA 2009
+at para 89 stated that "the compensation provided is for prejudice
+actually suffered
+by a second person by reason of the operation of the stay" (emphasis added). If no deduction is made for ramp-up, the generic is being overcompensated for losses it did not actually suffer since it would not have had steady state sales in the but-for world immediately upon the NOC issuing.
+[253]
+I have concluded that there is no legal basis for refusing to deduct for ramp-up in the but-for world in assessing section 8 damages. Even if there were, I would not have exercised my discretion under subsection 8(5) and refused to make a deduction for ramp-up, largely for the reasons expressed above.
+[254]
+In this case, by using Novopharm's actual market share to model Ratiopharm's, Dr. Hollis essentially equated Ratiopharm's ramp-up to Novopharm's, with an additional delay for delayed formulary listing. In my view, this is an appropriate accounting of ramp-up. I accept that it is not perfect and it may be that there are factors which could have lengthened or shortened Ratiopharm's ramp-up relative to Novopharm. However, there is no evidence before me as to what Ratiopharm's actual ramp-up would have been and therefore, this is the best evidence available.
+Interest
+[255]
+Both parties agree that the pre-judgment interest rate is 4.5%. They also agree that prejudgment interest is calculated "from the date the cause of action arose to the date of the order:"
+Courts of Justice Act
+, RSO 1990, c C.43, s 128. They disagree on that date.
+[256]
+Wyeth submits that the cause of action arose on August 1, 2007, when the Court of Appeal dismissed the Prohibition Application and the requirements for a claim under section 8 of the
+PMNOC Regulations
+were met.
+[257]
+In
+Pantoprazole FC 2013
+, the Court awarded pre-judgment interest from the date the liability period commenced - the beginning of the Relevant Period. That decision is under appeal on that finding and others. In
+Pantoprazole FC 2013
+at para 174, Justice Phelan stated that in his view, "the cause of action arose when the period of liability commenced." He distinguished this from the "date on which a party could have commenced an action."
+[258]
+In my view, Justice Phelan is correct to distinguish the date the cause of action arises from the date on which a party can commence an action. The disposition of a Prohibition Application does not ground liability, it simply confirms that liability exists. The cause of action arises on the date that damages that are the basis for the claim begin to be suffered. Typically, this will coincide with when the Relevant Period begins, as it did in
+Pantoprazole FC 2012
+and as it does in this case. However, because the Relevant Period may begin before damage is actually suffered, this need not always be the case. For that reason, prejudgment interest must be tied to when the loss actually begins to be suffered irrespective of whether that date is the same as the start of the Relevant Period.
+[259]
+Ratiopharm is therefore entitled to prejudgment interest of 4.5% from January 10, 2006, on the damages awarded.
+[260]
+Ratiopharm is also entitled to post-judgement interest. I agree with Wyeth that the rate cannot be determined until the Court issues final judgment on the amount owed to Ratiopharm. It will commence as of that date.
+Costs
+[261]
+Ratiopharm is entitled to its costs. The Court expects the experienced counsel for the parties will be able to agree on quantum. If the parties are unable to agree, the Plaintiff shall have 30 days from the date of these Reasons to file its submissions, not exceeding 15 pages and the Defendant shall then have a further period of 15 days to file its submission, not exceeding 15 pages. The Plaintiff may file a reply, not exceeding 5 pages, within 5 days thereafter.
+Conclusion and Summary
+[262]
+I believe that I have addressed all the issues before me; however, I am unable to finalize the quantum of damages, even taking a broad-axe approach as was recommended by the parties. I expect that the parties' experts, with 30 days, can agree on that amount based on these Reasons and the findings made. If I have omitted to deal with an issue that is required to be addressed in order for the experts to calculate damages, I remain seized to deal with it. Upon being informed of the amount of damages calculated in accordance with these Reasons, or the parties' positions if agreement is impossible, in addition to receiving agreement or submissions on costs, final judgment shall issue.
+[263]
+In summary the key findings made are as follow:
+1. The Relevant Period for the determination of Ratiopharm's Lost Profits commences January 10, 2006 and ends on August 1, 2007.
+2. The size of the Overall Venlafaxine Market in the Relevant Period is as follows:
+i. 37.5 mg: 86,024,500 pills,
+ii. 75 mg: 159,496,500 pills, and
+iii. 150 mg: 115,985,200 pills.
+3. The size of the Generic Venlafaxine Market in the Relevant Period is as follows:
+i. 37.5 mg: 67.7%,
+ii. 75 mg: 70.0%, and
+iii. 150 mg: 67.9%.
+4. Ratiopharm would have launched on January 10, 2006, and would have had capacity to supply the entire Generic Venlafaxine Market.
+i. Novopharm is the only competitor generic to enter the market in the Relevant Period; Pharmascience does not enter the market in the Relevant Period.
+ii. Ratiopharm would have been listed on the formularies according to the table below:
+BC
+AR
+SK
+MB
+ON
+QC
+NB
+NS
+PEI
+NL
+01/24/2006
+03/01/2006
+02/01/2006
+06/15/2006
+03/01/2006
+10/11/2006
+03/31/2006
+03/15/2006
+05/29/2006
+08/03/2006
+iii. Novopharm would have been listed on the formularies according to the table below:
+BC
+AB
+SK
+MB
+On
+QC
+NB
+NS
+PEI
+NL
+04/23/2007
+02/01/2007
+01/01/2007
+03/15/2007
+01/02/2007
+06/22/2007
+12/04/2006
+12/15/2006
+03/19/2006
+04/07/2007
+iv. Therefore, Ratiopharm would have occupied 100% of the Generic Venlafaxine Market from January 10, 2006 to December 1, 2006, when Novo-Venlafaxine would have entered the market. From December 1, 2006 onwards, Ratiopharm's market share would have eroded at the same rate as Novopharm's did in the real world as a result of Ratiopharm entering the market, with an adjustment for any differences in formulary listing dates between Novopharm and Ratiopharm.
+v. A pipe-fill adjustment of 10.5% of Ratiopharm's total sales based on IMS data, as calculated by Dr. Hollis, should be added. The monetary value of the adjustment should be calculated based on the price obtained at the end of the Relevant Period, but the actual volume adjustment itself should be incurred at the beginning of the Relevant Period as Dr. Hollis instructs.
+5. Ratiopharm would have sold its product at the prices set out in the table below, across Canada, based on a 70% or 50% price relative to Effexor XR in Ontario:
+-
+January 2006 to December 2006
+January 2007 to December 2007
+37.5 mg
+$0.546 per capsule
+$0.41995 per capsule
+75 mg
+$1.092 per capsule
+$0.83985 per capsule
+150 mg
+$1.155 per capsule
+$0.88675 per capsule
+7. Ratiopharm would have paid a rebate in the single-source market of 15%.
+8. Ratiopharm would have paid a rebate in the multi-source market of 46.6%.
+9. Ratiopharm would have paid the single-source rebate rate until Novopharm was listed on the formulary in any given province as set out in the chart below:
+BC
+AB
+SK
+MB
+ON
+QC
+NB
+NS
+PEI
+NL
+04/23/2007
+02/01/2007
+01/01/2007
+03/15/2007
+01/02/2007
+06/22/2007
+12/04/2006
+12/15/2006
+03/19/2007
+04/07/2007
+10. The following additional costs would also be incurred by Ratiopharm and must be deducted from its gross sales: (1) Distribution allowances; (2) freight expenses; (3) early payment discounts; (4) sales returns (5) cost of sales; (6) royalty fees; (7) sales & marketing; and (8) product liability insurance. The experts agree on the value of these costs, but I accept Mr. Davidson's valuations for consistency.
+11. Ratiopharm's launch of its product in the real world did not contravene the
+F&D Regulations
+and therefore no deduction needs to be made.
+12. The experts incorporated ramp-up into their models, essentially importing the ramp-up that Novopharm experienced in the real world. Ramp-up ought to be deducted, and the approach used by the experts is the most appropriate approach in this case.
+13. Prejudgment interest is set at 4.5% and will accrue starting on January 10, 2006.
+Postscript
+[264]
+The Confidential Reasons for Judgment were released to the parties on March 14, 2014, with a request that the parties advise the Court of those portions of the Reasons they propose be redacted for the Public Reasons.
+[265]
+Although the Court's proceedings are open and accessible, an exception may be made where the risks to a party of the release of commercial information outweighs the public interest in having access to that information. I have not accepted all of the redactions proposed by the parties. The accepted redactions include evidence with respect to matters such as trade-spend levels, and specific terms of commercial agreements (other than terms that would be found in all such agreements). I find they fall within the exception.
+Judgment for plaintiff.
+Editor: Angela E. McKay/vnh

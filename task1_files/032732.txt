@@ -1,0 +1,530 @@
+INTRODUCTION
+[1]
+Gibson, J.
+: By application filed the 24th of February, 2006, Mike Gordon (the "Applicant") sought relief against the Minister of Health (the "Respondent") by reason of the Respondent's refusal to disclose the field of "province" in the Canadian Adverse Drug Reactions Information System ("CADRIS") database maintained by the Respondent. The relief sought by the Applicant is set out in the Memorandum of Fact and Law filed on his behalf in the following terms:
+"The Applicant requests that this Honourable Court:
+a) Orders [sic] the Respondent to release the field of province and that the field be added to the fields currently released;
+b) Orders [sic] the Respondent to maintain the public availability of the other fields currently released to prevent the Respondent from arbitrarily withdrawing any of these fields from public availability.
+c) Orders [sic] such further or other order as shall seem just to this Honourable Court.
+d) The whole, with costs."
+[2]
+By Order dated the 14th of November, 2006, leave was granted to the Privacy Commissioner of Canada (the "Intervener") to intervene in the application with all the rights normally associated with party status.
+[3]
+These reasons follow the hearing of the application on the 4th of February, 2008.
+BACKGROUND
+[4]
+By letter addressed to the "ATI Coordinator, Health Canada", dated the 23rd of August, 2001, on "CBC/Radio-Canada" letterhead, the Applicant, describing himself as Associate Producer Disclosure, CBC-TV, wrote:
+"Under the
+Access to Information Act
+, I request access to and a copy of the database of adverse drug reactions. This database contains information from the 'Report of suspected adverse reaction due to drug products marketed in Canada' ... or any similar report or communication collected by the Bureau of Drug Surveillance's Canadian Adverse Drug Reaction Monitoring Program."
+One David McKie, apparently a colleague of the Applicant at CBC/Radio-Canada, later filed a similar request and he and the Applicant, at various times, pursued their requests together. Mr. McKie was not made a party to this proceeding and took no part in the hearing before the Court although it was his affidavit that was filed in support of the application.
+[5]
+The Canadian Adverse Drug Reaction Information System ("CADRIS") consists of a database containing information collected by the Respondent relating to domestic suspected adverse reactions to health products, including pharmaceuticals, biologics, natural health products and radialpharmaceuticals marketed in Canada. For the purposes of the CADRIS system, "adverse reactions" may include adverse reactions to a particular product and such reactions occurring as a result of a reaction to a combination of medications. Information regarding such reactions is collected on a voluntary basis through reports provided by health professionals and consumers and on a mandatory basis from drug manufacturers. Approximately thirty-eight percent (38%) of the adverse reaction cases reported to the Respondent are derived from voluntary reporting. The remainder, approximately sixty-two percent (62%), are provided by drug manufacturers. The total number of adverse reaction case reports received by the Respondent in 2005 was ten thousand four hundred ten (10,410). At or about the 5th of July, 2006, the CADRIS database contained information derived from over one hundred eighty thousand (180,000) suspected adverse reaction reports received since 1965. [see footnote 1]
+[6]
+An affiant on behalf of the Respondent attests in his affidavit filed in this matter:
+"The data provided in adverse reaction reports vary widely in quality, accuracy and completeness. Adverse reaction reports are the observations and suspicions of those making the report. It is very difficult to make conclusive cause and effect conclusions from the information provided in a given report. A full range of different considerations may have resulted in the adverse reaction, including the possible contribution of concomitant medication or therapies, the underlying disease, and the previous medical history. Furthermore, only a small portion of suspected adverse reactions are reported to the programme. In describing the 'outcome' field on Health Canada's website, the following statement is made:
+'The outcome represents the outcome of the reported cases described by the reporter at the time of reporting and does not infer causal relationship. The outcome is not based on a scientific evaluation by Health Canada.'" [see footnote 2]
+[7]
+CADRIS contains approximately one hundred twenty-five (125) data fields of which approximately twenty-five (25) are "not used". At the time this proceeding was commenced, approximately eighty-two (82) data fields had been disclosed to the Applicant. Of the remaining nineteen (19), three (3) were not disclosed because they are "always CDN", four (4) were not disclosed because they were "always WHOART", presumably a reference to the World Health Organization, and the remaining twelve (12) were not provided, in whole or in part, primarily for privacy reasons. [see footnote 3] Of the twelve (12), only one data field is the subject of this proceeding, that data field being entitled "province". In CADRIS terminology, "province" refers to the province from within which the report in question was received, thus, not necessarily indicating the province of residence of the individual who allegedly suffered the reaction.
+[8]
+On the 30th of October, 2002, the Applicant's colleague, David McKie, wrote to the Access to Information Commissioner, lodging a complaint "... over Health Canada's refusal to release adverse drug reaction data in electronic form ...". There followed a protracted intervention on the part of the Commissioner's office which concluded with a report to the Applicant from the office of the Commissioner dated the 12th of January, 2006. That report reads in part as follows:
+"On August 31, 2001, HCan [Health Canada] provided you with a fee estimate for the production of a paper copy of the records contained in its Canadian Adverse Drug Reactions Information System (CADRIS) database. On that same day, you complained about HCan's response. As well, we investigated HCan's contention that it was not possible to provide an electronic copy of the records because personal information contained in the database could not, in all cases, be electronically de-identified and protected.
+"As you know, I met you, your colleague, Dave McKie, and HCan officials on May 30, 2003, to expedite the resolution of your complaint. As a result, in October 2003, HCan provided you with a reconfigured electronic copy of the information contained in the CADRIS database (1965-2002), on a CD-ROM. Moreover, until September 9, 2005 HCan officials continued to work with you to improve the quality and user-friendly nature of the information provided. Then, on February 26, 2004, HCan provided a 'final' response providing the majority of the information in the data fields.
+"What remained withheld were twelve fields: 'ethnic group', 'notifier clinic', 'notifier hospital', 'notifier name', 'notifier city', 'notifier phone number', 'patient initials', 'patient identifier', '
+province
+', 'date of birth', 'date of conception', and 'date of death'. The information was withheld pursuant to subsection 19(1) of the
+Act
+. As a result of my meeting with HC officials on July 12, 2005, I am informed that, on September 9, 2005, HC made a further release to you of the 'year of death', 'year of birth', and 'year of conception' information held within the database.
+. . . . .
+"Having considered the evidence and representations put forward by both parties, I am satisfied that the remaining withheld fields contain information which, if disclosed, could reveal the identities of individuals. Consequently, I find that the withheld information is 'personal' for the purposes of subsection 19(1) of the
+Act
+. As well, I am satisfied that there is no consent from individuals for release of their personal information, that the withheld information is not publicly available and that none of the provisions of section 8 of the
+Privacy
+Act
+authorize disclosure of the withheld information.
+"In finding that subsection 19(2) of the
+Act
+does not authorize disclosure, I have given particular attention to the provisions of subparagraph 8(2)(m)(i) of the
+Privacy
+Act
+.
+Given the extensive amount of information already disclosed from CADRIS and the need to protect anonymity in order to encourage voluntary reporting, I am not able to conclude that the public interest in disclosure clearly outweighs any invasion of privacy that could occur
+.
+"Given HC's final response of September 9, 2005, I consider this complaint to be resolved. I am grateful to you, and Mr. McKie, for the patience and cooperation you have shown throughout this investigation.
+. . . . .
+"[emphasis added, references to the '
+Act
+' are, of course, references to the
+Access to Information
+Act
+]"
+[9]
+This proceeding followed. As earlier noted, the sole issue before the Court is non-disclosure of the CADRIS field of "province", which non-disclosure is justified by the Respondent under section 19 of the
+Access to Information
+Act
+. Also as previously noted the term "province" in the CADRIS system relates to the province from which the report of an adverse reaction was received which in the majority of cases would not
+necessarily
+be the same province as the province of residence of the individual allegedly suffering the adverse reaction.
+RELEVANT LEGISLATIVE PROVISIONS
+[10]
+The relevant legislative provisions are extensive. They are set out in full in a schedule to these reasons. What follows is a brief description of the provisions set out in the schedule.
+[11]
+This proceeding was initiated under section 41 of the
+Access to Information
+Act
+[see footnote 4] (the "
+Act
+"). The provisions of the
+Act
+that are relevant to the proceeding are the following:
+- Section 2 of the
+Act
+sets out its purpose and its complementarity with other existing procedures for access to government information.
+- Section 3 of the
+Act
+defines, among other words and phrases, "Court" for the purposes of the
+Act
+, "government institution" for the purposes of the
+Act
+, and "record", for the purposes of the
+Act
+.
+- Section 19 of the
+Act
+provides a mandatory exemption from disclosure of "personal information" as defined in section 3 of the
+Privacy
+Act
+and authorizes exemption from that prohibition where, among other circumstances, the disclosure would be in accordance with section 8 of the
+Privacy
+Act
+.
+- Section 41 of the
+Act
+provides the authority for the institution and disposition of proceedings such as this before this Court.
+- Section 48 of the
+Act
+deals with the "burden of proof" in a proceeding such as this.
+- Section 49 of the
+Act
+deals with the disposition by this Court of a proceeding such as this where the Court determines that refusal of disclosure is not authorized. Section 19 of the
+Act
+is not referred to in section 50 of the
+Act
+.
+- The inclusion of the Department of Health in Schedule I to the
+Act
+has the effect of including that Department within the definition of "government institution" contained in section 3.
+[12]
+The following provisions of the
+Privacy
+Act
+[see footnote 5] are relevant:
+- Section 2 defines the purpose of the
+Privacy
+Act
+.
+- Section 3 of the
+Privacy
+Act
+defines, for its purposes and among other words and phrases, the expression "personal information" but excludes for certain purposes, including for the purposes of section 19 of the
+Act
+, certain information that would otherwise fall within the definition.
+- Section 8 of the
+Privacy
+Act
+, and in particular on the facts of this matter, subparagraph 8(2)(m)(i), interrelates with the application of paragraph 19(2)(c) of the
+Act
+.
+RELIEFS SOUGHT
+[13]
+The reliefs sought on behalf of the Applicant are quoted in paragraph 1 of these reasons. The Respondent seeks dismissal of the application with costs. The Intervenor seeks no specific relief.
+THE ISSUES
+[14]
+The Applicant urges at paragraph 56 of his Memorandum of Fact and Law that the following issues are raised by this application:
+"a) What is the appropriate standard of review of Health Canada's decision not to disclose the field 'province' contained in the CADRIS database?
+"b) Does the disclosure of the field 'province' requested constitute personal information? More specifically, does disclosing the field 'province' allow for the identification of an individual, thus rendering other information, personal information as defined in section 3 of the
+Privacy
+Act
+?
+"c) Assuming the disclosure of the field 'province' or 'province' is not personal information under the
+Privacy
+Act
+, can Health Canada claim another exemption of the field 'province' under the
+Access to Information
+Act
+?"
+[15]
+The Respondent reformulates the issues in his Memorandum of Fact and Law as follows:
+(a) Was Health Canada correct in concluding that the "province" field in the CADRIS database is subject to the mandatory exemption from disclosure in s. 19(1) of the
+Access
+Act
+?
+(b) Did Health Canada "abuse its discretion" in finding that disclosure under s. 19(2) of the
+Act
+ought not to occur?
+[16]
+The intervener put forward no statement of issues in the Memorandum of Fact and Law filed on her behalf but provided extensive and very helpful submissions both in writing and orally at the hearing of this matter under the headings "The appropriate test to apply in determining whether information is "about an identifiable individual" and "Balancing of interest inherent in paragraph 8(2)(m)(i) of the
+Privacy
+Act
+." Subheadings under the first heading include "The importance of privacy in Canadian society".
+[17]
+Standard of review, as referred to in the Applicant's list of issues is, of course, fundamental to the determination of all applications such as this. There is a substantial overlap between the remaining issues proposed on behalf of the Applicant and those proposed on behalf of the Respondent.
+ANALYSIS
+1. Standard of Review
+[18]
+ <FRAGMENT_SUPPRESSED>  context of a brief pragmatic and functional analysis and after quoting subsection 2(1) of the
+Act
+, wrote:
+"In my opinion, this purpose [of the
+Access to Information
+Act
+] is advanced by adopting a less differential standard of review. Under the federal scheme, those responsible for answering access to information requests are agents of a government institution. This is unlike the situation under many provincial access to information statutes, where information requests are reviewed by an administrative tribunal independent from the executive ... . A less differential standard of review thus advances the stated objective that decisions on the disclosure of government information be reviewed independently of government. Further, those charged with responding to requests under the federal
+Access
+Act
+might be inclined to interpret the exceptions to information disclosure in a liberal manner so as to favour their institution ... . As such, the exercise of broad powers of review would also advance the stated purpose of providing a right of access to information in records under the control of a government institution in accordance with the principle that necessary exceptions to the right of access should be limited and specific." (citations omitted)
+He concluded that, on the facts of the matter before him, many of the critical features of which are similar to the factual background in this matter, the appropriate standard of review was "correctness".
+[19]
+Counsel for the Applicant urges that, in this case, the Respondent was required to interpret section 3 of the
+Privacy
+Act
+. Consequently, counsel urges, the fact that the head of a government institution is here to interpret legislation, as in the above authority, militates in favour of providing broad powers of review. Thus, counsel urges the appropriate standard of review to be applied on the facts of this matter is "correctness".
+[20]
+Counsel for the Respondent urges that the foregoing should be qualified in circumstances where the Information Commissioner of Canada, as here, has expressed a view supporting the withholding of information on the grounds of privacy concerns.  <FRAGMENT_SUPPRESSED>  reasons:
+"... Disclosure can only be ordered by the Federal Court in the event that, after the Commissioner concludes his investigation, either the requester or the Commissioner seeks, pursuant to s. 41 or 42 of the
+Act
+, judicial review of any subsequent refusal to disclose a record. In such case, the Court will have the benefit of the Commissioner's investigation and report. Both this Court and the Federal Court of Appeal have held that the considered opinion of the Commissioner is a factor to be considered on judicial review in this Court. ..." (citations omitted)
+I am satisfied that the foregoing is not inconsistent with the guidance provided by Justice Gonthier of the Supreme Court of Canada. Indeed, I am satisfied that it is entirely consistent with that guidance, given the independence from government of the Information Commissioner.
+[21]
+Further, counsel for the Respondent urges, once a decision was reached by the Respondent to refuse to disclose the field of "province" because it constitutes personal information as defined in section 3 of the
+Privacy
+Act
+, greater deference is owed to a decision by the Respondent not to disclose that information because the exception to the general rule reflected in subsection 19(1) of the
+Act
+is entirely discretionary. The determination to not exercise discretion is based, on the facts of this matter, on a conclusion that disclosure would not be in accordance with section 8 of the
+Privacy
+Act
+. Thus, the exercise of discretion not to disclose involves an interpretation of law.
+[22]
+ <FRAGMENT_SUPPRESSED>  [110]:
+" <FRAGMENT_SUPPRESSED>  discretionary exemptions under the
+Privacy
+Act
+. He stated at p. 149:
+'It will be seen that these exemptions required two decisions by the head of an institution: first a factual determination as to whether the material comes within the description of material potentially subject to being withheld from disclosure; and second, a discretionary decision as to whether that material should nevertheless be disclosed.
+'The first type of factual decision is one which, I believe, the Court can review and in respect of which it can substitute its own conclusion. This is subject to the need, I believe, for a measure of deference to the decision of those whose institutional responsibilities put them in a better position to judge the matter . ...'
+"The second type of decision is purely discretionary. In my view in reviewing such a decision the Court should not itself attempt to exercise the discretion de novo but should look at the document in question and the surrounding circumstances and simply consider whether the discretion appears to have been exercised in good faith and for some reason which is rationally connected to the purpose for which the discretion was granted.
+"In my view, this is the correct approach to reviewing the exercise of discretion under s. 8(2)(m)(i) of the
+Privacy
+Act
+."
+[23]
+I am satisfied that the exercise of discretion under subsection 19(2) of the
+Act
+falls within the "second type of decision", that is to say, a purely discretionary decision, referred to in the foregoing quotation.
+[24]
+In the result, I am satisfied that the appropriate standard of review on this application is correctness subject to the two foregoing qualifications as urged on behalf of the Respondent; that is to say, that the fact that the Commissioner was involved in this matter and supported the decision of the Respondent to maintain the exemption of the field of "province" is a factor that should be considered by this Court as a qualification of the correctness standard of review in respect of the claimed exemption under subsection 19(1) of the
+Act
+, and that the decision by the Respondent not to exercise his discretion under subsection 19(2) to nonetheless release the substance of the field of "province" should only be reviewed to determine whether the discretion was exercised in good faith and for a reason rationally connected to the purpose for which the discretion was granted.
+2. The determination that the field of "province" falls within subsection 19(1) of the
+Act
+a) Personal Information
+[25]
+"Personal Information" is defined in section 3 of the
+Privacy
+Act
+, for the purposes of that
+Act
+, as "... information
+about
+an identifiable individual that is recorded in any form ...". That broad definition is elaborated with nine (9) classes of information that are listed and that are indicated not to restrict the generality of the foregoing. Exceptions from the broad definition are then listed for the purposes, among others, of section 19 of the
+Access to Information
+Act
+with the only one of those exceptions that might possibly be relevant for the purposes of this matter being "information about an individual who has been dead for more than twenty years". Much turns for the purposes of this matter on the interpretation of the word "about" in the general definition of "personal information".
+[26]
+Subsection 19(1) of the
+Act
+provides that the head of a government institution
+shall
+refuse to disclose any record requested under the
+Act
+that contains personal information as defined in section 3 of the
+Privacy
+Act
+. Subsection 19(2) provides a discretion to the head of a government institution to disclose personal information in three (3) circumstances, with the only one of those circumstances that is relevant for the purposes of this matter being if the disclosure is in accordance with section 8 of the
+Privacy
+Act
+.
+[27]
+Subsection 8(1) of the
+Privacy
+Act
+prohibits disclosure of personal information without the consent of the individual to whom it relates except in accordance with subsection (2) of the same section. Subsection 8(2) provides that personal information
+may
+be disclosed in thirteen (13) listed circumstances, with the only one of which that is relevant for the purposes of this matter being in the following terms:
+"(m) for any purpose where, in the opinion of the head of the institution,
+(i) the public interest in disclosure clearly outweighs any invasion of privacy that could result from the disclosure, or ..."
+[28]
+In <FRAGMENT_SUPPRESSED> [see footnote 9], Justice Laforest described the interpretation of section 19 of the
+Act
+as involving "... a clash between two competing legislative policies - access to information and privacy". In
+ <FRAGMENT_SUPPRESSED>  her reasons:
+"The intimate connection between the right of access to information and privacy rights does not mean, however, that equal value should be accorded to all rights in all circumstances. The legislative scheme established by the
+Access
+Act
+and the
+Privacy
+Act
+clearly indicates that in a situation involving personal information about an individual, the right to privacy is paramount over the right of access to information, except as prescribed by the legislation. Both
+Acts
+contain statutory prohibitions against the disclosure of personal information, most significantly in s. 8 of the
+Privacy
+Act
+and s. 19 of the
+Access
+Act
+. Thus, while the right to privacy is the driving force behind the
+Privacy
+Act
+, it is also recognized and enforced by the
+Access
+Act
+."
+Justice Deschamps concluded on this issue at paragraph 29:
+"... Thus, it is clear from the legislative scheme established by the
+Access Act
+and the
+Privacy Act
+that
+in a situation involving personal information about an individual, the right to privacy is paramount over the right of access to information
+." (Emphasis added)
+[29]
+At paragraph 28 of
+Heinz
+, supra, Justice Deschamps noted:
+"... the importance of this legislation is such that the
+Privacy
+Act
+has been characterized by this Court as 'quasi-constitutional' because of the role privacy plays in the preservation of a free and democratic society: ..." (citations omitted)
+[30]
+It is against this background that the decision of the Respondent to withhold disclosure of the field of "province" in the CADRIS database maintained by the Respondent must be reviewed.
+b) Is the Substance of the field of "province" personal information?
+[31]
+As earlier noted, the field of "province" does not necessarily identify the province of residence of the individual who suffered or would appear to have suffered an adverse drug reaction. Rather, that field discloses the location by province, and province includes Canada's three (3) northern territories in this context, of the person, in the broadest sense of that term, filing the report. The issue thus becomes, is the substance of the field of "province" information
+about
+an identifiable individual?
+[32]
+ <FRAGMENT_SUPPRESSED>  Desjardins, for the Court, wrote at paragraph [43]:
+"These two words, 'about' and 'concernant' [the French language equivalent of 'about' in section 3 of the
+Privacy Act
+], shed little light on the precise nature of the information which relates to the individual, except to say that information recorded in any form is relevant if it is 'about' an individual and
+if it permits or leads to the possible identification
+of the individual. There is judicial authority holding that an 'identifiable' individual is considered to be someone whom it is reasonable to expect can be identified from the information in issue
+when combined with information from sources otherwise available
+... ." (citations omitted, emphasis added)
+[33]
+Thus, information recorded in any form is information "about" a particular individual if it "permits" or "leads" to the possible identification of the individual, whether alone or when combined with information from sources "otherwise available" including sources
+publicly
+available.
+[34]
+Counsel for the Privacy Commissioner, the Intervener, urged the adoption of the following test in determining when information is about an identifiable individual:
+"Information will be about an identifiable individual where there is a serious possibility that an individual could be identified through the use of that information, alone or in combination with other available information."
+I am satisfied that the foregoing is an appropriate statement of the applicable text.
+[35]
+As previously noted, the burden of establishing that the Respondent was authorized to refuse to disclose the field of "province" in CADRIS is on the Respondent. Also as previously noted, in an effort to discharge this burden, the Respondent filed three (3) affidavits, those being of Bill Wilson, Head of the Database and Terminology Unit in the Marketed Health Products Directorate of Health Canada, of Ross Hodgins, Director, Access to Information and Privacy, Health Canada and of Ann Brown, a Senior Statistical Consultant in the Statistical Consultation Group of the Social Survey Methods division of Statistics Canada.
+[36]
+None of the Respondent's affiants were sought to be qualified as experts. All three (3) were cross-examined on their affidavits. Reasonably extensive answers to undertakings were provided.
+[37]
+Under the heading "The Risk of Identification of Personal Information if the Province Field is Disclosed", Mr. Wilson attested:
+"22. A first indication of such risk is the size of the pool of information in the database for the smaller provinces and territories. Statistics Canada preliminary post-censal estimates for January 1, 2006, indicates the population of Prince Edward Island, for example is 138,157 (compared to Ottawa at 865,500). In addition, there are only nine hospitals in the province. The territories also send Adverse Reaction reports and these have considerably smaller populations: Yukon 31,150, Northwest Territories 42,526 and Nunavut 30,245. The number of reports from these smaller provinces and territories is relatively small (in 2005, Prince Edward Island had 13 reports, Yukon had 5 reports, Northwest Territories had 3 reports and Nunavut had no reports). In conjunction with other information released, i.e. height, weight, age, reaction description and notifier type, links can be made to particular individuals." [see footnote 12]
+[38]
+At paragraph 27 of his affidavit, Mr. Wilson attests:
+"As a further test of the ability of an outsider to obtain personal information, I examined publicly available information from the database in conjunction with obituary information available on the internet. The combination of this information made it relatively easy to identify personal information if the province field was known. ..."
+He concluded at paragraph 28 of his affidavit:
+"... the identification of personal information is much more difficult without knowledge of the province field, because the number of AR [Adverse Reaction] reports and corresponding publicly available secondary information without knowledge of the province of origin can be very large. However, with the province field, identification of personal information matched with publicly available information such as obituary data or other information known to someone such as a neighbour or hospital worker, makes the identification of the individual extremely easy."
+[39]
+Finally, in paragraphs 29 and 30 of his affidavit, Mr. Wilson attested as to an actual use of CADRIS database information already disclosed as follows:
+"The potential for the identification of personal information as described above is not merely theoretical. Even in the absence of province information, in 2003, the CBC used information from the CADRIS database, combined with obituary information, to identify and approach the family of a student aged 26 named Kathrina Agelidis about the possible connection between her medication and her death. The details of that report drawn from the CBC website are attached hereto ... The table and other information provided ... are among the other publicly available information provided on the CBC website in respect of this report.
+"The CBC report reflects some uncertainty as to whether or not the individual in question is the same person as disclosed in the CADRIS database line entry. Such uncertainty would be reduced substantially, or eliminated entirely, if the province field was provided as the Applicant has requested."
+[40]
+Mr. Hodgins attested in response to the affidavit of David MacKie filed on behalf of the Applicant and relating to the process leading up to this matter and as to the basis for the exemption of the "province" field and to the considerations leading to the failure on the part of the respondent to exercise the discretion provided to the respondent under subsection 19(2) of the
+Act
+. With respect to the basis for exemption of the "province" field, he attested at paragraph 9 of his affidavit:
+"Health Canada determined that disclosure of the 'province' field of the CADRIS database would result in disclosure of information about an identifiable individual, whether the reporter of information or the patients themselves. As set out in more detail in the Affidavit of Bill Wilson, this conclusion was based upon the fact that the number of entries in the database becomes extremely small if the province field is provided in conjunction with the other information publicly available, making the risk of disclosure of personal information very high ... ." [see footnote 13]
+[41]
+In the affidavit of Ann Brown, she attests at paragraph 4:
+"In April, 2006 I was requested by Health Canada to prepare an assessment of the impact of disclosure of the 'province' field on the ability of outsiders to identify unique or near-unique individual reports from the other publicly-available CADRIS database fields. Bill Wilson at Health Canada provided the CADRIS raw data to me in electronic form. I initially familiarized myself with the content and operation of the CADRIS data. This included identification of fields which could be used by someone attempting to link publicly available information in the database with a known individual or information about a known individual. The fields chosen were the following:
+(a) 'year received at MHPD' (Marketed Health Products Directorate):
+This corresponds to the year from the field 'date received at MHPD' in the CADRIS database;
+(b) 'outcome': the 'outcome' field;
+(c) 'gender': the 'gender' field;
+(d) 'age at reaction': this corresponds to the field 'age' in the CADRIS database." [see footnote 14]
+[42]
+Ms. Brown concluded at paragraph 9 of her affidavit:
+"The columns [in Exhibit 'A' to Ms. Brown's affidavit] under the heading 'After Adding Province' indicate how the number of reports in question changes if the 'province' field is added. In the case of unique reports involving all five fields, for example, the number of unique reports increases by more than 16,000 when the 'province' field is included."
+"Unique reports" in the foregoing quotation represent situations in which there is only one (1) report for a particular combination of fields. For example, the four (4) fields involving a unique report might be: "year sent to MHPD = 2002; Outcome = Died Due to Adverse Reaction; Gender = Female: Age at Reaction = 26" the relevant combination of fields for the late Ms. Agelidis referred to in the quotation in paragraph [39] of these reasons.
+[43]
+I am satisfied that the evidence of the Respondent's three affiants, quoted in part above, when taken together, represents substantial evidence that disclosure of the province field would substantially increase the possibility that information about an identifiable individual that is recorded in any form would fall into the hands of persons seeking to use the totality of information disclosed from the CADRIS database, in conjunction with other publicly available information, to identify "particular" individuals.
+[44]
+In written submissions contained in the Applicant's Memorandum of Fact and Law and in oral submissions on behalf of the Applicant at the hearing of this matter, the Applicant was substantially critical of the foregoing evidence. It was noted that all three (3) affiants, as previously noted in these reasons, stated that they were not being put forward as experts. In the result, counsel noted there was no "expert" evidence put forward on behalf of the Respondent concerning the likelihood that disclosing the field of "province" would allow the identification of particular individuals. Counsel noted that the following issues were not addressed in the Respondent's evidence: first, the fact that drug reactions are underreported; secondly, that the CADRIS database contains suspected drug reactions, which indicates that there may have been no drug reaction in specific cases; thirdly, the identity of the drug at issue; fourthly, the number of people in the province who might be taking a particular drug; fifthly, the fact that there is a potential six-month lag time after a report is received before the report would be included in the CADRIS database; and finally, the fact that the name of an individual allegedly experiencing a negative reaction is not in the CADRIS database and is not otherwise available publicly.
+[45]
+Finally, it is worthy of note that no rebuttal evidence was put forward on behalf of the Applicant and that the concerns expressed in the Applicant's Memorandum of Fact and Law and put forward on the Applicant's behalf at hearing would appear to be those of a person or persons certainly no more "expert" than each of the Respondent's witnesses and certainly less expert and less familiar with the CADRIS database than the Respondent's affiants taken together.
+[46]
+Counsel for the Applicant urges in conclusion on the evaluation of the evidence before the Court, at paragraph 80 of the Applicant's Memorandum of Fact and Law that:
+"The Respondents have completely failed to show that the addition of the field of 'province' to other publicly released data would serve to increase or significantly increase the prospect of identifying an individual sufferer of a drug reaction."
+[47]
+I disagree. I am satisfied that the Respondent has provided evidence to the Court sufficient to meet the burden placed on him by section 48 of the
+Act
+to establish that he was authorized to refuse to disclose a record requested under the
+Act
+or a part thereof. Put another way, I am satisfied that the Respondent, on the evidence before the Court, was required to refuse to disclose the content of the field of "province" pursuant to subsection 19(1) of the
+Act
+. The content of that field, in all of the circumstances of this matter, constitutes "personal information" as defined in section 3 of the
+Privacy
+Act
+.
+c) Failure of the Respondent to disclose the field of "province" in the CADRIS database pursuant to subsection 19(2) of the
+Act
+[48]
+The issue before the Court with regard to the Respondent's failure to exercise his discretion to disclose under subsection 19(2) of the
+Act
+is whether or not the requested information, that is the substance in the field of "province", is such that its disclosure would have been in accordance with section 8 of the
+Privacy
+Act
+.
+[49]
+As earlier noted in these reasons, the only authority for disclosure under section 8 of the
+Privacy
+Act
+on which it was urged the Respondent should rely is "... for any purpose where, in the opinion of the head of the institution, [here the Respondent], the public interest in disclosure clearly outweighs any invasion of privacy that could result from the disclosure ...". Further, also as previously noted, the Respondent, in considering whether or not he should exercise his discretion to disclose based upon a weighing of the public interest in disclosure against any invasion of privacy that could result, was required to bear in mind that the
+Privacy
+Act
+has been characterized as "quasi constitutional" because of the role privacy plays in the preservation of a free and democratic society. [see footnote 15]
+[50]
+Counsel for the Applicant urges that access to the field of "province" is for more than mere curiosity, it is for the legitimate aim of informing the public regarding their health and safety without affecting Canadians' privacy rights. She urges that the only evidence put forward on behalf of the Respondent is "... arbitrary, unscientific and purely anecdotal and ... [is] riddled with assumptions and assertions that the risk of identification would significantly increase without a credible [evidentiary base] that this is the case."
+[51]
+The foregoing being said, the Applicant put forward no evidence contrary to that of the Respondent and in particular, no evidence how public health and safety would be enhanced if the field of province were disclosed, without at the same time impinging on privacy rights.
+[52]
+In <FRAGMENT_SUPPRESSED> [see footnote 16], Justice Laforest wrote at paragraph 113:
+"There is no evidence, as was the case in
+Rubin
+, supra, that the Minister failed to examine the evidence properly. It is apparent that he considered the appellant's request for public interest waiver in the light of the objects of the legislation and came to a determination that the public interest did not 'clearly outweigh' the violation of privacy that
+could
+result from disclosure. This was a conclusion that he was entitled to make. For this Court to overturn this decision would amount to a substitution of its view of the matter for his. Such a result would do considerable violence to the purpose of the legislation and would amount to an unjustified usurpation of the Minister's statutory role." (Emphasis added)
+I am satisfied that precisely the same might be said here, particularly in light of the support for the Respondent's determination not to exercise his discretion to disclose that was provided by the Access to Information Commissioner after lengthy involvement in the dispute between the Applicant and the Respondent over this request for access.
+CONCLUSION
+[53]
+For the foregoing reasons, this application will be dismissed.
+COSTS
+[54]
+The Respondent seeks his costs of this application. In the normal course of events, costs follow the outcome. I find no basis on the facts of this matter to vary from the normal course of events. The Respondent will have his costs as against the Applicant.
+[55]
+There will be no costs in favour of or against the Intervener.
+Application dismissed.
+Editor: Angela E. McKay/vnh
+Footnotes
+1. The brief description of the CADRIS system contained in this paragraph is extracted from paragraphs one to ten of the affidavit of Bill Wilson filed in this matter and sworn the 5th of July, 2006.
+2. Paragraph 7 of the affidavit of Bill Wilson referenced in footnote 1.
+3. Respondent's Application Record pages 15-18, Exhibit C to the affidavit of Bill Wilson referenced in footnote 1.
+4. R.S., 1985, c. A-1.
+5. R.S.C. 1985, c. P-21.
+6. [2003] 1 S.C.R. 66; 301 N.R. 41.
+7. (2004), 255 F.T.R. 56; 32 C.P.R.(4th) 464; 2004 FC 431.
+8. [1997] 2 S.C.R. 403; 213 N.R. 161 (Justice LaForest in dissent but concurring with the Majority on this point).
+9. supra, footnote 8.
+10. [2006] 1 S.C.R. 441; 347 N.R. 1; 2006 SCC 13.
+11. [2007] 1 F.C.R. 203; 348 N.R. 263; 2006 FCA 157.
+12. Respondent's Application Record, volume 1, page 0008.
+13. Respondent's application Record, volume 1, pages 0067 and 0068.
+14. Respondent's Application Record, volume 1, page 0062.
+15. See the brief quotation in paragraph [29] of these reasons.
+16. supra, footnote 8.
+SCHEDULE
+Access to Information Act
+2(1) The purpose of this Act is to extend the present laws of Canada to provide a right of access to information in records under the control of a government institution in accordance with the principles that government information should be available to the public, that necessary exceptions to the right of access should be limited and specific and that decisions on the disclosure of government information should be reviewed independently of government.
+2(2) This Act is intended to complement and not replace existing procedures for access to government information and is not intended to limit in any way access to the type of government information that is normally available to the general public.
+3. In this Act,
+. . . . .
+"Court" means the Federal Court;
+. . . . .
+"government institution" means
+(a) any department or ministry of state of the Government of Canada, or any body or office, listed in Schedule I, and
+(b) any parent Crown corporation, and any wholly-owned subsidiary of such a corporation, within the meaning of section 83 of the Financial Administration Act;
+. . . . .
+"record" means any documentary material, regardless of medium or form;
+. . . . .
+19(1) Subject to subsection (2), the head of a government institution shall refuse to disclose any record requested under this Act that contains personal information as defined in section 3 of the Privacy Act.
+19(2) The head of a government institution may disclose any record requested under this Act that contains personal information if
+. . . . .
+(c) the disclosure is in accordance with section 8 of the Privacy Act.
+. . . . .
+41. Any person who has been refused access to a record requested under this Act or a part thereof may, if a complaint has been made to the Information Commissioner in respect of the refusal, apply to the Court for a review of the matter within forty-five days after the time the results of an investigation of the complaint by the Information Commissioner are reported to the complainant under subsection 37(2) or within such further time as the Court may, either before or after the expiration of those forty-five days, fix or allow.
+. . . . .
+48. In any proceedings before the Court arising from an application under section 41 or 42, the burden of establishing that the head of a government institution is authorized to refuse to disclose a record requested under this Act or a part thereof shall be on the government institution concerned.
+49. Where the head of a government institution refuses to disclose a record requested under this Act or a part thereof on the basis of a provision of this Act not referred to in section 50, the Court shall, if it determines that the head of the institution is not authorized to refuse to disclose the record or part thereof, order the head of the institution to disclose the record or part thereof, subject to such conditions as the Court deems appropriate, to the person who requested access to the record, or shall make such other order as the Court deems appropriate
+. . . . .
+SCHEDULE I
+(Section 3)
+GOVERNMENT INSTITUTIONS
+DEPARTMENTS AND MINISTRIES OF
+STATE
+. . . . .
+Department of Health
+. . . . .
+Privacy Act
+. . . . .
+2. The purpose of this Act is to extend the present laws of Canada that protect the privacy of individuals with respect to personal information about themselves held by a government institution and that provide individuals with a right of access to that information.
+3. In this Act,
+. . . . .
+. . . . .
+"personal information" means information about an identifiable individual that is recorded in any form including, without restricting the generality of the foregoing,
+but, for the purposes of sections 7, 8 and 26 and section 19 of the Access to Information Act, does not include
+. . . . .
+(m) information about an individual who has been dead for more than twenty years;
+. . . . .
+8(2) Subject to any other Act of Parliament, personal information under the control of a government institution may be disclosed
+. . . . .
+(m) for any purpose where, in the opinion of the head of the institution,
+(i) the public interest in disclosure clearly outweighs any invasion of privacy that could result from the disclosure, or ...
+2(1) La présente loi a pour objet d'élargir l'accès aux documents de l'administration fédérale en consacrant le principe du droit du public à leur communication, les exceptions indispensables à ce droit étant précises et limitées et les décisions quant à la communication étant susceptibles de recours indépendants du pouvoir exécutif.
+2(2) La présente loi vise à compléter les modalités d'accès aux documents de l'administration fédérale; elle ne vise pas à restreindre l'accès aux renseignements que les institutions fédérales mettent normalement à la disposition du grand public.
+3. Les définitions qui suivent s'appliquent à la présente loi.
+. . . . .
+«Cour » La Cour fédérale.
+. . . . .
+«institution fédérale »
+a) Tout ministère ou département d'État relevant du gouvernement du Canada, ou tout organisme, figurant à l'annexe I;
+b) toute société d'État mère ou filiale à cent pour cent d'une telle société, au sens de l'article 83 de la Loi sur la gestion des finances publiques.
+. . . . .
+«document » Éléments d'information, quel qu'en soit le support.
+. . . . .
+19(1) Sous réserve du paragraphe (2), le responsable d'une institution fédérale est tenu de refuser la communication de documents contenant les renseignements personnels visés à l'article 3 de la Loi sur la protection des renseignements personnels.
+19(2) Le responsable d'une institution fédérale peut donner communication de documents contenant des renseignements personnels dans les cas où:
+. . . . .
+c) la communication est conforme à l'article 8 de la Loi sur la protection des renseignements personnels.
+. . . . .
+41. La personne qui s'est vu refuser communication totale ou partielle d'un document demandé en vertu de la présente loi et qui a déposé ou fait déposer une plainte à ce sujet devant le Commissaire à l'information peut, dans un délai de quarante-cinq jours suivant le compte rendu du Commissaire prévu au paragraphe 37(2), exercer un recours en révision de la décision de refus devant la Cour. La Cour peut, avant ou après l'expiration du délai, le proroger ou en autoriser la prorogation.
+. . . . .
+48. Dans les procédures découlant des recours prévus aux articles 41 ou 42, la charge d'établir le bien-fondé du refus de communication totale ou partielle d'un document incombe à l'institution fédérale concernée.
+49. La Cour, dans les cas où elle conclut au bon droit de la personne qui a exercé un recours en révision d'une décision de refus de communication totale ou partielle d'un document fondée sur des dispositions de la présente loi autres que celles mentionnées à l'article 50, ordonne, aux conditions qu'elle juge indiquées, au responsable de l'institution fédérale dont relève le document en litige d'en donner à cette personne communication totale ou partielle; la Cour rend une autre ordonnance si elle l'estime indiqué.
+. . . . .
+ANNEXE I
+(article 3)
+INSTITUTIONS FÉDÉRALES
+MINISTÈRES ET DÉPARTMENTS D'ÉTATE
+. . . . .
+Ministère de la Santé
+. . . . .
+2. La présente loi a pour objet de compléter la législation canadienne en matière de protection des renseignements personnels relevant des institutions fédérales et de droit d'accès des individus aux renseignements personnels qui les concernent.
+3. Les définitions qui suivent s'appliquent à la présente loi.
+. . . . .
+«renseignements personnels » Les renseignements, quels que soient leur forme et leur support, concernant un individu identifiable, notamment:
+. . . . .
+toutefois, il demeure entendu que, pour l'application des articles 7, 8 et 26, et de l'article 19 de la Loi sur l'accès à l'information, les renseignements personnels ne comprennent pas les renseignements concernant:
+. . . . .
+m) un individu décédé depuis plus de vingt ans.
+. . . . .
+8(2) Sous réserve d'autres lois fédérales, la communication des renseignements personnels qui relèvent d'une institution fédérale est autorisée dans les cas suivants:
+. . . . .
+m) communication à toute autre fin dans les cas où, de l'avis du responsable de l'institution:
+(i) des raisons d'intérêt public justifieraient nettement une éventuelle violation de la vie privée, ...
+[End of document]

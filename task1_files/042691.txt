@@ -1,0 +1,685 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Warman v. Fournier (2012), 414 F.T.R. 249 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ [French language version follows English language version] 
+ 
+ 
+ 
+ [La version française vient à la suite de la version anglaise] 
+ 
+ 
+ 
+ ......................... 
+ 
+ 
+ 
+ Temp. Cite: [2012] F.T.R. TBEd. JL.019 
+ 
+ 
+ 
+ Richard Warman and National Post Company (applicants) v. Mark Fournier and Constance Fournier (respondents) 
+ 
+ (T-784-11; 2012 FC 803; 2012 CF 803) 
+ 
+ 
+ 
+ Indexed As: Warman et al. v. Fournier 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Rennie, J. 
+ 
+ June 21, 2012. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Warman asserted that the respondents infringed his copyright in three works and applied for several remedies. 
+ 
+ 
+ 
+ The Federal Court dismissed the application. 
+ 
+ 
+ 
+ Copyright - Topic 4405 
+ 
+ Infringement of copyright - General principles - Substantial similarity or substantial copying - An article authored by Kay and published in the National Post was highly critical of Warman - Warman obtained an exclusive license to the copyright in the article through an agreement with the National Post on January 13, 2010 - He registered the copyright on March 10, 2011 - Warman asserted that the respondents infringed his copyright in the article by reproducing excerpts from it on their website - He asserted that the excerpts constituted a substantial part of the article - He applied for various remedies - The respondents asserted that the application was barred by the three year limitation period set out in s. 41(1) of the Copyright Act - The Federal Court held that the application was not statute barred since Warman could not have become aware of the infringement until he obtained a license to the copyright in 2010 - Whether a substantial part of the work had been reproduced was a question of fact - The court referred to and applied the relevant factors, concluding that Warman had not established that the excerpts constituted a substantial part of the article and there was therefore no infringement - Quantitatively, the reproduction constituted less than half of the work - Qualitatively, the portions reproduced were the article's opening "hook" and the summary of the facts on which the article was based - Most of the commentary and original thought expressed by Kay was not reproduced - Most of the other facts were not directly relevant as Warman was not using the subject matter of the copyright in the sense of reproducing or publishing it - The respondents had not reproduced the excerpts to save time and effort, but to preserve a record of the facts summarized in the article so that members of their online forum could continue to discuss those facts on the forum - Alternatively, the excerpts constituted fair dealing for the purposes of news reporting (s. 29.2) - See paragraphs 22 to 35. 
+ 
+ 
+ 
+ Copyright - Topic 4546 
+ 
+ Infringement of copyright - Acts not constituting infringement - Implied licence to use - Warman discovered that the respondents had reproduced a photograph of him and another person on their website in August 2010 - He obtained the copyright in the photograph on February 18, 2011- Warman asserted that the respondents infringed his copyright in the photograph and applied for various remedies - The respondents asserted that the photograph was never uploaded to the server for their online forum, rather a member had posted an inline link to the photograph as it appeared on Warman's personal website - The photograph was no longer displayed on the Warman website and therefore the inline link no longer worked - The Federal Court held that there was no copyright infringement where Warman had authorized the communication of the photograph by posting it on his website and making it available to the public - Warman asserted that the respondents could not rely on the fact that the photograph was posted on his website because that would amount to "blaming the victim" - However, Warman was only a victim of infringement if the respondents did something that only Warman had the right to do without his authorization - The photograph was within Warman's full control and if he had not wanted it to be communicated by telecommunication, he could have removed it from his website, as he eventually did - See paragraphs 36 to 38. 
+ 
+ 
+ 
+ Copyright - Topic 4563 
+ 
+ Infringement of copyright - Internet, on-line services, CD Rom and other electronic media - Newspapers and newspaper articles - [See  
+ Copyright - Topic 4405 
+ ]. 
+ 
+ 
+ 
+ Copyright - Topic 4566 
+ 
+ Infringement of copyright - Internet, on-line services, CD Rom and other electronic media - Use on website - [See  
+ Copyright - Topic 4405 
+  and  
+ Copyright Topic 4546 
+ ]. 
+ 
+ 
+ 
+ Copyright - Topic 4583 
+ 
+ Infringement of copyright - Remedies - Injunctive relief - Warman asserted that the respondents infringed his copyright in a speech authored by him in July 2005 - The copyright was registered on February 18, 2011 - Warman discovered that the speech had been reproduced on the respondents' website in September 2007 - The respondents acknowledged that the speech was uploaded to their website at that time - The Federal Court held that Warman had established a prima facie infringement of his copyright, however he was precluded from obtaining a remedy where his application was not commenced within three years of his discovering the infringement (Copyright Act, s. 41(1)) - Warman asserted that the s. 41(1) limitation period did not apply to injunctive relief because of the equitable nature of that relief (FRAGMENT_SUPPRESSED) - The only cases cited in Milliken dated back to the 1920's - Recent cases, including those in which an injunction was sought, had applied the limitation period and denied any remedy - It was unclear if the parties in those cases had argued that injunctive relief was available outside the limitation period - Even if s. 41(1) did not preclude the granting of injunctive relief, it at the very least informed the exercise of the court's discretion to grant an injunction for copyright infringement - It would be contrary to Parliament's intent to find that an injunction was presumptively available for an infringement if the application was brought outside the three year period - It was more consistent with the Act, for the court to limit the exercise of its discretion to grant an injunction to circumstances where it would have some practical effect and the balance of convenience strongly favoured granting the injunction - Here, Warman had not established that an injunction was necessary to prevent further infringement - Rather, the respondents had removed the speech from their server and the physical copies that they retained were for the purpose of defending a defamation action that Warman had brought against them - See paragraphs 11 to 22. 
+ 
+ 
+ 
+ Copyright - Topic 4642 
+ 
+ Defences - Consent - [See  
+ Copyright - Topic 4546 
+ ]. 
+ 
+ 
+ 
+ Copyright - Topic 4645 
+ 
+ Defences - Fair dealing - [See  
+ Copyright - Topic 4405 
+ ]. 
+ 
+ 
+ 
+ Copyright - Topic 6007 
+ 
+ Practice - General - Limitation of actions - [See  
+ Copyright - Topic 4405 
+  and  
+ Copyright - Topic 4583 
+ ]. 
+ 
+ 
+ 
+ Limitation of Actions - Topic 15 
+ 
+ General principles - Discoverability rule - Application of - [See  
+ Copyright - Topic 4405 
+ ]. 
+ 
+ 
+ 
+ Limitation of Actions - Topic 16 
+ 
+ General principles - Applicability to equitable relief - [See  
+ Copyright - Topic 4583 
+ ]. 
+ 
+ 
+ 
+ Limitation of Actions - Topic 4408 
+ 
+ Statutory causes of action - Copyright infringement - [See  
+ Copyright - Topic 4405 
+  and  
+ Copyright - Topic 4583 
+ ]. 
+ 
+ 
+ 
+ Limitation of Actions - Topic 9305 
+ 
+ Postponement or suspension of statute - General - Discoverability rule - [See  
+ Copyright - Topic 4405 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ Counsel: 
+ 
+ James Katz, for the applicant, Richard Warman; 
+ 
+ Mark Fournier and Constance Fournier, on their own behalf. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Brazeauseller LLP, Ottawa, Ontario, for the applicant, Richard Warman. 
+ 
+ 
+ 
+ This application was heard at Ottawa, Ontario, on May 28, 2012, by Rennie, J., of the Federal Court, who delivered the following reasons for judgment on June 21, 2012. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Rennie, J. 
+ : The applicant alleges infringement by the respondents of his copyright in three works, and seeks several remedies in respect of that alleged infringement. For the reasons that follow the application is dismissed in respect of all three works. 
+ 
+ 
+ 
+ Facts 
+ 
+ 
+ 
+ [2] 
+  This application relates to the alleged infringement of Richard Warman's (applicant's) copyright in three works. The first is a speech authored by the applicant, titled, "Maximum Disruption: Stopping Neo-Nazis By (Almost) Any Means Necessary" (Warman Work). The applicant authored the Warman Work in July 2005, and registered his copyright in the Warman Work on February 18, 2011. 
+ 
+ 
+ 
+ [3] 
+  The second work is an article authored by Jonathan Kay while he was employed by the National Post Company (NP), titled "Jonathan Kay on Richard Warman and Canada's Phony-Racism Industry" (Kay Work). The applicant obtained an exclusive license to the copyright in the Kay Work through an agreement with NP on January 13, 2010. The applicant registered his copyright in the Kay Work on March 10, 2011. 
+ 
+ 
+ 
+ [4] 
+  The third work is a photograph of the applicant and another individual, taken by M. Barrera (Barrera Work). The applicant obtained the copyright in the Barrera Work by assignment on August 11, 2010, and registered his copyright on February 18, 2011. 
+ 
+ 
+ 
+ [5] 
+  The respondents, Mark and Constance Fournier, operate the website www.freedominion.com (Free Dominion). They describe Free Dominion as an online political news discussion forum which is accessible to any member of the public and which is used for discussing political issues from a conservative viewpoint. 
+ 
+ 
+ 
+ [6] 
+  The applicant states that he first discovered that the Warman Work had been reproduced on Free Dominion in September 2007. The respondents acknowledge that a copy of the Warman Work was uploaded onto the Free Dominion server at that time. They state that it was a scanned copy of an exhibit in a Canadian Human Rights Tribunal case. The applicant sent an email to the respondents through a third party on October 7, 2007, demanding that the Warman Work be removed from the website. 
+ 
+ 
+ 
+ [7] 
+  The applicant states that he discovered in April 2010 that the Kay Work had been reproduced on Free Dominion. The respondents state that the Kay Work was posted in a discussion thread on Free Dominion on January 10, 2008 (although the date of the post in the record appears as February 18, 2008). The applicant demanded that the Kay Work be taken down on April 16, 2010, at which time the respondents removed the Kay Work, but posted excerpts of the Kay Work in its place. 
+ 
+ 
+ 
+ [8] 
+  The applicant states that he discovered that the Barrera Work had been reproduced on Free Dominion in August 2010, and that the Warman Work also continued to be reproduced at that time. The respondents state that the Barrera Work was never uploaded onto the server for Free Dominion; rather, a member posted an inline link to the Barrera Work as it appeared on the applicant's personal website on May 27, 2010. The respondents state that the Barrera Work was no longer displayed on the applicant's website and therefore the inline link no longer worked, as of June 7, 2011. 
+ 
+ 
+ 
+ Relevant Legislation 
+ 
+ 
+ 
+ [9] 
+  Section 27 of the  
+ Copyright Act 
+  (RSC, 1985, c C-42) ( 
+ Copyright Act 
+ ) defines infringement of a copyright: 
+ 
+ 
+ 
+ Infringement generally 
+ 
+ 
+ 
+ 27. (1) It is an infringement of copyright for any person to do, without the consent of the owner of the copyright, anything that by this Act only the owner of the copyright has the right to do. 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ Règle générale 
+ 
+ 
+ 
+ 27. (1) Constitue une violation du droit d'auteur l'accomplissement, sans le consentement du titulaire de ce droit, d'un acte qu'en vertu de la présente loi seul ce titulaire a la faculté d'accomplir. 
+ 
+ 
+ 
+ [10] 
+  Section 3 of the  
+ Copyright Act 
+  sets out the rights included in a copyright in a work: 
+ 
+ 
+ 
+ Copyright in works 
+ 
+ 
+ 
+ 3. (1) For the purposes of this Act, "copyright", in relation to a work, means the sole right to produce or reproduce the work or any substantial part thereof in any material form whatever, to perform the work or any substantial part thereof in public or, if the work is unpublished, to publish the work or any substantial part thereof, and includes the sole right 
+ 
+ 
+ 
+ (a) to produce, reproduce, perform or publish any translation of the work, 
+ 
+ 
+ 
+ (b) in the case of a dramatic work, to convert it into a novel or other non-dramatic work, 
+ 
+ 
+ 
+ (c) in the case of a novel or other non-dramatic work, or of an artistic work, to convert it into a dramatic work, by way of performance in public or otherwise, 
+ 
+ 
+ 
+ (d) in the case of a literary, dramatic or musical work, to make any sound recording, cinematograph film or other contrivance by means of which the work may be mechanically reproduced or performed, 
+ 
+ 
+ 
+ (e) in the case of any literary, dramatic, musical or artistic work, to reproduce, adapt and publicly present the work as a cinematographic work, 
+ 
+ 
+ 
+ (f) in the case of any literary, dramatic, musical or artistic work, to communicate the work to the public by telecommunication, 
+ 
+ 
+ 
+ (g) to present at a public exhibition, for a purpose other than sale or hire, an artistic work created after June 7, 1988, other than a map, chart or plan, 
+ 
+ 
+ 
+ (h) in the case of a computer program that can be reproduced in the ordinary course of its use, other than by a reproduction during its execution in conjunction with a machine, device or computer, to rent out the computer program, and 
+ 
+ 
+ 
+ (i) in the case of a musical work, to rent out a sound recording in which the work is embodied, 
+ 
+ 
+ 
+ and to authorize any such acts. 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ Droit d'auteur sur l'oeuvre 
+ 
+ 
+ 
+ 3. (1) Le droit d'auteur sur l'oeuvre comporte le droit exclusif de produire ou reproduire la totalité ou une partie importante de l'oeuvre, sous une forme matérielle quelconque, d'en exécuter ou d'en représenter la totalité ou une partie importante en public et, si l'oeuvre n'est pas publiée, d'en publier la totalité ou une partie importante; ce droit comporte, en outre, le droit exclusif: 
+ 
+ 
+ 
+ a) de produire, reproduire, représenter ou publier une traduction de l'oeuvre; 
+ 
+ 
+ 
+ b) s'il s'agit d'une oeuvre dramatique, de la transformer en un roman ou en une autre oeuvre non dramatique; 
+ 
+ 
+ 
+ c) s'il s'agit d'un roman ou d'une autre oeuvre non dramatique, ou d'une oeuvre artistique, de transformer cette oeuvre en une oeuvre dramatique, par voie de représentation publique ou autrement; 
+ 
+ 
+ 
+ d) s'il s'agit d'une oeuvre littéraire, dramatique ou musicale, d'en faire un enregistrement sonore, film cinématographique ou autre support, à l'aide desquels l'oeuvre peut être reproduite, représentée ou exécutée mécaniquement; 
+ 
+ 
+ 
+ e) s'il s'agit d'une oeuvre littéraire, dramatique, musicale ou artistique, de reproduire, d'adapter et de présenter publiquement l'oeuvre en tant qu'oeuvre cinématographique; 
+ 
+ 
+ 
+ f) de communiquer au public, par télécommunication, une oeuvre littéraire, dramatique, musicale ou artistique; 
+ 
+ 
+ 
+ g) de présenter au public lors d'une exposition, à des fins autres que la vente ou la location, une oeuvre artistique - autre qu'une carte géographique ou marine, un plan ou un graphique - créée après le 7 juin 1988; 
+ 
+ 
+ 
+ h) de louer un programme d'ordinateur qui peut être reproduit dans le cadre normal de son utilisation, sauf la reproduction effectuée pendant son exécution avec un ordinateur ou autre machine ou appareil; 
+ 
+ 
+ 
+ i) s'il s'agit d'une oeuvre musicale, d'en louer tout enregistrement sonore. 
+ 
+ 
+ 
+ Est inclus dans la présente définition le droit exclusif d'autoriser ces actes. 
+ 
+ 
+ 
+ Analysis 
+ 
+ 
+ 
+ Warman Work 
+ 
+ 
+ 
+ [11] 
+  The respondents do not dispute that copyright subsists in the Warman Work, or that the applicant is the owner of the copyright as the author. I am satisfied that these elements of establishing infringement are met. 
+ 
+ 
+ 
+ [12] 
+  I find that, while the applicant has established  
+ prima 
+   
+ facie 
+  infringement of his copyright in the Warman Work, he is precluded from obtaining any remedy for the infringement pursuant to section 41(1) of the  
+ Copyright Act 
+ . 
+ 
+ 
+ 
+ [13] 
+  The applicant has established that the respondents authorized the communication of the Warman Work by telecommunication, by uploading a copy of it onto their server. The Canada Copyright Board held in  
+ FRAGMENT_SUPPRESSED, that a person authorizes communication of a work by telecommunication when that person makes the work available to the public on a server. The respondents do not deny doing this and therefore I find that  
+ prima facie 
+  infringement has been established. 
+ 
+ 
+ 
+ [14] 
+  The respondents advance several possible defences for this infringement but they need not be considered because the applicant is not entitled to a remedy in respect of this infringement, pursuant to section 41(1) of the  
+ Copyright Act 
+ , which states: 
+ 
+ 
+ 
+ Limitation period for civil remedies 
+ 
+ 
+ 
+ 41. (1) Subject to subsection (2), a court may not award a remedy in relation to an infringement unless 
+ 
+ 
+ 
+ (a) in the case where the plaintiff knew, or could reasonably have been expected to know, of the infringement at the time it occurred, the proceedings for infringement are commenced within three years after the infringement occurred; 
+ 
+ 
+ 
+ (b) in the case where the plaintiff did not know, and could not reasonably have been expected to know, of the infringement at the time it occurred, the proceedings for infringement are commenced within three years after the time when the plaintiff first knew, or could reasonably have been expected to know, of the infringement. 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ Prescription 
+ 
+ 
+ 
+ 41. (1) Sous réserve du paragraphe (2), le tribunal saisi d'un recours en violation ne peut accorder de réparations que si: 
+ 
+ 
+ 
+ a) le demandeur engage des procédures dans les trois ans qui suivent le moment où la violation a eu lieu, s'il avait connaissance de la violation au moment où elle a eu lieu ou s'il est raisonnable de s'attendre à ce qu'il en ait eu connaissance à ce moment; 
+ 
+ 
+ 
+ b) le demandeur engage des procédures dans les trois ans qui suivent le moment où il a pris connaissance de la violation ou le moment où il est raisonnable de s'attendre à ce qu'il en ait pris connaissance, s'il n'en avait pas connaissance au moment où elle a eu lieu ou s'il n'est pas raisonnable de s'attendre à ce qu'il en ait eu connaissance à ce moment. 
+ 
+ 
+ 
+ [15] 
+  The applicant has acknowledged that he knew about the respondent's infringement of the Warman Work since September 2007. Thus, he did not bring this proceeding within the limitation period prescribed by section 41(1) of the  
+ Copyright Act 
+  and therefore he is time-barred from raising copyright infringement in respect of that work:  
+FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [16] 
+  The applicant advanced two arguments on this issue: first, he alleged in his affidavit that he learned of a new, subsequent infringement in 2010, and therefore the application falls within the limitation period in respect of that infringement. 
+ 
+ 
+ 
+ [17] 
+  This allegation is not substantiated by the evidence. The applicant included a URL in his affidavit that supposedly led to a second uploaded copy of the Warman Work but, as the respondents note, that URL was not functional. The applicant did not, for example, provide a printout of the Warman Work with that URL listed at the bottom which would have been evidence that there was an additional uploaded copy of the Warman Work. Thus, the only infringement of the Warman Work established by the evidence falls outside the limitation period. 
+ 
+ 
+ 
+ [18] 
+  Second, the applicant argues that, following the Court's decision in  
+FRAGMENT_SUPPRESSED, the limitation period in section 41(1) of the  
+ Copyright Act 
+  does not apply with respect to injunctive relief. In that decision, Justice Tremblay-Lamer found that section 41(1) was inapplicable to an application for an injunction, because of the equitable nature of that relief. 
+ 
+ 
+ 
+ [19] 
+  The only cases cited in that decision date back to the 1920s. I would note that recent cases of this Court and other courts, including those in which an injunction was sought, have applied the limitation period and denied any remedy. No exception was made for injunctive relief:  
+FRAGMENT_SUPPRESSED. It is unclear whether the parties in those cases argued that injunctive relief was available outside the limitation period. 
+ 
+ 
+ 
+ [20] 
+  In my view, even if section 41(1) does not preclude the granting of injunctive relief, it at the very least informs the exercise of the Court's discretion to grant an injunction for copyright infringement. It would be contrary to Parliament's intent to find that an injunction is presumptively available for an infringement if the application is brought outside the limitation period. It is more consistent with the  
+ Copyright Act 
+  for the Court to limit the exercise of its discretion to grant an injunction to circumstances where it will have some practical effect and the balance of convenience strongly favours granting the injunction. The Supreme Court of Canada (SCC) confirmed in  
+FRAGMENT_SUPPRESSED, that an injunction is an equitable remedy and thus within the Court's discretion. 
+ 
+ 
+ 
+ [21] 
+  In this case, the applicant has not shown that an injunction is necessary to prevent further infringement; rather, the evidence is that the respondents have removed the Warman Work from their server and the physical copies they retain are for the purposes of defending the defamation action brought against them by the applicant. Thus, I decline to exercise my discretion to grant an injunction in respect of the Warman Work and this aspect of the application is dismissed. 
+ 
+ 
+ 
+ Kay Work 
+ 
+ 
+ 
+ [22] 
+  The applicant obtained an exclusive license to the copyright in the Kay Work on January 13, 2010, and therefore is able to sue a third party for infringement:  
+FRAGMENT_SUPPRESSED. Once again, the respondent does not dispute that copyright subsists in the Kay Work or that the applicant is entitled to bring an application for infringement. The respondents argue the application is also time-barred in respect of the Kay Work; however, the applicant did not obtain license to the copyright until 2010, and therefore could not have become aware of infringement of his copyright until that time. 
+ 
+ 
+ 
+ No Reproduction of a Substantial Part 
+ 
+ 
+ 
+ [23] 
+  The applicant submits that the respondents infringed his copyright in the Kay Work by reproducing excerpts from it. He argues that the reproduced excerpts constitute a substantial part of the Kay Work, contrary to sections 3 and 27 of the  
+ Copyright Act 
+ . Whether a substantial part of a work has been reproduced is a question of fact and involves a qualitative rather than quantitative analysis. The relevant factors to be considered include: 
+ 
+ 
+ 
+ a. the quality and quantity of the material taken; 
+ 
+ 
+ 
+ b. the extent to which the respondent's use adversely affects the applicant's activities and diminishes the value of the applicant's copyright; 
+ 
+ 
+ 
+ c. whether the material taken is the proper subject-matter of a copyright; 
+ 
+ 
+ 
+ d. whether the respondent intentionally appropriated the applicant's work to save time and effort; and 
+ 
+ 
+ 
+ e. whether the material taken is used in the same or a similar fashion as the applicant's:  
+FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [24] 
+  Applying those factors to this case, I find that the respondents did not reproduce a substantial part of the Kay Work, and therefore there is no infringement. 
+ 
+ 
+ 
+ [25] 
+  Quantitatively, the reproduction constitutes less than half of the work. The Kay Work itself consists of a headline and eleven paragraphs. The reproduction on Free Dominion included the headline, three complete paragraphs and part of a fourth. Qualitatively, the portions reproduced are the opening "hook" of the article, and the summary of the facts on which the article was based. Most of the commentary and original thought expressed by the author is not reproduced. 
+ 
+ 
+ 
+ [26] 
+  Most of the other factors are not directly relevant in this case given the circumstances in which the applicant obtained the copyright: he does not appear to "use" the subject matter of the copyright in the sense of reproducing or publishing the Kay Work. It is a highly critical article about the applicant and it appears he sought the exclusive license to the Kay Work in order to prevent its further publication. 
+ 
+ 
+ 
+ [27] 
+  It does not appear that the excerpts of the Kay Work were reproduced to "save time and effort". Based on the context of the posting, the respondents reproduced portions of the Kay Work to preserve a record of the facts summarized in the article, so that members of Free Dominion could continue to discuss those facts on the forum. Also, contrary to the applicant's argument, the reproduction does include a summary or paraphrase of part of the work, specifically the second paragraph. 
+ 
+ 
+ 
+ [28] 
+  Thus, considering the matter as a whole, I find as a fact that the applicant has not established that the excerpts of the Kay Work reproduced by the respondent constitute a "substantial part" of the work, and there is therefore no infringement. 
+ 
+ 
+ 
+ Fair Dealing for the Purposes of News Reporting 
+ 
+ 
+ 
+ [29] 
+  In the alternative, even if the reproduced portions of the Kay Work amount to a substantial part, I find that the respondents' reproduction constitutes fair dealing for the purposes of news reporting, pursuant to section 29.2 of the  
+ Copyright Act 
+ . 
+ 
+ 
+ 
+ [30] 
+  The SCC's decision in  
+ FRAGMENT_SUPPRESSED 
+  sets out important guiding principles in applying the fair dealing exception. The SCC emphasized at paragraph 48 that fair dealing is best understood as an integral part of the copyright regime and as a user's right, rather than a defence. In order to avail themselves of the exception the respondents must establish first, that the dealing was for one of the purposes articulated in section 29 of the  
+ Copyright Act 
+ , and second, that the dealing was fair. 
+ 
+ 
+ 
+ [31] 
+  The SCC stated in  
+ FRAGMENT_SUPPRESSED, that the fair dealing purposes (in that case, research) "must be given a large and liberal interpretation in order to ensure that users' rights are not unduly constrained." Applying this large and liberal interpretation to news reporting, I find that the respondents' dealing in respect of the Kay Work falls within this purpose. They posted the excerpts of the Kay Work on Free Dominion to promulgate the facts recounted in that article. Thus, the first criterion for fair dealing is met. The news reporting exception also requires that the source and author be mentioned, which is also satisfied in this case. 
+ 
+ 
+ 
+ [32] 
+  The SCC set out several factors that may be relevant in determining whether dealing is fair in  
+ FRAGMENT_SUPPRESSED: 
+ 
+ 
+ 
+FRAGMENT_SUPPRESSED 
+ 
+ 
+ [33] 
+  These factors militate in favour of a finding of fair dealing in this case. As discussed above, the dealing was for one of the allowable purposes under the  
+ Copyright Act 
+ . The amount of the dealing was very limited. The reproduced portion of the Kay Work contained mostly facts and did not contain most of the original commentary by the author. The nature of the work favours a finding of fair dealing. The Kay Work is not currently published, which supports a finding of fair dealing because one of the purposes of copyright law is to promote wider dissemination of works:  
+ FRAGMENT_SUPPRESSED. Furthermore, the dealing is not competing with the applicant's use of the Kay Work because he does not seek to publish it. 
+ 
+ 
+ 
+ [34] 
+  Some of the factors weigh less strongly in favour of a finding of fair dealing: there was arguably an alternative to the dealing, namely providing a summary of the Kay Work instead of reproducing excerpts. Also, the character of the dealing does not strongly support a finding of fair dealing. The excerpts are widely distributed on the internet as opposed to the making of a private copy. However, balancing all the factors together, I find that the reproduction of the Kay Work falls within the fair dealing exception for the purposes of news reporting. 
+ 
+ 
+ 
+ [35] 
+  Thus, because the reproduction of the Kay Work did not constitute a substantial part, and even if it did, the reproduction falls within the scope of fair dealing for the purposes of news reporting, the application in respect of the Kay Work is dismissed. 
+ 
+ 
+ 
+ Barrera Work 
+ 
+ 
+ 
+ [36] 
+  The application in respect of the Barrera Work must fail because any communication of the Barrera Work by telecommunication was authorized by the applicant. Communication of a work by telecommunication will only constitute infringement if it was unauthorized. In  
+ FRAGMENT_SUPPRESSED 
+ , the Copyright Board held at page 19 that making a work available on an internet website accessible to the public constitutes authorization of communication by telecommunication: 
+ 
+ 
+ 
+FRAGMENT_SUPPRESSED 
+ 
+ 
+ [37] 
+  The evidence is clear that the Barrera Work was posted on the applicant's personal website and thus the communication of the Barrera Work occurred by creating a hyperlink to the applicant's own website. Thus, the applicant authorized communication of the Barrera Work by posting it on his website and therefore there is no infringement. 
+ 
+ 
+ 
+ [38] 
+  Counsel for the applicant argued that the respondents cannot rely on the fact that the Barrera Work was posted on the applicant's website because that would amount to "blaming the victim". However, the applicant is only a victim of infringement if the respondents did something only he has the right to do  
+ without his authorization 
+ . As the respondents submit, the Barrera Work was within the applicant's full control and if he did not wish it to be communicated by telecommunication, he could remove it from his website, as he eventually did. 
+ 
+ 
+ 
+ [39] 
+  Therefore, the application in respect of the Barrera Work is also dismissed. 
+ 
+ 
+ 
+ Damages/Costs 
+ 
+ 
+ 
+ [40] 
+  The respondents submit that the applicant has brought the administration of justice into disrepute by making this application and that since it constitutes an abuse of process, the Court should award punitive or exemplary damages against the applicant. I agree with the applicant that the defence of abuse of process is not applicable in this case. The application was not frivolous or vexatious, nor have the respondents shown that the applicant unnecessarily lengthened the proceedings or brought unnecessary motions. 
+ 
+ 
+ 
+ [41] 
+  It appears that what the respondents are actually arguing is that the application is an abuse of process because it was brought for an improper, collateral purpose. The applicant was not seeking to exercise his copyright, but rather was using the copyright regime as a means to harass the respondents because of their political views. Thus, what the respondents appear to argue is actually the tort of abuse of process; however, that is a separate action that must be brought by the respondents. The Court makes no comment on whether the tort of abuse of process could be established in this instance. 
+ 
+ 
+ 
+ [42] 
+  The respondents also ask that the Court grant costs on the highest scale permitted. However, they again have not presented any evidence of conduct of the applicant during this proceeding that would warrant a higher cost award than the norm. Therefore, party-and-party costs in accordance with Column III of Tariff B are awarded. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [43] 
+   
+ THIS COURT'S JUDGMENT is that 
+  the application for judicial review is dismissed with costs to the respondents. Party-and-party costs in accordance with Column III of Tariff B are awarded. 
+ 
+ 
+ 
+ Application dismissed. 
+ 
+ 
+ 
+ Editor: Gary W. McLaughlin/vnh 
+ 
+ 
+ 
+

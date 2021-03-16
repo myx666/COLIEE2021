@@ -1,0 +1,558 @@
+[1]
+Snider, J.
+: The Applicants (collectively referred to as "P&G") make and sell the only approved etidronate disodium drug product for the treatment of osteoporosis in Canada -the Didrocal® kit. The Didrocal® kit is used in an intermittent cyclical therapy ("ICT") for treating osteoporosis, which consists of three main steps: (1) a low effective dose of etidronate is administered to the patient for 14 days; (2) after the 14 day period, a placebo or a calcium supplement is administered for 76 days; (3) the cycle is then repeated. The Didrocal® kit and ICT are protected by Canadian Patent No. 1,338,376 (the "'376 patent"). The '376 patent, which expires on April 9, 2008, consists of two groups of claims described as the "use" claims and the "kit" claims (discussed below).
+[2]
+Litigation between P&G and Genpharm over the '376 patent has been ongoing since October 1999. Prior proceedings resulted in the issuance of an Order of prohibition, which was affirmed by the Federal Court of Appeal (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 496 (F.C.T.D.), affd. (2002), 291 N.R. 339; 20 C.P.R.(4th) 1 (F.C.A.)), leave to appeal to S.C.C. denied (herein referred to as "
+P&G 2001
+").
+[3]
+On December 19, 2001, Genpharm served a Notice of Allegation ("NOA") alleging that its proposed etidronate disodium combination drug product for treating osteoporosis - GEN-ETI-CAL CAREPAC - will not infringe certain claims in the '376 patent and that, in any event, this patent is invalid. In the NOA and the Detailed Statement that forms part of the NOA, as is relevant to the claims in issue in this application, Genpharm alleges that:
+- the '376 patent - including both the "kit" claims and the "use" claims - is not valid in that what is claimed therein is not novel, or is obvious or both; and;
+- claims 7 to 12 (the "kit" claims) of the patent will not be infringed by the making, constructing, using or selling by Genpharm of its product;
+- its product will not infringe any of the "kit" claims, since the calcium tablets (the second phase of the ICT) will be provided loose in a bottle rather than in a blister pack.
+[4]
+Although Genpharm initially alleged that the patent was invalid for reasons of both obviousness and anticipation, it did not pursue the anticipation argument at the hearing. I also note that Genpharm makes no allegation of non-infringement of the "use" claims of the '376 patent.
+[5]
+In this application, commenced by way of Notice of Application dated February 1, 2002, P&G request that an order of prohibition be issued pursuant to section 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 ("
+Regulations
+") preventing the Minister of Health ("Minister") from issuing a Notice of Compliance ("NOC") under section C.08.004(4) of the
+Food and Drug Regulations
+, C.R.C., c. 870 to the Respondent, Genpharm Inc. ("Genpharm"), for its product GEN-ETI-CAL CAREPAC.
+Issues
+[6]
+The parties are agreed that the issues are as follows:
+1. Is Genpharm's allegation of patent invalidity due to obviousness justified?
+2. Is Genpharm's allegation of non-infringement of the "kit" claims justified?
+[7]
+Genpharm also raises the question of whether the "kit" claims fall outside the definition of "medicine" under section 2 of the
+Regulations
+. If they do, Genpharm would not be required to allege non-infringement of these claims. Since I regard this argument to be part of Genpharm's non-infringement argument, I will deal with it when I consider this issue.
+[8]
+From the outset, it is important to be clear about the consequences that will follow if Genpharm succeeds on any of the issues it raises. The critical issue for Genpharm is its allegation of invalidity due to obviousness. If the '376 patent is found to be valid, Genpharm's product will infringe the use claims of this patent. This is because the therapy that Genpharm seeks to market is identical to that which P&G claim in its patent. In a previous proceeding concerning the '376 patent (
+P&G 2001
+, supra), the Federal Court of Appeal determined that "if a patient used the Genpharm product for osteoporosis, the use claims of P&G's '376 patent would be infringed". In that case, Genpharm tried to distinguish its product, Gen-etridonate (which contains the same components as the GEN-ETI-CAL CAREPAC kit, the product before me in these proceedings), by arguing that it would not be used for the treatment of osteoporosis, as claimed in the '376 patent, but rather, for the treatment of Paget's disease and hypercalcemia of malignancy. In this case, Genpharm is openly attempting to market its product for the treatment of osteoporosis. There is nothing to distinguish this aspect of the prior decision of the Court of Appeal from the case before me. Accordingly, unless the '376 patent is invalid, Genpharm would be infringing the '376 patent.
+[9]
+It was agreed by the parties that the only claims that are at issue in this application are "kit" claims 7 to 12 and "use" claims 25 to 30 of the patent.
+Preliminary Matter
+[10]
+During the preliminary skirmishes leading to this hearing, Genpharm brought a motion before this Court for dismissal of the application of P&G. The basis of the motion for dismissal was that the '376 patent was not submitted to the Minister within 30 days of its issue by the Patent Commissioner and was, accordingly, ineligible for inclusion on the Patent Register. Without a valid registration, Genpharm submitted, there could be no foundation for P&G's prohibition application.
+[11]
+Genpharm's motion was dismissed by Justice Gauthier of this Court. A majority of the Federal Court of Appeal dismissed an appeal of that decision, and held that the eligibility of the '376 patent to be included on the Patent Register could not be raised in these proceedings (
+ <FRAGMENT_SUPPRESSED> ; 313 N.R. 380 (C.A.) (referred to herein as "
+P&G 2003
+")).
+[12]
+The majority of the Court based their decision on an application of the doctrine of issue estoppel. The Court found that:
+1. The parties to the appeal and to the earlier litigation in
+P&G 2001
+, supra, were the same.
+2. The previous judicial decision was final, as a prohibition order did in fact issue, and an appeal of that order was dismissed by the Federal Court of Appeal.
+3. Genpharm had previously raised and argued the issue of ineligibility in the earlier case of
+P&G 2001
+and, although the Court did not explicitly address the eligibility issue in its decision, the decision "must be taken to have implicitly determined that the '376 Patent was eligible for inclusion on the Patent Register" (
+P&G 2003
+, supra, at para. 21).
+[13]
+Having found that the requisite elements for issue estoppel were present, the Court concluded that Genpharm could not raise the issue of ineligibility in these proceedings.
+[14]
+Since the Reasons for Judgment were only available after the close of this hearing, parties were given an opportunity to provide submissions in respect of their impact.
+[15]
+P&G submit that the practical effect of the decision of the Federal Court of Appeal is that eligibility of the '376 should not be raised in this proceeding. However, I note that the issue of eligibility before me in this proceeding differs from that before either the motions judge or the appeal court. While the issue of ineligibility was the subject of the Court of Appeal's decision, in this case, Genpharm's main argument is that of invalidity due to obviousness. Although Genpharm could have (and likely should have) argued this issue as part of its submissions in
+P&G 2001
+, supra, it did not do so. On the other hand, it was open to P&G to argue that Genpharm was estopped from raising the validity of its '376 Patent in these proceedings; it did not do so until these submissions on the impact of the
+P&G 2003
+, supra, decision. Because of the difference in the issue and in the absence of a full record of argument on the application of estoppel to the arguments in this case, I will proceed to deal with the issue of obviousness on its merits.
+[16]
+It is less clear, however, whether the doctrine of issue estoppel as discussed in
+P&G 2003
+, supra, applies to the issue raised by Genpharm of whether the "kit" claims fall outside the definition of "medicine" under section 2 of the
+Regulations
+. In raising this issue, Genpharm is directly addressing the question of eligibility of the patent, a matter that was implicitly considered by the Court in
+P&G 2001
+. This appears to fall squarely within the decision of the Federal Court of Appeal. However, on the basis of the limited arguments before me, I am not satisfied that this particular eligibility argument was considered in the context of
+P&G 2001
+. Accordingly, I will consider the merits of the question.
+Construction of the Patent
+[17]
+Before turning to the issues of invalidity and infringement, I must identify the essential elements of the invention claimed by P&G in its '376 patent (
+ <FRAGMENT_SUPPRESSED> , at para. 43).
+[18]
+The '376 patent contains two types of claims. Claims 17-37 are directed to the use of polyphosphonates, such as etidronate, that inhibit bone resorption. Claims 1-16 cover a kit for the treatment and prevention of osteoporosis.
+[19]
+As noted, the '376 patent has already been the subject of litigation between P&G and Genpharm prior to these proceedings. Accordingly, it seems appropriate to consider how this patent was construed in these previous decisions. Indeed,
+"Where the Court has previously construed the same patent, particularly a construction upheld on appeal, the Court, in another proceeding involving different alleged infringers, would require strong argument to come to a different view." (Roger T. Hughes and John H. Woodley,
+Patented Medicines - Notice of Compliance
+CD-ROM:
+Hughes and Woodley on Patents
+, Release 19, July 2003 (Markham: LexisNexis Canada Inc.) at s. 18A)
+[20]
+Justice McKeown of the Federal Court in
+P&G 2001
+, supra, at paras. 3-5, cited the summary of the invention in the '376 patent as follows:
+"The present invention relates to a method of treating or preventing osteoporosis, in humans or lower animals afflicted with or at risk to osteoporosis, utilizing a regimen comprising two or more cycles, whereby each cycle comprises a period of from about 1 day to about 90 days during which a bone resorption inhibiting polyphosphonate is administered daily in a limited and effective amount, and a rest period of from about 50 days to about 120 days during which no bone resorption inhibiting agent is administered.
+"The present invention further relates to a kit for use in the above-described cyclic regimen, said kit containing the following components: from about 1 to about 90 daily doses, with each daily dose containing a limited and effective amount of a bone resorption inhibiting polyphosphonate; from about 50 to about 120 daily doses of a placebo or a nutrient supplement; and a means for having the components arranged in a way as to facilitate compliance with the regimen."
+[21]
+On appeal, Justice Rothstein, at paras. 30-31, described the invention in the '376 patent as follows:
+"The invention in P&G's '376 patent includes the use of etidronate disodium in intermittent cycles for the treatment of osteoporosis. P&G calls this product Didrocal. P&G submits that its patent claims in the '376 patent for the use, in intermittent cycles, of a polyphosphonate, i.e. etidronate disodium, for the treatment of osteoporosis would be infringed by Genpharm ..."
+[22]
+From these decisions, the essential components of the '376 patent can be distilled and summarized as follows:
+1. In respect of the "use" claims:
+a. Use of etidronate at a limited effective dose ("LED") to treat osteoporosis;
+b. Intermittent administration in a regimen, which consists of two stages:
+i) use of etidronate; and
+ii) a rest period during which the patient takes a placebo or nutrient such as calcium.
+c. Use on a cyclical basis.
+2. In respect of the "kit" claims:
+a. A kit for the treatment of osteoporosis:
+i) containing components of etidronate and a placebo or nutrient such as calcium; and,
+ii) a means of arranging these components to facilitate compliance with the regimen.
+[23]
+Genpharm claims that nowhere in the '376 patent is it clearly stated that a bone cell activator is not part of the ICT therapy. For this reason, Genpharm submits that a bone activation compound could form part of the treatment in the '376 patent. I do not accept this argument. In the broadest "use" and "kit" claims in the '376 patent, P&G explicitly define their therapy cycle as consisting of two phases: etidronate and then a rest period where either a nutrient, such as calcium, or a placebo is administered. After this rest period, the cycle is repeated by administering etidronate again. There is no third phase, meaning there is no room in the cycle where a bone activation compound could be administered. For this reason, I do not accept Genpharm's claim that the '376 patent is ambiguous as to whether a bone activation compound forms part of the ICT therapy. It is obvious that it does not.
+[24]
+In its description of the essential elements of the patent, P&G included, under both the "use" claims and the "kit" claims, the essential element that the regimen should be followed for "two or more cycles". However, defining the therapy as intermittent and cyclical necessarily implies that etidronate is not just administered once. Genpharm used the requirement of two cycles to argue that its kit of only one cycle would not infringe. However, the cyclical nature of the regimen is captured not by the "kit" claims, but by the "use" claims. This is evidenced by the wording in the '376 patent, which ties the concept of a cycle to the treatment and not to the definition of the kit itself. For example, claim 1 reads:
+"A kit for use in the treatment or prevention of osteoporosis, in humans or lower animals afflicted with or at risk to osteoporosis,
+according to a regimen comprising of two or more cycles
+... and a means for having the components arranged in a way as to
+facilitate compliance with the regimen
+." (emphasis added)
+Since the regimen is by definition cyclical in nature, a kit that facilitates compliance with such a regimen will ensure that the patient does not just complete one cycle.
+[25]
+For these reasons, the presence in the kit of enough medicine for two or more cycles is not an essential element of the "kit" claims. So long as a kit facilitates compliance with the ICT therapy, the essential element of the "kit" claims in the '376 patent (assuming their validity) would be infringed.
+[26]
+Finally, in construing the '376 patent, it is imperative to remember that the "use" claims cover a regimen that is a combination invention. The ICT regimen does not consist of discrete components that operate independently and are merely juxtaposed. Rather, P&G's osteoporosis treatment results from the synergistic combination of a limited effective dose of etidronate, administered intermittently, and on a cyclical basis. This is the heart of its claimed invention:
+"It has now been discovered that bone loss can be inhibited and bone mass can be increased if certain polyphosphonates are given, in a limited amount, according to a specific regimen of intermittent, rather than chronic, dosing. This regimen forms the heart of the present invention."
+Analysis
+Issue #1: Is Genpharm's allegation of patent invalidity due to obviousness justified?
+[27]
+As Justice Binnie for the Supreme Court of Canada stated  <FRAGMENT_SUPPRESSED>  Inc. and  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 499 (S.C.C.), at para. 37, "The patent monopoly should be purchased with the hard coinage of new, ingenious, useful and unobvious disclosures." Thus, an invention should not be patentable if the subject matter was obvious. A monopoly should not be granted, nor should previous inventions be "evergreened", by the expedient of obvious or uninventive additions (
+Whirlpool Corp.
+, supra, at para. 37).
+[28]
+The parties agree that the date at which to test obviousness is presumed to be the priority filing date of June 6, 1985 (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 449, at pp. 462-463 (F.C.A.)).
+[29]
+Genpharm alleged in its NOA that, by the mid 1980s, the essential elements of the invention claimed in P&G's '376 patent were not novel and in fact obvious. Genpharm submits that references noted in the '376 patent, such as Chesnut, were all known to a person skilled in the art at the critical date. According to Genpharm's expert witness, Dr. Timothy Chambers, these references were "common general knowledge" in the field of osteoporosis research in the mid-1980s and the teachings contained therein make the invention described and claimed in the '376 patent, obvious.
+[30]
+Before considering the law on obviousness or the specific facts that the parties rely upon, it is helpful to understand the disease that P&G's product treats and Genpharm seeks to treat.
+i) Osteoporosis
+[31]
+Osteoporosis produces a decrease in skeletal bone mass and an increase in bone fragility. Net bone loss occurs due to an imbalance within the bone remodelling process, whereby bone loss (resorption) exceeds bone formation. Bone remodelling is a continuous process whereby bone breaks down and reforms. This turnover or renewal is necessary for bones to grow and for minor damage from everyday stress to be repaired. The imbalance in the bone remodelling process is believed to be the cause of osteoporosis.
+[32]
+Dr. Graham Russell in his affidavit provides a useful and succinct summary of the most accepted bone remodelling theory, reproduced below:
+"a) A BMU [basic multicellular unit] is activated (activation).
+"b) Cells called osteoclasts are mobilized at the bone surface to breakdown (or resorb) the bone. They resorb a given quantity of bone (resorption) and then move away or disappear.
+"c) Cells called osteoblasts move into the resorption cavity, build new bone to replace the bone that has been removed and then become inactive (formation). The formation stage involves both the filling in of resorption cavities as well as mineralising the newly deposited bone matrix. Mineralization occurs by the laying down of crystals of hydroxyapatite, which consists primarily of calcium and phosphate ('mineralization') to harden the bone matrix laid down by the osteoblasts during bone formation."
+[33]
+Normally, BMUs are randomly activated and resorption, formation and mineralization occur so that there is no net change in bone quantity. In osteoporotics, osteoclasts resorb more bone than osteoblasts build, thereby yielding net bone loss. Treatments for osteoporosis seek to inhibit bone resorption just enough so as to restore the proper balance between bone resorption and bone formation. The subject matter of this proceeding is a therapy for treating osteoporosis that is claimed by P&G in the '376 patent.
+ii) Legal Test for Obviousness
+[34]
+The '376 patent was issued under the prior
+Patent Act
+, R.S.C. 1970, c. P-4. No specific section in the
+Patent Act
+, as it then existed, set out the requirement of inventiveness or inventive ingenuity. According to
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 350, at 365-366 (F.C.A.), however, it is well established that, by use of the words "invention" and "inventor" throughout the
+Patent Act
+, inventiveness is required for a patent to be valid.
+[35]
+A helpful description of the skilled technician that this Court and experts giving evidence in this proceeding must contemplate when considering Genpharm's allegation of obviousness was provided by Justice Hugessen for the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289, at 294 (F.C.A.):
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+This test has been widely mentioned and followed by this Court.
+[36]
+The Supreme Court of Canada (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 145, at 155 (S.C.C.)), and Federal Court of Appeal (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 180, at 188 (F.C.A.)), have cautioned lower courts not to engage in an exercise of hindsight, as very few inventions are unexpected discoveries. The solution to the problem posed must be "plain as day" or "crystal clear" (
+ <FRAGMENT_SUPPRESSED> , at 80-81 (Ont. Gen. Div.), affd. (1998), 113 O.A.C. 1; 82 C.P.R.(3d) 526 (C.A.); leave to appeal dismissed). This Court must determine whether a mythical skilled technician would be led, based on the state of the art, to the claimed invention without conducting further experiments, serious thought or research ( <FRAGMENT_SUPPRESSED> , supra;
+Diversified Products Corp.
+, supra;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 76, at 99-101 (T.D.), affd. (2002), 291 N.R. 168 (F.C.A.)). Further, "[i]t is well-established that evidence of a 'mere scintilla of invention' is sufficient to support the validity of a patent." (
+Diversified Products Corp.
+, supra). Therefore, the simplicity of an invention is not a bar to patent validity.
+[37]
+In these proceedings, there is a rebuttable statutory presumption that P&G's patent is valid (
+Lubrizol Corp.
+, supra;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 285 (F.C.A.)). There is also, however, a rebuttable presumption that the facts alleged by Genpharm in its NOA are true (
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 302, at 319 (F.C.A.), affing. (1994), 75 F.T.R. 97; 53 C.P.R.(3d) 368 (T.D.)). Ultimately, P&G have the burden of proving, on a balance of probabilities, that the allegations of invalidity and obviousness in Genpharm's NOA are not justified (
+ <FRAGMENT_SUPPRESSED> ; 240 F.T.R. 57 (F.C.), at para. 50 (T.D.), citing from
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at 3).
+[38]
+Thus, as stated in <FRAGMENT_SUPPRESSED> , supra, at para. 9 the presumption of validity only takes P&G so far:
+"... The operation of the statutory presumption in the face of evidence of invalidity depends upon the strength of the evidence. If the evidence proves on a balance of probabilities that the patent is invalid, the presumption is rebutted and is no longer relevant:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at 359."
+[39]
+Given the legal test for obviousness, it is necessary to canvass the relevant art that existed prior to June 6, 1985.
+iii) Prior Art
+[40]
+In the late 1960s and early 1970s, it was discovered that certain compounds within the classes of polyphosphonates or bisphosphonates are able to inhibit bone resorption.
+[41]
+In the mid 1980s, only three bisphosphonates were used for the treatment of bone disorders such as Paget's disease and osteoporosis: clodronate, etidronate and pamidronate. Although the '376 patent claims the use of several polyphosphonates, this proceeding is concerned with the use of etidronate to treat osteoporosis.
+[42]
+Studies conducted prior to this date and that are relied upon by Genpharm in its NOA are as follows:
+1. Jowsey J. et al.,
+The treatment of osteoporosis with disodiumethane-1-hydroxy-1, 1-diphosphonate
+(1971)
+Journal of Laboratory and Clinical Medicine
+, 78:574-584 ("Jowsey").
+2. Russell R.G.G. et al.,
+Diphosphonates in Paget's disease
+(1974) Lancet; 1:894-898 ("Russell").
+3. Heaney R.P., Saville P.D.,
+Etidionate disodium in postmenopausal osteoporosis
+(1976) Clin. Pharmacol Ther.; 20(5):593-604 ("Heaney").
+4. Khairi M.R.A., Altman R.D., De Rosa G.P., Zimmerman, J., Schenk R.K., Johnston C.C.,
+Sodium etidronate in the treatment of Paget's disease of bone
+(1977)
+Annals of Internal Medicine
+; 87:656-663 ("Khairi").
+5. Canfield R. et al.
+Diphosphonate therapy of Paget's disease on bone
+(1977)
+Journal of Clinical Endoctrinology and Metabolism
+; 44:96-106 ("Canfield").
+6. Parfitt A.M.,
+Quantum concept of bone remodelling and turnover; implications for the pathogenesis of osteoporosis
+. (1979)
+Calcif. Tiss. Int.
+; 28:1-5 ("Parfitt").
+7. Frost H.,
+Treatment of osteoporosis by manipulation of coherent bone cell populations
+.
+Clinical Orthopaedics and related research
+. 1979; 143:227-244 ("Frost").
+8. Siris et al,
+Long term therapy of Paget's disease of bone with EHDP
+. (1980)
+Arthritis and Rheumatism
+; 23(10):1177-1184 ("Siris").
+9. Rasmussen H. et al.,
+Effect of combined therapy with phosphonate and calcitonin on bone volume in osteoporosis
+. (1980)
+Metabolic Bone Disease and Related Research
+; 2:107-111 ("Rasmussen").
+10. Harris S.T. et al.,
+Secondary hyperparathysoidism associated with dischloromethane disphosphonate treatment of Paget's disease
+. (1982)
+Journal of Clinical Endocrinology and Metabolism
+. 1982; 55:1100-1107 ("Harris").
+11. Anderson et al.,
+Preliminary observations of a form of coherence therapy for osteoporosis
+(1984)
+Calcif. Tissue Int.
+; 36:341 ("Anderson").
+12. Chesnut III.,
+C.H. Synthetic salmon calcitonin, disphosphonates and anabolic steroids in the treatment of post-menopausal osteoporosis
+(1984)
+Proceedings of the Copenhagen International Symposium on Osteoporosis
+; 549 (Chrislianson et al. ed., 1984) ("Chestnut").
+[43]
+I will now consider the evidence submitted by both parties related to Genpharm's allegation of obviousness.
+iv) Affiants
+[44]
+P&G and Genpharm each produced an expert to assist this Court in determining the obviousness, or lack thereof, of the "invention" claimed in the '376 patent. Each expert reviewed the scientific literature that preceded P&G's '376 patent claim (listed above) and rendered opinions as to whether essential elements of the "use" and "kit" claims in the '376 patent would be obvious to a skilled technician in the field by the determinative date of June 6, 1985.
+[45]
+Dr. Graham Russell, expert for P&G, is the Norman Collisson Professor of Musculoskeletal Sciences at Oxford University and Director of the Oxford University Institute of Musculoskeletal Sciences. For nearly 40 years, he has studied the biological effects of bisphosphonates and the treatment of bone disorders. He is a leading expert on bisphosphonates and clinical bone diseases and was so in the mid-1980s. This was acknowledged absolutely and without question by Dr. Chambers, expert for Genpharm. He was an "eye witness" to the evolution of treatment for osteoporosis and, in particular, to the emergence of the therapy in issue in these proceedings.
+[46]
+Dr. Timothy Chambers is Professor of Cellular Pathology and head of the Department of Cellular Pathology at St. George's Hospital Medical School, University of London, England. He is a histopathologist by training. Dr. Chambers is an expert in the cell biology of the bone and has conducted research in this field for more than 20 years.
+[47]
+Genpharm alleged in its NOA the obviousness of the following:
+i) The administration of bisphosphonates in limited amounts;
+ii) The administration of bisphosphonates intermittently rather than chronically;
+iii) The omission of a bone activation compound; and
+iv) A kit that facilitates compliance by arranging the components of the regimen within it.
+v) Evidence and Analysis
+a) Limited Effective Dose (LED)
+Evidence
+[48]
+The '376 patent claims the use of etidronate in daily dosage amounts ranging from about 0.25 x LED to about 4 x LED. This is equivalent to 1 mg/kg to about 16 mg/kg of etidronate. All of the dose ranges appear to have been established by testing the bone resorption potency of each bisphosphonate through experiments with male rats using the Schenk and TPTX models. It is possible to extrapolate human dosages from these experiments, as human dosages are proportionally related to the LEDs in the TPTX rat model.
+[49]
+According to Dr. Chambers, the studies of Siris, Heaney, Khairi, Russell, and Canfield do not teach the dose of bisphosphonate for use in osteoporosis treatment, but warn a person who is skilled in the art that he or she should limit the dose of bisphosphonate to one that prevents resorption yet avoids unwarranted side-effects. Dr. Chambers believes that these studies established the philosophy of administering the LED to a osteoporotic patient so that a person skilled in the art would choose assays such as the Schenk model and the TPTX model, which are mentioned in the '376 patent, to identify the range of doses likely to be effective. Dr. Chambers points out that Heaney suggested the use of 5 to 10 mg/kg/day to treat osteoporosis. These dosages fall within the range of doses described in the '376 patent.
+[50]
+Dr. Chambers states that Anderson used dosages within the range proposed by the '376 patent to prevent bone loss. These dosages were, therefore, in his view, obvious to a person skilled in the art. He further remarks that he is not aware of any reason why the presence or absence of a bone cell activator, which was used by Anderson, should affect the dose of bisphosphonate that one chooses to use.
+[51]
+It is Dr. Chambers' contention that Chesnut makes obvious to a person skilled in the art that the limited clodronate dosage regimen he uses is effective and that the equivalent dose for etidronate can easily be obtained using assays such as the Schenk or TPTX models. Chesnut teaches that a bisphosphonate should be administered in limited effective dosages and, since the inventions claimed in the '376 patent refer to the use of bisphosphonates generally, this prior art made the LED for etidronate obvious.
+[52]
+According to Dr. Russell, although Heaney, Khairi, Russell and Canfield indicate that one would be drawn to the LED to avoid the negative side-effects that accompany the use of etidronate at high dosages, in reality there is a range of doses that might be effective by extrapolating from studies of Paget's disease. Within the range of 1 to 7.5 mg/kg/day, there are four doses, 1, 2.5, 5 and 7.5 mg/kg/day that were studied and all of them avoided the side effect of inhibiting mineralization (bone formation). If a skilled technician were to extrapolate from these studies, he or she would have no reason to pick one dosage over the others.
+[53]
+In Dr. Russell's view, Dr. Chambers implies that 5 mg/kg/day is the only dose consistent with the definition of LED, meaning a dose that is effective without having significant side effects. However, there are a range of options available and the optimal dose for treating osteoporosis rather than Paget's disease would need to be defined. It would not be obvious to the skilled technician because there is no precedent from the studies on etidronate in osteoporosis that could be used to predict effective doses.
+[54]
+As well, one ought not to extrapolate from Paget's disease to osteoporosis because early studies in Pagetic patients were directed at determining the maximum tolerated dose of bisphosphonate that could be administered. The approach taken was to treat Pagetic patients aggressively over the short term, whereas the objective in osteoporosis treatment is to increase net bone mass over the long term. For these reasons, the dosages of bisphosphonates used in Paget's disease studies would not be extrapolated by a skilled technician to treat osteoporosis.
+[55]
+Dr. Russell disagrees with Dr. Chambers that Siris teaches a general approach for altering dosages to maximize effectiveness and decrease side effects. In the Siris study, side-effects were accepted as part of the treatment as were high doses of etidronate. Siris attempted to obtain an optimal response with high doses of etidronate administered in the short term and counterbalanced this with an off-drug interval to allow the body to repair the damage caused by side effects. Dose-related experimentation would still, therefore, be necessary to determine the effective dose of etidronate, free of side effects, for osteoporotic patients who would be treated over several years, and not just in the short term.
+[56]
+Contrary to what Dr. Chambers states, Dr. Russell asserts that the Schenk and TPTX assays are first line assays and, therefore, would define only the range of doses that might be effective in animals, not the LED for treating humans under disease conditions.
+[57]
+Dr. Russell contends that Heaney only studies a dose of 20 mg/kg/day of etidronate and concluded that etidronate is not likely to be of therapeutic benefit in osteoporosis. Heaney went on to speculate that a dose of 5 to 10 mg/kg/day of etidronate might be effective but does not suggest a regimen. According to Dr. Russell, it was by no means obvious what would happen if this dose of etidronate was administered intermittently to treat osteoporosis. Dr. Chambers admitted on cross-examination that, although Heaney suggested a lower dose of etidronate might be worth trying, he does not say that it will work.
+[58]
+Dr. Russell distinguishes Anderson's use of the dose of etidronate used in the '376 patent by pointing out that this dose was used in the context of Anderson's protocol, the coherence theory, which includes use of a bone cell activator. According to Dr. Russell, it was not known in the mid 1980s whether this dose would work outside of the coherence theory. As well, the coherence theory at this time had not been investigated in detail and so the role of each factor was not known.
+[59]
+Chesnut is distinguished by Dr. Russell on several grounds. First, Dr. Russell asserts that Chesnut does not disclose the optimal clodronate dosage regimens contained in the '376 patent and, therefore, Dr. Chambers incorrectly compares clodronate and etidronate. Dr. Chambers claims that the optimal etidronate dosage can be extrapolated from a possibly non-optimal (mid-range) dose of clodronate. Chesnut's mid-range dosage of clodronate would not directly lead a person skilled in the art to the limited dosage of etidronate. Chesnut's dosage would also not suggest any predictable results with etidronate, given that these compounds have different potencies.
+[60]
+Dr. Chambers admitted on cross-examination that clodronate is a more potent bone resorption inhibitor than etidronate, meaning that one can administer more of it without side-effects. He further admitted that Chesnut used a dose of clodronate that is 8 times the LED claimed in the '376 patent. He did not consider this as a barrier, however, to arriving at the LED for etidronate based on Chesnut's findings.
+Analysis
+[61]
+I accept Dr. Russell's evidence that the LED of etidronate claimed in the '376 patent would not have been "crystal clear" or "plain as day" to a skilled technician at the critical date.
+[62]
+Dr. Chambers' evidence, even if sound, misses the point of the legal exercise that this Court must engage in. Dr. Chambers seems to contemplate an inventor rather than a mythical uninventive skilled technician. Dr. Chambers essentially claims that the etidronate dosage range that is claimed in the '376 patent is obvious because one can extrapolate and infer it from an array of studies. Simply put, Dr. Chambers is telling this Court that a skilled technician would infer the following:
+1) from Siris, Khairi, Russell, Canfield (Paget's disease studies), and Heaney (osteoporosis study), that treatment of osteoporosis is achieved by administering the LED of a bisphosphonate and then either,
+2a) from Anderson, that the same dosage used by Anderson, which is claimed in the '376 patent, can be used even without a bone cell activator, or
+2b) from Chesnut, that the dosage of clodronate can be extrapolated to arrive at the dosage for etidronate.
+[63]
+Genpharm claims that P&G draw an artificial distinction between Paget's disease and osteoporosis to argue that studies of the former cannot inform a skilled technician in the field of the latter. This argument is directed at proving the validity of inference (1) mentioned above but does not take Genpharm far at all. This is because, even if I accept the first inference set out above, I take issue with inferences 2(a) and 2(b). The inferences that Dr. Chambers claims that a skilled technician would draw from Anderson and Chesnut's studies would require at least a scintilla of invention.
+[64]
+Anderson's study was premised upon Frost's coherence theory, meaning he used a bone cell activator in his study. I accept Dr. Russell's comments that, in the mid-1980s, it was not clear which factors of the coherence theory were effective and which were not. Given this uncertainty, I find it difficult to accept that a skilled technician, at that time, would think it obvious that the dosage used by Anderson in his study would be effective or appropriate without the use of a bone cell activator.
+[65]
+Dr. Chambers deposed that he sees no reason for a skilled technician not to take an element of the coherence theory and apply it outside of that context. This is not the same as saying that it would be obvious to do just that at that time. Since it was not clear which elements of the coherence theory were effective, the dosage used by Anderson would have to be tested to see if it is effective without an activator. This moves Dr. Chambers skilled technician away from being one that applies mechanistic skill to one that innovates. Such a technician falls outside the scope of the legal test for obviousness. I must be mindful of how obvious a thing may appear in hindsight, once it is disclosed clearly in a patent. Dr. Russell's comments on this issue seem to be more situated in the context in which this Court must conduct its analysis, that being what was actually known at the time.
+[66]
+As for Chesnut's study, I accept the evidence of both experts that clodronate and etidronate have different potencies. I further accept Dr. Russell's comments that etidronate has a relatively strong tendency to inhibit bone mineralization. As well, both Drs. Russell and Chambers agree that Chesnut's study used a dose of clodronate that was 8 times the LED of clodronate claimed in the '376 patent. For these reasons, the dosage of clodronate used by Chesnut cannot be extrapolated to arrive at the etidronate dosage range claimed in the '376 patent. Even Chesnut himself distinguished between the two bisphosphonates by concluding with a proposal that a study be carried out using etidronate in conjunction with a bone cell activator. In his 1984 study, Chesnut stated:
+"Whether other disphosphonates (EHDP [etidronate], APD) share in this apparent beneficial effect on bone is unproven."
+[67]
+This suggests that, although similar, prior art still treated clodronate and etidronate as possessing distinct properties. Dr. Chambers admitted on cross-examination that, from what Chesnut says about etidronate, one would not know how much of it he would be dosing if he carried out his proposed study. It seems, therefore, that the dosage of clodronate used by Chesnut would not obviously lead to a range of dosages for etidronate.
+[68]
+Genpharm points out, however, that the different potencies of these bisphosphonates are accounted for by using the Schenk model and the TPTX rat model, both of which are relied upon in the '376 patent, to determine the LED for each one. This argument, however, overlooks the fact that the mythical skilled technician does not conduct further tests, serious thought or research to arrive at the invention claimed. To accept Genpharm's argument would expand the scope of the legal test for obviousness. This is because the mythical skilled technician, would, after reading Chesnut's study using clodronate and cognizant that it has a different potency than etidronate:
+1) Carry out tests using the Schenk and TPTX rat models to arrive at the range of etidronate dosages for rats; and,
+2) Use this data to extrapolate the dosages for humans claimed by P&G in its '376 patent.
+This, in my view, goes well beyond current legal understanding of obviousness.
+[69]
+For these reasons, I do not think that the etidronate dosage range claimed by P&G in its '376 patent would be obvious to a skilled technician at the critical date, June 6, 1985. Even if the LED of etidronate was previously known, my task is to assess whether the combination invention claimed by P&G was obvious at the critical date. For completeness and clarity, however, I will continue to consider the evidence as it relates to each component of P&G's therapy.
+b) Intermittent Administration of Etidronate
+Evidence
+[70]
+Dr. Chambers claims that at the critical date, it was obvious that, to avoid the deleterious effects of etidronate, intermittent rather than prolonged therapy was preferred. He states that this is evidenced by the use of intermittent therapy by Khairi and Siris to treat Paget's disease.
+[71]
+Dr. Chambers deposed that Chesnut, although a study involving the use of clodronate, teaches that bisphosphonates generally should be administered intermittently. He adds that even the '376 patent claims that bisphosphonates should be administered intermittently and that the patent does not specifically refer to etidronate in this respect.
+[72]
+According to Dr. Chambers, Rasmussen stated that calcitonin, a hormone, can be used like a bisphosphonate to inhibit bone resorption in osteoporosis and that when used intermittently, there was an increase in bone volume. Dr. Chambers relies on Rasmussen's findings for the proposition that a person skilled in the art would be led to consider the possibility that intermittent therapy for osteoporosis with resorption-inhibitors is preferable to continuous treatment.
+[73]
+Finally, Anderson found that when osteoporotic patients are given intermittent etidronate in combination with a bone cell activation agent, there is a marked increase in net bone mass. According to Dr. Chambers, although Anderson attributes his distinct findings to the combination of intermittent diphosphonate with an activation agent, a person skilled in the art would note that Chesnut's experiment also resulted in increased bone mass using intermittent clodronate alone and would be led to the conclusion that it is the intermittent nature of the bisphosphonate therapy, and not inclusion of the activation agent, that is the essential component of the therapy.
+[74]
+Dr. Russell takes a different position. He states that the negative side effects observed in studies using etidronate were attributed to the high doses of etidronate that were used in those studies, and not to the duration of dosing. This means that a person skilled in the art would not be led to intermittent dosing to avoid the mineralization inhibiting effects of etidronate. Dr. Russell asserts that there is no support in the medical literature for Dr. Chambers' statement that a person skilled in the art would know that the deleterious effects of etidronate can be mitigated by intermittent therapy.
+[75]
+Dr. Russell alleges that Dr. Chambers mischaracterizes the Chesnut reference by suggesting that Chesnut reported an increase in bone mass. Chesnut reported the total amount of calcium in the body using the neutron activation analysis method. This method measures the total amount of mineral calcium in the body, but its anatomical location is not defined, meaning the results do not provide a full picture of the efficacy of his study in increasing bone mass at critical sites within the skeleton. Chesnut himself cautions that his observations cannot be applied to other bisphosphonates that he did not study, such as etidronate. For this reason, Dr. Russell states that Dr. Chambers is unjustified in claiming that a skilled technician would know that similar results would likely occur with other bisphosphonates.
+[76]
+Dr. Russell asserts that Dr. Chambers overstates what is taught in the Chesnut reference. According to Dr. Russell, Chesnut does not teach that a bisphosphonate should or even could be administered intermittently. At best, Chesnut's results provide an interesting result for treating osteoporotics with clodronate that requires further experimentation and explanation.
+Analysis
+[77]
+I agree with Dr. Russell that none of the literature ties the continuous use of etidronate to the negative side-effects that it causes. Rather, the literature attributes the negative side effects of etidronate to the high dosages that were administered in various clinical trials.
+[78]
+Dr. Chambers cannot point to a study where the deleterious side-effects of etidronate on bone mineralization were attributed to continuous use. Further, neither Chesnut nor Anderson attribute their positive findings to the intermittent administration of bisphosphonates.
+[79]
+In Siris, where a high dose of etidronate was administered intermittently, the rest periods were regarded as necessary to heal the damage caused by the high doses and not as beneficial in terms of reducing the deleterious side-effects of etidronate. In fact, Dr. Chambers admitted in cross-examination that Siris's treatment is distinct from the rest period in the '376 patent because Siris uses this period to repair defects in mineralization caused by administering high doses of etidronate. Dr. Chambers' comments reinforce what has already been suggested, which is that the prior art must point to the obviousness of the combination invention in the '376 patent, not just each discrete element of it. I also note that Siris' study was aimed at arresting and slowing the destruction of bone caused by Paget's disease, whereas P&G's ICT therapy is aimed at generating a net increase in bone mass.
+[80]
+Dr. Chambers's reliance on Rasmussen does not persuade me that intermittent therapy using etidronate was obvious. Rasmussen's study, which involved the intermittent use of a hormone and a bone activation compound, does not speak to the likelihood of whether using bisphosphonates intermittently without an activator would be beneficial in treating osteoporosis. Dr. Chambers is essentially saying that Rasmussen teaches the skilled technician that experimenting with the intermittent administration of bisphosphonates is "worth a try". This is not sufficient to conclude that the idea of administering etidronate intermittently was not inventive (
+Bayer AG
+, supra, at p. 84).
+[81]
+Finally, I do not need to consider Dr. Russell's comments regarding the teachings of Chesnut, because I find Dr. Chambers' reasoning related to this and Anderson illogical. Dr. Chambers is basically submitting that, since Anderson obtained positive results in his study, which included the use of a bone cell activator, and Chesnut also obtained positive results, but without using an activator, a skilled technician would obviously conclude that an essential component of the therapy is the intermittent administration of a bisphosphonate, not the use of an activator.
+[82]
+This line of reasoning, though attractive at first blush, is flawed. This is because Dr. Chambers ignores the fact that both studies also involved the use of bisphosphonates, which Dr. Chambers seems to accept is also an essential component of the therapy. Given this, it does not seem possible that a skilled technician would see as "plain as day" that the positive findings in both studies can be attributed to the intermittent administration of bisphosphonates, and not simply the bisphosphonates themselves. At its heart, my rejection of Dr. Chambers' views on this issue is simply another manifestation of Dr. Russell's earlier comments that nothing in the literature draws a clear connection between reduction in the side-effects of etidronate and intermittent administration.
+[83]
+For these reasons, I conclude that the intermittent administration of etidronate was not obvious as of the critical date.
+c) Omission of Bone Resorption Activator
+Evidence
+[84]
+The osteoporosis treatment regimen claimed in the '376 patent does not include the administration of a bone cell activator, such as phosphate, which is an essential part of Frost's coherence theory and was applied by Anderson and Rasmussen in their studies. The ICT in the '376 patent is a regimen consisting of only two components: a bisphosphonate and a rest period where calcium carbonate or a placebo is taken. The prior art relating to use of a bone cell activator was commented upon by both Drs. Russell and Chambers. It is worth briefly reviewing this evidence, as it does provide a clearer picture of what was known as of the critical date. Though not an essential element in and of itself, studies relating to the use of a bone cell activator will assist the Court in determining whether the prior art was truly aligned and pointing toward a two phase cyclical therapy of the kind found in the '376 patent.
+[85]
+Dr. Chambers admitted on cross-examination that the ICT in the '376 patent is distinct from the coherence theory, which is premised on the use of a bone cell activator. He believes, however, that Chesnut's results make it obvious to a person skilled in the art that a bone cell activating compound can be omitted from a treatment for osteoporosis. Chesnut's results show a substantial increase in bone mass in osteoporotic patients and this makes it obvious that an intermittent regimen of bisphosphonates, either clodronate or etidronate, can be used to treat osteoporosis.
+[86]
+Dr. Russell states that Chesnut's results, contrary to what Dr. Chambers asserts, do not show a substantial increase in bone mass, but suggest an increase in measured body calcium in his patients. Chesnut does not explain his results in that he does not suggest that an intermittent regimen is an effective treatment or that a bone cell activator should or should not be used in an osteoporosis treatment regimen. As well, his failure to use an activator does not make obvious that a bone cell activating compound can be omitted in all cases. This is because Chesnut's omission of the activator can be explained by an increase in parathyroid hormone ("PTH") that results from the use of clodronate. PTH is responsible for maintaining appropriate levels of blood calcium. When resorption is inhibited by clodronate, calcium levels in the blood fall because less calcium is removed from the bone. Consequently, PTH is secreted to replenish the level of calcium in the blood. This adaptive response is not induced by etidronate. For these reasons, Dr. Russell states that Chesnut's results would not be expected if etidronate was used without an activator, which is noted by Chesnut when he suggests a follow-up study using etidronate and an activator.
+[87]
+Dr. Chambers admitted on cross-examination that Chesnut recommends using etidronate and an activator and that a person skilled in the art in the mid-1980s would have known that clodronate triggers a PTH response, as this was published.
+Analysis
+[88]
+I prefer Dr. Russell's comments to those of Dr. Chambers. The ICT in the '376 patent does not include the use of an activator and no studies in the mid-1980s disproved the coherence theory. Dr. Chambers agrees that Chesnut himself believed that an activator needed to be used in conjunction with etidronate. I accept that this is likely because of the PTH response that is triggered by clodronate and not by etidronate. Both experts agree that this response was part of the common general knowledge at that time. This PTH response would direct the skilled technician away from using clodronate and etidronate in the same manner. As well, given the technological limits in measuring the effectiveness of osteoporosis treatments in the mid-1980s, which is acknowledged by both experts, it cannot be said that Chesnut's results indicated a substantial increase in bone mass. If this is true, which I believe it is, it cannot be said that a skilled technician would obviously conclude that a bone cell activator is not an essential component for an osteoporosis treatment.
+d) Kit
+Evidence
+[89]
+The kit claimed by P&G in the '376 patent is described as a means "for having the components arranged in a way as to facilitate compliance with the regimen".
+[90]
+Dr. Chambers states that kits of the kind stated in the '376 patent, with both drug-administered and drug-free periods, are well known in the art. He refers to a Data Sheet Compendium in support of this proposition. As well, Dr. Chambers states that United Kingdom Patent No. 1,024,135 and U.S. Patent No. 3,568,828 refer to packs that assist therapies requiring cyclical or periodic administration.
+[91]
+Dr. Russell reviewed the teachings of the Data Sheet Compendium referred to by Dr. Chambers and distinguished the references contained therein from the kit claimed by P&G in the '376 patent. He states that the Data Sheet Compendium reports contraceptive kits, which consist of an active medicine and placebo arranged in accordance with the menstrual cycle. According to Dr. Russell, such kits can be distinguished because they are not directed at facilitating compliance with a regimen for treating osteoporosis, which includes a supply of etidronate and a placebo or nutrient supplement. A menstrual cycle is a natural cycle and, therefore, distinct from a cyclical therapy for bone that is based on theoretical predictions of how to optimise the effects of various drugs on inhibiting bone resorption. Just as an intermittent therapy would not have been contemplated in the mid-1980s, Dr. Russell holds the opinion that a kit to ensure compliance with the proposed osteoporosis treatment regimen was also an innovative step in this field.
+Analysis
+[92]
+I agree with Dr. Chambers that, at the critical date, a skilled technician could easily make a kit that would facilitate compliance with P&G's ICT. Such a kit is obvious given that contraceptive kits would form part of the common general knowledge at that time. Dr. Russell attempts to distinguish contraceptive kits and P&G's kit on the ground that the menstrual cycle is natural and the cycle designed by P&G is not. I cannot accept that such a distinction is relevant. I see no reason why a skilled technician would hesitate to apply the teachings from patented contraceptive kits to a kit for osteoporosis treatment simply because the former is designed to follow a natural cycle while the latter is not. The origin of the cycle is immaterial to the kit designed to ensure compliance with a regimen.
+e) Combination of Essential Elements
+[93]
+For completeness and to address the arguments of both parties, I have reviewed each element of the invention claimed in the '376 patent. Nevertheless, I am mindful of the fact that the heart of the invention claimed by P&G is not each of these elements in isolation but rather, their combined use.
+[94]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (F.C.A.), the Federal Court of Appeal held that a court does not commit a reviewable error if it discusses whether each essential element was previously known, then discusses the prior art, and then considers whether putting the elements together resulted in a combination invention or merely an aggregation. This kind of analysis is "wholly proper" (
+Crila Plastic Industries
+, supra, at 11).
+[95]
+The test for obviousness is not to be applied to each element discretely, but rather to the combination of elements as a whole (
+Bayer AG
+, supra, at 86). Thus, even if all the elements of the '376 patent had been known previously, I must ask whether their combination, embodying an idea in practical form, constitutes inventiveness (
+Bayer AG
+, supra, at 86). I believe that it does.
+[96]
+The Federal Court has provided recent examples of patent invalidity due to obviousness where an alleged invention was "reasonably predictable" or "lay on the path" or was "one of the options that a person would try."
+- In <FRAGMENT_SUPPRESSED> , supra, the Federal Court of Appeal held that there was no invention in selecting dry formulation, which was one of several alternative methods for making paroxetine, as it would likely have been chosen by a skilled formulator prior to the filing of the patent application.
+-  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 417 (T.D.), affd. (2002), 22 C.P.R.(4th) 450 (F.C.A.), the Federal Court held that the manufacture of a drug by a technique that was known to a person skilled in the art, though not previously applied to that drug, did not constitute an invention, as it was obvious.
+·  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 466 (T.D.), the Federal Court held a patented invention, namely a new use for an old drug to be obvious. No inventive ingenuity was required, nor any undue experimentation. There was no inventiveness in following an obvious and well-charted route, using known technologies and known compositions.
+[97]
+Genpharm relies on these cases to argue that the claims in P&G's patent are obvious. All three cases, however, are readily distinguishable from the facts of the present case. Both <FRAGMENT_SUPPRESSED> , supra, and <FRAGMENT_SUPPRESSED> , supra, dealt with whether using a known method for something new was obvious or not. Here, there is no known method at issue. In <FRAGMENT_SUPPRESSED> , supra, the issue was whether a new use for an old drug was obvious. Here, etidronate, an old drug, is not just being used to treat a condition for which it was not used before. In fact, there are studies, cited above, where etidronate is used for the treatment of osteoporosis. At issue here is whether a very specific method of using etidronate, at the LED, intermittently and cyclically, for the treatment of osteoporosis, was obvious at the critical date.
+[98]
+The many explanations offered by Dr. Russell on the issue of obviousness, taken together, are, as Justice Hugessen stated in <FRAGMENT_SUPPRESSED> , supra, irresistible (
+Diversified
+, supra). Dr. Russell is more than a skilled technician. He is and was an imaginative and leading expert in the field of osteoporosis treatment at the critical date. Further, the credibility of this "eye-witness" has not once been called into question. Dr. Russell was surprised to learn about the ICT:
+"... even though I was actively working in this field at the time, the invention was not apparent to me from the work that had been done in this field. It came as a considerable surprise to me that the low doses of etidronate described in the '376 patent given intermittently could be of value for treating osteoporosis."
+[99]
+If the invention claimed by P&G was not obvious to a leading inventor at the critical date, it is hard to accept that an unimaginative skilled technician would see the solution "as clear as day". Dr. Russell's reaction to this invention confirms that more than a scintilla of invention was required to create the final product.
+[100]
+Finally, I have some concerns that Dr. Chambers' analysis of obviousness might not have conformed to the legal task that I face.
+[101]
+Beginning with his initial report, which formed part of Genpharm's Detailed Statement, Dr. Chambers did not explain how the combination of elements contained in the '376 patent would have been obvious to the skilled technician. Rather, he pointed to each discrete element and said, "This is obvious". His evidence did not really address the inventive spark that was at issue in these proceedings.
+[102]
+I have carefully considered the evidence of Drs. Russell and Chambers and concluded, on a balance of probabilities, that the prior art did not render the invention claimed in the '376 patent obvious. In the words of Justice Hugessen in <FRAGMENT_SUPPRESSED> , supra, I do not think that an unimaginative skilled technician at the critical date would have come directly and without difficulty to the solution in the '376 patent.
+[103]
+For these reasons, Genpharm's allegation of invalidity is not justified.
+Issue #2: Is Genpharm's allegation of non-infringement of the "kit" claims justified?
+[104]
+Normally, I would now be left to consider whether the "kit" claims in the patent will be infringed by Genpharm's product. Genpharm alleges that its drug product for treating osteoporosis - GEN-ETI-CAL CAREPAC - will not infringe these claims.
+[105]
+However, for the
+Regulations
+to apply, the first person must have a claim for a medicine or a use of that medicine that is contained on the patent register. Section 2 of the
+Regulations
+defines "medicine" as follows:
+"'medicine' means a substance intended or capable of being used for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or the symptoms thereof; (médicament)"
+"'médicament' Substance destinée à servir ou pouvant servir au diagnostic, au traitement, à l'atténuation ou à la prévention d'une maladie, d'un désordre, d'un état physique anormal, ou de leurs symptômes. (medicine)"
+[106]
+Genpharm submits that claims 1-16 of the '376 patent should not be the subject of proceedings under the
+Regulations
+, as they do not contain a claim for the medicine itself, or a claim for the use of the medicine, and are analogous to a system for administering the therapeutic regimen (sections 2, 4(1) & 4(2)(b),
+Regulations
+;
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 361 ( <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 488 (T.D.), affd. (1999), 87 C.P.R.(3d) 525 (F.C.A.), leave to appeal to S.C.C. refused, April 20, 2000).
+[107]
+ <FRAGMENT_SUPPRESSED> , at 308 (F.C.T.D.) ("
+Hoffmann-La Roche #1
+") this type of argument was characterized as an allegation of non-infringement:
+"The substance of the allegation is that the patents on which Roche relies are not ones claiming a medicine itself or the use thereof and, therefore, the sale of Genpharm's naproxen will not infringe any such claim. Implicit therein is the allegation contemplated by subparagraph 5(1)(b)(iv) [non-infringement]."
+[108]
+In response, P&G first submit that this issue was not "put into play" in Genpharm's NOA, but was first raised in its Memorandum of Fact and Law. Accordingly, P&G argues, I should not consider this issue. I do not agree. The NOA contained a clear statement as follows:
+"This patent contains no claim for the medicine itself, but only claims for the use of a medicine including the drug etidronate disodium in a specific intermittent regimen, and claims directed to a kit containing that medicine. As such, you have not properly placed the patent on the patent register since the kit claims are not themselves directed to the medicine or the use of the medicine. Under section 4(2)(b) of the said
+Regulations
+only patent claims directed to the medicine itself or to the use of the medicine may be included on the register. Therefore, we urge you to withdraw the kit claims from the register or, at least, not assert them in this context."
+[109]
+In my view, this paragraph provides clear notice to P&G that this issue was in play. As  <FRAGMENT_SUPPRESSED> -La Roche #1
+, supra, the substance of the allegation is that the "kit" claims on which P&G relies are not ones claiming a medicine itself or the use thereof and, therefore, the sale of Genpharm's product will not infringe any such claim.
+[110]
+With respect to the substance of this question, P&G submit that the claim to the kit is not a claim to a physical thing used to administer the drug in question. The kit, P&G argue, is an essential and integral part of the ICT and, as such, the "kit" claims are claims to the medicine itself. P&G compare the kit to a composition, which includes an active ingredient as was considered in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 58 (T.D.), affd. (1995), 193 N.R. 394; 67 C.P.R.(3d) 25 (F.C.A.) ("
+Hoffmann-La Roche #2
+"). In that case, this Court held that the nasal mist composed of the active ingredient flunisolide together with other compounds was a medicine within the meaning of the
+Regulations
+.
+[111]
+The test for determining whether a substance is a "medicine" under the
+Regulations
+was described in
+ <FRAGMENT_SUPPRESSED> ; 308 N.R. 169 (F.C.A.). This Court must ask: is the kit administered to the patient or is it a system for administering substances to the patient? P&G's kit is not administered to patients. Rather, it is a system for facilitating compliance with the ICT regimen. A device used to administer medicine is not a "medicine"within the meaning of the
+Regulations
+(
+Janssen-Ortho
+, supra;
+Glaxo Group Ltd.
+, supra). The kit is not the medicine itself and cannot be brought within the facts of
+Hoffmann-La Roche #2
+, supra. The compound considered by the Court  <FRAGMENT_SUPPRESSED> -La Roche #2
+, supra, was a pharmaceutical composition where the active ingredient was joined or mixed with other non-active ingredients. We do not have such a pharmaceutical formulation in this case. Viewed from a common sense perspective, the kit more closely fits the analogy of a patch or an inhaler as  <FRAGMENT_SUPPRESSED> -Ortho
+, supra, or
+Glaxo Group Ltd.
+, supra, than the nasal mist referred to  <FRAGMENT_SUPPRESSED> -La Roche #2
+, supra. A kit that facilitates compliance is, in my view, little different than a patch that ensures that the medicine is delivered to the patient in the proper doses. For these reasons, I agree that the "kit" claims relate to a system for administering the ICT therapy and should not be the subject of proceedings under the
+Regulations
+. Consequently, Genpharm did not need to make any allegation of non-infringement with respect to the "kit" claims.
+[112]
+If I am correct in this interpretation, this may be a small victory for Genpharm, but it does not win the war. As stated earlier in these reasons, the determinative issue is the validity of the '376 patent.
+[113]
+Having already determined that the kit is not a medicine within the meaning of the
+Regulations
+, the allegation of non-infringement of those claims is irrelevant. There is, in effect, nothing to which the
+Regulations
+could apply. Further, given my conclusion that the allegation of invalidity is not justified, I would normally look to the infringement allegation of the "use" claims. But, no such allegations were made by Genpharm. Accordingly, an Order of prohibition should issue because the '376 patent is valid. Any further analysis is unnecessary.
+[114]
+However, in the event that I am incorrect on either the issue of patent validity or the kit not being the subject of NOC proceedings, I will complete my analysis by considering the substance of Genpharm's allegation of non-infringement.
+[115]
+Genpharm alleges that its product will not infringe the "kit" claims in the '376 patent. The "kit" claims are, as defined by both parties, a "means for arranging the components of the kit so as to facilitate compliance with the regimen". Genpharm points to two differences in its product:
+1. For the second step of the ICT, Genpharm packages the calcium tablets in a bottle rather than in a blister strip; and,
+2. The Genpharm product is prescribed for only one, rather than two, cycles.
+[116]
+Genpharm submits that a patient must consult a doctor or pharmacist for a refill of its product. While this difference may be slight, Genpharm argues that the '376 patent stresses strict compliance with
+two or more
+cycles. There is no room to argue "substantial" or "essential" infringement (
+ <FRAGMENT_SUPPRESSED> ).
+[117]
+Genpharm also submits that its packaging, which includes etidronate blister packs and a bottle of calcium tablets, does not facilitate "strict compliance" with the regimen, which is essential according to the '376 patent. Thus, in its submission, the allegation of non-infringement is justified.
+[118]
+As discussed above in these reasons, the construction that I would give to the "kit" claims at issue is the following:
+a. A kit for the treatment of osteoporosis:
+i) containing components of etidronate and a placebo or nutrient such as calcium; and,
+ii) a means of arranging these components to facilitate compliance with the regimen.
+[119]
+The kit claimed by P&G in its patent makes it easy for a patient to take the right product at the right time. P&G describes its Didrocal® kit as follows:
+a) it separates the two components of the regimen [etidronate and calcium/placebo] physically and by colour;
+b) it packages the two components together in the same carton;
+c) it provides instructions on the labels of the individual components and the carton itself as to how to take the components in accordance with the ICT - it directs that the etidronate tablets are to be taken first, one a day for 14 days, followed by the calcium tablets, one a day for 76 days;
+d) it provides for a repeat reminder.
+Each of the "blisters" is marked with a day of the week to facilitate compliance with the regimen.
+[120]
+Genpharm's GEN-ETI-CAL CAREPAC kit is described as follows:
+"The product that Genpharm proposes to market in Canada consists of enough medication for one 90-day cycle of therapy. It will be sold in a carton containing etidronate disodium ... Accompanying this blister strip will be a bottle containing 76 calcium carbonate tablets ... The following instructions are provided on the package and in the product monograph:
+'ADULT DOSAGE: for postmenopausal osteoporosis and the prevention of osteoporosis take 1 white etidronate disodium tablet daily for 14 consecutive days, followed by 1 yellow calcium carbonate tablet daily for 76 consecutive days. Not recommended for use in children.'"
+[121]
+Each of the parties produced experts to offer their opinions as to whether the bottle of calcium tablets in the GEN-ETI-CAL CAREPAC kit can be distinguished from the 6 cards or blister packs of calcium tablets in the Didrocal® kit. It is useful to briefly review the opinions rendered by these experts.
+[122]
+Dr. Alan Tenenhouse, expert for P&G, is the Director of the McGill University Bone Centre and the Director of the Division of Bone Metabolism of the Montréal General Hospital. Dr. Tenenhouse is an expert in osteoporosis. According to Dr. Tenenhouse, Genpharm's product contains the means for having the components of the regimen arranged in a manner that facilitates compliance. This is because Genpharm's kit uses packaging that distinguishes between the components of the kit (blister strip of etidronate and bottle of calcium); it uses different coloured tablets; the product is sold as a combination product in that the components are packaged in the same carton; and it provides instructions for use directing etidronate to be taken first for 14 days followed by the calcium tablets for 76 days.
+[123]
+Dr. Spiridon Goussios is a pharmacist and a witness for P&G, and he also thinks that Genpharm's product facilitates compliance with the ICT regimen. This is because Genpharm's packaging makes it clear that there are two components to the ICT regimen and it provides these components in the same carton with instructions for taking the etidronate tablets first in accordance with the ICT.
+[124]
+Genpharm's expert in this area was Dr. Richard Pike, the Senior Vice-President of Research and Development and Regulatory Affairs of Genpharm Inc. He is responsible for all of Genpharm's submissions to The Therapeutic Product Directorate of Health Canada ("TPD") and provided the Court with the proposed labelling, packaging and package insert for GEN-ETI-CAL CAREPAC.
+[125]
+Dr. Pike points out that, whereas the kit described in the '376 patent would contain enough medication for two or more cycles, Genpharm's kit only contains enough product for one cycle, and the patient must contact a doctor or pharmacist to obtain a refill.
+[126]
+Mr. Robert Côté is a pharmacist and a witness for Genpharm. Mr. Côté states that different levels of compliance are facilitated by different means and that each time a pharmacist dispenses a prescription, there is some degree of facilitating compliance with a treatment regimen. Degrees of facilitation can span from primitive (dispensing loose tablets with no instructions) to the strictest means, which, in his opinion, are illustrated by the Didrocal® kit and evidenced by the wording contained in the '376 patent:
+"
+Strict compliance
+with the above-described cyclic regiment is believed to be essential for its success.
+The kit of the present invention is designed to facilitate such strict compliance
+in that it provides a convenient and effective means of assuring that the patient takes the appropriate medication and correct dosage on each day of the regimen." (Emphasis added)
+[127]
+Mr. Côté distinguishes the strict means for ensuring facilitation in the Didrocal® kit by the use of memory aids - the days of the week are indicated on the blister packs - from Genpharm's packaging, which will contain no such memory aid. Mr. Côté also points out that, whereas the calcium tablets in the Didrocal® kit are blue and packaged in six blister packs, Genpharm's calcium tablets are yellow and will be packaged loosely in a vial.
+[128]
+On cross-examination, Mr. Côté admitted that the proposed Genpharm package will ensure that a patient takes the correct medication at the correct dosage on the correct day. He further admitted that this is facilitated by having two different colours of tablets and separating the two components of the regimen.
+[129]
+Based on the submissions of the experts, I conclude that it is more likely than not that the kit proposed by Genpharm would infringe the kit claims in the '376 patent. Dr. Pike attempts to distinguish between Genpharm's kit from that of P&G on the basis that the former only contains enough medication for one cycle, whereas the latter contains medication for more than one cycle. I do not find this distinction convincing for the purposes of assessing infringement for two reasons. First, this distinction is an attack on the regimen itself and not on whether the kit in question facilitates compliance with the regimen. Second, Dr. Pike's disclosure of the labelling Genpharm intends to use makes clear that a patient using Genpharm's kit would be provided with a means of ensuring that he or she obtained medication for a second cycle. This is because Genpharm's product would contain a refill reminder that would be placed on the inside of the carton label. Thus, a user of Genpharm's product is provided with a memory aid to ensure compliance with the regimen.
+[130]
+As for Mr. Côté's comments, he distinguishes between degrees of compliance that are facilitated by various means. I note, however, that he made his comments without ever seeing the labelling proposed by Genpharm for its product.
+[131]
+In fact, after carefully reviewing the packaging of the Didrocal® kit and the GEN-ETI-CAL CAREPAC kit, I view the two as practically identical. Further, the instructions contained in Genpharm's kit do not just, as Mr. Côté speculated, provide instructions on how to take each of the components of the kit. The instructions go farther and describe the regimen in its entirety, thereby ensuring compliance with the ICT.
+[132]
+In addition to these instructions, both the Didrocal® kit and Genpharm's product contain etidronate and calcium tablets that are different colours and are sold together in a carton with the etidronate tablets in a blister pack. Genpharm's blister pack contains detailed instructions for patients. Further, even though Genpharm's calcium tablets are not contained in a blister pack, they are nevertheless physically separated in the kit, differently coloured and the patient is instructed to finish all of these tablets before obtaining a refill. Drs. Tenenhouse and Goussios and even Mr. Côté agree that Genpharm's kit facilitates compliance with the regimen.
+[133]
+For all of these reasons, I find that Genpharm's kit facilitates compliance, even strict compliance, with the ICT regimen. Therefore, its allegation that the "kit" claims in the '376 patent will not be infringed is not, on a balance of probabilities, justified.
+Conclusion
+[134]
+In summary, my conclusions are as follows:
+1. The allegation of non-infringement due to invalidity is not, on a balance of probabilities, justified;
+2. The "kit" claims do not fall within the definition of "medicine" under the
+Regulations
+and, as a consequence, should not be the subject of proceedings under the
+Regulations
+; and,
+3. Assuming the validity of the "kit" claims and that they are directed to a "medicine" as contemplated by the
+Regulations
+, the allegation that the "kit" claims are not infringed is not, on a balance of probabilities, justified.
+[135]
+On the basis of my first conclusion, which is determinative, this application will be allowed and an order of prohibition will be issued pursuant to section 6(1) of the
+Regulations
+preventing the Minister from issuing an NOC to Genpharm for its product GEN-ETI-CAL CAREPAC until the expiry of the '376 patent. Costs will be awarded to P&G.
+Application allowed.
+Editor: David Weir/klf
+[End of document]

@@ -1,0 +1,824 @@
+[1]
+Hughes, J.
+: This is an application brought under the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (
+NOC Regulations
+) to prohibit the Minister of Health from issuing a Notice of Compliance to the Respondent Cobalt Pharmaceuticals Company in respect of its proposed drospirenone + ethinylestradiol combination product until the expiry of each of Canadian Letters Patent No. 2,179,728 and 2,382,426.
+[2]
+For the reasons that follow, I find that the application is allowed with respect to Canadian Patent No. 2,382,426 and dismissed with respect to Canadian Patent No. 2,179,728.
+[3]
+The following is a table setting out the various topics dealt with in these Reasons by paragraph number:
+THE PARTIES AND PRODUCT AT ISSUE
+Paras. 4-8
+THE PATENTS AT ISSUE GENERALLY
+Para. 9
+THE '728 PATENT GENERALLY
+Paras. 10-12
+THE '426 PATENT GENERALLY
+Paras. 13-15
+THE EVIDENCE
+Paras. 16-19
+FOREIGN DECISIONS
+Paras. 20-21
+ISSUES
+Paras. 22-30
+BURDEN
+Paras. 31-33
+GOING BEYOND THE NOTICE OF ALLEGATION
+Paras. 34-37
+THE '426 PATENT
+Para. 38
+--1. Person of Ordinary Skill in the Art
+Para. 38
+--2. Where the Shoe Pinches
+Para. 39
+--3. Description
+Paras. 40-48
+--4. The Claims - Construction
+Paras. 49-60
+--5. Non-Infringement
+Paras. 61-90
+--6. Validity - Obviousness
+Paras. 70-88
+--7. Utility and Sound Prediction
+Paras. 89-100
+--8. Overbreadth and Insufficiency
+Paras. 101-102
+--9 Ambiguity
+Paras. 103-106
+--10. Conclusion Respecting the '426 Patent
+Para. 107
+THE '728 PATENT
+Para. 108
+--1. Person of Ordinary Skill in the Art
+Para. 108
+--2. Where the Shoe Pinches - Dose Equivalent
+Paras. 109-110
+--3. The Description
+Paras. 111-123
+--4. The Claims - Construction
+Paras. 124-134
+--5. Non-Infringement
+Para. 135
+--6. Obviousness
+Paras. 136-139
+--7. Double Patenting
+Paras. 140-149
+--8. Utility and Sound Prediction
+Paras. 150-155
+--9. Method of Medical Treatment
+Paras. 156-162
+--10. Conclusions Respecting the '728 Patent
+Para. 163
+COSTS
+Para. 164
+THE PARTIES AND PRODUCT AT ISSUE
+[4]
+The Applicant Bayer Inc. is a "first person" as described in the
+NOC Regulations
+. It has listed each of the two patents at issue with the Minister of Health in apparent accordance with those
+Regulations
+.
+[5]
+The Applicant Bayer Pharma Aktiengesellschaft is the apparent owner of the two patents at issue. It is convenient simply to refer to the Applicants collectively as Bayer.
+[6]
+Bayer distributes in Canada birth control tablets under the brand name YAZ. The tablets include as active ingredients 3 mg drospirenone + 20 mg ethinylestradiol in tablet form for oral administration.
+[7]
+The Respondent Cobalt Pharmaceuticals Company is a "second person" as described in the
+NOC Regulations
+. On or about December 8, 2011, Cobalt served on Bayer a Notice of Allegation in apparent compliance with those
+Regulations
+, stating that it has applied to the Minister of Health for a Notice of Compliance in order to distribute in Canada a generic version of Bayer's YAZ tablets.
+[8]
+The Respondent Minister of Health performs various duties as provided in the
+NOC Regulations
+; including, in appropriate circumstances, the issuance of a Notice of Compliance (NOC) to a second person, which would permit the sale of a generic version of a specified drug in Canada. The Minister took no active part in these proceedings.
+THE PATENTS AT ISSUE GENERALLY
+[9]
+There are two Canadian patents at issue; numbers 2,179,728 (the '728 patent) and 2,382,426 (the '426 patent). The application for each patent was filed with the Canadian Patent Office after October 1, 1989; therefore, the provisions of the "new"
+Patent Act
+, RSC 1985, c. P-4, applicable to patents applied for after that date, apply to both patents at issue here.
+THE '728 PATENT GENERALLY
+[10]
+The '728 patent is entitled "Composition for a Contraceptive Comprising an Estrogen and a Gestogen". It names Jürgen Spona, Bernd Düsterberg, Frank Lüdicke, W. Feichtinger and Max Elstein as inventors. One of them, Bernd Düsterberg, gave evidence in these proceedings.
+[11]
+The application for this patent was filed under the provisions of the Patent Co-Operation Treaty (PCT) with a filing date, effective in Canada, of December 22, 1994. The application was made available for public inspection (publication date) on June 29, 1995. The application claimed priority from a German application filed on December 22, 1993.
+[12]
+The '728 patent was issued and granted in Canada on September 1, 2009. The term of the patent will expire December 22, 2014.
+THE '426 PATENT GENERALLY
+[13]
+The '426 patent is entitled "Pharmaceutical Combination of Ethinylestradiol and Diospirenone for Use as a Contraceptive". It names Wolfgang Heil, Jurgen Hilman, Ralph Lipp and Renate Heithecker as inventors.
+[14]
+The application for this patent was filed under the provisions of the Patent Co-Operation Treaty with an effective filing date in Canada of August 31, 2000. The application was made available for public inspection March 8, 2001. The application claimed priority from both a United States and a European patent application, each filed August 31, 1999.
+[15]
+The '426 patent was issued and granted in Canada on February 28, 2006. The term of the patent will expire August 31, 2020.
+THE EVIDENCE
+[16]
+As is usual in proceedings of this kind, the evidence consisted of affidavits tendered by each of the parties, and transcripts of the cross-examinations conducted upon those affiants selected for cross-examination. The Court had no opportunity to observe any witness in person. Some witnesses were tendered as experts; no party objected to the fact that they were tendered as experts, although each party wished to comment upon what they perceived as shortcomings in their expertise. I am satisfied that all experts have given evidence that assists the Court in resolving the matters at issue and I am not prepared to find any of them lacking in credibility or lacking in sufficient expertise in the matters addressed in their evidence.
+[17]
+Bayer filed the evidence of the following four fact witnesses, the first three of whom were cross-examined:
+•
+Dr. Bernd Düsterberg
+of Oberkrämer, Germany. He is one of the named inventors of the '728 patent. He testified as to the developments leading up to the patent.
+•
+Dr. Michael Korl Hümpel
+of Lübeck, Germany. He is a retired employee of Schering, now part of Bayer. He testified as to some of the developments leading up to the '426 patent.
+•
+Dr. Johannes W. Tack
+of Berlin, Germany. He is a former employee of Schering. He testified as to some of the developments leading up to the '426 patent.
+•
+Ms. Mira Rinnie
+of Mississauga, Ontario. She is a law clerk in the offices of Bayer's Counsel. Her affidavit served to make of record certain documents. She was not cross-examined.
+[18]
+Bayer filed affidavits of three expert witnesses, all of whom were cross-examined. In the circumstances of this case, each witness filed an affidavit directed to infringement issues; then, after Cobalt filed its affidavits on validity, these witnesses filed further affidavits directed to validity of one or other of the patents at issue. These witnesses are:
+•
+Dr. Martyn Christopher Davies
+of Nottingham, United Kingdom. He is a Professor of Biomedical Surface Chemistry at the School of Pharmacy at the University of Nottingham. He testified as to validity and infringement of the '426 patent.
+•
+Dr. Sari Kives
+of Toronto, Ontario. She is a staff physician at St. Michael's Hospital, Toronto, in the department of obstetrics and gynecology. She testified as to how patients were advised, and prescribed in respect of Bayer's YAZ product.
+•
+Dr. Lee P. Shulman
+of Northbrook, Illinois. He is a practicing medical doctor and serves as Professor of Obstetrics and Gynecology, and Chief of the Division of Clinical Genetics at the Feinberg School of Medicine of Northwestern University. He testified as to validity and infringement of the '728 patent.
+[19]
+Cobalt filed affidavits from two witnesses, both as experts. Both were cross-examined. They first filed affidavits as to validity then affidavits in reply as to infringement. They are:
+•
+Dr. Bhagu Bhavnani
+of Waterdown, Ontario. He recently retired as a Professor of Obstetrics and Gynecology at the University of Toronto, and Director of Research at the Department of Obstetrics and Gynecology at St. Michael's Hospital, Toronto. He testified as to infringement and validity of the '728 patent.
+•
+Dr. Yashoda V. Pramar
+of New Orleans, Louisiana. She is a Professor of Pharmaceutics at the College of Pharmacy, Xavier University of Louisiana. She testified as to the validity and infringement of the '426 patent.
+FOREIGN DECISIONS
+[20]
+Counsel for each of the parties drew my attention to decisions in foreign Courts dealing with patents generally similar to one or other of the patents at issue here, and with issues similar to some issues in these proceedings. Some of the same witnesses whose evidence is before me gave evidence in those Courts, although at least in the United Kingdom and the United States, they appeared in person. Those decisions are:
+• In the Court of the Commissioner of Patents for the
+Republic of South Africa
+, Case number: Patent 2004/4083, Bayer Pharma AG et al,  <FRAGMENT_SUPPRESSED>  that a patent similar to the '426 patent was valid and infringed.
+I am informed by Counsel that this decision is under appeal.
+• In the
+United Kingdom
+, Floyd J of the Chancery Division, Patents Court, in a case cited as
+ <FRAGMENT_SUPPRESSED>  (Pat), dealt with a patent similar to the '426 patent. He held certain claims, but not all claims, to be invalid for obviousness. The Court of Appeal (Justices Kitchin, Jacob and Mummery), in a decision cited as [2012] EWCA Civ 235, dismissed the appeal.
+• The United States District Court
+District of Nevada
+, in Case No. 2:07-CV-01472-KJD-GWF and 2:08-CV-06995-KJD-GWF, between
+ <FRAGMENT_SUPPRESSED>  non-obviousness of certain claims of a patent similar to the '728 patent. The
+Court of Appeals for the Federal Circuit
+(Lourie, Schall and Prost) in case 2012-1424 reversed that decision on April 16, 2013 and held certain claims invalid for obviousness.
+• The United States District Court for the
+District of New Jersey
+, Judge Sheridan, in Civil Action No. 05-CV-2308 (PGS) between
+ <FRAGMENT_SUPPRESSED>  patent were invalid for obviousness. The
+Court of Appeal for the Federal Circuit
+, on a 2 to 1 split (Mayer and Friedman; Newman dissenting) in a decision dated August 5, 2009, affirmed that decision.
+[21]
+None of these decisions is precedential in a Canadian Court. There may be many differences in the patents considered there, and here, that are critical. The evidence may have been different. There are differences in the law. I therefore note that different Courts and different judges can and do come to different results. These cases illustrate that. This is particularly so where the cases are vigorously contested and the decisions to be made could, in many cases, go either way; depending on the specifics of the patent, the evidence and the law with which each Court had to deal.
+ISSUES
+[22]
+The fundamental issue in a proceeding under the
+NOC Regulations
+is whether the allegations made by a second party, such as Cobalt, have been shown to be justified. Here, Cobalt has alleged that it will not infringe either of the '426 or '728 patents and that each of those patents, or each of the claims asserted by Bayer in respect of each, is invalid for a variety of reasons.
+[23]
+In respect of the '426 patent, Bayer's Counsel at the hearing advised that Bayer was not relying on any claims that extended to a "kit"; and where a claim extended to a "composition or kit", it was only the composition that was relied upon. In argument, Bayer's Counsel principally relied upon claim 31, although mention was made of claims 1 through 30, as well.
+[24]
+In respect of the '728 patent, Bayer's Counsel at the hearing advised that Bayer was relying only on claims 1, 2, 6, 7 and 8.
+[25]
+Cobalt's Counsel, by a letter to the Court dated October 1, 2013, advised that it was no longer pursuing the issue of improper listing. At the hearing, Cobalt's Counsel advised that it was not pursuing, with respect to the '728 patent, the issue of non-infringement as set out in the latter part of paragraph 37 of its Notice of Allegation respecting exclusive use of females of a certain age. Counsel further advised that it would not be pursuing the Anticipation allegations as set out in paragraphs 38 through 42 of its Notice of Allegation; that it would not be pursuing the allegations of Insufficiency as set out in paragraphs 67 through 76 of that Notice; that it would not be pursuing the allegations of Overbreadth as set out in paragraphs 85 through 87 of that Notice; that Cobalt would not be relying on Canadian Patent No. 2,016,780 in respect of Double Patenting as set out in paragraph 112 of that Notice; and that it would not be relying on Invalid Selection Patent as set out in paragraphs 123 through 129 of that Notice. In respect of the '426 patent, Cobalt's Counsel advised that it would not be relying upon allegations of Anticipation as set out in paragraphs 301 through 304 of that Notice.
+[26]
+The Notice of Allegation also addresses another patent; Canadian Patent No. 2,261,137, but it is not at issue here.
+[27]
+At the hearing itself, Cobalt's Counsel, in argument, further restricted its arguments. In respect of the '426 patent, it argued non-infringement, obviousness, utility and sound prediction, overbreadth and insufficiency, and ambiguity. In respect of the '728 patent, Cobalt's Counsel argued non-infringement, method of medical treatment, obviousness, double patenting, dose equivalent (a non-infringement argument) and utility and sound prediction.
+[28]
+At a pre-trial conference with the parties, I urged each of them to give serious consideration to reduction of issues. I regret that this was only done at the hearing. I propose to consider only those issues that were raised and argued at the hearing.
+[29]
+Therefore, I will address the following issues; namely, are Cobalt's allegations, as they remain, justified in respect of:
+1. The '426 patent, all claims other than the "kit" claims and, in particular, claims 1, 30 and 31:
+1) non-infringement
+2) validity in respect of:
+i) obviousness
+ii) utility and sound prediction
+iii) overbreadth and insufficiency
+iv) ambiguity
+2. The '728 patent, claims 1, 2, 6, 7 and 8:
+i) non-infringement
+ii) obviousness
+iii) double patenting
+iv) dose equivalent
+v) utility and sound prediction
+[30]
+Before moving to those issues, I will briefly address the burden in these NOC matters. I will also address the question of going beyond the Notice of Allegation. With respect to each patent, I will first construe the claims at issue.
+BURDEN
+[31]
+I summarized the questions of burden in these matters where validity is at issue recently in
+ <FRAGMENT_SUPPRESSED> which I adopt here
+:
+[23] Who bears the burden when validity of a patent is at issue  <FRAGMENT_SUPPRESSED>  proceedings has been discussed many times in this Court. In brief: a patent is presumed to be valid in the absence of evidence to the contrary (Patent Act, s. 43(2)). The party alleging invalidity (here Cobalt) has the burden of putting forth evidence supporting its allegations. Once evidence is led the matter is determined by the Court on the civil burden of proof; namely, balance of probabilities. If the Court finds the matter to be evenly balanced, then it should find in favour of the person alleging invalidity since, under the NOC Regulations, subsection 6(2), the first person (here Novartis) bears the burden of demonstrating that the allegations of invalidity are not justified.
+[32]
+Similarly, with respect to the second person's [generic's] allegations of non-infringement, the first person [innovator] bears the burden of proving that such allegations are not justified. This matter was recently reviewed by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  where Létourneau JA, writing for the Court, referred to earlier decisions of that Court in <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> to emphasize that these proceedings are administrative in nature, the purpose being to determine if the Minister is free to issue a Notice of Compliance; the proceedings are not to be confused with infringement or impeachment actions. He wrote at paragraphs 15 and 18:
+15 The nature, purpose and scope of the NOC proceedings and their relationship with impeachment proceedings have been conveniently summarized by Layden-Stevenson J. (as she then was) in  <FRAGMENT_SUPPRESSED> . At paragraphs 6, 8 and 9, she writes:
+[6] As noted, this proceeding is brought under the Regulations. The history and scheme of the Regulations have been delineated in various decisions of the Federal Court of Appeal and need not be repeated here.  <FRAGMENT_SUPPRESSED>  (F.C.A.);...). Basically, issues of non-infringement and validity between the patent holder (first person) and the person seeking a NOC from the Minister (second person) originate with a NOA, served on the first person by the second person, setting out the second person's allegations, including the legal and factual basis in support. The first person may disagree and apply to the court for an order prohibiting the Minister from issuing a NOC to the second person until after expiration of the patent.
+...
+[8] Section 6 proceedings are not to be likened to actions for determining validity or infringement. They are proceedings in judicial review, to be held expeditiously, whose aim is to determine whether the Minister is free to issue the requested NOC. Their scope is confined to administrative purposes:  <FRAGMENT_SUPPRESSED>  (F.C.A.). The determination must turn on whether there are allegations by the second person sufficiently substantiated to support a conclusion for administrative purposes (the issuance of a NOC) that an applicant's patent would not be infringed if the second person's product is put on the market:  <FRAGMENT_SUPPRESSED>  (F.C.A.).
+[9] By merely commencing the proceeding, the applicant obtains what is tantamount to an interlocutory injunction without having satisfied any of the criteria a court would require before enjoining issuance of a  <FRAGMENT_SUPPRESSED>  (S.C.C.);...). The Regulations allow a court to determine summarily, on the basis of the evidence adduced, whether the allegations are justified. Section 6 proceedings are not adjudicative and cannot be treated as res judicata. The patentee is in no way deprived of all the recourses normally available to enable it to enforce its rights. If a full trial of validity or infringement issues is required, this can be obtained in the usual way by commencing an action
+:
+ <FRAGMENT_SUPPRESSED> . Writing for a unanimous court, Dawson J.A. held at paragraph 36:
+[36] Under the 1993 version of the Regulations, when an innovator commenced a proceeding seeking a prohibition order it obtained the equivalent of an interlocutory injunction prohibiting the issuance of a notice of compliance for up to 30 months. The innovator need not have satisfied the criteria for obtaining injunctive relief and no undertaking for damages was required. In that circumstance, section 8 of the Regulations was intended to provide redress to the generic where the innovator failed to establish that the generic's allegations of invalidity or non-infringement were not justified. In my view, section 8 was not intended to provide redress where the innovator prevailed in the prohibition proceeding, even if the generic was later successful in patent litigation. It follows that I agree with the Judge that Apotex can not "reach back and apply the finding of invalidity in the action so as to argue that the '671 patent had 'expired' within the meaning of section 8" of the 1993 version of the Regulations.
+[Emphasis added]
+[33]
+Here Bayer complains that, despite a motion that it brought to compel Cobalt to produce samples, Cobalt refused to do so; and the Court would not compel it to do so. In the course of these proceedings, Cobalt has adduced only limited evidence as to its product, such as that it will contain 3 mg of drospirenone, and that the drospirenone will be formulated in accordance with the "spray on" technique. The Court must then deal with Cobalt's allegations as to non-infringement and such evidence as there is in the record, so as to determine if those allegations are justified or not.
+GOING BEYOND THE NOTICE OF ALLEGATION
+[34]
+It has been firmly established by the Court of Appeal that the second person, a generic such as Cobalt, has an obligation in its Notice of Allegation to raise all the facts and legal arguments upon which it relies in support of its allegations. It cannot craft new arguments, or raise new allegations or new facts or new prior art documents not set out in the Notice of Allegation. (
+ <FRAGMENT_SUPPRESSED> .
+[35]
+While this may seem draconian since, undoubtedly, new matters may be raised as experts are consulted and evidence emerges, it is equally draconian for the first person who decides to institute proceedings to face shifting allegations and facts. The process is in need of change, but no interested person seems to be pressing for that change.
+[36]
+As matters stand now, the Court must reject arguments based on facts or documents not set out in the Notice of Allegation nor can the Court address new allegations.
+[37]
+I repeat the words of Stone JA in
+AB Hassle,
+supra where he wrote at paragraph 21 that the Notice of Allegation must set forth the legal and factual bases for the allegations in a sufficiently complete manner so as to enable the first person (here Bayer) to assess its course of action in response to the allegations.
+THE '426 PATENT
+1.
+Person of Ordinary Skill in the Art
+[38]
+Bayer and Cobalt are in reasonable agreement as to the identity of the Person of Ordinary Skill in the Art (POSITA) to which the '426 patent is addressed. They agree that such a person is a pharmaceutical formulator with a degree in pharmaceutical sciences or a related field, with at least one or two years' experience (Cobalt) or several years' experience (Bayer). That is close enough.
+2.
+Where the Shoe Pinches
+[39]
+Cobalt argues that the '426 patent, including all the claims at issue, is directed to a contraceptive product in which the drospirenone component is "micronized". Bayer argues that the patent is not restricted to "micronized" drospirenone, but to any form of drospirenone that achieves certain rapid dissolution characteristics.
+3.
+The Description
+[40]
+The Field of the Invention is set out at page 1 of the patent:
+FIELD OF THE INVENTION
+The present invention relates to a pharmaceutical composition comprising drospirenone and ethinylestradiol, a method of providing dissolution of drospirenone, methods of inhibiting ovulation by administration of drospirenone and the use of drospirenone and ethinylestradiol for inhibiting ovulation.
+[41]
+The next section, Background of the Invention, acknowledges that oral contraceptive products made of a combination of a gestagen and an estrogen are prior art. It is acknowledged that one such gestagen, drospirenone, has been disclosed as useful in treating several disorders, and that a combination of drospirenone (drsp) and ethinylestradiol (ee) have been suggested as a possible, but not a preferred, combination for an oral contraceptive.
+[42]
+The next section is Summary of the Invention, in which it is stated that a minimum dosage level, and a maximum dosage level, of drospirenone has been determined.
+SUMMARY OF THE INVENTION
+In the course of research leading to the present invention, it has surprisingly been found that a hitherto undisclosed minimum dosage level of drospirenone is required for reliable contraceptive activity. Similarly, a preferred maximum dosage has been identified at which unpleasant side effects, in particular excessive diuresis, may substantially be avoided.
+[43]
+A "Detailed Disclosure of the Invention" begins at page 4. It is stated that, to ensure good bioavailability of drospirenone, it should be provided in a form that promotes rapid dissolution. The next paragraph addresses micronization, provides parameters of particle size and distribution, provides dissolution parameters, and indicates that it is possible to provide the product, invalid or micronized, by spraying onto an inert carrier. Without being limited to a particular theory, the patent says that the dissolution rate
+in vivo
+may result in higher bioavailability. The ethinylestradiol component may also be micronized or sprayed.
+DETAILED DISCLOSURE OF THE INVENTION
+5 - Drospirenone, which may be prepared substantially as described in, e.g., US 4,129,564 or WO 98/06738, is a sparingly soluble substance in water and aqueous buffers at various pH values. Furthermore, drospirenone is rearranged to an inactive isomer under acid conditions and hydrolysed under alkaline conditions. To ensure good bioavailability of the compound, it is therefore advantageously provided in a form that promotes rapid dissolution thereof.
+10 - It has surprisingly been found that when drospirenone is provided in micronized form (so that particles of the active substance have a surface area of more than 10,000 cm
+2
+/g, and the following particle size distribution as determined under the microscope: not more than 2 particles in a given batch with a diameter of more than 30 µm, and preferably ≤ 20.
+15 - particles with a diameter of ≥ 10µm and ≥ 30 µm in a pharmaceutical composition, rapid dissolution of the active compound from the composition occurs in vitro ("rapid dissolution" is defined as the dissolution of at least 70% over about 30 minutes in particular at least 80% over about 20 minutes, of dirospirenone from a tablet preparation containing 3 mg of drospirenone in 900 ml of water at 37
+∘
+C determined by the USP
+20 - XXIII Paddle Method using a USP dissolution test apparatus 2 at 50rpm). Instead of providing the drospirenone in micronized form, it is possible to dissolve it in a suitable solvent, e.g., methanol or ethyl acetate, and spray it onto the surface of inert carrier particles followed by incorporation of the particles containing drospirenone on their surface in the composition.
+25 - Without wishing to be limited to any particular theory, it appears that the in vitro dissolution rate of drospirenone is connected to the dissolution rate in vivo resulting in rapid absorption of drospirenone in vivo on oral administration of the compound. This is an advantage because isomerization of the compound in the gastric environment and/or
+30 - hydroloysis in the intestine is substantially reduced, leading to a high bioavailability of the compound.
+With respect to ethinylestradiol which is also a sparingly soluble substance, though less sensitive to degradation than drospironone under conditions prevailing in the
+35 - gastrointestinal tract, it is also an advantage to provide it in micronized form or sprayed
+from a solution, e.g. in ethanol, onto the surface of inert carrier particles. This has the added advantage of facilitating a more homogenous distribution of the ethinylestradiol throughout the composition which might otherwise be difficult to obtain because ethinylestradiol is incorporated in extremely small amounts. When ethinylestradiol is
+5 - provided in micronized form, it preferably has the following particle size distribution as determined under the microscope: 100% of the particles have a diameter of ≤ 15.0 µm, 99% of the particles have a diameter of ≤ 12.5 µm, 95% of the particles have a diameter of ≤ 10.0 µm, and 50% of the particles have a diameter of ≤ 3.0 µm. Furthermore, no particle is larger than 20µm, and ≤ 10 particles have a diameter of ≥ 15µm and ≤ 20 µm.
+10 - To obtain a more rapid rate of dissolution, it is preferred to include carriers or occupants which act to promote dissolution of both active substances. Examples of such carriers and occupants include substances that are readily soluble in water such as cellulose derivatives, carboxymethylcellulose, hydroxypropyl cellulose, hydroxpropylmethyl
+15 - cellulose, gelled starch, gelatin or polyvinylpyrrolidone. In particular, it appears as though polyvinylpyrrolidone might be particularly helpful to promote dissolution.
+The composition of the invention preferably comprises drospirenone in an amount corresponding to a daily dosage of from about 2.5 mg to about 3.5 mg. In particular about
+20 - 3 mg. The Amount of ethinylestradiol preferably corresponds to a daily dosage of from about 0.015 mg to about 0.04 mg. In particular from about 0.015 mg to about 0.03 mg. More particularly, the present composition comprises an amount of drospirenone corresponding to a daily dosage of from about 3.0 to about 3.5 mg and ethinylestradiol in an amount corresponding to from about 0.015 to about 0.03 mg.
+25 - Apart from its ability to inhibit ovulation, the composition of the invention has been found to possess pronounced anti-androgenic properties and may therefore be used in the prevention or treatment of androgen-induced disorders, in particular acne. Such use may be independent from or concomitant with the use as a contraceptive disclosed above.
+30 - Furthermore, since drospirenone is an aldosterone antagonist, it has diuretic properties and is therefore suitable for counteracting the water-retentive properties of ethinylestradiol.
+In a particular embodiment, the invention relates to a pharmaceutical preparation
+35 - consisting of a number of separately packaged and individually removable daily dosage
+from a solution, e.g. in ethanol, onto the surface of inert carrier particles. This has the added advantage of facilitating a more homogenous distribution of the ethinylestradiol throughout the composition which might otherwise be difficult to obtain because ethinylestradiol is incorporated in extremely small amounts. When ethinylestradiol is
+5 - provided in micronzied form, it preferably has the following particle size distribution as determined under the microscope: 100% of the particles have a diameter of ≤ 15.0 µm, 99% of the particles have a diameter of ≤ 12.5µm, 95% of the particles have a diameter of ≥ 10.0 µm, and 50% of the particles have a diameter of ≥ 3.0 µm. furthermore, no particle is larger than 20µm, and ≤ 10 particles have a diameter ≥ 15 µm and ≤ 20 µm.
+[44]
+The detailed disclosure goes on to describe carriers and excipients, particular dosages, other uses, dosage packaging, daily dosaging and rest period.
+[45]
+At page 9, the patent addresses formulation in any manner known in the pharmaceutical art:
+10 - The composition of the invention may be formulated in any manner known in the pharmaceutical art. In particular, as indicated above, the composition may be formulated by a method comprising providing drospirenone and, if desired, ethinylestradiol in micronized form in said unit dosage form, or sprayed from a solution onto particles of an inert carrier in admixture with one or more pharmaceutically acceptable excipients that
+15 - promote dissolution of the drospirenone and ethinylestradiol so as to promote rapid
+dissolution of drospirenone and preferably ethinylestradiol on oral administration. Examples of suitable excipients include fillers, e.g. sugars such as lactose, glucose or sucrose, sugar alcohols such as mannitol, sorbitol or xylitol, starch such as wheat, corn or potato starch, modified starch or sodium starch gylcolate, lubricants such as talc,
+20 - magnesium sterate, calcium sterate, colloidal silica or stearic acid, and binders such as polyvinylpryrrolidone, cellulose derivatives, carboxymethyl cellulose, hydroxypropyl cellulose, hydroxproplmethyl cellulose, methyl cellulose or gelatin, for making oral dosage forms such as tablets, pills or capsules.
+[46]
+There follows a discussion that the tablets may be film-coated (not to be confused with enteric coated) and that the composition may be formulated in liquid form. Packaging, parenteral formulation, and transdermal formulation are discussed.
+[47]
+Five examples follow. Example 1 deals with the preparation of tablets containing drospirenone and ethinylestradiol; both micronized. Example 2 deals with the dissolution rate of the drospirenone in such tablets. Example 3 with the dissolution rate of ethinylestradiol. Example 4 deals with the bioavailability of those components in the tablets. Example 5 deals with the contraceptive efficacy.
+[48]
+The claims - 53 in all - follow.
+4.
+The Claims - Construction
+[49]
+Counsel for Bayer dealt principally with claim 31, but with claims 1 and 30, as well.
+[50]
+Claim 1 specifies micronized drospirenone, without stating the form in which ethinylestradiol is present:
+1. A pharmaceutical composition comprising from about 2 mg to about 4 mg of micronized drospirenone particles, about 0.01 mg to about 0.05 mg of 17a- ethinylestradiol, and one or more pharmaceutically acceptable carriers; the composition being in an oral dose form, and the composition being effective for oral contraception in a human female.
+[51]
+Claim 3 specifies that the ethinylestradiol may be micronized or sprayed:
+3. A composition according to claim 1 or 2, wherein the ethinylestradiol is in micronized form or sprayed from a solution onto particles or an inert carrier.
+[52]
+It is to be noted that
+no
+claim of the '426 patent specifically claims that the drospirenone component may be sprayed. This is unlike the circumstances in the United Kingdom Court of Appeal  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED> , where it can be seen from paragraph 30 of the Reasons of that Court that claim 2, and all claims dependent of claim 2, stipulate that the drospirenone may be "in micronized form or sprayed". The patent laws of the United Kingdom permit claims to be amended by the Courts.
+[53]
+Claim 30 defines the drospirenone component only by particle size (but not particle distribution, as also recited in the Description of the patent):
+30. A pharmaceutical composition comprising:
+from about 2 mg to about 4 mg of drospirenone particles, wherein the drospirenone has a surface area of more than 10,000 cm
+2
+/g;
+about 0.01 to about 0.05 mg of 17a-ethinylestradiol; and
+one or more pharmaceutically acceptable carriers;
+the composition being in an oral dose form, and the composition being effective for oral contraception in a human female.
+[54]
+Claim 31 defines the drospirenone component only by its dissolution rate:
+31. A pharmaceutical composition comprising:
+from about 2 mg to about 4 mg of drospirenone particles, wherein the drospirenone is in a form, which when provided in a tablet containing 3 mg of drospirenone, has a dissolution such that at least 70% of said drospirenone is dissolved in 900 ml of water at 37
+∘
+C. (±0.5
+∘
+C.) within 30 minutes, as determined by USP XXIII Paddle Method using a USP dissolution test apparatus 2 at a stirring rate of 50rpm, including 6 covered glass vessels and 6 paddles;
+about 0.01 mg to about 0.05 mg of 17a-ethinylestradiol; and
+one or more pharmaceutically acceptable carriers;
+the composition being in an oral dose form, and the composition being effective for oral contraception in a human female.
+[55]
+In considering claims 30 and 31, the parties are in contention. Cobalt argues that the particle size and dissolution rate parameters relate only to the micronized form of drospirenone. Bayer argues that at least the dissolution rate relates to drospirenone in any form, whether micronized or sprayed.
+[56]
+Cobalt supports its argument by referring to page 4 of the Description of the patent where the particle size (and distribution) parameters, and the dissolution parameters, follow the discussion of the micronized drospirenone, and by referring to the claims in which explicit reference to spraying is made only in respect of the ethinylestradiol component.
+[57]
+Bayer supports its position by saying that spraying the drospirenone component is mentioned at page 4 of the Description, and that at page 9 of the Description, it says that the composition may be formulated "in any manner known in the art: whether micronized or sprayed". Bayer argues that the essential point of the patent is not micronized drospirenone; rather, it is rapid dissolution, as stated in the last sentence of the first paragraph at page 4, in the Detailed Disclosure:
+To ensure good bioavailability of the compound, it is therefore advantageously provided in a form that promotes rapid dissolution thereof.
+[58]
+This is followed up by the statement at the beginning of the last full paragraph at page 4:
+Without wishing to be limited to any particular theory, it appears that the in vitro dissolution rate of drospirenone is connected to the dissolution rate in vivo resulting in rapid absorption of drospirenone in vivo on oral administration of the compound.
+[59]
+While the matter is by no means free of doubt, I am of the opinion that Bayer's interpretation is the correct one, and that claim 31, and its dependent claims, is not limited to drospirenone in its micronized form, but to any form in which the rapid dissolution rate stipulated by that claim can be achieved.
+[60]
+Having construed claim 31, I will proceed to the other issues respecting the '426 patent.
+5.
+Non-Infringement
+[61]
+Cobalt's Notice of Allegation, at paragraphs 294 to 300, states that neither the drospirenone nor the ethinylestradiol component of its oral contraceptive tablets will be in micronized form.
+[62]
+From the Abbreviated New Drug Submission (ANDS) provided by Cobalt in evidence, it can be seen that the manufacturing process for the Cobalt product involves dissolving the drospirenone component and the ethinylestradiol component separately, spraying each onto an inert carrier, drying and blending the components.
+[63]
+Dr. Davies, one of Bayer's experts, says in respect of this process at paragraphs 71 to 73 of his infringement affidavit:
+71. Cobalt manufactures its tablets by dissolving drospirenone into a solution and then spraying the solution onto lactose and cornstarch carrier particles. The other API, ethinylestradiol, is similarly dissolved into solution and sprayed onto the granules. After the solvent evaporates, the drugs remain scattered on the carrier surface.
+72. The purpose of this deposition technique is to improve the dissolution rate of the drugs. When the inert carrier comes into contact with aqueous medium (for example the stomach) the drug particles will readily disperse and have a greater surface area available for dissolution and will rapidly dissolve. By keeping the drug particles apart, the carrier also acts to reduce the potential for aggregation (clumping together).
+73. This method of improving the dissolution rate is specifically contemplated by the patent. Though in its Letter, Cobalt denies that it manufactures its tablets using in this matter, a review of its disclosure makes it clear that it is precisely using this method.
+[64]
+Dr. Davies, at paragraph 77 of his Infringement Affidavit, states that this process "may" result in micronized particles:
+77. Furthermore, the information provided by Cobalt regarding the particle size of the bulk drospirenone is meaningless because Cobalt's method involves the dissolution of those particles in solution. When Cobalt dissolves the drospirenone, the particles break down and dissolve into the solution. The solution is then prayed onto the surface of the inert carriers, where drospirenone crystallizes as new particles. It is possible that the resulting particles have a particle size distribution and surface area that meet the definition of "micronized" as defined in the '426 Patent.This means that Cobalt's manufacturing method may result in drospirinone in micronized form as defined in the '427 patent.
+[65]
+At paragraph 79 of his Infringement Affidavit, Dr. Davies states that the only way for determining whether Cobalt uses drospirenone in micronized form is to examine actual tablets.
+[66]
+Cobalt has refused to provide sample tablets.
+[67]
+Cobalt has made no allegation in respect of non-infringement, other than its product will not be "micronized". I have construed claim 31 of the '426 patent not to be restricted to a "micronized" tablet, but restricted only in respect of dissolution parameters. Cobalt has provided no information as to those dissolution parameters.
+[68]
+Given that Cobalt is obliged in its Notice of Allegation to provide sufficient information so that Bayer can come to grips with the allegations made; and, given that Cobalt has supplied no sample tablets nor any evidence as to the dissolution parameters of its tablets, I must conclude that Cobalt's allegations as to non-infringement of claim 31, and dependent claims, of the '426 patent are not justified.
+6.
+Validity - Obviousness
+[69]
+At paragraphs 305 through 339 of its Notice of Allegation, Cobalt has made allegations respecting the Common General Knowledge in The Art, and respecting Obviousness.
+[70]
+In respect of this patent, which was filed effective August 31, 2000, and claiming priority from applications filed August 31, 1999, the
+Patent Act
+provides that obviousness is to be determined as of the "claim date" (section 28.3) which here is the priority date, August 31, 1999 (section 28.1). Cobalt's Counsel at the hearing stated that Cobalt does not contest the applicability of August 31, 1999 as the claim date.
+[71]
+The test for obviousness respecting a Canadian Patent as set out by the Supreme Court of Canada and subsequently considered by the Federal Court of Appeal was reviewed at length in my recent decision in
+ <FRAGMENT_SUPPRESSED> through 66. I will not repeat those paragraphs here, but I do have reference to the law as stated there.
+[72]
+I have already discussed the
+person of ordinary skill in the art
+, to whom the patent is addressed.
+[73]
+The
+relevant common general knowledge
+as of August 1999 has been discussed by the relevant experts for the parties; Dr. Davies for Bayer, and Dr. Pramar for Cobalt.
+[74]
+Dr. Pramar's evidence may be summarized in the following paragraphs of her Validity Affidavit:
+I COMMON GENERAL KNOWLEDGE - 426 PATENT
+Combined Oral Contraceptive Formulation of Drospirenone and Ethinylestradiol
+88. As of August 31, 1999, the person skilled in the art would have known that drospirenone and ethinylestradiol could be combined or admixed using conventional methodologies in order to make an effective oral contraceptive. In the 426 Patent, the patentee lists several references that teach the use of drospirenone and ethinylestradiol for oral contraception.
+89. Additionally, by August 31, 1999 a number of patents and other articles had been published that would have taught the person skilled in the art that drospirenone in combination with ethinylestradiol could be conventionally formulated to make an effective oral contraceptive.
+. . .
+Purpose of Micronization
+94. Since the 1970s, drug formulators had developed many techniques to increase the bioavailability of orally administered drugs. By August 31, 1999, micronization was a well-established technique for increasing the bioavailability of such drugs.
+. . .
+Micronization of Spironolactone
+96. As of August 31, 1999, the person skilled in the art would have known that drospirenone is a chemical analog of spironolactone.
+97. As of August 31, 1999, the person skilled in the art would also have known that the absorption and bioavailability of spironolactone were improved by micronization. A number of prior art referenes taught this.
+. . .
+Micronization of Progesterone
+101. As of August 31, 1999, the person skilled in the art would have known that drospirenone is a progestin (synthetic progestogen) that has progestinic effects similar to progesterone.
+102. As of August 31, 1999, the person skilled in the art would also have known that the absorption and bioavailability of progesterone specifically was improved by micronization. A number of prior art references taught this.
+. . .
+Micronization of Spirorenone
+105. As of August 31, 1999, the person skilled in the art would have known that drospirenone is a metabolite of spirorenone and that spirorenone is a steroid that has a similar structure to that of drospirenone.
+. . .
+106. As of August 31, 1999, the person skilled in the art would also have known that the absorption and bioavailability of spirorenone was improved by micronization. A number of prior art references taught this.
+[75]
+Dr. Pramar reviewed papers known as Krause I, Krause II and Krause III; all published by Schering, a predecessor of Bayer. She concluded:
+120. From reading the Krause papers, the person skilled in the art would have concluded that because spirorenone and drospirenone are related drugs (they are both steroids, they are both derivatives of spironolactone and both have the same chemical structure with the exception of one bond at one location), drospirenone would isomerize in vitro, but rapidly absorb in vivo. In particular, the person skilled in the art would have known that drospirenone would be absorbed faster than it is isomerized.
+121. The person skilled in the art would also have realized that the in vitro acid instability of drospirenone would not be an issue in vivo and would have recognized that poor drug solubility would be the only significant challenge - one that could be largely overcome by micronization.
+122. The person skilled in the art would have been cognizant of the limitations of in vitro testing as a surrogate for in vivo testing, and would have known that in vitro studies are unreliable unless they can be correlated with in vivo drug behaviour. (A point taught in the Aulton reference I mentioned at paragraph 99 above and another reference written by McGilveray and published in 1996 entitled "Overview of Workshop: In Vitro Dissolution of Immediate Release Dosage Forms: Development of In Vivo Relevance and Quality Control Issues" (a copy of which is attached as Exhibit "E-81" to my affidavit)).
+[76]
+Dr. Pramar addressed spraying, "Deposition", at paragraphs 123 and 124 of her affidavit:
+Deposition Method
+123. As of August 31, 1999, the person skilled in the art would have been familiar with the process of making a pharmaceutical composition via dissolving the active ingredient in a suitable solvent (such as methanol or ethyl acetate) and spraying this onto the surface of inert carrier particles followed by incorporation of those particles into the composition.
+124. This formulation method, known as the deposition method, was taught in the art since at least the 1980's.
+[77]
+Dr. Davies disagrees with Dr. Pramar, essentially on the point that drospirenone, unlike other drugs such as spirorenone, was known to be acid labile; that is, it converts quickly to a somewhat different molecule (isomerizes) in the presence of acid - such as in the stomach. To micronize an acid- labile drug was to make it even more prone to such conversion according to conventional thinking; thus, much less appropriate for an oral contraception candidate. In his Validity Affidavit, he wrote:
+119. The premise of Dr. Pramar's opinion is that the skilled person would have known that the in vitro acid instability of drospirenone would not be an issue in vivo and its poor drug solubility could be overcome by micronization.
+120. In my opinion general knowledge, these assertions are incorrect in light of the common general knowledge and the prior art as of August 1999.
+121. It was not known by a skilled formulator that drospirenone could be formulated as a rapidly dissolving formulation, including through micronized form, for use as a contraceptive. Quite the contrary: drospirenone was known by the skilled person to be an acid-sensitive compound that would degrade if formulated as an immediate release formulation.
+122. Thus, unlike for example, the steroid hormone progesterone, which is not acid-labile, a skilled person would know that drospirenone must be protected from stomach acid by use of enteric coating. The patent's teaching that a rapidly dissolving drospirenone achieves high bioavailability was an unexpected invention.
+. . .
+Micronization of Other Drugs did not render Obvious the Micronization of drospirenone
+124. Dr. Pramar opines that the "[t]he person skilled in the art would also have realized that the in vitro acid instability of drospirenone would not be an issue in vivo and would have been recognized that poor drug solubility would be the only significant challenge - one that could be largely overcome by micronization.
+125. To support her opinion, Dr. Pramar asserts that the prior art taught the following compounds, related to drospirenone in either structure and/or biological effect, could be micronized: spironolactone, progesterone and sprirorenone.
+126. I disagree that the micronization of any of these drugs would have rendered the micronization of drospirenone as an obvious, let alone viable choice.
+Micronization not always effective at increasing Dissolution Rate
+127. In August 1999, the skilled person would have understood that although the technique of increasing the dissolution rate may increase the bioavailability of a substance, it would not necessarily follow that this was the case.
+128. The skilled person would also have been aware that micronizing a poorly soluble drug in water might increase its dissolution rate, but that this would not be inevitable. In some circumstances, when the particle size of a drug is reduced, it can cause static effects which instigate the agglomeration of the smaller particles, hence cancelling out the effects of making the particles smaller in the first place.
+129. In light of these two facts, it would not have been obvious to the skilled person that micronization would effectively increase the dissolution rate of drospirenone so that the drug could be adequately bioavailable.
+Progesterone and Spironolactone are not acid-labile
+130. Dr. Pramar points out that it was known that progesterone, a compound allegedly known to have similar progestinic effects to drospirenone, could be micronized.
+131. This fact however would be insignificant to the skilled person seeking to devise a contraceptive drospirenone formulation, since progesterone is not acid labile. Drospirenone would therefore have presented a completely different set of considerations than an acid-labile drug such as drospirenone.
+132. As of 1999, drospirenone was known to be acid-labile and any skilled formulator would have designed a formulation based on the unique physicochemical properties of drospirenone, not based on another drug merely because it happened to be within the same therapeutic class. It would be illogical to select the formulation of one drug (drospirenone) based simply on the formulation of another drug in its class (progesterone).
+133. Dr. Pramar also writes that it known that spironolactone, a compound which had been used to treat excess fluid in the body, could be micronized in order to enhance dissolution and bioavailability. But once again, it must be emphasized that spironolactone is not an acid-labile drug, and thus, unlike drospirenone, there would be no concern about its degradation through micronization. There is no analogy to be had.
+134. In fact, in the McInnes et al. paper on the bioavailability of spironolactone cited by Dr. Pramar, the authors of the paper first presented results of an in vitro study on the dissolution of spironolactone under gastric conditions. These results show a completely different dissolution profile than that obtained for drospirenone under gastric conditions (shown by Dr. Tack).
+. . .
+135. As can be seen in the figure above, the concentration of spironolactone increased with time in both micronized and non-micronized form. The skilled person who wished to improve the bioavailability of spironolactone, and conducted an in vitro test on the compound would therefore not have any reason to resist micronization. The problem of acid lability, which existed for drospirenone was simply absent for spironolactone. Consequently, the skilled person would not have been influenced by the reported increase in the bioavailability of spironolactone since, unlike drospirenone, it was not acid labile.
+136. I have already cited Aulton at page 156 that a
+"reduction [in particle size] would not only produce an increased rate of drug dissolution in gastric fluid but also an increase in the extent of drug degradation. This would result in a decrease in the amount of intact drug available for absorption from the small intestine."
+137 In light of this critical distinction, the additional by Dr. Pramar to sources such as Aulton and Chaumeil regarding improving the dissolution and/or the bioavailability of a poorly soluble drug through micronization are not apt in light of the fact that drospirenone presented the special case of an acid-labile drug.
+138. The skilled person would know that employing an acid labile drug in micronized form - or using any other means to increase its dissolution rate - would lead to greater degradation in the stomach. This problem would be all the more acute for a low-dose contraceptive where a compromise in dose might lead to an unwanted pregnancy. The inventive concept of the '426 Patent is that drospirenone in micronized form (or any other rapidly-dissolving formulation), achieves good bio-availability notwithstanding that it was a compound known to be acid-labile.
+[78]
+In cross-examination, Dr. Pramar admitted that she was unaware of any literature that addressed the isomerization of spironolactone at a pH of 1 (Q 46). She could not tell whether spironolactone was an oral contraceptive because that was not her area of expertise (Q 196). She could not say whether she was aware of the Krause references before she was given them by Bayer's Counsel (Q 198).
+[79]
+On the other hand, Dr. Davies appeared to be quite comfortable in discussing the references. He states in answer to question 667 of his cross-examination that the information brought forward through Dr. Pramar would not help come to the invention.
+[80]
+I prefer the evidence of Dr. Davies in this respect. As of August 1999, it was known that a combination of drospirenone and ethinylestradiol in amounts falling within the range stipulated in the claims of the '426 patent could be used as an oral contraceptive. However, what was not known is that the dissolution of the drospirenone in the stomach could be enhanced by providing it, without enteric coating, in a form such as micronized, so that it would dissolve rapidly. Contrary to what
+in
+vitro
+testing might demonstrate, the
+in vivo
+administration of such a drug would not result in undue isomerization in the stomach.
+[81]
+The
+inventive concept
+is, as I have stated, that, in an oral contraceptive comprised of a combination of drospirenone and ethinylestradiol, the drospirenone may be provided in micronized or other rapidly dissolving form without an enteric coat.
+[82]
+The
+difference between the prior art and the inventive concept
+is the provision of the drospirenone comprised in micronized or other rapidly dissolving form to provide a successful oral contraceptive.
+[83]
+I find that
+the difference was not more or less self-evident
+. The prior art pointed away from providing an acid-labile drug such as drospirenone, in a rapidly dissolving form. Previous attempts were tested
+in vitro
+; the breakthrough was to ignore the
+in vitro
+results and test
+in vivo
+with the unexpected result.
+[84]
+Counsel for Cobalt spent considerable time in argument in tracing what he described as the inventive history, particularly through the work of Dr. Tack and others  <FRAGMENT_SUPPRESSED> /Bayer. Most of Counsel's assertions were not supported by the evidence of Drs. Tack and Humpel; rather, the argument was based on supposition and inferences gleaned from this or that piece of evidence. I am not comfortable in relying on such suppositions.
+[85]
+What the Court does have is the evidence of Drs. Tack and Humpel, which indicates that during the 1980's, Schering (now Bayer) was testing "normal" and enteric coated drospirenone-containing tablets. The "normal" tablets were micronized and would isomerize in an
+in vitro
+acidic environment. This led to Schering deciding to go with an enteric coated version of the tablet.
+[86]
+In 1983 and 1984, Dr. Tack tested micronized drospirenone
+in vivo
+and found that it did not degrade. This led to further work by Bayer, and ultimately to the non-enteric coated micronized rapid-dissolving drospirenone formulation.
+[87]
+I find, on the evidence, that the invention of the '426 patent was not self-evident; it was contrary to the thinking at the time, and was not obvious.
+[88]
+I note that Cobalt has dropped its novelty argument, which, in part, was based on Canadian Patent 2,016,780; which in any event was not asserted, in that respect, in Cobalt's Notice of Allegation.
+7.
+Utility and Sound Prediction
+[89]
+Cobalt's arguments in respect of inutility and lack of sound prediction were set out at paragraphs 346 to 351 of its Notice of Allegation:
+LL. Inutility and Lack of Sound Prediction
+345. The legal test is set out at paragraphs 88 to 90 above.
+346. As of August 31, 2000, the patentee had not demonstrated the utility of the subject matter claimed in the 426 Patent and could not have soundly predicted the utility of this subject matter.
+347. As is stated above, the alleged invention of the 426 Patent is a pharmaceutical composition comprising from about 2 mg to about 4 mg of micronized drospirenone particles and about 0.01 mg to about 0.05 mg of 17 -ethinylestradiol effective as a oral contraception in a human female.
+348. The patentee states that "when drospirenone is provided in micronized form in a pharmaceutical composition, rapid dissolution of the active compound from the composition occurs in vitro" (page 4, lines 11 to 16) and that "it appears that the in vitro dissolution rate of drospirenone is connected to the dissolution rate in vivo resulting in rapid absorption of drospirenone in vivo on oral administration of the compound" (page 4, lines 26 to 28).
+349. The patentee then states that such rapid dissolution and absorption is "an advantage because isomerization of the compound in the gastric environment and/or hydrolysis in the intestine is substantially reduced, leading to a high bioavailability of the compound" (page 4, lines 26 to 31).
+350. However, as of the filing date of the 426 Patent (August 31, 2000), the studies conducted by the patentee and reported in the patent are not predictive of the utility of, nor do they support a sound prediction on the part of the patentee that tablets made according to Example 1 having the in vitro dissolution profile evidenced in Example 2, in fact, result in the rapid absorption of drospirenone in vivo on oral administration of the compound.
+351. The study conducted by the patentee with respect to bioavailability in vivo, as reported in Example 4, did not use a pharmaceutical composition containing micronized drospirenone particles. Instead, this study investigated the relative bioavailability of a tablet formulation containing 3 mg of non-micronized drospirenone (and 0.03 mg of non-micronized ethinylestradiol) versus an oral suspension containing 6 mg of drospirenone and 0.06 mg ethinylestradiol per vial.
+[90]
+Cobalt, through the evidence of Dr. Pramar, endeavoured to raise further arguments respecting inutility or lack of sound prediction. I will not deal with those arguments, as they are outside that which was raised in the Notice of Allegation.
+[91]
+The evidence in the Record, through Dr. Humpel, Exhibits Q and R, shows that the drospirenone used in the tests that formed the basis of Example 4 of the patent was micronized. While Dr. Humpel had no direct knowledge of the matter, the Exhibits are business records; there is no evidence to the contrary. Further, given the context of the Examples in the patent, it would be unreasonable to assume that the drospirenone was other than micronized. This answers the allegations raised by Cobalt at paragraphs 351 of the Notice of Allegation.
+[92]
+The remaining allegation made by Cobalt in its Notice should be read in light of the decision of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> . Pelletier JA for the majority stated the general proposition of law as to standard of utility and promise of the patent at paragraphs 47 to 50:
+47 The promise of the patent is the standard against which the utility of the invention described in the patent is measured. The source of the concept is found in the decision of the Supreme Court of Canada  <FRAGMENT_SUPPRESSED> 
+:
+There is a helpful discussion in Halsbury's Laws of England, (3rd ed.), vol. 29, at p. 59, on the meaning of "not useful" in patent law. It means "that the invention will not work, either in the sense that it will not operate at all or, more broadly, that it will not do what the specification promises that it will do".
+Consolboard, cited above at p. 525
+48 While an inventor need not describe the utility of his invention in his patent, if he does so, he will be held to the promise which he has made. This was set out as follows in Olanzapine, cited above, at paragraph 76
+:
+Where the specification does not promise a specific result, no particular level of utility is required; a "mere scintilla" of utility will suffice. However, where the specification sets out an explicit "promise", utility will be measured against that promise:  <FRAGMENT_SUPPRESSED>  (Ranbaxy). The question is whether the invention does what the patent promises it will do. (emphasis in the original)
+49 If the inventor does not make an explicit promise of a specific result, the test for utility is a "mere scintilla" of utility. If, on the other hand, the inventor makes an explicit promise of a specific result, then utility will be assessed by reference to the terms of the explicit promise.
+50 When this Court said at paragraph 80 of Olanzapine, cited above, that the promise of the patent must be ascertained, it should not be taken to have assumed that every patent contains an explicit promise of a specific result since, subject to what is said below with respect to selection patents, there is no obligation on the part of the inventor to disclose the utility of his invention in the patent. In Olanzapine, the Court was simply indicating that the firs step in assessing utility was to determine the standard against which utility will be measured. This requires the Court to construe the patent to determine if a person skilled in the art would understand it to contain an explicit promise that the invention will achieve a specific result. If so, the inventor will be held to that promise. If there is no explicit promise of a specific result, then a mere scintilla of utility will do.
+[93]
+At paragraph 54, Pelletier JA wrote that if a patent promises more than it can deliver, it would be invalid; but Courts should not strive to defeat otherwise valid patents:
+54 An inventor whose invention is described in a patent which would otherwise be valid can nonetheless promise more for his invention than required by the Act so as to render his patent invalid. If he does so, so be it; it is a self-inflicted wound: see Free World Trust v. Électro Santé Inc., 2000 SCC 66, [2000] 2 S.C.R. 1024, at paragraph 51. But Courts should not strive to find ways to defeat otherwise valid patents. As the Supreme Court said  <FRAGMENT_SUPPRESSED> , cited above, and reiterated some twenty years later in Whirlpool, cited above, at paragraph 49(g)
+:
+We must look to the whole of the disclosure and the claims to ascertain the nature of the invention and methods of its performance, ( <FRAGMENT_SUPPRESSED> ]) being neither benevolent nor harsh, but rather seeking a construction which is reasonable and fair to both patentee and public. There is no occasion for being too astute or technical in the matter of objections to either title or specification for, as Duff C.J.C. said, giving the judgment of the Court in Western Electric Company, Incorporated, and  <FRAGMENT_SUPPRESSED> ], at p. 574, "where the language of the specification, upon a reasonable view of it, can be so read as to afford the inventor protection for that which he has actually in good faith invented, the court, as a rule, will endeavour to give effect to that construction". (my emphasis)
+[94]
+At paragraph 67, with reference to the specific case before him, Pelletier JA wrote that a distinction must be made between the potential use to which an invention may be put, and an explicit promise to achieve a specific result identified in the patent:
+67 The frailty of the Trial Judge's conclusion is even more apparent when the distinction drawn in the jurisprudence between the potential use of an invention and an explicit promise to achieve a specific result is considered. As Dr. Byrn made clear, the inventive step was in the differential activity and tolerability of clopidogrel as demonstrated in rats. The pharmaceutical industry's interest of the invention obviously lay in its potential use in humans which the invention foreshadowed. The person skilled in the art would understand that in alluding to this possibility, the inventors were not promising that this result had been or would be achieved. As was held in  <FRAGMENT_SUPPRESSED> :
+I accept AstraZeneca's argument that not all statements of advantage in a patent rise to the level of a promise. A goal is not necessarily a promise. The third paragraph of the 420 Patent refers to a forward looking goal, a hoped-for advantage of the invention. (my emphasis)
+ <FRAGMENT_SUPPRESSED>  [2011] F.C.J. No. 1262 (Q.L.) at paragraph 139. For other examples of this distinction, see  <FRAGMENT_SUPPRESSED>  [2012] F.C.J. No. 386, at paragraph 61,  <FRAGMENT_SUPPRESSED>  [2012] F.C.J. No. 422, at paragraphs 32-33.
+[95]
+At page 4 of the '426 patent, the "promise" can be said to be contained in the last sentence of the first paragraph:
+To ensure good bioavailability of the compound, it is therefore advantageously provided in a form that promotes rapid dissolution thereof.
+[96]
+At the next paragraph, the reader is told that the drospirenone may be provided in micronized form or by dissolving it in a suitable solvent and spraying it on inert carrier particles.
+[97]
+The third paragraph at page 4 is the one upon which Cobalt fixes to argue inutility:
+Without wishing to be limited to any particular theory, it appears that the in vitro dissolution rate of drospirenone is connected to the dissolution rate in vivo resulting in rapid absorption of drospirenone in vivo on oral administration of the compound. This is an advantage because isomerization of the compound in the gastric environment and/or hydrolysis in the intestine is substantially reduced, leading to a high bioavailability of the compound.
+[98]
+This paragraph cannot be construed as a promise. Rather it is an effort, without being limited to a particular theory, to explain why a rapid dissolution form of the acid-labile substance drospirenone works even in the acidic environment of the stomach.
+[99]
+Dr. Davies reviewed the Examples set out in the '426 patent in detail. I will set out his conclusion at paragraph 14 of his Validity Affidavit:
+Utility
+14. The data presented in the '426 Patent supports the patent's promise that a rapidly dissolving drospirenone formulation achieves high bioavailability. Contrary to Cobalt's suggestion, it is clear that Example 4 uses the same micronized formulation as that used in the earlier examples. Furthermore, there is no need for an in vitro/in vivo correlation since the patent not purport to rely on in vitro studies as a surrogate for in vivo studies. Instead, the patent discloses in vivo studies that establish that rapidly dissolving drospirenone formulations achieve high bioavailability.
+[100]
+I am satisfied that Cobalt's allegations as to inutility and lack of sound prediction are not justified.
+8.
+Overbreadth and Insufficiency
+[101]
+Cobalt's allegations as to Overbreadth and Insufficiency are set out at paragraphs 340 to 344 of its Notice of Allegation, as follows:
+JJ. Overbreadth
+340. The legal test is set out at paragraph 77 above.
+341. The specification teaches only the use of drospirenone in mnicronized form and defines this as having both a surface area of more than 10,000 cm2/g and a particular particle size of distribution.
+342. Thus, the patentee provides that the subject matter of the 426 Patent is limited to micronized drospirenone with certain characteristics. However, independent claims 30 to 35 and 44 to 46, dependent claims 36 to 42 and 47 to 51, are not so limited and, if they are interpreted to include drospirenone particles that are not micronized (which would be incorrect in our view), then these claims are overbroad.
+KK. Insufficient Specification
+343. The legal test is set out at paragraph 67 above.
+344. The specification of the 426 Patent is insufficient to support a claim to drospirenone other than micronized drospirenone with the specific features set out in the specification. To the extent that independent claims 30 to 35 and 44 to 46, dependent claims 36 to 42 and 47 to 51, are interpreted to include drospirenone particles that are not micronized (for example, drospirenone that has a surface area of more than 10,000 cm2/g, but no particular particle size distribution), then the specification is insufficient to support these claims
+[102]
+These allegations all require that claims 30, 31, and their dependent claims, are to be restricted to drospirenone in its micronized form. I have not construed those claims in that way; therefore, I do not find the claims overbroad or the patent lacking in sufficiency.
+9.
+Ambiguity
+[103]
+Cobalt's Counsel restricted its argument in respect of ambiguity as raised in its Notice of Allegation, paragraphs 352 to 360 to one ground; namely, that raised in paragraphs 354 to 356, that the use of the word "about" in specifying the dosage ranges of drospirenone renders the claims using that word - including claims 1, 30, and 31 - ambiguous.
+[104]
+For example, claim 1 says:
+a pharmaceutical composition comprising from
+about
+2 mg to
+about
+4 mg of micronized drospirenone and
+about
+0.01 mg to
+about
+0.05 mg of [ee]
+[105]
+Dr. Pramar's evidence at paragraphs 158 to 161 of her Validity Affidavit does little more than state, at paragraph 161:
+161. The word "about" is vague and does not adequately define the so-called invention in the 426 Patent. The phrases I have listed at paragraphs 158 to 160 above cover a large range and would be interpreted differently by different readers. Thus, independent claims 1, 13, 20, 21, 24, 30 to 35, 43 to 45, 52 and 53 (and the claims dependent on them), are ambiguous.
+[106]
+Dr. Davies does better than that in referring in his affidavit at paragraph 275, and Exhibit M, to a reference - the USP - defining the word "about", when used in a pharmaceutical context, to a quantity within 10% . He affirmed this in answer to questions 713 to 716 of his cross-examination. I agree with him and find no ambiguity:
+275. Therefore, in order to determine the definition of the term "about", the skilled person would refer to the USP. As with the current version of the USP, USP 24 (published in 1999) defines the term "about" as indicating a quantity within 10%. I have attached this excerpt from the USP 24 as Exhibit M.
+10.
+Conclusion Respecting the '426 Patent
+[107]
+In conclusion, I find that none of the Cobalt allegations as to non-infringement or invalidity as raised in the Notice of Allegation and as restricted in argument, are justified.
+THE '728 PATENT
+1.
+Person of Ordinary Skill in the Art
+[108]
+The '728 patent describes the field of invention as the common use of estrogens and gestagens for the production of a combination preparation for oral contraception. It deals with the reduction of the individual dose per day and an extension of days over which the dose is taken. As such, I accept Bayer's definition of a person of ordinary skill in the art (POSITA) to which the patent is addressed; which definition is not too different from that proposed by Cobalt. The POSITA is someone versed in the field of oral contraceptives, whether as a biological scientist with a doctorate degree as medical doctor with several years of experience in prescribing oral contraceptives, or in the research and development of oral contraceptives.
+2.
+Where the Shoe Pinches - Dose Equivalent
+[109]
+The claims at issue call for a dosage of drospirenone, the maximum (or in the case of claim 7, the only) dosage, being a "dose equivalent of 0.075mg (75µg) of gestodene". Cobalt argues that this "dose equivalent" cannot be calculated properly or, if it can, it results in about 2 mg of drospirenone; in which case Cobalt's product cannot be said to infringe, because Cobalt's product contains about 3 mg of drospirenone.
+[110]
+I will consider this matter further in reviewing the Description and Claims of the patent.
+3.
+The Description
+[111]
+The '728 patent is to be construed by the Court, through the eyes of a POSITA, as of the date that the patent application was laid open for public inspection June 29, 1995.
+[112]
+The descriptive portion of the patent begins at page 1 with a brief description of the field of the invention:
+Description
+This invention relates to the common use of estrogens and gestagens for the production of a combination preparation for oral contraception and a corresponding pack containing this combination preparation.
+[113]
+The description continues with references to known combination (estrogen/gestagen) oral contraceptives administered for 21 days, and a 7-day interruption. Other known oral contraceptives that are administered for more than 21 days and bridged over by estrogen dosages, are described. A particular combination drug described in a European patent EP-A-O 25 3 607 used to offset hormonal irregularities is described.
+[114]
+The patent describes, at the bottom of page 2 and over to page 3, that a reduction in the estrogen and gestagen dosages is desirable to minimize undesired side effects. The dilemma posed is that of maintaining contraceptive effectiveness against the risk of cardiovascular disease is expressed at the bottom of page 3, over to page 4:
+It is assumed that a correlation exists above all between the level of the estrogen dose and the incidence of cardiovascular diseases. But the maintenance of the contraceptive effectiveness stands in the way of an extreme reduction of the daily estrogen dose. Although the ovulation-inhibiting effect of the low-dosed oral contraceptives is caused mainly by the gestagenic component, the estrogenic component also makes a significant contribution to the central inhibition action and to the ovarian suppression (ovulation inhibition). Moreover, the daily estrogen dose must not fall below the minimum dose ranges, so that a satisfactory cycle control can be assured (Der Frauenarzt [The Gynecologist]; 34, 7: 793 (1993)].
+[115]
+At page 4, the patent describes the lowest estrogen dose product on the market, and several studies.
+[116]
+The object of the invention is stated at page 5:
+The object of this invention is an improved single-phase combination preparation for a female of reproductive age, who is not yet in premenopause, containing an estrogen and gestagen in each individual dosage unit, with the lowest possible estrogen content in each individual dosage unit, but also with a low total hormone content per administration cycle.
+[117]
+The solution follows; a formulation to be taken for 23 or 24 days, followed by a 5 or 4 day rest:
+It has now been found that a pronounced ovarian suppression without frequent follicular maturations with low daily estrogen dosage, low total estrogen as well as low total hormone amount per administration cycle can be achieved by the use of a composition comprising an estrogen selected from
+2.0 to 6.0 mg of 17β-estradiol and
+0.015 to 0.020 mg of ethinylestradiol;
+And a gestagen selected from
+0.05 to 0.075 mg of gestodene,
+0.075 to 0.125 mg of levonorgestrel,
+0.06 to 0.15 mg of desogestrel,
+0.06 to 0.15 mg of 3-ketodesogestrel,
+0.1 mg of drospirenone to a drospirenone dose equivalent to 0.075 mg of gestodene.
+0.1 mg of cyproterone acetate to a cyproterone acetate dose equivalent to 0.075 mg of gestodene,
+0.2 to 0.3 mg of norgestimate and
+>0.35 to .075 mg of norethisterone
+for the production of a form of dosage for contraception for a female of reproductive age, who has not yet reached premonopause, by administration of the form of dosage for 23 or 24 days, beginning on day one of the menstrual cycle (first day of menstrual bleeding), followed by 5 or 4 pill-free or sugar pill days, during a total of 28 days in the administration cycle.
+The terms "premenopause" and "menopause" are used within the scope of this invention in the meaning of the conventional definition, see, for example, "The Controversial Climacteric," P.A. of Keep et al., Ed., NTP press (1981), e.g., p. 9.
+The daily hormone dose is kept to a very low level here, while the usual 21-day intake is extended by two or three days. The remaining 5 or 4 days of a cycle are preferably bridged over by placebos, to avoid intake errors, or by 5 or 4 intake-free days.
+[118]
+Preferred embodiments follow. Drospirenone is never mentioned individually, but always as a member of a group from which a selection may be made. The narrowest range of dosage for drospirenone is 0.25 mg to a "dose equivalent to 0.075 mg of gestodene".
+[119]
+At page 8 and following, the patent says that an "especially preferred" combination includes 75µg (0.075 mg) of gestodene. A clinical study performed using gestodene follows.
+[120]
+Starting at the bottom of page 9 and on page 10 is a summary of advantages of the preparation administered over 23 days. I do not take this to constitute a "promise" for utility purposes; rather, it is a summary of obviousness as to the use over that period:
+The advantages of a combination preparation for oral contraception to be administered over 23 days relative to the usual 21-day preparations with less than 30 µg of ethinylestradiol can be characterized as follows
+:
+1. A significantly lower frequency of follicular developments in the user (maximum of 13% in females who received the 23-day preparation relative to a maximum of 40% among those who received the 21-day preparation). This means a greater contraceptive reliability of the 23-day preparation, especially in the case of previous intake errors. The danger of "breakthrough ovulations" is smaller.
+2. The occurrence of large follicles of more than a 30 mm diameter is extremely rare. The development of ovarian cysts is improbable with the 23-day preparation in comparison to the 21-day preparation.
+3. The recruitment of dominant follicles is suppressed in the shortened intake-free pause
+.
+4. The endogenous 17 -estradiol levels are suppressed easily controllably in the case of the majority of the users of the 23-day preparation. Clinical symptoms such as breast tenderness, premenstrual syndrome and menstrual disorders, which can be attributed to increased and greatly fluctuating estrogen levels, are observed with the 23-day preparation with clearly lower frequency.
+In summary, an intake, extended by two (or three) days, of preparations containing 20 µg of ethinylestradiol in each daily dosage unit can produce the above-mentioned advantages, without the daily dose having to be raised to the previously largely used level of 30 µg of ethinylestradiol.
+[121]
+At page 11, there is a discussion of formulation and packaging. Then, in the last two paragraphs and over to page 11, there is a critical discussion respecting dose equivalents:
+Moreover, reference is made to the statements made in EP-A O 253 607, especially also to the statements there for determination of equivalent amounts of ethinylestradiol and 17 -estradiol, on the one hand, and various gestagens, such as levonorgestrel, desogestrel, 3-ketodesogestrel and gestodene, on the other hand.
+For further details for the determination of dose equivalents of various gestagenic active ingredients, reference is made to "Probleme der Dosisfindung: Sexualhormone" [Problems of Dose-Finding: Sex Hormones]; F. Neumann et al. in "Arzneimittelforschung" (Pharmaceutical Agent Research) 27, 2a, 296-318 (1977), as well as to "Aktuelle Entwicklungen in der hormonalen Kontrazeption" [Current Developments in Hormonal Contraception]; H. Kuhl in Gynäkologe" [Gynecologist] 25: 231-240 (1992).
+[122]
+The remainder of the description relates to the Figures.
+[123]
+The claims - 19 in all - follow.
+4.
+The Claims - Construction
+[124]
+Bayer's Counsel stated at the hearing that only claims 1, 2, 6, 7 and 8 would be put in issue. They are:
+1. Use of an oral dosage form comprising an estrogen selected from
+2.0 to 6.0 mg of 17ß-estradiol and
+0.015 to 0.020 mg of ethinylestradiol;
+and a gestagen selected from
+0.05 to 0.075 mg of gestodene;
+0.075 to 0.125 mg of levonorgestrel,
+0.06 to 0.15 mg of desogestrel,
+0.06 to 0.15 mg of 3-ketodesogestrel,
+0.2 to 0.3 mg of norgestimate,
+>0.35 to 0.75 mg of norethisterone,
+0.1 mg of drospirenone to a drospirenone dose equivalent to 0.075 mg of gestodene, and
+0.1 mg of cyprotereone acetate to a cyprotereone acetate dose equivalent to 0.075 mg of gestodene;
+for contraception for a female of reproductive age who has not yet reached premenopause, by administration of the form of dosage for 23 or 24 days, beginning on day one of the menstrual cycle, followed by 5 or 4 pill-free or placebo pill days, for a total of 28 days in the administration cycle.
+2. Use according to claim 1, whereby the estrogen is ethinylestradiol.
+6. Use according to claim 1, 2, or 3, whereby the gestagen is cyproterone acetate or drospirenone.
+7. Use according to claim 1, whereby the dosage form comprises an estrogen selected from
+>2.0 to 6.0 mg of 17ß-estradoil and
+0.020 mg of ethinylestradiol;
+and a gestagen selected from
+> 0.06 to 0.075 mg of gestodene,
+> 0.100 to 0.125 mg of levelonorgestrel,
+> 0.10 to 0.15 mg of desogestrel,
+> 0.10 to 0.15 mg of 3-ketodesogestrel,
+0.25 mg of drospirenone to a drospirenone dose equivalent to 0.075 mg of gestodene,
+0.01 mg of cyprotereone acetate to a cyproterone acetate dose equivalent to 0.075 mg of gestodene;
+0.02 to 0.3 mg of norgestimate and
+0.050 to 0.75 of norethisterone.
+8. Use according to claim 1, whereby the estrogen is present in a dose of 20µmg of ethinylestradiol or an equivalent dose of 178ß-estradiol and the gestagen is present in a dose of 75µg of gestodene or an equivalent dose of levonorgestrel, cyproterone acetate or deospirenone.
+[125]
+All of these claims are "use" claims. They are all directed to a use of a combination drug for contraception in females of a certain age. All except claim 2 (and dependent claim 6) provide for a selection of estrogen from two candidates. All except claim 6 provide for a gestagen selected from numerous candidates. Claim 6 reduces those candidates to two; one of which is drospirenone.
+[126]
+In all claims except claim 8, a range of dosages for drospirenone is provided, commencing at either 0.1 mg or 0.25 mg at the low end. The high end is always a "dose equivalent to 0.075 mg or gestodene". Claim 8 provides for only one dosage of drospirenone, an equivalent to 75µg of gestodene. It is noted that 0.075 mg is the same as 75µg.
+[127]
+The experts for the parties, Dr. Shulman for Bayer; Dr. Bhavnani for Cobalt; both agree that the patent does not disclose what a "dose equivalent" of drospirenone would be. The patent provides a discussion of tests conducted only with respect to gestodene.
+[128]
+Neither expert relied upon the European '607 patent, nor the papers (Neumann & Kuhl) cited at pages 10 - 11 of the '728 patent as being useful in determining the "dose equivalent" of drospirenone to 0.075 mg of gestodene.
+[129]
+Dr. Bhavnani points out in his affidavit at paragraph 32 that the dose equivalent of any compound depends on how the activity of that compound is measured and the intended pharmacological effect/end point for the compound. At the hearing, I postulated an example wherein two teaspoons of brown sugar may be a dose equivalent of three teaspoons of white sugar. I was reminded that that may be so if sweetness was being measured, but different if calories were being measured.
+[130]
+Dr. Bhavnani did a calculation that would have been used by a person skilled in the art at the relevant time, in which the selected end point was the inhibition of pregnancy through making the endometrium unsuitable for implantation by an embryo. He found that the dose equivalent of drosperinone to 75µg of gestodene was no more than 2 mg. This coincides with the 2 mg dose found to inhibit ovulation, as published in a study by Oelkers in 1991.
+[131]
+Dr. Shulman was apparently given in 2012 a group of papers uncovered by someone on the Bayer legal team; probably in 2008. Among those papers was a paper published by Oelkers some time in 1995. There is no evidence as to whether it was published before or after the Canadian filing date for the '728 patent. It was certainly published after the December 1994 priority date, and it certainly is not mentioned in the '728 patent.
+[132]
+Relying on the 1995 Oelkers paper, Dr. Shulman contends that the "dose equivalent" is raised from 2 mg to 3 mg. He says at paragraph 63 of his affidavit:
+63. The paper by Oelkers (1995) stated that although "the threshold dose of drospirenone for inhibition of ovulation was found to be 2 mg:, 3 mg was chosen to "provide a safety margin for clinical use". The positive results of the study would suggest to the skilled person that 3 mg had evolved as the frontrunner for the preferred dose. Also, 2 mg had been identified as the minimum ovulation inhibition dosage and it is evident (from both the patent and the prior art) that 75 µg of gestodene did not represent the minimum ovulation dosage,. Taken together, these facts suggest that as between the clinically effective dosages of 2 and 3 mg of drospirenone, the upper-end dose of 3 mg of drospirenone would be considered by the skilled person as equivalent to 75 µg of gestodone.
+[133]
+Dr. Bhavanani strongly disagrees. He wrote at paragraphs 76 to 79 of his affidavit:
+76. At paragraph 63, Dr. Shulman concludes that from reading these prior art papers the person skilled in the art would somehow have deduced that "as between the clinically effective dosages of 2 and 3 mg of drospirenone, the upper-end dose of 3 mg of drospirenone would be considered ...as equivalent to 75µg of gestodene".
+77. However, Dr. Shulman provides limited reasoning in this respect and it is not clear how he reaches this conclusion. The only relevant piece of information provided by the prior art papers cited by Dr. Shulman is that a product containing 2 mg of drospirenone administered in a daily dosage will suppress ovulation in normal women and that a product containing 3 mg of drospirenone will provide a "safety margin for clinical use".
+78. In contrast, the 728 Patent attempts to show that a product containing 75µg gestodene + 20 µg ethinylestradiol when administered for 23 days instead of 21 days will supposedly result in certain specific advantages (namely, lower frequency of follicular development, reduced occurrence of large follicles and recruitment of dominant follicles and suppression of 17 -estradiol levels such that clinical symptoms like breast tenderness, premenstrual syndrome and menstrual disorders are reduced). None of the prior art papers referenced by Dr. Shulman indicate what dosage range of drospirenone is required in order to produce these benefits.
+79. Clinical effectiveness at suppressing ovulation is obviously not the same thing as the certain specific advantages listed in the disclosure of the 728 Patent, nor is it the same thing as "contraception" which is the pharmacological effect/endpoint claimed in the 728 Patent.
+[134]
+I find that there is no certainty as to what precise dosage would be found to be the drospirenone equivalent of 75µg of gestodene. The most likely answer is that it is 2 mg, an amount that would suppress ovulation. To find otherwise would require the reader to scour the literature as of the relevant time, the date of publication, and either pick the highest number then available, or to attempt to make a reasoned choice among the numbers available. In neither case does any claim at issue define "distinctly and in explicit terms the subject matter of the invention" as required by subsection 27(4) of the
+Patent Act
+.
+5.
+Non-Infringement
+[135]
+Cobalt's product will contain 3 mg of drospirenone. I have construed the claims such that they claim, as a maximum or only dosage, either 2 mg or drospirenone or an indeterminate amount of drospirenone. Cobalt's product will not infringe any claim at issue.
+6.
+Obviousness
+[136]
+In oral argument, Cobalt's Counsel restricted the obviousness argument to two pieces of prior art. The first was the European '607 patent (EP-A-O-253 607) which is referenced at page 2 of the '728 patent. The other is the Canadian '780 patent (2,016,780). The '780 patent is not referenced in Cobalt's Notice of Allegation in respect of Obviousness. It is only referenced in Cobalt's Notice of Allegation in respect of Double Patenting allegations, which I will address next.
+[137]
+I will consider only the European '607 patent in the obviousness context. That patent does not disclose drospirenone as any of the ingredients. It lists three estrogens and a group of five progestogens from which a two-compound product may be made and administered to pre-menopausal women for 22 to 26 days, followed by 2 to 5 rest days with the preferred cycle being 24 days with a 4-day rest. The dosages are below those used in conventional oral contraceptives.
+[138]
+I agree with the conclusions of Dr. Shulman at paragraph 40 of his affidavit that the compositions disclosed in the '607 patent would not have been considered for use in contraceptive preparations in younger women.
+[139]
+I find no evidence that a person skilled in the art would have found in the '607 patent sufficient to motivate an inquiry that would have been likely to lead to the invention claimed in the '728 patent.
+7.
+Double Patenting
+[140]
+Double Patenting gives expression to the concept that the same person should not be able to extend the monopoly which it has in respect of a patent, by securing a further patent that covers the same claimed invention or an obvious equivalent. If the first patent was published sufficiently before the application for the further patent, then it will simply serve as a piece of prior art and the further patent may be invalid for lack of novelty or obviousness. Thus, it is only when the further patent was applied for at a time when the first patent cannot serve as prior art that double patenting becomes an issue. Obviously, both patents must be owned by the same patentee.
+[141]
+In this case, Cobalt has alleged that the '728 patent cannot be valid in light of Canadian Patent No. 2,016,780 (the '780 patent) issued and granted to Schering (now Bayer) on July 11, 2007 based on an application filed November 16, 1990. The '780 patent expired November 16, 2010.
+[142]
+The second patent asserted by Cobalt is the other patent at issue in these proceedings, the '426 patent. The application for that patent was filed August 31, 2000. The patent was issued and granted to Schering (Bayer) on February 27, 2006. The patent will expire August 31, 2020.
+[143]
+The application for the '728 patent was filed December 22, 1994. The patent was issued and granted to Schering (Bayer) on September 1, 2009. The '728 patent will expire December 22, 2014.
+[144]
+Given the expiry date of each of the '426 patent (August 31, 2020) and the '728 patent (December 22, 2019), it is obvious that the '426 patent may be challenged for Double Patenting in light of the '728 patent, but not the other way around. Only the '728 patent has been challenged by Cobalt in light of the '426 patent. Thus, that challenge is not justified.
+[145]
+That leaves the '780 patent. The question is whether the monopoly claimed there was improperly extended by the '728 patent. As stated by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> the question to ask is whether the claims of one are identical or coterminous with the other; or, if not, whether the claims are not patentably distinct.
+[146]
+At this stage, some weeding out of the claims is required. Bayer has put in issue claims 1, 2, 6, 7 and 8 of the '728 patent. Cobalt, in its Notice of Allegation, has challenged claims 1 to 3, 6 to 12, and 14 to 19 of the '728 patent on the basis of Double Patenting. Thus, they have challenged all the claims put into play by Bayer. The affidavit of Dr. Bhavnani challenges additional claims not put in issue by Bayer or Cobalt. Interestingly, claim 1 is not challenged by Dr. Bhavnani, except in broad terms.
+[147]
+Dr. Bhavnani's evidence is cryptic, it is set out at paragraphs 117 and 118 of his affidavit. He simply says that the claims of the '728 patent "overlap" with the subject matter of the '780 patent or are an "obvious variant". This is simply to state conclusions of law, which are conclusions for the Court to make. Dr. Bhavnani gives little evidence that would assist the Court.
+[148]
+On the other hand, Dr. Shulman, at paragraphs 209 through 214 of his affidavit, clearly states that what is claimed in the '780 patent is clearly distinguishable from what is claimed in the '728 patent, and that the '780 patent does not teach anything that would make that which is claimed in the '728 patent obvious. I prefer his evidence.
+[149]
+I find that Cobalt's allegations as to Double Patenting are not justified.
+8.
+Utility and Sound Prediction
+[150]
+Cobalt argues that the '728 patent only discloses studies done on gestodene and, at page 8 of the patent, last full paragraph, makes a sweeping statement that those studies represent a class of gestagens of which eight are named; one being drospirenone. Dr. Düsterburg, one of the named inventors, admitted under cross-examination that, prior to the filing of the patent application, no studies on any compound other than gestodene had been conducted. Dr. Bhavnani states that there is no structural relationship between the gestodene molecule and the drospirenone molecule, and that it is overly simplistic to assume that all progestins are the same.
+[151]
+Care must be taken to ensure a proper understanding as to the utility of the invention as stated in the '728 patent. That utility is stated at pages 5 and 6 of the patent:
+The object of this invention is an improved single-phase combination preparation for a female of reproductive age, who is not yet in premenopause, containing an estrogen and gestagen in each individual dosage unit, with the lowest possible estrogen content in each individual dosage unit, but also with a low total hormone content per administration cycle.
+It has not been found that a pronounced ovarian suppression without frequent follicular naturations with low daily estrogen dosage, low total estrogen as well as low total hormone amount per administration cycle can be achieved by the use of a composition an estrogen selected from
+2.0 to 6.0 mg of 17ß-estradiol and
+0.015 to 0.20 mg of ethinylestradiol,
+and a gestagen selected from
+0.05 to 0.075 mg of gestodene,
+0.075 to 0.125 mg of levonorgestrel,
+0.06 to 0.15 mg of desogestrel,
+0.06 to. 0.15 mg of 3-ketodesogestrel
+0.1 mg of drospirenone to a drospirenone dose equivalent to 0.075 mg of gestodene,
+0.1 mg of cyproterone acetate to a cyproterone acetate dose equivalent to 0.075 mg of gestodene,
+0.2 to 0.3 mg of norgestimate and
+>0.035 to .075 mg of norethisterone
+for the production of a form of dosage for contraception for a female of reproductive age, who has not yet reached premenopause, by administration of the form of dosage for 23 to 24 days, beginning on day one of the menstrual cycle (first day of menstrual bleeding), followed by 5 or 4 pill-free or sugar pill days, during a total of 28 days in the administration cycle.
+[152]
+The list of "advantages", commencing at page 9 and over to page 10, has previously been set out in these Reasons. That list should not be elevated to a "promise"; it is simply an observation as to advantages expected to be achieved. As expressed by Pelletier JA in
+ <FRAGMENT_SUPPRESSED> in alluding to a possibility, an inventor is not promising a result to be achieved; a goal is not necessarily a promise.
+[153]
+Dr. Düsterberg gave evidence as to the studies conducted using gestodene, and the conclusions reached are consistent with what I have found the patent to promise. Dr. Shulman, Bayer's independent expert, agrees. Dr. Bhavnani, Cobalt's expert, does not disagree.
+[154]
+Dr. Shulman, in paragraphs 143 to 149 of his Validity Affidavit, explains why, based on Dr. Düsterberg's work, a sound prediction as to the other gestagens could be made.
+[155]
+Having considered the evidence, I am not satisfied that Cobalt's allegations as to lack of utility and sound prediction are justified. The evidence of Drs. Düsterberg and Shulman satisfied me that utility as to gestodene was established, and the utility of the other gestagens was soundly predicted.
+9.
+Method of Medical Treatment
+[156]
+The claims of the '728 patent at issue; claims 1, 2, 6, 7 and 8, are all directed to the
+use
+, in oral dosage form, for contraception for a female of a certain age, of a composition drug with two active components; an estrogen and a gestagen.
+[157]
+Claim 1 provides for a selection of one of two estrogens, each with a range of dosages and a selection of one of eight gestogens; each with a range of dosages.
+[158]
+Claim 2 narrows the choice of estrogens to one. Claim 6 narrows the range of gestagens to one of two. Claim 7 gets back to claim 1 with two estrogens and several gestagens. One estrogen is a single dosage; the range of dosages for the gestagens is narrowed.
+[159]
+Claim 8 is restricted to a single dosage (not a range) of one of two estrogens; and a single dosage, not a range, of one of three gestagens.
+[160]
+I reviewed the law recently in respect of method of medical treatment in
+ <FRAGMENT_SUPPRESSED>  paragraphs 70 to 101. In the present case, all claims are clearly expressed in terms of
+use
+for a
+contraceptive
+. All claims except claim 8 provide for a range of dosages for one or both of the estrogen and gestagen components.
+[161]
+Dr. Kives' evidence is that in the commercial world, these products are sold in the form of a kit containing tablets of fixed dosages to be used in a daily regimen. On cross-examination, she admitted that in certain exceptional cases she would prescribe a different number of tablets or a different daily regimen.
+[162]
+The point, however, is not whether a commercial product is provided with fixed dosages and regimens. The point is, what do the claims say? All claims at issue are use claims, not product claims. All but claim 8 claim the use as a contraceptive of a two-component drug with each component to be selected from a choice of components, and with each component to be furnished at a dosage within a range of dosages. Claims 1, 2, 6 and 7 are not proper subject matter for a Canadian patent, as they do not claim a vendible product; they provide for a choice to be made by those prescribing or providing contraceptive drugs to choose between a variety of components and a variety of dosage ranges. Only claim 8 survives, as it is directed to a single dosage of each of two compounds.
+10.
+Conclusions Respecting the '728 Patent
+[163]
+In conclusion, in respect of the '728 patent, I have found that Cobalt's allegations as to non-infringement are justified. I have also found that one, but not all, of Cobalt's allegations as to invalidity are justified. In particular, I have found that the allegation that claims 1, 2, 6 and 7 are not patentable because they are directed to a method of medical treatment is justified. As a result, I will dismiss Bayer's application for prohibition in respect of the '728 patent.
+COSTS
+[164]
+Bayer has been successful in respect of one of the two patents that it asserted in these proceedings. As I did in
+ <FRAGMENT_SUPPRESSED> to 193, I find that it is appropriate to allow Bayer one-half of its costs and disbursements otherwise taxable. Costs will be allowed at the upper end of Column IV. Two senior Counsel may be allowed for the hearing; and one for conducting or defending cross-examination. Costs of expert witnesses shall not exceed the fees of senior Counsel for like period of time. Business class travel to and from Europe is reasonable.
+JUDGMENT
+[165]
+FOR THE REASONS PROVIDED
+:
+THIS COURT'S JUDGMENT is that
+:
+1. The application is allowed with respect to Canadian Patent No. 2,382,426 and the Minister of Health is prohibited from issuing a Notice of Compliance to Cobalt in respect of its drospirinone + ethinylestradiol oral contraceptive product until the expiry of that patent;
+2. The application is dismissed in respect of Canadian Patent No. 2,179,728; and
+3. Bayer is entitled to recover one-half of its costs from Cobalt on the basis as set out in the Reasons.
+Application allowed in part.
+Editor: Gary W. McLaughlin/vnh

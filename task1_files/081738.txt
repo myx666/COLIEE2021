@@ -1,0 +1,120 @@
+[1]
+Lutfy, J.
+: The plaintiff Aktiebolaget Hassle ("Hassle") seeks by way of summary judgment a declaration terminating the compulsory license number J2324-39(4)-978 ("License") granted to the defendant Novopharm Limited ( <FRAGMENT_SUPPRESSED> ) in respect of Hassle's Canadian patents numbers 1,127,158 (" '158") and 1,129,417 (" '147") and the medicine omeprazole. The License was granted on October 29, 1991.
+[2]
+The License provides in part:
+"9. If the Licensee commits any breach of a term of this licence, the Patentee may at its option terminate the license by giving thirty (30) days' notice in writing by registered mail, stating the particulars of the breach on which termination is based, and the license shall be terminated automatically upon the expiration of such period, unless the Licensee, within such period, has rectified the breach designated; but such termination shall not affect the right of the Patentee to require a statement of the accounts and payment of accumulated royalties as of the date of termination.
+"10. Notwithstanding paragraph 9, if the Licensee disputes the breach and so notifies the Patentee in writing within the said thirty (30) day period, the license shall not terminate pending adjudication of such dispute by a Court of Justice or by such arbitration procedure for the settlement of such dispute as may be agreed upon by the Licensee and Patentee.
+. . . . .
+"12. The license is not transferrable, and the Licensee is precluded from granting any sub-license."
+[3]
+On November 27, 1992, Novopharm and Apotex Inc. ( <FRAGMENT_SUPPRESSED> ) entered into an agreement ("Agreement") which provides in part:
+"WHEREAS THE Federal Government has introduced Bill C-91 which, if passed, would eliminate compulsory licensing under the
+Patent Act
+,
+"AND WHEREAS Apotex and Novopharm have various licences and licence applications pending which are threatened by Bill C-91.
+"AND WHEREAS, depending on the cut-off dates that will pertain when Bill C-91 is finalized, it is expected that the parties hereto each may hold valid licences for products for which the other may not hold valid licences, details or which cannot be predicted at this time.
+"AND WHEREAS for their mutual benefit in relation to other competitors, the parties wish to ensure that they have available for use licences on the maximum number of products.
+"AND WHEREAS the parties have thus agreed that they will share their rights under licences for any product for which only one of the parties may hold a useable licence.
+"NOW THEREFORE in consideration of the premises and the mutual covenants and other good and valuable consultations (sic), receipt of which is hereby acknowledged, the parties hereto agree as follows:
+"1. At any time subsequent to the date upon which Bill C-91 or any Bill derived therefrom is enacted and proclaimed, for any product for which one party (hereinafter the 'licensed' party) shall hold a useable licence and the other party (hereinafter called the 'unlicensed party') shall not, the licensed party shall, at the request of the unlicensed party, use its licence for the benefit of the unlicensed party in the manner hereinafter set out.
+"2. In the event that the licence is a licence to import, the licensed party shall import from such source, in such quantity, and on such terms as the unlicensed party shall direct, and shall resell the imported goods to the unlicensed party at the cost thereof together with such royalties as shall be payable under the terms of the licence.
+"3. In the event that the licence is a licence to manufacture in Canada, the licensed party shall enter into such contracts with Canadian chemical manufacturers as the unlicensed party shall direct for the manufacture of the relevant material and shall sell the manufactured materials to the unlicensed party at the cost thereafter together with such royalties as shall be payable under the terms of the licence.
+"4. In the event that the licensed party has a source of material from which it imports or in the event that the licensed party is producing the material under a licence to manufacture, and in the event that it is not possible for the unlicensed party to find another source from which to import, or at which to arrange for the manufacture of material, then the licensed party shall supply material to the unlicensed party from the licensed party's source at a price equal to the fair market price of the material together with such royalties as shall be payable under the terms of the licence. Any disagreement as to fair market price shall be settled by binding arbitration.
+. . . . .
+"6. The licensed party shall comply with the terms of the licence.
+"7. The licensed party shall not be excused from performing any act as directed by the unlicensed party pursuant to paragraphs 2 or 3 or 4 hereof, on the grounds that there is doubt as to whether or not the licence has remained in force or permits the requested acts, nor on the basis of litigation or threatened litigation by the patentee, provided that the unlicensed party shall undertake to defend any lawsuit against the licensed party resulting from such act and hold the licensed party harmless for the costs of such lawsuit any damage award arising therefrom.
+"8. For greater clarity, the foregoing paragraphs shall not be limiting, and the licensed party shall cooperate fully with the unlicensed party and follow the directions of the unlicensed party to enable the unlicensed party to enjoy the use of the licence to the same extent that would be possible if the unlicensed party itself held such licence, so long as the licensed party is held harmless from any such use.
+. . . . .
+"11. This agreement shall expire on December 31, 1994 unless extended by mutual agreement.
+. . . . .
+"13. Notwithstanding paragraph 11 hereof, in relation to any specific licence in respect of which the unlicensed party shall have on or before December 31, 1994 advised the licensed party of an intention to utilize such licence, this agreement shall continue in force until expiry of the last patent covered by such licence."
+[4]
+The Agreement was made in anticipation of the 1992 amendments to the
+Patent Act
+which replaced compulsory licensing with the current regime.
+[5]
+The Agreement and a similar one between Apotex and another party have been considered at length in proceedings pursuant to the
+Patent Medicines (Notice of Compliance) Regulations
+("
+Regulations
+") SOR/93-133. These proceedings were launched in response to notices of allegation issued by Apotex. In three 1995 decisions, two different motions judges concluded that Novopharm and Apotex had entered into a supply agreement. [see footnote 1] These three decisions were appealed. A similar decision of a third motions judge was reached in the other matter involving Apotex and another party. [see footnote 2]
+[6]
+On April 1, 1996, the majority of a Court of Appeal panel characterized the Agreement as a sublicense in breach of clause 12 of the License. [see footnote 3] Two subsequent unanimous panels of the Court of Appeal reached the same conclusion by adopting the majority reasoning in the first decision. [see footnote 4]
+[7]
+On April 3, 1996, two days after the first Court of Appeal decision, Hassle gave written notice to Novopharm of its decision to terminate the License on the basis of Novopharm's breach of clause 12. Hassle's notice was delivered pursuant to clause 9 of the License.
+[8]
+On April 11, 1996, pursuant to clause 10 of the License, Novopharm advised Hassle that it disputed the breach of the License and its termination.
+[9]
+On June 4, 1996, Hassle issued its Statement of Claim seeking a declaration that the License is terminated. Its notice of motion for summary judgment was filed on June 15, 1996. Pleadings were closed in July when Novopharm immediately filed its affidavit material in response to the motion for summary judgment. After cross-examination of the deponents for both parties, this motion was heard on November 26-27, 1996.
+[10]
+On February 6, 1997, leave to appeal the three decisions of the Court of Appeal was granted by the Supreme Court of Canada. [see footnote 5]
+[11]
+Hassle's submissions are succinct. The Court of Appeal, as a question of law, interpreted the Agreement to be a sublicense. The terms of the Agreement are unambiguous and oral evidence as to the intention of the parties is inadmissible under the parol evidence rule. A trial would allow for no new relevant evidence. The sublicense constitutes a breach of the terms of the License. The Court of Appeal decisions are binding on the adjudication of this action. Accordingly, in Hassle's view, summary judgment should issue declaring the license to be terminated.
+[12]
+Novopharm does not accept that the findings of the Court of Appeal in proceedings pursuant to the
+Regulations
+are binding in this action. [see footnote 6] In its view, a trial is required to hear witnesses as to how the Agreement was to be implemented, testimony which it suggests would not be excluded by the parol evidence rule.
+[13]
+According to Novopharm, there are at least three other factual issues in dispute. Because the Agreement has never been implemented in respect of the License and patents '158 and '147, in part because of two prohibition orders issued against Novopharm and Apotex, [see footnote 7] there cannot have been a breach of clause 12 of the License. Secondly, clause 11 of the Agreement stipulates an expiry date of December 31, 1994 and clause 13 provides for an extension of its duration. At issue is whether a letter of April 27, 1993 from Apotex to Novopharm has the effect of extending the Agreement beyond December 31, 1994. Also, Hassle's silence concerning the supply of raw materials by Novopharm to Apotex constitutes acquiescence as a question of fact and estoppel as an issue of law. In Novopharm's submission, Hassle knew of the "mutual understanding" between Novopharm and Apotex in April 1993 and the existence of the written Agreement in October 1993. The terms of the Agreement were disclosed in February 1995. It was not until the Court of Appeal decision of April 1, 1996, that Hassle moved to terminate the license.
+[14]
+The parties also dispute the efficacy of their respective letters of April 3 and 11, 1996 concerning the termination of the License. This correspondence was exchanged pursuant to clauses 9 and 10 of the License.
+[15]
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) Stone, J.A., acknowledged that the
+Federal Court Rules
+on summary judgment "should be interpreted by reference to their own textual framework" [see footnote 8] but that reliance can be made on the decisions of provincial superior courts in interpreting their corresponding rules. He then went on to refer to the comments of Morden, A.C.J.O., in
+ <FRAGMENT_SUPPRESSED>  O.R.(3d) 545 (C.A.) at 550-551 [O.R.]:
+"A litigant's 'day in court', in the sense of a trial, may have traditionally been regarded as the essence of procedural justice and its deprivation the mark of procedural injustice. There can, however, be proceedings in which, because they do not involve any genuine issue which requires a trial, the holding of a trial is unnecessary and, accordingly, represents a failure of procedural justice. In such proceedings the successful party has been both unnecessarily delayed in the obtaining of substantive justice and been obliged to incur added expense. Rule 20 exists as a mechanism for avoiding these failures of procedural justice.
+"It would be convenient if the term 'genuine issue' could be expressed in a precise formula for the ease of its application. Having regard, however, to the varied and unpredictable ways in which issues under rule 20 may arise, it cannot -- and the experience with rule 56(c) in the United States has shown that it can be harmful to gloss the wording of the rule with expressions that fail to capture its meaning. (See Wright, Miller and Kane, supra, at vol. 10A, pp. 97-107 and 176-77.)
+"It is safe to say that 'genuine' means not spurious and, more specifically, that the words 'for trial' assist in showing the meaning of the term. If the evidence on a motion for summary judgment satisfies the court that there is no issue of fact which requires a trial for its resolution, the requirements of the rule have been met.
+It must be clear that a trial is unnecessary. The burden is on the moving party to satisfy the court that the requirements of the rule have been met
+. Further, it is important to keep in mind that the court's function is not to resolve an issue of fact but to determine whether a genuine issue of fact exists." (emphasis added)
+[16]
+ <FRAGMENT_SUPPRESSED>  the plaintiff accepted what she thought was the oral assurance of a three-year term of employment. She was terminated after nineteen months pursuant to the terms of the written contract. Strayer, J., as he then was, dismissed the defendant's motion for summary judgment with these comments:
+"I am fully cognizant of the desirability of cases being disposed of on a summary basis where there is no real dispute over the law or the facts or where such disputes as there are can be resolved
+. . . . .
+"I do not believe, however, that in the present case I have sufficient evidence before me to decide two essential issues which the plaintiff has identified as follows:
+(a) What constitutes the plaintiff's employment contract -- the verbal discussions which took place with Mr. Husli prior to the plaintiff's arrival in Germany, or the written contract signed thereafter?
+(b) Can the defendant rely on the Personnel Policies which were incorporated by reference into the employment contract?
+"I think these are the essential issues of law and fact to be determined.
+"I am not prepared to accept, at this juncture, that the parol evidence rule necessarily rules out evidence from the plaintiff as to her understanding of the arrangement. I believe a trial judge may want to consider various factors here such as: whether the parties were in an equal bargaining position when the written contract was signed; whether this was a standard form contract; and whether the plaintiff should really be presumed to have known about and understood the personnel policy provisions for termination of contracts. It appears to be that in modern jurisprudence such issues have come to be addressed where a defendant seeks shelter behind a contract which, allegedly, the plaintiff did not in fact understand." (at paragraphs 6-8.)
+[17]
+In this case, Hassle has the burden of establishing that a trial is not necessary. In substance, Hassle makes a direct causal link between the finding of the Court of Appeal on April 1, 1996 that the Agreement is a sublicense in breach of the License and the termination of the License pursuant to clause 9. In my view, this action is not quite that simple. There are, in the words of Mr. Justice Strayer in
+Patrick
+, supra, "essential issues of law and fact to be determined".
+[18]
+In the first Court of Appeal decision concerning the Agreement, Mr. Justice MacGuigan, in writing for the majority, acknowledged that subjectively the parties did not intend to create a sublicense:
+"The reality, not the form, must govern, and the reality seems to me to be that an unauthorized sublicence was created -- unwittingly, I admit, since the parties very much wanted to avoid breaching the licence prohibition against sublicensing. Nevertheless, that was the legal effect of what they did. The agreement was in my view not quite a sham in the usual sense of the word, in that their subjective intention, as revealed by the agreement, was at odds with the objective intention of the document. Nevertheless, the agreement was entered into on a mistaken legal view as to what the parties could get away with." [see footnote 9]
+In addition to their own subjective view, the parties could also rely on the findings of four trial decisions that their Agreement was a supply agreement. It is only with the Court of Appeal decision of April 1, 1996 that the Agreement became in law a sublicense.
+[19]
+In the circumstances, I am not prepared to conclude on the evidence and material before me that the License is terminated. There are unanswered questions that may affect the outcome of this action. Will evidence concerning the intended implementation of the Agreement by the parties and their subsequent conduct as well as that of Hassle affect the interpretation of the License in respect of its termination? [see footnote 10] Does the letter of April 27, 1993 from Apotex to Novopharm continue the Agreement beyond December 31, 1994 pursuant to clause 13 even after the various court decisions or is the Agreement now terminated pursuant to clause 11? Does the consent prohibition order of May 3, 1996, [see footnote 11] thirty days subsequent to Hassle's notice of termination of April 3, 1996, affect in any way the issue of rectification in clause 9 of the License? These and perhaps other similar questions raise, in my view, genuine issues of fact and law that cannot be resolved at this stage of the proceedings. Accordingly, the motion for summary judgment will be dismissed.
+[20]
+These reasons for order assume that the Agreement is a sublicense in breach of the License as stated by the Court of Appeal. Nevertheless, I have concluded that there are genuine issues to be resolved before a court can determine whether the License is terminated. In the circumstances, I have not addressed Novopharm's submissions that the Court of Appeal decisions [see footnote 12] are not binding in the adjudication of this action.
+[21]
+In the same vein, the issue of the jurisdiction of the Federal Court of Canada to terminate a compulsory license remains outstanding. Counsel for Hassle did present relevant case law on this issue. [see footnote 13] However, because of a position adopted by Novopharm in another proceeding, its counsel preferred to make no representations on this issue during the hearing of this motion for summary judgment. It is preferable, in my view, that the issue of jurisdiction be resolved after complete representations are received from both counsel.
+[22]
+Costs will be to the defendant in any event of the cause.
+Motion dismissed.
+Editor: Angela E. McKay/ldl
+Footnotes
+1.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 181 (T.D.):
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 206 (T.D.); and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 483 (T.D.).
+2.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 501 (T.D.). The appeal launched from this decision under Court File No. A-636-95 is in abeyance.
+3.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 329 (F.C.A.) (application for leave to appeal to the Supreme Court of Canada filed on May 31, 1996 under Court File No. 25348).
+4.
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 377 (F.C.A.) (application for leave to appeal to the Supreme Court of Canada filed on June 24, 1996 under Court File No. 25402); and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 455 (F.C.A.) (application for leave to appeal to the Supreme Court of Canada filed on July 8, 1996 under Court File No. 25419).
+5. Ibid. and, supra, note 3.
+6. Novopharm relies on
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) at pp. 598-600 and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 302 (F.C.A.).
+7.
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.) and
+AB Hassle and  <FRAGMENT_SUPPRESSED>  (T.D.) at p. 103.
+9.
+ <FRAGMENT_SUPPRESSED>  be admissible to interpret the License in respect of its termination and, on the other hand, the application of the parol evidence rule to the interpretation of the Agreement as stated by MacGuigan, J.A., in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 349 ( <FRAGMENT_SUPPRESSED>  document]

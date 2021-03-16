@@ -1,0 +1,170 @@
+[1]
+Gagné, J.
+[Translation]: This is an application for judicial review of a decision of an adjudicator appointed pursuant to Division XIV of Part III of the
+Canada Labour Code
+, RSC 1985, c L-2 [Code], dated June 13, 2014, by which the adjudicator allowed the respondent's unjust dismissal complaint and confirmed his right to be reinstated in his employment as a sales representative with the applicant.
+[2]
+The applicant essentially argues that the adjudicator was biased, breached the principles of natural justice and procedural fairness by not allowing him to cross-examine the respondent, and erred in concluding that the respondent had been unjustly dismissed. The applicant also argues that, since the adjudicator severed the hearing, he should not have ruled on the respondent's right to be reinstated in his employ at this stage of the proceedings, which he did.
+[3]
+For the reasons that follow, the employer's application for judicial review will be dismissed.
+I.
+Facts
+[4]
+The applicant is a broadcasting company that owns several radio and television stations.
+[5]
+In April 2008, the applicant hired the respondent as its senior local sales representative. His first contract of employment was for a four-month term and was followed by four consecutive one-year contracts. On September 7, 2012, the respondent received a letter from the applicant, along with his contract of employment for the 2012-2013 fiscal year. The letter stated that he had 48 hours to sign the contract; if he failed to do so, this would be interpreted as a sign of his intention to resign. The contract enclosed with this letter contained the following clause:
+[translation]
+The contract between the parties is for a term of three (3) months and may be renewed if the employee achieves the objective of 15% for new client development, subject however to the cancellation provisions in this contract.
+[6]
+The respondent signed the contract on September 12, 2012, and filed a complaint of constructive dismissal on October 25, 2012. In the complaint, he claims that after he was absent for seven weeks on sick leave in the summer of 2011, the applicant hired some junior sales representatives, transferred nearly 50% of his clients to them for no good reason, changed the title of his position to Advertising Adviser and changed his employment contract to make it a three-month term contract.
+[7]
+On November 13, 2012, the applicant terminated the respondent's employment. His letter of dismissal reads as follows:
+[translation]
+On October 31, 2012, you filed a complaint with Human Resources and Skills Development Canada (HRSDC), a complaint which should have remained confidential. Today, we note that, despite the verbal agreement that you had with [the applicant], you have not honoured this commitment, unfortunately. You yourself have said that you spoke to some of your colleagues about this. Disclosing your complaint to them created a serious climate of insecurity and had a widespread negative influence on many of them.
+[8]
+On November 21, 2012, the respondent filed a second complaint, this time for unjust dismissal under sections 240
+et seq.
+of the Code.
+[9]
+The adjudicator allowed the respondent's unjust dismissal complaint and found that he had been dismissed without good and sufficient cause. The adjudicator was of the opinion that the applicant's evidence did not show that the respondent performed poorly, had a negative attitude or created a [translation] "serious climate of insecurity" among his co-workers by talking about his first complaint. The fact that the respondent exercised his right to file a complaint and talked about it with his colleagues did not constitute a valid ground for dismissal. The adjudicator concluded that the respondent was entitled to be reinstated, and he reserved jurisdiction with regard to the terms of the reinstatement or other possible remedies.
+II.
+Issues and standard of review
+[10]
+In this Court, the applicant is not challenging the adjudicator's decision on the merits, but rather the process followed. The applicant raises the following issues:
+1. Did the adjudicator breach the principles of procedural fairness?
+2. Did the adjudicator exceed his jurisdiction in deciding that the respondent was entitled to be reinstated in his employment?
+[11]
+Since these are questions of procedural fairness and jurisdiction, the applicable standard is correctness (
+REFERENCE_SUPPRESSED).
+III.
+Analysis
+A.
+Procedural fairness
+[12]
+The applicant raises several breaches of the principles of procedural fairness on the part of the adjudicator. First, it submits that the adjudicator's conduct throughout the hearing of the respondent's complaint, which lasted four days, gave rise to a reasonable apprehension of bias. Second, it criticizes the adjudicator for substantially limiting its right to cross-examine the respondent, which is in itself a breach of procedural fairness (
+REFERENCE_SUPPRESSED). Third, it criticizes him for not considering the
+subpoena duces tucem
+served on the respondent and for not forcing him to comply with it and produce the requested documents.
+[13]
+The applicant submitted affidavits from his general manager, Philippe Lefebvre, and from his sales manager, Steve Hayes. These affidavits are almost identical and contain the following allegations (excerpts from the affidavit of Mr. Lefebvre):
+[translation]
+16. I soon realized that Bruno Leclerc [the adjudicator] had a preconceived idea in this case and that he appeared to be biased in favour of the respondent Côté's argument right from the first moments of the hearing (my testimony);
+17. I noted that he did not take any notes when I gave evidence that was important to the applicant's position and that, in contrast, he took many notes when evidence that could be harmful to RNC Média Inc.'s case was given;
+18. When witnesses were examined or cross-examined, he systematically interrupted them to ask questions as if he were counsel for the respondent Côté;
+19. I soon lost confidence in the process and in the decision maker's impartiality;
+. . .
+21. In the last two (2) days, Bruno Leclerc completely lost his self-control, in my opinion, leaving no doubt as to his bias;
+22. He constantly interrupted our counsel's examinations and cross-examinations;
+23. He systematically objected to nearly all the questions that our counsel put to the respondent Côté;
+24. He refused to allow our counsel to cross-examine the respondent Côté;
+25. He stated that it was not possible for the Employer to cross-examine the complainant;
+26. He stated that the Employer could only ask open-ended, non-leading questions;
+. . .
+28. Adjudicator Leclerc refused to render a formal decision, even after counsel for RNC Média Inc. requested it, to the effect that counsel was not entitled to cross-examine the respondent Côté;
+. . .
+30. The adjudicator never ordered the respondent to answer the questions of counsel for RNC Média Inc., even though counsel for the respondent did not object and counsel for the applicant had asked that this be done (i.e., that the witness be required to answer);
+. . .
+37. Adjudicator Leclerc repeated that whatever points he might raise and whatever the proceeding, he would continue
+ex parte,
+as he was entitled to do;
+[14]
+The respondent, on the other hand, submitted an affidavit in which he alleges that counsel for the applicant was allowed to conduct a cross-examination with regard to the questions asked by his counsel, that the adjudicator took just as many notes when the applicant's representatives testified, and that counsel for the applicant constantly argued with the adjudicator and threatened to walk out of the hearing if he was not permitted to ask leading questions. It was at that point that the adjudicator allegedly said that if the applicant and his counsel left the hearing room, they would continue
+ex parte.
+Finally, the respondent alleges that the adjudicator did not refuse to suspend the hearing; he actually proposed doing so.
+[15]
+I will begin by addressing the adjudicator's refusal to render an interlocutory decision on the scope of the cross-examination of the respondent by counsel for the applicant. As we shall see further on, the adjudicator instead chose to decide that issue in his adjudication decision. He had full discretion to do so, and even if he had rendered an interlocutory decision
+instanter
+, it could not be the subject of an application for judicial review before this Court. It could only be challenged upon judicial review of the adjudicator's final decision (
+REFERENCE_SUPPRESSED). The adjudicator therefore did not err in informing the applicant that if it and its counsel chose to walk out before the hearing was over, they did so at their own risk, since the hearing could continue without them.
+[16]
+As is commonly the practice in such proceedings, the applicant chose to call the respondent as a witness when making its case. This is the context in which the adjudicator first restricted what the applicant refers to as the cross-examination of the respondent but was, in fact, an examination-in-chief. The adjudicator returned to this issue in his decision and, relying on paragraphs 242(2)(
+b
+) and (
+c
+) of the
+Code
+, submitted that he was in control of the proceeding and of the evidence presented to him and that he was not subject to the rules of the
+Code of Civil Procedure of Québec
+. He was therefore not required to allow counsel for the applicant to put leading questions to his own witness, the respondent. Here is how he disposed of the issue:
+[translation]
+[102] Therefore, when the Employer or its counsel calls the complainant as a witness to establish the facts underlying its claims, it cannot, in my view, rely on article 306 of the
+Code of Civil Procedure
+to ask questions that suggest the desired answer, i.e. leading questions, nor may it criticize the complainant or cross-examine him as it would an opposing party within the meaning of the
+Code of Civil Procedure
+, that is, a party having interests opposed to the party who is questioning him, which is what counsel for the Employer did in this case.
+[17]
+With respect, I am of the opinion that putting leading questions to a witness must be distinguished from criticizing him or her or conducting a proper cross-examination. I have difficulty seeing how counsel for the employer could examine the complainant effectively and encourage the discovery of facts relevant to the complaint if counsel did not have some latitude and could not ask questions in such a way as to suggest the desired answer. Although the adjudication of an unjust dismissal complaint is more akin to an inquiry than to a civil trial, the fact remains that the complainant has interests opposed to those of the employer. The applicant argues that it was entitled to cross-examine the applicant when making its case, while the respondent argues that it was not entitled to ask leading questions. Like Adjudicator Weatherill in
+REFERENCE_SUPPRESSED), I find that the balance lies between these two positions:
+There is no doubt, and the board has already ruled, that the employer is entitled to call the grievor as its witness. In doing so, the employer puts that person forward as a credible witness, and while he is obviously adverse in interest to the employer, he is not necessarily a hostile witness. Unless it is established, either by the witness's behaviour and demeanour (and we would add that it would take an extreme case to lead us to the conclusion required), or by proof of his having made a prior inconsistent statement which he has denied, that he is a hostile witness, then he is not subject, on examination by the party calling him, to the sort of rigorous cross-examination to which one might subject a witness called by the other side. Leading questions which attack his credibility or his powers of observation, for example, may not be put. Counsel may, however, since the witness is adverse (although not hostile), put questions which are leading to a certain degree. We think the criteria for judgment in these circumstances must be realism and fairness. It is not fair, especially in a labour arbitration, to make one's own case by cross-examining the other party whom one calls as one's own witness. On the other hand, it is not realistic to expect enthusiastic and voluminous response from a witness called in such circumstances. Leading questions may be put, then, but with restraint.
+[18]
+Professor Léo Ducharme explains this nuance and the origin of the rule:
+[translation]
+. . . In Quebec law, a witness does not have to be declared "hostile" before leading questions can be put to him or her; all that is necessary is that the witness attempt to elude a question or to favour another party. It is up to the court, however, to assess the witness's conduct, and the court's leave is required to ask the witness leading questions. . . . This exception was inspired by common law rules regarding what are called "hostile" witnesses. (Léo Ducharme and Charles-Maxime Panaccio,
+L'administration de la prevue
+, 4th ed (Montréal: Wilson & Lafleur ltée, 2010), at para 682).
+[19]
+In any event, this argument has little impact on the case at hand.
+[20]
+First, the adjudicator did in fact give counsel for the applicant some latitude in allowing him to put leading questions to the respondent, provided that the questions were relevant. This is apparent from paragraph 58 of his decision.
+[21]
+Second, counsel for the respondent decided in the end to have the respondent testify as part of their case, such that counsel for the applicant had the opportunity to cross-examine him. Although the applicant does not plead in its memorandum of fact and law that its counsel's cross-examination of the respondent was restricted, it did make this argument at the hearing, in response to questions from the Court. Counsel for the applicant responded that he was limited to questions put to the respondent by his counsel, and that he was prevented from bringing up subjects that had already been raised in his own evidence. Counsel for the applicant acknowledged that, given how his examination of the respondent had been limited when he made his case, he did not press the issue and made his cross-examination a rather short one. In his affidavit, the respondent states that he was cross-examined by counsel for the applicant, and this cross-examination is addressed in paragraphs 74 and 75 of the adjudicator's decision.
+[22]
+It is wrong to suggest that a cross-examination must be limited to the subjects covered by the witness upon examination-in-chief. When requests to ask certain relevant questions or to cross-examine on an important aspect of the case are denied, this will generally constitute a breach of natural justice (
+REFERENCE_SUPPRESSED). However, in light of the evidence in the record, I have no reason to believe that such limitations were imposed in this case or that counsel for the applicant did not have the chance and the latitude to cross-examine the respondent when the respondent made his case.
+[23]
+Third, the purpose of the cross-examination of the respondent was to show that his employment had been terminated because of an attitude problem and his refusal to grow his client base and mentor the junior salespeople. However, these facts were in no way raised in the respondent's letter of dismissal, nor were they the subject of any prior disciplinary action against the respondent. Moreover, the applicant's two representatives admit in their affidavits that at no time before the respondent spoke to his co-workers about his first complaint did the applicant consider dismissing him. Even if the respondent had an attitude problem, the adjudicator was correct to conclude that this problem did not warrant dismissal in the circumstances and that this was not, in fact, what motivated the applicant to terminate his employment.
+[24]
+As for the
+subpoena duces tecum
+served on the respondent, the evidence is silent as to its contents, the relevance of the documents requested and the evidence that the applicant was allegedly prevented from introducing. The sole reference to that document is found in the applicant's memorandum, and no mention is made of it in the affidavits or in the impugned decision. The Court therefore cannot rule on this issue.
+[25]
+Finally, the applicable test for determining whether a decision maker's behaviour raises a reasonable apprehension of bias is the one set out by the Supreme Court in
+REFERENCE_SUPPRESSED:
+[T]he apprehension of bias must be a reasonable one, held by reasonable and right minded persons, applying themselves to the question and obtaining thereon the required information. In the words of the Court of Appeal, that test is "what would an informed person, viewing the matter realistically and practically - and having thought the matter through - conclude. Would he think that it is more likely than not that [the adjudicator], whether consciously or unconsciously, would not decide fairly."
+[26]
+Given that no recording or transcript was made of the hearing of the complaint before the adjudicator, the Court finds it rather difficult to assess the decision maker's attitude and impartiality. The evidence on this subject is contradictory. On the one hand, the applicant's two representatives state in their nearly identical affidavits that the adjudicator was biased, constantly interrupted when their counsel examined the witnesses, and did not take any notes. On the other hand, the respondent states the contrary and claims that it was that attitude of counsel for the applicant that was causing problems. The analysis of this evidence is especially limited because there was no examination on affidavit or testimony before the Court.
+[27]
+As the Federal Court of Appeal wrote in
+REFERENCE_SUPPRESSED, it is perilous to find a breach of procedural fairness on the basis of contradictory affidavits.
+[28]
+In the circumstances of this case, I am of the opinion that the applicant has not shown that the adjudicator's behaviour gave rise to a reasonable apprehension of bias. Moreover, if the Court had to choose one version of the facts over another, I am of the view that the respondent's version is more consistent with the adjudicator's observations, particularly with regard to the attitude of counsel for the applicant towards the respondent:
+[translation]
+[62] Counsel for the complainant objected to continuing the examination, arguing that counsel for the Employer was badgering the witness. A debate ensued regarding counsel for the Employer's cross-examination of a witness that he himself had called. He implied that he and his client would walk out of the hearing if the adjudicator did not allow his questions. The adjudicator told counsel for the Employer that the hearing could continue
+ex parte
+and reminded him of the wording of subsection 242(2) and paragraph (
+c
+) of section 16 of the
+Canada Labour Code
+. Counsel for the complainant was ready to continue the hearing
+ex parte
+if necessary.
+[63] The hearing was suspended to allow counsel for the Employer to consult with his client and decide whether to walk out of the hearing or stay.
+[29]
+For all these reasons, I find that the applicant's first argument must be rejected.
+B.
+Did the adjudicator exceed his jurisdiction?
+[30]
+The applicant submits that the adjudicator exceeded his jurisdiction in deciding that the respondent was entitled to be reinstated in his employ because the adjudicator had severed the proceeding and had stated that he would confine himself to determining whether the dismissal was unjust.
+[31]
+Here is the relevant excerpt from his reasons:
+[translation]
+[15] The parties' evidence dealt primarily with the facts that led to the Employer to terminate the complainant's employment and with facts that, according to the complainant, show that the dismissal was unjust. This means that no evidence was presented regarding facts that would allow the adjudicator, if he decides that the dismissal was unjust, to make orders pursuant to subsection 242(4) of the Code. As is the usual practice, I will therefore reserve jurisdiction to hear this evidence after the fact, if necessary, and make orders pursuant to that provision of the Code if need be.
+[32]
+And here are the conclusions in his decision which are relevant to the consideration of this issue:
+. . .
+DECLARES that Denis Côté is entitled to be reinstated in his employ;
+RESERVES jurisdiction to order this reinstatement at the request of a party, set the terms of the complainant's reinstatement and resolve any difficulty arising from the reinstatement order;
+. . .
+[33]
+With respect, I see no contradiction between what the adjudicator wrote in his reasons and what he rendered as an order. Since he did not rule on the respondent's constructive dismissal complaint, he will necessarily have to hear the evidence needed to complete his adjudication award and make the orders that the Code allows him to make. I find that the adjudicator could rule on the respondent's right to be reinstated in his employ while reserving his jurisdiction with regard to the terms of the reinstatement and with regard to any other order that subsection 242(4) of the Code allows him to make.
+IV.
+Conclusion
+[34]
+I am therefore of the opinion that the applicant's application for judicial review should be dismissed with costs.
+JUDGMENT
+[35]
+THIS COURT'S JUDGMENT is that:
+1. The application for judicial review is dismissed.
+2. Costs are awarded to the respondent.
+Application dismissed.
+Editor: J. Danielle King/nmg

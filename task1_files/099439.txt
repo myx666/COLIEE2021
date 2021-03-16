@@ -1,0 +1,165 @@
+Bayer Inc. v. Pharmaceutical Partners, [DATE_SUPPRESSED] F.T.R. Uned. 157 (FC)
+MLB unedited judgment
+[French language version follows English language version]
+[La version française vient à la suite de la version anglaise]
+Bayer Inc. and Bayer Intellectual Property GmbH (applicants) v. Pharmaceutical Partners of Canada Inc. and The Minister of Health (respondents)
+(T-1440-14; DATE_SUPPRESSED FC 388; DATE_SUPPRESSED CF 388)
+Indexed As: Bayer Inc. et al. v. Pharmaceutical Partners of Canada Inc. et al.
+Cite As: [DATE_SUPPRESSED] F.T.R. Uned. 157
+Federal Court
+Lafrenière, Prothonotary
+March 26, DATE_SUPPRESSED.
+Counsel:
+Peter Wilcox and Frederic Lussier, for the applicants;
+Tim Gilbert and Nathaniel Lipkus, for the respondents.
+Solicitors of Record:
+Belmore Neidrauer LLP, Toronto, Ontario, for the applicants;
+Gilbert's LLP, Toronto, Ontario, for the respondents.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Lafrenière, Prothonotary
+: This is a motion to strike portions of the application pursuant to paragraph 6(5)(b) of the
+Patented Medicines (Notice of Compliance) Regulations
+[
+PMNOC Regulations
+].
+INTRODUCTION
+[2]
+The underlying proceeding is an application by the Applicants, Bayer Inc. and Bayer Intellectual Property GmbH [herein referred to collectively in the singular as "Bayer"] under section 55.2(4) of the
+Patent Act
+and section 6 of the
+PMNOC Regulations
+. Bayer seeks a declaration that a letter from the Respondent, Pharmaceutical Partners of Canada Inc. [PPC] to Bayer dated April 8, 2014 is not a notice of allegation and detailed statement for the purpose of the
+PMNOC Regulations
+and has no legal effect. In the alternative, Bayer seeks an order prohibiting the Minister of Health from issuing a notice of compliance to PPC for its proposed moxifloxacin hydrochloride product for injection until the expiration of three of Bayer's patents, including Canadian Patent No. 2,378,424 [the 424 Patent].
+[3]
+PPC has moved for an order pursuant to paragraph 6(5)(b) of the
+PMNOC Regulations
+striking portions of Bayer's application on the grounds that the application, insofar as it relates to the 424 Patent, is scandalous, frivolous and vexatious or is otherwise an abuse of process. PPC maintains that Bayer's evidence simply cannot support a conclusion of direct infringement or inducing infringement by PPC.
+[4]
+PPC did not file any evidence in support of its motion. It relies solely on the affidavit evidence served by Bayer in the main proceeding relating to the infringement or induced infringement of the 424 Patent and, more particularly, the affidavits of two experts, Dr. Linda Dresser and Dr. Roland Grossman. Since Bayer did not file any additional evidence in response to the motion and no cross-examination was conducted of Bayer's two deponents, the facts on this motion are not in dispute.
+FACTS
+[5]
+PPC filed an Abbreviated New Drug Submission [ANDS] to obtain a Notice of Compliance [NOC] for a moxifloxacin hydrochloride intravenous solution for injection to be marketed in Canada under the name PPC-Moxifloxacin. PPC compares PPC-Moxifloxacin with AVELOX® I.V., Bayer's version of moxifloxacin hydrochloride intravenous solution for injection.
+[6]
+Three patents are listed on the Patent Register in respect of AVELOX® I.V., namely, Canadian Letters Patent No. 1,340,114, Canadian Letters Patent No. 2,192,418 and the 424 Patent. As noted above, this motion pertains only to the 424 Patent. The 424 Patent is entitled "Moxifloxacin Formulation Containing Common Salt". It discloses and claims a moxifloxacin formulation for parenteral administration, including a formulation for intravenous administration. All 49 claims of the 424 Patent require the inclusion of moxifloxacin and sodium chloride within specified concentrations.
+[7]
+Independent Claim 1 of the 424 Patent claims in particular:
+An aqueous formulation comprising:
+from 0.04% to 0.4% (w/v) of moxifloxacin hydrochloride, based on the amount of moxifloxacin, and
+from 0.4% to 0.9% (w/v) of sodium chloride.
+[8]
+PPC-Moxifloxacin XXXXXXXXXXXXXXXXXXX. The non-medicinal ingredients in PPC-Moxifloxacin are XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+[9]
+One of Bayer's experts, Dr. Dresser, is a hospital pharmacist with over 25 years of experience. She is familiar with, and has advised physicians on, the administration of AVELOX® I.V. and its co-administration with sodium chloride solutions. Bayer's other expert, Dr. Grossman, is a staff physician at Credit Valley Hospital and a Professor of Medicine at the University of Toronto. He is a world-renowned expert on the use of antibiotics, including moxifloxacin, in the treatment of respiratory infections such as community-acquired pneumonia.
+[10]
+Dr. Dresser provides evidence relating to the construction of the 424 Patent and its claims. She has reviewed PPC's Product Monograph and provides evidence on how that document would be understood and applied in practice. She notes that the Product Monograph indicates that PPC-Moxifloxacin is compatible for co-administration with the same six intravenous solutions as AVELOX® I.V. The relevant extract read as follows:
+Moxifloxacin injection is compatible with the following intravenous solutions at ratios from 1:10 to 10:1
+:
+•→ 0.9% Sodium Chloride Injection, USP
+•→ IM Sodium Chloride Injection
+•→ 5% Dextrose Injection, USP
+•→ Sterile Water for Injection, USP
+•→ 10% Dextrose for Injection, USP
+•→ Lactated Ringer's for Injection
+[11]
+Both Dr. Dresser and Dr. Grossman explain how PPC-Moxifloxacin will or will likely be used and sold if PPC receives a NOC for PPC-Moxifloxacin. Dr. Dresser asserts that, in order to sell PPC-Moxifloxacin, PPC will have to submit bids to supply hospitals, seeking to have those hospitals stock and dispense PPC-Moxifloxacin instead of AVELOX® I.V. She asserts that if PPC obtains a NOC for PPC-Moxifloxacin:
+(a) PPC-Moxifloxacin will be co-administered with a 0.9% sodium chloride saline solution in certain ratios using a
+"Y"
+connection.
+(b) The formulation that will be administered to patients will infringe certain claims of the 424 Patent.
+(c) The resulting formulation that is administered to the patient will contain moxifloxacin and sodium chloride and will infringe claims 1, 2, 5, 8, 9, 11, 37, 38 and 49 of the 424 Patent.
+[12]
+Bayer concedes that there is no evidence of any direct infringement of the 424 Patent by PPC. It maintains, however, that health practitioners will infringe the 424 Patent as a direct result of PPC's representations in its Product Monograph and its attempts to have PPC-Moxifloxacin substituted for AVELOX® I.V.
+[13]
+Counsel for Bayer agreed during the hearing of the motion that the evidence of induced infringement by PPC boils down to paragraph 42 of the affidavit of Dr. Dresser, which reads as follows:
+Based on the content of the PPC Product Monograph, if the PPC Product was to be marketed in Canada, as a pharmacist I would advise physicians that the PPC Product can be prescribed, used and administered in the same way as AVELOX® I.V. It is therefore my opinion that, as instructed by the PPC Product Monographs, physicians would prescribe and use the PPC Product in the same was as AVELOX® I.V., including co-administering the PPC Product with a normal saline solution in circumstances where the treating physician determines it to be advisable.
+[14]
+PPC submits that Bayer's evidence, taken at its best, cannot possibly establish direct infringement or induced infringement of the 424 Patent by PPC and that the application, as it relates to the 424 Patent, should be dismissed.
+ANALYSIS
+[15]
+The present motion is brought by PPC, a second person within the meaning of the
+PMNOC Regulations
+, pursuant to subsection 6(5)(b), which reads as follows:
+6. (5) Subject to subsection (5.1), in a proceeding in respect of an application under subsection (1), the court may, on the motion of a second person, dismiss the application in whole or in part ...
+(b) on the ground that it is redundant, scandalous, frivolous or vexatious or is otherwise an abuse of process in respect of one or more patents.
+6. (5) Sous réserve du paragraphe (5.1), lors de l'instance relative à la demande visée au paragraphe (1), le tribunal peut, sur requête de la seconde personne, rejeter tout ou partie de la demande si, selon le cas ...
+b) il conclut qu'elle est inutile, scandaleuse, frivole ou vexatoire ou constitue autrement, à l'égard d'un ou plusieurs brevets, un abus de procédure.
+[16]
+The purpose of s. 6(5) is to enable the Court to expeditiously dispose of unmeritorious applications by first persons which have no chance of succeeding at hearing. The parties agree that dismissal of an application pursuant to subsection 6(5)(b) is an extraordinary remedy. Such relief will only be granted when the application is "clearly futile" or it is "plain and obvious" that the application has no chance of success:
+REFERENCE_SUPPRESSED. The moving party bears the entire burden of proof in a s. 6(5)(b) motion:
+REFERENCE_SUPPRESSED.
+[17]
+A second person may move under s. 6(5)(b) to dismiss a first person's application on the basis that the first person's affidavit evidence is insufficient to prove the second person's allegations of infringement are not justified:
+REFERENCE_SUPPRESSED. In order to make such a determination, the motions judge must be able to make the necessary findings of fact, viewed in the light most favourable to the first person, and apply the law to the facts.
+[18]
+A motion to dismiss will only be granted where it is apparent that there is no arguable case on the merits of the application. The court is not justified in embarking on anything resembling a trial of the action on conflicting affidavits in order to evaluate the strength of either party's case.
+Inducement
+[19]
+Bayer has not adduced any evidence establishing or even suggesting that PPC would directly infringe the 424 Patent. The said patent claims a formulation which contains moxifloxacin and sodium chloride within certain specified concentrations. Dr. Dresser acknowledges in her affidavit that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXX therefore, there is no direct infringement by PPC. Rather, Bayer says that PPC will induce or procure others to infringe the 424 Patent.
+[20]
+Bayer submits that the evidence is clear that PPC's Product Monograph directs infringement of the 424 Patent and that the sale of PPC-Moxifloxacin will result in the infringement of the 424 Patent.
+[21]
+In Dr. Dresser's opinion, the PPC Product will be co-administered with a 0.9% sodium chloride saline solution within the ratios of the 424 Patent if a Notice of Compliance is issued in respect of the PPC Product and PPC sells the PPC Product for use in accordance with the PPC Product Monograph.
+[22]
+According to Bayer, its evidence demonstrates that:
+(a) the use of PPC-Moxifloxacin will infringe the 424 Patent;
+(b) such infringement will be a direct result of representations made by PPC in its Product Monograph and as a result of PPC seeking to have PPC-Moxifloxacin dispensed in place of Bayer AVELOX® I.V.; and
+(c) PPC made those representations knowing that infringement of the 454 Patent is an inevitable consequence.
+[23]
+It is well established that there is no infringement of a patent in selling an article which does not in itself infringe the patent even when the vendor knows that the purchaser buys the article for the purpose of using it in the infringement of the patent:
+REFERENCE_SUPPRESSED.
+[24]
+It is not sufficient to say that pharmacists or physicians would prescribe PPC-Moxifloxacin in an infringing manner and therefore inducement is made out. It is the second person's actions which are at issue, and not the infringing conduct of others, as was found by Madam Justice Mactavish in
+REFERENCE_SUPPRESSED:
+367
+Based upon all of the above considerations, the applicants argue that because of the nature of the Canadian market for memantine, infringement of the '492 patent will inevitably occur as physicians will prescribe, pharmacists will dispense, and patients will use ratiopharm's memantine product in combination therapy.
+368
+This may well be the case. Indeed, the circumstantial evidence suggests that ratiopharm's ratio-MEMANTINE product may indeed end up being used in combination with acetylcholinesterase inhibitors for the treatment of Alzheimer's disease, thereby infringing the '492 patent. ratiopharm may expect this to happen. However, it is ratiopharm's actions and not its expectations that are the issue before me.
+369
+The parties agree that the fact that there may be downstream infringement is not enough, on its own, to show infringement by inducement. Indeed, as Justice Gauthier observed inCITATION_SUPPRESSED
+REFERENCE_SUPPRESSED, even if it can be shown that infringement by others "is highly probable, if not inevitable", that will not be enough to establish that an allegation of non-infringement is not justified: see para. 31.
+[25]
+A second person may be implicated in the infringement by others of a patent if the second person induces that infringement. The test for inducement was articulated by the Federal Court of Appeal in
+REFERENCE_SUPPRESSED. First, the act of infringement must have been completed by the direct infringer. Second, the completion of the acts of infringement must be influenced by the acts of the alleged inducer to the point that, without the influence, direct infringement would not take place. Third, the influence must knowingly be exercised by the inducer, that is, the inducer knows that this influence will result in the completion of the act of infringement.
+[26]
+The test for inducement is conjunctive, which means that Bayer must establish all three elements of the test in order to succeed in the application. Counsel for PPC submits that Bayer's deponents do not provide any evidence of influence exercised by PPC that would result in the completion of an act of infringement of the 424 Patent, knowingly or otherwise, and that it is therefore plain and obvious that the application cannot succeed in respect of the 424 Patent.
+[27]
+PPC states in its Product Monograph that PPC-Moxifloxacin is safe to use with sodium choloride and can be administered in sequence with a solution containing sodium chloride. The Product Monograph also states that dilution of PPC-Moxifloxacin with another solution (including, presumably, sodium chloride solutions) is not required. Based on these statements, Dr. Dresser is of the opinion that physicians would prescribe, use and administer PPC-Moxifloxacin in the same way as AVELOX® I.V. "as instructed by the PPC Product Monograph".
+[28]
+In my view, Bayer has no reasonable chance of success on the second prong of the inducement test set out in
+CITATION_SUPPRESSED
+based on the evidence before the Court. Integral to the issue of inducement is the requirement that the alleged inducer influence the direct infringer. There is nothing in PPC's Product Monograph that is capable of establishing that PPC will infringe the 424 patent by inducing infringement by others.
+[29]
+Infringement by inducement may be established by inferences reasonably drawn from the contents of the product monograph for the generic drug product, or evidence relating to the dosage form of the generic product, or its labelling or marketing:
+REFERENCE_SUPPRESSED. The problem with Bayer's evidence is that there are no facts, other than Dr. Dresser's opinion, to support a conclusion that PPC is "instructing" others to infringe the 424 Patent. Whether such instructions are actually provided in PPC's Product Monograph is a question of fact, and not a matter of opinion. It is one matter for an expert to provide assistance to the Court in interpreting technical terms and quite another for the expert to proffer an opinion on the very issue to be decided by the Court.
+[30]
+It should be recalled that PPC is seeking a Notice of Compliance to permit it to market and sell its own non-infringing product. PPC has not yet marketed its product. There is no evidence, other than speculation, that PPC will be seeking to sell its product in combination with sodium chloride. Moreover, there is no evidence of any overt attempt by PPC to influence or encourage others to infringe the 424 Patent.
+[31]
+There are certainly no explicit instructions or directions to complete an act of infringement such as found in
+REFERENCE_SUPPRESSED which involved the sale of components that might be assembled in order to produce a device which infringed the plaintiff's patent.
+[32]
+As Madam Justice Layden-Stevenson observed in
+REFERENCE_SUPPRESSED, "subtle references" in a product monograph may be enough to leave a reader with the impression that a drug can be used in a manner that would infringe a patent. However, the general and generic references to sodium chloride in PPC's Product Monograph do not amount to inducement. There is no suggestion that the PPC-Moxifloxacin should be substituted for, or used in same way as, AVELOX® I.V. PPC's Product Monograph also specifies in bold caps that PPC-Moxifloxacin does not require dilution. Merely stating that PPC-Moxifloxacin is safe for dilution with one of six intravaneous solutions, including sodium chloride, or that it can be used in sequence with solutions containing sodium chloride, without more, is not sufficient to conclude that PPC is knowingly inducing healthcare practitioners to co-administer PPC-Moxifloxacin with sodium chloride.
+[33]
+Bayer submits that PPC clearly intends for PPC-Moxifloxacin to be substituted for AVELOX® I.V. and administered to patients in the same manner as AVELOX® I.V, as evidenced by the manner in which PPC will sell its product. Dr. Dresser asserts that once the PPC Product enters the market in Canada, PPC will have to approach hospitals or wholesalers to convince them to dispense PPC-Moxifloxacin instead of AVELOX® I.V. This is nothing more than conjecture and speculation on the part of Dr. Dresser. If PPC does in fact induce or procure another person to infringe the 424 Patent, Bayer will have recourse in an action for infringement.
+[34]
+The onus is on Bayer in the main application to establish on a balance of probabilities that the allegation that PPC will not induce others to infringe the 424 Patent is unjustified. PPC has established that, on the record before me, it is plain and obvious that Bayer has no reasonable chance of success in showing that PPC is or will be inducing infringement of the 424 Patent. As the test for inducement is conjunctive, and Bayer has not adduced any evidence that can arguably satisfy all three prongs of the test for inducement, I conclude that the prohibition application as it relates to the 424 Patent will inevitably fail. As such it is "vexatious" within the meaning of s. 6(5) of the
+PMNOC Regulations
+.
+CONCLUSION
+[35]
+For the reasons above, I conclude that the motion pursuant to subsection 6(5)(b) of the
+PMNOC Regulations
+striking portions of the application relating to the 424 Patent should be granted.
+[36]
+Counsel agreed that costs fixed in the amount of $5,000.00 should be awarded to any party that was entirely successful on the motion. In the circumstances, costs shall be granted to PPC in the agreed amount.
+ORDER
+[37]
+THIS COURT ORDERS that
+:
+1. All portions of the application relating to the 424 Patent is dismissed.
+2. Costs of the motion, hereby fixed in the amount of $5,000.00, inclusive of disbursements and taxes, shall be paid by the Applicants to the Respondent, Pharmaceutical Partners of Canada Inc.
+.........................
+CITATION_SUPPRESSED

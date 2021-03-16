@@ -1,0 +1,1049 @@
+[1]
+Scott, J.
+: This is an application for judicial review filed on April 16, 2012 pursuant to sections 18 and 18.1 of the
+Federal Courts Act,
+RSC 1985, c-7  <FRAGMENT_SUPPRESSED> , by which the Applicant challenges the lawfulness of the Order in Council (C.P. 2012-285) taken by the Governor in Council ("the Order") approving the federal government's Response ("the Response") to the
+Report of the Joint Review Panel, Lower Churchill Hydroelectric Generation Project, Nalcor Energy, Newfoundland and Labrador
+("the Report") and the related cause of action Decision dated March 16, 2012 ("the Decision") by the responsible authorities, Fisheries and Oceans Canada [DFO], Natural Resources Canada [NRCan] and Transport Canada [TC] (collectively "the RAs") pursuant to subsection 37(1) of the
+Canadian Environmental Assessment Act,
+SC 1992, c 37 [CEAA]. The Report was issued by a Joint Review Panel [JRP] as the culmination of its environmental assessment ("the EA") of the Lower Churchill Hydroelectric Generation Project ("the Project"). The Order was made by the Governor in Council on March 12, 2012 pursuant to subsection 37(1.1) of the CEAA.
+[2]
+The Applicant is seeking, amongst other remedies:
+1. a declaration that
+a) the Governor in Council and RAs did not fulfill their duty to consult the Innus d'Ekuanitshit (the Ekuanitshit) on the elements of the Project liable to have a prejudicial effect on their traditional rights;
+b) the Governor in Council and RAs did not seek to accommodate the Ekuanitshit in a spirit of reconciliation consistent with the honour of the Crown;
+c) despite the requirements of paragraph 4(1)(a) of the
+CEAA
+, the Governor in Council and RAs did not possess sufficient information to assess the potential negative impact that the Project is liable to have on the current use of the land and resources for traditional purposes by the Ekuanitshit;
+d) the Project proposed by Nalcor Energy ("Nalcor") is no longer the project proposed for evaluation under the
+CEAA
+due to subsequent changes in the implementation process;
+e) the Project and the Labrador-Island Transmission Link Project (Transmission Link) constitute a single project under the
+CEAA
+; and
+f) the Governor in Council and RAs did not have sufficient information in order to judge the economic benefits of the Project or whether there are other economically and technically feasible means of meeting energy requirements that are less environmentally harmful;
+2. an order quashing the Order and the Decision;
+3. an order returning the Report to the Governor in Council and RAs so that they may:
+a) fulfill their duty to consult and accommodate the Ekuanitshit pursuant to section 35 of
+The Constitution Act, 1982
+regarding the potential negative impacts of the Project on their traditional rights in a manner consistent with the honour of the Crown;
+b) ask that further information be supplied regarding the necessity and negative impacts of the Project;
+c) determine whether, in light of the supplementary information mentioned above, the Project's negative impacts are still justifiable in the circumstances;
+4. a writ of prohibition preventing the ministers of the DFO and TC from:
+a) issuing permits under the
+Fisheries Act
+, RSC 1985, c F-14 and the
+Navigable Waters Protection Act
+, RSC 1985, c N-22; and
+b) taking any other irrevocable decision in their roles as RAs with regards to the Project 5) Costs, regardless of the result of the application.
+[3]
+For the reasons that follow, the Court is dismissing this application.
+II.
+Background
+A. The parties
+(i) The Applicant
+[4]
+Le Conseil des Innus d'Ekuanitshit ("the Applicant") is a registered Indian band within the meaning of section 2 of the
+Indian Act,
+RSC 1985, c I-5.
+[5]
+The Applicant participated throughout the EA process for the Project, and was awarded funding through the Canadian Environmental Assessment Agency's ("the Agency") Participant Funding Program to facilitate its participation in different phases of the EA.
+(ii) The Respondents
+[6]
+The Respondents are: (1) the Attorney general of Canada [AGC] named in lieu of the Governor in Council, whose approval of the Response is required pursuant to subsection 37(1.1) of the
+CEAA
+; (2) the Minister of Fisheries and Oceans, who, together with (3) the Minister of Transport and (4) the Minister of Natural Resources, constitute the Responsible Authorities [RAs] related to the Project; (the Government Respondents); (5) Nalcor; and (6) Newfoundland and Labrador Hydro-Electric Corporation.
+[7]
+Fisheries and Oceans Canada [DFO] and Transport Canada [TC] identified themselves from the beginning as RAs with respect to the Project. DFO found that certain components of the Project would result in the harmful alteration, disruption or destruction of fish habitat and would consequently require authorizations under subsection 35(2) of the
+Fisheries Act,
+RSC 1985, c F-14. Transport Canada determined that the Project would require formal approval under subsection 5(1) of the
+Navigable Waters Protection Act,
+RSC 1985, c N-22 [NWPA] because the Project's dams constitute works under that Act.
+[8]
+Natural Resources Canada became a responsible authority on August 19, 2011, when a decision was taken by the Government of Canada to provide financial assistance to Nalcor in the form of a loan guarantee for a part of the Project.
+[9]
+Nalcor is a Crown Corporation incorporated pursuant to the
+Energy Corporation Act,
+SNL 2007, c E-11.01. It is wholly owned by the Government of Newfoundland and Labrador ("the Province"), and was constituted to "engage in and carry out activities pertaining to the Province's energy resources, including hydro-electric generation"
+.
+Nalcor is responsible for the implementation of the Province's energy policy, and is governed in that respect by: the
+Energy Corporation Act,
+above; the Province's long term energy policy,
+Focusing Our Energy
+("the Energy Plan"); and the
+Electrical Power Control Act, 1994
+, SNL 1994, c E-5.1.
+B. The Project
+[10]
+Nalcor's proposed Project consists of:
+"hydroelectric generating facilities at Gull Island and Muskrat Falls, and interconnecting transmission lines to the existing Labrador grid. The Project will be the subject of engineering design and marketing studies that will be conducted concurrently with the environmental assessment. As part of the environmental assessment, alternative means of carrying out the Project will be evaluated including its capacity, design, layout, and technology. The Project as currently planned is presented and, as with any project, will require optimization to reflect current market and business opportunities. Nevertheless, the Project will be very similar to previous concepts. Optimization will determine details such as the size and number of turbines within each powerhouse, and construction sequencing pending access to the south side of the river. Such changes and refinements will be relatively slight, and consistent with the normal process leading to final Project sanction. The Gull Island facility will consist of a generating station with a capacity of approximately 2,000 MW and include:
+- a dam 99 m high and 1,315m long; and
+- a reservoir 200 km2 in area at an assumed full supply level of 125 m asl.
+The dam will be a central till-cored, rock-fill, zone embankment. The reservoir will be 225 km long, and the area of inundated land will 85 km2 at full supply level. The powerhouse will contain four to six Francis turbines.
+The Muskrat Falls facility will consist of a generating station that will be approximately 800 MW in capacity and will include:
+- a concrete dam with two sections on the north and south abutments of the river;
+- a 107 km2 reservoir at an assumed full supply level of 39 m asl.
+The north section of the dam will 32 m high and 180 m long, while the south section will be 29 m high and 370 m long. The north section will serve as a spillway in extreme precipitation events. The reservoir will be 60 km long and the area of inundated land will be 36 km2 at full supply. The powerhouse will contain four to five propeller or Kaplan turbines, or a combination of both.
+The interconnecting transmission lines will consist of:
+- a 735 kV transmission line between Gull Island and Churchill Falls; and
+- two 230 kV transmission lines between Muskrat Falls and Gull Island.
+The 735 kV transmission line will be 203 km long and the 230 kV transmission lines will be 60kn long. Both lines will likely be lattice-type steel structures. The location of the transmission lines will be north of the Churchill River; the final route is the subject of a route selection study that will be included in the environmental assessment. The lines between Muskrat Falls and Gull Island may be on separate towers, or combined on double-circuit structures". (See Affidavit of Stephen Chapman, Exhibit SC-4, Federal Respondents Representations, Vol. 1, pages 270-271)
+[11]
+The Project has a long history. Since 1978, three different versions of the Project have been contemplated. Two versions involved diversions of rivers and an agreement with Hydro Québec. As the negotiations failed with Hydro-Québec and it was determined that the diversion of rivers upstream of Churchill Falls was unfeasible, Nalcor focused on a project that did not entail the diversion of rivers. The version of the Project that was defined and registered by Nalcor for environmental assessment in November of 2006 is as described above; it does not rely on the diversion of rivers and is predicated on meeting identified needs within the Province and generating surplus energy to access export markets.
+C. The CEAA Environmental Assessment Process
+[12]
+It is important to describe the framework that applied to this EA under the CEAA. There are five stages involved. This application for judicial review was filed at the conclusion of the fourth stage.
+[13]
+The Applicant submitted that correspondence related to phase V should be allowed in the record despite the fact that it was exchanged after the application. The Court decided that it should not be accepted in the record because phase V is still ongoing and, more importantly, the record should be confined to what was before the decision maker at the time the application was filed.
+[14]
+The Project was registered in November 2006 and the RAs determined that the CEAA applied to the Project in February 2007.
+[15]
+In June 2007, the Minister of the Environment referred the assessment to a review panel. Since the Province of Newfoundland and Labrador had also concluded that public hearings would be required under provincial legislation, the two Governments agreed to set up a JRP in January 2009.
+[16]
+It is important to note that the CEAA provides for three types of environmental assessments: screening, comprehensive study and panel review. A panel review calls for a more comprehensive assessment and extended involvement by participants. The assessment was conducted by the JRP after the "Agreement for the Establishment of a Panel for the Environmental Assessment of the Lower Churchill Hydroelectric Generation Project" was concluded in January 2009. The federal Minister of the Environment, together with the provincial Ministers of Environment and Conservation and the Minister of Intergovernmental Affairs, appointed the five member panel responsible for the panel review.
+[17]
+In order to better comprehend the scope and degree of involvement required under the EA, the Court believes that reproducing substantive extracts from the JRP Agreement that defined the Terms of Reference for the Panel's EA will facilitate the comprehension of the issues raised by this application. The JRP Agreement specified that:
+"2.0 Establishment of the Panel
+2.1 A process is hereby established for the creation of a Panel, pursuant to sections 40, 41 and 42 of the CEAA and section 73 of the EPA and, for the purposes of the review of the Project/Undertaking.
+3.0 Constitution of the Panel
+3.1 The Minister of the Environment and the Lieutenant-Governor in Council of the Province of Newfoundland and Labrador shall jointly establish the Panel.
+3.2 The Panel shall consist of five members.
+4.0 Conduct of the Environmental Assessment by the Panel
+4.1 The Panel shall have all the powers and duties of a panel set out in section 35 of the CEAA and sections 64 and 65 of the EPA and applicable regulations.
+4.2 The Panel shall conduct the EA in a manner that discharges the requirements set out in the CEAA, the EPA and in the Terms of Reference for the Panel set out in Schedule 1.
+6.0 Record of environmental Assessment and Panel Report
+6.1 A Project File containing all records produced, collected or submitted with respect to the EA of the Project/Undertaking shall be maintained by the Agency from the appointment of the Panel until the report of the Panel is submitted to the Ministers. The Public Registry shall be operated in a manner to ensure convenient public access to the records for the purposes of compliance with section 55 of the CEAA and the practices of the Department.
+6.2 On completion of the EA of the Project/Undertaking, the Panel shall prepare a report and submit it to the Ministers who will make it public.
+6.3
+The report will address the factors required to be considered under section 16 of the CEAA and section 65 of the EPA, will set out the rationale, conclusions and recommendations of the Panel relating to the EA of the Project/Undertaking, including any mitigation measures and follow-up program, and include a summary of issues raised by Aboriginal groups, governments and other interested parties.
+[Emphasis added]
+6.4 The Parties agree to coordinate, to the extent possible, the timing and announcements of decisions on the Project/Undertaking.
+6.5 Once the report is submitted to the Minister of the Environment, responsibility for the maintenance of the Public Registry in accordance with section 55 of the CEAA will be transferred to Fisheries and Oceans Canada as responsible authority.
+8.0 Participant Funding
+8.1
+The Agency will administer a participant funding program to facilitate the participation of Aboriginal groups and the public in the EA of the Project/Undertaking.
+[Emphasis added]
+Part I - Scope of the Project/Undertaking
+The Proponent proposes a project/undertaking consisting of hydroelectric generating facilities at Gull Island and Muskrat Falls, and interconnecting transmission lines to the existing Labrador grid.
+The Project/Undertaking includes the following components as described by the Proponent. The specific dimensions/characteristics of the proposal are subject to change as a result of the findings of the environmental assessment.
+The Gull Island facility consisting of a generating station with a capacity of approximately 2,000 MW that includes:
+• A dam 99 m high and 1,315 m long; and
+• A 215 km2 reservoir in area at an assumed full supply level of 125 m above sea level (asl).
+The dam is to be a concrete faced, rock fill dam. The reservoir is to be 230 km long, and the area of inundated land is to be in the order of 85 km2 at full supply level. The powerhouse is to contain five Francis turbines.
+The Muskrat Falls facility consisting of a generating station with a capacity of approximately 800 MW that includes:
+• A concrete dam with two sections on the north and south banks of the river; and
+• A 100 km2 reservoir in area at an assumed full supply level of 39 m asl.
+• The north and south dams will be constructed or roller compacted concrete. The north section dam is to be in the order of 32 m high and 432 m long, while the south section is to be in the order of 29 m high and 125 m long. The reservoir is to be 60 km long and the area of inundated land is to be in the order of 41 km2 at full supply level.
+The powerhouse is to contain four propeller or Kaplan turbines, or a combination of both.
+Interconnecting transmission lines consisting of:
+• A 735 kV transmission line between Gull Island and Churchill Falls; and
+• Two 230 kV transmission lines between Muskrat Falls and Gull Island.
+The 735 kV transmission line is to be 203 km long and the 230 kV transmission lines are to be 60 km long. Both lines will be lattice-type steel structures. The location of the transmission lines is to be north of the Churchill River; the final route is the subject of a route selection study that will be combined on double-circuit structures.
+Part II - Scope of the Environmental Assessment
+The panel shall consider the following factors in the EA of the Project/Undertaking as outlined in Sections 16(1) and 16(2) of the CEAA and Sections 57 and 69 of the EPA:
+1. Purpose of the Project/Undertaking;
+2. Need for the Project/Undertaking;
+3. Rationale for the Project/Undertaking;
+4. Alternative means of carrying out the Project/Undertaking that are technically and economically feasible and the environmental effects of any such alternative means;
+5. Alternatives to the Project/Undertaking;
+6. Extent to which biological diversity is affected by the Project/Undertaking;
+7. Description of the present environment which may reasonably be expected to be affected, directly or indirectly, by the Project/Undertaking, including adequate baseline characterisation;
+8. Description of the likely future condition of the environment within the expected life span of the Project/Undertaking if the Project/Undertaking was not approved;
+9. Environmental Effects of the Project/Undertaking, including the Environmental Effects of Malfunctions, accidents or unplanned events that may occur in connection with the Project/Undertaking;
+10. Any cumulative Environmental Effects that are likely to result from the Project/Undertaking in combination with other projects or activities that have been or will be carried out;
+11. The significance of the Environmental Effects as described in items 9 and 10;
+12. Mitigation measures that are technically and economically feasible and that would mitigate any significant adverse Environmental Effects of the Project/Undertaking, including the interaction of these measures with existing management plans;
+13. Proposals for environmental compliance monitoring;
+14. Measures to enhance any beneficial Environmental Effects;
+15. Need for and requirements of any follow-up program in respect of the Project/Undertaking;
+16. Capacity of renewable resources that are likely to be significantly affected by the Project/Undertaking to meet the needs of the present and those of the future;
+17. Extent of application of the precautionary principle to the Project/Undertaking;
+18. Comments received from Aboriginal persons or groups, the public and interested parties by the Panel during the EA;
+19. Factors related to climate change including greenhouse gas emissions;
+20. Proposed public information program.
+To assist in the analysis and consideration of these issues, in addition to the Secretariat established by Canada and Newfoundland and Labrador to support the Panel, the Panel may retain, within its approved budget, independent expertise to provide information on and help interpret technical and scientific issues and matters related to traditional knowledge and community knowledge.
+Aboriginal Rights Considerations
+The Panel will have the mandate to invite information from Aboriginal persons or groups related to the nature and scope of potential or established Aboriginal rights or title in the area of the Project, as well as information on the potential adverse impacts or potential infringement that the Project/Undertaking will have on asserted or established Aboriginal rights or title.
+The Panel shall include in its Report
+:
+1.
+information provided by Aboriginal persons or groups related to traditional uses and strength of claim as it relates to the potential environmental effects of the project on recognized and asserted Aboriginal rights and title.
+2.
+any concerns raised by Aboriginal persons or groups related to potential impacts on asserted or established Aboriginal rights or title.
+The Panel will not have a mandate to make any determinations or interpretations of
+:
+•
+the validity or the strength of any Aboriginal group's claim to Aboriginal rights and title or treaty rights;
+•
+the scope or nature of the Crown's duty to consult Aboriginal persons or groups;
+•
+whether Canada or Newfoundland and Labrador has met its respective duty to consult and accommodate in respect of potential rights recognized and affirmed by section 35 of the Constitution Act, 1982;
+•
+the scope, nature or meaning of the Labrador Inuit Land Claims Agreement.
+[Emphasis added]
+Part III - Steps in the Environmental Assessment Process
+The main steps in the EA by the Panel will be as follows:
+1. Site Visit;
+2. Public Information Centres;
+3. Submission of the EIS;
+4. Review of the EIS;
+5. Comments provided to the Proponent;
+6. EIS Sufficiency;
+7. Scheduling of Public Hearings;
+8. Location of Public Hearings;
+9. Conduct of Public Hearings;
+10. Length of Public Hearings;
+11. Delivery of Panel Report."
+[18]
+The final Environment Impact Statement [EIS Guidelines] were released by the Governments on July 15, 2008 after considering input provided by Aboriginal groups, including the Applicant, and other stakeholders between December 19, 2007 and February 27, 2008 on the scope of the Project and other issues (see Exhibit A-98 to Bennett Affidavit, Nalcor Representations [NR], Vol. 1 and Chapman Affidavit at paras 71 and 99, Federal Respondents Representations, Vol.1).
+[19]
+The EIS Guidelines is a 10,800 page document that addresses the need, alternatives and cumulative effects of the Project.
+[20]
+The EIS issues of concern were determined through: (a) the EIS Guidelines; (b) stakeholder and public consultation; (c) local and existing knowledge of potential environmental effects of projects (including hydro-electric projects); (d) Nalcor's submissions describing the existing environment; and (e) analysis of the Nalcor study team, comprised of 15 environmental consulting firms.
+(See Exhibits H, I, JJ, NN to Bennett Affidavit (NR, Vol 1, pages 421, 453 and 1737)
+[21]
+The Applicant received plain language summaries of the EIS, translated into French and the Québec dialect of Innu-aimun ("Innu-aimun").
+(See Exhibit A-398 to Bennett Affidavit (NR, Vol. 1)
+[22]
+Between March 9, 2009 and April 15, 2011, the JRP conducted its information gathering process. They began by inviting the public and government agencies to comment on the adequacy of the EIS. The Applicant was among the 52 parties who presented detailed submissions (see document entitled Legal Comments on the Adequacy of the Environmental Impact Statement of the Lower Churchill Hydroelectric Project dated June 22, 2009 (Applicant's Record, Exhibit 12, page 996, NR, Vol. 3, page 490).
+(See Exhibit J to Bennett Affidavit (NR, Vol. 1, page 462)
+[23]
+These submissions led the JRP to issue Information Requests ["IRs"] to Nalcor. Between May 1, 2009 and March 21, 2010, the JRP sent 166 IRs in five separate rounds. The process was meant to enable the JRP and the public to: (a) scrutinize the EIS; (b) make additional requests for information; and (c) comment on Nalcor's IR responses.
+(See Exhibits A-251- A-432, K, L, pages 498 and 513 to Bennett Affidavit (NR, Vol. 1 and 3)
+[24]
+Nalcor implemented a planning framework for the Project called the "Gateway Process". The process entails six sequential phases between opportunity evaluation and decommissioning. In essence, at each of the six phases, there is a decision gate with respect to the development or not of the asset. Either the activity is stopped pending additional information or it can move to the next sequential phase or it is abandoned.
+[25]
+Further to an announcement by Premier Williams on October 25, 2010, regarding a possible change in the sequencing of the Project, Nalcor was asked to provide additional information with respect to the change in the sequencing and the corresponding potential impact and environmental effects. Responses IR#JRP.165 and IR#JRP.166 filed in January 2011 contain a total of 160 pages. The main conclusion was to the effect that there are no material changes to the predicted environmental effects resulting from re-sequencing the Project phases (see Exhibit A-549 to Bennett Affidavit (NR, Vol 11, page 2756). These responses make no reference to the Applicant or to any other Quebec based innus.
+[26]
+The application for the Transmission Link was filed on January 29, 2009 and revised on September 15, 2009. It called for the construction and operation of an approximately 1,100 km long transmission line and associated infrastructure within Labrador and the Island of Newfoundland and finally favoured the Gros Morne and the selection of the Long Range Mountains crossing as the proposed transmission corridor (see Applicant's Record, V. Duro Affidavit, Exhibit 10, Vol. 3, Page 804).
+[27]
+The record reveals that Nalcor filed over 5,000 pages of additional documentation for consideration by the JRP and stakeholders by way of IR responses. Thirteen of the IRs touched upon the Applicant's specific concerns with respect to: (a) Aboriginal consultation; (b) caribou, including the Red Wine Mountain and Lac Joseph herds; (c) monitoring and follow-up; and (d) waterfowl survey methodology.
+(See Exhibits A-251, A-432, A-588, K, L, KK, LL to Bennett Affidavit (NR, Vol 1, 3 and 8)
+[28]
+On two occasions, the JRP invited the public to comment on Nalcor's IR responses. The Applicant filed detailed submissions on both occasions.
+(See Exhibits K, M, N to Bennett Affidavit (NR, Vol. 3, pages 498 and 544 and Exhibits 13, 17 to Duro Affidavit (Applicant's Record, Vol. 4 and 5)
+[29]
+On January 14, 2011, the JRP determined that the EIS (including the additional information submitted by Nalcor) was sufficient to proceed to the Hearing.
+(See Exhibit A-544 to Bennett Affidavit (NR, Vol. 1)
+[30]
+On January 14, 2011, participants were informed that the Hearing would begin on March 3, 2011. The Final Public Hearing Procedures were released on February 16, 2011, after consideration of extensive input from the public, including the Applicant.
+[31]
+The Hearing was conducted over 30 days between March 3 and April 15, 2011, in six different communities and in the Province of Quebec. There were general, community and topic-specific hearing sessions.
+(See Exhibit A-1385 to Bennett Affidavit (NR, Vol. 12)
+[32]
+The Applicant, through its representatives, made oral submissions during the community Hearing session in Sept-Îles, Quebec, on April 7, 2011, during which a video and materials were presented to the JRP. Simultaneous translation was provided (French and Innu-aimun).
+(See Exhibits A-1220, A-1244, A-1280, A-1284 to Bennett Affidavit (NR, Vol. 1 and Exhibits 20-25, 28, 43 to Duro Affidavit (Applicants Record, Vol. 5, 6 and 9)
+[33]
+After the conclusion of 30 days of hearings, the JRP declared the record closed.
+The Report
+[34]
+The 355 page JRP Report was released to the Governments and the public on August 23 and 25, 2011, respectively.
+(See Applicant's Record, Affidavit V. Duro, Exhibit 3, Vol. 1, page 221)
+[35]
+As required by CEAA and the TOR, the Report contains: (a) a description of the EA process, including public hearings; (b) the rationale, conclusions and recommendations regarding the nature and significance of the potential environmental effects; (c) recommendations concerning, amongst others, the mitigation measures relating to the environmental management of the Project, caribou, monitoring and follow-up programs; (d) a summary of issues identified and comments and recommendations received from Aboriginal persons/groups; and (e) a summary of the issues raised and comments and recommendations received from the public, Governments and interested parties.
+The Decision and Response of the Federal Government
+[36]
+Pursuant to the CEAA and the EPA, the Governments jointly issued their responses and the decisions on March 15, 2012.
+(See Exhibits R, S and T to Bennett Affidavit, NR, Vol. 3 and V. Duro Affidavit, Applicant's Record, Exhibits 1 and 3, Vol. I, pages 170 and 218)
+[37]
+The Response describes the Federal involvement in the Generation Project, the EA process, and the key considerations contained in the JRP Report. It also sets out the conclusions of the Federal Government and the reasons for its conclusion that the significant adverse environmental effects of the Generation Project are justified by its benefits; it also describes the decisions required of TC and DFO under their respective Acts and the
+CEAA
+and responds to each recommendation of the JRP.
+(See Exhibit R to Bennett Affidavit (NR, Vol. 1 and 3, Applicant's Record, V. Duro Affidavit, Exhibit 1, Vol.1, page 170)
+[38]
+The Decision determined that the implementation of mitigation measures is required for the Project to address,
+inter alia
+: (a) birds, fish and mammals and/or their habitat (the caribou); (b) current Aboriginal use of land and resources for traditional purposes; (c) socio-economic impacts; and (d) physical and/or cultural heritage. The Decision also required the implementation of a follow-up program to verify the accuracy of the EA and to determine the effectiveness of any measures taken to mitigate adverse environmental effects of the Project for the period extending from October 1, 2012 to October 1, 2037.
+(See Exhibit S to Bennett Affidavit, NR. Vol. 3, and V. Duro Affidavit, Exhibit 2, Vol. 1, page 218)
+III. Relevant legislation
+[39]
+The applicable sections of the
+Canadian Environmental Assessment Act
+, SC 1992, c 37 and of
+The Constitution Act, 1982, Schedule B to the Canada Act 1982 (UK)
+, 1982, c 11, are appended to this decision.
+IV.
+The issues
+[40]
+The Court has framed the issues raised by this application as follows:
+1. Is the Applicant's challenge of the Project scoping decision statute barred? If not was it scoped in accordance with section 15 of the CEAA?
+2. Did the Government Respondents properly consider section 16 factors of the CEAA prior to issuing their Decision and Response pursuant to s 37 of the CEAA?
+3. Was the Applicant properly consulted and accommodated in relation to the Project?
+V.
+Standard of review and analysis of the first issue
+:
+1. Is the Applicant's challenge of the Project scoping decision statute barred? If not was it scoped in accordance with section 15 of the CEAA?
+A. Standard of review
+[41]
+Determining the scope of a project under section 15 of the
+CEAA
+is a discretionary exercise to be reviewed on the standard of reasonableness (see
+ <FRAGMENT_SUPPRESSED> ).
+B. Analysis
+[42]
+The Applicant challenges, albeit indirectly, the Minister of the Environment's [the Minister] scoping decision, made pursuant to paragraph 15 (1)(
+b
+), to conduct separate EAs for the Project and the Transmission Link. The Applicant argues that this amounted to "project splitting". Citing subsections 15(1) and 15(3) of the
+CEAA
+, the Applicant argues that the Minister unreasonably refused to exercise his discretion to enlarge the scope of the Project's EA by not including the Transmission Link. The Applicant submits that the Transmission Link is a related construction that was likely to be carried out in relation to the Project and is now an essential element.
+[43]
+According to the Applicant, an inevitable result of this failure to "scope in" the Transmission Link is that the true negative effects of the actual Project remain unknown. This, in turn, renders the responsible authorities' determination (pursuant to paragraph 37(1)(
+a
+) of the
+CEAA
+) that the significant adverse environmental effects of the Project could be justified in the circumstances, unreasonable.
+[44]
+The Respondents counter that the judicial review of the Minister's scoping decision is statute barred by subsection 18.1(2) of the <FRAGMENT_SUPPRESSED> and that the Applicant is attempting to indirectly challenge the decision via its arguments based on paragraph 37(1)(
+a
+) of the
+CEAA
+and that in any case, the decision to maintain the scope of the Project as proposed by Nalcor was reasonable.
+[45]
+A scoping decision made under section 15 of the
+CEAA
+is unquestionably a decision made by a "federal board, commission or other tribunal" within the meaning of subsection 18.1 (2) of the <FRAGMENT_SUPPRESSED> (see
+Prairie Acid Rain Coalition, Inverhuron
+and
+Bow Valley
+, above). As such, the Applicant had to commence its application for judicial review within 30 days after the time the decision was first communicated. The Court may, however, in its discretion, grant an extension of time to commence an application (see subsection 18.1 (2) <FRAGMENT_SUPPRESSED> ).
+[46]
+As a preliminary issue, the Court finds it is necessary to address the pertinence of the decision in
+ <FRAGMENT_SUPPRESSED>  [
+Tzeachten 1
+], to the case at hand. Applying the reasoning found in
+ <FRAGMENT_SUPPRESSED>  Justice Lemieux found that "no extension of time is required [...] when the object of the litigation is to obtain relief in a case where the duty to consult and accommodate reserve and aboriginal interests is engaged" (
+Tzeachten 1
+, above, at para 27). The limit to file in subsection 18.1(2) <FRAGMENT_SUPPRESSED> does not apply in such cases.
+[47]
+However, the decision  <FRAGMENT_SUPPRESSED>  1
+is distinguishable from the present case because it dealt with the aboriginal group's right to have the Crown's consultation process judicially reviewed despite failure to file within the prescribed delay. Such is not the case in the present instance because if the Court declaring judicial review of the scoping decisions statute barred will not impact the judicial review of the consultation process provided to the Applicant. Subsection 18.1 (2) continues to apply.
+[48]
+The Project scoping decision was made by the Minister and communicated to the Applicant on January 8, 2009. It is important to note that the Applicant had been aware of the Project's scope since December 2007 when the EIS Guidelines were released. As for the decision to conduct separate EAs for the Generation Project and the Transmission Link, Nalcor advised the Applicant of the scope in February 2009 and the decision was taken in November 2009. Furthermore, the decision was re-confirmed and communicated to the Applicant on multiple occasions afterwards, with the last relevant communication occurring on January 31, 2011. This last confirmation was made in response to a letter sent by the Applicant on December 16, 2010, conveying its concerns about the scoping decisions to the Agency, the Province and the JRP. Despite its concern, the Applicant only commenced its application for judicial review on April 16, 2012.
+[49]
+ <FRAGMENT_SUPPRESSED> Justice Lemieux summarized the principles that should guide a decision to grant an extension of time to commence a judicial review:
+[33] To grant or refuse a request for an extension of time to launch a judicial review application is a matter of discretion which must be exercised on proper principles. Those principles are well known with the Federal Court of Appeal's decision in
+ <FRAGMENT_SUPPRESSED> , being the seminal case.
+[34] From <FRAGMENT_SUPPRESSED> , above, and other decisions of the Federal Court of Appeal, the task at hand is as follows:
+• A number of considerations or factors must be taken into account in the exercise of the discretion;
+• These factors include: (1) a continuing intention to bring the application, (2) any prejudice to the parties opposite, (3) a reasonable explanation for the delay, (4) whether the application has merit i.e., discloses an arguable case (hereinafter the four-prong test) and (5) all other relevant factors particular to the case [emphasis mine], see
+ <FRAGMENT_SUPPRESSED> to 35;
+• As explained in
+ <FRAGMENT_SUPPRESSED>  these factors or consideration are not rules that fetter the discretionary power of the Court. Once the relevant consideration or factors are selected, sufficient weight must be given to each of those factors or considerations;
+• The weight to be given to each of the factors or considerations will vary with the circumstance of each case (
+ <FRAGMENT_SUPPRESSED>  (CanLII), 2005 FCA 107);
+• The underlying consideration in an application to extend time is to ensure that justice is done between the parties. The usual consideration in the standard four-prong test of continuing intention, an arguable case, a reasonable explanation for the delay and prejudice to another party is a means of ensuring the fulfillment of the underlying consideration of ensuring that justice is done between the parties. An extension of time can be granted even if one of the standard criteria is not satisfied (
+ <FRAGMENT_SUPPRESSED> ; and
+• The factors in the test are not conjunctive ( <FRAGMENT_SUPPRESSED> , above, at pages 11 and 13).
+[50]
+While the Court acknowledges that the Applicant has an arguable case, it will not grant an extension in the present case for the following reasons. Firstly, the indirect challenge comes two years after the Transmission Link scoping decision was communicated to the Applicant and the Applicant has failed to request such an extension. Secondly, the Court is convinced that any delay attributable to a review of the scoping decision will result in a serious financial prejudice to the opposing parties (Nalcor and the Government Respondents) and to the public in general.
+[51]
+The Applicant has not petitioned this Court for an extension of time to challenge the scoping decisions, nor has it offered any reasonable explanation for the two years that have passed before bringing its application forward on this issue. This is not surprising given that the Applicant is challenging the decisions indirectly through subsection 37(1) of the
+CEAA
+. The Court underlines the fact that the Applicant was represented by able counsel throughout the relevant time frame and should have challenged the scoping decisions at the first opportunity before even participating in the two EA processes that were based on them.
+[52]
+Because the Applicant neglected to challenge the Minister's scoping decisions, the EA processes moved forward. Studies were conducted, meetings were held and serious investments were made by the proponents to move the Project along. As the Respondents explain: "To change the scope of the two projects at this time would require at least one new EA process, the preparation of a new EIS, reconvening a JRP, scheduling new public hearings, and re-engaging hundreds of stakeholders, all at great cost, inconvenience and delay".
+•
+Was the Minister's decision not to expand the scope of the Project proposed by Nalcor reasonable?
+[53]
+Regardless of whether the Applicant's scoping challenge is statute barred or not, this Court finds that the Minister's decision to maintain the scope of the Project as proposed by Nalcor to be reasonable.
+[54]
+Under section 15 of the
+CEAA
+, the RAs ((under 15(1) (
+a
+)) or Minister (under 15(1) (
+b
+)) have the discretion to determine what elements of a proposed undertaking will make up a project for the purpose of an  <FRAGMENT_SUPPRESSED>  at para 39 [ <FRAGMENT_SUPPRESSED> ], the Supreme Court of Canada set limits to this discretion by deciding that "[...] the minimum scope is the project as proposed by the proponent, and the RA or Minister has the discretion to enlarge the scope when required by the facts and circumstances of the project". Subsections 15(2) and (3) are examples of situations where the RA or Minister may increase the scope of the project beyond the description proposed by the proponent. "In sum, while the presumed scope of the project to be assessed is the project as proposed by the proponent, under s. 15(2) or (3), the RA or Minister may enlarge the scope in the appropriate circumstances" ( <FRAGMENT_SUPPRESSED> , above, at para 39). The Minister may also enlarge the scope of projects pursuant to 15(1) where the conditions of 15(2) and (3) are not met.
+[55]
+One of the harms that subsections 15(2) and 15(3) seek to prevent is referred to as "project splitting". The Supreme Court explained that "project splitting" occurs when a proponent "[...] represent[s] part of a project as the whole, or propos[es] several parts of a project as independent projects in order to circumvent additional assessment obligations [...]". The Court then provided an example of how project splitting could be used to "circumvent additional assessment obligations":
+Where the RA or Minister decides to combine projects or to enlarge the scope under s. 15(2) or (3), it is conceivable that the project as proposed by the proponent might have only required a screening. However, when the RA or Minister considers all matters in relation to the project as proposed, the resulting scope places the project in the [Comprehensive Study List]. Where this occurs, the project would be subject to a comprehensive study ( <FRAGMENT_SUPPRESSED> at para 40).
+[56]
+In other words, project splitting can be used as a means to avoid a more rigorous EA. In the case at bar, the Applicant argues that Nalcor is engaging in a form of project splitting. By having the Project and Transmission Link undergo separate EAs, Nalcor, according to the Applicant, is hiding the Project's true environmental footprint and can therefore justify more readily its adverse environmental effects. The Applicant also underlines that the negative impacts of the Project and the Transmission Link are considered separately, yet the government's response considered their positive impacts cumulatively.
+[57]
+In order to guide the RAs or Minister in determining whether to expand the scope of a project beyond that advanced by a proponent, the Agency released an Operational Policy Statement [OPS] in February 2010, entitled
+Establishing the Project Scope and Assessment Type under the Canadian Environmental Assessment Act
+. The OPS suggests that when two projects can be considered "connected actions", they should generally be scoped together. Two projects are connected actions when (1) one project is automatically triggered by another; (2) one project cannot proceed without the other; or (3) both are part of a larger whole and have no independent utility if considered separately.
+[58]
+The Applicant argues that paragraph 15(3) (
+b
+) required the Minister "tout au long de l'évaluation de se pencher sur la question de savoir s'il y a d'autres opérations susceptibles "d'être réalisées en liaison avec l'ouvrage" [...] dont le promoteur propose la construction" (Applicant's Record, Vol. 2, page 3663, at para 158). This interpretation of subsection 15(3) is at odds with the jurisprudence on the issue of scoping. In
+ <FRAGMENT_SUPPRESSED>  at para 14 [
+Sunpine
+], the Court of Appeal explained that "the words in subsection 15(3) do not have the effect of rescoping a project to something wider than what was determined under subsection 15(1)". That is to say, subsection 15(3) is only relevant when the RA or Minister initially scopes the project under subsection 15(1). Once the project is scoped, subsection 15(3) no longer imposes any obligation on the Minister to expand it. In the Court's opinion, the real question to ask in this instance is whether subsection 15(3) required the Minister to include the Transmission Link when he initially scoped the Project. The Court finds that he did not have such an obligation for the following reasons.
+[59]
+The Transmission Link was not a "construction, operation, modification, decommissioning, abandonment or other undertaking in relation to" the Project (subsection 15(3) of the
+CEAA
+). The jurisprudence has interpreted these undertakings as works "that pertain to the life cycle of the physical work itself or that are subsidiary or ancillary to the physical work that is the focus of the project as scoped" (
+Sunpine
+, above, at para 20). The Court of Appeal in
+Sunpine
+offered some examples of the type of undertakings contemplated in subsection 15(3):
+[F]or example, something as major as a coffer dam required to hold back water where the construction of a bridge required work on a river bed, or of a lesser order, such as the construction of temporary living quarters for construction workers (
+Sunpine
+, at para 20).
+[60]
+The Court agrees with the Respondents that the Transmission Link was not initially a subsidiary or ancillary undertaking that is part of the life cycle of the Project. The Transmission Link will not be erected in order to fix, maintain or decommission the Muskrat Falls dam.
+[61]
+The two pertinent subsections are therefore 15(1) and (2).
+[62]
+Subsection 15 (2) clearly states that the RA or Minister can expand the scope of a project to include one or more other projects when they are "so closely related that they can be considered to form a single project". Subsection 15(2) clearly contemplates a situation where a proponent attempts to register closely related projects for separate EAs at or around the same time. As the Respondents pointed out to this Court, at the time when the Project was registered for its EA:
+"Nalcor was working to determine transmission options [...] [and] had not yet determined: (a) which market it would pursue (an overland route through Québec to export markets, routes from Labrador to the Island and through to export markets in the Maritimes and/or United States, or industrial development in Labrador); or (the preferred option for meeting domestic Island needs" (NR, page 3355, para 95).
+[63]
+While the Transmission Link project existed as one of several options that was included in the Energy Plan, no decision had been taken when the Project was registered.
+[64]
+The Applicant suggests that the Transmission Link was really a "
+fait accompli
+" and that Nalcor was engaging in project splitting. The evidence in the record, more specifically the sequence of events, does not support the allegation that Nalcor was attempting to split the Project in two. Hence, when the decision was taken by the Minister he properly applied section 15(1) of the
+CEAA
+by scoping the Project as proposed by Nalcor. The Transmission Link was not automatically triggered by the Project. As the Respondents submit, "[t]he Generation project was technically and economically feasible on its own for the purpose of delivering electricity and interconnecting to the existing Labrador grid" (NR, page 3357, para 100). The initial option contemplated developing Gull Island first for export using the Quebec corridor. Furthermore, the harm that the Applicant is concerned with (i.e. that the full environmental effects of the Project not being considered cumulatively with the Transmission Link) is addressed by paragraph 16(1)(
+a
+) of the
+CEAA
+which requires an EA to include "the environmental effects of the project [...] and any cumulative effects that are likely to result from the project in combination with other projects [...] that have or will be carried out".
+[65]
+It is important to note that Nalcor registered the Transmission Link for a separate EA in January 2009 (two years after the Project was registered). The Transmission Link was initially tracked as a screening but was later upgraded to a comprehensive review after the release of the <FRAGMENT_SUPPRESSED> decision. The two projects were maintained as separate EAs, however. Those decisions were communicated to the public on April 14th, 2010. Was the decision to maintain separate EAs for the Project and the Transmission Link reasonable?
+[66]
+Although it is clear that, in April 2010, the two projects were so closely related (to the point where the Transmission Link could not proceed without the Project) that the RAs might have considered joining them, the Court finds that the decision to keep two separate EAs was reasonable for the following reasons. First, given that the Transmission Link project had been upgraded to a comprehensive study, the harm that subsection 15(2) seeks to prevent (i.e. a less rigorous EA for one of the projects) was no longer an issue. In addition, paragraph 16(1)(
+a
+) ensured that there was no risk that the two projects' environmental impacts would be considered independently. In fact, the combined negative effects of the projects will be considered twice (once in the Project EA and a second time in the Transmission Link EA).
+[67]
+Second, it should be noted that, the Project's EA was already well underway when the Transmission Link was registered as indicated by Nalcor:
+"the JRP Agreement was signed; the EIS Guidelines had been issued; Nalcor had filed its 11,000 page EIS and responded to 165 IRs. [...] Restarting the Generation Project EA to include both projects would have been highly prejudicial to all parties: (a) causing considerable delay and confusion among stakeholders; (b) requiring Nalcor to restart the EIS and component studies (which had taken years to prepare), including, re-review by all stakeholders; and (c)_requiring Nalcor to adjust the construction schedules for both of the projects (NR, page 3358, para 106).
+[68]
+In short, the Court accepts the Respondents' argument that there was no harm in maintaining separate EAs, whereas joining them would have wasted a substantial amount of work and cost a significant amount of money. The main consideration under the CEAA is that the environmental impact of the Project and the Transmission Link are considered in a careful and precautionary manner and that there is meaningful public participation throughout the environmental assessment process. The Applicant has not convinced this Court that it was unreasonable not to proceed to a single EA for the Project and Transmission Link. It is not clear that starting anew with a single EA in April 2010 (i.e. when the Transmission Link was upgraded to a comprehensive study) would have significantly increased the quality of the assessment of the environmental impacts of these projects. Hence, our conclusion that the decision to maintain the Project and the Transmission Link EAs separate is reasonable given the circumstances.
+VI.
+Standard of review and analysis of the second issue
+:
+2) Did the Government Respondents properly consider section 16 factors of the CEAA prior to issuing their Decision and Response pursuant to s 37 of the CEAA?
+A. Standard of review
+1. Section 16 of the
+CEAA
+[69]
+In
+Pembina Institute for  <FRAGMENT_SUPPRESSED> [
+Pembina
+], Justice Tremblay-Lamer summarized the jurisprudence regarding the standard of review to be applied to decisions taken under section 16 of the
+CEAA
+:
+All parties agree that to the extent that the issues posed involve the interpretation of the CEAA, as questions of law, they are reviewable on a standard of correctness (
+ <FRAGMENT_SUPPRESSED>  (QL), at para. 55). However, issues relating to weighing the significance of the evidence and conclusions drawn from that evidence including the significance of an environmental effect are reviewed on the standard of reasonableness
+simpliciter
+(
+Bow Valley
+, cited above, at para. 55; <FRAGMENT_SUPPRESSED> , cited above, at paras. 39-40).
+[70]
+The issue in the present case is whether the JRP could, despite a lack of certain information, validly conclude that the Project's impact on the Applicant's use of the land for traditional purposes would be negative but not significant after mitigating matters are implemented. This is clearly a question dealing with "weighing the significance of the evidence and conclusions drawn from that evidence including the significance of an environmental effect". The standard of review on such a question is reasonableness (see
+Pembina
+, cited above, at para 37).
+[71]
+It is also worth noting that much more recently, in
+ <FRAGMENT_SUPPRESSED>  [
+Grand Riverkeeper
+], Justice Near re-assessed the standard of review applicable to the same question in light of the four factors described in
+ <FRAGMENT_SUPPRESSED>  [2008] SCJ No 9 [ <FRAGMENT_SUPPRESSED> ], namely (1) the existence of a privative clause; (2) the purpose of the tribunal as determined by interpreting the enabling legislation; (3) the expertise of the tribunal; and (4) the nature of the question at issue ( <FRAGMENT_SUPPRESSED> , above, at para 64). He also concluded that the standard of review on such questions is reasonableness (see
+Grand  <FRAGMENT_SUPPRESSED> , at para 40).
+2. Subsections 37(1) and 37(1.1)
+[72]
+Decisions taken by responsible authorities upon receipt of an EA report are reviewable on a standard of reasonableness (see <FRAGMENT_SUPPRESSED> above, at para 32). In
+Bow Valley,
+above, at para 78, Justice Linden described the level of deference owed to these decisions as follows:
+The Court must ensure that the steps in the Act are followed, but it must defer to the responsible authorities in their substantive determinations as to scope of the project, the extent of the screening and the assessment of the cumulative effects in the light of the mitigating factors proposed. It is not for the judges to decide what projects are to be authorized, but, as long as they follow the statutory process, it is for the responsible authorities.
+[73]
+A high level of deference for decisions under section 37 was also suggested in
+Pembina
+, above:
+The assessment of the environmental effects of a project and of the proposed mitigation measures occur outside the realm of government policy debate, which by its very nature must take into account a wide array of viewpoints and additional factors that are necessarily excluded by the Panel's focus on project related environmental impacts. In contrast, the responsible authority is authorized, pursuant to s. 37(1)(a)(ii), to permit the project to be carried out in whole or in part even where the project is likely to cause significant adverse environmental effects if those effects "can be justified in the circumstances". Therefore, it is the final decision-maker that is mandated to take into account the wider public policy factors in granting project approval (
+Pembina
+, above, at para 74).
+[74]
+The Government Respondents agree with the findings in
+Bow Valley
+that decisions made by the Governor in Council  <FRAGMENT_SUPPRESSED>  pursuant to subsection 37(1.1) are only reviewable in cases where the statutory process for the EA was not followed or otherwise acted outside the boundaries of the statute. They submit that such an understanding of the scope of review is consistent with the Supreme Court of Canada's decision in
+ <FRAGMENT_SUPPRESSED> Justice Noël described the limits imposed on the Courts' ability to review decisions made by the GIC pursuant to a legislative power given to it by statute as follows:
+It is well-settled law that when exercising a legislative power given to it by statute, the Governor in Council must stay within the boundary of the enabling statute, both as to empowerment and purpose. The Governor in Council is otherwise free to exercise its statutory power without interference by the Court, except in an egregious case or where there is proof of an absence of good faith (
+ <FRAGMENT_SUPPRESSED> , page 111;
+ <FRAGMENT_SUPPRESSED> , page 752).
+[76]
+This Court agrees with the above formulation of Justice Noël. As a result, the Court will only intervene with the GIC and Responsible Ministers' decisions under subsections 37(1.1) and 37(1) if it finds that: 1) the
+CEAA
+statutory process was not properly followed before the section 37 decisions were made; 2) the GIC or Responsible Ministers' decisions were taken without regard for the purpose of the
+CEAA
+or 3) the GIC or Responsible Ministers' decisions had no reasonable basis in fact; which is tantamount to an absence of good faith.
+B. Analysis
+•
+Section 16 challenge to the sufficiency of information before the Government Respondents in drafting the JRP and making the decisions under subsections 37(1) and 37(1.1).
+[77]
+The Applicant argues that the Government Respondents violated section 16 of the
+CEAA
+by failing to properly consider the negative impacts of the Project on the Applicant's current use of the land for traditional purposes. It also claims that the JRP was unable to properly consider the negative impacts on the Applicant because it lacked certain information on the extent and location of their current land use of the land. As noted above, the Applicant blames Nalcor and the Government Respondents for the paucity of information before the JRP.
+[78]
+Given the lack of information as to the negative impacts of the Project on the Applicant and other Quebec aboriginal groups, the Applicant submits that the decisions taken pursuant to subsections 37(1.1) and 37(1) of the
+CEAA
+were unreasonable. The Governor in Council and Responsible Ministers could not reasonably conclude that the negative environmental effects of the Project were justifiable in the circumstances without a complete and thorough understanding of the severity of those environmental effects.
+[79]
+While counsel for the Government Respondents acknowledge that the JRP did not have a full picture of the current land use by Quebec Aboriginal groups (including the Applicant) in the Project area, they submit that it possessed sufficient information to fulfill its mandate under section 16 of the
+CEAA
+. Based on the information before it, the JRP noted that current use in the Project area appeared to be "seasonal, sporadic and of short duration." It also noted that many of the areas reported to be used by Quebec Aboriginal groups were outside the Project area and would not be affected. The JRP's conclusion on the issue went as follows:
+Based on the information on current land and resource use identified through the environmental assessment process, there are uncertainties regarding the extent and locations of current land and resource use by Quebec Aboriginal groups in the Project area. The Panel recognizes that additional information could be forthcoming during government consultations. To the extent that there are current uses in the Project area, the Panel concludes that the Project's impact on Quebec Aboriginal land and resource uses, after implementation of the mitigation measures proposed by Nalcor and those recommended by the Panel, would be adverse but not significant (see page 3148, NR, Vol. 12).
+[80]
+Counsel for the Government Respondents concludes that the JRP properly considered the impact that the Project would have on the current use of the land by Quebec Aboriginal Groups and more importantly by the Applicant, as required by section 16 of
+CEAA
+. They submit that the Governor in Council and Responsible Ministers had sufficient information on this aspect of environmental effects to take a reasonable decision pursuant to subsections 37(1.1) and 37(1) of
+CEAA
+.
+[81]
+Nalcor, for its part, denies that the information available to the JRP was insufficient and argues that "[t]he reasonableness of the information considered during the EA pursuant to section 16 must be evaluated in light of the reasonableness of the EA process, which provided the Applicant with ample opportunities to provide relevant information" (NR, page 3364). They submit that this argument must also fail if the federal government is found to have met its duty to consult. Finally, they remind the Court that the JRP in question was found to have met its obligations under section 16 in a recent judgment rendered by Justice Near (see
+Grand  <FRAGMENT_SUPPRESSED> , at para 71).
+[82]
+The Court concludes that there is no reason to intervene in the present instance for the following reasons. Firstly, there is no evidence before this Court that the statutory process called for by the
+CEAA
+was breached. On the contrary, the
+CEAA
+was closely followed and adhered to at every stage of the process.
+[83]
+Secondly, as the Applicant points out, the primary purpose of the
+CEAA
+is to ensure that projects are considered carefully before they are sanctioned by federal authorities so that they do not cause significant adverse effects (para 4(1)(
+a
+) of the
+CEAA
+). The preamble to the
+CEAA
+also clearly states that: "[ ....] the Government of Canada seeks to achieve sustainable development by conserving and enhancing environmental quality and by encouraging and promoting economic development that conserves and enhances environmental quality." This goal is subject to the caveat that projects creating significant adverse environmental effects may still be approved if they are deemed to be justifiable in light of other considerations (subsection 37(1) of the
+CEAA
+). Consideration of the factors listed in section 16 ensures that the responsible authorities will have a good appreciation for the potential/likely adverse environmental effects of a project.
+[84]
+The Court finds that on this subject, the JRP possessed sufficient information to properly assess the likelihood of significant adverse impacts of the Project on the Applicant's (and other Quebec Aboriginal groups') current use of the land for traditional purposes. While some details on the extent and location of usage could have been supplemented, the JRP had sufficient documentation and information before it, namely, testimony from members of Quebec aboriginal groups and historical documents, to validly conclude that usage in the Project area is "seasonal, sporadic and of a short duration". A close review of the documentation filed by Nalcor with the JRP reveals that the studies conducted by Hydro-Québec as part of the La Romaine Project together with the Comtois study and the presentation made by the Applicant in Sept Îles adequately describes the Applicant's ties to the caribou that roam on part of the Project's footprint. The Court is also satisfied that reasonable efforts were made by the JRP to acquire a more complete picture of the Project's impact on the Applicant. The Court fails to see how further details would have significantly modified the JRP's ultimate conclusion in this instance.
+[85]
+The JRP carefully considered the issues, noted that certain information was lacking but still felt confident that the Project's negative impacts on Quebec Aboriginal land use in the Project area would be small after the proposed mitigating measures were put into place, particularly as they pertain to the caribou. Its conclusion "falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law" ( <FRAGMENT_SUPPRESSED> , cited above, at para 47). This finding also means that the GIC and RAs possessed sufficient information on the topic to make their decisions pursuant to subsections 37(1.1.) and 37(1) of the
+CEAA
+.
+•
+Benefits of the Transmission Link
+[86]
+The Applicant contends that the federal government's response to the JRP report unreasonably considered the benefits of the Transmission Link in concluding that the Project's negative consequences could be justified in the circumstances. In its Response, the federal government lists the "replacement of non-renewable generation plants that produce significant green house, and air pollutants" among the benefits of the Project. The Applicant submits that the only generation plant the Government could be referring to is the Holyrood generation plant located on the Island of Newfoundland. They further argue that Holyrood could not be replaced without the Transmission Link. The Applicant therefore argues that it is unreasonable to consider the benefits of the Transmission Link while ignoring its negative impacts. Since the two projects were scoped separately, the Applicant contends that they should not be considered together because the Transmission Link is still undergoing its EA and has yet to be approved. They posit that including the benefits of the Transmission Link was, therefore, premature.
+[87]
+According to the Applicant, the fact that the Response considers the benefits of the Transmission Link is also evidence that the Project has been substantially modified. The Applicant argues that the "true project" that is being approved and intended on being built is not the one described in the Report but rather that of the Muskrat Falls dam with the Transmission Link. The Gull Island dam has, according to the Applicant, either been abandoned or indefinitely postponed. This situation creates a significant problem according to the Applicant because it entails an indefinite approval for Gull Island. The dam would hang over the land like "the sword of Damocles". It is further submitted that the George River caribou herd is currently experiencing an alarming decline in numbers and that the construction of Gull Island at a later date, without further assessment, could be potentially disastrous for the herd.
+[88]
+Nalcor and the Government Respondents both reply that there is nothing in the
+CEAA
+which prevents the government from considering the benefits of related or unrelated projects. On the contrary, both argue that it would be unreasonable to consider a project in isolation and ignore any benefits accruing from other projects. In addition, Nalcor argues that "while the Response considers the Transmission Link, it does not focus on it exclusively" (NR, page 3366). The economic analysis conducted by NRCan (a study the federal government relied on) "considers the economic viability of the Generation Project as a whole, as well as an assumption that only one or the other component might proceed [...] [and concluded that] any of these scenarios could be economically viable" (NR, page 3366).
+[89]
+Nalcor equally insists that it still intends to move forward with Gull Island but that it must clear its gateway process before moving any further. The fact that there is currently no determined start date for the Gull Island dam does not mean that it will not be built. Nalcor considers that the only significant change that has occurred relates to the sequencing of the construction of the two dams. What is more, according to Nalcor the impact of switching the order of construction was already considered in detail during the EA. It referred the Court to IR JRP 165. Nalcor also points to section 24 of the
+CEAA
+to substantiate its position that there is no indefinite approval of Gull Island. That section, according to Nalcor, is designed to prevent the precise harm that the Applicant is concerned about. If the construction of Gull Island does not proceed within a reasonable timeframe, section 24 of the
+CEAA
+will apply and require that a new EA be conducted.
+[90]
+The Court accepts the Respondents' argument on this issue. In addition to the points they raised above, the Court adds the following. Under paragraph 16(1)(
+a
+) of the
+CEAA
+, a JRP must take into account the cumulative environmental effects of prior and future projects. Given that the negative impacts of a future project must be taken into account in an EA, the Court considers that the positive impacts can also be weighed in just as well. Section 16 does not preclude such an exercise.
+[91]
+The Applicant's concerns regarding the approval of Gull Island is fundamentally a scoping argument which the Court has already concluded to be statute barred in this instance. The Applicant submits that Gull Island should have been removed or "scoped out" of the Project. The Supreme Court of Canada already decided that the minimum scope of a project "is the project as proposed by the proponent" (see <FRAGMENT_SUPPRESSED> , above, at para 39). The scope of the Project can then be increased but not decreased. The rationale is easy to understand. Why would a proponent propose a project larger than they intended to build? They would only be rendering the EA process more onerous for no valid reason. Furthermore, section 24 of the
+CEAA
+will prevent the indefinite approval of any component of a project which is not built within a reasonable timeframe.
+•
+Economic Feasibility and Alternatives
+[92]
+The Applicant argues that the GIC and Responsible Ministers unreasonably ignored the JRP's conclusions and recommendations regarding the adequacy of the economic studies produced by Nalcor and the need to examine alternatives. The JRP concluded in section 4.2 as follows:
+The Panel concludes that Nalcor's analysis that showed Muskrat Falls to be the best and least cost way to meet domestic demand requirements is inadequate and an independent of economic, energy and broad-based environmental considerations of alternatives is required.
+[93]
+In its Response, the federal government noted that it had two economic analyses (one by NRCan and another by Manitoba Hydro International [MHI]), which "concluded by supporting Nalcor's assertions that the Project represents the least cost option for meeting anticipated electricity demand" (NR, Vol. 3, page 0601). The Applicant contends that these studies could not corroborate each other because the analysis conducted by NRCan evaluated the Project as originally proposed (Gull Island followed by Muskrat) whereas MHI and Nalcor's looked at Muskrat Falls together with the Transmission Link.
+[94]
+The Court cannot find a reviewable error on this issue. The JRP fulfilled its purpose under para 4(1)(
+a
+) of the
+CEAA
+by alerting the responsible authorities to its conclusion that Nalcor's economic analysis was inadequate. The federal government disagreed with the JRP on the basis that another analysis corroborated Nalcor's. The federal government's decision on this issue had, therefore, a reasonable factual basis. It is important to reiterate that it is not this Court's role to decide whether or not the Nalcor and MHI's analyses are correct and to reassess the weight to be assigned to one study over another, but rather to determine whether the federal government's decision rests on a reasonable basis. As Justice Sexton reasoned in <FRAGMENT_SUPPRESSED> , above:
+The environmental assessment process is already a long and arduous one, both for proponents and opponents of a project. To turn the reviewing Court into an "academy of science" - to use a phrase coined by my colleague Strayer J. (as he then was) in
+ <FRAGMENT_SUPPRESSED>  para 36).
+[95]
+The evidence before the Court indicates that the federal government was properly informed on the potential negative environmental impacts of the Project. Furthermore it reasonably justified its decision to proceed in this instance after having weighed the benefits against the negative environmental impacts from its national perspective. As the Court reviewed the Response and Decision, it is clear that both are carefully considered decisions that balance competing objectives.
+VII.
+Standard of review and analysis of the third issue
+:
+3) Was the Applicant properly consulted and accommodated in relation to the Project?
+A. Standard of Review
+[96]
+In
+ <FRAGMENT_SUPPRESSED> , at para 62, the Supreme Court of Canada indicated that the first step in determining the appropriate standard of review is to "ascertain whether the jurisprudence has already determined in a satisfactory manner the degree of deference to be accorded with regard to a particular category of question". If the case law has, then the inquiry ends there and the established standard of review should be followed.
+[97]
+The standard of review to be applied in cases where the "government's conduct is challenged on the basis of allegations that it failed to discharge its duty to consult and accommodate pending claims resolution" was first discussed in
+ <FRAGMENT_SUPPRESSED> [
+Haida
+]. Applying the principles established by
+Haida
+, the consensus in the case law is that a question regarding the existence and content of the duty to consult is a legal question that attracts the standard of correctness. A decision as to whether the efforts of the Crown satisfied its duty to consult in a particular situation involves "assessing the facts of the case against the content of the duty" (
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]). This is a mixed question of fact and law to be reviewed on the standard of reasonableness.
+[98]
+It is clear from the facts of this case that the federal government understood its duty to consult the Applicant on the Project. Ultimately, the question to be answered on this issue is whether the federal government satisfied the Crown's duty to consult and accommodate the Applicant in the present case. The standard of review is reasonableness. The question is then: Did the Crown make reasonable efforts to satisfy the duty to inform and consult incumbent upon them? (See
+Haida,
+above, at para 62).
+B. Analysis
+•
+What was the scope of the Crown's duty to consult and accommodate?
+[99]
+In order to decide whether the Crown fulfilled its duty to consult, the Court needs to determine the scope or content of that duty. The Supreme Court, in
+Haida
+, above, found that the scope of the duty to consult it "is proportionate to a preliminary assessment of the strength of the case supporting the existence of the right or title, and to the seriousness of the potentially adverse effect upon the right or title claimed" (
+Haida
+, above, at para 39).
+[100]
+At the low end of the spectrum, that is to say, where there is little evidence supporting the existence of a right, the importance of the right to the Aboriginal peoples small, and the potential impact of the proposed action on that right limited, the duty may only be "to give notice, disclose information and discuss any issues raised in response to the notice" (
+Haida
+at para 43). When the opposite is true, that is when "a strong
+prima facie
+case for the claim is established, the right and potential infringement is of high significance to the Aboriginal peoples, and the risk of non-compensable damage is high" (
+Haida
+at para 44) then deep consultation may be required. Deep consultation may involve "the opportunity to make submissions for consideration, formal participation in the decision-making process, and provision of written reasons to show that Aboriginal concerns were considered and to reveal the impact they had on the decision." (
+Haida
+at para 44). Even in cases where the duty to consult is at the lower end of the spectrum, the duty requires that aboriginal peoples' concerns be taken seriously and, where possible, mitigation measures implemented (
+ <FRAGMENT_SUPPRESSED>  at para 64 [ <FRAGMENT_SUPPRESSED> ]).
+[101]
+Regardless of where the Crown's duty to consult lies on this spectrum, "the controlling question in all situations is what is required to maintain the honour of the Crown and to effect reconciliation between the Crown and the Aboriginal peoples with respect to the interests at stake. Pending settlement, the Crown is bound by its honour to balance societal and Aboriginal interests in making decisions that may affect Aboriginal claims" (
+Haida
+at para 45). A key requirement in honourable consultation is responsiveness (
+ <FRAGMENT_SUPPRESSED> [
+Taku River
+]).
+[102]
+The case law has also clearly established that consultation is not a "one way street" and there exists an obligation for both parties to actively engage in the process. As Justice Finch explained in
+ <FRAGMENT_SUPPRESSED> [
+Halfway River
+]:
+There is a reciprocal duty on aboriginal peoples to express their interests and concerns once they have had an opportunity to consider the information provided by the Crown, and to consult in good faith by whatever means are available to them. They cannot frustrate the consultation process by refusing to meet or participate, or by imposing unreasonable conditions: see
+ <FRAGMENT_SUPPRESSED> .
+Preliminary assessment of the strength of the claim
+[103]
+The Applicant has filed a number of documents testifying to the Ekuanitshit's traditional use of the land in and around the Project area for hunting small and large game, particularly caribou. Such documents include: 1) A 1983 study by Robert Comtois,
+Occupations et utilisation du territoire par les Montagnais de Mingan
+conducted in support of the Ekuanitshit's claims in the federal government's comprehensive land claims process (the "Conseil Attikamek Montagnais [CAM] negotiations); 2) an archeological study by Hydro-Québec (Applicant's Record, Vol. X, page 3181); 3) historical and archeological reports produced by Nalcor (Applicant's Record, Vol. X, pages 3113, 3121 and 3122).
+[104]
+The federal government has never questioned the strength of the Ekuanitshit's claim and, as the Applicant points out, already accepted it for the purpose of negotiating a treaty in 1979 (the CAM negotiations). While Nalcor initially claimed that the information they possessed did not provide any evidence of the Applicant's historical or contemporary use of the land in the Project area, they later submitted a number of documents testifying to it. Those documents include: 1) the CAM; (2) 11 Aboriginal consultation updates filed by Nalcor with the JRP; and (3) Nalcor's responses to information requests number JRP.2 and 1S/2S. In light of the uncontradicted evidence adduced, the Court concludes that the Applicant has a strong
+prima facie
+case for land use rights in the Project area.
+The seriousness of the potentially harmful effect
+[105]
+The Court recognizes that caribou are at the very heart of Ekuanitshit culture. The Applicant is particularly concerned about the future of the caribou living in and around the Project area. During the JRP hearings, Chief Piétacho explained the respect that members of the Innu nation have for the caribou and how important they were to the nation's survival. For historical reasons, including the creation of the Mingan reserve and the imposition of the Indian Residential School system, there was a break with the Applicant's caribou hunting tradition in Labrador. During the JRP hearings, Chief Piétacho explained that the Ekuanitshit are now returning to Labrador to hunt caribou and perpetuating their traditional ties to the caribou.
+[106]
+Regarding the potential adverse effects of the Project on the caribou, the JRP report paints a nuanced picture. Due to a number of factors, the Red Wine Mountains herd is already a species at risk and it is unclear whether the herd, with or without the Project, can be saved. Nevertheless, the JRP concluded that "in light of the current state of the herd and the cumulative effects on its recovery, the Project would cause a significant adverse environmental effect on the Red Wine Mountain caribou herd" (NR, Vol. 12, page 3096).
+[107]
+While the Ekuanitshit no longer depend on the caribou for their survival and have only recently resumed hunting them in the Project area the animal's cultural significance should not be underestimated. Furthermore, the Court considers that in this case, reconciliation demanded that the federal government consult and take measures within its legislative powers to ensure that this traditional activity be maintained. This duty becomes even more evident as the Court acknowledges the fact that the federal government is partially to blame for the Applicant's break with tradition (cf. the residential schooling system). Given that the Applicant presents a strong
+prima facie
+case for its claim and that the potential for adverse effects on a culturally significant right is high, this Court finds that the Applicant was entitled to more than minimum consultation. The Applicant's concerns needed to have been seriously addressed and mitigating measures needed to have been included in the Project.
+•
+Preliminary issues
+Is judicial review premature?
+[108]
+The Government Respondents argue that the Applicant filed its application for judicial review before the federal government's consultation period came to an end. Consultation did not come to end with the GIC's Order in Council. According to the Federal Consultation Framework, the process is now in Phase V: Regulatory permitting. Consultation is to continue up until TC and DFO issue permits allowing Nalcor to pose acts that will obstruct navigable waterways or destroy fish habitat.
+[109]
+The Government Respondents rely on Justice Barnes' decision in
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ] where he found that an application for judicial review based on a claim that Crown consultation was inadequate is premature if "the effective end-point in the process of consultation has not been reached" .In that same paragraph he also noted that the Supreme Court of Canada in
+Haida
+, above, explained that "there are a variety of remedies available for a failure to consult not the least of which is the opportunity at later stages in the process to engage in meaningful dialogue and, where necessary, to accommodate First Nations concerns". Justice Barnes' conclusion was that the First Nations groups could be heard again if "the process proves to be deficient or perfunctory" ( <FRAGMENT_SUPPRESSED> , above, at para 54).
+[110]
+The Applicant argues that consultation and accommodation must not only be evaluated when final permits are issued but also when ""strategic, higher level decisions" that may have an impact on Aboriginal claims and rights" are taken (
+ <FRAGMENT_SUPPRESSED>  at para 44 [
+Carrier Sekani
+]). The decisions taken pursuant to subsections 37(1) and 37(1.1) are not only "higher level decisions" but their effect is to release the Project from the EA process and will, in turn, have a substantial influence on the permit granting decisions.
+[111]
+The Government Respondents reply that
+Carrier Sekani
+, above, refers to decisions that trigger or engage the duty to consult, not the duty to evaluate the consultation process (
+Carrier Sekani
+, above, at para 43). In this case, the consultation process began long before the decisions under review were made. The consultation process is still ongoing and should not be judged until it is over.
+[112]
+The Court finds that judicial review of the federal government's consultation and accommodation process is premature at this stage. One of the goals of consultation and accommodation is to "preserve [an] Aboriginal interest pending claims resolution" (
+Haida
+, cited above, at para 38). This requires that Aboriginal groups be consulted and accommodated before the rights they lay claim to are irrevocably harmed. While it is true that preparatory work for the Project has begun, the acts that truly put the Applicant's rights and interests at risk are those which require permits issued by TC and DFO. It is premature to evaluate the federal government's consultation process before those decisions are made. Notwithstanding this finding, the Court considers it should nonetheless review and assess the adequacy of the consultation that has taken place up to the moment when this application for judicial review was filed.
+Constitutive elements of the Crown's consultation
+[113]
+The Applicant claims that the federal government's consultation consisted of one letter sent to the Applicant on September 9th, 2009, requesting comments on the JRP report. The Government Respondents allege that this is an inaccurate caricaturization of the federal government's consultation in this case. The federal government emphasized in their Consultation Framework that the second and third phases of Crown consultation would take place within the context of the JRP's EA process. The Government Respondents remind the Court that it is now a well accepted practice that Crown consultation can take place through the CEAA's EA process (see
+ <FRAGMENT_SUPPRESSED>  at para 45;
+Taku River
+, above, at paras 2 and 22; and <FRAGMENT_SUPPRESSED> , above, at para 50). The Court is satisfied that the consultations conducted by the JRP during the EA constituted federal government consultation.
+Consultation
+[114]
+The Applicant's participation in the Project EA began early on in the process, at the planning stage. The Canadian Environmental Assessment Agency (the "Agency") and the Provincial Department of Environment and Conservation (the "NLDEC") invited the Applicant to comment on their draft Environmental Impact Statement Guidelines ("Draft Guidelines"). The Applicant responded by submitting comments on what information it felt Nalcor should include in its EIS in order to assist the Joint Review Panel [JRP] in carrying out the EA. The Applicant was also invited to comment on the draft JRP Agreement and to nominate JRP members.
+[115]
+The Applicant acknowledged that it was actively involved in the EA process. To fund that participation, the Agency granted the Applicant the full amount it initially requested through its participant funding program (an initial $55, 850.25 and an additional $11, 105.00 upon further request later on in the process). Through this funding, the Applicant was able to present written submissions regarding Nalcor's EIS which subsequently informed the JRP's IR process. The IRs elicited a number of responses from Nalcor on issues that concerned the Applicant, including: (a) the Red Wine Mountain and Lac Joseph caribou herds; (b) monitoring and follow-up; (c) waterfowl survey methodology and; (d) Aboriginal consultation.. The Applicant made further comments on the adequacy of Nalcor's responses which, in turn, led the JRP to make additional IRs. Altogether the IRs resulted in 250 pages of further information.
+(See Exhibits A-251, U,V,W to Bennett Affidavit, pages 113, 681, 693 and 1061, NR, Vol. 1, 3, 4 and 5)
+[116]
+The Applicant also presented his oral submissions at the JRP community Hearing session which took place, at its request, in Sept-Îles on April 7, 2011. Chief Piétacho and 4 other community elders testified on the Ekuanitshit's use of the land to be affected by the Project. The Applicants also played a video of other elders describing the Ekuanitshit's traditional voyages from Mingan to as far as "Tshishe-shastshit" in Labrador. Simultaneous translation of the proceedings was provided. The Court had the benefit of viewing part of the video that was presented and finds it admissible in the record as evidence of the representations made by the Applicant.
+[117]
+In response to the Applicant's concerns regarding the nefarious effects of the Project on their use of the land, Nalcor introduced a number of mitigating measures. For example, with regards to the caribou, Nalcor proposed to:
+"- consider the timing of construction and other activities and restricting access when caribou are in the area;
+- reduce wildlife mortality by posting speed limits and implementing a no harassment/no harvesting policy;
+- arrange work schedules to minimize travel in designated areas during calving and post-calving periods;
+- remove trees from the riparian zone surrounding the reservoirs;
+- monitor both the Red Wine Mountain and George River herds to ensure that predictions of Project effects are accurate including evaluating effects of habitat loss and alteration, increased access and changes in predator-prey dynamics;
+- design monitoring and follow-up programs to allow for the identification of cumulative effects by referencing applicable management plans and consulting with regulators;
+- monitor daily and seasonal road and river crossings by caribou and traffic access;
+- provide support for telemetry work to monitor caribou population numbers, calf survival, and movement and distribution patters;
+- monitor the Red Wine Mountain caribou herd through ongoing participation with the Labrador Woodland Caribou Recovery Team, including support of satellite GPS monitoring and other work directly related to the effects of the Project; and
+- monitor the George River caribou herd through the participation with the George River Caribou Herd Co-Management Team" (NR, Vol. 12, page 3093).
+[118]
+The Court notes the conclusion reached by the JRP with respect to the Applicant's claims. Pages 185-186 of the JRP Report read:
+Based on the information on current land and resource use identified through the environmental assessment process, there are uncertainties regarding the extent and locations of current land and resource use by Quebec Aboriginal groups in the Project area. The Panel recognizes that additional information could be forthcoming during government consultations. To the extent that there are current uses in the Project area, the panel concludes that the Project's impact on Quebec Aboriginal land and resource uses, after implementation of the mitigation measures proposed by Nalcor and those recommended by the Panel, would be adverse but not significant (NR, page3148).
+[119]
+Based on the foregoing, it is clear that the Applicant's concerns were taken seriously and that several mitigating measures were introduced into the Project in response.
+[120]
+The Applicant, however, maintains that the Crown failed to meet its duty to consult in two major respects. First, the Crown did not adequately inform the Ekuanitshit on both their contemporary use of the land in the Project zone and on the negative impact that the Project would have on their rights. Second, the Crown failed to sufficiently accommodate the Applicant on the predicted negative impacts of the Project on their rights.
+Failure to inform
+[121]
+The JRP concluded that while the Project's negative impact on the Applicant's land use would not be significant, uncertainties remained as to the location and extent of the Applicant's current use of the land in the Project area. The JRP noted that such information might become available during the course of further consultation with the federal government. The Applicant stresses that this never happened.
+[122]
+While the Respondents maintain that the information provided during the EA process was sufficient to satisfy the federal government's duty to consult, they note that Nalcor and the Applicant made numerous attempts to negotiate a Community Consultation Agreement [CCA]. The CCA was intended to provide the Applicant the capacity to present information on their current land use in the Project area. The parties were unable to come to an agreement for several reasons including:
+Methodology
+[123]
+The Applicant believed that a similar approach to that taken by Hydro-Québec in the La Romaine project should have been adopted. This method would have involved the hiring of an "expert to carry out a study on the Innus of Ekuanitshit [and] his or her work would be supported by community liaison officers paid by the proponent and would be supervised by a Nalcor-Ekuanitshit joint committee" (NR, page 1402). Nalcor considered the approach the Applicant put forward but ultimately opted for an approach where the community would hire a Nalcor funded consultation officer who would work "in close cooperation with Nalcor personnel to collect data, disseminate information and prepare reports" (NR, page 1408).
+Duration
+[124]
+Nalcor believed "that the activities described in the draft agreement [could] be implemented over a four month period" whereas the Applicant found this estimate to be "unrealistic and impractical" (NR, page 1408).
+Cost and scope
+[125]
+Nalcor estimated a budget of approximately $87,500 for the activities described in their draft consultation agreement. Again, the Applicant believed this estimate to be unrealistic. The Applicant maintained its position throughout negotiations that the type of study required was one similar to that performed for the La Romaine project. The Hydro-Québec environmental impact study included multiple studies for which the estimated cost was $600,000. Nalcor considers that given the data available from the Comtois study and those conducted by Hydro-Québec for La Romaine, a study of similar magnitude was not required to uncover the scope and location of the Applicant's current use of the land in the Project area for traditional purposes.
+[126]
+It is clear in the jurisprudence that the duty to consult does not imply a duty to agree (
+Haida
+, above, at para 42). What is required is a "commitment [...] to a meaningful process of consultation" (
+Haida
+, above, at para 42). When the Court applies these principles to the CCA negotiations, it finds that Nalcor was committed to provide the Applicant with a meaningful opportunity to update existing information regarding their current use of the land in the Project area.
+[127]
+For one, the Court does not agree with the Applicant that a study similar in scope and kind to that performed for the La Romaine project was required in this case. A fair amount of information already existed on the Applicant's use of the land in the Project area (i.e. Comtois study and those of Hydro-Québec for La Romaine). Indeed, that information, in addition to the testimonies made during the JRP hearing in Sept-Îles on April 7th, was sufficient enough for the JRP to conclude that the Project would not have a significant impact on the Applicant's current land use. The Court agrees that the methodology proposed by Nalcor was reasonable in this instance. The Applicant referred the Court to the results of a study conducted by another Quebec based Innu group, the Pakua Shipi, who accepted the $87,500 Nalcor offer and terms of reference. The Applicant argued that it rightly rejected Nalcor's proposal since the result of the study were inconclusive and lacked scientific rigor.
+[128]
+The Applicant also claims that the consultation process was deficient in that Innu Nation received preferential treatment which is contrary to the principle established in
+ <FRAGMENT_SUPPRESSED> 
+[129]
+The Court finds that it was incumbent on the Applicant, having decided that the funding and amount of time offered were insufficient, to present a counter offer that demonstrated that it was truly engaged in the process. As the Court reviewed the correspondence exchanged in the negotiations, it indicates that the Applicant denounced the successive offers made by Nalcor but remained on its position that an in-depth study similar to La Romaine was required. Given the difference in terms of impact on the rights of the Applicant between the Project (two dams in Labrador) and La Romaine (4 dams in close proximity to their reserve), the Court is of the opinion that the Applicant's position "frustrate[d] the consultation process [...] by imposing unreasonable conditions" (
+Halfway River
+, above, at para 161).
+[130]
+Phase IV of the federal government's Consultation Framework covers the period after the release of the JRP report up until the Decision and Response. In conformity with the Framework, the Agency sent the Applicant a letter on September 9th, 2011 soliciting comments on the JRP report within a delay of 45 days. The Applicant responded within the delay with a 22 page submission requesting that the federal government refrain from authorizing the Project before:
+"1) avant qu'une étude sérieuse ne soit complétée sur l'utilisation historique et contemporaine par les Innus de Ekuanitshit du territoire visé par le projet, y compris les effets négatifs potentiels du projet;
+2) plus, précisément, sans qu'une étude complète sur les effets potentiels sur la harde de caribous du Lac Joseph ne soit produite et avant qu'un programme de suivi exhaustif de la harde de caribous des monts Red Wine ne soit mis sur pied, au sujet desquels les Innus de Ekuanitshit devraient être consultés (Applicant's Record, Vol. VII, pages 2088-2089, 2101-2102)".
+[131]
+The Crown did not reply to the Applicant's request and four months later the Project was released from the EA process. The Court agrees with the Applicant that the federal government should have responded to that letter. As noted above, responsiveness is a key requirement of honourable consultation (
+Taku River
+, above, at para 25).This misstep, however, does not mean that the consultation process, as a whole, should be deemed inadequate. As Justice Barnes noted in <FRAGMENT_SUPPRESSED> , above, the consultation process must be reasonable, not perfect.
+[132]
+Furthermore, while the federal government did not respond to the Applicant's letter regarding the Lac Joseph herd, its concern was addressed by the mitigating measures proposed in the JRP report and confirmed in the Decision (see NR: vol. 3, p. 638). Nalcor chose to focus on the Red Wine herd in its EIS (i.e. to use it as its "key indicator") because it was the species most at risk. The mitigating measures introduced to prevent serious harm to the Red Wine caribous can also be applied to the Lac Joseph herd (see NR, Vol. 8, page 1914).
+[133]
+The Court believes it should underline that subsection 37(2) of the
+CEAA
+requires a responsible authority to adopt a course of action under paragraph 37(1)(
+a
+) to "ensure that any mitigation measures referred to in that paragraph in respect of the project are implemented". Should the federal government fail to do so, the Applicant may have that decision not to implement the mitigation measures recommended judicially reviewed.
+Insufficient accommodation
+[134]
+The Applicant submits that the Crown has failed to establish why the Applicant should not be accommodated to the same extent as, for example, the Innu nation. The Applicant points to the Impact and benefits agreements [IBA] that Nalcor signed with Innu Nation in 2008 called "Tshash Petapen" which not only includes employment opportunities but commercial participation and even royalties.
+[135]
+The Court finds that the mitigating measures proposed by Nalcor and the JRP to minimize the negative impact on the Ekuanitshit's rights
+substantially
+satisfy the federal government's duty to consult and accommodate within its jurisdiction. The federal government's Response confirmed that these measures will be made an integral part of the project. [Emphasis added]
+[136]
+While the traditional rights of the Applicant in question are culturally significant, the impact the Project will have on them cannot be compared to the impact it will have on Innu Nation. One obvious difference is that the Project will be located on or in closer proximity to the land where the Innu Nation lives and to which it claimed title. The Project will inevitably affect more than one significant aspect of their lives.
+[137]
+In conclusion, this application is dismissed because the Applicant was adequately consulted, mitigation measures addressed its concerns with respect to its usage of the territory in the Project area and, in any case, the scoping issue is statute barred. Finally, the Court also finds that judicial review of the consultation process is premature.
+JUDGMENT
+[138]
+THIS COURT'S JUDGMENT is that
+the application is dismissed. In view of the general importance of some of the issues raised by this application the Court orders that the Respondents jointly pay 25% of Applicant's costs.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/vnh
+ANNEX
+Canadian Environmental Assessment Act
+, SC 1992, c 37
+Definitions
+2. (1) In this Act,
+...
+"environmental effect" means, in respect of a project,
+(
+a
+) any change that the project may cause in the environment, including any change it may cause to a listed wildlife species, its critical habitat or the residences of individuals of that species, as those terms are defined in subsection 2(1) of the Species at Risk Act,
+(
+b
+) any effect of any change referred to in paragraph (a) on
+(i) health and socio-economic conditions,
+(ii) physical and cultural heritage,
+(iii) the current use of lands and resources for traditional purposes by aboriginal persons, or
+(iv) any structure, site or thing that is of historical, archaeological, paleontological or architectural significance, or
+(
+c
+) any change to the project that may be caused by the environment,
+whether any such change or effect occurs within or outside Canada;
+Purposes
+4. (1) The purposes of this Act are
+(
+a
+) to ensure that projects are considered in a careful and precautionary manner before federal authorities take action in connection with them, in order to ensure that such projects do not cause significant adverse environmental effects;
+(
+b
+) to encourage responsible authorities to take actions that promote sustainable development and thereby achieve or maintain a healthy environment and a healthy economy;
+(
+b.
+1) to ensure that responsible authorities carry out their responsibilities in a coordinated manner with a view to eliminating unnecessary duplication in the environmental assessment process;
+(
+b
+.2) to promote cooperation and coordinated action between federal and provincial governments with respect to environmental assessment processes for projects;
+(
+b
+.3) to promote communication and cooperation between responsible authorities and Aboriginal peoples with respect to environmental assessment;
+(
+c
+) to ensure that projects that are to be carried out in Canada or on federal lands do not cause significant adverse environmental effects outside the jurisdictions in which the projects are carried out; and
+(
+d
+) to ensure that there be opportunities for timely and meaningful public participation throughout the environmental assessment process.
+Duties of the Government of Canada
+(2) In the administration of this Act, the Government of Canada, the Minister, the Agency and all bodies subject to the provisions of this Act, including federal authorities and responsible authorities, shall exercise their powers in a manner that protects the environment and human health and applies the precautionary principle.
+Scope of project
+15. (1) The scope of the project in relation to which an environmental assessment is to be conducted shall be determined by
+(
+a
+) the responsible authority; or
+(
+b
+) where the project is referred to a mediator or a review panel, the Minister, after consulting with the responsible authority.
+Same assessment for related projects
+(2) For the purposes of conducting an environmental assessment in respect of two or more projects,
+(
+a
+) the responsible authority, or
+(
+b
+) where at least one of the projects is referred to a mediator or a review panel, the Minister, after consulting with the responsible authority,
+may determine that the projects are so closely related that they can be considered to form a single project.
+All proposed undertakings to be considered
+(3) Where a project is in relation to a physical work, an environmental assessment shall be conducted in respect of every construction, operation, modification, decommissioning, abandonment or other undertaking in relation to that physical work that is proposed by the proponent or that is, in the opinion of
+(
+a
+) the responsible authority, or
+(
+b
+) where the project is referred to a mediator or a review panel, the Minister, after consulting with the responsible authority,
+likely to be carried out in relation to that physical work.
+Factors to be considered
+16. (1) Every screening or comprehensive study of a project and every mediation or assessment by a review panel shall include a consideration of the following factors:
+(
+a
+) the environmental effects of the project, including the environmental effects of malfunctions or accidents that may occur in connection with the project and any cumulative environmental effects that are likely to result from the project in combination with other projects or activities that have been or will be carried out;
+(
+b
+) the significance of the effects referred to in paragraph (
+a
+);
+(
+c
+) comments from the public that are received in accordance with this Act and the regulations;
+(
+d
+) measures that are technically and economically feasible and that would mitigate any significant adverse environmental effects of the project; and
+(
+e
+) any other matter relevant to the screening, comprehensive study, mediation or assessment by a review panel, such as the need for the project and alternatives to the project, that the responsible authority or, except in the case of a screening, the Minister after consulting with the responsible authority, may require to be considered.
+Additional factors
+(2) In addition to the factors set out in subsection (1), every comprehensive study of a project and every mediation or assessment by a review panel shall include a consideration of the following factors:
+(
+a
+) the purpose of the project;
+(
+b
+) alternative means of carrying out the project that are technically and economically feasible and the environmental effects of any such alternative means;
+(
+c
+) the need for, and the requirements of, any follow-up program in respect of the project; and
+(
+d
+) the capacity of renewable resources that are likely to be significantly affected by the project to meet the needs of the present and those of the future.
+Determination of factors
+(3) The scope of the factors to be taken into consideration pursuant to paragraphs (1)(
+a
+), (
+b
+) and (
+d
+) and (2)(
+b
+), (
+c
+) and (
+d
+) shall be determined
+(
+a
+) by the responsible authority; or
+(
+b
+) where a project is referred to a mediator or a review panel, by the Minister, after consulting the responsible authority, when fixing the terms of reference of the mediation or review panel.
+Factors not included
+(4) An environmental assessment of a project is not required to include a consideration of the environmental effects that could result from carrying out the project in response to a national emergency for which special temporary measures are taken under the
+Emergencies Act
+.
+Decision of responsible authority
+37. (1) Subject to subsections (1.1) to (1.3), the responsible authority shall take one of the following courses of action in respect of a project after taking into consideration the report submitted by a mediator or a review panel or, in the case of a project referred back to the responsible authority pursuant to subsection 23(1), the comprehensive study report:
+(
+a
+) where, taking into account the implementation of any mitigation measures that the responsible authority considers appropriate,
+(i) the project is not likely to cause significant adverse environmental effects, or
+(ii) the project is likely to cause significant adverse environmental effects that can be justified in the circumstances,
+the responsible authority may exercise any power or perform any duty or function that would permit the project to be carried out in whole or in part; or
+(
+b
+) where, taking into account the implementation of any mitigation measures that the responsible authority considers appropriate, the project is likely to cause significant adverse environmental effects that cannot be justified in the circumstances, the responsible authority shall not exercise any power or perform any duty or function conferred on it by or under any Act of Parliament that would permit the project to be carried out in whole or in part.
+Approval of Governor in Council
+(1.1) Where a report is submitted by a mediator or review panel,
+(
+a
+) the responsible authority shall take into consideration the report and, with the approval of the Governor in Council, respond to the report;
+(
+b
+) the Governor in Council may, for the purpose of giving the approval referred to in paragraph (a), require the mediator or review panel to clarify any of the recommendations set out in the report; and
+(
+c
+) the responsible authority shall take a course of action under subsection (1) that is in conformity with the approval of the Governor in Council referred to in paragraph (
+a
+).
+Federal authority
+(1.2) Where a response to a report is required under paragraph (1.1)(
+a
+) and there is, in addition to a responsible authority, a federal authority referred to in paragraph 5(2)(
+b
+) in relation to the project, that federal authority may act as a responsible authority for the purposes of that response. This subsection applies in the case of a federal authority within the meaning of paragraph (
+b
+) of the definition "federal authority" in subsection 2(1) if the Minister through whom the authority is accountable to Parliament agrees.
+Approval of Governor in Council
+(1.3) Where a project is referred back to a responsible authority under subsection 23(1) and the Minister issues an environmental assessment decision statement to the effect that the project is likely to cause significant adverse environmental effects, no course of action may be taken by the responsible authority under subsection (1) without the approval of the Governor in Council.
+Responsible authority to ensure implementation of mitigation measures
+(2) Where a responsible authority takes a course of action referred to in paragraph (1)(
+a
+), it shall, notwithstanding any other Act of Parliament, in the exercise of its powers or the performance of its duties or functions under that other Act or any regulation made there under or in any other manner that the responsible authority considers necessary, ensure that any mitigation measures referred to in that paragraph in respect of the project are implemented.
+Mitigation measures - extent of authority
+(2.1) Mitigation measures that may be taken into account under subsection (1) by a responsible authority are not limited to measures within the legislative authority of Parliament and include
+(
+a
+) any mitigation measures whose implementation the responsible authority can ensure; and
+(
+b
+) any other mitigation measures that it is satisfied will be implemented by another person or body.
+Responsible authority to ensure implementation of mitigation measures
+(2.2) When a responsible authority takes a course of action referred to in paragraph (1)(
+a
+), it shall, with respect to any mitigation measures it has taken into account and that are described in paragraph (2.1)(a), ensure their implementation in any manner that it considers necessary and, in doing so, it is not limited to its duties or powers under any other Act of Parliament.
+Assistance of other federal authority
+(2.3) A federal authority shall provide any assistance requested by a responsible authority in ensuring the implementation of a mitigation measure on which the federal authority and the responsible authority have agreed.
+Prohibition: proceeding with project
+(3) Where the responsible authority takes a course of action referred to in paragraph (1)(
+b
+) in relation to a project, the responsible authority shall publish a notice of that course of action in the Registry and, notwithstanding any other Act of Parliament, no power, duty or function conferred by or under that Act or any regulation made under it shall be exercised or performed that would permit that project to be carried out in whole or in part.
+Time for decision
+(4) A responsible authority shall not take any course of action under subsection (1) before the 30th day after the report submitted by a mediator or a review panel or a summary of it has been included on the Internet site in accordance with paragraph 55.1(2)(p).
+The Constitution Act
+, 1982, Schedule B to the Canada Act 1982 (UK), 1982, c 11, Annexe B de la Loi de 1982 sur le Canada (R-U), 1982, c 11
+35. (1) The existing aboriginal and treaty rights of the aboriginal peoples of Canada are hereby recognized and affirmed.
+(2) In this Act, "aboriginal peoples of Canada" includes the Indian, Inuit and Métis peoples of Canada.
+(3) For greater certainty, in subsection (1) "treaty rights" includes rights that now exist by way of land claims agreements or may be so acquired.
+(4) Notwithstanding any other provision of this Act, the aboriginal and treaty rights referred to in subsection (1) are guaranteed equally to male and female persons.
+Loi canadienne sur l'évaluation environnementale
+, LC 1992, c 37
+Définitions
+2. (1) Les définitions qui suivent s'appliquent à la présente loi.
+[...]
+« effets environnementaux »
+"environmental effect"
+« effets environnementaux » Que ce soit au Canada ou à l'étranger, les changements que la réalisation d'un projet risque de causer à l'environnement - notamment à une espèce sauvage inscrite, à son habitat essentiel ou à la résidence des individus de cette espèce, au sens du paragraphe 2(1) de la Loi sur les espèces en péril - les répercussions de ces changements soit en matière sanitaire et socioéconomique, soit sur l'usage courant de terres et de ressources à des fins traditionnelles par les autochtones, soit sur une construction, un emplacement ou une chose d'importance en matière historique, archéologique, paléontologique ou architecturale, ainsi que les changements susceptibles d'être apportés au projet du fait de l'environnement.
+Objet
+4. (1) La présente loi a pour objet:
+a) de veiller à ce que les projets soient étudiés avec soin et prudence avant que les autorités fédérales prennent des mesures à leur égard, afin qu'ils n'entraînent pas d'effets environnementaux négatifs importants;
+b) d'inciter ces autorités à favoriser un développement durable propice à la salubrité de l'environnement et à la santé de l'économie;
+b
+.1) de faire en sorte que les autorités responsables s'acquittent de leurs obligations afin d'éviter tout double emploi dans le processus d'évaluation environnementale;
+b
+.2) de promouvoir la collaboration des gouvernements fédéral et provinciaux, et la coordination de leurs activités, dans le cadre du processus d'évaluation environnementale de projets;
+b
+.3) de promouvoir la communication et la collaboration entre les autorités responsables et les peuples autochtones en matière d'évaluation environnementale;
+c) de faire en sorte que les éventuels effets environnementaux négatifs importants des projets devant être réalisés dans les limites du Canada ou du territoire domanial ne débordent pas ces limites;
+d) de veiller à ce que le public ait la possibilité de participer de façon significative et en temps opportun au processus de l'évaluation environnementale.
+Mission du gouvernement du Canada
+(2) Pour l'application de la présente loi, le gouvernement du Canada, le ministre, l'Agence et les organismes assujettis aux dispositions de celle-ci, y compris les autorités fédérales et les autorités responsables, doivent exercer leurs pouvoirs de manière à protéger l'environnement et la santé humaine et à appliquer le principe de la prudence.
+Détermination de la portée du projet
+15. (1) L'autorité responsable ou, dans le cas où le projet est renvoyé à la médiation ou à l'examen par une commission, le ministre, après consultation de l'autorité responsable, détermine la portée du projet à l'égard duquel l'évaluation environnementale doit être effectuée.
+Pluralité de projets
+(2) Dans le cadre d'une évaluation environnementale de deux ou plusieurs projets, l'autorité responsable ou, si au moins un des projets est renvoyé à la médiation ou à l'examen par une commission, le ministre, après consultation de l'autorité responsable, peut décider que deux projets sont liés assez étroitement pour être considérés comme un seul projet.
+Projet lié à un ouvrage
+(3) Est effectuée, dans l'un ou l'autre des cas suivants, l'évaluation environnementale de toute opération - construction, exploitation, modification, désaffectation, fermeture ou autre - constituant un projet lié à un ouvrage:
+a) l'opération est proposée par le promoteur;
+b) l'autorité responsable ou, dans le cadre d'une médiation ou de l'examen par une commission et après consultation de cette autorité, le ministre estime l'opération susceptible d'être réalisée en liaison avec l'ouvrage.
+Éléments à examiner
+16. (1) L'examen préalable, l'étude approfondie, la médiation ou l'examen par une commission d'un projet portent notamment sur les éléments suivants:
+a) les effets environnementaux du projet, y compris ceux causés par les accidents ou défaillances pouvant en résulter, et les effets cumulatifs que sa réalisation, combinée à l'existence d'autres ouvrages ou à la réalisation d'autres projets ou activités, est susceptible de causer à l'environnement;
+b) l'importance des effets visés à l'alinéa a);
+c) les observations du public à cet égard, reçues conformément à la présente loi et aux règlements;
+d) les mesures d'atténuation réalisables, sur les plans technique et économique, des effets environnementaux importants du projet;
+e) tout autre élément utile à l'examen préalable, à l'étude approfondie, à la médiation ou à l'examen par une commission, notamment la nécessité du projet et ses solutions de rechange, - dont l'autorité responsable ou, sauf dans le cas d'un examen préalable, le ministre, après consultation de celle-ci, peut exiger la prise en compte.
+Éléments supplémentaires
+(2) L'étude approfondie d'un projet et l'évaluation environnementale qui fait l'objet d'une médiation ou d'un examen par une commission portent également sur les éléments suivants:
+a) les raisons d'être du projet;
+b) les solutions de rechange réalisables sur les plans technique et économique, et leurs effets environnementaux;
+c) la nécessité d'un programme de suivi du projet, ainsi que ses modalités;
+d) la capacité des ressources renouvelables, risquant d'être touchées de façon importante par le projet, de répondre aux besoins du présent et à ceux des générations futures.
+Obligations
+(3) L'évaluation de la portée des éléments visés aux alinéas (1)
+a
+),
+b
+) et
+d
+) et (2)
+b
+), c) et
+d
+) incombe:
+a) à l'autorité responsable;
+b) au ministre, après consultation de l'autorité responsable, lors de la détermination du mandat du médiateur ou de la commission d'examen.
+Situations de crise nationale
+(4) L'évaluation environnementale d'un projet n'a pas à porter sur les effets environnementaux que sa réalisation peut entraîner en réaction à des situations de crise nationale pour lesquelles des mesures d'intervention sont prises aux termes de la
+Loi sur les mesures d'urgence
+.
+Autorité responsable
+37. (1) Sous réserve des paragraphes (1.1) à (1.3), l'autorité responsable, après avoir pris en compte le rapport du médiateur ou de la commission ou, si le projet lui est renvoyé aux termes du paragraphe 23(1), le rapport d'étude approfondie, prend l'une des décisions suivantes:
+a) si, compte tenu de l'application des mesures d'atténuation qu'elle estime indiquées, la réalisation du projet n'est pas susceptible d'entraîner des effets environnementaux négatifs importants ou est susceptible d'en entraîner qui sont justifiables dans les circonstances, exercer ses attributions afin de permettre la mise en œuvre totale ou partielle du projet;
+b) si, compte tenu de l'application des mesures d'atténuation qu'elle estime indiquées, la réalisation du projet est susceptible d'entraîner des effets environnementaux qui ne sont pas justifiables dans les circonstances, ne pas exercer les attributions qui lui sont conférées sous le régime d'une loi fédérale et qui pourraient permettre la mise en oeuvre du projet en tout ou en partie.
+Agrément du gouverneur en conseil
+(1.1) Une fois pris en compte le rapport du médiateur ou de la commission, l'autorité responsable est tenue d'y donner suite avec l'agrément du gouverneur en conseil, qui peut demander des précisions sur l'une ou l'autre de ses conclusions; l'autorité responsable prend alors la décision visée au titre du paragraphe (1) conformément à l'agrément.
+Application du paragraphe 5(2)
+(1.2) Lorsqu'une autorité responsable a l'obligation, en vertu du paragraphe (1.1), de donner suite au rapport qui y est visé, toute autorité fédérale dont le rôle à l'égard du projet est prévu à l'alinéa 5(2)
+b
+) peut prendre part à l'exécution de cette obligation comme si elle était une autorité responsable. S'agissant d'une autorité fédérale visée à l'alinéa
+b
+) de la définition de « autorité fédérale », au paragraphe 2(1), elle peut s'acquitter de cette obligation avec l'agrément du ministre par l'intermédiaire duquel elle rend compte de ses activités au Parlement.
+Agrément du gouverneur en conseil
+(1.3) L'autorité responsable à laquelle le projet est renvoyé au titre du paragraphe 23(1) ne prend la décision visée au paragraphe (1) qu'avec l'agrément du gouverneur en conseil si le projet est, selon la déclaration du ministre, susceptible d'entraîner des effets environnementaux négatifs importants.
+Précision
+(2) L'autorité responsable qui prend la décision visée à l'alinéa (1)
+a
+) veille, malgré toute autre loi fédérale, lors de l'exercice des attributions qui lui sont conférées sous le régime de cette loi ou de ses règlements ou selon les autres modalités qu'elle estime indiquées, à l'application des mesures d'atténuation visées à cet alinéa.
+Mesures d'atténuation - étendue des pouvoirs
+(2.1) Les mesures d'atténuation que l'autorité responsable peut prendre en compte dans le cadre du paragraphe (1) ne se limitent pas à celles qui relèvent de la compétence législative du Parlement; elles comprennent:
+a) les mesures d'atténuation dont elle peut assurer l'application;
+b) toute autre mesure d'atténuation dont elle est convaincue qu'elle sera appliquée par une autre personne ou un autre organisme.
+Application des mesures d'atténuation
+(2.2) Si elle prend une décision dans le cadre de l'alinéa (1)
+a
+), l'autorité responsable veille à l'application des mesures d'atténuation qu'elle a prises en compte et qui sont visées à l'alinéa (1.1)a) de la façon qu'elle estime nécessaire, même si aucune autre loi fédérale ne lui confère de tels pouvoirs d'application.
+Appui à l'autorité responsable
+(2.3) Il incombe à l'autorité fédérale qui convient avec l'autorité responsable de mesures d'atténuation d'appuyer celle-ci, sur demande, dans l'application de ces mesures.
+Interdiction de mise en œuvre
+(3) L'autorité responsable qui prend la décision visée à l'alinéa (1)
+b
+) à l'égard d'un projet est tenue de publier un avis de cette décision dans le registre, et aucune attribution conférée sous le régime de toute autre loi fédérale ou de ses règlements ne peut être exercée de façon à permettre la mise en œuvre, en tout ou en partie, du projet.
+Délai relatif à la prise de la décision
+(4) L'autorité responsable ne peut prendre une décision dans le cadre du paragraphe (1) avant le trentième jour suivant le versement du rapport du médiateur ou de la commission, ou un résumé du rapport, au site Internet conformément à l'alinéa 55.1(2)p).
+Loi constitutionnelle de 1982
+, Annexe B de la Loi de 1982 sur le Canada (R-U), 1982, c 11
+35. (1) Les droits existants - ancestraux ou issus de traités - des peuples autochtones du Canada sont reconnus et confirmés.
+(2) Dans la présente loi, « peuples autochtones du Canada » s'entend notamment des Indiens, des Inuit et des Métis du Canada.
+(3) Il est entendu que sont compris parmi les droits issus de traités, dont il est fait mention au paragraphe (1), les droits existants issus d'accords sur des revendications territoriales ou ceux susceptibles d'être ainsi acquis.
+(4) Indépendamment de toute autre disposition de la présente loi, les droits - ancestraux ou issus de traités - visés au paragraphe (1) sont garantis également aux personnes des deux sexes.

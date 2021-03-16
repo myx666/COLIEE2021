@@ -1,0 +1,438 @@
+[1]
+de Montigny, J.
+: The Applicant seeks, by way of an application for judicial review, the reinstatement of a patent application that was deemed to be abandoned because of the Applicant's failure to respond to an examiner's requisition by the prescribed deadline. Two notices of abandonment were issued by the Patent Office but were never received by the patent agents for the Applicant. A request for reinstatement was filed by the patent agents for Applicant but was refused because it was submitted too late. While unfortunate, this result can not be remedied by the Court. Most of the arguments raised by the Applicant in support of his application have already been dealt with and rejected by this Court and the Court of Appeal most recently. As for the allegation of unconstitutionality based on s. 2(e) of the
+Canadian Bill of Rights
+, S.C. 1960, c. 44, I find it without merit for the reasons that follow.
+I.
+The background
+[2]
+The Applicant M-Systems Flash Disk Pioneers Ltd. is a corporation located in Tel Aviv, Israel. It is the owner of an invention entitled "Architecture for a Universal Serial Bus-Based PC Flash Disk" described and claimed in Canadian Patent Application No. 2,334,113 (the '113 Application).
+[3]
+The '113 Application is based on a priority application filed in the United States on April 5, 1999. It was filed in Canada on March 20, 2000, in accordance with the
+Patent Cooperation Treaty
+to which both Canada and the United States adhere.
+[4]
+On January 7, 2005, the Examiner assigned to examine the '113 Application on behalf of the Commissioner of Patents ("the Commissioner") issued an Office Action containing two requisitions: 1) the amendment of the '113 Application in order to rectify certain defects identified by the Examiner in accordance with s. 30(2) of the
+Patent Rules
+, SOR/96-423; and 2) the identification of any additional prior art cited during the prosecution of the corresponding application in the United States in accordance with s. 29 of the
+Patent Rules
+. The Examiner specified that the reply was to be submitted within the prescribed six-month delay.
+[5]
+The Applicant not having replied at the expiration of the delay on July 7, 2005, its application was deemed abandoned. Two notices of abandonment were issued by the Patent Office but neither one was ever received by the Applicant.
+[6]
+On December 8, 2005, the Applicant submitted a reinstatement request and a response to the requisition pursuant to section 30(2) of the
+Patent Rules
+, but not for the one regarding section 29.
+[7]
+On March 9, 2005, January 4, 2006 and February 14, 2007, the Applicant submitted to the Patent Office payments for the maintenance fees for the '113 Application which were due by March 20 of each year. Each of the letters sent to the Office with the payments of the maintenance fees included a P.S. stating: "If for any other reasons this application is not in good standing, please inform us urgently", or its equivalent.
+[8]
+Following an internal check of the '113 Application, the patent agents for the Applicant found out that the '113 Application was deemed by the Patent Office to have been abandoned on July 7, 2005. Despite the fact that the 12-month period within which the application could have been reinstated lapsed on July 7, 2006, the Applicant filed a request for reinstatement and a reply to the Rule 29 requisition on March 12, 2007.
+[9]
+On March 23, 2007, the Patent Office sent the Applicant a letter advising that the '113 Application was deemed to have been abandoned and refusing the 2007 maintenance fees payment. It also stated that the period for reinstatement lapsed on July 7, 2006. The Patent Office further rejected the Applicant's request for reinstatement on March 29, 2007 and confirmed the abandonment of the '113 Application.
+[10]
+On April 30, 2007, the Applicant instituted judicial review proceedings, arguing that this Court has jurisdiction to grant relief from the abandonment of its patent rights. More particularly, the Applicant seeks an order 1) declaring that Rule 29 of the
+Patent Rules
+is null and void, 2) declaring that the responses filed by the Applicant on December 8, 2005 and March 12, 2007 are sufficient to reinstate the '113 Application, 3) setting aside the impugned decision and all previous decisions refusing to reinstate the '113 Application, 4) declaring the '113 Application to be in good standing; 5) declaring that the Patent Office continues the examination and prosecution of the '113 Application, and 6) requiring the Commissioner to grant the '113 Application.
+II.
+The impugned decision
+[11]
+The core of the letter confirming the impugned refusal is short enough to be reproduced here in its entirety:
+"Dear Sir/Madam,
+In reference to your letter dated March 12, 2007 requesting reinstatement for the above mentioned application.
+The examiner's report contained two requisitions and only one was addressed in your request for reinstatement and response of Dec. 8, 2005.
+After reviewing your letter the Office will not be reversing the Dead Status, therefore the request for reinstatement has been refused. The reinstatement fee submitted on March 12, 2007 may be refunded upon request."
+III.
+Issues
+[12]
+This application for judicial review raises the following two issues:
+A. Is Rule 29 of the
+Patent Rules
+invalid as being ultra vires section 73 of the
+Patent
+Act
+?
+B. Was the Patent Application deemed abandoned by operation of law, or as a result of a discretionary decision made by the Commissioner?
+[13]
+On December 18, 2009, counsel for the Applicant served on the Attorney General of Canada and the attorney general of each province a notice of constitutional question, whereby Rule 29 of the
+Patent Rules
+was sought to be declared inoperative, null and void as being contrary to s. 2(e) of the
+Canadian Bill of Rights
+. I will deal with this question after having addressed the issues listed above, as the constitutional validity of Rule 29 is contingent to a large extent upon the rationale underlying its compatibility with section 73 of the
+Patent
+Act
+, R.S.C. 1985, c. P-4 ("the
+Act
+").
+IV.
+Analysis
+A.
+Preliminary Remarks
+[14]
+In support of his application for judicial review, the Applicant filed three affidavits, one by Mr. Gravelle, a patent agent working for the law firm representing it, another one by Mr. Shideler, an American lawyer, who worked as a patent examiner within the U.S. Patent and Trademark Office and as a patent attorney with two law firms, and a third one by Mr. Edgar, a retired member of the Ontario Bar who was involved for 32 years in many aspects of intellectual property practice including as a registered Patent Agent in Canada and in the United States. The Respondent does not object to the first of these affidavits but contends that the second and third are argumentative and opinionated and should therefore not be taken under consideration by the Court.
+[15]
+A quick review of the two challenged affidavits is sufficient to conclude that they should not be given any consideration by this Court, as they are both expert affidavits and are not meant to lay out the factual foundation of this case. Mr. Shideler's affidavit purports to explain U.S. patent law and practice, and what a U.S. patent examiner would have done should an applicant fail to respond to an examiner's request for prior art. However, the treatment afforded to patent applicants by American legislation and the U.S. Patent and Trademark Office is not relevant to the matter before this Court. The issue before this Court is the proper construction of sections 73(1)(a) of the
+Act
+and 29 of the
+Patent Rules
+.
+[16]
+Mr. Edgar's affidavit is meant to impress upon the Court the view that the Canadian Patent Office should follow international trends and not bother with simple matters of formality. He also argues that the onus should be on the Examiner to search for the information necessary for the prosecution of a patent under Rule 29. Indeed, he takes on the task of arguing the Applicant's case at paragraphs 54 to 58 of his affidavit. This is clearly not an affidavit confined to the facts within the deponent's personal knowledge: see
+ <FRAGMENT_SUPPRESSED> ; 2003 FC 1184;
+ <FRAGMENT_SUPPRESSED> ; 346 N.R. 186; 2006 FCA 56. It is a disguised attempt to argue the Applicant's legal position; yet Mr. Edgar is in no better position than this Court to interpret the law. Furthermore, the Applicant has not sought prior leave to file extrinsic or expert evidence. For all of these reasons, these affidavits cannot be considered in resolving the issues raised by this application for judicial review. In any event, counsel for the Applicant did not rely on these two affidavits in his oral submissions.
+1)
+Is Rule 29 of the
+Patent Rules
+Invalid as Being Ultra Vires of Section 73 of the
+Patent
+Act
+?
+[17]
+Counsel for the Applicant contends that Rule 29 is invalid because it is incompatible with section 73 of the
+Act
+under which it was enacted. These provisions read as follows:
+"
+Examination
+"29(1) Where an examiner examining an application in accordance with section 35 of the Act or the Act as it read immediately before October 1, 1989 has reasonable grounds to believe that an application for a patent describing the same invention has been filed, in or for any country, on behalf of the applicant or on behalf of any other person claiming under an inventor named in the application being examined, the examiner may requisition from the applicant any of the following information and a copy of any related document:
+(a) an identification of any prior art cited in respect of the applications;
+(b) the application numbers, filing dates and, if granted, the patent numbers;
+(c) particulars of conflict, opposition, re-examination or similar proceedings; and
+(d) where a document is not in either English or French, a translation of the document, or a part of the document, into English or French.
+"29(2) Where an examiner examining an application in accordance with section 35 of the Act or the Act as it read immediately before October 1, 1989 has reasonable grounds to believe that an invention disclosed in the application was, before the filing date of the application, published or the subject of a patent, the examiner may requisition the applicant to identify the first publication of or patent for that invention.
+"29(3) Subsections (1) and (2) do not apply to any information or document that is not available or known to the applicant, provided that the applicant states the reasons why the information or document is not available or known.
+"
+Deemed abandonment of applications
+"73(1) An application for a patent in Canada shall be deemed to be abandoned if the applicant does not
+(a) reply in good faith to any requisition made by an examiner in connection with an examination, within six months after the requisition is made or within any shorter period established by the Commissioner;
+(b) comply with a notice given pursuant to subsection 27(6);
+(c) pay the fees payable under section 27.1, within the time provided by the regulations;
+(d) make a request for examination or pay the prescribed fee under subsection 35(1) within the time provided by the regulations;
+(e) comply with a notice given under subsection 35(2); or
+(f) pay the prescribed fees stated to be payable in a notice of allowance of patent within six months after the date of the notice.
+"
+Deemed abandonment in prescribed circumstances
+"73(2) An application shall also be deemed to be abandoned in any other circumstances that are prescribed.
+"
+Reinstatement
+"73(3) An application deemed to be abandoned under this section shall be reinstated if the applicant
+(a) makes a request for reinstatement to the Commissioner within the prescribed period;
+(b) takes the action that should have been taken in order to avoid the abandonment; and
+(c) pays the prescribed fee before the expiration of the prescribed period.
+"
+Amendment and re-examination
+"73(4) An application that has been abandoned pursuant to paragraph (1)(f) and reinstated is subject to amendment and further examination.
+"
+Original filing date
+"73(5) An application that is reinstated retains its original filing date."
+"
+Examen
+"29(1) Lorsque l'examinateur chargé de l'examen d'une demande conformément à l'article 35 de la Loi ou de la Loi dans sa version antérieure au 1er octobre 1989 a des motifs raisonnables de croire qu'une demande de brevet visant la même invention a été déposée dans tout pays ou pour tout pays, au nom du demandeur ou d'une autre personne se réclamant d'un inventeur désigné dans la demande examinée, il peut exiger que le demandeur lui fournisse les renseignements suivants et des copies des documents connexes:
+a) toute antériorité citée à l'égard de ces demandes;
+b) les numéros des demandes, les dates de dépôt et les numéros des brevets s'ils ont été octroyés;
+c) les détails relatifs aux conflits, oppositions, réexamens ou procédures analogues;
+d) si le document n'est ni en français ni en anglais, une traduction en français ou en anglais de tout ou partie du document.
+"29(2) Lorsque l'examinateur chargé de l'examen d'une demande conformément à l'article 35 de la Loi ou de la Loi dans sa version antérieure au 1er octobre 1989 a des motifs raisonnables de croire qu'une invention mentionnée dans la demande faisait l'objet, avant la date du dépôt de la demande, d'une publication ou était brevetée, il peut exiger que le demandeur précise la première publication ou le brevet se rapportant à cette invention.
+"29(3) Les paragraphes (1) et (2) ne s'appliquent pas aux renseignements et documents qui ne sont pas à la disposition du demandeur ou qui ne sont pas connus de lui, dans la mesure où il donne les motifs pour lesquels ils ne le sont pas.
+"
+Abandon
+"73(1) La demande de brevet est considérée comme abandonnée si le demandeur omet, selon le cas:
+a) de répondre de bonne foi, dans le cadre d'un examen, à toute demande de l'examinateur, dans les six mois suivant cette demande ou dans le délai plus court déterminé par le commissaire;
+b) de se conformer à l'avis mentionné au paragraphe 27(6);
+c) de payer, dans le délai réglementaire, les taxes visées à l'article 27.1;
+d) de présenter la requête visée au paragraphe 35(1) ou de payer la taxe réglementaire dans le délai réglementaire;
+e) de se conformer à l'avis mentionné au paragraphe 35(2);
+f) de payer les taxes réglementaires mentionnées dans l'avis d'acceptation de la demande de brevet dans les six mois suivant celui-ci.
+"
+Idem
+"73(2) Elle est aussi considérée comme abandonnée dans les circonstances réglementaires.
+"
+Rétablissement
+"73(3) Elle peut être rétablie si le demandeur:
+a) présente au commissaire, dans le délai réglementaire, une requête à cet effet;
+b) prend les mesures qui s'imposaient pour éviter l'abandon;
+c) paie les taxes réglementaires avant l'expiration de la période réglementaire.
+"
+Modification et réexamen
+"73(4) La demande abandonnée au titre de l'alinéa (1)f) et rétablie par la suite est sujette à modification et à nouvel examen.
+"
+Date de dépôt originelle
+"73(5) La demande rétablie conserve sa date de dépôt."
+[18]
+According to counsel for the Applicant, the Examiner must determine whether he has reasonable grounds to believe that an applicant has or has not replied in good faith to any requisition. Yet, he emphasizes that the text of Rule 29, allowing the Examiner to request an identification of any prior art cited in respect of an application made in another country, does not include the notion of "good faith". In his view, this makes Rule 29 inconsistent with section 73(1)(a) of the
+Act
+and therefore invalid. This is to be contrasted with Rule 30, where an applicant's good faith in replying to a requisition as to the conformity of an application to the
+Act
+or the
+Patent Rules
+is taken into account. This, in the Applicant's view, is further evidence that Rule 29 is not consistent with the
+Act
+.
+"
+Examination
+"30(1) Where an examiner, after examining an application, has reasonable grounds to believe that the application complies with the Act and these Rules, the Commissioner shall notify the applicant that the application has been found allowable and shall requisition the payment of the applicable final fee set out in paragraph 6(a) or (b) of Schedule II within the six-month period after the date of the notice.
+"30(2) Where an examiner examining an application in accordance with section 35 of the Act or the Act as it read immediately before October 1, 1989 has reasonable grounds to believe that an application does not comply with the Act or these Rules, the examiner shall inform the applicant of the application's defects and shall requisition the applicant to amend the application in order to comply or to provide arguments as to why the application does comply, within the six-month period after the requisition is made or, except in respect of Part V, within any shorter period established by the Commissioner in accordance with paragraph 73(1)(a) of the Act.
+"30(3) Where an applicant has replied in good faith to a requisition referred to in subsection (2) within the time provided but the examiner has reasonable grounds to believe that the application still does not comply with the Act or these Rules in respect of one or more of the defects referred to in the requisition and that the applicant will not amend the application to comply with the Act and these Rules, the examiner may reject the application.
+"30(4) Where an examiner rejects an application, the notice shall bear the notation 'Final Action' or 'Décision finale', shall indicate the outstanding defects and shall requisition the applicant to amend the application in order to comply with the Act and these Rules or to provide arguments as to why the application does comply, within the six-month period after the requisition is made or, except in respect of Part V, within any shorter period established by the Commissioner in accordance with paragraph 73(1)(a) of the Act.
+"30(5) Where in accordance with subsection 30(4) the applicant amends the application or provides arguments and the examiner has reasonable grounds to believe that the application complies with the Act and these Rules, the Commissioner shall notify the applicant that the rejection is withdrawn and that the application has been found allowable and shall requisition the payment of the applicable final fee set out in paragraph 6(a) or (b) of Schedule II within the six-month period after the date of the notice.
+"30(6) Where the rejection is not withdrawn pursuant to subsection (5), the rejection shall be reviewed by the Commissioner and the applicant shall be given an opportunity to be heard.
+"30(7) If after a notice is sent in accordance with subsection (1) or (5) but before a patent is issued the Commissioner has reasonable grounds to believe that the application does not comply with the Act or these Rules, the Commissioner shall
+(a) notify the applicant of that fact;
+(b) notify the applicant that the notice is withdrawn;
+(c) return the application to the examiner for further examination; and
+(d) if the final fee has been paid, refund it.
+"30(8) Subsection (7) does not apply in respect of an application that has been deemed to be abandoned under section 73 of the Act unless the application has been reinstated in respect of each failure to take an action referred to in subsection 73(1) of the Act or section 97 or 151 of these Rules.
+"30(9) After a notice is sent to the applicant in accordance with subsection (7),
+(a) the notice that was sent in accordance with subsection (1) or (5) is deemed never to have been sent; and
+(b) sections 32 and 33 do not apply unless a further notice is sent to the applicant in accordance with subsection (1) or (5).
+"30(10) If an application has been abandoned under paragraph 73(1)(f) of the Act and reinstated,
+(a) for the purposes of this section and section 32, any previous notice that was sent in accordance with subsection (1) or (5) is deemed never to have been sent; and
+(b) if the final fee has already been paid and has not been refunded, any further notice sent in accordance with subsection (1) or (5) shall not requisition payment of the final fee.
+"30(11) Subsection 26(1) does not apply in respect of the times set out in subsections (1) and (5)."
+"
+Examination
+"30(1) Lorsque l'examinateur qui a examiné une demande a des motifs raisonnables de croire que celle-ci est conforme à la Loi et aux présentes règles, le commissaire avise le demandeur que sa demande a été jugée acceptable et lui demande de verser la taxe finale applicable prévue aux alinéas 6a) ou b) de l'annexe II dans les six mois suivant la date de l'avis.
+"30(2) Lorsque l'examinateur chargé de l'examen d'une demande conformément à l'article 35 de la Loi ou de la Loi dans sa version antérieure au 1er octobre 1989 a des motifs raisonnables de croire que celle-ci n'est pas conforme à la Loi et aux présentes règles, il informe le demandeur des irrégularités de la demande et lui demande de modifier sa demande en conséquence ou de lui faire parvenir ses arguments justifiant le contraire, dans les six mois suivant la demande de l'examinateur ou, sauf pour l'application de la partie V, dans le délai plus court déterminé par le commissaire en application de l'alinéa 73(1)a) de la Loi.
+"30(3) Lorsque le demandeur a répondu de bonne foi à la demande de l'examinateur visée au paragraphe (2) dans le délai prévu, celui-ci peut refuser la demande s'il a des motifs raisonnables de croire qu'elle n'est toujours pas conforme à la Loi et aux présentes règles en raison des irrégularités signalées et que le demandeur ne la modifiera pas pour la rendre conforme à la Loi et aux présentes règles.
+"30(4) En cas de refus, l'avis donné porte la mention 'Décision finale' ou 'Final Action', signale les irrégularités non corrigées et exige que le demandeur modifie la demande pour la rendre conforme à la Loi et aux présentes règles ou fasse parvenir des arguments justifiant le contraire, dans les six mois qui suivent ou, sauf pour l'application de la partie V, dans le délai plus court déterminé par le commissaire en application de l'alinéa 73(1)a) de la Loi.
+"30(5) Lorsque, conformément au paragraphe 30(4), le demandeur modifie la demande ou fait parvenir des arguments et que l'examinateur a des motifs raisonnables de croire qu'elle est conforme à la Loi et aux présentes règles, le commissaire avise le demandeur que le refus est annulé et que la demande a été jugée acceptable et lui demande de verser la taxe finale applicable prévue aux alinéas 6a) ou b) de l'annexe II dans les six mois suivant la date de l'avis.
+"30(6) Lorsque le refus n'est pas annulé selon le paragraphe (5), le commissaire en fait la révision et le demandeur se voit donner la possibilité de se faire entendre.
+"30(7) Lorsque, après l'envoi de l'avis visé aux paragraphes (1) ou (5) mais avant la délivrance d'un brevet, il a des motifs raisonnables de croire que la demande n'est pas conforme à la Loi et aux présentes règles, le commissaire:
+a) en avise le demandeur;
+b) avise le demandeur que l'avis est retiré;
+c) renvoie la demande à l'examinateur pour qu'il en poursuive l'examen;
+d) si la taxe finale a été versée, la rembourse.
+"30(8) Le paragraphe (7) ne s'applique à l'égard d'une demande considérée comme abandonnée en vertu de l'article 73 de la Loi que si la demande est rétablie à l'égard de chaque omission visée au paragraphe 73(1) de la Loi ou aux articles 97 ou 151.
+"30(9) L'avis adressé au demandeur conformément au paragraphe (7) a les conséquences suivantes:
+a) l'avis envoyé conformément aux paragraphes (1) ou (5) est réputé n'avoir jamais été envoyé;
+b) les articles 32 et 33 ne s'appliquent que si un nouvel avis est envoyé au demandeur conformément aux paragraphes (1) ou (5).
+"30(10) Le rétablissement de la demande considérée comme abandonnée en application de l'alinéa 73(1)f) de la Loi a les conséquences suivantes:
+a) tout avis antérieur envoyé au titre des paragraphes (1) ou (5) est réputé n'avoir jamais été envoyé pour l'application des articles 30 et 32;
+b) si la taxe finale a déjà été payée et n'a pas été remboursée, un nouvel avis envoyé au titre des paragraphes (1) ou (5) ne demande pas le paiement de la taxe finale.
+"30(11) Le paragraphe 26(1) ne s'applique pas à l'égard des délais prévus aux paragraphes (1) et (5)."
+[19]
+Moreover, the Applicant submits that Rule 29 is contrary to the rules of natural justice and to an applicant's right to due process. It would equate an omission to respond to any one requisition in an examiner's report to bad faith on the part of an applicant for a patent and deems, as a consequence, the application abandoned under section 73(1)(a) of the
+Act
+, without giving an applicant the opportunity to be heard. In the present case, counsel for the Applicant insists that the Applicant made it clear at all times that it wanted its '113 Application to remain in good standing and to pursue the patent prosecution process, that there are no facts supporting a finding of an absence of good faith, or that the omission to respond to requisition pursuant to Rule 29 was deliberate or intentional.
+[20]
+With all due respect, I fail to understand the Applicant's argument. It is true that Rule 30(3) and section 73(1)(a) of the
+Act
+explicitly spell out the notion of "good faith", contrary to Rule 29. But this apparent discrepancy is easily explainable. Rule 29(1) and (2), as indeed Rule 30(2), focus on the requisition by the examiner for further information or arguments. There is no room, at that stage, for the notion of good faith. It is when assessing the applicant's reply, if a reply is sent at all, that good faith comes into play. This is precisely why this requirement is only mentioned in Rule 30(3) and section 73(1)(a) of the
+Act
+: pursuant to Rule 30(3) the examiner may reject the application if an applicant does not
+reply
+in good faith to a requisition to amend the application or to provide arguments as to why the application does not comply with the
+Act
+or the
+Rules
+, while according to section 73(1)a) of the
+Act
+, the application will be deemed to be abandoned if the applicant does not
+reply
+in good faith to any requisition made by an examiner.
+[21]
+Rule 29 permits a patent examiner, during the process of examination of a patent, to requisition information regarding previous applications for similar patents by some or all of the same participants. An applicant must either be requisitioned pursuant to sub-sections (1) and (2) of Rule 29. In both cases, a reply in good faith is required according to section 73(1)a) of the
+Act
+. If the applicant is unable to provide the information requisitioned, pursuant to Rule 29(3) he may avoid the deemed abandonment provisions of s. 73 by providing an explanation as to why he has no knowledge of and/or cannot obtain such information. This is clearly an implicit recognition that an applicant's good faith is to be taken into consideration. Indeed, this is quite favourable to a patent applicant. At this preliminary stage, all that is required from an applicant is an explanation; unless that explanation is totally frivolous and amounts to no explanation at all, the examiner does not seem to have any discretion to accept or reject it.
+[22]
+In contrast to Rule 29, which is used during the examination of an application, Rule 30 addresses the decisions to be made once an application has been examined. An examiner may either determine that the patent application complies with the
+Act
+and the
+Patent Rules
+, or that it does not. The refusal of an application has obvious consequences on the protection of an invention, since the filing date may be the prima facie date of invention. A refused application may result in additional fees, costly disputes, or even loss of ownership over an invention if another party also has a pending application. This is why Parliament has established certain safeguards to minimize the possibility of rejecting valid applications, like the possibility by the applicant to be heard by the Commissioner upon his review of the rejection (Rule 30(6)).
+[23]
+Counsel for the Respondent argued that the procedural safeguards found in Rule 30 can be explained by the more dramatic consequences of a rejection at that stage as compared to the deemed abandonment resulting from a failure to respond to a requisition pursuant to Rule 29. In my view, this alleged distinction misses the point. The deemed abandonment of a patent application resulting from section 73(1)(a) of the
+Act
+applies to the absence of reply to any requisition. If an applicant fails to reply to a request for amendment pursuant to Rule 30(2) or 30(4), he will be caught by the application of section 73(1)(a) of the
+Act
+just like the applicant who fails to reply to a requisition pursuant to Rule 29. The safeguards found in Rule 30 apply when a decision has been made on a patent application, not when it was deemed abandoned.
+[24]
+As a result of the foregoing, I am therefore of the view that Rule 29 is consistent with section 73(1)(a) of the
+Act
+. Good faith is to be assessed when an applicant replies to an examiner's requisition, not when the examiner makes the requisition. This is precisely why this notion does not appear in Rule 29 except, implicitly, in paragraph (3) of that Rule. This is further evidenced by Rule 30, wherein good faith is mentioned in the only paragraph (i.e. Rule 30(3)) dealing with an applicant's reply to a requisition.
+2)
+Was the Patent Application Abandoned by Operation of Law, or as a Result of a Discretionary Decision Made by the Commissioner?
+[25]
+The regime for patent applications is firmly established by the
+Act
+and the
+Patent Rules
+. Together, the various legislative provisions set out a complete code governing the duties of an applicant for a patent, the consequences of a failure to comply with those duties, and the steps that may be taken to avoid those consequences.
+[26]
+The provisions of section 73(1) of the
+Act
+decree that a patent application is deemed abandoned if the applicant does not take certain specified actions. These actions are accordingly duties that the applicant must satisfy or suffer the consequences. Section 73(1)(a) in particular imposes on an applicant a duty to reply to requisitions from a patent examiner.
+[27]
+Counsel for the Applicant contends that the long standing practice of the Patent Office in cases where an applicant has responded to a portion of an Office Action but has failed to respond to another part of the Office Action was that the Patent Examiner would contact the applicant in a timely fashion to provide an opportunity to correct the defect without any loss of rights to the applicant.
+[28]
+It is also contented that prior to September 2003, if an applicant failed to respond to a Rule 29 request, but responded to the other requests of the Office Action by the deadline, the Patent Examiner would consider that the applicant had in fact responded to the Office Action and that the deadline had been met. The Patent Examiner would treat the omission in the same manner as any other omission and, as mentioned above, would either telephone the applicant or issue a further Office Action for this specific part of the response.
+[29]
+This practice was apparently changed in September 2003, through the publication of a Practice Note, introducing the possibility of "multiple abandonments" if an applicant fails to respond to each of the requisitions found in an Office Action. The standard language used in Office Actions, which was indeed used in the Office Action sent to the Applicant on January 7, 2005, reads as follows:
+"You are hereby notified of:
+- A requisition by the examiner in accordance with subsection 30(2) of the
+Patent Rules
+;
+- A requisition by the examiner in accordance with section 29 of the
+Patent Rules
+.
+In order to avoid multiple abandonments under paragraph 73(1)(a) of the
+Patent
+Act
+, a written reply to each requisition must be received within 6 months after the above date."
+[30]
+According to the Applicant, this new practice which leads to "multiple abandonments" is contrary to the provisions of the
+Patent
+Act
+and generates uncertainty and situations of great unfairness to inventors and applicants. The proper approach was the long standing practice of the Commissioner of Patents to consider each Office Action in its entirety as a single requisition for the purposes of the abandonment and reinstatement provisions. The Application should therefore have been reinstated, since the Applicant filed a Reinstatement and Response to the Office Action on December 8, 2005 covering all items except the request made for the identification of prior art required by section 29 of the
+Patent Rules
+.
+[31]
+Finally, the Applicant submitted that Rule 29 or similar variations have been integrated in the
+Patent Rules
+many decades ago, before the advent of sophisticated Internet-based databases. These databases along with other technical databases make it easier today for examiners to locate prior art cited in foreign patent prosecutions. In the present case, the information requested pursuant to Rule 29 was available through free, public Internet databases.
+[32]
+As interesting as these arguments are, they must fail since they are all predicated on the notion that the abandonment of the Patent Application results from a decision of the Commissioner. Yet it is clear from a reading of section 73 of the
+Act
+along with Rule 29 of the
+Patent Rules
+that the consequence of failing to reply to any requisition are mandatory in nature and that neither the Commissioner nor this Court has jurisdiction to modify, set aside or ignore these mandatory provisions.
+[33]
+In other words, in respect of the deemed abandonment, the Commissioner was not acting as a federal board, commission or tribunal as contemplated by section 18.1 of the
+Federal Courts
+Act
+(R.S. 1985, c. F-7). The Commissioner made no "decision" and exercised no statutory power. No discretion or judgment on the part of the Commissioner was required or applied. As Justice Gilles Letourneau wrote in respect of the same argument as is here made by the Applicant:
+"With respect, the appellant puts a wrong interpretation on what the Commissioner did. The Commissioner simply informed the appellant that the fees had not been paid and drew its attention to the legal consequences that follow from subsection 46(2) of the
+Act
+. No decision determinative of the appellant's rights was made by the Commissioner. The rights of the appellant were affected by the operation of the
+Act
+."
+ <FRAGMENT_SUPPRESSED> ; 344 N.R. 302; 2005 FCA 399 at para. 4.
+[34]
+This Court dealt with the exact same question raised in this application for judicial review in
+ <FRAGMENT_SUPPRESSED> ; 319 F.T.R. 170; 2007 FC 1142, affd. (2008), 382 N.R. 100; 2008 FCA 256. In that case, Justice Richard Mosley ruled that the deemed abandonment of a patent application, resulting from the failure to reply to a requisition, along with the denial of reinstatement after the expiry of the prescribed delay could not qualify as a judicially reviewable "decision" of the Commissioner and did not involve the exercise of discretion. After reviewing the case law on the subject, Justice Mosley wrote:
+"[33] The abandonment and reinstatement provisions of the
+Act
+do not allow for the exercise of discretion by the Commissioner but impose obligations upon the applicant that must be met. There is no decision on the Commissioner's part in this process which affects the rights of the applicant:
+ <FRAGMENT_SUPPRESSED>  [2005] F.C.J. No. 1977 (QL), 45 C.P.R.(4th) 1. (...)
+"[34] Thus, where an applicant fails to respond to a requisition and the application is not reinstated within the year provided to rectify the situation, the patent application is abandoned as a matter of law. There is no discretionary decision which is reviewable by the Court."
+[35]
+The facts in that case were quite similar to the situation at bar. The applicant had been sent an Office Action with two requisitions, one pursuant to Rule 29 and one to Rule 30. The applicant in that case was also warned of the risk of multiple abandonments with the standard language quoted in paragraph 29 above. The applicant replied to the Rule 30 requisition within the delay, but overlooked the Rule 29 requisition. The application was deemed abandoned pursuant to section 73(1)(a) of the
+Act
+and the one year delay for reinstatement started running. The maintenance fee was accepted and no formal or informal notice of the deemed abandonment was communicated to the applicant. As in the present case, a notice of abandonment was prepared but never sent to the applicant. The applicant eventually filed the missing documents and unsuccessfully sought reinstatement, after the expiry of the provided deadline.
+[36]
+In the course of his reasons, Justice Mosley addressed many of the arguments made by counsel for the applicant in the case at bar. Not only do I agree with his reasoning, but I also feel bound to follow it as the Court of Appeal confirmed his decision.
+[37]
+Addressing the argument that an Office Action should be considered as a whole and that the failure to reply to one requisition should not lead to a finding of abandonment when the applicant has replied to the other requisition contained in an Office Action, Justice Mosley wrote at para. 31:
+"Replying in good faith to one requisition in an office action containing two is not the equivalent of replying in good faith to both. The statute allows for no 'good faith' exception to the requirements of paragraph 73(1)(a) where there has been a failure to respond to a requisition."
+[38]
+As for the argument that the Commissioner has changed its practice and used to contact the applicant when a reply to an Office action was considered deficient, which amounts to reliance on the doctrine of legitimate expectations, it is devoid of any merit. As is made clear by the language used in the Office Action quoted at paragraph 29 above, the Applicant was clearly advised in writing that a written reply to each requisition was required in order to avoid multiple abandonments. This Court has previously held that the "usual practice" of the Patent Office cannot be relied upon by applicants putting forward an argument based on legitimate expectations. In
+Hoffman-La  <FRAGMENT_SUPPRESSED> , it was held that there was no duty on the Commissioner to give notice that a patent was about to lapse. Similarly, in
+ <FRAGMENT_SUPPRESSED> ; 247 F.T.R. 260; 2004 FC 250 (at paras. 21 and 34), it was held that there is no obligation on the Commissioner to give a notice of abandonment.
+[39]
+Justice Mosley dealt at length with this argument  <FRAGMENT_SUPPRESSED>  Marine Safety Systems Ltd.
+, above, in the following terms:
+"[38] The evidence is that notwithstanding the 2003 adoption of the 'multiple abandonments' concept and notice to the profession in an effort to emphasize that a response was required to each requisition, the Patent Office continued the practice of formal or informal 'courtesy' communications that one or more requisitions, notably those pursuant to section 29, had been overlooked. Where the deadline had passed, a timely notice of abandonment would be issued. This practice served to protect the rights of the applicants which could otherwise be lost through mere inadvertence. Had it been applied in this case, there is no doubt that the necessary steps to procure reinstatement of the application would have been taken There is no dispute that the Patent Office failed to provide a timely notice of abandonment in this case. But in so doing, did it deny the applicant procedural fairness?
+"[39] While it was not characterized as such by the applicant, the submission that it was denied procedural fairness by the Patent Office is tantamount to an argument based on the principle of legitimate expectations. In essence, the applicant's position is that it was induced to its detriment to rely upon the pre-2003 practice of the Office to accept partial responses to multiple requisitions and upon the continuing practice of the Office to provide notice of default so as to allow timely reinstatement of applications deemed abandoned.
+"[40] As I found in <FRAGMENT_SUPPRESSED> , above, in an analogous context where one request for reinstatement with the required fee had been received by the Patent Office but not another, the legitimate expectations doctrine applies to situations where an applicant has been led to believe that he will have a right to make representations to, or be consulted by, a government decision-maker, prior to a particular decision being taken (...) I was not persuaded then, nor am I now, that it applies where an administrative body has, in its past practice, brought deficiencies in the filing process to an applicant's attention, so as to create an expectation that the Commissioner will catch each slip, even inadvertent ones, of an applicant.
+"[41] I concluded in <FRAGMENT_SUPPRESSED> that the Commissioner has no duty to provide notice to an applicant that an application has not been properly reinstated, when the obligation to reinstate an abandoned application, by submitting certain prescribed materials and fees, is clearly placed on the shoulders of the applicant by the legislative scheme. In my view, the same reasoning applies here even where the Commissioner's office has followed a general practice of delivering timely notice when an initial deadline was missed."
+[40]
+As for the argument that the required information could be found by the patent examiner in foreign patent databases, I find it immaterial. The Governor in Council has seen fit to impose on the applicant the obligation to provide the particulars of the prosecution of any foreign patent application for the same invention. So long as Rule 29 has been validly enacted pursuant to section 12 of the
+Act
+and is not incompatible with s. 73 of that same
+Act
+, it must be applied. It is not for this Court to second guess the policy behind that Rule.
+[41]
+As a result of the foregoing, I am therefore of the view that none of the remedies sought by the Applicant can be granted. The requirements established by the
+Act
+and the
+Patent Rules
+may be strict, but they must be followed. The obligation to ensure that all necessary information and payments are made rests with the Applicant at all times during a patent application. The Applicant did not follow the requirements of the
+Act
+and of the
+Patent Rules
+, even by inadvertence, and the Commissioner had no discretion to relieve the Applicant from the abandonment and the non-reinstatement of its application.
+B.
+The Constitutional Validity of Rule 29
+[42]
+The Applicant questions the constitutional validity, applicability and effect of Rule 29 of the
+Patent Rules
+and the September 2, 2003 Practice Notice adopted by the Patent Branch of the Canadian Intellectual Property Office. In support of this argument, the Applicant relies on s. 2(e) of the
+Canadian Bill of Rights
+, which reads as follows:
+"
+Construction of law
+"2. Every law of Canada shall, unless it is expressly declared by an Act of the Parliament of Canada that it shall operate notwithstanding the Canadian Bill of Rights, be so construed and applied as not to abrogate, abridge or infringe or to authorize the abrogation, abridgment or infringement of any of the rights or freedoms herein recognized and declared, and in particular, no law of Canada shall be construed or applied so as to
+. . . . .
+(e) deprive a person of the right to a fair hearing in accordance with the principles of fundamental justice for the determination of his rights and obligations;"
+"
+Interprétation de la législation
+"2. Toute loi du Canada, à moins qu'une loi du Parlement du Canada ne déclare expressément qu'elle s'appliquera nonobstant la Déclaration canadienne des droits, doit s'interpréter et s'appliquer de manière à ne pas supprimer, restreindre ou enfreindre l'un quelconque des droits ou des libertés reconnus et déclarés aux présentes, ni à en autoriser la suppression, la diminution ou la transgression, et en particulier, nulle loi du Canada ne doit s'interpréter ni s'appliquer comme
+. . . . .
+e) privant une personne du droit à une audition impartiale de sa cause, selon les principes de justice fondamentale, pour la définition de ses droits et obligations;"
+[43]
+According to the Applicant, the current wording of Rule 29 is contrary to the rules of natural justice and to an applicant's right to due process, as a failure to respond to any one requisition in an examiner's report is presumed to be a reply not in "good faith" to that particular requisition and entails as a consequence a deemed abandonment of the application without the applicant ever being given the opportunity to be heard. Acknowledging that the content of procedural fairness will vary according to the circumstances of each case, counsel then relied on the decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  for the factors to be taken into account in ascertaining whether there is a breach of the right to be heard in the present case.
+[44]
+I agree with the Applicant that section 2(e) of the
+Canadian Bill of Rights
+is to be interpreted as including "corporation" in its definition of "persons" having the right for a fair hearing:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at pp. 446-447.
+[45]
+I also agree with the Applicant that to be entitled to the protection of s. 2(e) of the
+Canadian Bill of Rights
+, one is not required to allege the infringement of one of the human rights and fundamental freedoms found in the list enumerated in s. 1 of that instrument. The Supreme Court of Canada has recognized that section 2 comes into play whenever one's rights in the broadest sense are affected. As Justice Jean Beetz wrote in
+ <FRAGMENT_SUPPRESSED> , at p. 228:
+"... it seems clear to me that the ambit of s. 2(e) is broader than the list of rights enumerated in s. 1 which are designated as 'human rights and fundamental freedoms' whereas in s. 2(e), what is protected by the right to a fair hearing is the determination of one's 'rights and obligations', whatever they are and whenever the determination process is one which comes under the legislative authority of the Parliament of Canada. It is true that the first part of s. 2 refers to 'the rights or freedoms herein recognized and declared', but s. 2(e) does protect a right which is fundamental, namely 'the right to a fair hearing in accordance with the principles of fundamental justice' for the determination of one's rights and obligations, fundamental or not."
+[46]
+That being said, however, I fail to see how the grant of a patent can be said to be a right for the Applicant. Quite the contrary, a patent has been described as a bargain voluntarily entered into by the patentee. It is a quid pro quo agreement in which the patentee obtains time-limited but state-supported exclusivity for his invention in return for his disclosure of it to the public:
+Smith, Kline &  <FRAGMENT_SUPPRESSED>  (F.C.A.), at p. 389. If an applicant does not fulfill his part of the bargain and does not fulfill the requirements of the statute, he cannot claim the exclusivity conferred by a patent.
+[47]
+Moreover, it is clear since the decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> ; 2003 SCC 39 that section 2(e) of the
+Canadian Bill of Rights
+applies only to guarantee the fundamental justice of proceedings before any tribunal or administrative body that determines individual rights and obligations. The scheme of the
+Act
+and of the
+Patent Rules
+does not fit that paradigm. For reasons upon which I elaborated earlier, the Commissioner does not make a decision whereby he determines whether the patent application has been abandoned or not; it is the
+Act
+itself which deems the application abandoned at the expiry of the prescribed delay. It is of no use and inappropriate to speak of a right to a fair hearing in those circumstances, just as it could not be said in <FRAGMENT_SUPPRESSED> , above, that section 2(e) imposes upon Parliament the duty to provide a hearing before the enactment of legislation.
+[48]
+Even if the Applicant was able to overcome these two hurdles, he would still not be entitled to a hearing in the particular circumstances of this case. Applying the factors fleshed out in the context of the common law to determine the content of the duty of fairness, I believe that a hearing would not be necessary. The first factor to be considered, according to
+Baker
+, above, is the nature of the decision being made and the process followed in making it. In the case at bar, it is clear that the administrative process bears no resemblance to judicial decision making.
+[49]
+A second factor to be assessed is the nature of the statutory scheme. Greater procedural protections will be required when there is no redress mechanism provided within the statute. While it is no doubt true that the
+Act
+and the
+Patent Rules
+do not impose any obligation to provide a notice of abandonment to an applicant, there is nevertheless the possibility to obtain the reinstatement of an application pursuant to s. 73 of the
+Act
+. The onus is clearly put on the applicant to follow up with his application, and section 2(e) of the
+Canadian Bill of Rights
+cannot be invoked to challenge this policy choice.
+[50]
+The third factor mentioned in
+Baker
+in determining the nature and extent of the duty of fairness owed is the importance of the decision to the individual affected. As Justice Claire L'Heureux-Dubé put it in that case, "[t]he more important the decision is to the lives of those affected and the greater its impact on that person or those persons, the more stringent the procedural protections that will be mandated" (at pp. 838-839). I do not dispute that economic interests may come within the ambit of s. 2(e) through the protection given to property rights in s. 1(a) of the
+Canadian Bill of Rights
+. But these rights are clearly not on a par with the kind of rights that were at stake in
+Baker
+, that is, the right to remain in Canada for humanitarian and compassionate considerations.
+[51]
+The fourth factor to be considered is the legitimate expectations of the person challenging the decision. As already mentioned, the Applicant could not have a legitimate expectation that a certain procedure would be followed in this case, since the
+Act
+squarely places on the shoulders of the Applicant the obligation to reinstate an abandoned application. Furthermore, the Applicant was explicitly warned in writing that a written reply to each requisition was required in order to avoid multiple abandonments.
+[52]
+Finally, regard must be given to the choices of procedure made by the agency itself. The Commissioner made this choice absolutely clear, first by posting on its website a Notice to the Profession on September 2, 2003 (updated on April 2, 2004) signalling the adoption of the multiple abandonment concept, and second by the use of its standard language quoted in paragraph 29 of these reasons in all of its Office Actions.
+[53]
+For all of these reasons, I find that Rule 29 does not contravene section 2(e) of the
+Canadian Bill of Rights
+, first because it does not come within the purview of section 2 as a whole and second because it does not substantively deprive the Applicant of the right to a fair hearing in accordance with the principles of fundamental justice.
+[54]
+This application for judicial review is dismissed. The Respondent does not seek its costs in this matter and none will be awarded.
+ORDER
+[55]
+THIS COURT ORDERS that
+this application for judicial review is dismissed, without costs.
+Application dismissed.
+Editor: Angela E. McKay/vnh
+[End of document]

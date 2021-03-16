@@ -1,0 +1,620 @@
+[1]
+Nadon, J.
+: These are appeals from reassessments made by the Minister of National Revenue (the "Minister") for the taxation years 1984, 1987 and 1988. These appeals were heard together.
+I. Background
+[2]
+The plaintiff, Bosa Bros. Construction Ltd. ("Bosa"), is a Canadian-controlled, private corporation with offices situate in Burnaby, British Columbia. It is a family-owned business, whose shareholders are members of the Bosa family. Bosa is in the business of real estate development and property management across Canada. Prior to 1986, the principals of Bosa included Natale Bosa, Arturo Bosa, Robert Bosa and Des Bosa. In 1986, Arturo Bosa sold his shares in Bosa to Natale Bosa, leaving Natale as the primary shareholder with a 50% interest and Robert and Des each with a 25% interest.
+[3]
+Under Notices of Reassessment dated March 9, 1990, the plaintiff was reassessed with respect to tax and interest for the taxation years 1984, 1987, and 1988, so as to add to income gains realized on sales relating to three properties owned by the plaintiff, one of which, Boundaryview Place Apartments ("Boundaryview Place") is at issue in this litigation. The Minister also issued a Notice of Reassessment for the 1986 taxation year (which is not under appeal) and which recharacterized the proceeds from the disposition of Talbot Place Apartments Ltd. ("Talbot Place") as income. This had the effect of altering the noncapital losses available to the plaintiff for carry-forward. The Notices of Reassessment further disallowed a loss carry-forward in respect of the wind up of Topaz Place Apartments Ltd. (“Topaz”). Further notices of reassessment were issued by the Minister on December 19 and 31, 1990 (the "Second Reassessments") with respect to the 1987 taxation year and the 1984 taxation year respectively. Under these Second Reassessments, a bad debt made by the plaintiff to Bosa Brothers U.S. Inc. was disallowed and the Minister adjusted the plaintiff's active business income to decrease mortgage and cash flow guarantee fees with respect to Boundaryview Place Apartments. Notices of Objection were filed with respect to these Reassessments on May 31, 1990. On January 12, 1994, the Minister forwarded a Notice of Reassessment to the plaintiff which, inter alia, disallowed the deduction of repurchase costs with respect to three limited partnerships: McBride Place Apartments Limited Partnership Units, Boundaryview Place Limited Partnership Units and Glenview Manor Limited Partnership Units, for the plaintiff's 1988 taxation year. It should be noted that the tax payable in respect of other properties was also reassessed in the above-mentioned notices, but issues regarding those other properties were resolved prior to the parties' attendance at trial. Since each remaining issue arises out of a different set of facts relating to the business affairs of the plaintiff, I shall examine the facts as they relate to the specific issue to be determined.
+II. Issues
+A. Capital Gains or Income
+1(a) Is the Talbot Place issue properly appealable?
+(b) If so, should the gain that resulted on the disposition of Talbot Place in 1985 be characterized as a capital gain or an income receipt?
+2(a) Should the gain that resulted on the disposition of Boundaryview Place in 1983 be characterized as a capital gain or an income receipt?
+B. NonCapital Loss
+1. Is the plaintiff entitled to claim a noncapital loss in 1985 as a result of the liquidation of Topaz under s. 85(5.1) of the
+Income Tax Act
+, S.C. 1970-71-72, c. 63 (hereinafter the
+ITA
+or the
+Act
+)?
+C. Advances to Bosa Brothers U.S. Inc.
+1. Is the plaintiff entitled to claim the amount of advances made to Bosa Brothers U.S. Inc. as a bad debt under s. 20(1)(
+p
+)(ii) or 40(2)(
+g
+)(ii) of the
+ITA
+?
+D. Repurchase of Units
+1. In what way should the acquisition costs arising from the repurchase of units in the three properties, Boundaryview Place, McBride Place and Glenview Manor be characterized? Should they be on income or capital account?
+II. Facts and Analysis
+A. Capital Gains or Income
+1(a) Has the Talbot Place issue been properly appealed?
+(b) If so, should the gain that resulted on the disposition of Talbot Place in 1985 be characterized as a capital gain or as an income receipt?
+2(a) Should the gain that resulted on the disposition of Boundaryview Place in 1983 be characterized as a capital gain or as an income receipt?
+[4]
+Before examining the characterization of the sale proceeds of Talbot Place, the defendant's (the "Crown") contended that this court does not have the jurisdiction to change the result of a nil assessment by the Minister of National Revenue. By a notarized agreement of purchase and sale dated November 27, 1985, Talbot Place was sold by the plaintiff as of December 1, 1985. The proceeds of the sale were reported on the tax return of the plaintiff for the taxation year ending April 30, 1986. The Minister reassessed the plaintiff's 1986 tax return by a Notice of Reassessment dated March 9, 1990, which, inter alia, recharacterized the sale proceeds of Talbot Place as income. This characterization resulted in a nil assessment.
+[5]
+The Crown submits that the characterization of the proceeds of the sale of Talbot Place for tax purposes is not properly the subject of this appeal, since the property was disposed of in a tax year where there was a nil assessment. The plaintiff, however, observes that it is not the 1986 tax year that is under appeal, but the taxation years 1984, 1987 and 1988. These taxation years were not assessed at nil tax payable.
+[6]
+Both the plaintiff and the Crown agree that there is a long line of jurisprudence to the effect that no appeal lies from a nil assessment. As Pratte, J., noted in
+ <FRAGMENT_SUPPRESSED>  D.T.C. 5382 (F.C.A.) at 5383, there is a "well-established rule that there can be no appeal from a 'nil' assessment." This proposition has been enunciated in a number of cases cited to me by counsel for the Crown. In one of the earliest cases on the subject,
+ <FRAGMENT_SUPPRESSED>  (S.C.C.), Fauteux, J., writing for a unanimous court, indicated that the first question to be decided in that case was whether there was any right of appeal from a nil assessment. The court determined that if no amount of tax was claimed, then no right of appeal existed. Having so concluded, the court was precluded from considering the merits of the case. Fauteux, J., observed at page 1177:
+"A right of appeal is a right of exception which exists only when given by statute. Under s. 69c(1) of the
+Income War Tax Act
+, a right of appeal to the Exchequer Court is given from the decision of the Income Tax Appeal Board; and under s. 69b(1), a taxpayer who has served a notice of objection to an assessment under s. 69a may, after 'the Minister has confirmed the assessment or reassessed', appeal to the Income Tax Appeal Board 'to have such assessment vacated or varied'."
+[7]
+The court in that case based its decision on the interpretation of the word "assessment" under the
+Act
+as it was then constituted. Under the provisions of the
+Act
+, the court observed that "assessment" meant the actual amount of tax which the taxpayer was called upon to pay; if no amount of tax was claimed, there was no assessment and therefore no right of appeal. This approach was adopted in
+ <FRAGMENT_SUPPRESSED>  D.T.C. 5008 (F.C.A.), where Hugessen, J., stated at page 5012:
+"What is put in issue on appeal to the courts under the
+Income Tax Act
+is the Minister's assessment. While the word 'assessment' can bear two constructions, as being either the process by which tax is assessed or the product of that assessment, it seems to me clear, from a reading of ss. 152 to 177 of the
+Income Tax Act
+, that the word is there employed in the second sense only. This conclusion flows in particular from s. 165(1) and from the well established principle that a taxpayer can neither object to nor appeal from a nil assessment."
+[8]
+Dussault, T.C.C.J., in
+ <FRAGMENT_SUPPRESSED> , held in that case that, even though the nil assessments involved the rejection of the method which the taxpayer used to value its inventory, the taxpayer had no right of appeal. The court observed at page 1570:
+"Since no tax, interest nor penalty was assessed and since the court cannot increase the amount assessed by the Minister of National Revenue, one can readily understand the logic of the principle that a taxpayer cannot appeal from a nil assessment. It has been decided that whenever a taxpayer alleges that the Minister has erred in computing the tax resulting in a nil assessment, the matter can be dealt with on its merits in other taxation years for which there are no nil assessments and where it is pertinent in determining the taxes owed for those years. ... As stated by the Supreme Court of Canada in the <FRAGMENT_SUPPRESSED> case (supra) at 1177, the 'right of appeal is a right of exception which exists only when given by statute'. I am of the opinion that this proposition still holds true today. The Tax Court of Canada cannot expand that right and is bound by its own decisions and decisions of higher courts that have restricted its application. I might add that even if this court could grant a declaratory judgment, there would still be no tax payable for 1980 and 1981. The right course of action for the taxpayer would have been to have the matter decided on an appeal from an assessment for a future year where it might have proven pertinent to determine its tax liability for that year."
+[9]
+Despite his finding that, in that case, the taxpayer could not appeal the tax payable from a year where there was a nil assessment, Dussault, T.C.J., observed that the matter could have been "dealt with on its merits in other taxation years for which there are no nil assessments and where it is pertinent in determining the taxes owed for those years." This approach was enunciated in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), to which counsel for the plaintiff referred me, where
+Mr. Justice Dubé held that, since losses incurred in a nil assessment year could be applied to years in respect of which tax was payable, the court could grant relief for the year in which there was no nil assessment. Such relief would have the effect of resolving the issues involved in the nil assessment years as well.
+[10]
+This position was supported in
+ <FRAGMENT_SUPPRESSED>  (Tax C.C.) where it was decided that, whenever a taxpayer alleges that the Minister has erred in computing the tax resulting in a nil assessment, the matter can be dealt with on its merits in other taxation years for which there are no nil assessments and where it is relevant in determining the taxes owed for those years. As the court stated at page 1:
+"There was a nil assessment in respect of the 1982 taxation year of each appellant. The appeals in this regard must therefore be dismissed because an assessment of this kind is not an 'assessment' within the meaning of section 169 of the
+Income Tax Act
+('the
+Act
+'):
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) and
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.). Nevertheless the issue previously stated must be determined in respect of that taxation year regarding both appellants because what they allege to be capital losses in 1982 were carried back to their 1981 taxation year. This is consistent with
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.)."
+[11]
+It is clear from the jurisprudence that, while no appeal lies from a nil assessment, an appeal does lie to the Minister's assessment in other taxation years where there is tax payable. The matter may be dealt with on the merits in other taxation years where it is relevant in determining the taxes for those years. Applying these principles, it is my view that the Talbot Place issue has been properly appealed. In the case at bar, the proceeds on the sale of Talbot Place were reported in the 1986 taxation year. There was a $1,252,318 gain on the sale, of which $626,159 had been included by Bosa as a net capital gain on its tax return for that year. The Minister's reassessment for the 1986 taxation year added the other $626,159 on the basis that the amount of the gain constituted a noncapital gain (income) and not a net capital gain. This altered the amount of noncapital losses that were available to be carried-forward into the 1987 and 1988 taxation years. At trial, this was conceded by the Crown. Since the 1987 and 1988 taxation years presently under appeal are years in which the Minister did not assess nil tax payable and since the 1986 reassessment clearly altered the loss carry-forward available to the taxpayer in subsequent taxation years, I am of the view that the Talbot Place issue is properly appealed.
+[12]
+Since the law respecting the determination of whether the profit or loss on the sale of a property constitutes capital gains or income is equally applicable to the Talbot Place and Boundaryview Place issues, I will now turn to the relevant jurisprudence to determine the pertinent principles. Under section 54 of the
+ITA
+, "capital property" is defined as depreciable property and any other property in respect of which any gain or loss on its disposition would be a capital gain or capital loss. It is clear that an assessment of whether gains or losses are on account of income and not on account of capital is a finding of fact: see
+ <FRAGMENT_SUPPRESSED>  (Tax C.C.). The case law has established guidelines for determining whether property may properly be classified as capital or inventory. One of the most important factors in the classification of a property as capital or inventory is the taxpayer's primary intention at the time the property was acquired:
+ <FRAGMENT_SUPPRESSED>  (S.C.C.). The taxpayer's subjective intention is established and/or confirmed not only by the taxpayer's direct (subjective) evidence of intention, but also by the objective evidence relevant to the particular transaction and inferences drawn from that evidence:
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.).
+[13]
+In
+Forest Lane Holdings Ltd.
+, supra, the Associate Chief Justice observed that the court must look to the entire pattern of conduct of the taxpayer: see also
+ <FRAGMENT_SUPPRESSED>  (T.D.). Cardin, T.C.J., outlined the general approach that the courts should take in
+ <FRAGMENT_SUPPRESSED>  (Tax C.C.) at pages 83-84:
+"No one can now seriously doubt that the degree of activity of a taxpayer, his efforts, and the amount of money expended are among the basic factors generally considered in determining whether the exercise by the taxpayer of any specific activity constitutes a business operation."
+[14]
+The indicia of the relevant intention have been canvassed by my brother, Mr. Justice Joyal, in
+ <FRAGMENT_SUPPRESSED>  (T.D.). In that case, Joyal, J., restated the principles on relevant intention with reference to the purchase of real estate investments at pages 6206-6207:
+"[ <FRAGMENT_SUPPRESSED>  ... [a]t 421, Christie, A.C.J.T.C., in considering those things which are germane on the issue of relevant intention on the purchase of real estate investments, provided a very useful analysis. I should quote this analysis at length:
+1. If the appellant is a corporation, the relevant intentions to be attributed to it are those which the natural person by whom it was managed and controlled had for it:
+ <FRAGMENT_SUPPRESSED>  per Jackett, P. (as he then was), at page 5209.
+2. ...
+3. The direct evidence of a person who has an interest in the outcome of an appeal regarding the intention behind a transaction or series of transactions is not determinative of the existence of the stated intention. Generally speaking the intention is to be ascertained from the entire course of conduct and relevant circumstances and the inferences flowing therefrom:
+ <FRAGMENT_SUPPRESSED>  per Cameron, J., at 1175 - and
+ <FRAGMENT_SUPPRESSED>  per Noël, J., at 5103.
+4. A consideration of statements in Articles of Incorporation regarding the objects of the corporation or restrictions on the businesses it may carry on is not helpful. What the company did in fact is paramount:
+ <FRAGMENT_SUPPRESSED>  per Judson, J., at 1272-3;
+ <FRAGMENT_SUPPRESSED>  per Addy, J., at 6245. ...
+5. Evidence of transactions of the sale and purchase of real estate by an appellant after the years under review in an appeal is admissible:
+ <FRAGMENT_SUPPRESSED>  per Judson, J., at 1120:
+ <FRAGMENT_SUPPRESSED>  per Ritchie, J., at 5082 and
+ <FRAGMENT_SUPPRESSED>  per Cameron, J., at 5033. The weight to be assigned to evidence of this kind will depend on the circumstances of particular cases. Evidence of an intended sale and purchase that for some reason was not consummated is also admissible. The comment respecting assignability of weight also applies to evidence of this type.
+6. The fact that real estate is not advertised for sale and that an offer which results in a sale and purchase is unsolicited is not preclusive of there having been a primary intention on the part of the appellant at the time of purchasing the property to sell it at any time he regarded it as financially favourable to do so. Lack of advertising and the fact of an unsolicited offer are simply matters to be weighed together with the other relevant evidence:
+ <FRAGMENT_SUPPRESSED>  at 5050.
+7. If an individual who is an appellant has a history of trading in real estate or if the appellant is a corporation that is controlled by such a person, this is a relevant consideration which points away from the purchase in issue being made with the primary intention of securing an income-producing asset:
+ <FRAGMENT_SUPPRESSED>  per Laskin, J. (as he then was), at 6270 and
+Slater
+at page 5051.
+"The outline by Christie, A.C.J.T.C., provides a series of indicia whereby analytical tools may be honed to determine in a particular fact situation what is the intention behind capital purchases. Of course, the outline is far from exhaustive and the indicia do not all bear equal weight. Care should also be taken that they should not be applied too quickly to the case at bar. A quick reading of the Associate Chief Judge's seven principles might too easily make of them a taxpayer's seven deadly sins. Nevertheless, the principles are each grounded on respectable case law and provide considerable assistance in arriving at considered conclusions."
+[15]
+While it is important to ascertain the taxpayer's primary intention with respect to the asset at the time of acquisition, the courts have also determined that the taxpayer's secondary intention is also important. Revenue Canada also maintains this position, as expressed in
+Interpretation Bulletin
+IT-218R. Not only must the thought of a sale at a profit be present at the time of the acquisition of the property, but the prospects of such a sale must have been evidence of an operating motivation to acquire the property:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.). One of the earliest cases on the doctrine of secondary intention is
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.). In that case the court noted at page 5103 that the relevant time for determining if a transaction which involves the acquisition of capital has the "double character" of an adventure in the nature of trade is at the time of acquisition. The court continued:
+"... [T]he purchaser must have in his mind, at the moment of the purchase, the possibility of reselling as an operating motivation for the acquisition; that is to say that he must have had in mind that upon a certain type of circumstances arising he had hopes of being able to resell it at a profit instead of using the thing purchased for purposes of capital. Generally speaking, a decision that such a motivation exists will have to be based on inferences flowing from circumstances surrounding the transaction rather than on direct evidence of what the purchaser had in mind."
+[16]
+The determination of intention is a question of fact to be determined by reviewing all of the objective indications of intent at the time of acquisition of the property. As the Chief Justice noted in
+ <FRAGMENT_SUPPRESSED>  D.T.C. 6001 (F.C.A.) at page 6002, evidence that the appellants did not intend to sell a capital asset at the time of acquisition is not necessarily conclusive. The court must examine all the surrounding circumstances and must decide, on a balance of probabilities, whether the possibility of resale at a profit would have been a motivating consideration that entered into the decision to acquire the property in question: see
+ <FRAGMENT_SUPPRESSED>  quoted with approval in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.). The court in
+ <FRAGMENT_SUPPRESSED>  D.T.C. 6693 at 6696 (T.D.) stated that the onus is on the Crown to establish that the taxpayer had a secondary intention to acquire the asset as an adventure in the nature of trade:
+"On the doctrine of secondary intention the court must find that the objective evidence of the plaintiff's [taxpayer's] conduct is such that the prospect of resale was an 'operating motivation' in the acquisition of the property. Certainly this places a significantly heavier burden upon the defendant  <FRAGMENT_SUPPRESSED>  than simply endeavouring to establish that the plaintiff had a possible resale in mind should the primary intention be frustrated. It is fair to say that the possibility of a resale would probably occur to any prudent businessman. Although the onus on the defendant is much heavier as a result of the decision in
+Crystal Glass
+(supra) it does not rule out that an operating motivation will be found."
+[17]
+As Jerome, A.C.J., noted in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.) at page 6332:
+"During his submissions, I suggested to counsel for the Crown that in order for him to succeed, I must find that the taxpayer
+not only acquired the property for resale but that he in fact acquired it with the intention of resale at a profit
+." (emphasis added)
+[18]
+In
+Marsted Holdings Ltd.
+, supra, Joyal, J., made the following observations at page 6205 regarding a decision of Walsh, J., that dealt with secondary intention:
+"... [ <FRAGMENT_SUPPRESSED>  ... Walsh, J., of this court made these observations at page 6612:
+'As always in cases of this type, the determination of what were the real intentions of the purchasers at the time they acquired the property and whether they had, at that time, a secondary intention in the event that their primary intention could not be carried out, is a difficult one.
+. . . . .
+'I am ... of the view, as has been expressed in other cases, that while the evidence of the witnesses is helpful in endeavouring to determine their intentions, their actual conduct and the steps they took to carry out these intentions gives a much better indication of what they actually were. Without intending to cast any aspersions on the credibility of the witnesses in the present case it is nevertheless evident that in any case where a distinction must be made between a transaction which constitutes an adventure in the nature of trade and one which leads to a capital gain, one must expect the witnesses to insist that their intentions were solely to make an investment and that the idea of reselling the property at a profit had never occurred to them even as a secondary intention at the time of making the original investment, but was merely forced on them subsequently by some event beyond their control. If they were not in a position to testify to this effect they would have little or no ground for appealing against the assessment.'
+"Perhaps the latter part of this statement by Walsh, J., overstates the case for a secondary intention and the burden on any taxpayer to disprove it. Taken literally, it would mean that the only way to discharge the onus would be for the taxpayer to prove that when he originally bought any piece of real estate, it was with the secondary intention of reselling it at a loss. Such would be unreal. What I take Walsh, J.'s, observations to mean is that when you have a taxpayer who has a history of real estate operations and who might be regarded as singularly adept in that field, self-serving assertions to negate secondary intention might not be sufficient."
+[19]
+In another decision,
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), the court observed that one must weigh carefully the viva voce evidence against the plaintiff's "proved deeds at the time" (page 6458), since it is not easy to assess an intention formed possibly years earlier.
+[20]
+In summary, then, the jurisprudence indicates that courts should consider six main factors in characterizing property as property on account of capital or property on account of inventory:
+1. The taxpayer's primary intention at the time the property was purchased or constructed;
+2. The relationship of the impugned transaction to the taxpayer's normal course of business;
+3. The number and repetition of similar transactions by the taxpayer;
+4. The nature of the property and the length of time for which it was held. As Christie, A.C.J.T.C., noted in
+145101  <FRAGMENT_SUPPRESSED>  (Tax C.C.) at pages 650-651:
+"The nature of the property sold and the length of time for which it was held are factors of considerable weight. (
+ <FRAGMENT_SUPPRESSED>  (T.C.C.)) If the property was retained for a short period, that points to a trading intention at the time of acquisition. Also, if the property was of the kind that is likely to attract long term investors, this points away from a trading intention when the property was acquired. The converse of these two propositions is true. Again evidence of this kind is not of itself conclusive, but is to be regarded and weighed in the context of all the relevant evidence;"
+5. The reason for the sale of the asset (e.g. unforeseen problems, the receipt of an unsolicited offer to purchase):
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.); and
+6. The taxpayer's secondary intention regarding the property at the time of the purchase of the property.
+[21]
+These factors should not be given equal weight, but should be borne in mind when assessing the evidence presented. The Tax Court of Canada has asserted that considerable weight is to be given to the nature of the property sold and the length of time for which it is held:
+ <FRAGMENT_SUPPRESSED>  (Tax C.C.). It must also be emphasized that these indicia must be corroborated by credible independent evidence: see
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.) and
+Villa Capri  <FRAGMENT_SUPPRESSED> .
+[22]
+Before turning to the merits of the Talbot Place appeal, I observe that the plaintiff's main place of business and locus of its income-producing properties was in British Columbia. I further note that on its 1984 income tax return the plaintiff identified five revenue-producing properties in Canada at the time of the acquisition of Talbot Place. Talbot Place is situated in Hull, Quebec and consists of two apartment towers, each containing 96 rental accommodation units. Talbot Place was owned by a Mr. Adib E. Malouf, with whom Brothers Development Ltd., a company in which each Bosa family member had shares, signed a counter-offer on March 23, 1981. The purchase price agreed upon was $2,975,000. Further, the offer to purchase was signed by Arturo and Natale, the two principals of the plaintiff. When the time came to purchase the property, the purchase was made through the plaintiff company. Mr. Bosa characterized the purchase of Talbot Place as the plaintiff's "last gasp" as a company, purchased as a hedge against the winds of recession. Unfortunately, the plaintiff was unable to complete the purchase of Talbot Place by the originally agreed closing date since, according to Natale Bosa, the recession had affected its cash flow. The vendor commenced legal action to force the plaintiff's specific performance of the contract or, in the alternative, for damages for breach of contract.
+[23]
+By November of 1982, the plaintiff had agreed to buy the building, upon the fulfilment of certain conditions. These conditions included reducing the purchase price and repairing the buildings. The vendor did not agree to these conditions and continued the litigation. On the advice of counsel, the plaintiff agreed to settlement terms which, among other things, included the costs incurred in the action up to that time. In effect, the plaintiff paid the same amount as would have been due under the original contract of sale. The deed of sale was finally executed in 1985.
+[24]
+The Talbot Place complex was in a poor state of repair, and the plaintiff had to devote considerable time and money to improve it. Mr. Natale Bosa asserted that Talbot Place was a consistent money loser and that, in retrospect, Bosa would never have purchased the property. Nonetheless, Mr. Bosa stated that it was the plaintiff's intention to retain the property as capital and manage it as an income-producing property. Furthermore, in the short time that the plaintiff owned Talbot Place, Mr. Bosa deposed that the residential apartments were available for domestic rental, as they had always been, and the plaintiff continued to manage it in a similar fashion to Mr. Malouf.
+[25]
+In 1985, a group of Québec businessmen approached the plaintiff with the intention of purchasing Talbot Place. The plaintiff denies that it actively sought out the purchasers in any way, and states instead that it was approached by a realtor, Suzanne and J.P. Lemay of Remax Realty, with the offer to purchase. The Lemays approached Natale Bosa and told him that Talbot Place could be sold for a price of about four million dollars. Natale Bosa testified that he told the Lemays that if they could sell it at that price, Bosa would be prepared to sell. He stated that he agreed on the sale of Talbot Place only to generate revenue for their overall business. The plaintiff and the businessmen agreed on a purchase price of approximately $4,300,000, far more than the plaintiff had originally paid for it. The transaction was completed in November of 1985. The plaintiff initially reported the sale proceeds of the disposition of the property as income, later changing the characterization to a net capital gain.
+[26]
+The plaintiff states quite simply that it did not want Talbot Place, and so asks how it can be said that the property was bought in order to resell it at a profit? Once the transaction closed, however, the plaintiff argues that it intended to manage and operate the property as an income-producing capital asset, since the resale market was so dismal that the plaintiff felt that it would never recoup the price it paid for the property. In my view, this position is untenable. The evidence points, rather, to the fact that Bosa did not sell the property immediately after acquisition because it did not believe the property would fetch a reasonable price. While the plaintiff, at the time of the acquisition of the property, may well have intended to operate the property as an income-producing capital asset, the fact that the plaintiff could not afford and did not want the property points to a secondary intention at the time of acquisition of disposing of the property if the right offer came along. When the aggrieved vendor threatened protracted litigation, the plaintiff gave in and followed through on the contract of sale. The short period for which the property was held is, in my view, indicative of Bosa's intention to sell the property at a profit. As a result, I find that the gains from the sale of Talbot Place were properly characterized by the Minister as income. The appeal on this point is dismissed.
+[27]
+Boundaryview Place is situated in Vancouver, British Columbia on Esmond Road, between Albert and Hastings Streets. A residential and commercial complex, it consists of two high-rise towers containing 213 condominium-style apartment units, 51,000 square feet of commercial space and a multi-level parking garage. The complex was designed and constructed by the plaintiff. Natale Bosa testified that Boundaryview Place was a "concept" property, which the plaintiff's management and shareholders considered would serve to establish Bosa's place as a pre-eminent construction company. He stated, and this was confirmed by other witnesses who appeared on behalf of the plaintiff, that he and his brother, Arturo, were extremely proud of the complex they had designed and constructed. Natale Bosa described Boundaryview Place as "our flagship".
+[28]
+The total cost of the project to the plaintiff was $18,792,554, of which $2,483,902 had been previously deducted as soft costs. The plaintiff assembled the property on which the complex was situated between 1972 and 1976. The complex was constructed between 1980 and 1982. The plaintiff received significant financial support from the Central Mortgage and Housing Corporation ("CMHC") to assist in the construction of the residential rental properties. CMHC insisted on the inclusion of a specific condition in the mortgage deed to the effect that if any effort were ever made to sell the apartment units individually, the mortgage would immediately become due and payable.
+[29]
+When the building was constructed, the units were stratified with respect to title. The effect of this was essentially the first step in the "condominiumizing" of the building. Although it may be argued that this act connotes a secondary intention to sell the property, many witnesses testified to the fact it was common practice among property developers in the 1980s to stratify title. It was, among other things, easier to get favourable financing options from a bank on a building that had a stratified system of title than one which did not, providing another manner in which an asset might be realized upon. John Jarvis, who worked for CMHC and who had handled the plaintiff's loan from CMHC, indicated in his testimony that it was a very common practice at the time to stratify title. He also stated that, if the plaintiff had expressed an intention to sell the units individually, CMHC's approach to the loan would have been different. In cross-examination, Mr. Jarvis admitted that the mortgage on Boundaryview Place could have been transferred to another Bosa property, but that CMHC, using its own in-house appraisers and inspectors, had determined that that was not the plaintiff's intention. The building's architect, Mr. Barclay McLeod, confirmed Mr. Jarvis's assertion that stratification was a common practice at the time. At the time Mr. McLeod designed Boundaryview Place, Mr. McLeod stated that the plaintiff never indicated to him that the property would be marketed as condominium units.
+[30]
+Equion Properties Ltd., a property development company in Vancouver, approached the plaintiff and expressed an interest in listing Boundaryview for sale, because it considered it to be a showcase property of the type that met the requirements of their portfolio. Mr. Bob Monroe, a former employee of Equion who was involved with the acquisition of Boundaryview Place, testified that Equion sought out Bosa regarding the possible purchase of the development by Equion. He stated that Natale Bosa was reluctant to sell Boundaryview Place because it was Bosa's "crown jewel". Mr. Bosa wanted to keep Boundaryview Place in the family. He also confirmed that it was standard practice among developers at the time to stratify title, even if the developer did not intend to market the units as condominiums. According to the testimony of Mr. Natale Bosa, Equion Properties were not solicited by the plaintiff for the purpose of selling Boundaryview Place. Equion Properties had known of the plaintiff's reputation for quality properties and had previously purchased properties from the plaintiff on other occasions. The plaintiff asserts that, because of cash flow problems, Boundaryview Place was reluctantly sold on September 1, 1983, to a limited partnership assembled by Equion Properties and the plaintiff for $24,240,000, a gain of roughly $6 million.
+[31]
+The plaintiff asserts that it was attached to Boundaryview Place and would not have sold the property had it not been trying to stave off bankruptcy. There is evidence in the record that confirms that the plaintiff was having some degree of financial difficulty, as it had to come to an arrangement with respect to its schedule of payments to CMHC.
+[32]
+I found Natale Bosa to be a forthright and honest witness, whose testimony was not shaken in cross-examination. Furthermore, his testimony was corroborated by other witnesses called by the plaintiff. Accordingly, I find that the plaintiff constructed Boundaryview Place with the intention of making it the "crown jewel" of the company. Indeed, the plaintiff put its corporate head office in the front portion of the building. It was a showcase that the Bosa brothers, who had emigrated from Italy in the late 1950's, were proud to display because it was such a symbol of their success in the construction business. According to the testimony of the plaintiff's accountant, John Olesky, which was corroborated by other witnesses, the property was only sold to provide working capital for other revenue producing properties. As far as Boundaryview Place is concerned, I find that it was the plaintiff's clear intention to retain the property as a producer of rental income. This intention on the part of the plaintiff was first established in the testimony of Mr. Natale Bosa and was corroborated by almost all of the witnesses called by the plaintiff, such as Mr. John Olesky, the plaintiff's accountant, Mr. John Jarvis, and even the architect, Mr. Barclay McLeod. The fact that the title to the building was stratified is not, in my view, an indication that the plaintiff's intention was to sell the property, since the evidence before me is that that was industry practice at the time for the purposes of satisfying financing requirements. I also note that all of the long-term financing that was arranged in order to build and operate the building was premised on the assumption that Boundaryview Place was a rental property. I find on these facts that the plaintiff had the intention of holding Boundaryview Place as a rental property. Accordingly, I find that the proceeds on the sale of Boundaryview Place are properly characterized as capital and not noncapital gains.
+B. Noncapital Loss
+Is the plaintiff entitled to claim a noncapital loss in 1985 as a result of the liquidation of Topaz under s. 85(5.1) of the
+ITA
+?
+[33]
+Prior to 1984, Topaz was a wholly owned subsidiary of Darwai Investment Corporation Ltd. ("Darwai"). By agreement of sale dated April 26, 1984, the plaintiff acquired all of the shares of Topaz for consideration of $1,250,000. The cost of the building component of the apartment property owned by Topaz was determined by Topaz in accordance with s. 85(5.1) of the
+ITA
+. Topaz wrote down the property to its fair market value and reported a noncapital loss. Bosa then caused Topaz to wind-up. The plaintiff included the losses of its subsidiary corporation in its noncapital losses available for the 1985 and subsequent taxation years.
+[34]
+The plaintiff claims the right to this inventory write-down by virtue of the operation of s. 85(5.1) of the
+ITA
+. Section 85(5.1) denies or reduces a terminal loss which would otherwise result from the disposition of depreciable property of a specified class by a person or partnership in specified control situations. There are two conditions for the application of s. 85(5.1). First, the transfer must occur in certain specified control situations and second, a valuation test must be met. The loss claimed by the plaintiff for 1985 is properly deductible if s. 85(5.1) applies.
+[35]
+In a letter of August 3, 1988 from Mr. Darshan Singh of Revenue Canada, the Crown's position is set out as follows:
+"Reduction in Noncapital Loss of Topaz Place Apartments Ltd., ('Topaz'), 1985:
+$1,159,000
+.
+"This amount relates to Topaz's 1984 inventory writedown of its Topaz Apartment property, which was part of Topaz's $1,196,855 noncapital loss. This loss was added by you to your noncapital losses in 1985 as a result of the wind-up of Topaz.
+"Topaz acquired the Topaz Apartment property in 1984 from its parent corporation, Darwai Investment Corporation Ltd. ('Darwai') for $1,250,000.00 which was the fair market value of the property. Topaz utilized subsection 85(5.1) to bump up its cost of the building by $1,159,000.00 and then wrote-down its inventory by the same amount to fair market value. It is our opinion that subsection 85(5.1) was not applicable in the Darwai/Topaz disposition since the apartment property was inventory of Darwai and not depreciable property of a prescribed class. Subsection 85(5.1) only applies to depreciable property. Our classification of the property as Darwai's inventory is consistent with Darwai's business activity and the inventory classification of the property by Topaz, which was Darwai's wholly owned subsidiary."
+[36]
+In a later letter, dated September 12, 1989, Revenue Canada states:
+"III.
+Reduction In Noncapital Loss - Topaz Place Apartments Ltd.
+We maintain that the Topaz property was Darwai's inventory, in which case subsection 85(5.1) was not applicable. It is administrative practice to allow capital cost allowance ('CCA') on real estate inventory temporarily rented out. The CCA in this case is merely allowed in lieu of an inventory write-down."
+[37]
+It is against this position that the plaintiff appeals.
+[38]
+The plaintiff maintains that since the property was depreciable in the hands of Darwai, then it must be so in the hands of Topaz by virtue of s. 13(21)(
+b
+) of the
+ITA
+, as amended. The definition of "depreciable property" in that section reads as follows for property acquired after December 11, 1979:
+"(
+b
+) 'depreciable property' of a taxpayer as of any time in a taxation year means property acquired by the taxpayer in respect of which he has been allowed, or, if he owned the property at the end of the year, would be entitled to, a deduction under regulations made under paragraph 20(1)(
+a
+) in computing income for that year or a previous taxation year;"
+[39]
+The definition of capital property includes depreciable property, under s. 54(
+b
+). Section 20(1)(
+a
+) of the
+ITA
+reads:
+"20(1) Notwithstanding paragraphs 18(1)(
+a
+), (
+b
+) and (
+h
+), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(
+a
+) such part of the capital cost to the taxpayer of property, or such amount in respect of the capital cost to the taxpayer of property, if any, as is allowed by regulation;"
+[40]
+Finally, paragraph 1102(1)(
+b
+) of the
+Income Tax Regulations
+, C.R.C. 1977, c. 945, states:
+"1102(1) The classes of property described in this Part and in Schedule II shall be deemed not to include property
+. . . . .
+(
+b
+) which is described in the taxpayer's inventory;"
+[41]
+The plaintiff argues that, since Darwai had deducted a capital cost allowance in the previous year, then the building must be depreciable capital property and not inventory. Further, if Darwai had continued to own the buildings until the end of the 1984 fiscal year, a deduction would have been allowed under s. 20(1)(
+a
+) of the
+ITA
+, since Darwai made a representation in the contract of sale to the effect that the buildings in question had never been and would not be described as inventory on its books and records. As Darwai had been allowed to claim capital cost allowance on Topaz Place, that must necessarily mean, according to the plaintiff, that the property is depreciable. Finally, the plaintiff claims that since Darwai would have been entitled to a deduction if it had claimed it at the end of fiscal year under s. 20(1)(
+a
+) of the
+ITA
+, the buildings must be depreciable and therefore capital property.
+[42]
+Before examining the merits of the plaintiff's case, I must address the question of the onus of proof. It is trite law that any tax assessment (or reassessment) is binding on its face, subject to the taxpayer's right to challenge that assessment. The burden of proof in such a case is on the taxpayer to show that the assessment is wrong. The plaintiff maintains, however, that the burden of proof may shift to the Crown where the interests of justice so require. Specifically, the Minister must "play fair" and, where certain facts are within the Crown's cognizance but not the plaintiff's, the onus shifts to the Crown to provide those facts. In the case at bar, the plaintiff maintains, where the plaintiff is asserting that the Minister allowed Darwai to claim a capital cost allowance in respect of the property, it is the Minister who possesses that information. In such a case, the plaintiff asserts, the Crown should, in the interests of fairness, provide that information. In other words, the onus of disproving the plaintiff's allegations lies with the Crown. The Crown, not surprisingly, states that there is no onus shift and that the burden of proof remains with the plaintiff.
+[43]
+In support of its position, the plaintiff cites a very early case,
+ <FRAGMENT_SUPPRESSED>  (S.C.C.), for the proposition that the burden of proof is on the Crown to show that Darwai had not claimed any capital cost allowance on the property. At pages 201-202 of
+Anderson Logging
+, the court observes:
+"First, as to the contention on the point of onus. If, on an appeal to the judge of the Court of Revision, it appears that, on the true facts, the application of the pertinent enactment is doubtful, it would, on principle, seem that the Crown must fail. That seems to be necessarily involved in the principle according to which statutes imposing a burden upon the subject have, by inveterate practice, been interpreted and administered. But, as concerns the inquiry into the facts, the appellant is in the same position as any other appellant. He must shew that the impeached assessment is an assessment which ought not to have been made; that is to say, he must establish facts upon which it can be affirmatively asserted that the assessment was not authorized by the taxing statute, or which bring the matter into such a state of doubt that, on the principles alluded to, the liability of the appellant must be negatived. The true facts may be established, of course, by direct evidence or by probable inference. The appellant may adduce facts constituting a prima facie case which remains unanswered; but in considering whether this has been done it is important not to forget, if it be so, that the facts are, in a special degree if not exclusively, within the appellant's cognizance;
+although this last is a consideration which, for obvious reasons, must not be pressed too far
+." (emphasis added)
+[44]
+In
+Anderson Logging
+, the appellant was the logging company and the Minister was the respondent. The plaintiff urges that I should read the court's observations in
+Anderson Logging
+to mean that, while the burden of proof rests with the taxpayer, this principle must not be rigidly applied. In cases such as
+Anderson Logging
+, where the facts were clearly within the knowledge of the taxpayer, the plaintiff concedes that the onus does not shift. Nonetheless, in cases where the facts are not within the knowledge of the taxpayer and the taxpayer has adduced evidence establishing a prima facie case, the plaintiff suggests that the onus shifts to the Crown to disprove that case. The plaintiff cites a more recent decision of  <FRAGMENT_SUPPRESSED>  D.T.C. 6337 (T.D.) in support of this proposition. I shall quote from this decision at length, since this is the only other authority to which counsel referred me. At pages 6339-6340, Joyal, J., states:
+"It is trite law and indeed it is conceded by the parties, that any tax assessment is valid and binding on its face, subject to the taxpayer's right to challenge it on grounds of fact and law. The result is to impose on the taxpayer the burden of proving that the assessment is wrong.
+"There is, however, a concurrent burden on the Crown to play fair. As stated by Rand, J., in
+ <FRAGMENT_SUPPRESSED>  Crown, as is its duty, has fully disclosed to the taxpayer the precise findings of facts and rulings of law which have given rise to the controversy.'
+"Even when the Crown is an appellant before this court after having its assessment vacated by a Tax Review Board or a Tax Appeal Board or a Tax Court of Canada, the burden on the taxpayer does not shift. President Thorson of the Exchequer Court in
+ <FRAGMENT_SUPPRESSED> , put it succinctly at p. 1129:
+'On the contrary, the true position is that on an appeal to this court from a decision of the Income Tax Appeal Board, whether the taxpayer or the Minister is the appellant, the assessment under consideration carries with it a presumption of its validity until the taxpayer establishes that it is incorrect whether in fact or in law. Thus, the onus of proving that it is incorrect is on the taxpayer, notwithstanding the fact that the Income Tax Appeal Board may have allowed an appeal from it. It follows, under the circumstances, that while the Minister, being the appellant, may be called upon to begin he may rest on the assessment so far as the facts are concerned without adducing any evidence. The onus of proving the assessment to be erroneous in fact is on the taxpayer.'
+"In most cases, the duty imposed on the Crown to disclose is based on certain assumptions of fact. This is simply for the reason that in most cases, the facts are within the exclusive preserve of the taxpayer and the Crown should not be expected to do more. Nevertheless, the Crown in a sense is bound by these assumptions and these assumptions are of a nature to indicate clearly to the taxpayer what is the case he or she has to meet. The taxpayer's burden is thereafter, to use the words of Rand, J., in
+ <FRAGMENT_SUPPRESSED>  at the time of the assessment and no more.
+"Numerous have been the comments by the courts on the application of the onus rule to meet the exigencies of particular cases. Counsel for the plaintiff is correct in stating that care should always be taken in its application. Counsel quotes an article by Charles MacNab in the
+Canadian Tax Journal
+, Vol. XXVI, No. 4, 1978, p. 393, where, after the author has referred to the general doctrine with respect to the burden of proof in civil matters, he remarks with reference to income tax cases at p. 411:
+'There will be need for care in each case, however, to ensure that the considerations of policy and fairness which underlie all the rules are fully appreciated before a determination of the onus of proof is made.'"
+[45]
+In
+First Fund Genesis Corp.
+, the Crown had had to obtain the consent of a third party in order to release documents relating to that party's income tax statements. These documents were relevant to the Minister's assessment of the plaintiff's 1985 taxation year. The Crown did obtain that consent and, further, released the documents to the plaintiff in that case. Joyal, J., continued at page 6340:
+"... We all know that initial burdens of proof may shift from time to time or that the court will intervene in that respect to serve the ends of justice or provide to any party a fair hearing.
+"Such is the situation before me. Although the circumstances of the case, as well as the statutory provision under Part VIII of the statute create an unusual situation, I view the Crown's position as fully disclosed and at this stage, at least, giving the plaintiff full opportunity to answer."
+[46]
+In response to the plaintiff's reference to
+First Fund Genesis Corp.
+, the defendant notes that the Crown has not acted unfairly and that the principles enunciated by Joyal, J., do not apply.
+[47]
+Revenue Canada's letter of August 3, 1988, reproduced supra, clearly states that the Minister had classified the property as Darwai's inventory. Unfortunately, as both parties have stated, there is no real evidence not only as to whether or not Darwai claimed capital cost allowance on the property, but there is also no evidence respecting Darwai's operation of the property. The only evidence besides the August 3, 1988 and September 12, 1989 letters regarding the classification of the building is the contract of sale between the parties, in which, at subparagraphs 1(j)(i), (ii), (iii), and (iv), Darwai represents and warrants that:
+"1(j) The Assets described in Schedule 'A':
+(i) have a cost for tax purposes of:
+Buildings	$1,710,000.00;
+(ii) have never been and will never be described in the books, records and financial statements of the Vendor as 'real estate inventory' or any similar caption and have been and always will be described as 'revenue producing property under construction';
+(iii) that for the Vendor's fiscal period ending December 31, 1983, the Vendor will add the building costs for the Assets described in Schedule 'A' to the Vendor's T2S(8) Capital Cost Allowance Schedule and claim capital cost allowance for that fiscal period of One Thousand ($1,000.00) Dollars. The Assets will be shown on the said Schedule as depreciable property at an undepreciated capital cost of One Million Seven Hundred and Ten Thousand ($1,710,000.00) Dollars;
+(iv) that the Vendor will record the disposition of the depreciable Assets being transferred pursuant to Schedule 'A' by showing proceeds of disposition of the depreciable property for income tax purposes as being equal to its undepreciated capital cost in accordance with Subsection 85(5.1) of the
+Income Tax Act
+."
+[48]
+In the case of
+ <FRAGMENT_SUPPRESSED>  (Tax C.C.), the meaning of the word "allowed" in s. 13(21) of the
+ITA
+, as well as the significance of the definition of "capital property" under the
+ITA
+was canvassed by the court. Bonner, T.C.J., observed at page 9 that:
+"The definition of 'depreciable property' in paragraph 13(21)(b) of the
+ITA
+is not entirely clear.  <FRAGMENT_SUPPRESSED> ], Thurlow, J., stated at p. 5333:
+'There appear to be two conceivable interpretations of the word "allowed" in this definition, one corresponding to the meaning of the same word in section 11(1)(a) [now 20(1)(a)] of the
+Act
+and in Regulation 1100(1), and the other as having been consecrated by some act on behalf of the Minister signifying his approval of the deduction that has been claimed,'
+. . . . .
+"If the word 'allowed' is to be read as referring to acceptance by the Minister of claims made by the appellant under the
+ITA
+for capital cost allowance [Footnote: In my view it must be so read.] then the appellant's automobiles would have to be regarded as 'depreciable property' within the meaning of paragraph 13(21)(b) of that
+Act
+. If on the other hand, the word 'allowed' is to be taken as meaning property allowed having regard to the relevant facts and the law as laid down in the
+ITA
+then the pertinent question is whether the evidence is sufficient to show that the claims which the appellant made for capital cost allowance were unfounded."
+[49]
+The plaintiff contends that there has been no evidence brought to show that the capital cost allowance claimed by Darwai was wrong. This position is supported by the finding of the Canadian International Trade Tribunal in
+152633  <FRAGMENT_SUPPRESSED>  where the Tribunal, in determining an appeal under the
+Excise Tax Act
+, R.S.C. 1985, c. E-15, examined the meaning of "depreciable property" and "capital property" under the
+ITA
+. The Tribunal noted at page 17-5 that:
+"The Tribunal interprets the definition of 'depreciable property' to mean property in respect of which the taxpayer was allowed to take a CCA deduction or would have been allowed to take such a deduction if it had owned the property at the end of its taxation year. The uncontroverted evidence is that Sako took a CCA deduction in respect of the three vehicles in issue. Therefore, at any particular time in its taxation year and, for purposes of this appeal, specifically on January 1, 1991, the three vehicles in issue qualified as depreciable property. As depreciable property, the vehicles are considered capital property."
+[50]
+ <FRAGMENT_SUPPRESSED>  (Tax C.C.), Bonner, T.C.J., observed at page 1281 that the Minister had conceded that:
+"[I]n respect of property purchased by the appellant and disposed of within the same taxation year, the undepreciated capital cost of Class 10 property should be reduced by the original cost of such property or the appellant's proceeds of disposition, whichever is less."
+[51]
+In this case, both the Crown and the plaintiff agree on the applicable principles; if I find that Darwai had claimed capital depreciation on the Topaz property, then I must find that Bosa could do the same. The Crown urges that there has been no unfairness and so the dictum of Joyal, J., in
+First Fund Genesis Corp.
+does not apply. The Crown asserts that there is no onus shift in this case such that the onus is on the Crown to show that Darwai could have claimed or did claim capital cost allowance in respect of Topaz. The Crown's position is that there is no evidence showing Darwai claimed capital cost allowance on the Topaz property. There is no evidence that the apartment building was a rental property. Consequently, the Crown's position is that the winding-up of Topaz cannot constitute a capital loss within the meaning of s. 85(5.1) of the
+Act
+. The property is properly characterized as inventory.
+[52]
+The plaintiff bases its case upon the definition of depreciable property in s. 13(21)(
+b
+) of the
+ITA
+. The argument put forward by the plaintiff is that, if capital cost allowance was taken on the Topaz property,
+i.e.
+"allowed", then it necessarily constituted depreciable property. Once this determination is made, then it must be determined whether s. 85(5.1) applies. If Darwai could take a capital cost allowance in respect of Topaz, then, the plaintiff's logic follows, so could Bosa. It should be remembered that Topaz Place Apartments Limited was a wholly-owned subsidiary of Darwai and that the 1984 sale of Topaz from Darwai to Bosa was a share-purchase and not an asset-purchase transaction.
+[53]
+Mr. Darshan Singh, the Crown's representative, who was both examined for discovery and appeared as a witness on behalf of the defendant, is a Certified General Accountant who has worked in the Audit and Appeals Divisions of the Department of National Revenue since 1976. In his examination for discovery, parts of which were read in at trial, Mr. Singh indicated that Darwai held some of its properties for a long period of time. The Darwai file, according to Mr. Singh, did not show the Topaz property as inventory. In fact, a nominal amount of capital cost allowance ($1,000) had been claimed by Darwai in respect of the property. Mr. Singh, on discovery, admitted that Topaz was treated by Darwai as a depreciable property. He also admitted that, as far as he knew, Darwai was not reassessed to deny it the capital cost allowance that it claimed with respect to the property. The plaintiff urges that I prefer Mr. Singh's evidence on discovery to that given by him at trial. At trial, Mr. Singh stated that he had reviewed the documentation regarding Darwai's characterization of the Topaz property and, after his review, had returned them to the Surrey Taxation Centre. Mr. Singh stated that, after his discovery, he undertook to obtain the documents that he had returned to the Surrey Taxation Centre but the documents could no longer be located. Further, Darwai had filed no tax return after 1983. On cross-examination, Mr. Singh stated that the chief basis for his assessment that the Topaz property was inventory was because Darwai was a developer.
+[54]
+On balance, I prefer the discovery evidence of Mr. Singh. In effect, he admitted that Darwai had taken depreciation on the Topaz property. This evidence is, furthermore, consistent with the representations made by Darwai in the contract of purchase and sale. This evidence was not really contradicted by Mr. Singh at trial. The only evidence which Mr. Singh added at trial to his evidence on discovery was that he made the assessment that he did because Darwai was a developer. For that matter, so is Bosa, but that does not preclude a company from holding property on capital account. Since Darwai has filed no income tax returns since 1983 and what documentation there was has been either lost or misplaced by the Crown, the burden of proof the plaintiff has to meet is a difficult one. On a balance of probabilities, I am satisfied that Darwai treated the property as depreciable.
+[55]
+Had I not been satisfied on the basis of the evidence before me that the property was depreciable in the hands of Darwai, then, in my view, the burden of proof would have shifted to the Crown to prove that the Topaz property was not depreciable capital property in the hands of Darwai. Such information is within the Crown's power to obtain and not the plaintiff's. The Crown, through his representative, attempted to satisfy an undertaking made at discovery that he would obtain documentation regarding the characterization of the Topaz property by Darwai. He was unable to do so. The production of these documents would have been dispositive of this issue as between the parties to the present litigation. It is not enough for the Minister to assert, as he did in the letter of September 12, 1989, that the Topaz property was Darwai's inventory. There must be some evidence to support that assertion, which the Crown has attempted, but failed, to adduce. In
+First Fund Genesis Corp.
+, the Minister had gone so far as to have obtained the consent of a third party to release the relevant documentation. In the case at bar, the Minister has not gone to the same lengths. Given this, it is my view that, had I not been satisfied on the basis of the evidence before me that the plaintiff had fulfilled the burden of proof, I would have found that the Crown had not disproved the plaintiff's allegations.
+[56]
+Consequently, I find that Darwai did deduct the Topaz property as capital and that the Crown allowed such a deduction. As a result of the sale of the Topaz shares from Darwai to Bosa, the plaintiff was entitled to take advantage of the provisions of s. 85(5.1) and I find that the Minister's reassessment was incorrect. The appeal on this point is allowed.
+C. Advances to Bosa Brothers U.S. Inc.
+Is the plaintiff entitled to claim the amount of advances made to Bosa Brothers U.S.A. Inc. as a bad debt under s. 20(1)(p)(ii) or 40(2)(g)(ii) of the
+ITA
+?
+[57]
+Bosa Brothers U.S. Inc. ("Bosa U.S.") is a company incorporated under the laws of the state of Washington, U.S.A., established in 1978 to pursue property development opportunities. Although it was a separate corporation, it was a wholly-owned subsidiary of the plaintiff and is operated and administered from the head offices of the plaintiff in Burnaby, British Columbia. The only employees of Bosa U.S. consisted of clerical staff. In oral testimony, Natale Bosa stated that Bosa U.S. developed property in Washington state, but the construction for Bosa U.S. was supervised by the plaintiff using U.S. workers. Bosa expected the fees and part of the profits from the construction of a condominium development in Everett, Washington. From April 1979 to April 1987, Bosa advanced approximately $1,640,875 to Bosa U.S. No interest was charged on these advances. Bosa also guaranteed a mortgage for Bosa U.S., for which Natale and Arturo Bosa had to provide personal guarantees. Mr. Natale Bosa admitted that the real reason for these advances was because Bosa, Arturo and he had guaranteed the mortgage. Unfortunately, the subsidiary never showed a profit. John Olesky, the plaintiff's accountant, testified that the advances to Bosa U.S. were "seed money" to start up operations and provide cash flow. From 1981 to 1987, Bosa U.S. had rental property, which was sold in 1987. It was the disposition of this property that led Bosa to write-off advances as a bad debt. There was no interest payable on these advances and no fixed term of repayment. Mr. Olesky noted that Bosa also provided financing to clients through loans and mortgages, but interest was charged, terms of repayment were established and security taken on these debt instruments.
+[58]
+As noted above, over the course of Bosa U.S.'s unprofitable existence, moneys were advanced by the plaintiff to Bosa U.S. for working capital and other funding. There was no interest charged on these advances, nor was there a written repayment agreement. The defendant disallowed the plaintiff's write-off of these advances for its 1987 taxation year. The amount of the loss claimed is $1,825,365. The plaintiff submits that the advances were made for the purpose of earning income from the plaintiff's business of developing real estate. The plaintiff states that it managed and financed Bosa U.S. in the hope that it would derive substantial management fees from that corporation.
+[59]
+The plaintiff claims a write-off of these losses as noncapital losses under s. 20(1)(
+p
+)(ii), or, in the alternative, as capital losses under s. 40(2)(
+g
+)(ii). Section 40(2) states in part:
+"40(2) Notwithstanding subsection (1),
+. . . . .
+(
+g
+) a taxpayer's loss, if any, from the disposition of a property, to the extent that it is
+. . . . .
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm's length,
+. . . . .
+is nil;"
+[60]
+There are two ways under which a taxpayer may be entitled a deduction for bad debts under s. 20 of the
+ITA
+: if the amount had previously been included in income, or the taxpayer is a lender in the regular course of its business. Paragraph 20(1)(
+p
+) reads as follows:
+"20(1) Notwithstanding paragraphs 18(1)(
+a
+), (
+b
+) and (
+h
+), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . . . .
+(
+p
+) the total of
+(i) all debts owing to the taxpayer that are established by the taxpayer to have become bad debts in the year and that have been included in computing the taxpayer's income for the year or a preceding taxation year, and
+(ii) all amounts each of which is that part of the amortized cost to the taxpayer at the end of the year of a loan or lending asset made or acquired in the ordinary course of business by a taxpayer who was an insurer or whose ordinary business included the lending of money established by the taxpayer to have become uncollectible in the year."
+[61]
+Counsel for the plaintiff referred me to a number of cases where the courts have allowed write-offs as noncapital losses in circumstances where loans have been made by Canadian parents to U.S. subsidiaries (e.g.
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.) per  <FRAGMENT_SUPPRESSED>  (Tax C.C.) per  <FRAGMENT_SUPPRESSED>  (Tax C.C.) per Taylor,  <FRAGMENT_SUPPRESSED>  (Ex. Ct.) per Thorson, P.). In those cases, it is clearly a finding of fact whether advances made by a Canadian parent to a U.S. subsidiary constitute deductible expenses, capital outlays or simply advances. In determining whether the amounts advanced constitute noncapital losses, courts have noted that certain expenses or losses may be deductible, considering the practical and commercial aspects of the transaction: see
+F.H. Jones
+, supra, at page 5581. In
+F.H. Jones
+, the defendant company sold tobacco to cigarette manufacturers. In 1963, a distributor of cigarettes sought to acquire control of a company in the business of manufacturing cigarettes. The distributor sought and obtained the defendant company's guarantee to finance this share purchase through the defendant's president and majority shareholder in exchange for the distributor's undertaking to buy tobacco from the defendant company. This resulted in an increase in tobacco sales for the defendant company, but since the new customer failed to pay excise duties, the cigarettes manufactured by the new customer were seized and the defendant company was called upon to pay some $115,000 pursuant to its guarantee. Noël, A.C.J., dismissed the Crown's appeal against the decision of the Tax Review Board, which had allowed the defendant's appeal, on the basis that the loss resulting from the payment under the guarantee was derived from an expense incurred for the purpose of producing income.
+[62]
+In
+D.J. MacDonald Sales Ltd.
+, supra, the principal of the appellant company guaranteed a loan for one of its suppliers. The appellant company indemnified the principal to the extent of the guarantee. The bank looked to the guarantor to make the payment. The appellant company made extensive efforts to obtain repayment from the debtor. The court found that the loan was properly deductible by the company as a bad debt since the expense was incurred for the purpose of gaining or producing income from the appellant company's business. The fact of the principal's personal guarantee was, in the court's view, merely a "circuitous route" through which the company was able to carry on its business.
+[63]
+In
+Panda Realty Ltd.
+, supra, the taxpayer had been required to honour a guarantee on loans of working capital which were advanced to its tenant. In that case, the court found that the guarantee was given by the taxpayer to preserve an ongoing source of rental income. Kempo, T.C.J., observed at pages 1269-1270:
+"As to the matter at hand, and speaking generally, the jurisprudence has drawn a distinction between an outlay made to protect the very existence of a going concern either as a whole or within a particular area of exploitation ... to one that impacts on day-to-day operations. ...
+"And turning particularly to the guarantee cases, it is notable that it has been the practical and commercial aspects of the situation which carried considerable weight in the final outcome of
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.) and
+ <FRAGMENT_SUPPRESSED>  (T.A.B.), in that the principal object and purpose of the guarantor was seen to have been directed to the maintenance of their way of obtaining supplies or the selling of their products. Neither case involved considerations relative to the financing of a subsidiary's working capital as was noted to have been the situation in
+ <FRAGMENT_SUPPRESSED>  (S.C.C.), and
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.). In <FRAGMENT_SUPPRESSED> , the advantage that was sought to be gained was the securing and control of a permanent supply of sheet metal at a relatively low price through a subsidiary corporation. In
+Stewart &  <FRAGMENT_SUPPRESSED> , the taxpayer was found on the facts to have simply loaned money for working capital to its subsidiary and to have lost its money. In both of these cases the outlays were held to have been on capital account."
+The court found that the guarantee was given by the taxpayer to preserve an ongoing source of income and was therefore on account of income rather than capital.
+[64]
+Counsel for the defendant noted that many of the cases provided by the plaintiff pre-date the decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  (S.C.C.). In that case, a Canadian company with U.S. customers formed a subsidiary company to operate its New York office. The subsidiary carried on business separately from the parent but was "master-minded" by the Canadian parent. The money to run the New York office was provided by the parent through direct advances and loan guarantees. The advances were treated by both the parent and the subsidiary, as well as their auditors, as loans. In that case, the Supreme Court observed at pages 6050-6051:
+"The facts were dealt with in great detail in the reasons delivered in the Exchequer Court. I adopt the summary of the facts made at the conclusion of his reasons by the learned trial judge. They are as follows:
+'The evidence adds up to this, as I appreciate it. The respondent decided that an American subsidiary, to be wholly owned by the respondent, would be incorporated and would carry on business in the United States and be a source of income and profit for the respondent. The subsidiary would carry on business as a separate American company in its own name and right, but would, to use Stewart's words, be "master-minded" by its parent company and their affairs would be closely related and managed. The subsidiary needed capital, but had none. The respondent would supply, or arrange to supply, the needed capital. It arranged and guaranteed a bank loan direct to the subsidiary and also made direct advances of money to enable it to get started and continue to operate. The advances were treated by both companies and by their auditors, and in the respective books and accounts, as loans from the respondent. Book entries do not necessarily denote the true nature of transactions, but I think that the advances in question were correctly treated as loans. The fact that the money so provided was used by the subsidiary to pay its operating expenses, and was lost in a losing cause, does not determine or change its nature of money lent by the respondent to the subsidiary.
+'In my opinion, the advances were outlays by the respondent of a capital nature, so far as it is concerned, the deduction of which is prohibited by section 12(1)(
+b
+) of the
+Act
+and the appeal may be disposed of on that finding alone.'
+"The learned trial judge has correctly characterized these dealings between the parent company and its American subsidiary. The parent company provided working capital to its subsidiary by way of loans. These loans were the only working capital the American subsidiary ever had with the exception of the sum of $1,000.00 invested by Stewart & Morrison Limited for the acquisition of all of the issued share capital of its subsidiary. The money was lost and the losses were capital losses to Stewart & Morrison Limited. The deduction of these losses has been rightly found to be prohibited by s. 12(1)(
+b
+) of the
+Income Tax Act
+.
+"We are not concerned in this appeal with what the result would have been if the appellant taxpayer had chosen to open its own branch office in New York. For reasons of its own, it did not choose to operate in this way. It financed a subsidiary and lost its money."
+[65]
+Counsel for the defendant urges me to follow the court's holding in
+ <FRAGMENT_SUPPRESSED>  (Tax C.C.), where Kempo, T.C.C.J., held that loans written off by the taxpayer were uncollectable loans that had been made in the course of the taxpayer's business. The taxpayer, Discovery Research Systems, was a company engaged in the businesses of trading in securities and the lending of money. The taxpayer lent money to various entities through instruments of debt which contained a specified rate of interest and terms of repayment. In
+Discovery Systems
+, the court found that the requirements to be satisfied before s. 20(1)(
+p
+)(ii) of the
+ITA
+would apply were as follows (at page 1518):
+"... [T]he requisites being the establishment
+1. of debts arising from loans, that
+2. part of the appellant's ordinary business was money lending, that
+3. the loans were made in the ordinary course of that business, and that
+4. the loans became bad in the year.
+These requisites are factual in nature. All of the relevant circumstances are to be considered utilizing a pragmatic business approach."
+[66]
+I find this to be an accurate statement of the relevant requirements that apply in determining whether bad debts qualify as noncapital losses under s. 20(1)(
+p
+)(ii). Kempo, T.C.C.J., also observed, at page 1519, that:
+"In my view this is not a general maxim wherein a shareholder relationship would necessarily preclude a business of lending money. Evidentiary concerns arise in cases involving close relationships between the lender and the borrower calling for an appropriate examination of all of the evidence. In any event the principal focus of the jurisprudence is that each case must be viewed and determined on its own facts and merits. In
+Charles Chaffey
+there apparently was no provision for the charging of interest, nor was there any lending pattern or system established. The trial judge opined [74 D.T.C. 6478 at 6486]:
+'... I do not think that the making of such advances proves that the lending of money was part of their ordinary business, or that the evidence as a whole proves that it was.'"
+[67]
+Counsel for the plaintiff has attempted to persuade me that part of the plaintiff's business was to lend money under the guise of so-called "construction loans". I do not find that this is the case with respect to Bosa U.S. The plaintiff was in the business of property development and rental of personal accommodation, not lending money. Further, there is no evidence before me that the plaintiff obtained any kind of documentation regarding the advances. There were simply no debt instruments concluded between the parent plaintiff and Bosa U.S.
+[68]
+I find that, in the case at bar, the advances made were not loans within the meaning of s. 20(1)(
+p
+)(ii) since it was not part of the plaintiff's ordinary business to lend money. The pre-requisites for the operation of s. 20(1)(
+p
+)(ii) have not been met. It was also noted by Kempo, T.C.C.J., that a pragmatic business approach must be used in cases of this type, as was stated in
+ <FRAGMENT_SUPPRESSED>  D.T.C. 5182 (T.D.) at 5185, where the court observed:
+"It has frequently been said in cases of this nature that one must try to characterize a situation from a practical business point of view to determine the intent with which the money was provided."
+[69]
+In
+Morflot Freightliners
+, where the final determination was that the funds in question were indeed loans, it was also found to be relevant that promissory notes existed which provided evidence of the indebtedness and the interest charged on the loans. It was found that the lending of money was "an activity which encompassed a system and continuity which formed an elemental part of the appellant's income earning ventures."
+[70]
+It is notable that this case puts an onus on the party seeking to qualify moneys given or advanced as loans to adduce evidence proving that the loaning of money was in the ordinary course of the taxpayer's business. While I note that the plaintiff did lend money to other entities, it is clear on the facts that the construction and development of properties was the plaintiff's ordinary course of business and not lending money. Further, the payments made to Bosa U.S. were voluntary and designed to finance Bosa U.S.'s operations. I do not find the cases to which the plaintiffs have referred me to be relevant to the particular facts of this case.
+[71]
+A point which essentially resolves the plaintiff's attempt to characterize the advances as deductible expenses is that elaborated upon by Judson, J., in
+Stewart & Morrison Ltd.
+supra. This case highlights that, whether the provision of cash by a parent to a subsidiary is characterized as an advance or as a loan, if it is taken to be a loan, it will be considered to be a capital outlay, and therefore not deductible from income. The facts of this case are analogous to those of the case at bar. I find that the plaintiff cannot claim these advances as noncapital losses within the meaning of s. 20(1)(
+p
+)(ii).
+[72]
+Section 40 of the
+ITA
+sets out the rules for determining the gain or loss on the disposition of any property. Under s. 40(2)(
+g
+), a debt which is uncollectable may only be deducted as a capital outlay where the debt was incurred to earn revenue. The section is very clear on the exception to the general principle that a loss on a debt is not deductible. For the purpose of s. 40(2)(
+g
+)(ii), a taxpayer is deemed to have disposed of a debt owing to him at the end of a taxation year in which the debt is established by the taxpayer to have become uncollectable.
+[73]
+ <FRAGMENT_SUPPRESSED>  (Tax C.C.), a case on which the plaintiff relies, the taxpayer had lent money to a wholly-owned branch plant in the United Kingdom, which later went bankrupt and was unable to repay its loans, causing the taxpayer to suffer a significant loss. It was held there that, since the so-called branch plant was an integral part of the taxpayer's business, the advances that were made were clearly made with the purpose of gaining or producing income from a business or property, and therefore the amount could be deducted as a capital loss. At page 1848, Rip, T.C.J., observed that the fact that the loans were interest-free was not fatal to the taxpayer's submission that the loans were made for the purpose of earning income. The court stated:
+"The fact that there may have been no interest attached to the debts in question is not relevant in deciding whether they were acquired for the purpose of gaining or producing income.  <FRAGMENT_SUPPRESSED>  at page 6164. It is not uncommon for a shareholder to lend money without interest and without security to the corporation since he anticipates that the loans will assist the corporation to earn income and to pay him income by way of dividends; the loan is made for the purpose of earning income from a property. Although the shareholder is a creditor of the corporation when he advances money to the corporation the shareholder does not see his advance of money to the corporation and his subscription for shares of the corporation as separate investments in two watertight compartments; rather he sees his money entering two compartments which open up into a single compartment for the use of the corporation. Purchasing shares and advancing money to a corporation are two ways of making an investment in the corporation. This is a sensible interpretation.
+"Similarly a shareholder of a corporation who may have incorporated a corporation for the purpose of acquiring product at a low cost and so reduce its own costs may advance money without interest to the corporation to enable the corporation to operate as intended; in this example even if the shareholder is not making loans for the purpose of producing income from its business, by having reduced costs, the loan is being made to earn income from property, that is, to receive dividends on the shares it owns in the corporation. It is not unusual for a person to invest in a corporation by subscribing for share capital and lending money without interest; as far as he is concerned the shares and his loans constitute a single investment and if later on, he is called on to advance further funds without interest he is only increasing his investment. I cannot subscribe to the theory that in such an example the noninterest bearing loans were not incurred for the purpose of earning income from property; if the loans were not advanced the corporation may have become bankrupt and the shares may have become worthless. Clearly the loans were made to earn income from property, that is, to place the corporation in a position where it will be successful and pay dividends."
+[74]
+Counsel for the defendant pointed out that the advances made by the plaintiff to Bosa U.S. were not made to earn income but to cover losses and protect the guarantees of the principals.
+[75]
+On the facts, I prefer the characterization advanced by the Minister.
+Business Art
+, in my view, may be distinguished from the instant case on its facts. In the case at bar, Bosa was not advancing money for the purpose of acquiring a product or ensuring a source of supply. Bosa was simply covering losses incurred by its subsidiary and trying to protect its guarantors.
+[76]
+The plaintiff's contention fails on both grounds, either as an expense deductible against income or as a capital loss. The Minister's reassessment is upheld on this issue.
+D. Repurchase of Units
+In what way should the acquisition costs arising from the repurchase of units in the three properties, Boundaryview Place, McBride Place and Glenview Manor be characterized? Should they be on income or capital account?
+[77]
+Over the course of several different taxation years, the plaintiff was contractually obliged to repurchase limited partnership units, actually condominium units, in buildings that it had previously sold.
+[78]
+The plaintiff disposed of Boundaryview Place on September 1, 1983 to a limited partnership known as Boundaryview Place Limited Partnership which marketed limited partnership units in the property to investors. During 1987 and 1988, respectively, the plaintiff purchased forty units and one unit (the "Boundaryview Limited Partnership Units") of the Boundaryview Place Limited Partnership from the investors. In its 1987 taxation year, the plaintiff claimed a deduction of $442,525 as an alleged mortgage and cash flow guarantee fee in respect of the purchase by it of thirty-one of the forty Boundaryview Limited Partnership Units. The deduction claimed in 1988 was $13,525.
+[79]
+In 1985, the plaintiff disposed of a condominium project known as McBride Place Apartments to a limited partnership (the "McBride Place Limited Partnership") established by the plaintiff to market limited partnership units in the property to investors. In 1984, the plaintiff disposed of a condominium project known as Glenview Manor to a limited partnership (the "Glenview Manor Limited Partnership") established by the plaintiff to market limited partnership units in the property to investors. In its 1988 taxation year, the plaintiff claimed a deduction of $405,431 in respect of the purchase by it of 16 McBride Place Limited Partnership Units. In its 1988 taxation year, the plaintiff claimed a deduction of $298,495 in respect of the purchase by it of 8 Glenview Manor Limited Partnership Units.
+[80]
+In the letter of reassessment sent to the plaintiff, Revenue Canada wrote, inter alia, that income would be increased with respect to the repurchase costs of the McBride Place Limited Partnership Units for the plaintiff's 1988 taxation year. The letter also stated that there was also to be another income increase on the basis that the repurchase costs of the Boundaryview Place Limited Partnership units for the 1987 and 1988 taxation years were not properly deductible from income. Finally, the repurchase costs of the Glenview Manor Limited Partnership for 1988 were not allowed by the Minister to be deducted from income.
+[81]
+The plaintiff claims that the unit acquisition costs constitute ordinary expenses of a developer that may be deducted against income.
+In the course of the hearing, the plaintiff abandoned the argument that the unit repurchase costs for Boundaryview Place Limited Partnership were deductible as against income and instead claimed that they were capital losses. It is the defendant's position that the proper characterization of these unit acquisition costs is as deductions against capital pursuant to s. 42 of the
+ITA
+. These amounts are not allowable deductions on income account pursuant to the operation of s. 18(1)(
+b
+) of the
+ITA
+. Paragraphs 18(1)(
+a
+) and (
+b
+) of the
+ITA
+read as follows:
+"18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(
+a
+) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(
+b
+) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;"
+[82]
+The plaintiff submits that the costs incurred in the Boundaryview Place Limited Partnership buy-back should be on capital account, a modification of its original position. The defendant considers that the amounts expended by the plaintiff to purchase the Boundaryview, McBride and Glenview Limited Partnership Units were outlays on account of capital, since, in the defendant's view, the units were capital properties to the plaintiff. As far as the cost of acquiring the units in McBride Place and Glenview Manor, these are allowable income losses according to the plaintiff because they constitute ordinary losses in the real estate market, that is to say the promise by a vendor to buy-back certain units in a building in order that a sale agreement may be reached with a purchaser. They were also incurred to earn a profit. It is the plaintiff's position that these constituted expenses and are therefore properly deductible as against income.
+[83]
+The plaintiff agrees that the Boundaryview Place guarantee fee was in the nature of a warranty under s. 42 of the
+ITA
+and was not the cost to the plaintiff of acquiring units in the Boundaryview Place Limited Partnership. Section 42 of the
+ITA
+provides that, where a taxpayer receives proceeds of disposition of property and part of the proceeds is received as consideration for any warranty, covenant or other conditional or contingent obligation incurred by the taxpayer in respect of the disposition, the amount so received must be included in the proceeds of disposition of the property. However, the amount is included in proceeds of disposition only for the purpose of computing the capital gain or loss
+. For other purposes, the amount is not included in proceeds of disposition. Any outlay or expense incurred by a taxpayer pursuant to the obligation in the year of disposition or subsequent taxation years is deemed to be a loss for that year from the disposition of a capital property. An outlay or expense may be treated as a capital loss if it is made or incurred pursuant to a legal obligation incurred by the taxpayer. If the outlay or expense meets the statutory tests, it is deemed to be a loss from the disposition of a capital property. The applicable statutory provision reads as follows:
+"42. In computing a taxpayer's proceeds of disposition of any property for the purposes of this subdivision, there shall be included all amounts received or receivable by the taxpayer as consideration for warranties, covenants or other conditional or contingent obligations given or incurred by the taxpayer in respect of the disposition, and in computing the taxpayer's income for the taxation year in which the property was disposed of and for each subsequent taxation year, any outlay or expense made or incurred by the taxpayer in any such year pursuant to or by reason of any such obligation shall be deemed to be a loss of the taxpayer for that year from a disposition of a capital property and for the purposes of section 110.6, that capital property shall be deemed to have been disposed of by the taxpayer in that year."
+[84]
+The Crown's point of view regarding the operation of s. 42 of the
+ITA
+was originally set out in
+Interpretation Bulletin
+IT-330, dated July 12, 1976, replaced by
+Interpretation Bulletin
+IT-330R dated September 7, 1990. The Crown's position is that section 42 contains two rules that are effective upon the disposition of a capital property. Paragraphs 8 and 9 of IT-330R read as follows:
+"8. Section 42 provides that, under certain conditions, an outlay or expense made or incurred by a taxpayer in satisfaction of a warranty obligation is deemed to be a capital loss from the disposition of capital property for the taxation year in which such outlay or expense is made or incurred. This is so whether the warranty obligation relates to the sale of business properties or shares. For 1985 and subsequent taxation years this deemed capital loss is taken into account in determining a taxpayer's capital gains deduction under section 110.6. The amount that a taxpayer may claim as an allowable capital loss will vary according to the year in which the outlay or expense was deemed to be a loss from the disposition of a capital property. For example, an individual's allowable capital loss for the 1987 and prior taxation years is 1/2 of the capital loss incurred; for taxation years and fiscal periods ending after 1987 and before 1990, it is 2/3 of the capital loss incurred, and 3/4 thereof for taxation years and fiscal periods ending after 1989. The conditions that this type of outlay or expense must meet for section 42 to apply are as follows:
+'the amount paid must have been made or incurred pursuant to a warranty obligation, and
+the warranty obligation necessitating the payment must have been incurred in connection with a disposition of capital property and not goodwill or other eligible capital property.'
+"9. The capital loss referred to in paragraph 8 above is not a loss that is identified with a particular capital property. The loss is recognized even though the transaction that gave rise to the warranty obligation may not have had any income tax consequences. For example, this might be the case where the capital property previously disposed of and to which the warranty obligation relates was personal-use property sold at a loss. The deductibility of the loss is also not dependent on whether or not any amount was received for the granting of the warranty."
+[85]
+The plaintiff says that the amount spent to honour its contractual obligation should qualify as a capital loss. The actual partnership units that the plaintiff was required to purchase were in fact worthless and, accordingly, the amounts expended by the plaintiff to buy the condominium units were in the nature of a guarantee fee or warranty and were therefore on capital account and fully deductible for income tax purposes.
+[86]
+The obligation on the plaintiff to purchase the units with respect to Boundaryview Place was found in the contracts of sale of the apartment building which were sold as capital properties, therefore complying with the requirements of s. 42 of the
+ITA
+. Since this is also the defendant's position, I have little difficulty in deciding that the Boundaryview Place guarantee fee constitutes a capital loss under section 42 of the
+ITA
+.
+[87]
+With respect to the unit acquisition costs pursuant to the warranty as it concerns McBride Place and Glenview Manor, the plaintiff argues that they constitute expenses that may be deducted as against income. The case of
+F.H. Jones Tobacco Co.
+, supra, is cited by the plaintiff for the proposition that a broad view must be taken when characterizing tax losses. At page 5581, the court observed:
+"For some years, however, our courts have been inclined to accept certain expenses or losses as deductible, considering not so much the legal aspect of the transaction, but rather the practical and commercial aspects."
+[88]
+In that case, it was held that a loan which was personally guaranteed by the president of a corporation was indeed an expense incurred for the purpose of producing income from a business. This was so because of the type of attitude that must be taken in examining outlays (at page 5581):
+"It was in
+ <FRAGMENT_SUPPRESSED>  towards a deduction of expenses or losses. Indeed, it stated that in such cases the solution 'depends on what the expense is calculated to effect from a practical and business point of view, rather than upon a juristic classification of the legal rights, if any, secured, employed or exhausted in the process.'"
+[89]
+Applying this analysis to the case at bar, the plaintiff urges this court to take account of the "practical and business point of view", that almost every contract of sale of a building that contains condominiums includes a repurchase agreement to serve as a "sweetener." Unfortunately, no evidence was adduced to confirm or refute this assertion. Counsel for the plaintiff submits simply that the McBride Place and Glenview Manor acquisition costs were simply ordinary expenses incurred in the ordinary course of business of a developer.
+[90]
+The McBride Place repurchase agreement was concluded between the McBride Place Apartments Limited Partnership and the plaintiff on October 15, 1984. In it Bosa agreed to repurchase a maximum of 835,520 units from investors under the repurchase option during the period extending from January 1, 1987 to December 31, 1988. The Glenview purchase commitment agreement was made as of December 30, 1983 and concluded between, among others, the Glenview Manor Limited Partnership and the plaintiff. The recitals commit Bosa to repurchase a maximum of 722,040 units from dissatisfied investors. Copies of both repurchase agreements really constitute the only evidence adduced before me regarding the characterization of the repurchase expenses. The Crown maintains that, with reference to
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.) and
+ <FRAGMENT_SUPPRESSED>  D.T.C. 6119 (F.C.A.), the costs of the repurchase of these units constitutes a capital outlay pursuant to s. 42 of the
+Act
+. It is the Crown's position that the plaintiff has failed in this case to meet the onus of proving that the units were inventory rather than capital. It is this position that, in the light of the evidence adduced before me, I adopt. The Minister's characterization of the McBride Place and Glenview Manor unit repurchase as expenditures on capital account pursuant to the operation of s. 42 of the
+Act
+is upheld on this point.
+III. Conclusion
+[91]
+To conclude, the plaintiff's appeals shall be disposed of as follows:
+1. The Talbot Place issue is properly appealed.
+2. The gain realized on the disposition of Talbot Place is on income account.
+3. The gain realized on the disposition of Boundaryview Place Apartments is on capital account.
+4. The plaintiff is entitled to the noncapital loss as determined on the wind-up of Topaz Place Apartments Ltd.
+5. The plaintiff is not entitled to claim the amount of advances made to Bosa Bros. U.S. as a bad debt.
+6. The mortgage and cash flow guarantee costs in respect of Boundaryview Place, McBride Place and Glenview Manor were expenditures on capital account.
+[92]
+At the commencement of the hearing, the parties informed me that the plaintiff had abandoned its appeal in regard to a number of issues, namely, the Harbourview property, Sutton Place property, deductibility of professional fees and deemed interest with respect to alleged loans to Astron.
+[93]
+Also, the parties advised me that the following issues had been settled and that orders should be rendered giving effect to the settlement, namely with respect to the Hull real estate and Brookmere Garden Apartments, a declaration that the gains realized on the dispositions thereof are on capital account and with respect to the Anola Place adjustment, a declaration that there is no additional income.
+[94]
+In view of the conclusions at which I have arrived, it is proper, in my view, that each side bear its own costs in this litigation.
+[95]
+The parties shall prepare draft orders, for my signature, giving effect to these reasons.
+Order accordingly.
+Editor: Kelli A. Simmonds/sg
+[End of document]

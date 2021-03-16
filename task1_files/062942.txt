@@ -1,0 +1,361 @@
+  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED>  
+ 
+  <FRAGMENT_SUPPRESSED> )  <FRAGMENT_SUPPRESSED>  
+ Indexed  <FRAGMENT_SUPPRESSED>  plaintiffs sued Radiopol Inc. and its directing mind, Bucholc, alleging that they decoded the plaintiffs' encrypted programming signals from the POLSAT 2 International satellite signal without authorization and that they infringed the plaintiffs' copyright and trademarks by making the plaintiffs' copyrighted television programs available on their internet website. The plaintiffs also claimed that the defendants' activities violated s. 9(1)(c) of the Radiocommunications Act. The plaintiffs were granted default judgment against the defendants. The plaintiffs sought statutory damages pursuant to s. 38.1 of the Copyright Act, punitive damages and solicitor-client costs. They also asked that an interim injunction which had been granted against the defendants be made a permanent injunction.  <FRAGMENT_SUPPRESSED>  
+ The Federal Court awarded the plaintiffs $301,350 as statutory damages. The court declined to award punitive damages, but awarded the plaintiffs solicitor-client costs. The interim injunction was made permanent.  <FRAGMENT_SUPPRESSED>  
+ Editor's Note: See (2006), 287 F.T.R. 136 for a decision where the court found the defendants guilty of contempt in relation to the interm injunction.  <FRAGMENT_SUPPRESSED>  
+ Copyright - Topic 4586 
+ 
+ Infringement of copyright - Remedies - Damages - The defendants decoded the plaintiffs' encrypted programming signals from the POLSAT 2 International satellite signal without authorization and infringed the plaintiffs' copyright and trademarks by making the plaintiffs' television programs available on their internet website - The plaintiffs sought statutory damages pursuant to s. 38.1 of the Copyright Act in the maximum amount of $20,000 per work in respect of 2,009 works - The Federal Court held that the per work statutory maximum would yield an unjust result disproportionate to any injury suffered by the plaintiffs or any reasonable assessment of profits earned by the defendants - The court awarded the plaintiffs $150 per work for 2009 works ($301,350) as statutory damages - The court considered that the plaintiffs were not yet licensed for distribution in Canada during the period of infringement so their loss of revenue was minimal - The court also considered the defendants' bad faith in ignoring the plaintiffs' offer not to litigate if the infringement ceased and the defendants' conduct in ignoring the court's process while at the same time enhancing their offerings of the plaintiffs' programming - The court declined to award punitive damages as the defendants had already been found guilty of contempt and fined and the individual defendant was subject to imprisonment if the offending website was not dismantled - However, the plaintiffs were awarded solicitor-client costs given the defendants' unreasonable and reprehensible conduct.  <FRAGMENT_SUPPRESSED>  
+ Damages - Topic 1333 
+ 
+ Exemplary or punitive damages - Copyright infringement - [See  
+ Copyright - Topic 4586 
+ ].  <FRAGMENT_SUPPRESSED>  
+ Practice - Topic 7454 
+ 
+ Costs - Solicitor and client costs - Entitlement to solicitor and client costs - Improper, irresponsible or unconscionable conduct - [See  
+ Copyright - Topic 4586 
+ ].  <FRAGMENT_SUPPRESSED>  
+  <FRAGMENT_SUPPRESSED>  refd to. [para. 49].  <FRAGMENT_SUPPRESSED>  
+ Statutes Noticed: 
+ 
+ Copyright Act, R.S.C. 1985, c. C-42, sect. 38.1 [para. 14].  <FRAGMENT_SUPPRESSED>  
+ Authors and Works Noticed: 
+ 
+ Goldstein on Copyright (3rd Ed.), pp. 14-38 [para. 40]; 14-41 [para. 41]; 14-43 [para. 42]; 14-52 to 14-56 [para. 43]. 
+ 
+ McKeown, John S., Fox on Canadian Law of Copyright and Industrial Designs (4th Ed. 2003), pp. 24.77, 24.78 [para. 45].  <FRAGMENT_SUPPRESSED>  
+ Counsel: 
+ 
+ Julie Thorburn and Emily Larose, for the plaintiffs; 
+ 
+ No one appeared for the defendants.  <FRAGMENT_SUPPRESSED>  
+ Solicitors of Record: 
+ 
+ Cassels Brock & Blackwell LLP, Toronto, Ontario, for the plaintiffs.  <FRAGMENT_SUPPRESSED>  
+ This matter was heard on January 30, 2006, at Toronto, Ontario, before Lemieux, J., of the Federal Court, who delivered the following decision on May 10, 2006.  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED>                                                                                                        <FRAGMENT_SUPPRESSED>  
+ [1] 
+   
+ Lemieux, J. 
+ : On January 19, 2006, I granted the plaintiffs default judgment in their action against the defendants on account of the defendants' failure to file a statement of defence within the time set out in rule 204 of the  
+ Federal Courts Rules, 1998 
+ . (the  
+ Rules 
+ )  <FRAGMENT_SUPPRESSED>  
+ [2] 
+  In granting default judgment, I did not assess damages since the plaintiffs were seeking statutory damages pursuant to s. 38.1 of the  
+ Copyright Act 
+  (the  
+ Act 
+ ) in the maximum allowable amount of $20,000 per work in respect of 2,009 works, which, if granted, would amount to a damage award of over $40,000,000. Considering s. 38.1 of the  
+ Act 
+  was new legislation which had not previously been substantively interpreted and which conferred upon this Court substantial discretion in the assessment of statutory damages, I was of the view the defendants should have an opportunity to address that issue.  <FRAGMENT_SUPPRESSED>  
+ [3] 
+  Consequently, I referred the issue of all damages and costs flowing from the default judgment for consideration at the show-cause contempt hearing scheduled before me in Toronto, commencing Monday, January 30, 2006 at 9:30 a.m. I directed the plaintiffs serve the defendants by mailing a copy of the default judgment to the address in Montreal where Radiopol Inc.'s corporate documents show its registered head office to be and by mailing a copy of the default judgment to a post office box in Airdrie, Alberta, a suburb of Calgary, where Jaroslaw Bucholc, the directing mind of Radiopol Inc. is said to be residing. In addition, I directed a copy of the default judgment be served upon the defendants by e-mailing a copy to  
+ radio@ radiopol.com 
+  and  
+ jarek@radiopol.com 
+ .  <FRAGMENT_SUPPRESSED>  
+ [4] 
+  The defendants did not appear on the show-cause contempt hearing, nor did they appear in connection with the assessment of statutory damages. After hearing from witnesses on behalf of the plaintiffs on the technicalities related to service by e-mail and the opening and reading of e-mails, I am satisfied both the show-cause contempt order and the plaintiff's motion for default judgment had come to the attention of the defendants. This determination is consistent with Justice Kelen's validation of service by e-mail at those addresses of motion materials for the interlocutory injunction he granted against the defendants on August 29, 2005 (see 2005 FC 1179).  <FRAGMENT_SUPPRESSED>  
+ [5] 
+  The plaintiffs' statement of claim was served and filed on August 12, 2005. In essence, it alleges that Radiopol Inc., a corporation incorporated pursuant to the laws of Quebec, and its directing mind, Jaroslaw Bucholc, breached, inter alia, Telewizja Polsat S.A. (Polsat) copyrights by selling, in their operation of the Internet website at  
+ www.tvpol.com 
+  subscriptions, upon payment of a monthly fee of $5.00 to $6.00, which allows subscribers to view individual television program episodes including news, sports games and movie programming which is produced by Polsat. Polsat's programming is packaged in the Polsat 2 international television signal (Polsat 2) and broadcast by Polsat from Poland in an encrypted form via satellite.  <FRAGMENT_SUPPRESSED>  
+ [6] 
+  The plaintiffs claim without authorization from Polsat, the producer of the programming on Polsat 2, and without authorization from Telewizja Polska Canada, Inc. (Polska Canada), the exclusive licensee in Canada of the Polsat 2 programming, the defendants decode the Polsat 2 signal, reproduce it without authorization, edit it, and make individual episodes available on a video-on-demand format to the public from their Internet website  
+ www. tvpol.com 
+ .  <FRAGMENT_SUPPRESSED>  
+ [7] 
+  According to the plaintiffs' statement of claim, the defendants' activities also violate paragraph 9(1)(c) of the  
+ Radiocommunications Act 
+  which provides no person shall decode an encrypted subscription programming signal otherwise than under and in accordance with an authorization from the lawful distributor of the signal or feed. Section 18 of the  
+ Radiocommunications Act 
+  provides a person who has suffered loss or damage as a result of conduct, inter alia, contrary to paragraph 9(1)(c) of the  
+ Act 
+ , may, in any court of competent jurisdiction, sue for and recover damages from the person who engaged in the conduct, or obtain such other remedy, by way of injunction, accounting or otherwise, as the court considers appropriate.  <FRAGMENT_SUPPRESSED>  
+ [8] 
+  Plaintiffs also assert violation of s. 7 of the  
+ Trademarks Act 
+  because the defendants' Internet site displays the Polsat trademark and logo (the trademark) on its home page. This trademark is also displayed in the corner of the screen during the viewing of the programming. Moreover, the defendants' website also uses the trademark associated with various individual programs for which the plaintiffs are the authorized licensees. In addition, plaintiffs say the domain name of the infringing site is, itself, a violation of Polska Canada's trademark because that company is the owner in Canada of the trademark TV Polonia in respect of which an application for trademark registration in Canada is pending. Plaintiffs say the defendants' unauthorized use of "TV. Pol" in the domain name is confusing to the public and constitutes a passing-off in contravention of the  
+ Trademarks Act 
+ .  <FRAGMENT_SUPPRESSED>  
+ [9] 
+  In the alternative to statutory damages, the plaintiffs seek general damages for breach of the  
+ Copyright Act 
+ , the  
+ Radiocommunications Act 
+ , and for trademark infringement. Plaintiffs say the defendants' activities are interfering with Polska Canada's ability to enter into distribution agreements with licensed Canadian broadcasting distribution undertakings (BDUs) and its own plans to distribute Polsat 2 to Canadian subscribes via the Internet. They claim this is the very heart of Polska Canada's business and the Polsat 2 agreement which took over two years to finalize. They claim this has resulted in a substantial loss of revenue to Polska Canada.  <FRAGMENT_SUPPRESSED>  
+ [10] 
+  Plaintiffs also seek punitive damages of $500,000 on the basis such damages are generally awarded to express outrage at the "outrageous conduct of the defendants". They say conduct warranting punitive damages is harsh, vindictive, reprehensible and malicious, oppressive conduct and "so extreme in its nature and such that by any reasonable standard it is deserving of full condemnation and punishment" relying upon the decision of the Federal Court of Appeal in  
+  <FRAGMENT_SUPPRESSED>  (F.C.A.), at paragraph 30.  <FRAGMENT_SUPPRESSED>  
+ [11] 
+  They also rely upon the following factors supporting a finding of punitive damages:  <FRAGMENT_SUPPRESSED>  
+ (a) the clear and intentional breach by the defendants of the plaintiffs' intellectual property rights;  <FRAGMENT_SUPPRESSED>  
+ (b) the profits made by the defendants are the direct result of these breaches, aggravated by the inability to determine the extent of these profits;  <FRAGMENT_SUPPRESSED>  
+ (c) the ongoing continuation of breaches in the face of repeated written requests to cease and desist, service of a statement of claim, service of injunctive motion materials and service of Justice Kelen's interim injunction as well as the show-cause order issued by this Court;  <FRAGMENT_SUPPRESSED>  
+ (d) the modifications and improvements the defendants have made to Radiopol's website since the injunction was served;  <FRAGMENT_SUPPRESSED>  
+ (e) the flagrant avoidance of service exhibited by the defendants demonstrating a clear attempt to flout the processes of the Court.  <FRAGMENT_SUPPRESSED>  
+ [12] 
+  The plaintiffs request the injunction granted by Justice Kelen should be extended for a permanent injunction on a go-forward basis.  <FRAGMENT_SUPPRESSED>  
+ [13] 
+  Finally, plaintiffs seek their costs in the default proceedings on a solicitor-client basis.  <FRAGMENT_SUPPRESSED>  
+ [14] 
+  In their motion for default judgment Polsat elected for statutory damages based on s. 38.1 of the  
+ Copyright Act 
+  which reads:  <FRAGMENT_SUPPRESSED>  
+ "38.1(1) Subject to this section, a copyright owner may elect, at any time before final judgment is rendered, to recover,  
+ instead of damages and profits referred to in subsection 35(1) 
+ , an award of statutory damages for all infringements involved in the proceedings, with respect  
+ to any one work or other subject-matter 
+ , for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally,  
+ in a sum of not less than $500 or more than $20,000 as the court considers just 
+ .  <FRAGMENT_SUPPRESSED>  
+ Where defendant unaware of infringement  <FRAGMENT_SUPPRESSED>  
+ "(2) Where a copyright owner has made an election under subsection (1) and the defendant satisfies the court that the defendant was not aware and had no reasonable grounds to believe that the defendant had infringed copyright, the court may reduce the amount of the award to less than $500, but not less than $200.  <FRAGMENT_SUPPRESSED>  
+ Special case  <FRAGMENT_SUPPRESSED>  
+ "(3)  
+ Where  <FRAGMENT_SUPPRESSED>  
+ (a)  
+ there is more than one work or other subject-matter in a single medium 
+ , and  <FRAGMENT_SUPPRESSED>  
+ (b) the awarding of even the minimum amount referred to in subsection (1) or (2) would result in a total award that, in the court's opinion,  
+ is grossly out of proportion to the infringement 
+ ,  <FRAGMENT_SUPPRESSED>  
+ the court may award, with respect to each work or other subject-matter,  
+ such lower amount than $500 or $200, as the case may be, as the court considers just 
+ .  <FRAGMENT_SUPPRESSED>  
+ Collective societies  <FRAGMENT_SUPPRESSED>  
+ "(4) Where the defendant has not paid applicable royalties, a collective society referred to in s. 67 may only make an election under this section to recover, in lieu of any other remedy of a monetary nature provided by this Act, an award of statutory damages in a sum of not less than three and not more than ten times the amount of the applicable royalties, as the court considers just.  <FRAGMENT_SUPPRESSED>  
+ Factors to consider  <FRAGMENT_SUPPRESSED>  
+ "(5)  
+ In exercising its discretion under subsections (1) to (4), the court shall consider all relevant factors, including  <FRAGMENT_SUPPRESSED>  
+ (a) the  
+ good faith or bad faith of the defendant 
+ ;  <FRAGMENT_SUPPRESSED>  
+ (b)  
+ the conduct of the parties before and during the proceedings; and  <FRAGMENT_SUPPRESSED>  
+ (c)  
+ the need to deter other infringements of the copyright in question 
+ .  <FRAGMENT_SUPPRESSED>  
+ No award  <FRAGMENT_SUPPRESSED>  
+ "(6) No statutory damages may be awarded against  <FRAGMENT_SUPPRESSED>  
+ (a) an educational institution or a person acting under its authority that has committed an act referred to in section 29.6 or 29.7 and has not paid any royalties or complied with any terms and conditions fixed under this Act in relation to the commission of the act;  <FRAGMENT_SUPPRESSED>  
+ (b) an educational institution, library, archive or museum that is sued in the circumstances referred to in section 38.2; or  <FRAGMENT_SUPPRESSED>  
+ (c) a person who infringes copyright under paragraph 27(2)(e) or section 27.1, where the copy in question was made with the consent of the copyright owner in the country where the copy was made.  <FRAGMENT_SUPPRESSED>  
+ Exemplary or punitive damages not affected  <FRAGMENT_SUPPRESSED>  
+ "(7)  
+ An election under subsection (1) does not affect any right that the copyright owner may have to exemplary or punitive damages. 
+ " (Emphasis mine)  <FRAGMENT_SUPPRESSED>  
+                                                                                                       <FRAGMENT_SUPPRESSED>  
+ "38.1(1) Sous réserve du présent article, le titulaire du droit d'auteur, en sa qualité de demandeur, peut, avant le jugement ou l'ordonnance qui met fin au litige, choisir de recouvrer, au lieu des dommages-intérêts et des profits visés au paragraphe 35(1), des dommages-intérêts préétablis don't le montant, d'au moins 500 $ et d'au plus 20 000 $, est déterminé selon ce que le tribunal estime équitable en l'occurrence, pour toutes les violations -  
+ relatives à une oeuvre donnée ou à un autre objet donné du droit d'auteur 
+  - reprochées en l'instance à un même défendeur ou à plusieurs défendeurs solidairement responsables.  <FRAGMENT_SUPPRESSED>  
+ Cas particuliers  <FRAGMENT_SUPPRESSED>  
+ "(2) Dans les cas où le défendeur convainc le tribunal qu'il ne savait pas et n'avait aucun motif raisonnable de croire qu'il avait violé le droit d'auteur, le tribunal peut réduire le montant des dommages-intérêts préétablis jusqu'à 200 $.  <FRAGMENT_SUPPRESSED>  
+ Cas particuliers  <FRAGMENT_SUPPRESSED>  
+ "(3) Dans les cas où plus d'une oeuvre ou d'un autre objet du droit d'auteur sont incorporés dans un même support matériel, le tribunal peut, selon ce qu'il estime équitable en l'occurrence, réduire, à l'égard de chaque oeuvre ou autre objet du droit d'auteur, le montant minimal visé au paragraphe (1) ou (2), selon le cas, s'il est d'avis que même s'il accordait le montant minimal de dommages-intérêts préétablis le montant total de ces dommages-intérêts serait extrêmement disproportionné à la violation.  <FRAGMENT_SUPPRESSED>  
+ Société de gestion  <FRAGMENT_SUPPRESSED>  
+ "(4) Si le défendeur n'a pas payé les redevances applicables en l'espèce, la société de gestion visée à l'article 67 - au lieu de se prévaloir de tout autre recours en vue d'obtenir un redressement pécuniaire prévu par la présente loi - ne peut, aux termes du présent article, que choisir de recouvrer des dommages-intérêts préétablis don't le montant, de trois à dix fois le montant de ces redevances, est déterminé selon ce que le tribunal estime équitable en l'occurrence.  <FRAGMENT_SUPPRESSED>  
+ Facteurs  <FRAGMENT_SUPPRESSED>  
+ "(5) Lorsqu'il rend une décision relativement aux paragraphes (1) à (4), le tribunal tient compte notamment des facteurs suivants:  <FRAGMENT_SUPPRESSED>  
+ a) la bonne ou mauvaise foi du défendeur;  <FRAGMENT_SUPPRESSED>  
+ b) le comportement des parties avant l'instance et au cours de celle-ci;  <FRAGMENT_SUPPRESSED>  
+ c) la nécessité de créer un effet dissuasif à l'égard de violations éventuelles du droit d'auteur en question.  <FRAGMENT_SUPPRESSED>  
+ Cas où les dommages-intérêts préétablis ne peuvent être accordés  <FRAGMENT_SUPPRESSED>  
+ "(6) Ne peuvent être condamnés aux dommages-intérêts préétablis:  <FRAGMENT_SUPPRESSED>  
+ a) l'établissement d'enseignement ou la personne agissant sous l'autorité de celui-ci qui a fait les actes visés aux articles 29.6 ou 29.7 sans acquitter les redevances ou sans observer les modalités afférentes fixées sous le régime de la présente loi;  <FRAGMENT_SUPPRESSED>  
+ b) l'établissement d'enseignement, la bibliothèque, le musée ou le service d'archives, selon le cas, qui est poursuivi dans les circonstances prévues à l'article 38.2;  <FRAGMENT_SUPPRESSED>  
+ c) la personne qui commet la violation visée à l'alinéa 27(2)e) ou à l'article 27.1 dans les cas où la reproduction en cause a été faite avec le consentement du titulaire du droit d'auteur dans le pays de production.  <FRAGMENT_SUPPRESSED>  
+ Dommages-intérêts exemplaires  <FRAGMENT_SUPPRESSED>  
+ "(7) Le choix fait par le demandeur en vertu du paragraphe (1) n'a pas pour effet de supprimer le droit de celui-ci, le cas échéant, à des dommages-intérêts exemplaires ou punitifs. <FRAGMENT_SUPPRESSED>  
+ 
+ [15] 
+  The plaintiffs called two witnesses to testify at the proceedings in Toronto: the first witness was Baguslaw Pisarek, Polska Canada's President. The second witness was Thomasz Gladkowski, a consultant to Polska Canada. It is he who developed and maintains a web site named TV Polonia.com. I summarize their testimony relevant to the issue of statutory damages.  <FRAGMENT_SUPPRESSED>  
+ [16] 
+  Polska Canada was first established in 1995 after it became the exclusive licensee in Canada of TV Polonia, one of the channels of the Polish Broadcasting Corporation which is State owned and may be compared in status to the CBC in Canada. In 1997, it became licensed by the CRTC when placed on the CRTC's list of eligible satellite services. Since that time, TV Polonia programming has been distributed to Canadian subscribers through BDUs.  <FRAGMENT_SUPPRESSED>  
+ [17] 
+  In June of 2005, Polska Canada became the exclusive Canadian licensee of the programming of Polsat which is fed through Polsat 2. Polsat is not owned by Poland. It is a commercial joint stock company. The rights and obligations of the plaintiffs are found in an agreement entered into on June 23, 2005.  <FRAGMENT_SUPPRESSED>  
+ [18] 
+  Polska Canada then applied, through a Canadian BDU, to have the Polsat programming listed for distribution to Canadian subscribers by being placed on the list of eligible satellite services. That application to the CRTC was made on July 28, 2005.  <FRAGMENT_SUPPRESSED>  
+ [19] 
+  It is clear from the evidence I heard on Polsat's programming, which consists of TV programs of all types (news, sports, sitcoms, reality TV and movies) it was not distributed to Canadian subscribers because Polska Canada and Polsat had not yet received permission from the CRTC. In addition, while a website for Polsat programming is contemplated, the web site had yet to become operational.  <FRAGMENT_SUPPRESSED>  
+ [20] 
+  The measure of damages to the plaintiffs attributable to the defendants' illegal offerings of the Polsat 2 programming on their website  
+ www.tvpol.com 
+  focused on comparing the activities of the defendants with Polska Canada's known experience with the distribution of TV Polonia's signal in Canada. The testimony was to the effect in terms of prices, Canadian revenues and number of subscribers derived from number of hits or visitors to the defendants' Internet site, the activities of the defendants were comparable in scope and scale to the activities of Polska Canada for its distribution of the programming of TV Polonia. Both witnesses added, however, Polsat's programming would be more attractive than the programming of TV Polonia.  <FRAGMENT_SUPPRESSED>  
+ [21] 
+  At page 108 of the transcript of the proceedings of January 30, 2006, the president of Polska Canada measured at $300,000.00 US the annual revenues derived from Canadian subscribers to the TV Polonia programming which he equated to what the defendants would derive from Canadian subscribers to illegal Polsat programming offered on their website because, as noted, they were broadly similar in terms of subscribers, programming and subscription fees. The apportionment is necessary because both TV Polonia and Polsat programming is offered in the United States through exclusive licenses to Polska U.S.  <FRAGMENT_SUPPRESSED>  
+ [22] 
+  It was Mr. Gladnowski's testimony which explained how the plaintiffs arrived at the total number of 2009 Polsat programs or clips available on the defendants website. This figure arrived at from calculations of regularly-aired programs is based on a run between March, 2005 and November 25, 2005, i.e. a period of 249 days or 35 weeks (see Exhibit "B", Tab S of the plaintiffs Document brief filed at the January 30, 2006 hearing).  <FRAGMENT_SUPPRESSED>  
+ [23] 
+  Mr. Gladnowski confirmed he had verified the Polsat programming during this period and confirmed Polsat's copyright in all programs or clips listed in Exhibit "B", Tab S. He testified Polska Canada had fourteen thousand Canadian subscribers for its TV Polonia programming, and to the fact, after Justice Kelen had issued the interim injunction, the defendants continued their offerings of Polsat programming and even improved the layout of its  
+ www.tvpol.com's 
+  home page and programme offerings. He further testified as to the confusion which had arisen among subscribers to  
+ www.tvpol.com 
+  who thought they were subscribing to TV Polonia.com programming.  <FRAGMENT_SUPPRESSED>  
+ [24] 
+  Finally, Mr. Gladnowski was able to discover the source code to the programming on the defendants' website. He confirmed that the defendants website was operated by RadioPol and that the copyright content was provided by Mr. Bucholc. (see, Document brief, Tab M)  <FRAGMENT_SUPPRESSED>  
+ [25] 
+  As counsel for the plaintiffs put it, the nub of their case in damages rests on the wrongful appropriation of the Polsat material through the decoding by the defendants of the Polsat 2 signal containing that programming. The figure of 2009 programs appropriated by the defendants assumes the Polsat 2 signal was decoded because those programs were available to subscribers on the defendants' website. In this context, the basis for damages is not focused on how many Canadian subscribers may view Polsat programming on the defendants' website.  <FRAGMENT_SUPPRESSED>  
+ [26] 
+  As noted the plaintiffs have elected for statutory damages pursuant to s. 38.1 of the  
+ Act 
+  in lieu of damages and profits.  <FRAGMENT_SUPPRESSED>  
+ [27] 
+  The plaintiffs seek the maximum $20,000 for 2,009 program clips illegally decoded from Polsat 2 and illegally reproduced, edited and made available on their website.  <FRAGMENT_SUPPRESSED>  
+ [28] 
+  The jurisprudence interpreting s. 38.1 of the  
+ Act 
+  is sparse. This provision came into force only on October 1, 1999. The notion of statutory damages in lieu of damages and profits (provided for in s. 34 and 35 of the  
+ Act 
+ ) is derived from U.S. legislation. Two decisions of this Court are relevant. First, there is the decision of  
+  <FRAGMENT_SUPPRESSED>  a decision of Justice Gibson.  <FRAGMENT_SUPPRESSED>  
+ [29] 
+  I need not refer to a third decision, that of  
+  <FRAGMENT_SUPPRESSED> ; [2003] O.J. No. 3144 (Sup. Ct.), a decision of Ducharme, J., of the Ontario Superior Court of Justice. That case applied s. 38.1(2) of the  
+ Act 
+  to award the sum of $ 200 for each of 9 photographs and 5 enlargements. This subsection has no application in this case. $200 per work is less than the range provided for in paragraph 38.1(1) which is between $500 and $20,000 per work.  <FRAGMENT_SUPPRESSED>  
+ [30] 
+  In  
+ Wing 
+ , supra, it appears the plaintiff was seeking the maximum statutory award of $20,000 based on  
+ one 
+  infringing publication of a diary which the plaintiff had been willed by the author.  <FRAGMENT_SUPPRESSED>  
+ [31] 
+  Justice Nadon's decision focussed on paragraph 38.1(5). He wrote the following at paragraphs 72, 73 and 74 of his decision:  <FRAGMENT_SUPPRESSED>  
+ "[72] The Applicants request statutory damages pursuant to s. 38.1 of the  
+ Act 
+ , in the amount of $20,000. The provisions on statutory damages came into force on October 1, 1999. For this reason, there is no case law on these provisions at this point.  <FRAGMENT_SUPPRESSED>  
+ "[73] According to s. 38.1(5), in exercising its discretion to award statutory damages, the Court  
+ should consider all relevant factors, including the good faith or bad faith of the defendant, the conduct of the parties before and during the proceedings, and the need to deter other infringements of the copyright in question 
+ .  <FRAGMENT_SUPPRESSED>  
+ "[74] In my opinion, statutory damages should be granted. The infringement in this case  
+ was blatant 
+ ; the Respondent reproduced the  
+ Diary in its entirety 
+ . Although the Respondent was not publishing the Diary in bad faith from the start,  
+ she was warned several times that her conduct 
+  was infringing the Applicants' copyright.  
+ She refused repeatedly to cease infringing the copyright 
+  and  
+ attempted to sell 
+  'her' copyright to the Applicants for the sum of US $125,000. In my opinion, as of the moment  
+ she received notice of her infringement, her conduct was reprehensible 
+ . In addition, with regard to the third criteria, and considering the Respondent's behaviour, there is a definite need to deter further infringement of the copyright in question. Consequently, in my view, the Applicants are entitled to a sum of $10,000 on this count." (Emphasis mine)  <FRAGMENT_SUPPRESSED>  
+ [32] 
+  In  
+ L.S. Entertainment Inc. 
+ , supra, the infringement in respect of which statutory damages were claimed related to fourteen films seized during the execution of an Anton Piller order. The plaintiff's Asian language motion picture films had been reproduced in video-cassette tape format and VCD and DVD formats. I cite paragraphs 61 through 66 of Justice Gibson's decision:  <FRAGMENT_SUPPRESSED>  
+ "¶ 61 Turning to subsection 38.1(1), the Plaintiffs' election here was clearly made before final judgment.  
+ The Plaintiffs seek statutory damages in the amount of $1,000 for each of the fourteen (14) seized films 
+ , an amount toward the lower end of the range provided in subsection 38.1(1).  <FRAGMENT_SUPPRESSED>  
+ "¶ 62 Counsel for the Plaintiffs urges that s. 38.1(2) is inapplicable on the facts of this matter. In support of this submission, counsel cites the affidavit of Michael Leung sworn the 28th of September 2001 and filed in support of the application for an Anton Piller Order herein. More particularly, counsel refers to paragraphs 27 to 39 of that affidavit wherein Mr. Leung details the manner in which the Plaintiffs' alleged copyrights in the films in issue were brought to the attention of the Defendants. This evidence remains uncontradicted in substance on the material before the Court. I accept counsel's submissions in this regard.  <FRAGMENT_SUPPRESSED>  
+ "¶ 63 Section 38.1(3) provides for circumstances in which the minimum award of statutory damages may be reduced. Counsel for the Plaintiffs urges that the Court not exercise its discretion under this subsection. Once again, I accept counsel's submission in this regard.  <FRAGMENT_SUPPRESSED>  
+ "¶ 64 Section 38.1(4) is clearly not applicable on the circumstances of this matter.  <FRAGMENT_SUPPRESSED>  
+ "¶ 65  
+ I turn then to the factors to be considered by a court in exercising its discretion regarding the award of statutory damages. 
+  Section 38.1(5) details three factors: the good faith or bad faith of the Defendants; the conduct of the parties before and during the proceedings; and the need to deter other infringements of the copyrights in question, while noting that a court should consider all relevant factors. I have accepted that the Plaintiffs' claimed copyrights in the films in issue were brought to the attention of the Defendants. The Defendants nonetheless continued to display and rent out copies of the films in issue and would appear to have also made copies of the films in issue without the authorization of the Plaintiffs. I am satisfied that, in advance of the commencement of these proceedings, the Defendants acted in bad faith. Further, as discussed earlier in these reasons, I am satisfied that the conduct of the Defendant Chen, both on her own behalf and on behalf of Formosa, during the course of these proceedings, has been reprehensible. Finally, given the nature of the business in which the Defendants are engaged and the nature of the films in issue and other films and like material in which the Plaintiffs claim copyright, I am satisfied that deterrence is a significant factor.  <FRAGMENT_SUPPRESSED>  
+ "¶ 66  <FRAGMENT_SUPPRESSED>  
+ 
+ . . . . .  <FRAGMENT_SUPPRESSED>  
+ 'With the exception of the reference to the Defendant or Respondent there herself claiming copyright and attempting to sell "her" copyright, I am satisfied that all of the foregoing is equally applicable here.  
+ Justice Nadon reduced the amount of statutory damages claimed by half, to $10,000 for infringement of a single copyrighted work. I am satisfied that the amount claimed here, $1,000 in respect of each of the fourteen (14) seized films in issue, some or all in multiple copies, is entirely reasonable. I will award statutory damages in favour of the Plaintiffs and against the Defendants Formosa and Chen, jointly and severally, in the aggregate amount of $14,000. 
+ '" (Emphasis mine)  <FRAGMENT_SUPPRESSED>  
+ [33] 
+  The assessment of the plaintiffs' statutory damages at the maximum amount per work of $20,000 for 2009 clips raises important questions both in terms of the proper statutory interpretation of various provisions in s. 38.1 of the  
+ Act 
+  as well as the selection of the appropriate amount of statutory damages per work.  <FRAGMENT_SUPPRESSED>  
+ [34] 
+  I say this for the following reasons:  <FRAGMENT_SUPPRESSED>  
+ 1. Subject to other subsections in s. 38.1 of the  
+ Act 
+ , an award of statutory damages is for "all infringements involved in the proceedings".  <FRAGMENT_SUPPRESSED>  
+ 2. Those statutory damages are in respect to "any one work or other subject-matter for which any one infringer is liable individually ...".  <FRAGMENT_SUPPRESSED>  
+ 3. The range cannot be less than $500 or more than $20,000 "as the Court considers just". This range is subject to discretionary reductions identified below.  <FRAGMENT_SUPPRESSED>  
+ 4. In the case of an innocent infringer, the Court may reduce the amount of the award of statutory damages to less than $500 but not less than $200 as provided for in s. 38.1(2).  <FRAGMENT_SUPPRESSED>  
+ 5. As provided for in s. 38.1(3), where "there is more than one work or other subject-matter in a single medium and the awarding of even the minimum amount previously referred to would result in a total award that, in the Court's opinion, is grossly out of proportion to the infringement, the Court may award with respect to each work or other subject-matter, such lower amount than $500 or $200 as the Court considers just".  <FRAGMENT_SUPPRESSED>  
+ 6. The defined three factors referred to in s. 38.1(5) do not seem to be exclusive relevant factors.  <FRAGMENT_SUPPRESSED>  
+ 7. Section 38.1(7) provides an election for statutory damages does not affect the right of the copyright owner to have exemplary or punitive damages.  <FRAGMENT_SUPPRESSED>  
+ [35] 
+  The defendants did not appear before the Court on January 30, 2006 on the assessment of statutory damages. The Court was deprived of the benefit of their representations on the proper application and interpretation of the statutory damages provided in s. 38.1 of the  
+ Act 
+ .  <FRAGMENT_SUPPRESSED>  
+ [36] 
+  As noted, this section of the  
+ Act 
+  is based on a substantially similar provision found in US legislation first enacted in 1909 and then revised in 1976. This provisions has been the subject of many judicial decisions in the United States. Counsel for the plaintiffs did not refer me to appropriate American jurisprudence or American textbooks. In my view, an analysis of US law is important for proper appreciation of s. 38.1 of the Canadian Statute.  <FRAGMENT_SUPPRESSED>  
+ [37] 
+  When examining s. 38.1 of the  
+ Act 
+  as a whole, it is evident to me the over-arching mandate of a judge assessing statutory damages in lieu of damages and loss of profits is to arrive at a reasonable assessment in all of the circumstances in order to yield a just result.  <FRAGMENT_SUPPRESSED>  
+ [38] 
+  Such a mandate clearly flows from the structure of s. 38.1 which provides an initial range per work of statutory damages from a minimum of $500 to a maximum of $20,000 per work.  <FRAGMENT_SUPPRESSED>  
+ [39] 
+  This initial range may be cut back in two circumstances: first, in the case of an innocent defendant which is not the case here and second in the case where there is more than one work in a single medium and where awarding the minimum per work would yield a total award that is grossly out of proportion to the infringement.  <FRAGMENT_SUPPRESSED>  
+ [40] 
+  The purpose of providing for statutory damages in lieu of damages and profits is because actual damages are often difficult to prove and it is only the promise of statutory damages that will induce a copyright owner to invest and enforce his copyright and only the threat of a statutory award will deter infringers by preventing their unjust enrichment (see Goldstein, on  
+ Copyright 
+ , Third Edition, Aspen Publishers at page 14-38).  <FRAGMENT_SUPPRESSED>  
+ [41] 
+  Professor Goldstein indicates at page 14-41 of his text one of the benchmarks or guide American Courts use at arriving at a just statutory damage award is the amount of actual damages the plaintiff would have probably received had he been able to prove them and elected for statutory damages.  <FRAGMENT_SUPPRESSED>  
+ [42] 
+  Professor Goldstein states at page 14-43 of his text one of the factors used in assessing statutory damages is the profit reaped by a defendant.  <FRAGMENT_SUPPRESSED>  
+ [43] 
+  Finally, Professor Goldstein discusses at pages 14-52 to 14-56 of his book the concept of multiple works in cases where the court action involves infringement of more than one separate and independent work. The accepted test in the United States is whether each expression has an independent economic value and is, in and of itself, viable. Based on this test he cites US caselaw to the effect each episode of a TV programme produced and used independently constituted separate works and is not limited to the series as a whole.  <FRAGMENT_SUPPRESSED>  
+ [44] 
+  I have already mentioned the interpretation of the statutory damages provided for in s. 38.1 of the  
+ Act 
+  is in its infancy.  <FRAGMENT_SUPPRESSED>  
+ [45] 
+  I note, however, that John McKeown in the 4th Edition of  
+ Fox on Canadian Copyright and Industrial Design 
+  published by Thomson/Carswell would appear generally to endorse the principles which Professor Goldstein has identified in U.S law on such points as:  <FRAGMENT_SUPPRESSED>  
+ "1. There should be some correlation between actual damages and statutory damages even though s. 38.1 does not speak of actual damages (see page 24.77)  <FRAGMENT_SUPPRESSED>  
+ 2. If a defendant copies several different works the plaintiff is entitled to statutory damages for each work infringed (p. 24.77)  <FRAGMENT_SUPPRESSED>  
+ 3. Statutory damages are not a bar to punitive damages but if deterrence has already been factored in, punitive damages should not be awarded. (p. 24.78) <FRAGMENT_SUPPRESSED>  
+ 
+ [46] 
+  Based on the evidence received during the January hearing, the wording of s. 38.1 of the  
+ Act 
+  in its context as well as how similar US law has been applied, I arrive at the following conclusions.  <FRAGMENT_SUPPRESSED>  
+ [47] 
+  The level of statutory damages sought by the plaintiffs is clearly inappropriate. While I am prepared to accept each of the 2009 programmes or clips appropriated by the defendants constitutes a separate work which has been infringed, I find the application of the per work statutory maximum would yield an unjust result disproportionate to any injury suffered by the plaintiffs or any reasonable assessment of profits earned by the defendants in their infringement.  <FRAGMENT_SUPPRESSED>  
+ [48] 
+  Parliament was alive to the problem which might arise in the case of the infringement of multiple works pirated from satellite signals. This is why Parliament wrote in an adjustment factor in paragraph 38.1(3) of the  
+ Act 
+  which enables the assessment of damages per work below $200 in order to make damages proportionate to the infringement.  <FRAGMENT_SUPPRESSED>  
+ [49] 
+  The evidence shows the plaintiffs' Polsat programming was not being aired in Canada when the Polsat 2 signal was being decoded in the United States and being offered to Canadian subscribers on the defendants' website. The reason for this is because the plaintiffs had yet to be licensed for the distribution of Polsat programming in Canada. In these circumstances, the plaintiffs' loss of revenue is minimal but such factor does not isolate the defendants from an award of damages because of the provisions contained in s. 38.1(5) of the  
+ Act 
+ .  <FRAGMENT_SUPPRESSED>  
+ [50] 
+  The evidence clearly demonstrates a need for deterrence, the defendants' bad faith in ignoring the plaintiffs' offer not to litigate if the infringement ceased, and the defendants' conduct during the proceedings which is to ignore the Court's process while at the same time enhancing their product-offerings of Polsat programming.  <FRAGMENT_SUPPRESSED>  
+ [51] 
+  In all of the circumstances, my view is that a per work assessment at $150 per work for 2009 works strikes an appropriate balance in arriving at a just damage award in the framework called for by s. 38.1 of the  
+ Act 
+ .  <FRAGMENT_SUPPRESSED>  
+ [52] 
+  I decline to award punitive damages. The defendants have been found guilty of contempt and fined. The individual defendant has been sentenced to imprisonment if the offending website is not dismantled. This and the other factors mentioned by the Supreme Court of Canada in  
+  <FRAGMENT_SUPPRESSED>  lead to the conclusion that punitive damages would be inappropriate.  <FRAGMENT_SUPPRESSED>  
+ [53] 
+  I also decline to award damages to the plaintiffs on account of breach under the  
+ Radio Communications Act 
+ , on the grounds such an award would constitute double recovery as would damages under the  
+ Trade-marks Act 
+ .  <FRAGMENT_SUPPRESSED>  
+ [54] 
+  On the other hand I award the plaintiffs solicitor-client costs. It seems to me the conduct of the defendants has been totally unreasonable and reprehensible.  <FRAGMENT_SUPPRESSED>  
+ ORDER  <FRAGMENT_SUPPRESSED>  
+ [55] 
+  THIS COURT ORDERS that  <FRAGMENT_SUPPRESSED>  
+ 1. The plaintiffs are awarded the sum of $301,350 as statutory damages payable jointly and severably by the defendants;  <FRAGMENT_SUPPRESSED>  
+ 2. Justice Kelen's interim injunction against the defendants is made permanent;  <FRAGMENT_SUPPRESSED>  
+ 3. The plaintiffs are awarded solicitor-client costs in their action.  <FRAGMENT_SUPPRESSED>  
+ Judgment for plaintiffs.  <FRAGMENT_SUPPRESSED>  
+ Editor: Angela E. McKay/gs  <FRAGMENT_SUPPRESSED>  
+ [End of document]  <FRAGMENT_SUPPRESSED>  
+
+
+

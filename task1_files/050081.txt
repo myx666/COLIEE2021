@@ -1,0 +1,1065 @@
+INDEX
+-
+paras.
+Introduction
+1-2
+Background
+3-25
+Procedural History
+26-43
+Legal Framework
+44-59
+Preliminary Issues
+60-93
+Evidence
+-
+--
+Ministers' Witnesses
+94
+---1. Mr. Marc Towaij
+95-105
+---2. Sukhvindar
+106-157
+--
+Mr. Almrei's Witnesses
+-
+---1. David Stokes
+158-160
+---2. Mr. Chris Shannon
+161-163
+---3. Mr. Alexandre Trudeau
+164-167
+---4. Mr. Hassan Ahmed
+168-172
+---5. Tracey Thomas-Falconar
+173-176
+---6. Dr. Mustafa Fahmy
+177-179
+---7. Dr. Hafizur Rahman
+180-183
+---8. Mr. Thomas Quiggin
+184-217
+Submissions
+-
+--
+The Case for Continued Detention
+218-226
+--
+The Case for Release
+227-234
+Analysis
+235-237
+--1. Reasons for Detention
+238-264
+--2. Length of Detention
+265-270
+--3. Reasons for Delay in Deportation
+271-273
+--4. Anticipated Future Length of Detention
+274-275
+--5. Availability of Alternatives to Detention
+276-283
+Conclusion
+284-290
+Introduction
+[1]
+Mosley, J.
+: Hassan Almrei has been detained since October 2001 for the purpose of his removal from the country as a risk to Canada's national security. For the reasons that follow, I have concluded that his continued detention can no longer be justified and that he should be released under strict conditions pending a determination of the reasonableness of the security certificate under which he is presently detained, and if the certificate should be found to be reasonable, until a determination is made whether he can be removed from Canada to his country of nationality or some other country.
+[2]
+Mr. Almrei is presently detained under a certificate issued on February 22, 2008. The grounds for the decision of the Minister of Citizenship and Immigration and the Minister of Public Safety (the "Ministers") to issue the certificate will be closely examined at a later date. This decision deals only with the question of whether Mr. Almrei should continue to be detained pending the outcome of the certificate proceedings. His history, as the subject of a security certificate issued in 2001, has been thoroughly documented in previous decisions of this Court, the Federal Court of Appeal and the Supreme Court of Canada. A summary of the background to these proceedings follows to provide a context for this detention review.
+Background
+[3]
+Mr. Almrei was born in 1974  <FRAGMENT_SUPPRESSED> . His father moved to Saudi Arabia in 1980 and obtained a job as a teacher. The family joined him there in 1981. The father was involved with the Muslim Brotherhood, a movement with deep roots in the Sunni Muslim world and which has a history of opposition to the Syrian government. As a result, the Brotherhood is proscribed  <FRAGMENT_SUPPRESSED> . Family members have been detained for prolonged periods  <FRAGMENT_SUPPRESSED>  because of their involvement with the movement. Almrei graduated from high school in Saudi Arabia in 1992 and was thereafter self-employed.
+[4]
+Based on what he disclosed in a November 2002 statutory declaration and his testimony in the earlier proceedings, in 1990 Almrei travelled to Pakistan to join the resistance to the communist regime which remained in place in Afghanistan after the Soviet withdrawal in 1989. He became ill and returned to Saudi Arabia without going to Afghanistan. Several months later he returned and stayed at a guesthouse and a camp controlled by Abdul Rasul Sayyaf, one of the leaders of the mujahideen resistance against the Soviets and their puppet regime in Kabul. Sayyaf later became a member of the Afghan Parliament said to be close to the Karzai government.
+[5]
+Almrei received basic training with an AK-47 assault rifle at Sayyaf's camp. He says he spent his time there as an imam reading prayers and teaching the Koran. He left and returned to school in Saudi Arabia. About a year later he returned to Pakistan for several months and went to the camp for a few weeks during which he again served as an imam.
+[6]
+With Saudi and U.S. financial support, the Afghan government was ousted from power in 1992. In 1994 Almrei travelled back to Pakistan and to Ibn al-Khattab's camp in Kunduz, Afghanistan where preparations were underway to carry the jihad to Tajikistan. Almrei stayed for several months before returning to Saudi Arabia. He later returned to Kunduz and stayed for five months in 1995. During that period he travelled twice to Tajikistan and took part in scouting Russian positions. He says he did not engage in combat. He returned to Saudi Arabia and continued a business of buying and selling honey. His last visits to Pakistan were in 1996 and 1997.
+[7]
+Ibn al-Khattab later became involved in the insurgency in Chechnya and was killed by the Russians in 2002. Almrei remained in touch with al-Khattab and raised funds for him prior to coming to Canada. It is alleged that al-Khattab and the group he led were linked to terrorist acts in Russia although Khattab denied any involvement in those events.
+[8]
+In 1998 Almrei applied unsuccessfully for a visa to visit Canada. He then made his way here in January 1999 using a false United Arab Emirates passport and, upon arriving, claimed protection as a Convention refugee. The Immigration and Refugee Board granted him that status in June 2000. He applied for permanent residence in November 2000. Almrei came to the attention of the Canadian Security and Intelligence Service ("CSIS") shortly after his arrival in Canada. He was interviewed by CSIS in October 2001 at his former lawyer's office.
+[9]
+Almrei acknowledges that he failed to disclose details about his travels to Pakistan, Afghanistan and Tajikistan to the Board, in his application for permanent residence and during the interview with CSIS. He acknowledges that he possessed a passport issued by the Muslim Brotherhood, that he travelled to Canada on a false passport and that he also held a false Kuwaiti driver's licence and a Yemeni passport. He admits that he assisted in procuring a false passport for Nabil al-Marabh and referred other persons to a third party who provided false drivers' licenses. Nabil al-Marabh was arrested in the United States, detained and subsequently deported to Syria. Almrei admits assisting a woman to undergo a false marriage of convenience to remain in Canada. He denies being part of a forgery ring.
+[10]
+Almrei was living and working in Toronto when a certificate naming him as a security risk was signed by the Minister of Citizenship and Immigration and the Solicitor General of Canada. The certificate declared that based on a security intelligence report received and considered by the Ministers, they were of the opinion Mr. Almrei was a person described in subparagraphs 19(1)(e)(iii), 19(1)(d)(iv)(C), 19(1)(f)(ii) and 19(1)(f)(iii) of the
+Immigration Act
+, R.S.C. 1985, c. I-2, as amended, ("the former
+Act
+"). Those subparagraphs, in essence, refer to persons who there are reasonable grounds to believe have or will engage in terrorism or are members of organizations that have or will engage in terrorism. Almrei was taken into custody and detained on October 19, 2001, in accordance with subsection 40.1(1) of the former
+Act
+.
+[11]
+The matter was then referred to the Federal Court for a determination as to the reasonableness of the certificate. Hearings were held in October and November 2001. Following a ruling that he could not testify in a closed session, as he had requested, Mr. Almrei declined to provide evidence in that proceeding. The Court concluded that on the evidence before it, heard in the absence of Mr. Almrei and his counsel and in closed session:
+"The confidential information, which I am unable to disclose, strongly supports the view that Mr. Almrei is a member of an international network of extremist individuals who support the Islamic extremist ideals espoused by Osama Bin Laden and that Mr. Almrei is involved in a forgery ring with international connections that produces false documents."
+Almrei (Re)
+, [2001] F.T.R. Uned. 917; [2001] F.C.J. No. 1772;  2001 FCT 1288, at para. 31 ("
+Almrei 1
+").
+[12]
+A deportation order was issued against Mr. Almrei on February 11, 2002 after an inquiry in which it was determined that he was a member of an inadmissible class for the reasons set out in the certificate. Mr. Almrei filed a motion in the Federal Court on September 23, 2002 for a review of his detention pursuant to subsection 84(2) of the
+Immigration and Refugee Protection
+Act
+, S.C. 2001, c. 27 ("
+IRPA
+"), which, as it then read, stated that:
+"A judge may, on application by a foreign national who has not been removed from Canada within 120 days after the Federal Court determines a certificate to be reasonable, order the foreign national's release from detention, under terms and conditions that the judge considers appropriate, if satisfied that the foreign national will not be removed from Canada within a reasonable time and that the release will not pose a danger to national security or to the safety of any person."
+[13]
+On January 13, 2003, a Minister's Delegate formed the opinion pursuant to paragraph 115(2)(b) of the
+IRPA
+that Mr. Almrei was a danger to the security of Canada and could be removed to Syria, his country of nationality. Mr. Almrei filed an application for leave and for judicial review of that decision and brought a motion to stay his removal until his application for judicial review was considered and determined. That stay application was withdrawn on the Ministers' undertaking not to remove Mr. Almrei until the judicial review application was dealt with. The detention review was suspended on consent pending the outcome of the judicial review. In April 2003, the Minister of Citizenship and Immigration consented to the application acknowledging that serious errors had been made in the danger opinion.
+[14]
+On October 23, 2003, a second Minister's Delegate made a determination that Mr. Almrei would not be at risk of torture if returned to Syria. In the alternative, the delegate found, if Almrei would be at risk of torture if returned to Syria, his removal to torture was justified because of the risk he presented to the security of Canada. Mr. Almrei filed an application for leave and for judicial review of that decision and obtained a stay of the execution of the deportation order.
+[15]
+A determination of Mr. Almrei's application for release was delayed during the challenge to the danger opinion but hearings resumed and were completed in January 2004. The Court was not satisfied that Mr. Almrei had met the threshold test that he would not be removed from Canada within a reasonable time and concluded that the applicant had also failed to meet the onus to satisfy the Court on a balance of probabilities that his release would not pose a danger to national security or to the safety of any person. A challenge to the detention provisions of
+IRPA
+as infringing sections 7 and 12 of the
+Canadian Charter of Rights and Freedoms
+,
+Part I of the
+Constitution Act, 1982
+, being Schedule B to the
+Canada Act 1982
+(U.K.), 1982, c.11 ("the
+Charter
+") was rejected:
+ <FRAGMENT_SUPPRESSED> ; 249 F.T.R. 53; 2004 FC 420 ("
+Almrei 2
+").
+[16]
+This decision was upheld by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> ; 330 N.R. 73; 2005 FCA 54 ("
+Almrei 3
+"). The Court of Appeal set out a number of principles for the interpretation and application of subsection 84(2) of
+IRPA
+and agreed with the conclusion reached that a case for Mr. Almrei's release had not been made out since the condition that removal would not occur within a reasonable time had not been met. The Court of Appeal did not find it necessary to consider whether Almrei's release would or would not pose a threat to national security. It determined that even if it were to assume that Mr. Almrei's detention constituted cruel and unusual treatment contrary to section 7 and 12 of the
+Charter
+, the remedy he sought, release from custody, was not the appropriate and just remedy that section 24 of the
+Charter
+would require. Leave to appeal to the Supreme Court of Canada from this decision was granted.
+[17]
+The October 2003 determination by a Minister's delegate that Mr. Almrei would not be at risk if returned to Syria was overturned upon judicial review in 2005. The Court concluded that the delegate erred in failing to consider documentary evidence that Almrei would be at risk of torture or cruel and unusual treatment or punishment if returned to Syria and erred in founding her opinion that he is a danger to the security of Canada on evidence that was not before her:
+ <FRAGMENT_SUPPRESSED> ; 262 F.T.R. 7; 2005 FC 355 ("
+Almrei 4
+").
+[18]
+A second application for release was filed by Mr. Almrei in May 2005. After extensive evidentiary hearings and submissions, and applying the principles which had been laid down by the Federal Court of Appeal  <FRAGMENT_SUPPRESSED>  3
+, the Court was satisfied that Mr. Almrei had established that his removal was not imminent and would not occur within a reasonable time. However, on the basis of the public record, the Court found that Almrei had not discharged his onus to establish that he was not a danger to the security of Canada or to the safety of any person or that the danger that he posed could be neutralized by the mechanisms that were posed to ensure his compliance. In dismissing the application the Court's conclusions were summed up in its reasons at paragraph 432:
+"Mr. Almrei's application for release is brought under subsection 84(2) of the
+IRPA
+and the onus of proof is on him to establish, on a balance of probabilities, that he will not be removed within a reasonable time and that he is not a danger to national security or to the safety of any person. He has premised his application wholly on the grounds that he will not be removed within a reasonable time and that he is not such a danger. The statutory criteria in the provision are conjunctive. Mr. Almrei has met one criterion but not the other. The statute mandates that his application be dismissed. It remains open to him to apply again for release at any time that he is able to establish a substantial change in circumstances. It also remains open to him, under subsection 84(1) of the
+IRPA
+, to apply to the Minister for release for removal to a country other than  <FRAGMENT_SUPPRESSED> ; 270 F.T.R. 1; 2005 FC 1645 ("
+Almrei 5
+").
+[19]
+Mr. Almrei's appeal from the decision of the Federal Court of Appeal (
+Almrei 3
+, above) was merged with those in the security certificate cases involving Adil Charkaoui and Mohammed Harkat. Reasons for judgment were issued by the Supreme Court of Canada on February 23, 2007  <FRAGMENT_SUPPRESSED> , Re
+, [2007] 1 S.C.R. 350; 358 N.R. 1; 2007 SCC 9 ("
+Charkaoui 1
+"). In its decision, the Supreme Court concluded that the
+IRPA
+regime for determining the reasonableness of security certificates and for reviewing the detention of named persons was inadequate to protect their interests when classified information was provided to a designated judge of the Federal Court during the closed proceedings.
+[20]
+The Supreme Court declared that the procedures under
+IRPA
+for the judicial confirmation of certificates and for the review of the detention of the named persons violated section 7 of the
+Charter
+and had not been shown to be justified under section 1. Accordingly, they were of no force or effect. In order to give Parliament time to amend the law, the Supreme Court suspended its declaration with respect to the invalidity of the certificate procedure for one year from the date of the judgment. After that year, the certificates concerning Mr. Almrei and any other named person that had been declared "reasonable" would lose that status. Should the Ministers wish to issue a certificate thereafter, a fresh determination of reasonableness would be required under the new process to be devised by Parliament. Similarly, any detention review occurring after the delay would be subject to the new process: (
+Charkaoui 1
+, at para. 140).
+[21]
+However, the Supreme Court declined to declare that holding the named persons for prolonged periods in custody in itself violated
+Charter
+guarantees so long as there was in place "a process that provides regular opportunities for review of detention". Guidelines were set out which the reviewing courts must adhere to (
+Charkaoui 1
+, paras. 110-123). As for the timeliness of such reviews, the Court determined that the legislation, as it then read, arbitrarily denied a prompt hearing for foreign nationals and thereby infringed section 9 of the
+Charter
+. The Court crafted an immediate remedy by striking subsection 84(2) of the
+Act
+and revising the terms of subsection 83(2) to give foreign nationals the same entitlements to timely and regular detention reviews as had been enjoyed by permanent residents. This remedy was not subject to the 12 month suspension of invalidity.
+[22]
+Thus, Mr. Almrei's third application for release from detention was considered by this Court applying the guidelines identified by the Supreme Court  <FRAGMENT_SUPPRESSED>  1
+but before Parliament's legislative response was in place.  <FRAGMENT_SUPPRESSED> ; 316 F.T.R. 49; 2007 FC 1025 ("
+Almrei 6
+"), the Court concluded, at paragraph 56 of its reasons, that Almrei should be released from detention given the length of time he had been in custody and that his removal from Canada would not be accomplished within a reasonable time. However, the Court was not satisfied, on a balance of probabilities, that the proposed terms and conditions of release would contain or diminish the risk that Mr. Almrei was found to represent. Hence the application was dismissed.
+[23]
+The legislative response to
+Charkaoui 1
+was enacted within the one year timeline set by the Supreme Court.
+An
+Act
+to amend the Immigration and Refugee Protection
+Act
+(certificate and special advocate) and to make a consequential amendment to another
+Act
+, S.C. 2008, c. 3 ("
+Bill C-3
+") received Royal Assent on February 14, 2008 and came into force on February 22, 2008. The amendments to
+IRPA
+enacted through
+Bill C-3
+provided for the appointment of special advocates to represent the interests of named persons during closed security certificate proceedings and revised the detention review procedures set out in
+IRPA
+.
+[24]
+On the same date that the amendments to
+IRPA
+came into effect, the Ministers signed a new certificate naming Mr. Almrei and four other persons as security risks and referred the certificates to the Federal Court for review under subsection 77(1) of
+IRPA
+, as amended. Under the terms of the transitional provisions in
+Bill C-3
+, anyone then in detention under a previously issued certificate was to remain in detention and the Court was directed to commence a review of the reasons for continued detention within six months. As of February 22, 2008 that applied only to Mr. Almrei who remained in the Kingston Immigration Holding Centre ("KIHC"), the other detainees having all been conditionally released.
+[25]
+On June 26th 2008, the Supreme Court issued a related decision respecting disclosure in security certificate cases. This arose in the context of a controversy over CSIS' policy not to preserve notes and other original records of its investigations. The Supreme Court declared that CSIS was subject to a duty to preserve such records and that procedural fairness in certificate proceedings required that Ministers disclose the entire file held by CSIS to the designated judge. Subject to the appropriate filtering, the judge would then determine what information was to be disclosed to the named person and his counsel:
+Charkaoui, Re
+, [2008] S.C.J. No. 39; 376 N.R. 154; 2008 SCC 38 ("
+Charkaoui 2
+").
+Procedural History
+[26]
+The Ministers filed a Notice of Referral of Certificate and a Security Intelligence Report, in both public and top-secret versions, with the designated proceedings registry of the Federal Court on February 22, 2008. This matter, as with each of the security certificates signed on that date was immediately assigned to be managed as a specially managed proceeding. The Ministers filed an annotated Security Intelligence Report ("SIR") classified as top-secret. A public summary of the SIR entitled a Statement Summarizing the Information, was served on Mr. Almrei.
+[27]
+A series of common case management conferences followed and general directives and orders were issued to ensure the efficient and economical use of judicial resources and court facilities. Questions arose with regard to the appointment of counsel and special advocates and potential conflicts of interest that required mediation. Counsel of record for Mr. Almrei withdrew during this period of time and for some weeks Mr. Almrei was not formally represented while he sought to retain counsel and funding issues were addressed.
+[28]
+By the direction of the Chief Justice dated May 6, 2008 the undersigned was designated to be the presiding judge in these proceedings. Steps were taken to develop a litigation plan at this time. However, a motion was brought on behalf of Mr. Almrei to secure funding for counsel which was set down for hearing in July 2008. Pending the outcome of that motion, the Court dealt with several preliminary matters with the cooperation of Mr. Almrei and his as yet unretained counsel. In a hearing by teleconference on June 3, 2008, Mr. Almrei advised the Court that he wished to have two special advocates appointed. Accordingly, by Order dated June 5, 2008, Mr. Paul Copeland and Mr. Gordon Cameron were appointed to act as special advocates in this proceeding pursuant to paragraph 83(1)(b) of the
+IRPA
+.
+[29]
+Further to discussion with counsel for the Ministers, the special advocates and putative counsel for Mr. Almrei, appearing without prejudice as the funding issue remained unresolved, a tentative litigation plan was issued by direction of the Court on June 6, 2008 (revised on June 23rd) setting a schedule for the special advocates to meet with Mr. Almrei, review the classified documents and fixing dates for open and closed hearings.
+[30]
+The funding issue, common to each of the five certificate cases, was resolved through a mediation conducted by Justice James Hugessen in July 2008. Counsel of record for Mr. Almrei was formally retained at that time. On August 8, 2008 the Court confirmed that Mr. Almrei's detention review hearing would be opened by teleconference on August 20, 2008 and would resume during the weeks of September 15 and September 29, 2008.
+[31]
+With the consent of the parties, the detention review was adjourned due to a number of outstanding substantive and procedural issues, including a constitutional motion respecting communication between the special advocates and Mr. Almrei and his counsel which was filed on July 22, 2008.
+[32]
+As three of the other persons named in security certificates wished to be joined as interveners to the constitutional motion and agreed to be bound by the result, that matter was referred to case management for assignment to another judge for determination. The Chief Justice heard the motion in September and October and rendered his decision on November 3, 2008.
+[33]
+The decision disposed of several questions of statutory construction but dismissed the constitutional challenge as premature in the absence of an appropriate factual matrix:
+Re Almrei
+, [2008] F.C.J. No. 1488; 331 F.T.R. 301; 2008 FC 1216. A request for directions was made to the Federal Court of Appeal as to whether a Notice of Appeal could be filed. On November 26, 2008, the Registrar of the Court of Appeal was instructed by a judge of the Court not to accept the Notice of Appeal for filing and to return it to counsel as the November 3, 2008 decision was an interlocutory order for which no appeal lies pursuant to section 79 of the
+IRPA
+.
+[34]
+As noted, Mr. Almrei's detention review was begun by teleconference on August 20, 2008 and adjourned to continue in September. The public hearings could not proceed as anticipated in September due to scheduling conflicts with other proceedings and outstanding procedural issues. The Court conducted closed hearings on September 29 and 30 to receive the private oral testimony of witnesses called by the Ministers and cross examined by the special advocates. The Ministers filed a classified Index of Retained Operational Notes on September 29, 2008.
+[35]
+Evidence presented by both Mr. Almrei and the Ministers with respect to the detention review was heard in public on October 2, 3, 8, 9, 14 and15, 2008 and oral submissions were presented by the parties on October 20, 2008. Extensive written submissions were also filed by the parties.
+[36]
+Mr. Almrei tendered the affidavits and oral evidence of seven prospective sureties and the opinion evidence of a witness qualified as an expert by the Court. The Ministers called two officials representing the Canada Border Services Agency ("CBSA") and CSIS.
+[37]
+Further closed hearings were held on October 20, 2008 and November 10, 2008 to receive additional oral evidence from the Ministers and oral submissions from the Ministers and the special advocates. The Ministers tendered further written submissions in a classified document referencing the closed material before the Court.
+[38]
+A series of motions were filed by Mr. Almrei. By notice dated September 30, 2008 he sought an order that (a) CSIS disclose operational notes, (b) that CSIS account for notes destroyed to date that were generated in the course of its investigation into the applicant, (c) that the Ministers review the surviving operational notes and reassess whether the security certificate should issue, and (d) that the Ministers prepare and file a revised summary of the security intelligence information respecting Mr. Almrei. An amended Notice of Motion was filed on October 31, 2008 together with a motion for an order that the security certificate be quashed and the proceedings stayed or suspended until such time as the information and intelligence previously ordered disclosed has been provided to and considered by the Ministers.
+[39]
+The September 30, 2008 motion was addressed in part by a disclosure order issued on October 10, 2008 in which the Ministers and CSIS were directed to file all information and intelligence related to Mr. Almrei in the possession or holdings of CSIS. The remaining elements of that motion and the amended motion of October 31, 2008 were common to a motion filed in DES-7-08 (Mahjoub). Accordingly, it was referred to the case management judges. On November 28, 2008, following several conferences with counsel, the Chief Justice issued an Order that it was inopportune to schedule a hearing prior to review of the material to be disclosed as a result of the orders issued in the five ministerial certificate proceedings pursuant to the <FRAGMENT_SUPPRESSED> 2
+decision.
+[40]
+At the opening of the public hearing on October 2, 2008 Mr. Paul Copeland, special advocate, was authorized, pursuant to subsection 85.4(2) of the
+IRPA
+, to communicate with counsel for Mr. Almrei on two matters relating to the disclosure issue and continuation of the detention review. Upon receipt of that communication, Mr. Almrei elected not to proceed with the interim stay motion at that time.
+[41]
+A Notice of Constitutional Question and Motion Record was filed by Mr. Almrei on October 31, 2008 challenging the applicability of the standard of proof of "reasonable grounds to believe" in section 33 of the
+IRPA
+to these proceedings. The Court initially set this down for argument on November 13-14, 2008. However, as this standard of proof is imported into the determination of the reasonableness of a security certificate pursuant to section 78 of the
+IRPA
+and as it was not considered necessary to decide the issue at this stage, the question was deferred for argument at the conclusion of the evidentiary hearings on that portion of the proceedings.
+[42]
+Hearings were conducted in closed sessions on December 5 and 18, 2008 to receive additional evidence and submissions regarding motions brought by the special advocates for the disclosure of redacted information in material filed with the Court and the disclosure of information that does not presently form part of the Court's record. Decisions on those motions are under reserve. The information in question is not required by the Court to arrive at a decision on the question of Mr. Almrei's continuing detention.
+[43]
+On December 23, 2008 the Ministers filed initial classified responses to undertakings to provide additional information, made on their behalf by counsel during the closed evidentiary hearings. I have read that information in the course of preparing these reasons. Certain of that information may be the subject of further disclosure to Mr. Almrei, to be determined at a later date following the reception of submissions from the Ministers and special advocates. I am satisfied that the information is relevant to reasonableness but not material to the decision reached on detention. I have also again read the classified reference material which supports the Security Intelligence Report and have determined that it is not necessary at this stage to provide private reasons respecting that information and the oral testimony heard in private.
+The Legal Framework
+[44]
+Security certificate and detention review proceedings are governed by Part 1, Division 9 of the
+IRPA
+. I will highlight the statutory provisions and jurisprudence of particular relevance to this determination.
+[45]
+The test for release is now found at subsection 82(5). It provides:
+"On review, the judge
+(a) shall order the person's detention to be continued if the judge is satisfied that the person's release under conditions would be injurious to national security or endanger the safety of any person or that they would be unlikely to appear at a proceeding or for removal if they were released under conditions; or
+(b) in any other case, shall order or confirm the person's release from detention and set any conditions that the judge considers appropriate."
+"Lors du contrôle, le juge:
+a) ordonne le maintien en détention s'il est convaincu que la mise en liberté sous condition de la personne constituera un danger pour la sécurité nationale ou la sécurité d'autrui ou qu'elle se soustraira vraisemblablement à la procédure ou au renvoi si elle est mise en liberté sous condition;
+b) dans les autres cas, ordonne ou confirme sa mise en liberté et assortit celle-ci des conditions qu'il estime indiquées."
+[46]
+This language differs slightly from that of the former subsection 83(3) which provided that "[a] judge shall order the detention to be continued if satisfied that the permanent resident continues to be a danger to national security or to the safety of any person, or is unlikely to appear at a proceeding or for removal." Under the present text, the judge may order continued detention if satisfied that release on conditions would not address the security and flight concerns. This reflects the statement  <FRAGMENT_SUPPRESSED>  1
+at paragraph 119 that the judge must be satisfied that "the danger no longer exists
+or
+that it can be
+neutralized
+by conditions." (emphasis added)
+[47]
+I note that in the English version of the new legislative text the word "injurious" has been substituted for "danger" in relation to the risk to national security. The French text continues to read « un danger pour la sécurité nationale ». I read no difference of meaning into the choice of "injurious" in the English text.
+[48]
+The Supreme Court of Canada discussed the meaning of "danger to national security", as the expression appeared in the former
+Act
+, in
+ <FRAGMENT_SUPPRESSED> ; 281 N.R. 1; 2002 SCC 1, at para. 90 as follows:
+"These considerations lead us to conclude that a person constitutes a 'danger to the security of Canada' if he or she poses a serious threat to the security of Canada, whether direct or indirect, and bearing in mind the fact that the security of one country is often dependent on the security of other nations. The threat must be 'serious', in the sense that it must be grounded on objectively reasonable suspicion based on evidence and in the sense that the threatened harm must be substantial rather than negligible."
+[49]
+Subsection 83(1) requires that the judge shall proceed as informally and expeditiously ("... sans formalisme et selon la procédure expéditive") as the circumstances and considerations of fairness and natural justice permit. The Ministers bear the initial burden of establishing that the criteria for detention in section 83 are met:
+Charkaoui 1
+, para. 100. Once the Ministers have made out a prima facie case, the named person must submit some evidence or risk continued detention:
+Zündel, Re
+, [2004] F.C.J. No. 1564; 259 F.T.R. 73; 2004 FC 1295, at para. 23.
+[50]
+The Court may, and on the application of the Ministers, shall hear information or other evidence in the absence of the public and of the named person and his counsel if, in the opinion of the judge, its disclosure could be injurious to national security or endanger the safety of any person: paragraph 83(1)(c) of
+IRPA
+.
+[51]
+The Court shall ensure that the named person is provided with a summary of the information and other evidence that enables them to be reasonably informed ("... suffisamment informé ...") of the Minister's case but that does not include anything that the judge believes would be injurious to national security or put someone in danger: paragraph 83(1)(e). A decision can be rendered on the information and evidence even if a summary has not been provided to the named person: paragraph 83(1)(i).
+[52]
+For the purposes of this division of the
+Act
+, "information" means security or criminal intelligence information and information that is obtained in confidence from a source in Canada, the government of a foreign state or an international organization: section 76.
+[53]
+The Court is authorized under paragraph 83(1)(h) to receive into evidence anything that, in the judge's opinion, is reliable and appropriate ("... digne de foi et utile"), even if it is inadmissible in a court of law, and may base a decision on that evidence. This permits the reception of hearsay evidence such as that which may be provided by a confidential informant or a foreign intelligence service.
+[54]
+In a detention review under the revised legislation, the Court must also consider that the Supreme Court held  <FRAGMENT_SUPPRESSED>  1
+that extended detention in the security certificate context did not contravene the guarantees in sections 7 and 12 of the
+Charter
+only so long as there is a regular process of review that takes into account all relevant factors. The Supreme Court referred to the following, non-exclusive set of factors, drawn in part from section 248 of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227, at paragraphs 111 through 116 of the decision:
+"(a) Reasons for Detention
+"111. The criteria for signing a certificate are 'security, violating human or international rights, serious criminality or organized criminality' (s. 77). Detention pursuant to a certificate is justified on the basis of a continuing threat to national security or to the safety of any person. While the criteria for release under s. 83 of the
+IRPA
+also include the likelihood that a person will appear at a proceeding or for removal, a threat to national security or to the safety of a person is a more important factor for the purpose of justifying continued detention. The more serious the threat, the greater will be the justification for detention.
+"(b) Length of Detention
+"112. The length of the detention to date is an important factor, both from the perspective of the individual and from the perspective of national security. The longer the period, the less likely that an individual will remain a threat to security: 'The imminence of danger may decline with the passage of time':
+Charkaoui (Re)
+, [2005] F.C.J. No. 269; 2005 FC 248, at para. 74. Noël, J., concluded that Mr. Charkaoui could be released safely from detention because his long period of detention had cut him off from whatever associations with extremist groups he may have had. Likewise, in Mr. Harkat's case, Dawson, J., based her decision to release Mr. Harkat in part on the fact that the long period of detention meant that 'his ability to communicate with persons in the Islamic extremist network has been disrupted':
+Harkat
+, at para. 86.
+"113. A longer period of detention would also signify that the government would have had more time to gather evidence establishing the nature of the threat posed by the detained person. While the government's evidentiary onus may not be heavy at the initial detention review (see above, para. 93), it must be heavier when the government has had more time to investigate and document the threat.
+"(c) Reasons for the Delay in Deportation
+"114. When reviewing detentions pending deportation, judges have assessed whether the delays have been caused by the detainees or the government:
+Sahin
+, at p. 231. In reviewing Mr. Almrei's application for release, the Federal Court of Appeal stated that a reviewing judge could 'discount, in whole or in part, the delay resulting from proceedings resorted to by an applicant that have the precise effect of preventing compliance by the Crown with the law within a reasonable time': <FRAGMENT_SUPPRESSED> , [2005] F.C.J. No. 213; 2005 FCA 54, at para. 58; see also
+Harkat
+, at para. 30. Recourse by the government or the individual to applicable provisions of the
+IRPA
+that are reasonable in the circumstances and recourse by the individual to reasonable
+Charter
+challenges should not count against either party. On the other hand, an unexplained delay or lack of diligence should count against the offending party.
+"(d) Anticipated Future Length of Detention
+"115. If there will be a lengthy detention before deportation or if the future detention time cannot be ascertained, this is a factor that weighs in favour of release.
+"(e) Availability of Alternatives to Detention
+"116. Stringent release conditions, such as those imposed on Mr. Charkaoui and Mr. Harkat, seriously limit individual liberty. However, they are less severe than incarceration. Alternatives to lengthy detention pursuant to a certificate, such as stringent release conditions, must not be a disproportionate response to the nature of the threat."
+[55]
+In
+Almrei 6
+, above, at paragraph 23, it was stated that "the determination of whether the terms and conditions of release will mitigate the danger to [the] national security of Canada posed by a detainee is to be gauged on the balance of probabilities."
+[56]
+In reviewing the role of the designated judge in certificate cases the Supreme Court noted that as subsection 82(1) of the
+Act
+, as it then read, provided that the Ministers' decision to detain a permanent resident was based on "reasonable grounds to believe", it is "...
+logical to assume
+..." that the same standard would be used by the reviewing judge:
+Charkaoui 1
+, para. 39. (emphasis added)
+[57]
+"Reasonable grounds to believe" requires something more than mere suspicion but less than the standard applicable in civil matters of proof on the balance of probabilities. The Court must consider whether there is an objective basis for the finding based on compelling and credible information:
+ <FRAGMENT_SUPPRESSED> ; 335 N.R. 229; 2005 SCC 40 at para. 114.
+[58]
+Mr. Almrei has served notice that he intends to challenge this standard on
+Charter
+grounds arguing that it imposes too low a burden on the Ministers to justify the reasonableness of the certificate. For the purposes of the detention review, however, I have applied the "reasonable grounds to believe" standard in considering whether I was satisfied that Mr. Almrei's release under conditions would be injurious to national security.
+[59]
+I note that the Supreme Court communicated the need for close scrutiny of the grounds for detention by the designated judge: "The
+IRPA
+therefore does not ask the designated judge to be deferential, but, rather, asks him or her to engage in a searching review." Further, "the fact that the designated judge may have access to more information than the Ministers did in making their initial decision to issue a certificate and detain suggests that the judge possesses relative expertise on the matters at issue and is no mere rubber stamp.":
+Charkaoui 1
+, at paragraphs 39 and 41.
+Preliminary Issues
+[60]
+Mr. Almrei filed his own affidavit in support of his release on August 22, 2008. In written submissions, he sought rulings that (a) he should not be cross-examined on matters not sworn to in his affidavit, (b) that transcripts from the previous proceedings and the Court's decisions in those proceedings are inadmissible on this review, and (c) that prior factual findings by the Court regarding the danger Mr. Almrei is alleged to present and his credibility should not bind the Court in this instance.
+Scope of Cross-Examination
+[61]
+It would be unfair to allow the Ministers to cross-examine him on the merits of the substantive allegations against him, Mr. Almrei submitted, in that he had not been afforded sufficient disclosure of the case against him. The model that should be followed, he argued, is the bail hearing process outlined in section 518 of the
+Criminal Code
+, R.S.C. 1985, c. C-46, which limits cross-examination of the concerned person's testimony to matters relating to detention and release. By analogy, he should not be cross-examined on issues relating to dangerousness or his credibility but should be allowed to give evidence and be cross-examined only with respect to the questions related to his release plan and the sureties.
+[62]
+In the event that the Court were to rule that the scope of his cross examination at the detention review extends to the allegations themselves, Mr. Almrei argued that the Court should not draw an adverse inference from his unwillingness to testify in the detention review given that he would soon testify in the reasonableness hearing.
+[63]
+The transcripts and decisions from prior hearings should be excluded, in Mr. Almrei's submission, as they had taken place under a procedure determined by the Supreme Court in <FRAGMENT_SUPPRESSED> 1
+to be fundamentally unfair and absent the benefit of the disclosure obligations recognized  <FRAGMENT_SUPPRESSED>  2
+. In the previous hearings, Mr. Almrei says, he testified with very limited disclosure and opportunity to know the case against him. While the presence of special advocates may result in enhanced fairness in the hearing, it would not make the process fair to the extent that he would not have had access to all of the evidence being used against him.
+[64]
+By the same token, Mr. Almrei argued, the factual findings regarding danger and credibility made by the Court in his previous applications for release cannot bind this Court in light of the fact that they were made under an unconstitutional procedure. The "reasonable" status of Mr. Almrei's security certificate has been set aside. Until such time as the reasonableness matter is heard afresh, and re-decided under a process that is constitutional, previous findings should not be relied upon, he argues.
+[65]
+At the hearing on October 2, 2008, counsel for Mr. Almrei clarified that the objection to the use of the previous transcripts extended only to those portions that consist of the examination or cross-examination of his client.
+[66]
+The Ministers' position was that cross-examination on an affidavit is not limited to the "four corners" of the affidavit, and the admission of a prior record of the proceeding is not prohibited as long as the current decision-maker makes a decision on the basis of the evidence adduced and does not improperly adopt or feel bound by the findings of the previous tribunal. Whether Mr. Almrei constitutes a danger to Canada's national security remains a live issue in the detention review. His credibility as a witness is at issue and is a ground for cross-examination. It was open to him to choose not to testify and compellability was not at issue because the Ministers had not suggested that they intended to call Mr. Almrei as a witness.
+[67]
+Accepting Mr. Almrei's contention that they bear the initial onus in the detention review, the Ministers argued that the evidentiary onus shifts to Mr. Almrei once they proffer evidence of his past associations and activities and the danger that they believe he continues to pose. Mr. Almrei must then demonstrate that the Ministers' evidence is not credible and that it fails to establish that he poses a threat to Canada's national security, or that his detention has significantly diminished the threat to the extent that he should be released. That, in the Ministers' view, requires Mr. Almrei to not only lead evidence but to testify and be cross-examined.
+[68]
+A detention review is not the same or analogous to a criminal trial, the Ministers submit. A person charged with an offense has the right, under subsection 11(c) of the
+Charter
+, not to be compelled to be a witness in proceedings against that person. This guarantee is not intended to apply to civil proceedings:
+ <FRAGMENT_SUPPRESSED> ; 5 D.L.R.(4th) 371 (B.C.S.C.), at para. 6. While recognizing the serious consequences for the named person in a security proceeding, the Supreme Court has nonetheless held that the determination of the reasonableness of the security certificate "takes place in a context different from that of a criminal trial":
+Charkaoui 2
+, above, at paragraph 50.
+[69]
+At the conclusion of the oral argument, having considered both the written and oral submissions and bearing in mind the legislative instruction in paragraph 83(1)(a) of the
+Act
+to proceed as informally and expeditiously as the circumstances and considerations of fairness and natural justice permit, I proceeded to issue a ruling from the bench noting that it would ultimately be reduced to writing with reference to authorities.
+[70]
+My ruling was, in summary, as follows:
+a. Mr. Almrei could choose not to testify on the detention review.
+b. If he chose to testify, he would be open to cross-examination on the issues that were before the court.
+c. If his affidavit remained before the court as evidence, he could be cross-examined on the affidavit by government counsel and the cross-examination would not be limited to the content of the affidavit and could address any of the matters before the court for determination on the detention review.
+d. As a general rule, witnesses cannot be shielded from their prior inconsistent statements taken under oath in a judicial proceeding.
+e. An opposing party cannot be constrained from using the prior transcripts of that testimony for cross-examination unless it is demonstrated that there is clearly some procedural unfairness from doing so or that unfairness will arise from the use of a particular statement.
+f. The principle of judicial comity might arise in the context of a ruling on a point of law but I did not consider myself bound by any factual findings made by my fellow judges in the earlier proceedings.
+g. Should Mr. Almrei choose not to testify on the detention review, I would draw no adverse inference from his failure to testify at this stage of the proceedings.
+[71]
+Rule 83 of the
+Federal Courts Rules
+, SOR/98-106 provides a right to cross-examine the deponent of an affidavit served on an application. The rule is silent as to the scope of cross-examination permitted. The jurisprudence is to the effect that cross-examination is not restricted to the "four corners" of the affidavit so long as it is relevant, fair and directed to an issue in the proceeding or to the credibility of the applicant:
+ <FRAGMENT_SUPPRESSED> ; 169 N.R. 342; 55 C.P.R.(3d) 302 (F.C.A.), leave to appeal to S.C.C. refused (1995), 188 N.R. 396; 58 C.P.R.(3d) vii ( <FRAGMENT_SUPPRESSED> ; 157 F.T.R. 59 ( <FRAGMENT_SUPPRESSED> ; 2005 FC 865.
+[72]
+The same principles generally apply when a witness gives oral testimony at a hearing. There are limitations, notably in the criminal context, where the cross-examination would undermine the accused's right to a fair trial:
+ <FRAGMENT_SUPPRESSED> . However, should an accused testify voluntarily in a previous proceeding, that testimony may be used by the Crown to cross-examine the accused at trial for all purposes:
+ <FRAGMENT_SUPPRESSED> ; 342 N.R. 259; 376 A.R. 1; 360 W.A.C. 1; 219 B.C.A.C. 1; 361 W.A.C. 1; 2005 SCC 76. The right to cross-examine on prior inconsistent statements is governed by sections 10 and 11 of the
+Canada Evidence
+Act
+, R.S. 1985, c. C-5.
+[73]
+In my view, the content of the duty of procedural fairness in detention review proceedings does not require that the interested person be shielded from cross-examination on questions related to his dangerousness. In fact, dangerousness in the sense of injury to national security or to the safety of any person is at the heart of the determination that a judge must make in a detention review: paragraph 82(5)(a) of the
+Act
+.
+[74]
+Nor are these proceedings so analogous to bail hearings under the
+Criminal Code
+that fairness demands that cross-examination be limited to the topics on which the interested person chooses to testify or depose, such as the conditions of release. A person charged with a criminal offence has the absolute right to remain silent and cannot be compelled to give evidence against himself:
+Charter
+, subsection 11(c). The
+Charter
+guarantee does not extend to certificate proceedings as the protection applies only to persons charged with an offence. Moreover, there is an express statutory bar to cross-examination of an accused respecting the offence during a bail hearing: paragraph 518(1)(b) of the
+Criminal Code
+, R.S., 1985, c. C-46. While it is not necessary to decide the matter as the Ministers have not pressed the issue, Mr. Almrei could, conceivably, be compelled to testify: see, for example,
+ <FRAGMENT_SUPPRESSED> .
+[75]
+In the present context, questions as to whether Mr. Almrei constitutes a danger to Canada's national security and his credibility remain live issues in the detention review. Accordingly, should he testify or submit his affidavit, I concluded that the Ministers are entitled to cross-examine Mr. Almrei with regard to these issues and on the basis of his prior statements and testimony subject to the constraints of relevance and fairness.
+[76]
+As the Ministers have argued, the fact that the prior proceedings are tainted by what the Supreme Court has found to be an unfair procedure in <FRAGMENT_SUPPRESSED> 1
+, does not lead directly to the conclusion that the evidence taken at those proceedings can never be used in a subsequent hearing. As stated by Rothstein, J.A. (as he then was), in
+ <FRAGMENT_SUPPRESSED> ; 283 N.R. 107; 2001 FCA 338 at paras. 5-6, in the context of a trial tainted by a reasonable apprehension of bias, the evidence "is not read out of existence". It would remain open to a party to object to the use of the evidence if they were of the view that fairness would arise from a particular question, but in principle it remains admissible.
+[77]
+In the immigration context, the Federal Court of Appeal has rejected the argument that a panel conducting a rehearing of a refugee claim is precluded from reading the erroneous decision of the first panel or to have regard to the exhibits and evidence that were tendered in the first hearing:
+ <FRAGMENT_SUPPRESSED> ; 288 N.R. 250; 2002 FCA 119, at para. 19.
+[78]
+While this is not a criminal case, fundamental justice considerations under section 7 of the
+Charter
+do apply. In <FRAGMENT_SUPPRESSED> 2
+, at paragraph 53, the Court noted that:
+"But whether or not the constitutional guarantees of s. 7 of the
+Charter
+apply does not turn on a formal distinction between the different areas of law. Rather, it depends on the severity of the consequences of the state's actions for the individual's fundamental interests of liberty and security and, in some cases, the right to life. By its very nature, the security certificate procedure can place these rights in serious jeopardy (...)."
+[79]
+The Supreme Court found it necessary, because of these considerations, to recognize a duty to disclose evidence in security certificate cases in a manner and within limits that are consistent with legitimate public safety interests. In my view, the content of procedural fairness under administrative law or as an aspect of fundamental justice under section 7 of the
+Charter
+does not require that Mr. Almrei be shielded from cross-examination should he choose to testify. However, Mr. Almrei has not as yet had the benefit of the disclosure contemplated by
+Charkaoui 2
+as the full extent of the CSIS information holdings have yet to be revealed to the Court, "verified" by the Court and filtered, if necessary, to protect national security interests, as discussed by the Supreme Court in paragraph 62 of
+Charkaoui 2
+.
+[80]
+The Ministers argue that Mr. Almrei's failure to testify in the detention review proceeding must weigh heavily against him being granted the remedy he is seeking just as his failure to testify in the first reasonableness hearing was found by the Court to have amounted to an implicit acceptance of the allegations against him:
+Almrei 1
+, above.
+[81]
+I agree with the Ministers that as a general principle, decision makers are entitled to take into account the fact that a party has chosen not to testify. But in view of the Supreme Court's determination that Mr. Almrei is entitled to full disclosure as a matter of fundamental justice, disclosure which has not as yet taken place, I ruled that I would not draw an adverse inference from his failure to testify and to submit to cross-examination at this stage of the proceedings. To be clear, should Mr. Almrei not testify and submit to cross examination in the reasonableness hearings, as he has undertaken to do, he will bear the risk that it will be held against him.
+[82]
+A similar conclusion was reached by Mr. Justice Ouseley of the High Court of Justice of England and Wales in an analogous case arising from the U.K. control order regime:
+United Kingdom (Secretary of State for the  <FRAGMENT_SUPPRESSED>  revd. on other grounds [2007] UKHL 45. As in this case, counsel for the affected person had sought an advance ruling on the scope of cross-examination that would be permitted if his client testified. Mr. Justice Ouseley declined to limit the scope of cross-examination but at paragraph 61 had this to say:
+"However, if AF were to decide not to give evidence I held that I would not draw any adverse inference from that, largely for the reasons I gave in
+Ajouaou, A and others v SSHD
+, 29 October 2003 ... briefly, the standard of proof upon the SSHD is not high, and he must have established his case to that level before there is anything which calls for an answer, and he cannot reach that stage by reliance upon AF's silence or refusal to answer questions; nor does AF know the significance of the questions being asked where they may arise out of closed material and may seek to lay the groundwork for a contradiction which he cannot deal with or even know about, unless he has been fortunate enough to anticipate the point. So his answers might be unwittingly incomplete. And it is clear here that the essence of the case is in the closed material; he does not know what the SSHD's case against him is ..."
+[83]
+The circumstances are similar in this instance. The Ministers bear the initial burden of proof and must establish their case before an answer is called for from Mr. Almrei. He does not know the significance of the information in the closed files that concern him but may benefit from further disclosure at a later stage in the proceedings should the Court determine that it should be made public. It is premature, therefore, to draw any inference from his silence.
+Judicial Comity
+[84]
+As indicated above, in my oral ruling on October 2, 2008 I stated that while the principle of judicial comity might arise in the context of a particular ruling on a point of law, I did not consider myself bound by any factual findings made by my fellow judges in the earlier proceedings.
+[85]
+The application of the principle of judicial comity in the security certificate context was considered by my colleague Mr. Justice François Lemieux in Mr. Almrei's third release application, referred to above as
+Almrei 6
+, at paragraphs 61-62 of his reasons. He described the principle as being to the effect that a substantially similar decision rendered by a judge of this Court should be followed in the interest of advancing certainty in the law:
+ <FRAGMENT_SUPPRESSED> ; [1954] B.C.J. No. 136 (B.C.S.C.). Justice Lemieux cited the following exceptions as having been recognized by the jurisprudence:
+a. The existence of a different factual matrix or evidentiary basis between the two cases;
+b. Where the issue to be decided is different;
+c. Where the previous [decision] failed to consider legislation or binding authorities that would have produced a different result, i.e., was manifestly wrong; and
+d. The decision if followed would create an injustice.
+[86]
+The Ministers have argued strenuously that I should adopt and apply the factual findings reached by my colleagues on the earlier detention applications. In particular, they contend, judicial comity necessitates that a judge who has not had the benefit of hearing testimony directly from a person should adopt the credibility findings regarding that person made by previous judges who had the advantage of assessing testimony from that person.
+[87]
+The Ministers submit that it is not strictly accurate to describe a detention review as a de novo hearing, citing the decision of the Federal Court of Appeal in
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> 
+. Thanabalasingham dealt with a detention review by the Immigration and Refugee Board. The Court of Appeal agreed with the Minister's position that while the deciding Member was not bound by prior detention decisions, clear and convincing reasons for departing from the earlier decisions must be set out. See also
+ <FRAGMENT_SUPPRESSED> ; 237 F.T.R. 143; 2003 FC 882, at para. 36.
+[88]
+Mr. Almrei argues that the Court is not in a parallel position with the earlier proceedings. They were conducted under a procedure found to infringe fundamental justice. As was stated by the Supreme Court  <FRAGMENT_SUPPRESSED>  1
+at paragraph 66, the secrecy required by the former legislative scheme denied the named person the opportunity to know the case against him and hence to challenge the government's case. The judge's ability to come to a decision based on all of the relevant facts and law was thereby undermined. This conclusion applied to the detention review procedures as well as the reasonableness determination.
+[89]
+The authorities indicate that the generally accepted view is that the Court is not bound to follow a previous decision where the decision, if followed, would result in a severe injustice or subsequent decisions have affected the validity of the impugned judgment:
+Glaxo Group
+, above, at para. 10;
+Re Hansard
+, above, at paras. 4-5.
+[90]
+I have had the opportunity to read transcripts of the prior proceedings in the course of dealing with the several motions that have arisen in the present case. The judges who dealt with those applications carefully scrutinized the evidence presented during the previous hearings in both the open and closed proceedings. Their meticulous examination of the government witnesses and analysis of the evidence has focused the case before me considerably and has made my task and that of the special advocates easier. The Ministers have not advanced evidence and did not press arguments that were found wanting by the judges in those proceedings.
+[91]
+But the three prior detention determinations did not have the benefit of the procedural and substantive changes that have resulted from
+Charkaoui 1
+and the legislative amendments. There were no special advocates to test the quality of the closed evidence to add to the judges'close scrutiny of the evidence before them. Moreover, and most importantly, the evidence before me has been different, including the introduction of expert opinion evidence to counter the assumptions underlying CSIS' assessment of the threat environment and the alleged risks posed by Mr. Almrei. Certain aspects of the underlying factual matrix have not been pressed by the Ministers as they were in the earlier hearings. More information has been disclosed to the named person by the Ministers in this proceeding and additional disclosure of the CSIS holdings has been ordered.
+[92]
+While the allegations against Mr. Almrei remain essentially the same, effectively frozen in time as of the date of his arrest, the evidence that I have heard in support of his release offers an alternative interpretation of the facts and events that underlie the government's assessment of his actions and intentions. I must consider that evidence and arrive at my own conclusions. The statute requires me to determine whether his continued detention is justified. It would not render justice to Mr. Almrei if I were to simply adopt my colleagues' factual findings as to the risk he poses to national security, or to abscond, rather than to arrive at my own findings.
+[93]
+However, I agree with the Ministers that my colleagues' adverse credibility findings are relevant to this determination as are the facts that Mr. Almrei withheld information from the IRB, CSIS and CIC in his efforts to obtain Convention refugee and permanent resident status. That Mr. Almrei has lied by denying or omitting facts that were subsequently admitted and has been found to be less than candid in testifying before the Court goes directly to the question of whether he can be trusted to observe release conditions. As my colleagues have found, that could support his continued detention where other factors are more evenly balanced.
+The Evidence
+Ministers' Witnesses:
+[94]
+These reasons will refer only to the evidence called by the Ministers in open court. In addition to the two witnesses whose evidence will be described here, the Court heard from several witnesses in closed proceedings. The testimony and documentary evidence received in private has been taken into consideration in arriving at my decision but will not be addressed in these reasons.
+1. Mr. Marc Towaij
+[95]
+Mr. Towaij is currently the Acting Director of the National Security Division with the Enforcement Branch of the Canada Border Services Agency ("CBSA") in Ottawa. As Acting Director, he is responsible for all removal actions that fall under sections 34, 35 and 37 of the
+IRPA
+. He has been in that position for three years but has been employed in the federal government since 1995. He has held numerous positions, including Removals Officer and Enforcement Officer. In 2003, he was involved with Mr. Almrei's case as a Senior Removals Officer. He was asked to assist in making the removal arrangements at that time.
+[96]
+Mr. Towaij described his knowledge of the removal process under section 115(2) of the
+IRPA
+. As a Convention refugee, Mr. Almrei can only be removed if he is found to be a person who poses a danger to the security of Canada. The removal process begins with the CBSA sending a notice to Mr. Almrei and his counsel to advise them of its intention of seeking a danger opinion from the CIC's Minister's Delegate. Mr. Almrei's counsel are then given an opportunity to comment on the potential danger Mr. Almrei poses to the security of Canada and to provide information on the risk that Mr. Almrei would face if removed.
+[97]
+Following an analysis of all of the information filed, including counsel's submissions and the classified information held by CSIS, a recommendation as to the dangerousness of the individual is then drafted in the form of a Memorandum which is reviewed by the Manager of the Counterterrorism Section. The latter must ensure that the recommendation is supported by the evidence and that there has not been any inadvertent disclosure of classified information. CSIS may also be asked to review the Memorandum before it is printed. The preparation of the recommendation usually takes three months.
+[98]
+The "package" (Memorandum and all supporting documentation) is then sent to Mr. Almrei and his counsel who can then provide submissions on the recommendation within a certain timeframe (usually a month). The package is also provided to the Department of Citizenship and Immigration Canada ("CIC").
+[99]
+The Minister's Delegate at CIC makes the final decision regarding the danger opinion. He/she must review all the information on file, including the classified information at CSIS. In Mr. Towaij's estimation, it usually takes four months to render a decision. If Mr. Almrei is found to be a danger to the public, a removal order is issued. The CBSA can then proceed with making removal arrangements.
+[100]
+Preparing removal arrangements can take two to three months. The physical removal of an individual can take approximately two to three weeks to carry out once a valid travel document is issued. From the issuance of the danger opinion, it may take 10 months or more to carry out the removal order.
+[101]
+Pursuant to Rule 241 of the
+IRPA Regulations
+, the CBSA would remove Mr. Almrei to either the country from which he came to Canada, the country in which he last permanently resided before coming to Canada, a country of which he is a national or citizen, or his country of birth. Mr. Almrei would likely be removed to Syria as that is his country of citizenship. An application would be made to the Syrian government for a valid passport or travel document. Mr. Towaij said it took four weeks to get the passport for Almrei in 2003. A physical risk assessment would be conducted as to the manner and mode of the removal. Arrangements would then be made with a charter airline company, escort officers assigned (RCMP officers or CBSA staff) and a diplomatic or landing clearance obtained.
+[102]
+Mr. Towaij was cross-examined as to his involvement in obtaining travel documents for Mr. Almrei in 2003. A letter, attaching the removal order and other supporting documentation, was sent to the Syrian Embassy to request a travel document. The correspondence indicated that the government of Canada had reasonable grounds to believe that Mr. Almrei was a member of a terrorist group. A copy of an unauthorized Syrian passport issued by the Muslim Brotherhood and seized from Mr. Almrei was also provided to the Syrian authorities.
+[103]
+Mr. Towaij stated that it is standard policy to provide copies of passports. He recalled that there may have been concerns about the legitimacy of the passport issued to Mr. Almrei and is aware of the allegations that it was issued by the Muslim Brotherhood. He does not recall thinking at the time that giving the Syrian authorities the passport might put Mr. Almrei at risk. He claims that it was submitted with all other available information in order to obtain a travel document and enforce the removal order as soon as reasonably possible.
+[104]
+When asked why it was necessary to provide the Syrians with all of this information, the witness stated that they try to provide as much information as possible to prove the nationality of an individual. Notwithstanding their obligations under international conventions, some countries may resist taking back their citizens. While Mr. Towaij conceded that the passport issued to Almrei may have been illegitimate, he said that it contained an identification number that may have been legitimate and may have been used by the Syrians to identify Almrei as a national. Mr. Towaij conceded that the Syrian authorities were never asked which documentation was required. A birth certificate may have sufficed.
+[105]
+On re-direct examination, Mr. Towaij said that a determination of the risk that Mr. Almrei may face if removed to Syria was assessed prior to requesting a travel document from the Syrian government.
+2. "Sukhvindar"
+[106]
+"Sukhvindar" has been an employee of CSIS for 17 years. The Ministers requested that he be allowed to testify under this name without further identification. No objection was made to this. Counsel did not seek to have the full and proper name of the witness provided to the Court in a closed session and I was satisfied that it was not necessary.
+[107]
+Sukhvindar has a military background and was qualified as a military intelligence officer in 1990. He was hired by CSIS in 1991. He has since worked as an analyst and investigator and is now the "chief" of his branch, a management position. His group investigates threats to national security and advises the government of those threats which may include espionage, subversion, fraud-influenced activity and politically-motivated violence. Sukhvindar has investigated the phenomenon of Sunni extremism and has conducted investigations in the area of Shi'ite extremism and in other politically-motivated violence not tied to a particular religion. He has taken a university-level course in understanding the Middle East.
+[108]
+According to the witness, CSIS broadly views Islamic extremism, whether Sunni or Shi'ite, as a form of politically-motivated violence based on radical interpretations of Islam. Those radical interpretations include and advocate the use of violence. The Service considers Sunni extremism, in particular the al Qaeda movement, to represent a continuing threat to Canada's national security.
+[109]
+"Al Qaeda" means "the base". Dating back to approximately 1988, the term referred to an organization with a physical infrastructure. That organization established itself in Afghanistan where several camps were established and people were invited to attend these camps and receive military training to conduct operations in Afghanistan and other regions. The physical infrastructure was displaced in November 2001 and the organization has since evolved.
+[110]
+The term "al Qaeda" now represents more of an ideology or philosophy and a network through which like-minded groups around the world can affiliate to pursue and further the aims and ideologies of the movement.
+[111]
+After its physical infrastructure was disrupted in Afghanistan, al Qaeda became more of an umbrella organization which continues to issue threats. The most recent was in 2007 when the group identified and targeted countries for attacks. Countries that have been named by leaders in al Qaeda or by people who affiliated themselves with al Qaeda have been subject to terrorist attacks.
+[112]
+Sukhvindar cited a range of attacks that are either directly attributed to al Qaeda or linked to al Qaeda. For example, in 1998, the bombings of the U.S. missions in Kenya and Tanzania, the bombing of the U.S.S. Cole in Yemen in 2000, the 9/11 attacks and the London Subway bombings in July 2005.
+[113]
+The first direct threat to Canada was made by al Qaeda in an audiotape attributed to Osama bin Laden in November 2002. Canada was one of six countries named. Other countries on that list have been subject to terrorist attacks. There have been subsequent references on several occasions to Canada. Canada appeared as the fifth country on a list of six in an al Qaeda manual, the Al-Battar Training Camp Manual found in 2004-2005, as a proposed target of attack. CSIS has since seen references to al Qaeda affiliated groups, like Al Qaeda of the Arabian Peninsula, making threats against Canada and its oil and gas pipelines because we supply oil and gas to the U.S. There were also at least two threats in 2006 directed against Canada because of our troop presence in Afghanistan.
+[114]
+Sukhvindar testified that he believes that Mr. Almrei attended training camps operated by the al Qaeda movement, that he has visited regions where the conflict between Sunni extremists and others have been ongoing, that he adheres to this violent philosophy which allows for the use of force, and that, as a result, he continues to pose a threat.
+[115]
+According to the witness, Mr. Almrei has the background, the training, the experience, the willingness and the commitment to follow the ideology and aims of al Qaeda. He has demonstrated an ability to pursue activities consistent with the aims of people who support al Qaeda. He has a pedigree of someone who would assist people seeking to conduct terrorist activities in the name of al Qaeda or its affiliate groups.
+[116]
+In CSIS' view, as described by Sukhvindar, the release of someone with Mr. Almrei's pedigree and history would be viewed by those who gravitate or adhere to this radical philosophy as a victory for the movement. Further, he would be perceived by people within that milieu as a resource that is again available to further the aims and activities of that movement.
+[117]
+Sukhvindar said that his use of the term "pedigree" regarding Mr. Almrei, refers to his history and background, particularly his travels to Afghanistan to attend a training camp; his travel to a guest house in Peshawar; his travel to Tajikistan to participate in military activity with known al Qaeda members; his proclivity for procuring false documentation and using false documentation; and his efforts to conceal his activities and his history since arriving in Canada.
+[118]
+CSIS does not allege that Mr. Almrei is a member of al Qaeda, nor that he would engage in violence in Canada, but contends that he is an individual who supports the Bin Laden network. The concern is that Mr. Almrei concealed his background until forced to disclose some details. This is based on his initial Declaration upon arriving in Canada in 1999 in relation to his refugee claim and in his subsequent statements post incarceration. He did not admit to traveling to Afghanistan or to Tajikistan. He concealed his continued possession of a passport from the United Arab Emirates alleging that it had been destroyed. He did not disclose the pseudonym by which he was known to his friends and associates; his "respect name", Abu Al-Hareth.
+[119]
+In Sukhvindar's view, having a respect name is significant, particularly in the context of Sunni extremism, because persons who are trained by al Qaeda are given such names as part of the security around their activities so that they are not easily identifiable. This name and the information about his travels and activities prior to arriving in Canada were not disclosed to the IRB when his application for refugee status was processed.
+[120]
+A respect name may also serve as a "nom de guerre" to protect the identity of someone engaged in jihad. "Jihad" is a term that is found in the Koran. It refers to a "struggle", as the witness understands the term. CSIS has concerns with the extremist interpretation of jihad which involves a commitment to violence and to furthering the aims or defining that struggle in a violent context, specifically in relation to defending Islam through violence.
+[121]
+In relation to Afghanistan, the term "jihad" was used to attract people to defend Muslims against the Soviet forces which occupied the country for ten years. Since then, it has been used to attract people to other conflicts and to act as part of the broad al Qaeda or Sunni extremist movement in conflicts from Chechnya through Somalia. CSIS does not suggest that the mere attendance or participation in the conflict in Afghanistan or training for jihad would be the sole indicator of someone who constitutes a threat to national security.
+[122]
+Mr. Almrei had a relationship with Ibn al-Khattab (hereafter Khattab), a leading Sunni jihadist figure, and participated in military operations with him in Tajikistan. That is, in Sukhvindar's view, indicative of a willingness to participate in violence and willingness to assist and further the aims of an organization that pursues violent jihad.
+[123]
+"Ibn al-Khattab" is a nom de guerre. His precise identity remains unclear but he appears to have been of Saudi descent. Khattab came to prominence in the conflict in Afghanistan during the Soviet occupation and emerged as a leader in the jihad in Tajikistan and later in Chechnya until his death in 2002. He was aligned with the objective of al Qaeda to remove the Soviet dominated secular governments and occupying forces from these Islamic lands.
+[124]
+Khattab led an organization that became known as the International Islamic Peacekeeping brigades. Subsequent to his death, that organization was cited as possibly being responsible for terrorist acts in Russia and Chechnya.
+[125]
+Mr. Almrei has demonstrated an ability and a willingness to do things that are consistent with the operational requirements of Sunni extremist groups, particularly in relation to acquiring fraudulent documents and using fraudulent documents, according to Sukhvindar. Were he to be released today, CSIS would be concerned that he would be in a position to resume those activities or to counsel others in how to engage in those kinds of activities.
+[126]
+In Sukhvindar's opinion, the contacts Almrei had prior to his detention may still be viable because he has a reputation and credentials. He has the credentials that come from having been in Afghanistan and Tajikistan with Khattab. The fact that Almrei was able to remain in contact with Khattab while the latter was in Chechnya is significant. It shows that he has some credibility with those within the movement. He can trade on that for years according to Sukhvindar.
+[127]
+The procurement of documents for fraudulent use facilitates the ability to travel undetected across borders. Some use false documents to travel across borders and conduct terrorist operations (for example: Ahmed Ressam, the so-called Millennium bomber associated with the Sunni extremist movement).
+[128]
+CSIS believes that Mr. Almrei retains the ability to engage in activities that he has already demonstrated as having the ability to do. For example: the acquisition of a false passport for Nabil al-Marabh, a friend associated with illicit money transfers subsequently arrested in the U.S. and deported to Syria. The witness does not know why Mr. Almrei was not charged with providing a passport to Nabil al-Marabh. He is also not aware whether Mr. Almrei could have been found inadmissible to Canada as a result of a conviction for possessing or dealing in false documents.
+[129]
+Sukhvindar believes that someone like Mr. Almrei would be in a position to exploit clandestine methodology were he to be released. He could communicate with people in ways that sureties or those charged with monitoring him would not detect. Mr. Almrei was familiar with or used trade craft prior to his detention. He was able to gain access to secure facilities in Canada within months of his arrival (he accessed a restricted area at Pearson International Airport).
+[130]
+Almrei lacks a substantive connection to Canada. He has no family here and was not part of an established community structure to the same extent as the other men under security certificates who are now released. CSIS believes that Mr. Almrei continues to pose a threat to national security by virtue of his background, his pedigree, his activities in Canada subsequent to his arrival and his inadmissibility to Canada.
+[131]
+On cross-examination, Sukhvindar acknowledged that he has not been personally involved in Mr. Almrei's case. He has never met Mr. Almrei or interviewed him. He's not aware if anyone from CSIS has interviewed Mr. Almrei since his initial detention in 2001.
+[132]
+The witness agreed that the efforts of the Western governments since 9/11 have dislocated and interrupted the physical infrastructure that existed in Afghanistan. There have been a number of arrests and reported deaths of the core leadership of al Qaeda, but that leadership replenishes. The most significant elements in that leadership are still alive and continue to issue threats (Osama bin Laden and Ayman al-Zawahiri).
+[133]
+In the 1990s, approximately 5,000 people (common estimate) were part of al Qaeda in Afghanistan and trained at the camps. Following the Coalition invasion, a large number of fighters were killed (approx. 500 of a remaining force of 2000). The witness thought that there were about 1500 fighters that moved from the camps and the physical facilities into the mountains, dispersed throughout Afghanistan and the Northwest provinces of Pakistan.
+[134]
+Those involved in the 2005 London bombings are a subsequent generation of people who did not participate in the jihad in Afghanistan. They are now encouraged, inspired and facilitated through the al Qaeda manuals and the information available on the Internet to gain the necessary expertise to conduct terrorist operations. This has been described as "home grown" terrorism. The witness testified that there is a threat to Canada now from home-grown groups, but did not elaborate.
+[135]
+The witness agreed with the suggestion that many of the people who went to Afghanistan during the Soviet time are not of great concern to the Service. That experience may be indicative but it is not determinative of whether or not a person is a security risk. He agreed that
+when
+they went to Afghanistan and
+who
+they were planning on fighting are very significant factors. If they were traveling prior to 1989, you would expect that they were intent on fighting the Soviet occupation. During the early 1990s, they would be fighting the Soviet-installed and supported Afghani government and other insurgent groups.
+[136]
+There was a competition for control of Afghanistan after the Soviet withdrawal. Within the "mujahideen" there were at least three factions - the Taliban, the Gulbuddin Hekmatyar faction and the Northern Alliance. The Taliban seized control of Kabul and established themselves as the government in 1992. The people who joined the Northern Alliance are less of a concern. Subsequent to 2001, the Northern Alliance was no ally to the Taliban and no friend of Osama bin Laden or al Qaeda. The death of its leader, Ahmad Shah Massoud, was likely an operation conducted by al Qaeda.
+[137]
+Mr. Nabil al-Marabh (or Almarabh) was someone willing to use travel documents fraudulently. He was later linked to illicit money transfers by persons who testified at the 9/11 Commission (
+the National Commission on Terrorist Attacks Upon The United States, 2004
+). Mr. Almrei has not been linked to the 9/11 attacks or to any specific money transfers. At an address associated with al-Marabh, US law enforcement agents found people with immigration documents believed to be fraudulent and security passes for an airport. Almrei and al-Marabh were both in Afghanistan; both were linked to the jihad in Tajikistan; and both were in contact with each other in Toronto. Both are of concern to the Service. Sukhvindar is not aware of what happened to Mr. Nabil al-Marabh when he went back to Syria.
+[138]
+Sukhvindar is aware that the Syrian government has been accused of human rights violations and has been accused by other governments of alleged support of terrorist movements. His understanding is that upon Mr. Almrei's return to Syria (if that were to happen) the authorities would conduct a review. He would assume that Mr. Almrei's movement would be restricted and that an investigation would ensue. There have been discussions at CSIS about what would happen to somebody if they were sent back to Syria and were considered a threat to the government of Syria.
+[139]
+The passport that the Syrian embassy issued to Mr. Almrei for his abortive return in 2003 bore the notation "Terrorist Suspect". The Canadian government provided the Syrian government a copy of the deportation order that said that there were reasonable grounds to believe that Mr. Almrei was a member of a terrorist organization and a copy of the false passport that Mr. Almrei had in his posession that was issued by the Muslim Brotherhood.
+[140]
+The witness, on cross-examination, was not aware of a memo released during the Arar Commission hearings which indicated that there was a concern expressed by CSIS that the allegations against Arar would make it difficult to deport Mr. Almrei. However, he did expect that the Arar Commission would have ramifications for other security certificate proceedings.
+[141]
+Regarding Khattab, Sukhvindar is aware that the alleged acts of terror attributed to Khattab occurred after Mr. Almrei's contact with him. However, he believes that Khattab was engaged in violent jihad prior to 1999 in places like Tajikistan when Mr. Almrei was with him. Sukhvindar agrees that there is conflicting information regarding whether Khattab was a member of al Qaeda. The witness is comfortable saying that Khattab was someone who was committed to violent jihad and pursued the same philosophy and ideology as members of the al Qaeda network. He exported that violent jihad from Afghanistan to Tajikistan and Chechnya.
+[142]
+Sukhvindar agreed with a statement from CSIS' public allegations against Mohamed Harkat that Khattab had never been quoted as calling for jihad between Islam and the West and had never called for jihad against Americans or Jews. His struggle was against Russia and its occupation (of Muslim lands).
+[143]
+The allegation regarding Mr. al-Marabh is that Mr. Almrei arranged to obtain a false document for him (a passport). The witness understands that Mr. Almrei visited Mr. al-Marabh while he was in detention in Canada and that he had been working towards securing his release through fundraising for his bail.
+[144]
+Almrei's military training consisted, in part, of learning how to fire an AK-47 rifle, a Kalashnikov. He was also a scout, someone who is part of a military patrol. He learned how to fire a Kalashnikov and was trained in how to conduct reconnaissance patrols in Tajikistan. That would involve a whole range of soldier-like activities.
+[145]
+Sukhvindar does not know the extent of Mr. Almrei's ability in falsifying documents. He is not aware if Mr. Almrei actually manufactured or doctored passports himself. There is no evidence on the record that he has personally forged false passports. Almrei obtained a false document for himself to travel to Canada from the United Arab Emirates. He put al-Marabh in contact with someone else in order for him to obtain a false document. Seven years have passed and it is extremely unlikely that Mr. Almrei would contact the same people he had contacted in Montreal prior to his detention. The concern for CSIS is that Mr. Almrei has demonstrated an ability (false document procurement), and they consider that he retains that ability.
+[146]
+Sukhvindar agreed that the manufacturing and security features on identity documents have evolved through the last seven years, but, he says, the ability to go to a tombstone, to a tax record, to look at a baptismal certificate or to apply for a passport in another name doesn't change. The ability to procure false documents is still there.
+[147]
+The witness agrees that someone involved in the business of document procurement, especially if they are doing it for a terrorist organization, would be extremely security conscious. It is a very risky activity. Would they use "clandestine methodologies" to avoid detection? The witness submits that what they would do is not extravagant; they might go to a friend's house to make a call. They will take
+measures
+to ensure that they are not detected.
+[148]
+While Mr. Almrei is under a security certificate, his name has been widely publicized in the media and if released he would be under strict conditions, some might still contact him using clandestine methodologies.
+[149]
+CSIS' concern is not that Almrei, if released, will travel back to Afghanistan or other countries in the region, but that he has demonstrated a capacity to acquire documents that would facilitate international travel for him and for other people. In their view, he has the capability of contacting document procurers and obtaining documents that he could then use to abscond or to assist others in the al Qaeda network.
+[150]
+Although he has been in detention for 7 years and would be under strict surveillance if released, the witness does not agree that it would be difficult for him to re-integrate into the "network" because of home-grown jihadists. With his pedigree and past experiences, Almrei's release from detention would be seen as "iconic" and he would be sought out. Mr. Almrei could use any means to solicit or to encourage others to use his services. For example, surreptitious access to a computer to send a message or posting in an on-line chat room. The witness stated that there is no end to the amount of speculation that he could engage in regarding how Mr. Almrei could find ways to promote an ideology of violent jihad.
+[151]
+The fact that he is detained contains the risk of absconding. He has no access to the Internet. He has no cell phone. There is an approved call list. His visitors are controlled and must be approved by CBSA. It would appear that those conditions have created a situation where for the last seven years Mr. Almrei has not posed a threat.
+[152]
+The witness was asked if there is any evidence or if he has any knowledge that any of the others (under security certificates) have breached their conditions of release. To answer that, he stated that he would have to draw on classified information. He doesn't believe that CSIS is responsible for the monitoring of the release conditions of the other security certificate subjects. If CSIS had information on any of the released individuals that suggests they are posing a threat, they would report and advise government.
+[153]
+The concern with a release under conditions, in Sukhvindar's view, is that no degree of supervision would neutralize the threat to national security that he considers Mr. Almrei poses. The witness does not accept the proposition that the threat has been neutralized in the other security certificate cases. He does acknowledge that the threat has been neutralized to a certain level that is acceptable to the Court that ordered the release. In any event, the witness argues, the other individuals whose security certificates have been found to be reasonable should not be in Canada. They are inadmissible.
+[154]
+When asked if Mr. Almrei should be detained indefinitely if he can't be deported, the witness replied: "I am just saying that Mr. Almrei is inadmissible to Canada". His position is that Mr. Almrei engaged in activities that constituted a threat to national security and he is, therefore, inadmissible to Canada. It was pointed out that Mr. Almrei has yet to be declared inadmissible to Canada, though he has been in detention for seven years. The witness does not know if he can't be deported to another country and suggested that perhaps he could be sent somewhere other than Syria.
+[155]
+The witness stated that there is no time factor to whether or not Mr. Almrei constitutes a threat to national security. He agrees that a number of experts suggest that prolonged periods of incarceration will diminish the potential for someone to engage in the type of activity that put them into detention in the first place. He is also aware of people whose resilience and willingness to resume those activities were solidified while in detention and upon release not only resumed their activities despite any surveillance that the state imposed, but excelled and went on to lead terrorist organizations and engage in mass casualty attacks. He is not comfortable in making an assessment either way.
+[156]
+The witness is aware of the use of public control orders ("PCOs") in the United Kingdom as an alternate to indefinite detention or lengthy detention. While not aware of the specific cases, he explained that PCOs have not been entirely effective and that people have absconded while subject to them.
+[157]
+In response to questions from the Court, the witness acknowledged that CSIS would not be content to have Mr. Almrei simply leave Canada if he were released on conditions. Their preference is for Almrei to be subject to restrictions in whatever country that may take him. They can't be sure of what controls he will or will not be subject to or what actions another government may choose to pursue. Nonetheless, the witness conceded, Canada can't maintain a permanent detention facility for Sunni extremists just because we might exercise a greater degree of control if they are here and not there. Should Almrei leave Canada, they would assess what continuing risk he posed to Canada's security.
+Mr. Almrei's Witnesses:
+1. David M. Stokes
+[158]
+Mr. Stokes is a citizen of the United Kingdom (born in 1928) and a permanent resident of Canada. He currently lives in Harrowsmith, Ontario. He is a member of the Islamic Society of Kingston and has been a practicing Muslim since 1978. He is presently retired. His last employment was with the Correctional Services of Canada (CSC) Chaplaincy Program at the Canada Border Services Agency (CBSA). He was hired in March of 2006 to serve as imam, or spiritual advisor, to four detainees under security certificates, namely Mr. Harkat, Mr. Jaballah, Mr. Mahjoub and Mr. Almrei. One of his roles was to work with the inmates to improve their conditions of detention that affected their ability to practice Islam. He met with Mr. Almrei for fours hours each week. Mr. Stokes withdrew from his role as imam in September 2006 because of his wife's illness. His position as imam was assigned to Dr. Fahmy. His wife has recently passed away.
+[159]
+Since September 2006, Mr. Stokes has had occasional contact with Mr. Almrei. He was added to Mr. Almrei's list of people he could call this year. Before that time, he received updates from Dr. Fahmy. Mr. Stokes has read the public summary of the allegations against Mr. Almrei. He is offering himself as a surety because he has faith in Mr. Almrei and believes that his continued detention would be unjust. Mr. Stokes is aware of the proposed bail conditions and trusts that Mr. Almrei will comply with them because he believes him to be a good Muslim man. Mr. Stokes trusts that Mr. Almrei would not abuse his trust and would not want to lose the respect of his spiritual advisor and elder. Also, he would not want to return to jail.
+[160]
+Mr. Stokes is prepared to post a $4,000 cash bond as well as $10,000 toward a conditional bond. He understands that his bond would be forfeited should Mr. Almrei breach one of the conditions. As a surety, he would ensure that Mr. Almrei abides by the conditions and would report any breach to the authorities. His understanding is that Mr. Almrei would live in Toronto; therefore their communication would mostly be via telephone. Mr. Stokes would rely on and cooperate with the other sureties who are in closer proximity to Mr. Almrei.
+2. Mr. Chris Shannon
+[161]
+Mr. Shannon is a Canadian citizen (born in 1978) who currently lives with his wife and daughter in Hamilton, Ontario. He works full-time as an educational assistant with the Canadian Martyr's Catholic School Board in Hamilton. He first learned about Mr. Almrei's case in 2002 through Toronto Action for Social Change, a social justice organization, and began corresponding with Mr. Almrei in August of 2003. They speak on the phone every two to three months. Mr. Shannon has visited Mr. Almrei in person on six occasions, four times while he was in detention at the Metro Toronto West Detention Centre and twice since he has moved to the Kingston Immigration Holding Centre. In total, Mr. Shannon has had about 40 hours of communication with Mr. Almrei.
+[162]
+Mr. Shannon has read the CSIS public summary and is aware of the allegations against Mr. Almrei. While he finds the allegations serious, he believes that Mr. Almrei has provided a reasonable explanation for each. Based on their communications, Mr. Shannon considers Mr. Almrei to be a good man and does not believe that he is a threat to national security.
+[163]
+Mr. Shannon is proposing himself as a surety because he considers Mr. Almrei his friend and believes that Almrei would not breach his bail conditions. He is also sympathetic to Mr. Almrei's circumstances and believes that the national security process is unfair. He's prepared to post $2,000 cash, which he knows would be forfeited if Mr. Almrei were to breach any of the conditions of release. As a surety, he would ensure that Mr. Almrei complies with the conditions and would report any breach to the authorities. Because of the distance and his family obligations, Mr. Shannon is not prepared to travel to Toronto more than once a month, but would be available to communicate by telephone. He is aware of the other sureties.
+3. Mr. Alexandre ("Sacha") Trudeau
+[164]
+Mr. Trudeau is a Canadian citizen (born in 1973) and presently lives with his wife and 20 month old baby in Montréal, Québec. He is a documentary film producer and journalist. He has written several magazine articles on the reasons for his opposition to the security certificate process. He first agreed to be a surety for Mr. Almrei, and testified to that effect, in 2005 and again in 2007.
+[165]
+Mr. Trudeau and Mr. Almrei met in a professional capacity in 2005. Mr. Trudeau met with all five of the security certificate detainees in May or June of 2005 for the purposes of a documentary film he was making on security certificates. He visited Mr. Almrei five times while he was detained at the Metro West Detention Centre, for a total amount of 8 hours. They have maintained regular (monthly) telephone contact ever since.
+[166]
+Mr. Trudeau considers Mr. Almrei a friend and proposes himself for reasons of principle and because he believes that Mr. Almrei is a man of honor and integrity. He has read the CSIS public summary and is aware of the allegations against Mr. Almrei. He submits that Mr. Almrei has always been forthright about everything (including the allegations) in their discussions. Mr. Trudeau believes that Mr. Almrei has provided reasonable explanations for the allegations and suggests that these allegations should be put into context.
+[167]
+Mr. Trudeau has agreed to post a $5,000 cash bond and understands that it would be forfeited if Mr. Almrei were to breach any of the bail conditions. As a surety, he would continue to maintain regular phone contact with Mr. Almrei to ensure that he complies with the conditions. He understands that he would be obligated to report any breach to the authorities. Due to the distance and his family obligations, he is only prepared to travel to Toronto to visit Mr. Almrei in person every few months or so. Mr. Trudeau believes Mr. Almrei would comply with any conditions imposed on him. He said that Mr. Almrei is aware that many Canadians support him and would not want to lose their respect or jeopardize the friendships he has built.
+4. Mr. Hassan Ahmed
+[168]
+Mr. Ahmed is a Canadian citizen. He lives with his wife and young child in Scarborough, Ontario and owns and operates a fruit and vegetable delivery business. His income is modest ($20,000 a year), his wife does not work and he does not own any assets.
+[169]
+Mr. Ahmed has been a close friend of Mr. Almrei's since the latter came to Canada in 1999 and has testified in his last three detention reviews. Prior to Mr. Almrei's arrest and detention in 2001, they owned and operated a small restaurant called "Eat a Pita". Their partnership lasted a year. They have maintained regular phone contact since his arrest. Mr. Ahmed visited Mr. Almrei several times while he was in detention at the Metro West Detention Centre. Because of the distance, Mr. Ahmed has only managed to visit Almrei twice since he transferred to the Kingston Immigration Holding Centre. In their discussions they primarily speak about his case and his situation in jail. Mr. Ahmed also maintains contact with Mr. Almrei's brother in the United Kingdom who has sent Mr. Almrei money in the past. Mr. Ahmed is aware that Mr. Almrei has a significant amount of debt.
+[170]
+Mr. Ahmed has read the public summary and is aware of the allegations against Mr. Almrei. Specifically, he is aware that Mr. Almrei obtained a false passport from a contact in Montréal for Mr. Nabil al-Marabh, traveled on a false passport to come to Canada, referred people to a Mr. Ishak to obtain false drivers' licenses and helped a former employee of their pita shop obtain a false document for an arranged marriage. He concedes that document forgery is illegal, but believes that Mr. Almrei was involved in the business to make a profit and not for any other purpose. He does not believe that Mr. Almrei poses a risk to Canada and is satisfied that Almrei would comply with the release conditions.
+[171]
+Mr. Ahmed is proposing himself as a surety because Mr. Almrei is his friend and he believes that seven years is too long to be in detention without a charge. He is prepared to help him in any way legally possible. As a surety, he would maintain regular phone contact with Mr. Almrei and would visit him as much as possible depending on where Mr. Almrei ends up living. Mr. Ahmed is aware of the proposed conditions and he understands that his role would be to supervise him to ensure his compliance with them. Mr. Ahmed also understands that he must report any breach to the authorities. He cannot serve as a 24 hour live-in surety because of his family and work commitments, but is willing to post a $2,000 conditional bond.
+[172]
+Mr. Ahmed stated that funds have been raised by the Muslim Community through the Salahuddin Mosque in Scarborough to pay for Mr. Almrei's housing arrangements upon his release. Mr. Ahmed is aware the imam of that mosque, Mr. Aly Hindy, has been found by the Federal Court to be an unacceptable surety. Mr. Ahmed testified that his concern is not with Mr. Hindy, but with his friend Hassan.
+5. Tracey Thomas-Falconar
+[173]
+Tracey Thomas-Falconar is a Canadian citizen (born in 1967) and currently lives with her two daughters (13 and 2 years old) in Toronto, Ontario. She is a self-employed certified natural health practitioner and has flexible work hours.
+[174]
+Ms. Thomas-Falconar first learned of Mr. Almrei's case in 2002 at Camp Naivelt in Brampton, Ontario. Matthew Behrens, a long time friend and supporter of Mr. Almrei, gave a presentation on security certificates at the camp and introduced Ms. Thomas-Falconar to Mr. Almrei by phone. They spoke for about 30-45 minutes on that occasion and formed a personal relationship according to Ms. Thomas-Falconar.
+[175]
+In total since then, they have spent about 30 hours on the phone. She met him in person once in September of 2008. Ms. Thomas-Falconar is aware of the allegations against Mr. Almrei and they have discussed the proposed conditions of release. She believes the allegations to be serious, but considers that Mr. Almrei has provided reasonable explanations for them and that he could address the allegations in open court.
+[176]
+Ms. Thomas-Falconar proposes herself as a primary surety because she considers Mr. Almrei to be a close family friend and believes his release is pivotal for moving his case forward. She would like for him to be able to answer to the allegations against him and to ultimately clear his name. She is willing to put down a $2,000 cash bond from her savings, which is a significant amount for her. She is aware that the money would be forfeited should Mr. Almrei breach any one of the conditions. As a surety, she would visit him regularly, either daily or several times a week. It would depend on the proximity of his place of accommodation to hers. Some of her limitations as a surety include her family obligations, the fact that she does not have a car and that she needs to work out of her home.
+6. Dr. Mustapha Famhy
+[177]
+Dr. Fahmy is a Canadian citizen (born in 1929) and currently resides in Kingston, Ontario. He is a professor emeritus in the Department of Electrical and Computer Engineering at Queen's University in Kingston. He is also a co-founder and past-president of the Islamic Society of Kingston. Dr. Fahmy has been Mr. Almrei's imam since October 1st, 2006. He meets with Mr. Almrei twice a week for two hours on each visit. Their discussions focus primarily on spiritual aspects of Islam. However, since Dr. Fahmy has been proposed as a surety, they have discussed the allegations against Almrei and the proposed conditions of release.
+[178]
+Dr. Fahmy proposes to be a surety because he has faith in Mr. Almrei personally and believes that his continued detention would be unjust. He also believes that Mr. Almrei will abide by the conditions because he is intelligent and would not want to lose the trust and respect of his spiritual advisor. He also believes that Mr. Almrei's prolonged detention has been difficult and that he would not risk returning to jail.
+[179]
+Dr. Fahmy is willing to post a $4,000 cash bond as well as to contribute $10,000 toward a $20,000 conditional bond. He understands that this money will be forfeited should Mr. Almrei breach any one of his conditions of release. As a surety, Dr. Fahmy would communicate with Mr. Almrei primarily by phone to provide guidance and to ensure compliance with the conditions. He understands that he must report any breach to the authorities. Because he will not have much of a physical presence, he will rely on the other sureties to ensure compliance. He knows Mr. Stokes and Dr. Rahman personally.
+7. Dr. Hafizur Rahman
+[180]
+Dr. Rahman is a Canadian citizen (born in 1945) and resides in Kingston, Ontario. He is currently an Associate Professor of Electrical and Computer Engineering at the Royal Military College of Canada in Kingston. He is also a member of the Citizens Advisory Committee at Collins Bay Institution, a medium security federal penitentiary, and a past president of the Islamic Society of Kingston.
+[181]
+Dr. Rahman came to know about Mr. Almrei's circumstances through the press after he was moved to the KIHC in 2006. Dr. Rahman also heard about his case from Mr. David Stokes and Dr. Moustafa Fahmy, both members of the Islamic Society of Kingston and proposed sureties, as well as from Mr. Matthew Behrens of the organization Toronto Action for Social Change.
+[182]
+Dr. Rahman's contact with Mr. Almrei has been minimal and relatively recent. He has spoken to Mr. Almrei on the phone a few times and has met with him in person on two occasions. He has read CSIS' public summary and is aware of all the allegations against Mr. Almrei. He is proposing to be a surety because he does not believe that Mr. Almrei would be a flight risk and feels that he is sincere in undertaking to comply with the conditions of release. He also trusts the judgment and faith of Mr. Stokes and Dr. Fahmy and believes that it is unfair to detain a person for seven years without a charge and on the basis of secret evidence.
+[183]
+Dr. Rahman is willing to put forward $2,000 as a cash bond and is aware that it will be forfeited if Mr. Almrei breaches any one of the conditions of release. He also understands that he is obliged to report any such breach to the authorities. As a surety, he will contact him and monitor compliance over the telephone once or twice a week. Because of the distance, it is unlikely that he will visit Mr. Almrei in person very frequently. Dr. Rahman would rely on the other sureties.
+8. Mr. Thomas Quiggin
+[184]
+Mr. Quiggin was tendered by Mr. Almrei as an expert witness to give opinion evidence about the current state of global jihadist extremism. Counsel for the Ministers agreed to Mr. Quiggin's evidence being heard by the Court reserving the right to challenge his qualifications and the weight to be afforded his testimony after he had testified.
+[185]
+At the conclusion of Mr. Quiggin's testimony, I heard submissions from counsel as to whether he should be qualified as an expert and his opinion evidence received. Counsel for the Ministers argued that Mr. Quiggin was not qualified to provide opinion evidence and that his evidence was not objective.
+[186]
+In deciding to receive Mr. Quiggin's opinion evidence, I considered the criteria set out in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 241, which is (a) relevance; (b) necessity in assisting the trier of fact; (c) the absence of any exclusionary rule; and (d) a properly qualified expert.
+[187]
+In my view, the evidence that Mr. Quiggin gave was relevant to the facts in issue, particularly the alleged risks associated by the Ministers with the prospect of Mr. Almrei's release into the community. Moreover, Mr. Quiggin's opinion was founded on established facts and the literature in the field. Its admission was necessary to assist the Court in determining the facts and in particular, to carefully scrutinize the assessment offered by the Ministers through CSIS witnesses in both the open and closed proceedings. Counsel for the Ministers conceded that there was no other applicable exclusionary rule to prevent the reception of the witness but challenged his qualifications.
+[188]
+Mr. Quiggin has a B.A. in politics and history and an M.A. on international relations. He began a PhD at King's College, London, on strategic intelligence failures but did not complete it. He was formerly a member of the Canadian Armed Forces and has over twenty years of intelligence experience in a variety of positions and contracts with agencies including the Department of National Defence, the RCMP, CIC, the Intelligence Assessment Secretariat at the Privy Council Office, the Department of Justice, CBSA, the International War Crimes Tribunal and the United Nations force in the former Yugoslavia.
+[189]
+From April 2002 to March of 2006 he worked with the Integrated National Security Enforcement Team (INSET, previously NSIS - National Security Intelligence Section) of the RCMP as a civilian contractor. He was responsible for a series of open source intelligence matters relating to national security investigations, threats and risk to the Prime Minister, threats and risk to ministers and judges, and issues related to terrorism.
+[190]
+In December 2007, Mr. Quiggin testified before Mr. Justice Major in the Air India Inquiry on matters relating to intelligence, radicalization and terrorist financing. In 2005, he was qualified to give opinion evidence as an expert witness on the subject of the global jihadist movement by the Ontario Superior Court in a bail hearing in
+ <FRAGMENT_SUPPRESSED>  1998 Senate Commission on terrorism headed by Senator Kelly.
+[191]
+Mr. Quiggin was an adjunct senior fellow from July 2007 to April 2008 at the S. Rajaratnam School of International Studies in Singapore and a senior fellow in residence for a period of approximately 1 year and half prior to that. This institute studies security issues related to defence and intelligence, national security, and Islamist extremism. His specific focus there was risk assessment and national security intelligence matters as they relate to terrorism and other threats to the state in the Far East.
+[192]
+The witness has written a number of book chapters and papers on topics related to terrorism, security and intelligence. In 2007, his book entitled "Seeing the Invisible: National Security Intelligence Requirements in an Uncertain Age" was published. He co-authored a commentary entitled "Contemporary Terrorism and Intelligence" with a former head of MI-6, the British security service. Among other presentations, he has lectured to defence counsel at Guantanamo Bay involved in the military commission proceedings. His involvement in this case stemmed from that lecture as he was referred to counsel for Mr. Almrei by a military lawyer acting for Omar Khadr.
+[193]
+In the course of cross-examination and in oral argument, counsel for the Ministers suggested that Mr. Quiggin lacked the requisite knowledge and stature in the field of global Islamic extremism to be recognized as an expert in comparison to others who had written more extensively in the field. However, to be qualified as an expert it does not matter that other experts would have greater stature in the field than the expert called. Deficiencies in expertise go to weight, not admissibility: see for example
+ <FRAGMENT_SUPPRESSED> ; 182 O.A.C. 122 (C.A.), at para. 110.
+[194]
+There are no specific credentials that potential experts must have in order to be admitted as experts. Expert evidence must be given by a witness "who is shown to have acquired special or peculiar knowledge through study or experience in respect of the matters on which he or she undertakes to testify": <FRAGMENT_SUPPRESSED> , above, at para. 27. "The only requirement for the admission of expert opinion is that the expert witness possesses special knowledge and experience going beyond that of the trier of fact":
+ <FRAGMENT_SUPPRESSED>  O.A.C. 161, at para. 35 quoting from
+ <FRAGMENT_SUPPRESSED>  Q.A.C. 293, at p. 415  <FRAGMENT_SUPPRESSED> .
+[195]
+I was satisfied in the result that due to his work history and studies, Mr. Quiggin possesses special knowledge and experience going beyond that of the Court and that his opinion evidence would assist the Court. On occasion while testifying, Mr. Quiggin appeared to be overly enthusiastic about the topic and had to be reined in by counsel and the Court to focus on the matter at hand. But this did not mean that his evidence lacked objectivity, in my view, rather it demonstrated an excess of zeal to share his knowledge with the Court. He did not step over the line and become an advocate, as the Ministers have argued, but sought to ensure that the information before the Court was accurate and complete. While his evidence touched upon the ultimate issue, that is the risk of injury to national security that release on conditions would pose, I am satisfied that it did not go so far as to usurp the Court's function in determining that question: see <FRAGMENT_SUPPRESSED> , above at pp. 24-25  <FRAGMENT_SUPPRESSED> .
+[196]
+Accordingly, I ruled that Mr Quiggin was properly qualified to provide expert opinion evidence on the "structure, organization and evolution of the global jihadist movement" for the purpose of these proceedings and admitted his evidence.
+[197]
+In preparation for his testimony, Mr. Quiggin had read the summary to the security intelligence report, the two reference indexes (to the previous testimonies in 2003 and 2005) and the transcripts of the testimony of the CSIS officers at the previous hearings (2003 and 2005). He has not had access to any of the closed materials. He met Mr. Almrei several weeks prior to the hearing for about 5 hours in the Kingston Immigration Holding Centre.
+[198]
+Much of Mr. Quiggin's evidence focused on events and key actors in Afghanistan and region during the relevant time periods, including the individuals named by the Ministers in the public summary. I don't propose to review that evidence in these reasons as most of it pertains more to the issue of reasonableness of the security certificate, rather than Mr. Almrei's alleged present dangerousness. I will touch on those aspects of his evidence which I think are relevant to the detention review.
+[199]
+In summary, Mr. Quiggin's opinion is that any alleged danger that Mr. Almrei may pose has already been defused by the passage of time and can be more than satisfactorily neutralized through the imposition of appropriate release conditions. Any connections to al Qaeda or to individuals that share al Qaeda's ideology, if true, have been eliminated over the last 7 years given that:
+• The original al Qaeda threat, while still in existence, has largely been diminished.
+• The current al Qaeda threat is such that Mr. Almrei is not a part of that threat.
+• Any contacts that Mr. Almrei might have had would have been extinguished and he would be unlikely able to re-establish them even if he wished.
+• Without any access to the Internet or cellular phones, and the strict supervision he would be under, facilitating contact with any past persons of concern would be next to impossible.
+• Given all the publicity his case has received, it is highly unlikely that any persons of concern would risk themselves by contacting or associating with Mr. Almrei.
+[200]
+Mr. Quiggin questioned CSIS' use of the term "Bin Laden Network". He hadn't seen it effectively defined in the Ministers' materials. The term, in his view, is vague and inconclusive and is not used in the academic literature. As employed by CSIS and in the Ministers' submissions, it appeared to Mr. Quiggin that they included core al Qaeda but also associated groups, "home-grown jihadists" but also anybody who may be a sympathizer or who has an interest in al Qaeda's "philosophy". This is all-encompassing and not very helpful in attempting to assess a threat, in his view.
+[201]
+One important element of the Ministers' case is the claim that Almrei has "espoused the Bin Laden philosophy" or "ideology". The witness stated that he had not seen a clear indication of what was meant by this assertion. CSIS has not identified what it is they mean exactly by "ideology" or which aspects of al Qaeda's ideology they are referring to.
+[202]
+In the witness's opinion, one of the key issues in this case is the distinction between "defensive jihad" and "offensive jihad". The concept of defensive jihad is found in the Koran and has been approved by a number of senior and moderate Islamic scholars. If a Muslim majority territory is attacked from the outside by non-Muslim individuals, it is the obligation of Muslims to defend that state; there is a legitimate right to self-defence. This is consistent, in the witness' view, with the UN
+Charter
+and NATO's
+Charter
+.
+[203]
+The important thing in Mr. Quiggin's view is to distinguish between defensive and offensive jihad and when defensive jihad ends and the other begins. The period from 1979 to 1992 in Afghanistan constituted defensive jihad because the fight was against the Soviet invasion or the puppet government that was left in place by the Soviets when they left.
+[204]
+Many young Arab males went to Afghanistan to participate at one level or another in the defensive jihad. Most of them returned to "normal life" after that. Only a small proportion joined al Qaeda and carried out violent activities afterward. Most did not become part of or continue with al Qaeda and its ongoing campaign of offensive jihad.
+[205]
+In Mr. Quiggin's view, it is too simplistic to assume that anyone who went to Afghanistan to train and to participate in the defensive jihad between 1979 and 1992 espouses Bin Laden's philosophy that the fight should be taken to the "farther enemy", that is western developed countries. The presence of Almrei in Tajikistan in 1994 is an interesting indicator and something worthy of further investigation in his opinion, but is by no means conclusive of actual participation or membership in al Qaeda or associated group.
+[206]
+It is difficult to say that someone fighting in Tajikistan at that time was a member of al Qaeda or was al Qaeda affiliated because al Qaeda was not directing or carrying out most of the operations. The fight in Tajikistan was seen by most moderate scholars as an extended form of defensive jihad and not part of the al Qaeda operation, according to Mr. Quiggin.
+[207]
+In the witness' view, Almrei was motivated to participate in defensive jihad in Afghanistan and Tajikistan. Mr. Quiggin does not see how that translates into a threat to the national security of any country that Almrei may live in. Bin Laden went to Sudan in 1992 and stayed there until 1996. Some of his followers went with him. There is no evidence that Mr. Almrei did so. If he had, it would put him into an entire different context because Bin Laden's activities in Sudan at the time were much more offensively related. That would cause significant concern.
+[208]
+In any event, given that he has been in isolation for 7 years, given that al Qaeda's core membership has been essentially decimated (about 80% or more of the core al Qaeda are either in jail, dead or have disappeared), given that his alleged relationship to certain individuals is fairly doubtful to start with (there is nothing to show that he was ever linked with those individuals who advocated a violent offensive jihad against the west), Mr. Quiggin is of the view that there is a limited chance that Mr. Almrei has any connections left that could pose a risk to Canada.
+[209]
+Considering that his story has been widely publicized, Mr. Quiggin said that it is unlikely that anyone who was a former member of the network or who is currently a member of the network would want to contact him. In those circles, Almrei would be regarded by many with great suspicion because he's been under the control of the state intelligence service. There is the potential that he has been "turned" by CSIS. Others would be reluctant to contact Mr. Almrei because of the strict surveillance he will be under.
+[210]
+Mr. Quiggin finds it difficult to believe that Mr. Almrei would be much use to an ongoing plot in Canada. His training in Afghanistan consisted of basic infantry training. Training of that nature has not been used in any homegrown jihadist plot thus far. His technical training was limited in terms of computer usage and is now 7 years out of date. He would be a liability in any kind of operation that would require crossing a border given the publicity of his case.
+[211]
+In terms of procuring passports from others, Mr. Almrei's ability to contact individuals would be quite limited, supposing of course he knew someone who is still in the business 7 years later. CSIS and CBSA would be monitoring his communications and activities. In brief, in Mr. Quiggin's view, Mr. Almrei would be "too hot to deal with".
+[212]
+Mr. Quiggin was examined on the effects of Mr. Almrei's detention with other security certificate detainees. Evidence was tendered, namely a Rand Report on Group Dynamics, which indicates that the level of radicalization of like-minded individuals from a group who are incarcerated together will increase over time rather than decrease. Mr. Quiggin's response was that  <FRAGMENT_SUPPRESSED> 's case, the finding is not valid because he was not imprisoned with a group of like-minded individuals. He has been held in isolation most of the time. When he was held in close concert with other individuals, they weren't from his group and did not share the same experience or background. There is no evidence to suggest that he's become more radicalized as a result of his experience in jail.
+[213]
+The witness did not consider that release would be considered as a victory for al Qaeda because, in his view, Mr. Almrei is a "small fish" and it is unlikely that his release is going to cause any kind of stir in the international community. Mr. Quiggin could not think of an example where the release of an individual caused some kind of a propaganda stir or was touted as some sort of victory.
+[214]
+The witness conceded that there is some substance to the suggestion that some people would be attracted to Mr. Almrei, especially the homegrown types, because he is allegedly connected to al Qaeda. Some may try to communicate with him upon his release. There are naïve and impressionable individuals. The "al Qaeda wannabes'" outlook may be that they are initially impressed of the fact that Mr. Almrei went to the jihad in Afghanistan and spent 7 years in jail for his efforts. They would be disappointed to learn that he was only involved in the defensive jihad. They would find it difficult to contact him in any event if appropriate conditions were in place.
+[215]
+On the assumption that the allegations against Mr. Almrei are valid, Mr. Quiggin was asked to provide his views on appropriate release conditions. Most important, he said, would be to cut off electronic communications. Mr. Almrei should not be given access to cell phones, Blackberries, pagers, the Internet or any device having access to the Internet.
+[216]
+If Mr. Almrei has a telephone land line, Mr. Quiggin said, authorities must be aware of who he contacts and must monitor all three-way calls. They must also be aware of who he meets or travels with publicly (with a surety). Coming and goings should be monitored. He assumes that CBSA or CSIS would have him under surveillance.
+[217]
+Mr. Quiggin was closely cross-examined on his knowledge of Islamic extremism and awareness of the literature in the field dealing with the use of false documents. He has not published anything on that subject. From his perspective, the use of false documents has not been a major concern. He questioned an assertion in an article that "identity fraud involving the misuse of passports is intrinsically connected with international terrorism." Mr. Quiggin said that it is a matter of degree. Misuse of documents and fraudulent documents will be found within any clandestine organization. But he is not aware of significant cases where terrorists used a false document to cross a border to commit an act of terrorism. And there have been instances, such as 9/11, where the terrorists travelled under their own identity documents.
+Submissions
+The case for continued detention:
+[218]
+As noted above, the Ministers filed written submissions and made oral argument in support of their position that Mr. Almrei's detention must be continued because his release on the proposed conditions would be injurious to Canada's national security and because he poses a flight risk. A classified version of the written submissions which includes references to the closed material was filed ex parte and counsel for the Ministers made oral submissions in a closed session to which the special advocates responded. These reasons will refer only to the open material and submissions filed. The closed material and submissions made in private have been taken into consideration in arriving at this decision.
+[219]
+The Ministers submit that the record before the Court does not support a finding that Mr. Almrei may be safely released to the supervision of his proposed sureties. The proposal for release does not address Mr. Almrei's history and capabilities, in their view. The proposed sureties are inadequate to the task of supervising and monitoring him to counteract the threat he poses and to guarantee his appearance at proceedings concerning him and for his eventual removal from Canada.
+[220]
+The Minister's characterization of the threat that Mr. Almrei is said to pose does not include the allegation that he presents a risk to the safety of any person, one of the grounds for continuing detention under subsection 82(5) of
+IRPA
+. They concede that the evidence on the record would not support such a conclusion.
+[221]
+Much of the Security Intelligence Report, prepared by CSIS on information from unclassified sources, human sources, intercepts, physical surveillance and foreign and domestic agencies, consists of references to the threat posed by Osama Bin Laden and Al Qaeda overall and in relation to Canada. That which is specific to Mr. Almrei can be reduced to the following allegations:
+• That Almrei supports the extremist Islamist ideology espoused by Osama Bin Laden, that he has connections to persons who share that ideology and that, through his involvement in an international document forgery ring, has the ability and capacity to facilitate the movement of those persons in Canada and abroad who would commit terrorist acts.
+• Almrei lied to Canadian officials, tribunals and courts about his travels before coming to Canada.
+• The Bin Laden Network is founded on the commitment of its members to its leader and his ideals held together by bonds of kinship. Almrei shares these bonds and has demonstrated his support of Bin Laden, those associated with or sponsored by him and his ideology.
+• Almrei is associated with Arab Afghans connected to the Bin Laden network including Ibn Khattab, Nabil al-Marabh, Ahmed al Kaysee and Hoshem al Taha.
+• Almrei is able to and has international connections to procure false documentation. He obtained a false Canadian passport for Nabil al-Marabh, he knew individuals in Montreal who could obtain false documents, he travelled to Thailand and met a human smuggler and discussed false passports with him, he arranged a marriage of convenience in Canada, he made referrals for U.S. and Canadian drivers' licences, and a person he knew was detained in the U.S. in 2001 with thirteen packages of identity documents including passports.
+• Almrei has demonstrated concern for his security and an understanding of security procedures.
+[222]
+The Ministers submit that Mr. Almrei's lack of credibility, as found by the judges who presided over the prior release applications, is relevant in considering whether he poses a danger if released. Where, they argue, previous judges have heard the testimony of Mr. Almrei, but this Court has not, the findings of those judges must stand; in particular, that he lied to Canadian officials and that he revealed information and admitted lies only when it was no longer possible to maintain the untruths. The Ministers point to findings regarding Mr. Almrei's views and beliefs about Islamist extremism, his expertise in document procurement and capacity to use surreptitious means of communication.
+[223]
+Almrei has the ability and capacity to facilitate the movement of individuals in Canada and abroad who would commit terrorist acts, it is argued. While Mr. Almrei's detention may have diminished the severity of the threat, it has not negated it. His release would place him in a position to re-establish his false document activities and to re-establish contact with individuals who, like him, share the extremist ideology espoused by Osama Bin Laden. The Ministers submit that Almrei's detention disrupted a significant logistical support service which could be available to extremists in Canada and abroad.
+[224]
+The terms and conditions proposed by Mr. Almrei for his release do not address the danger to national security that his release would pose, in the Ministers' submission. They argue that, based on the evidence of his previous lies, Mr. Almrei will not abide by any terms or conditions that could be imposed upon him. The imposition of stringent terms and conditions or restrictions does not, on its own, ensure neutralization of risk. To neutralize risk, one must ensure that the subject actually complies with imposed terms and conditions, which is achieved through constant monitoring. The proposed release plan does not provide for Mr. Almrei to live with a supervising surety and that responsibility can't be delegated to the security agencies.
+[225]
+The Ministers contend that, if released under the proposed conditions, Mr. Almrei is unlikely to appear for his eventual removal from Canada. He would either flee from the Court's jurisdiction or go "underground". They point to his history, capability and willingness to procure false documents coupled with his unwillingness to be removed to his country of nationality.
+[226]
+None of the proposed sureties would be able to ensure that Mr. Almrei abided by the conditions and appeared for removal, the Ministers submit, and that difficulty cannot be solved by either relying on various technological devices such as ankle bracelets or by delegating the supervisory work to the Ministers or any agencies under their control. In brief, he could be long gone before the authorities are notified by the electronic monitoring devices that he has departed. Constant supervision would be required and that is not available under the proposed regime. His knowledge of how to obtain false documents and contacts with those who provide them would assist him to make good his escape and to survive underground.
+The case for release
+:
+[227]
+Mr. Almrei has now been in detention for 7 years and he submits that it is unconscionable for him to be held in detention for any longer. He has been detained longer than any of the other persons currently subject to a security certificate. The majority of this time has been spent in segregation. Since April 2007, he has been the sole detainee at the KIHC at Millhaven, a maximum-security institution. His contacts with the outside world have been severely constrained and limited to telephone calls to and visits from an approved list of persons. Visits by other persons have been greatly curtailed given the isolated location of the KIHC facility.
+[228]
+Mr. Almrei is a recognized Convention refugee based on risk of persecution by his sole country of citizenship, Syria. If returned to Syria, he says, he will be persecuted, detained and subjected to torture. Given the evidence before the Court on the human rights situation  <FRAGMENT_SUPPRESSED> , and given that the government has communicated to Syria that Mr. Almrei is a suspected terrorist, the risk to him is such that he likely could not be legally deported to that country. While he has lived in both Saudi Arabia and Jordan and had visas to enter Pakistan, he has no status in those countries.
+[229]
+The current proceedings in relation to the reasonableness of the security certificate are likely to be prolonged. There is no reasonable prospect of him being removed from Canada at any time in the near future. The best estimate of the Minister's witness was that it would take at least ten months after a reasonableness determination.
+[230]
+Given his personal circumstances, Mr. Almrei argues that he cannot obtain a live-in surety. The responsibilities of a live-in surety are extremely onerous. They require full-time supervision in shared premises and living under constant surveillance. It is unreasonable to impose such an obligation on anyone other than a spouse or a very close family member. He has put forward an alternative proposal that would see him under house arrest without access to the Internet or other wireless device; constantly monitored by GPS, video, and CBSA; further monitored by sureties, seven of whom he has proposed to the Court; and would see his communications restricted and open to examination.
+[231]
+Mr. Almrei submits that the arguments raised by the Ministers are based on speculation and assumptions about the risk that he allegedly poses: that despite the evidence to the contrary expressed by the witnesses who have testified in his support that he maintains pro-Bin Laden ideas; that he would be willing to risk detention again in order to act on those ideas; that he would still be of use to the Bin Laden network given his profile and that any person who risks contact with him would likely be exposed to the security agencies.
+[232]
+As the length of detention increases, Mr. Almrei contends that the evidentiary burden on the Ministers to justify detention increases as well. Thus, in the case at bar, given that the detention has now exceeded seven years, the Ministers must produce highly credible evidence, not based on speculation, that he poses a continuing danger to national security for which there is no alternative to detention.
+[233]
+The public evidence suggests that many of the inferences that the Minister seeks to draw from this evidence are not sustainable, in Mr. Almrei's submission. The expert evidence of Thomas Quiggin indicates that the connections to defensive jihad in Afghanistan and Tajikistan do not support an inference that Mr. Almrei is connected to the Bin Laden network. In addition Mr. Almrei's connections to Sayab and Khattab are equally inconclusive. The Ministers have not to date suggested that Mr. Almrei poses a danger to any individual. Mr. Almrei acknowledges that he did engage in illegal activity when he procured false documents and assisted a person to arrange a false marriage. He submits that such activity does not support an inference that today he poses a danger to national security.
+[234]
+Mr. Almrei has also submitted that his continued detention under
+IRPA
+is both illegal and contrary to the
+Charter
+. In view of the conclusion that I have reached with respect to his release from detention, I do not consider it necessary to address those submissions.
+Analysis
+[235]
+In support of the case for Mr. Almrei's continued detention, the Ministers rely on the information and evidence provided in both the open and closed sessions. These reasons will deal only with the public information and evidence but the conclusion I have reached is based also on my assessment of the evidence heard and information received in the closed sessions in the absence of Mr. Almrei, his counsel and the public. It is useful to highlight again that the Court is authorized to receive into evidence anything that it considers reliable and appropriate, even if it would be normally inadmissible in a court of law, including information provided by a confidential informant or foreign intelligence service, and may base a decision on that evidence: (
+IRPA
+section 76 and para. 83(1)(h)).
+[236]
+It is also important to stress that the decision I have reached with regard to Mr. Almrei's detention does not foreclose a determination that the certificate is reasonable. In
+Suresh
+it was held that a finding that a security certificate is reasonable is not the same as a finding that the person named is actually a danger (at para. 83). Similarly, a finding that any risk of injury to national security from release will be mitigated by conditions is not the same as a finding that the certificate is unreasonable. Both parties will have additional evidence to present. Additional information may be forthcoming as a result of the October 10, 2008 disclosure order. It is expected that Mr. Almrei will testify and be cross-examined. Any comments in these reasons regarding the strength of either party's case should not be taken, therefore, as indicating that a conclusion has been reached regarding the reasonableness of the certificate.
+[237]
+As directed by the Supreme Court  <FRAGMENT_SUPPRESSED>  1
+, I must consider the following five, non-exclusive, factors in determining whether Mr. Almrei's conditional release would be injurious to national security or make it likely that he would abscond:
+1. Reasons for detention;
+2. Length of detention;
+3. Reasons for delay in deportation;
+4. Anticipated future length of detention; and
+5. Availability of alternatives to detention.
+1.
+Reasons for detention
+[238]
+I think it useful to recall that in the case presented by the Ministers it is
+not
+alleged:
+a. That Mr. Almrei is a member of al Qaeda or the Muslim Brotherhood;
+b. That he has or will participate in an act of violence in  <FRAGMENT_SUPPRESSED>  or other identity documents;
+e. That mere participation in the conflict in Afghanistan or training to participate in the jihad in that region would be the sole indicator of someone who constitutes a threat to the national security of Canada.
+[239]
+What is alleged is, in essence:
+a. That Mr. Almrei supports the extremist Islamist philosophy espoused by Bin Laden;
+b. That he has connections to persons who share that philosophy and has the background, training and history to attract others of like mind;
+c. That he was involved in an international false document ring and thus has the ability and capacity to facilitate the movement of persons who could commit terrorist acts;
+d. That he would use his talent at procuring false documents to facilitate his own absconding.
+[240]
+The evidence establishes that Mr. Almrei, like many thousands of other young Muslim Arab men, followed the call to engage in jihad in Afghanistan when that country was governed by a puppet regime controlled by Moscow. That in itself would not be a sufficient indicator that he constitutes a threat to national security, even in the broad sense contemplated by the
+Suresh
+test which includes the security of other nations. The jihad against the Najibullah regime was financially supported by the U.S., Saudi Arabia and Pakistan and the mujahideen, including the Taliban, were encouraged to bring down that government to eliminate the Soviet influence over the country. It was not, of course, contemplated that the country would become a refuge for Bin Laden and a base from which he could direct terrorist operations abroad. That development occurred later when he and his followers were forced out of Sudan.
+[241]
+By returning several times to Afghanistan and by going on to Tajikistan with al Khattab to continue the fight against the Soviets/Russians after the Taliban had taken over in Afghanistan, Mr. Almrei went further then most who trained to serve as mujahideen. In doing so, he distinguished himself from the masses of "Afghan Arabs" who went there to fight during that period, did their part and then went home to get on with their lives. This has contributed, significantly, to the suspicions which subsequently arose against him.
+[242]
+Almrei's associations with Abdurrab Rasul Sayyaf and Ibn Khattab are troubling, but on the record presently before me, the evidence is not clear that either of these two guerrilla leaders subscribed to Bin Laden's global jihadist philosophy. Although it is apparent that they had contact with and received funding from the Al Qaeda leader, Bin Laden provided material support to a number of jihadist factions fighting the Afghan government and the Russians in the region that are not considered to be part of Al Qaeda or its network.
+[243]
+It is telling that Sayyaf, an Islamic scholar and teacher before he became a jihadist, emerged from the defeat of the Taliban to become a member of the Afghan Parliament in Hamid Karzai's administration. As Mr. Quiggin suggested, it is difficult to believe that he would have escaped arrest and transportation to Guantanamo by the U.S. authorities, or detention by the new Afghan government, had he been seen to be closely associated with Bin Laden and Al Qaeda.
+[244]
+Ibn Khattab's origins, actions and allegiances are obscure. What is clear is that his zeal was to carry the jihad to other Muslim majority lands such as Tajikistan and Chechnya that were under Soviet and later Russian control. He likely accepted financial support at times from Bin Laden. What is not clear from the record before me at present is whether he bought into Bin Laden's notion of a new caliphate and war against the "far enemy", that is Israel and western countries including Canada. The Russians, not surprisingly, viewed Khattab and his organization as terrorists. The evidence from other, perhaps more objective sources, puts that in question.
+[245]
+Sukhvindar agreed with the suggestion put to him in cross-examination, from statements in a brief prepared by the Service, that Khattab had never been heard to call for jihad against the west. In any event, Almrei's contacts with Khattab and Khattab's death pre-date the period in which the latter's organization is alleged by the Russians to have contributed to terrorist acts in that country.
+[246]
+Mr. Almrei's associations with certain individuals in Canada are also troubling in that they may indicate a willingness to maintain contact with persons who had also participated in jihad and who may hold extremist views. Moreover, he withheld information from and misled Canadian officials and tribunals about his involvement in jihad, namely that he had stayed at Sayyaf's guest house and training camp, his Arab-Afghan connections and his travels to Afghanistan and Tajikistan.
+[247]
+Almrei misled immigration officials and the IRB about the travel documents he used to come to Canada. He said he had destroyed them but they were subsequently found in his possession. He held an unauthorized passport issued by the Muslim Brotherhood. He arranged a marriage of convenience and provided a fraudulent reference letter to an individual who was detained by U.S. authorities with 13 packages of identity documents including passports. He has acknowledged having travelled to Thailand and developing a contact there with a human smuggler.
+[248]
+Almrei assisted Nabil al-Marabh to obtain false documents to enter the U.S. Documentary evidence suggests that al-Marabh had links to money launderers and to the 9/11 terrorists. However, al-Marabh was never charged with any terrorist related offences and was ultimately deported to Syria for violating U.S. immigration laws. According to correspondence from Amnesty International filed in these proceedings, he was subsequently arrested by the Syrians and remains in custody there.
+[249]
+It is clear that Mr. Almrei engaged in illicit activities involving the procurement of false identity and travel documents both before and after he came to Canada. He had sources both in this country and abroad for such documents and was prepared to use them for his own benefit and that of others also involved in illegality. Whether those sources would still be available to him today is questionable, but the Court must be alert to the possibility that, given the opportunity, he might resume those activities.
+[250]
+I have given little weight to the evidence that Mr. Almrei had access to areas at Pearson International Airport that was referred to in the public summary and in Sukhvindar's evidence. First, the Ministers did not press this evidence in their arguments in support of his continued detention. The evidence suggests that Almrei was employed there in a service capacity, i.e., cleaning and restocking planes. While he was evidently using a security pass not issued to him but to someone else, the Ministers have not, as yet, provided the RCMP reports or other information about the results of the investigation. Lax security at airports is a major concern. Evidence that Mr. Almrei had deliberately sought access to collect information about security measures at Pearson would weigh heavily against him. However, on the present state of the record I can draw no conclusions.
+[251]
+Similarly, I put no weight on the Rand Corporation study about the effects of prolonged incarceration. I accept that there is a real risk of increasing the radicalization and extremism of those motivated by political or religious ideology if they are detained for long periods with others of like mind. But the conditions underlying the study are not sufficiently comparable to those respecting Mr. Almrei's detention and the findings are not consistent with the observations of the proposed sureties who have come to know Mr. Almrei while he has been detained.
+[252]
+The Ministers contend that the procurement of travel and identity documents is
+essential
+for the undetected movement of individuals engaging in global terrorism. This assertion was supported by Sukhvindar's evidence and documentary evidence entered into the record. Mr. Quiggin accepted that the procurement of false documents plays a role but questioned whether it could be characterized as "essential" in facillitating global terrorism in light of evidence that terrorists frequently travel on their own identity documents, including those responsible for 9/11, or find it relatively easy to obtain false documents through their own efforts. Ahmed Ressam, for example, the so-called Millennium bomber, took a name from a child's tombstone and used that to acquire official identity documents. . Examples can easily be found to illustrate the Ministers'contention. The question is whether the fact that false identity papers can be used by terrorists contributes much in support of Mr. Almrei's continued detention.
+[253]
+Mr. Quiggin questioned whether Mr. Almrei's contacts and sources would be of any value to a terrorist organization at this time. He described Almrei as at best a "small fish" who, if he was ever considered an asset to such an organization or network, was now compromised by his arrest and prolonged detention. His release would invite suspicion that he had agreed to cooperate with the authorities. Anyone contacting Almrei would have to assume that he was under surveillance and that his communications were being monitored. Why would they take the risk?
+[254]
+While the "small fish" characterization was needlessly pejorative it does illustrate one aspect of this case that has caused me some difficulty. There is no evidence that Mr. Almrei was himself was capable of producing false documents. The evidence is that he had contacts in Canada and in Thailand that could provide them and that he had done so on at least one occasion. It does not support the conclusion that he was so adept at procurement that he would be a highly valued member of an illicit network.
+[255]
+Mr. Quiggin's evidence was not without its weaknesses, including that he was on occasion too quick to venture an opinion on matters on which he had views but no expertise. However, I have given considerable weight to his testimony about the structure and evolution of the global jihadi movement and how it relates to Mr. Almrei's history and present status. His evidence also called into question some of the assumptions underlying the CSIS assessment of Mr. Almrei, as set out in Sukhvindar's evidence and the public summary of the information. Mr. Quiggin did not have access to the private information relied upon by Ministers so the scope of his evidence was limited. Nonetheless, I found it helpful in weighing the strength of the government's case.
+[256]
+While Sukhvindar's evidence was informed by the knowledge and experience he has gained over several decades of working in the field of intelligence collection and counter-terrorism, his assessment of risk ,was, to a considerable degree, speculative Indeed, he conceded on cross-examination that there was no end to the speculation he could engage in with regard to the potential means by which Mr. Almrei could surreptitiously communicate with others who could provide false documents or who may wish to engage in terrorism.
+[257]
+Conjecture is, I expect, a necessary element of the intelligence function. Analysts must piece together disparate bits of information to conduct a risk assessment. Elements of the picture may be missing. Human sources of varying reliability provide information which may or may not be accurate. Inferences have to be drawn from the available information. But the Court is not engaged in a similar assessment. It must find reasonable grounds to support Mr. Almrei's continued detention; that is, an objective basis on compelling and credible information:
+Charkaoui 1
+, above, at para. 39; <FRAGMENT_SUPPRESSED> , above, at para. 114.
+[258]
+The Ministers also grounded their submissions in part on speculation. They argued, for example, that the risk Mr. Almrei poses cannot be contained because he may have connections to terrorists that Canadian authorities may not be aware of and that surveillance may be ineffective because the agents won't know whether a person who stands next to Mr. Almrei in a grocery store line-up is a stranger or a friend. While I accept that there are limits to intelligence and surveillance capabilities, I found this to be overreaching. The decision to continue to detain an individual should not be dependent upon fear of the unknown but credible and compelling information that his release would pose a threat.
+[259]
+While the potential for injury to national security is the more important ground for maintaining detention, the statute also provides that release may be withheld if the Court is satisfied that conditions will not prevent the person from absconding. The Ministers' argument that Mr. Almrei would be unlikely to appear at a proceeding or for removal if he were to be released under conditions is based on his demonstrated capability to procure and inclination to use false documents and his unwillingness to be removed to his country of nationality.
+[260]
+The evidence of the CBSA witness, Mr. Towaij, was that the Syrian Embassy was informed in 2003 that Mr. Almrei was considered a terrorist suspect by the Government of Canada and that he was in possession of a passport issued by the Muslim Brotherhood. It is reasonable to assume, as Sukhvindar acknowledged, that Almrei would be apprehended and detained upon return to Syria. In light of the information on the public record about the treatment of detainees by the Syrian government, Mr. Almrei's unwillingness to be returned to Syria is not a consideration deserving of any weight in this determination.
+[261]
+It is a valid concern that Mr. Almrei had the contacts and the knowledge of how to acquire false identity documents seven years ago, and may be able to acquire them again. I accept that physical surveillance and electronic monitoring technologies are not infallible. Mr. Almrei could, if determined to do so, evade them. He has been described by this Court as exhibiting "( ... ) patience, strength, determination, endurance and self-discipline and is not easily diverted from his objectives" (
+Almrei 5
+, above, at para. 417), all of which would no doubt assist him should he choose to abscond. I also accept that the sureties would not be able to prevent this given that none of them would be constantly present.
+[262]
+Mr. Almrei has pointed to the United Kingdom experience with control orders as an example of an approach that limits the risk of harm to security interests while allowing for some measure of liberty for the individual. These orders include severe restrictions analogous to conditional release under the Canadian legislation. The Ministers argue that the fact that several control order subjects in the UK have absconded means that they are not a reliable means of protecting the public interest. That is a concern but absolute certainty is not the standard. The question is whether there are reasonable grounds to believe that it is likely that conditional release will result in the subject absconding.
+[263]
+It is difficult to believe that Mr. Almrei, if released, would want to leave Canada as he would be at considerable risk of being deported to Syria and detained if apprehended in another country. He could arrange to leave now, with the Ministers' approval, if there was another country willing to accept him and to which he wished to go.
+[264]
+What is more conceivable is that Mr. Almrei might go underground within Canada if he was released on conditions and the prospect of removal was looming. This is not uncommon in immigration cases, as his counsel acknowledged. The question is why he would want to take the risk that he would be apprehended and returned to custody. His removal, assuming all of the necessary steps are completed successfully, is far from imminent and may never arrive. In the circumstances, I am not convinced that the Ministers have established a prima facie case that he will abscond.
+2.
+Length of detention
+[265]
+The Supreme Court recognized that this was an important factor, both from the perspective of the individual and from the perspective of national security, as the longer the period the less likely it would be that an individual would remain a threat to security:
+Charkaoui 1
+, above, at para. 112. The Court went on to say at paragraph 113 that:
+"A longer period of detention would also signify that the government would have had more time to gather evidence establishing the nature of the threat posed by the detained person. While the government's evidentiary onus may not be heavy at the initial detention review (...), it must be heavier when the government has had more time to investigate and document the threat."
+[266]
+The government's case against Mr. Almrei has remained substantially unchanged for seven years. Many of the documentary sources cited by the Ministers in the present proceedings pre-date 2001. There is no evidence before me that the government has made profitable use of the seven years that it has had to "investigate and document the threat" which Mr. Almrei is alleged to pose to improve the case against him.
+[267]
+In
+Charkaoui, Re
+, [2005] F.C.J. No. 269; 261 F.T.R. 11; 2005 FC 248, at paras. 36-39, Justice Simon Noël discussed whether the danger to national security may exist at one moment and not at another. He accepted that danger may in fact be imminent at one point but is subsequently neutralized. The designated judge must determine whether it
+still
+exists. At paragraph 68 he concluded that the danger in Mr. Charkaoui's case had been neutralized as a result of him being in preventive detention for twenty-one months where his contacts with the outside world had been "extremely limited and his comings and goings have been limited to the prison setting."
+[268]
+In
+Jaballah, Re
+, [2007] F.C.J. No. 518; 296 F.T.R. 1; 2007 FC 379, at para. 22, Justice Carolyn Layden-Stevenson stated that in view of Mr. Jaballah's detention of five and a half years:
+"(...) the court should be able to conclude with confidence that any danger that he may have posed to the security of Canada, which would justify his detention, has now been brought within a manageable level because of his lengthy detention, the disruption of any contact that he may once have had, and his public exposure (...)."
+[269]
+Similarly, in
+Harkat, Re
+, [2006] F.C.J. No. 770; 278 F.T.R. 118; 2006 FC 628, at para. 86, Justice Eleanor Dawson based her decision to release Mr. Harkat in part on the fact that the long period of detention meant that "his ability to communicate with persons in the Islamic extremist network has been disrupted".
+[270]
+The length of detention in Mr. Almrei's case now exceeds seven years. It is difficult to find any comparable cases in the common law world where a person detained on security grounds has been held for so long. While this factor does not outweigh all other considerations, it must count heavily in favour of his release.
+3.
+Reasons for delay in deportation
+[271]
+The Supreme Court held that recourse by the government or the individual to the applicable provisions of the
+IRPA
+that are reasonable in the circumstances and recourse by the individual to reasonable
+Charter
+challenges should not count against either party. Unexplained delay or lack of diligence should count against the offending party:
+Charkaoui 1
+, at para. 114.
+[272]
+Mr. Almrei submits that the Ministers are responsible for delay in not responding quickly enough to the
+Charkaoui 2
+decision respecting disclosure. The Ministers' response is that it was up to the Court to determine what disclosure was required. They contend that Mr. Almrei was dilatory in not applying for a detention review within sixty days of the coming into force of the amending legislation (
+Bill C-3
+).
+[273]
+In my view, in all of the circumstances of this case, this factor should be considered as neutral. I do not consider that Mr. Almrei was slow to act upon his statutory right to a prompt detention review when his legal representation was uncertain and there were a number of preliminary matters to resolve. Similarly, the scope and effect of the Supreme Court's decision  <FRAGMENT_SUPPRESSED>  2
+, issued in June 2008, remained unclear to all parties and the Court until submissions were made and considered during the fall months.
+4.
+Anticipated future length of detention
+[274]
+This factor will weigh in favour of release "if there will be a lengthy detention before deportation or if the future detention time cannot be ascertained":
+Charkaoui 1
+at para. 115.
+[275]
+The conclusion is inescapable from the evidence that the length of Mr. Almrei's future detention can not be determined should he not be released on conditions. The Ministers concede that there is no certain date in relation to Mr. Almrei's removal. The evidence of Mr. Towaij was candid and realistic in that respect. In view of concerns about the treatment of detainees  <FRAGMENT_SUPPRESSED> , it is unlikely that Mr. Almrei could be removed to that country in the foreseeable future. Given that he has been characterized as a Bin Laden supporter by the Canadian government, it is also unlikely that there is another country prepared to accept him.
+5.
+Availability of alternatives to detention
+[276]
+This is the ground upon which Mr. Almrei's last application for release foundered. Justice Lemieux had reached the conclusion that, based on his weighing and balancing of all of the factors, Mr. Almrei should be released but for his finding that "the proposed conditions of his release would not, on a balance of probabilities, contain or diminish the risk he represents":
+Almrei 6
+, above, at para. 56. I have reached a different conclusion in part because on the basis of the record before me, which I again stress was different from that before Justice Lemieux, I attribute less weight to the risk that Mr. Almrei is alleged to pose and have applied the reasonable grounds to believe standard.
+[277]
+Mr. Almrei's principle difficulty thus far has been the fact that he has no family network in Canada and has thus been unable to come up with a proposal for supervising sureties similar to those that were relied upon in the release decisions respecting the other security certificate detainees. Early in these proceedings, I encouraged Mr. Almrei's counsel to seek opportunities for Mr. Almrei to live in a structured environment with responsible adults who could substitute for the family members he lacks. Affidavit evidence was filed with the Court outlining that inquiries had been made to find such a solution but that they had been unsuccessful. Nonetheless, he has support within the community including from the proposed sureties who have placed their trust in him and pledged their money to ensure that he will abide by the conditions and appear for any proceedings or, if necessary, for removal.
+[278]
+Having considered the matter carefully and with serious reservations, I have come to the conclusion that a supervising surety living in the same residence is not an essential element of a conditional release plan. The fact that it has served as an important aspect of the release plans of other security detainees is a relevant consideration that carries much weight. I note that in several of those decisions, the issue of danger to national security was conceded in order to go directly to the question of whether the risk would be neutralized by conditions: see
+Jaballah
+, above, at para. 2;
+Harkat
+, above, at para. 68; and
+ <FRAGMENT_SUPPRESSED> ; 309 F.T.R. 72; 2007 FC 171, at paras. 115-117. Hence, the role of the supervising surety resident in the household was of greater importance and may well have been a critical factor in the release decision: see, for example,
+Re Charkaoui
+(2005 FC 248) at paras. 68-77.
+[279]
+But even in acknowledging the value of a resident supervising surety, I think the Ministers may overstate the degree of confidence which the Court has placed in them. In
+Jaballah
+, above, for example, Justice Layden-Stevenson said on several occasions (paras. 61, 64 and 67) that her confidence in the principal supervising surety was lacking or had been severely compromised. At paragraph 69 of her reasons she concluded that:
+"Considering the factors that militate in favour of release together with the fallibility of the primary supervising surety, the solution, in my view, is to release Mr. Jaballah on restrictive conditions. Onerous conditions will go a long way to counter-balance the supervisory deficiency."
+[280]
+In each of the other release decisions, reliance on the supervising sureties was bolstered by robust monitoring and surveillance conditions to be administered by the government. I don't agree with the view expressed by the Ministers that this is in some way an inappropriate delegation of supervisory responsibility to government. It is a responsibility which stems from the legislative scheme in the same way that the burden of supervision of an offender on probation or parole is borne by the state. It is the Ministers who seek the restriction of Mr. Almrei's liberty and are prepared to accept the responsibility of detaining him. They must equally accept the responsibility of supervising his release on conditions.
+[281]
+In this case, there is no allegation that Mr. Almrei poses a threat to the safety of any individual, the danger he is said to pose to national security is not conceded but actively challenged and the risk of flight is not compelling. Moreover, the Court has received expert opinion evidence as to the type of conditions that would be effective to neutralize any risk that Mr. Almrei may contact former associates and resume fraudulent document procurement activities.
+[282]
+The Supreme Court recognized that stringent release conditions can seriously limit individual liberty and must not be a disproportionate response to the nature of the threat:
+Charkaoui 1
+, above, at para. 116. Implicit in that observation, I believe, was the recognition that the imposition of conditions must be tailored to the circumstances of the individual. Here, those circumstances do not include close family members or friends who would be willing to serve as live-in supervising sureties. The sureties proposed by Mr. Almrei are not ideal but I accept that they are sufficient, with one exception. I am satisfied that the sureties coupled with the government's surveillance and monitoring capabilities will mitigate any risk of injury to national security or of flight from Mr. Almrei's release pending the outcome of the certificate proceedings.
+[283]
+The one surety that is not acceptable to the Court is Mr. Hassan Ahmed for reasons that will not be disclosed here. The remaining proposed sureties would be acceptable to the Court upon entering into personal recognizances prepared by the Ministers and the deposit into Court of the funds which they have agreed to commit.
+Conclusion
+[284]
+The information provided to the Court by the Ministers in the form of oral testimony and documentary references supports their position that Al Qaeda and others who subscribe to the extremist beliefs inspired by Osama Bin Laden are committed to the use of violence to attain their political objectives and continue to be a major threat to the security of Canada. Some may be affiliated with Al Qaeda. Others may be autonomous units or individuals with no direct connection to Bin Laden. They may use false identity documents to remain undetected and to facillitate terrorist operations. I had no difficulty in accepting the evidence of the Ministers' witnesses in both the public and private hearings with respect to those matters and others relating to their overall risk assessment.
+[285]
+However, the case presented by the Ministers does not satisfy me that there are reasonable grounds to believe that Mr. Almrei's continued detention is necessary at this time; that is, that there is an objective basis on compelling and credible information that his release on conditions would be injurious to national security or that he would be unlikely to appear at a proceeding or for removal. Rather I am satisfied that any risk that he might pose to national security or of absconding can be neutralized by conditions. In arriving at this conclusion I also consider that the passage of time has diminished any risk that Mr. Almrei presents and that his removal from this country will not take place within a reasonable time.
+[286]
+Under the terms of paragraph 82(5)(b) of the
+Act
+, I am, therefore, required to order Mr. Almrei's release from detention and to set any conditions that I consider appropriate.
+[287]
+Mr. Almrei has proposed that the following conditions be imposed which I consider to be appropriate for inclusion in a release order:
+a) The CBSA having 24-7 physical surveillance of the premises;
+b) Security cameras at all entrances to the premises;
+c) Informing the CBSA, in advance, of any persons who are seeking entry into the premises;
+d) Ensuring that he would not have access to a cell phone or a computer, or any other electronic device that would allow access to the Internet or phones, e.g. pagers, personal Blackberries, iPods with internet capability, etc.;
+e) Agreeing to the instalment of a video-phone in the premises to contact the CBSA as required;
+f) Agreeing that CBSA would be free to monitor any telephone line in the premises;
+g) Agreeing that the CBSA would be free to enter the premises at any time without the requirement of any notice;
+h) Agreeing that he would only be able to leave the house in the company of approved sureties and counsel;
+i) Agreeing that prior to leaving the premises, he notify the CBSA of his intention to leave the house, where he intended to go and how long he intended to be outside of the premises;
+j) Agreeing that he would wear a bracelet monitoring device so that his whereabouts could be followed at any time;
+k) Agreeing to a geographic restriction and staying within 50km of his residence unless he receives advance approval from the CBSA; and
+l) Agreeing to stay outside of train stations and airports.
+[288]
+During the course of the hearing, Mr. Almrei advised the Court that he would also agree to not entering any premises where surveillance would not be possible, such as a Mosque, and that he not be permitted to speak Arabic with any person while under the supervision of a non-Arabic speaking surety. There may be others which the Court has overlooked. While the Ministers put forward no terms for consideration during the hearings there may be conditions that they think appropriate and have not been listed and that they may wish to propose.
+[289]
+The Court will, therefore, provide the parties with the opportunity to propose additional terms and conditions before a formal Order is issued to implement these reasons for judgment. The Ministers must be consulted as to the suitability of any place where Mr. Almrei proposes to reside. The Court will not approve a location that is not amenable to electronic and physical surveillance. A deadline for filing any submissions as to the conditions will be fixed in conference with counsel.
+[290]
+I am conscious of the fact that most of the sureties do not live close to Mr. Almrei and that the burden of supervising him on outings will fall disproportionately on Ms. Thomas-Falconar. The Court will consider additional supervising sureties that may be proposed by Mr. Almrei, subject to submissions from the Ministers, and any other variations of the conditions that may be necessary pending the outcome of the reasonableness proceedings.
+Application allowed.
+Editor: Elizabeth M.A. Turgeon/clh
+[End of document]

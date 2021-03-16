@@ -1,0 +1,557 @@
+I.
+Facts
+[1]
+Manson, J.
+: Red Label is a travel business that offers online travel information services and bookings through its website redtag.ca, catering mostly to the Canadian market. It was incorporated in 2004, and is owned and operated by Vincenzo Demarinis.
+[2]
+Content, including metatag content, on the Plaintiff's website was written by an employee named Robert Gennaro, with some input from Mr. Demarinis.
+[3]
+Red Label has three registered trademarks: "redtag.ca" (TMA657,520), "redtag.ca vacations" (TMA657,750), and "Shop. Compare. Payless!! Guaranteed" (TMA675,219) [the Red Label trademarks]. The Plaintiff has used all three Red Label trademarks regularly as early as 2004.
+[4]
+The Defendant 411 Travel Buys Limited [411 Travel Buys] is an online travel agency offering information to customers through its website, and the availability of agents over the phone to create bookings for travel and travel-related services. It also caters primarily to the Canadian market. Incorporated in 2008, its website went online in January of 2009. Carlos Manuel Lourenco is its sole owner and operator.
+[5]
+In 2009, the entirety of the 411 Travel Buys' website was designed and written by an employee/intern, Aniema Ntia. Ms. Ntia received some input and instruction from a hired consultant, Nhu Tran, but was otherwise responsible for the content of the website and in the sole possession of its password. Mr. Lourenco had very little input into the content of the webpage and did not have any special knowledge as to the use of metatags on the website.
+[6]
+411 Travel Buys' website did not have an online booking option in 2009. For a customer to book using their services, they would have to call the Defendant's call centre to speak to a representative. The representative would then identify themselves as an employee of 411 Travel Buys, and assist the customer in making a booking.
+[7]
+Online travel sales is an inherently seasonal business in the Canadian market, with sales picking up in the fall and tapering off and dropping in late winter of each year.
+[8]
+In January of 2009 Mr. Demarinis purchased the domain name "411travelbuy.ca" in his wife's name. He did so with the intention of selling it to the Defendants for a profit. Content was placed on the websites which had the effect of directing visitors to the redtag.ca website.
+[9]
+When the Defendants' website went online in January of 2009, a number of its webpages included some identical or very similar content to the Plaintiff's webpages. This information included the title, description and keyword metatags, and the terms "red tag vacations" and "shop, compare & payless". The content was not visible to customers visiting 411 Travel Buys' website, and was located only in the webpage's metadata.
+[10]
+On February 26, 2009, the Plaintiff discovered 411 Travel Buys' use of these phrases and alleged copyright and trademark infringement by the use of the Plaintiff's metatags and reference to the Plaintiff's cascading style sheet [CSS] in a folder. Further, the Plaintiff alleges that the style of the two websites is so similar as to suggest copying.
+[11]
+On March 10, 2009 Mr. Demarinis called Mr. Lourenco to inform him of the allegedly infringing content and demanded that it be removed immediately.
+[12]
+Sometime shortly after the phone conversation, the Defendant's website was taken down entirely and the allegedly infringing content was removed by Ms. Ntia over the course of two days. The offending content was present on the website no longer than from early January to mid-March of 2009.
+[13]
+Sometime in March 2009, as a consequence of the Plaintiff registering the domain name 411travelbuy.ca, the Defendant registered the domain names "redtagspecials.ca", "redvacations.ca" and "411redtagbuys.ca". No content was ever input onto the websites; they were blank domain names, with no capacity to redirect web traffic.
+[14]
+Over the period of February to November 2009, the Plaintiffs experienced a lull in web traffic and revenue to a higher degree than in previous years. The estimated period of negative effect or impact on the Plaintiff's business created by the Defendants' alleged infringement is from March to November of 2009.
+[15]
+The Plaintiff commenced this action for copyright infringement, trademark infringement, passing off and depreciation of goodwill in the Plaintiff's Red Label trademarks against the Defendant on August 20, 2009. The Plaintiff seeks Judgment for:
+a. A declaration that the Defendants, have:
+i. Directed attention to 411Travelbuys' services in such a way as to cause or be likely to cause confusion between 411Travelbuys' services and the services of the Plaintiff contrary to the law and section 7(b) of the
+Trademarks Act
+;
+ii. Passed off 411 Travel Buys' services as and for those of the Plaintiff contrary to law and section 7(c) of the
+Trademarks Act
+;
+iii. Infringed the exclusive rights of Plaintiff's trademarks as defined below contrary to section 20 of the
+Trademarks Act
+;
+iv. Used the Red Label trademarks in a manner that is likely to have the effect of depreciating the value of goodwill attached thereto contrary to section 22 of the
+Trademarks Act
+; and
+v. Reproduced segments of the Plaintiff's website (as defined below) and infringed the copyright in the Plaintiff's website contrary to law and section 27 of the
+Copyright Act
+.
+b. A permanent injunction restraining the Defendants, their officers, directors, shareholders, agents, servants, employees, successors, assigns and those in privity with or directly or indirectly controlled by the Defendants from:
+i. Directing public attention to 411Travelbuys' services in such a way as to cause or be likely to cause, confusion between the services of the Plaintiff and those of the Defendants;
+ii. Passing off 411 Travel Buys' services as those of the Plaintiff and/or sanctioned, approved or authorized by the Plaintiff;
+iii. Infringing Red Label trademarks;
+iv. Using the Red Label trademarks in a manner that results in the depreciation of the goodwill attaching thereto;
+v. Infringing the copyright in the Plaintiff's website, including the Plaintiff's exclusive right to reproduce same; and
+vi. Authorizing, inducing or assisting others, to do any of the aforesaid acts.
+c. A mandatory order directing the Defendants to transfer or cause to transfer to the Plaintiff any domain names owned or controlled by the Defendants which are likely to be confusing with the Red Label trademarks, including but not limited:
+i. redtagspecials.ca;
+ii. 411redtagbuys.ca; and
+iii. redvacations.ca.
+d. With respect to the cause of action based upon the
+Trademarks Act
+, damages against the Defendants of $760,000.00 (seven hundred and sixty thousand dollars) suffered by the Plaintiff in 2009 as a result of the Defendants' unlawful activities and a further sum for damages suffered by the Plaintiff for the period of time following 2009;
+e. With respect to the cause of action upon the
+Copyright Act
+, damages against the Defendants of $760,000.00 (seven hundred and sixty thousand dollars) as a result of the Defendants' unlawful activities; and a further sum for damages suffered by the Plaintiff for the period of time following 2009;
+f. Damages against the Defendants in the sum of $760,000.00 (seven hundred and sixty thousand dollars) suffered by the Plaintiff in 2009 as a result of the unlawful activities of the Defendants and a further sum for damages suffered by the Plaintiff for the period of time following 2009;
+g. Dismissal of the counterclaim of 411 Travel Buys Ltd (Plaintiff by Counterclaim) against the Plaintiff, (Defendant by Counterclaim) with costs payable by 411 Travel Buys Ltd (Plaintiff by Counterclaim) to Plaintiff, (Defendant by Counterclaim), including disbursements and HST on a full indemnity basis;
+h. Pre-judgment and post-judgment interests;
+i. Cost of this action payable to the Plaintiff by the Defendants on a full indemnity basis plus, disbursements and HST; and
+j. Punitive and exemplary damage against the Defendants.
+[16]
+On October 6, 2009, the Defendant filed a defence and counterclaim for passing off against the Plaintiff.
+II.
+Issues
+A.
+Plaintiff's Claim
+A. Copyright
+i. Does copyright subsist in the Plaintiff's metatags?; and
+ii. If so, did either of the Defendants infringe the Plaintiff's copyright in the metatags by using same on the Defendants' website;
+iii. Did either of the Defendants infringe the Plaintiff's copyright by using the Plaintiff's cascading style sheet(s) or by copying the "look and feel" of the Plaintiff's website?;
+iv. If either of the Defendants' infringed the Plaintiff's copyright in the metatags, was that infringement innocent?
+v. What remedy or remedies is the Plaintiff entitled to as a result of any copyright infringement as alleged?
+B. Trademarks
+vi. Did either of the Defendants' use of the words or trademarks redtag.ca, redtag.ca vacations or Shop. Compare. Payless!! Guaranteed and Trademark registrations TMA657,520, TMA657,750 and TMA675,219 in respect thereof, on the Defendants' website constitute trademark infringement, passing off or cause depreciation of goodwill, contrary to section 7(b), 7(c), 20 or 22 of the
+Trademarks Act
+?; and
+vii. If so, what remedy or remedies and costs is the Plaintiff entitled to as a result of such infringement?
+C. Defendants' Counterclaim
+viii. Did the Plaintiff's use of 411 Travel Buys in the text or metatags of any websites constitute passing off contrary to section 7(b) or 7(c) of the
+Trademarks Act
+?; and
+ix. If so, what remedy or remedies are fair and available to the Defendants as a result of that infringement?
+[17]
+For the reasons that follow, I find:
+A. Copyright
+i. Copyright does not subsist in the Plaintiff's combination of the title, description and key word metatags used by the Defendants;
+ii. The Defendant 411 Travel Buys' use of the Plaintiff's metatags does not constitute copyright infringement. The individual defendant Carlos Lourenco did not personally infringe any rights of the Plaintiff;
+iii. If there had been infringement of the Plaintiff' copyright by 411 Travel Buys, it would have been innocent infringement. Consequently, only injunctive relief would have been available to the Plaintiff;
+iv. The Defendants did not infringe the Plaintiff's copyright on the cascading style sheet(s) or in the look and feel of the website;
+v. No remedy is necessary.
+B. Trademarks
+vi. Use of the Red Label trademarks by the Defendant 411 Travel Buys does not constitute trademark infringement under section 20 of the
+Trademarks Act
+, or passing off or depreciation of goodwill, contrary to section 7(b), 7(c) or 22 of the
+Trademarks Act
+. Given my findings on copyright and trademark rights of the Plaintiff, there are no damages or other remedies available to the Plaintiff;
+vii. Costs to the Defendant awarded under Tariff B column III.
+C. Defendants' Counterclaim
+viii. The Defendants' counterclaim is dismissed. There is insufficient evidence to establish a reputation that would entitle the Defendants to relief in a passing off claim for the Defendants in respect of the Plaintiff's use of 411 Travel Buys, in the relatively short period the Defendants' website has been in existence, or having regard to the limited use of the words 411 Travel Buys by the Plaintiff. Further, no evidence of damages resulting from the alleged misuse of 411 Travel Buys by the Plaintiff has been provided by the Defendants for the Court to consider;
+ix. The Plaintiff's misappropriation of the Defendants' business name for the improper purpose of selling it back to the Defendants for a profit shows a course of bad conduct by the Plaintiff that further negates any claim by the Plaintiff for enhanced, punitive or exemplary damages.
+III.
+Evidence
+A.
+Plaintiff's Witnesses
+(1) Vincenzo Demarinis
+(a)
+Evidence in Chief
+[18]
+Mr. Demarinis has been the President and CEO of Red Label Vacations Ltd [Red Label] since its incorporation in 2004. Red Label is an online travel business that allows customers to purchase travel and related services online through their website redtag.ca, and by phone, by directing them to a call center to speak with an agent. Red Label owns 3 registered trademarks: "redtag.ca" (TMA657,520), "redtag.ca vacations" (TMA657,750) and "Shop. Compare. Payless!! Guaranteed" (TMA675,219).
+[19]
+In order to remain informed about the website's performance, Red Label contracted ComScore in 2008-2011 to provide reports which were accessed monthly. Mr. Demarinis was also in the habit of regularly searching his website on Google to monitor its rankings. When performing one of these searches in February of 2009, he noted a number of the Defendants' webpages appearing, showing similarities to redtag.ca in their metatags (including content, ordering and misspellings). It was Mr. Demarinis' belief that the similarities constituted copyright and trademark infringement.
+[20]
+In early March 2009, Mr. Demarinis phoned Mr. Lourenco to inform him of the infringement, to which Mr. Lourenco replied he knew nothing about it, but would look into the allegation. Sometime shortly thereafter 411travelbuys.ca was taken down and the offending content was removed. Later that same month, Mr. Demarinis learned that Mr. Lourenco had registered the following three domain names: "redtagspecials.ca", "411redtagbuys.ca" and "redvacations.ca".
+(b)
+Evidence in Cross-Examination
+[21]
+Mr. Demarinis established that the majority of redtag.ca's total advertising budget was spent on advertising with Google Ad Words. He further confirmed that the "online sales" portion as identified on a spreadsheet breaking down redtag.ca's sales by category in January of 2009, accounted for $6,535,601 in revenues. He clarified though that sales generated by someone visiting the website then deciding to call in to the center would not be accounted for in that figure.
+[22]
+Mr. Demarinis was also questioned about his registration of the domain name "411travelbuy.ca" through his wife's name in early 2009, prior to Mr. Lourenco's registration of the above three domain names, and stated that he had personally purchased the name with the intention of selling it to Mr. Lourenco for a small profit.
+(2) Robert Gennaro
+(a)
+Evidence in Chief
+[23]
+Mr. Gennaro has been a Red Label employee since 2005. He began in a data entry role for the red tag website, which evolved to become Search Engine Optimization [SEO] director. He estimated that 95% of Red Label's business is online, despite their call center handling much of their bookings. Since Red Label does not advertise their phone number, customers must visit the website to find out how to call to make travel, hotel and vacation reservations.
+[24]
+Much like Mr. Demarinis, Mr. Gennaro checks redtag.ca's online performance regularly. He primarily uses Google Analytics to establish where redtag.ca's traffic comes from and attempts to streamline metatags, to attract more organic keyword searches.
+[25]
+Mr. Gennaro estimated that in early 2009, redtag.ca had approximately 180,000 webpages associated with the website and approximately 70,000 - 80,000 of those were core pages (though he could not be certain), which required his personal attention to write the content (as much as one day's efforts per page). His evidence on this front lacked credibility, given that the time frame he estimated to create the web pages is unrealistic. He continued to recognize some content in webpages put before him as his own writing, which he estimated to have been written at some point in 2007.
+[26]
+In February 2009, Mr. Gennaro noticed some irregularities in the website's Google Analytics and did a search for the redtag.ca website, discovering the same allegedly infringing content of the Defendant as Mr. Demarinis. He also noted the presence of the redtag.ca CSS in the Defendant's website, and believes that the two websites resembled each other in style as well as the infringing metatag content.
+(b)
+Evidence in Cross-Examination
+[27]
+Mr. Gennaro clarified on cross examination that of the 180,000 pages on redtag.ca's website, many that refer to car rentals or hotels do not require much time to fill with content, whereas others require more attention. He estimated he had personally written the content for between 4,000 and 15,000 of the more content-heavy pages by 2009. He had trouble explaining the time frame he allegedly used to create the core web pages and content, as well as the specific number of pages he created personally, and lacked credibility on this point.
+[28]
+With respect to Mr. Byers' opinion that the similarities in style between the Plaintiff's and Defendant's websites were typical of industry-wide websites in 2009, he disagreed.
+(3) Aniema Ntia
+(a)
+Evidence in Chief
+[29]
+Ms. Ntia was retained by Mr. Lourenco and by 411travelbuys.ca as an intern in September 2008, to complete her placement requirement for Humber College's Advanced Web Development for E-Commerce Business program. She testified in court that while her placement ended in January of 2009, she did not officially become an employee of 411travelbuys.ca until February of 2011. The transcript of her interview for discovery however confirmed that she had previously agreed her employment with 411 Travel Buys began in November 2008.
+[30]
+In July and August of 2008, she met a handful of times with Mr. Lourenco, in order to discuss her placement and what it would entail. It was clarified that Ms. Ntia's role was to set up the entire 411travelbuys.ca website. At these meetings, Mr. Lourenco showed her a number of example websites of what he liked in terms of function and flow, though she did not recall specifically if he showed her redtag.ca in these meetings.
+[31]
+She made a number of attempts at coding the Defendants' website from scratch, but eventually purchased a template from Joomlashack. She did most of her work on her personal laptop, which already had the necessary software, until October 2011, at which time she gave the laptop to her son in Nigeria.
+[32]
+While she eventually had help from others in developing the website, she was the administrator and sole password-holder. The only specific instruction Ms. Ntia received from Mr. Lourenco about the content of the webpages was not to be afraid to use the word "cheap" throughout their content. Beyond this input, he did not limit or tell her what to include. In the first year of the website, Ms. Ntia testified that she created all of the approximately 100 pages of 411travelbuys.ca herself.
+[33]
+Her initial attempts to design the website involved placing a number of pages for the website under a single "head". When Mr. Lourenco expressed his disapproval at this design, he hired Mr. Nhu Tran to consult on SEO, as well as oversee Ms. Ntia's work. While Mr. Tran was consulting about the content of the website, it was ultimately Ms. Ntia who would have to input the information, or grant access for another to do so. In an initial meeting, Mr. Tran used the redtag.ca website to demonstrate the use of metatags in SEO. She admitted it is possible he input content from redtag.ca as a demonstration and she forgot to remove the information before it was saved onto the Defendants' website.
+[34]
+Ms. Ntia insists that she did not notice the infringing content until Mr. Demarinis called Mr. Lourenco to bring it to his attention in March 2009. After this call, Mr. Lourenco was noticeably upset and asked Ms. Ntia to take the website down and review all its content to ensure there would not be any other issues. She obliged and devoted two straight days to removing and re-writing all the metatags and checking to ensure that the website had original content.
+(b)
+Evidence in Cross-Examination
+[35]
+In cross examination, Ms. Ntia confirmed that she had not received any training in trademark and copyright law, and that Mr. Lourenco had never asked her to copy anything from another website. Overall, Ms. Ntia's position is that writing and ordering of metatags takes little skill or judgment. I found Ms. Ntia to be a credible witness.
+[36]
+She further confirms that in January to March of 2009, there was no way of booking online at 411travelbuys.ca. A customer would have to visit the website and then call in to make a booking by speaking with an agent over the phone.
+(4) Nhu Tran
+(a)
+Evidence in Chief
+[37]
+Mr. Tran was hired by Mr. Lourenco to advise on SEO, as well as to help Ms. Ntia to design the content of the Defendants' website. For the duration of his association with 411travelbuys.ca, Mr. Tran maintained he did not have access to the servers, and any work he did was sent to 411 employees to be implemented.
+[38]
+He remembered having given advice as to how to improve the site's rankings on search engines like Google, but when the results were not to Mr. Lourenco's satisfaction, they parted ways in 2010. He insists that at no time did he suggest another party's trade names, trademarks, or web content be copied into the Defendant's website.
+(b)
+Evidence in Cross Examination
+[39]
+Despite his insistence that he had no control over the Defendants' server and that he did not suggest to Ms. Ntia to copy redtag's website, in referring to Exhibit 33, it was proven that Mr. Tran had shown redtag's information to Ms. Ntia as an example she could follow.
+(5) Ephraim Stulberg
+[40]
+Mr. Stulberg is a Senior Manager and VP of Matson, Driscoll & Damico Ltd in Toronto, an international forensic accounting firm. He has 6 years of experience in investigative and forensic accounting, and has focused exclusively on economic damage quantification and business valuations since entering the industry in 2008. He is qualified as a forensic accountant, but the Defendants object to his evidence in paragraphs 40 to 45 of his expert report, as he is not an SEO expert.
+(a)
+Evidence in Chief
+[41]
+Mr. Stulberg has calculated the Plaintiff's lost profits resulting from the Defendants' alleged infringement at $760,000. Based on his review of their financial records he believes they suffered a loss of profits for longer than strictly the period of the alleged infringement (January to March 2009); specifically, from February to November 2009 [the affected period].
+[42]
+After reviewing the Plaintiff's financial records for 2008, Mr. Stulberg added a growth rate of 10% (based on the Plaintiff's historic rate of growth, travel industry data from Statistics Canada, comparable public companies, and analysis of the Plaintiff's main vendors), to determine their projected revenue for the affected period. He estimated the cost of sales at approximately 93.9%, as well as variable sales commission and bad debt costs of 0.99% of revenue. He also factored in threshold sales commissions of 0.96% of the lost revenue that would have been earned.
+[43]
+According to trends in the Plaintiff's rate of growth from 2004 to 2008, Mr. Stulberg estimates that the Plaintiff's revenue in 2009 should have been approx. $120,000,000 and $140,000,000 in 2010. In contrast, their actual revenue in 2009 was $100,000,000 and $131,000,000 in 2010. Looking on a monthly basis, Mr. Stulberg notes strong growth patterns continued for the Plaintiff through January 2009, but from February 2009 to December 2009 revenue growth collapsed.
+[44]
+The Plaintiff's six top vendors prior to the affected period (Transat Holidays, Sunwing Vacations, Air Canada Vacations, Sunquest Vacations, Signature Vacations, Nolitours), accounted for over 50% of the Plaintiff's revenue. In Mr. Stulberg's opinion, when expressed in graph form the decline in revenue from these vendors and the affected period closely overlap, indicating likelihood the two are causally connected.
+[45]
+While acknowledging that it is possible that a portion of the Plaintiff's declining revenue can be attributed to negative industry trends, the Plaintiff's rate of revenue growth prior to 2009 exceeded the industry average; as well, online travel agency revenue declined less overall in 2009 than the rest of the industry, and use of online travel agencies increased in Canada by 4%.
+[46]
+Due to the global client base of comparable public companies like Expedia, their data was limited in relevancy to analyzing the Plaintiff's situation. This unfortunately makes it difficult to account for any effect the relative growth rates of competitor companies might have had on the Plaintiff during the affected period. Another consideration in calculating the Plaintiff's loss in revenue was that Conquest Vacations ceased operations in April of 2009 (a vendor who previously accounted for approximately 4% of the Plaintiff's revenue).
+[47]
+Mr. Stulberg also considered damage to the Plaintiff's revenue in the form of lowered performance on organic keyword searches in online search engines (derived from Google Analytics statistics). Between November 2008 and January 2009, there was growth in the Plaintiff's organic keyword searches, and during the affected period, their performance began to slow substantially. Mr. Stulberg opines that this trend was exacerbated by the downgrading in rankings by a search engine when multiple versions of a website are perceived.
+(b)
+Evidence in Cross-Examination
+[48]
+In cross-examination, Mr. Stulberg confirmed that he has no background or training in web optimization and that he made assumptions regarding a correlation between web traffic and revenue while relying on the 2008 Google data Mr. Byers had testified was irrelevant due to updates in the Google algorithm around that time. This reliance brings into question his 10% projected growth estimate for the Plaintiff's revenue.
+[49]
+While he made efforts to incorporate characteristics of the online travel industry in his report, he is not an expert in the field. For example he did not consider the effects of competitor companies increasing their efforts to attract online customers when calculating the Plaintiff's projected loss, but insists that his 10% projected growth rate included a conservative buffer to account for such eventualities. I find that the lack of a concrete foundation for the assumptions made and calculations of losses due to the Defendants' alleged infringements render his conclusions on lost profits and damages speculative at best.
+[50]
+He also explained that he had not included the months of August, September and October in some of his calculations due to timing constraints but agreed that their inclusion would produce a better-rounded picture of the Plaintiff's business.
+(6) Barry James Byers
+[51]
+Mr. Byers is the founder of Search Engine Academy Toronto (2002), an internet marketing school for business owners and marketing professionals. He is certified as a Neuro Linguistic Programming Practitioner, as well as certified to teach Advanced SEO. It was accepted by the Defendants that Mr. Byers is an SEO expert.
+(a)
+Evidence in Chief
+[52]
+Mr. Byers is of the opinion that the Defendants copied the Plaintiff's website, and that use of the Plaintiff's metatags and content significantly affected the ranking and web traffic for both parties' websites. In coming to this conclusion, he reviewed the metadata of each website (typically used to specify page description, keywords, author of document, last modified, etc., by browsers, search engines and other web services), as well as having reviewed their coding.
+[53]
+He noted instances where misspellings in the keyword metatags were identical in sequential order between the websites. While leaving misspellings in such tags is common practice, the level of similarity in this case suggests copying. Further, a number of the Defendants' webpages contained the Plaintiff's brand name or registered trademarks, and similar or identical metatags that had only been modified by adding the word "cheap".
+[54]
+In addition, the CSS (a style sheet language used for describing the look and formatting of a document that facilitates manipulation of a website's design) titled "stylesRedTag.css", appears to have been in the Defendants' website folders at some point, indicating it had likely been copied from the Plaintiff. Despite evidence of copying in metatags and coding, Mr. Byers thinks the broader similarities between the websites are in large part industry-wide and not unique to the parties.
+[55]
+In analyzing the webtraffic to each website, Mr. Byers focused on the ComScore and Korax webtraffic reports and statistics relating to Google (who held 83% of the Canadian market in 2009). Appearing on the first page of a Google search gets approximately 92% of all Google traffic. Between December 2008 and March 2009, redtag.ca dropped from 21st position in Canadian Travel Industry rankings to 26th in April 2009; dropping again to 38th in May 2009; moving up to 36th in June 2009, then dropped again to 44th in July 2009. In August 2009, they began a 5 month climb back up to 19th position in December 2009.
+[56]
+Total unique visitor traffic to the Plaintiff's websites followed a similar pattern to their rankings. There was also a decline in the amount of search hits for the top four branded keyphrases associated with the Plaintiff ('red tag', 'redtag', 'redtag.ca', 'red tag vacations'). Mr. Byers' opinion is that most, but not all, of this decline in keyphrase searches can be attributed to seasonal trends.
+[57]
+While several updates to Google between April 2008 and August 2009 made requesting ComScore and Korax analytics for 2008 irrelevant, a Google update in February of 2009 should have increased traffic to the Plaintiff's websites by emphasizing branding, and yet traffic to the Plaintiff's website decreased after it took effect.
+[58]
+Mr. Byers is of the opinion that the Defendant's copying of the Plaintiff's websites had the effect of confusing search engines into thinking the Defendants' websites were related to the Plaintiff's, resulting in what appeared to be duplicate documents being filtered out of search results. In his opinion, this process would have begun approximately one month after a website became active and would take another two to three months to complete, and that the original website was more likely to be filtered out. In Mr. Byers' opinion, effects on traffic of the duplicate content would have started to take place in March to June 2009. Once the duplicate websites were removed, it would take approximately three to six months to un-filter, making it likely to start taking place in June to September of 2009.
+(b)
+Evidence in Cross-Examination
+[59]
+Mr. Byers admitted there were significant discrepancies between the ComScore and Korax reports of internet search traffic to the Plaintiff's website (see table below). He further admitted that he had referred to both sources in creating his expert report (and even compiled a spreadsheet comparing data from each source relating to 2009) but could not explain the discrepancy in numbers, other than to point out they are two different services using different means to compile data. For example, since Korax was the Plaintiff's hosting server, their data was based on traffic through their own server.
+[60]
+Further, Mr. Byers admitted that he is not an expert in the online travel industry and may have failed to make suitable adjustments for the industry's inherent seasonality. He also admitted that neither the ComScore nor the Korax statistics on keyword searches would recognize users who arrived at the Plaintiff's website by a means other than the top 4 keywords he had isolated.
+[61]
+With regards to his report's statement that Google's Vince update would reward brand names in their organic keyword search rankings, he admitted he was not certain as to whether Google indeed recognized redtag.ca as a brand at the relevant time. If they did not, it would affect somewhat his opinion about the effect of the Defendant's alleged infringement. Importantly, Mr. Byers further clarified that Google has not for many years (including in 2008/2009) used metatag keywords in its search rankings.
+(7) Scott Green
+[62]
+Mr. Green is the Controller at Red Label Vacations Inc. He has been in this position since May 31, 2010, and was responsible for the accounting records for the company for the fiscal year ending August 31, 2010 (September 1, 2009 - August 31, 2010). His affidavit evidence was accepted by the Defendants without personal appearance or cross-examination at trial.
+[63]
+Mr. Green prepared the monthly trial balances, the monthly sales analyses, and the general ledger details for the Plaintiff for the fiscal years ending August 31, 2007 to August 31 2010 on his office computer between September 25 and 30 of 2014. His affidavit evidence was accepted by the Defendants without personal appearance or cross-examination at trial.
+(8) Jack Massarelli
+[64]
+Mr. Massarelli is a partner with Fazzari + Partners LLP, having worked there since 1994. His work there mostly focuses on assurance and audit engagements of private and public companies, Notice to Readers and general business advice, consulting and tax planning.
+[65]
+Mr. Massarelli was responsible for reviewing the file, managing the staff and issuing the Review Engagement Report for the Plaintiff regarding the statements of operations, deficit and cash flows for the year ended August 31, 2005.
+[66]
+Mr. Masarelli was also responsible for overseeing the Auditor's Reports of the Plaintiff's business for the years ending August 31, 2006 to August 31 2010. It is his opinion that the financial statements tendered into evidence present the financial position and operations of the Plaintiff fairly. This affidavit evidence was accepted by the Defendants without personal appearance or cross-examination at trial.
+(9) Alex V. Bulan
+[67]
+Mr. Bulan is the Director and Officer of Korax Inc., a company that provides website hosting, e-mail services, dedicated servers, and domain name registration services, and has been in operation since 1997. It exercises complete control over its network and server infrastructure, and ensures stable, reliable and predictable service through careful monitoring of its equipment.
+[68]
+Its web hosting services include a traffic log maintained for each website it hosts which are available to each customer for download for thirteen months, after which they are automatically purged from Korax's servers. They also generate monthly analytics reports for each hosted website summarizing the data contained in the traffic logs, which are available for a limited period (thirteen months between February of 2009 and 2010) after which they are also purged.
+[69]
+In Mr. Bulan's words, "the analytics reports typically include indicators such as the most popular pages, the total number of pages requested, and the total volume of data transferred. In addition ... [they] include unique visitors, number of visits, visit duration, and search engine keyphrases and keywords." "Unique Visitors" refers to the number of distinct IP addresses requesting pages from a website.
+[70]
+Korax was hired to provide web hosting to the Plaintiff's website from June 2004 to present. This affidavit evidence was accepted by the Defendants without personal appearance or cross-examination at trial.
+(10) Brent Bernie
+[71]
+Mr. Bernie is the President of ComScore Media Metrix Canada [ComScore], and has been since 2002. ComScore provides market research through data related to online audience measurement, e-commerce, advertising, search, video and mobile. The Plaintiff was a subscriber to ComScore's Media Metrix database from December 2008 to March 2011. This service allows clients to access a database using a web interface protected by password, enabling them to access different levels of data depending on their subscription.
+[72]
+Reports are not typically included in this service, however customers can access the database to run their own searches to compile their own report. Some reports are available through the database, including a Key Measures report which "provides traffic measurements for a selected list of websites during a selected timeframe".
+[73]
+ComScore's data comes primarily from panel and consensus data. Panel data is compiled from approximately two million people worldwide who have agreed to allow ComScore to measure their internet behaviour. Census data is collected through websites and advertisers who place "tags" on their pages and ads allowing ComScore to measure visitors. Mr. Bernie is not aware of any issues affecting the operation and maintenance of the ComScore servers during the relevant period of December 2008 to March 2011.
+[74]
+This affidavit evidence was accepted by the Defendants without personal appearance or cross-examination at trial.
+(a)
+Unique Visitor Data to redtag.ca per the ComScore and Korax reports submitted by the Plaintiff in their Affidavit of Documents covering the period of February 2009 to February 2010
+Month
+ComScore Date - Unique Visitors
+Koraz Data - Unique Visitors
+Difference
+February 2009
+541,000
+560,571
+19,571
+March 2009
+562,000
+548,481
+13,519
+April 2009
+399,000
+459,825
+60,825
+May 2009
+270,000
+370,987
+100,987
+June 2009
+303,000
+369,819
+66,819
+July 2009
+282,000
+425,337
+143,337
+August 2009
+386,000
+424,747
+38,747
+September 2009
+345,000
+421,547
+76,547
+October 2009
+342,000
+500,144
+158,144
+November 2009
+432,000
+550,498
+118,498
+December 2009
+489,000
+582,147
+93,147
+January 2010
+581,000
+813,420
+232,420
+February 2010
+757,000
+690,433
+66,567
+B.
+Defendants' Witnesses
+(1) Marco Braggio
+(a)
+Qualifications
+[75]
+Mr. Braggio has been a Product Manager in SEO and Web Accessibility and Performance for Walmart Canada Corp since June 2013. Prior to that, he was Lead SEO Specialist at DAC Group (March 2011 - June 2013), Search Engine Marketing Lead for Critter Search Inc (March 2009 - February 2011), and SEO Analyst for Cryptologic Inc (January 2008 - March 2009). He has an Attestation of Collegial Studies in Network and Internet Support from CDI College Montreal. He is qualified as an SEO expert, but not in respect of the industry.
+(b)
+Evidence in Chief
+[76]
+Mr. Braggio is of the opinion that having duplicate content on a website is a disadvantage rather than an advantage, and could make it more difficult to achieve a high search ranking and relevance. His report states that search engines can time stamp websites to determine which was the original website, thereby penalizing the duplicate website in rankings.
+[77]
+He states that a website's Google ranking depends on how competitive an industry is. Since the travel industry is one of the most competitive online markets, it would take a new website at least a year to catch up to more established websites. Since the Plaintiff's website has consistently rated in the top five for many industry related keywords, the Defendants would have a particularly hard time catching up in rankings to the Plaintiff.
+[78]
+Regarding the domain names the Defendants registered sometime in March 2009, they never had a physical website and served only to redirect traffic. In Mr. Braggio's opinion, these domain names had little to no value, since they had no prior webtraffic history or online search engine equity, resulting in no significant ranking or web traffic implications. By using an internet archive called the WayBack Machine, Mr. Braggio was able to find only two instances where traffic was captured from the Plaintiff's website and brought to the Defendants' website, evidencing negligible traffic impact significance.
+[79]
+Using the Defendants' Google Analytics report from between January 1 and March 16, 2009, which reviewed all new visitors to the Defendants' websites, only 0.66% can be attributed to keywords related to the Plaintiff's websites, and these keywords only start appearing at 33rd position in the Defendants' top traffic keywords. The same report from March 17 - September 1, 2009 shows only 0.1% of new visitors were from keywords related to the Plaintiff.
+[80]
+In response to Mr. Byers' opinion that the Defendant's website would have been indexed by search engines by the beginning of 2009, Mr. Braggio does not see any data to substantiate the claim. While the Defendants may have duplicated some of the Plaintiff's websites, he sees no reason to believe this was the sole cause for any loss to the Plaintiff's web traffic or revenue. Other competitors may have contributed to such a loss and were not considered by Mr. Byers.
+(c)
+Evidence in Cross-Examination
+[81]
+Mr. Braggio admitted in cross-examination that he had no experience in SEO related to the online travel industry specifically. Mr. Braggio disagreed with Mr. Byers' reports on a number of points. For example, in his opinion registered domain names with no content would not affect search engine rankings of another website. Further, when Google would filter a duplicate website, in his experience it would not filter out the original website, it would be more likely to filter out the duplicate. While he admits that the duplicate content of the Defendants' website could be one factor in the Plaintiff's decline in web traffic during the affected period, he is adamant that it is not the sole, or even primary cause for their losses.
+[82]
+Mr. Braggio also admitted that much of the information and articles he relied upon in compiling his report were from long after the affected period, but with little explanation he insisted that much of the information is relevant to 2009. Aside form a 2007 article discussing the increased accuracy of Google's time-stamping, and a Google Analytics report of the Defendant's web traffic from January 1 - March 16, 2009 (when the offending material was present on the Defendant's website), the information relied on by Mr. Braggio should be given little weight.
+(2) Carlos Manuel Lourenco
+(a)
+Evidence in Chief
+[83]
+Mr. Lourenco is the sole owner of 411travelbuys.ca, which was incorporated in 2008. He has worked in the travel industry for many years, after having completed a post-secondary travel and leisure course. He is not experienced in web design or development, and prior to this litigation had only a cursory knowledge of metatags and their use.
+[84]
+Mr. Lourenco hired Ms. Ntia as a student intern to create the 411 Travel Buys website and keep it up to date. After her placement ended in January 2009, Mr. Ntia became an employee. Mr. Lourenco asked her to create as much content as she could for the website and showed her a number of travel websites as examples of what he thought worked well (including itravel2000.com, and redtag.ca among other UK and North American websites). At no point did he ask her to copy a website or use any other company's metatags. His input on the website was limited, and largely consisted of his advice not to be afraid of using the word "cheap" throughout the website's content. He eventually hired Mr. Tran to assist and instruct Ms. Ntia in how best to optimize the website to attract organic keyword traffic.
+[85]
+Mr. Lourenco allocated 411 Travel Buys' advertising budget in its first year across print and online media but largely focused on Google Ad Words ($25,000-30,000 per month). He confirmed that his website did not have a means of booking online in 2009. A customer would have to call into their call centre in order to book anything; an agent would then identify themselves as a representative of 411travelbuys.ca.
+[86]
+In early March 2009, Mr. Lourenco received Mr. Demarinis' phone call informing him of the alleged infringing content. Within a day or two, he contacted Mr. Demarinis asking for more guidance regarding the issue and was directed to a particular Hola Sun page that Mr. Demarinis felt exemplified the infringement. Within a short period of time, he asked Ms. Ntia to shut the website down and to review every page to remove any potentially infringing content. Overall, the website as it appeared to customers never showed any association with redtag.ca, nor was any of the infringing content visible on the 411 Travel Buys website as it appeared to customers.
+[87]
+In late March and early April of 2009, Mr. Lourenco discovered that Mr. Demarinis had purchased the domain "411travebuy.ca" and was upset. When someone visited the page they were redirected to the redtag.ca website. In his anger he then bought the domains "411redtagbuys.ca", "redtagspecials.ca" and "redvacations.ca", but never put any content on them. He has abandoned these domain names.
+(b)
+Evidence in Cross-Examination
+[88]
+Mr. Lourenco admitted that he is the sole officer, director and shareholder of 411travelbuys.ca and that he makes all business decisions, now as well as in 2009.While he had little knowledge of website design or development and did not possess the website's password, he had the ultimate final say for its content. He outlined that despite experience working with Google Ad Words for his previous employer, he had limited knowledge of website design and metatag usage in 2009 and relied heavily on Ms. Ntia and Mr. Tran to develop the website. When spelling errors in metatags on the Defendants' website mirroring those of the Plaintiff's were brought to Mr. Lourenco's attention, he insisted he did not know why they were there and assumed there was some sort of strategic reason to include them.
+IV.
+Analysis
+A.
+Copyright
+[89]
+The Defendants raise preliminary objections to the Plaintiff's claim in copyright as not being properly pleaded. The Defendants did not challenge the sufficiency of the Plaintiff's pleading until trial, having plead over by simply denying the Plaintiff's claims in copyright.
+[90]
+It is true that to properly plead a claim in copyright, a party should state the identity of the work, such that it is within the meaning of the
+Copyright Act
+, the nationality of the author and the place of first publication. However, it is clear from discovery that the primary author is Mr. Gennaro, an employee of the Plaintiff, who created the red tag website in the course of his employment and to a lesser degree, possibly Mr. Demarinis, and that the Plaintiff is a Canadian corporation and the redtag.ca website was first published in Canada. I do not find that the Defendant has raised any valid objections to the Plaintiff's pleading with respect to copyright on these preliminary bases.
+[91]
+The parties are in agreement that in order for there to be valid copyright in a work, the work must be original, as stated by the Supreme Court of Canada in
+REFERENCE_SUPPRESSED:
+16
+I conclude that the correct position falls between these extremes. For a work to be "original" within the meaning of the Copyright Act, it must be more than a mere copy of another work. At the same time, it need not be creative, in the sense of being novel or unique. What is required to attract copyright protection in the expression of an idea is an exercise of skill and judgment. By skill, I mean the use of one's knowledge, developed aptitude or practised ability in producing the work. By judgment, I mean the use of one's capacity for discernment or ability to form an opinion or evaluation by comparing different possible options in producing the work. This exercise of skill and judgment will necessarily involve intellectual effort. The exercise of skill and judgment required to produce the work must not be so trivial that it could be characterized as a purely mechanical exercise. For example, any skill and judgment that might be involved in simply changing the font of a work to produce "another" work would be too trivial to merit copyright protection as an "original" work.
+[92]
+As well, there is no dispute that whether there is infringement or not is determined under section 3(1) and 27(1) of the
+Copyright Act
+, such that it is an infringement of copyright for anyone to reproduce "the work or any substantial part thereof". The question of whether a substantial part of a work has been reproduced is determined by its quality and not its quantity. The substantial part of a work is that which represents a substantial portion of the author's skill and judgment (
+REFERENCE_SUPPRESSED).
+[93]
+There is also no dispute that in this case, the Defendant 411 Travel Buys copied the Plaintiff's metatags, in copying the title tags, meta descriptions and meta keywords on 48 pages of the 411 Travel Buys website. On some pages, even spelling errors in the Plaintiff's metatags were reproduced. Notwithstanding arguments by the Defendants that many of the words used in the metatags are common to the travel industry, which may be true, there is no doubt that copying of the Plaintiff's metatags, as alleged, did occur.
+(1) Does Copyright subsist in the Plaintiff's metatags?
+[94]
+What is a metatag? A metatag is a word or small phrase that's embedded in the source code of a website. It is not visible on the actual page itself. When a person types a phrase into the search bar of a search engine, such as Google, it uses an algorithm to search through the internet looking for web pages with those particular words in them. The greater the number of times a term appears in metatags and in the text of the webpage itself, the greater the chance that a search engine will choose that website to be listed higher on the list of search results (page 1 of the results list as opposed to page 6, for example). Search Engine Optimization is an important step in marketing a company's wares or services. While Google does use some metatag data in their search rankings, it has not used keyword metatags for many years prior to 2009.
+(2) How then does a metatag fit within the scope of copyright protection in Canada?
+[95]
+That question is still being debated in Canada as well as the United States, England and elsewhere in the world.
+[96]
+Justice Roger Hughes in
+REFERENCE_SUPPRESSED, considered copyright in metatags, in the context of a review of the execution of an Anton Piller Order and conversion of an interim injunction into an interlocutory injunction. While commenting generally on copyright in metatags, he questioned whether they are "...simply formulae derived arrangements designed to serve a business function something like the arrangement of information in
+REFERENCE_SUPPRESSED". While not deciding the issue, he certainly questioned the merit of copyright protection in metatags.
+[97]
+Justice Christopher Grauer, in a more recent decision of the British Columbia Supreme Court in
+REFERENCE_SUPPRESSED, found that "the behaviour of search engines is not, in my view, evidence of anything other than the operation of an algorithm, and search-engine marketing." In that case, he refused to find any evidence of confusion or passing off in the tendency of search engines to turn up the defendant's ICBCadvice.com website among others in response to an internet search for "ICBC". While not on point with respect to copyright infringement, the decision bears scrutiny on the finding that a metatag, in the context of a search engine, is merely "the operation of an algorithm".
+[98]
+As stated by the Federal Court of Appeal in
+REFERENCE_SUPPRESSED, when considering originality of a work it must be independently created by the author, and which display at least a minimal degree of skill, judgment and labour in its overall selection or arrangement. Moreover, when an idea can be expressed in only a limited number of ways, then its expression is not protected as the threshold of originality is not met (
+REFERENCE_SUPPRESSED, Justice Yves de Montigny of this Court considered the
+CITATION_SUPPRESSED
+and
+CITATION_SUPPRESSED
+cases above, and held that the forms and other works resulting from the plaintiff's compilation of elements will not be considered to have a sufficient degree of originality when the selection of the elements entering into the work are dictated by function and/or law, and where their arrangement into a tangible form of expression is not original. He found that only the visual aspect of the work is susceptible to copyright protection, if original.
+(3) Did either of the Defendants infringe the Plaintiff's copyright in the metatags by using same on the Defendants' website?
+[100]
+The evidence before me shows that the Plaintiff's redtag metatags allegedly copied by the Defendants were substantially derived from a list of Google key words which are then incorporated into short phrases descriptive of travel industry types of travel, locations, and discounts or deals for consumers. Examples included in comparisons of the redtag.ca and 411travelbuys.ca webpages related to, for instance, cruises, group vacations, nolitours and hola-sun holidays, are indicative of the common generic terms used in this regard, to attract consumers, to buy travel packages for various destinations.
+[101]
+In this case there is little evidence of any sufficient degree of skill and judgement in creating these metatags, as is required by the test set out by the Supreme Court of Canada in
+CITATION_SUPPRESSED
+, above, or for the originality required in compiling data or other compilations, as discussed by the Federal Court of Appeal in
+CITATION_SUPPRESSED
+. While in some cases there may be sufficient originality in metatags to attract copyright protection when viewed as a whole, the substance of the metatags asserted by the Plaintiff in this case does not meet the threshold required to acquire copyright protection in Canada.
+[102]
+I also find that even if copyright could subsist in the Plaintiff's metatags, there has not been substantial copying, when one has regard to the Plaintiff's website as a whole. The Defendants only copied metatags on 48 pages of approximately 180,000 pages on the Plaintiff's website. While the Court should look at infringement from a qualitative, not quantitative perspective, what is required is substantial similarity between the original work and allegedly infringing work that is observable when they are viewed as a whole. I do not find that a substantial part of the reproduction contains a substantial part of the skill and judgment on the part of the Plaintiff's author or authors - this is particularly true when one considers the use of the metatags is primarily functional in nature: their purpose is to affect the behaviour of search engines, notwithstanding some discretion exists in the choice of words to describe the travel options in the metatags.
+[103]
+Moreover, I also find on the evidence that the reproduction of the redtag.ca metatags was inadvertently done by the Defendant 411 Travel Buys and its employee, Ms. Ntia, and would have constituted innocent infringement if any infringement had occurred.
+(4) Did either of the Defendants infringe the Plaintiff's copyright by using the Plaintiff's Cascading Style Sheet(s) or by copying the "look and feel" of the Plaintiff's website?
+[104]
+I also find there is no evidence before me that the CSS of the Plaintiff allegedly copied by the Defendants was so copied. The only basis for the Plaintiff's allegation rests with a screenshot of a Google search provided by Mr. Gennaro, and nothing more. The Plaintiff's own witness, Mr. Byers, admitted this was the case. Further, no CSS from the Plaintiff was entered into evidence to compare to the Defendants' CSS. It is also admitted by the Plaintiff's witness Mr. Byers that the three-column "look" of the parties' websites was common in travel industry websites in 2009, and Ms. Ntia testified that she created the website from a template she purchased. I do not find any copyright infringement by the Defendants on these fronts.
+B.
+Trademarks & Trade Name
+[105]
+There is no dispute that the Defendants used the phrases "red tag vacations" (in the metatags of one 411 Travel Buys page) and "shop, compare & pay less" (in the metatags of three  411 Travel Buys pages), thereby using the dominant words of the Plaintiff's trade name and registered trademarks, redtag.ca, redtag.ca vacations and Shop. Compare. Pay Less!! Guaranteed. None of the Plaintiff's trademarks were used by the Defendants in the visible portion of any of 411 Travel Buys' web pages.
+[106]
+The 411 Travel Buys website went public (online) on January 5, 2009 and was taken down on March 10, 2009, the same day Mr. Demarinis of the Plaintiff advised Mr. Lourenco of the Defendants of the misuse of the Red Label trademarks. The 411 Travel Buys website did not go back online until after all the metatags using the alleged trademarks and copyright infringing words and phrases were removed.
+[107]
+It is also acknowledged by the Defendants that, unlike in copyright cases, unintentional or innocent infringement is no defence to claims of passing off under sections 7(b), 7(c) of the
+Trademarks Act
+, trademark infringement under section 20, or loss of good will under section 22.
+V.
+Passing Off
+[108]
+As both parties again acknowledge, for the Plaintiff to succeed under section 7(b) of the
+Trademarks Act
+, Red Label must prove three elements:
+a. The existence of goodwill;
+b. The likelihood of deception of the public due to a misrepresentation; and
+c. Actual or potential damage to the Plaintiff.
+REFERENCE_SUPPRESSED
+[109]
+As with copyright, there is some dispute internationally on whether use of trademark in a metatag can constitute passing off or trademark infringement. Both the English Court of Appeal, in
+REFERENCE_SUPPRESSED, found that use of a trademark (and, I would add, a trade name) in a metatag would not support a finding of confusion, or a likelihood of deception, and therefore trademark infringement or passing off could not be proven by that use alone. As stated by Justice Grauer in the
+ICBC
+case, above:
+[t]he behaviour of search engines is not, in my view, evidence of anything other than the operation of an algorithm, and search-engine marketing. It is certainly not evidence of confusion.
+[110]
+However, in contrast to these two cases, the Ontario Superior Court of Justice in
+REFERENCE_SUPPRESSED, stated that a website appearance can be an instrument of passing off in much the same way as a business storefront in the physical world, and at paras 36-39, in considering use of a trade name or trademark in a metatag, stated:
+36
+Internet commerce is not, however, completely comparable to pre-electronic commerce. There are opportunities for competitive advantage and technical capabilities to engage in unfair practices that never existed before the advent of the internet and internet search engines. Meta tags appear to be one of them. Meta tags associated with a website are capable of bringing members of the internet public to a site who may not have intended to go there. The meta tags used by FOW in association with its site is the third subject matter of the plaintiffs' complaints in connection with its claim of passing off.
+38
+It seems to me that an obvious (though not necessarily the only) reason for FOW's use of the phrase "Jumpin Jammerz" as a meta tag for its website was to draw members of the internet public to its site who had some prior knowledge of Jumpin Jammerz as a vendor of pajamas and believed that they could find footed pajamas at the website associated with the words "Jumpin Jammerz".
+39
+In the physical world, this might be analogized to misleadingly diverting traffic from one trader's door to that of another. The analogy is necessarily imperfect in that the product of search engines is merely a list, thus leaving the internet traveller with the choice as to which sites on the list to visit and in what sequence, but in my view, the practice of using another trader's domain name, trade name, trade mark or logo as a meta tag for a website selling competing wares is objectionable unless the name or mark itself is merely descriptive of the wares sold.
+A.
+Existence of Goodwill
+[111]
+Based on the evidence, including marketing on television, radio and print media, as well as online media such as Google Ads, I find that the substantial advertising and use by the Plaintiff of its Red Tag trade name and its redtag.ca trademark as well as use of the Shop.Compare. Payless!! Guaranteed. trademark, have generated sufficient goodwill or reputation in both the trade name and trademarks as used in association with the Plaintiff's travel services. There is little evidence in respect of use of redtag.ca vacations and I do not find that a sufficient reputation or goodwill have been developed in respect of that trademark.
+B.
+Likelihood of misrepresentation
+[112]
+The parties are direct competitors for providing essentially the same travel services online to existing and prospective customers. There is no denial by the Defendants about the use of the Plaintiff's Red Tag trade name, the words "red tag vacations", or the words "shop. compare & pay less", in the Defendants' metatags from January 5, 2009 to March 10, 2009. This use, at least of the words red tag, by the Defendants, resulted in some redirected traffic from the Plaintiff's website providing travel services to the Defendants' website providing the same or very similar travel services, for a period of time.
+[113]
+The question I must answer is whether the Defendants' use of the Plaintiff's trade name and the likely confusing words red tag vacations, red tag and shop. compare & payless words, as metatag identifiers, to attract business to the Defendants' website, constitutes passing off by causing a likelihood of deception.
+[114]
+Some United States Courts have held such use can cause "initial interest confusion", where confusion is caused in the customer before actually purchasing a good or service, when the customer seeks a particular brand of goods or services, but is drawn or enticed to a competitor's goods or services through the competitor's use of the first company's trade name or trademark.
+[115]
+However, that approach to likelihood of confusion has not to my knowledge gained a foothold in Canada. In any event, I do not believe that it would be applicable to the facts of this case. The use of metatags in a search engine merely gives the consumer a choice of independent and distinct links that he or she may choose from at will, rather than directing a consumer to a particular competitor. Rankings may affect the choice to be made, but nevertheless, such a choice exists. Even if a searcher is looking for the website connected with a particular trade name or trademark, once that person reaches the website, there must be confusion as to the source of the entity or person providing the services or goods. If there is no likelihood of confusion with respect to the source of the goods or services on the website, there is no support for finding this prong of the test for passing off. Accordingly, use of a competitor's trademark or trade name in metatags does not, by itself, constitute a basis for a likelihood of confusion, because the consumer is still free to choose and purchase the goods or services from the website he or she initially searched for.
+[116]
+Here, there is no use of any of the Plaintiff's trademarks or trade names on the Defendants' visible website. The website is clearly identified as 411 Travel Buys' website. There is no likelihood of deception as to the source of the services provided on the 411 Travel Buys website, and the consumer is free to redirect his or her search to the Plaintiff's website.
+[117]
+Given that I find there is no likelihood of deception, and therefore no passing off, I need not decide on what if any damages may have been incurred on this front.
+C.
+Trademark Infringement
+[118]
+The Plaintiff has alleged trademark infringement under section 20 of the
+Trademarks Act.
+In order to establish infringement under section 20 "a plaintiff must establish that: (1) it is entitled to commence the action with respect to the registered trade-mark in issue; and that (2) a sale, distribution or advertisement of any wares or services has occurred; (3) in association with a confusing trade-mark or trade-name; (4) by a person not entitled under the Trade-marks Act to the use of the registered trade-mark; (5) as a trade-mark" (Kelly Gill,
+Fox on Canadian Law of Trade-marks and unfair Competition,
+Fourth Edition, Toronto ON, Carswell, 2014).
+[119]
+Section 20 of the
+Trademarks Act
+states:
+Infringement
+20. (1) The right of the owner of a registered trade-mark to its exclusive use shall be deemed to be infringed by a person not entitled to its use under this Act who sells, distributes or advertises wares or services in association with a confusing trade-mark or trade-name, but no registration of a trade-mark prevents a person from making
+(a) any bona fide use of his personal name as a trade-name, or
+(b) any bona fide use, other than as a trade-mark,
+(i) of the geographical name of his place of business, or
+(ii) of any accurate description of the character or quality of his wares or services,
+in such a manner as is not likely to have the effect of depreciating the value of the goodwill attaching to the trade-mark.
+Exception
+(2) No registration of a trade-mark prevents a person from making any use of any of the indications mentioned in subsection 11.18(3) in association with a wine or any of the indications mentioned in subsection 11.18(4) in association with a spirit.
+Violation
+20. (1) Le droit du propriétaire d'une marque de commerce déposée à l'emploi exclusif de cette dernière est réputé être violé par une personne non admise à l'employer selon la présente loi et qui vend, distribue ou annonce des marchandises ou services en liaison avec une marque de commerce ou un nom commercial créant de la confusion. Toutefois, aucun enregistrement d'une marque de commerce ne peut empêcher une personne:
+a) d'utiliser de bonne foi son nom personnel comme nom commercial;
+b) d'employer de bonne foi, autrement qu'à titre de marque de commerce:
+(i) soit le nom géographique de son siège d'affaires,
+(ii) soit toute description exacte du genre ou de la qualité de ses marchandises ou services,
+d'une manière non susceptible d'entraîner la diminution de la valeur de l'achalandage attaché à la marque de commerce.
+Exception
+(2) L'enregistrement d'une marque de commerce n'a pas pour effet d'empêcher une personne d'utiliser les indications mentionnées au paragraphe 11.18(3) en liaison avec un vin ou les indications mentionnées au paragraphe 11.18(4) en liaison avec un spiritueux.
+[120]
+Section 4(2) of the
+Trademarks Act
+provides that a trademark is deemed to be used in association with services if it is used or displayed in the performance or advertising of those services.
+[121]
+For the reasons I have given above with respect to likelihood of deception under passing off, I do not find that use of the Plaintiff's trade name or trademarks in metatags constitutes trademark infringement.
+(1) Section 7(c) of
+Trademarks Act
+[122]
+There is no evidence before me to support a claim under section 7(c) of the
+Trademarks Act
+.
+(2) Section 22 - Depreciation of Goodwill
+[123]
+The section 22 claim for depreciation of goodwill requires four elements to be proven:
+Section 22 has four elements. Firstly, that a claimant's registered trade-mark was used by the defendant in connection with wares or services -- whether or not such wares and services are competitive with those of the claimant. Secondly, that the claimant's registered trade-mark is sufficiently well known to have significant goodwill attached to it. Section 22 does not require the mark to be well known or famous (in contrast to the analogous European and U.S. laws), but a defendant cannot depreciate the value of the goodwill that does not exist. Thirdly, the claimant's mark was used in a manner likely to have an effect on that goodwill (i.e. linkage) and fourthly that the likely effect would be to depreciate the value of its goodwill (i.e. damage).
+REFERENCE_SUPPRESSED
+[124]
+"Use" under section 22 requires use of the plaintiff's trademarks, as registered. There has been no such use here and accordingly, section 22 does not apply. Moreover, even if it could arguably be said that there is at least some use of redtag.ca by use of red tag, that use was not in any visible portion of 411 Travel Buys' website, it was in the metatags. There is no connection between the online services of 411 Travel Buys on their website and the services of the Plaintiff as offered on 411 Travel Buys' website.
+VI.
+Liability of Carlos Lourenco
+[125]
+The test for finding an officer or director of a corporation personally liable is set out in
+REFERENCE_SUPPRESSED:
+It is well established that the directing minds of corporations cannot be held civilly liable for the actions of the corporations they control and direct unless there is some conduct on the part of those directing minds that is either tortious in itself or exhibits a separate identity or interest from that of the corporations such as to make the acts or conduct complained of those of the directing minds: see REFERENCE_SUPPRESSED Therefore, the mere fact of exercising control in a company is not sufficient to establish personal liability. What kind of conduct can trigger personal liability? Le Dain J.A. offers his views in REFERENCE_SUPPRESSED:
+What, however, is the kind of participation in the acts of the company that should give rise to personal liability? It is an elusive question. It would appear to be that degree and kind of personal involvement by which the director or officer makes the tortious act his own. It is obviously a question of fact to be decided on the circumstances of each case.[...]
+142 In my opinion, there must be circumstances from which it is reasonable to conclude that the purpose of the director or officer of a company is to deliberately, willfully and knowingly pursue a course of conduct that will incite infringement or an indifference to the risk of infringement. The precise formulation of the appropriate test is obviously a difficult one. Room must be left for a broad appreciation of the circumstances of each case to determine, if there is personal liability (
+CITATION_SUPPRESSED).
+[126]
+In cases where personal liability is found, there has been a knowing, deliberate, wilful quality to the participation of the corporate officer or director. As well, small or closely held corporations are not to be treated any differently:
+31 This principle applies not just to large corporations, but to small, closely held companies as well. As the Federal Court of Appeal noted in CITATION_SUPPRESSED, there is no reason why small, one or two-person companies should not have the benefit of the same approach to personal liability as large corporations, merely because there is generally and necessarily a greater degree of direct and personal involvement in management on the part of its shareholders and directors.
+32 That is, the mere fact that individual defendants may be sole shareholders and directors of a company is not, by itself, enough to support an inference that the company was their agent or instrument in the commission of acts of infringement, or that they authorized such acts, so as to make themselves personally liable: CITATION_SUPPRESSED.
+33 The necessary result of this is that not only will the particular direction or authorization required for personal liability not be inferred merely from the fact that a company is closely controlled: it will also not be inferred from the general direction which those in such control must necessarily impart to its affairs: CITATION_SUPPRESSED.
+34 The Federal Court of Appeal concluded in CITATION_SUPPRESSED that to attract personal liability on the part of a corporate director or officer:
+[T]here must be circumstances from which it is reasonable to conclude that the purpose of the director or officer was not the direction of the manufacturing and selling activity of the company in the ordinary course of his relationship to it but the deliberate, willful and knowing pursuit of a course of conduct that was likely to constitute infringement or reflected an indifference to the risk of it: at para. 28.
+REFERENCE_SUPPRESSED
+[127]
+There is no evidence before me that Mr. Lourenco acted in any way outside the normal course of his duties as an officer and director of 411 Travel Buys. To the contrary, he appears to have acted in good faith and without any knowing or willful disregard for the Plaintiff trade name and trademark rights, or any other property rights of the Plaintiff's. He is not personally liable.
+VII.
+Remedies
+[128]
+Given my decision that there has been no violation of the Plaintiff's alleged copyright or trademark rights, there is no need to consider quantification of alleged lost profits of the Plaintiff.
+JUDGMENT
+[129]
+THIS COURT'S JUDGMENT is that
+:
+1. The Plaintiff's action is dismissed, and the Defendants' counterclaim is dismissed;
+2. Costs to the Defendants under Tariff B column III.
+Action dismissed;
+counterclaim dismissed.
+Editor: Jana A. Andersen/nmg
+[End of document]

@@ -1,0 +1,510 @@
+ <FRAGMENT_SUPPRESSED>  CF 273)
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Russell, J.
+March 20, 2014.
+Counsel:
+Patrick Hart, for the applicant;
+James Elford, for the respondent.
+Solicitors of Record:
+Jackie Handerek & Forester, Leduc, Alberta, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Edmonton, Alberta, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+INTRODUCTION
+[1]
+Russell, J.
+: This is an application under s. 18.1 of the
+Federal Courts Act
+, RSC, 1985, c F-7 [Federal Courts Act] for judicial review of a decision of a delegate of the Minister of Transport, Infrastructure and Communities [Transport Canada], dated July 13, 2012 [Decision], which refused the Applicant's application for a Transportation Security Clearance [TSC] pursuant to s. 4.8 of the
+Aeronautics Act
+, RSC, 1985, c A-2 [Act].
+BACKGROUND
+[2]
+The Applicant is challenging the Decision of Transport Canada not to issue her a Transport Security Clearance [TSC], which has prevented her from continuing her employment with Canadian North Airlines [Canadian North]. She worked as a cargo agent for Canadian North in the Northwest Territories [NWT] from at least 2003 - first in Norman Wells and then in Yellowknife - before moving to Edmonton with her family in April 2011. In order to continue working for Canadian North in Edmonton, she needed a TSC to access secure areas of the airport. She applied for the TSC in May 2011.
+[3]
+In accordance with Transport Canada's policies, a background check was performed and identified certain concerns. The Applicant had checked a box on her application stating that she had never been convicted of an offence for which she had not been pardoned, but the background check showed a conviction in the NWT in May 1995, for assault with a weapon. In addition, the Royal Canadian Mounted Police [RCMP] stated in a report dated March 16, 2012 that:
+• On December 13, 2004 the RCMP in Normand Wells NWT received information, which they believed to be credible, that the Applicant transported or placed a substantial amount of marijuana on aircraft to be distributed in northern communities. The RCMP later clarified, in an e-mail of April 27, 2012, that this was not a one-time event but an activity that went on continually for a long period of time;
+• The Applicant owned a residence in Yellowknife that she rented to an associate with a lengthy criminal record, whom the Applicant used to distribute marijuana in Yellowknife, paying her with marijuana as the associate was known to be a heavy drug user;
+• On December 29, 2009, an RCMP member was doing a walkthrough of a liquor establishment in Normand Wells and could smell fresh marijuana coming from the Applicant and others who were sitting with her; and
+• The associate's criminal convictions included assault, failure to comply with a probation order, and failure to comply with an undertaking, and another charge of uttering threats was withdrawn when she entered into a peace bond.
+[4]
+Based on this information, Transport Canada sent the Applicant a letter on May 14, 2012, stating that adverse information arose during the verification process that raised concerns about her suitability to obtain a clearance, and that her TSC application was to be reviewed by the Advisory Body [AB], which makes recommendations to the Minister concerning clearances. The letter set out the information received from the RCMP as well as the Applicant's prior conviction, and stated that her application was being reviewed by the AB because of that information, her association with an individual involved in criminal activity, and the misleading or false information provided on her application. The letter also stated; "Transport Canada would encourage you to provide additional information, outlining the circumstances surrounding the above noted criminal conviction, incidents and association, and the fact that you misled the minister, as well as to provide any other relevant information or explanation, including any extenuating circumstances, within 20 days of receipt of this letter."
+[5]
+The Applicant responded by e-mail on June 6, 2012, and attached a letter of reference from a friend and former tenant of the Applicant, Leland Stroman, Manager Safety and Security, Department of Transportation, Government of the NWT, attesting to her good character. In her email, the Applicant claimed
+inter alia
+that she: had never loaded illegal drugs onto aircraft as she took illegal activity very seriously and would not jeopardize her employment; had never had contact with the renters of her former house or been involved in any illegal activity with them; and had never used illegal drugs. With respect to her previous conviction, the Applicant claimed that she had believed that after five years "a pardon was basically accepted within the RCMP detachment," and that she had held a security pass in Yellowknife after this conviction and it had simply slipped her mind when she was completing the application form. She apologized for the inaccuracy. She acknowledged that some of her friends in the NWT may have had problems with drugs, but stated that these issues were unrelated to her and she was simply in the wrong place at the wrong time.
+[6]
+On June 28, 2012, the AB recommended that the TSC application be refused. The information in the RCMP report, along with the fact that the Applicant "misled the Minister about the existence of her criminal record," led the AB to believe, on a balance of probabilities, "that she may be prone or induced to commit an act or assist or abet any person to commit an act that may unlawfully interfere with civil aviation." It stated that "[t]he applicant's letter of reference did not provide sufficient information that would persuade the Advisory Body to recommend issuing a clearance." The AB's Record of Discussion also indicates that "Ms. Lorenzen provided a written statement, however the Advisory Body did not find it to be credible." The AB noted that the Applicant wrote that she had "never had any contact with the renters," but her letter of reference was from a former tenant.
+[7]
+Transport Canada's Director General, Aviation Security [Minister's Delegate] issued the Decision denying the TRC on July 13, 2012, and advised the Applicant of this decision in a letter of July 16, 2012 which closely mirrored the Record of Decision. This Decision resulted in a suspension of the Applicant's employment with Canadian North, and it appears that her employment has now been terminated.
+DECISION UNDER REVIEW
+[8]
+The Record of Decision states that the Decision was based on a review of the file including the concerns set out in Transport Canada's letter to the Applicant of May 14, 2012, the Applicant's written response e-mailed on June 6, 2012, the letter of Leland Stroman, the AB's recommendation, and the Transportation Security Clearance Program Policy [TSCP Policy].
+[9]
+The following explanation for the Decision was provided:
+The information related to Ms. Lorenzen placing illegal drugs on aircrafts to be distributed in Northern communities, as well as her criminal conviction for Assault with a Weapon, and the fact that Ms. Lorenzen misled the Minister regarding her criminal record, raised questions regarding her judgment, reliability and trustworthiness. This led me to believe that, on a balance of probabilities, Ms. Lorenzen may be prone or induced to commit an act, or to assist or abet another person to commit an act, that may unlawfully interfere with civil aviation. I noted that Ms. Lorenzen provided a written statement as well as a letter of reference from Leland Stroman; nonetheless, because of the severity of the information in the RCMP report, its relevance to civil aviation, and the fact that she misled the Minister, her submissions did not contain sufficient arguments to address my concerns.
+I therefore concur with the Advisory Board's recommendation and refuse Ms. Lorenzen's transportation security clearance.
+ISSUES
+[10]
+The following issues arise in this application:
+• Was the Decision of the Minister's Delegate unreasonable?
+• Was there a breach of procedural fairness?
+STANDARD OF REVIEW
+[11]
+The Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] held that a standard of review analysis need not be conducted in every instance. Instead, where the standard of review applicable to a particular question before the court is settled in a satisfactory manner by past jurisprudence, the reviewing court may adopt that standard of review. Only where this search proves fruitless, or where the relevant precedents appear to be inconsistent with new developments in the common law principles of judicial review, must the reviewing court undertake a consideration of the four factors comprising the standard of review analysis:
+ <FRAGMENT_SUPPRESSED> .
+[12]
+The parties agree that the standard of review for a decision of the Minister's Delegate under s. 4.8 of the Act is reasonableness, and the standard of review with respect to whether there has been a breach of procedural fairness is correctness:
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> [
+Clue
+];
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED>  [
+Rivet
+].
+[13]
+The Applicant submits that the issues of procedural fairness that arise here are so inextricably intertwined with the issue of the reasonableness of the Decision that the "overriding standard of review applicable here is correctness." I do not agree. For the sake both of analytical clarity and adherence to established precedent, a distinction between the two must be maintained and different standards of review apply, as identified above.
+[14]
+When reviewing a decision on the standard of reasonableness, the analysis will be concerned with "the existence of justification, transparency and intelligibility within the decision-making process [and also with] whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law." See <FRAGMENT_SUPPRESSED> , above, at para 47, and
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]. Put another way, the Court should intervene only if the Decision was unreasonable in the sense that it falls outside the "range of possible, acceptable outcomes which are defensible in respect of the facts and law."
+STATUTORY PROVISIONS
+[15]
+The following provision of the Act are applicable in these proceedings:
+Granting, suspending, etc.
+4.8 The Minister may, for the purposes of this Act, grant or refuse to grant a security clearance to any person or suspend or cancel a security clearance.
+Délivrance, refus, etc.
+4.8 Le ministre peut, pour l'application de la présente loi, accorder, refuser, suspendre ou annuler une habilitation de sécurité.
+[16]
+Decisions under this provision of the Act are guided by the TSCP Policy. Relevant sections of that Policy are set out below for convenience:
+Aim
+I.1
+The aim of the Transportation Security Clearance Program Policy is the prevention of unlawful acts of interference with civil aviation by the granting of clearances to persons who meet the standards set out in this Program.
+Definitions
+I.2
+(1) In this document:
+[...]
+"Advisory Body" means the Transportation Security Clearance Advisory Body;
+"clearance" means an authorization granted as the result of checks conducted on a person for security purposes;
+[...]
+Objective
+I.4
+The objective of this Program is to prevent the uncontrolled entry into a restricted area of a listed airport by any individual who
+[...]
+4. the Minister reasonably believes, on a balance of probabilities, may be prone or induced to
+• commit an act that may unlawfully interfere with civil aviation; or
+• assist or abet any person to commit an act that may unlawfully interfere with civil aviation.
+[...]
+The Advisory Body
+I.8
+An Advisory Body shall review applicant's information and make recommendations to the Minister concerning the granting, refusal, cancellation or suspension of clearances.
+ARGUMENT
+Applicant
+[17]
+The Applicant argues that her procedural rights were breached when the AB, and by extension the Minister's Delegate, found her response to Transport Canada's letter of May 14, 2012 lacked credibility. Largely as a result of this error, she says, the ultimate Decision was unreasonable.
+Preliminary Issue
+[18]
+The Applicant acknowledges that her affidavit and one of the exhibits to that affidavit contain new information that was not before the AB or the Minister's Delegate. However, she says this information should be admitted based on the principle in
+ <FRAGMENT_SUPPRESSED>  [
+Sha
+] at para 18, where Justice Zinn held that:
+18 ...Absent prejudice to the opposing party ... affidavit evidence that provides background information relevant to a material issue before the Court on judicial review, may be put before the Court; such affidavit evidence does not constitute impermissible new evidence.
+Procedural Fairness
+[19]
+The Applicant acknowledges that, generally speaking, the duty to act fairly with respect to a new TSC application is minimal, since the refusal of a new application typically does not result in the withdrawal of any pre-existing rights. The Minister must simply render a decision that was not based on an erroneous finding of fact made in a perverse or capricious manner or without regard for the material before him or her:
+ <FRAGMENT_SUPPRESSED> (TD) [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> [
+Irani
+];
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]. In cases where an existing security clearance is being revoked or not renewed, a somewhat higher standard of procedural fairness applies: an applicant has a right to know the case to be met, and to be given a meaningful opportunity to make representations:
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]; <FRAGMENT_SUPPRESSED> , above, at paras 15-16.
+[20]
+The Applicant argues that it is this second, higher standard of procedural fairness that applies here, for two reasons. First, the Applicant says her circumstances are closer to those in <FRAGMENT_SUPPRESSED> , above, than in the cases dealing with initial TSC applications, because her continuation in her then-current job and her long-standing employment with Canadian North was dependent upon receiving the TSC. Citing the principles from
+ <FRAGMENT_SUPPRESSED>  at paras 23-27 [
+Baker
+], the Applicant says the importance of the decision to the individual applicant must be considered. As in <FRAGMENT_SUPPRESSED> , above, she argues, the importance of the decision for her was "quite significant" since it would have a serious impact on her livelihood and she was accused of serious offences which put her at risk of losing her employment. She argues that the other factors from
+Baker
+also support a higher duty of fairness in this context. Second, the Applicant claims that she held a security pass for her work in Yellowknife, and that the AB did not definitively rule this out. It simply stated that her previous work for Canadian North "either did not require a Restricted Area Identity Card, or ... previous clearances have since been purged from the system due to retention periods." Thus, in the Applicant's view, there is ambiguity on the record as to whether her application was properly classified as "new."
+[21]
+The Applicant does not take issue with the sufficiency of the initial disclosure provided by the Respondent of the concerns raised by the background check. She understood the case she had to meet. Rather, she argues that she was not provided with a
+meaningful
+opportunity to respond to the case against her. While acknowledging that she was provided with a formal opportunity to respond, the Applicant argues that substantively, this was not a
+meaningful
+opportunity to respond because her response was dismissed as not being credible. This finding did not imbue the Applicant's response with any influential weight, and her submissions were therefore not fully and fairly considered. The Applicant says that she should have been given a further opportunity to address the issues or concerns that informed this credibility finding, and that by not affording her such an opportunity, the AB erred in its choice of procedure and breached her rights of procedural fairness at the point at which it assessed her response:
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ].
+Reasonableness of the Decision
+[22]
+The Applicant also argues that she responded to each of the concerns identified in the Respondent's May 14, 2012 letter, and the failure to give any real weight to those responses made the Decision unreasonable. With respect to the non-disclosure of her previous criminal conviction, she says she provided both an apology and a clear explanation for the failure to disclose: she erroneously believed that a pardon was "basically accepted" after five years, and having obtained a security pass in Yellowknife after the conviction, it "totally passed [her] mind" when she filled in the TSC application. The record does not show any basis upon which this specific response was deemed to lack credibility. Further, the criminal record in itself does not appear from the record to have been a concern to Transport Canada, as the criminal record search bears a handwritten and initialed notation stating: "Last and only conviction, 16 years ago, OK to process." The record shows that the real concern was the non-disclosure, and rather than accepting her forthright and plausible explanation for this the AB and the Minister's Delegate characterized it in a nefarious tone, finding that she "misled the Minister about the existence of her criminal record."
+[23]
+With respect to the allegation that she was transporting or placing substantial amounts of marijuana on aircraft to be distributed in northern communities, the Applicant notes that no further details, names or dates were provided, but she nevertheless took this allegation very seriously and addressed it explicitly in her response letter. She stated that she had never been charged or confronted with these accusations and:
+As a long term employee with Canadian North I have never shipped any illegal drugs to any communities and would never jeopardize my employment with the company. I love my job very much and take illegal activity very serious and practice this well and continue to be an honest employee within the company.
+The Applicant says this thorough and unequivocal denial was not given any serious weight by the Respondent, with the AB's summary even referring to the alleged conduct as an "offence" rather than an allegation, and that no indication was given as to why the Respondent did not find the Applicant's claims to be credible.
+[24]
+The Applicant says she also responded explicitly to the allegation that she rented a residence to an associate with a lengthy criminal record, and used that associate to distribute marijuana in Yellowknife. Her response letter stated:
+My application has not been approved due to false accusations made against me, due to the fact of a renter I had in Yellowknife, NT. I have never had any contact with the renters, nor have I ever had any illegal activity with them. At no time have I ever been charged or confronted with any of the accusations made against me. Our house at the time in Yellowknife was rented on a short term basis till it was sold ...
+The Applicant calls attention to the use of the phrase "our house," noting that it was owned by her and her husband (with only his name on title), and says her claim not to have had contact with the renters is therefore both logical and plausible. The Applicant argues that, as with the other allegations noted above, the Respondent gave no weight to this denial and gave no explanation. The Applicant reads the AB's reference to Mr. Stroman being a former tenant as an "incredulous implication" that he was the tenant with a criminal record, and notes that there is a complete lack of evidence for this conclusion.
+[25]
+With respect to the allegation that an RCMP officer smelled fresh marijuana on her and others while doing a walkthrough of a liquor establishment, the Applicant notes that her response contained a categorical denial that she had ever done illegal drugs, and an explanation that "[i]t seems to me that the people I know in Norman Wells may have issues with illegal drugs but this has nothing to do with me and I may have just been with the wrong people at the wrong time."
+[26]
+The Applicant says there is nothing on the record to indicate that the Respondent made any further efforts or inquiries to resolve the discrepancy between its allegations and the Applicant's definitive responses. Rather, it simply "did not find [her response] to be credible." Similarly, there is no indication that the Respondent gave serious consideration to the strong letter of reference provided by Leland Stroman, which lauded her "high personal standards and ethics." The Applicant argues that the Respondent's failure to give serious consideration to her response or the letter of reference, or to make further inquiries to resolve the discrepancy, makes the Decision unreasonable.
+[27]
+The Applicant also distinguishes a number of other cases in which the denial or revocation of a TSC has been found to be reasonable on judicial review. In <FRAGMENT_SUPPRESSED> , above, the concern was with the applicant's criminal record itself, she says, while there is no indication that the substance of the Applicant's criminal record was a basis for the TSC refusal in this case.  <FRAGMENT_SUPPRESSED>  the applicant had admitted committing fraud and impersonating an RCMP officer, and the fact that she was given a conditional discharge did not change this, whereas here there has been no admission of guilt.  <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], the applicant did not deny his ties to members of a criminal organization, whereas in this case the Applicant has categorically denied all of the allegations against her. In
+Rivet
+, above, the applicant had recent convictions for fraud, which occurred while she was in a position of trust. Similarly, in <FRAGMENT_SUPPRESSED> , above, the applicant had a recent conviction for fraud, in addition to older offences, and denied responsibility for the fraud offence.  <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], the applicant had a lengthy criminal record and a recent conviction, and acknowledged that he continued to use and purchase marijuana on a regular basis. In
+Clue
+, above, where the applicant was accused of placing a loaded handgun on an aircraft, a key finding was that Mr. Clue was uncooperative, belligerent and obstructionist when confronted, and attempted to excuse his conduct, whereas the Applicant in this case has demonstrated no belligerence or obstructionism whatsoever. Further, there was in
+Clue
+substantive evidence linking the applicant to the alleged conduct despite the eventual withdrawal of the criminal charge, whereas in this case there are only vague and general assertions from the RCMP based on "information they believe to be credible." The basis for believing this information to be credible remains unexplained, the Applicant notes, and it is contradicted by the specific and unequivocal assertions of the Applicant. In <FRAGMENT_SUPPRESSED> , above, there was a detailed police report setting out the applicant's actions in driving an associate to a bank where the associate committed a robbery. There was no doubt about the applicant's involvement, even if that involvement did not meet the criminal threshold. Here, there is no reliable evidence or detailed report connecting the Applicant to any criminal activity. Similarly, there was a much stronger evidentiary basis linking the applicant in
+ <FRAGMENT_SUPPRESSED>  to criminal activity (by her husband) than exists in the present case. In <FRAGMENT_SUPPRESSED> , above, the Applicant made no effort to challenge the underlying facts related to drug charges, even though those charges were eventually withdrawn.  <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], where the applicant was alleged to be buying, using and selling cocaine but not charged with doing so, the applicant's counsel merely attempted to shift the onus of proof back upon the Respondent, claiming that Transport Canada was under an obligation to provide more information in support of its allegations, which the Court rejected. By contrast, the Applicant here made a substantive effort to challenge the underlying facts relating to the allegations against her.
+[28]
+In sum, the Applicant argues that her circumstances are distinguishable from each of these cases, and that the Respondent's denial of the TSC in this case was unreasonable.
+Respondent
+[29]
+The Respondent argues that there was no breach of procedural fairness and the Decision of the Minister's Delegate was reasonable; the Applicant is asking the Court to reweigh the evidence, which is not the appropriate role of the Court on judicial review.
+Preliminary Issue
+[30]
+The Respondent argues that the new information in paragraph 12 of the Applicant's affidavit and exhibit E to that affidavit should not be considered or relied upon by the Court, as it was not before the decision-maker:
+ <FRAGMENT_SUPPRESSED> leave to appeal ref'd, [2002] SCCA 316;
+ <FRAGMENT_SUPPRESSED> . The Respondent says that the principle in
+Sha
+, above, relied upon by the Applicant, relates only to general background information that helps to provide context, not new factual information that is relied upon by a party for a substantive argument. Here, the document in the exhibit is tendered to (in the Applicant's words) "affirm the veracity of one of the Applicant's claims to the Advisory Body," and is therefore inadmissible new evidence, as the Court found in <FRAGMENT_SUPPRESSED> , above, at paras 11-13. The Applicant could have placed the information before the Minister's Delegate but did not. The issue on judicial review is whether the Decision was reasonable on the basis of the information before the Minister's Delegate, not based on other information that was not provided.
+Reasonableness of the Decision
+[31]
+The Respondent says that s. 4.8 of the Act grants broad discretion to the Minister, and that in exercising that discretion the Minister may consider any factor he or she considers relevant, including criminal charges that do not result in a conviction and evidence about a person's character or propensities: <FRAGMENT_SUPPRESSED> , above, at para 78;
+Clue
+, above, at para 20. Air safety is an issue of substantial importance and access to restricted areas is a privilege, not a right. The Minister's broad discretion is guided by the TSCP Policy, which does not require proof of any unlawful act or past activity, or a belief that an applicant
+will
+do something. It simply requires that the Minister, in the circumstances, have a reasonable belief that the person
+may
+be prone or induced to do some acts:
+Clue
+, above, at para 20; <FRAGMENT_SUPPRESSED> , above, at paras 7, 29. Here, the Respondent says, it was reasonable for the Minister's Delegate to conclude that, on a balance of probabilities, the Applicant may be prone or induced to commit an act that may unlawfully interfere with civil aviation.
+[32]
+The Respondent argues that, while the Policy mentions belief on a balance of probabilities, this is not a formal burden of proof that the Minister's delegate must meet in order to be able to deny a TSC, because the TSC is a privilege and not a right. Rather, there must be reasonable grounds to determine that the evidence available meets the threshold of a balance of probabilities, and that the burden of dispelling the decision-maker's concerns has not been met. If such reasonable grounds are present, then the application can be reasonably denied.
+[33]
+Here, the Minister's Delegate had information, considered reliable by the RCMP, that went to the heart of the Applicant's security clearance, the Respondent says. It suggested she was using her position to smuggle illegal drugs to communities in the NWT. The Minister's Delegate also had evidence that the Applicant had misled the Minister in her application regarding her criminal history.
+[34]
+The Applicant denied the allegations, but the Minister's Delegate found the response to be insufficient to resolve the concern, and the evidence supports this conclusion, the Respondent argues. It was reasonable not to accept the Applicant's blanket denials or explanations as completely refuting all of the information that had been received. It is clear that the AB and the Minister's Delegate considered the totality of the circumstances and preferred the evidence gathered from the RCMP to the Applicant's denials and explanations.
+[35]
+Moreover, the Respondent argues, it was not the role of the Minister's Delegate to investigate matters further; the information before her was provided to the Applicant, who did not indicate any issue with identifying the renter referred to, or in otherwise refuting the evidence as she saw fit. It was open to the Applicant to request further details, and she did not do so. If there was insufficient information to respond to the allegations, that deficiency rests with the Applicant. To suggest otherwise would mean that the AB and the Minister's Delegate must return to the Applicant and seek more information until they are satisfied that she has met their concerns.
+[36]
+While the Applicant has distinguished her circumstances from a number of cases where a decision refusing a TSC was found to be reasonable, the Respondent says this is not a proper approach to determining reasonableness. Rather, the proper approach is to look at whether the Decision in the present case was reasonable.
+[37]
+In this regard, the onus was on the Applicant to respond to the allegations in a manner that resolved the decision-maker's concerns. The Minister's Delegate was not required to accept the Applicant's version of events; she has broad discretion in assessing the evidence in this highly discretionary area of decision-making. Ultimately, the Applicant is arguing that she should have been believed, which amounts to a request for the Court to reweigh the evidence. The Respondent says that the reasoning of Justice Barnes in
+Clue
+, above, at para 21, applies equally in the present case:
+[21] It is not the role of the Court on judicial review to reweigh the evidence or to substitute its views for those of the responsible decision-maker. There was, in this case, a rational evidentiary basis for the Director's decision and this application is accordingly dismissed.
+Procedural Fairness
+[38]
+The Respondent argues that the content of the duty of fairness in the context of a new application for a TSC is settled by prior case law: after permitting an applicant to submit the application in writing, the Minister need only render a decision that is not based on an erroneous finding of fact made in a perverse or capricious manner or without regard to the material before him or her: <FRAGMENT_SUPPRESSED> , above, at para 13;
+Irani
+, above, at paras 21-22; <FRAGMENT_SUPPRESSED> , above, at para 9. The Respondent says it is implausible that the Applicant could have had a TSC clearance in Yellowknife in 2010-2011 without TC's knowledge, so there is no reason for the Court to treat the present case as one where there was denial of a TSC renewal or a cancellation.
+[39]
+The Respondent argues that attempts to raise the standard of procedural fairness by reference to cases arising from another administrative context, such as <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> , both above, should be rejected: the standard of procedural fairness is contextual and the context of a new TSC application has been reviewed by the Court many times.
+[40]
+The Respondent also says that while the Decision may have impacted a specific new job the Applicant had planned to work at, the new requirement of a TSC was occasioned by the Applicant's voluntary move to Edmonton for non-work related reasons. Moreover, denial of a TSC merely prevents access to secure areas. It does not prevent employment in the airline industry generally, and the Applicant has not established that it would have a "serious impact" on her livelihood in the Alberta labour market; she has merely asserted this to be true.
+[41]
+The Respondent argues that it is clear that the standard of procedural fairness required on a new TSC application has been met, and that even if the higher standard applicable to TSC cancellation or revocation decisions is applied, the requirements of procedural fairness have been met. In that context, the Applicant has a right to know the case she has to meet, and to be given a meaningful opportunity to make representations: <FRAGMENT_SUPPRESSED> , above; <FRAGMENT_SUPPRESSED> , above. The Respondent argues that both of these criteria have been satisfied.
+[42]
+In the Respondent's view, the argument that the Applicant should have been told about the AB's conclusions regarding credibility and offered an opportunity to respond amounts either to an attempt to argue for a different standard of procedural fairness, based on jurisprudence from another context, or a request for a reweighing of the evidence in the guise of an argument of procedural fairness. The suggestion that a failure to specifically outline credibility concerns to the Applicant amounts to a breach of procedural fairness has, the Respondent argues, been repeatedly rejected by the Court in this context: <FRAGMENT_SUPPRESSED> , above, at paras 11-13; <FRAGMENT_SUPPRESSED> , above, at para 56.
+[43]
+The Respondent says the suggestion that the AB or the Minister's Delegate had an obligation to do further research or provide further and better particulars beyond what was available to them has also been rejected:
+Clue
+, above, at para 17. The decision-maker had sufficient evidence to justify denying the clearance, and the burden shifted to the Applicant to disabuse the decision-maker of her concerns, which the Applicant failed to do: <FRAGMENT_SUPPRESSED> , above, at para 34. The suggestion that either the AB or the Minister's Delegate had an obligation to return to her with any or all concerns that arose from her response simply has no basis in the jurisprudence.
+[44]
+Ultimately, the Respondent argues, the Applicant was provided with an opportunity to respond to the same information that the AB and the Minister's Delegate had. She did not ask for further particulars, and accordingly none were offered or sought. The Applicant offered blanket denials, and did not claim any difficulty in responding to the arguments. There was no breach of procedural fairness, regardless of the standard applied, and the Decision was reasonable.
+ANALYSIS
+[45]
+I agree with the Respondent's objection to the new information that the Applicant has attempted to file with this application and that was not before the Minister's Delegate.
+[46]
+I also agree with the Respondent's observation that the duty of procedural fairness in cases of this nature is well-settled in the case law, and that it is not appropriate to elevate the standard of fairness required by reference to other cases and other contexts where different factors prevail.
+[47]
+The AB assessed the case as an application for a new TSC and gave reasons for so doing. Although the Applicant believes she may have acquired some kind of clearance in the past, there is insufficient evidence to question the AB's conclusions on this issue.
+[48]
+This being the case, the standard of procedural fairness required in this case is relatively minimal and is as set out in <FRAGMENT_SUPPRESSED> , above:
+13 In the case at bar, we are dealing with a simple application for clearance or a permit made by a person who has no existing right to that clearance or permit and is not accused of anything. As the Minister's refusal to grant access clearance does not involve the withdrawal of any of the plaintiff's rights, the latter can have no legitimate expectation that he will be granted clearance (see
+ <FRAGMENT_SUPPRESSED> , and
+ <FRAGMENT_SUPPRESSED>  In the circumstances, therefore, I consider that the requirements imposed by the duty to act fairly are minimal and that,
+after allowing the plaintiff to submit his application in writing as he did, the Minister only had to render a decision that was not based on an erroneous finding of fact made in a perverse or capricious manner or without regard for the material before him
+. As no evidence was submitted that the decision duly made by the Minister pursuant to the powers conferred on him by the Act and Regulations was without basis, this Court's intervention is not warranted.
+[Emphasis added]
+[49]
+This means that Transport Canada was only obliged to allow the Applicant to submit her application in writing, and make a decision with due regard to the material before it and not in a perverse or capricious manner. Transport Canada did that in this case.
+[50]
+The Applicant obviously feels aggrieved at the findings in the Decision and alleges that credibility findings were made without giving her the opportunity to respond on the issue of credibility. However, Parliament has said (in s. 4.8 of the Act) that "The Minister may, for the purposes of this Act, grant or refuse to grant a security clearance to any person or suspend or cancel a security clearance," and the Minister / department has crafted a policy and process to enable the Minister to exercise that discretion.
+[51]
+I see no procedural unfairness on the facts of this case. Even if the higher standard applicable to cancellations and revocations were to be applied, the Applicant was fully informed of the allegations and the evidence she had to answer, and she had every opportunity to make whatever submissions and advance whatever evidence she felt would assist her. See <FRAGMENT_SUPPRESSED> , above, and <FRAGMENT_SUPPRESSED> , above. Neither the AB nor the Minister's Delegate had an obligation to do further research or provide further particulars. See
+Clue
+, above, at para 17. They provided the Applicant with details of what was before them, which the Applicant concedes was sufficient evidence to deny the TSC. The Decision only involves a finding that the Applicant "may be prone or induced" to commit or assist an act that "may unlawfully interfere with civil aviation." This is not the same thing as proof that something has occurred. The Minister simply has to reasonably believe "on a balance of probabilities" that the Applicant "may be prone or induced." See
+Clue
+, above, at para 20.
+[52]
+There was certainly sufficient evidence to cause the Minister's Delegate to make such a finding. The burden then shifted to the Applicant to disabuse the decision-maker of her concerns. The Applicant believes that she did this. She says that she explained her omission of the criminal offence and she made categorical denials of the other allegations against her. However, the Minister's Delegate did not have to accept the Applicant's position on these issues and, in this case, clear reasons were given for not doing so. It is possible to disagree with these reasons but, in my view, it is not possible to say that they lack justification, transparency and intelligibility or that the Decision does not fall within a range of possible, acceptable outcomes which are defensible in respect of the facts and law. The Court cannot simply re-weight the evidence and reach a conclusion that favours the Applicant. See <FRAGMENT_SUPPRESSED> , above, at paras 59, 61;
+ <FRAGMENT_SUPPRESSED> ;
+League for  <FRAGMENT_SUPPRESSED> ;
+Clue
+, above, at para 21.
+[53]
+It may be that what the Applicant says about herself is true. The Court has no means of assessing that. But that is not the issue. The issue is whether, given the allegations and evidence before the Minister's Delegate, the Decision that the Applicant may be prone or induced to commit an act that may unlawfully interfere with civil aviation was reasonable. I cannot say it wasn't.
+[54]
+I can find no reviewable error in the Decision.
+JUDGMENT
+[55]
+THIS COURT ORDERS AND ADJUDGES that
+:
+1. The application is dismissed with costs to the Respondent.
+.........................
+ <FRAGMENT_SUPPRESSED>  saisie d'une demande présentée en vertu de l'article 18.1 de la
+Loi sur les Cours fédérales
+, LRC, 1985, c F-7 [la
+Loi sur les Cours fédérales
+], en vue d'obtenir le contrôle judiciaire d'une décision en date du 13 juillet 2012 [la décision] par laquelle une représentante du ministre des Transports, de l'infrastructure et des collectivités [Transports Canada] a refusé en vertu de l'article 4.8 de la
+Loi sur l'aéronautique
+, LRC, 1985, c A-2 [la Loi] la demande présentée par la demanderesse en vue d'obtenir une habilitation de sécurité en matière de transport [l'habilitation de sécurité].
+CONTEXTE
+[2]
+La demanderesse conteste la décision par laquelle Transports Canada a refusé de lui délivrer une habilitation de sécurité en matière de transport [l'habilitation de sécurité], l'empêchant ainsi de conserver son emploi à la Canadian North Airlines [Canadian North]. La demanderesse travaillait comme agente de fret pour la Canadian North dans les Territoires du Nord-Ouest [les T.N.-O.] depuis au moins 2003, tout d'abord à Norman Wells, puis à Yellowknife, avant de déménager à Edmonton avec sa famille en avril 2011. Pour pouvoir continuer à travailler pour la Canadian North à Edmonton, il lui fallait obtenir une habilitation de sécurité pour avoir accès aux zones réglementées de l'aéroport. Elle a demandé son habilitation de sécurité en mai 2011.
+[3]
+Conformément aux politiques de Transports Canada, on a procédé à une vérification des antécédents de la demanderesse, ce qui a suscité certaines préoccupations. Dans sa demande, la demanderesse avait coché une case dans laquelle elle déclarait n'avoir jamais été reconnue coupable d'une infraction à l'égard de laquelle une réhabilitation ne lui avait pas été octroyée, mais la vérification de ses antécédents démontrait qu'elle avait été reconnue coupable en mai 1995 au T.N.-O. d'agression armée. De plus, la Gendarmerie royale du Canada (la GRC) avait déclaré ce qui suit dans un rapport daté du 16 mars 2012:
+[traduction]
+• Le 13 décembre 2004, la GRC a, à Normand Wells (T.N.-O.), reçu des renseignements jugés crédibles suivant lesquels la demanderesse avait transporté ou déposé à bord d'un aéronef une quantité importante de marihuana en vue de la distribuer dans les communautés nordiques. La GRC a par la suite précisé, dans un courriel du 27 avril 2012, qu'il ne s'agissait pas d'un incident isolé, mais que cette activité se poursuivait depuis longtemps;
+• La demanderesse était propriétaire, à Yellowknife, d'une résidence qu'elle louait à une acolyte qui avait de lourds antécédents judiciaires et qui distribuait la marihuana à Yellowknife pour son compte moyennant une rétribution en marihuana, cette acolyte étant une toxicomane notoire;
+• Le 29 décembre 2009, alors qu'il circulait dans un établissement de vente d'alcool à Normand Wells, un agent de la GRC a humé une odeur de marihuana émanant de la demanderesse et d'autres personnes assises avec elle;
+• L'acolyte de la demanderesse a été reconnue coupable des infractions suivantes: voies de fait, défaut de se conformer à une ordonnance de probation, et défaut de respecter un engagement; elle a aussi fait l'objet d'une accusation d'avoir proféré des menaces, qui a toutefois été retirée après qu'elle se soit engagée à ne pas troubler l'ordre public.
+[4]
+Sur la foi de ces renseignements, Transports Canada a adressé le 14 mai 2012 à la demanderesse une lettre précisant qu'en raison de renseignements défavorables obtenus au cours des vérifications, des doutes avaient été soulevés au sujet de son aptitude à obtenir une habilitation de sécurité et que sa demande d'habilitation de sécurité devait être examinée par un comité consultatif chargé de formuler des recommandations au ministre en la matière. La lettre précisait les renseignements reçus de la GRC ainsi que les infractions pour lesquelles la demanderesse avait été condamnée et indiquait que sa demande serait examinée par un comité consultatif en raison des renseignements en question, de ses fréquentations avec des individus impliqués dans des activités criminelles et des renseignements faux ou trompeurs qu'elle avait communiqués dans sa demande. Il y était aussi indiqué ce qui suit: [traduction] « Transports Canada vous encourage à fournir des renseignements complémentaires, à expliquer les circonstances entourant les condamnations criminelles, les incidents et les fréquentations criminelles susmentionnées et le fait que vous avez induit le ministre en erreur, et vous incite à fournir tout autre renseignent ou explication pertinents, y compris à faire état de toute circonstance atténuante dans les 20 jours de la réception de la présente lettre ».
+[5]
+La demanderesse a répondu par courriel le 6 juin 2012 et a joint une lettre de recommandation d'un ami et ancien locataire, Leland Stroman, directrice de la sécurité au ministère des Transports du gouvernement des T.N.-O. attestant la bonne moralité de la demanderesse. Dans son courriel, la demanderesse affirmait notamment qu'elle n'avait jamais transporté de drogues illégales à bord d'un aéronef, étant donné qu'elle était consciente de la gravité de toute implication dans des activités illégales et qu'elle ne voulait pas compromettre son emploi, et elle précisait qu'elle n'avait jamais eu de contact avec les locataires de son ancienne maison, qu'elle n'avait jamais participé à des activités illégales avec eux, et qu'elle n'avait jamais consommé de drogues illégales. En ce qui concerne ces condamnations antérieures, la demanderesse affirmait qu'elle croyait qu'après cinq ans [traduction] « la GRC reconnaissait dans les faits qu'elle s'était réhabilitée », ajoutant qu'elle avait obtenu un laissez-passer de sécurité à Yellowknife après sa déclaration de culpabilité et qu'elle avait simplement omis de le mentionner lorsqu'elle avait rempli son formulaire de demande. Elle tenait à présenter ses excuses pour les renseignements inexacts qu'elle avait communiqués et reconnaissait que certains de ses amis dans les Territoires du Nord-Ouest pouvaient avoir des problèmes de consommation de drogues, mais affirmait que cela ne la concernait pas et qu'elle s'était simplement retrouvée au mauvais endroit au mauvais moment.
+[6]
+Le 28 juin 2012, le comité consultatif a recommandé que la demande d'habilitation de sécurité soit refusée. Les renseignements contenus dans le rapport de la GRC, ainsi que le fait que la demanderesse [traduction] « avait induit le ministre en erreur au sujet de l'existence de ses antécédents judiciaires » avait amené le comité consultatif à croire, suivant la prépondérance des probabilités [traduction] « qu'elle peut être sujette ou être incitée à commettre un acte d'intervention illicite pour l'aviation civile ou à aider ou à inciter toute autre personne à commettre un tel acte ». Le rapport déclarait que [traduction] « la lettre de recommandation de la demanderesse ne renferme pas suffisamment de renseignements pour persuader le comité consultatif de recommander la délivrance d'une habilitation de sécurité ». Le compte rendu des entretiens du comité consultatif indiquait également que [traduction] « Mme Lorenzen a produit une déclaration écrite; toutefois, le comité consultatif ne l'a pas jugée crédible ». Le comité consultatif signalait que la demanderesse avait écrit qu'elle [traduction] « n'avait jamais eu de contact avec les locataires » alors que sa lettre de recommandation provenait d'un ancien locataire.
+[7]
+La directrice générale de la Sécurité de l'aviation de Transports Canada [la représentante du ministre] a rendu une décision le 13 juillet 2012 par laquelle elle refusait de délivrer une habilitation de sécurité à la demanderesse, et elle l'a informée de cette décision dans une lettre datée du 16 juillet 2012 qui reprenait fidèlement le texte du compte rendu de la décision. Cette décision s'est soldée par la suspension de la demanderesse de son emploi à la Canadian North et il semble que, depuis, on ait mis fin à son emploi.
+DÉCISION À L'EXAMEN
+[8]
+Le compte rendu de la décision explique que celle-ci était fondée sur un examen du dossier, et notamment des préoccupations formulées dans la lettre que Transports Canada avait adressée à la demanderesse le 14 mai 2012, la réponse écrite communiquée par la demanderesse dans son courriel du 6 juin 2012, la lettre de Leland Stroman, la recommandation du comité consultatif, et la politique du programme d'habilitation de sécurité en matière de transport [la politique du PHST].
+[9]
+Les explications suivantes ont été fournies pour justifier la décision:
+[traduction]
+Des doutes ont été soulevés au sujet du jugement et de la fiabilité de Mme Lorenzen en raison de renseignements révélant qu'elle avait transporté des drogues illégales à bord d'aéronefs en vue de les distribuer dans des collectivités nordiques, du fait qu'elle avait déjà été condamnée au criminel pour agression armée, et du fait qu'elle avait induit le ministre en erreur au sujet de ses antécédents judiciaires. Ces renseignements m'ont amenée à croire, selon la prépondérance des probabilités, que Mme Lorenzen est sujette ou peut être incitée à commettre un acte d'intervention illicite pour l'aviation civile ou à aider ou à inciter toute autre personne à commettre un tel acte. Je constate que Mme Lorenzen a produit une déclaration écrite ainsi qu'une lettre de recommandation de Leland Stroman; néanmoins, en raison de la gravité des renseignements contenus dans le rapport de la GRC, de sa pertinence par rapport à l'aviation civile et du fait qu'elle a induit le ministre en erreur, les observations qu'elle a soumises ne renferment pas suffisamment d'arguments pour répondre à mes préoccupations.
+Je souscris donc à la recommandation du Comité consultatif et je refuse de délivrer à Mme Lorenzen une habilitation de sécurité en matière de transport.
+QUESTIONS EN LITIGE
+[10]
+La présente demande soulève les questions suivantes:
+• La décision de la représentante du ministre était-elle déraisonnable?
+• Y a-t-il eu un manquement à l'équité procédurale?
+NORME DE CONTRÔLE
+[11]
+Dans l'arrêt
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], la Cour suprême du Canada a déclaré qu'il n'est pas toujours nécessaire de se livrer à une analyse relative à la norme de contrôle. Ainsi, lorsque la norme de contrôle qui s'applique à la question particulière dont la cour est saisie a été établie de manière satisfaisante par la jurisprudence, il est loisible à la cour chargée du contrôle de l'adopter. Ce n'est que dans les cas où cette recherche s'avère infructueuse, ou si la jurisprudence semble devenue incompatible avec l'évolution récente des principes de la common law en matière de contrôle judiciaire, que la cour chargée du contrôle doit entreprendre l'examen des quatre facteurs entrant en jeu dans l'analyse relative à la norme de contrôle (
+ <FRAGMENT_SUPPRESSED> ).
+[12]
+Les parties s'entendent pour dire que c'est la norme de contrôle de la décision raisonnable qui s'applique lorsqu'il s'agit de procéder au contrôle d'une décision prise par un représentant du ministre en vertu de l'article 4.8 de la Loi, et que la norme de contrôle qui s'applique lorsqu'il s'agit de savoir s'il y a eu un manquement à l'équité procédurale est celle de la décision correcte (
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> [
+Clue
+];
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED>  [
+Rivet
+]).
+[13]
+La demanderesse affirme que les questions d'équité procédurale soulevées en l'espèce sont à ce point inextricablement liées à celle du caractère raisonnable de la décision pour que [traduction] « la norme de contrôle de toute évidence applicable en l'espèce est celle de la décision correcte ». Je ne suis pas de cet avis. Par souci de clarté analytique et de respect de la jurisprudence, j'estime qu'il y a lieu d'établir une distinction entre ces deux questions et que des normes de contrôle différentes s'appliquent, comme il a été expliqué précédemment.
+[14]
+Lors d'un contrôle selon la norme de la décision raisonnable, l'analyse a trait à « la justification de la décision, à la transparence et à l'intelligibilité du processus décisionnel [ainsi qu'à] l'appartenance de la décision aux issues possibles acceptables pouvant se justifier au regard des faits et du droit » ( <FRAGMENT_SUPPRESSED> , précité, au paragraphe 47, et
+Canada (Ministre de la Citoyenneté et de l' <FRAGMENT_SUPPRESSED> ). Autrement dit, la Cour ne doit intervenir que si la décision est déraisonnable, en ce sens qu'elle n'appartient pas aux « issues possibles acceptables pouvant se justifier au regard des faits et du droit ».
+DISPOSITIONS LÉGISLATIVES APPLICABLES
+[15]
+Voici les dispositions de la Loi qui s'appliquent à la présente instance:
+Délivrance, refus, etc.
+4.8 Le ministre peut, pour l'application de la présente loi, accorder, refuser, suspendre ou annuler une habilitation de sécurité.
+Granting, suspending, etc.
+4.8 The Minister may, for the purposes of this Act, grant or refuse to grant a security clearance to any person or suspend or cancel a security clearance.
+[16]
+La Politique du PHST fournit des lignes directrices pour rendre les décisions en vertu de ces dispositions de la Loi. Par souci de commodité, les passages pertinents de cette politique sont reproduits ci-dessous:
+Objet
+I.1
+L'objet du Programme d'habilitation de sécurité en matière de transport est de prévenir les actes d'intervention illicite dans l'aviation civile en accordant une habilitation aux gens qui répondent aux normes dudit programme.
+Définitions
+I.2
+(1) Dans le présent document:
+[...]
+«
+habilitation de sécurité
+» signifie une habilitation de sécurité accordée conformément à la Politique sur la sécurité du gouvernement;
+[...]
+« organisme consultatif » signifie l'Organisme consultatif d'examen d'habilitation de sécurité en matière de transport;
+[...]
+Objectif
+I.4
+L'objectif de ce programme est de prévenir l'entrée non contrôlée dans les zones réglementées d'un aéroport énuméré dans le cas de toute personne:
+[...]
+4. qui, selon le ministre et les probabilités, est sujette ou peut être incitée à:
+• commettre un acte d'intervention illicite pour l'aviation civile; ou
+• aider ou à inciter toute autre personne à commettre un acte d'intervention illicite pour l'aviation civile.
+[...]
+L'organisme consultatif
+I.8
+Un Organisme consultatif sera tenu d'étudier les renseignements des demandeurs et de formuler des recommandations au ministre concernant l'octroi, le refus, l'annulation ou la suspension d'une habilitation.
+PRÉTENTIONS ET MOYENS DES PARTIES
+La demanderesse
+[17]
+La demanderesse soutient que le comité consultatif et, par voie de conséquence, la représentante du ministre, l'ont privé de ses droits procéduraux en estimant que sa réponse à la lettre du 14 mai 2012 de Transports Canada n'était pas crédible. La demanderesse affirme qu'en grande partie à cause de cette erreur, la décision qui a ultimement été rendue était déraisonnable.
+Question préliminaire
+[18]
+La demanderesse reconnaît que son affidavit et l'une des annexes à son affidavit renferment de nouveaux renseignements dont ne disposaient ni le comité consultatif ni la représentante du ministre. Elle affirme toutefois que les renseignements en question devraient être admis sur le fondement du principe énoncé dans la décision
+ <FRAGMENT_SUPPRESSED>  [
+Sha
+], au paragraphe 18, dans laquelle le juge Zinn a déclaré ce qui suit:
+18 [...] En l'absence de préjudice pour la partie adverse [...] la preuve par affidavit qui fournit des renseignements contextuels pertinents quant à une question en litige importante dont la Cour est saisie à l'occasion d'un contrôle judiciaire peut être présentée à la Cour. Une telle preuve par affidavit ne constitue pas une nouvelle preuve non admissible.
+Équité procédurale
+[19]
+La demanderesse reconnaît que, de façon générale, l'obligation d'agir de façon équitable en ce qui concerne une nouvelle demande d'habilitation de sécurité est peu exigeante, étant donné que le refus d'accorder une nouvelle demande n'entraîne pas normalement le retrait de droits préexistants. Le ministre doit simplement rendre une décision qui n'est pas fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments dont il disposait (
+ <FRAGMENT_SUPPRESSED> (CF 1re inst.) [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> et 22 [
+Irani
+];
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]. Une norme d'équité procédurale un peu plus exigeante s'applique en cas de révocation ou de non-renouvellement d'une habilitation de sécurité déjà existante: en pareil cas, le demandeur a le droit de savoir ce qu'il doit prouver et de se voir accorder une possibilité véritable de faire valoir son point de vue (
+ <FRAGMENT_SUPPRESSED> et 36 [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]; <FRAGMENT_SUPPRESSED> , précitée, aux paragraphes 15 et 16).
+[20]
+La demanderesse soutient que c'est la seconde norme d'équité procédurale, celle qui est plus exigeante, qui s'applique dans le cas qui nous occupe, et ce, pour deux raisons. En premier lieu, la demanderesse affirme que sa situation ressemble davantage à celle dont il est question dans l'affaire <FRAGMENT_SUPPRESSED> , précitée, que dans les affaires portant sur des demandes initiales d'habilitation de sécurité, parce que son maintien dans le poste qu'elle occupait depuis longtemps au sein de la Canadian North dépendait de l'obtention d'une habilitation de sécurité. Citant des principes tirés de l'arrêt
+ <FRAGMENT_SUPPRESSED> , aux paragraphes 23-27 [
+Baker
+], la demanderesse affirme qu'il faut tenir compte de l'importance que revêt la décision pour l'intéressé. Elle affirme que, comme dans l'affaire <FRAGMENT_SUPPRESSED> , précitée, cette décision revêtait pour elle une importance « assez considérable », étant donné que cette décision était de nature à avoir de sérieuses répercussions sur son gagne-pain et qu'elle était accusée d'infractions graves qui risquaient de compromettre son emploi. Elle affirme que les autres facteurs énoncés dans l'arrêt
+Baker
+confirment également qu'une obligation d'équité plus exigeante s'appliquait en l'espèce. En second lieu, la demanderesse affirme qu'elle détenait un laissez-passer de sécurité pour son travail à Yellowknife et que le comité consultatif n'a pas clairement écarté ce fait. Le comité s'est contenté de déclarer que le travail qu'elle exerçait antérieurement à la Canadian North [traduction] « n'exigeait pas qu'elle possède une carte d'identité lui permettant d'accéder à des zones réglementées, ou [...] les habilitations de sécurité antérieures ont été supprimées du système en raison de l'expiration du délai de conservation ». Ainsi, suivant la demanderesse, on ne peut savoir au vu du dossier si sa demande a à juste titre été qualifiée de « nouvelle ».
+[21]
+La demanderesse ne prétend pas que la façon dont le défendeur lui a au départ fait part des préoccupations soulevées à la suite des vérifications de ses antécédents était insuffisante. Elle était consciente des points auxquels elle devait répondre. Elle affirme plutôt qu'on ne lui a pas donné une
+véritable
+possibilité de réfuter les renseignements qui lui étaient défavorables. Tout en reconnaissant qu'on lui a accordé la possibilité de répondre en bonne et due forme, la demanderesse soutient qu'au fond il ne s'agissait pas d'une
+véritable
+possibilité, parce qu'on a écarté sa réponse au motif qu'elle n'était pas crédible. Cette conclusion démontre qu'on n'a accordé aucune valeur à sa réponse et que l'on n'a par conséquent pas tenu pleinement et équitablement compte de ses arguments. La demanderesse affirme qu'on aurait dû lui accorder la possibilité de répondre aux préoccupations ou aux réserves ayant mené à mettre en doute sa crédibilité, et qu'en ne lui accordant pas cette possibilité, le comité consultatif a commis une erreur en ce qui concerne le choix de la procédure et manqué aux obligations qu'il avait envers elle en matière d'équité procédurale au stade de l'évaluation de sa réponse (
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]).
+Caractère raisonnable de la décision
+[22]
+La demanderesse affirme également qu'elle a répondu à chacune des préoccupations exprimées par le défendeur dans sa lettre du 14 mai 2012 et que le défendeur a rendu une décision déraisonnable du fait qu'il n'a pas accordé de poids réel à ses réponses. En ce qui concerne le fait qu'elle n'avait pas divulgué ses antécédents judiciaires, la demanderesse affirme qu'elle a présenté ses excuses et qu'elle a fourni des explications claires pour justifier son omission: elle croyait en effet à tort qu'une habilitation était [traduction] « automatiquement accordée » après cinq ans et que comme elle avait obtenu laissez-passer de sécurité à Yellowknife après sa condamnation, elle [traduction] « avait complètement oublié ce détail » lorsqu'elle a rempli sa demande d'habilitation de sécurité. Le dossier ne justifiait pas que le défendeur conclut que les réponses qu'elle avait données n'étaient pas crédibles. De plus, le casier judiciaire comme tel ne semble pas avoir, au vu du dossier, préoccupé Transports Canada, étant donné que le résultat de la recherche d'antécédents criminels comporte l'annotation manuscrite et paraphée suivante: [traduction] « une seule condamnation il y a 16 ans. La demande peut être traitée ». Il ressort du dossier que le véritable problème concernait le fait qu'elle n'avait pas divulgué ses antécédents criminels; or, au lieu d'accepter les explications franches et vraisemblables qu'elle a fournies, le comité consultatif et la représentante du ministre ont adopté à son endroit une attitude réprobatrice en concluant qu'elle [traduction] « a induit le ministre en erreur au sujet de l'existence de ses antécédents criminels ».
+[23]
+En ce qui concerne l'allégation suivant laquelle elle transportait ou plaçait des quantités importantes de marihuana à bord d'aéronefs en vue de leur distribution dans des collectivités nordiques, la demanderesse signale qu'aucun détail ou date n'a été mentionné, mais qu'elle a néanmoins pris cette allégation très au sérieux et qu'elle en traite directement dans la réponse qu'elle a donnée dans sa lettre. Elle déclare qu'elle n'a jamais fait l'objet d'accusations ou été appelée à s'expliquer à cet égard, et que:
+[traduction] En tant que personne travaillant depuis longtemps pour la Canadian North, je n'ai jamais transporté de drogues illégales dans des communautés et je n'ai jamais fait quoi que ce soit qui pourrait compromettre mon emploi au sein de cette entreprise. J'adore mon travail et je suis consciente de la gravité de telles activités et je continue à être une employée honnête au sein de cette société.
+La demanderesse affirme que le défendeur n'a pas accordé de réelle valeur à ce démenti catégorique et non équivoque et que, dans son résumé, le comité consultatif qualifie les actes qui lui sont reprochés d' « infractions » plutôt que d'allégations, et que rien ne permet de savoir pourquoi le défendeur n'a pas jugé crédible les explications de la demanderesse.
+[24]
+La demanderesse affirme qu'elle a répondu explicitement à l'allégation suivant laquelle elle avait loué une résidence à une acolyte ayant de lourds antécédents judiciaires et qu'elle se servait de cette dernière pour distribuer de la marihuana à Yellowknife. Voici ce qu'elle déclare dans sa lettre de réponse:
+[traduction] Ma demande n'a pas été approuvée par suite de fausses accusations portées contre moi en raison de la locataire que j'avais à Yellowknife, T.N.-O. Je n'ai jamais eu de contact avec les locataires et je n'ai jamais trempé dans des activités illégales avec eux. Je n'ai jamais fait l'objet d'accusations quant aux faits reprochés ou été appelée à m'expliquer à ce sujet. La maison que nous avions à l'époque à Yellowknife a été louée pour une courte période pour être ensuite vendue [...]
+La demanderesse souligne qu'il est question dans sa réponse de la maison « que nous avions », et fait remarquer cette maison appartenait à elle et à son mari (qui en était le seul propriétaire enregistré), et qu'en raison de cela son allégation qu'elle n'a jamais eu de contact avec les locataires est à la fois logique et plausible. La demanderesse soutient que, comme dans le cas des autres allégations susmentionnées, le défendeur n'a accordé aucune valeur à ce démenti et qu'il n'a fourni aucune explication pour expliquer pourquoi il l'écartait. La demanderesse considère que le fait que le comité consultatif mentionne que M. Stroman est un ancien locataire est [traduction] « une déduction ridicule » donnant à penser qu'il était le locataire ayant des antécédents judiciaires; elle fait en outre observé qu'il n'y a absolument aucun élément de preuve à l'appui de cette conclusion.
+[25]
+En ce qui concerne l'allégation qu'un agent de la GRC a détecté une odeur de marihuana fraîchement consommée émanant d'elle et d'autres personnes alors qu'il circulait dans un bar, la demanderesse relève que, dans sa réponse, elle a formellement démenti cette allégation en expliquant qu'elle n'avait jamais consommé de drogues illégales et en disant qu'[traduction] « il [...] semble que les personnes que je connais à Norman Wells ont peut-être des problèmes de consommation de drogues illégales, mais cela n'a rien à voir avec moi et il se peut que je me sois tout simplement retrouvée avec les mauvaises personnes au mauvais moment ».
+[26]
+La demanderesse affirme qu'il n'y a rien au dossier qui permette de conclure que le défendeur a fait d'autres vérifications ou démarches pour résoudre les contradictions entre ses allégations et les réponses catégoriques de la demanderesse. À son avis, le défendeur n'a tout simplement pas jugé crédible sa réponse. De même, rien ne permet de penser que le défendeur a examiné sérieusement la solide lettre de recommandation fournie par Leland Stroman qui louait ses [traduction] « valeurs éthiques personnelles et ses principes supérieurs ». La demanderesse soutient que le défaut du défendeur d'examiner sérieusement sa réponse et sa lettre de recommandation ou de faire d'autres vérifications en vue de résoudre les contradictions fait en sorte que sa décision est déraisonnable.
+[27]
+La demanderesse établit également une distinction entre la présente espèce et d'autres affaires dans lesquelles le refus ou la révocation d'une habilitation de sécurité avaient été jugés raisonnables dans le cadre d'un contrôle judiciaire. Dans l'affaire <FRAGMENT_SUPPRESSED> , précitée, les réserves exprimées portaient sur le casier judiciaire du demandeur, alors qu'en l'espèce, rien ne permet de penser que le casier judiciaire de la demanderesse est la raison pour laquelle sa demande d'habilitation de sécurité a été refusée. Dans l'affaire
+ <FRAGMENT_SUPPRESSED>  la demanderesse avait admis avoir commis une fraude et s'être fait passer pour une agente de la GRC, et le fait qu'elle avait bénéficié d'une absolution conditionnelle n'y changeaient rien, alors qu'en l'espèce, il n'y a pas eu aveu de culpabilité. Dans l'affaire
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], le demandeur n'avait pas nié qu'il avait des liens avec les membres d'une organisation criminelle, tandis qu'en l'espèce, la demanderesse a catégoriquement nié toutes les allégations formulées contre elle. Dans l'affaire
+Rivet
+, précitée, le demandeur avait été depuis peu reconnu coupable d'une fraude commise alors qu'il occupait un poste de confiance. De même, dans l'affaire <FRAGMENT_SUPPRESSED> , précitée, le demandeur avait été récemment reconnu coupable de fraude et avait déjà été reconnu coupable d'autres infractions, et il niait toute responsabilité en rapport avec la fraude. Dans l'affaire
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], le demandeur avait de lourds antécédents judiciaires, il venait d'être reconnu coupable d'une infraction, et il reconnaissait qu'il continuait à consommer et à acheter régulièrement de la marihuana. Dans l'affaire
+Clue
+, précitée, dans laquelle le demandeur était accusé d'avoir déposé une arme de poing chargé à bord d'un aéronef, une conclusion essentielle était que M. Clue s'était montré très peu coopératif et avait fait preuve d'une attitude agressive, voire obstructionniste, lorsqu'on lui avait fait part des faits qui lui étaient reprochés, et il avait tenté de justifier sa conduite, alors qu'en l'espèce, la demanderesse n'a fait preuve d'aucune agressivité ni fait de tentative d'obstruction. De plus, dans l'affaire Clue, il existait des preuves solides associant le demandeur aux actes qui lui étaient reprochés, et ce, malgré le fait que les accusations criminelles avaient par la suite été retirées, tandis que dans le cas qui nous occupe, on ne dispose que d'assertions vagues et générales de la GRC fondées sur des [traduction] « renseignements jugés crédibles ». La demanderesse signale que les raisons pour lesquelles ces renseignements sont considérés comme crédibles demeurent inexpliquées et qu'ils sont contredits par ses affirmations précises et non équivoques de la demanderesse. Dans l'affaire <FRAGMENT_SUPPRESSED> , précitée, il y avait un rapport de police décrivant en détail les gestes commis par le demandeur lorsqu'il avait amené en voiture un complice à une succursale bancaire où cet individu avait commis un vol qualifié. L'implication du demandeur ne faisait aucun doute, mais elle n'avait pas suffi à justifier les accusations portées contre lui. Dans le cas qui nous occupe, on ne dispose d'aucun élément de preuve fiable ou de rapport détaillé permettant d'établir un lien entre la demanderesse et une activité criminelle quelconque. De même, on disposait d'éléments de preuve beaucoup plus solides pour établir un lien entre la demanderesse et les activités criminelles (de son mari) dans l'affaire
+ <FRAGMENT_SUPPRESSED>  que ce n'est le cas en l'espèce. Dans l'affaire <FRAGMENT_SUPPRESSED> , précitée, le demandeur n'avait fait aucun effort pour contester les faits qui sous-tendaient les accusations qui avaient été déposées contre lui en rapport avec la possession de drogues, et ce, en dépit du fait qu'elles avaient finalement été retirées. Dans l'affaire
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], dans laquelle le demandeur avait été soupçonné d'avoir acheté, consommé et vendu de la cocaïne, mais n'avait jamais été accusé en rapport avec les faits en question, son avocat s'était contenté de chercher à reporter le fardeau de la preuve sur le défendeur en faisant valoir que Transports Canada avait l'obligation de soumettre davantage d'éléments à l'appui de ses allégations, ce que la Cour avait écarté. En revanche, dans le cas qui nous occupe, la demanderesse a tenté par tous les moyens de contester les faits sous-tendant les allégations formulées contre elle.
+[28]
+En somme, la demanderesse affirme que sa situation est différente de celle de chacune des affaires susmentionnées et que le refus du défendeur de lui délivrer une habilitation de sécurité était déraisonnable.
+Le défendeur
+[29]
+Le défendeur soutient qu'il n'y a eu aucun manquement à l'équité procédurale et que la décision de la représentante du ministre était raisonnable; la demanderesse demande à la Cour de réévaluer la preuve ce que la Cour ne peut faire lorsqu'elle est saisie d'une demande de contrôle judiciaire.
+Question préliminaire
+[30]
+Le défendeur affirme que la Cour ne devrait pas tenir compte des nouveaux renseignements contenus au paragraphe 12 de l'affidavit de la demanderesse ainsi qu'à l'annexe E de l'affidavit ou s'appuyer sur ceux-ci, étant donné que la représentante du ministre ne disposait pas de ces renseignements pour prendre sa décision (
+Ordre des architectes de l' <FRAGMENT_SUPPRESSED> utorisation de pourvoi à la CSC refusée, [2002] SCCA 316;
+ <FRAGMENT_SUPPRESSED> ). Le défendeur affirme que le principe établi dans la décision
+Sha
+, précitée, sur lequel la demanderesse se fonde, ne se rapporte qu'aux renseignements d'ordre général utiles pour connaître le contexte et non aux nouveaux renseignements factuels sur lesquels se fonde une partie à l'appui d'un argument de fond. Dans le cas qui nous occupe, le document dont il est question dans l'annexe a été produit (pour reprendre les mots de la demanderesse) [traduction] « pour confirmer la véracité d'une des prétentions formulées par la demanderesse devant le comité consultatif » et comme la Cour l'a conclu dans la décision <FRAGMENT_SUPPRESSED> , précitée, aux paragraphes 11 à 13, il n'est donc pas admissible en tant que nouvel élément de preuve. La demanderesse aurait pu porter les renseignements en question à l'attention de la représentante du ministre, mais elle ne l'a pas fait. La question à laquelle il faut répondre dans le cadre d'un contrôle judiciaire est celle de savoir si la décision était raisonnable à la lumière des éléments dont disposait la représentante du ministre et non en fonction d'autres renseignements qui ne lui ont pas été soumis.
+Caractère raisonnable de la décision
+[31]
+Le défendeur affirme que l'article 4.8 de la Loi confère au ministre un vaste pouvoir discrétionnaire et que, lorsqu'il exerce ce pouvoir discrétionnaire, le ministre peut tenir compte de tout facteur qu'il estime pertinent, y compris des accusations criminelles qui ne se sont pas soldées par une déclaration de culpabilité, ainsi que de tout élément de preuve portant sur la moralité ou les propensions d'une personne ( <FRAGMENT_SUPPRESSED> , précitée, au paragraphe 78;
+Clue
+, précitée, au paragraphe 20). La sécurité aérienne revêt une importance capitale et l'accès aux zones réglementées est un privilège et non un droit. Dans l'exercice de son pouvoir discrétionnaire, le ministre doit se guider sur la politique du PHST, qui n'exige pas la preuve qu'un acte illicite a été perpétré ou l'existence d'antécédents ou la croyance que l'intéressé
+commettra
+un acte quelconque. Elle exige simplement qu'eu égard aux circonstances, le ministre ait un motif raisonnable de croire, selon la prépondérance des probabilités, qu'une personne est sujette ou peut être incitée à commettre un acte (
+Clue
+, précitée, au paragraphe 20; <FRAGMENT_SUPPRESSED> , précitée, aux paragraphes 7 et 29). Dans le cas qui nous occupe, le défendeur affirme qu'il était raisonnable de la part du représentant du ministre de conclure que, selon la prépondérance des probabilités, la demanderesse pouvait être sujette ou être incitée à commettre un acte d'intervention illicite pour l'aviation civile.
+[32]
+Le défendeur affirme que, bien que la politique du PHST parle de motifs de croire selon la prépondérance des probabilités, il ne s'agit pas d'un fardeau de preuve formel dont la représentante du ministre doit s'acquitter pour refuser de délivrer une habilitation de sécurité, étant donné que l'habilitation de sécurité est un privilège et non un droit. Il doit plutôt exister des motifs raisonnables de croire que les éléments de preuve soumis répondent à la norme de la prépondérance des probabilités et que l'intéressé ne s'est pas acquitté du fardeau qui lui incombait de dissiper les doutes du décideur. Si les motifs raisonnables en question existent, on peut alors raisonnablement refuser la demande.
+[33]
+Selon le défendeur, dans le cas qui nous occupe, la représentante du ministre disposait de renseignements jugés fiables par la GRC qui portaient sur la question précise de l'habilitation de sécurité de la demanderesse. Ces renseignements donnaient à penser que la demanderesse se servait de sa position pour faire passer des drogues illégales dans les Territoires du Nord-Ouest. La représentante du ministre disposait également d'éléments de preuve permettant de penser que la demanderesse avait induit le ministre en erreur dans sa demande en ce qui concerne ses antécédents judiciaires.
+[34]
+La demanderesse a nié ces allégations, mais la représentante du ministre a conclu que la réponse qu'elle avait donnée n'était pas suffisante pour apaiser les préoccupations soulevées, et la preuve appuie cette conclusion. Il était raisonnable de ne pas accepter les dénégations générales de la demanderesse ou de considérer que les explications qu'elle avait fournies ne réfutaient pas complètement les renseignements reçus. Il est évident que le comité consultatif et la représentante du ministre ont examiné l'ensemble des circonstances et qu'ils ont accordé plus de valeur aux éléments recueillis par la GRC qu'aux dénégations et aux explications de la demanderesse.
+[35]
+Le défendeur affirme par ailleurs qu'il n'appartenait pas à la représentante du ministre de pousser plus loin son enquête; les renseignements dont elle disposait lui avaient été fournis par la demanderesse, qui n'a pas cherché à connaître l'identité de la locataire dont il était fait mention ou à réfuter davantage des éléments de preuve si elle l'estimait nécessaire. Il était loisible à la demanderesse de demander des précisions; or, elle ne l'a pas fait. Si la demanderesse ne disposait pas de suffisamment de renseignements pour être en mesure de répondre aux allégations, elle n'a qu'à s'en prendre à elle-même. Suggérer le contraire signifierait que le comité consultatif et la représentante du ministre doivent continuer de demander des renseignements à la demanderesse jusqu'à ce qu'ils estiment que leurs doutes sont dissipés.
+[36]
+La demanderesse a distingué sa situation de celle dont il est question dans plusieurs affaires dans lesquelles le refus d'une demande d'habilitation de sécurité a été jugé raisonnable, mais il ne s'agit pas, suivant le défendeur, de la bonne méthode pour se prononcer sur le caractère raisonnable d'une telle décision. La démarche à suivre consiste plutôt à se demander si, en l'espèce, la décision était raisonnable.
+[37]
+À cet égard, il incombait à la demanderesse de répondre aux allégations d'une manière qui permettait de dissiper les doutes du décideur. La représentante du ministre n'était pas tenue d'accepter la version des faits de la demanderesse; la représentante du ministre disposait d'un vaste pouvoir discrétionnaire pour apprécier la preuve dans le cadre d'un processus décisionnel éminemment discrétionnaire. Au fond, la demanderesse affirme qu'on aurait dû la croire, ce qui revient à demander à la Cour de réévaluer la preuve. Le défendeur affirme que le raisonnement suivi par le juge Barnes dans la décision
+Clue
+, précitée, au paragraphe 21, s'applique au cas qui nous occupe:
+[21] Il n'appartient pas à la Cour, dans une procédure de contrôle judiciaire, d'apprécier à nouveau la preuve ou de substituer son point de vue à celui du décideur compétent. Il existait en l'espèce un fondement probatoire rationnel pour la décision du directeur et, par conséquent, la présente demande est rejetée.
+Équité procédurale
+[38]
+Le défendeur soutient que la jurisprudence a déjà déterminé en quoi consiste l'obligation d'équité dans le cas d'une nouvelle demande d'habilitation de sécurité: après avoir permis au demandeur de soumettre sa demande par écrit, le ministre n'a pour seule obligation que de rendre une décision qui n'est pas fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments à sa disposition ( <FRAGMENT_SUPPRESSED> , précitée, au paragraphe 13;
+Irani
+, précitée, aux paragraphes 21 et 22; <FRAGMENT_SUPPRESSED> , précitée, au paragraphe 9). Suivant le défendeur, il est invraisemblable que la demanderesse ait pu obtenir une habilitation de sécurité à Yellowknife en 2010-2011 à l'insu de TC, de sorte que rien ne justifie la Cour de considérer la présente affaire comme un cas de refus ou de non renouvellement d'une habilitation de sécurité.
+[39]
+Le défendeur estime qu'on ne saurait, en s'appuyant sur des décisions rendues dans un contexte administratif différent, telles les décisions <FRAGMENT_SUPPRESSED> et <FRAGMENT_SUPPRESSED> , tenter de rendre le critère d'équité procédurale plus exigeant
+.
+La norme d'équité procédurale dépend du contexte et le contexte propre aux nouvelles demandes d'habilitation a souvent été examiné par la Cour.
+[40]
+Le défendeur affirme également que, bien que la décision ait pu avoir des incidences sur un poste précis que convoitait la demanderesse, l'obligation pour elle de demander une nouvelle habilitation de sécurité était le résultat de la décision qu'elle a prise de son plein gré de déménager à Edmonton pour des raisons personnelles. Par ailleurs, le refus d'octroyer une habilitation de sécurité empêche simplement à l'intéressé d'accéder aux zones réglementées. Il ne l'empêche pas de travailler dans l'industrie aéronautique en général et la demanderesse n'a pas démontré que cette décision aurait des « conséquences graves » sur sa possibilité de gagner sa vie sur le marché du travail albertain; elle s'en est tenue à une simple affirmation à cet égard.
+[41]
+Le défendeur soutient qu'il est évident que la norme d'équité procédurale exigée dans le cas d'une nouvelle demande d'habilitation de sécurité a été respectée et que, même si la norme plus exigeante qui régit les décisions d'annuler ou de révoquer une habilitation de sécurité existante a été respectée. Dans ce contexte, la demanderesse a le droit de savoir ce qu'elle doit réfuter, elle a le droit de se voir accorder une occasion véritable de faire valoir son point de vue ( <FRAGMENT_SUPPRESSED> , précitée; <FRAGMENT_SUPPRESSED> , précitée). Le défendeur affirme que ces deux critères ont été respectés en l'espèce.
+[42]
+Suivant le défendeur, l'argument que la demanderesse aurait dû être informée des conclusions tirées par le comité consultatif sur sa crédibilité et qu'elle aurait dû se voir accorder la possibilité d'y répondre équivaut soit à une tentative de plaider en faveur de l'application d'une norme d'équité procédurale différente en se fondant sur des décisions rendues dans un contexte différent, soit à demander à la Cour de réévaluer la preuve sous le couvert d'un moyen relatif à l'équité procédurale. Le défendeur affirme que la thèse selon laquelle le défaut du décideur de signaler de façon précise à la demanderesse ses réserves au sujet de la crédibilité constitue un manquement à l'équité procédurale a été rejetée à de nombreuses reprises par notre Cour dans le contexte en cause en l'espèce ( <FRAGMENT_SUPPRESSED> , précitée, aux paragraphes 11, 12 et 13; <FRAGMENT_SUPPRESSED> , précitée, au paragraphe 56).
+[43]
+Le défendeur affirme que la thèse voulant que le comité consultatif ou la représentante du ministre avait l'obligation de chercher à obtenir des renseignements additionnels ou de communiquer des détails plus amples et plus précis que ceux qu'ils avaient déjà en mains a également été rejetée (
+Clue
+, précitée, au paragraphe 17). Le décideur disposait de suffisamment d'éléments de preuve pour justifier son refus d'octroyer l'habilitation de sécurité et il revenait dès lors à la demanderesse de dissiper les doutes de la représentante du ministre, ce que la demanderesse n'a pas réussi à faire ( <FRAGMENT_SUPPRESSED> , précitée, au paragraphe 34). L'idée que le comité consultatif ou la représentante du ministre avaient l'obligation de lui faire part de tous les doutes soulevés par sa réponse ne trouve tout simplement aucun appui dans la jurisprudence.
+[44]
+Le défendeur soutient en fin de compte que la demanderesse a eu l'occasion de répondre aux mêmes renseignements que ceux dont disposaient le comité consultatif et la représentante du ministre. La demanderesse n'a pas réclamé d'autres précisions et, par conséquent, aucune ne lui a été offerte ou demandée. La demanderesse s'en est tenue à de fermes dénégations et n'a aucunement indiqué qu'il lui était difficile de répondre aux arguments formulés contre elle. Il n'y a eu aucun manquement à l'équité procédurale, et ce, peu importe la norme que l'on applique. La décision était raisonnable.
+ANALYSE
+[45]
+J'accepte l'objection formulée par le défendeur à la présentation des nouveaux renseignements que la demanderesse a tenté de déposer avec la présente demande et qui n'avaient pas été portés à l'attention de la représentante du ministre.
+[46]
+Je souscris également à l'observation du défendeur suivant laquelle la nature de l'obligation d'équité procédurale dans les affaires comme la présente est bien établie par la jurisprudence et qu'il ne convient pas de rendre la norme d'équité procédurale applicable plus exigeante sur la foi d'autres affaires et de contextes dans lesquels des facteurs différents entrent en jeu.
+[47]
+Le comité consultatif a examiné l'affaire en la considérant comme une demande de nouvelle habilitation de sécurité et il a expliqué pourquoi il procédait ainsi. Bien que la demanderesse estime qu'elle a sans doute déjà obtenu un autre type d'habilitation par le passé, elle n'a pas présenté suffisamment d'éléments de preuve pour remettre en question les conclusions tirées par le comité consultatif à cet égard.
+[48]
+Dans ces conditions, la norme d'équité procédurale applicable en l'espèce est somme toute peu exigeante et correspond à celle définie dans la décision <FRAGMENT_SUPPRESSED> , précitée:
+13 Dans le présent cas, nous sommes en présence d'une simple demande d'autorisation ou de permis faite par une personne qui n'a aucun droit existant à cette autorisation ou à ce permis et qui n'est accusée de rien. Le refus du Ministre d'accorder l'autorisation d'accès entraînant le retrait d'aucun droit au demandeur, ce dernier ne pouvait donc avoir d'expectative légitime que l'autorisation lui serait accordée (voir
+ <FRAGMENT_SUPPRESSED>  Dans les circonstances, je considère donc que les exigences imposées par l'obligation d'agir équitablement sont minimes et qu'il suffisait au Ministre, après avoir permis au demandeur de présenter sa demande par écrit comme il l'a fait, de rendre une décision qui ne soit pas fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments à sa disposition. Aucune preuve que la décision dûment prise par le Ministre en vertu des pouvoirs à lui conférés par la Loi et le Règlement est ainsi mal fondée n'ayant été apportée, l'intervention de cette Cour n'est pas justifiée.
+[Non souligné dans l'original.]
+[49]
+Il s'ensuit que Transports Canada avait uniquement l'obligation de permettre à la demanderesse de présenter sa demande par écrit et que Transports Canada devait rendre une décision qui ne devait pas être fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments dont il disposait. C'est ce que Transports Canada a fait en l'espèce.
+[50]
+La demanderesse s'estime de toute évidence lésée par les conclusions auxquelles Transports Canada est arrivé dans sa décision et elle allègue que les conclusions tirées au sujet de sa crédibilité ont été formulées sans lui donner la possibilité de dissiper les doutes qu'avait le décideur à cet égard. Toutefois, le législateur a bel et bien précisé (à l'article 4.8 de la Loi) que « [l]e ministre peut, pour l'application de la présente loi, accorder, refuser, suspendre ou annuler une habilitation de sécurité », et le ministre et son ministère ont élaboré une politique et une procédure permettant au ministre d'exercer ce pouvoir discrétionnaire.
+[51]
+Je ne décèle aucune iniquité procédurale au vu de l'ensemble des faits de l'espèce. Même si l'on devait appliquer une norme plus élevée en ce qui concerne les annulations et les révocations d'habilitation de sécurité, force est de conclure que la demanderesse a été parfaitement informée des allégations et des éléments de preuve auxquels elle devait répondre et qu'elle a eu amplement l'occasion de soumettre les observations et les éléments de preuve qui, selon elle, pouvaient lui être utiles ( <FRAGMENT_SUPPRESSED> , précitée, et <FRAGMENT_SUPPRESSED> , précitée). Ni le comité consultatif ni la représentante du ministre n'avaient l'obligation de faire des vérifications plus poussées ou de fournir d'autres précisions (
+Clue
+, précitée, au paragraphe 17). Ils ont communiqué à la demanderesse les détails dont ils disposaient, ce qui, comme la demanderesse l'a admis, constituait des éléments de preuve suffisants pour justifier le refus de lui accorder une habilitation de sécurité. La décision repose uniquement sur la conclusion que la demanderesse « était sujette ou pouvait être incitée à commettre un acte d'intervention illicite pour l'aviation civile » (ou aider toute autre personne à commettre un tel acte). Cela diffère des cas où le décideur doit conclure qu'un acte a effectivement été commis. Le ministre devait simplement avoir des motifs raisonnables de croire « selon la prépondérance des probabilités » que la demanderesse « est sujette ou peut être incitée » à commettre l'acte en question (
+Clue
+, précitée, au paragraphe 20).
+[52]
+La représentante du ministre disposait de toute évidence de suffisamment d'éléments de preuve pour tirer cette conclusion. Il incombait alors à la demanderesse de dissiper les doutes de la représentante du ministre. La demanderesse estime qu'elle a réussi à le faire. Elle affirme qu'elle a expliqué pourquoi elle avait omis de mentionner ses infractions criminelles et elle a nié de façon catégorique toutes les autres allégations formulées contre elle. Toutefois, la représentante du ministre n'a pas accepté la thèse défendue par la demanderesse sur ces questions et, dans le cas qui nous occupe, la représentante du ministre a clairement motivé sa décision. On peut ne pas être d'accord avec les raisons qu'elle a invoquées, mais, à mon avis, il est impossible de dire que ses motifs manquent de justification, de transparence et d'intelligibilité ou qu'ils n'appartiennent pas aux issues possibles acceptables pouvant se justifier au regard des faits et du droit. La Cour ne peut tout simplement pas réévaluer la preuve et tirer une conclusion qui favoriserait la demanderesse ( <FRAGMENT_SUPPRESSED> , précité, aux paragraphes 59 et 61;
+ <FRAGMENT_SUPPRESSED> ;
+Ligue des droits de la personne de  <FRAGMENT_SUPPRESSED> et 91;
+Clue
+, précitée, au paragraphe 21).
+[53]
+Il se peut que ce que la demanderesse dit d'elle-même soit vrai. La Cour n'a aucun moyen de le vérifier. Mais là n'est pas la question. La question est celle de savoir si, compte tenu des allégations et des éléments de preuve au dossier dont disposait la représentante du ministre, sa décision que la demanderesse est sujette ou susceptible d'être incitée à commettre un acte d'intervention illicite visant l'aviation civile était raisonnable. Je ne puis affirmer qu'elle ne l'était pas.
+[54]
+Je ne décèle dans la décision aucune erreur qui justifierait notre intervention.
+JUGEMENT
+[55]
+LA COUR
+:
+1. REJETTE la demande et
+ADJUGE
+les dépens au défendeur.
+[End of document]

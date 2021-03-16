@@ -1,0 +1,703 @@
+[1]
+Mosley, J.
+: The applicants market a drug for the treatment of Erectile Disfunction, or "ED" as it is more discretely referred to in the advertisements, under the brand name VIAGRA. For many years, the "Holy Grail" of impotence therapy was to find an orally administered medication to alleviate the symptoms. The applicants obtained patent protection for the use of the compound sildenafil for this purpose. The respondent Apotex Inc. says that the patent is invalid for several reasons, notably that the use of sildenafil for such use was obvious in light of the state of the art, and that it should therefore be allowed to market its own generic version.
+[2]
+Pfizer Canada Inc., and Pfizer Ireland Pharmaceuticals, hereafter the "applicants" or  <FRAGMENT_SUPPRESSED> , seek an order prohibiting the Minister of Health from issuing a Notice of Compliance to Apotex Inc. in accordance with s. 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, S.O.R./93-133, for sildenafil, sildenafil citrate, or for any drug which has a connection to the drug known as sildenafil citrate, as described in s. 5(1) or s. 5(1.1) of the
+Regulations
+, until after the expiry of its patent.
+[3]
+For the reasons that follow, I conclude that the applicants have met their burden of proof on the balance of probabilities to establish for the purpose of these proceedings that the patent is valid and that the prohibition order should issue.
+THE PATENT AT ISSUE
+[4]
+The applicants obtained Canadian Patent No. 2,163,446 (hereafter the '446 Patent) on July 7, 1998 from an application filed in Canada on May 13, 1994 claiming priority from Great Britain Patent Application No. 9311920.4 filed on June 9, 1993. The '446 Patent will expire on May 13, 2014.
+[5]
+Two disclaimers have been filed and recorded with respect to the '446 Patent, the first on December 11, 2002 (hereafter the "first disclaimer") and the second on April 29, 2004 (hereafter the "second disclaimer"). The primary effect of the two disclaimers was to limit all Claims to the treatment of ED in men.
+[6]
+Pfizer Ireland Pharmaceuticals owns the '446 Patent and is party to these proceedings pursuant to s. 6(4) of the
+Regulations
+. Pfizer Canada Inc. is a "first person" under the
+Regulations
+, and Apotex Inc. is a "second person". The Minister of Health maintains a register of information submitted under s. 4 of the
+Regulations
+, and subject to the
+Regulations
+or an order of this Court, may issue an NOC to a "second person". As is usual in these matters the Minister played no role in these proceedings and all references to the "respondent" herein relate to Apotex.
+[7]
+Pfizer Canada Inc. submitted a patent list pursuant to s. 4(1) of the
+Regulations
+in connection with NOCs in its name for 25 mg, 50 mg and 100 mg oral tablets of the drug known as sildenafil or sildenafil citrate (hereafter "sildenafil"). The patent list includes the '446 Patent and Canadian Patents Nos. 2,044,748 and 2,262,268.
+[8]
+Apotex delivered its Notice of Allegation (NOA) on June 16, 2005 to Pfizer Canada Inc. in relation to the '446 Patent. In this NOA, Apotex claims to have filed with the Minister of Health a submission for sildenafil citrate tablets for oral administration in strengths of 25, 50 and 100 mg tablets for the treatment of ED in men, arguing that the '446 Patent is invalid. I note that Pfizer initially took issue with the manner in which the NOA was delivered, by courier, as not being proper service as prescribed by s. 9 of the
+Regulations
+. That objection was abandoned in the course of the proceedings.
+[9]
+The applicants filed their Notice of Application on July 28, 2005 and it was amended on February 5, 2007. By order of the case management Prothonotary dated October 31, 2006 the 24 month statutory stay provided for in s. 7(1)(c) of the
+Regulations
+was extended to October 31, 2007.
+[10]
+On May 24, 2007 the respondent filed a Notice of Motion returnable on May 28th, the opening date of the hearing, seeking dismissal of the application pursuant to paragraph 6(5)(a) of the
+Regulations
+on the ground that the Claims in Issue were not eligible for inclusion in the patent list as they were neither claims to a medicine, nor claims to the use of a medicine within the meaning of the
+Regulations
+. At the outset of the hearing, I advised counsel that I would hear argument and deal with that question as one of the issues to be dealt with on the prohibition application. As discussed below, I find no merit in the respondent's submissions on this issue and dismiss the motion as part of the disposition of these proceedings.
+[11]
+Before addressing the issues, it will be helpful to briefly describe penile physiology and how sildenafil works to alleviate ED.
+HOW SILDENAFIL WORKS
+[12]
+The erectile process involves smooth muscle tissue in the penis. The penis contains two symmetrical compartments above and on either side of the urethra each of which is called a corpus cavernosum. They consist of small blood vessels or passages surrounded by smooth muscle which can contract or relax as with any form of muscle. Blood is supplied to the corpora cavernosa by a network of arteries and it is drained from them through veins. When flaccid, the flow of blood into the corpora is restrained by contraction of the smooth muscle surrounding the arterial network. The penis becomes erect when the penile smooth muscle relaxes and blood flows through the arterial network and into the small blood vessels or sinusoids. The resulting swelling squeezes the veins thus reducing their drainage capacity.
+[13]
+Full erection is achieved when the pressure in the corpora cavernosa equals the pressure of the blood leaving the heart. Detumescence results when the smooth muscles contract, the arteries are again restricted and pressure on the veins relaxed allowing for the outflow of blood. Abnormal vascular responsiveness is the underlying cause of impotence in the majority of sufferers and the most common cause is the failure to retain blood within the sinusoids.
+[14]
+Penile smooth muscle is "told what to do" by a complex biochemical system involving chemical messengers operating on communication systems called
+pathways
+in the evidence. The term is used to describe a chain of related events in a signal transmission extending from the source of the signal to a cell and continuing within the cell through the various steps that are triggered to change the cell. The NO-cGMP pathway in particular plays a central role in the mechanism of penile erection and defects in this pathway can lead to impotence and underlie certain diseases that cause ED.
+[15]
+In the NO-CGMP pathway, a "first messenger" (nitric oxide) relays a message to the inside of the smooth muscle cells, activating receptors to stimulate the production of a "second messenger" (cGMP or cyclic3c,5c,-guanosine monophosphate). Nitric oxide (NO) is produced or released from two sources: endothelium cells in the lining of the smooth muscle and nerves in the smooth muscle known as non-adrenergic non-cholinergic or NANC nerves. Accordingly, this route is referred to as the NANC pathway. NO is produced by a reaction from a chemical called L-arginine catalyzed by the enzyme nitric oxide synthase. This was often referred to in the evidence as the "front end" of the process.
+[16]
+The production of cGMP sets off a chain of events that leads to relaxation of the smooth muscle in the penis. This allows more blood to enter causing an increase in pressure which restricts blood outflow, the resulting effect being an erection. In brief, production of cGMP contributes to tumescence and its removal leads to detumescence. Another chemical agent which relaxes smooth muscle is cyclic adenosine monophosphate or cAMP, produced by other material in response to different chemical messengers.
+[17]
+The physiological effects of cGMP and cAMP may be reduced by PDE (phosphodiesterases) enzymes, which break down (hydrolyze) cGMP and cAMP by binding to the molecules. By June 1993, it was known that there were five PDEs and that some of them could be inhibited or blocked by other chemicals called PDE inhibitors. By inhibiting a PDE, one can stop the degradation of cGMP or cAMP. Inhibiters are selective in that they preferentially hydrolyze a particular enzyme, for example PDE5 is a selective cGMP PDE in that it prefers to hydrolyze cGMP over other enzymes. PDE4 is specific to cAMP only. The others are non-specific but PDE3 is more effective with cAMP.
+[18]
+Sildenafil was initially developed by Pfizer in the mid-1980s as one of a number of compounds which could be employed in the treatment of hypertension and angina, cardiovascular conditions in which smooth muscle cells are implicated. Due to PDE5's functional importance in the process of penile erection, and the fact that sildenafil is a potent and selective cGMP PDE inhibitor, sildenafil is able to treat ED in men through the operation of the NO-cGMP pathway.
+ISSUES
+[19]
+Apotex does not dispute that their proposed tablets of sildenafil citrate would be infringing if the patent is valid in the sense that issuance of the prohibition order is justified. Validity in the context of these proceedings is limited to the scope of the
+Regulations
+. The issues raised by Apotex's NOA and addressed at the hearing of this application can be stated as follows:
+1. Burden of proof;
+2. Validity of the disclaimers relating to the '446 Patent;
+3. Validity of the patent on the basis of one or more of the following:
+a) obviousness;
+b) anticipation;
+c) the relevant claims being broader then the invention made or disclosed; and
+d) a failure to meet the requirements of the legislation;
+[20]
+This case turns in particular on the issue of obviousness.
+CLAIM CONSTRUCTION
+[21]
+As is frequently stated, the first task of the Court, before considering whether or not a patent is valid or infringed, is to construe the patent. Claim construction is a matter of law and the claim language must be read in an informed and purposive way. The key to purposive construction is the identification by the Court, with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the "essential" elements of the invention:
+ <FRAGMENT_SUPPRESSED>  at para. 45 (
+Whirlpool
+).
+[22]
+In addition, it is important to recall that patent specifications are not addressed to specialists or the public generally; they are addressed to skilled individuals sufficiently versed in the art to which the patent relates to enable them on a technical level to appreciate the nature and description of the invention:
+Whirlpool
+, above at para. 53. Furthermore, the words chosen by the patentee are to be read in the sense the inventor is presumed to have intended. Though expert evidence is admissible to determine what the common knowledge was at the time of the patent and with respect to the meaning of the words used in the claims, the role of the expert is not to interpret the patent claims but to put the application or trial judge in the position of being able to do so in a knowledgeable way:
+Whirlpool
+, above at para. 57. Claims must also be read in context. The question is therefore what, at the date the patent was issued, would a person skilled in the art at issue have understood from a reading of the claims, together with any definitional assistance from the rest of the specification:
+Whirlpool
+, above at para. 54.
+[23]
+In this regard, as soon as the disclaimers were filed and recorded they were made part of the Patent, and the only existing Claims became those amended by virtue of the disclaimers:
+ <FRAGMENT_SUPPRESSED>  (P.C.). Therefore, so long as the disclaimers were validly filed, as I have found in the present case and discuss in the next section of these reasons, the claims must be interpreted as disclaimed.
+[24]
+The '446 Patent relates to the use of a series of pyrazolo[4,3-d] pyrimidin-7-ones compounds and their pharmaceutically acceptable salts for the treatment of ED. Sildenafil is one such compound and has the formula 5-[2-ethoxy-5-(4-methyl-1-piperazinylsulphonyl)phenyl] -1-methyl-3-n-propyl-1,6-dihydro-7Hpyrazolo[4,3-d] pyrimidin-7-one].
+[25]
+The applicants are relying on Claim 7 of the '446 Patent; Claims 8, 10, 18, and 22 to the extent that they relate to Claim 7; and Claim 23 to the extent that it relates to Claims 10 and 11 (hereafter the "Claims in Issue"). Claim 7 is limited to sildenafil and its salts. Claims 8, 10, 18, 22 and 23 are each defined with alternative dependencies, one of which is Claim 7.
+[26]
+Each of the Claims in Issue is specific to the treatment of ED with sildenafil, or more specifically its salt, sildenafil citrate, which is the active ingredient  <FRAGMENT_SUPPRESSED> ' proposed products. These claims originally read as follows:
+"7. The use according to claim 4 wherein the compound of formula (I) is 5-[2-ethoxy-5-(4-methyl-1-piperazinylsulphonyl)-phenyl] -1-methyl-3-n-propyl-1,6-dihydro-7Hpyrazolo[4,3-d] pyrimidin-7-one] or a pharmaceutically acceptable salt thereof.
+"8. The use according to any one of claims 1 to 7 wherein the said male animal is man.
+"10. A pharmaceutical composition for the curative or prophylactic treatment of erectile dysfunction in a male animal, including man, comprising a compound of formula (I) according to any one of claims 1 to 7, or a pharmaceutically acceptable salt thereof, together with a pharmaceutically acceptable diluent or carrier.
+"18. The use of a compound of formula (I) according to any one of claims 1 to 7, or a pharmaceutically acceptable salt thereof, for the curative or prophylactic treatment of erectile dysfunction in man.
+"22. The use according to any one of claims 1 to 9 wherein the medicament is adapted for oral treatment.
+"23. A pharmaceutical composition according to claim 10 or 11 which is adapted for oral treatment."
+[27]
+The first disclaimer disclaimed use in animals, thereby limiting Claim 1 to ED in men and female sexual dysfunction (FSD), and Claim 10 to ED in man. By virtue of dependency, Claims 7 and 22 were thus limited to men and women, and Claim 23 to man. The original Claim 8 and Claim 18 were restricted to the treatment of ED in man. The first disclaimer did not affect their scope, although the reference to "male animal" was removed from Claim 8. The second disclaimer disclaimed the use of the compounds for female sexual dysfunction and thus limited Claim 1 to ED in man. Claims 7 and 22, which depend on Claim 1, were therefore also limited to ED in man. Neither disclaimer affected the scope or wording of Claim 18. The second disclaimer did not affect the scope of Claims 8, 10, 22 and 23 to the extent that they are at issue in this application. The effect of the two disclaimers was to limit all Claims to treatment of ED in man.
+[28]
+Counsel raised two claim construction issues that need to be addressed. The first issue is the meaning of the phrase "curative or prophylactic" the question being whether these words are meant to apply to the treatment of ED as a symptom, or are meant to apply to the underlying condition causing the ED. The applicants assert the former while the respondent asserts the latter.
+Curative or prophylactic
+[29]
+With the assistance of the advice of the experts, reading the claims in a purposive way, and having determined from the evidence what the inventors had in mind when they spoke of a "curative or prophylactic" treatment of ED, I find that the words "curative" and "prophylactic" relate to providing a remedy for the symptoms of ED as opposed to the underlying illness or condition.
+[30]
+There are various causes of ED. The object of the invention was not to treat those causes but the symptomatic effects. The term erectile dysfunction or ED was coined by researchers and clinicians in the field of treating impotence in an effort to remove the stigma associated with the condition.
+[31]
+With respect to the respondent's argument, as was noted by the Supreme Court of Canada  <FRAGMENT_SUPPRESSED>  Inc. and  <FRAGMENT_SUPPRESSED>  at para. 88 ( <FRAGMENT_SUPPRESSED> Foundation
+): "[w]hile the appellants' argument has some linguistic attraction, it puts too much weight on a supposed 'bright line' distinction between treatment and prophylaxis." I believe the same can be said in the present case with respect to both terms. I have no doubt that the inventors had in mind a remedy for the symptom or condition that is ED when they wrote the patent.
+For the manufacture of a medicament
+[32]
+The second issue is how the phrase "for the manufacture of a medicament" within claim 1, affects the Claims in Issue and my determination of what comprises the essential elements of the invention. In this regard the respondent's argument distinguishes between the phrase "use of sildenafil 'for the manufacture of a medicament"' and what is meant by a "claim for the use of the medicine" found in the
+Regulations
+. Section 2 of the
+Regulations
+defines the latter as "a claim for the use of the medicine for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or the symptoms thereof". The respondent suggests that a claim "for the manufacture of a medicament" is distinguishable in meaning because it implies that it is the medicament and not the sildenafil itself that is intended for curative and prophylactic purposes.
+[33]
+Taking a purposive approach to interpretation of the phrase, I do not see a practical difference. The concepts of medicament and medicine are closely related and often interchangeable. As defined by the
+Canadian Oxford Dictionary
+, "medicament" is "a substance used for medical treatment"; the comparable meaning of "medicine" is "any drug or preparation used for the preparation or treatment of disease, esp. one taken by mouth". A review of Stedman's and Dorland's medical dictionaries supports this interpretation.
+[34]
+In referring to either a medicament or medicine employing sildenafil as the active ingredient, it is the sildenafil that would give the medicament or medicine its curative or prophylactic properties. I am satisfied that the word medicament was meant to be understood in this sense by the inventors, and the claims will be construed without drawing the distinction asserted by the respondent.
+[35]
+Taking into consideration the two disclaimers and with the aid of the expert evidence, to my mind the essential elements of the Claims in Issue can be described as follows: the use of sildenafil (or a salt thereof) in the form of an oral medicine for the treatment of erectile dysfunction in man.
+DISCLAIMER VALIDITY
+[36]
+Section 48(1) of the
+Act
+allows for the filing of a disclaimer where, by mistake or inadvertence, a patent specification has been drafted too broadly and provided it is not made with the intent of defrauding or misleading the public:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at para. 70 (C.A.) (
+ICN Pharm.
+). The respondent argues that the requirements of this subsection have not been met in the present case, and that the disclaimed claims are therefore invalid. The applicants assert the contrary.
+[37]
+As was recently noted by the Court in
+ <FRAGMENT_SUPPRESSED>  305 F.T.R. 99; 2007 FC 11, at para. 28, the Commissioner and the examiners have no authority under the
+Act
+and the
+Rules
+to make a decision on the validity of a disclaimer filed by a patentee; this power belongs to the courts. The fact that the Patent Office has accepted a disclaimer is therefore not determinative of whether the requirements of s. 48(1) have been met:
+ICN Pharm.
+, above at para. 70.
+[38]
+I agree with the findings of the Ontario High Court of Justice in
+ <FRAGMENT_SUPPRESSED>  C.P.R. 89 (C.A.), revd. [1943] S.C.R. 422; [1943] S.C.J. No. 35, wherein Chevrier, J., held that the validity of the disclaimer depends solely upon the state of mind of the patentee at the time he made his specification. Chevrier, J., further made it clear that the onus rests on the party who files a disclaimer to justify the need for the disclaimer at the time it was filed by reason of mistake, accident or inadvertence and that there was an absence of intent to defraud or mislead the public. Where the filing party does not discharge this burden, the disclaimer will be held to be invalid and the patent will remain in its original form.
+[39]
+In the present case, little evidence has been presented by either party with respect to this issue. There is, however, the sworn affidavit evidence of Dr. Peter Ellis, listed as co-inventor of the '446 Patent. In effect he states that the first disclaimer corrected the use of the term "animal" which was too broad, asserting that when the Patent application had been filed this had been overlooked. The first disclaimer also inserted the word "selective" in Claims 25 and 26 following an United Kingdom Court's ruling regarding the meaning of the Patent. According to Dr. Ellis, he had thought that the limitation of "selective" had been implied, but felt it was best to defer to the UK Court. With respect to the second disclaimer, Dr. Ellis states that testing had not been done before the filing date to establish utility in women; however he asserts that there was scientific data that indicated that a woman's clitoris is a homologue of a penis. He asserts that Pfizer now believes that under Canadian law it was a mistake to think that the foregoing would establish an invention of a treatment for sexual disfunction in women.
+[40]
+The respondent argues that a mistake regarding the law is not a mistake for the purposes of s. 48. The fact that the applicants discovered the mistake after the filing of the application does not change the fact that on the basis of the state of the law at the time, it would have been a mistake. In this case the mistake was in believing that the correlation between the penis and the clitoris, absent direct test results on the efficacy of sildenafil for FSD, was sufficient to establish an invention under the law. Had the applicants known that this was not sufficient, there is nothing to indicate that at the time of the patent application they would have still filed it with the intention of defrauding or misleading the public.
+[41]
+This evidence, though minimal, is un-refuted. The applicants point out that Dr. Ellis was also cross-examined about the disclaimers and that evidence was consistent with his affidavit.
+[42]
+These issues were given only cursory treatment by the respondent in cross-examination, with most of the focus being on the term "selective". The respondent presented nothing in my estimation that would suggest that there was a "wilful" intent to defraud or mislead the public on the part of the applicants. The fact that Dr. Ellis admitted in cross-examination that his input as to the disclaimers was made in conversations with Pfizer's counsel (which, in any event, are privileged), and that he neither drafted nor scrutinized it before it was filed, do not suggest that the disclaimers: 1) did not reflect his state of mind; 2) were not filed in good faith; or 3) that there was any willful intent to defraud or mislead the public.
+[43]
+Taking the whole of the evidence into account, on the balance of probabilities standard, I conclude that the applicants have met their burden to demonstrate that this allegation is unsubstantiated.
+VALIDITY
+Burden of Proof
+[44]
+The issue of burden of proof and presumption of validity was recently dealt with by the Court of Appeal in
+ <FRAGMENT_SUPPRESSED> ; 361 N.R. 308; 2007 FCA 153 (
+Abbott Laboratories
+2007). In that case the Court of Appeal found at paragraph 9 that "[i]t is now beyond debate
+that an applicant for a prohibition order
+under the
+NOC Regulations
+bears the burden of establishing its entitlement to the order
+". (Emphasis added) With respect to the presumption of validity that emanates from s. 43(2) of the
+Act
+, the Court of Appeal went on to state:
+"10 ... The presumption in s. 43(2) is weakly worded (
+ <FRAGMENT_SUPPRESSED> , per Justice Binnie at paragraph 43).
+It cannot determine the outcome of prohibition proceedings under the NOC Regulations
+if, as in this case, the record contains
+any
+evidence that, if accepted, is capable of rebutting the presumption
+(see
+ <FRAGMENT_SUPPRESSED>  added)
+[45]
+While the legal burden remains on the applicant, the respondent has been described as having an "evidentiary burden" to rebut the presumption of validity:
+ <FRAGMENT_SUPPRESSED> ; 306 F.T.R. 254; 2007 FC 26, at para. 10 ( <FRAGMENT_SUPPRESSED> );
+ <FRAGMENT_SUPPRESSED> ; 311 F.T.R. 21; 2007 FC 455, at paragraph 232 (
+Eli Lilly
+). This, however, is a minimal threshold. As was aptly described by the Court in <FRAGMENT_SUPPRESSED> :
+"12 To summarize, Pfizer bears the legal burden of proving on a balance of probabilities that Apotex's allegations of invalidity are unjustified.
+Apotex merely has an evidentiary burden to put its case 'into play' by presenting sufficient evidence to give its allegations of invalidity an air of reality. If it meets that burden, then it has rebutted the presumption of validity.
+I must then determine whether Pfizer has established that Apotex's allegations of invalidity are unjustified. If Apotex does not meet its evidential burden, then Pfizer can simply rely on the presumption of validity to obtain its prohibition order." (Emphasis added)
+[46]
+In oral argument, the applicants pointed to a decision of the Court of Appeal, handed down during the course of the hearing of this matter on May 31, 2007, which, they submit, holds that the respondent must meet the legal standard of proof on a balance of probabilities to rebut the presumption of validity:
+ <FRAGMENT_SUPPRESSED> ; 366 N.R. 347; 2007 FCA 209 (" <FRAGMENT_SUPPRESSED> 2007 FCA 209").
+[47]
+Paragraphs 109, 110 and 111 of the <FRAGMENT_SUPPRESSED> 2007 FCA 209 decision read as follows:
+"109. Thus, a first person under the
+Regulations
+has the overall burden of establishing, on a balance of probabilities, that the allegations of invalidity contained in a second person's NOA are not justified. Although the first person has the initial burden, because of the presumption of the validity of a patent set out in s. 45 of the pre-1989
+Act
+, it can meet this burden merely by proving the existence of the patent.
+The second person then has the burden of adducing evidence of invalidity and of putting the allegations of invalidity contained in its NOA 'in play'.
+To do so, the second person must adduce evidence which is not clearly incapable of establishing its allegations of invalidity.
+Hence, not only must the second person's NOA contain a sufficient factual and legal basis for its allegations, but it must also adduce evidence of invalidity at trial.
+"110.
+Once the second person has adduced sufficient evidence, on a balance of probabilities
+, the first person must, also on a balance of probabilities, disprove the allegations of invalidity set out in the NOA. As explained by my colleague Sharlow, J.A., at paragraph 9 of her Reasons in <FRAGMENT_SUPPRESSED> , supra:
+'[9] The operation of the statutory presumption in the face of evidence of invalidity depends upon the strength of the evidence.
+If the evidence proves, on a balance of probabilities, that the patent is invalid, the presumption is rebutted
+and is no longer relevant. ...'
+[citing
+ <FRAGMENT_SUPPRESSED>  persuaded that the Judge erred in her understanding of the burden of proof. She correctly referred to the legal principles enunciated by this Court, according to which the overall legal or persuasive burden of proof rests upon the first person, on a balance of probabilities,
+once the second person has met its evidentiary burden of adducing evidence sufficient to rebut the presumption of validity
+." (Emphasis added)
+[48]
+When read as a whole, these paragraphs should not be taken as holding that the second person bears a legal burden on the standard of proof of a balance of probability to overcome the presumption of validity. It is clear from the Court of Appeal's reasons that the legal burden remains with the first person throughout the proceedings and does not shift to the second person. To meet that burden the first person may rely upon the presumption of validity "
+in the absence of any evidence to the contrary
+" as set out in s. 43(2) of the
+Patent
+Act
+, R.S.C. 1985, c. P-4, as amended, S.C. 1993, c. 15. (Emphasis added) Should the second person lead any evidence to the contrary, the presumption is spent and the burden remains with the first person to prove validity on the balance of probability standard.
+[49]
+The highlighted words from the subsection indicate that the nature of the burden on the second person is evidential and not persuasive. The difference between the two concepts was discussed by Dickson, C.J. (writing in dissent), in the criminal law context in
+ <FRAGMENT_SUPPRESSED>  as follows:
+"38 Judges and academics have used a variety of terms to try to capture the distinction between the two types of burdens. The burden of establishing a case has been referred to as the 'major burden', the 'primary burden', the 'legal burden' and the 'persuasive burden'. The burden of putting an issue in play has been called the 'minor burden', the 'secondary burden', the 'evidential burden', the 'burden of going forward', and the 'burden of adducing evidence'. While any combination of phrases has its advantages and drawbacks,
+I prefer to use the terms 'persuasive burden' to refer to the requirement of proving a case or disproving defences, and 'evidential burden' to mean the requirement of putting an issue into play by reference to evidence
+before the court. The party who has the persuasive burden is required to persuade the trier of fact, to convince the trier of fact that a certain set of facts existed.
+Failure to persuade means that the party loses.
+The party with an evidential burden is not required to convince the trier of fact of anything
+, only to point out evidence which suggests that certain facts existed.
+The phrase 'onus of proof' should be restricted to the persuasive burden, since an issue can be put into play without being proven.
+The phrases 'burden of going forward' and 'burden of adducing evidence' should not be used, as they imply that the party is required to produce his or her own evidence on an issue ..." (Emphasis added)
+[50]
+As was further described by Fish, J., again in a criminal case, in
+ <FRAGMENT_SUPPRESSED> :
+"11 An 'evidential burden' is not a burden of proof. It determines whether an issue
+should be left to the trier of fact
+, while the 'persuasive burden' determines
+how the issue should be decided
+.
+"12 These are fundamentally different questions.
+The first is a matter of law; the second, a question of fact.
+Accordingly, on a trial before judge and jury, the judge decides whether the evidential burden has been met.
+In answering that question, the judge does not evaluate the quality, weight or reliability of the evidence.
+The judge simply decides whether there is evidence upon which a properly instructed jury could reasonably decide the issue." (Underlined emphasis in original, bold emphasis added)
+[51]
+These are principles of general application and are not limited to the domain of criminal law. In this context, what constitutes "any evidence to the contrary" is, as the Court of Appeal put it in paragraph 109 of the <FRAGMENT_SUPPRESSED> 2007 FCA 209 decision, evidence which is sufficient to put the allegations of invalidity "in play" and which is not clearly incapable of establishing those allegations. That does not require Apotex to meet the standard of proof on a balance of probabilities but rather, to satisfy the Court that the evidence discloses an air of reality for its allegations of invalidity and that Pfizer must meet its legal burden. To interpret the effects of the presumption otherwise would lead to the absurd result that both parties would bear the burden of establishing the invalidity or validity of the patent at issue on the same standard.
+Obviousness
+[52]
+In order to obtain a valid patent inventiveness or inventive ingenuity is required, meaning the subject matter or "invention" claimed must not be obvious. The Court of Appeal in
+ <FRAGMENT_SUPPRESSED> ; 358 N.R. 135; 2006 FCA 421, at para. 38 reiterated the test for obviousness as set out in
+ <FRAGMENT_SUPPRESSED> ; 64 N.R. 287; 8 C.P.R.(3d) 289 (F.C.A.), at 294 ( <FRAGMENT_SUPPRESSED> ):
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness
+is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition
+; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would,
+in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent.
+It is a very difficult test to satisfy.
+" (Emphasis added)
+[53]
+In a recent decision,
+ <FRAGMENT_SUPPRESSED> ; 366 N.R. 290; 2007 FCA 217 ( <FRAGMENT_SUPPRESSED> ), the Court of Appeal endorsed a list of factors developed by Justice Roger Hughes in the trial decision ([2006] F.C.J. No. 1535; 301 F.T.R. 166; 2006 FC 1234) as a helpful framework to guide the factual analysis that must be undertaken in determining obviousness. At paragraph 25 of her reasons for the Court of Appeal, Justice Sharlow set out these factors as follows:
+"
+Principal factors
+"1.
+The invention
+What is in issue is the patent claim as construed by the Court.
+"2.
+The hypothetical skilled person referred to in the <FRAGMENT_SUPPRESSED> quotation
+It is necessary to identify the skills possessed by the hypothetical person of ordinary skill in the art.
+"3.
+The body of knowledge of the person of ordinary skill in the art
+The common knowledge of the hypothetical person of ordinary skill in the art includes what the person may reasonably be expected to know and to be able to find out. The hypothetical skilled person is assumed to be reasonably diligent in keeping up with advances in the field to which the patent relates (
+Whirlpool
+at paragraph 74). The presumed knowledge of the hypothetical skilled person undergoes continuous evolution and growth. Not all knowledge is found in print form. On the other hand, not all knowledge that has been written down becomes part of the knowledge that a person of ordinary skill in the art is expected to know or find.
+"4.
+The climate in the relevant field at the time the alleged invention was made
+The general state of the art includes not only knowledge and information but also attitudes, trends, prejudices and expectations.
+"5.
+The motivation in existence at the time [of] the alleged invention to solve a recognized problem
+'Motivation' in this context may mean the reason why the claimed inventor made the claimed invention, or it may mean the reason why one might reasonably expect the hypothetical person of ordinary skill in the art to combine elements of the prior art to come up with the claimed invention. If within the relevant field there is a specific problem that everyone in the field is trying to solve (a general motivation), it may be more likely that the solution, once found, required inventive ingenuity. On the other hand, if there is a problem that only the claimed inventor is trying to solve (a unique or personal motivation), and no one else has a reason to address that problem, it may be more likely that the solution required inventive ingenuity. However, if commonplace thought and techniques can come up with a solution, there may be a reduced possibility that the solution required inventive ingenuity.
+"6.
+The time and effort involved in the invention
+The length of time and expense involved in the invention may be indicators of inventive ingenuity, but they are not determinative because an invention may be the result of a lucky hit, or the uninventive application of routine techniques, however time consuming and expensive they may be. If the decisions made in arriving at the solution are few and commonplace, that may indicate that no inventive ingenuity was required to arrive at the solution. If the points for decision were many and choices abundant, there may be inventiveness in making the proper decisions and choices.
+Secondary factors
+These factors may be relevant but generally bear less weight because they relate to facts arising after the date of the alleged invention.
+"7.
+Commercial success
+Was the subject of the invention quickly and anxiously received by relevant consumers? This may reflect a fact that many persons were motivated to fill the commercial market, which may suggest inventive ingenuity. However, it may also reflect things other than inventive ingenuity such as marketing skills, market power and features other than the invention.
+"8.
+Meritorious awards
+Awards directed to the alleged invention may be recognition that the appropriate community of persons skilled in the art believed that activity to be something of merit. That may or may not say anything about inventive ingenuity."
+[54]
+Justice Sharlow stressed that this is not a list of legal rules to be slavishly followed nor is it an exhaustive list of the relevant factors. In each case, the application or trial judge must determine the appropriate weight to be accorded these factors and that of any other factor that may be presented: <FRAGMENT_SUPPRESSED> , para. 27. Justice Sharlow agreed with the caution of Justice Hughes that catchphrases, such as "worth a try", "directly and without difficulty" and "routine testing" are not to be treated as if they are rules of law: <FRAGMENT_SUPPRESSED> , para. 28.
+[55]
+It is apparent from the evidence that as of the priority date there was a considerable amount of effort invested in research and clinical trials of treatments for male ED in as much as it affects a significant proportion of the male population. In June 1993, there were a number of treatments available for men who were unable to obtain or maintain an erection, notably the self-administration of drugs directly into the corpora cavernosa. This had to be done shortly before intercourse and could result in pain, scarring, or undesired effects such as unduly prolonged erections. Other treatments included prosthetic or suction devices and surgery. None were employed without discomfort, embarrassment and adverse side effects. This was a recognized problem which attracted the attention of leading scientists and clinicians, and public funding for research.
+[56]
+It is not difficult, therefore, to appreciate that an orally administered drug with minimal side effects would indeed be the "Holy Grail" of impotence research as described by the experts. Other pharmaceutical companies were supporting research. Pfizer's announcement that it had found such a solution attracted widespread attention in the field and the introduction of VIAGRA met with huge popular recognition and immediate commercial success.
+[57]
+The invention, as I have construed it above, was the appreciation that the oral administration of sildenafil, as a potent PDE5 inhibitor, would be useful in the treatment of erectile dysfunction in men. The core issue in this case is whether the person of ordinary skill in the art ("POSITA"), in the light of the state of the art and of common general knowledge as at the claimed date of invention, would have found the solution taught by the patent.
+[58]
+The respondent submits, based on the opinions of its experts, that such a person would have Masters, Ph.D. or M.D. level training in pharmacology, medicinal chemistry, enzymology, biochemistry and urology sufficient to understand:
+- The characteristics and function of the NO-cGMP pathway in the regulation of smooth muscle tone
+- The formation and role of NO in this pathway
+- The cyclic nucleotides (cGMP and cAMP) and their function in the pathway
+- PDEs in the NO-cGMP pathway
+- The classification of the then-known PDEs (PDE 1 to PDE 5) and their respective substrate affinities
+- The role of smooth-muscle relaxation in the regulation of erections, and
+- The targeting of the NO-cGMP pathway by PDE inhibitors in the treatment of diseases in different fields of medicine.
+[59]
+I doubt that many of those of ordinary skill engaged in ED research at the relevant time would have had the full body of knowledge which the respondent ascribes to this notional person. That is evident from the variety of alternative paths that were being explored. On my reading of the scientific literature and the experts' opinions tendered in evidence, albeit from the perspective of a lay reader, there were only a handful of researchers in the field prior to 1993 who would have known of or understood all of these elements. Apotex's experts are, in effect, describing themselves.
+[60]
+In my view, a trained and experienced scientist working in drug development with a knowledge of penile physiology and erectile response would fit the POSITA profile for the purpose of these proceedings.
+[61]
+The respondent submits that Dr. Peter Ringrose, a Pfizer employee at the relevant time, fits within its understanding of a POSITA. Dr. Ringrose suggested that the use of sildenafil for the treatment of impotence be tried out early in 1992 when he read one of the key pieces of prior art at issue. As noted by the Supreme Court of Canada at paragraph 71 of
+Whirlpool
+, above, an ordinary person does not have the "in-house knowledge" of the patentee. Dr. Ringrose had acquired additional knowledge about sildenafil from Pfizer's research into its potential applications. In any event, his comment does not suggest that he thought it was a sure thing but a possibility worth exploring.
+[62]
+As was previously noted, to rebut the presumption of validity the respondent's evidentiary burden is a minimal one. The second person must merely put its case "into play" by presenting sufficient evidence to give its allegations of invalidity an air of reality: <FRAGMENT_SUPPRESSED> , above at para. 12. Should it meet that threshold, the first person has the legal or persuasive burden to prove the validity of the patent on a balance of probabilities.
+[63]
+The Court is entitled to look at all the patents and other publications that a skilled technician would discover in a reasonable and diligent search to determine whether the resulting mosaic leads directly to the invention.
+[64]
+The question to ask is whether the solution taught by the patent would be apparent to the skilled technician who was searching for something novel, without having to do experimentation or research. Suggestions or signposts in the prior art are not sufficient to make a patent invalid for obviousness:
+Apotex Inc. and  <FRAGMENT_SUPPRESSED> ; 60 C.P.R.(3d) 58 (Gen. Div.), varied (1998), 113 O.A.C. 1; 82 C.P.R.(3d) 526 (C.A.), leave to appeal refused [1998] S.C.C.A. No. 563; (1999), 239 N.R. 200; 124 O.A.C. 199 (S.C.C.); and,
+ <FRAGMENT_SUPPRESSED>  D.L.R.(3d) 51.
+[65]
+In determining whether a patent claim is obvious, the Court should avoid the use of a hindsight analysis. To refer to another oft-quoted passage from <FRAGMENT_SUPPRESSED> , above, at page 295:
+"
+Every invention is obvious after it has been made, and to no one more so than an expert in the field
+. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of a patent is known, to say, 'I could have done that';
+before the assertion can be given any weight, one must have a satisfactory answer to the question, 'Why didn't you?'
+." (Emphasis added)
+[66]
+As Justice Sharlow recently observed in
+ <FRAGMENT_SUPPRESSED> ; 366 N.R. 246; 2007 FCA 243, at paragraph 25, this should not be taken to be a strict standard for rejecting the evidence of experts as every opinion alleging invalidity for obviousness is necessarily retrospective as to the state of the art at the relevant time. Nonetheless, the allegation is weakened if the evidence does not explain, directly or by inference, why the claimed invention was not discovered by others.
+[67]
+I did not receive a satisfactory answer when this question was put to Apotex counsel during oral argument. Apotex's response was that sildenafil is a proprietary compound controlled by Pfizer and was not available to researchers at the relevant time. But researchers did obtain samples of other PDE inhibitors, notably zaprinast produced by May & Baker, to conduct studies. There was no monopoly at the time on the use of sildenafil for research although a patent application was pending. There is no evidence that any request was made to Pfizer for samples of sildenafil to perform research in this area.
+[68]
+In my view, based on the evidence, the more likely reason why it was not tried by other researchers is that sildenafil was known as a drug that lowered blood pressure. ED was associated with low blood pressure. As argued by the applicants, it would have been counterintuitive to use it to treat ED by oral administration. That this use occurred to Pfizer's in-house experts conducting research into sildenafil's possible applications does not establish obviousness.
+[69]
+It is clear from the evidence that the search was on for effective treatments for ED but science had not as yet come up with the solution of a PDE inhibitor, orally administered. Looking back upon the research today, it is not difficult for experts to find signposts that point them in the direction of the invention.
+[70]
+As was further highlighted by the Court in
+Eli Lilly
+:
+"299 The problem of ex post facto analysis was also well explained by the Supreme Court of Canada  <FRAGMENT_SUPPRESSED>  Hoechst  <FRAGMENT_SUPPRESSED> :
+'Very few inventions are unexpected discoveries. Practically all research work is done by looking in directions where the "state of the art" points. On that basis and with hindsight, it could be said in most cases that there was no inventive ingenuity in the new development because every one would then see the previous accomplishments pointed the way.'"
+The Expert Evidence:
+[71]
+The parties have submitted affidavit evidence from the usual impressive array of expert witnesses who differ sharply on the question of the central issue of obviousness. Again, while the applicants bear the legal burden of persuasion, the respondent must demonstrate that there is an air of reality to its allegation.
+[72]
+The principal expert for the respondent is Dr. Inigo Saenz de Tejada: Director of the Institute for Sexual Medicine, Madrid. From 1986 until 1995 he held the position of Director of Research of the Urology Research Laboratory at the Boston University Medical Centre. Dr. de Tejada and his colleagues at Boston laid some of the groundwork for subsequent developments in California that will be discussed below and are cited in the prior art literature. He has remained active in the field and up to date with research and clinical developments. However, he readily conceded on cross-examination that his focus has been more on treatment than research.
+[73]
+Also supporting the respondent's position are Dr. Jackie Corbin, Professor of Molecular Physiology and Biophysics at the Vanderbilt School of Medicine, Dr. Donald Maurice, Associate Professor at Queen's University, Faculty of Health Sciences, and Dr. Alexander Klibanov, Professor of Chemistry and of Bioengineering at the Massachusetts Institute of Technology; all of whom are distinguished experts in their fields.
+[74]
+Over the last 35 years, Dr. Corbin has studied cAMP, cGMP, and a variety of related topics. In 1976 he was the first to discover PDE5 as a cGMP-binding protein, and this enzyme continues to play a major role in his research to the present day. Dr. Maurice is an expert in the area of PDEs. Dr. Klibanov specializes in enzyme engineering. He says he worked on PDEs in Russia in the 1970's but has not published on the subject.
+[75]
+The applicants relied upon the evidence of Dr. Gerald Brock, Associate Professor of Surgery in the Faculty of Medicine at the University of Western Ontario. From 1991 to 1993 he was a fellow at the University of California at San Francisco, where his studies under the direction of Drs. Tom Lue and Emile Tanagho, both leading researchers in the area of ED, focused on the causes and treatments of ED. In particular, Dr. Brock focused on the NANC pathway. Key research in the months before the priority date, on which the respondent relies as evidence of the state of the art, was taking place at the University of California at Los Angeles and at U.C. San Francisco while Dr. Brock was there and there was collaboration between the two institutions in this field.
+[76]
+In Dr. Brock's view, the discovery of the ability of a selective PDE5 inhibitor, such as sildenafil, to be an effective and safe oral agent to enhance erectile function in man was fortuitous and insightful. The fact that hundreds of active investigators had studied ED for decades without this realization, in his opinion, strongly supports this conclusion.
+[77]
+Dr. Brock's opinion is supported by Dr. George Christ, Professor at the Wake Forest Institute for Regenerative Medicine, Dr. Jeremy Heaton, Professor of Urology, Faculty of Medicine, and also Professor of Pharmacology and Toxicology at Queen's University and Dr. Richard Palmer, Chief Executive Officer of Alizyme plc., a drug development company based at Cambridge University in the United Kingdom. In addition, the description by Dr. Peter Ellis, Pfizer's Director of Exploratory Biology, and one of the three named inventors, of the process by which they arrived at the discovery supports the applicants' characterization of the state of the art in the early 1990s.
+[78]
+There is considerable commonality to the evidence of each of these witnesses which has been informed, properly so, by Apotex' selection of the pertinent prior art documents and description of their relevance in its NOA. While I found the evidence of all of the experts to be helpful in understanding the development of the science in this area, it did not lead me to the conclusion that the state of the art as of the priority date was as clear as the respondent's experts now assert in interpreting results published in 1992 and 1993. In my view, they have done so with the benefit of hindsight. Where the evidence of the parties' experts conflicted, I generally preferred that of the applicants' experts as it seemed to me to be more consistent with the tentative and speculative tenor of the literature as the science was evolving.
+[79]
+In his affidavit, Dr. de Tejada summarized what in his opinion was the common general knowledge of a person skilled in the art as of June 9, 1993 based on the cited literature. This list also largely reflects the views of the other experts for the respondent:
+- the role of the NO/cGMP pathway in penile erection,
+- the importance of cGMP in penile smooth muscle relaxation,
+- the existence of PDE5 in penile tissue,
+- that an inhibition of PDE5 facilitated penile smooth muscle relaxation,
+- that the disruption of the NO/cGMP pathway was the underlying mechanism for ED in many men,
+- the desire for an oral treatment for ED,
+- the oral-systemic use of PDE5 inhibitors for the treatment of specific diseases,
+- the potential use of PDE5 inhibitors - including systemic administration, for the treatment of ED, and
+- the fact that sildenafil is an example of a potent and selective cGMP PDE5 inhibitor.
+[80]
+Many of the leading researchers and clinicians working in the field attended what was called a Consensus Conference on Impotence convened by the U.S. National Institutes of Health in December 1992. This was intended to provide a "snapshot in time" of the state of the knowledge on the conference topic. A panel of distinguished scientists heard presentations from which they produced a "Consensus Statement" on what was known and accepted. While this does not purport to be an exhaustive review of the literature, it is useful as a reference to what was commonly known and was not known at the time by highly trained physicians and scientists experienced in the field of ED research and therapy. What is clear from the document is that important information was lacking and that more work needed to be done to fully understand penile physiology. In my view, the content of this document can't be reconciled with what the respondent's experts claimed to be the state of the art at the time.
+[81]
+I also think it significant that none of the respondents' experts were able to apply their knowledge to come up with the solution Pfizer discovered. Dr. Corbin was conducting research on PDE5 inhibitors but did not find it. Dr. de Tejada published nothing suggesting the possibility of using PDE inhibition to treat ED until after the '446 patent had come out and he had attended a 1996 conference at which Pfizer presented its findings. He then filed patent applications for PDE inhibitors with an NO donor. Dr. Maurice was the PDE specialist on a team of ED researchers which included the applicants' expert, Dr. Heaton. They published a paper in 1997 which is skeptical of the role of NO in mediating erections. Dr. Klibanov has never published an article on erectile dysfunction or PDE inhibitors.
+[82]
+Referring to the literature upon which Apotex and its experts rely, Dr. Brock says it reported basic research designed to elucidate the physiological pathway that mediates erection, not to propose the use of a PDE inhibitor for the treatment of ED. Identification of the NANC pathway as the predominant pathway that mediated the erectile process remained controversial and there was no consensus at the relevant time. All of the literature left open the cause of erectile dysfunction. Was it caused by impairment of the NANC pathway or some other pathway? If it was the NANC pathway, where did the impairment lie? In Dr. Brock's view, these questions required answers that the cited literature did not provide. If the defect lay in the ability to generate nitric oxide, the use of a PDE inhibitor might not have been useful.
+[83]
+Dr. Christ was actively researching erectile physiology and mechanisms of erectile dysfunction in the late 1980s and early 1990s. He states that prior to the publication of Pfizer's positive results with sildenafil citrate, it was not obvious to scientists working in the field that a PDE5 inhibitor could be used to treat ED and it also was not obvious that oral administration of a PDE5 inhibitor would work. Indeed, he says, many remained skeptical even after publication of the Pfizer results. The focus was on intracavernous drug injections and other therapies. It was counterintuitive and surprising that a PDE5 inhibitor administered orally could have a localized effect. The focus of discussion at a 1997 conference of the International Society of Impotence Research, as described by Dr. Christ, some four years later, was whether NO was the major pathway mediating penile erection or not. Studies were discussed that pointed away from this conclusion.
+[84]
+Dr. Palmer holds a Ph.D. in pharmacology and was formerly a research scientist and project manager for the Wellcome Research Laboratories in the United Kingdom specializing in the study of nitric oxide. In his affidavit he recounts the history of the physiology of NO and its role as a chemical messenger. Palmer says that while by the early 1990s much was known about this, the surrounding complexity tended to blur what now appears clear in hindsight. He states that it was not commonly and generally accepted at the relevant time that the NANC pathway was the right pathway to target for treatment of impotence, citing a compilation of abstracts from the first meeting of the European Society for Impotence Research in September 1995. In particular, Palmer refers to an abstract of research by a leading group at the Hanover Medical School (Taher, Stief et al.), which describes the continuing controversy regarding the involvement of cyclic nucleotide monophosphates in the process of penile erection in males. The research of the Hanover group into the potential of inhibiting PDEs as a treatment for impotence led them away from PDE5 to PDE3.
+[85]
+Dr. Heaton was conducting research on neural stimulation of the NANC pathway for ED from about 1990 and attended an international impotence research conference at Singapore in 1994 where developments in the field were presented. He describes his first reaction when he heard that Pfizer had an oral PDE inhibitor compound for ED as "real surprise and skepticism". He and many other scientists at the time doubted that the selectivity of sildenafil would be enough to avoid significant systemic effects at clinically useful doses. They found it surprising and "revolutionary" that sildenafil worked when an erection was wanted and worked through oral administration as opposed to local injection. He saw this development as a paradigm shift in the field of ED treatment. I think it helpful to quote paragraph 26 of his affidavit in its entirety.
+"Apotex's arguments on obviousness are really based on knowing now, after the fact, what the invention is and tracing back from it into the prior art. Apotex has created a retrospective scientific landscape that did not exist as Apotex describes it. There was no teaching that a cGMP PDE inhibitor
+would
+work for ED, let alone that sildenafil was the specific PDE inhibitor that would work for erection. There was no teaching that such compounds could in fact be administered orally for ED. The field has changed so radically since the time of release of sildenafil and BECAUSE of the release of sildenafil, that it is difficult to recapture the state of understanding of the pre-sildenafil era. I was vitally interested because of my invention of Apomorphine - a potentially competing drug -at about the same time. I had experience of the NO/cGMP system and considered myself on the cutting edge for vascular knowledge in ED. I recall the events and thinking of the time. In my opinion, Apotex's arguments about the state of the art are wrong." (Emphasis in the original)
+[86]
+It is useful, at this point, to take a closer look at the prior art on which Apotex relies.
+The Prior Art:
+[87]
+As is common in these applications, the respondent cited a considerable number of documents in support of its plea of obviousness. The primary items relied upon in argument and in the opinions provided by its experts and upon which I will focus are these three papers:
+"Nitric oxide as a mediator of relaxation of the corpus cavernosum in respect to nonadrenergic, noncholinergic neurotransmission" by Rajfer et al. -
+New England Journal of Medicine
+, Vol. 362, No. 2, at p. 90 (9 January 1992) ("Rajfer"),
+"Phosphodiesterase VA Inhibitors" by K.J. Murray in
+Drug News and Perspectives
+(
+DN&P
+), at Vol 6(3), pp. 150-156 (April 1993) ("Murray") and
+"The Role of the L-arginine-Nitric Oxide-Cyclic GMP pathway in Relaxation of Corpus Cavernosum Smooth Muscle" a PhD dissertation of Dr Margaret Ann Bush of the University of California ("Bush").
+[88]
+The respondent's experts are all of the opinion that clear direction to the use of selective cGMP PDE5 inhibitors for the treatment of erectile dysfunction had been published before the claimed priority date, through the Murray review article and the Bush thesis, based on the experimental work of Rajfer et al. as reported in the January 1992 paper. The applicants submit that the Murray article and the Bush thesis would not have been known to a person of ordinary skill in the art as they would not have been found by a reasonably diligent search. Further, the applicants submit that the Bush thesis is not properly in evidence and should not be considered. I will deal with each of the three papers in turn.
+Rajfer:
+[89]
+Dr. Jacob Rajfer was a member of a team of researchers at the University of California, Los Angeles, led by a Dr. Louis Ignarro and which included Dr. Peggy Bush, both of whose names also appear as authors. Dr. Ignarro and his team had developed a hypothesis about the role of a pathway in ED that involved the first messenger NO and the second messenger cGMP.
+[90]
+The January 1992 paper attracted considerable attention at the time it was published in the prestigious New England Journal of Medicine. It informed Dr. Murray's April 1993 review article and when read by Dr. Ringrose  <FRAGMENT_SUPPRESSED> , led to his suggestion to give sildenafil a try in treating impotence. It was rightfully, therefore, the focus of much of the evidence and argument in these proceedings.
+[91]
+The stated objective of the study the paper reports upon was to ascertain whether nitric oxide played a role in relaxation of the corpus cavernosum in humans and therefore in penile erection. The research was conducted in vitro using strips of smooth muscle tissue from the corpus cavernosum of men in whom a penile prosthesis had been inserted because of impotence. They used, among other agents, a selective PDE5 inhibitor, zaprinast, to release NO to enhance the relaxation effect in muscle stimulated by electric current.
+[92]
+The abstract of the report states:
+"Our findings supported the hypothesis that nitric oxide is involved in the nonadrenergic, noncholinergic neurotransmission that leads to the smooth-muscle relaxation in the corpus cavernosum that permits penile erection. Defects in this pathway
+may cause
+some forms of impotence." (Emphasis added)
+[93]
+This was an important finding and attracted considerable attention, including informed speculation by Drs. Murray and Ringrose as to the potential application of PDE inhibitors to the treatment of ED.
+[94]
+But, as stated by Dr. Brock, there were no definitive conclusions in the report. At page 93, the authors sum up the results of the experiment:
+"Thus, the present observations
+suggest
+that nonadrenergic, noncholinergic neurotransmission is coupled
+in some manner
+to the activation of the L-arginine-nitric oxide pathway in human corpus cavernosum. These findings in humans parallel those made in rabbits."
+And at page 94:
+"
+It is conceivable
+that impairment of this pathway
+could account for
+the impairment in relaxation elicited by electrical field stimulation that has been described in certain impotent men ... In view of the previous finding that electrically elicited relaxation of the corpus cavernosum is impaired in men with diabetes and impotence, interference with the l-arginine-nitric oxide pathway
+could be one cause
+of impotence
+that is treatable by the administration of direct acting vasodilators.
+" (Emphasis added)
+[95]
+In Dr. Brock's opinion, there was no basis for a skilled person to believe that this reported research identified that the use of a cGMP PDE5 inhibitor would be useful in the treatment of ED. Rather it pointed to the use of NO donor drugs such as papaverine, prostaglandin and nitroglycerine. The focus of the paper is on nitric oxide's role, not the role of PDE inhibition. They were not testing the use of zaprinast but using it as a tool to augment the amount of cGMP in the tissue. In Dr. Brock's lab, which was at or near the epicentre of research in the field at the time, there was considerable discussion about this study. He says that they speculated that the use of a patch impregnated with a NO donor drug might be effective. They were not led to the oral administration of a PDE5 inhibitor.
+[96]
+The respondent's experts rely heavily upon the Rajfer paper, another study published by the same group in June 1992 reporting on results achieved with rabbits (Bush 1992) and further work by the Ignarro group together with a team of researchers at San Francisco led by Dr. Flavio Trigo-Rocha. The Bush 1992 study concluded that while convincing evidence was provided of the role of NO as the inhibitory NANC neurotransmitter, the "definitive experiments to prove this hypothesis remain to be conducted". The Trigo-Rocha papers, published in February and April 1993, reported on studies which applied the Rajfer findings to in vivo studies of healthy animals.
+[97]
+Dr. de Tejada concludes at paragraph 86 of his affidavit that "[b]y June 1993, on the basis of all of the work on endothelium-derived NO, and NO from the NANC nerves ... there was no serious doubt that cGMP is the essential mediator of penile smooth muscle relaxation, and thus of penile erection".
+[98]
+With respect to the esteemed physician, that is, I believe, a view, informed by hindsight, that is not supported by either the reports of the studies or the evidence as a whole which indicates that considerable doubt remained and alternatives continued to be explored. Indeed Dr. Rajfer himself did not try to develop PDE5 inhibitors as a drug therapy for ED and pursued the potential use of NO donors, which ultimately proved unsuccessful. Dr. Rajfer's comment in the 1992 paper that defects in the NANC pathway may cause some forms of impotence was not substantiated by his findings. The text of the paper goes no further than stating that "the failure of penile erection could be due to impaired relaxation of the smooth muscle of the corpus cavernosum".
+[99]
+What I take from the evidence as a whole is that as late as 1997 there remained conjecture as to whether the NO/cGMP pathway was the major factor in penile erection. And there continued to be concerns about the safety of oral treatment with PDE5 inhibitors in contrast to local drug injections as was illustrated by an article Dr. de Tejada wrote that year which was put to him on cross-examination.
+[100]
+As stated by Dr. Heaton, if the use of cGMP PDE inhibitors for ED was obvious from the Rajfer paper (and I would add, the Trigo-Rocha papers), then why didn't one of the researchers in the field do it before Pfizer or at least try it? Indeed, why didn't Dr. Rajfer?
+[101]
+In the view of the applicants' experts, and as supported by cross-examination of the respondent's experts, what the 1992 Rajfer article did was essentially to confirm further previous work that the NO/cGMP pathway in the corpus cavernosum was involved in penile erection. It did not suggest the use of cGMP inhibitors for the treatment of ED. This conclusion is not altered by the subsequent Trigo-Rocha studies from the same group. They do not, as Apotex argues, disclose that the solution to ED is to use a cGMP PDE inhibitor. Rather they present an in vivo parallel of the Rajfer findings in healthy dogs, not what might be expected in either impotent dogs or impotent men. They do not point specifically to, or even suggest, the use of cGMP PDE inhibitors as a therapeutic remedy but provide further evidence for the involvement of the NO pathway in vivo.
+Murray:
+[102]
+Kenneth Murray was a senior biologist with SmithKline Beecham Pharmaceuticals in England. His review article appeared in an industry publication, Drug News and Perspectives, not a peer reviewed journal. Dr. Brock, working in one of the leading laboratories conducting research in the field, had never heard of Dr. Murray or the publication. Dr. de Tejada learned of it for the first time when it was provided to him for litigation purposes.
+[103]
+Based on this lack of awareness, the applicants advanced a fairly weak argument that the Murray article should not be considered prior art as it would not have been found by a reasonably diligent search by a person of ordinary skill. They presented no evidence that it could not have been found in the usual sources such as libraries. Dr. Murray was known to at least two of the other experts, Drs. Corbin and Heaton, as knowledgeable about PDEs. Most telling in this regard, however, is the evidence of an internal Pfizer memorandum that pointed to the Murray article as limiting the scope of the claims the company could make for the therapeutic use of PDE inhibitors. I am satisfied that it is properly before the court as an illustration of the state of the knowledge available to the person of ordinary skill at the relevant time.
+[104]
+In the article, Dr. Murray identifies the then current selective PDE5 inhibitors and their relationship to smooth muscle relaxation. In reviewing their possible use as drug therapy for humans, one of the several potential uses he identifies is impotence. He notes that zaprinast was the most frequently studied PDE5 inhibitor and much of his commentary is based on the reported effects of that compound. But Murray never suggests that zaprinast be considered as a candidate for treatment of ED. One of the compounds he describes had been developed by his own company but there is no indication of any intent to explore any potential use of that compound in relation to ED. He states that the therapeutic potential would become clearer when other "rationally designed PDE5 inhibitors become available". In Dr. Brock's view, with which I agree, this was all "blue sky" thinking.
+[105]
+None of the PDE inhibitors Dr. Murray listed had any established clinical utility in treating ED. Zaprinast had been developed for treating asthma. Based on Dr. Murray's review, zaprinast should have been a candidate for clinical testing in human ED. As Dr. Heaton noted, this was not done because, amongst other things, zaprinast lowers blood pressure, as Dr. Murray pointed out. This side effect was the expected disadvantage of any PDE5 inhibitor. There would be concerns about the effects on other body systems. At best, the Murray article can be taken to suggest that there is a possibility that cGMP PDE5 inhibitors could be developed for ED, subject to human testing. In any event, Dr. Murray points to the potential utility of zaprinast, not sildenafil.
+[106]
+According to Dr. de Tejada, on cross-examination in reference to Dr. Murray's comments about therapeutic potential and speaking of zaprinast: "[o]bviously, I mean there is a development that has to occur ... It is obvious it should be tried." But try what? Zaprinast? Murray does not point to trying sildenafil but even if he did, the test for obviousness in Canadian law, being mindful that one should not rely on catchphrases as legal standards, is not whether something should be tried or is "worth a try":
+Eli  <FRAGMENT_SUPPRESSED>  at para. 301.
+Bush:
+[107]
+As noted above, Dr. Peggy Bush was a member of the Ignarro team at U.C.L.A. during the relevant period. Her Doctoral thesis is cited in the NOA as item 33 and is attached as an exhibit to an affidavit listing all of the documents referenced by the respondent's experts. As a preliminary issue, the applicants' question whether this document was in the public domain at the priority date.
+[108]
+With obviousness, the invention need not be disclosed in one single patent or piece of prior art, as is the case for anticipation. The Court is entitled to look at all the patents and other publications that a skilled technician would discover in a "reasonable and diligent search" to determine whether the resulting "mosaic" leads directly to the invention:
+ <FRAGMENT_SUPPRESSED> ; 221 F.T.R. 161; 2002 FCT 829, at para. 100, affd. on this point, varied only with respect to costs: (2003), 312 N.R. 184; 2003 FCA 358 (
+Illinois Tool Works
+).
+[109]
+As stated by Justice Roger Hughes in <FRAGMENT_SUPPRESSED> , above at paragraph 57, the test is whether the document at issue is "something which, on the evidence, was available to a person skilled in the art or could reasonably be assumed to have knowledge of as of [the priority date]" citing
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 417 (T.D.), at 432-36, affd. (1990), 105 N.R. 138; 32 C.P.R.(3d) 409 (F.C.A.). This is, therefore, an objective standard and requires some factual evidence, either direct or from which an inference may be drawn as to availability.
+[110]
+Where publication of alleged prior art is questioned, as in this case, it seems to me that the respondent has to provide some admissible evidence that the document was available to a person skilled in the art at the relevant time. It then falls to the applicant to demonstrate that the document in question does not meet the "reasonable and diligent search" test as part of its legal burden to demonstrate that the applicant's allegation regarding obviousness is not justified.
+[111]
+Apotex relies upon two exhibits attached to Dr. de Tejada's affidavit. These exhibits are two affidavits that were filed in proceedings in the United Kingdom. The first UK affidavit was, on its face, made by Dr. Bush and attests to the presentation and defence of her dissertation in the fall of 1992 and its filing with the thesis and dissertation advisor at UCLA. The second UK affidavit was made by the thesis advisor attesting to the filing of Dr. Bush's dissertation on December 3, 1992. She states that on May 19, 1993 one of the copies provided by Dr. Bush was forwarded to the UCLA biomedical library and the second, a few weeks later, to a commercial organization, University Microfilms International, which stores abstracts. The dissertation was also apparently available to anyone who might attend at the advisor's office and ask to read it.
+[112]
+Rule 81(1) of the
+Federal Courts Rules
+sets out the general requirement that affidavits be confined to facts within the personal knowledge of the deponent. This embodies the common law rule against hearsay, the rationale being that evidence in an affidavit must be capable of being tested by cross-examination of the affiant:
+ <FRAGMENT_SUPPRESSED>  (T.D.) (
+Merck 1998
+). None of the information in the two UK affidavits would have been within Dr. de Tejada's personal knowledge and indeed he was not familiar with the thesis until it was presented to him.
+[113]
+There was no attempt in these proceedings to rely upon s. 23 of the
+Canada Evidence
+Act
+to seek to have the UK evidence admitted under that statutory exception to the hearsay rule. Even where s. 23 is engaged, relevance and admissibility must still be established:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at paras. 1-2, the decisions of the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 321; 94 D.L.R.(4th) 590, have dramatically clarified and simplified the law of hearsay. The governing principles are reliability and necessity. In the present case, reliability is not at issue. The question is whether it is necessary to receive it in this form. There was no procedural bar to Dr. Bush, the dissertation advisor or another witness having submitted affidavits in this proceeding to establish when the thesis was published or otherwise made available to the scientific community.
+[115]
+In my view, Apotex has sought to circumvent the rules by taking advantage of evidence filed in a foreign court without offering a reasonable justification for why it is necessary to do so. When pressed on this point during oral argument, counsel stated that these are summary and expedited proceedings and some consideration should be given to relaxing the rules of evidence. That may be, but Apotex has submitted no evidence that it was impossible or difficult to secure direct evidence regarding the availability of this thesis at the relevant time. And given the volume of evidence that Apotex filed in these proceedings, that would not seem to have been an onerous burden.
+[116]
+I conclude that the affidavits filed in the UK proceedings are not admissible on this application as evidence that the Bush thesis was available to the skilled technician prior to the claim date, or that it could have been found by a reasonable and diligent search.
+[117]
+Could it be reasonably inferred without this evidence that the thesis would have been available to the skilled technician at the priority date? The respondent submits that given Dr. Bush's involvement with the Ignarro group and status as lead author on two of their earlier research papers, it would have made sense for any skilled technician to check to see whether she had written anything else on the subject.
+[118]
+Dr. Brock, who was working in California at the relevant time, was aware of Dr. Bush's work as a graduate student but had not seen the thesis before this litigation. Dr. Christ acknowledged on cross-examination that Dr. Bush's role as a member of the Ignarro team was well known and that "her thesis has gotten around". But the evidence does not show when that might have happened. The thesis was defended and filed just a few months before the claim date. It may well have circulated within the scientific community in later months but the evidence does not clearly establish even that possibility. The respondent's experts, Drs. de Tejada, Corbin and Maurice, conceded on cross-examination that they first became aware of the thesis when it was provided to them by counsel for Apotex. The evidence, in my view, is not sufficient to support the inference that the thesis would have been found by a diligent and reasonable search.
+[119]
+I am satisfied that the applicants have established on a balance of probabilities that the thesis was not available to the skilled technician as of the priority date. But even if I were to assume the contrary, I am also satisfied that the thesis does not support an obviousness finding in this case. I would note, in passing, that I have read the UK decisions which placed greater reliance upon the Bush thesis in support of such a finding than I think is warranted by a fair reading of the document.
+[120]
+Dr. Bush's thesis includes a careful description of the work done in experiments on the use of zaprinast in human and rabbit corpus cavernosum tissue that she was conducting as part of the Ignarro group's research. The objective of this research was to determine whether the L.arginine-nitric oxide-cGMP pathway is involved in NANC stimulated relaxation of the corpus cavernosum, and to elucidate the mechanism of relaxation. The conclusions she expressed as resulting directly from those experiments were, as Dr. de Tejada put it, "relatively narrow" and very similar to those reported by the same group in the Rajfer and Trigo-Rocha papers on which she had also worked. However, Dr. Bush was able to take a wider view in the summary and conclusions section of her thesis. In that section, among other things, she stated the following:
+"The results of this research are probably most important in terms of practical application to the treatment of urological disorders such as impotence and priapism. Now that the physiological mechanism for corporal smooth muscle relaxation has been established, this mechanism can be used as a framework
+to systematically study
+the problem of impotence. The geology of the vasculogenic and\or neurogenic importance
+may be linked
+to a defect somewhere in the L.arginine nitric oxide cyclic GMP pathway ... Clinical development of a specific cyclic GMP phosphodiesterase inhibitor
+should be considered
+for the treatment of impotence. A specific cyclic GMP phosphodiesterase inhibitor
+could enhance
+corporal smooth muscle relaxation and produce erection by inhibiting the breakdown of cyclic GMP, thus having a direct and specific effect on the L-arginine-nitric oxide-cyclic GMP mediated relaxation process. Agents that are currently being used to treat impotence, the mechanisms of which do not appear to have the physiological basis, should probably be reevaluated, and less efficacy has been clearly established. A number of
+interesting directions for future research
+can be identified. ... Elucidation of the mechanism of relaxation and corpus cavernosum will set the
+groundwork for future studies
+of the mechanism of erection as well as the etiology and treatment of impotence." (Emphasis added)
+[121]
+In Dr. Brock's opinion, when a skilled person read this passage in context, he would not have understood that a specific cyclic GMP PDE inhibitor would successfully treat erectile dysfunction. It was a possibility to be considered and further researched, which is consistent with the views of the other experts at the time such as Rajfer and Trigo-Rocha.
+[122]
+For Dr. Heaton, the Bush thesis showed just how much remained unknown that could be the subject of future research projects. It was not a given that a cGMP PDE inhibitor would be clinically effective as a treatment for ED and there is no suggestion in the thesis that such a drug could be administered orally. On cross examination, Dr. Corbin agreed with the suggestion that what Dr. Bush was saying is that understanding the mechanism for relaxation will establish a basis for future research into not only the mechanism of erection but also for treatment of impotence. But that does not, in my view, point directly to the invention claimed by the '446 patent.
+Conclusion on Obviousness:
+[123]
+Keeping in mind the strict nature of the obviousness test, and the fact that there is much which is common in the evidence of all of the experts; what emerges is a picture of a field of rapidly advancing science which led to the discovery but which did not point directly to it. It is clear that quite a number of significant factors were known at the priority date, but this is to be expected. Seldom will an invention come out of the blue; usually it will be based on a body of work and incremental progress.
+[124]
+As submitted by the applicants, in 1993 there were several biochemical pathways under study and several first and second messengers disclosed. A few scientists speculated that PDE inhibition might be a factor in erectile tissue physiology. None of them, however, arrived at the solution of using oral administration of sildenafil as a PDE5 inhibitor in the treatment of ED prior to Pfizer.
+[125]
+Although there was a significant amount of evidence indicating that cGMP PDE inhibitors should be further explored with regards to the treatment of ED in the months leading up to the Pfizer discovery, the evidence does not in my view establish that the solution taught by the patent was obvious at the time. At best there was speculation, which in hindsight proved to be correct, that PDE5 inhibitors might treat impotence. Experiments with zaprinast, a cGMP PDE inhibitor, had been performed but in an effort to understand how the erectile process works, not how to treat ED.
+[126]
+Even if the person of ordinary skill had arrived, based on the art, at oral administration of sildenafil, and being mindful of the caution stated in <FRAGMENT_SUPPRESSED> above about the use of catchphrases, the most that could have been said at the priority date is that it would be "worth a try". Indeed that is essentially how Dr. Ringrose characterized his view when he suggested that sildenafil be tried out as a treatment for impotence by the Urogenitals Group  <FRAGMENT_SUPPRESSED>  in January, 1992. As we know from the evidence, the initial tests with monkeys were unsuccessful but subsequent testing in human volunteers produced reports of spontaneous erections. Those reports, internal to Pfizer, were not available to the ordinary skilled person. The result was, as the applicants say, part luck and part deductive science.
+[127]
+While it was surprising to many working in the field at the time that the oral administration of a PDE5 inhibitor would work, without serious side effects, the evidence is clear that there was a strong motivation to come up with a convenient drug treatment for ED. Textbooks and articles published in the 1990's and tendered in evidence contain statements such as "[e]very urologist has been asked at some point by a patient suffering from erectile dysfunction whether he could just get a 'pill' to fix the problem". As Dr. Rajfer wrote in a June 1998 editorial in the Journal of Urology: "The development of an oral pill for impotence has been the dream of many researchers in the field, myself included." That this was the "Holy Grail" of such research is not surprising given the estimates that many millions of men suffer from the condition. The result of the discovery of sildenafil's effects was a profound change in treatment methods, as the experts acknowledged.
+[128]
+The cumulative effect of secondary indicia such as the commercial success of the product, its wide use, and the surprise that accompanied its first publication further support my conclusion. As noted in the
+British Medical Journal
+of September 19, 1998:
+"The popular interest in Viagra (sildenafil) is not solely the result of media hype and the drug's association with sex: the demand for treatment has been enormous. Since its launch in the United States in March it has become the fastest selling drug ever ... the level of demand was predictable, given the prevalence of erectile dysfunction ... and the unacceptability, poor effectiveness, or unavailability of existing treatments, such as implants, intracavernosal injection, intra-urethral pellets, vacuum devices and sex therapy. To most sufferers a tablet treatment must've seemed too good to be true."
+[129]
+I therefore find that on the totality of the evidence the applicants have proven on a balance of probabilities that the respondent's allegation of invalidity on the basis of obviousness is unsubstantiated.
+Anticipation
+:
+[130]
+The allegations of anticipation directed to claims 7, 8, 10, 18, 22 and 23 are based on two of Pfizer's previously published patent applications: EP-A-0463756 and EP-A-0526004. In my view, neither discloses
+the use of sildenafil for the treatment of ED
+. As such, a skilled person would not, reading either document, in every case and without possibility of error arrive at the subject matter of the invention: <FRAGMENT_SUPPRESSED> , above.
+[131]
+The respondent's argument appears to be that it is the composition that is being claimed in the '446 Patent. It asserts that claims 10 and 23 of the '446 Patent which claim pharmaceutical compositions of sildenafil (albeit for a restricted use) are anticipated by the '756 application which teaches the pharmaceutical compositions of sildenafil without reference to the area of treatment. Clearly it is the
+use
+of sildenafil, not sildenafil itself which was claimed in the '446 Patent.
+[132]
+The respondent refers to the Supreme Court of Canada decision in
+ <FRAGMENT_SUPPRESSED>  C.P.R. 1, at para. 5 (
+Hoffman
+), cited positively by the Federal Court in
+ <FRAGMENT_SUPPRESSED>  at para. 58, affd. (2007), 361 N.R. 308; 2007 FCA 153, at paras. 11-14 (
+Abbott Laboratories
+2005). As was noted by this Court  <FRAGMENT_SUPPRESSED>  Laboratories
+2005 at para. 76, the
+Hoffman
+case stands for the principle that "one cannot obtain a patent on an old product even by use of a new process". This however is not what the applicants did in their application for the '446 Patent. It is not a new process for an old product they discovered but an entirely new use.
+[133]
+The respondent submits that the facts in the present case are different from those in <FRAGMENT_SUPPRESSED> , above and
+ <FRAGMENT_SUPPRESSED>  D.L.R.(3d) 117 (
+Shell Oil
+), as in those cases the composition was new, whereas, at bar, the composition is old.
+[134]
+The relevant point to be taken from <FRAGMENT_SUPPRESSED> is that the Supreme Court made it clear that "
+'[H]itherto unrecognized properties' can constitute a patentable new use for an old substance
+:
+Shell Oil
+, supra, at p. 549, per Wilson, J." (at para. 48). (Emphasis added) The compound AZT was at issue in <FRAGMENT_SUPPRESSED> . The Supreme Court held that the respondents did not "invent" AZT; it was a known compound that had been developed in the context of cancer research. It was the discovery of the compound's usefulness for the treatment of HIV and AIDS that was the subject of the Patent: <FRAGMENT_SUPPRESSED> , above at para. 35. As emphasized by the Supreme Court "[i]t is important to reiterate that the
+only
+contribution made by Glaxo/Wellcome in the case of AZT was to identify a new
+use
+": (Emphasis in original) <FRAGMENT_SUPPRESSED> , above at para. 52.
+[135]
+I had no difficulty in concluding that the respondent has not met its evidentiary burden to demonstrate that this issue is "in play" in these proceedings. If necessary, I would also find that the applicants had met their legal burden. From either perspective, the allegation fails.
+Are the Claims
+broader then the invention made or disclosed?
+[136]
+The respondent argues that the '446 Patent is invalid on the basis of being broader than the invention (if any) made or disclosed. This issue is really a matter of claims construction. It turns on the meaning to be given to the words curative and prophylactic, and whether they can pertain to a "treatment" as opposed to a "cure" as I have discussed above.
+[137]
+The findings of the Supreme Court in <FRAGMENT_SUPPRESSED> , above, are of assistance, and are not distinguishable as asserted by the respondent. At issue in <FRAGMENT_SUPPRESSED> was the appellant's argument that, although AZT may have "treatment" properties, it certainly did not have "prophylactic" properties, noting that, generally speaking, treatment deals with an infection already acquired, whereas prophylaxis refers to prevention of the disease in the first instance.
+[138]
+The findings of the Supreme Court make it clear that the respondent's argument, though having some linguistic attraction, places too much emphasis on there being a bright line distinction between treatment and prophylaxis: <FRAGMENT_SUPPRESSED> , above at para. 88. The Supreme Court further referred to the fact that "[d]ictionaries tend to include prophylaxis as an aspect of treatment": <FRAGMENT_SUPPRESSED> , above at para. 88. The Supreme Court concluded:
+"89 If 'prophylactic' treatment of malaria may post-date the initial infection, it would seem appropriate that prophylaxis can also include 'prevention of the development of signs and symptoms of the disease [AIDS] without necessarily eradicating the causal factor [HIV]'."
+[139]
+In the present case, multiple examples were given in the evidence submitted by both parties regarding the use of the words "curative" and "prophylactic", including comparative examples. For example, as noted by the respondent, the applicants' expert Dr. Brock acknowledged that sildenafil does not "cure" ED. The respondent failed, however, to highlight that in the same paragraph Dr. Brock goes on to assert that it is "'curative' in the sense that, when the drug is taken, the symptoms of the condition are alleviated". Similarly, he notes that one definition of prophylaxis cited by the respondent at page 58 of the NOA is "[t]he prevention of the development of signs and symptoms of the disease without necessarily eradicating the causal factor ...". There was also evidence presented, which was not refuted, that some individuals, after taking sildenafil for some time, no longer needed to continue taking it. It is further of note that the claims in the present case refer to "curative
+or
+prophylactic". (Emphasis added)
+[140]
+A patent is notionally addressed to a person skilled in the art or science of the subject-matter. It is also to be read as such a person would have read it when it first became public. I do not believe that a skilled reader would have thought that the Patent was indicating that sildenafil would "cure" the underlying condition causing the ED. I think a skilled reader would have read the Patent as indicating a treatment for ED that was curative
+or
+prophylactic in nature with regard to the symptoms of ED.
+[141]
+As such, on a balance of probabilities the applicants have demonstrated that this allegation is unsubstantiated.
+Failure to meet the requirements of the legislation
+[142]
+The respondent submits that claims 7, 8, 18 and 22 of the patent are not eligible for listing on the patent register as they are "use" claims rather than claims to a medicine; the use claimed is not use as a medicine, but rather use for the manufacture of a medicament.
+[143]
+As noted above, this issue was raised by the respondent in a motion to dismiss the application made returnable on the opening day of the hearing. Counsel for the respondent explained that, while the issue had also been raised in their memorandum of fact and law, they had brought the motion at the 11th hour out of an abundance of caution because of a comment in
+ <FRAGMENT_SUPPRESSED> that a motion under paragraph 6(5)(a) of the
+Regulations
+was the proper means to challenge the eligibility of a patent for listing, in the context of a prohibition application. There is nothing in s. 5 of the
+Regulations
+that specifically provides that the issue can be raised in the NOA.
+[144]
+Subsequent to the hearing of this matter, the Federal Court of Appeal released its decision in
+ <FRAGMENT_SUPPRESSED> ; 370 N.R. 89; 2007 FCA 264, which clarifies at para. 36 that:
+"A motion under paragraph 6(5)(a) is not analogous to a motion for summary judgment or motion to strike proceedings, and cannot be governed by the principle from
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), that an application normally will not be struck out on a motion before the hearing. The purpose of a paragraph 6(5)(a) motion is to remove from consideration in a prohibition application any patent or patents that should not have been listed. That purpose can be achieved only if the motion is made and dealt with prior to the hearing on the merits of the application"
+[145]
+In this instance, given the late filing of the motion, and as noted at the outset of these reasons, with the agreement of counsel the subject matter of the motion was rolled into the hearing on the merits of the application.
+[146]
+As a preliminary matter and although it is not necessary to make such a determination for this decision, I agree with the applicants that on a plain language reading of paragraph 6(5)(a), the Court would have no jurisdiction to dismiss the entire application were it to conclude that some of the claims of the '446 patent do not meet the eligibility requirements. The wording of paragraph 6(5)(a) is clear that it pertains only to "patents that are not eligible". In my view, this would require a finding that none of the claims in a particular patent satisfied the criteria. So long as one or more claims in the patent is eligible, the patent remains eligible. In any event, I do not accept the respondent's argument that the claims at issue are ineligible.
+[147]
+The relevant claims with respect to this issue, as disclaimed, are set out as follows in summary form and with emphasis added:
+"1. The
+use of a compound of formula
+(I) [
+which is then defined
+] or a pharmaceutically acceptable salt thereof, or a pharmaceutical composition containing either entity,
+for the manufacture of a medicament for the curative or prophylactic treatment of an erectile dysfunction in man.
+"
+Claims 2-4 in essence claim "The use according to claim 1" and give more narrow definitions for formula (I).
+"7. The use according to claim 4 wherein the compound of formula (I) is 5-[2-ethoxy-5-(4-methyl-1-piperazinylsulphonyl)phenyl] -1-methyl-3-n-propyl-1,6-dihydro-7Hpyrazolo[4,3-d] pyrimidin-7-one] (
+i.e. sildenafil
+) or a pharmaceutically acceptable salt thereof (
+i.e. sildenafil salt
+) [italicized notations added]
+"8. The use according to any one of claims 1 to 7 for the
+manufacture of a medicament for the curative or prophylactic treatment of erectile dysfunction in man
+.
+"10.
+A pharmaceutical composition for the curative or prophylactic treatment of erectile dysfunction in man
+, comprising a compound of formula (I) according to any one of claims 1 to 7, or a pharmaceutically acceptable salt thereof, together with a pharmaceutically acceptable diluent or carrier.
+"18.
+The use of a compound of formula (I) according to any one of claims 1 to 7, or a pharmaceutically acceptable salt thereof, for the curative or prophylactic treatment of erectile dysfunction in man.
+"22.
+The use according to any one of claims 1 to 8
+wherein the medicament is adapted for oral treatment.
+"23. A pharmaceutical composition according to claim 10 which is adapted for oral treatment." (Emphasis added)
+[148]
+As noted by the respondent, claims 7, 8, 18, and 22 are "use" claims. The respondent asserts that they are not, however, use claims that fall within the
+Regulations
+, because the "use" claimed is not "use of the medicine" as defined therein, but "use for the manufacture of a medicament", it being the manufactured medicament and not the sildenafil itself, that is intended for curative and prophylactic purposes.
+[149]
+The applicants assert that all claims in the '446 Patent, including 7, 8, 18 and 22 are proper claims within the
+Regulations
+, arguing that the respondent has misconstrued them, particularly claim 18. In refuting the argument of the respondent that claim 18 is "not a claim for the use of the medicine within the meaning of the
+Regulations
+, and that it is instead a claim for the manufacture of a medicament", the applicants do however seem to distinguish between the "use of the medicine" set out in claims 1 to 7 being "for the manufacture of a medicament", and claim 18, which is a claim for the use of a compound for the "curative or prophylactic treatment of erectile dysfunction in man", and not a claim for the manufacture of a medicament. The applicants specify that the "cross-reference in claim 18 to claims 1 to 7 is not to the use described in those claims, but to the compound (i.e. sildenafil)", and it is therefore clearly a proper claim within the meaning of the
+Regulations
+. With respect to claims 7, 8, and 22, the applicants assert that they too, when properly construed are also "claims for the use of sildenafil", seeming to imply that what is claimed is the use of sildenafil for the manufacture of a medicament, and therefore a use of sildenafil.
+[150]
+Having regard to the principle of purposive construction, and that the key is the identification by the Court, with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the "essential" elements of his invention, I do not think that the "use" in claims 1 to 7 should be interpreted as being the "use" of sildenafil simply "for the manufacture of a medicament".
+[151]
+The entire validity of the patent rests on a new use being discovered for sildenafil, that being its use for the curative or prophylactic treatment of ED in man. In no way does the use of sildenafil merely for the manufacture of a medicament in any way suggest a new use, unless this is seen as secondary to the "use ... for the curative or prophylactic treatment of an erectile dysfunction in man".
+[152]
+All of the claims clearly refer to the use of sildenafil, regardless of form. In each instance, in my view, the claims address the use of the medicine. As defined in s. 2 of the
+Regulations
+"claim for the use of medicine" and "medicine" are defined as follows:
+"'claim for the use of the medicine' means a claim for the use of the medicine for the diagnosis,
+treatment, mitigation
+or prevention of a disease, disorder or abnormal physical state,
+or the symptoms thereof
+; (
+revendication pour l'utilisation du médicament
+)
+'medicine'
+means
+a substance
+intended or capable of being used for
+the diagnosis,
+treatment, mitigation
+or prevention of a disease, disorder or abnormal physical state,
+or the symptoms thereof
+; (
+médicament
+)" (Emphasis added)
+[153]
+To my mind, it is clear from the claims at issue that multiple forms of sildenafil, including a compound of formula (I), a pharmaceutically acceptable salt thereof, or a pharmaceutical composition containing either, are claimed as being useful for the treatment of ED in man, and that this may require the manufacture of a medicament to be achieved. The use being spoken of is therefore the use of sildenafil (which is a medicine, as defined above, i.e. "a substance") for the curative or prophylactic treatment of erectile dysfunction in man, and the manufacture of a medicament or the adaptation for oral treatment are merely secondary aspects to the essential claimed use.
+[154]
+On the balance of probabilities the applicants have demonstrated that this allegation is unsubstantiated.
+CONCLUSION
+[155]
+In conclusion, I am satisfied on the evidence in this case that Pfizer's discovery was truly inventive and that none of the respondent's attacks on the patent should succeed. The applicants have met their legal burden to establish the validity of the '446 patent on a balance of probabilities and the application for an Order to prohibit the Minister of Health from issuing a Notice of Compliance to the respondent until after the expiry of the patent shall be granted. The applicants shall have their costs on both the application and the motion. If the parties cannot reach agreement on the quantum, the question of costs can be brought forward by Notice of Motion.
+JUDGMENT
+[156]
+IT IS THE JUDGMENT OF THIS COURT
+that
+1. The respondent's motion to dismiss the within application for prohibition dated May 22, 2007 is dismissed with costs to the applicant.
+2. The application is granted and the Minister of Health is prohibited from issuing a Notice of Compliance to the respondent in accordance with s. 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, S.O.R./93-133 for sildenafil, sildenafil citrate, or for any drug for which there is a connection to the drug known as sildenafil citrate as described in s. 5(1) or s. 5(1.1) of the
+Regulations
+, until after the expiry of Canadian Patent No. 2,163,446.
+3. The applicants are entitled to their costs on the ordinary scale to be determined by Notice of Motion, if required.
+Order accordingly.
+Editor: Angela E. McKay/gs
+[End of document]

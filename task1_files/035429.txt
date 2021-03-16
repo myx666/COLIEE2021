@@ -1,0 +1,81 @@
+[1]
+Jerome, A.C.J.
+: The applicants, licensee and owner of Canadian Patent 1215394, seek an order prohibiting the respondent Minister from issuing a Notice of Compliance to the respondent Apotex Inc. before the expiration of their patent.
+[2]
+On December 16, 1986, Canadian Patent 1215394 was issued to the applicant Chinoin Pharmaceutical and Chemical Works Co., Ltd. ("Chinoin") for an invention entitled "Process for the Preparation of Propargyl-Amines". The patent, which expires on December 16, 2003, includes claims for a product known under the generic name selegiline hydrochloride. It is marketed in Canada under exclusive licence by the applicant Deprenyl Research Limited under the registered trademark Elderpryl, a drug used in the treatment of late stage Parkinson's disease. The applicant obtained exclusive licensing rights in 1988 and in 1990 the drug was approved for marketing by the Minister of National Health and Welfare.
+[3]
+The respondent, Apotex Inc., is a Cana­dian company which manufactures and distributes generic pharmaceutical products. All the drug products manfactured and mar­keted by Apotex are "generic", being identical in active ingredi­ents to "brand name" drug products already approved by the Minister for use in Canada.
+[4]
+Prior to March 12, 1993, generic phar­maceutical companies such as Apotex were able to obtain a Notice of Compliance for a generic version of a brand name drug and market it without having to demonstrate that the product did not infringe an existing patent. The Minister of National Health and Welfare was obliged to issue the Notice of Compliance to an applicant as long as the drug met certain standards of safety and effectiveness. This compulsory licensing regime permitted generic drug manufacturers to commence the manufacture, importation and sale of a patented medicine before the expiration of the patent. If the product did infringe an existing patent, the patent holder obtained its remedies by way of a patent infringement action.
+[5]
+Pursuant to the
+Patent Act Amendment Act, 1992
+, S.C. 1993, c. 2, which received Royal Assent on February 4, 1993, the compulsory licensing provisions were repealed in their entirety and compulsory licenses issued on or after December 20, 1991 were extinguished. Section 55.1 was added to the
+Patent Act
+and reads as fol­lows:
+"55.1 In an action for infringement of a patent wherein the invention related to the production of a new substance, any sub­stance of the same chemical composition and constitution shall, in the absence of proof to the contrary, be deemed to have been produced by the patented process."
+[6]
+Section 55.2 of the
+Patent Act Amend­ment, 1992
+, was proclaimed on March 12, 1993, and creates two exceptions to acts which would constitute infringement:
+"55.2(1) It is not an infringement of a patent for any person to make, construct, use or sell the patented invention solely for uses reasonably related to the development and submission of information required under any law of Canada, a province of a country other than Canada that regulates the manufacture, construction, use or sale of any product.
+"(2) It is not an infringement of a patent for any person who makes, constructs, uses or sells a patented invention in accordance with subs. (1) to make, construct or use the invention, during the applicable period provided for by the regulations, for the manufacture and storage of articles intended for sale after the date on which the term of the patent expires."
+[7]
+Section 55.2(4) of the
+Act
+gives the Governor-in-Council power to make regu­lations to prevent infringement by any per­son who makes, constructs, uses or sells a patented invention. To that end, the
+Patented Medicines (Notice of Compli­ance) Regulations
+, SOR/93-133, pro­claimed on March 12, 1993, allow a patent holder to obtain an order prohibiting the Minister from issuing a Notice of Compli­ance to a generic company until after the expiration of the patent in issue. The pro­cedure for obtaining such an order is set out in the
+Regulations
+and involves a series of compulsory steps to be followed between a "first person" (a brand name company) and a "second person" (a generic company).
+[8]
+The first step entails the holder of a patent for medicine filing a patent list with the Minister. Thereafter, a second person wanting to obtain a Notice of Compliance for a medicine and wanting to compare it to a medicine for which a patent list has been submitted, must provide notice to the patent holder. A patent holder who receives such notice may, within forty-five days, apply to a court for an order prohibiting the Minister from issuing the Notice of Compliance during the term of the patent.
+[9]
+Section 4(2) of the
+Regulations
+sets out the required contents of the patent list. At issue in the present case is the requirement set out in s. 4(2)(a). That provision reads as follows:
+"4(2) A patent list submitted pursuant to subs. (1) must be certified by the person to be accurate, and must set out
+(a) any Canadian patent that is owned by the person, or in respect of which the person has an exclusive licence or has obtained the consent of the owner of the patent for the inclusion of the patent on the patent list,
+that contains a claim for the medicine itself or a claim for the use of the medicine
+and that the person wishes to have included on the patent list;" (emphasis added)
+[10]
+Accordingly, the patent list must set out any Canadian patent "that contains a claim for the medicine itself or a claim for the use of the medicine". Section 2 of the
+Regula­tions
+states:
+"'claim for the medicine itself' includes a claim in the patent for the medicine itself when prepared or produced by the methods or processes of manufacture particularly described and claimed or by their obvious chemical equivalents;"
+[11]
+In the present case, the applicant Deprenyl Research Limited filed a patent list in accordance with s. 4(1) of the
+Regula­tions
+. On April 28, 1993, a Notice of Alle­gation was sent by the respondent Apotex Inc. to Deprenyl Research Limited pertaining to Canadian Patent No. 1215394. The Notice of Allegation alleged that no claim for the medicine itself and no claim for the use of the medicine would be infringed by Apotex Inc. making, constructing, using or selling selegiline hydrochloride. The basis for the allegation was that Canadian Patent No. 1215394 contained no claims for the medi­cine itself or for the use of the medi­cine. Thereafter, on June 10, 1993, the applicants filed an originating Notice of Motion in this court seeking an order pro­hibiting the minis­ter from issuing a Notice of Compliance to Apotex Inc. for selegiline hydrochloride until the expiration of their patent.
+[12]
+The applicants argue there is no legal or practical distinction between a claim for a process for the preparation of selegiline hydrochloride and a claim for selegiline hydrochloride when prepared by a process. The monopoly defined by either type of claim is the same and covers selegiline hydrochloride itself when prepared or pro­duced by the described process. The use of the word "includes" in the definition section, it is submitted, demonstrates that the phrase "claim for the medicine itself" is nonexhaus­tive and embraces claims for a process.
+[13]
+The respondents submit the applicants' patent relates to a process. It is entitled "Process for the Preparation of Propargyl-Amines". The patent does not include claims to selegiline hydrochloride itself, claims to selegiline hydrochloride as produced by a process nor claims to a use of selegiline hydrochloride. The only claim in the patent is for a process of preparing the medicine; a claim which does not fall within the mean­ing of "claim for the medicine itself" as defined in s. 2 of the
+Regulations
+.
+[14]
+I am not prepared to allow the applica­tion. Until very recently, a medicine itself could not be patented, except when prepared by a particularly described process. Even then, however, it was essential that the medicine so produced be new or novel. If the medicine was not new, but the process producing it was, only the process could be patented. Though medicines themselves can now be patented as products, clearly a large number of patents still exist in relation to medicines when prepared by a particular process. Accordingly, there are three types of claims which can be made in a medicine patent. There may be a claim for the medi­cine itself, known as a "product" claim; a claim for the medicine when prepared by a particular process, known as a "process-dependant" product claim; and, a claim for the particular process that produces a medi­cine, known as a process claim.
+[15]
+There is no question on the evidence that the applicants' patent does not include a claim for selegiline hydrochloride itself or a claim for the use of the medicine. The only claims in the patent are to a process for preparing it. The issue now before the court is whether the
+Patented Medicines (Notice of Compliance) Regulations
+, and in par­ticular the definition of "claim for the medi­cine itself" in s. 2 thereof, includes or covers a claim in a patent for methods or processes or manufacture of a medicine.
+[16]
+It is an important principle of statutory interpretation that the words of a statute be read in their entire context and in their grammatical and ordinary sense. Although the use of the word "includes" in a definition provision may enlarge the meaning of the defined word beyond its natural sense, it does so only to the extent declared in the definition. It shows that the defined word embraces its natural meaning, plus the other matters set out in the definition. This was the approach adopted by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED> , wherein the court made the following comments at p. 480:
+"I have not overlooked the fact that the definition employs the expansive word 'includes' rather than the word 'means'. In applying this definition to the facts in question, I adopt the statement in
+Maxwell on Interpretation of Statutes
+(12th Ed.), p. 270, which reads as follows:
+'Sometimes, it is provided that a word shall "mean" what the definition section says its shall mean: in this case, the word is restricted to the scope indicated in the definition section. Sometimes, how­ever, the word "include" is used "in order to enlarge the meaning of words or phrases occurring in the body of the statute; and when it is so used this words or phrases must be construed as compre­hending, not only such things as they signify according to their natural import, but also those things which the interpre­tation clause declares that they shall include".
+In other words, the word in respect of which "included" is used bears both its extended statutory meaning and "its ordinary, popular and natural sense whenever that would be properly appli­cable
+."'" (emphasis added)
+[17]
+Therefore, the phrase "claim for the medicine itself", in the
+Patented Medicines (Notice of Compliance) Regulations
+means a claim for the medicine itself, in the ordi­nary and natural sense of the words, and a claim for the medicine when prepared by a particular process, in the ordinary and natural sense of the words used in s. 2. There is nothing in the language of the legislation which suggests the phrase also covers a claim for a particular process used to produce a medicine. Such an interpreta­tion would, in my view, be an unwarranted enlargement of the natural sense of the words used in the
+Regulations
+.
+[18]
+For these reasons the application is dismissed with costs.
+Application dismissed.
+Editor: Angela E. MacKay/slm
+[End of document]

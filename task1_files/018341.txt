@@ -1,0 +1,656 @@
+INTRODUCTION
+[1]
+Manson, J.
+: This is a motion for an interlocutory injunction or an interlocutory constitutional exemption together with an order in the nature of
+mandamus
+pursuant to subsection 24(1) of the
+Canadian Charter of Rights and Freedoms
+, Part 1 of th
+e Constitution Act, 1982
+, being Schedule B to the
+Canada Act 1982
+(UK), 1982, c 11 [the Charter], and Rule 373(1) of the
+Federal Court Rules
+[the Rules]. The moving parties [the Applicants] are the Plaintiffs in this action.
+[2]
+The action underlying the motion at issue is for various declarations pursuant to subsections 24(1) and 52(1) of the Charter. The declarations sought rely on section 7 of the Charter to invalidate recent changes to a regulatory scheme enacted by the federal government, which dictate the circumstances in which medically-approved patients may obtain and possess marihuana. These changes, contained in the
+Marihuana for Medical Purposes Regulations
+, SOR/2013-119 [the MMPR], repeal the
+Marihuana Medical Access Regulations
+, SOR/2001-227 [the MMAR] in their entirety by March 31, 2014.
+[3]
+The relief sought by the Applicants would preserve the provisions of the MMAR and limit the applicability of certain provisions of the MMPR, pending a final resolution of the merits of their claims. This motion was filed with the Court on January 31, 2014.
+[4]
+For the reasons that follow, I grant limited relief to the Applicants by preserving certain rights under the MMAR as of September 30, 2013. The motion is otherwise dismissed.
+A. Legislative Scheme
+I.
+Introduction
+[5]
+The requirement of the government to provide reasonable access to marihuana for medical purposes was recognized by
+R v Parker,
+[2000] OJ No 2787 (CA) [
+Parker
+] and affirmed in
+R v Mernagh,
+2013 ONCA 67, among others. In brief,
+Parker
+held that a failure to provide a viable medical exemption from the provisions of the
+Controlled Drugs and Substances Act,
+SC 1996, c 19 [CDSA] violated the liberty and security of the person guarantees under section 7 of the Charter, in a manner that was inconsistent with the principles of fundamental justice, by forcing certain individuals to choose between their liberty and their health. This direction from the Ontario Court of Appeal led first to exemptions from the CDSA pursuant to section 56 of that act, and then to the establishment of the MMAR.
+[6]
+Today, the consumption and distribution of medical marihuana in Canada is governed by three sets of regulations: the
+Narcotic Control Regulations,
+CRC, c 1041 [the NCR], the MMAR and the MMPR. The NCR allows medical practitioners to prescribe marihuana despite the provisions of the CDSA. The MMAR was, until June 6, 2013, the primary regulatory mechanism which dictated the circumstances under which this exemption can be exercised. As of June 6, 2013, the MMPR began to take effect. These regulations made changes to the NCR and the MMAR and will run concurrent with the MMAR until March 31, 2014, when the MMAR is scheduled to be repealed in its entirety.
+II.
+Narcotic Control Regulations
+[7]
+As of the changes made by the MMPR on June 6, 2013, subsection 53(5) of the NCR provides that a medical practitioner may prescribe, transfer or administer dried marihuana to a person under their professional treatment if that dried marihuana is required for the condition being treated.
+[8]
+Prior to June 6, 2013, section 53 of the NCR was not limited to "dried" marihuana.
+III.
+Marihuana Medical Access Regulations
+[9]
+While portions of the MMPR have taken effect, the MMAR is effectively the current regulatory regime for possession and production of marihuana for medicinal uses. As of March 31, 2014, it will be repealed in its entirety.
+[10]
+The MMAR provides for a licence scheme whereby eligible persons who are prescribed marihuana by a medical practitioner are issued an Authorization to Possess [ATP] marihuana pursuant to section 11. A valid ATP authorizes the holder to possess up to 30 times the amount of marihuana they are prescribed to consume daily.
+[11]
+The MMAR also provides for three ways by which a person may obtain marihuana. Two are relevant to this motion. They may either produce marihuana themselves under a Personal-use Production Licence [PPL], pursuant to section 24, or have a designated person produce marihuana for them under a Designated-person Production Licence [DPL], pursuant to section 34. These licences dictate both the maximum number of plants that can be grown simultaneously and the maximum quantity of dried marihuana that can be stored on a production site at any time.
+[12]
+Production of marihuana in accordance with a PPL or DPL must be conducted only on the site designated on that PPL or DPL. This site may be indoors or outdoors, but not both simultaneously. There are no restrictions as to the location of the production facility beyond the fact that if outdoors, it must not be adjacent to a school, public playground, daycare facility or other public place frequented mainly by persons less than 18 years of age. Production in a dwelling-place is allowed.
+[13]
+On June 7, 2013, the MMAR was amended to prohibit the issuance of PPLs and DPLs after September 30, 2013, unless the application for such a licence was received prior to September 30, 2013. This amendment was made in anticipation of the regulatory changes brought by the MMPR.
+IV.
+Marihuana for Medical Purposes Regulations
+[14]
+The MMPR makes substantial changes to the production scheme for medical marihuana in Canada. Notably, all PPLs and DPLs are no longer valid as of the repeal of the MMAR, and the amount that an individual is authorized to posses may be lowered in some cases.
+[15]
+The MMPR mandates that dried marihuana be produced by a Licensed Producer [LP], pursuant to section 12 of the MMPR. Individuals who formerly were or could be issued an ATP must register the prescription of a medical practitioner with an LP to obtain dried marihuana. If they do so, section 3 authorizes them to obtain and possess marihuana produced by that LP. The amount authorized for possession under section 5 is lower than under the MMAR: either 150 grams or 30 times the amount prescribed for daily consumption by the individual's medical practitioner, whichever is less.
+[16]
+An LP is required to meet various quality and security measures as per sections 12-101. This includes provisions in sections 13 and 14 which state that the production site may not be outdoors or in a dwelling-place.
+B. The Applicants
+[17]
+The Applicants all hold or held an ATP and/or a PPL or DPL. Their affidavits outline their concerns that the repeal of the MMAR and the regulatory changes introduced in the MMPR will bring them increased costs and decrease the safety and quality of the marihuana they consume.
+I.
+Neil Allard
+[18]
+Mr. Allard is 59 years of age and is a resident of Nanaimo, British Columbia. He was employed as a counsellor with Veteran's Affairs Canada until 1995, when myalgic encephalomyelitis (commonly known as Chronic Fatigue Syndrome) [CFS] caused him to leave work. He was granted permanent medical retirement in 1999 and has been living on a combination of pensions since that time. These pensions currently provide him with a net income of $2,700 per month. At age 65 his income will drop to $2,000 per month.
+[19]
+Mr. Allard states that he began using marihuana to treat his CFS symptoms after he realized he was sensitive to pharmaceutical medication. In 1998, he was referred to the British Columbia Compassion Club Society with a note of support from his physician. By 2001 it cost him approximately $500 per month to obtain marihuana through the Society. As a result of this cost, he took steps to obtain an ATP and a PPL. He currently holds a PPL to produce up to 98 plants and store 4,410 grams indoors. He also holds an ATP which authorizes him to possess up to 600 grams on his person at any time. Both expire on March 31, 2014.
+[20]
+In 2004, he received his first PPL and began cultivating marihuana at his residence. Since that time he has moved twice and claims to have spent thousands of dollars to renovate his current basement to accommodate the cultivation of marihuana indoors. This included professional wiring, insulation, venting, painting, plumbing and the purchase of growing equipment to facilitate the production of marihuana. In addition, he has purchased motion detectors, carbon dioxide and smoke alarms, and has a tall fence at his property line.
+[21]
+Mr. Allard ingests his marihuana through various means. Based on his current means of production, this rate of consumption costs approximately $200-$300 per month. In addition, he estimates that the financial cost of setting up the production sites at his three residences to be approximately $35,000.
+[22]
+Mr. Allard estimates that to maintain his current dosage through an LP at a cost of $8-10 per gram would cost approximately $6,000 per month, and $3,000 at a cost of $5 per gram. In either event, it is more than his monthly income either now or upon his retirement, and these costs are not eligible for assistance under any health care plan. Given these increased costs, Mr. Allard fears that he may have to risk imprisonment by continuing to produce marihuana or procuring it through the illicit market.
+[23]
+Mr. Allard further notes that he has been able to identify strains of marihuana which are specific to his medical needs and continues to experiment with other strains that alleviate his symptoms in an effective way, as some strains exacerbate his symptoms. He states that the strains he requires may not be available through an LP, and if he needed to resort to the black market, he would have no guarantees as to the quality or safety of the product.
+II.
+Tanya Beemish and David Hebert
+[24]
+Ms. Beemish and Mr. Hebert are a common law couple who reside in Surrey, British Columbia. Ms. Beemish is 27 years old and Mr. Hebert is 32. Ms. Beemish was employed as a barista until June, 2012, when she went on sick leave. Since December, 2012, she has received a Canada Pension Plan disability pension of $596.73 monthly. She suffers from type one diabetes and gastroparesis.
+[25]
+On January 4, 2013, Ms. Beemish received an ATP to alleviate her symptoms of extreme nausea, vomiting, pain, lack of appetite, and insomnia. She uses a daily dose of 2-10 grams which she ingests via smoking or vaporizing. Her ATP, which authorized her to possess 150 grams, expired on January 4, 2014.
+[26]
+Mr. Hebert is the Health Canada approved designated grower for Ms. Beemish. He is employed as an Environmental Protection Officer. His DPL allowed him to produce 25 plants indoors and store 1125 grams of marihuana at the production site. He produced the marihuana for Ms. Beemish in a secure room attached to their townhouse garage, which was ventilated, and had mold controls and fire alarms. While his DPL expired on January 4, 2014, he was unable to legally produce marihuana as of October 30, 2013, when he moved residences and was unable to renew his DPL.
+[27]
+Mr. Hebert estimates that the cost to produce the marihuana was approximately $0.50 per gram, exclusive of capital costs to create his production facility. Both Mr. Hebert and Ms. Beemish state that costs of $8-12 dollars for marihuana produced by an LP is beyond what is affordable, noting that even a cost of $5 per gram is a tenfold increase in what it costs Mr. Hebert to produce marihuana for Ms. Beemish. They fear that they will have to turn to the black market to find affordable marihuana, with no guarantees as to the quality and safety of the product.
+III.
+Shawn Davey
+[28]
+Mr. Davey is 37 years old and resides in Abbotsford, British Columbia. Mr. Davey was employed building custom vehicles until June 16, 2000, when he was involved in a motor vehicle accident in which he suffered a serious brain injury. As a result of an insurance settlement and his Canada Pension Plan Disability pension, his monthly income is approximately $5,000.
+[29]
+Following his accident, Mr. Davey was prescribed various medications for the next six years to deal with chronic pain as a result of his accident. These medications cost him $3,000 per month. He began using marihuana and found it effectively dealt with his symptoms and allowed him to stop using other medications. Starting in 2007, he began receiving marihuana through a designated grower. However, this grower was unable to consistently provide a safe supply of high quality. After switching designated growers and encountering similar problems, he decided to produce his own marihuana. He currently possesses an ATP, which authorizes him to possess 750 grams at any time. He also possess a PPL, which authorizes him to produce 122 plants indoors and store 5,490 grams at the site of production. These licences expire on March 31, 2014.
+[30]
+His production facility is on an outbuilding on his property. He can produce his marihuana at a cost between $1 and $2 per gram, and he uses approximately 25 grams per day, for a cost of between $750 and $1,500 per month, less than the $3,000 he spent on pharmaceutical medications prior to when he began using medical marihuana.
+[31]
+Mr. Davey is concerned about the effectiveness and quality of the marihuana produced by an LP, given his negative experience with previous designated growers and because his marihuana needs require a 12-18% tetrahydrocannabinol [THC] content to alleviate his symptoms. He also is worried about the increased cost, given that, at his current rate of consumption, he would consume approximately $6,000 per month at a price of $8 per gram. He worries about having to resort to the black market as a result of these regulatory changes.
+C. Supporting Affidavit Evidence
+I.
+Applicants' Supporting Affidavits
+(1) Zachary Walsh
+[32]
+Dr. Walsh is an Assistant Professor in the Department of Psychology at the University of British Columbia.
+[33]
+Dr. Walsh details his research relating to access to and reasons for the therapeutic use of marihuana in Canada. He includes two articles that he has prepared for the
+International Journal of Drug Policy
+; one published, and one awaiting publication.
+[34]
+Dr. Walsh notes that approximately 1 million Canadians reported using marihuana to treat self-defined medical conditions. However, as of December, 2012, only 28,115 Canadians had a valid ATP.
+[35]
+Dr. Walsh also refers to research showing that more than half of respondents in studies stated that financial considerations impacted whether they were able to buy a sufficient amount of marihuana to address their therapeutic needs. For example, 54% of respondents reported they were sometimes, or never, able to afford to buy sufficient quantities of marihuana to relieve their symptoms. Approximately one-third reported that they often or always choose between marihuana and other necessities, such as food or other medicines, because of a lack of money. In his opinion, this demonstrates that the affordability of marihuana for therapeutic purposes remains a significant barrier for many Canadians and especially the most seriously ill.
+[36]
+Dr. Walsh concludes by arguing that the MMPR, even by the government's cost-benefit analysis, will involve a significant price increase which will impact the ability of patients to obtain marihuana for therapeutic purposes.
+(2) Susan Boyd
+[37]
+Dr. Susan Boyd is a Professor in the Faculty of Human and Social Development at the University of Victoria. Her areas of study include drug law and policy, and she is the co-author of the book "Killer Weed: Marihuana Grow Ops, Media and Justice."
+[38]
+Dr. Boyd notes that the overall crime rate in 2010 has fallen in both its volume and severity since the 1970s. She also criticizes a review study by Darryl Plecas of the University of the Fraser Valley [Plecas report]. She notes that while that report purports to link grow operations with violence, 89% of the grow operations referred to did not have firearms or other weapons or hazards present. Only 6% had firearms on site - only slightly higher than the 5.5% of the Canadian population who hold such licences.
+[39]
+Dr. Boyd also criticizes the risk of fire from indoor marihuana grow operations as stated in the Plecas report. She claims that the proportion of fires relating to grow operations was exaggerated. In contrast to the 3.5% in 2001, 3.7% in 2002, and 4.7% in 2003, only 1.21%, 1.02% and 1.3%, respectively, were reported in the
+Annual Statistical Fire Report
+. Similarly, the Plecas report's claims about the dangers in booby-trapped grow operations were exaggerated: only 2.1% of grow operations contained such hazards.
+[40]
+Dr. Boyd argues that safety of PPL and DPL sites can be corrected by having better guidelines, education and monitoring of marihuana production facilities, something that Health Canada has failed to do.
+[41]
+Dr. Boyd concludes that newspaper coverage has created a persistent link between mold, fire and other property damage in a way that is not supported by any statistical reality.
+II.
+Respondent's Supporting Affidavits
+(1) Cpl. Shane Holmquist
+[42]
+Corporal Holmquist (acting) has been a member of the RCMP since April, 2005. He is seconded to the Federal Serious Organized Crime Section on the Coordinated Marihuana Enforcement Team, which investigates marihuana grow operations, among other tasks. He has also provided training to Health Canada Inspectors, Drug Investigators in Canada, and law enforcement personnel in the United States regarding the production and trafficking of marihuana. In addition, he is the Provincial RCMP MMPR Coordinator for British Columbia, which involves him in the application process for approving LPs.
+[43]
+Cpl. Holmquist noted that as of October, 2013, there were 25,809 PPLs and 4,231 DPLs validly held in Canada.
+[44]
+Cpl. Holmquist has attended numerous MMAR grow operations where "monster plants" are grown and more marihuana is produced than the licences allow. While this excess marihuana is supposed to be destroyed, Cpl. Holmquist expressed his opinion that this rarely happens.
+[45]
+He also has seen that MMAR licences are used to disguise commercial-scale grow-operations. He gave an example from 2013, when he discovered a barn which had a licence under the MMAR, but 25 individuals were involved in packaging marihuana in preparation for trafficking. He supports this example with reference to an April, 2009, RCMP Criminal Intelligence Brief entitled "A Review of Cases Related to the Medical Marihuana Access Regulations," which found 70 licensing violations and 40 instances where those violations involved trafficking excess marihuana for profit. He opines that the sale of excess marihuana is necessitated by the high cost of electricity that the indoor production of marihuana entails. Cpl. Holmquist suggests that selling this excess marihuana often involves collaboration with organized crime.
+[46]
+Cpl. Holmquist also expresses concerns about the terms of an individual's ATP. In particular, he notes that trafficking may be facilitated by the fact that an ATP can authorize a 30-day supply of marihuana on the holder's person. This can effectively shield a trafficker, holding a valid ATP, from police scrutiny.
+[47]
+With regard to health and safety, Cpl. Holmquist has witnessed the presence of mold and other chemical contaminations at marihuana grow operations. Further, he notes that a residence which includes a marihuana grow operation has a 24 times greater risk of a fire than one without, given the extensive lighting systems needed to grow marihuana indoors, the use of carbon dioxide generators, and the extraction process involved in producing marihuana oil. Because of the concealed and controlled nature of many grow operations, it makes it difficult for individuals to escape in the event of fire, or for emergency workers to adequately and safely respond in the event of an emergency. He also notes that injuries can occur to marihuana growers from touching lighting systems and slipping on excess water.
+[48]
+Cpl. Holmquist pointed to an RCMP Criminal Intelligence Brief entitled "Marihuana Grow Operations and Related Violence in Canada," dated April, 2012, which states that "grow-rips," or theft of medical marihuana, is becoming increasingly common. These grow-rips often are violent and involve the use of weapons. To prevent grow-rips, growers may arm themselves, thereby increasing the risk of injury to bystanders.
+[49]
+Cpl. Holmquist also gives his opinion that various marihuana-products, such as marihuana-infused candy suckers, could be ingested by children living at a grow operation location.
+[50]
+Cpl. Holmquist contrasts the above with his experience being involved with MMPR applications, which have strict growing, security, and packaging standards that serve to address his concerns with the MMAR.
+(2) Paul Grootendorst
+[51]
+Dr. Grootendorst is an Associate Professor in the Faculty of Pharmacy at the University of Toronto. His research focuses on health economics. He has provided an expert report with respect to projected marketplace trends under the MMPR and the impacts on LPs if medical marihuana users were not required to purchase medical marihuana from an LP or Health Canada.
+[52]
+Dr. Grootendorst's opinion with respect to the first issue is that the price of legal, commercially-sourced medical marihuana will decline over time, so long as the market of users grows sufficiently large over time. Dr. Grootendorst opines that it will.
+[53]
+With regard to the second issue, Dr. Grootendorst opines that if medical marihuana users are exempt from the requirement to purchase their marihuana from LPs or Health Canada, then the size of the medical marihuana market will be smaller. He hypothesizes that three possible scenarios will result. The first is that prices of marihuana will decline, but at a slower rate than they would if users were required to buy from LPs. The second is that prices of medical marihuana will increase over time. The third is that eventually no LPs will exist to produce medical marihuana. Dr. Grootendorst does not express an opinion as to the likelihood of these three scenarios.
+(3) Jeannine Ritchot
+[54]
+Ms. Ritchot is the former Director of Medical Marihuana Regulatory Reform from 2011-2013 at Health Canada. Prior to that, she was the Director of the Bureau of Medical Cannabis, Office of Controlled Substances, Controlled Substances and Tobacco Directorate, at Health Canada from 2010-2011. Through these positions she oversaw the administration of the MMAR and conducted policy development of the MMPR.
+[55]
+Ms. Ritchot notes that the goals of the MMAR regime were to strike a balance between providing legal access to marihuana for medical purposes while controlling access to a controlled substance, to respect existing federal legislation such as the CDSA, and to protect the individual and public health, security and safety of all Canadians. She opines that the rapid expansion of those licensed to possess marihuana under the MMAR, from 477 in 2002 to 37,884 in January, 2014, has compromised the initial goals of the program. In addition, she notes that as of December 3, 2013, the average number of plants licensed for indoor growth was 101, the average number of plants licensed for outdoor growth was 11, and the average daily dosage is 17.7 grams per day. Despite this, the average amount of marihuana used by those being supplied by Health Canada was between 1 and 3 grams.
+[56]
+Some of the consequences of the rapid expansion of the program has meant that a large amount of marihuana is being produced in private residences and that Health Canada does not have the resources necessary to conduct compliance and enforcement activities. In addition, Health Canada's program to supply marihuana to patients cost $16.8 million for the three years ending on March 31, 2013. Finally, Health Canada has received solicited and unsolicited feedback from municipalities and first responders, homeowners, and program participants about unanticipated problems with the MMAR regime. These include violence, presence of firearms, diversion to the illicit market, production over the limits authorized, the presence of mold, fire and electrical hazards, toxic chemicals, the emission of noxious odours, and various risks to children living in or near the residential growing operations.
+[57]
+Ms. Ritchot also describes the consultations which took place with regard to the MMPR and in particular, law enforcement representatives who submitted feedback were unanimous that the use of PPLs and DPLs should be discontinued.
+[58]
+Ms. Ritchot describes the purposes of the new MMPR as including: increasing individual and public health, safety and security; treating marihuana as much like other medicinal drugs as possible; facilitating access to multiple strains; returning Health Canada to its traditional role as regulator; and creating a stricter regulated business environment for the production of marihuana.
+(4) Todd Cain
+[59]
+Mr. Cain is the Executive Director of Market Development for the Healthy Environments and Consumer Safety Branch of Health Canada. His responsibilities include supporting the transition from the MMAR to the MMPR and resolving issues in the development of a stable supply base for medical marihuana by LPs.
+[60]
+Mr. Cain states that as part of the transition strategy to the MMPR, Health Canada has been developing means by which a stable and continuous supply of marihuana can be assured. One of the key mechanisms to do so has been a publicity campaign to encourage applications from potential LPs. This included partnerships with the private sector, such as the Ontario Greenhouse Vegetable Growers, Flowers Canada Growers, and various provinces and other federal government ministries. This strategy also included preparing guidance documents for the application process and operating a call centre for staff to answer questions from potential applicants.
+[61]
+Mr. Cain notes that as of February 4, 2014, Health Canada has received 454 LP applications, 8 of which have been issued, 10 have been withdrawn, 24 have been refused, and the rest are in various stages of review or screening. Mr. Cain estimates that approximately 25 new applications are received each week.
+[62]
+As of January 30, 2014, six of the eight approved LPs are ready to register clients. Mr. Cain indicates that the prices range from $5 to $12 per gram, and a number of LPs are offering discounts to as low as $3.00 per gram for low income users. Mr. Cain indicates that LPs have stated that approximately 850kg of marihuana will be available for medicinal use as of March 31, 2014. In addition, Health Canada has stockpiled between 400-500kg of marihuana from its previous production facility, and has approved import from the Netherlands of over 100kg of marihuana in the case of supply shortfalls. Mr. Cain also indicates that Health Canada took steps to forecast consumer demand in a manner that was risk-adjusted for unforeseen circumstances.
+[63]
+Based on these forecasts and the steps taken to manage supply and demand, Mr. Cain states that Health Canada has taken significant steps to ensure reasonable access to quality dried marihuana through the transition period and into the future.
+D. Relief Sought at Trial
+[64]
+The relief sought by the Applicants at trial can be summarized as follows:
+1. A declaration pursuant to subsection 52(1) of the Charter that a constitutionally viable exemption to enable the medical use, by medically approved persons, of cannabis, in any of its effective forms, includes the right of the patient (or a person designated as responsible for the patient), to not only possess and use Cannabis in any of its forms, but also to cultivate or produce and possess Cannabis in any form that is effective for the treatment of the patient's medical condition.
+2. A declaration pursuant to subsection 52(1) of the Charter that the MMPR is unconstitutional only to the extent that it unreasonably restricts the section 7 Charter rights of a medically approved patient to reasonable access to their medicine by way of a safe and continuous supply, by failing to allow for continued personal or designated production of marihuana, and cannot be saved by section 1.
+3. Constitutional declarations pursuant to subsection 52(1) that would address the limitations:
+A. On "dried" marihuana in the NCR, MMAR and MMPR;
+B. The prohibitions on LPs from producing outdoors or in a dwelling-house; and
+C. The 150 gram maximum on the amount a patient may possess and an LP may ship.
+4. An Order under subsection 24(1) of the Charter granting a permanent injunction or a permanent constitutional exemption of the same form sought in the interim in this motion, which is described below.
+ORDER REQUESTED
+[65]
+An Order under section 24(1) of the Charter is sought in the nature of:
+1. An interim constitutional exemption from ss.4, 5 and 7 of the
+Controlled Drugs and Substances Act
+for all persons medically approved under the
+Narcotic Control Regulations
+C.R.C., c. 1041
+(NCR),
+the <FRAGMENT_SUPPRESSED> or the
+MMPR,
+including those patients who have a caregiver 'person responsible' for them designated to produce for them, including an exemption for that caregiver 'person responsible' designated producer, pending trial of the merits of the action or such further Order of the court as may be necessary;
+or, alternatively
+2. An interlocutory exemption/injunction preserving the provisions of the <FRAGMENT_SUPPRESSED> relating to personal production, possession, production location and storage, by a patient or designated caregiver 'person responsible for the patient' and related ancillary provisions, and if necessary, limiting the applicability of certain provisions of the <FRAGMENT_SUPPRESSED> to such patients or designated caregivers that are inconsistent with their s. 7 constitutional right under the
+Charter
+pending the decision of this Court on the merits of this action.
+Or alternatively, and together with
+3. An interim/interlocutory order in the nature of
+mandamus
+to compel the Defendant to process all applications, renewals and modifications to any licences pursuant to the <FRAGMENT_SUPPRESSED> in accordance with all of its provisions (other than those challenged as unconstitutional herein), notwithstanding ss.230, 233-234, 237-238, 240-243 of the <FRAGMENT_SUPPRESSED> relating to applications under the <FRAGMENT_SUPPRESSED> after September 30th, 2013 as reflected in the amended <FRAGMENT_SUPPRESSED> sections 41-48.
+And such further and other relief as the court deems appropriate and just in all of the circumstances.
+ISSUES
+[66]
+The issues are as follows:
+A. Have the Applicants met the requirements for an interlocutory injunction?
+B. Given the Applicants meet the requirements for an interlocutory injunction, what is the appropriate relief to grant?
+i. Should the Applicants be granted either an interim constitutional exemption from the CDSA, or alternatively an interlocutory exemption/injunction preserving the MMAR, together with an Order in the nature of
+mandamus
+to compel continuation of the program, pending trial?
+ii. Ought the Applicants be exempt from the undertaking requirement in subsection 373(2) of the Rules?
+ANALYSIS
+A.
+Have the Applicants Met the Requirements for an Interlocutory Injunction?
+[67]
+The parties agree that the test for obtaining injunctive relief is the tri-partite test established in
+ <FRAGMENT_SUPPRESSED>  at paras 33-36 [
+Metropolitan <FRAGMENT_SUPPRESSED>  and affirmed in
+ <FRAGMENT_SUPPRESSED>  at para 43 [
+RJR-MacDonald
+].
+[68]
+The Applicants argue that it is well-established that this test may apply in the context of constitutional litigation. In particular, the Applicants notes that there is no presumption that legislation is constitutional, and for a court to insist that all legislation is enforced until it is struck down might undermine the spirit of the Charter and encourage a government to unduly prolong final resolution of the dispute at issue (
+RJR-MacDonald
+at para 39). In addition, the Applicants specify that injunctions are available to rectify invalid legislation, as is the case here, not just for prohibited conduct (
+ <FRAGMENT_SUPPRESSED> ).
+[69]
+The Respondent argues that courts have held that interlocutory injunctive relief against the crown should be exercised sparingly (
+ <FRAGMENT_SUPPRESSED> ), as it effectively usurps the legislative and executive roles of government.
+I.
+Is There a Serious Issue to be Tried?
+[70]
+Based on the evidence before me, I find that the Applicants have established a serious issue to be tried.
+[71]
+The decision  <FRAGMENT_SUPPRESSED> -MacDonald
+, describes the first step of the tri-partite test at paras 49-50:
+49 What then are the indicators of "a serious question to be tried"? There are no specific requirements which must be met in order to satisfy this test. The threshold is a low one. The judge on the application must make a preliminary assessment of the merits of the case (...)
+50 Once satisfied that the application is neither vexatious nor frivolous, the motions judge should proceed to consider the second and third tests, even if of the opinion that the plaintiff is unlikely to succeed at trial. A prolonged examination of the merits is generally neither necessary nor desirable.
+[72]
+RJR-MacDonald
+at para 48 points out the particular difficulty in conducting a detailed analysis at the interlocutory stage of Charter litigation:
+...Furthermore, the complex nature of most constitutional rights means that a motions court will rarely have the time to engage in the requisite extensive analysis of the merits of the applicant's claim. This is true of any application for interlocutory relief whether or not a trial has been conducted (...)
+[73]
+The Respondent concedes that the Applicants have satisfied this prong of the test. However, the Respondent reserves the right to contest the merits of the Applicants' claims at trial - in particular, the Respondent argues that there is no right to a particular drug of choice where reasonable alternatives are available, nor any economic right to low cost or subsidized medication (
+ <FRAGMENT_SUPPRESSED>  at paras 82-83).
+Analysis
+[74]
+The Applicants' affidavits establish that the section 7 liberty interests of the Applicants may be infringed given the possession offences of the CDSA, should they continue to produce marihuana as per
+Parker
+at para 92. Their liberty interest may also be infringed by virtue of their right to make fundamental life choices regarding their health (
+Parker
+at para 92), as several of the affiants testified to their concern regarding the effectiveness and safety of the marihuana offered by LPs. The Court in
+Parker
+at para 107 also held that the state action which has the likely effect of impairing a person's health by forcing them to chose between healthcare and imprisonment, engages the section 7 right to security of the person. Here, several affiants testified to a similar effect. While these claims may not succeed at trial, they are not frivolous or vexatious. Similarly, the Applicants have a basis to claim that there is a serious issue in that the risk to their security and/or liberty interest is not in accordance with the principles of fundamental justice.
+II.
+Are the Applicants likely to suffer irreparable harm?
+[75]
+The Applicants rely on
+RJR-MacDonald
+, at paras 58-59, to define the second stage of the tri-partite test (para 58 affirmed in
+ <FRAGMENT_SUPPRESSED>  at para 13):
+58 At this stage the only issue to be decided is whether a refusal to grant relief could so adversely affect the applicants' own interests that the harm could not be remedied if the eventual decision on the merits does not accord with the result of the interlocutory application.
+59 "Irreparable" refers to the nature of the harm suffered rather than its magnitude. It is harm which either cannot be quantified in monetary terms or which cannot be cured, usually because one party cannot collect damages from the other (...)
+[76]
+ <FRAGMENT_SUPPRESSED> the court recognized that "impoverishment, social stigma and the loss of dignity associated with severe poverty can constitute irreparable harm ...the loss of enjoyment of life resulting from a subsistence level existence pending trial is not calculable in money."  <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> (FC)], (upheld on appeal in
+ <FRAGMENT_SUPPRESSED> ) [ <FRAGMENT_SUPPRESSED> (FCA)]) the court also held that sudden poverty could lead to emotional and psychological stress that could amount to irreparable harm for some individuals, and also that harm of this nature should not be taken lightly. Similarly, in
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ], the court found that "The long term effect of the loss of security and the impoverished lifestyle constitutes more than the loss of money. It constitutes irreparable harm."
+[77]
+In this case, the Applicants argues that they will suffer irreparable harm in the form of loss of enjoyment of life and avoidable suffering because of the failure of the MMPR to accommodate individual patients of meagre means who:
+A. Cannot afford the rate charged by licensed providers;
+B. Will no longer be able to produce their own medicine at an affordable cost;
+C. Will be unable to ensure a sufficient supply of safe, high-quality product of the most suitable type for each patient's needs; and
+D. Will no longer be able to purchase forms of marihuana other than "dried marihuana" which have proven most effective at treating their respective particular illnesses.
+[78]
+It is conceded that an increase in the cost of marihuana alone is not a basis to find irreparable harm. Rather, the cost of marihuana must be such that it puts the Applicants in a position where they are either unable to reasonably access the marihuana necessary to meet their medical needs, be otherwise severely impoverished, or endanger their liberty by forcing them to rely on the illicit market or continue personal production.
+[79]
+The Applicants also argue that harm is more "irreparable" in Charter cases because of the particular difficulty of receiving damages in Charter cases (
+ <FRAGMENT_SUPPRESSED>  at paras 78-80 [ <FRAGMENT_SUPPRESSED> ];
+143471  <FRAGMENT_SUPPRESSED> ). Irreparable harm must not simply be "likely" to occur (
+ <FRAGMENT_SUPPRESSED> ;
+International Longshore and  <FRAGMENT_SUPPRESSED> [
+International Longshore
+]), nor can general assertions establish irreparable harm (
+ <FRAGMENT_SUPPRESSED> ). The Respondent argues that this requirement arises in the context of constitutional litigation as well (
+International Longshore
+;
+ <FRAGMENT_SUPPRESSED> ).
+[81]
+The Respondent states that the harm alleged by the Applicants is speculative for three reasons:
+i. Speculation about the Inability to Afford Marihuana for Medical Purposes
+[82]
+The Respondent states that the Applicants' assertions that they cannot afford marihuana are unsupported, as the Applicants do not provide specific evidence regarding their current financial situations, nor do they explain why they apparently can afford to produce marihuana but not to buy it. The Respondent highlights qualifying language used in the affidavits of the Applicants, such as "estimated" and "approximately," to demonstrate the speculative nature of the Applicants' claims of irreparable harm.
+[83]
+The Respondent refers to the evidence of Dr. Grootendorst, who states that the cost of purchasing marihuana from an LP will decline over time due to the normal operation of the marketplace and a presumed growth in the number of medical marihuana users. Furthermore, the Respondent argues that the evidence submitted shows that black market prices are higher than LP prices, and that Dr. Grootendorst has suggested that the federal government will likely subsidize the cost of medical marihuana in the future.
+ii. Speculation about a Lack of Supply
+[84]
+The Respondent also disputes the argument by the Applicants that they will not have access to appropriate marihuana strains or that the strains available will be of low quality. The Respondent argues that this is speculation, as Dr. Grootendorst's affidavit suggests that the MMPR will facilitate the development of a wide variety of strains.
+[85]
+Further, the Respondent notes that there is no scientific basis to support the Applicants' claims that they need a particular strain or THC content to meet their medical needs, or that they have sampled marihuana from an LP and deemed it unacceptable.
+iii. Speculation about the Effect of Limits on Personal Production
+[86]
+The Respondent also argues that the Applicants' concerns regarding the limits on personal possession under the MMPR are unfounded. The new limit of 150 grams limit was based on an average use of 1-3 grams per day of medicinal marihuana by those being supplied by Health Canada and reflects appropriate dosage amounts identified in scientific literature.
+Analysis
+[87]
+As stated above, the harm alleged must not be hypothetical or speculative. It cannot be comprised of generalized assertions, unsupported by evidence and it must be real and substantial. However, harm that will occur in the future does not necessarily mean the harm is speculative. Instead, it is "...the likelihood of harm, not its futurity, which is the touchstone" (
+ <FRAGMENT_SUPPRESSED> ).
+[88]
+Paragraph 59  <FRAGMENT_SUPPRESSED> -MacDonald
+also alludes to a wrinkle in interlocutory injunctions in the context of this motion. The ability to compensate in damages, a traditional measure of what constitutes reparable harm, is complicated in constitutional cases, as damages are presumptively unavailable against the government for enacting unconstitutional legislation in the absence of bad faith or an abuse of power ( <FRAGMENT_SUPPRESSED> at paras 78-80). I consider the Applicants' citation of
+RJR-Macdonald
+at para 61 to be apt:
+...it is appropriate to assume that the financial damage which will be suffered by an applicant following a refusal of relief, even though capable of quantification, constitutes irreparable harm.
+[89]
+Turning to the evidence, I agree with the Respondent that there is inadequate evidence to show that there will be an insufficient supply of marihuana under the MMPR. Mr. Cain details in his affidavit the steps that Health Canada has taken to forecast consumer demand and the various contingencies put in place to deal with a shortfall, including stockpiling marihuana and arranging for imports, if necessary. The Applicants' argument with regard to supply amount to nothing more than speculative assertions.
+[90]
+I am also not convinced that the Applicants have met their burden with regard to whether LPs will offer the particular strains necessary to meet their medical needs. While I am sympathetic to the trial and error approach to growing various strains that have apparently served the health interests of medical marihuana users, their affidavits do not provide sufficient evidence that the strains offered by the approved LPs thus far will be inappropriate for their medical needs. I agree with the Respondent that their claims amount to a speculative argument, albeit perhaps a well-founded one.
+[91]
+The Applicants also have failed to prove that the 150 gram personal possession limit imposed by the MMPR would constitute irreparable harm.
+[92]
+However, I find that the Applicants have provided sufficient evidence to show that they will be unable to afford marihuana produced by LPs as of March 31, 2014, and that this inability will likely affect either their health, endanger their liberty, or severely impoverish them.
+[93]
+All the Applicants save for Mr. Hebert gave evidence of their monthly income and the amount necessary to produce marihuana for their medical needs. I accept the evidence of the Applicants that they are producing marihuana at a cost of between $0.50 and $2.00 per gram, as well as the evidence of their monthly incomes. I find that under the MMAR, their cost of production in conjunction with their daily rate of consumption and their monthly income, allows them to live within their means.
+[94]
+The Applicants argue that they will be faced with typical costs somewhere between $8-12 per gram under the MMPR. Mr. Davey and Mr. Allard gave examples of how, at their daily rate of consumption, the cost of obtaining sufficient marihuana would exceed their current incomes. While Mr. Cain states that as of January 30, 2014, prices offered by LPs range from $5-$12 per gram, with some discounts offered to $3 per gram, I find the preponderance of the evidence shows that a price between $8 and $12 per gram will more realistically be the norm. Given this evidence, and the evidence of their monthly incomes, the cost to the Applicants of obtaining marihuana from an LP would exceed their incomes or consume an unacceptably large portion of it. I find that this would either leave them unable to legally access marihuana for medical purposes in accordance with their physician's authorization, or without the financial means to provide for themselves otherwise.
+[95]
+The Respondent argues that the Applicants' reliance on the LP prices is speculation. I do not agree. It is the only evidence available on what the price of marihuana from an LP will be as of March 31, 2014, and given its source I consider it to be reliable. The Respondent also argues that the evidence of Dr. Grootendorst establishes that the price of marihuana will decline over time as a result of increased competition and growth in the number of registered clients. This may well be. However, it is far from certain and it is a long-term forecast. Likewise, any argument that the government may at some point in the future develop a subsidy program to assist low-income users is mere conjecture. Indeed, it is telling that the government's own
+Regulatory Impact Analysis Statement
+for the MMPR acknowledges a substantial price impact on consumers of medical marihuana:
+The main economic cost associated with the MMPR will arise from the loss to consumers who may have to pay a higher price for dried marihuana. The analysis assumes a price increase from an estimated $1.80/g to $5.00/g in the status quo to about $7.60/g in 2014, rising to about $8.80/g, with a corresponding average annualized loss to consumers (in consumer surplus terms) due to higher prices of approximately -$166.1M per year for 10 years.
+[96]
+Given the difficulties in receiving damages in constitutional cases as described in <FRAGMENT_SUPPRESSED> and
+RJR-MacDonald
+and the findings of irreparable harm  <FRAGMENT_SUPPRESSED> , El-Timani
+and <FRAGMENT_SUPPRESSED> (FC and FCA), which were based on the effects of severe and immediate financial hardship to the applicants, I find that the Applicants in the instant motion would suffer irreparable harm that could not be remedied if this injunction were not granted.
+III.
+Does the Balance of Convenience lie with the Applicants?
+[97]
+As a preliminary matter, the balance of convenience test has often been cited in relation to the desirability of maintaining the status quo with respect to the issues underlying the conflict between the parties. However, this concept has less merit in the context of Charter cases, given that the purpose of Charter litigation is often to disrupt the status quo (
+RJR-MacDonald
+at para 75). Additionally, the fluidity of the status quo in many cases leads to imprecision in defining it at any point in time. This is evident in this case by the fact that both the Applicants and Respondents make arguments advocating that their respective versions of what constitutes the status quo deserve to be maintained. Accordingly, the notion of the status quo is not determinative in assessing the balance of convenience, though it does inform the selection of a remedy.
+[98]
+Rather, as per
+Metropolitan Stores
+at para 56, the court in constitutional cases should focus its balance of convenience analysis on what is in the public interest.
+RJR-MacDonald
+offers guidance at paras 65-66:
+65 Some general guidelines as to the methods to be used in assessing the balance of inconvenience were elaborated by Beetz J. in Metropolitan Stores. A few additional points may be made. It is the "polycentric" nature of the Charter which requires a consideration of the public interest in determining the balance of convenience: see Jamie Cassels, "An Inconvenient Balance: The Injunction as a Charter Remedy", in J. Berryman, ed., Remedies: Issues and Perspectives, 1991, 271, at pp. 301-5.
+However, the government does not have a monopoly on the public interest
+. As Cassels points out at p. 303:
+While it is of utmost importance to consider the public interest in the balance of convenience, the public interest in Charter litigation is not unequivocal or asymmetrical in the way suggested in Metropolitan Stores. The Attorney General is not the exclusive representative of a monolithic "public" in Charter disputes, nor does the applicant always represent only an individualized claim. Most often, the applicant can also claim to represent one vision of the "public interest". Similarly, the public interest may not always gravitate in favour of enforcement of existing legislation.
+66 It is, we think, appropriate that it be open to both parties in an interlocutory Charter proceeding to rely upon considerations of the public interest. Each party is entitled to make the court aware of the damage it might suffer prior to a decision on the merits. In addition, either the applicant or the respondent may tip the scales of convenience in its favour by demonstrating to the court a compelling public interest in the granting or refusal of the relief sought.
+"Public interest" includes both the concerns of society generally and the particular interests of identifiable groups.
+[99]
+ <FRAGMENT_SUPPRESSED> [
+Harper
+], clarifies and expands on
+RJR-MacDonald
+:
+Another principle set out in the cases is that in considering the grant of an interlocutory injunction suspending the operation of a validly enacted but challenged law, it is wrong to insist on proof that the law will produce a public good. Rather, at this stage of the proceeding, this is presumed. As Sopinka and Cory JJ. stated in
+ <FRAGMENT_SUPPRESSED> , at pp. 348-49:
+When the nature and declared purpose of legislation is to promote the public interest, a motions court should not be concerned whether the legislation actually has such an effect. It must be assumed to do so. In order to overcome the assumed benefit to the public interest arising from the continued application of the legislation, the applicant who relies on the public interest must demonstrate that the suspension of the legislation would itself provide a public benefit.
+The assumption of the public interest in enforcing the law weighs heavily in the balance. Courts will not lightly order that laws that Parliament or a legislature has duly enacted for the public good are inoperable in advance of complete constitutional review, which is always a complex and difficult matter.
+It follows that only in clear cases will interlocutory injunctions against the enforcement of a law on grounds of alleged unconstitutionality succeed.
+[100]
+It follows from the above guidance in
+Metropolitan Stores, RJR-MacDonald
+and
+Harper
+, that there is a strong presumption in favour of legislation enacted by Parliament being in the public interest, but that this presumption is rebuttable if the Applicants can show their injunctive relief would serve a public interest greater than that served by maintaining the challenged legislation. Furthermore, in conducting this analysis, it is not for the court on an interlocutory motion to assess the actual benefits of specific terms of the legislation (
+RJR-MacDonald
+at para 92;
+Harper
+at para 10).
+[101]
+The Applicants' position is that the Respondent has not offered any concrete evidence of anything more than a possible risk to the health and safety of the public if the full coming into force of the MMPR is delayed. In contrast, the Applicants argue that their position reflects the regulatory status quo, and that this warrants the balance of convenience lying with the Applicants ( <FRAGMENT_SUPPRESSED> (FC) at para 80).
+[102]
+Moreover, the Applicants also argue that the distinction between "suspension" of and "exemption" from regulations is not material. As  <FRAGMENT_SUPPRESSED> -MacDonald
+at para 33, it is argued that the distinction is irrelevant.
+[103]
+The Respondent replies that the public interest in ensuring the applicability and enforceability of validly enacted federal law weighs heavily in assessing the balance of convenience. Only in exceptional cases will interlocutory injunctions against the enforcement of a law on grounds of alleged unconstitutionality succeed (
+Harper
+at para 9). Courts should not order laws passed by a democratically-elected Parliament to be inoperable in advance of a complete constitutional review (
+Harper at para 9; RJR-MacDonald
+at para 48).
+[104]
+Further, the onus on the government to demonstrate harm to the public interest is less than what is required of a private applicant (
+RJR-MacDonald
+at paras 68, 71 and 80). When assessing the public interest, a court need not assess the actual benefits that would result from the specific terms of the legislation at issue at the motions stage; rather, the party challenging the legislation must prove a more compelling interest (
+RJR-MacDonald
+at para 92;
+Harper
+at para 9).
+[105]
+Moreover, the Respondent submits that the Minister of Health is charged with promoting and protecting the public interest, including public health and safety, and the MMPR was enacted pursuant to this duty. According to the Respondent, the Applicants' request for an injunction would harm the public interest in three ways:
+i. An Injunction Would Pose Serious Harms to the Public Interest
+[106]
+The Respondent criticizes the evidence of Dr. Boyd, arguing that it is selectively criticizes evidence which supports the Respondent and does not serve to undermine the extensive consultations conducted by Health Canada in creating this policy, which indicates that PPLs and DPLs have had substantial impacts on the lives of Canadians, nor does it undermine RCMP reports and Criminal Intelligence Briefs on the MMAR that are before this Court. Moreover, Cpl. Holmquist has given evidence based on his firsthand experience with grow operations in his role with the RCMP.
+[107]
+The Respondent notes six negative effects of the MMAR regime:
+(1) Diversion
+[108]
+Police investigations have revealed numerous criminal abuses of the MMAR program, including production over the legal limit, the production and trafficking of marihuana for personal gain by those with an ATP or PPL/DPL, and the exploitation of this scheme by organized crime. These issues have been highlighted by several law enforcement agencies.
+(2) Home Invasion and Theft
+[109]
+Those authorized to produce marihuana under the MMAR expose residents and their neighbours to the risk of violent grow-rips by criminals who become aware of the grow operations within. Grow-rips have occurred with increasing frequency; from two in 2007 to eighteen in 2010. Correspondence from the public speaks to the fear and stress of neighbours to individuals licensed to produce under the  <FRAGMENT_SUPPRESSED> Mr. Hitzig, who was authorized to produce marihuana, feared grow-rips himself.
+(3) Fires and Electrical Hazards
+[110]
+Evidence also demonstrates that MMAR grow operations are at a higher risk of fire than a residence without a marihuana grow operation, given that marihuana growing operations require high-powered lights. RCMP research from 2010 noted that the risk of fire was 24 times greater for a marihuana grow operation than for a regular home. Further, Cpl. Holmquist gave evidence that he has seen poor wiring and other fire hazards  <FRAGMENT_SUPPRESSED>  grow operations in the past.
+(4) Mold and Toxic Chemicals
+[111]
+The presence of marihuana grow operations in residential dwellings also increases the risk of mold due to improper ventilation and other chemical contamination in the home and surrounding neighbourhoods. This is supported by the RCMP reports as well as the evidence of Cpl. Holmquist's experience with grow operations.
+(5) Noxious Odours
+[112]
+Correspondence was received by Health Canada that criticizes the skunk-like odour emanating from some residences with grow operations.
+(6) Risks to Children
+[113]
+The RCMP reports that children may live in residences with grow-operations under the current MMAR scheme, and this situation increases access to the drug, potential exposure to illegal activities and the health and safety issues associated with that environment. This is also supported by the affidavit of Cpl. Holmquist.
+ii. An Injunction Would Divert Scarce Resources from the MMPR and other Health Canada Programs
+[114]
+The Respondent states that the fluidity of what constitutes the "status quo" suggests that it is a meaningless concept with regard to tipping the balance of convenience (
+ <FRAGMENT_SUPPRESSED> ). Regardless, the Respondent argues that the relief sought by the Applicants would have the effect of requiring Health Canada to hire new employees and otherwise expend resources, as its MMAR-related operations have been wound down. This would divert its resources away from other programs within the mandate of Health Canada.
+iii. An Injunction Would Negatively Impact the Newly Created Marketplace
+[115]
+The Respondent also notes that the preservation of the MMAR would reduce the size of the market for LPs because the pool of potential customers would be reduced. This could negatively affect the commercial viability of LPs and undermine the implementation of the MMPR.
+[116]
+Moreover, the Respondent states that the Applicants have not demonstrated that the public interest would be served by their injunction (
+RJR-MacDonald
+at para 80). In particular, they have not adduced any evidence to show how the public interest, as opposed to their individual interest, would be served by this court granting the relief sought.
+Analysis
+[117]
+The Applicants are representative of an identifiable group: medically-approved patients under the MMAR regime. I accept that this group reflects a public interest as was described in
+Parker
+at para 97: that patients should have legal access to medication reasonably required for the treatment of a medical condition. As discussed above, this group will be irreparably harmed by the effects of the MMPR. For the Respondent, the public interest is embodied by the strong presumption that the MMPR regime will increase individual and public health, safety, and security by reducing abuses and problems associated with the MMAR. This interest includes any negative impact an injunction would have on LPs by reducing the size of their market, and any expenditure necessitated by Health Canada as a result of this injunction.
+[118]
+Underlying these competing public interests is a more fundamental question, and one that is the basis for the precedent in
+Harper
+: the appropriate role of the court in ensuring the rule of law while respecting the role of Parliament to legislate in the public interest.
+[119]
+I find that the nature of the irreparable harm that the Applicants will suffer under the MMPR constitutes a "clear case," which outweighs the public interest in wholly maintaining the enacted regulations which are presumed to, among other things, increase the health, safety and security of the public. Likewise, while LPs may be impacted by a diminished customer base prior to a decision in this case being rendered, this evidence is speculative and there is no certainty in terms of time or effect for start-up businesses in a novel market.
+[120]
+Accordingly, I find that the balance of convenience lies with the Applicants, in the limited sense that they should have access to medical marihuana through the previous MMAR regime with respect to possession and production in terms that follow.
+[121]
+In coming to this conclusion on the balance the convenience, I have considered the nature of the remedy and its proportionality to the irreparable harm suffered by the Applicants. As agreed to by the parties, the period of time until trial is in the range of nine to twelve months, a limited and finite time, and the parties have indicated their amenability to scheduling a trial on the merits as early as possible. This will ensure a speedy resolution of the issues for both parties, and not unduly impact the viability of the MMPR scheme. Furthermore, in crafting the terms of this Order, I have considered the least drastic means available to protect the rights of the Applicants while preserving the will of Parliament.
+B.
+Given the Applicants meet the requirements for an interlocutory injunction, what is the appropriate relief to grant?
+I.
+Should the Applicants be granted either an interim constitutional exemption from the CDSA, or alternatively an interlocutory exemption/injunction preserving the MMAR, together with an Order in the nature of Mandamus to compel continuation of the program, pending trial?
+[122]
+The Applicants seek either a constitutional exemption from the provisions of section 4, 5 and 7 of the CDSA for all medically-approved patients and their growers and or an interim injunction preserving the provisions of the MMAR relating to personal production, possession, production location, and storage and suspending the conflicting provisions of the MMPR. In addition to either of these options, they seek a mandatory order in the nature of
+mandamus
+to compel the Respondent to continue processing licence applications under the MMAR scheme. While it is an issue for trial, the Applicants have not sought relief through this motion with respect to the fact that the form of marihuana in the MMPR and NCR is limited to "dried marihuana."
+[123]
+The Respondent's position is that the relief sought by the Applicants is inappropriate, as it would disrupt a transition process from the MMAR to the MMPR as enacted by the government, involve complex legislative redrafting, and usurp the role of Parliament in drafting legislation (
+ <FRAGMENT_SUPPRESSED> ).
+Analysis
+[124]
+The first form of relief requested by the Applicants is inappropriate. It would exempt medically-approved patients and their designates from the possession, trafficking, and possession for the purposes of production provisions in the CDSA without qualification. This is not the intent of the MMAR, which defined the circumstances under which medically-approved patients could possess and grow marihuana and in what quantities. The relief sought would grant them exemption from the provisions of the CDSA without limitation.
+[125]
+Likewise, I do not think that granting an order in the nature of
+mandamus
+is appropriate. While a mandatory order may be more appropriate in an interim setting than declaratory relief, a mandatory order can be imprecise. Furthermore, it is assumed that the government will carry out their duties in a manner consistent with the law, however the law may be impacted by a court order.
+[126]
+In effect, the Applicants seek the regulatory scheme as it was under the MMAR and do not object to the provisions of the MMPR that relate to private growers. The way in which this can be accomplished in a manner least intrusive to the legislative sphere is to exempt those who currently hold a valid ATP, who held a valid DPL or PPL as of September 30, 2013, or hold a valid amended or new DPL or PPL that was issued after September 30, 2013, from the repeal of the MMAR and any provisions of the MMPR which are inconsistent with the relevant provisions of the MMAR, pending an expeditious trial and a decision of this case on its merits.
+[127]
+In other words, those individuals who are authorized to possess or produce marihuana, as of the relevant dates, may continue to do after March 31, 2014, until their constitutional rights with respect to the MMPR are decided at trial.
+[128]
+The terms by which these individuals are so authorized to produce or possess dried marihuana are the terms authorized by their licence, notwithstanding its date of expiry, except that the 150 gram personal possession limit as imposed by section 5(c) of the MMPR shall apply with respect to applicable licences, as I was unconvinced that the Applicants would suffer irreparable harm as a result of the imposition of this limit until trial.
+[129]
+I am cognizant that this remedy may, for a limited period of time, have an affect on the size of the market available for LPs. However, this remedy is short in duration, and as such I am convinced that it will not unduly affect the regulations passed by Parliament, while protecting the rights of the Applicants.
+II.
+Ought the Applicants be exempt from the undertaking requirement in subsection 373(2) of the Rules?
+[130]
+The Applicants also request an order that they not be bound to the undertaking requirement in section 373(2) of the Rules, on the grounds that they are of modest financial means and bring this motion on a matter of public interest.
+[131]
+I think the Applicants ought not to be forced to sign an undertaking with respect to damages in the event they succeed on this motion yet are unsuccessful at trial. While an undertaking in Charter cases was held to be an important consideration in the balance of convenience test in
+ <FRAGMENT_SUPPRESSED>  I do not believe that it would be appropriate to require an undertaking in this case.
+ORDER
+[132]
+THIS COURT ORDERS that
+1. The Applicants who, as of the date of this Order, hold a valid Authorization to Possess pursuant to section 11 of the
+Marihuana Medical Access Regulations,
+are exempt from the repeal of the
+Marihuana Medical Access Regulations
+and any other operation of the
+Marihuana for Medical Purposes Regulations
+which are inconsistent with the operation of the
+Marihuana Medical Access Regulations,
+to the extent that such an Authorization to Possess shall remain valid until such time as a decision in this case is rendered and subject to the terms in paragraph 2 of this Order;
+2. The terms of the exemption for the Applicants holding a valid Authorization to Possess pursuant to section 11 of the
+Marihuana Medical Access Regulations
+shall be in accordance with the terms of the valid Authorization to Possess held by that Applicant as of the date of this Order, notwithstanding the expiry date stated on that Authorization to Possess, except that the maximum quantity of dried marihuana authorized for possession shall be that which is specified by their licence or 150 grams, whichever is less;
+3. The Applicants who held, as of September 30, 2013, or were issued thereafter a valid Personal-use Production Licence pursuant to section 24 of the
+Marihuana Medical Access Regulations
+, or a Designated-person Production Licence pursuant to section 34 of the
+Marihuana Medical Access Regulations
+, are exempt from the repeal of the
+Marihuana Medical Access Regulations
+and any other operation of the
+Marihuana for Medical Purposes Regulations
+which is inconsistent with the operation of the
+Marihuana Medical Access Regulations,
+to the extent that the Designated-person Production Licence or Personal-use Production Licence held by the Applicant shall remain valid until such time as a decision in this case is rendered at trial and subject to the terms of paragraph 4 of this Order;
+4. The terms of the exemption for an Applicant who held, as of September 30, 2013, or was issued thereafter a valid Personal-use Production Licence pursuant to section 24 of the
+Marihuana Medical Access Regulations
+or a Designated-person Production Licence pursuant to section 34 of the
+Marihuana Medical Access Regulations,
+shall be in accordance with the terms of their licence, notwithstanding the expiry date stated on that licence;
+5. Scheduling directions shall be issued after consultation with counsel for the parties with the view of fixing a trial date as soon as practicable;
+6. The Applicants are not bound by an undertaking pursuant to r 373(2) of the
+Federal Court Rules;
+and
+7. The parties shall bear their own costs.
+Order accordingly.
+Editor: Gary W. McLaughlin/vnh
+ANNEX A: RELEVANT LEGISLATION
+Canadian Charter of Rights and Freedoms,
+Part 1 of th
+e Constitution Act, 1982
+, being Schedule B to the
+Canada Act 1982
+(UK), 1982, c 11
+7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+Marihuana for Medical Access Regulations
+, SOR/2001-227
+11. (1) Subject to section 12, if the requirements of sections 4 to 10 are met, the Minister shall issue to the applicant an authorization to possess for the medical purpose mentioned in the application, and shall provide notice of the authorization to the medical practitioner who made the medical declaration under paragraph 4(2)(b).
+(2) The authorization shall indicate
+(a) the name, date of birth and gender of the holder of the authorization;
+(b) the full address of the place where the holder ordinarily resides;
+(c) the authorization number;
+(d) the name of the medical practitioner who made the medical declaration under paragraph 4(2)(b);
+(e) the maximum quantity of dried marihuana, in grams, that the holder may possess at any time;
+(f) the date of issue;
+(g) the date of expiry; and
+(h) the reference date referred to in section 13.1.
+(3) The maximum quantity of dried marihuana referred to in paragraph (2)(e) or resulting from an amendment under subsection 20(1) is the amount determined according to the following formula:
+A × 30
+where A
+is the daily amount of dried marihuana, in grams, stated under paragraph 6(1)(c) or subparagraph 19(2)(d)(i), whichever applies.
+24. The holder of a personal-use production licence is authorized to produce and keep marihuana, in accordance with the licence, for the medical purpose of the holder.
+25. (1) Subject to subsection (2), a person is eligible to be issued a personal-use production licence only if the person is an individual who ordinarily resides in Canada and who has reached 18 years of age.
+(2) If a personal-use production licence is revoked under paragraph 63(2)(
+b
+), the person who was the holder of the licence is ineligible to be issued another personal-use production licence during the period of 10 years after the revocation, SOR/2007-207, s. 4(E).
+40. (1) Subject to section 41, if the requirements of sections 37 to 39 are met, the Minister shall issue a designated-person production licence to the designated person.
+(2) The licence shall indicate
+(a) the name, date of birth and gender of the holder of the licence;
+(b) the name, date of birth and gender of the person for whom the holder of the licence is authorized to produce marihuana and the full address of that person's place of ordinary residence;
+(c) the full address of the place where the holder of the licence ordinarily resides;
+(d) the licence number;
+(e) the full address of the site where the production of marihuana is authorized;
+(f) the authorized production area;
+(g) the maximum number of marihuana plants that may be under production at the production site at any time;
+(h) the full address of the site where the dried marihuana may be kept;
+(i) the maximum quantity of dried marihuana, in grams, that may be kept at the site authorized under paragraph (h) at any time;
+(j) the date of issue; and
+(k) the date of expiry.
+34. (1) The holder of a designated-person production licence is authorized, in accordance with the licence,
+(a) to produce marihuana for the medical purpose of the person who applied for the licence;
+(b) to possess and keep, for the purpose mentioned in paragraph (a), a quantity of dried marihuana not exceeding the maximum quantity specified in the licence;
+(c) if the production site specified in the licence is different from the site where dried marihuana may be kept, to transport directly from the first to the second site a quantity of dried marihuana not exceeding the maximum quantity that may be kept under the licence;
+(d) subject to subsection (1.1), if the site specified in the licence where dried marihuana may be kept is different from the place where the person who applied for the licence ordinarily resides, to send or transport directly from that site to the place of residence a quantity of dried marihuana not exceeding the maximum quantity specified in the authorization to possess on the basis of which the licence was issued; and
+(e) to provide or deliver to the person who applied for the licence a quantity of dried marihuana not exceeding the maximum quantity specified in the authorization to possess on the basis of which the licence was issued.
+(1.1) A holder of a designated-person production licence sending dried marihuana under paragraph (1)(d) shall
+(a) securely pack the marihuana in a package that
+(i) will not open or permit the escape of its contents during handling and transportation,
+(ii) is sealed so that the package cannot be opened without the seal being broken,
+(iii) prevents the escape of odour associated with the marihuana, and
+(iv) prevents the contents from being identified without the package being opened; and
+(b) use a method of sending that involves
+(i) a means of tracking the package during transit,
+(ii) obtaining a signed acknowledgment of receipt, and
+(iii) safekeeping of the package during transit.
+53. If the production area for a licence to produce permits the production of marihuana entirely outdoors or partly indoors and partly outdoors, the holder shall not produce marihuana outdoors if the production site is adjacent to a school, public playground, day care facility or other public place frequented mainly by persons under 18 years of age.
+Narcotic Control Regulations,
+CRC, c 1041
+53. (1) No practitioner shall administer a narcotic to a person or animal, or prescribe, sell or provide a narcotic for a person or animal, except as authorized under this section, the
+Marihuana Medical Access Regulations
+or the
+Marihuana for Medical Purposes Regulations
+.
+(2) Subject to subsections (3) and (4), a practitioner may administer a narcotic other than dried marihuana to a person or animal, or prescribe, sell or provide it for a person or animal, if
+(a) the person or animal is a patient under their professional treatment; and
+(b) the narcotic is required for the condition for which the person or animal is receiving treatment.
+(3) No practitioner shall administer methadone to a person or animal, or prescribe, sell or provide methadone for a person or animal, unless the practitioner is exempted under section 56 of the Act with respect to methadone.
+(4) A practitioner of medicine, dentistry or veterinary medicine shall not administer diacetylmorphine (heroin) to an animal or to a person who is not an in-patient or out-patient of a hospital providing care or treatment to persons, and shall not prescribe, sell or provide diacetylmorphine (heroin) for an animal or such a person.
+(5) A health care practitioner may administer dried marihuana to a person or prescribe or transfer it for a person if
+(a) the person is a patient under their professional treatment; and
+(b) the dried marihuana is required for the condition for which the person is receiving treatment
+Marihuana for Medical Purposes Regulations
+, SOR/2013-119
+3(2) The following persons may possess dried marihuana:
+(a) a person who has obtained the dried marihuana for their own medical purposes or for those of another person for whom they are responsible
+(i) from a licensed producer, in accordance with a medical document,
+(ii) from a health care practitioner in the course of treatment for a medical condition, or
+(iii) from a hospital, under subsection 65(2.1) of the
+Narcotic Control Regulations
+;
+(b) a person who requires dried marihuana for the practice of their profession as a health care practitioner in the province in which they have that possession; or
+(c) a hospital employee, if they possess the dried marihuana for the purposes of and in connection with their employment.
+5. An individual who obtains dried marihuana for their own medical purposes or for those of another individual for whom they are responsible must not possess a quantity of dried marihuana that exceeds the least of the following amounts:
+(a) in the case of dried marihuana obtained from a licensed producer, 30 times the daily quantity referred to in paragraph 129(1)(d);
+(b) in the case of dried marihuana obtained from a hospital by or for an out-patient, 30 times the daily quantity referred to in subparagraph 65.2(c)(iii) of the
+Narcotic Control Regulations
+; and
+(c) 150 g.
+12. (1) Subject to subsections (2) to (7) and to the other provisions of these Regulations, a licensed producer may
+(a) possess, produce, sell, provide, ship, deliver, transport and destroy marihuana;
+(b) possess and produce cannabis, other than marihuana, solely for the purpose of conducting in vitro testing that is necessary to determine the percentages of cannabinoids in dried marihuana; and
+(c) sell, provide, ship, deliver, transport and destroy cannabis, other than marihuana, that was obtained or produced solely for the purpose of conducting the in vitro testing referred to in paragraph (b).
+13. A licensed producer must not conduct any activity referred to in section 12 at a dwelling place.
+14. A licensed producer must produce, package or label marihuana only indoors and at the producer's site.
+ANNEX B: PROVISIONS AT ISSUE
+MMPR Provision
+Section of MMAR changed
+Effect
+230
+5(1)(e) of the MMAR
+Section 230 changes paragraph 5(1)(e) of the MMAR to reflect the fact that new PPLs/DPLs will not be issued after September 30, 2013.
+233
+21(2) of the MMAR
+Section 233 changes subsection 21(2) of the MMAR to reflect the fact that new PPLs/DPLs will not be issued after September 30, 2013.
+234
+26(1) of the MMAR
+Section 234 changes subsection 26(1) of the MMAR to reflect the fact that no applications for PPLs will be accepted after September 30, 2013.
+237
+36(1) of the MMAR
+Section 237 changes subsection 36(1) of the MMAR to reflect the fact that no applications for DPLs will be accepted after September 30, 2013.
+238
+41 of the MMAR
+Section 238 changes subsection 41 to reflect the fact that the a DPL will be refused by the Minister if it is submitted after September 30, 2013.
+240
+45 of MMAR
+Section 240 changes section 45 of the MMAR to introduce new provisions which relate to the circumstances under which a PPL or DPL are renewed, with reference to the September 30, 2013 deadline.
+241
+45 of the MMAR
+Section 241 adds additional provisions to section 45 of the MMAR which specify that the location of a production site cannot be changed after December 15, 2013, and only under specific circumstances.
+242
+46 of the MMAR
+Section 242 changes section 46 of the MMAR to reflect the fact that a change in location of the production site will not be granted unless the request is filed on or before September 30, 2013.
+243
+47 and 48 of the MMAR
+Section 243 changes sections 47 and 48 of the MMAR to reflect the fact that the government shall not change the location of a production site, regardless of when it was submitted.

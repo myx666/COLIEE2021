@@ -1,0 +1,128 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Barnes, J.
+August 2, 2007.
+Counsel:
+Roderick Rogers, for the applicant;
+Melissa Cameron, for the respondent.
+Solicitors of Record:
+Stewart McKelvey, Halifax, Nova Scotia, for the applicant;
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Barnes, J.
+: This is an application for judicial review from a decision made in the Immigration Section of the Canadian Embassy in Seoul, Korea, denying a permanent resident visa to the Applicant, Hee Han Lee, his spouse, Hyun Sub Shim, and two of his three children. The basis of this decision was that Mr. Lee's non-accompanying child, Dong Jun Lee, was medically inadmissible to Canada thereby rendering the family inadmissible.
+Background
+[2]
+The Lee family applied to become permanent residents in 2004. They intended to settle in Prince Edward Island and were assessed and selected by the Government of Prince Edward Island as provincial nominees under section 87 of the
+Immigration and Refugee Protection Regulations,
+SOR/2002-227 (Regulations). It is clear from the record that it was always the intention of the Lees not to include their eldest son, Dong Jun Lee, in their application for permanent residency. Dong Jun is presently 33 years old and is wholly disabled. The medical evidence indicates that he has an atypical form of cerebral palsy which cannot be treated. His condition has progressively worsened over time so that today he cannot speak, walk, write or communicate. He is totally dependant upon others for all of his personal needs and, since about 1996, he has been under the care of the Saint Cross Center, which is a Catholic welfare agency in Korea. There is no question that Dong Jun would not be admissible to Canada under section 38(1) and section 42 of the
+Immigration Refugee and Protection Act,
+S.C. 2001, c.27 (IRPA).
+[3]
+The problem for the family is that under section 42(a) of the IRPA the inadmissibility of Dong Jun renders them
+prima facie
+inadmissible. This provision is clearly intended, in part, to prevent a person from gaining entry to Canada and then sponsoring an otherwise inadmissible family member whose care needs would place an excessive demand on Canadian health care or social services.
+[4]
+The family was, thus, left in a catch-22 situation where they are barred from entry to Canada because of an inadmissible child who was not included in their application for permanent residency and who will remain behind in Korea. This problem probably could have been avoided if the Visa Officer had not required Dong Jun to be examined against the wishes of his family and, certainly, there does appear to be some discretion to waive the examination requirement on an informed basis in appropriate cases. The family seems to have been well aware of the legal implications of this medical examination and sought unsuccessfully to avoid it. If the family wishes had been respected, the legal effect would have been to bar any later attempt to sponsor Dong Jun for entry to Canada as a dependent child: see section 117(9), (10) and (11) of the Regulations.
+[5]
+When the issue of inadmissibility was raised by the Visa Officer, the family made arrangements for Dong Jun to be adopted by his aunt and it appears from the record that a legal adoption was completed. However, when the family brought this information to the attention of the Visa Officer, the adoption was found not to be genuine and the family was ruled inadmissible. Needless to say this regrettable situation was seemingly unnecessary and the rather zealous application of procedure appears not to have advanced the legislative purpose of section 42 of the IRPA.
+[6]
+It is from the decision to deny entry to Mr. Lee and his family that this application for judicial review arises.
+The Decision Under Review
+[7]
+The decision to refuse a permanent resident visa to Mr. Lee is contained in a letter dated June 8, 2006 sent from the Canadian Embassy in Seoul, Korea. The relevant passages from that letter are follows:
+Pursuant to subsection 38(1) of the Immigration and Refugee Protection Act, your family member, Dong Jun LEE, is a person whose health condition Mental Retardation - Unspecified might reasonably be expected to cause excessive demand on health or social services. The regulatory definitions of these terms are attached. As a result, your family member is inadmissible to Canada on health grounds.
+Our letter of March 23, 2006 invited you to provide additional information or documents in response to the preliminary assessment. Your materials were received on 22 May 2006 and were carefully considered but did not change this assessment of your family member's health condition, which has now become final. In addition, I am not satisfied that this is a genuine adoption considering the age of your son and facts of the case. You have decided to put your son for adoption to avoid this inadmissibility and I have concluded that this is an adoption of convenience.
+Subsection 42(a) of the Act states that a foreign national, other than a protected person, is inadmissible on grounds of an inadmissible family member if their accompanying family member or, in prescribed circumstances, their non-accompanying family member is inadmissible. Your accompanying [sic] family member is inadmissible to Canada. As a result, you and your other family members are also inadmissible.
+It is accepted by both parties that the above reference to "accompanying" family member was a typographical error and should have read "non-accompanying".
+[8]
+The Visa Officer's supporting CAIPS notes contain the following cryptic rationale for the decision:
+After sending our concern letter, PI then decide to give son for adoption. Son given for "adoption" by aunt - is 32 years old.
+I am not/not satisfied that this is a genuine adoption based on the facts of the case and that this is to avoid refusal of application.
+Refused for medical inadmissibility.
+Issues
+[9]
+(a) What is the appropriate standard of review for the issues raised by the Applicant?
+(b) Does the decision to deny a visa to the Applicant evidence a reviewable error?
+Analysis
+[10]
+I accept that the standard of review for decisions taken by visa officers will vary from case to case according to the nature of the issues under review. Here I would adopt the analysis by my colleague Justice Yves de Montigny in
+ <FRAGMENT_SUPPRESSED>  [2005] F.C.J. No. 592, where he held:
+18 Opinion on the appropriate standard of review for decisions by visa officers is divided and appears to have spawned seemingly contradictory decisions. In some cases, reasonableness
+simpliciter
+was the chosen standard (see, inter alia,
+ <FRAGMENT_SUPPRESSED>  And yet, on closer inspection, these decisions are not irreconcilable. The reason for the different choices is essentially that the nature of the decision under review by this Court depends on the context. Thus it goes without saying that the appropriate standard of review for a discretionary decision by a visa officer assessing a prospective immigrant's occupational experience is patent unreasonableness. Where the visa officer's decision is based on an assessment of the facts, this Court will not intervene unless it can be shown that the decision is based on an erroneous finding of fact made in a perverse or capricious manner.
+20 However, it is not the same for a decision by a visa officer involving an application of general principles under an Act or Regulations to specific circumstances. Where the decision is based on a question of mixed law and fact, the Court will show less deference and seek to ensure that the decision is quite simply reasonable. [...]
+[11]
+The determinative issues in this case are ones of mixed fact and law. They are, however, primarily concerned with the application of statutory and regulatory provisions to factual circumstances that are largely undisputed. In the result, I have concluded that the appropriate standard of review for the issues in this case is reasonableness
+simpliciter
+.
+[12]
+In order to assess the reasonableness of the decision taken, it is necessary to review the statutory and regulatory framework within which it was made. The decision letter refers to section 42(a) of the IRPA which states:
+42. A foreign national, other than a protected person, is inadmissible on grounds of an inadmissible family member if
+(a) their accompanying family member or,
+in prescribed circumstances
+, their non-accompanying family member is inadmissible; [Emphasis added]
+42. Emportent, sauf pour le résident permanent ou une personne protégée, interdiction de territoire pour inadmissibilité familiale les faits suivants:
+a) l'interdiction de territoire frappant tout membre de sa famille qui l'accompagne ou qui,
+dans les cas réglementaires
+, ne l'accompagne pas; [non souligné dans l'original]
+Here Dong Jun was always designated as a non-accompanying family member and, in the result, section 23 of the Regulations sets out the prescribed circumstances which determine whether his disability rendered his family inadmissible. That regulatory provision provides:
+23.
+For the purposes of paragraph 42(a) of the Act, the prescribed circumstances in which the foreign national is inadmissible on grounds of an inadmissible non-accompanying family member are that
+(a) the foreign national has made an application for a permanent resident visa or to remain in Canada as a permanent resident; and
+(b)
+the non-accompanying family member is
+(i) the spouse of the foreign national, except where the relationship between the spouse and foreign national has broken down in law or in fact,
+(ii) the common-law partner of the foreign national,
+(iii)
+a dependent child of the foreign national and either the foreign national or an accompanying family member of the foreign national has custody of that child or is empowered to act on behalf of that child by virtue of a court order or written agreement or by operation of law, or
+(iv) a dependent child of a dependent child of the foreign national and the foreign national, a dependent child of the foreign national or any other accompanying family member of the foreign national has custody of that child or is empowered to act on behalf of that child by virtue of a court order or written agreement or by operation of law. [Emphasis added]
+23.
+Pour l'application de l'alinéa 42a) de la Loi, l'interdiction de territoire frappant le membre de la famille de l'étranger qui ne l'accompagne pas emporte interdiction de territoire de l'étranger pour inadmissibilité familiale si :
+a) l'étranger a fait une demande de visa de résident permanent ou de séjour au Canada à titre de résident permanent;
+b)
+le membre de la famille en cause est, selon le cas:
+(i) l'époux de l'étranger, sauf si la relation entre celui-ci et l'étranger est terminée, en droit ou en fait,
+(ii) le conjoint de fait de l'étranger,
+(iii)
+l'enfant à charge de l'étranger, pourvu que celui-ci ou un membre de la famille qui accompagne celui-ci en ait la garde ou soit habilité à agir en son nom en vertu d'une ordonnance judiciaire ou d'un accord écrit ou par l'effet de la loi,
+(iv) l'enfant à charge d'un enfant à charge de l'étranger, pourvu que celui-ci, un enfant à charge de celui-ci ou un autre membre de la famille qui accompagne celui-ci en ait la garde ou soit habilité à agir en son nom en vertu d'une ordonnance judiciaire ou d'un accord écrit ou par l'effet de la loi. [non souligné dans l'original]
+The other relevant regulatory provision is section 4 which deals with the issue of bad faith adoptions and marriages as follows:
+4. For the purposes of these Regulations, a foreign national shall not be considered a spouse, a common-law partner, a conjugal partner or an adopted child of a person if the marriage, common-law partnership, conjugal partnership or adoption is not genuine and was entered into primarily for the purpose of acquiring any status or privilege under the Act.
+4. Pour l'application du présent règlement, l'étranger n'est pas considéré comme étant l'époux, le conjoint de fait, le partenaire conjugal ou l'enfant adoptif d'une personne si le mariage, la relation des conjoints de fait ou des partenaires conjugaux ou l'adoption n'est pas authentique et vise principalement l'acquisition d'un statut ou d'un privilège aux termes de la Loi.
+[13]
+It is apparent from the decision rendered in this case that the Visa Officer found the adoption of Dong Jun by his Korean aunt not to be genuine. Presumably this decision was made under section 4 of the Regulations. I accept the Respondent's submission that this provision applies broadly to all adoption relationships under the IRPA and it could, therefore, be appropriately considered in conjunction with the factors prescribed by section 23 of the Regulations. For this point I adopt the analysis of my colleagues in
+ <FRAGMENT_SUPPRESSED>  [2006] F.C.J. No. 385 and in
+ <FRAGMENT_SUPPRESSED>  [2004] F.C.J. No. 2167 where the relevance of section 4 to the circumstances of this and like cases was confirmed. I do not accept that section 4 displaces or overrides the application of section 23 and it is, therefore, necessary to consider both provisions in deciding whether section 42 acts as a bar to entry.
+[14]
+Even though section 4 has potential application to any adoption reviewable under the IRPA, it must still be applied correctly. That provision sets out a conjunctive test for determining whether an adoption is
+bona fide
+. It requires a finding that the adoption was entered into primarily for the purpose of acquiring status or privilege under the Act
+and
+a finding that the adoption was not genuine. The first part of this test was readily apparent because the record discloses that the adoption of Dong Jun was carried out to enhance his family's application for landing. There is nothing inherently objectionable about taking such a step with a view to improving an application for landing provided that the process is carried out openly and that it is a genuine adoption. Here, the Respondent took a very rigorous approach to Mr. Lee's application and he, in turn, looked for a way to attain his objective of bringing his family - excepting Dong Jun - to Canada. Nothing was concealed from the Respondent including the motive for the adoption.
+[15]
+The brevity of the Visa Officer's decision makes it very difficult to know what he took into account in applying section 4 to Mr. Lee's application. That this was an adoption of convenience is clear enough; but the Officer's conclusion that it was not "genuine" is supported only by the observation that Dong Jun was 32 years old. In the circumstances of an institutionalized and wholly disabled person, age would seem to be a marginally relevant consideration. Of far more significance would be the circumstances of Dong Jun's
+de facto
+care and custodial arrangements, the details of his relationship with his adoptive aunt, and the legality of the adoption. There is nothing in the Visa Officer's file notes to indicate that such matters were considered and it is of some additional significance that he did not follow the Departmental Guideline (OP 3, section 7.8) which stipulates that such notes should "clearly explain" the rationale for such decisions. That directive also recommends an interview in cases involving a concern about the genuineness of an adoption. Certainly there is nothing in the record to indicate that Mr. Lee was ever informed about the Visa Officer's concern and given an opportunity to respond. Whether that failure constitutes a breach of the duty of fairness as in the case of
+ <FRAGMENT_SUPPRESSED>  [2005] F.C.J. No. 1688, I need not answer in this case, but it is a factor to be considered in determining whether the decision stands up to scrutiny on judicial review.
+[16]
+Of greater concern to me is the failure by the Visa Officer to expressly consider the legal significance of section 23 of the Regulations. Whether or not Dong Jun's adoption met the requirements of section 4 does not determine whether his family was, nevertheless, admissible to Canada because valid and alternate custodial arrangements had been made for him in Korea. Presumably, the family could have achieved their intended result by obtaining an appropriate Court order of guardianship or by entering into a binding custodial arrangement in favour of Dong Jun's adoptive aunt.
+[17]
+Section 23 was clearly intended to obviate the kind of problem encountered here where a child is left behind in the lawful custodial care of another person. I am not satisfied from the content of the decision rendered here that the Visa Officer considered the implications of section 23 and, in particular, whether the custodial arrangements for Dong Jun in Korea were legally sufficient to avoid the application of that provision. Such an analysis requires more than a consideration of the legality or purpose of an adoption - although if this adoption was legal in Korea, that alone would probably be sufficient to avoid the application of section 23 regardless of the purpose of the adoption. That is so because if the care and custody of Dong Jun had passed from his parents to his aunt or, indeed, to the institution where he lives, the prescribed circumstances of inadmissibility for his family would not be met. Indeed, it is somewhat odd that the Department refused to accept this arrangement at face value because any later attempt by the family to assert its invalidity for immigration purposes would almost certainly give rise to an effective estoppel in law.
+[18]
+Given the failure by the Visa Officer to clearly articulate the statutory and regulatory provisions which he was bound to apply to this application and considering the paucity of factual support for his conclusion, I have concluded that this decision is unreasonable and cannot stand.
+[19]
+This matter shall be remitted to a different decision-maker for a redetermination on the merits. Given the passage of time, it is expected that Mr. Lee will be afforded the opportunity to update his application with additional evidence bearing on the issue of admissibility.
+[20]
+The Respondent shall have 7 days from the date of this Judgment to propose a certified question and the Applicant will have 3 days thereafter to respond.
+JUDGMENT
+[21]
+THIS COURT ADJUDGES that
+this application is allowed with the matter to be remitted for reconsideration on the merits by a different decision-maker.
+[22]
+THIS COURT ADJUDGES that
+the Respondent shall have 7 days from the date of this Judgment to propose a certified question and the Applicant shall have 3 days thereafter to respond.
+[End of document]

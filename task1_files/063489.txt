@@ -1,0 +1,595 @@
+[1]
+O'Keefe, J.
+: This is an appeal under section 56 of the
+Trade-Marks Act
+, RSC 1985, c T-13 (the Act) from a decision of a hearing officer of the Registrar of Trade-marks (the officer) dated December 23, 2010, rejecting the Canadian Council of Professional Engineers' opposition to the respondent's application No. 1,220,370 for the trade-mark KELLY ENGINEERING RESOURCES (the trade-mark). This conclusion was based on the officer's finding that all the appellant's grounds of opposition to the trade-mark failed.
+[2]
+In its notice of application, the Canadian Council of Professional Engineers sought the following relief:
+1. An order on appeal, pursuant to section 56 of the
+Trade-marks Act
+, setting aside the decision of the Registrar of Trade-marks in which the Canadian Council of Professional Engineers' opposition to application No. 1,220,370 was rejected;
+2. Canadian Council of Professional Engineers' costs of this application; and
+3. Such further and other relief as to this Honourable Court may seem just.
+[3]
+In its memorandum of fact and law, the Canadian Council of Professional Engineers requested the following relief:
+1. A declaration that the Registrar of Trade-marks erred in rejecting the Canadian Council of Professional Engineers' opposition to application No. 1,220,370 for the trade-mark KELLY ENGINEERING RESOURCES;
+2. An order reversing the decision of the Registrar of Trade-marks and holding that the trade-mark KELLY ENGINEERING RESOURCES was not used in Canada as of the date of first use claimed in the trade-mark application, that Kelly Properties, LLC has not established a valid claim under section 14 of the
+Trade-marks Act
+, that the subject trade-mark is deceptively misdescriptive and is thus not registrable, and that the trade-mark KELLY ENGINEERING RESOURCES was not distinctive of Kelly Properties, LLC's services as of the material date;
+3. An order refusing trade-mark application No. 1,220,370 for the trade-mark KELLY ENGINEERING RESOURCES; and
+4. The costs of this application.
+Background
+[4]
+The appellant in this appeal is the Canadian Council of Professional Engineers (CCPE, appellant or applicant). CCPE represents the provincial and territorial associations of professional engineers (the constituent associations) that have legislative authority to license engineers and regulate the profession of engineering in Canada. In eleven of these jurisdictions, corporations engaged in the provision of engineering services must also be licensed (through certificates or permits).
+[5]
+On behalf of the constituent associations, the appellant opposes trade-mark applications that include the designation engineering by persons or corporations not qualified to engage in the practice of engineering. The appellant assumes this role to prevent the use of a name, title, description or designation that may lead the public to believe that the trade-mark owner is qualified or entitled to engage in the practice of engineering in Canada when they are not so qualified or entitled, thereby protecting public safety and welfare.
+[6]
+The respondent, Kelly Properties LLC, is a wholly owned subsidiary of Kelly Services. Kelly Services is an American company that provides personnel employment services. To address specialized staffing needs, the respondent has created divisions directed towards specific employment lines which aims to provide companies with "qualified engineers, designers, drafters and technicians", hence, the trade-mark at issue here. The respondent is not registered to engage in the practice of engineering in any Canadian jurisdiction.
+[7]
+The parties in this application have previously been before the Trade-marks Opposition Board (TMOB) with regards to the same trade-mark (see
+ <FRAGMENT_SUPPRESSED>  37 CPR (4th) 537). That case pertained to the respondent's January 1999 application to register the trade-mark based on proposed use in Canada. CCPE opposed the application under sections 10 and 30, subparagraph 9(1)(n)(iii) and paragraphs 12(1)(a) and 12(1)(b) of the Act. The TMOB denied these grounds of opposition but nevertheless found that the trade-mark was not distinctive. The decision was not appealed and the trade-mark was therefore not registered.
+[8]
+On June 15, 2004, the respondent filed a new application to register its trade-mark based on use in Canada since April 1999 and use and registration in the United States. The services associated with the trade-mark were defined as follows (the listed services):
+Personnel employment services, namely providing temporary, temporary to full-time, and full-time employees having specialized technical skills, education and/or training.
+[9]
+On December 6, 2005, the respondent amended its application to also include a basis of registration under section 14 of the Act (collectively referred to herein as the application).
+[10]
+The application was advertised in the Trade-marks Journal on December 29, 2004. On February 24, 2005, the appellant filed a statement of opposition against the application. On December 21, 2007, the appellant applied to amend its statement of opposition to include a ground of opposition under subsection 30(b) of the Act. The application was accepted on March 10, 2008.
+[11]
+Collectively, the appellant's grounds of opposition are summarized as follows. The trade-mark is:
+- not compliant with subsection 30(i) of the Act;
+- not compliant with subsection 30(b) of the Act as it was not used in Canada in association with the listed services as of the claimed date of first use;
+- not registrable under paragraph 12(1)(b) of the Act as it is clearly descriptive or deceptively misdescriptive;
+- not registrable under section 14 of the Act as it is without distinctive character, is contrary to public order and is of such a nature as to deceive the public;
+- not registrable and prohibited by paragraph 12(1)(e) and section 10 of the Act; and
+- not distinctive under paragraph 38(2)(d) and section 2 of the Act.
+[12]
+The respondent filed a counter statement on April 6, 2005 and an amended counter statement on January 16, 2009.
+Officer's Decision
+[13]
+The officer issued her decision on December 23, 2010.
+[14]
+After briefly introducing the timeline of the parties' submissions and the grounds of opposition, the officer addressed the parties' evidentiary burden. She noted that the initial evidentiary burden is on the opponent (the appellant in this appeal) to adduce sufficient admissible evidence from which it can reasonably be concluded that the facts alleged exist to support each ground of opposition. Once that burden is met, it shifts to the trade-mark applicant (the respondent in this appeal) who must prove on a balance of probabilities that the grounds of opposition should not prevent the registration of its trade-mark.
+[15]
+For this application, the officer listed the following material dates:
+Date of filing of the application for compliance with paragraph 12(1)(b) and subsection 30(i) of the Act: June 15, 2004;
+Date of first use claimed in the application for compliance with subsection 30(b) of the Act: April 1999;
+Date of the decision for compliance with paragraph 12(1)(e) and for the issue of availability of section 14 of the Act: December 23, 2010;
+Date of filing of the statement of opposition for the ground of non-distinctiveness: March 10, 2005.
+Review of Evidence
+[16]
+The officer then summarized and made some observations on the affidavits filed by the two parties. Beginning with the appellant's evidence, the officer noted the respondent's objection to much of the evidence contained in affidavit No. 2 of Deborah Eatherley. However, the officer found that the university websites should be considered authoritative sources of information with respect to their course listings. Thus, the officer gave this evidence some weight, but ultimately found it not determinative.
+[17]
+The officer then considered the affidavit of John Kizas. From Mr. Kizas's reference to statutes regulating engineering in Canada, the officer observed that the relevant provisions prohibit persons from engaging in the practice of professional engineering or using a term that would lead the public to believe that the services offered are within the practice of professional engineering. However, the officer noted that none of the provisions appear to prohibit the use of the word engineering in a trade-mark where the trade-mark does not lead a consumer to believe that the associated services are engineering services or performed by a professional engineer. On the legislation governing corporate and business names, the officer noted that the relevant provisions do not govern terms such as trade-marks.
+[18]
+Turning to the respondent's evidence, the officer noted the affidavit of John W. Lichtenberg which provided a background on the respondent and its operations. The officer noted that the promotional material on which the trade-mark was displayed had a copyright date of 2002. However, she observed that no evidence was provided to lead to the inference that these materials had been distributed in Canada at any time. The officer also noted the excerpts from four magazines that Mr. Lichtenberg stated were published in April 1999 and circulated in Canada. She observed that these magazines appeared to be U.S. based.
+[19]
+The officer noted that during cross-examination, Mr. Lichtenberg was asked to produce evidence that the respondent had actually provided the services listed in the application as of April 1999 and that the trade-mark had been used in Canada as of April 1999 and June 15, 2004. Mr. Lichtenberg refused to answer these questions claiming they were irrelevant as, at the time, the statement of opposition did not include a subsection 30(b) ground of opposition. Mr. Lichtenberg did provide examples from advertisements using the trade-mark in publications circulated in Canada in 2004. Although the appellant objected to the information from the respondent's advertising agency on the approximate Canadian circulation of these magazines, the officer granted it some weight as she found it reasonable to assume that this information would be acquired by advertising agencies in the normal course of business and would be within the purview of Mr. Lichtenberg's position as vice president of marketing management.
+[20]
+The officer acknowledged Mr. Lichtenberg's evidence of use of the trade-mark on third party websites advertising job openings. However, the officer noted that this did not indicate advertising of any positions in Canada. Similarly, a sample direct mailing pamphlet displaying the trade-mark and third party articles referencing the trade-mark did not evidence distribution in Canada. With respect to the annual reports attached to Mr. Lichtenberg's affidavit, the officer noted that there was no specific reference to the services provided under the trade-mark. However, these documents indicated that there was an office opened in Toronto in 1998.
+[21]
+The officer then turned to the affidavits (No. 1 and 2) of Karin French. Ms. French's second affidavit was provided in response to the appellant's addition of the subsection 30(b) ground of opposition. The officer noted that Ms. French's evidence was directed more towards events in Canada than Mr. Lichtenberg's evidence. Ms. French stated that Kelly brand employment services have been offered in Canada since at least as early as 1968 with the respondent currently owning 16 trade-mark registrations in Canada for employment services. Ms. French also stated that the respondent's services were available to users in Canada through the respondent's website since at least as early as 1999. Although the number of hits from users in Canada was unavailable before 2003, Ms. French stated that the number of hits from users in Canada was 110,947 in 2003, 92,955 in 2004 and over 60,000 annually for the years 2005 to 2008.
+[22]
+The officer also considered the affidavit of Julianne Norris, a legal assistant who obtained certified copies of the Canadian trade-mark registrations for various Kelly trade-marks. The officer noted that the registrations were all for personnel employment services. In some instances, the services were more distinctively described to target a specific employment sector. Further, Lisa Saltzman, director of the trade-mark searching department of a company specializing in corporate name searching, explained in her affidavit that Kelly has a technical definition in the mining industry, has significance as a place name in Canada and is used extensively as a first name. The meaning of Kelly was also researched by Jane Griffith. The evidence in her affidavit was similar to that in Ms. Saltzman's affidavit. It indicated technical definitions of Kelly and some place name and first name significance.
+[23]
+The officer then addressed the appellant's Rule 43/44 evidence. Leslie Kirk's affidavit provided evidence of archived versions of the website www.kellyengineering.com. The officer noted that the evidence source used by Ms. Kirk had been accepted as generally reliable in the jurisprudence. Archived websites from May 29, 2002 through to April 28, 2007 all featured the trade-mark prominently. However, Canada did not appear in the drop down menu of countries available to users. Nevertheless, the officer noted that information about the services indicated that the respondent provided services worldwide. The officer also noted Ms. Kirk's evidence of Toronto Yellow Page directory listings for the category employment from 1998 to 1999 through to 2007 to 2008. The listing for each year contained at least one reference to Kelly services, however, the trade-mark did not appear on any of these pages.
+[24]
+After reviewing the parties' evidence, the officerturned to the analysis of the appellant's grounds of opposition.
+Opposition under Subsection 30(i) of the Act
+[25]
+The officer dismissed the appellant's ground of opposition under paragraph 38(2)(a) and subsection 30(i) of the Act for lack of supporting facts and lack of evidence of bad faith on the part of the respondent. The officer accepted the respondent's argument that allegations of non-compliance with provincial statues cannot be grounds under subsection 30(i). The officer also found that the appellant had not led any evidence to suggest that the respondent was holding itself out as engaging in the practice of engineering. The officer further noted that this ground had been dismissed previously by the TMOB in
+Kelly Properties (2004)
+above.
+Opposition under Subsection 30(b) of the Act
+[26]
+The officer noted that paragraph 38(2)(a) and subsection 30(b) of the Act require continuous use by the applicant of its trade-mark in association with its services from its claimed date of use through to the filing of the trade-mark application. The officer cited jurisprudence on the burden of proof for these provisions. She noted that a trade-mark opponent may refer to both its own evidence and that of the trade-mark applicant's in showing non-conformance with subsection 30(b) of the Act. However, if the opponent relies on the trade-mark applicant's evidence, it must be shown that the applicant's evidence is clearly inconsistent with its claims as set forth in its application.
+[27]
+The officer noted the appellant's submissions that Canada did not appear on the drop down list of country options on the respondent's website. However, she did not find that this absence was clearly inconsistent with the respondent's claimed date of first use since the use relied on was through print media. The officerwas also not convinced that the absence of Canada from the drop down list was categorical evidence that the services were not available to users in Canada. Given the print ads, the statement of Ms. French and the existence of the office in Toronto, the officer concluded that there was nothing clearly inconsistent with the evidence that the respondent was in a position to offer its services in association with the trade-mark as of April 1999 and that it continues to do so. The officer therefore concluded that this ground of opposition must also fail.
+Opposition under Paragraph 12(1)(b) of the Act
+[28]
+Under this ground of opposition, the appellant argued that the trade-mark was clearly descriptive or deceptively misdescriptive of engineering services. The officer noted that this issue must be considered from the standpoint of the average purchaser of the associated wares. The trade-mark must also not be dissected into its component elements, but rather be considered in its entirety as a matter of immediate impression in association with the listed services.
+[29]
+The officer found that, although not possessing a high degree of inherent distinctiveness, the trade-mark did not contravene paragraph 12(1)(b) of the Act. She found that the trade-mark did not clearly describe or deceptively misdescribe that the respondent is an engineering firm or that it offers engineering services. Rather, the officer found that the trade-mark merely suggests that Kelly provides resources either for those looking for jobs in an area of engineering or for engineering firms looking for personnel, who may be, but are not necessarily engineers.
+[30]
+The officer distinguished the facts of this application from those in
+ <FRAGMENT_SUPPRESSED>  69 CPR (3d) 267. In <FRAGMENT_SUPPRESSED> above, the trade-mark was found clearly descriptive or deceptively misdescriptive of the persons employed in the production of applied for wares. In distinguishing the two cases, the officer noted that the trade-mark here pertained to service and not wares and the subject services here were not considered specific to engineers. In addition, the objected to portion of the trade-mark did not describe the persons producing or providing the services.
+[31]
+The officer also distinguished
+ <FRAGMENT_SUPPRESSED>  [2004] FCJ No 720 where the offending trade-mark contained the word engineers, leading to it being more likely that a consumer would assume the said services were provided by engineers. The officer noted that in this case, the trade-mark only contained the word engineering. In addition, she observed that personnel employment services would not be the type of technical services that one would expect engineers to provide. Further, the word resources was equally as significant as the word engineering in the trade-mark. Thus, the officer concluded that the trade-mark did not offend paragraph 12(1)(b) of the Act. As such, she deemed it unnecessary to consider whether the trade-mark was registrable under section 14 of the Act.
+Opposition under Paragraph 12(1)(e) and Section 10 of the Act
+[32]
+Under these grounds of opposition, the appellant alleged that the term engineering had become recognized in Canada as designating services provided by licensed engineers. However, the officer noted that the term engineering in the trade-mark was being used in association with personnel employment services rather than in association with services in the same general class as those provided by licensed engineers. In addition, the officer reiterated that the term engineering together with resources in the context of employment services was not likely to be misleading. The officer further noted that there was no evidence demonstrating that the term engineering has become recognized in Canada as designating a kind, quality or value of personnel employment services. Thus, the officer concluded that this ground of opposition also failed.
+Opposition under Paragraph 38(2)(d) and Section 2 of the Act
+[33]
+On this final ground, the officer noted that the material date was the date of filing of the opposition, namely, February 22, 2005. She further noted that typically under this ground, an opponent bears the evidentiary burden of demonstrating sufficient use by it or a third party to negate distinctiveness of the trade-mark. Here, however, the claim was founded on the rationale that the trade-mark has no distinctiveness and is incapable of distinguishing the services provided in association with the name Kelly from the services of others who might have the same name.
+[34]
+The officer considered it important that the respondent had filed evidence of promotion and sales of services in Canada and internationally under the word Kelly. The officer also found it persuasive that the respondent's website had received significant hits from users in Canada. Based on the evidence that Kelly Services is a large international staffing provider, the officer concluded that the word Kelly has acquired distinctiveness such that the trade-mark as a whole can function to distinguish the respondent's services from similar services of others. The officer therefore found that this ground of opposition must also fail.
+[35]
+As the officer found that all grounds of opposition to the trade-mark failed, she rejected the appellant's opposition to the application pursuant to subsection 38(8) of the Act.
+Issues
+[36]
+The appellant submits the following points at issue:
+1. The appellant has filed substantive additional evidence in these proceedings and the respondent has not. In view of the additional evidence filed, which is unchallenged by cross-examination or by rebuttal evidence, what is the correct standard of review of the officer's decision?
+2. Grounds of opposition based on subsection 30(b) of the Act;
+(a) The appellant has filed evidence, both before the officer and before this Court, that puts into question the date of first use claimed in the subject application. Has the appellant sustained its initial evidentiary burden to put the issue of the accuracy of the claimed date of first use into play?
+(b) Has the respondent sustained its legal onus to establish its claimed date of first use in Canada?
+(c) Has the respondent established that its trade-mark has sufficient distinctive character in Canada to sustain its reliance on paragraph 14(1)(b) of the Act?
+3. Grounds of opposition based on paragraph 12(1)(b) of the Act:
+(a) In view of the evidence, is the trade-mark unregistrable on the basis that it is deceptively misdescriptive?
+4. Grounds of opposition based on paragraph 38(2)(d) of the Act:
+(a) In view of the evidence, is the trade-mark deceptively misdescriptive and therefore not distinctive?
+(b) Has the respondent sustained its legal onus to establish that its trade-mark is distinctive in Canada?
+[37]
+I would rephrase the issues as follows:
+1. What is the appropriate standard of review?
+2. Did the officer err in her assessment of the date of first use of the trade-mark under subsection 30(b) of the Act?
+3. Did the officer err in her assessment of whether the trade-mark was clearly descriptive or deceptively misdescriptive under paragraph 12(1)(b) of the Act?
+4. Did the officer err in her assessment of whether the trade-mark was distinctive under paragraph 38(2)(d) and section 2 of the Act?
+Appellant's Written Submissions
+[38]
+The appellant submits that the respondent's application contravenes subsection 30(b), paragraph 12(1)(b), section 14, section 2 and paragraph 38(2)(b) of the Act.
+New Evidence Filed on Appeal
+[39]
+On this appeal, the appellant filed new affidavit evidence from: Michael H. Neth, Kenneth C. McMartin, Stephen Haddock, Paul Barbeau and D. Jill Roberts. The appellant highlighted the following information in these affidavits.
+[40]
+Michael H. Neth is the Director Compliance of the Association of Professional Engineers Geologists and Geophysicists of Alberta (APEGGA). Mr. Neth noted that in Alberta, companies that practice engineering and carry on a business under a name that includes the designation engineering must hold a permit to practice. Mr. Neth observed that the respondent does not hold a permit to practice in Alberta.
+[41]
+Mr. Neth also attached the APEGGA Compliance Guideline for Human Resources and Staffing Agencies to his affidavit (the APEGGA Policy). This policy provides the following guidance on determining when human resources or staffing agencies are engaged in the practice of engineering:
+When all four of the following criteria are met it is APEGGA's position that agency is engaged in the practice of engineering, geology or geophysics in Alberta:
+(i) the agency places an employee such that any portion of their work is undertaken in Alberta, and
+(ii) the employee's activities (in Alberta) meet the definition of the practice of engineering, geology, or geophysics given in Section 1 of the EGGP Act, and
+(iii) the employee is a professional engineer, geologist or geophysicist, and
+(iv) the recipient of professional services (the customer) pays the agency a fee for services while the agency in turn pays the employee for their labor.
+[42]
+Mr. Neth noted that APEGGA has initiated two proceedings against businesses offering services in the field of human resources and staffing. In response, one of the two, Randstad Engineering, obtained a valid permit to practice engineering in 2010. The case for the second, the respondent in this appeal, was opened in October 2009. However, due to difficulties with compelling evidence from non-members, the file remains open and unresolved. Mr. Neth also noted a common challenge with international companies that come from jurisdictions that do not protect the engineering designations. However, he stated that precedents set elsewhere do not influence APEGGA's enforcement of its statute in Alberta.
+[43]
+Kenneth C. McMartin is the appellant's Director of Professional and International Affairs. Mr. McMartin noted that foreign companies engaged in the practice of engineering in any jurisdiction in Canada must meet the same legal requirements of the constituent associations as Canadian companies.
+[44]
+Stephen Haddock is the Compliance Officer, Regulatory Compliance of Professional Engineers Ontario (PEO). Mr. Haddock noted that the respondent is not registered as an Ontario business name and has never held a certificate of authorization to offer or provide professional engineering services in Ontario.
+[45]
+Paul Barbeau is the President of hyperNet Inc., an Ottawa based company that provides services related to database driven web sites and custom web applications. He explained that a website hit represents the download of one piece of software or code from a website. Each page viewed comprises multiple hits. As such, a hit does not represent an independent and unique visit to a website. In addition, many hits are likely attributable to non-human special purpose computer programs known as bots, spiders or crawlers. It is not always possible to distinguish human visitors from these programs.
+[46]
+Due to the nature of the respondent's webpage which may entail a single user looking for new and updated job postings, Mr. Barbeau stated that over a thousand hits may be registered to a single user who makes five visits to the website. In support, Mr. Barbeau attached a report of the information that had been downloaded from a single visit that he made to the respondent's website in 2011. This report indicated 44 hits coming from Mr. Barbeau's address.
+[47]
+Mr. Barbeau also explained that he conducted two types of searches on the website www.kellyengineeringresources.com. The results from a WHOIS search indicated that this domain name was registered on August 4, 2003. The second search, based on unidentified databases, revealed that this website had first been crawled on February 7, 2005.
+[48]
+Finally, Mr. Barbeau explained that a drop down list of countries on a website is specifically designed to include only those countries where services are offered. Thus, if a country is omitted from that list, it is likely that services are not offered in that country.
+[49]
+D. Jill Roberts conducted an Ontario business name search for the respondent's name on July 5, 2011. This search revealed no registration of the respondent's name as part of a business name.
+Standard of Review
+[50]
+The appellant submits that on appeals under section 56 of the Act, the record before the Court includes both the evidence filed before the officer and any new evidence filed before the Court. The appellant submits that in these appeals, the appropriate standard of review must be determined
+ab initio
+. Thus, although officers' decisions are generally reviewed on a reasonableness standard, where new evidence is adduced that would have materially affected the officer's findings of fact or exercise of discretion, the appropriate standard of review is correctness. The appellant submits that the new evidence in this appeal provides information that was not available to the officer and addresses factual and legal issues that the officer did not take into account and that would have materially affected her decision.
+[51]
+Specifically, the appellant submits that the affidavit of Mr. Neth established that the type of activities referred to in the application fall within the scope of engineering practice that would require a permit to practice under Alberta law. Mr. Neth's affidavit also established that the respondent does not hold a permit and its case remains open and unresolved for possible violations in relation to representation and the practice of engineering. In addition, the appellant submits that Mr. Neth's affidavit addresses the officer's questions on whether the respondent would be perceived as offering engineering services when providing engineering employment services to those seeking employment or to employers seeking the services of professional engineers. Thus, the appellant submits that had the officer had Mr. Neth's affidavit, her analysis under paragraph 12(1)(b) of the Act would have been different.
+[52]
+Turning to Mr. Barbeau's affidavit, the appellant submits that it confirms that a hit on a website does not represent an independent or unique visit to that site. This evidence indicates that the 100,000 annual hits referred to in the respondent's evidence and relied on by the Registrar in finding that the trade-mark was distinctive may in fact represent as few as 90 individuals and crawlers accessing the website from Canada. Thus, the appellant submits that this evidence directly contradicts the assumptions expressed in the officer's decision that the "website received significant hits from users in Canada". Further, the appellant submits that Mr. Barbeau's affidavit provides evidence on the importance of a website country drop down list in establishing whether business activity in fact occurs in a particular country.
+[53]
+In summary, the appellant submits that the new evidence, in particular the affidavits from Mr. Neth and Mr. Barbeau, would have materially affected the officer's decision. This evidence was specifically directed to concerns raised in the decision and would therefore have required some analysis and consideration. Thus, the appellant submits that the decision must be reviewed on a standard of correctness and this Court must undertake its own analysis rather than defer to the officer's decision.
+[54]
+Before proceeding to the other issues, the appellant also notes that as its new evidence has not been the subject of cross-examination or contradicted by rebuttal evidence from the respondent, it must be taken at face value. The appellant submits that a negative inference may also be drawn from the respondent's failure to cross-examine and its failure to introduce additional evidence to contradict the appellant's new evidence.
+Opposition under Subsection 30(b) of the Act
+[55]
+The appellant submits that the officer erred in fact and in law in holding that the respondent had provided the date of first use of its trade-mark. Both parties' evidence negates the claim that the respondent has used the trade-mark in Canada continuously since April 1999. The appellant notes that use as defined in subsection 4(2) of the Act means that the services must be rendered in Canada and that the services advertised in Canada must be performed or at least offered and prepared to be performed in Canada.
+[56]
+Relying on Mr. Barbeau's affidavit, the appellant submits that on corporate websites it is likely that services are not provided in countries excluded from country drop down lists. The appellant notes that Canada did not appear on the respondent's website's country drop down menu until April 2007, long after the alleged date of first use. The appellant submits that this evidence meets the light burden for establishing facts under subsection 30(b) of the Act when the trade-mark opponent uses its own evidence to mount a challenge thereunder.
+[57]
+The appellant also submits that a trade-mark opponent may rely on the trade-mark applicant's evidence to sustain its
+de minimus
+burden on this issue. As such, the appellant notes that the respondent's in-house documents omit reference to Canada in association with the trade-mark. The appellant also highlights that the respondent refused to answer on cross-examination the express question to produce evidence to corroborate that it had provided the services listed in its application as of April 1999. The appellant submits that a failure to answer proper questions or to fulfill undertakings may result in the drawing of a negative inference. As that is what happened here, the appellant submits that the officer erred in failing to draw an adverse inference from the respondent's refusal to answer these questions.
+[58]
+Concurrently, the appellant submits that the officer erred in accepting the respondent's argument that the answers to the questions were irrelevant as the statement of opposition did not include a subsection 30(b) opposition at the time of the cross-examination. The appellant notes that the refusals to answer the questions were filed on March 28, 2008, three months after it filed its application to amend the statement of opposition and two weeks after the officer accepted the amended statement of opposition (March 10, 2008). The appellant also notes that the respondent did not provide conclusive evidence of the use of its trade-mark as of April 1999 in the second affidavit of Karen French sworn on December 22, 2008. Further, pursuant to Rule 245 of the
+Federal Courts Rules
+, SOR/98-106, the appellant submits that the respondent has a continuing obligation to disclose answers to questions on cross-examination on its claimed date of first use.
+[59]
+The appellant submits that the officer erred in law in not finding that the respondent's allegations that four periodicals that circulated in Canada in 1999 and 2004 were inadmissible hearsay. The appellant notes that the respondent's witnesses had no personal knowledge as to whether the publications, in which the advertisements appeared, had any circulation in Canada. The provision of this information from their advertising agency was therefore hearsay. The respondent's witnesses were also unable to confirm that the telephone number listed in the advertisements was available in Canada. The appellant notes that the TMOB has repeatedly held that unaudited circulation figures for magazines is hearsay and inadmissible. Nevertheless, the appellant submits that advertisement of the trade-mark in U.S. magazines, even if they are circulated in Canada, does not indicate that the services were in fact offered in Canada. It merely indicates that they were offered in the U.S.
+[60]
+Finally, the appellant relies on
+ <FRAGMENT_SUPPRESSED>  in support of its submission that the respondent cannot rely on use and registration abroad to save its application where it makes a false statement on its claimed date of first use. At the hearing, the appellant explained that trade-mark applicants should not be entitled to make a number of different claims and then later rely only on those that have not been denied. Thus, where a trade-mark application made under date of first use in Canada is denied, the appellant submits that the trade-mark applicant cannot claim that the argument is moot and simply rely on another one of its claims, such as use and registration of the trade-mark in the United States.
+Opposition under Paragraph 12(1)(b) of the Act
+[61]
+The appellant submits that the respondent's disclaimer of the words engineering and resources constitutes an admission that those words are not registrable in respect of the listed services included in its application.
+[62]
+The appellant submits that the evidence demonstrates that the respondent's services under the trade-mark are directed to the engineering profession or companies seeking the assistance of professional engineers and that the respondent is performing engineering services in Canada. In support, the appellant highlights that the respondent:
+- advertises in engineering publications;
+- sends representatives to advertise at engineering trade shows;
+- attends university campuses to advertise and attract engineering graduates;
+- advertises that it"specializes in providing companies around the world with qualified engineers, designers, drafters and technicians";
+- employs engineers in the U.S. and Canada;
+- is the employer of some of the engineers that it places with other companies; and
+- has admitted that the words engineering resources indicate the nature of services being provided.
+[63]
+The appellant also notes that engineering in a professional title will inevitably refer to the profession of engineering.
+[64]
+The appellant also submits that the evidence clearly places the respondent's services within the scope of management engineering. Management or industrial engineering is a sub-branch of engineering that is concerned with the design, improvement and installation of integrated systems of people, materials and equipment. Canadian universities offer joint programs that combine engineering and business studies and the Canadian Society for Engineering Management represents those engineers whose primary functions involve the use of management skills.
+[65]
+The appellant notes that a staffing agency is practicing engineering if the criteria listed in the APEGGA Policy are met. The appellant submits that the respondent focuses on recruiting and placing individuals with engineering expertise and that approximately 4,000 engineering professionals are generally employed by the respondent's engineering resources division. Thus, it is clear that the respondent's activities fall squarely within the scope of the practice of professional engineering.
+[66]
+At the hearing, the appellant focused its submissions on the trade-mark being deceptively misdescriptive and did not make any submissions on the trade-mark being clearly descriptive.
+[67]
+The appellant submits that the disclaimed words engineering and resources as used in the trade-mark are deceptively misdescriptive of the respondent's services. In addition, as the word Kelly is non-descriptive, the disclaimed words constitute a dominant portion of the trade-mark. In support, the appellant notes that:
+- Kelly is a well-known surname;
+- several people licensed to practice engineering in Canada have the surname Kelly;
+- it is common for engineering firms to do business under the surname of a firm member followed by a descriptive term related to engineering; and
+- the respondent's evidence indicates that Kelly has a multiple of meanings including significance as a given name, geographical locations and various tools.
+[68]
+The appellant further submits that in accepting the respondent's argument that the word Kelly would be associated exclusively with its personnel employment services, the officer took particular note of the purported substantial number of hits recorded on the respondent's website in Canada. However, the appellant highlights Mr. Barbeau's affidavit which it submits indicates that a website hit is not an independent and unique visit to a website, rather, the nature of the respondent's website is such that multiple hits will be recorded for the same user. In addition, some users are not individuals but are instead Internet crawlers. As such, the 100,000 hits referred to in the respondent's evidence could in fact equate to less than 100 annual visitors.
+[69]
+The appellant submits that it is established jurisprudence that when dealing with a misdescriptive element, a disclaimer cannot be used to sustain the registrability of an otherwise unregistrable composite mark when the dominant portion of the mark is comprised of deceptively misdescriptive matter so as to render the mark unregistrable as a whole. Further, a weak element cannot render a mark registrable. Thus, where there is a misdescriptive matter, the trade-mark as a whole is likely unregistrable. The appellant submits that the average consumer would assume from the trade-mark that the respondent is a firm registered with one or more of the constituent associations, however, the respondent is not licensed to practice engineering anywhere in Canada. Thus, the trade-mark is deceptively misdescriptive and unregistrable.
+[70]
+At the hearing, the appellant also noted that the listed services do not specify engineers as the type of employees provided under the trade-mark. However, the cross-examination of the respondent's witness, Mr. Lichtenberg, suggested that the respondent's intent in providing the different divisions, such as KELLY SCIENTIFIC RESOURCES and KELLY HEALTHCARE RESOURCES, is to provide a niche of staffing providers. Thus, KELLY SCIENTIFIC RESOURCES provides science professionals and KELLY HEALTHCARE RESOURCES provides healthcare professionals. Similarly, KELLY ENGINEERING RESOURCES would provide engineering professionals. The appellant relies on this testimony in support of its position that engineering forms a dominant part of the trade-mark and influences the first impression that the consumer of the respondent's services would draw from the trade-mark. As engineers are not included in the listed services associated with the trade-mark, the appellant submits that it is deceptively misdescriptive.
+[71]
+At the hearing, the appellant also submitted that the officer erred in stating that a member of the public or the average Canadian was the average consumer of the respondent's services. Rather, as evidenced by the type of foreign technical magazines in which the trade-mark had been advertised, an engineering company would be the average consumer of the respondent's services under the trade-mark. That average consumer would assume from the use of engineering in the trade-mark and from its knowledge of engineering law that the respondent was licensed to provide engineers rather than merely "employees having specialized technical skills, education and/or training". The appellant submits that this is further evidence that the trade-mark is deceptively misdescriptive.
+[72]
+Finally, the appellant notes that paragraph 14(1)(b) of the Act provides an exception to the registration of descriptive trade-marks that are not registrable under section 12 of the Act. The material date for this provision is the filing date of the application, in this case, that date is June 15, 2004. The appellant submits that the respondent has not established that its trade-mark was distinctive as of that date. Thus, the trade-mark cannot be regarded as distinctive as of that earlier material date. Further, at the hearing, the appellant noted that the use of the wording "or of such a nature as to deceive the public" in paragraph 14(1)(c) of the Act serves to prohibit exemptions of trade-marks that are found to be deceptively misdescriptive. Thus, the trade-mark cannot be exempt from section 12 by way of section 14 of the Act.
+Opposition under Paragraph 38(2)(d) and Section 2 of the Act
+[73]
+The appellant notes that in opposition proceedings and on appeal, a trade-mark applicant bears the legal onus of demonstrating that its mark is adapted to distinguish or actually distinguishes its services from the services of others in Canada. The trade-mark opponent only bears the initial evidentiary burden of advancing allegations of fact to support its ground of non-distinctiveness.
+[74]
+The appellant submits that as the trade-mark is deceptively misdescriptive, it cannot be viewed as distinctive and cannot act to distinguish the respondent's services from those of others. Nevertheless, even if the trade-mark is not deceptively misdescriptive, this would not render the mark distinctive as the issue of distinctiveness must be considered independently.
+[75]
+At the hearing, the appellant noted that the same evidence that was before the TMOB in
+Kelly Services (2004)
+above, was before the officer in the present application. The appellant remarks that based on that evidentiary record, the TMOB concluded that the trade-mark was not distinctive.
+[76]
+The appellant highlights the following evidence that it submits establish that the trade-mark is not distinctive:
+1. A substantial number of engineers practicing in Canada at the material date had the surname Kelly;
+2. The respondent's archived website up to and including May 18, 2011 was not accessible for viewing;
+3. The respondent's archived website from 2002 to 2007 did not contain any reference to Canada in the country drop down menu and the site could therefore not be used prior to 2007 to search for jobs in Canada;
+4. The domain name www.kellyengineering resources.com was registered on August 4, 2003 and first accessed on February 7, 2005;
+5. There are a number of companies registered to practice engineering in Canada that have the word resources in their business name; and
+6. Three active permit to practice holders in Alberta have both words engineering and resources in their company names.
+[77]
+In coming to its finding that the trade-mark is distinctive, the officer relied on evidence of advertising in foreign engineering magazines and the fact that the respondent's website had significant hits from users in Canada as of the material date. The appellant notes that there is no evidence, other than bald statements, of circulation of the foreign magazines in Canada. As such, the evidence is inadmissible hearsay and the officer erred by relying on it.
+[78]
+With respect to the website hits, the appellant refers to Mr. Barbeau's evidence that the 100,000 hits may represent as few as 88 actual visits. The appellant submits that this evidence, coupled with the fact that Canada did not appear on the country drop down menu until April 2007, indicates that the respondent did not have a significant presence in the Canadian marketplace until at least 2007. The appellant submits that Mr. Barbeau's new evidence is significant as the officer did not understand that one website hit does not equate to one website visitor. Rather, a website hit represents one piece of software code downloaded and Mr. Barbeau's affidavit shows that one visit to the respondent's homepage resulted in 45 hits or pieces of code downloaded. This is relevant to the officer's finding that the number of website hits was persuasive evidence of the distinctiveness of the trade-mark.
+[79]
+The appellant also notes that the respondent has not filed evidence that its trade-mark has acquired distinctiveness in Canada. In support, the appellant highlights the respondent's refusal to:
+- provide information as to when the services covered in the trade-mark were first offered in Canada;
+- produce any evidence that it had performed the services in Canada as of any of the material dates; and
+- indicate when Canada was first added to the country drop down menu on its website.
+[80]
+The appellant also highlights the paucity of the respondent's evidence on the distinctiveness of the trade-mark in Canada, as of the material date, by the vague responses and refusals to respond on cross-examination. Specifically, the appellant notes that:
+- the trade-mark was not listed in the Yellow Pages in Canada until 2007 and the respondent's witness could not confirm that there were any previous listings in the White Pages;
+- the respondent only began attending university fairs and providing sponsorships in 2007 and 2008;
+- although brochures were purportedly available as of April 1999, no evidence was submitted that they were ever ordered by the respondent in Canada;
+- the witnesses were unable to confirm the number of engineers who had been staffed in Canada as of 2007;
+- the respondent's website was only available in Canada as of February 2007;
+- the respondent failed to identify any sponsorship activities in Canada as of the material date;
+- Canada was not included in the press release issued in 2005; and
+- there was no information on Canada referred to in any of the respondent's annual reports between 1997 and 2006.
+[81]
+The appellant further submits that a failure to answer questions should result in a negative inference. Here, the appellant submits that a negative inference should be drawn from the respondent's lack of activity in Canada as of the material date on the issue of distinctiveness. The appellant also notes that it is not open to the respondent to argue that acquired distinctiveness can arise from the use of the trade-mark abroad. Thus, the appellant submits that the respondent has failed to meet its onus of establishing that its trade-mark is distinctive in Canada.
+[82]
+In summary, the appellant submits that it has met all its evidentiary burdens as the trade-mark opponent. Conversely, the respondent has failed to meet its onus as the trade-mark applicant to establish that its mark was in use as of the date of first use claimed and that its trade-mark is registrable and distinctive.
+Respondent's Written Submissions
+Standard of Review
+[83]
+The respondent submits that the appropriate standard of review in this appeal is reasonableness.
+[84]
+The respondent submits that only where additional evidence is adduced on appeal that would have materially affected the officer's decision must the Court come to its own conclusion on the correctness of the decision. When new evidence is submitted on appeal, its significance and probative value must first be assessed. Evidence that only supplements or confirms earlier findings is insufficient to displace the deferential standard of reasonableness.
+[85]
+The respondent submits that the new evidence filed by the appellant on this appeal would not have materially affected the officer's decision and does not carry sufficient significance or probative value to overturn the deferential standard of reasonableness.
+New Evidence Filed on Appeal
+[86]
+At the outset, the respondent notes that Mr. Barbeau was not recognized as an expert witness and his affidavit is speculative and unsubstantiated opinion evidence. Thus, it carries no weight and should not be admitted as evidence. The respondent further submits that Mr. Barbeau's affidavit provides generic information, unsupported by facts or underlying materials. Mr. Barbeau's statement that multiple website hits could be from the same person is based on a hypothetical calculation and is purely speculative. Mr. Barbeau also failed to consider in what context the witness before the officer discussed a website hit and how that compared to his own understanding of a website hit.
+[87]
+The respondent also submits that Mr. Barbeau did not specify what databases he relied on in finding that its website had been crawled and the first day it had been crawled. In addition, this information pertained to the website www.kellyengineeringresources.com and not www.kellyengineering.com. Thus, the respondent submits that Mr. Barbeau's conclusions are hypothetical and based on unsubstantiated supposition or mere opinion.
+[88]
+The respondent further notes that Mr. Barbeau's assertion on the importance of country drop down lists is unsupported by any evidence. However, even if such evidence was provided, the respondent submits that it cannot be relied on to show how the respondent and its licensees conducted business. This statement must therefore also be taken as hypothetical and based on unsubstantiated supposition or mere opinion. Nevertheless, even if Mr. Barbeau's affidavit is taken at face value, it does not challenge the fact that the trade-mark has been used, rather, it only challenges the scope of its use.
+[89]
+Turning to Mr. Haddock's affidavit, the respondent submits that it has never engaged in the provision of professional engineering services. The respondent submits that this affidavit is thus of no significance or probative value to the matters at issue in this appeal and therefore carries no weight.
+[90]
+With regards to Mr. McMartin's affidavit, the respondent submits that none of the detail provided therein on the appellant's background, governance and over-arching objectives are of any relevance to the trade-mark or the issues in this appeal. In addition, as most of this evidence replicates that of John Kizas filed before the officer, it does not provide any new information. The respondent submits that the same applies to Mr. Neth's affidavit.
+[91]
+At the hearing, the respondent noted the APEGGA Policy criteria included in Mr. Neth's affidavit. However, it submitted that even if the first criterion (that the agency places an employee such that any portion of their work is undertaken in Alberta) and the third criterion (that the employee is a professional engineer, geologist or geophysicist) were proven, there was no evidence to show that the other two criteria would be met (namely, that the employee's activities (in Alberta) meet the definition of the practice of engineering, geology or geophysics given in section 1 of the EGGP Act and that the recipient of professional services (the customer) pays the agency a fee for services while the agency in turn pays the employee for their labor).
+[92]
+Finally, with regards to Ms. Roberts' affidavit, the respondent submits that the business name searches that she conducted are of no significant probative value or significance to the registrability of a trade-mark. Thus, the results of those searches would not have materially affected the officer's decision and they do not speak to any of the material grounds at issue in this appeal.
+[93]
+In summary, the respondent submits that none of the additional evidence filed by the appellant is of sufficient significance or probative value to warrant amending the standard of review from reasonableness to correctness.
+Opposition under Subsection 30(b) of the Act
+[94]
+The respondent submits that the officer reasonably found that the trade-mark has been used continuously since the claimed date of first use. The respondent submits that the evidence shows that the trade-mark has appeared on its website since at least as early as 1999 and periodicals containing its advertisements were circulated in Canada in April 1999. It was also offering placement services to engineers and other technical service providers in Canada at that time. The respondent submits that this falls within the definition of use for the purposes of subsection 4(2) of the Act.
+[95]
+On the appellant's submission regarding the omission of Canada from the country drop down list, the respondent submits that the officer reasonably found that this was not clearly inconsistent with its claimed date of first use. Although Mr. Barbeau provided a non-expert opinion that it was likely that services would not be offered in a given country when a country drop down list does not include that country, the respondent notes that Mr. Barbeau did not provide an example of any website where this is the case. Rather, Mr. Barbeau relies on his personal opinion, which is inadmissible and irrelevant.
+[96]
+Nevertheless, the respondent submits that the evidence is clear that:
+- the trade-mark was used on its website;
+- the website was accessed by people in Canada from the date claimed; and
+- the listed services were provided in Canada.
+[97]
+The respondent notes that the appellant's own evidence, a copy of the Toronto Yellow Pages from June 1998 to June 1999, clearly shows that it was offering employment placement services to engineers in Canada at that time. The respondent also notes the appellant's submissions that an adverse inference be drawn from its refusal to answer questions on cross-explanation. However, the respondent submits that the statement of opposition had not yet been amended to include subsection 30(b) of the Act at the time of the cross-examination. Those refusals were therefore properly given.
+[98]
+Finally, the respondent notes the appellant's reliance on
+McDonald's
+above. However, the respondent submits that case does not stand for the alleged proposition that use and registration abroad cannot be relied on as a filing basis where the claimed date of first use is in error. Nevertheless, that case is distinguishable because the applicant there sought to amend its claimed date of first use after its mark had been advertised for opposition. The respondent here made no such claim and has shown that the claimed date of first use is accurate. At the hearing, the respondent highlighted section 16 of the Act in support of its position that its application remained valid pursuant to its unchallenged claim under use and registration abroad.
+Opposition under Paragraph 12(1)(b) of the Act
+[99]
+The respondent submits that the officer reasonably found that the trade-mark was not clearly descriptive or deceptively misdescriptive of the listed services. The respondent states that it does not engage in and has never engaged in the provision of technical engineering services. Rather, the respondent has only engaged in the provision of personnel employment services. The respondent reiterates that it is not involved in the engineering profession nor is it run or operated by engineers.
+[100]
+The respondent also submits that the primary element Kelly dominates the trade-mark such that, as a whole, the trade-mark cannot be found to be deceptively misdescriptive. In support, the respondent highlights that:
+- the trade-mark is not clearly descriptive of the character or quality of the listed services; - the trade-mark must be considered in its entirety as a matter of immediate impression in association with the listed services rather than being dissected into component elements;
+- Kelly is not necessarily a surname as it has numerous definitions;
+- the Kelly brand has been associated with personnel employment services for over forty years; and
+- consumers confronted with the trade-mark in association with the listed services would understand that the respondent assists in finding employment for engineers.
+[101]
+Should this Court consider section 14 of the Act, the respondent submits that the relevant criteria for registration of the trade-mark under that provision have been met. In support, the respondent highlights that:
+- the trade-mark has been registered in the U.S.;
+- it is not confusing with a registered trade-mark and the respondent is the owner of a family of Kelly trade-marks in association with personnel employment services;
+- it is not without distinctive character;
+- it is not contrary to public morality or of such nature to deceive the public; and
+- it is not a trade-mark whose adoption is prohibited under sections 9 or 10 of the Act.
+[102]
+Thus, the respondent submits that even if this Court finds that the trade-mark is clearly descriptive or deceptively misdescriptive of the listed services, its application is saved under section 14 of the Act.
+Opposition under Paragraph 38(2)(d) and Section 2 of the Act
+[103]
+The respondent notes that the appellant has not relied on its own trade-marks or marks of third parties in its submissions as to why the trade-mark is not distinctive. The appellant has thus failed to meet its evidentiary burden.
+[104]
+However, if this Court finds otherwise, the respondent submits that it has filed ample evidence to support a finding of distinctiveness of the trade-mark. At the hearing, the respondent noted that a different evidentiary record was before the officer here compared to that before the TMOB in
+Kelly Properties (2004)
+above, in which the trade-mark application was based on proposed use rather than actual use.
+[105]
+The evidentiary record therefore did not include the majority of the following evidence that indicated the acquired distinctiveness of Kelly, including:
+- significance of Kelly as a first name, geographical name and technical name (not just as a surname);
+- use of the Kelly brand since 1946;
+- Kelly Services and its subsidiaries and affiliates operate in more than 30 countries and employ more than 700,000 employees;
+- the Kelly brand includes numerous trade-marks that indicate specialized staffing services;
+- extensive advertising of the Kelly and KELLY ENGINEERING RESOURCES brands in Canada;
+- use of the trade-mark in association with personnel employment services in Canada and several other countries;
+- daily employment of over 4,000 professionals; and
+- receipt by the respondent's website of over 400,000 hits from users in Canada between 2003 and 2008.
+[106]
+In response to the appellant's allegations that some of this evidence is undermined by Mr. Barbeau's affidavit, the respondent reiterates that this affidavit should not be considered. However, even if it is considered, it only consists of hypothetical submissions and baseless opinion. The respondent further notes that none of the remaining new evidence filed by the appellant in this appeal addresses the issue of the distinctiveness of the trade-mark or challenges or undermines its evidence of distinctiveness.
+[107]
+Similarly, in response to the appellant's allegations that the respondent's evidence on advertisements placed in periodicals circulated in Canada is inadmissible hearsay, the respondent submits that it does not seek to rely on unaudited data on the actual circulation figures of the periodicals in question. Rather, this information was merely asserted as a matter of fact and copies of the front covers of those periodicals and the advertisements printed inside were placed before the officer. It was thus reasonable for the officer to consider that evidence.
+[108]
+Finally, the respondent again notes the appellant's request to have adverse inferences drawn on alleged refusals during the cross-examination. However, the respondent reiterates that those refusals related to a ground of opposition that was not part of the appellant's case at the time of the cross-examination. Therefore, those questions were not relevant to the matters at issue and negative inferences should not be drawn from them. Nevertheless, the respondent submits that it has more than demonstrated the distinctiveness of its trade-mark.
+Analysis and Decision
+Issue 1
+What is the appropriate standard of review?
+[109]
+Where previous jurisprudence has determined the standard of review applicable to a particular issue before the court, the reviewing court may adopt that standard (see
+ <FRAGMENT_SUPPRESSED>  at paragraph 57).
+[110]
+It is well established that the appropriate standard of review of an appeal made under section 56 of the
+Trade-marks Act
+depends on whether or not new evidence has been filed that would materially affected the officer's findings (see
+ <FRAGMENT_SUPPRESSED> ). Where no such evidence has been filed, the standard of review is reasonableness. In reviewing the officer's decision on the reasonableness standard, the Court should not intervene unless the officer came to a conclusion that is not transparent, justifiable and intelligible and within the range of acceptable outcomes based on the evidence before it (see <FRAGMENT_SUPPRESSED> above, at paragraph 47; and
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED>  at paragraph 59). It is not up to a reviewing Court to substitute its own view of a preferable outcome, nor is it the function of the reviewing Court to reweigh the evidence (see <FRAGMENT_SUPPRESSED> above, at paragraphs 59 and 61).
+[111]
+Conversely, where new evidence has been filed that would materially affected the officer's findings, the Court must come to its own conclusion as to the correctness of the decision after considering the evidence before it (see
+Molson Breweries
+above, at paragraph 51;
+ <FRAGMENT_SUPPRESSED>  [2007] FCJ No 1697 at paragraph 9; and
+1459243  <FRAGMENT_SUPPRESSED>  [2011] FCJ No 27 at paragraph 2).
+[112]
+Thus, a determination of the appropriate standard of review requires a comparison of the evidence that was before the officer with the new evidence filed in the appeal. This analysis is conducted separately below for each individual issue.
+Issue 2
+Did the officer err in her assessment of the date of first use of the trade-mark under subsection 30(b) of the Act?
+[113]
+Permissible grounds of opposition are listed under subsection 38(2) of the Act. Paragraph 38(2)(a) provides that a ground of opposition may be based on a trade-mark application not conforming with section 30 of the Act. The appellant here based one of its grounds of opposition on subsection 30(b) of the Act.
+[114]
+As indicated, the relevant date is the date of first use of the trade-mark. In its application, the respondent indicated that it has used its trade-mark in Canada since April 1999. The officer accepted that there was sufficient evidence to support this date of first use.
+[115]
+In coming to this finding, the officer noted the appellant's heavy reliance on the absence of Canada from the country drop down list on the respondent's website. This information was included in Ms. Kirk's affidavit which was before the officer. Ms. Kirk accessed various archived versions of the respondent's website from May 18, 2001 through February 5, 2007. In the archived version of the website dated July 20, 2001, it stated:
+Kelly Engineering Resources offers engineering services throughout the United States, covering 42 major cities.
+[116]
+The job search function on this page offered visitors the option to search by location, all of which were limited to U.S. states. The archived versions of the website from the following dates stated that the respondent had a "global network of branch locations"; however, the country drop down lists were limited to the following countries:
+- May 29, 2002: Australia, France, United States
+- November 22, 2002: Australia, France, United States
+- June 23, 2004: Australia, France, Germany, United Kingdom, United States
+- April 4, 2005: Australia, France, Germany, New Zealand, Puerto Rico, United Kingdom, United States
+- June 26, 2005: Australia, France, Germany, New Zealand, Puerto Rico, Russia, United Kingdom, United States
+[117]
+The archived websites retrieved from June 26, 2005 and April 28, 2007 listed the following countries under the categories of worldwide, job search and request staff: Australia, France, Germany, New Zealand, Puerto Rico, Russia, United Kingdom and United States. Some additional countries were also added during this timeframe: Singapore on February 6, 2005; Malaysia and Spain on March 19, 2007; and Italy on April 28, 2007. Canada first showed up on the list on the archived website dated April 28, 2007.
+[118]
+In this appeal, the appellant submitted Mr. Barbeau's affidavit as new evidence. Based on his 25 years of experience in the software and web development industry, Mr. Barbeau explained the significance of country drop down lists on corporate websites as follows:
+[...] A drop down (or selection) list of countries in a website would be carefully programmed to include only those countries where services are being offered, and not to include countries where services are not being offered.
+[...]
+It is my experience that in corporate websites, that have a country selection list, and that offer services to the public, omit a country, then it is likely that the services are not provided in the omitted country.
+[119]
+Mr. Barbeau's evidence does not replicate evidence that was before the officer. Rather, it offers an explanation of the importance of the information presented in Ms. Kirk's affidavit, an explanation that was not before the officer. The respondent criticizes Mr. Barbeau's explanation as being unsupported and a non-expert personal opinion. These are valid criticisms. However, at the same time, I find it notable that the respondent did not seek to cross-examine Mr. Barbeau nor did the respondent submit any evidence contradicting Mr. Barbeau's statements.
+[120]
+Nevertheless, as the officer ultimately found that the print ads, the statement of Ms. French and the existence of the office in Toronto rendered the absence of Canada from the drop down list not clearly inconsistent with the respondent's claimed date of first use, I do not find that Mr. Barbeau's explanation was of sufficient probative significance to have materially affected the officer's findings of fact on this issue. Similarly, I do not find the information provided by Mr. Barbeau on the registration and date of first crawling of the www.kelly engineeringresources.com website relevant, as the evidence on this issue did not concern that site, but rather the www.kellyengineering.com website. Accordingly, I find that the appropriate standard of review of this issue is reasonableness.
+[121]
+The question then turns to whether the officer made a reasonable decision on the subsection 30(b) ground of opposition. The officer found that as the appellant relied on the respondent's evidence, the evidence had to be clearly inconsistent with the claims set forth in the application. The officer erred in requiring the appellant to meet this burden. The relevant law on this point was succinctly stated in
+Ivy Lea Shirt Co Ltd v 1227624 Ontario Ltd
+, [1999] TMOB No 182, 2 CPR (4th) 562, [2001] FCJ No 468; affirmed in 2001 FCT 253 (at paragraph 6):
+While the legal burden is upon the applicant to show that its application complies with Section 30 of the
+Trade-marks Act
+, there is an initial evidential burden on the opponent to establish the facts relied upon by it in support of its Section 30 ground [see
+Joseph E. Seagram& Sons Ltd. et at v. Seagram Real Estate Ltd.
+, 3 C.P.R. (3d) 325, at pp. 329-330; and
+ <FRAGMENT_SUPPRESSED> ]. However, the evidential burden on the opponent respecting the issue of the applicant's non-compliance with Subsection 30(b) of the Act is a light one [see
+ <FRAGMENT_SUPPRESSED> , at p. 89]. Further, t
+he opponent may rely upon the applicant's affidavit evidence to meet its evidential burden in relation to this ground
+.
+In such a case, however, the opponent must show that the applicant's evidence is 'clearly' inconsistent with the applicant's claims set forth in its application
+. [emphasis added]
+[122]
+The evidence on the country drop down lists of the respondent's website was filed by the appellant, not the respondent. Thus, as the appellant was not relying on the respondent's affidavit evidence, the officer erred when she required that the appellant meet the higher standard of clearly inconsistent. This must be considered when assessing the officer's reliance on the print ads, the existence of the office in Toronto and the statement of Ms. French in rejecting the ground of opposition under subsection 30(b).
+[123]
+The officer considered various exhibits attached to Mr. Lichtenberg's affidavit. She noted that no evidence was provided on distribution in Canada of:
+- a sample brochure with copyright date of 2002 that displayed the trade-mark;
+- material used for advertising at universities;
+- examples of sponsorship of scholarships, community activities and press releases; and
+- a sample direct mailing pamphlet with copyright date of 2002 that displayed the trade-mark.
+[124]
+The officer also noted that no information was provided on access in Canada to third party articles displaying the trade-mark.
+[125]
+With regards to the magazines submitted by the respondent's witnesses, the officer noted that the magazines published in April 1999 appeared to be U.S. based. Although she acknowledged Mr. Lichtenberg's statement regarding the approximate Canadian circulation numbers of two magazines, those magazines were published in 2004, not in April 1999, the claimed date of first use.
+[126]
+The officer also noted the annual reports attached to Mr. Litchenberg's affidavit. She observed that these provided information for all of the Kelly businesses, with no specific reference to services provided under the trade-mark. Nevertheless, according to these documents, the officer observed that an office was opened in Toronto in 1998. This information was included in the 2000 Annual Report, which states (at page 8): "January '98: First KSR branch outside the U.S. opens in Toronto". I note that these reports did not indicate that a branch operating under the trade-mark had been launched in Canada.
+[127]
+Turning to Ms. French's first affidavit, the officer acknowledged the sample job listings provided but noted that it was unclear what date these were posted. One appeared to have been posted in 2006. She further observed that the same advertisements from the 1999 magazines that were attached to Mr. Lichtenberg's affidavit were also attached to Ms. French's affidavit. Again, the officer noted that no information was provided on their circulation in Canada.
+[128]
+Further, although Ms. French stated that the respondent regularly attended trade-shows and conferences in Canada, the officer noted that, of those listed, one took place in 2004 and three took place in 2006. Evidence of advertising in transit campaigns was dated 2005 and 2006. The information on direct mailings pertained to those sent in 2005. Finally, with regards to brochures and information sheets featuring the trade-mark, the officer noted that no details were provided on dates or amounts actually distributed in Canada and that the brochure attached to Ms. French's affidavit had a 2006 copyright date.
+[129]
+In her second affidavit, which was submitted in response to the subsection 30(b) ground of opposition, Ms. French stated that services were available to users in Canada on the respondent's website from as early as 1999. However, statistics on the number of hits from users in Canada were unavailable before 2003. Annual hits between 2003 and 2008 ranged from 60,000 to 110,497. I find it notable that no source was provided in support of this information, particularly in light of the respondent's earlier mentioned opposition to the unsupported information in Mr. Barbeau's affidavit.
+[130]
+Finally, the respondent argued that the appellant's own evidence, namely, the copy of the Toronto Yellow Pages from June 1998 to June 1999, clearly showed that it was offering employment placement services to engineers in Canada at the relevant time. Indeed, in this copy of the Yellow Pages, there is an advertisement under the employment section that lists various jobs, including jobs for engineers. However, that advertisement is from Kelly Services, under copyright of 1998 Kelly Services (Canada), Ltd. The trade-mark is not depicted on this advertisement.
+[131]
+The other copies of the Yellow Pages are also notable. KELLY SCIENTIFIC RESOURCES is listed in the 1999 to 2000 Toronto Yellow Pages. KELLY TECHNICAL SERVICES and KELLY FINANCIAL SERVICES are first listed in the 2001 to 2002 and 2002 to 2003 Toronto Yellow Pages, respectively. However, the trade-mark is not listed under the employment listing or associated advertisements in any of the June 1998 through June 2008 excerpts of the Toronto Yellow Pages that were filed with Ms. Kirk's affidavit.
+[132]
+Based on this review, I am unable to understand how the officer could rely on the respondent's print ads, existence of a Toronto office and Ms. French's statements for rejecting the appellant's ground of opposition under subsection 30(b) of the Act. As indicated, in her own review of the evidence, the officer noted the absence of evidence on Canadian distribution of the print ads and other documentary evidence as of April 1999. The sole evidence of Canadian distribution pertained to dates post April 1999. The officer's subsequent reliance on that same evidence as indicative of the use of the trade-mark as of April 1999, particularly in light of the appellant's carefully researched evidence, is not transparent, justifiable or intelligible. I therefore do not find that the officer's decision on this ground was reasonable based on the evidence before her and her own assessment thereof. I would therefore overturn the officer's decision on this issue and find that the appellant's ground of opposition under subsection 30(b) of the Act is valid.
+[133]
+However, the respondent's trade-mark application was not made on the claim of use in Canada claim alone. Rather, it was also filed on the basis of use and registration in the U.S. The appellant did not raise this as a ground of opposition and it was therefore not addressed by the Registrar. However, the appellant submits that where its ground of opposition under subsection 30(b) of the Act stands, this is a sufficient basis for denying the application regardless of whether the respondent made a claim under other provisions. Conversely, the respondent submits that if its claim under date of first use in Canada fails, its application may still be accepted on the basis of use and registration in the U.S.
+[134]
+To support its position, the appellant relied on
+McDonald's
+above. However, as noted by the respondent at the hearing, that case pertained to an amendment sought to effectively change the application from one based on use to one based on proposed use. Such a conversion was prohibited under the statute. That situation differs from the one at bar, in which the respondent included two claims in its application. The inclusion of the alternative claims is a common approach used in legal proceedings and I do not find that the appellant has cited any law or statutory provisions to support its position.
+[135]
+Conversely, the respondent highlighted TMOB jurisprudence that relied on jurisprudence from this Court. For example, in
+ <FRAGMENT_SUPPRESSED>  13 CPR (4th) 539, the TMOB stated (at paragraph 13):
+[...] I would like to add, however, that the failure of the use basis of the present application for the wares marked as (1) in the application does not defeat the application in its entirety. In this regard, I am bound by the decision in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), wherein an application was allowed to proceed on the basis of use and registration in the U.S. notwithstanding the failure of its basis of use in Canada.
+[136]
+Therefore, although I do find that the appellant's ground of opposition is valid under subsection 30(b) of the Act, I do not find that this is a sufficient basis on which to deny the trade-mark application in light of the respondent's unchallenged application based on use and registration of the trade-mark application in the U.S.
+Issue 3
+Did the officer err in her assessment of whether the trade-mark was clearly descriptive or deceptively misdescriptive under paragraph 12(1)(b) of the Act?
+[137]
+Paragraph 12(1)(b) of the Act prohibits trade-marks that are either clearly descriptive or deceptively misdescriptive of the character or quality of the wares or services in association with which they are or are proposed to be used. This determination is one of first impression in the mind of a normal or reasonable person in the everyday use of the associated wares or services (see
+ <FRAGMENT_SUPPRESSED>  [2012] FCJ No 278 at paragraph 29; and
+College of Traditional Chinese Medicine Practitioners and  <FRAGMENT_SUPPRESSED>  [2009] FCJ No 1381 at paragraph 212). In making this determination, the trade-mark must not be considered in isolation or by dissecting it into component parts, but must rather be considered in its full context in conjunction with the associated wares or services (see
+Ontario  <FRAGMENT_SUPPRESSED> , at paragraph 29). This is true even where portions of the trade-mark are disclaimed (see
+College of Traditional Chinese Medicine
+above, at paragraph 212).
+[138]
+If the trade-mark is suggestive of a meaning other than one describing the associated wares or services, then it is not clearly descriptive and therefore not prohibited under paragraph 12(1)(b) of the Act (see
+Ontario  <FRAGMENT_SUPPRESSED> , at paragraph 29). Conversely, if the trade-mark would mislead the general public into the belief that the associated wares or services has an association with a word or name contained in the trade-mark, it is likely deceptively misdescriptive and would thereby be prohibited under paragraph 12(1)(b) of the Act (see
+Ron  <FRAGMENT_SUPPRESSED>  [2010] FCJ No 1006 at paragraph 15; affirmed in 2011 FCA 244).
+[139]
+In this case, the appellant argued that the trade-mark is clearly descriptive or deceptively misdescriptive of engineering services, including services offered by an engineer with the last name Kelly. Relevant evidence before the officer included the appellant's affidavit evidence from Mr. Kizas and Ms. Eatherley.
+[140]
+Mr. Kizas introduced copies of the statutes regulating the engineering profession in Canada and highlighted the provisions regulating the use of engineering designations. He also provided certified confirmation from all the constituent associations that the respondent is not registered to engage in the practice of engineering. Ms. Eatherley provided results of various searches on the surname Kelly and of businesses across Canada with the name Kelly accompanied by the word engineer.
+[141]
+After considering this evidence, the officer found that the trade-mark was neither clearly descriptive nor deceptively misdescriptive. On the question of whether the trade-mark is clearly descriptive, the officer noted that although a consumer of employment services may think that the business was owned by someone with the surname Kelly, this did not necessarily render the trade-mark clearly descriptive of personnel employment services. On this appeal, I do not find that the appellant introduced new evidence of probative significance that extends beyond the material that was before the officer in this determination. Based on the available evidence, I find that the officer came to a reasonable finding that the trade-mark is not clearly descriptive.
+[142]
+However, on the issue of whether the trade-mark is deceptively misdescriptive, I find that the appellant introduced new evidence of probative significance that extends beyond the material that was before the officer. Particularly important are the affidavits from Mr. Neth and Mr. McMartin.
+[143]
+Both Mr. Neth and Mr. McMartin stated that companies engaged in the business of placing or staffing engineers in employment positions to provide professional engineering services may themselves be required to register with the appropriate constituent association. In his affidavit, Mr. Neth appended the APEGGA Policy (mentioned above) that is used for assessing whether a human resources and staffing agency is engaged in the practice of engineering in Alberta. This was not included in the evidence before the officer. Mr. Neth explained the rationale for this policy as follows:
+APEGGA strongly believes that this is in the public interest, as the customer can establish a climate and/or policies which preclude the likelihood of adequate standards of professional practice, particularly in the case of contract employees to a customer who is otherwise not familiar with professional practice. . .
+[144]
+Where the criteria listed in the APEGGA Policy are met, the company is required to obtain a permit to practice in Alberta. Mr. Neth noted that he was aware of three companies offering services in the area of human resources staffing that meet the criteria and have obtained permits to practice engineering from APEGGA. Applying the criteria to the respondent's operations as described in Mr. Litchenberg's affidavit, Mr. Neth found that the respondent would be required to obtain a permit to practice in Alberta. Although the respondent argued at the hearing that there was insufficient evidence on the record to support that finding, the respondent did not file any evidence to support an opposite finding. Notably, the respondent was the sole party in these proceedings with the means of doing so.
+[145]
+In coming to her finding that the trade-mark was not deceptively misdescriptive, the officer was not convinced that personnel employment services
+per se
+are a specialized field of engineering. However, the evidence from both Mr. Neth and Mr. McMartin explains the importance of regulating companies engaged in personnel employment services and highlights the existence of a policy used to determine what human resource and staffing companies would fall within the scope of the statutory framework for the engineering profession. Their evidence also indicates that some employment services companies are currently regulated under the Alberta engineering statute and that the respondent's operations, as described by the available evidence, fall within this regulatory scope.
+[146]
+The officer also relied on the use of the word resources in the trade-mark, finding its use in the trade-mark equally significant as the use of the word engineering therein. However, in his affidavit, Mr. Neth noted that the modifier resources as used in the trade-mark would not exclude firms from compliance with the Alberta statute. In fact, APEGGA currently has 113 companies registered with active permits to practice whose names include the word resources; three of these have both words engineering and resources in their names. Thus, although not as determinative as the APEGGA Policy, this evidence also has significant implications to the officer's analysis and ultimate finding on whether the trade-mark was deceptively misdescriptive.
+[147]
+I also find Mr. Neth's statement on the trade-mark being misdescriptive of the services offered by the respondent notable. Mr. Neth referred to Mr. Litchenberg's description of the respondent as placing "qualified engineers, designers, drafters and technicians". Mr. Neth noted that the descriptor engineering in the trade-mark could only imply that the persons available through the respondent are entitled to engage in the practice of engineering. However, designers, drafters and technicians are not entitled to engage in the practice of engineering in Canada and are not an engineering resource as per the trade-mark. Mr. Neth stated that if the respondent places technical persons, including engineers, a more appropriate and non-deceptive name would be KELLY TECHNICAL RESOURCES. In her decision, the officer did not consider in great depth the implications of the respondent placing personnel other than engineers under the trade-mark.
+[148]
+In summary, I find that this new evidence has probative significance to the question of whether the trade-mark is deceptively misdescriptive. The officer's finding on this issue must therefore be reviewed on a correctness standard.
+[149]
+The trade-mark, when considered in association with the listed services, implies that the respondent is entitled to provide engineering employment services to engineers and companies seeking to hire engineers. However, as indicated by the APEGGA Policy and the affidavit of Mr. Neth, human resource and staffing companies that offer services in the manner offered by the respondent require a permit to practice in Alberta. The respondent does not hold any such permit, which suggests that the trade-mark is deceptively misdescriptive of the services provided under that name. This is exacerbated by the evidence that the trade-mark is used to advertise employment of qualified designers, drafters and technicians. As noted by Mr. Neth, only licensed engineers are entitled to practice engineering in Canada and this advertisement misleads consumers into believing that designers, drafters and technicians placed by the respondent are also qualified to practice engineering.
+[150]
+As mentioned, the officer also relied on the significance of the word resources in the trade-mark. However, in his affidavit, Mr. Neth indicated that the use of the word resources is common in the names of licensed engineering companies. It is also notable that where there is a misdescriptive matter, such as the word engineering in the trade-mark, the trade-mark as a whole is likely to be unregistrable. Further, although the words engineering and resources have been disclaimed by the respondent, the jurisprudence clearly provides that "disclaimers should not be used in relation to deceptively misdescriptive matter so as to render the trade mark as a whole registrable when the unregistrable matter is the dominant feature of the composite mark" (see
+ <FRAGMENT_SUPPRESSED>  at 243).
+[151]
+Concurrently, I note Mr. Lichtenberg's cross-examination evidence that was highlighted by the appellant. As noted, the respondent's intent in providing its different divisions, such as KELLY SCIENTIFIC RESOURCES and KELLY HEALTHCARE RESOURCES, is to create a niche of staffing providers. As the words Kelly and Resources are consistent in every division, I find the modifiers, namely Scientific, Healthcare or Engineering as used in the trade-mark, are dominant features of the divisions' names that would strongly influence the first impression of the consumer of the respondent's services offered under the different divisions.
+[152]
+The respondent relied on the word Kelly in the trade-mark. However, as noted by the appellant, the word Kelly has broad usage and I find this renders its significance relatively weak in comparison to the disclaimed words. It is also distinguishable from the case of
+ <FRAGMENT_SUPPRESSED>  [2011] TMOB No 5003, relied on by the respondent. There, the TMOB noted that there was no evidence that the word COMSOL was a person's name. The TMOB found that it was a highly distinctive word that occupied the first position in the mark, thereby dominating it (see <FRAGMENT_SUPPRESSED> above, at paragraphs 25 and 38). Conversely, in this case, extensive evidence indicated that Kelly has common usage both on its own and in conjunction with the word engineering. I therefore do not find it to be a similarly distinctive word as the word COMSOL in the trade-mark at issue in <FRAGMENT_SUPPRESSED> above.
+[153]
+For these collective reasons and recalling that the purpose of this portion of paragraph 12(1)(b) is to prevent the purchasing public from being misled, I find that the trade-mark is deceptively misdescriptive of the character and quality of the listed services. It is therefore prohibited pursuant to paragraph 12(1)(b) of the Act.
+[154]
+The respondent submits that should this Court find that the trade-mark is prohibited under paragraph 12(1)(b) of the Act, it would nonetheless be saved under subsection 14(1) of the Act.
+[155]
+At the outset I note the appellant's reference to the use of the wording "or of such a nature as to deceive the public" in paragraph 14(1)(c). The analysis above supports a finding that the trade-mark would deceive the public and it can therefore not be saved under subsection 14(1) of the Act.
+[156]
+I also note the underlying rationale for the APEGGA Policy as explained by Mr. Neth. This policy is in place to protect customers who are unfamiliar with the practice of professional engineering. I find particularly troublesome the potential that a customer seeking to hire a qualified engineer, as advertised by the respondent, hires an engineer through the respondent's trade-mark that may be qualified in another jurisdiction but not licensed to practice engineering in Canada. This offends the objects specified in several Canadian engineering statutes. For example, subsection 5(c) of the
+Engineering Profession Act
+, RSNS 1989, c 148 (included in Mr. Kizas' affidavit) clearly states:
+The objects of the Association are to [...] assure the general public of the proficiency and competency of professional engineers in the practice of engineering [...]
+[157]
+I find that the acceptance of the trade-mark application runs the risk of opening up the door to abuse, thereby placing the public interest at risk, the protection of which lies at the core of the regulation of the engineering profession in Canada. This accentuates the importance that a trade-mark used in a field related to engineering not be deceptively misdescriptive or of such a nature as to deceive the public in a manner that ultimately offends the public order. The trade-mark is therefore not saved by subsection 14(1) of the Act.
+Issue 4
+Did the officer err in her assessment of whether the trade-mark was distinctive under paragraph 38(2)(d) and section 2 of the Act?
+[158]
+Because of my finding on the paragraph 12(1)(b) ground of opposition, I will not deal with the issue of distinctiveness.
+[159]
+The appellant's application is allowed as follows:
+1. A declaration will issue that the Registrar of Trade-marks erred in rejecting CCPE's paragraph 12(1)(b) opposition to application No. 1,220,370 for the trade-mark KELLY ENGINEERING RESOURCES.
+2. An order will issue reversing the decision of the Registrar of Trade-marks on the basis that the respondent has not established a valid claim under section 14 of the
+Trade-marks Act
+and that the subject trade-mark is deceptively misdescriptive and is thus not registrable.
+3. An order will issue refusing trade-mark application No. 1,220,370 for the trade-mark KELLY ENGINEERING RESOURCES.
+4. The appellant shall have its costs of the application.
+JUDGMENT
+[160]
+IT IS DECLARED that
+the Registrar of Trade-marks erred in rejecting CCPE's paragraph 12(1)(b) opposition to application No. 1,220,370 for the trade-mark KELLY ENGINEERING RESOURCES.
+[161]
+IT IS ORDERED that
+:
+1. The decision of the Registrar of Trade-marks is reversed on the basis that the respondent has not established a valid claim under section 14 of the
+Trade-marks Act
+and that the subject trade-mark is deceptively misdescriptive and is thus not registrable.
+2. Trade-mark application No. 1,220,370 for the trade-mark KELLY ENGINEERING RESOURCES is refused.
+3. The appellant shall have its costs of the application.
+Appeal allowed.
+Editor: Elizabeth M.A. Turgeon/vnh
+ANNEX
+Relevant Statutory Provisions
+Trade-Marks Act
+, RSC 1985, c T-13
+2. In this Act, . . .
+"distinctive", in relation to a trade-mark, means a trade-mark that actually distinguishes the wares or services in association with which it is used by its owner from the wares or services of others or is adapted so to distinguish them;
+4. (2) A trade-mark is deemed to be used in association with services if it is used or displayed in the performance or advertising of those services.
+12. (1) Subject to section 13, a trade-mark is registrable if it is not
+. . .
+(b) whether depicted, written or sounded, either clearly descriptive or deceptively misdescriptive in the English or French language of the character or quality of the wares or services in association with which it is used or proposed to be used or of the conditions of or the persons employed in their production or of their place of origin;
+14. (1) Notwithstanding section 12, a trade-mark that the applicant or the applicant's predecessor in title has caused to be duly registered in or for the country of origin of the applicant is registrable if, in Canada,
+(a) it is not confusing with a registered trade-mark;
+(b) it is not without distinctive character, having regard to all the circumstances of the case including the length of time during which it has been used in any country;
+(c) it is not contrary to morality or public order or of such a nature as to deceive the public; or
+(d) it is not a trade-mark of which the adoption is prohibited by section 9 or 10.
+(2) A trade-mark that differs from the trade-mark registered in the country of origin only by elements that do not alter its distinctive character or affect its identity in the form under which it is registered in the country of origin shall be regarded for the purpose of subsection (1) as the trade-mark so registered.
+30. An applicant for the registration of a trade-mark shall file with the Registrar an application containing
+. . .
+(b) in the case of a trade-mark that has been used in Canada, the date from which the applicant or his named predecessors in title, if any, have so used the trade-mark in association with each of the general classes of wares or services described in the application;
+38.(2) A statement of opposition may be based on any of the following grounds:
+. . .
+(b) that the trade-mark is not registrable;
+. . .
+(d) that the trade-mark is not distinctive.
+56. (1) An appeal lies to the Federal Court from any decision of the Registrar under this Act within two months from the date on which notice of the decision was dispatched by the Registrar or within such further time as the Court may allow, either before or after the expiration of the two months.
+(2) An appeal under subsection (1) shall be made by way of notice of appeal filed with the Registrar and in the Federal Court.
+(3) The appellant shall, within the time limited or allowed by subsection (1), send a copy of the notice by registered mail to the registered owner of any trade-mark that has been referred to by the Registrar in the decision complained of and to every other person who was entitled to notice of the decision.
+(4) The Federal Court may direct that public notice of the hearing of an appeal under subsection (1) and of the matters at issue therein be given in such manner as it deems proper.
+(5) On an appeal under subsection (1), evidence in addition to that adduced before the Registrar may be adduced and the Federal Court may exercise any discretion vested in the Registrar.
+2. Les définitions qui suivent s'appliquent à la présente loi. . . .
+« distinctive » Relativement à une marque de commerce, celle qui distingue véritablement les marchandises ou services en liaison avec lesquels elle est employée par son propriétaire, des marchandises ou services d'autres propriétaires, ou qui est adaptée à les distinguer ainsi.
+4. (2) Une marque de commerce est réputée employée en liaison avec des services si elle est employée ou montrée dans l'exécution ou l'annonce de ces services.
+12. (1) Sous réserve de l'article 13, une marque de commerce est enregistrable sauf dans l'un ou l'autre des cas suivants:
+. . .
+b) qu'elle soit sous forme graphique, écrite ou sonore, elle donne une description claire ou donne une description fausse et trompeuse, en langue française ou anglaise, de la nature ou de la qualité des marchandises ou services en liaison avec lesquels elle est employée, ou à l'égard desquels on projette de l'employer, ou des conditions de leur production, ou des personnes qui les produisent, ou du lieu d'origine de ces marchandises ou services;
+14. (1) Nonobstant l'article 12, une marque de commerce que le requérant ou son prédécesseur en titre a fait dûment déposer dans son pays d'origine, ou pour son pays d'origine, est enregistrable si, au Canada, selon le cas:
+a) elle ne crée pas de confusion avec une marque de commerce déposée;
+b) elle n'est pas dépourvue de caractère distinctif, eu égard aux circonstances, y compris la durée de l'emploi qui en a été fait dans tout pays;
+c) elle n'est pas contraire à la moralité ou à l'ordre public, ni de nature à tromper le public;
+d) son adoption comme marque de commerce n'est pas interdite par l'article 9 ou 10.
+(2) Une marque de commerce qui diffère de la marque de commerce déposée dans le pays d'origine seulement par des éléments qui ne changent pas son caractère distinctif ou qui ne touchent pas à son identité dans la forme sous laquelle elle est déposée au pays d'origine, est considérée, pour l'application du paragraphe (1), comme la marque de commerce ainsi déposée.
+30. Quiconque sollicite l'enregistrement d'une marque de commerce produit au bureau du registraire une demande renfermant:
+. . .
+b) dans le cas d'une marque de commerce qui a été employée au Canada, la date à compter de laquelle le requérant ou ses prédécesseurs en titre désignés, le cas échéant, ont ainsi employé la marque de commerce en liaison avec chacune des catégories générales de marchandises ou services décrites dans la demande;
+38.(2) Cette opposition peut être fondée sur l'un des motifs suivants:
+. . .
+b) la marque de commerce n'est pas enregistrable;
+. . .
+d) la marque de commerce n'est pas distinctive.
+56. (1) Appel de toute décision rendue par le registraire, sous le régime de la présente loi, peut être interjeté à la Cour fédérale dans les deux mois qui suivent la date où le registraire a expédié l'avis de la décision ou dans tel délai supplémentaire accordé par le tribunal, soit avant, soit après l'expiration des deux mois.
+(2) L'appel est interjeté au moyen d'un avis d'appel produit au bureau du registraire et à la Cour fédérale.
+(3) L'appelant envoie, dans le délai établi ou accordé par le paragraphe (1), par courrier recommandé, une copie de l'avis au propriétaire inscrit de toute marque de commerce que le registraire a mentionnée dans la décision sur laquelle porte la plainte et à toute autre personne qui avait droit à un avis de cette décision.
+(4) Le tribunal peut ordonner qu'un avis public de l'audition de l'appel et des matières en litige dans cet appel soit donné de la manière qu'il juge opportune.
+(5) Lors de l'appel, il peut être apporté une preuve en plus de celle qui a été fournie devant le registraire, et le tribunal peut exercer toute discrétion dont le registraire est investi.
+Federal Courts Rules
+, SOR/98-106
+245. (1) A person who was examined for discovery and who discovers that the answer to a question in the examination is no longer correct or complete shall, without delay, provide the examining party with the corrected or completed information in writing.
+(2) An examining party may require a person providing information under subsection (1) to continue the examination for discovery in respect of that information.
+(3) Information provided under subsection (1) is deemed to be part of the examination for discovery.
+245. (1) La personne interrogée au préalable qui se rend compte par la suite que la réponse qu'elle a donnée à une question n'est plus exacte ou complète fournit sans délai, par écrit, les renseignements exacts ou complets à la partie qui l'a interrogée.
+(2) Si une personne interrogée au préalable donne des renseignements en application du paragraphe (1), la partie qui l'a interrogée peut reprendre l'interrogatoire préalable à l'égard de ces renseignements.
+(3) Les renseignements donnés aux termes du paragraphe (1) sont réputés faire partie de l'interrogatoire préalable.

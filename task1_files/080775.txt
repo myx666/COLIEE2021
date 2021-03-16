@@ -1,0 +1,244 @@
+[1]
+Reed, J.
+: This appeal raises three questions. The first is whether the Convention Refugee Determination Division of the Immigration and Refugee Board ("the panel") erred in the test it applied to determine that the principal applicant, Douglas Penate, was excluded from Convention refugee status protection because there were serious reasons for considering that he had committed an international offence or offenses [see footnote 1]. The second question is whether the panel erred in assessing the dependent claim of Hilda Lorena Canales de Penate, the principal applicant's wife, by not making an independent and explicit assessment of the principal applicant's claim without reference to his exclusion from refugee status protection. The third question is whether the panel erred in the test it applied in assessing the relevance of changed country conditions to the wife's claim.
+Application Of And Test For Exclusion
+Pursuant To Article I(F)
+[2]
+Section 2(1) of the
+Immigration Act
+, R.S.C. 1985, c. I-2, states that for the purposes of the
+Act
+a "Convention refugee":
+"... does not include any person to whom the Convention does not apply pursuant to s. E or F of art. I thereof, which sections are set out in the schedule to this Act,"
+The relevant part of art. I(F) of the
+Convention
+, set out in the schedule to the
+Act
+states:
+"F. The provisions of this convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+(a) he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;"
+[3]
+Counsel for the applicants referred to three cases which have interpreted this provision:
+ <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 173 (F.C.A.);
+Moreno and  <FRAGMENT_SUPPRESSED>  (F.C.A.).
+[4]
+I do not think there is any dispute concerning the principles set out in the three cases:
+1. The burden of proof which must be met by the Minister to demonstrate that the
+Convention
+does not apply to a given individual is less than the balance of probabilities. That is, there is no need for the person to have been convicted or even charged with an international offence. This follows from the wording of the text which requires only that there be "serious reasons for considering" that the individual committed an act of the type described. Alternatively, one could consider this requirement as a threshold question with respect to which the existence of the "serious reasons for considering" have to be proven on the balance of probabilities but nothing turns on whether the test is characterized as a burden of proof requirement or as a threshold test [see footnote 2].
+2. An individual who has been complicit in (an accomplice to) an act which is physically committed by another is as responsible for the offence as the person who physically committed the act. Thus, if there are serious reasons for considering that an individual has been complicit in the commission of an international offence that individual will be excluded from obtaining refugee status by operation of art. I(F).
+3. In order to be complicit in the commission of an international offence the individual's participation must be personal and knowing. Complicity in an offence rests on a shared common purpose.
+[5]
+The <FRAGMENT_SUPPRESSED> , <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> cases all deal with the degree or type of participation which will constitute complicity. Those cases have established that mere membership in an organization which from time to time commits international offenses is not normally sufficient to bring one into the category of an accomplice. At the same time, if the organization is principally directed to a limited, brutal purpose, such as a secret police activity, mere membership may indeed meet the requirements of personal and knowing participation. The cases also establish that mere presence at the scene of an offence, for example, as a bystander with no intrinsic connection with the persecuting group will not amount to personal involvement. Physical presence together with other factors may however qualify as a personal and knowing participation.
+[6]
+As I understand the jurisprudence, it is that a person who is a member of the persecuting group and who has knowledge that activities are being committed by the group and who neither takes steps to prevent them occurring (if he has the power to do so) nor disengages himself from the group at the earliest opportunity (consistent with safety for himself) but who lends his active support to the group will be considered to be an accomplice. A shared common purpose will be considered to exist. I note that the situation envisaged by this jurisprudence is not one in which isolated incidents of international offenses have occurred but where the commission of such offenses is a continuous and regular part of the operation.
+[7]
+In <FRAGMENT_SUPPRESSED> , the applicant guarded prisoners on numerous occasions, standing by while they were tortured. Mr. Justice MacGuigan noted that this was not a borderline case of participation. It was a very clear example of direct involvement. It was noted that the individual's presence at numerous incidents of persecution coupled with the sharing in the common purpose of the military force clearly constituted complicity.
+[8]
+The <FRAGMENT_SUPPRESSED> case involved a forcibly conscripted 16 year old who saw acts of torture and other atrocities being committed by the group and who was instructed to shoot civilians but who deserted from the army at the first opportunity. A shared common purpose was held not to exist.
+[9]
+In <FRAGMENT_SUPPRESSED> , the court discussed complicity as a result of being part of the command structure of the organization. Mr. Justice Linden commented that association with a person or organization responsible for international offenses may constitute complicity if there is personal and knowing participation or
+toleration of the offence
+. He stated that the closer one is to a position of leadership or command within an organization the easier it will be to draw an inference of awareness of the offenses and participation in the plans to commit them. An excerpt from the text
+Crimes Against Humanity in International Criminal Law
+(1922), by M. Cherif Bassiouni was cited (p. 345):
+"... the closer a person is involved in the decision-making process and the less he does to oppose or prevent the decision, or fails to dissociate himself from it, the more likely the person's criminal responsibility will be at stake."
+[10]
+When the present case was decided, the <FRAGMENT_SUPPRESSED> case had been decided but not <FRAGMENT_SUPPRESSED> or <FRAGMENT_SUPPRESSED> . The panel carefully analyzed the facts of the present case by reference to the principles set out in <FRAGMENT_SUPPRESSED> . I can see no error in the formation of the principles the panel members adopted nor in their application to the facts of this case. This is so not only in the light of the decision in <FRAGMENT_SUPPRESSED> but also in the light of the later decisions in <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> .
+[11]
+The individual in the present case was a career soldier in the El Salvadoran army. He knew that atrocities were being committed. On his own evidence he witnessed, at least, one international offence, the murder of two women. The panel clearly believed that he knew much more about the international offenses being committed by the El Salvadoran army that he was admitting:
+"From the testimony provided at the hearing, it appears that the male claimant is a person who knew that the Salvadoran army was responsible for crimes committed during the civil war. He testified that he witnessed the murder of two women in 1982 and he also knew that death squads existed and were linked with the army. He knew that prisoners at times were tortured or disappeared.
+"On the balance of probabilities, the panel believes that the male claimant knew much more about the war crimes committed by the Salvadoran army than he admits. In 1982, he had received special training in the area of human rights, for the purpose of instructing other members of the Salvadoran army and promoting the respect for the rights of civilians in combat zones. He was also a person who was often involved in field operations and as an officer who commanded units engaged in counter-insurgency operations, the male claimant must have known about the crimes that have been widely reported by the media and by human rights organizations. As a person who had received special training in the respect of human rights, the male claimant would clearly be able to recognize activities which violated human rights. ..."
+[12]
+Counsel for the applicants argued that the principal applicant did not "witness" the murder of the two women. Although the principal applicant stated at one point that he saw that event, at another point he stated that he only saw the two women being taken away from the patrol, heard the gun shots when the women were about 200 metres away from him and was told by someone else the women had been shot. I do not think that in those circumstances the fact of whether he actually "saw" the killing is significant. He knew what was occurring or had occurred; he heard the gun shots; he saw the women being taken away. It is not an incorrect conclusion for the panel to say that he witnessed the event.
+[13]
+The principal applicant joined the El Salvadoran army in 1978. He was placed there when he was 13 years old by his uncle and tutor. He remained in the army voluntarily and pursued a career, rising first to the rank of corporal and then sergeant. In May 1984, the principal applicant received counter-insurgency training in Honduras. The purpose of this training was to learn how to fight against guerillas in the mountains. He received further training in El Salvador, at the Atlacatl Immediate Response Battalion, to enable him to teach experienced soldiers tactical manoeuvres and the use of weapons. He acted as an instructor at the Atlacatl Battalion for a period of six to eight months during which he trained approximately 2,000 soldiers. While acting as an instructor, he continued to participate in combat missions. His role was to draft the plan of action and then to carry out the attack. In 1984-1985, he was the chief of a combat patrol, with 14 men under his command. He operated in the eastern and northern sections of El Salvador. The panel referred to documentary evidence before it which indicated that in December of 1981, the Atlacatl Battalion had been responsible for killing 794 persons and in 1989 for the murder of six Jesuit priests and two women. At the actual date of these events, the principal applicant was not a member of that battalion or associated with it.
+[14]
+The principal applicant did not leave the army until 1988 and then he did so because he wished to spend more time with his family. He had married in early 1988. He was given an honourable discharge in December of 1988 and remained a member of the army reserve. In the light of all this evidence, the panel concluded that although the principal applicant knew of the international offenses being committed he did not disassociate himself from the army at any time but accepted positions of higher responsibility. I quote some of the panel's conclusions in this regard:
+"... He did not disassociate himself from the army at that time. On the contrary, the fact that he accepted positions of higher responsibility, like the training of members of the Atlacatl Battalion, the planning of operations or the command of units on the field, in the panel's view, means that the male claimant accepted the approach taken by the army, associated himself with the leaders of the armed forces and, by lending his technical knowledge and his energies, willingly cooperated in the organization and execution of operations, knowing that they could result in the commission of international crimes and that, in fact, sometimes resulted in such crimes being committed. From what the claimant stated at his hearing, he was a middle ranking officer, who had knowledge, experience and dedication to his work and, therefore, part of a limited group of people who made the army function.
+"The panel took into consideration the fact that the army is not an organization 'principally directed to a limited, brutal purpose'. In fact, the panel believes that the Salvadoran army has a legitimate function in defending the country from aggression, be it internal or external. Therefore, mere membership in the army may not by necessity involve personal and knowing participation in persecutorial acts. However, given that the male claimant was involved in counter-insurgency operations, and particularly in the planning of those operations, and that the international crimes committed by the army were linked to counter-insurgency operations, and sometimes part of the strategy used in the execution of counter-insurgency operations, it is not possible to conclude that the male claimant was not an accomplice in the crimes committed by the army. Even if the claimant, as testified, did not hurt anyone with his own hands, the panel finds that, by embracing the goals of the army and by lending his effective support, he also accepted the darker aspects of the operations conducted by the army and became an accomplice in the international crimes committed by the army. ..." (footnotes omitted)
+[15]
+As I have already indicated, I do not think the panel erred in concluding that there exist serious reasons for considering that the principal applicant had committed or been complicit in the commission of international offenses.
+Assessment Of Dependent
+Applicant's Claim
+[16]
+Counsel for the applicants argues that the panel erred because it did not assess whether or not the principal applicant would have been entitled to Convention refugee status had he not fallen into the category described in art. I(F) of the
+Convention
+. It is argued that such an assessment is necessary in order to deal with the dependent claim made by his wife. It is argued that this follows from the Court of Appeal decision in <FRAGMENT_SUPPRESSED> (supra). In that case the panel made no assessment of the dependent applicant's claim independent of the application of the exclusion to her husband. At pp. 26-29 the following statements are found:
+"(E)
+Did the Board err in law by failing to determine the male appellant's eligibility under the inclusion clause?
+"Having concluded that this appellant's conduct does not provide a legal basis on which to invoke the exclusion clause, it is unnecessary for this court to address this fundamental question. Nor is it necessary to decide a corollary issue; whether the Board has the discretion to weigh the nature of the crimes against humanity with the fate awaiting a claimant who would have been declared a Convention refugee were it not for the application of the exclusion clause. One way of restating that question is as follows: Did the Board err by failing to weigh evidence favouring the application of the exclusion clause against that favouring inclusion? These questions will have to be addressed another day; see <FRAGMENT_SUPPRESSED> , supra, but see
+ <FRAGMENT_SUPPRESSED>  (C.A.), per Marceau, J.A., at pp. 607-608.
+"It [sic] think it helpful to point out that it would have been preferable had the Board made a determination with respect to the appellant's refugee claim notwithstanding its decision to apply the exclusion clause. There are three reasons for this view.
+"First, as a practical matter it is extremely difficult to separate the grounds on which a claimant bases his or her refugee claim from the circumstances which might give rise to the application of the exclusion clause. ...
+"Second, in the event that the Board errs with respect to the application of the exclusion clause but has also ruled on the application of the inclusion clause, it may be unnecessary to refer the matter back to the Board. The same holds true if the Board rules on the inclusion clause, reaches a negative determination and dismisses the claim without turning to the exclusion criteria. Considerations of time and expense are always persuasive when establishing practical guidelines. I note that some panels of the Board have already recognized the benefits of making alternative rulings; see <FRAGMENT_SUPPRESSED> , supra, and
+ <FRAGMENT_SUPPRESSED>  considerations, it may well be that in certain cases the Board will be legally obligated to rule on the refugee claim irrespective of the applicability of the exclusion clause. That possibility arises in the context of spousal and dependent refugee claims and is discussed below.
+. . . . .
+"... The likelihood of the female appellant suffering persecution is not extinguished simply because the exclusion clause renders the male appellant ineligible for consideration."
+[17]
+It is important, then, in the present case, to set out exactly how the panel dealt with the wife's dependent claim:
+"After considering all the evidence provided by the female claimant and by the male claimant, as well as the documentary evidence submitted at the hearing, the panel is not persuaded that the female claimant has a well-founded fear of persecution by reason of any of the grounds set out in the definition of Convention refugee, if she were to return to El Salvador.
+"She declared that her fear of persecution is based on her political opinion and on her membership in a particular social group. She did not express a political opinion when in El Salvador. The evidence presented at the hearing does not indicate that the female claimant was attributed a political opinion because of her relationship with her husband. In the panel's opinion, there is no more than a mere possibility that this would happen in the future, in view of the peace agreement between the Salvadoran government and the guerillas, which has put an end to the armed confrontation and has decreased the tension between the two groups.
+"The panel also considered whether the female claimant has a well-founded fear of persecution because of her membership in a particular social group, namely her marital relationship with the male claimant. She testified that she fears being persecuted in El Salvador by the army, by the members of guerilla groups and by the death squads.
+"The panel finds that there is no serious possibility that the female claimant would be persecuted in El Salvador by the army. She had never expressed a political opinion opposing the government of El Salvador or done anything that would have given the army a reason to persecute her.
+"As a reason for her fear of being persecuted by the army she quoted the fact that she is married to a former army officer, who was sought by the army after he had left El Salvador. The panel is willing to accept the testimony that telegrams received by the male claimant's grandparents ordered the male claimant to report to the army; the panel is also willing to accept the further testimony that members of the military visited the male claimant's grandparents' home to inquire about the male claimant and that once his grandfather was roughed up by the soldiers.
+"However, the inference drawn by the male claimant, that he was sought for persecution, is based on speculation. Considering that he had been given an honourable discharge and that he had not experienced problems during his active service in the army and while residing in El Salvador after leaving the army, it seems more logical to believe that the male claimant was sought by the military because he was a member of the reserve and was under obligation to report for service when called. ...
+. . . . .
+"The fact that the female claimant was not contacted by the army while she was in El Salvador, at a time when her husband was allegedly sought by the military, is a further reason that that persuades the panel that there is not a reasonable chance that she would be persecuted in El Salvador by the military. She remained in El Salvador for five months after her husband left and was in El Salvador when the telegrams were sent to her husband's grandparents. She was not contacted, even though her address in Santa Tecla was listed in her husband's military records after they were married in March 1988. She left the address only about six weeks before departing from El Salvador in July 1989.
+"Further, the panel is not persuaded that the female claimant has a well-founded fear of persecution at the hands of the guerillas. The evidence does not indicate that she was sought by the guerillas. It appears that the guerillas could have found her easily, considering her testimony that people in her neighbourhood knew that she was married to an army officer. Even though she moved to a new home after her marriage, in March 1988, the female claimant was not in hiding and continued to work at her usual place of employment. She testified that she moved to a different neighbourhood for about six weeks, though she did not quit her job.
+"An additional reason for believing that the female claimant's fear is not well-founded is that a peace accord has been signed between the guerilla groups and the government of El Salvador, bringing the civil war to an end. The panel is persuaded that there is no serious possibility that the wife of a former military officer would be persecuted by the guerillas, at a time when the former combatants are collaborating in the peace process.
+"The documentary evidence indicates that acts of violence continue to occur in El Salvador, though the cease-fire has not been broken and the pacification process continues, albeit at a slower pace than initially planned. At the present time, the documentary evidence leads the panel to believe that the change of circumstances in El Salvador is of substantial political significance and durable.
+"Considering that the hostilities have ceased between the parties involved in the war, the chance that the female claimant might be persecuted because of her political opinion or because of her family relation with a former army officer, is in the realm of a mere possibility.
+. . . . .
+"For all the above reasons and after considering all the evidence, the panel determines that the female claimant does not have a well-founded fear of persecution by reason of any of the grounds enumerated in the definition of Convention refugee, if she were to return to El Salvador. Therefore, the panel determines that Hilda Lorena Canales de Penate is not a Convention refugee." (footnotes omitted)
+[18]
+In the <FRAGMENT_SUPPRESSED> case, the CRDD panel found the principal applicant to be excluded from Convention refugee status on art. I(F) grounds. The panel dismissed the wife's dependent claim assuming that it automatically fell with the dismissal of the claim on which it depended. It is in this context that the comments cited above from <FRAGMENT_SUPPRESSED> were made.
+[19]
+I note first of all that the particular words of the <FRAGMENT_SUPPRESSED> decision relied upon by counsel for the applicant stated only "
+it may
+well be that in
+certain
+cases the Board will be legally obligated to rule on the refugee claim irrespective of the applicability of the exclusion clause. That
+possibility
+arises in the content of spousal and dependent refugee claims ..." (underlining added). Thus, the requirement to assess the principal applicant's claim is not a general or mandatory one but one which "
+may
+arise ... in certain cases". Secondly, the comments, int he context of the <FRAGMENT_SUPPRESSED> case were dicta. The Court of Appeal in that case found that the principal applicant should not have been excluded on art. I(F) grounds. Therefore, there was no need for the Court of Appeal to address its mind to the specific kind of analysis which was necessary by a panel to deal with a dependent claim when the principal applicant was subject to exclusion. Most importantly however, the approach taken by the panel in assessing the wife's claim in this case fully meets the concern expressed by the Court of Appeal in <FRAGMENT_SUPPRESSED> . The wife's claim was assessed independently but by reference to the factual situations which her husband had asserted in his claim. The dependant claim was assessed on its own merits. The circumstances on which the principal claim was based were taken into account in doing so. I do not think the panel committed any error of law in proceeding as it did.
+Changed Country Conditions -
+Criteria For Assessment
+[20]
+Counsel for the applicants argues that the panel erred in assessing the significance of changed country conditions on the wife's claim because it did not adopt and address the criteria set out by Professor Hathaway in his text
+The Law of Refugee Status
+(1991), at pp. 200-203. Counsel for the applicants referred to the recent decision of Mr. Justice Nadon in
+ <FRAGMENT_SUPPRESSED>  (T.D.) as support for the proposition that this should have been done.
+[21]
+Counsel for the respondent, on the other hand, argued that this court, both the appeal and trial divisions, have consistently held that the Hathaway criteria are not limiting with respect to the assessment of changed country conditions in the context of a claim for refugee status.
+[22]
+I think it is important to review the jurisprudence and the legislative context to which it relates because I think the conflict which is alleged to exist between the various decisions of this court is more an apparent one than real. I first of all note the two separate procedures respecting refugee status which exist in the
+Immigration Act
+: (1) the granting of Convention refugee status to someone, by the Immigration and Refugee Board, on application by that individual and with respect to which the individual has the burden of proof; (2) the removal of status from someone, by the Board, upon application by the Minister and with respect to what the Minister bears the burden of proof. The latter is provided for in s. 69.2 of the
+Act
+. It would seem that except in cases of fraud or misrepresentation, the rescinding of status pursuant to the s. 69 procedure is rarely used.
+[23]
+In addition to the two procedures mentioned, s. 2(2) of the
+Act
+provides:
+"(2) A person ceases to be a Convention refugee when
+(a) the person voluntarily reavails himself of the protection of the country of the person's nationality;
+(b) the person voluntarily reacquires his nationality;
+(c) the person acquires a new nationality and enjoys the protection of the country of that new nationality;
+(d) the person voluntarily reestablishes himself in the country that the person left, or outside of which the person remained, by reason of fear of persecution; or
+(e) the reasons for the person's fear of persecution in the country that the person left, or outside of which the person remained, cease to exist."
+This is reflective of the provision of art. 1(C) of the
+Convention Relating to the Status of Refugees
+, 189 U.N.T.S. 2545, entered into force April 22, 1954.
+[24]
+The relevant portions of Professor Hathaway's text which are so often quoted in this court and which seem to be causing so much trouble read in part (pp. 199-203):
+"... The clause [art. 1(C) of the
+Convention
+] was intended to allow a state to divest itself of the protection 'burden' when the government of the home country is judged to have become an appropriate guardian of the rights of its involuntary expatriates:
+. . . . .
+"The drafters' focus on reversion to democracy highlights the magnitude of change which should exist before the consideration of cessation is warranted. First,
+the change must be of substantial political significance
+, in the sense that the power structure under which persecution was deemed a real possibility no longer exists. ...
+"Second there must be reason to believe that the substantial political change is
+truly effective
+... it ought not to be assumed that formal change will necessarily be immediately effective:
+. . . . .
+"Third, the change of circumstances must be shown
+to be durable
+. Cessation is not a decision to be taken lightly on the basis of transitory shifts in the political landscape, but should rather be reserved for situations in which there is reason to believe that the positive conversion of the power structure is likely to last. ..." (underlining added) (footnotes omitted)
+[25]
+Thus, the criteria which Professor Hathaway describes are framed by reference to the cessation of status, that is to the revoking of status after it has been granted and with respect to which, as has been noted, the Minister and not the individual has the burden of proof. In my view, in the context of the initial determination as to whether or not status will be granted, the question is a different one. The question is not what type of changed country conditions are necessary to justify the revoking of status. The question is whether the particular changed circumstances are relevant to the applicant's claim and how they related thereto.
+[26]
+It seems to me that if one says that evidence of changed country conditions cannot be taken into account unless the criteria set out in Professor Hathaway's book are met, then one is requiring the panel to first determine whether status would have been granted in the absence of changed conditions, had that determination been made at an earlier time, before circumstances changed, and then to determine whether there has nevertheless been a cessation of that status because of the changed circumstances. I do not think the CRDD panels need to engage in that type of conceptual analysis. I think it is sufficient for them to weigh the evidence of changed country conditions in the balance with all the other evidence before them in assessing an applicant's claim. As I have noted, I think the difference which it is alleged to exist between the decisions of the members of this court is more apparent than real. For example, when a panel is weighing changed country conditions together with all the evidence in a applicant's case, factors such as durability, effectiveness and substantiality are still relevant. The more durable the changes are demonstrated to be, the heavier they will weigh against granting the applicant's claim. In addition, if a panel has in fact made a determination that status would have existed but for changed circumstances (that is, if it has voluntary adopted that type of conceptual analysis) then a more rigorous assessment of the changed conditions following the criteria set out by Professor Hathaway will likely be appropriate. For the sake of clarity in this regard, I do think I should correct one misapprehension that exists in the reasons for judgment in
+ <FRAGMENT_SUPPRESSED>  (T.D.). The decision of the CRDD panel which was under review in <FRAGMENT_SUPPRESSED> is described in
+Mahmoud
+as having been one which rejected the applicant's claim primarily because the country conditions had changed in El Salvador. That is not an entirely accurate description of that panel's decision. In the <FRAGMENT_SUPPRESSED> case, the panel's decision was equally based, as described in the <FRAGMENT_SUPPRESSED> reasons, on the finding that "even under the earlier conditions the applicant had really not been of great interest to the military". That is, the panel in <FRAGMENT_SUPPRESSED> took the evidence of the changed circumstances into account as one factor among many in weighing all the evidence before it.
+[27]
+I turn then to the jurisprudence. The starting point, in my view, seems to be
+ <FRAGMENT_SUPPRESSED>  Imm. L.R.(2d) 204 (F.C.A.). That decision dealt with whether a credible basis hearing panel could consider changed country conditions in deciding whether to refer the claim forward to the Refugee Division. The applicant was from Bulgaria and conditions in that country had changed between the date of her arrival in Canada and the date of the hearing. The court held that the panel was entitled to consider such evidence and set down criteria which it should apply in assessing that evidence. That aspect of the decision is no longer relevant since there is no longer a two stage procedure and, in any event, the present application does not relate to a credible basis hearing. Mr. Justice Pratte however, in considering the role of the panel, also considered the role of the Refugee Division itself. He wrote at p. 206:
+"... The Refugee Division must accordingly take note of evidence relating to past or present facts affecting the claimant, his family and country of origin. Such evidence must be weighed by the Refugee Division in the same way as any other tribunal would do, taking into account its credibility and evidentiary force, and deciding what facts are established by that evidence. The Refugee Division must then decide whether the facts so proven are such that it can conclude that the claimant really runs the risk of being persecuted for reasons mentioned in the
+Convention
+if he returns to his country. ..."
+Madame Justice Desjardins wrote at pp. 210-211:
+"Subsection 46(3) of the
+Immigration Act
+, R.S.C. 1985, c. I-2, is written in general terms. The political changes in the country of origin are, in my opinion, one of the essential components of the definition of the term 'Convention refugee' found in para. (b) of that definition, which incorporates by adoption subs. 2(2) of the
+Act
+. Before the first instance tribunal,
+the claimant
+, who certainly
+is not unaware himself of changes taking place in his country of origin, has the burden of showing
+, if there is evidence to the contrary, but even if there is not, that
+the reasons which caused him to fear persecution have not ceased to exist
+. He may also at this stage rely on subs. 2(3) of the
+Act
+, which provides:
+'2(3) A person does not cease to be a Convention refugee by virtue of para. (2)(e) if the person establishes that there are compelling reasons arising out of any previous persecution for refusing to avail himself of the protection of the country that the person left, or outside of which the person remained, by reason of fear of persecution.'
+"In short, the claimant must always establish that his fear is justified." (underlining added) (footnotes omitted)
+[28]
+In
+Minister of Employment and  <FRAGMENT_SUPPRESSED>  panel and the Refugee Division had an obligation to evaluate the evidence of conditions in the country of origin of a claimant as of the date of their respective hearings.
+[29]
+In
+Minister of Employment and  <FRAGMENT_SUPPRESSED>  (F.C.A.), the issue related primarily to s. 2(3) of the
+Immigration Act
+and whether the factors described therein could be considered by a credible basis hearing panel. With respect to changed country conditions, the decision goes no further than to state that changed country conditions are matters to be
+considered
+in determining an application for Convention refugee status.
+[30]
+ <FRAGMENT_SUPPRESSED>  (T.D.), Mr. Justice Noël overturned a decision of the Convention Refugee Determination Division of the Immigration and Refugee Board because the Board had referred to changes in the applicant's country of origin but appeared not to have made any evaluation of them (p. 3):
+"In my view, when one says that 'change' in circumstances is an important consideration, one is not speaking of any change. The Board must not be content in simply noting that changes have taken place, but must assess the impact of these changes on the person of the applicant."
+The Federal Court of Appeal decision in <FRAGMENT_SUPPRESSED> was relied upon.
+[31]
+A similar approach was taken by Mr. Justice McKeown in
+ <FRAGMENT_SUPPRESSED>  (T.D.) (p. 82):
+"The second ground relied on by the Refugee Division is that the conditions in Ghana have changed even if the applicant's testimony was credible. Again there was contradictory evidence on the extent to which the government has encouraged a multi-party system and democratic government. The panel decided that the weight of the documentary evidence provides a clear indication of an improving human rights situation in Ghana. The applicant's counsel says this is not the proper test and referred to various academic writings in the area which suggest fundamental and significant changes of proven durability must be shown. However, I adopt the reasoning of Pratte, J.A., in
+ <FRAGMENT_SUPPRESSED>  (T.D.).
+[33]
+The Court of Appeal then dealt with
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) and
+ <FRAGMENT_SUPPRESSED>  (F.C.A.). In the
+Ahmed
+case, the court held that the Immigration and Refugee Board's decision did not contain enough detail and explanation to allow the court to be satisfied that the inferences the Board had drawn from the facts were proper. This related to findings respecting both the existence of an internal flight alternative and changed country conditions. With respect to the latter the court said, at p. 4:
+"... Similarly, the mere fact that there has been a change of government is clearly not in itself sufficient to meet the requirements of a change of circumstances which have rendered the genuine fear of a claimant unreasonable and hence without foundation.
+. . . . .
+"... the mere declarations of the new four month old government that it favoured the establishment of law and order can hardly be seen, when the root of the appellant's fear and the past record of the new government with respect to human rights violations are considered, as a clear indication of the meaningful and effective change which is required to expunge the objective foundation of the appellant's claim. But, in any event, even if the conclusions of the tribunal were correct, we do not accept that they can be advanced without more explanation to establish that the appropriate legal principles were applied. The applicant's claim was not properly dealt with and the decision cannot be allowed to stand."
+[34]
+The
+Cuadra
+case also dealt with a Board decision which the court found lacked sufficient explanation (pp. 2-3):
+"The panel held that while the appellant had a subjective fear of persecution, the claim was not objectively well-founded. The principal consideration relating to the objective basis for the claim was the change of circumstances in Nicaragua and, in particular, the election of Chamarro [sic]. The panel pondered whether the continued presence of Ortega as chief of the military constituted a threat to former Contras which was knowingly tolerated by the new government. It found that, according to the documentary evidence, the Chamorro government was moving cautiously. However, this did not mean that the oppressive Sandinista regime remained. The panel conceded that the appellant received harsh treatment by his captors in July of 1990 and that the Sandinistas continued to play a role in the military and politics of Nicaragua. However, the Chamarro [sic] government had taken positive steps to reduce the influence of the Sandinistas. In the result, the claim lacked an objective basis.
+"We have come to the conclusion that this decision of the Board cannot be allowed to stand. It contains too many conflicting conclusions to be satisfactory. The Tribunal, as mentioned above, found that the appellant was perfectly credible, so it accepted without any reservation that he was captured and mistreated by soldiers because of his prior involvement with the Contras. It simply reasoned that this did not provide a basis for a refugee claim as the 'claimant was a hapless victim of overzealousness by military forces'. Surely more detailed commentary was required. Could the Chamorro government put a curb on this 'overzealousness' given that Sandinista control of the military remained? Moreover, after affirming that the Sandinistas continued to play a role in the military and political scheme in Nicaragua, the tribunal found that a change in circumstances undermined the claim on the basis that 'the documentary evidence points to positive steps taken and progress made towards that objective [of diminishing the influence of the Sandinistas]'. Again, a more detailed analysis of the conflicting evidence in respect of a change in circumstances was necessary to meet the requirement that the change be meaningful and effective enough to render the genuine fear of the appellant unreasonable and hence without foundation.
+1
+1
+See to the same effect:
+Ali Ahmed and M.E.I.
+, decision of July 14, 1993, unreported, File A-89-92."
+[35]
+I do not read Mr. Justice Marceau's comments in
+Cuada
+as a departure from the method of analysis which was set out by the Court of Appeal in <FRAGMENT_SUPPRESSED> . It seems to me they are merely an application of the principle established in that case, in the context of a case where the Board appears to have determined that in the absence of changed country conditions the individual in question would have been determined to be a Convention refugee.
+[36]
+ <FRAGMENT_SUPPRESSED>  MacKay followed Mr. Justice McKeown's decision in <FRAGMENT_SUPPRESSED> in declining to adopt the criteria set out in the Hathaway text and adopting instead the <FRAGMENT_SUPPRESSED> approach. These decisions were followed by the decisions in
+ <FRAGMENT_SUPPRESSED>  think the panel erred in the approach it took. It weighed the evidence of changed country conditions as one aspect of the relevant evidence. It weighed that evidence together with all the other evidence concerning the wife's claim and reached its conclusion.
+Conclusion
+[38]
+For the reasons given this application will be dismissed.
+Question For Certification?
+[39]
+I was asked to certify the following question:
+"In relation to the principle that an individual's complicity in international crimes committed by his/her organization can be more likely inferred if the individual holds a position of importance or leadership in that organization,
+"What are the principle(s) to be applied in determining the level at which an individual has to be within an organization for criminal responsibility to be imported, in the absence of actual active or passive participation in persecutorial acts which may amount to international crimes."
+[40]
+I am not convinced that this is the type of question which should be certified. It is too open ended and asks the Court of Appeal to establish criteria without reference to a specific factual underpinning. I therefore decline to certify the question.
+Application dismissed.
+Editor: Angela E. McKay/sms
+Footnotes
+1.	Mr. Justice MacGuigan in
+Re Ramirez and Minister of Employment and Immigration
+(1992), 89 D.L.R.(4th) 173 described the activity set out in s. F of art. I of the
+United Nations Convention Relating to the Status of Refugees
+, as international offenses and I will adopt that terminology for the purpose of these reasons.
+2.
+ <FRAGMENT_SUPPRESSED>  document]

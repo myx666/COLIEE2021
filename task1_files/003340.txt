@@ -1,0 +1,171 @@
+[1]
+Noël, J.
+[Translation]: This is an application for judicial review under s. 72 of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (
+IRPA
+,) of a decision by the Refugee Protection Division (RPD) dated September 1, 2005. In this decision, the RPD denied the refugee claim of Sukhpal Singh (applicant). According to the RPD, the applicant was not a refugee, or a person in need of protection within the meaning of ss. 96 and 97 of the
+IRPA
+because he had an internal flight alternative (IFA) and because the extortion he alleges to have suffered is not a ground of protection provided under the
+United Nations Convention Relating to the Status of Refugees
+, R.T. Can 1969, No. 6 (
+Convention
+).
+I.
+Issues
+[2]
+The issues are as follows:
+- Did the RPD err in determining that extortion is not a Convention ground and that, accordingly, the applicant is not a refugee?
+- Did the RPD err in fact or in law in deciding that the applicant had an IFA and that he was therefore not a refugee or a person in need of protection?
+[3]
+In his written submissions, the applicant argued, inter alia, that a person in danger of being subjected to torture cannot be excluded by relying on the fact that this person has an IFA, considering the wording of paragraph 97(1)(a) of the
+IRPA
+. The applicant abandoned this argument at the hearing. It is therefore not necessary to consider it.
+II.
+Conclusion
+[4]
+The application for judicial review is allowed.
+III.
+Facts
+[5]
+The applicant is a native of Punjab, India.
+[6]
+His father owned a trucking company. As a member of his village’s council, he always opposed the authorities’ abuses against young Sikhs. The applicant alleges that for that reason, the authorities targeted his father, accusing him of collaborating with Sikh activists.
+[7]
+In August 2003, the police arrested the applicant’s father, on the grounds that explosives had been found in one of his company’s trucks. The applicant’s father was arrested, roughed up and released. After being arrested and tortured once again, the applicant’s father fled.
+[8]
+The applicant and his brother took over the trucking company. The police began to target the two young men, allegedly in order to elicit admissions from them regarding their father and one of the company’s employees, Mohinder Singh, who was also suspected of conspiring with Sikh activists.
+[9]
+The applicant and his brother were arrested and tortured by the police on two occasions, namely in April 2004 and in November 2004. On both occasions, the applicant and his brother were released after paying bribes. The applicant left India on January 3, 2005, and filed a refugee claim on January 10, 2005.
+IV.
+Analysis
+[10]
+The RPD first determined that the applicant had been an extortion victim, and that a Convention refugee claim could not be based on extortion allegations.
+[11]
+This was an error in characterizing the facts. The Personal Information Form (Tribunal record, pages 19 and 20) and the applicant’s testimony (RPD’s record, pages 237 and 240) refer to the torture that the applicant and his brother alleged to have suffered in detention. Nevertheless, the RPD emphasized a secondary aspect of the facts, namely the allegations to the effect that the applicant’s family paid money to secure the release of the applicant and his brother. In other words, the RPD appears to have considered that the applicant sought protection from Canada because of the money extorted for the release of the applicant and his brother. This aspect is certainly part of the relevant facts, but it is not a basis of the applicant’s claim. The applicant did not seek protection from Canada because he fears that he will be the victim of extortion, but rather because he says that he fears he will be tortured.
+[12]
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), MacGuigan, J.A., explains that a misunderstanding of a significant aspect of the evidence may, in some cases, vitiate the decision:
+"In our view the Refugee Division was clearly in error in the few words in which it chose to set out its reasoning. (Appeal Book at 88):
+'In the panel's opinion, the claimant does not have good grounds to fear persecution should he return to Sri Lanka. According to his own testimony, he can obtain a job in any of the Distribution Centres in northern and eastern Sri Lanka. In places that are far away from the village where the claimant's family lived, nobody knows that his father was acting as an interpreter for the local Tamil population in their dealings with the IPKF. As the documentary evidence indicates, the IPKF has left Sri Lanka. In north-eastern Sri Lanka, there is now peace and co-operation between LTTE and the Sri Lankan Army. In the south, the Sri Lankan army has defeated the JVP. C-4, "Old Tigers in new skins" The Economist (31 March 1990).'
+As we read it, the appellant's testimony was not that he would have no problems as things then stood in obtaining a job as an electrical engineer in Sri Lanka, but only 'if things were peaceful in Sri Lanka' (Appeal Book at 31).
+Not every such misunderstanding of evidence by a tribunal is fatal to its decision, but in this case the Refugee Division itself made this erroneous view of the evidence the centrepiece of its reasoning. The decision cannot, therefore, stand.
+" (Emphasis added)
+[13]
+As noted by MacGuigan, J.A., a significant error does not necessarily warrant referring the matter back to the RPD. The error must be key in the reasoning.
+[14]
+The error in this case is certainly at the heart of the decision because it relates to the very basis of the refugee claim. However, the existence of an IFA for the applicant can nevertheless justify the dismissal of the refugee claim.
+[15]
+ <FRAGMENT_SUPPRESSED>  (T.D.), at paragraph 2, Mr. Justice Pinard writes in obiter:
+"¶ 2 When she began her argument, counsel for the applicants stated that she was unable to invalidate the portion of the panel's decision finding that the applicants had an internal flight alternative in the north of Kazakhstan. As I told her at the hearing, she thereby
+eliminated any chance that the application for judicial review had of succeeding
+. Counsel nevertheless tried to persuade me that the panel had made such a flagrant error in assessing the evidence and in how it distinguished between persecution and discrimination that this Court had to intervene." (Emphasis added)
+[16]
+In the recent decision
+ <FRAGMENT_SUPPRESSED> Mr. Justice Kelen states, in obiter, that the issue of the IFA is decisive:
+"The applicant did not challenge a number of the Board's findings, including its determination that an internal flight alternative exists for the applicant in southern Nigeria. The Court finds that the IFA finding is not unreasonable. Accordingly, the Board did not err in concluding that the applicant is not a refugee or a person in need of protection. This issue is conclusive of the case."
+[17]
+Finally, I think that it is important to point out that the Federal Court of Appeal decided, in
+ <FRAGMENT_SUPPRESSED> ; 194 N.R. 46 (F.C.A.), that the RPD is not bound to determine whether a person’s fear of persecution is well-founded within the meaning of s. 96 of the
+IRPA
+when it determines that there is an IFA:
+"¶3 The Trial Judge then found that the Board's decision respecting the IFA was proper and dismissed the motion. The Trial Judge, nevertheless, certified the following question for this Court:
+'Is a determination of whether a claimant has a well founded fear of persecution in the area from which he or she originates a prerequisite to the consideration of an internal flight alternative?'
+"¶4 The answer to this question is 'NO'. In assessing whether a viable IFA exists, the Board, of course, must have regard to all the appropriate circumstances. This was done in this case. Since an IFA existed, therefore, the claimant by definition could not have a well-founded fear of persecution in her country of nationality. Thus, while the Board may certainly do so if it chooses, there was no need as a matter of law for the Board to decide whether there was persecution in the area of origin as a prerequisite to the consideration of an IFA."
+[18]
+That decision by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  the existence of an IFA on the outcome of a refugee claim. Also, I share my colleagues’ opinion to the effect that an application for judicial review cannot be allowed when the refugee claimant has an IFA, even if the RPD has indeed made errors of fact. That said, I think that this rule should be applied carefully. In certain circumstances, a critical error in characterizing the facts may affect the overall analysis, including the RPD’s findings bearing on the issue of the IFA. In such a case, the analysis of the IFA issue would itself be tainted by an error resulting from the mischaracterization of the applicant’s factual situation. When dismissing the application for judicial review, the Court should then explain how the RPD’s analysis of the IFA issue is no longer valid or persuasive considering the error of fact made. The process could also consist in establishing that the error is "the centrepiece of [the RPD’s] reasoning", as was the case in
+ <FRAGMENT_SUPPRESSED>  as a whole in determining whether the application for judicial review should be granted when there has been a fundamental error in the characterization of the facts and the RPD has dismissed the refugee because an IFA exists.
+[19]
+In this case I believe that the overall situation justifies allowing the application for judicial review for the following reasons.
+[20]
+First, the RPD’s error in characterizing the facts was fundamental, as explained above (see paragraphs 10 to 14 of this decision).
+[21]
+Furthermore, I do not have any evidence I can rely on to determine whether the RPD’s analysis on the IFA issue was carried out correctly. I explain this in the following paragraphs.
+[22]
+The appropriate test for determining whether a person can avail himself of an IFA is summarized by Mr. Justice Mosley, in
+ <FRAGMENT_SUPPRESSED> :
+"In order for the Board to find that a viable and safe IFA exists for the applicant, the following two-pronged test, as established and applied in
+ <FRAGMENT_SUPPRESSED>  (C.A.) and
+Thirunaukkarasu
+, supra, must be applied:
+(1) the Board must be satisfied on a balance of probabilities that there is no serious possibility of the claimant being persecuted in the proposed IFA; and
+(2)
+conditions in the proposed IFA must be such that it would not be unreasonable, upon consideration of all the circumstances, including consideration of a claimant's personal circumstances, for the claimant to seek refuge there.
+" (Emphasis added)
+The part of the RPD’s decision dealing with the IFA issue is at pages 5 and 6 of the decision (RPD decision, pages 5-6):
+"The tribunal concludes that the claimant, who will be 18 years old on October 16, 2005, is not a high profile individual in Punjab and can relocate and live elsewhere in India.
+In Exhibit A-1 , s. 2.1, subsection 6.137 of the Montreal Regional Binder for India, dated July 2004, UK Country Assessment, it is written that Punjabi Sikhs are able to relocate in another part of India and, since they are a mobile community, there are Sikhs all over India.
+In s. 6.138 of the same UK report, it is stated that there are no checks on a newcomer to any part of India arriving from another area of the country, not even for Punjabi Sikhs, contrary to what the claimant’s testimony suggested.
+Local police forces have neither the resources nor the language abilities to perform background checks on people arriving from other parts of India. There is no system of registration of citizens.
+In s. 6.139, it is said that it would be possible for a low-profile person to move elsewhere in India. This document also states that someone who has or has had problems in Punjab should have no problems residing elsewhere in India. It is also reported that authorities in New Delhi are not informed about people wanted in Punjab.
+The tribunal concludes that, since an Internal Flight Alternative (IFA) is reasonably accessible, the claimant can relocate elsewhere in India." (Footnotes omitted)
+[23]
+The first branch of the test summarized in
+ <FRAGMENT_SUPPRESSED>  RPD’s decision addressed it thoroughly. The RPD’s analysis is centred on the question of whether the applicant could move from one place to another once he was in India.
+[24]
+The second branch, however, is addressed in a much less detailed and personalized manner. On that point, I note that the RPD did not refer to the passage of the British report explaining how refugee claimants sent back to India are treated, in particular upon their return (see Country Information & Policy Unit, Immigration and Nationality Directorate, Home Office, United Kingdom,
+India Country Report
+, April 2004, ss. 6.320 to 6.322, attached to the affidavit of Geneviève Cadotte). The applicant alleged that in each case the RPD is bound to assess whether a refugee claimant would be intercepted at the airport. The respondent argued rather that the RPD has no such obligation.
+[25]
+In my opinion, the reasonableness of an IFA must be addressed in detail, as appears from the case law on the issue. In the matter of
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at paragraph 10, Mr. Justice Mahoney writes:
+"In my opinion, in finding the IFA, the Board was required to be satisfied, on a balance of probabilities, that there was no serious possibility of the Appellant being persecuted in Colombo and that,
+in all the circumstances including circumstances particular to him
+, conditions in Colombo were such that it would not be unreasonable
+for the Appellant to seek refuge there
+." (Emphasis added)
+[26]
+In some cases, the manner in which the applicant is at risk of being treated when he arrives at the airport in his native country may be included in the circumstances which must be taken into consideration in the second branch of the test as set out in
+ <FRAGMENT_SUPPRESSED>  at risk at the airport or his counsel must refer to it in his arguments.
+[27]
+On June 1, 2005, noting that certain important evidence had not been attached to the tribunal record, the undersigned issued a direction, the relevant passage of which reads as follows:
+(Translation)
+"On reviewing the transcript of the hearing in docket IMM-5848-05, I note that the applicant’s counsel before the Refugee Protection Division (RPD), Mr. Bertrand, states that the day before he had prepared submissions on the issue of an available flight alternative and that he filed documents on that point (Tribunal record, page 265; transcript of hearing, page 50):
+'A. The last point was IFA. We discussed at length on this yesterday, so I don’t really have more to say than what I said yesterday on these issues. I think we went around the lot of it yesterday. And ...
+- Even had a copy.
+A. Yeah.
+- Right here.
+A. Right, and ...
+- In my left hand.
+A. I will take a few minutes after the hearing to highlight those portions of the decision that I referred to yesterday.
+- Yeah, but I’ve noted the pages.
+A. Yeah, that’s right. As you remember from my citing the page numbers, they’re all together.
+- Yeah.
+A. At the ... it’s a very short decision, so I mean it’s very easy to spot. Thank you, Mr. President.'
+Where are these submissions and these documents in the tribunal record? ..."
+[28]
+The respondent’s counsel responded to the direction in a letter dated June 2, 2006. In this letter, she explained that she consulted the applicant’s RPD counsel and that the observations and the documents in question had been filed on June 14, 2005, in the record of another refugee claimant. The applicant’s counsel also contacted the applicant’s RPD counsel and arrived at the same findings of fact. The tribunal record is therefore incomplete.
+[29]
+The Court does not know whether the applicant drew the RPD’s attention to the risk that he could face at the airport if he were to be returned to India, as it did not have the opportunity to review all of the applicant’s arguments before the RPD. It is true that the refugee claimant has the responsibility of establishing that he cannot avail himself of an IFA: he has the burden of proof. However, in the event that the RPD chooses to deny a refugee claim on the grounds that an IFA exists, it is nonetheless bound to address the two branches of the test summarized in
+ <FRAGMENT_SUPPRESSED>  precludes me from assessing whether the applicant was the one who failed to raise the risk that he could face at the airport if he were to be removed or if it was rather the RPD that failed to address the argument made by applicant’s counsel.
+[30]
+This is not a matter of obliging the RPD to assess in each case whether or not a refugee claimant will be intercepted at the airport. However, if such an argument is raised by a refugee claimant, it seems to me that the RPD could be bound to address it in its analysis in the second branch of the test set out in
+ <FRAGMENT_SUPPRESSED>  whether such an argument was made before the RPD by the applicant’s counsel.
+[31]
+The RPD’s decision is vitiated, considering the RPD’s error in characterizing the facts and the absence of certain essential documents from the record to assess whether the RPD’s analysis of the IFA issue was carried out correctly. The application for judicial review is therefore allowed.
+V.
+Questions for certification
+[32]
+The parties were invited to propose questions for certification. The applicant proposed the following question:
+(Translation)
+"Once the panel determines that the applicant has a viable internal flight alternative available in his country, it that sufficient to decide his refugee claim when the issue is address from the perspective of s. 96 or s. 97 of the
+Act
+or must the panel consider the risks of returning to the airport or to the borders of his country in the event the applicant were to return to his country?"
+[33]
+This question has two distinctive parts. The first part involves the issue of whether the existence of an IFA is sufficient to dismiss an application for judicial review. The second part involves the issue of whether in every case the RPD is bound to address the manner in which a claimant will be treated upon returning to his native country when it applies the IFA test.
+[34]
+To determine whether a question must be certified, we must refer to the criteria established in
+ <FRAGMENT_SUPPRESSED> ; 176 N.R. 4 (F.C.A.), at paragraph 4. The question must transcend the interests of the parties to the litigation, contemplate issues of general application, and be determinative of the appeal.
+[35]
+The first part of the question need not be certified, since a question bearing on this first part would not transcend the interests of the parties to the litigation, since the case law clearly establishes that the existence of an IFA may be sufficient to dismiss an application for judicial review (see paragraphs 14 to 18 of this decision).
+[36]
+The second part of the question would not transcend the interests of the parties to the litigation, either. In fact, the applicable test before the courts for determining whether an IFA is available in a given case is very well established in the case law (see paragraphs 21 to 25 of this decision). The RPD is not bound to assess the risk of returning to the airport under the second branch of the test in the case law unless the applicant raises an argument to that effect and the facts can reasonably support it.
+[37]
+For these reasons, no question is certified.
+JUDGMENT
+[38]
+THE COURT ORDERS THAT:
+- The application for judicial review be allowed and the matter referred to the RPD to be reviewed by a differently constituted panel;
+- No question is certified.
+Application allowed.
+Editor: Angela E. McKay/gs

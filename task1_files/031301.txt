@@ -1,0 +1,65 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Gleason, J.
+June 10, 2014.
+Counsel:
+Arthur Matsui, self-represented, for the applicant;
+Isabelle Cadotte, for the respondent.
+Solicitors of Record:
+William F. Pentney, Deputy Attorney General of Canada, Calgary, Alberta, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Gleason, J.
+: The applicant, Arthur Matsui, has made a motion in writing under Rule 369 of the
+Federal Courts Rules
+, SOR/98-106 [the Rules] seeking two orders. He first requests an extension of time to file an application for judicial review of the January 24, 2014 decision of the Minister of National Revenue [the Minister], disallowing business expenses he claimed for the 2001 taxation year. Mr. Matsui secondly seeks relief in the nature of an injunction, suspending until final disposition of his judicial review application the operation of a Requirement to Pay that the Canada Revenue Agency [CRA] served on ARC Metallurgical Inc. [ARC] on March 24, 2014.
+[2]
+For the reasons set out below, both requests are denied and this motion is dismissed.
+[3]
+The factual background to this motion is convoluted and summarized in the materials filed. It is not necessary to review much of this background for purposes of this motion. Rather, I set out below only those facts that are pertinent to the motion.
+[4]
+In this regard, Mr. Matsui has an outstanding debt for unpaid taxes in the approximate amount of $28,000.00. In April 2009, Mr. Matsui claimed business losses for the 2005 taxation year. CRA requested documents to substantiate this claim, but Mr. Matsui did not provide them. In 2007 and 2008 he sent CRA documents that he claims unilaterally extinguished his tax debt, which, of course, they did not. In 2009, he retained Demara Consulting Inc. [Demara] as his representative to the CRA; Demara's principals were subsequently charged with tax fraud associated with claiming fraudulent expenses.
+[5]
+In May 2012, Demara filed amended tax returns on Mr. Matsui's behalf for the 2001 and 2005 taxation years. In them, Demara claimed additional business losses. Once again CRA wrote to Mr. Matsui and his representatives, requesting documentation to support the claimed expenses. Once again, Mr. Matsui provided nothing in reply.
+[6]
+On January 14, 2014, the CRA wrote to Mr. Matsui and told him that as he had not produced the requested information it had assessed his claims based on the information available to it, and in light of this information, had disallowed the losses claimed. On March 20, 2014, CRA issued the Requirement to Pay to ARC, a company Mr. Matsui indicates he works for as a contractor.
+[7]
+Mr. Matsui did not file this motion until April 8, 2014, and the evidence before me indicates that he took no steps to seek to review the CRA's January 24, 2014 decision until after the Requirement to Pay was served on ARC.
+I. No Grounds to Extend the Time Limit for Judicially Reviewing CRA's January 24, 2014 Decision
+[8]
+I turn first to the request to extend the time limit for filing the instant application for judicial review. Under subsection 18.1(2) of the
+Federal Courts Act
+, RSC 1985, c F-7 [the FCA], the time limit for filing a judicial review application is thirty (30) days from the date the decision was first communicated to the applicant. The case law recognizes that this Court should exercise its discretion to extend this time limit only where an applicant is able to establish the following four things: first, that he or she had an ongoing intent to challenge the decision that was first developed within the thirty (30) day period and continued until the date the motion for an extension was made; second, that the applicant has a reasonable explanation for missing the deadline; third, that the applicant's proposed judicial review application has some merit; and finally, that the respondent is not prejudiced by the delay (see e.g.
+ <FRAGMENT_SUPPRESSED> ).
+[9]
+Here, none of the foregoing criteria, with the exception of the lack of prejudice to the respondent (which is admitted), is present.
+[10]
+There is no evidence of continuing intent on Mr. Matsui's part to review the January 24, 2014 decision; rather, his intention seems to have been prompted by the service of the Requirement to Pay on ARC.
+[11]
+Secondly, his application is not meritorious. As the respondent notes, the
+Income Tax Act
+, RSC 1985, c 1 (5th Supp) [the ITA] limits the types of expenses that may be deducted to those related to a business or property of the taxpayer that produces income. Although the ITA does not require that a taxpayer produce receipts or other documents to justify business expenses in all cases, the case law recognizes that failure to provide such documentation when it is reasonably required will give rise to a refusal of the claimed expense (see e.g.
+ <FRAGMENT_SUPPRESSED> ff'd 2007 FCA 399, leave to appeal to SCC refused, [2008] SCCA No 66;
+ <FRAGMENT_SUPPRESSED> ).
+[12]
+Here, it was reasonable for the Minister to request supporting documentation from Mr. Matsui given the amounts claimed and the passage of time. The Minister's decision to disallow Mr. Matsui's request for reassessment when he failed to produce the supporting documentation is therefore entirely reasonable. Mr. Matsui has accordingly failed to establish there is any merit in his proposed application for judicial review. Moreover, his argument regarding the impact of the documents he sent CRA in 2007 and 2008 is clearly without merit and, indeed, the fact he made such arguments makes the Minister's request for substantiation all the more reasonable.
+[13]
+Thirdly, Mr. Matsui has not provided any reasonable explanation for his delay in pursuing this matter. While Demara's principals may well have been enjoined from dealing with Mr. Matsui in light of the criminal charges pending against them, there was nothing to prevent Mr. Matsui from pursuing the issue on his own behalf, as he has now done, or from retaining someone else in a timely fashion to assist him.
+[14]
+Thus, Mr. Matsui has failed to establish the points necessary for an extension of time. His request to extend the thirty (30) day time limit to file his application for judicial review in respect of the Minister's January 24, 2014 decision is therefore dismissed.
+II. No Basis for Injunctive Relief
+[15]
+This determination must necessarily result in the dismissal of Mr. Matsui's request for relief in the nature of an injunction, suspending the effect of the Requirement to Pay served on ARC. This Court possesses jurisdiction to issue such relief under s. 50 of the FCA only ancillary to proceedings that are pending before the Court. As I have denied Mr. Matsui permission to commence such a proceeding, there is no basis for the award of the injunctive-type relief he seeks.
+[16]
+Moreover, he has in any event failed to meet one of the necessary prerequisites for such relief, namely, that his application raise a serious issue. For the reasons set out above, Mr. Matsui's judicial review application fails to raise any such issue.
+[17]
+This second request must therefore also be denied.
+[18]
+As the respondent has not sought costs, I make no award in its favour in respect of them.
+ORDER
+[19]
+THIS COURT ORDERS that
+:
+This motion is dismissed without costs.
+[End of document]

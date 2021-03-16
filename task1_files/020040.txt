@@ -1,0 +1,990 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Danada Ent. Ltd. v. Can. (A.G.) (2012), 407 F.T.R. 268 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ [French language version follows English language version] 
+ 
+ 
+ 
+ [La version française vient à la suite de la version anglaise] 
+ 
+ 
+ 
+ ......................... 
+ 
+ 
+ 
+ Temp. Cite: [2012] F.T.R. TBEd. AP.071 
+ 
+ 
+ 
+ Danada Enterprises Ltd. (applicant) v. The Attorney General of Canada (respondent) 
+ 
+ (T-1360-10; 2012 FC 403; 2012 CF 403) 
+ 
+ 
+ 
+ Indexed As: Danada Enterprises Ltd. v. Canada (Attorney General) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Blanchard, J. 
+ 
+ April 12, 2012. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The applicant sought judicial review of one decision of the Appeals Division of the Canada Revenue Agency and three decisions of the Collections Division of the Canada Revenue Agency. The four applications were consolidated. In its notices of application, the applicant alleged that the CRA made the following reviewable errors: (i) the Appeals Division never sent the applicant a proper confirmation of a tax reassessment, as promised, which resulted in a breach of procedural fairness; (ii) the Collections Division refused to lift a judgment placed by the CRA on two of the three properties owned by the applicant despite the fact that the equity in the remaining property would have been sufficient to cover the amount owing to the CRA; (iii) the Collections Division refused to apply existing credits to a 2008 debt as requested by the applicant, and instead applied the credits to the oldest existing debt; and (iv) the Collections Division refused to address the liens on three properties owned by the applicant for disputed debts for the 2000, 2002 and 2003 taxation years until debts for the 2008 taxation year had been settled. 
+ 
+ 
+ 
+ The Federal Court dismissed the applications. No breach of procedural fairness resulted from the issuance of the Notice of Confirmation to the applicant. Further, the legal efficacy of the Notice of Confirmation was not a proper matter for judicial review. The full repayment of the applicant's debt and the lifting of the judgments on the applicant's properties rendered the other issues raised in relation to the Collections Division's decisions moot. The court declined to hear and decide the moot issues. 
+ 
+ 
+ 
+ Administrative Law - Topic 2266 
+ 
+ Natural justice - The duty of fairness - What constitutes procedural fairness - [See  
+ Income Tax - Topic 7851 
+ ]. 
+ 
+ 
+ 
+ Administrative Law - Topic 3314 
+ 
+ Judicial review - General - Bars - Impracticality or no useful purpose - [See  
+ Courts - Topic 2286 
+ ]. 
+ 
+ 
+ 
+ Administrative Law - Topic 3345.3 
+ 
+ Judicial review - General - Practice - Arguments not raised in memorandum or notice of application - [See  
+ Administrative Law - Topic 4501 
+ ]. 
+ 
+ 
+ 
+ Administrative Law - Topic 4501 
+ 
+ Judicial review - Declaratory action - General principles - When available - The applicant sought judicial review of three decisions of the Collections Division of the Canada Revenue Agency - The Federal Court considered whether the relief sought by the applicant was restricted to what was claimed in the original notices of application, or whether it also included the "core relief" raised by the applicant in its written submissions - The court stated that "In addition to the specific relief requested in the Applicant's notices of application, there is the 'basket clause' stating: 'Such other relief as this Honourable Court deems just.' Declaratory relief raised in a memorandum of fact and law that is necessarily incidental to the requested relief may be granted under a basket clause in circumstances where the opposite party is not taken by surprise or in any way prejudiced" - The core relief articulated in the applicant's memorandum of fact and law sought declaratory relief relating to the backdating of documents, which was not necessarily incidental to the relief raised in the Notice of Application - It would therefore not be entertained on the application - With regard to three other heads of declaratory relief sought in the applicant's memorandum of fact and law, the relief sought was incidental or ancillary to the relief sought in the notices of application and was relief that could be granted under the "basket clauses" - The respondent was not taken by surprise or in any way prejudiced by allowing the request for that relief to be considered by the court - See paragraphs 52 to 55. 
+ 
+ 
+ 
+ Courts - Topic 2286 
+ 
+ Jurisdiction - Bars - Academic matters or moot issues - The applicant sought judicial review of three decisions of the Collections Division of the Canada Revenue Agency - All of the debts owing to the CRA had been paid and all of the judgments registered against the applicant's properties had been discharged - The Federal Court stated that "[c]onsequently, the primary elements of relief raised in the Applicant's notices of application are no longer live. What remains, in terms of potential relief available to the Applicant, is the declaratory relief claimed in relation to past enforcement actions of the CRA" - There remained no live controversies and the issues raised in relation to the Collections Division decisions were moot - The court declined to hear and decide the moot issues raised in the applications - See paragraphs 52 to 75. 
+ 
+ 
+ 
+ Courts - Topic 4049 
+ 
+ Federal Court of Canada - Jurisdiction - Federal Court - Income tax matters - The applicant sought judicial review of a decision of the Appeals Division of the Canada Revenue Agency - The Federal Court considered whether the legal efficacy of a Notice of Confirmation was a matter that was properly before the court on judicial review - The court stated that "the Applicant claims that the Revised Version of the Notice of Confirmation which purports to amend the Notice of Confirmation has no legal effect. The Applicant challenges the 'legal efficacy' of a 'key document' ... I am satisfied that such a question is a matter to be determined by the Tax Court of Canada in an income tax appeal. It was open to the Applicant to appeal the Notice of Confirmation to the Tax Court of Canada. In the result, pursuant to section 18.5 of the Federal Courts Act and section 12 of the Tax Court of Canada Act, the application for judicial review on this question will not be entertained" - See paragraphs 27 to 28. 
+ 
+ 
+ 
+ Income Tax - Topic 7842 
+ 
+ Returns, assessments, payment and appeals - Assessments and reassessments - Notice - [See  
+ Income Tax - Topic 7851 
+ ]. 
+ 
+ 
+ 
+ Income Tax - Topic 7844 
+ 
+ Returns, assessments, payment and appeals - Assessments and reassessments - Date of - [See  
+ Income Tax - Topic 7851 
+ ]. 
+ 
+ 
+ 
+ Income Tax - Topic 7851 
+ 
+ Returns, assessments, payment and appeals - Assessments and reassessments - Reassessments - The applicant sought judicial review of a decision of the Appeals Division of the Canada Revenue Agency - The applicant contended that the Appeals Division never sent the applicant a proper confirmation of a tax reassessment, as promised - The applicant argued that an amended Notice of Confirmation, dated February 11, 2009 (the same date the original Notice of Confirmation was signed), but signed on or around March 13, 2009, was a backdated document and as such was a nullity - The applicant contended that backdating the revised Notice of Confirmation to February 11, 2009, effectively truncated the 90 day timeline to appeal the notice, and amounted to an abuse of procedural fairness - The Federal Court rejected the argument - The February 11, 2009 Notice of Confirmation was the only effective notice of the Minister's action - Any revised or amended notice that did not change the Minister's decision could not be considered a substitute for the Notice of Confirmation - Further, there was no promise that a new Notice of Confirmation was to be issued - A March 13, 2009 letter from the CRA informed the applicant that certain penalties were also confirmed and that "amended copies" of the confirmation documents would be sent to reflect that fact - That did not amount to a promise that a new Notice of Confirmation would be issued - The revised version of the Notice of Confirmation was sent to clarify the Minister's action and was not intended to replace the Notice of Confirmation - The revised version did not serve to backdate the Notice of Confirmation - The revised document did not change the Minister's decision on the applicant's objection to the reassessments - That decision was communicated to the applicant by the Notice of Confirmation dated February 11, 2009, as required by s. 165(3) of the ITA - The applicant was aware of the Minister's decision and of its right of appeal - The Minister's actions did not amount to a breach of procedural fairness - See paragraphs 16 to 28. 
+ 
+ 
+ 
+ Income Tax - Topic 8084 
+ 
+ Returns - Assessments, payment and appeals - Judicial review - Bars - Statutory appeals - [See  
+ Courts - Topic 4049 
+ ]. 
+ 
+ 
+ 
+ Income Tax - Topic 9206 
+ 
+ Enforcement - General - Duties of income tax officials - [See  
+ Income Tax - Topic 9361 
+ ]. 
+ 
+ 
+ 
+ Income Tax - Topic 9237.1 
+ 
+ Enforcement - Collection - Security for payment - [See  
+ Income Tax - Topic 9361 
+ ]. 
+ 
+ 
+ 
+ Income Tax - Topic 9361 
+ 
+ Enforcement - Evidence and proof - General - The applicant sought judicial review of three decisions of the Collections Division of the Canada Revenue Agency - All of the debts owing to the CRA had been paid and all of the judgments registered against the applicant's properties had been discharged - The Federal Court held that the issues raised in relation to the Collections Division decisions were moot and it declined to hear and decide the moot issues - Had the court proceeded to consider the moot issues, the evidence adduced by the applicant would have failed to establish an evidentiary foundation for the declaratory relief sought in any event - The court stated, inter alia, "[t]he Applicant alleges that the CRA acted unreasonably in refusing to lift liens from two of the Applicant's properties on the basis the Minister had sufficient equity to cover the debt. The Applicant adduced only a mortgage statement to substantiate its claim. This is clearly insufficient to establish the value of the equity in the impugned properties. Further, the Applicant failed to provide any authority indicating that the Collections Division had the obligation to lift any liens in such circumstances or conduct an independent evaluation of the Applicant's properties to determine its equity" - See paragraph 79. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+FRAGMENT_SUPPRESSED 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1, sect. 165(3) [para. 13]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Gavin Laird and Melanie A. Magnusson, for the applicant; 
+ 
+ Neva Beckie, Dave Everett and Melissa Nicolls, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Lard & Company, Vancouver, British Columbia, for the applicant; 
+ 
+ Myles J. Kirvan, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent. 
+ 
+ 
+ 
+ These applications were heard on February 14, 2012, at Vancouver, British Columbia, before Blanchard, J., of the Federal Court, who delivered the following reasons for judgment on April 12, 2012. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ NATURE AND SUMMARY OF THE PROCEEDING 
+ 
+ 
+ 
+ [1] 
+   
+ Blanchard, J. 
+ : The Applicant seeks judicial review of one decision of the Appeals Division of the Canada Revenue Agency (Appeals Division) and three decisions of the Collections Division of the Canada Revenue Agency (Collections Division). The four applications were consolidated pursuant to an order by Prothonotary Lafrenière on December 20, 2010. The applications are brought under section 18.1 of the  
+ Federal Courts Act 
+ , RSC 1985, c F-7. 
+ 
+ 
+ 
+ [2] 
+  In its notices of application, the Applicant alleges the Canada Revenue Agency (CRA), committed the following reviewable errors in its decisions: 
+ 
+ 
+ 
+ (i) The Appeals Division never sent the Applicant a proper confirmation of a tax reassessment, as promised; 
+ 
+ 
+ 
+ (ii) The Collections Division refused to lift a judgment placed by the CRA on two of the three properties owned by the Applicant despite the fact that the equity in the remaining property would have been sufficient to cover the amount owing to the CRA; 
+ 
+ 
+ 
+ (iii) The Collections Division refused to apply existing credits to a 2008 debt as requested by the Applicant, and instead applied the credits to the oldest existing debt; 
+ 
+ 
+ 
+ (iv) The Collections Division refused to address the liens on three properties owned by the Applicant for disputed debts for the 2000, 2002 and 2003 taxation years until debts for the 2008 taxation year had been settled. 
+ 
+ 
+ 
+ [3] 
+  In its notices of application, the Applicant seeks the following relief: 
+ 
+ 
+ 
+ Notice of Application T-1360-10 
+ 
+ 
+ 
+ (a) Declaratory relief that the Decision was against the CRA's policy that their general rule of applying credits to the oldest existing debt can be circumvented at the specific request of a taxpayer (such as the request at issue in this application). 
+ 
+ 
+ 
+ (b)  
+ Mandamus 
+  relief ordering the CRA to apply the credit in the manner specified by the Applicant's authorized representative. 
+ 
+ 
+ 
+ (c) Such other relief as this Honourable Court deems just; and 
+ 
+ 
+ 
+ (d) Costs. 
+ 
+ 
+ 
+ Notice of Application T-1362-10 
+ 
+ 
+ 
+ (a) An order for  
+ mandamus 
+  relief that the CRA issue the amended notices of confirmation for the Reassessments as promised in their letter of March 13, 2009. 
+ 
+ 
+ 
+ (b) In the alternative, a declaration finding that the CRA failed to resolve the objection filed on December 14, 2006, in that it has not yet addressed the penalty issue and, as such, that the notices of confirmation issued on February 11, 2009, are inadequate and incomplete and  
+ quashed 
+ . 
+ 
+ 
+ 
+ (c) A declaration that any delay that has transpired between February 11, 2010 and the issuance of amended notices of confirmation or  
+ quashing 
+  of the original notices of confirmation is attributable to the actions of the CRA for purposes of potential interest relief if the Applicant's ultimate appeal of this matter to the Tax Court of Canada is unsuccessful. 
+ 
+ 
+ 
+ (d) Such other relief as this Honourable Court deems just; and 
+ 
+ 
+ 
+ (e) Costs. 
+ 
+ 
+ 
+ Notice Application T-1363-10 
+ 
+ 
+ 
+ (a) Declaratory relief that the Decision was unreasonable. The CRA should look to protect its position as a creditor but should not seek to use powers provided to it under the  
+ Income Tax Act 
+  to achieve a result better than provided by law. For example, the CRA should not seek to over-encumber property owned by a taxpayer to informally coerce a taxpayer into paying off a disputed debt that is already fully secured. 
+ 
+ 
+ 
+ (b) Declaratory relief that Leslie Green unduly fettered her discretion in rendering the Decision in that she failed to consider the ongoing harm to the Applicant from the excessive liens. 
+ 
+ 
+ 
+ (c) Declaratory relief that the Decision was incorrect in law because the underlying debt was not actionable because the notices of confirmation issued by the CRA on February 11, 2009, were incomplete as admitted by the Chief of Appeal in his letter dated March 13, 2009. 
+ 
+ 
+ 
+ (d) An order  
+ quashing 
+  the Decision and ordering that the liens on the other two properties be lifted forthwith. 
+ 
+ 
+ 
+ (e) Such other relief as this Honourable Court deems just; and 
+ 
+ 
+ 
+ (f) Costs. 
+ 
+ 
+ 
+ Notice of Application T-1364-10 
+ 
+ 
+ 
+ (a) Declaratory relief that the Decision was incorrect in law. 
+ 
+ 
+ 
+ (b) Declaratory relief that the Decision failed to follow CRA policy or, in the alternative, that CRA policy is incorrect in law and unduly fetters the discretion of collections officers. 
+ 
+ 
+ 
+ (c) Such other relief as this Honourable Court deems just; and 
+ 
+ 
+ 
+ (d) Costs. 
+ 
+ 
+ 
+ [4] 
+  Since the filing of the notices of application, the Applicant states that "[f]acts alleged in the notices of application have been confirmed or refuted through the litigation process and new facts have come to light." Consequently, the Applicant states in its written submissions that it now seeks the following "core relief": 
+ 
+ 
+ 
+ (i) " 
+ Mandamus 
+  relief for the production of a promised amended notice of confirmation and now declaratory relief to confirm that the Canada Revenue Agency (CRA) cannot backdate documents. 
+ 
+ 
+ 
+ (ii) Declaratory relief that the CRA should acknowledge and follow its policy for the application of credits; 
+ 
+ 
+ 
+ (iii) Declaratory relief that the alleged 2008 debt of $436,446.80 was paid by June, 2009 (as now reflected on the CRA statements) and that the liens and other collections actions taken in 2010 on the basis that the 2008 debt was unpaid were in error; and 
+ 
+ 
+ 
+ (iv) Declaratory relief that it is not a transparent or intelligible exercise of discretionary power when officials of the collections division of the CRA make a decision (in this case concerning multiple liens related to the 2003 Reassessment) without reviewing their file and subsequently revise their position as to who made that decision and on what basis." 
+ 
+ 
+ 
+ ISSUES 
+ 
+ 
+ 
+ [5] 
+  The Applicant raises the following issues to be decided by the Court: 
+ 
+ 
+ 
+ "(i) Can the CRA backdate documents? 
+ 
+ 
+ 
+ (ii) Should the CRA be forced to issue the promised amended notice of confirmation (one that is not backdated)? 
+ 
+ 
+ 
+ (iii) Should the CRA know who makes a decision and communicate that decision consistently in Court documents? 
+ 
+ 
+ 
+ (iv) Should the CRA review their file before exercising discretionary decisions affecting millions of dollars of property? 
+ 
+ 
+ 
+ (v) Should a collections official of the CRA make a decision (in this case concerning multiple liens related to the 2003 Reassessment) without reviewing their file? 
+ 
+ 
+ 
+ (vi) Should the CRA know and follow its policies on the application of credits? 
+ 
+ 
+ 
+ (vii) Should the CRA place liens on debts that have already been paid subject only to the CRA correcting their errors of misapplying earlier payments and not following their policy?" 
+ 
+ 
+ 
+ [6] 
+  This consolidated application concerns a number of different decisions and raises issues that rest on different facts. The respondent contends that certain issues raised are moot and need not be decided. In the circumstances, it is useful to restate the issues as follows: 
+ 
+ 
+ 
+ I. Did the Minister breach procedural fairness in issuing the Notice of Confirmation and if not, is the legal efficacy of the Notice of Confirmation a proper matter for judicial review? 
+ 
+ 
+ 
+ II. Does the full repayment of the Applicant's debt and the lifting of the judgments on the Applicant's property render the other issues raised in relation to the Collections Division's decisions moot? 
+ 
+ 
+ 
+ III. If so, should the Court, in the exercise of its discretion, decide the moot issues? 
+ 
+ 
+ 
+ IV. If so, are the Collections Division's decisions reviewable decisions under subsection 18.1 of the  
+ Federal Courts Act 
+ ? 
+ 
+ 
+ 
+ V. If so, 
+ 
+ 
+ 
+ a. Did the Collections Division err in registering a judgment on the Applicant's properties based on the 2008 Assessment? 
+ 
+ 
+ 
+ b. Did the Collections Division err in refusing to lift judgments from two properties belonging to the Applicant? 
+ 
+ 
+ 
+ c. Did the Collections Division err in failing to acknowledge and follow its policy for the application of credits? 
+ 
+ 
+ 
+ [7] 
+  I propose to deal with each of these issues and their underlying facts in turn. 
+ 
+ 
+ 
+ Decision of Appeals Division - Notice of Confirmation 
+ 
+ 
+ 
+ FACTS: 
+ 
+ 
+ 
+ [8] 
+  The Minister issued notices of reassessment of the Applicant's 2000, 2002 and 2003 taxation years on October 23, 2006 (the Reassessments). The Reassessments included gross negligence penalties under paragraph 163(2) of the  
+ Income Tax Act 
+ , RSC 1985, c 1 (5th Supp) ( 
+ ITA 
+ ). The Applicant filed an objection to the Reassessments on December 14, 2006. 
+ 
+ 
+ 
+ [9] 
+  On February 11, 2009, the CRA issued a Notice of Confirmation of the Reassessments and informed the Applicant of the procedure to undertake should it wish to appeal the Reassessments to the Tax Court of Canada. 
+ 
+ 
+ 
+ [10] 
+  In response to the Notice of Confirmation, Mr. Davis, the Applicant's representative and accountant, sent a letter to the CRA Appeals Division on February 17, 2009, acknowledging the confirmation of the Reassessments and inquiring as to why the Appeals Division had not considered the discussions the Applicant had had with the audit division, which the Applicant contends resulted in an agreement that there were certain errors in the assessment. Mr. Davis also noted that the Notice of Confirmation was silent on the penalties. 
+ 
+ 
+ 
+ [11] 
+  In a letter dated March 13, 2009, the Appeals Division responded to the Applicant's inquiry explaining its reasons for confirming the Reassessments and stating "[w]ith respect to the issue of penalties, we neglected to inform you that the penalties assessed under subsection 163(2) of the Income Tax Act were also confirmed. We will provide you with amended copies of the confirmation documents to reflect this fact." On or about March 13, 2009, the CRA sent the Applicant a revised version of the Notice of Confirmation (Revised Version) which now included the phrase "the penalties assessed under subsection 163(2) of the Income Tax Act." The revised document reads as follows: 
+ 
+ 
+ 
+ Your Notices of Objection to the income tax assessment for the 2000, 2002 and 2003 tax years have been carefully reviewed under subsection 165(3) of the Income Tax Act. The Minister of National Revenue has considered the reasons set out in your objection and all the relevant facts. It is hereby confirmed that the assessment has been made in accordance with the provisions of the Income Tax Act on the basis that: The taxable capital gains assessed under S 69(1)(b) of the Income Tax Act, the capital losses disallowed under S 38 of the Income Tax Act,  
+ the penalties assessed under S 163(2) of the Income Tax Act, 
+  and the capital losses carried back to 2000 and 2002 disallowed under S 111(1)(b) has been determined to have been correctly assessed. [My emphasis] 
+ 
+ 
+ 
+ The CRA dated the Revised Version the same date the original Notice of Confirmation was signed, namely February 11, 2009. The Revised Version was sent via regular mail. 
+ 
+ 
+ 
+ ISSUE I: 
+   
+ Did the Minister breach procedural fairness in issuing the Notice of Confirmation and if not, is the legal efficacy of the Notice of Confirmation a proper matter for judicial review? 
+ 
+ 
+ 
+ ARGUMENTS OF THE APPLICANT 
+ 
+ 
+ 
+ [12] 
+  The Applicant contends that the Appeals Division never sent the Applicant a proper confirmation of a tax reassessment, as promised. It argues that the amended Notice of Confirmation, dated February 11, 2009, but signed on or around March 13, 2009, is a backdated document and as such is a nullity. The Applicant contends that backdating the revised Notice of Confirmation to February 11, 2009, effectively "truncates" the "important 90 day timeline" provided for under law to appeal the notice, as the appeal period starts to run from the time the notice is issued. The Applicant argues that this backdating amounts to an abuse of procedural fairness reviewable on a standard of correctness. The Applicant seeks a declaration that the revised Notice of Confirmation is a nullity and  
+ void ab initio 
+ , and a  
+ writ of 
+   
+ mandamus 
+  directing the respondent to issue a new notice of confirmation. 
+ 
+ 
+ 
+ ARGUMENTS OF THE RESPONDENT 
+ 
+ 
+ 
+ [13] 
+  The respondent contends that by issuing the Notice of Confirmation on February 11, 2009, the Minister complied with subsection 165(3) of the  
+ ITA 
+ , and notified the Applicant of the Minister's action of confirming the Reassessments. Having done so, the Minister became  
+ functus officio 
+  in regard to his determination 
+ . 
+  The Applicant was advised that he could appeal the Minister's confirmation of the Reassessments to the Tax Court of Canada, pursuant to subsection 169(1) of the  
+ ITA 
+ . The respondent contends that the revised Notice of Confirmation did not replace the original version. Rather, it was provided to the Applicant out of courtesy and to clarify that the penalties had also been confirmed. The respondent argues that despite having received the Notice of Confirmation, the Applicant continued to "raise the issue of the correctness of the Reassessments with CRA's Appeals division" rather than appeal the decision to the Tax Court of Canada within the prescribed time frame. 
+ 
+ 
+ 
+ [14] 
+  The respondent further contends that the Applicant cannot seek declaratory relief relating to the "backdating of documents". It is argued that the relief was not pled in the Applicant's notice of application and the evidence establishes the revised document was known to it at the time of drafting the notice of application. 
+ 
+ 
+ 
+ [15] 
+  The respondent also argues that the Applicant should not be permitted to use judicial review as a means to avoid the comprehensive statutory scheme established by the  
+ ITA 
+  and the  
+ Tax Court of Canada Act 
+ , RSC 1985, c T-2, for the appeal of reassessments. The respondent argues that the Tax Court of Canada has exclusive original jurisdiction to hear and determine appeals on matters arising under the  
+ ITA 
+  pursuant to section 12 of the  
+ Tax Court of Canada Act 
+ . The respondent submits that the Supreme Court has also stated in  
+FRAGMENT_SUPPRESSED, that taxpayers should not be permitted to use judicial review application processes at the Federal Court to open up an incidental form of litigation when a right of appeal exists at the Tax Court of Canada. 
+ 
+ 
+ 
+ ANALYSIS 
+ 
+ 
+ 
+ [16] 
+  Whether the Court is reviewing a decision on procedural fairness grounds or determining whether the issues raised are properly within the Court's jurisdiction on judicial review, the matters are reviewable on the correctness standard ( 
+FRAGMENT_SUPPRESSED). 
+ 
+ 
+ 
+ [17] 
+  I will turn first to the Applicant's procedural fairness argument. This argument is considered because the issue potentially engages the Applicant's right to launch its appeal to the Tax Court of Canada. 
+ 
+ 
+ 
+ [18] 
+  Following the filing of the Applicant's objection to the Reassessments pursuant to section 165 of the  
+ ITA 
+ , the Minister confirmed the Reassessments and communicated his action to the Applicant by Notice of Confirmation issued on February 11, 2009. By doing so, the Minister confirmed that his decision on the Reassessments remained unchanged. This included his decision to levy gross negligence penalties even though this was not expressly mentioned in the Notice of Confirmation. As noted above, this was confirmed by the CRA in a letter sent to the Applicant on March 13, 2009, as well as in the revised document sent on or around the same date. The record establishes that the Applicant received this letter and this document. 
+ 
+ 
+ 
+ [19] 
+  In my view, once the Minister decides to confirm an assessment or reassessment and notifies the taxpayer in writing of his decision pursuant to subsection 165(3) of the  
+ ITA 
+ , his duties under the  
+ ITA 
+  in relation to reconsideration of assessments are completed. In the circumstances, I find that the Minister did confirm the Reassessments on February 11, 2009, and did notify the Applicant in writing of his action. The Applicant had the option to appeal the decision to the Tax Court of Canada, which it did not do. The  
+ ITA 
+  does not provide for a further reconsideration of the Minister's action. The February 11, 2009 Notice of Confirmation is the only effective notice of the Minister's action in the circumstances. Any revised or amended notice that does not change the Minister's decision cannot be considered a substitute for the Notice of Confirmation. 
+ 
+ 
+ 
+ [20] 
+  Further, contrary to the Applicant's contention, I find no evidence of a promise made on behalf of the Minister that a new Notice of Confirmation was to be issued. The March 13, 2009 letter from the CRA informed the Applicant that the penalties were also confirmed and that "amended copies" of the confirmation documents would be sent to reflect this fact. In my view, the undertaking to issue "amended copies" that confirm the Reassessments does not amount to a promise that a new Notice of Confirmation is to be issued. Further, the record of the transcripts of cross-examinations of CRA officials supports the Minister's contention that the revised notice was sent to clarify that the gross negligent penalties continued to apply as levied in the Reassessments and as confirmed in the Notice of Confirmation: 
+ 
+ 
+ 
+ Q: Now, if you thought that the initial notice of confirmation was sufficiently clear, was [the revised version] provided merely as a courtesy? 
+ 
+ 
+ 
+ A: That's correct. 
+ 
+ 
+ 
+ Cross-Examination on Affidavit of Ron Brass, Applicant's Record, p. 260. 
+ 
+ 
+ 
+ [21] 
+  I am satisfied that the revised version of the Notice of Confirmation was sent to clarify the Minister's action and was not intended to replace the Notice of Confirmation. I accept the Minister's contention that the revised document was dated the same date as the Notice of Confirmation so as not to mislead the Applicant about the date of the Notice of Confirmation or the possibility that the Revised Version was a new document that replaced the original Notice of Confirmation. Consequently, I find that the Revised Version did not serve to backdate the Notice of Confirmation. 
+ 
+ 
+ 
+ [22] 
+  The Minister could not revisit his decision once his action on the objection was taken and communicated to the Applicant. The revised document did not change the Minister's decision on the Applicant's objection to the Reassessments. That decision was communicated to the Applicant by the Notice of Confirmation dated February 11, 2009, as required by subsection 165(3) of the  
+ ITA 
+ . 
+ 
+ 
+ 
+ [23] 
+  Here, the Applicant received the Notice of Confirmation as well as its Revised Version. The Applicant was aware of the Minister's decision and of his right of appeal. The cover letter to the Notice of Confirmation states that should the Applicant "disagree with this decision, [it] may file an appeal with the courts. Information on how to proceed is attached." The attached information clearly sets out the necessary steps to be taken for an appeal of the decision to be launched before the Tax Court of Canada, including that the "appeal has to be received by the Court no later than 90 days from the mailing date of our  
+ Notice of Confirmation 
+  or notice of (re)assessment." Notwithstanding this notice, the Applicant did not move to protect its rights by appealing to the Tax Court of Canada. Rather, it persisted in pursuing its dispute with CRA officials. In the circumstances, I find that the Minister's actions do not amount to a breach of procedural fairness. 
+ 
+ 
+ 
+ [24] 
+  While I find no breach of procedural fairness in the circumstances, it would have been preferable had the Minister articulated his clarification on the gross negligent penalties differently. A simple letter advising the Applicant that the penalties were confirmed in the February 11, 2009 Notice of Confirmation would have been sufficient and may have prevented the need for this application. 
+ 
+ 
+ 
+ [25] 
+  Having determined that no breach of procedural fairness resulted from the issuance of the Notice of Confirmation, I turn to consider whether the legal efficacy of the Notice of Confirmation is a matter that is properly before this Court on judicial review. 
+ 
+ 
+ 
+ [26] 
+  In  
+ FRAGMENT_SUPPRESSED 
+ , above, when the CRA contacted the taxpayer regarding an amount due, the taxpayer claimed that he had never received a notice of reassessment. Over a year later, he commenced an application for judicial review in the Federal Court seeking an order declaring that no amount was owing because no notice had been sent. The Federal Court of Appeal affirmed the Federal Court's decision not to hear the application for judicial review. The Federal Court of Appeal held that the legal efficacy of the notice of reassessment was a matter to be determined by the Tax Court of Canada in an income tax appeal. At paragraph 13 of its decision, the Federal Court of Appeal wrote that "[i]n this case, section 18.5 [of the  
+ Federal Courts Act 
+ ] should preclude the Federal Court from entertaining an application for judicial review in which the critical issue is the legal efficacy of that key document." Similar reasoning was adopted by the Supreme Court in  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [27] 
+  Here, the Applicant claims that the Revised Version of the Notice of Confirmation which purports to amend the Notice of Confirmation has no legal effect. The Applicant challenges the "legal efficacy" of a "key document". Guided by the above discussed jurisprudence of the Federal Court of Appeal and the Supreme Court of Canada, I am satisfied that such a question is a matter to be determined by the Tax Court of Canada in an income tax appeal. 
+ 
+ 
+ 
+ [28] 
+  It was open to the Applicant to appeal the Notice of Confirmation to the Tax Court of Canada. In the result, pursuant to section 18.5 of the  
+ Federal Courts Act 
+  and section 12 of the  
+ Tax Court of Canada Act 
+ , the application for judicial review on this question will not be entertained. Consequently, the Applicant's claim for  
+ mandamus 
+  relief and ancillary declaratory relief related to the question will be dismissed. 
+ 
+ 
+ 
+ Decisions of the Collections Division 
+ 
+ 
+ 
+ [29] 
+  The remaining issues concern the decisions of the Collections Division. Therefore, I will next set out the underlying facts relating to each of those decisions. 
+ 
+ 
+ 
+ FACTS 
+ 
+ 
+ 
+ (i) Registering a judgment on the Applicant's properties based on the 2008 Assessment 
+ 
+ 
+ 
+ [30] 
+  On April 15, 2009, the CRA issued an assessment against the Applicant in the amount of $436,446.80 for its taxation year ending October 31, 2008 (the 2008 Assessment). 
+ 
+ 
+ 
+ [31] 
+  On June 19, 2009, the Applicant paid $387,031 into its account against the 2008 Assessment. The amount was inadvertently posted by the CRA to a different account also belonging to the Applicant. 
+ 
+ 
+ 
+ [32] 
+  Sometime in 2009, Mr. Davis requested that the Applicant's credits from the 2005 and 2006 taxation years amounting to $24,076 be applied against the 2008 Assessment. 
+ 
+ 
+ 
+ [33] 
+  The Applicant's 2008 corporate return indicates tax withheld at the source in the amount of $17,996. 
+ 
+ 
+ 
+ [34] 
+  On April 1, 2010, the Collections Division sent a warning letter advising the Applicant that it had 21 days to pay the outstanding amounts owing on the Reassessments and the 2008 Assessment before legal action would be taken. 
+ 
+ 
+ 
+ [35] 
+  Sometime in April 2010, the Collections Division was notified that the June 19, 2009 payment was inadvertently applied by the CRA to the wrong account and that the payment had been intended by the Applicant to be applied against its 2008 Assessment. 
+ 
+ 
+ 
+ [36] 
+  The CRA obtained a certificate from the Federal Court for the 2008 Assessment for $442,412.96 which it registered in the Land Title Office against three properties belonging to the Applicant on or around June 4, 2010. At that time, the CRA also registered a judgment against the Applicant's properties for $500,488.88, which had been obtained on January 19, 2007 for half of the amount owing under the 2000, 2002 and 2003 Reassessments. 
+ 
+ (ii) Refusal to apply tax credits to the 2008 debt 
+ 
+ 
+ 
+ [37] 
+  Mr. Davis had requested at some point in 2009 that the Applicant's tax credits for the 2005 and 2006 taxation years be applied to the 2008 Assessment debt. The request had not been processed at that time and was resubmitted by the Collections Division to the corporate accounting division in April 2010. 
+ 
+ 
+ 
+ [38] 
+  At the end of July 2010, counsel for the Applicant contacted Brian McGrath at the Collections Division to request that the 2005 and 2006 taxation year credits be applied against the 2008 Assessment. Mr. McGrath was informed by his team leader, Leslie Green, that credits needed to be applied to the oldest debt. Mr. McGrath admitted he knew there was a CRA policy that the taxpayer could apply credits as requested, but told counsel for the Applicant that the credits needed to be applied to the oldest debt, as instructed by Ms. Green. 
+ 
+ 
+ 
+ [39] 
+  On the same day, Ms. Green realized her mistake and told Mr. McGrath that the credits could be applied where the taxpayer desired. The Applicant was not made aware of this reversal of position until the credits were eventually posted on the CRA's system in December 2010. At that time, Mr. McGrath advised Mr. Davis that the credits had been applied to the 2008 Assessment and provided Mr. Davis with a release of the 2008 judgment for use in the Land Title Registry. The CRA alleges the delay in the posting of the credits is attributable to the fact that the CRA needed to reassess the Applicant's returns for 2005 and 2006 in order to determine if the Applicant was entitled to the credits. 
+ 
+ 
+ 
+ [40] 
+  The judgment on the Applicant's property for the 2008 tax debt was released on December 15, 2010. 
+ 
+ 
+ 
+ (iii) Refusal to lift the judgment from two of the three properties 
+ 
+ 
+ 
+ [41] 
+  At the end of July 2010, counsel for the Applicant contacted Mr. McGrath to request that the CRA remove the Reassessments judgment from two of the Applicant's properties on the basis that the third property had sufficient equity to cover the debt. The Applicant provided the CRA with a December 2009 mortgage statement to substantiate its claim. 
+ 
+ 
+ 
+ [42] 
+  Mr. McGrath discussed the request with his team leader, Leslie Green, and a Resource officer, Kelly Ward. Ms. Green denied the request on the basis that it was an old debt, the debt was collectible and that the CRA would not gain any benefit from doing so. Ms. Green did not review any documents in the file in coming to her response. The decision was relayed to counsel for the Applicant by Mr. McGrath. 
+ 
+ 
+ 
+ [43] 
+  On April 29, 2011, CRA received payment of $1,180,384.22, representing full payment of the Reassessments. All judgments against the Applicant's properties have been lifted as of this date. 
+ 
+ 
+ 
+ ISSUE II: Does the full repayment of the Applicant's debt and the lifting of the judgments on the Applicant's properties render the other issues raised in relation to the Collections Division's decisions moot? 
+ 
+ 
+ 
+ ARGUMENTS OF THE RESPONDENT 
+ 
+ 
+ 
+ [44] 
+  The respondent argues that the test to determine "mootness" established by the Supreme Court in  
+FRAGMENT_SUPPRESSED, has been met. 
+ 
+ 
+ 
+ [45] 
+  The respondent contends that since the credits at issue were applied to the 2008 debt and that all debts have been paid in full, the required tangible and concrete dispute between the parties has disappeared and the issues have become academic. 
+ 
+ 
+ 
+ [46] 
+  The respondent further argues that the Court should not exercise its discretion to hear the applications because there is no longer an adversarial relationship between the parties since all debts have been paid in full, and because "issues in these applications are not of public importance, are likely to come before the Court in other applications, and have no practical effect on the parties." 
+ 
+ 
+ 
+ [47] 
+  The respondent also contends that the "core relief" now sought by the Applicant was not pled in the notice of application. It is argued that such a request is inappropriate without an amendment to the notice of application and should not be entertained by the Court. 
+ 
+ 
+ 
+ ARGUMENTS OF THE APPLICANT 
+ 
+ 
+ 
+ [48] 
+  The Applicant argues that the record does not establish that the tangible and concrete dispute has disappeared between the parties. It contends that the record is unclear in regard to a second judgment registered against its properties between April 11 and 29, 2011. It questions why these liens were imposed and what impact they may have had on forcing payment. 
+ 
+ 
+ 
+ [49] 
+  Further, the Applicant contends that it is seeking relief beyond the lifting of the judgments, namely declaratory relief and an order quashing the impugned decision. The Applicant distinguishes between the lifting of the liens and an order quashing the decision to register the liens. It argues that a quashed decision may have retroactive effect. The Applicant also contends that there is "no saving in judicial economy raising issues of mootness at the hearing itself." 
+ 
+ 
+ 
+ [50] 
+  The Applicant contends that the public interest prong of the mootness test applies in the circumstances because the "Crown's identification of the decision maker has changed several times" and "back-dating has been admitted by a Crown witness in cross-examination." Also within the public interest prong, the Applicant states that: 
+ 
+ 
+ 
+ If a creditor can excert [sic] pressure upon an applicant, for example by more than doubling the liens in place on three different properties, and then claim mootness when the application of pressure results in the desired payment, there is a risk of misconduct being rewarded rather than scrutinized. 
+ 
+ 
+ 
+ [51] 
+  The Applicant submits that given the changes in some of the facts since the initial application, the "core relief" it sets out in its memorandum of fact and law should be considered in determining whether the issues are moot. 
+ 
+ 
+ 
+ ANALYSIS 
+ 
+ 
+ 
+ [52] 
+  The preliminary question is to determine whether the relief sought by the Applicant is restricted to what is claimed in the original notices of application filed on August 24, 2011, or whether it also includes the "core relief" raised by the Applicant in its written submissions. 
+ 
+ 
+ 
+ [53] 
+  In addition to the specific relief requested in the Applicant's notices of application, there is the "basket clause" stating: "Such other relief as this Honourable Court deems just." Declaratory relief raised in a memorandum of fact and law that is necessarily incidental to the requested relief may be granted under a basket clause in circumstances where the opposite party is not taken by surprise or in any way prejudiced ( 
+FRAGMENT_SUPPRESSED). 
+ 
+ 
+ 
+ [54] 
+  Item (i) of the core relief articulated in the Applicant's memorandum of fact and law now seeks declaratory relief relating to the backdating of documents. Here, the notice of application makes no reference to declaratory relief sought relating to the backdating of documents. The relief sought in the Notice of Application includes a request for an order requiring the issuance of an amended Notice of Confirmation, a declaration that the February 11, 2009 Notice of Confirmation was inadequate and incomplete, and a declaration that any delay in the issuance of the amended Notice of Confirmation is attributable to the actions of the CRA. The "backdating of documents" is a different issue and was not raised in the Notice of Application. I am of the view that the specific relief relating to backdating is not necessarily incidental to the relief raised in the Notice of Application. Consequently, the respondent did not have notice that such relief was requested. Failure to provide proper notice results in a process that is procedurally unfair. Therefore, the request for declaratory relief relating to backdating of documents listed in the "core relief" will not be entertained on this application. In any event, I have already determined in the context of the procedural fairness issue that there was no backdating of the Notice of Confirmation. 
+ 
+ 
+ 
+ [55] 
+  With regard to the three other heads of declaratory relief sought in the Applicant's memorandum of fact and law, I am satisfied that the relief sought is incidental or ancillary to the relief sought in the notices of application and is relief that may be granted under the "basket clauses." I am further satisfied, in the circumstances, that the respondent is not taken by surprise or in any way prejudiced by allowing the request for this relief to be considered by the Court. Consequently, the three additional heads of relief articulated as part of the "core relief" sought by the Applicant are properly before the Court. 
+ 
+ 
+ 
+ [56] 
+  Having determined which heads of relief sought by the Applicant are properly before the Court, I now turn to consider whether the issues raised are moot. 
+ 
+ 
+ 
+ [57] 
+  The Supreme Court, in  
+ FRAGMENT_SUPPRESSED, sets out the following two-step approach in applying the doctrine of mootness: ... "[f]irst, it is necessary to determine whether the required tangible and concrete dispute has disappeared and the issues have become academic. Second, if the response to the first question is affirmative, it is necessary to decide if the court should exercise its discretion to hear the case." 
+ 
+ 
+ 
+ [58] 
+  In  
+ FRAGMENT_SUPPRESSED 
+ , the Supreme Court discusses the circumstances where the doctrine of mootness is generally applied: 
+ 
+ 
+ 
+FRAGMENT_SUPPRESSED 
+ 
+ 
+ [59] 
+  The Court makes clear that the analysis to determine whether a question is moot "requires a consideration of whether there remains a live controversy." A case that fails to meet the "live controversy test" is moot ( 
+ FRAGMENT_SUPPRESSED). 
+ 
+ 
+ 
+ [60] 
+  The jurisprudence also teaches that declaratory relief, in itself, does not provide a basis to establish a live controversy ( 
+FRAGMENT_SUPPRESSED). 
+ 
+ 
+ 
+ [61] 
+  Here, all of the debts owing to the CRA have been paid and all of the judgments registered against the Applicant's properties have been discharged. Consequently, the primary elements of relief raised in the Applicant's notices of application are no longer live. What remains, in terms of potential relief available to the Applicant, is the declaratory relief claimed in relation to past enforcement actions of the CRA. When declaratory relief does not flow from a live controversy, as is the case here, it is to be considered in the second step of the  
+ FRAGMENT_SUPPRESSED 
+  analysis. In the result, I am satisfied that there remain no live controversies and that the issues raised in relation to the Collections Division decisions are moot. 
+ 
+ 
+ 
+ ISSUE III: Should the Court, in the exercise of its discretion, decide the moot issues? 
+ 
+ 
+ 
+ [62] 
+  In exercising its discretion to hear a matter that is moot, the Court should consider the extent to which the following three rationales for enforcing the mootness doctrine are present ( 
+ FRAGMENT_SUPPRESSED): 
+ 
+ 
+ 
+ a. the lack of an adversarial relationship; 
+ 
+ 
+ 
+ b. the concern for scarce judicial resources (whether the decision will have a practical effect on the parties, is a case of a recurring nature but brief duration or an independent question that may independently evade review by the court, or is an issue of public importance of which a resolution is in the public interest); 
+ 
+ 
+ 
+ c. the need for the Court to demonstrate a measure of awareness of its proper law-making function and not overstepping its role as the adjudicative branch in our political framework. 
+ 
+ 
+ 
+ i) Adversarial relationship 
+ 
+ 
+ 
+ [63] 
+  The Applicant still considers certain elements of its relationship with the CRA to be adversarial. It claims that certain actions of the CRA were inappropriate, in particular the filing of certain liens against its properties, the timely lifting of certain liens against is properties, and the timely application of tax credits against the Applicant's debts. The respondent contends that all issues have been resolved and all liens against the Applicant's properties have been lifted. The respondent also contends that the CRA has always acted appropriately. 
+ 
+ 
+ 
+ [64] 
+  The questions at issue relate essentially to actions taken by the Minister in carrying out his obligation to collect outstanding tax debts pursuant to the provisions of the  
+ ITA 
+ . These actions flow from discretionary administrative decisions. 
+ 
+ 
+ 
+ [65] 
+  To provide the necessary adversarial context in the circumstances, there should be evidence of the collateral consequences of the outcome. These are not evident here. In its written submissions, the Applicant states that "the record is unclear" as to the impact of the impugned liens on forcing payments. It further submits that it is "far from clear" that lifting the liens removes any tangible dispute between the parties. At best, the Applicant relies on speculative inferences to base any collateral consequences to deciding the issues. 
+ 
+ 
+ 
+ [66] 
+  In my view, the first rationale of the  
+ FRAGMENT_SUPPRESSED 
+  test, the adversarial context, mitigates against the exercise of my discretion to entertain the moot issues in this instance. 
+ 
+ 
+ 
+ ii) Concern for judicial economy 
+ 
+ 
+ 
+ [67] 
+  In considering the second rationale, the Court must evaluate whether there are special circumstances that warrant the use of limited judicial resources on issues that are moot ( 
+ FRAGMENT_SUPPRESSED). The concern for judicial economy is answered if the Court decision will have some practical effect on the rights of the parties. This approach is also adopted when the Court considers a request for declaratory relief. To grant declaratory relief, "the case before the Court must be genuine, not moot or hypothetical; and the declaration must be capable of having some practical effect in resolving the issues the case raises" ( 
+FRAGMENT_SUPPRESSED). 
+ 
+ 
+ 
+ [68] 
+  Further, "[i]n order to ensure that an important question which might independently evade review be heard by the court, the mootness doctrine is not applied strictly" ( 
+ Borowksi 
+  at 360). The Supreme Court has stated that FRAGMENT_SUPPRESSED ( 
+ FRAGMENT_SUPPRESSED). 
+ 
+ 
+ 
+ [69] 
+  Finally, the Court is justified in using scarce judicial resources to hear moot cases that raise questions of public importance of which a resolution is in the public interest. 
+ 
+ 
+ 
+ [70] 
+  Here, as discussed above, the Applicant was unable to clearly articulate any collateral consequence that would flow from deciding the issues. The Applicant has not demonstrated any prejudice it suffered from the alleged unreasonable actions by the CRA. Further, the declaratory relief sought is in relation to past enforcement actions of the CRA. These actions have been taken and are not recurring or ongoing in a continuing relationship. In my view, there will be no practical effect on the rights of the parties in determining the issues raised by the Applicant. 
+ 
+ 
+ 
+ [71] 
+  The Applicant did not raise any issue that is unlikely to come before the Court in other circumstances. I am satisfied that there are no important questions which although moot might independently evade the review of the Court. 
+ 
+ 
+ 
+ [72] 
+  The Applicant contends that the following questions raised in the applications justify the exercise of the Court's discretion in hearing the moot issues, namely the backdating of the Notice of Confirmation, the allegation that the CRA's identification of the decision-maker has changed, and the fact that new liens were placed on its properties between April 11, 2011, and April 29, 2011, for an amount that more than doubled the existing liens. In my view, these questions do not raise issues that involve social costs of continued uncertainty in the law. Rather, they relate to facts specific to the Applicant's circumstances that do not amount to questions of public importance. Consequently, I am satisfied that there are no issues of public importance in play in the applications. 
+ 
+ 
+ 
+ [73] 
+  In the result, the second rationale of the  
+ FRAGMENT_SUPPRESSED 
+  test does not support the exercise of the Court's discretion to hear the moot issues. 
+ 
+ 
+ 
+ iii) The Court's law-making function 
+ 
+ 
+ 
+ [74] 
+  "In considering the exercise of its discretion to hear a moot case, the Court should be sensitive to the extent that it may be departing from its tradition role" ( 
+ FRAGMENT_SUPPRESSED). The issues in play here essentially concern the reasonableness of past enforcement actions of the CRA, and its implementation of administrative policies relating to the collection of outstanding tax debt pursuant to the enforcement provisions of the ITA. In adjudicating such issues, the Court would not be departing from its traditional role. However, in the specific circumstances of this case, it would be preferable to decide such questions on the basis of live issues. Consequently, I consider the third rationale of the  
+ FRAGMENT_SUPPRESSED 
+  test to be a neutral factor in the exercise of my discretion. 
+ 
+ 
+ 
+ [75] 
+  In conclusion, in the circumstances, having considered the three basic rationales for enforcement of the mootness doctrine, in the exercise of my discretion, I decline to hear and decide the moot issues raised in the applications at issue. 
+ 
+ 
+ 
+ [76] 
+  Had I proceeded to consider the moot issues raised in each of the Collections Division's decisions under review, the evidence adduced by the Applicant would have failed to establish an evidentiary foundation for the declaratory relief sought in any event. 
+ 
+ 
+ 
+ [77] 
+  Regarding the application relating to the Collections Division refusal to apply tax credits from the 2005 and 2006 tax years to the 2008 tax debt, the evidence shows those credits were eventually applied as requested by the Applicant in accordance with the CRA's policy. The mistaken belief that the 2005 and 2006 taxation year credits needed to be applied to the oldest debt and not as directed by the taxpayer was corrected by officials on the same day the mistake was made. The credits were eventually applied when the CRA determined the Applicant was entitled to the credits following a reassessment of the 2005 and 2006 taxation years. 
+ 
+ 
+ 
+ [78] 
+  The Applicant alleges that the CRA acted unreasonably in refusing to lift liens from two of the Applicant's properties on the basis the Minister had sufficient equity to cover the debt. The Applicant adduced only a mortgage statement to substantiate its claim. This is clearly insufficient to establish the value of the equity in the impugned properties. Further, the Applicant failed to provide any authority indicating that the Collections Division had the obligation to lift any liens in such circumstances or conduct an independent evaluation of the Applicant's properties to determine its equity. 
+ 
+ 
+ 
+ [79] 
+  The relief sought by the Applicant relating to the liens based on the 2008 Assessment is also unsupported on the record. The record establishes that all of the liens were properly registered pursuant to legally obtained judgments on outstanding debt. Even if I were to accept the Applicant's arguments that the CRA erred in obtaining a judgment based on the 2008 Assessment and registering it against its properties, the Applicant's properties would still have been the subject of the liens based on the Reassessments. In the circumstances, the Applicant has failed to demonstrate any practical effect that would warrant declaratory relief on this issue.

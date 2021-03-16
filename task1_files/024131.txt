@@ -1,0 +1,100 @@
+[1]
+Harrington, J.
+: Michael Ho has been an Air Canada flight crew member since 1996. As such, he must enter areas of airports closed to the public. To do so, he must have a security clearance. That clearance was revoked, effectively costing him his job. This is the judicial review of that decision.
+[2]
+The decision is very brief. It was issued by Erin O'Gorman, Director General, Aviation Security, on behalf of the Minister of Transport, on 13 February 2013. It reads:
+The issue is whether to allow Mr. Ho, a flight attendant with Air Canada, to retain his transportation security clearance, or to cancel it in light of new information received by Transport Canada. My decision is set out below and is based on a review of the file including the concerns drawn to Mr. Ho's attention in our letter dated December 11, 2012, Mr. Ho's two (2) written statements and the letter from the Canadian Border Services Agency to Mr. Ho dated August 15, 2012, the recommendation of the Transportation Security Clearance Advisory Body as well as the
+Transportation Security Clearance Program (TSCP) Policy
+.
+The information regarding Mr. Ho being seen on seven (7) occasions in VIP rooms in BC Casinos with a group of individuals who brought a total of $942,880 to the cash cage, and the incident on October 10, 2011, where Mr. Ho failed to declare a large quantity of cash that was to Customs agents and was also found in possession of a stolen credit card, raise concerns regarding his judgement, reliability and trustworthiness. A review of the file led me to believe that there are reasonable grounds to suspect that he may be prone or induced to commit an act, or assist and abet an individual to commit an act, which may unlawfully interfere with civil aviation. Although Mr. Ho provided written statements, they did not contain sufficient information to address my concerns.
+I therefore concur with the Advisory Body's recommendation and cancel Mr. Ho's transportation security clearance.
+[3]
+This case is best understood by first reviewing the law, then the facts and finally, the Advisor Body and the Director General's application of the law to those facts.
+THE LAW
+[4]
+Under section 4.8 of the
+Aeronautics Act
+the Minister "may, for the purposes of this Act, grant or refuse to grant a security clearance to any person or suspend or cancel a security clearance".
+[5]
+Sections 39 and 46.1 of the
+Canadian Aviation Security Regulations
+provide that a person must not enter a restricted area unless he or she has been issued a restricted area identity card. To obtain such a card, one must first have security clearance.
+[6]
+Pursuant thereto, Transport Canada developed a
+Transportation Security Clearance Program
+. One of the objectives thereof "is to prevent the uncontrolled entry into a restricted area of a listed airport (in this case, Vancouver International Airport, Mr. Ho's home base) by any individual who the Minister reasonably believes, on a balance of probabilities, may be prone or induced to:
+a. commit an act that may unlawfully interfere with civil aviation; or
+b. assist or abet any person to commit an act that may unlawfully interfere with civil aviation." (article 1.4)
+[7]
+It is clear that the burden of proof is somewhat less than the normal balance of probabilities applicable in civil matters. As Mr. Justice Barnes noted in
+ <FRAGMENT_SUPPRESSED>  [2011] FCJ No 401(QL), at paragraph 20, the belief, on a balance of probabilities, is that a person
+may
+be prone.
+[8]
+As I said in
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ No 799 (QL), at paragraph 29:
+The Policy is forward looking; in other words, a prediction. The Policy does not require the Minister to believe on a balance of probabilities that an individual "will" commit an act that "will" lawfully interfere with civil aviation or "will" assist or abet any person to commit an act that "would" unlawfully interfere with civil aviation, only that he or she "may".
+[9]
+Judicial reviews of this policy span several years. Prior to
+ <FRAGMENT_SUPPRESSED> , [2008] SCJ No 9 (QL), the standard of review was held to be patent unreasonableness. Post <FRAGMENT_SUPPRESSED> , the standard is reasonableness.
+[10]
+Prior jurisprudence emphasizes the following:
+a. Air safety is an issue of substantial importance and access to restricted areas is a privilege not a right (
+ <FRAGMENT_SUPPRESSED>  FTR 309, [2007] FCJ No 1513 (QL) and
+ <FRAGMENT_SUPPRESSED>  [2013] FCJ No 44 (QL);
+b. The goal is to protect the public by preventing acts of unlawful interference in civil aviation. The interests of the general public take precedence over those of the person whose clearance is revoked (
+ <FRAGMENT_SUPPRESSED>  FTR 178, [2007] FCJ No 1547 ( <FRAGMENT_SUPPRESSED>  given a fair opportunity to respond:
+"The purpose of the legislation is to ensure security for civil aviation and to protect the public. The Director and the Advisory Body must assess the evidence and analyze both public documents and those submitted by the person concerned. This factor also commands a high level of deference." (
+ <FRAGMENT_SUPPRESSED>  [2007] FCJ No 594 (QL), per Mr. Justice Beaudry, at paragraph 18)
+THE FACTS
+[11]
+The Program calls for the creation of an Advisory Body which reviews information and makes recommendation to the Minister concerning the granting, refusal, cancellation and suspension of clearances. The Advisory Body consists of the Director, Security Screening Programs, and at least two other members selected by the Director based on their familiarity with the aim and objective of the Program.
+[12]
+In this case, the Advisory Body received information from the RCMP which it passed on to Mr. Ho. In turn, he twice replied in two detailed letters, with enclosures.
+[13]
+Mr. Ho was observed in the presence of high-stake gamblers at several casino VIP rooms in British Columbia. These persons were dealing with high amounts of cash which gave rise to money laundering suspicions. The group had brought to the cash cage a total cash amount of $942,880, mostly in $20 bills.
+[14]
+The other incident, a multifaceted one, arose upon his arrival in Vancouver on a flight, as a passenger, from Las Vegas, in the accompaniment of his wife. Although he declared on the Customs declaration he was carrying more than $10,000 in cash, he later verbally misdeclared the amount. He was also found to have in his possession a credit card which had been reported stolen. Despite the fact he and his wife live at the same address, they filled out separate Customs declarations, rather than just one as they were entitled to do.
+[15]
+Mr. Ho does not deny that he accompanied serious gamblers to various VIP rooms in British Columbia casinos. The gentlemen in question were Mr. Hui Chen and his brother Mr. Hua Chen - friends of his family. He said they owned the Kingkey Group in Shenzhen, China. He provided details of their website and that of the website for Forbes 2012 China Rich List which ranks the Kingkey Group as number 365, valued at $500 million. He did not cash any of their money and did not gamble with their money. He accompanies them when they come to Vancouver to visit their families. He offered to open his bank accounts for inspection.
+[16]
+As to the credit card, his explanation is that he found it in a hotel room in Shanghai. Like many hotel rooms, the air conditioning only operates when the room card is inserted in a slot designed for that purpose. As he wanted to maintain the electricity while he was out of the room, he inserted the credit card, and then forgot about it. He never used the card to make purchases. The RCMP Report says it was not used in Canada, but otherwise is silent.
+[17]
+As to his return from Las Vegas 10 October 2011, he had been on a holiday with a friend in Europe and in Las Vegas. His wife joined him in Las Vegas. They did not declare on the same Customs form because they were on different trips. The RCMP considered this to be suspicious, even though the form provides that family members living at the same address
+may
+, not must, complete a single form.
+[18]
+The form required him to declare whether he was carrying cash in excess of $10,000. He answered in the affirmative. He was only required to declare the precise amount when questioned by a Customs officer. As he had four different currencies in hand, he gave a rough estimate of US$12,000. He forgot to declare an emergency fund which he keeps in the lining of his suitcase. He says it was $500 - presumably US dollars as he flies around the world. The RCMP Report says it was $4,000 - currency unstated.
+[19]
+Mr. Ho's explanation is that on his 12-day jaunt with a friend, Mr. Zhang, he won about US$9,000 at casinos in Monaco, London and Las Vegas. When he was suddenly called upon to say how much he had in Canadian dollars, he could only give an estimate because he was carrying different currencies.
+[20]
+The CBSA states that he had in his possession, as expressed in Canadian dollars, $15,521.95, comprising Canadian $750, US$11,950, £300 and €1380. The exchange rate was not provided.
+[21]
+The Advisory Board makes no reference to Mr. Ho and his wife filling out separate Customs forms, and so I assume that this fact did not figure in their recommendation. They placed considerable emphasis on the fact that he "failed to report a significant quantity of cash, which was concealed in an inner pocket of his suitcase." They found it reasonable to believe that he had been deceitful and had purposefully tried to conceal the money. They considered it suspicious that he would have so much money on him and "would simply not know how much he had." The dispute as to whether $4,000 or $500 was hidden in the suitcase was noted. They also considered his explanations. "However they did not believe he had provided enough information to dispel concerns."
+[22]
+Ms. O'Gorman, Director General, concurred with the Advisory Board's recommendation and cancelled Mr. Ho's security clearance.
+ANALYSIS
+[23]
+The Attorney General is taking the position that one should not unduly focus on each incident, but rather consider their cumulative effect. However, zero + zero is still zero.
+[24]
+Unquestionably, Mr. Ho should have informed the hotel that he had found a credit card in his room. There was a lack of judgment on his part. The issue is whether that lack of judgment may make Mr. Ho prone to commit an act which may unlawfully interfere with civil aviation, or may assist or abet other persons. Certainly, the use of commercial aircraft to transport stolen credit cards or financial instruments may well interfere with civil aviation. However, there is no evidence to contradict Mr. Ho's statement that he had the card in his possession for months and had never used it. Indeed, the RCMP's report, as far as it goes, corroborates him.
+[25]
+With respect to his accompaniment of high rollers at British Columbia casinos, the casinos rightly reported the cash transactions as being suspicious in accordance with the
+Proceeds of Crime (Money Laundering) and Terrorists Financing Act
+. No charges were laid, which is not in itself definitive. However, I find it striking that the Advisory Board did not take up Mr. Ho's invitation to visit the Chens' website. If they had legitimate assets of US$500 million, concerns of money laundering, and possible use of aircraft in that connection, would be diminished. As stated by Mr. Justice Beaudry in <FRAGMENT_SUPPRESSED> , above, the Advisory Board had a duty to consider Mr. Ho's explanation. There is no evidence that they did. Nor did they take up his invitation to investigate his bank records.
+[26]
+Finally, regarding the incorrect verbal declaration to Customs, not the written declaration, the Advisory Board, as experts, and to whom this Court owes considerable deference, would be alert and sensitive to exchange rates. They would know that under the
+Cross-Border Currency and Monetary Instruments Reporting Regulations
+, the Bank of Canada's Daily Memorandum of Exchange Rates that are in effect at the time of importation must be used. That rate can be calculated from a CBSA letter to Mr. Ho's wife set out in his application record. The US exchange rate into Canadian dollars was 1.0328.
+[27]
+It is common ground that Mr. Ho did not declare the money concealed in the lining of his suitcase. Even ignoring exchange rates, and taking the Canadian and US dollars at par, Mr. Ho's declaration of $12,000 was an overestimate if there had been $4,000 in his suitcase, and an underestimate if it was $500. This is a point which should have been considered. Without such consideration, it was unreasonable to conclude that Mr. Ho had been deceitful and purposely tried to conceal money. As stated by Mr. Justice Fish in
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED> , [2009] SCJ No 12 (QL), "deference ends where reasonableness begins". The Advisory Board was obliged to consider whether it is usual for members of flight crews to carry "mad money" and, if so, what an appropriate amount would be.
+[28] <FRAGMENT_SUPPRESSED> , above, teaches us that a reasonable decision is one which is transparent. To say that Mr. Ho's explanations did not contain sufficient information to address concerns is in and of itself insufficient and opaque. From
+Newfoundland and  <FRAGMENT_SUPPRESSED> , we learn that a decision may be justified by an analysis of the record. However, in this case there is no indication that Mr. Ho's explanations were actually considered. In these circumstances, it is not up to the Court to substitute its own opinion. The matter must be referred back for reconsideration (
+ <FRAGMENT_SUPPRESSED>  (QL).
+[29]
+During argument, the point arose as to the extent to which I could order that the matter be redetermined by different decision makers, given the appointment process under the policy. Consequently, I call upon counsel for the Attorney General, in consultation with Mr. Ho's counsel, to submit a draft order for my consideration in accordance with rule 394 of the
+Federal Courts Rules
+by Monday, 26 August 2013.
+Application allowed.
+Editor: Gary W. McLaughlin/vnh

@@ -1,0 +1,284 @@
+Eli Lilly Can. Inc. v. Teva Can. Ltd., [DATE_SUPPRESSED] F.T.R. TBEd. NO.061
+MLB being edited
+Currently being edited for F.T.R. - judgment temporarily in rough form.
+Eli Lilly Canada Inc. and Eli Lilly and Company (plaintiffs/defendants by counterclaim) v. Teva Canada Limited (defendant/plaintiff by counterclaim)
+(T-1048-07; DATE_SUPPRESSED FC 801)
+Indexed As: Eli Lilly Canada Inc. et al. v. Teva Canada Ltd.
+Temp. Cite: [DATE_SUPPRESSED] F.T.R. TBEd. NO.061
+Federal Court
+Annis, J.
+June 26, DATE_SUPPRESSED.
+Counsel:
+Marc Richard, for the plaintiffs (defendants by counterclaim);
+Jonathan Stainsby, for the defendant/plaintiff by counterclaim.
+Solicitors of Record:
+Gowling Lafleur Henderson, LLP, for the plaintiffs (defendants by counterclaim);
+Aitken Klee, LLP, for the defendant/plaintiff by counterclaim.
+Summary:
+The headnote and the decision for this document are in preparation. Any footnotes found in this case will appear below end of document.
+I.
+Overview
+[1]
+Annis, J.
+: This appeal relates to the motion of Eli Lilly Canada Inc. et al. [Lilly] to compel Teva Canada Limited [Teva] to provide documents refused to be produced at the examination for discovery of the Teva representative held November 13 and 14, 2014 and December 22, 2014. Prothonotary Tabib allowed Lilly's motion in respect of the production of certain documents consisting of confidential transcripts of trial testimony in two prior actions and the Confidential Reasons for Judgment in one of those prior actions [the Confidential Documents]. Teva now appeals Prothonotary Tabib's Order, dated May 13, 2015.
+[2]
+Teva advances a number of submissions challenging the Prothonotary's Order:
+• She exceeded her jurisdiction by overturning or varying prior Orders made by Judges of the Federal Court that had designated certain documents as confidential;
+• She erred in not following prior binding jurisprudence of the Federal Court that has refused to compel production of transcripts and other documents from other proceedings;
+• She failed to undertake the analysis mandated by the jurisprudence in considering whether production of the Confidential Documents was necessary when the relevant facts are available to Lilly through discovery;
+• She failed to follow proper procedure by directing Lilly to seek relief from the implied undertaking or to apply for the variance of the existing confidentiality orders by requiring Lilly to establish that production was in the interests of justice; or that there was a "compelling reason" for production or a "change in circumstances" warranting the variance of the existing order;
+• She erred in concluding that the Confidential Documents were relevant to the issues in this action; and
+• She erred in the breadth of disclosure ordered.
+[3]
+The Court allows Teva's appeal that the Prothonotary's Order is overbroad, but otherwise dismisses Teva's appeal for the reasons that follow.
+II.
+Background Facts
+[4]
+The underlying action seeks recovery of Teva's damages under section 8 of the
+Patented Medicines (Notice of Compliance) Regulations,
+SOR/93-133[the
+Regulations
+]. Teva was excluded from the Canadian market with its olanzapine product, Novo-Olanzapine (now Teva-Olanzapine), from February or March 2006 until June 2007.
+[5]
+The current proceeding arises out of Lilly's unsuccessful application under section 6 of the
+Regulations
+, which was dismissed by Justice Hughes on June 5, 2007 (
+REFERENCE_SUPPRESSED), following which Teva (then Novopharm) received its Notice of Compliance and began selling olanzapine tablets in Canada.
+[6]
+Immediately following the dismissal of its application under the
+Regulations
+, Lilly commenced this action, alleging patent infringement. Teva counterclaimed for a declaration of invalidity of the relevant patent [the 113 Patent] and for damages under section 8 of the
+Regulations
+.
+[7]
+The trial of Teva's damages claim was bifurcated (as was Lilly's claim for infringement damages) in September 2007, pending the resolution of the question of the validity of the 113 Patent. Teva's claim for section 8 damages was "on hold" for several years after it was bifurcated.
+[8]
+In October 2009, Justice O'Reilly ruled that the 113 Patent was invalid and held that Teva was entitled to section 8 damages (
+REFERENCE_SUPPRESSED [the Invalidity Judgment]). Justice O'Reilly's Invalidity Judgment has been maintained through two appeals, a rehearing before Justice O'Reilly and the dismissal of Lilly's application for leave to appeal to the Supreme Court of Canada.
+[9]
+Lilly conducted its first round of examination for discovery of Teva's representative on Teva's claim for section 8 damages. Teva provided its answers to undertakings and under advisements on March 6, 2015.
+[10]
+The area of contention in this matter concerns information about Teva's "trade-spend" in two other actions. Trade spend was described in one of the cases by Justice Zinn as being the rebates paid by pharmaceutical companies under different descriptions to pharmaceutical purchasers to encourage them to buy their product and to reward them when they do (
+REFERENCE_SUPPRESSED [the Venlafaxine Action]).
+[11]
+The Prothonotary heard the parties' motions to compel answers to refusals on April 14, 2015. Specifically, for the purpose of this appeal, Lilly's motion sought to compel production of confidential trial transcripts from court file nos. T-1161-07 and T-1844-07, being the Venlafaxine Action, as well as the Confidential Reasons for Judgment in that matter.
+[12]
+Court file no. T-1161-07 was an action in which Teva sought recovery of its damages under section 8 of the
+Regulations
+against Sanofi-Aventis Canada Inc. and Sanofi-Aventis Deutschland GmbH relating to the drug Ramipril [the Ramipril Action]. The action was tried and Justice Snider rendered judgment on May 11, 2012 (
+REFERENCE_SUPPRESSED).
+[13]
+The Venlafaxine Action sought recovery of Novapharm's section 8 damages against Pfizer Canada Inc. relating to the drug venlafaxine hydrochloride [Venlafaxine]. The action was tried and Justice Zinn rendered judgment on March 14, 2014 (
+REFERENCE_SUPPRESSED).
+[14]
+In its motion materials Lilly expanded on the background to the information sought, the factual components upon which the Court relies as follows:
+A. Item 90
+[15]
+Item 90 requested production of the transcript of the trial testimony of Doug Sommerville in the Ramipril Action. In her public decision, Justice Snider notes specifically that "the lost profits on sales of other Teva products was described by Mr. Sommerville in his testimony." (
+REFERENCE_SUPPRESSED). This is an issue raised by Teva in its pleadings for the current proceeding.
+[16]
+Mr. Sommerville, along with other Teva witnesses, also spoke to the issue of the prevailing rate of trade-spend during the relevant period of the Ramipril Action, which period is generally the same with respect to the present matter. As noted above, this was also an issue raised by Teva in its pleadings for the current proceeding (
+REFERENCE_SUPPRESSED).
+[17]
+Lilly argues that the testimony speaks to the prevailing rate of trade-spend during a period generally the same with respect to the present matter, so it is relevant to issues raised in Teva's pleadings. The production of the transcript is even more critical given that Teva has indicated that no written trade-spend policies existed in 2006 and 2007.
+B. Item 181
+[18]
+Item 181 requested production of the Confidential Reasons for Judgment in the Velafaxine Action, as well as the transcript of the testimony of Doug Sommerville at that trial. At that trial, Justice Zinn addressed the issue of single source and multi-source trade-spend rates. Mr. Sommerville testified as to Teva's practices and the rates offered with respect to Venlafaxine (
+REFERENCE_SUPPRESSED).
+[19]
+Venlafaxine was a single source product that was made available in the time frame relevant to this matter. Teva alleges that its olanzapine products would have been single-sourced. Lilly argues as such, that Teva's practices and information with respect to trade-spend contained in the requested documents is very relevant.
+C. Item 182
+[20]
+Item 182 expanded the production requested in Item 90 to include the trial transcripts of not only Doug Sommerville, but of all Teva witnesses in the Ramipril Action. This item also reiterated the request for production of the Venlafaxine Action documents.
+[21]
+In the public decision of the Ramipril Action, Justice Snider notes that:
+Mr. Fishman, Dr. Sherman, Ms. Decelles and Mr. Doug Sommerville, who is Teva's vice president of marketing and sales, all testified that trade spend rates have increased over the past few years.
+(
+REFERENCE_SUPPRESSED).
+[22]
+Teva witnesses testified in both the Ramipril Action and the Venlafaxine Action as to the prevailing rate of trade-spend offered by Teva in single source and multisource situations. Both cases involve time frames that are generally the same as the relevant period in the present matter.
+[23]
+Teva resisted the above production requests regarding confidential trial transcripts in two actions involving Teva and parties who are strangers to this action and the confidential version of the reasons for judgment in one of the two (the Confidential Documents are listed as Items 90, 181 and 182 in Lilly's motion record). In the result, the Prothonotary gave oral reasons (since transcribed) in which she, among other things, ordered the production of the Confidential Documents.
+[24]
+On this motion Teva appeals from the Order of Prothonotary Tabib dated May 13, 2015, requiring Teva to produce the Confidential Documents.
+III.
+The Impugned Decision
+[25]
+The Prothonotary's Order on Item 90 also provided the grounds that applied to Items 181 and 182 as follows:
+Item No. 90: Relevant, evidence in a trial would be public and accessible but for Confidentiality Order. Teva can waive Confidentiality Order and the information is relevant to the issues in the case.
+[26]
+Before the Prothonotary, Lilly argued that the Confidential Documents were relevant to the issues of: (1) "trade-spend" and (2) Teva's contention that being the only vendor of Olanzapine would have driven sales of their other products and all their sales would have increased.
+[27]
+Lilly contended that there were few documents aside from some global numbers showing what Teva received from Olanzapine or Venlafaxine, another single-source product marketed by Teva, in the relevant timeframe. Instead, a factual witness from Teva, identified as Mr. Sommerville, testified as to how Teva worked out its trade-spend arrangements, without this information being corroborated on paper.
+[28]
+Lilly pointed out that the evidence was entirely factual in nature as opposed to being opinion evidence, referred to in cases rejecting the production of transcripts. It pointed out as well, that the trade-spend amounts should not vary depending upon the drug in question.
+[29]
+In the Venlafaxine Action, Justice Zinn accepted a 15 to 20 percent trade spend figure for single source. He also made a factual finding that when a generic manufacturer is the sole source generic in the market, the amount of trade-spend that it pays is less than what it offers when there are competitor generic manufacturers in the market. In the Ramipril Action, Justice Snider denied the extra trade-spend.
+[30]
+Although Teva argues that they have provided all the information that they have on trade-spend from these matters, it did not seriously contest Lilly's description of an absence of written detailed evidence and the contention it could only provide generalized figures. Before this Court there was also a reference to difficulties producing information from computers, which I find generally supports Lilly's argument.
+[31]
+In reply to questions from the Prothonotary, Teva acknowledged that Lilly was seeking evidence from Teva as to its practices in the same timeframe and for the same kind of claim, but with different products. Teva also acknowledged that, but for the confidentiality order, all the information would be public, that the request pertained to Teva's information, and that Teva could waive the confidentiality order for its own information.
+[32]
+The Prothonotary concluded that the requested materials were relevant and accepted Teva's suggestion that her order be circumscribed to the production of the documents that would continue to be subject to the existing confidentiality order for the purposes of this matter only.
+IV.
+Issues
+[33]
+The issues to be decided in this appeal are:
+a. What is the appropriate standard of review?
+b. Did Prothonotary Tabib err in compelling production of the Confidential Documents?
+V.
+Standard of review
+[34]
+A discretionary order of the Prothonotary should only be reviewed
+de novo
+where the questions raised in the motion are vital to a final issue in the case, or the order was clearly wrong, in the sense that the exercise of discretion by the Prothonotary was based upon a wrong principal or misapprehension of the facts. In addition, the order of the Prothonotary should be reviewed
+de novo
+if clearly wrong, in the sense that the exercise of discretion by the Prothonotary was based upon a wrong principle or upon a misapprehension of the facts (i.e., the decision is based on an error of law (
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED[
+Clopidogrel
+]).
+VI.
+Analysis
+Jurisdiction of Prothonotary
+[35]
+Teva argues that the Prothonotary exceeded her jurisdiction by varying the decision of a judge by requiring Teva to provide the Confidential Documents to Lilly. Rule 50(1)(g) of the
+Federal Courts Rules
+, SOR/98-106 states that a Prothonotary does not have the jurisdiction "to stay, vary or set aside an order of a judge, other than an order under paragraph 385(a), (b) or (c)." The exceptions to this rule refer to case management duties.
+[36]
+Despite the wording of Rule 50(1)(g), I conclude that its application is subservient to the proper construction of the Rules 151 and 152. In that respect, I further conclude that the Prothonotary, by discharging her statutory responsibilities in the course of an interlocutory motion directing a party to exercise a waiver contained in a confidentiality order for the purpose of providing procedural fairness, does not "discontinue" the effect of the confidentiality of the order as those words are used in Rule 152(3).
+[37]
+Rules 151 and 152 are as follows:
+151. (1) On motion, the
+Court
+may order that material to be filed shall be treated as confidential.
+(2) Before making an order under subsection (1), the Court must be satisfied that the material should be treated as confidential,
+notwithstanding the public interest in open and accessible court proceedings
+.
+[...]
+(b) the Federal Court,
+including a prothonotary acting within the jurisdiction conferred under these Rules
+.
+152. ...(3) An order made under subsection (1)
+continues in effect until the Court orders otherwise
+, including for the duration of any appeal of the proceeding and after final judgment.
+[Emphasis added]
+[38]
+The record discloses that Prothonotary Tabib asked whether Teva could waive its rights granted by the confidential order to produce Teva's Confidential Documents that were relevant to this litigation. Teva answered "I am sure that is the case," whereby the Prothonotary understood that these documents were under the control and possession of Teva and therefore ordered them to be produced by the exercise of Teva's waiver. The confidential orders contain a clause providing a waiver as follows: "Nothing in this order shall foreclose or limit a party from: (d) use or disclosure of its own confidential information."
+[39]
+A party may waive the order to disclose its own confidential information, which I conclude does not affect the confidentiality order remaining in force and effect. Indeed, Prothonotary Tabib's order was made with the express understanding that the Order of confidentiality remained in force, in addition to Lilly's undertaking to ensure that no confidential documents of third parties were disclosed in the process by their being contacted for that purpose.
+[40]
+In determining the appropriate construction of Rule 152 (3), the Court should be guided with a view to fulfilling the objectives described at Rule 3. It states that the Federal Courts Rules "shall be interpreted and applied so as to secure the just, most expeditious and least expensive determination of every proceeding on its merits."
+[41]
+In considering the policies underlying Rules 151 and 152, it is clear that the confidentiality order is an exception to the presumption of openness of trial proceedings and to be avoided when bits effect causes injustice to other parties. Rule 151 (2) stresses that the confidentiality orders must not be made unless the Court is satisfied of their appropriateness "notwithstanding the public interest in open and accessible court proceedings".
+[42]
+The emphasis in Rules 151 and 152 therefore, is with respect to the care required in
+making
+the confidentiality order, not working with discretions contained in the order so as to ensure it may continue in effect without causing an injustice. Moreover, Prothonotary's have the same powers as judges to grant confidentiality orders and to amend them within their jurisdiction conferred by the rules. In practice as in this matter, it is the Prothonotary, who makes the initial order, which is endorsed and expanded by the trial judge to the trial and decision.
+[43]
+Justice Dawson, on behalf of the Federal Court of Appeal in
+REFERENCE_SUPPRESSED, emphasized at paragraphs 52 and 53 that "the presumption of openness" was a fundamental principle of Canadian courts that they should be open and accessible to the public. She also warned that an overbroad claim of confidentiality is inconsistent with the duty of procedural fairness:
+[52] First, it is a fundamental principle that proceedings of Canadian courts are open and accessible to the public. The open court principle extends to the affidavit evidence and the written submissions filed on judicial review. Any restriction on the
+presumption of openness
+should only be permitted when:
+(a) such a restriction is necessary in order to
+prevent a serious risk to the proper administration of justice
+because reasonably alternative measures will not prevent the risk; and
+(b) the
+salutory effects of the restriction outweigh the deleterious effects on the rights and interests of the parties
+and the public, including the effects on the right to free expression, the right of each party to a fair and public hearing, and the
+efficacy of the administration of justice
+.
+(
+Vancouver Sun (Re)
+, 2004 SCC 43 (CanLII), [2004] 2 S.C.R. 332 at paragraphs 22 to 31)
+There is no justification for placing non-confidential information or submissions in a confidential document. To do so violates the open court principle.
+[53] Second, fairness requires that a party know the case to be met. An overbroad claim to confidentiality that prevents the opposite party from knowing as much as possible about the evidence and the submissions made to the Court improperly impairs the opposite party's ability to respond to the case.
+Put simply, an overbroad claim of confidentiality is inconsistent with the duty of procedural fairness
+.
+[Emphasis added.]
+[44]
+The unstated but underlying objective of Prothonotary Tabib's order was to ensure no impairment of procedural fairness while working within the scope of the waiver provisions contained in the confidentiality orders. Introducing flexibility into the order by the exercise of one of its discretionary terms without impairing the purpose and effect of the order is consistent with the policies underlying Rule 152(3). Recognizing the Prothonotary's jurisdiction to intervene with respect to a party's right to waive a confidentiality order is therefore consistent with the objectives of an appropriate interpretation of Rule 152(3). It is an interpretation that does not interpret the Prothonotary's order as "discontinuing" the effect of the confidentiality order. It is also an interpretation that is consistent with the presumption against overbroad confidentiality orders and their nature as exceptional orders.
+[45]
+In respect of an interpretation that achieves "the just, most expeditious and least expensive determination of every proceeding on its merits," the exact opposite effect occurs if Teva is correct in its submissions. Lilly would be required to first come before a Judge to argue, in what is essentially a standard motion for production, based upon determinations of relevance of the information and its obvious need for disclosure. These tasks are in the heartland of the Prothonotary's expertise and the raison d'être that these types of motions are better handled in the first instance by the Prothonotary.
+[46]
+In most instances the dispute over the production of materials originally covered by the confidentiality order will end at the Prothonotary's office, thus supporting "the efficacy of the administration of justice".
+[47]
+Instead of the informal and effective process for resolving objections to productions issues as demonstrated in this matter, the moving party will be required to provide to bring a formal motion, supported by a memorandum of fact and law and all the rest that goes along with a motion before a Judge.
+[48]
+The Judge will also be shortchanged by not having the benefit of the Prothonotary's expertise, as he or she would if the matter was brought on appeal. Once the confidentiality issue of any documents is disposed of along with any appeals that may arise therefrom, the remainder of the discovery production motion returns to the Prothonotary for completion, and perhaps further appeals to a Judge.
+[49]
+This should be compared with any fair reading of the transcript. The Prothonotary dealt with the production objections in a common sense and highly expeditious manner. She reflected upon the relevance, necessity for the documents being produced, the right of waiver by Teva as a term of the orders, and Teva counsel's agreement that the confidentiality orders will remain in place to serve their purpose as envisaged by the Judge making the order.
+[50]
+Moreover, the right of appeal assures that a judge may be called to rule on the order of the Prothonotary in a
+de novo
+fashion if it proves that the Prothonotary was clearly wrong.
+[51]
+In conclusion, to interpret Rules 151 and 152 in fashion that does not recognize the Prothonotary's authority to order a party to exercise its discretion to waive the confidentiality order to produce relevant documents in the interests of procedural fairness will result
+in a multitude of proceedings and the least expeditious and most expensive
+determination of the issue on its merits. This is a perverse interpretation of Rules 151 and 152 to the opposite effect of their intended purposes.
+De Novo Review
+[52]
+Even, if my interpretation of the Prothonotary's jurisdiction is incorrect the substance of the main issues of dispute of the Prothonotary's decision was clearly correct based upon a
+de novo
+review. However, the Prothonotary's order should not have required the production of irrelevant materials from the Confidential Documents.
+(i) Jurisprudence Refusing Production
+[53]
+Teva argues that there is a practice of the Federal Court to refuse to compel the production of transcripts from other proceedings even where apparently relevant. However, the cases cited by Teva cites are highly distinguishable and do not bear on present circumstances.
+[54]
+Teva relies on
+Clopidogrel,
+quoting Justice de Montigny as a case in support. The part of the decision referred to relates entirely on expert opinion. However, the information requested in this matter is all factual in nature.
+[55]
+Moreover, in
+Clopidogrel
+Justice de Montigny, relies upon
+REFERENCE_SUPPRESSED regarding the ordering disclosure of expert opinions. In that case however, Prothonotary Tabib ordered the production of prior art documentation in the United States action, thereby supporting Lilly's claim that factual evidence will be ordered to be disclosed, even from a foreign jurisdiction.
+(ii) Implied Undertaking Rule
+[56]
+A confidentiality order is not a form of implied right, as is Teva's argument when it submits "confidentiality orders and protective orders are an extension of the implied undertaking rule". Teva cites Prothonotary Milczynski in
+REFERENCE_SUPPRESSED to support this argument. However, her remarks on this point were only in regard to discovery materials. Her comments are to an opposite effect in terms of the information disclosed in trials. They closely parallel those in
+CITATION_SUPPRESSED
+described above, as is evident from paragraph 6 of her reasons:
+With respect to such arrangements or agreements, parties can agree, and the Court may issue an order regarding non-disclosure as it relates to documents and information exchanged during production and discovery. This type of protective order is an extension of the implied undertaking rule.
+Seeking an order to seal documents filed with the Court from public access, however, is a different matter
+. A confidentiality order pursuant to Rule 151 of the Federal Courts Rules is an
+extraordinary measure
+, even if the granting of such orders is more common in this type of case than in other cases.
+[Emphasis added.]
+[57]
+It would be contrary to the fundamental purpose of a confidentiality order that the onus be shifted to Lilly to demonstrate that the information is necessary, in the sense of not being obtainable through discovery, once the documents are demonstrated to be relevant to a procedure involving litigation with Teva. Such an interpretation would become a means allowing Teva to gain an advantage over Lilly, contrary to its right to a fair trial based on all the relevant probative evidence.
+(iii) Relevance
+[58]
+Teva argues that Lilly is on a "fishing expedition". I disagree as there is no issue that undetermined portions of the transcript and reasons are relevant and should be produced relating to time-spend issues as broadly defined.
+[59]
+I frankly find it difficult to conceive how Teva could engage in the process of fixing significant trade-spend amounts without written protocols or guidelines, providing objectives, factors and formulas of some nature to describe its process, along with historical documents reporting on the of negotiations and internal discussions on these issues. The concept that a witness comes to trial and describes this process without backup documentation is inexplicable. Certainly, Lilly is entitled to know how this "art" of setting trade-spend values takes place as described in past cases, given the unusual absence of supporting documentation.
+[60]
+Even if there was fulsome backup documentation in existence, the relevant portions of the material should be produced, given the significance of the nature of the evidence to an important issue at trial.
+(iv) Overbreadth
+[61]
+Teva argues that much of the material contained in the transcripts and redacted out from the reasons is irrelevant and should not be required to be produced. The Prothonotary made no allowance for this argument. I believe she did so on the basis that if the materials would normally be available, but for the confidentiality order based on the open court proceedings rule, they should be produced.
+[62]
+I do not believe that this approach recognizes the Courts' reasoning for imposing the confidentiality orders in the first place. I understand that their purposes would have been to prevent disclosure of confidential information to the parties' competitors, when they would otherwise have been forced to make this information public in order to be able to resolve the dispute at trial.
+[63]
+Therefore, I agree with Teva that irrelevant confidential information of Teva that is contained in the transcripts and reasons covered by the confidentiality order should not be disclosed. In the same vein, in accordance with the general doctrine of producing only relevant documents, Teva should not be required to disclose irrelevant portions of the materials, whether of a confidential nature or not.
+[64]
+Accordingly, I direct the parties to work out some form of process whereby the materials in question are disclosed on a "counsel's eyes only basis" to Lilly's counsel with the view to reaching some consensus on the relevant portions of the Confidential Documents that should be disclosed. Disagreements on this issue may be referred to the Prothonotary for resolution.
+[65]
+Otherwise, the confidentiality orders remain in full force and effect. Lilly is to follow the procedure it described during argument, whereby it will be responsible to notify third parties with the view to ensuring that their rights are fully protected under the outstanding confidentiality orders in the materials been disclosed to Lilly.
+VII.
+Conclusion
+[66]
+Teva's appeal is allowed in that the Order is overbroad as described above, but otherwise the Court dismisses Teva's appeal on all other issues.
+[67]
+The Court directs the parties to settle the terms of an appropriate order for the Court's signature. Any difficulties in drafting the order may be brought to the Court's attention by way of a telephone conference call if required. The final order will be added to these reasons once settled
+[68]
+As success on the appeal is somewhat shared, and recognizing the legitimacy of Teva's submissions on the jurisdiction of the Prothonotary to vary the confidentiality orders, the Court makes no order as to costs.
+ORDER
+[69]
+The Court Orders that
+:
+1. The appeal is dismissed, apart from the requirement that irrelevant materials are to be redacted from the Confidential Documents that Teva is required to produce;
+2. The terms of the Final Order, including the procedure to determine the irrelevant Confidential Documents is to be agreed upon or settled before the Prothonotary: and
+3. No costs are awarded.
+[End of document]

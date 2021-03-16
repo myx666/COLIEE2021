@@ -1,0 +1,189 @@
+[1]
+MacKay, J.
+: The plaintiff, Kyorin Pharmaceutical Co. Ltd. ("Kyorin") seeks summary judgment in an action in which the principal relief sought is a declaration that a compulsory license it was earlier directed to grant to the defendant, Novopharm Limited ( <FRAGMENT_SUPPRESSED> ), is terminated. The plaintiff claims license number J2324-39(4)-975 ("compulsory licence 975") granted to the defendant Novopharm with respect to Kyorin's patents, numbers 1,178,961 ("961" patent) and 1,214,466 ("466" patent), pertaining to the medicine norfloxacin, has been terminated by notice by the plaintiff as a result of breach by the defendant, in accord with terms of the licence.
+[2]
+Compulsory licence 975 was granted to Novopharm on October 15, 1991, pursuant to then s. 39(4) of the
+Patent Act
+, R.S.C. 1985, c. P-4 [see footnote 1] with respect to the plaintiff's two patents relating to norfloxacin. That licence provides, in part, as follows:
+"9. If the Licensee commits any breach of a term of this licence, the Patentee may at its option terminate the licence by giving thirty (30) days' notice in writing by registered mail, stating the particulars of the breach on which termination is based, and the licence shall be terminated automatically upon the expiration of such period, unless the Licensee, within such period, has rectified the breach designated; ...
+"10. Notwithstanding paragraph 9, if the Licensee disputes the breach and so notifies the Patentee in writing within the said thirty (30) day period, the licence shall not terminate pending adjudication of such dispute by a Court of Justice, or by such arbitration procedure for the settlement of such dispute as may be agreed upon by the Licensee and the Patentee.
+. . . . .
+"12. This licence is not transferable, and the Licensee is precluded from granting any sublicence."
+[3]
+On November 27, 1992, Novopharm entered into an agreement (the "agreement") with Apotex Inc. ( <FRAGMENT_SUPPRESSED> ), another Canadian generic drug manufacturer, to enable each to obtain from the other a supply of products for which the other party held a compulsory licence. The parties entered into the agreement in anticipation of then imminent amendments to the
+Patent Act
+which, in 1993, abolished the compulsory licensing system.
+The agreement provides, in part as follows:
+"WHEREAS THE Federal Government has introduced Bill C-91 which, if passed, would eliminate compulsory licensing under the
+Patent Act
+,
+"AND WHEREAS Apotex and Novopharm have various licences and licence applications pending which are threatened by Bill C-91.
+"AND WHEREAS, depending on the cut-off dates that will pertain when Bill C-91 is finalized, it is expected that the parties hereto each may hold valid licences for products for which the other may not hold valid licences, details of which cannot be predicted at this time.
+"AND WHEREAS for their mutual benefit in relation to other competitors, the parties wish to ensure that they have available for use licences on the maximum number of products.
+"AND WHEREAS the parties have thus agreed that they will share their rights under licences for any product for which only one of the parties may hold a useable licence.
+"NOW THEREFORE in consideration of the premises and the mutual covenants and other good and valuable consultations (sic), receipt of which is hereby acknowledged, the parties hereto agree as follows:
+1. At any time subsequent to the date upon which Bill C-91 or any Bill derived therefrom is enacted and proclaimed, for any product for which one party (hereinafter the 'licensed' party) shall hold a useable licence and the other party (hereinafter called the 'unlicensed party') shall not, the licensed party shall, at the request of the unlicensed party, use its licence for the benefit of the unlicensed party in the manner hereinafter set out.
+2. In the event that the licence is a licence to import, the licensed party shall import from such source, in such quantity, and on such terms as the unlicensed party shall direct, and shall resell the imported goods to the unlicensed party at the cost thereof together with such royalties as shall be payable under the terms of the licence.
+3. In the event that the licence is a licence to manufacture in Canada, the licensed party shall enter into such contracts with Canadian chemical manufacturers as the unlicensed party shall direct for the manufacture of the relevant material and shall sell the manufactured materials to the unlicensed party at the cost thereafter together with such royalties as shall be payable under the terms of the licence.
+4. In the event that the licensed party has a source of material from which it imports or in the event that the licensed party is producing the material under a licence to manufacture, and in the event that it is not possible for the unlicensed party to find another source from which to import, or at which to arrange for the manufacture of material, then the licensed party shall supply material to the unlicensed party from the licensed party's source at a price equal to the fair market price of the material together with such royalties as shall be payable under the terms of the licence. Any disagreement as to fair market price shall be settled by binding arbitration.
+. . . . .
+6. The licensed party shall comply with the terms of the licence.
+7. The licensed party shall not be excused from performing any act as directed by the unlicensed party pursuant to paragraphs 2 or 3 or 4 hereof, on the grounds that there is doubt as to whether or not the licence has remained in force or permits the requested acts, nor on the basis of litigation or threatened litigation by the patentee, provided that the unlicensed party shall undertake to defend any lawsuit against the licensed party resulting from such act and hold the licensed party harmless for the costs of such lawsuit any damage award arising therefrom.
+8. For greater clarity, the foregoing paragraphs shall not be limiting, and the licensed party shall cooperate fully with the unlicensed party and follow the directions of the unlicensed party to enable the unlicensed party to enjoy the use of the licence to the same extent that would be possible if the unlicensed party itself held such licence, so long as the licensed party is held harmless from any such use.
+. . . . .
+11. This agreement shall expire on December 31, 1994 unless extended by mutual agreement.
+. . . . .
+13. Notwithstanding paragraph 11 hereof, in relation to any specific licence in respect of which the unlicensed party shall have on or before December 31, 1994 advised the licensed party of an intention to utilize such licence, this agreement shall continue in force until expiry of the last patent covered by such licence."
+[4]
+By letter dated April 19, 1993, Apotex advised Merck Frosst Canada ( <FRAGMENT_SUPPRESSED> ), a licensee of the 961 patent, of its intention to rely upon the agreement to obtain norfloxacin through Novopharm.
+[5]
+By a second letter dated April 19, 1993, Apotex also advised Novopharm of its intention to purchase from it a supply of norfloxacin. This letter stated, in part, as follows:
+"This is pursuant to our mutual understanding concerning the supply of materials under compulsory licences.
+"We wish to notify you that we intend to rely on Novopharm to sell to Apotex pursuant to Novopharm's compulsory licence number 975, any norfloxacin that we may require made according to the processes of patent 1178961.
+. . . . .
+"We will advise you in due course as to the quantities to be required, and the manufacturer from which the material should be purchased."
+[6]
+By letter dated February 24, 1994, counsel for Kyorin notified Novopharm of Kyorin's intent to terminate the compulsory licence. The letter stated, in part, as follows:
+"The agreement between Apotex Inc. and Novopharm Limited as it pertains to Norfloxacin constitutes a breach of paragraph 12 of compulsory licence No. 975. Pursuant to paragraph 9 of compulsory licence No. 975, Kyorin Pharmaceutical Co., Ltd. hereby gives notice of its intention to terminate compulsory licence No. 975 without further notice unless Novopharm Limited rectifies the aforementioned breach within thirty (30) days of the date of this letter.
+"GOVERN YOURSELVES ACCORDINGLY."
+[7]
+Counsel for Novopharm responded by letter dated March 15, 1994, which stated, in part, as follows:
+"Please be advised that Novopharm Ltd. has not transferred its rights under this licence, nor has it granted any sub-licence or cross-licence. Whatever commercial agreement may be in place between Novopharm Ltd. and Apotex Inc., it is neither a transfer of Novopharm's rights under the licence, sub-licence nor cross-licence.
+"Accordingly, Novopharm Ltd. is not in breach of the granted compulsory licence and disputes the alleged breach pursuant to paragraph 10 of the compulsory licence, continuing the licence in force pending adjudication of this dispute. We will inform the Commissioner of Patents of the dispute."
+[8]
+As noted above, paragraph 10 of compulsory licence 975 provides that where an alleged breach is disputed in this manner within thirty days, the licence is not terminated pending adjudication of the dispute by a Court of Justice, or by another process agreed upon by the parties.
+[9]
+On January 13, 1995 Kyorin filed a statement of claim seeking a declaration that compulsory licence 975 was terminated in accord with paragraph 9 of the licence. Subsequently on June 7, 1996, Kyorin filed a notice of motion seeking summary judgment in the action initiated by the statement of claim, pursuant to rule 432.1 et seq. of the
+Federal Court Rules
+, C.R.C. 1978, c. 663. Rule 432.3 provides as follows:
+"432.3(1) Where a judge is satisfied that there is no genuine issue for trial with respect to a claim or defence, the judge shall grant summary judgment accordingly.
+. . . . .
+"(3) Where a judge is satisfied that the only genuine issue is a question of law, the judge may determine the question and grant summary judgment accordingly.
+"(4) Where a judge decides that there is a genuine issue with respect to a claim or defence, the judge may nevertheless grant summary judgment in favour of any party, either upon an issue or generally, unless
+(a) the judge is unable on the whole of the evidence to find the facts necessary to decide the questions of fact or law; or
+(b) the judge considers that it would be unjust to decide the issues on a motion for summary judgment.
+"(5) Where a motion for summary judgment is dismissed, either in whole or in part, a judge may order the action, or the issues in the action not disposed of by summary judgment, to proceed to trial in the usual way, but upon the request of any party, a judge may order an expedited trial under rule 327.1."
+[10]
+The agreement between Apotex and Novopharm has been a matter of significance in a number of proceedings in this court, proceedings commenced pursuant to the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133, in response to notices of allegation issued by Apotex or by Novopharm which referred to the agreement. In 1995, in three separate prohibition proceedings, the agreement was determined by two of my colleagues to be a supply agreement [see footnote 2]. These decisions were appealed to the Federal Court of Appeal, which, in the spring of 1996, reversed these decisions, and determined the agreement between Novopharm and Apotex to be a sub-licence, in breach of the terms of the compulsory licence. I note that on February 6, 1997, leave to appeal these three decisions of the Federal Court of Appeal was granted by the Supreme Court of Canada [see footnote 3].
+[11]
+The agreement was also dealt with by my colleague Mr. Justice Lutfy in
+ <FRAGMENT_SUPPRESSED>  (T.D.), on appeal to Court of Appeal, Court file A-138-97. In that case, dealing with a motion for summary judgment similar to that before the court in this case, Lutfy, J., while assuming the agreement is a sub-licence in breach of the licence as stated by the Court of Appeal, dismissed the application. He reserved for trial the determination of whether a compulsory licence was terminated in relation to another drug product, by the agreement and the notice of termination by the patentee in that case.
+Position Of The Parties:
+[12]
+The position of the plaintiff, Kyorin, may be briefly summarized. It submits that summary judgment is appropriate in the present circumstances in that there is no genuine issue which warrants proceeding to trial. In the alternative, the plaintiff submits that if there is a genuine issue, the sole issue to be determined, whether compulsory licence 975 is terminated by reason of the agreement and subsequent notice of termination, is a question of law which, pursuant to rule 432.3(3), may be appropriately disposed of by way of summary judgment.
+[13]
+In support of its submission that the interpretation of an unambiguous agreement is solely a question of law suitable for summary judgment, the plaintiff relies upon
+ <FRAGMENT_SUPPRESSED>  (Gen. Div.). In that case, Mr. Justice Henry of the Ontario Court General Division considered an agreement in which, in his view, the language was clear, and capable of being interpreted according to its plain meaning. He found there was no patent or latent ambiguity in the meaning or the application of the language of the agreement, and thus there was no need to go behind the words adopted by the parties, or to resort to the rules of construction or to extrinsic evidence to determine their intention. On this basis, Henry, J., held the plaintiff's claim that the defendant breached the terms of the agreement between the parties to be a question of law, the resolution of which presented no genuine issue for trial. In the result, Henry, J., determined the question adversely to the plaintiff, and granted summary judgment in favour of the moving defendant.
+[14]
+In support of its motion for summary judgment, the plaintiff places considerable reliance on the three decisions of the Federal Court of Appeal in
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  cases, it is urged, support the plaintiff's contention that there is no genuine issue for trial. Based on this jurisprudence, particularly the third of those cases, the issue before the court so far as it concerns the interpretation of the agreement is said to be res judicata. In the alternative, the plaintiff submits that if the construction of the agreement in the context of Novopharm's compulsory licence 975 is not res judicata, this court is bound by the holdings of the Federal Court of Appeal in this regard as a matter of law, on the grounds of stare decisis, or of judicial comity.
+[15]
+The plaintiff submits that in these three judgments, the Federal Court of Appeal has, as a question of law, consistently interpreted the agreement to be a sub-licence of the compulsory licence in each case. In particular, in the first of these decisions,
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  Court of Appeal to be a legal one, to be determined from its text. This finding, the plaintiff notes, was subsequently followed by the Court of Appeal in
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  to exclude parol evidence as to the intention of the parties, relying on the text of the agreement, which it found to be unambiguous, to determine its meaning. Given that the Court of Appeal has already determined the agreement to be a sub-licence, and in doing so excluded oral evidence under the parol evidence rule, the plaintiff submits that extrinsic evidence as to the intention of the parties in this action is similarly inadmissible, with the result that there remains no genuine issue for trial, and therefore summary judgment is appropriate.
+[17]
+Further supporting the conclusion that no genuine issue exists, the plaintiff notes, is the decision in
+ <FRAGMENT_SUPPRESSED>  prohibition under the
+Notice of Compliance Regulations
+, supra, para. 10 concerning the licence, the agreement, and the same drug, norfloxacin, as in this action. In that case, the plaintiff submits, the agreement has already been held by the Court of Appeal to be a sub-licence in contravention of clause 12 of Novopharm's compulsory licence 975.
+[18]
+Even if the extrinsic evidence of Novopharm regarding the intention of the parties were to be considered, the plaintiff submits that this evidence, in the affidavit of Leslie Dan, Chairman of Novopharm, substantiates the characterization by the Federal Court of Appeal of the true nature of the agreement as a sub-licence. This extrinsic evidence, the plaintiff states, clearly indicates the agreement was drafted to provide Apotex with an opportunity to use compulsory licence 975 for its benefit by directing the activities of Novopharm under the licence.
+[19]
+The position of the defendant Novopharm is that the three Federal Court of Appeal decisions relied upon by the plaintiff are not binding in the present case. All three were decisions in applications for judicial review pursuant to the
+Regulations
+, that is, in summary proceedings rather than in actions and, it is urged, they are not binding on this court. In support of this point, the defendant relies on
+Bayer AG and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 329, at 337 (F.C.A.);
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 302, at 319-320 (F.C.A.), and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 209, at 217 (F.C.A.), all of which deal generally with the special and limited nature of proceedings under the
+NOC Regulations
+.
+[20]
+Further, the defendant submits that this case is distinguishable on the facts from those in the proceedings before the Federal Court of Appeal under the
+Regulations
+. In particular, the defendant notes that evidence establishing Apotex to be the "directing mind" under the agreement, evidence principally of Dr. Sherman of Apotex, not evidence of Novopharm, which was critical in the
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  the evidence of Novopharm in this case suggests quite the opposite - that the arrangement between Novopharm and Apotex was not one that gave Apotex control over Novopharm's rights as a licensee. Moreover, the evidence here is that Novopharm refused to do as Apotex directed in relation to supply of norfloxacin, and this led to proceedings by Apotex in the Ontario Court for alleged breach of the agreement. Given the significant factual differences which directly refute the characterization of the agreement advanced by the plaintiff and found in the decisions of the Federal Court of Appeal, the defendant urges that there remain genuine and essential issues of fact and credibility to be determined at trial. Finally, the defendant urges the agreement is merely executory; no delivery of norfloxacin has been made under it to Apotex. In that sense, it is said there is as yet no breach of the compulsory licence.
+Summary Judgment
+[21]
+The purpose of rule 432.3(1) is to enable the court to dispense summarily with cases which ought not to proceed to trial because there is no genuine issue to be tried (
+Old Fish Market Restaurants Ltd. v. 1000357 Ontario Inc. et al.
+(1994), 58 C.P.R.(3d) 221 (F.C.T.D.)). The relevant principles governing summary judgment were succinctly summarized by my colleague Mr. Justice Denault in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), as follows:
+"First, the jurisprudence to date provides no definitive test. Rather, the judge seized of the matter must ascertain whether the case is so hollow, so devoid of merit that it should not be allowed to command the time and attention of a trial judge. Second, if it so chooses, the court may determine questions of law and fact on the strength of the evidence presented on a motion for summary judgment. Absent the necessary facts, however, summary judgment cannot be granted. Third, if the court determines that the case raises an issue with respect to credibility, the case should be allowed to proceed to trial for it is only there that viva voce evidence and the opportunity to cross-examine the parties can operate to resolve questions of credibility.
+. . . . .
+"In keeping with rule 432.3(4)(a) of the
+Federal Court Rules
+, summary judgment ought not be granted where the judge is unable to find, on the whole of the evidence, the facts necessary to decide the questions of fact or law. In the result, a trial will be necessary to determine the factual parameters of this case."
+[22]
+ <FRAGMENT_SUPPRESSED>  (T.D.), at 137, Mr. Justice Teitelbaum characterized the circumstances in which summary judgment may be appropriately granted as follows:
+"... summary judgment should not be granted on an issue where either on the whole of the evidence the judge cannot find the necessary facts or it would be unjust to do so. I am of the view that summary judgment should only be granted in circumstances where the facts are clear. I am also of the opinion that, in general, summary judgment is not the proper means to obtain judgment where the issues before the court involve the infringement or the invalidity of a patent."
+[23]
+I am not satisfied that the case before me is so devoid of merit as to be characterized at this stage in the action as presenting no genuine issue for trial. Nor am I satisfied that there exists, in the evidence before me, all the facts necessary to resolve the matter at issue by summary judgment, or more significantly, that in the circumstances it would be just to do so.
+[24]
+I reach this conclusion after consideration of the decisions of the Court of Appeal relied upon by the plaintiff, after review of the differences between the parties in regard to the breach of the terms of the compulsory licence perceived by the plaintiff, and in view of factual matters that, in my opinion, are important for full consideration of the issue between the parties and which can be properly assessed at trial rather than on the basis of affidavit evidence before the court on this motion for summary judgment.
+[25]
+In each of the three cases before the Court of Appeal, the sole issue to be determined was whether prohibition should issue to preclude issuance of a notice of compliance by the Minister of National Health and Welfare to a generic drug company applicant. In each case the onus was on the applicant to establish by a notice of allegation and evidence in support, that its generic product would not infringe the patent holder's rights. It was in this context that the court found the agreement to be a sub-licence, and that the clause in the compulsory licence prohibiting such a licence was breached. The basis of the claim for non-infringement was not established. This determination is not, in my opinion, synonymous with a finding that, on the particular facts of this case, compulsory licence 975 has been terminated as a result of breach of its prohibition against sub-licensing. While this distinction may be a fine one, it is, in my opinion, supported by the comments of MacGuigan, J.A., who, in the first of these decisions,
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  constituted a sub-licence in the particular context in which it was determined:
+"I therefore arrive at the conclusion that the trial judge was in error in holding that the clause of the licence against sublicencing was not breached for the purposes of determining whether prohibition should issue in relation to a notice of compliance by the Minister of Health and Welfare to Apotex. In light of this holding, I do not find it necessary to decide any other issue. ..."
+[26]
+Given that two subsequent panels of the Court of Appeal were faced with the same issue as to whether prohibition should issue where the notice of allegation of the generic applicant was dependant on the agreement, it is not surprising that in both cases the decision of MacGuigan, J.A., in
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  for prohibition, the Court of Appeal invited the parties to make submissions as to the relevance of the decision of MacGuigan, J.A., in
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  380:
+"In our view, however, while the decision in the present case is not res adjudicata it is binding on the court unless it can be distinguished on its facts or it is manifestly wrong because the court overlooked a statutory provision or a case that ought to have been followed. There is no doubt some differences in the facts and it is true as counsel for Novopharm Limited contends that some of the evidence which was before the court in the <FRAGMENT_SUPPRESSED> case was not before the court in the present case. That said, the compulsory licence and the agreement of November 27, 1994 were in evidence in both cases."
+[28]
+Similarly, in the third of these decisions,
+ <FRAGMENT_SUPPRESSED>  whether the Minister should be prohibited from issuing a notice of compliance to Apotex with respect to norfloxacin, invited counsel to make submissions as to the applicability of the
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  456-457:
+"Counsel for the appellant has argued that we should not apply the other decisions, which dealt with breach per se of the compulsory license while in this case the alleged breach of the licence is before the Trial Division in other proceedings. We have concluded that we cannot treat the November 27, 1992 agreement as being a valid agreement for the purpose of supporting the allegation by Apotex [contained in its Notice of Allegation] of its 'mutual understanding' for supply by Novopharm.
+. . . . .
+"We are therefore of the view that the only allegation of a non-infringing means of supply is based on the November 27, 1992 agreement and that such agreement was entered into without authority by Novopharm. Thus we find the agreement to be invalid in these circumstances on the same rationale as this court in previous decisions found the compulsory licences to have been breached."
+[29]
+While the Federal Court of Appeal has held that the agreement constitutes a sub-licence in the context of prohibition proceedings, this finding, in my opinion, is not necessarily determinative of the issue raised in the case before me as to whether summary judgment should issue declaring compulsory licence 975 terminated in accord with its terms because of the plaintiff's breach. In my opinion, while previous decisions of the Court of Appeal regarding the interpretation of the agreement may be relevant and influential, nonetheless the issue raised by the plaintiff's action differs from the question which was before the Court of Appeal in those cases.
+[30]
+I turn next to the question of the breach of the terms of the compulsory licence perceived by the plaintiff. That breach is said to be in the terms of the agreement itself which, it is urged, in keeping with the decisions of the Court of Appeal, constitute a grant of a sub-licence to Apotex, contrary to paragraph 12 of the compulsory licence. It will be recalled that the agreement provides in part that the licensed party shall at the request of the unlicensed party use its licence for the benefit of the unlicensed party (para. 1), including where the licence permits, importing from such source and on such terms as the unlicensed party shall direct (para. 2), or contracting with Canadian chemical manufacturers for manufacture of the product as the unlicensed party shall direct (para. 3), or where no other source is possible to supply material to the unlicensed party from the licensed party's own source (para. 4), all at cost prices plus royalties to be paid under the licence. While the agreement specifically provides that the licensed party shall comply with the terms of the licence (para. 6), it also provides that the licensed party shall cooperate fully with the unlicensed party and follow the latter's directions "to enable the unlicensed party to enjoy the use of the license to the same extent that would be possible if the unlicensed party itself held such licence, so long as the licensed party is held harmless from any such use" (para. 8).
+[31]
+It is true that Mr. Justice Stone in
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  application for prohibition, that the agreement constituted a sub-licence contrary to para. 12 of the compulsory licence. With great respect I do not accept that the agreement in and of itself constitutes a sub-licence under compulsory licence 975. It does not so say expressly, neither referring to that particular compulsory licence or any other licence held by Novopharm, nor referring in any way to the drug norfloxacin. The latter reference only arises in the letter of April 19, 1993 from Apotex to Novopharm referring to "our mutual understanding concerning the supply of materials under compulsory licences" and notifying Novopharm of Apotex' intent to rely on Novopharm to sell any norfloxacin Apotex may require made under Novopharm's compulsory licence. Even that letter avoids specifying any amount of product; rather, it specifically is a letter of intent only. Is that sufficient to constitute the agreement dated November 27, 1992, a sub-licence under compulsory licence 975? I am not persuaded at this stage that question is clearly resolved by the evidence and argument on the motion for summary judgment.
+[32]
+Moreover, in this regard the defendant argues that on the facts as here established there is not a breach of the terms of the licence, for the agreement itself is merely executory, and the arrangements in regard to norfloxacin remain so. No precise quantity of norfloxacin has been ordered and none has been provided. How can it be said the terms of compulsory licence 975 have been breached? Not, it is said, by an agreement which makes no reference to the particular licence from which the plaintiff claims the agreement grants a sub-licence.
+[33]
+In sum, in my opinion, full evidence and argument at trial is warranted, for consideration of a just resolution of the issue of what, if any, facts constitute a breach of compulsory licence 975.
+[34]
+Finally, there are other issues of fact which, in my opinion, can only be resolved by trial of the action. These issues include the significance of parol evidence which, though excluded by MacGuigan, J.A., for purposes of construing the agreement as a basis for Apotex' claim that it would not be infringing the patentee's rights in
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  compulsory licence 975. That evidence, though said to be excluded in that case, nevertheless was referred to by Mr. Justice MacGuigan in the following terms at p. 389 (N.R.):
+"The reality, not the form must govern, and the reality seems to me to be that an unauthorized sub-licence was created -- unwittingly, I admit, since the parties very much wanted to avoid breaching the licence prohibition against sublicensing. Nevertheless that was the legal effect of what they did. The agreement was in my view not quite a sham in the usual sense of the word, in that their subjective intention, as revealed by the agreement was at odds with the objective intention of the document. Nevertheless, the agreement was entered into on a mistaken legal view as to what the parties could get away with."
+[35]
+Another issue of some significance, if the compulsory licence is found to have been terminated as the plaintiff claims, is the effective date of its termination, whether that be as the agreement provides by paragraph 11 on December 31, 1994, or 30 days after notice of intention to terminate was given by the plaintiff in accord with paragraph 9 of the licence, or at the date of determination of the issue at trial in accord with paragraph 10 of the licence. That date may be significant for the parties and for other proceedings.
+[36]
+Finally, an issue is raised, but not directly, by the statement of defence filed in the action by the defendant Novopharm, in the following terms:
+"10. If this Honourable Court has jurisdiction to hear and determine the plaintiff's claim ... Novopharm submits that the action be dismissed with costs."
+[37]
+The matter of jurisdiction was not argued on behalf of Novopharm when the motion for summary judgment came on for hearing. I note that the plaintiff in written submissions urges that the relief sought, a declaration that compulsory licence 975 is terminated, is clearly within the jurisdiction of this court, but again the matter was not argued at the hearing. Subsequently, in December 1996, the defendant made further submissions in regard to the issue of jurisdiction in light of the decision of Prothonotary Morneau in
+ <FRAGMENT_SUPPRESSED>  (T.D.) [see footnote 4]. The plaintiff replied, with particular reference to undertakings by counsel for Novopharm, in other proceedings, that the issue of the court's jurisdiction would not be argued in these proceedings.
+[38]
+In my view, argument at trial would not be foreclosed by these Reasons since the matter was not fully argued in these proceedings but whether it should be dealt with at trial will be a matter for the trial judge. Consent of the parties in respect of the court's jurisdiction, or their agreement not to raise the matter, does not, of course, settle the question of jurisdiction of the court for that depends on the
+Federal Court Act
+and jurisprudence thereunder.
+Conclusion
+[39]
+In my opinion, genuine issues are raised in this case, in particular with respect to the plaintiff's claim that compulsory licence 975 was breached at the time of the plaintiff's notice of intent to terminate the licence. That issue, in my view, can appropriately be settled only by a trial and it would be unjust to determine the issues in this case on a motion for summary judgment.
+[40]
+Thus, the plaintiff's motion for summary judgment is dismissed by Order issued with these Reasons, with costs to be in the cause.
+Motion dismissed.
+Editor: Jocelyne M. Caissie/klf
+Footnotes
+1. Repealed by the
+Patent Act Amendment Act
+, S.C. 1993, c. 2, s. 3.
+2.
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 181 (T.D.);
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 206 (T.D.), and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 455 (F.C.A.).
+3.
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 329 (F.C.A.) (Leave to appeal to S.C.C. granted February 6, 1997, under Court file 25348);
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 377 (F.C.A.) (Leave to appeal to S.C.C. granted May 31, 1996, under Court file 25402);
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 455 (F.C.A.) (Leave to appeal to S.C.C. granted February 6, 1997, under Court file 25419).
+4. See also
+ <FRAGMENT_SUPPRESSED>  (T.D.), now on appeal to a judge from decision of prothonotary.
+[End of document]

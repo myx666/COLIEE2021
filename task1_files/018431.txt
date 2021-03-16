@@ -1,0 +1,247 @@
+[1]
+Hughes, J.
+: These reasons deal with two motions brought by way of an appeal from a Prothonotary's decision disposing of requests for answers put to party representatives during discovery. The Defendant, Plaintiff-by-Counterclaim, Apotex is the moving party on both motions, the Plaintiffs, Respondents-by-Counterclaim, collectively AstraZeneca are Respondents.
+[2]
+In one appeal, Apotex seeks to overturn the Prothonotary's Order compelling certain answers to be given by Apotex's representative, Dr. Sherman. In the other appeal, Apotex seeks to compel answers to be given by AstraZeneca's representative Dr. Lovgren, which the Prothonotary Ordered need not be given.
+[3]
+For the reasons that follow, I dismiss the appeals taken from both Orders with costs to AstraZeneca.
+I.
+Discovery Generally
+[4]
+The Canadian discovery system common to the Federal Court and other Superior Courts in Canada has become a system that is unique to Canada. In other Anglo based jurisdictions such as the United Kingdom and Australia, there is no oral discovery as we know it. Generally, they permit some form of limited interrogatories and limited discovery of documents. Even the limited discovery offered by the United Kingdom practice in patent matters has been criticized as overly complex and expensive in a proposal put forward by Michael Burdon, a UK Patent Litigator entitled
+An Experiment to Test the Attraction of Simplified Patent Litigation in England
+proposed by the UK Intellectual Property Solicitors Association, October 2008. Burdon suggests adopting a German/ Dutch model in which complex patent litigation is disposed of without discovery at a trial lasting only a day.
+[5]
+In the United States, the practice in the Federal Court system and many State Courts is to require vast, undifferentiated, access to documents in the possession of a party and wide ranging pre-trial depositions of potential witnesses. Actual oral discovery, called Rule 30(b)(6) in the Federal system, is quite perfunctory. This broad ranging documentary production and deposition practice has been harshly criticized by the American College of Trial Lawyers in the Interim Report of the Task Force on Discovery delivered August 1, 2008. The Interim Report's overview summarized four major themes on the issue:
+"1. Although the civil justice system is not broken, it is in serious need of repair. The survey shows that the system is not working; it takes too long and costs too much. Deserving cases are not brought because the cost of pursuing them fails a rational cost-benefit test, while meritless cases, especially smaller cases, are being settled rather than being tired because it costs too much to litigate them.
+"2. The discovery system is, in fact, broken. Discovery costs far too much and has become an end in itself. As one respondent noted: 'The discovery rules in particular are impractical in that they promote full discovery as a value above almost everything else.' Electronic discovery, in particular, clearly needs a serious overhaul. It is described time and time again as a 'morass'. Concerning electronic discovery, one respondent stated, 'The new rules are a nightmare. The bigger the case, the more the abuse and the bigger the nightmare.'
+"3. Judges should take more active control of litigation from the beginning. Where abuses occur, judges are perceived to be less than effective in enforcing the rules. According to one respondent, 'Judges need to actively manage each case from the outset to contain costs; nothing else will work.'
+"4. Local Rules are routinely described as 'traps for the unwary' and many think they should either be abolished entirely or made uniform."
+[6]
+In Canada, James Farley, Q.C., previously Farley, J., of the Ontario Superior Court, Commercial Court, in a paper entitled:
+Efficient Court Administration and Commercial Court Litigation and Dispute Resolution
+delivered to a Judicial Conference in Nassau, Bahamas on December 1, 2006 strongly criticized what he called "autopsy" discovery. This type of discovery has become common place and occurs when discovery itself becomes the objective - to uncover as much as possible from the other side however marginally relevant. One is in danger of losing perspective and becoming enmeshed in discovery, which should be only an intermediate process between pleading and trial, rather than focusing on obtaining only matters necessary and relevant for the trial on issues as defined by the pleadings.
+[7]
+Rule 3 of the
+Federal Court Rules
+provides a procedural foundation to be followed in all matters, including discovery:
+"3. These Rules shall be interpreted and applied so as to secure the just, most expeditious and least expensive determination of every proceeding on its merits."
+"3. Les présentes règles sont interprétées et appliquées de façon à permettre d'apporter une solution au litige qui soit juste et la plus expéditive et économique possible."
+[8]
+Professor Denis Ferland, a law professor at Laval University, Quebec, and a member of the
+Federal Court Rules
+Committee who drafted the 1988 version of the
+Rules
+, wrote in a paper presented at the Canadian Bar Association's annual meeting in Winnipeg in August 1995:
+"To summarise, the new rules, which respect the uniqueness of the Federal Court and of the matters and geographical area under its jurisdiction, and the coexistence of two legal systems and traditions in Canada, and structured in a more consistent corpus, within the limits of enabling legislation, will have to be modern, flexible and efficient, in order to:
+- make the Federal Court more accessible to parties
+- ensure that effect is given to the rights of the parties to the proceedings
+- ensure respect for the fundamental procedural rights of the parties and third party interveners
+- unify or, failing that, harmonize or simplify certain procedures
+- facilitate and accelerate proceedings
+- place more responsibility on the parties by involving them in the matter in which their cases proceed or in the process of settling or adjudicating their cases
+- maximize the efficiency of the judicial system, in terms of delays and the costs of the administration of justice."
+"En résumé, les nouvelles règles, respectant la spécificité de la Court fédérale, des matières et de l'entendue territoriale de sa compétence, la coexistence de deux systèmes et traditions juridiques au Canada, et structurées dans un corpus plus cohérent, devront, dans les limites des lois habitantes actuelles, être modernes, souples et efficaces, aux fins:
+- de favoriser une accessibilité accrue du justiciable à la Cour fédérale
+- d'assurer la sanction des droits des parties à l'instance
+- d'assurer le respect des droits procéduraux fondamentaux des parties et des tiers intervenants
+- d'unifier ou, à défaut, d'harmoniser ou de simplifier certaines procédures
+- de faciliter et d'accélérer le déroulement de l'instance
+- de responsabiliser davantage les parties en les associant au processus du déroulement de l'instance ou au processus de règlement à l'amiable ou d'adjudication de leur litige
+- de maximiser l'efficacité de l'appareil judiciaire, en termes de délai et de coût d'administration de la justice."
+II.
+Discovery of Documents
+[9]
+In setting out the rules respecting discovery of documents, the
+Federal Court Rules
+have changed the test as to what a party is required to produce. The previous test was articulated in the British case of
+ <FRAGMENT_SUPPRESSED> ). The test was expressed as "
+It seems to me that every document relates to the matters in question in the action, which not only would be evidence upon any issue, but also which, it is reasonable to suppose, contains information which may -- not which must -- either directly or indirectly enable the party requiring the affidavit either to advance his own case or damage the case of his adversary
+". This test was severely criticized by Lord Woolf in his report
+Access to Justice
+at paragraph 15 of Chapter 21:
+"The result of the
+Peruvian Guano
+decision was to make virtually unlimited the range of potentially relevant (and therefore discoverable) documents, which parties and their lawyers are obliged to review and list, and which the other side is obliged to read, against the knowledge that only a handful of such documents will affect the outcome of the case. In that sense, it is a monumentally inefficient process, especially in the larger cases. The more conscientiously it is carried out, the more inefficient it is."
+[10]
+Rule 222(2) of the
+Federal Court Rules
+has changed the definition of "
+relevance
+" in respect of a document for production purposes. It states:
+"(2) For the purposes of rules 223 to 232 and 295, a document of a party is relevant if the party intends to rely on it or if the document tends to adversely affect the party's case or to support another party's case."
+"(2) Pour l'application des règles 223 à 232 et 295, un document d'une partie est pertinent si la partie entend l'invoquer ou si le document est susceptible d'être préjudiciable à sa cause ou d'appuyer la cause d'une autre partie."
+[11]
+While some decisions of this Court appear to have overlooked this Rule or applied it as "
+Peruvian Guano
+" would have looked at a matter, it is clear that the Rule is intended to bring to bear a more issue-oriented test of relevance and avoid the "
+train of inquiry
+" cases that have served to expand discovery with little or no effect on matters that are ultimately presented to the trial judge. Again to quote from Lord Woolf at paragraph 22 of his Report, he grouped documents that could be discovered into four categories. The first two fall under the Federal Court Rule 222(2) the third is what is in effect considered by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> :
+The parties' own documents:
+these are documents which a party relies upon in support of his contentions in the proceedings.
+Adverse documents
+: these are documents of which a party is aware and which to a material extent adversely affect his own case or support another party's case.
+The relevant documents
+: these are document which are relevant to the issues in the proceeding, but
+which do not fall into categories 1 or 2
+because they do not obviously support or undermine either side's case. They are part of the "story" or background. The category includes documents which, though relevant, may not be necessary for the fair disposal of the case. It is fair to say that this category produces proportionately the greatest number of documents disclosed and to least effect.
+Train of inquiry documents
+: these are the documents referred to by Brett, L.J., in the
+Peruvian Guano
+case.
+[12]
+ <FRAGMENT_SUPPRESSED>  documents on discovery in an appeal from a decision of Lemieux, J., of this Court who was, in turn, dealing with an appeal from a Prothonotary's Order. While discussing the "
+train of inquiry
+" test, the Federal Court of Appeal made it clear that Rule 222(2) has modified that test. The "
+train of inquiry
+" test does not open the door to almost limitless discovery; it must be fairly shown that it is reasonable to suppose that a document contains information that will directly or indirectly enable a party to advance its own case or to damage that of the other party. It is Lord Woolf's third category, previously referred to, as being part of the story or background; care must be taken to balance what must be disclosed with what effect, if any, the document may have. I reproduce paragraphs 56, 63 and 64 of the reasons of the Federal Court of Appeal:
+"56 As I indicated earlier, Lemieux, J., concluded, correctly in my view, that the disclosure of documents in an affidavit of documents was a matter of relevance and not of discretion. In so concluding, he relied on McNair, J.'s, Reasons in
+Reading and  <FRAGMENT_SUPPRESSED> , where the learned Judge wrote at page 70, inter alia, that:
+'The test as to what documents are required to produce is simply relevance. The test of relevance is not a matter for the exercise of the discretion. What documents parties are entitled to is a matter of law, not a matter of discretion. The principle for determining what document properly relates to the matters in issue is that it must be one which might reasonably be supposed to contain information which may directly or indirectly enable the party requiring production to advance his own case or to damage the case of his adversary, or which might fairly lead him to a train of inquiry that could have either of these consequences: [authorities omitted].'
+. . . . .
+"63 Novopharm argues that the use of the word 'show' means that it has to actually prove that a document which has not been produced would lead to information falling within the 'train of inquiry' test. I cannot agree with Novopharm's submission. In my view, the Prothonotary's Reasons, when read in their entirety, clearly establish that Novopharm's submission is without merit. It is clear from the Prothonotary's Reasons that she was of the view that if there was a reasonable likelihood, as opposed to an outside chance, that a document sought for production would lead to information relevant under Rule 222(2), then an order for production should be made.
+"64 Furthermore, the Prothonotary's reference to a fishing expedition in paragraph 19 of her Reasons was one where a party was required to disclose a document that might lead to another document that might then lead to useful information which would tend to adversely affect the party's case or to support the other party's case. In my view, limiting the 'train of inquiry' test in this manner is consistent with the test described in
+Peruvian Guano
+, supra, and applied by this Court in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), where, at para. 24 of her Reasons for the Court, Madam Justice Sharlow wrote:
+'[24] The scope and application of the rules quoted above depend upon the meaning of the phrases "relating to any matter in question between ... them in the appeal" and "relating to any matter in issue in the proceeding". In
+ <FRAGMENT_SUPPRESSED>  (C.A.), Brett, L.J., said this about the meaning of the phrase "a document relating to any matter in question in the action" (at page 63):
+"It seems to me that every document relates to the matters in question in the action, which not only would be evidence upon any issue, but also which, it is reasonable to suppose, contains information which may - not which must - either directly or indirectly enable the party requiring the affidavit either to advance his own case or to damage the case of his adversary.
+I have put in the words 'either directly or indirectly', because, as it seems to me, a document can properly be said to contain information which may enable the party requiring the affidavit either to advance his own case or to damage the case of his adversary, if it is a document which may fairly lead him to a train of inquiry, which may have either of these two consequences
+."'"
+III.
+Oral Discovery
+[13]
+When it comes to oral examination for discovery, Rule 240 provides for the scope of examination which is defined as
+relevance
+in respect of any
+unadmitted
+allegation of
+fact
+:
+"240. A person being examined for discovery shall answer, to the best of the person's knowledge, information and belief, any question that
+(a) is relevant to any unadmitted allegation of fact in a pleading filed by the party being examined or by the examining party; or
+(b) concerns the name or address of any person, other than an expert witness, who might reasonably be expected to have knowledge relating to a matter in question in the action."
+"240. La personne soumise à un interrogatoire préalable répond, au mieux de sa connaissance et de sa croyance, à toute question qui:
+a) soit se rapporte à un fait allégué et non admis dans un acte de procédure déposé par la partie soumise à l'interrogatoire préalable ou par la partie qui interroge;
+b) soit concerne le nom ou l'adresse d'une personne, autre qu'un témoin expert, dont il est raisonnable de croire qu'elle a une connaissance d'une question en litige dans l'action."
+[14]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 218 (F.C.), Justice Blais, as he then was, in the Federal Court, presented a synopsis of the relevant principles on oral discovery. This decision was affirmed by the Federal Court of Appeal ((2005), 332 N.R. 389) in brief reasons. At paragraph 19 of his decision, Blais, J., said (to summarize):
+• Expert opinion is not proper subject matter for discovery;
+• Witnesses are not to testify as to questions of law;
+• Examination for discovery may seek only facts, not law or argument; and
+• The question "upon what facts do you rely for paragraph x of your pleading" is always improper.
+[15]
+Rule 242 permits objections to questions, for instance a question may be relevant however may be objected to where it is unreasonable or unnecessary or the inquiries to be made would be unduly onerous:
+"242(1) A person may object to a question asked in an examination for discovery on the ground that
+(a) the answer is privileged;
+(b) the question is not relevant to any unadmitted allegation of fact in a pleading filed by the party being examined or by the examining party;
+(c) the question is unreasonable or unnecessary; or
+(d) it would be unduly onerous to require the person to make the inquiries referred to in rule 241."
+"242(1) Une personne peut soulever une objection au sujet de toute question posée lors d'un interrogatoire préalable au motif que, selon le cas:
+a) la réponse est protégée par un privilège de non-divulgation;
+b) la question ne se rapporte pas à un fait allégué et non admis dans un acte de procédure déposé par la partie soumise à l'interrogatoire ou par la partie qui l'interroge;
+c) la question est déraisonnable ou inutile;
+d) il serait trop onéreux de se renseigner auprès d'une personne visée à la règle 241."
+[16]
+"Relevance" alone is not the test as to whether a question put on discovery must be answered. Of course, if a question is irrelevant, it need not be answered. However, if a question is relevant to some degree or another, then, if an objection is raised, the Court must consider factors such as the degree of relevance, how burdensome is it to obtain an answer, is the question fair, is it abusive and so forth. Strayer, J.A. when he was in the Federal Court of Appeal wrote in
+ <FRAGMENT_SUPPRESSED> :
+"A person who is a party to a civil action is entitled to ask any question on discovery that is relevant to the issue: that is a matter of justice to him, subject of course to the discretionary power of the prothonotary or a judge to disallow the question where it is abusive for one of the reasons mentioned above."
+[17]
+The Federal Court of Appeal again considered the scope of "
+relevance
+" in the context of oral discovery in
+ <FRAGMENT_SUPPRESSED> . In that decision Sharlow, J.A., for the Court, considered "
+relevance
+" as including not only that which will go to proving or disproving the case of one or other party, and considered the "
+train of inquiry
+" test which she stated was subject always to the "
+... overriding discretion of a prothonotary or judge to control abuses of the discovery process
+". At paragraphs 30, 31 and 35, Sharlow, J.A., wrote:
+"30 In determining the propriety of a particular question posed in the examination for discovery of Dr. Ryan, the test is whether it is reasonable to conclude that the answer to that question might lead Apotex to a train of enquiry that may either advance its case or damage the case of  <FRAGMENT_SUPPRESSED> ; 2005 FCA 217. For example, Apotex is entitled to ask any question that could elicit an admission by BMS as to a relevant fact, or that could elicit information about the existence of documents that have not been disclosed but that meet the test of relevance for the purposes of pre-trial discovery, as set out in the Further and Better Order, subject always to the overriding discretion of a prothonotary or judge to control abuses of the discovery process.
+"31 In determining whether the test of relevance is met in a particular case, it is necessary to consider the allegation that the questioning party is attempting to establish or refute. In this case, Apotex is attempting to advance its allegation of inutility (based on its interpretation of the promise of the 436 patent as explained above), or to damage the position of BMS that denies the allegation of inutility.
+. . . . .
+"35 The task of distinguishing proper questions from improper ones requires consideration of the factual and procedural context of the case, informed by an appreciation of the applicable legal principles. The determination made by the judge or prothonotary at first instance will stand if it is reasonable, unless it is based on an error of law."
+[18]
+Thus, simply to say that a question is "
+relevant
+" does not mean that it must inevitably be answered. The Court must protect against abuses so as to ensure the just, most expeditious and least expensive (Rule 3) resolution of the proceeding not the discovery. Relevance must be weighed against matters such as among other things, the degree of relevance, how onerous is it to provide an answer, if the answer requires fact or opinion or law and so forth.
+IV.
+Standard of Review of Prothonotary's Discovery Order
+[19]
+Prothonotaries of this Court are burdened, to a large extent, with motions seeking to compel answers to questions put on discovery. Often hundreds of questions must be considered. Hours and often days are spent on such motions. It appears that in many cases the parties and counsel have lost sight of the real purpose of discovery, which is directed to what a party truly requires for trial. They should not slip into the "
+autopsy
+" form of discovery nor consider discovery to be an end in itself.
+[20]
+A determination made by a Prothonotary following this arduous process ought not to be disturbed unless a clear error as to law or as to the facts has been made, or the matter is vital to an issue for trial. Where there has been an exercise of discretion, such as weighing relevance against onerousness, that discretion should not be disturbed. The process is not endless. The parties should move expeditiously to trial.
+[21]
+The standard of review generally applicable to decisions given by a Prothonotary has been restated by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> :
+"19 To avoid the confusion which we have seen from time to time arising from the wording used by MacGuigan, J.A., I think it is appropriate to slightly reformulate the test for the standard of review. I will use the occasion to reverse the sequence of the propositions as originally set out, for the practical reason that a judge should logically determine first whether the questions are vital to the final issue: it is only when they are not that the judge effectively needs to engage in the process of determining whether the orders are clearly wrong. The test would now read:
+'Discretionary orders of prothonotaries ought not be disturbed on appeal to a judge unless:
+a) the questions raised in the motion are vital to the final issue of the case, or
+b) the orders are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts.'"
+[22]
+Justice Strayer, having subsequently become a Deputy Judge of this Court discussed in particular appeals from decisions of Prothonotary as to requiring answers on examinations for discovery and the question of "
+relevance
+". He pointed out that relevance alone does not determine whether an answer is to be given, there are other matters to be considered, deference is to be given to a decision of a Prothonotary in that regard.  <FRAGMENT_SUPPRESSED> he wrote:
+"4 The parties argue that many of the decisions of the Prothonotary are based on relevance and that relevance is not a discretionary matter. They argue that relevance is a question of law and not one on which the Prothonotary has a discretion: therefore I am at liberty to decide questions of relevance de novo. While there is a paucity of authority on this question, I am satisfied that it is more consistent with the role envisaged by Parliament for prothonotaries that deference should be shown to their decisions on matters of relevance just as it would be shown on other preliminary pre-trial matters. As was said by Décary, J.A., in the <FRAGMENT_SUPPRESSED> case, supra, at paragraph 22:
+'In my respectful view it cannot reasonably be said that a standard of review which subjects all impugned decisions of prothonotaries to hearings de novo regardless of the issues involved in the decision or whether they decide the substantive rights of the parties is consistent with the statutory objective. Such a standard conserves neither "judge power" nor "judge time". In every case, it would oblige the motions judge to re-hear the matter. Furthermore, it would reduce the office of a prothonotary to that of a preliminary "rest stop" along the procedural route to a motions judge. I do not think that Parliament could have intended this result.'
+"I respectfully agree with Wetston, J., in
+ <FRAGMENT_SUPPRESSED> , who in considering whether a decision of a prothonotary on matters of relevance was discretionary stated:
+'I agree that relevance is the test, but I also am of the opinion that the order is discretionary in that the Court must consider whether the Prothonotary had fallen into legal error of law which prevented him from exercising his discretion properly. If so the Court must exercise its own discretion de novo. In other words even if I would have made a different order, unless the Prothonotary erred in the manner described previously, this Court should not interfere. I am of the opinion therefore the order of the A.S.P. in this case is both interlocutory and discretionary.'"
+[23]
+Law establishes if a question is relevant, discretion may be applied as to whether, nonetheless, it is appropriate to Order, or not to Order, that an answer be given. Deference is to be given to a Prothonotary's Order in that regard.
+V.
+Specific Questions at Issue
+A.
+Questions Put to Apotex (Sherman)
+[24]
+Apotex takes issue with two areas of questioning put by AstraZeneca's lawyers to Apotex's representative, Dr. Sherman. The first deals with identification of the countries to which Apotex exported its products at issue. The second deals with information as to certain characteristics of the Apotex products.
+[25]
+These groups of questions were ordered to be answered with very cryptic reasons given by the Prothonotary. Given the vast number of questions to be dealt with, the only practical way to dispose of answerability issues was to state reasons cryptically. This is not a reason to set the decision aside or to determine it de novo (
+ <FRAGMENT_SUPPRESSED> ; 15 C.P.R.(4th) 63 (T.D.), at para. 31).
+[26]
+This first group consists of one question only, that identified as Question 48. It asks that Apotex identify the countries to which it exports the products at issue. Apotex's counsel argues that the transcript shows that Apotex makes only one kind of product and, the trial being bifurcated, there is no reason to identify such countries at this time. AstraZeneca's counsel points out that, on discovery, Apotex equivocated as to how many different types of products that it was making or would make in the future. Given the state of the discovery transcript, the Prothonotary did not err in ordering the question to be answered. I remind counsel for AstraZeneca as I did at the hearing that an implied undertaking exists such that the answers are to be used for the purposes of this action only and not otherwise.
+[27]
+The second group consists of questions 88 and 219. They relate to information that Apotex has as to stability, discoloration and gastric acid resistance of its own products. AstraZeneca's counsel says that such information will be useful in rebutting some of Apotex's allegations as to inutility. Apotex's counsel says that, when closely read, Apotex's pleadings as to inutility skillfully avoid the need to make inquiries as to Apotex's own product. The Prothonotary was correct not to make such razor sharp distinctions at this time and to exercise his discretion in ordering these questions to be answered.
+[28]
+I will not interfere with the Prothonotary's determination as to these questions asked of Apotex.
+B.
+Questions Put to AstraZeneca (Lovgren)
+[29]
+Apotex takes issue with the Prothonotary's refusal to order AstraZeneca's representative, Dr. Lovgren, to answer certain questions. They are divided into four groups. The first group is characterized as dealing with paragraph 62 of Apotex's Defence and Counterclaim which deals with whether AstraZeneca's inventors were aware as to the bioequivalence of certain formulations containing water-insoluble alkaline reacting compounds. The second deals with in situ sub-coats. The third deals with testing performed by AstraZeneca employee on an Apotex product, as set out in an affidavit of that employee filed in other proceedings. The fourth group deals with formulations and testing as described in the disclosure of the patents at issue.
+[30]
+Again counsel for Apotex conceded at the hearing that these questions do not go to issues vital for trial.
+[31]
+The first group is identified as Items 27-29 as collated by the parties for consideration by the Prothonotary. It deals with Dr. Lovgren's knowledge as bioequivalence of certain compounds that he may have worked on and includes discussion as to solubility of those and other compounds. The Prothonotary Ordered that these items need not be answered, the first because it had been answered and was overbroad, the second because the witness stated that he could not answer and it was overbroad, the third because it had been answered and did not go to the witness's knowledge but to a contention by Apotex.
+[32]
+Having read the context in which the questions were put and answers otherwise given in the transcript, I will not interfere with the discretion exercised by the Prothonotary in Ordering that these specific questions need not be answered.
+[33]
+The second group comprises what has been identified as Items 127-128. This group deals with information and documents that AstraZeneca may have as to certain properties of and how to identify what is called in situ sub-coats. The Prothonotary Ordered that these Items need not be answered, Item 127 was not relevant to the pleadings, and not a fair question, Item 128 was not relevant and was directed to paragraph 203 of Apotex's Defence, not paragraph 40 as argued on the motion by Apotex's counsel.
+[34]
+Having read the relevant portions of the transcript, the Itemization chart prepared for the Prothonotary and Apotex's Defence, I agree with the Prothonotary's disposition. Item 127 framed is not relevant. Items 127 and 128 are really directed to paragraph 203 of the Defence when read in context. A passing reference to paragraph 40 in an earlier Item incorporated by reference does not alter the true context of these questions.
+[35]
+The third group comprises Items 194 and 196-198 and deals with questions directed to the knowledge that AstraZeneca and its employee Nicolas had in respect of certain testing referred to in an affidavit of Nicolas filed by AstraZeneca in another proceeding. Oddly, AstraZeneca chose to make this affidavit part of its documents which it produced in this action. Apparently, AstraZeneca was not asked as to the purpose to which the affidavit will be put in this action, and its counsel did not enlighten this Court as to the point when asked at the hearing. To the extent that the Prothonotary may have relied on jurisprudence directed to the propriety of questions directed to reports of experts that may be used at trial, he may have been somewhat misguided but again, looking at the transcript and questioning elsewhere including a request to produce data that is broad enough to encompass data that would fall within the requests made respecting the Nicolas affidavit, I will not interfere with the Prothonotary's Order in this respect.
+[36]
+The fourth group consists of a collection of Items, some of which Apotex's counsel dropped from its request during oral argument. The Items remaining in the fourth group requested by Apotex are Items 425, 429, 430, 432, 437-439, 441, 446-448, 450, 451, 455, 458, 459, 465, 466, 470, 471, 479, 485, 487, 567 and 579. These questions are argued by Apotex counsel to seek information as to what is set out in the description of the patents at issue having regard to certain validity pleadings raised by Apotex.
+[37]
+On examining the questions as asked in context and hearing the submissions of Apotex's counsel, I am not satisfied that the Prothonotary was wrong in ordering that these questions need not be answered. The questions are not clearly linked to what Apotex has pleaded, despite Apotex's counsels efforts after the fact, to argue otherwise. I will not disturb the Prothonotary's Order in this regard.
+[38]
+I will not interfere with the decision of the Prothonotary in respect of any of these groups of questions.
+V.
+Costs
+[39]
+As to costs, AstraZeneca has been successful on these motions therefore I will award costs to AstraZeneca.
+ORDER
+[40]
+For the Reasons given above
+:
+THIS COURT ORDERS that
+:
+1. The two appeals brought by Apotex Inc. in respect of the Order of Prothonotary Lafrenière dated July 15, 2008 are dismissed;
+2. Costs are awarded to AstraZeneca.
+Motions dismissed.
+Editor: Anick Ouellette-Levesque/clh
+[End of document]

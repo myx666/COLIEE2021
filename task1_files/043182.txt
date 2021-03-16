@@ -1,0 +1,301 @@
+[1]
+Martineau, J.
+[Translation]: The respondents Samuel S. Lévy and Sam Lévy et Associés Inc. (the trustees) are currently the object of disciplinary proceedings in relation to their administration of certain estates governed by the
+Bankruptcy and Insolvency Act
+, R.S.C. 1985, c. B-3, as amended (the
+Act
+).
+[2]
+As a multifunctional agency of supervision, investigation and adjudication, the institution of the Superintendent of Bankruptcy (the Superintendent) shall, as its general mandate, supervise the administration of all estates and matters to which the
+Act
+applies (s. 5(2) of the
+Act
+). Accordingly, the Superintendent may investigate or request an investigation into the conduct of a trustee in bankruptcy and cancel or suspend the trustee's licence, as well as order the trustee to make restitution to the estate for the amount of money it had lost as a result of the trustee's conduct (paragraph 5(3)(e) and s. 14.01(1) of the
+Act
+). However, such disciplinary or economic measures cannot be taken against a trustee without prior notice and without having given the trustee the opportunity to be heard at a hearing properly convened for that purpose (s. 14.02(1) to (3) of the
+Act
+).
+[3]
+Before going further, I should explain that the parties agree that the suspension or revocation of a trustee in bankruptcy's licence is the culmination of a quasi-judicial process, and that the role exercised in this regard by either the Superintendent himself (previously the Minister of Industry, Science and Technology and his predecessors), or the delegate he appoints pursuant to s. 14.01(1) of the
+Act
+, is comparable to that of a tribunal (
+ <FRAGMENT_SUPPRESSED>  (T.D.), at pp. 181-82 [ <FRAGMENT_SUPPRESSED>  (T.D.), at p. 591  <FRAGMENT_SUPPRESSED> ;
+2747-3174  <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 577, at pp. 947-49  <FRAGMENT_SUPPRESSED> ). Also, for the purposes of the present reasons for decision, when the Superintendent or the delegate he may appoint pursuant to s. 14.01(2) of the
+Act
+exercise or claim to exercise their jurisdiction under ss. 14.01, 14.02 and 14.03 of the
+Act
+(the statutory provisions at issue), I will use the term "tribunal". This being said, the statutory provisions at issue provide that the tribunal is not bound by any legal or technical rules of evidence in conducting the hearing, and that it shall deal with the matters set out in the notice of the hearing as informally and expeditiously as the circumstances and a consideration of fairness permit (paragraphs 14.02(2)(b) and (c) of the
+Act
+). Furthermore, various conservatory measures may be taken for the protection of an estate prior to the final decision by the tribunal (s. 14.03 of the
+Act
+). The statutory provisions at issue are reproduced in an appendix to these reasons.
+[4]
+In the case at bar, the applicant, the Attorney General of Canada, has filed this application for judicial review, requesting that an interlocutory decision, dated December 4, 2003, by the Honourable Fred Kaufman, Q.C., the delegate of the Superintendent of Bankruptcy (the delegate), in the context of the hearing into the professional conduct of the trustees (the impugned decision), be set aside. The delegate ruled that he had jurisdiction to hear a preliminary motion by the trustees, on the one hand, to have the statutory provisions declared inoperative in their regard on the ground that they contain no structural guarantee that they will be given a hearing before an independent and impartial tribunal and, on the other hand, to obtain an order to stay the proceedings in their regard on the ground that the implementation of these provisions is no greater guarantee to them of a hearing before an independent and impartial tribunal. Be that as it may, after making the impugned decision, the delegate, in a second decision, dated December 19, 2003, dismissed the trustees' motion and told the parties that he was ready to hear the case on its merits (the second decision). The latter decision is also the subject matter of an application for judicial review, this one filed by the trustees (docket T-75-04).
+[5]
+Although the review application by the Attorney General of Canada appears to me, prima facie, to be moot, or to some degree academic, I will not base the dismissal of the application on this ground. Since the parties have had an opportunity to argue fully the issue of the tribunal's jurisdiction, and the applicability of the Court's previous decisions in <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> merits clarification in light of the more recent jurisprudence of the Supreme Court and certain amendments to the legislation, I have decided to rule today on the issue of the tribunal's jurisdiction (
+ <FRAGMENT_SUPPRESSED>  Sask.R. 82; 38 C.R.R. 232; 57 D.L.R.(4th) 231; 47 C.C.C.(3d) 1; 33 C.P.C.(2d) 105; [1989] 3 W.W.R. 97).
+[6]
+The impugned decision is essentially based on the October 3, 2003 judgment by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  (the
+Martin
+judgment). Since he is responsible for applying the statutory provisions at issue, the delegate concluded that he implicitly had jurisdiction to determine any question of law that might be raised in the case, which therefore includes the question of the independence and impartiality of the tribunal, especially since any error of law may ultimately be corrected by the Federal Court, which has jurisdiction to review any decision of the tribunal (s. 14.02(5) of the
+Act
+).
+[7]
+In my opinion, the delegate correctly interpreted and applied the
+Martin
+judgment, which is applicable in this case. The Attorney General has failed to persuade me that the impugned decision contains a reviewable error of law. The
+Martin
+judgment is decisive. It affirms the desire, clearly expressed by the Supreme Court of Canada in a unanimous opinion, to reassess and reformulate, in the form of clear guidelines, the rules concerning the jurisdiction of administrative tribunals in matters involving the
+Canadian Charter of Rights and Freedoms
+, Part I of the
+Constitution Act, 1982
+, Schedule B to the
+Canada Act 1982
+, (U.K.) 1982, c. 11 (the
+Charter
+). In doing so, the Supreme Court also eliminated the distinction between general and specific questions of law which had been created in
+ <FRAGMENT_SUPPRESSED> .
+[8]
+At page 515 of the judgment, Gonthier, J., lays down the following general rule:
+"Administrative tribunals which have jurisdiction -- whether explicit or implied -- to decide questions of law arising under a legislative provision are presumed to have concomitant jurisdiction to decide the constitutional validity of that provision. This presumption may only be rebutted by showing that the legislature clearly intended to exclude
+Charter
+issues from the tribunal's authority over questions of law. To the extent that the majority reasons in
+ <FRAGMENT_SUPPRESSED> , are inconsistent with this approach, I am of the view that they should no longer be relied upon."
+[9]
+On the other hand, three fundamental principles were reaffirmed in the
+Martin
+judgment. The first concerns the principle of the supremacy of the Constitution (pp. 528-29):
+"First, and most importantly, the Constitution is, under s. 52(1) of the
+Constitution Act, 1982
+, 'the supreme law of Canada, and any law that is inconsistent with the provisions of the Constitution is, to the extent of the inconsistency, of no force or effect'. The invalidity of a legislative provision inconsistent with the
+Charter
+does not arise from the fact of its being declared unconstitutional by a court, but from the operation of s. 52(1). Thus, in principle, such a provision is invalid from the moment it is enacted, and a judicial declaration to this effect is but one remedy amongst others to protect those whom it adversely affects. In that sense, by virtue of s. 52(1), the question of constitutional validity inheres in every legislative enactment. Courts may not apply invalid laws, and the same obligation applies to every level and branch of government, including the administrative organs of the state. Obviously, it cannot be the case that every government official has to consider and decide for herself the constitutional validity of every provision she is called upon to apply.
+If, however, she is endowed with the power to consider questions of law relating to a provision, that power will normally extend to assessing the constitutional validity of that provision
+. This is because the consistency of a provision with the Constitution is a question of law arising under that provision. It is, indeed, the most fundamental question of law one could conceive, as it will determine whether the enactment is in fact valid law, and thus whether it ought to be interpreted and applied as such or disregarded.
+"
+From this principle of constitutional supremacy also flows, as a practical corollary, the idea that Canadians should be entitled to assert the rights and freedoms that the Constitution guarantees them in the most accessible forum available, without the need for parallel proceedings before the courts
+: see
+Douglas College
+, supra, at pp. 603-4. In La Forest, J.'s, words, 'there cannot be a Constitution for arbitrators and another for the courts' (
+Douglas College
+, supra, at p. 597). This accessibility concern is particularly pressing given that many administrative tribunals have exclusive initial jurisdiction over disputes relating to their enabling legislation, so that forcing litigants to refer
+Charter
+issues to the courts would result in costly and time-consuming bifurcation of proceedings. As McLachlin, J. (as she then was), stated in her dissent in
+Cooper
+, supra, at para. 70:
+'
+The
+Charter
+is not some holy grail which only judicial initiates of the superior courts may touch
+. The
+Charter
+belongs to the people. All law and law-makers that touch the people must conform to it. Tribunals and commissions charged with deciding legal issues are no exception. Many more citizens have their rights determined by these tribunals than by the courts.
+If the
+Charter
+is to be meaningful to ordinary people, then it must find its expression in the decisions of these tribunals
+.'" (Emphasis added)
+[10]
+The second principle identified in the
+Martin
+judgment focuses on the relevance of the contextual role performed by administrative tribunals (at pp. 529-30):
+"Second,
+Charter
+disputes do not take place in a vacuum. They require a thorough understanding of the objectives of the legislative scheme being challenged, as well as of the practical constraints it faces and the consequences of proposed constitutional remedies. This need is heightened when, as is often the case, it becomes necessary to determine whether a prima facie violation of a
+Charter
+right is justified under s. 1.
+In this respect, the factual findings and record compiled by an administrative tribunal, as well as its informed and expert view of the various issues raised by a constitutional challenge, will often be invaluable to a reviewing court
+. ..." (Emphasis added)
+[11]
+The third principle adopted in
+Martin
+draws attention to the limited scope of the orders that may be issued by an administrative tribunal, and the review role retained by the superior courts in their regard (at p. 530):
+"Third, administrative tribunal decisions based on the
+Charter
+are subject to judicial review on a correctness standard: see
+Cuddy  <FRAGMENT_SUPPRESSED> , at p. 17. An error of law by an administrative tribunal interpreting the Constitution can always be reviewed fully by a superior court.
+In addition, the constitutional remedies available to administrative tribunals are limited and do not include general declarations of invalidity. A determination by a tribunal that a provision of its enabling statute is invalid pursuant to the
+Charter
+is not binding on future decision makers, within or outside the tribunal's administrative scheme
+. Only by obtaining a formal declaration of invalidity by a court can a litigant establish the general invalidity of a legislative provision for all future cases. Therefore, allowing administrative tribunals to decide
+Charter
+issues does not undermine the role of the courts as final arbiters of constitutionality in Canada." (Emphasis added)
+[12]
+Once he had set out the above principles, Gonthier, J., in
+Martin
+, went on to say that "[t]hus, as a rule, 'an administrative tribunal which has been conferred the power to interpret law holds a concomitant power to determine whether that law is constitutionally valid'. ... If a tribunal does have the power to consider questions of law, then it follows by the operation of s. 52(1) [of the
+Constitution Act, 1982
+] that it must be able to address constitutional issues, including the constitutional validity of its enabling statute." In passing, I note here that, as a quasi-constitutional instrument, the
+Canadian Bill of Rights
+, S.C. 1960, c. 44, reproduced in R.S.C. 1985, Appendix III (the
+Bill of Rights
+) remains in full force and effect (
+ <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 422; 14 C.R.R. 13; 12 Admin. L.R. 137, at p. 224 [ <FRAGMENT_SUPPRESSED>  (F.C.A.), at pages 875-79  <FRAGMENT_SUPPRESSED> ). In this regard, s. 2 of the
+Bill of Rights
+provides that "[e]very law of Canada shall, unless it is expressly declared by an Act of the Parliament of Canada that it shall operate notwithstanding the
+Canadian Bill of Rights
+,
+be so construed and applied
+as not to abrogate, abridge or infringe or to authorize the abrogation, abridgment or infringement of any of the rights or freedoms herein recognized and declared ...". (Emphasis added)
+[13]
+The rules developed in the
+Martin
+judgment were in fact applied in
+ <FRAGMENT_SUPPRESSED>  B.C.A.C. 1; 307 W.A.C. 1; 2003SCC 55, also decided the same day. In that case the Supreme Court of Canada held unanimously that the Forest Appeals Commission (the Commission), a provincial administrative agency, could determine incidentally a question of aboriginal rights falling within federal statutory jurisdiction. The Court held that while there are distinctions between administrative tribunals and courts, both are part of the justice system. Viewed properly, then, the justice system encompasses the ordinary courts, federal courts, statutory provincial courts and administrative tribunals. In short, in applying their enabling legislation, administrative agencies must take into account all applicable legal rules, both federal and provincial. But the power to decide a question of law is the power to decide by applying only
+valid
+laws. The law in question in
+Paul
+, supra, the
+Forest Practices Code of British Columbia
+, R.S.B.C. 1996, c. 159. allowed a party to "make submissions as to facts, law and jurisdiction". The existence of the latter provision, conjoined with the fact that the Commission's decision could be appealed on a question of law or jurisdiction, made it impossible to sustain the argument that the Commission, an adjudicative body, determined purely factual matters.
+[14]
+On the other hand, the complexity of the question to be determined is not an obstacle once it has been established that the administrative tribunal is empowered to decide questions of law. In
+Paul
+, supra, the Supreme Court decided that there was no basis for distinguishing the rights contemplated in s. 35 of the
+Constitution Act, 1982
+, Schedule B to the
+Canada Act 1982
+(U.K.), 1982, c. 11, from other constitutional questions. This being the case, unlike the judgments of a court, the decisions of an administrative tribunal on constitutional questions do not create any precedents and could not be declaratory of the validity of any law. Furthermore, the rulings would be reviewable, on a correctness basis, in a superior court on judicial review (
+Paul
+, supra, at paras. 22, 23, 33 and 39). In the instant case, in the context of reviewing the tribunal's second decision, the Court may conduct a full review of the institution responsible for punishing the derogatory conduct of the trustees in bankruptcy, from the standpoint of both administrative law arguments and constitutional law arguments raised by the trustees (
+ <FRAGMENT_SUPPRESSED>  (C.A.), at paras. 7, 10, 11, 21, 31 and 45).
+[15]
+Be that as it may, in this case the Attorney General of Canada argues that the tribunal - whether the Superintendent himself or the delegate he designates - has no jurisdiction to decide constitutional questions on the basis of the decisions delivered by this Court in 1995 and 1996 in <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> , supra. These two decisions are based on the general principles that the Supreme Court of Canada had previously laid down in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 271; 81 D.L.R.(4th) 121, and
+ <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 358, but that Noël, J. and Tremblay-Lamer, J., interpreted and applied somewhat differently.
+[16]
+In <FRAGMENT_SUPPRESSED> , supra, Noël, J. (as he then was), held that the tribunal had implied power to interpret and apply any statutory provision that was applicable to that case. He therefore answered the question stated in
+Martin
+in the affirmative. However, in his view, this is not sufficient to give the tribunal the power to determine whether those provisions are valid, "constitutionally" speaking. Here is what he said, at page 184:
+"I note first that the mere fact that a tribunal has the power to interpret and apply its enabling legislation does not as such mean that Parliament intended to confer on that tribunal the power to consider any point of law involving the
+Charter
+.
+Every tribunal is required to apply legislation and as such must interpret it
+. If the analysis were to stop at that point the lengthy discussion undertaken by the Supreme Court in both
+Tétreault- <FRAGMENT_SUPPRESSED> , and in
+Cuddy  <FRAGMENT_SUPPRESSED> , as well as in
+Douglas/ <FRAGMENT_SUPPRESSED> , would be superfluous.
+It seems clear that the legislative grant of authority must not only give the tribunal the power to interpret its enabling legislation, jurisdiction over the subject-matter resulting from reliance on the
+Charter
+and the remedy sought must also be found in the enabling legislation and be part of the powers which Parliament intended to confer on it
+.
+"What the applicant is seeking in the case at bar is the destruction of the entire legislative scheme put in place by s. 7 and s. 14(2) of the
+Act
+. In fact, he is asking the Hon. Fred Kaufman to hear an application the end result of which will be to simply abolish his legislative mandate. I cannot find any legislative intent whatever in the
+Act
+that the Minister or his representative should be able to declare the legislation creating their position constitutionally invalid. As such neither the subject-matter nor the remedy sought is contained in the enabling legislation." (Emphasis added)
+[17]
+Clearly, the "integral" approach recommended above is contrary to
+Martin
+. Moreover, the Attorney General of Canada acknowledges that the legal correctness of the approach taken by Noël, J., in <FRAGMENT_SUPPRESSED> was subsequently questioned by Madam Justice Tremblay-Lamer in <FRAGMENT_SUPPRESSED> . She states, at paragraphs 26 and 31:
+"While I have reached the same conclusion as Mr. Justice Noël, I shall not follow the same route as my colleague did. In my view, this is the approach that must be taken when the issue is whether the tribunal in question is a court of competent jurisdiction within the meaning of s. 24(1) of the
+Charter
+. This analysis is not required when the issue is the power of an administrative tribunal to examine the constitutionality of its enabling statute under s. 52 of the
+Constitution Act, 1982
+.
+. . . . .
+"
+In my opinion, we must determine whether Parliament gave the tribunal, in its enabling statute, expressly or by implication, a duty to examine questions of law. This is the approach taken by the Trial Division in
+ <FRAGMENT_SUPPRESSED>  in <FRAGMENT_SUPPRESSED> , which in my view is more consistent with the current state of the law, although I would use the word "power" and not the word "duty" in reference to the examination of questions of law by the tribunal. It is necessary, therefore, to find out whether Parliament gave the tribunal, in its enabling statute, expressly or by implication, the power to determine questions of law.
+[19]
+This being the case, Tremblay-Lamer, J., in <FRAGMENT_SUPPRESSED> , supra, came to the conclusion that the tribunal did not have the power to determine questions of law. Her conclusion is essentially based on the following considerations:
+(a) The fact that the tribunal must apply its enabling statute is not sufficient for us to conclude that it has the power to determine questions of law ( <FRAGMENT_SUPPRESSED> , supra, at para. 33);
+(b) The decision to suspend or cancel the licence of a trustee is made when the tribunal "considers ... it is in
+the public interest
+to do so" ( <FRAGMENT_SUPPRESSED> , supra, at para. 32);
+(c) The process for hearings under the
+Act
+is informal. Thus, the tribunal is not bound by the rules of evidence. Furthermore, "[m]atters must be dealt with as the circumstances and a consideration of fairness permit" ( <FRAGMENT_SUPPRESSED> , supra, at para. 35);
+(d) Parliament did not deem it advisable to grant the panel certain powers of investigation under the
+Inquiries Act
+, R.S.C. 1985, c. I-11 ( <FRAGMENT_SUPPRESSED> , supra, at para. 35);
+(e) In particular, the tribunal's lack of authority to hold hearings in camera (such a finding necessarily involves points of law, she says) is no reason to infer that the tribunal has the implied authority to rule on questions of law ( <FRAGMENT_SUPPRESSED> , supra, at paras. 36 and 37).
+[20]
+I am unable to reach the conclusion, as Madam Justice Tremblay-Lamer did in <FRAGMENT_SUPPRESSED> , that the tribunal has no jurisdiction to determine the questions of law arising out of the application of the statutory provisions at issue. If I read her reasons clearly, she seems to assume that the tribunal's decision to suspend or revoke a trustee's licence is essentially made in terms of the public interest, as the circumstances and a consideration of fairness permit. Accordingly, the tribunal would never be required to determine some questions of law. If this is the case, the premise on which the rest of Madam Justice Tremblay-Lamer's reasoning in <FRAGMENT_SUPPRESSED> is based is clearly wrong. Thus, a contextual analysis of ss. 14.01 and 14.02 of the
+Act
+and the more recent case law on disciplinary proceedings would allow us to conclude that the tribunal does indeed have the power and the responsibility to determine questions of law arising out of the application of the
+Act
+.
+[21]
+It appears that the conclusion in <FRAGMENT_SUPPRESSED> , that the tribunal has no jurisdiction to determine questions of law, is largely based on a reading of what is not included in s. 14.02 of the
+Act
+. However, there is no reference to s. 14.01 of the
+Act
+, which in my opinion imposes a duty to determine questions of law when a trustee is charged with having violated the
+Act
+, the General Rules, directives of the Superintendent or any law with regard to the proper administration of any estate. Indeed, the suspension or revocation of a licence if "it is in
+the public interest
+to do so" is not the only ground under s. 14.01(1) of the
+Act
+. The latter provision refers not only to the review of questions of fact by the tribunal but also to the determination of mixed questions of fact and law, and tangentially of questions of law. Such is the case when the tribunal must, for example, determine whether the trustee has not fully complied with the
+Act
+, the General Rules, directives of the Superintendent or any law with regard to the proper administration of any estate. In any event, given the wording of the new s. 14.02(3) of the
+Act
+, by which it is now possible for the tribunal to order an in camera proceeding (that determination necessarily implies some questions of law according to <FRAGMENT_SUPPRESSED> , supra, at para. 36), I am of the opinion that the <FRAGMENT_SUPPRESSED> decision, supra, must now be interpreted in favour of the trustees.
+[22]
+I note as well that since 1996 a number of decisions handed down by the tribunal have dealt with questions of law arising in the context of the application of the statutory provisions at issue. On the one hand, the tribunal had to rule on the nature and extent of the applicable burden of proof, and the application of the duty of disclosure established by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  A.R. 269; 83 W.A.C. 269; 38 C.R.(4th) 42; on the other hand (In the matter of the disciplinary hearing of the trustees Henry Sztern and Henry Sztern et associés Inc. (May 29, 2001), Benjamin J. Greengerg; In the matter of the disciplinary hearing of the trustees Segal & Partners Inc. and Todd Y. Sheriff (September 3, 2002), Marc Mayrand; In the matter of the disciplinary hearing of the trustees Segal & Partners Inc. and Todd Y. Sheriff (September 12, 2003), Marc Mayrand). In a 2001 decision, the tribunal also had to determine a difficult question of law, namely: could a derogatory act committed by a trustee in bankruptcy as a receiver appointed pursuant to a provincial statute constitute an offence warranting the filing of a disciplinary complaint under the
+Act
+? The tribunal engaged in a lengthy analysis of the applicable provisions of the
+Act
+and the relevant case law, explained the legal principles that would provide appropriate guidance to its deliberations, and concluded that it had jurisdiction to hear and determine this complaint (In the matter of the disciplinary hearing of the trustee Ronald McMahon (February 16, 2001), Marc Mayrand).
+[23]
+For the reasons set out above, I am of the opinion, therefore, that the tribunal has jurisdiction to determine any question of law arising from the application of the statutory provisions at issue. Consequently, the tribunal is
+presumed
+to have the concomitant power to rule on the constitutional validity of the provisions of its enabling legislation. Furthermore, in my opinion, there is
+no
+provision in the
+Act
+that overturns this presumption. Thus the tribunal has the
+power
+to rule on the constitutional validity of the provisions at issue.
+[24]
+This application must therefore fail. In view of the result, the trustees will be entitled to costs.
+ORDER
+[25]
+THE COURT ORDERS that the application for judicial review of the decision dated December 4, 2003 in the respondents' case be dismissed with costs.
+Application dismissed.
+Editor: Jana A. Andersen/gs
+APPENDIX
+Bankruptcy and Insolvency Act
+, R.S.C. 1985, c. B-3
+"14.01(1) Where, after making or causing to be made an investigation into the conduct of a trustee, it appears to the Superintendent that
+(a) a trustee has not properly performed the duties of a trustee or has been guilty of any improper management of an estate,
+(b) a trustee has not fully complied with this Act, the General Rules, directives of the Superintendent or any law with regard to the proper administration of any estate, or
+(c) it is in the public interest to do so, the Superintendent may do one or more of the following:
+(d) cancel or suspend the licence of the trustee;
+(e) place such conditions or limitations on the licence as the Superintendent considers appropriate including a requirement that the trustee successfully take an exam or enrol in a proficiency course, and
+(f) require the trustee to make restitution to the estate of such amount of money as the estate has been deprived of as a result of the trustee's conduct.
+"(1.1) This section and section 14.02 apply, insofar as they are applicable, in respect of former trustees, with such modifications as the circumstances require.
+"(2) The Superintendent may delegate by written instrument, on such terms and conditions as are therein specified, any or all of the Superintendent's powers, duties and functions under subsection (1), subsection 13.2(5), (6) or (7) or section 14.02 or 14.03.
+"(3) Where the Superintendent delegates in accordance with subsection (2), the Superintendent or the delegate shall
+(a) where there is a delegation in relation to trustees generally, give written notice of the delegation to all trustees; and
+(b) whether or not paragraph (a) applies, give written notice of the delegation of a power to any trustee who may be affected by the exercise of that power, either before the power is exercised or at the time the power is exercised.
+"14.02(1) Where the Superintendent intends to exercise any of the powers referred to in subsection 14.01(1), the Superintendent shall send the trustee written notice of the powers that the Superintendent intends to exercise and the reasons therefor and afford the trustee a reasonable opportunity for a hearing.
+"(2) At a hearing referred to in subsection (1), the Superintendent
+(a) has the power to administer oaths;
+(b) is not bound by any legal or technical rules of evidence in conducting the hearing;
+(c) shall deal with the matters set out in the notice of the hearing as informally and expeditiously as the circumstances and a consideration of fairness permit; and
+(d) shall cause a summary of any oral evidence to be made in writing.
+"(3) The notice referred to in subsection (1) and, where applicable, the summary of oral evidence referred to in paragraph (2)(d), together with such documentary evidence as the Superintendent receives in evidence, form the record of the hearing and the record and the hearing are public, unless the Superintendent is satisfied that personal or other matters that may be disclosed are of such a nature that the desirability of avoiding public disclosure of those matters, in the interest of a third party or in the public interest, outweighs the desirability of the access by the public to information about those matters.
+"(4) The decision of the Superintendent after a hearing referred to in subsection (1), together with the reasons therefor, shall be given in writing to the trustee not later than three months after the conclusion of the hearing, and is public.
+"(5) A decision of the Superintendent given pursuant to subsection (4) is deemed to be a decision of a federal board, commission or other tribunal that may be reviewed and set aside pursuant to the Federal Courts Act.
+"14.03(1) The Superintendent may, for the protection of an estate in the circumstances referred to in subsection (2),
+(a) direct a person to deal with property of the estate described in the direction in such manner as may be indicated in the direction, including the continuation of the administration of the estate;
+(b) direct any person to take such steps as the Superintendent considers necessary to preserve the books, records, data, including data in electronic form, and documents of the estate;
+(c) direct a bank or other depository not to pay out funds held to the credit of the estate except in accordance with the direction; and
+(d) direct the official receiver not to appoint the trustee in respect of any new estates until a decision is made under subsection 13.2(5) or 14.01(1).
+"(2) The circumstances in which the Superintendent is authorized to exercise the powers set out in subsection (1) are where
+(a) an estate is left without a trustee by the death, removal or incapacity of the trustee;
+(b) the Superintendent makes or causes to be made any investigation pursuant to paragraph 5(3)(e);
+(c) the Superintendent exercises any of the powers set out in section 14.01;
+(d) the fees referred to in subsection 13.2(2) have not been paid in respect of the trustee's licence;
+(e) a trustee becomes insolvent;
+(f) a trustee is convicted of an indictable offence or has failed to comply with any of the conditions or limitations to which the trustee's licence is subject; or
+(g) a circumstance referred to in paragraph 13.2(5)(c) or (d) exists and the Superintendent is considering cancelling the licence under subsection 13.2(5).
+"(3) A direction given pursuant to subsection (1)
+(a) shall state the statutory authority pursuant to which the direction is given;
+(b) is binding on the person to whom it is given; and
+(c) is, in favour of the person to whom it is given, conclusive proof of the facts set out therein.
+"(4) A person who complies with a direction given pursuant to subsection (1) is not liable for any act done by the person only to comply with the direction.
+"14.04 The court, on the application of any interested person, may for cause remove a trustee and appoint another licensed trustee in the trustee's place."

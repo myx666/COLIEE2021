@@ -1,0 +1,178 @@
+[1]
+Mosley, J.
+: This is an appeal from an order of Prothonotary Roger Lafrenière in which the plaintiff's motion to amend its Second Amended Statement of Claim was granted, for the most part, to allow additional pleas of issue estoppel and abuse of process to be raised in the underlying infringement action.
+[2]
+In the action, the plaintiffs (collectively  <FRAGMENT_SUPPRESSED> ) allege that the Apo-Omeprazole capsules produced by the defendant, Apotex Inc. ( <FRAGMENT_SUPPRESSED> ), infringe Canadian Letters Patent No. 1, 292, 693 (the "693" patent). Apotex denies infringement on the ground that its formulations do not come within the terms of the claims of the 693 patent and by counterclaim seeks a declaration of invalidity.
+[3]
+In its Reply and Defence to Counterclaim, AstraZeneca had already pleaded estoppel, res judicata and abuse of process relating to prior Canadian proceedings under the
+Patented Medicines (Notice of Compliance) Regulations
+(the "PMNOC Regulations"). In the motion before Prothonotary Lafrenière, it sought to add pleas with respect to a prior United States proceeding and a further plea regarding the Canadian decision.
+[4]
+The action has been ordered to be heard together with a claim by Apotex against AstraZeneca for damages under s. 8 of the PMNOC Regulations in respect of the Apo-Omeprazole capsules. The trial of the combined matters is scheduled to commence in March 2012. The most recent scheduling order in the joined proceedings was issued on February 1, 2011.
+[5]
+Prothonotary Lafrenière case managed the infringement action from May 20, 2005 until April 30, 2010 at which time the two actions were joined and Prothonotary Roza Aronovitch was appointed to handle the joined proceedings. Prothonotary Lafrenière has continued to assist with the resolution of a number of interlocutory matters between the parties.
+[6]
+The motion to amend was brought on January 17, 2011 and argument heard on March 17, 2011. The motion was granted, for the most part, on April 8, 2011, providing AstraZeneca with five days to file an amended claim and Apotex with a further 30 days to file an amended defence and counterclaim.
+[7]
+AstraZeneca sought leave to amend to assert that Apotex is estopped from contesting or making allegations inconsistent with findings of fact and the claims construction made by Judge Barbara S. Jones of the United States District Court, Southern District of New York, on May 31, 2007 in
+In re Omeprazole Patent Litigation,
+490 F. Supp. 2d 381 (U.S. Dist. 2007) ("the U.S. proceeding") and to raise further pleas with respect to the decision of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  ("the Canadian proceeding").
+[8]
+In his reasons, Prothonotary Lafrenière considered that a plea of issue estoppel based on a foreign judgment was viable so long as it did not extend to claims construction by the foreign court. He dismissed Apotex's objection that the foreign court's "findings of fact" were bound up in its construction of the claims of the patent in that action finding that an overlap in the use of some words was not dispositive of the issue.
+[9]
+In dealing with Apotex's claim that it would suffer irreparable prejudice from the amendments, Prothonotary Lafrenière considered the factors set out in
+ <FRAGMENT_SUPPRESSED> , aff'd [1994] 2 C.T.C. 185, 172 N.R. 313 (FCA) (" <FRAGMENT_SUPPRESSED> "): the timeliness of the motion to amend, the extent to which the amendment would delay an expeditious trial, the extent to which the original position caused another party to follow a course which is not easily altered, and whether the amendment facilitates the court's consideration of the merits of the action.
+[10]
+Prothonotary Lafrenière found that AstraZeneca was not diligent in applying for leave to amend but noted that the delay was not as significant as alleged by Apotex since leave to appeal relating to the US proceeding was denied by the Supreme Court of the United States in March 2009. He considered that delay was not in itself a sufficient reason to deny the amendments. Prothonotary Lafrenière was satisfied that Apotex could alter the course it had been following and that the amendments, should the trial judge allow the pleas and adopt the findings of fact from the other proceedings, would reduce the number of issues between the parties and facilitate consideration of the merits.
+[11]
+In the result, AstraZeneca was granted leave to add five paragraphs to its Second Amended Statement of Claim and denied leave for two additional paragraphs which expressly referred to matters of claims construction litigated in the US proceeding.
+[12]
+The claim as amended now includes the following paragraphs referring to the US proceeding:
+a.
+Apotex's Omeprazole capsules are the same formulation in Canada and the United States.
+b.
+The proceeding in the United States District Court, Southern District of New York (
+In re Omeprazole Patent Litigation
+, M-21-81, MDL Docket No. 1291) ("the US Decision")
+:
+i.
+involved the same parties (or their privies) that are before the Court in the present action;
+ii.
+determined that Apotex's Omeprazole capsules infringe U.S. patent No. 4,786,000 505 ("505"), the United States equivalent of the '693 patent;
+iii.
+determined that Apotex failed to show that any claims of the '505 patent are invalid; and
+iv.
+resulted in a final decision (In re Omeprazole Patent Litigation, 490 F.Supp. 2d 381 (S.D.N.Y. 2007), affirmed by 281 Fed. Appx. 974 (Fed.Cir. 2008) and 536 F.3d 1361 (Fed.Cir. 2008), petition for writ of certiorari denied by 129 S.Ct. 1593).
+c.
+Matters of fact were fully litigated and finally decided in the US Decision and by reason of issue estoppel and abuse of process are binding in respect of the present action. The findings of fact that are binding in the present proceeding include the following;
+i.
+Apotex's Omeprazole capsules all use identical pellets;
+ii.
+Apotex's Omeprazole capsule pellet cores contain omeprazole, povidone ("PVP"), magnesium hydroxide, and mannitol;
+iii.
+Apotex applies an enteric coating to its Omeprazole capsule pellet cores;
+iv.
+Apotex's Omeprazole capsule pellets are dried until the moisture content is no more than 1.5% by weight;
+v.
+Apotex's Omeprazole capsule pellets contain an enteric coating layer that includes copolymerized methacrylic acid ("MACP") and triethyl citrate;
+vi.
+Apotex's Omeprazole capsules are oral pharmaceutical preparations;
+vii.
+Apotex's Omeprazole capsule pellets contain a therapeutically effective amount of omeprazole;
+viii.
+Apotex's Omeprazole capsule pellets have cores with a microenvironmental pH between 7 and 12;
+ix.
+Apotex is Omeprazole capsule pellets have a core region containing omeprazole, a sublayer around the core region, and an enteric coating;
+x.
+The sub layer  <FRAGMENT_SUPPRESSED> 's Omeprazole capsule pellets is 2 to 6 microns thick;
+xi.
+Apotex's Omeprazole capsule pellets have a continuous, inert sublayer that hugs the surface of the core and separates the core from the enteric coating; and
+xii.
+Apotex's Omeprazole capsule pellets contain an in situ formed sublayer that is inert, continuous, and rapidly disintegrating in water;
+d.
+Further, by reason of issue estoppel and abuse of process, excluding matters regarding claim construction, Apotex is precluded from contesting or making any allegations inconsistent with the findings of fact that were fully litigated and finally decided in the US Decision as they are binding in respect of the present action.
+[13]
+Prothonotary Lafrenière considered that the fifth paragraph that AstraZeneca wished to have added to the amended claim might be redundant in view of the plea already advanced but allowed it as he could not identify any specific prejudice that Apotex would suffer, should leave be granted. The purpose of this paragraph, according to AstraZeneca, is to clarify and particularize the plea of issue estoppel and abuse of process previously asserted in paragraph 29 of AstraZeneca's Reply and Defence to Counterclaim. It reads as follows:
+47. Further in  <FRAGMENT_SUPPRESSED>  ("the Canadian proceeding"), a final decision in a matter involving the same parties (or their privies) that are before the Court in the present action, the Court of Appeal determined that "claim 1 describes a pharmaceutical preparation which, in its finished product form, contains a sub coating or separating layer between the core and enteric coating, however the sub coating or separating layer is formed". By reason of issue estoppel and abuse of process, this finding is binding in the present action.
+[14]
+Prothonotary Lafrenière awarded the costs of the motion and the costs of further steps necessary as a result of the amendment to Apotex, both in the cause.
+[15]
+Apotex submits that the amendments will dramatically alter the nature and scope of this proceeding and cast it back to its earliest stages of pleadings, production of documents and oral discoveries. Apotex contends that it will be required to, among other things, prepare and serve further pleadings and investigate all of the circumstances giving rise to the foreign judgment, investigate all of the circumstances giving rise to other foreign judgments that lead to different results and, potentially, institute letters rogatory procedures to compel testimony of witnesses not resident in Canada. Doing this in the time remaining would constitute,  <FRAGMENT_SUPPRESSED> 's submission, non-compensable prejudice and an injustice.
+ISSUES
+:
+[16]
+The issues on this motion are:
+1. whether the Standard of Review requires a de novo determination of the merits of the motion to amend the Statement Of Claim; and
+2. if so, whether on a de novo review, the motion to amend should be granted.
+ANALYSIS
+:
+Does the Standard of Review require a de novo determination of the merits?
+[17]
+The standard of review applicable to a prothonotary's discretionary decision was established by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  at paragraph 18:
+Discretionary orders of prothonotaries ought to be disturbed by a motions judge only where (a) they are clearly wrong, in the sense that the exercise of discretion was based upon a wrong principle or a misapprehension of the facts, or (b) in making them, the prothonotary improperly exercised his or her discretion on a question vital to the final issue of the case.
+[18]
+The
+Aqua-Gem
+test was reformulated in
+ <FRAGMENT_SUPPRESSED>  (" <FRAGMENT_SUPPRESSED> ") at paragraph 19 as follows:
+Discretionary orders of Prothonotaries ought not to be disturbed on appeal to a judge unless:
+a) the questions in the motion are vital to the final issue of the case, or
+b) the orders are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of facts.
+[19]
+In the same decision, at paragraph 32, the Court of Appeal noted that the burden to justify amendments to pleadings would be heavier when they would result in a radical change in the nature of the questions in controversy. The Court provided the following useful advice about when deference to the decision of the prothonotary should be shown, and when the Court should proceed de novo:
+40 ... Counsel invites the Court to apply the rule set out in
+ <FRAGMENT_SUPPRESSED>  2002 FCA 331;
+ <FRAGMENT_SUPPRESSED>  2003 FCA 438).
+41
+This rule, of course, only applies where deference is owed; it does not apply where the discretion has to be exercised de novo, for example, where, as here, the question is vital to the final issue of the case or where the case management prothonotary or judge has made an error of principle
+(see <FRAGMENT_SUPPRESSED> , supra, para. 41). Indeed,  <FRAGMENT_SUPPRESSED> , Strayer J.A. refused to dilute the legal right a party has to have relevant questions answered on examination for discovery for the sake of enhancing the case management system and of expediting the whole process. Furthermore, as noted by Snider J. in
+Louis Bull Band
+, supra, it is
+not all orders made by a case management judge or prothonotary which are made "as a result of an ongoing management function"
+(para. 16): where an order deals with "a new matter in respect of which [the case management prothonotary] had no special knowledge", the <FRAGMENT_SUPPRESSED> rule does not apply. Indeed, case management prothonotaries and judges are often asked to decide motions which far exceed the case management expertise they have gained in a given case [emphasis added].
+[20]
+The Court of Appeal has recently reiterated prior statements of the Court that a pleadings amendment should be allowed for the purpose of determining the real questions in controversy, provided that allowing the amendment would not result in an injustice to the other party that is not capable of being compensated by an award of costs and the amendment would serve the interests of justice:
+ <FRAGMENT_SUPPRESSED>  at para. 4.
+[21]
+In
+Bristol-Myers-Squibb
+, Apotex sought an amendment to advance a potential defence to an infringement action and was denied leave to do so by the case management prothonotary. That decision was reversed by the application judge and restored on appeal. The parties agreed that the proposed amendment was an issue vital to the final issue of the case. The Court of Appeal found that the application judge, in considering the matter de novo, failed to consider whether the amendments would serve the interests of justice and all of the relevant circumstances as required by <FRAGMENT_SUPPRESSED> , above. Putting itself in the shoes of the Prothonotary, the Court of Appeal reached the same conclusion, and for substantially the same reasons.
+[22]
+It is notable that in
+Bristol-Myers-Squibb,
+as the Court of Appeal observed at paragraph 34, Apotex had conducted its defence for a decade in a way that suggested that the issues it was seeking to raise in defence through the amendments were not real questions in controversy. On the eve of trial, it sought to conduct a fishing expedition into matters it had not previously addressed and could not adequately particularize. Having regard to the injustice to Bristol-Myers and the radical change in the pleadings, the amendments were disallowed.
+[23]
+Here, Apotex argues, relying on the reasoning in
+Bristol-Myers-Squibb
+, that the effect of the amendments is to deny potential defences to the alleged infringement and the question is thus vital to the final issue. AstraZeneca contends that the pleas of issue estoppel are subordinate to the action for infringement and do not exist independently of the existing claims of that action. They merely provide AstraZeneca, it is argued, with an opportunity at trial to avoid the burden of proving that Apotex's capsules possess certain properties that were already fully litigated and proven in the US and Canadian decisions.
+[24]
+The doctrine of issue estoppel is used to protect the finality of litigation and to prevent abuse of the decision-making process on questions of fact that have already been decided between the parties. It may only be invoked when the parties and the issues are identical and the prior decision was final. Its application in any case remains a matter of judicial discretion, requiring consideration of all of the circumstances, to determine whether an injustice would result:
+ <FRAGMENT_SUPPRESSED>  at paras. 65-66.
+[25]
+While the issue is not to be determined on this motion, it is by no means certain that the judge who conducts the trial of the underlying action will permit AstraZeneca to rely on the doctrine to preclude Apotex from re-litigating factual matters decided in the prior Canadian and US proceedings. Indeed, as the Supreme Court has recognized, re-litigation may have salutary effects such as when fresh evidence previously unavailable impeaches the original result or fairness dictates that the original result should not be binding in the new context:
+ <FRAGMENT_SUPPRESSED>  at para 52.
+[26]
+Complicating the question is that AstraZeneca seeks to rely not only on a prior Canadian decision but that of a foreign court. In that regard, AstraZeneca relies on the decision of Justice Karen Sharlow, as she then was, in
+ <FRAGMENT_SUPPRESSED> , aff'd (2000), 4 C.P.R. (4th) 521 ("
+Connaught
+"), a case relating to pleas of issue estoppel based on findings of fact made by courts in the United States, the United Kingdom and the European Patent Office. In the decision before Justice Sharlow on appeal, the Prothonotary had struck the pleas considering that there was no estoppel in the particular circumstances in which the prior decisions had been rendered based on his understanding of the Federal Court jurisprudence.
+[27]
+Justice Sharlow determined that the Prothonotary's decision to strike the pleas was not on a question vital to the final issue of the case as the essential questions relating to the validity of the patent were still represented in the pleadings and could be tried in the normal fashion. Following a review of the jurisprudence, Justice Sharlow found that there is no reason in principle that a plea of issue estoppel cannot be based on a foreign judgment. She concluded that the Prothonotary had erred in ordering that the pleas be struck out.
+[28]
+In reaching that conclusion, Justice Sharlow recognized that the effect of permitting the impugned paragraphs to stand would force the defendant to adduce additional expert evidence and devise new arguments in order to explain why the findings of fact in the foreign proceedings should not be accepted in the trial of the action. She held that the added layer of complexity was not sufficient to justify striking the pleadings. In the present matter, Prothonotary Lafrenière reached a similar conclusion about the effect of the amendments he allowed.
+[29]
+As I understand the doctrine of issue estoppel, it would be open to the trial judge to allow the pleas in whole or in part if the three pre-conditions are satisfied on each element of the prior factual determinations. Those are questions for the trial judge to consider but it seems to me to be consistent with the interests of justice to allow AstraZeneca the opportunity to advance its arguments about the application of res judicata. Apotex will have a full opportunity to meet those arguments at the trial.
+[30]
+In my view, the amendments in question do not amount to an entirely new cause of action or deny a defence as Apotex contends. The essential elements of the infringement claim remain the same and AstraZeneca must prove them in order to establish its claim. Similarly, it will remain open to Apotex to establish that the 693 patent is invalid. The amendments are not, as Apotex asserts, "dispositive" of the action.
+[31]
+The effect of the pleas of issue estoppel and abuse of process will, if accepted by the trial judge, merely prevent Apotex from re-litigating questions of fact on which it has been unsuccessful in the foreign court. While that may assist the plaintiff in making its case, it does not substantively alter the basis on which Apotex's product may be found to infringe. This is not a situation where the party seeking the amendment is attempting to radically change the nature of the questions in controversy on the eve of trial, as in
+Bristol-Myers- <FRAGMENT_SUPPRESSED> . The questions in controversy remain the same. The issue is how the facts are proven.
+[32]
+Apotex contends that the Prothonotary erred by attributing the criteria set out in
+ <FRAGMENT_SUPPRESSED> , to the decision of the Federal Court of Appeal and erred in citing them in support of his finding that the defendant would not suffer prejudice not compensable in costs as a result of the amendments. While it is correct that the criteria appear in the decision of Justice Pierre Denault of the trial division, cited above, rather than that of the Federal Court of Appeal, no error was found in the one paragraph ruling that affirmed the decision on appeal.
+[33]
+There is more substance to Apotex's complaint that the Prothonotary limited his application of the <FRAGMENT_SUPPRESSED> criteria to the question of whether the defendant would suffer irreparable prejudice and did not consider whether the amendments were in the interests of justice, as contemplated by Justice Denault at paragraph 26 of <FRAGMENT_SUPPRESSED> and the authorities cited therein:
+ <FRAGMENT_SUPPRESSED>  (T.C.C.) at page 301. But that complaint doesn't stand up to a reading of the Prothonotary's reasons as a whole. It is clear that he took into account all of the relevant considerations including whether allowing the amendments would result in an injustice to Apotex.
+[34]
+I am also satisfied that the learned Prothonotary did not err in his understanding of the facts. As noted above, Prothonotary Lafrenière had been the case management prothonotary responsible for the infringement action for five years and continued to assist in that capacity. He had, for example, just before the hearing of the motion to amend dealt with a series of objections. As such, he would have an extensive knowledge of the details and background of the litigation. While there are limits to the deference to be accorded a case management prothonotary's decisions, his understanding of the background and issues in controversy must be taken as having informed his consideration of the factors for and against allowing the amendments. This Court is certainly in no better position to do so.
+[35]
+It was open to the Prothonotary to discount Apotex's claim that "extraordinary disruption" to the trial schedule would result as there remained almost a full year to investigate the new allegations, conduct discoveries, retain experts, and prepare for trial. Apotex, or its privies, were part of the U.S. proceeding and it is difficult to conceive how it could not take advantage of that in preparing to deal with the amended claim. This is not a case in which they could not expect cooperation in examining the record before the foreign court.
+[36]
+While the Prothonotary properly took into account AstraZeneca's delay in bringing the amendments forward following the conclusion of the US proceeding, that factor in itself did not justify disallowing the amendments in light of the time remaining before trial. If necessary, as was found, the scheduling order issued in February could be revised to take into account the additional work that Apotex would be required to undertake. At the hearing of this appeal, I was informed that AstraZeneca has already made a substantial production of documents relating to the US proceeding. I am confident that the very capable counsel representing Apotex can manage to prepare for trial in the time remaining with the assistance of their US counterparts.
+[37]
+Many of the objections that Apotex has raised to the amendments are matters that would have to be addressed by the trial judge before the pleas of issue estoppel could be accepted, such as the extent to which the findings of fact in the US proceeding are bound up in the US Court's construal of the claims of the US patents in question. It is arguable, as Apotex asserts, that the work required to sort out such issues before an estoppel determination can be made will mean that the Court's workload is not reduced or facilitated. But it was open to the Prothonotary to conclude otherwise based on his knowledge of the case. My sense of the matter was that Apotex protests too much about the hardships they will face in preparing for trial.
+[38]
+In the result, applying the <FRAGMENT_SUPPRESSED> standard, I find that the Prothonotary's decision should not be interfered with as the questions in the motion are not vital to the final issue of the case and the order was not clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts.
+[39]
+Should I be found to have erred in determining that the questions in issue are not vital to the final issue of the case, I will note in closing that had I considered it necessary to review the merits of the motion to amend de novo, I would have concluded that the amendments should be allowed substantially for the reasons given by the Prothonotary and those articulated by Justice Sharlow in
+Connaught
+.
+ORDER
+[40]
+THIS COURT ORDERS that
+the appeal of the decision of Prothonotary Lafrenière dated April 8, 2011 is dismissed with costs of this appeal to AstraZeneca in the cause.
+Appeal dismissed.
+Editor: E. Joanne Oley/vnh
+[End of document]

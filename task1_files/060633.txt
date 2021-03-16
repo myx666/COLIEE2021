@@ -1,0 +1,92 @@
+I.
+INTRODUCTION
+[1]
+Phelan, J.
+: This is a judicial review by way of mandamus concerning an application for a visa under the Federal Skilled Worker [FSW] class. The visa application was deemed terminated by retrospective legislation, set out in s 87.4 of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [IRPA]. The Applicant claims that he received a positive selection decision (that he qualified in respect of his occupation) and was entitled to a visa.
+[2]
+The critical provision of IRPA reads as follows:
+87.4 (1) An application by a foreign national for a permanent resident visa as a member of the prescribed class of federal skilled workers that was made before February 27, 2008 is terminated if, before March 29, 2012, it has not been established by an officer, in accordance with the regulations, whether the applicant meets the selection criteria and other requirements applicable to that class.
+(2) Subsection (1) does not apply to an application in respect of which a superior court has made a final determination unless the determination is made on or after March 29, 2012.
+(3) The fact that an application is terminated under subsection (1) does not constitute a decision not to issue a permanent resident visa.
+(4) Any fees paid to the Minister in respect of the application referred to in subsection (1) - including for the acquisition of permanent resident status - must be returned, without interest, to the person who paid them. The amounts payable may be paid out of the Consolidated Revenue Fund.
+(5) No person has a right of recourse or indemnity against Her Majesty in connection with an application that is terminated under subsection (1).
+87.4 (1) Il est mis fin à toute demande de visa de résident permanent faite avant le 27 février 2008 au titre de la catégorie réglementaire des travailleurs qualifiés (fédéral) si, au 29 mars 2012, un agent n'a pas statué, conformément aux règlements, quant à la conformité de la demande aux critères de sélection et autres exigences applicables à cette catégorie.
+(2) Le paragraphe (1) ne s'applique pas aux demandes à l'égard desquelles une cour supérieure a rendu une décision finale, sauf dans les cas où celle-ci a été rendue le 29 mars 2012 ou après cette date.
+(3) Le fait qu'il a été mis fin à une demande de visa de résident permanent en application du paragraphe (1) ne constitue pas un refus de délivrer le visa.
+(4) Les frais versés au ministre à l'égard de la demande visée au paragraphe (1), notamment pour l'acquisition du statut de résident permanent, sont remboursés, sans intérêts, à la personne qui les a acquittés; ils peuvent être payés sur le Trésor.
+(5) Nul n'a de recours contre sa Majesté ni droit à une indemnité de sa part relativement à une demande à laquelle il est mis fin en vertu du paragraphe (1).
+Royal Assent - June 29, 2012
+II.
+BACKGROUND
+[3]
+The Applicant, his spouse and child applied for permanent resident visas under the FSW class before February 27, 2008.
+[4]
+As of March 29, 2012, there was no conclusion that the Applicant met the selection criteria or "other requirements applicable to the class" as the phrase appears in s 87.4(1).
+[5]
+By way of background to s 87.4, it is important to note that in February 2008, IRPA was amended by s 87.3 which authorized the Minister to issue Ministerial Instructions regarding the priority under which visa applications could be processed. The Ministerial Instructions are a means to provide for a triage of applications according to revised eligibility criteria, including the establishment of categories of applicants and quotas.
+[6]
+On March 29, 2012, the Minister proposed an amendment to IRPA under Bill C-38. The amendment introduced in s 87.4.
+[7]
+Shortly after Bill C-38 (which contained s 87.4) was introduced in Parliament, the Minister issued Operational Bulletin 400 instructing that as of March 29, 2012, processing should not commence or continue for a FSW visa application received before February 27, 2008 for which a selection decision had not been made before March 29, 2012.
+[8]
+Operational Bulletin 400 was rescinded. The Minister subsequently issued Operational Bulletin 413 on April 27, 2013 instructing to continue processing all FSW applications until Bill C-38 came into force - which it did on June 29, 2012.
+[9]
+On June 21, 2012, an officer of the Respondent determined that the Applicant met the selection criteria for his occupation. He was instructed to complete the medical examinations and pay the requisite fees. In addition, there was also the matter of the criminal record admissibility to be concluded.
+[10]
+The medical evidence was submitted on June 29, 2012. It is not clear from the record when the medical and criminality review were completed by officials although July 16, 2012 appears to be the most probable date that the medical evidence was approved.
+[11]
+The Applicant's visa application was returned to him in October 2012 on the grounds that the application was terminated by operation of law.
+[12]
+The Applicant's principal position is that once he had received the selection decision, his visa application was essentially complete. It therefore was complete before s 87.4 became legally effective. The Respondent's position is that since no final decision on the visa application itself was made, the application was terminated by law as of June 29, 2012.
+III.
+ANALYSIS
+[13]
+The real issue in this judicial review is whether a selection decision made before June 29, 2012 is sufficient to prevent termination by s 87.4 of the Applicant's visa application.
+[14]
+The issue is primarily one of law, directed at the limits of the operation of the visa process and goes to the legal core of that process. This is not an area in which a visa officer has any expertise nor one in which an official of the executive branch of government should be able to decide the legal limits of the statute which governs him. The interpretation of the law in this case is one for the Court on the basis of correctness.
+[15]
+The process of approving a visa application has many moving parts - the determination that a person qualifies in the occupational category is but one part but an important part. The final step, after the consideration of occupational qualifications, medical evidence and the other requirements under s 11 IRPA, is the decision of the visa officer to grant the visa.
+[16]
+On the facts of this case there is no question that the decision to grant a visa was not made on March 29, 2012 or even on June 29, 2012 nor were the requirements for a visa substantially met by any of those dates.
+[17]
+The Applicant's application was for a visa, not just a selection decision, and until the visa decision was made or could have been made, the matter of meeting the applicable requirements had not been concluded.
+[18]
+With respect to the Applicant's principal argument that a selection decision was sufficient to meet the statutory requirements to prevent termination of the visa process, I cannot agree. Section 87.4 is clear that meeting the selection criteria is but one of the requirements to secure a FSW visa. Compliance with all requirements applicable to the FSW class must be met. On the facts those requirements were not met on either March 29, 2012 or June 29, 2012.
+[19]
+Further, s 87.4 is clearly intended to have retrospective effect. While there is an interpretative principle against retrospective or retroactive legislation, there is no absolute legal impediment to such legislation where the words clearly set out that intent. It is common in other legislation, such as income tax changes, that amendments be effective from the date the legislation is tabled in Parliament although Royal Assent may follow at a much later date.
+[20]
+Retrospective legislation may create real or perceived inequities; however, where Parliament clearly lays out that intent, any issue of unfairness of the legislation is more properly addressed in the political/electoral process than the judicial process.
+[21]
+The operation of s 87.4 was well described in
+ <FRAGMENT_SUPPRESSED>  FTR 86, at paras 26-28 and 42:
+26 It is common ground that the Applicant's application for permanent residence was made before 27 February 2008.
+27 It is also common ground that it was not "before March 29, 2012... established by an officer, in accordance with the regulations, whether the Applicant meets the selection criteria, and other requirements applicable to" the Federal Skilled Worker Class.
+28 This means that, in accordance with paragraph 87.4(1) of the Act, the Applicant's application for permanent residence in Canada has been terminated by act of Parliament. It also means that, under paragraph 87.4(5) of the Act the Applicant has no right of recourse or indemnity against her Majesty in connection with his terminated application.
+...
+42 Parliament's clear intent in enacting subsection 87.4 of the Act was to "terminate" permanent skilled worker applications made before 27 February 2008. The Applicant does not dispute this fact and he does not dispute that his application was made before the operative date. His argument is that, notwithstanding valid legislation that terminates his application, the Court can somehow use a
+nunc pro tunc
+order to grant him an order of mandamus for a skilled worker application that no longer exists because it has been terminated by act of Parliament. To grant such an order, in my opinion, and in the words of the Supreme Court of Canada in
+Trecothic Marsh
+, above, "would clearly be overriding the statute and defeating the intention of the law-giver." It would amount to the Court extending its jurisdiction in opposition to the law and the clear intention of Parliament.
+[22]
+There is no gap in the legislation regarding the operation of law between March 29, 2012 and June 29, 2012. If an applicant had complied with all visa requirements before June 29, 2012 and was entitled to a positive decision, that applicant would be governed by the "old" law. For those applicants who had not fully complied with the "old" legislation, any rights accrued to June 29, 2012 would be terminated effective March 29, 2012. As stated earlier, the result may be unfair in the view of many but that is the result that Parliament intended and specifically provided for.
+[23]
+Lastly, I can find no breach of procedural fairness. There were delays in the processing of FSW applications while the Respondent determined how to proceed with pending applications. However, the Applicant has not established that "but for" these delays, all aspects of his visa application would have been completed and a positive decision ought to have issued before June 29, 2012. The Applicant asks the Court to speculate on the timing of a positive decision.
+[24]
+The Applicant has not established that there was any bad faith or improper purpose in the delay in processing. A claim that a failure to decide a matter in a timely manner - a matter for which mandamus is the proper remedy - is not also a breach of procedural fairness.
+[25]
+Further, the Applicant knew on June 21, 2012 that a positive selection decision did not mean that a visa would issue. In the letter giving instructions to obtain medical evidence, the Applicant was informed that the selection decision does "not imply in any way that your application has been approved". There is no basis for a claim of legitimate expectation.
+IV.
+CONCLUSION
+[26]
+In conclusion, the purpose and intent of the legislation was to expunge as of March 29, 2012 existing rights in pre-February 27, 2008 visa applications unless an applicant had fully complied on that date with the FSW visa requirements. The Applicant did not nor had he complied when s 87.4 came into effect on June 29, 2012. Therefore this judicial review will be dismissed.
+[27]
+The Applicant shall have 14 days from the date of the decision to make submissions on a certified question, and the Respondent shall respond within 10 days of receipt of those submissions. The Applicant shall have three (3) days to submit a reply.
+JUDGMENT
+[28]
+THIS COURT'S JUDGMENT is that
+the application for judicial review is dismissed.
+Application dismissed.
+Editor: Angela E. McKay/vnh

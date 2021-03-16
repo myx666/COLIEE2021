@@ -1,0 +1,123 @@
+ <FRAGMENT_SUPPRESSED>  (FC)
+MLB unedited judgment
+ <FRAGMENT_SUPPRESSED>  (respondent)
+( <FRAGMENT_SUPPRESSED> 
+Federal Court
+Hughes, J.
+October 6, 2009.
+Counsel:
+Michael Crinson and Michael Niemkiewicz, for Mycogen Plant Science, Inc.;
+Trent Horne and Kristina Milbourn, for Monsanto Technology LLC;
+Eugene Gierczak, for Syngenta Participations A.G.;
+Chris Van Barr and Martha Savoy, for Bayer Bioscience N.V.
+Solicitors of Record:
+Dimmock Stratton, LLP, Toronto, Ontario, for Mycogen Plant Science, Inc.;
+Bennett Jones, LLP, Toronto, Ontario, for Monsanto Technology LLC;
+Miller Thomson, LLP, Toronto, Ontario, for Syngenta Participations A.G.;
+Gowlings, Toronto, Ontario, for Bayer Bioscience N.V.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Hughes, J.
+: These Reasons for Order and Order deal with motions by each of Monsanto Technology LLC and Mycogen Plant Science, Inc. to amend their pleadings. In particular Monsanto seeks to amend its Reply and Defence to Counterclaim in action T-1524-08 to add certain paragraphs relating to what I will call the Jansens Affidavit. Mycogen seeks to amend its Statement of Claim  <FRAGMENT_SUPPRESSED> -08 also to address the Jansens Affidavit. For the reasons that follow I will order that, with some exceptions, Monsanto's proposed amendments will be allowed. Mycogen's proposed amendments will be allowed. Costs will be in the cause.
+[2]
+These three actions have been ordered to proceed together using a combined style of cause. They will be heard together with a target trial date late next year. All of these actions arise out of what is known as conflict proceedings in the Canadian Patent Office. The Canadian
+Patent Act
+, R.S.C. 1985, c. P-4 underwent substantial amendments effective October 1, 1989, wherein applications for patents filed before that date are treated in a significantly different manner than those filed after that date. One of the most significant amendments was a change from "first to invent" under the pre-October 1, 1989 regime to a "first to file" regime after that date. The first to invent regime is in many respects similar to that which prevailed and to some extent still prevails in the United States, whereas the first to file regime resembles a regime followed in Europe and many other countries.
+[3]
+Conflict proceedings such as these actions are governed by section 43 of the pre-October 1, 1989
+Patent Act
+and were the subject of a special Rule, Rule 701, in this Court. That Rule no longer exists as conflict actions are now rare. I am advised that very few, perhaps a dozen or two, applications for a patent filed in the Canadian Patent Office before October 1, 1989, still are in processing in the Patent Office. Those applications and the contents of the prosecution files, unlike the post October 1, 1989 applications, are not open to the public. Entitlement to a patent, where it appears to the Patent Office that two or more patent applications are directed to the same subject matter (something that occurs more often than one might think) are determined by the Commissioner of Patents by reviewing affidavits submitted by the competing parties directed to the date or the dates when the invention was made by their inventors. Parties who are unsatisfied with that determination may proceed to request a new determination by way of an action filed in this Court. These three actions are examples in which there was a determination by the Commissioner as to who was the first to invent the subject matter of certain claims, the dissatisfied parties seek a re-determination in this Court.
+[4]
+Under the post October 1, 1989 regime a patent is awarded to the first party to file an application regardless of the date of invention.
+[5]
+When an action, such as these, is filed, a party knows only what is in its own file in the Patent Office, the file of the other parties is not of public record. Once pleadings are complete and discovery begins, each party gains access, usually on a confidential basis, to the patent application files of the other parties. Thus it is not unexpected that some of the parties may seek to amend their pleadings, as is the situation here.
+[6]
+The present amendment sought by each of Monsanto and Mycogen deal with a submission made by patent agents acting for Bayer to the Canadian Patent Office during the course of prosecuting its patent application involved in those conflict proceedings. In a response to an office action, Bayer's agents drew the patent examiner's attention to certain statements made in an affidavit of Jansens filed with the United States Patent Office in the course of prosecuting an application there. A copy of that affidavit was submitted to the patent examiner.
+[7]
+In proceedings before the United States District Court for the Eastern District of  <FRAGMENT_SUPPRESSED>  addressed the same Jansens affidavit in respect of a Bayer patent similar to the Bayer Canadian application and made findings, including these at page 40 of these reasons that Bayer committed inequitable conduct in submitting a knowingly false Jansens' declaration, and failing to disclose to the United States Patent Office known negative results that would have refuted Bayer's claims, the patent was declared to be unenforceable.
+[8]
+The amendments now proposed by Monsanto and Mycogen arise, therefore, from the submissions by Bayer to the Canadian Patent Office of the same Jansens affidavit. Bayer vigorously opposes the proposed amendments.
+[9]
+In general the Court will allow amendments to pleadings provided such amendments will not result in an injustice to the opposite party that cannot be compensated in costs and that it would serve the interests of justice. I cite, from the many examples, the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  at paragraph 9:
+With respect to amendments, it may be stated, as a result of the decisions of this Court in North- west  <FRAGMENT_SUPPRESSED>  the factors that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment, the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice.
+[10]
+In the present case Bayer does not allege any prejudice nor does it argue that the amendments were not sought in a timely manner. Bayer rests its argument on the sole basis that the amendments sought do not raise an issue that can properly be determined in the context of the present actions. In so doing Bayer's counsel refers to the reasons of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  per Isaac CJ for the Court at page 24:
+In determining whether an amendment to a defence should be allowed, it is often helpful for the Court to ask itself whether the amendment, if it was already part of the proposed pleadings, would be a plea capable of being struck out under Rule 419. If yes, the amendment should not be allowed. See, for example,  <FRAGMENT_SUPPRESSED>  (T.D.). Procedurally, the Court will not receive any evidence where the basis for striking out paragraphs in a statement of defence is alleged to be that they disclose no reasonable defence (Rule 419(1)(a)). Rule 419(2) expressly prohibits the use of evidence on a Rule 419(1)(a) motion. In similar fashion, the Court should not accept any evidence in support of an application for leave to amend pleadings under Rule 420, unless evidence is required in order to clarify the nature of the proposed amendments. Rather, the Court must assume that the facts pleaded in the amendments are true for the purposes of considering whether or not to grant leave to amend.
+[11]
+All Counsel, including Bayer's Counsel, accept that, as stated by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  at 980, on a motion such as these the facts as set out in the proposed amendments are to be taken as proved and that, in order to succeed, it must be shown by the party resisting the amendment that it is plain and obvious that the amendment sought cannot succeed. To that I would add that the Supreme Court also said that the length and complexity of the issues and the novelty of what is pleaded should not be a bar. I repeat what Wilson J. for the Court wrote at page 980:
+Thus, the test in Canada governing the application of provisions like Rule 19(24)(a) of the British Columbia Rules of Court is the same as the one that governs an application under R.S.C. O. 18, r. 19: assuming that the facts as stated in the statement of claim can be proved, is it "plain and obvious" that the plaintiff's statement of claim discloses no reasonable cause of action? As in England, if there is a change that the plaintiff might succeed, then the plaintiff should not be "driven from the judgment seat". Neither the length and complexity of the issues, the novelty of the cause of action, nor the potential for the defendant to present a strong defence should prevent the plaintiff from proceeding with his or her case. Only if the action is certain to fail because it contains a radical defect ranking with the others listed in Rule 19(24) of the British Columbia Rules of Court should the relevant portions of a plaintiff's statement of claim be struck out under Rule 19(24)(a).
+[12]
+Put succinctly, the amendments sought are based on some kind of concept of lack of candour or bad faith on the part of Bayer during the prosecution of its application at issue in submitting the Jansens affidavit. I hasten to add that Jansens is not named by Bayer as an inventor and that affidavit was not submitted in response to a request for affidavits to support a date of invention rather, the affidavit was submitted as part of a response to an Office action so as to argue for broader claims.
+[13]
+Bayer's counsel argued that there is no statutory basis which would call for a duty of candour on behalf of an applicant for a patent, nor is there any statutory penalties provided for lack of candour. Further, Bayer's counsel argues that there is no common law or other non-statutory duty of candour nor penalties for lack of candour. Thus, says Bayer's counsel, even if one assumes that the allegations made in the amendments are true, which Bayer must accept for the purpose of the motion but not otherwise, there are no consequences and no relief can be claimed by Monsanto or Mycogen as a result.
+[14]
+Counsel for each of Monsanto and Mycogen argue that, while they do not rely on section 73 of the post October 1, 1989
+Patent Act
+(dealing with the effect of changes to the Act) nor section 53 (dealing only with what is set out in the petition for the patent and the specification) there are at least common law provisions and section 30 of the
+Act
+which provides a basis for the relief claimed.
+[15]
+I am satisfied that the state of the law respecting conflict proceedings in general and the duty of candour in respect of submissions to the Patent Office is sufficiently in a state of flux and is not so certain and to make it "plain and obvious" that the allegations put forward in the proposed amendments cannot succeed.
+[16]
+With respect to conflict proceedings Justice Snider of this Court in
+ <FRAGMENT_SUPPRESSED> to 403 wrote that conflict proceedings are directed to issues of priority of inventorship, and later proceedings dealing with a patent issued after the resolution of the conflict proceedings may deal with other issues. This does not mean, however, that in the course of conflict proceedings, the parties to those proceeding cannot raise issues as to why an opposite party should not get a patent in the first place. For instance, section 43(4) of the pre-October 1, 1989
+Patent Act
+permits a party to a conflict to submit prior art which it may allege anticipates a claim or claims in conflict.
+[17]
+I addressed the question of a duty of candour upon an applicant for a patent in dealing with the Patent Office in
+ <FRAGMENT_SUPPRESSED> , reversed on other grounds, [2008] 1 F.C.R. 529. I wrote at paragraphs 71 to 73:
+71 Since at least 60 years ago there has been a doctrine of good faith in respect of patents. President Thorson of the Exchequer Court in  <FRAGMENT_SUPPRESSED>  give all information known to him that will enable the invention to be carried out to the best effect as contemplated by him.
+72 A patent is a monopoly sought voluntarily by an applicant, there is no compulsion to do so. An application for a patent is effectively an ex parte proceeding, only the applicant and the Patent Office examiner are involved in dialogue. The patent, when issued, is afforded a presumption of validity by the Patent Act.
+73 A patent is not issued simply to afford a member of the public an opportunity to challenge its validity (see e.g. by way of analogy to revenue legislation  <FRAGMENT_SUPPRESSED> , at paragraph 54). An obligation arises on those seeking to gain a patent to act in good faith when dealing with the Patent Office. The application for the patent includes a specification and draft claims. The specification is the disclosure for which the monopoly defined by the claims is granted. This disclosure, as the Supreme Court has said, should be full, frank and fair. Further disclosure made in dialogue with the Patent Office examiner. Since at least October 1, 1996, communications with the examiner must be made in good faith. It is to be expected that there will be full, frank and fair disclosure. There is afforded during the prosecution ample opportunity to make further disclosure or to correct an earlier misstatement or shortcoming. It is not harsh or unreasonable, if after the patent issues, and disclosure is found to lack good faith, that the Court deems the application and thus the patent, to have been abandoned.
+[18]
+Justice Shore expressed a contrary opinion in
+ <FRAGMENT_SUPPRESSED> :
+201 It is clear that there is no express duty of candour contained in the Patent Act or the Patent Rules and that the word "candour" does not even appear in this legislation. While a duty of candour and good faith exists during the prosecution of patent applications in the United States Patent Office, a similar duty does not exist in Canada. The facts alleged by Apotex in its NOA are addressed by subsection 30(1) of the Patent Act and paragraphs 40(l)(a), 40(1)(c) and section 45 of the Patent Rules. There is no basis in Canadian law for the separate allegation of breach of candour put forth by Apotex. As the Federal Court of Appeal stated in  <FRAGMENT_SUPPRESSED>  jurisprudence already require. Furthermore, even if the duty of disclosure had been extended as suggested by counsel, the impact of the extension would be felt not at the level of the validity of the patent but at the level of the remedies where equitable considerations might come into play." (Stewart Affidavit paras. 68-70, AR v. 29 Tab 42 p. 9081;  <FRAGMENT_SUPPRESSED>  C.P.R. (3d) 221 at 231-232 (FCA), aff'ing (1998), 80 CPR (3d) 1, 78 A.C.W.S. (3d) 373 (F.C.T.D.).)
+[19]
+Given the uncertainty of the state of the law as to the duty of candour, I cannot find that it is plain and obvious that a plea of lack of candour cannot succeed if appropriate relief as a result can be claimed.
+[20]
+The matter does not end there, given that a plea of lack of candour could be made, what is the resulting relief that could be claimed  <FRAGMENT_SUPPRESSED> 's Statement of Claim or defence raised or counterclaim made by Monsanto. Bayer argues that there is no provision for relief in the Patent Act. Monsanto argues that Bayer has asked for a declaration that it is entitled to the claims in conflict, and that such a declaration is a form of equitable relief. Pointing to the Federal Court of Appeal's decision in
+ <FRAGMENT_SUPPRESSED>  Monsanto's counsel argues that where an unclean hands defence has been raised, equitable remedies can be refined. Bayer's counsel argues that the declaration of entitlement that it seeks is not an equitable remedy but a statutory remedy.
+[21]
+Section 43(8) of the pre-October 1, 1989 version of the
+Patent Act
+provides for a number of remedies which this Court in these actions may provide. It states:
+(8) Disposition of applications unless proceedings taken in Federal Court- The claims in conflict shall be rejected or allowed accordingly unless within a time to be fixed by the Commissioner and notified to the several applicants one of them commences proceedings in the Federal Court for the determination of their respective rights, in which event the Commissioner shall suspend further action on the applications in conflict until it has been determined in those proceedings that
+(a) there is in fact no conflict between the claims in question;
+(b) none of the applicants is entitled to the issue of a patent containing the claims in conflict as applied for by him;
+(c) a patent or patents, including substitute claims approved by the Court, may issue to one or more of the applicants; or
+(d) one of the applicants is entitled as against the others to the issue of a patent including the claims in conflict as applied for by him.
+[22]
+At this stage I find that it is not plain and obvious that a claim for relief, or a defence cannot be raised on the basis of section 43(8) including, in particular, subsection (d). It is not necessary at this time to make a final and binding determination upon the merits. It is sufficient to say that it is not plain and obvious that such a plea cannot succeed.
+[23]
+Thus, subject to my comments following, the proposed amendments should be allowed.
+[24]
+My comments have to do with paragraphs 13 and 14 of Monsanto's proposed amendments. I am advised by Monsanto's counsel that the wording of paragraph 13 is taken almost verbatim from paragraph 12 of Justice Sharlow's decision in the Federal Court (as she then was) in
+ <FRAGMENT_SUPPRESSED> . The first step in the analysis is to examine the proposed legal arguments as set out in paragraph 25, which are based on one or more of "res judicata, issue estoppel, collateral estoppel, comity, abuse of process." These are different expressions of the general principle that judicial proceedings must at some point be conclusive, that an issue of fact need only be decided once.
+[25]
+In my view, Justice Sharlow was not proposing a model plea, she was simply repeating parts of the plea at issue before her. Bayer's counsel argues that paragraph 13 lacks particularization as to what portions of Justice Webber's findings in the United States case are being put in issue and contrasts this plea with Mycogen's proposed plea at paragraphs 18 and 22. I agree, paragraph 13 requires particularization before the amendment is allowed.
+[26]
+Paragraph 14 of Monsanto's proposed amendment also requires consideration. That paragraph is framed on the basis that the
+"Commissioner would not have concluded"
+something and
+"would not be included"
+something. So pleaded, these are assumptions and speculations as to actions that the Commissioner of Patents might have taken. The Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  at paragraph 27 warned against the pleading of assumptions and speculations:
+27 We are not, in my opinion, required by the principle enunciated in Inuit Tapirisat, supra, to take as true the appellants' allegations concerning the possible consequences of the testing of the cruise missile. The rule that the material facts in a statement of claim must be taken as true for the purpose of determining whether it discloses a reasonable cause of action does not require that allegations based on assumptions and speculations be taken as true. The very nature of such an allegation is that it cannot be proven to be true by the adduction of evidence. It would, therefore, be improper to accept that such an allegation is true. No violence is done to the rule where allegations, incapable of proof, are not taken as proven.
+[27]
+Paragraph 14 as presently drafted cannot be said to be acceptable. It should be appropriately redrafted so as to avoid assumptions and speculations.
+[28]
+As a result Mycogen's motion to amend will be allowed as will Monsanto's subject to particularization of paragraph 13 and rewording of paragraph 14. Costs are most appropriately left in the cause.
+ORDER
+[29] FOR THE REASONS given
+:
+THE COURT ORDERS that
+:
+1. Mycogen's motion to amend its Statement of Claim in the manner provided is allowed;
+2. Monsanto's motion to amend its Statement of Defence and Counterclaim is allowed provided that paragraph 13 is particularized and paragraph 14 is reworded as discussed in the Reasons;
+3. Costs in the cause.
+[End of document]

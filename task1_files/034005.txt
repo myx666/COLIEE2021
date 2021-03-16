@@ -1,0 +1,334 @@
+[1]
+Mactavish, J.
+: In accordance with an Order made by Prothonotary Lafrenière, the Plaintiffs and the defendant Her Majesty the Queen in Right of the Province of Alberta as represented by the Minister of Sustainable Development ("Alberta") come before this Court seeking the determination of a question of law in advance of the trial in this case. The question to be determined is whether this Court has jurisdiction over Alberta in relation to this action.
+[2]
+For the reasons that follow, I have concluded that this Court does indeed have
+in personam
+jurisdiction over Alberta in this matter.
+Background
+[3]
+This action arises out of the death of five year old Janessa Lynn Toney, the daughter of the Plaintiffs Alan and Yvonne Toney and the sister of Courtenay and Rebecca Toney.
+[4]
+It is alleged in the Toney's Statement of Claim that on September 27, 2008, the Toney family were on a boating trip on Lake Newell in the Province of Alberta when what had started as a pleasant family outing ended in tragedy. The family's boat became disabled and Mr. Toney was unable to repair it, leading him to call 911 for assistance. It is further alleged that in the course of a rescue operation, a vessel then owned and operated by Alberta ("the rescue vessel") capsized, throwing the members of the Toney family into the water. All of the Toneys were subsequently rescued, save and except Janessa, who drowned after she allegedly became trapped under the rescue boat.
+[5]
+Amongst other things, the Plaintiffs allege that Alberta failed to assess whether the rescue vessel was appropriate and safe for the purpose to which it was being put, having regard to the weather conditions at the time, the vessel's characteristics and the weight of the occupants. The Plaintiffs further allege that Alberta failed to assess and correct the course of the rescue vessel.
+[6]
+The Plaintiffs commenced their action on September 26, 2011. There is an issue between the parties as to when the Plaintiffs' cause of action was discoverable, and whether the action was commenced after the expiry of the two year limitation period contained in section 14 of the
+Marine Liability Act
+, SC 2001, c 6. That issue is not, however, before me at this time.
+[7]
+Alberta has asserted from the outset that this Court does not have jurisdiction over it in relation to this matter. Prior to filing a Statement of Defence, Alberta brought a motion seeking to have the action struck as against it
+in personam
+, and as against the rescue vessel
+in rem
+, for lack of jurisdiction.
+[8]
+Although Alberta admitted that the rescue vessel was owned by it on September 27, 2008, it claimed that the boat had been sold prior to the commencement of the Toney's action, and that a maritime lien had not been registered against it.
+[9]
+Justice Harrington struck out the
+in rem
+action against the rescue vessel, on the basis that the ownership of the vessel had not remained the same between the time the cause of action arose and the commencement of the action, as required by subsection 43(3) of the
+Federal Courts Act
+, RSC 1985, c F-7: see
+ <FRAGMENT_SUPPRESSED>  [2011] F.C.J. No. 1740, at para. 5 (
+Toney FC
+). However, Justice Harrington refused to strike the action as against Alberta
+in personam
+.
+[10]
+Insofar as the subject matter of the action was concerned, he noted that the action was "as maritime an action as one could have":
+Toney FC
+at para. 5.
+[11]
+On the question of jurisdiction over the person, Justice Harrington held that:
+This action falls within the federal legislative class of action of navigation and shipping, there is actual federal law to administer, and the administration of that law has been confided to this Court pursuant to section 22 of the
+Federal Courts Act
+[RSC 1985, c F-7] (
+ <FRAGMENT_SUPPRESSED> ). The fact that one of the Defendants is a provincial crown is irrelevant as this is not an action against the Crown as such under section 17 of the
+Federal Courts Act
+.
+[12]
+Noting that an action will not be dismissed on a motion to strike unless it is "plain and obvious that the case is bereft of a chance of success", Justice Harrington dismissed Alberta's motion.
+[13]
+Alberta then appealed Justice Harrington's decision to the Federal Court of Appeal. The Federal Court of Appeal observed that it was not disputed that the claim fell within the subject-matter jurisdiction of the Federal Court, given that it related to navigation and shipping and came within the express terms of paragraphs 22(2)(d) and (g) of the
+Federal Courts Act
+: see
+ <FRAGMENT_SUPPRESSED>  [2012] F.C.J. No. 705, at para. 3 [
+Toney Federal Court of Appeal
+].
+[14]
+The Federal Court of Appeal further noted that "Canadian Maritime Law" as defined in sections 2 and 42 of the
+Federal Courts Act
+would apply, including the
+Marine Liability Act
+. The Court observed that this latter Act expressly deals with damages for death, and the rights of dependants of deceased persons. Section 3 of the
+Marine Liability Act
+further provides that the Act is binding on her Majesty in Right of Canada or a province:
+Toney FCA
+at para. 3.
+[15]
+With respect to Alberta's contention that the Federal Court has no personal jurisdiction over it, the Federal Court of Appeal noted that none of the Federal Court of Appeal authorities relied upon by Alberta involved section 22 of the
+Federal Courts Act
+. The cases focused instead on the definition of "the Crown", as the term is used in section 17 or 23 of the Act:
+Toney FCA
+at para. 5.
+[16]
+The Federal Court of Appeal held that section 17 of the
+Federal Courts Act
+applied only to claims made by or against the Federal Crown, and did not apply to a claim made against a province:
+Toney FCA
+at para. 5. This finding was not, however, dispositive of the matter. It observed that the Plaintiffs' arguments based on the wording of section 22 and subsection 43(7) of the
+Federal Courts Act
+had not previously been considered by the Court. Nor had it had to consider the consequences of the exclusive grants of jurisdiction to the Federal Court in relation to certain matters.
+[17]
+As a consequence, the Federal Court of Appeal agreed with Justice Harrington that it was not "plain and obvious" that the Federal Court did not have personal jurisdiction over Alberta in this matter. Alberta's appeal was therefore dismissed:
+Toney FCA
+at para. 5.
+[18]
+After the Federal Court of Appeal rendered its decision in relation to Alberta's motion to strike, Alberta and the Plaintiffs were able to come to an agreement through the case management process that the issue of the Federal Court's jurisdiction over Alberta should be decided as a question of law in advance of the trial in this matter.
+Alberta's Arguments
+[19]
+Alberta submits that it enjoys both common-law and statutory Crown immunity. In particular, it relies on section 14 of the Alberta
+Interpretation Act
+, RSA 2000, c I-8, which provides that "[n]o enactment is binding on Her Majesty or affects Her Majesty or Her Majesty's rights or prerogatives in any manner, unless the enactment expressly states that it binds Her Majesty".
+[20]
+Alberta further contends that it cannot be bound by a federal statute unless it has been expressly named in the legislation, as is the case with respect to section 19 of the
+Federal Courts Act
+, dealing with inter-governmental disputes. Alberta does, however, acknowledge that jurisdiction may also lie where a province is bound by necessary implication, or it has waived its immunity:
+ <FRAGMENT_SUPPRESSED>  at para. 9.
+[21]
+Alberta recognizes that common-law Crown immunity has, in some cases, been abrogated by proceedings against the Crown legislation, and that the federal
+Crown Liability and Proceedings Act
+, RSC 1985, c C-50, allows for the federal Crown to be sued in tort in both the Federal Court and provincial Superior Courts. However, it contends that although section 5 of the Alberta
+Proceedings Against the Crown Act
+, RSA 2000, c P-25 allows the Province to be sued for claims based on various causes of action, the legislation does not explicitly address the jurisdiction of the Federal Court and is silent on the question of where the Province may be sued.
+[22]
+While accepting that the Alberta
+Judicature Act
+, RSA 2000, c J-2
+,
+does grant jurisdiction to the Federal Court in a limited number of cases such as controversies between the Province and Canada or between Alberta and other provinces, Alberta submits that none of these exceptions apply in this case.
+[23]
+Given that the Federal Court is a statutory Court, Alberta says that specific jurisdiction must be found in order for this Court to have jurisdiction over it in relation to this matter. Alberta points out that section 2 of the
+Federal Courts Act
+defines the "Crown" as meaning Her Majesty the Queen in Right of Canada, and further submits that a review of the Act as a whole does not demonstrate the necessary explicit intent that provincial Crowns are to be bound by the legislation.
+[24]
+In support of this contention, Alberta relies on the decision of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (C.A.) aff'd (1977), 72 D.L.R. (3d) 82. In
+Union Oil
+, the Federal Court of Appeal held that while the provisions of the
+Federal Court Act
+(as it was then known) which conferred jurisdiction on the Court by reference to subject matter were "broadly expressed", the provisions of the Ontario
+Interpretation Act
+, taken together with the references to the Crown in right of Canada in the
+Federal Court Act
+, were "sufficient to show that the traditional immunity of the Crown in right of the provinces from suit in its courts was not intended to be abrogated by the general descriptions of subject matter of jurisdiction in the
+Federal Court Act
+": at para. 4. See also
+ <FRAGMENT_SUPPRESSED> , 1 F.T.R. 270 at para. 10.
+[25]
+Alberta further submits that section 22 of the
+Federal Courts Act
+only confers
+subject-matter
+jurisdiction to the Federal Court, making no explicit reference to any Crown. According to Alberta, this reflects Parliament's intent that this provision not be binding on provincial Crowns.
+[26]
+In support of this argument, Alberta refers to the decision of this Court in
+ <FRAGMENT_SUPPRESSED>  113 F.T.R. 66 [ <FRAGMENT_SUPPRESSED> 1996], where Justice MacKay noted that whether the Court had subject-matter jurisdiction was a different question than whether the Court had jurisdiction over a particular party. In relation to this latter question, Justice MacKay stated that in his view, Parliament had implicitly precluded the Court from exercising jurisdiction over Her Majesty in right of a Province. Moreover, he was not persuaded that the Federal Court had
+in personam
+jurisdiction over a Minister or an agent of a Province solely by virtue of its jurisdiction over maritime law under the
+Federal Court Act
+: <FRAGMENT_SUPPRESSED> 1996 at paras. 20-21.
+[27]
+Alberta also relies upon this Court's decision in
+ <FRAGMENT_SUPPRESSED>  2004 FC 1696, [ <FRAGMENT_SUPPRESSED> ] which, the parties agree, is the closest case on facts to this one that either of the parties has been able to find. <FRAGMENT_SUPPRESSED> involved an action against a number of defendants for damages for wrongful death arising out of the sinking of a vessel in Hudson's Bay. Amongst other claims, the Plaintiffs alleged that various defendants associated with the Government of Nunavut, including Nunavut Emergency Services, were negligent in their response to the emergency situation.
+[28]
+The Court concluded in <FRAGMENT_SUPPRESSED> that the action did not involve a matter of Canadian maritime law, as the Plaintiffs' claim was grounded solely in the law of negligence. As a consequence, the Court found the claim to be beyond the subject-matter jurisdiction of the Federal Court. To this extent, the decision is clearly distinguishable, as Alberta has conceded that the Toney's claim relates to navigation and shipping and comes within the express provisions of paragraphs 22(2)(d) and (g) of the
+Federal Courts Act
+, with the result that this Court has concurrent jurisdiction with the Alberta Courts over the subject-matter of this action.
+[29]
+Insofar as the Nunavut defendants were concerned, the Court had regard to the wording of subsection 22(1) of the
+Federal Courts Act
+, which provides, in part, that "[t]he Federal Court has concurrent original jurisdiction,
+between subject and subject as well as otherwise
+, in all cases in which a claim for relief is made or a remedy is sought under or by virtue of Canadian maritime law ..." [my emphasis]. The Court observed that each of the Nunavut Defendants played a role in the governance and administration of the Territory and discharged public functions. Moreover, the Nunavut Defendants represented institutions of the Government of Nunavut and enjoyed the status of public authorities. The Court concluded that the Nunavut Defendants were therefore not "subjects", with the result that scrutiny of their actions was beyond the jurisdiction of the Federal Court: <FRAGMENT_SUPPRESSED> at para. 50.
+[30]
+Finally, while recognizing that section 3 of the Federal
+Marine Liability Act
+expressly states that the legislation is binding on the provinces, Alberta submits that there is nothing in the legislation that requires a province to submit to the jurisdiction of the Federal Court. The Act simply contemplates that actions be brought before a "court of competent jurisdiction". In this case, Alberta says that the court of competent jurisdiction is the Alberta Court of Queen's Bench. Given that it would have been open to the Toneys to commence their action in that Court, it follows that they would not, therefore, have been left without an avenue of recourse.
+Analysis
+[31]
+I do not understand there to be any material facts in dispute insofar as the jurisdictional issue is concerned. I also do not understand Alberta to dispute that this Court has concurrent jurisdiction with the Alberta Courts over the subject-matter of this action, given that the claim relates to navigation and shipping and comes within the express provisions of paragraphs 22(2)(d) and (g) of the
+Federal Courts Act
+.
+[32]
+However, for an action to be able to succeed in this Court, the Court must have jurisdiction over both the asserted cause of action
+and
+over the parties. These are two distinct questions: <FRAGMENT_SUPPRESSED> , above at para. 42.
+[33]
+Thus the question to be determined is whether this Court has
+in personam
+jurisdiction over Alberta in relation to this action.
+[34]
+Dealing first with Alberta's arguments based on section 14 of the Alberta
+Interpretation Act
+, that provision clearly states that no enactment will be binding on Alberta unless the enactment expressly states that it binds the Province. However, this section must be read in conjunction with section 3 of the
+Marine Liability Act
+. As the Federal Court of Appeal observed  <FRAGMENT_SUPPRESSED>  FCA
+, the
+Marine Liability Act
+expressly deals with damages for death, and the rights of dependants of deceased persons. Section 3 of the
+Marine Liability Act
+further provides that the Act "is binding on her Majesty in Right of Canada
+or a province
+" [my emphasis]:
+Toney FCA
+at para. 3.
+[35]
+Regard must also be had to subsection 22(1) of the
+Federal Courts Act
+, which provides, in part, that "The Federal Court has concurrent original jurisdiction, between subject and subject as well as otherwise, in all cases in which a claim for relief is made or a remedy is sought under or by virtue of Canadian maritime law".
+[36]
+As the Federal Court of Appeal observed in
+ <FRAGMENT_SUPPRESSED>  [2012] F.C.J. No. 1120, "[t]he general grant of maritime jurisdiction to the Federal Court ... is very broad, and includes any claim under or by virtue of Canadian maritime law or any other law of Canada relating to navigation or shipping": at para. 34. This would include claims under paragraph 22(2)(d) of the
+Federal Courts Act
+for damages or loss of life or personal injury caused by a ship. Moreover paragraph 22(2)(g) of the Act includes claims for loss of life or personal injury occurring in connection with the operation of a ship including claims resulting from a defect in a ship, or of the wrongful act, neglect or default of the owners, charterers or persons in possession or control of a ship.
+[37]
+I acknowledge that in <FRAGMENT_SUPPRESSED> 1996, this Court removed the Crown in Right of New Brunswick as a party in relation to a tort claim. However, the claim against the Province of New Brunswick as the mortgagee of the vessel continued to trial:
+ <FRAGMENT_SUPPRESSED>  135 FTR 290 (aff'd in 2001 FCA 238, [2001] F.C.J. No. 1162) [ <FRAGMENT_SUPPRESSED> 1997]. As has been noted by Prothonotary Lafrenière, these cases, when read together, appear to stand for the proposition that the Federal Court will have jurisdiction over a claim against a province where that province is the owner or mortgagee of a vessel, if the claim is a maritime claim: see
+The Administrator of the  <FRAGMENT_SUPPRESSED>  at para. 37 [
+Ship-Source
+].
+[38]
+I further recognize that in <FRAGMENT_SUPPRESSED> , this Court held that the Nunavut Defendants represented institutions of the Government of Nunavut and were not "subjects" for the purposes of subsection 22(1) of the
+Federal Courts Act
+: <FRAGMENT_SUPPRESSED> , at para. 50. See also
+ <FRAGMENT_SUPPRESSED>  at para. 8. However, the concurrent original jurisdiction conferred on this Court by subsection 22(1) of the
+Federal Courts Act
+is not limited to maritime law actions between subject and subject. The section specifically confers concurrent original jurisdiction in this Court in all cases in which a claim for relief is made or a remedy in maritime law actions "between subject and subject
+as well as otherwise
+" [my emphasis]. No consideration appears to have been given in <FRAGMENT_SUPPRESSED> to the implications of the words "
+as well as otherwise
+" as they appear in the provision.
+[39]
+In
+National Association of Broadcast Employees and  <FRAGMENT_SUPPRESSED>  the Federal Court of Appeal considered the meaning of similar language appearing in section 23 of the
+Federal Court Act
+. It observed that "as the only alternative to an action between subject and subject is an action between a public authority and a subject, the phrase 'as well between subject and subject as otherwise' means 'between subject and subject as well as between Her Majesty or the Attorney General
+or another public authority
+and a subject'
+": at para. 9 [my emphasis].
+[40]
+Moreover, section 43 of the
+Federal Courts Act
+, provides that "[s]ubject to subsection (4) [which relates to collisions between ships and has no application to this case], the jurisdiction conferred on the Federal Court by section 22 may in all cases be exercised
+in personam
+". Nothing in this provision precludes the exercise of the Court's
+in personam
+jurisdiction against a province.
+[41]
+Also of relevance to the analysis are subsections 43(7)(b) and (c) of the
+Federal Courts Act
+. Subsection 43(7)(b) states that "[n]o action
+in rem
+may be commenced in Canada against ... any ship owned or operated by Canada
+or a province
+, or any cargo laden thereon, where the ship is engaged on government service" [my emphasis]. Similarly, subsection 43(7)(c) provides that "[n]o action
+in rem
+may be commenced in Canada against ... any ship owned or operated by a sovereign power other than Canada, or any cargo laden thereon, with respect to any claim where, at the time the claim arises or the action is commenced, the ship is being used exclusively for non-commercial governmental purposes".
+[42]
+Presumably, the purpose of these provisions is to prevent the arrest of ships engaged in government service. The necessary implication of this provision is that an action
+in rem
+may be commenced in the Federal Court against a ship owned or operated by a province, where the ship is
+not
+engaged on government service. This could not, however, be the case for a ship owned by the Federal Crown, as a result of the operation of section 14 of the Federal
+Crown Liability and Proceedings Act
+, which prohibits
+in rem
+proceedings against the Federal Crown: see
+ <FRAGMENT_SUPPRESSED>  [2010] F.C.J. No. 1091, at para. 15. For the provision to have any meaning, it must, therefore, have been intended to apply to vessels owned by provinces.
+[43]
+I recognize that the
+in rem
+action against the Alberta vessel at issue in this proceeding has been struck out. Although Alberta no longer owns the vessel in question, this does not change the fact that the wording of subsection 43(7)(b) of the
+Federal Courts Act
+supports an interpretation of subsection 22(1) of the Act that the concurrent original jurisdiction conferred on this Court by section 22 encompasses claims against vessels owned by provincial Crown defendants.
+[44]
+Indeed, as Prothonotary Lafrenière observed in
+Ship-Source
+, "[t]he common law doctrine of sovereign immunity is preserved by section 43(7), but only where the ship is being used exclusively for non-commercial government service". I further agree with Prothonotary Lafrenière that "section 43(7)(c) would be unnecessary and meaningless if a provincial ship and a province as owner of a ship were generally exempted from the jurisdiction of the Federal Court": at para. 39.
+[45]
+Moreover, a statutory right
+in rem
+, unaccompanied by a maritime lien, does not lie unless the personal liability of the owner of the ship is engaged:
+ <FRAGMENT_SUPPRESSED>  366 N.R. 162)).
+[46]
+This Court's maritime law jurisdiction over the provinces, including Alberta, is further confirmed when regard is had to section 79(3)(b) of the
+Marine Liability Act
+, which contains a similar prohibition on
+in rem
+actions against provincially or federally-owned government ships engaged in government service. As counsel for the Toneys points out, if this Court did not have personal jurisdiction over a province as owner of a vessel, the section 79(3)(b) bar on
+in rem
+proceedings against provincially-owned vessels would be meaningless.
+[47]
+Moreover, the Federal Court clearly has exclusive
+in personam
+jurisdiction over provincial Crowns in relation to maritime claims in cases where a limitation fund is constituted, in accordance with the provisions of section 32 of the
+Marine Liability Act
+. Although this is not such a case, I agree with the Toneys that it does not make sense that a provincial Crown could be subject to the jurisdiction of this Court for damages resulting from one marine accident and not for another, based upon the size of the claim. The Federal Court either has
+in personam
+jurisdiction over provincial Crowns or it does not. In my view, it does.
+[48]
+My conclusion on the jurisdictional question is further confirmed when regard is had to section 22 of the Alberta
+Proceedings Against the Crown Act
+. This section provides that "[n]othing in this Act authorizes proceedings
+in rem
+in respect of any claim against the Crown or the seizure, attachment, arrest, detention or sale of any property of the Crown."
+[49]
+I do not understand Alberta to dispute the fact that Alberta law does not provide for
+in rem
+proceedings to be brought in the Province's courts. However, it is a generally accepted principle of statutory interpretation that every legislative provision is intended to have meaning:
+R v. Proulx
+, 2000 SCC 5, [2000] 1 S.C.R. 61 at para 28. In light of the absence of
+in rem
+proceedings in Alberta, the only way that section 22 of the Alberta
+Proceedings Against the Crown Act
+could have any meaning would be if it related to proceedings taken against the provincial Crown in this Court.
+[50]
+Also relevant is section 4 of the Alberta
+Proceedings Against the Crown Act
+, which addresses the rights of citizens to sue the Provincial Crown. This provision states that "[a] claim against the Crown that, if this Act had not been passed, might be enforced by petition of right ... may be enforced as of right by proceedings against the Crown in accordance with this Act, without the grant of a fiat by the Lieutenant Governor". Section 5 of the Act expressly allows the Province to be sued for claims based on a variety of causes of action which would arguably include claims asserted in this case.
+[51]
+Regard must also be had to section 8 of the
+Proceedings Against the Crown Act
+which provides that "[e]xcept as otherwise provided in this Act, all proceedings against the Crown
+in any court
+shall be instituted and proceeded with in accordance with the relevant law governing the practice in that court." [my emphasis] No attempt is made in the legislation to define the term "Court" or to limit the bringing of claims against the Province to the Courts of Alberta.
+[52]
+This language should be contrasted with comparable provisions in the proceedings against the Crown legislation of other provinces. For example, section 10 of Nova Scotia's
+Proceedings against the Crown Act
+, RSNS 1989, c 360 provides that "[n]othing in this Act authorizes proceedings against the Crown
+except in the Supreme Court or a county court
+" [my emphasis]. Similarly, subsection 4(1) of the British Columbia
+Crown Proceedings Act
+, RSBC 1996, c 89, has been interpreted as requiring that actions against the Province of British Columbia be instituted in the British Columbia Supreme Court: see
+ <FRAGMENT_SUPPRESSED> 
+;
+[2001] A.J. No. 609 at para. 15.
+Conclusion
+[53]
+As a consequence, I have concluded that this Court has
+in personam
+jurisdiction over Alberta in this matter.
+[54]
+I am further satisfied that the Toneys should have their costs of this motion. Having regard to the novelty and complexity of the issues raised by this matter, their costs should be assessed at the upper end of Column IV of the table to Tariff B, together with their reasonable disbursements.
+ORDER
+[55]
+THIS COURT DECLARES that
+:
+1. This Court has
+in personam
+jurisdiction over Alberta in this matter; and
+2. The Toneys shall have their costs of this motion, assessed at the upper end of Column IV of the table to Tariff B, together with their reasonable disbursements.
+Order accordingly.
+Editor: J. Danielle King/klf

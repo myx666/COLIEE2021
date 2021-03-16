@@ -1,0 +1,325 @@
+I.
+Introduction
+[1]
+Snider, J.
+: The Applicant, Immunex Corporation, (Immunex) holds Canadian Letters Patent 2,123,593 (the '593 Patent), a use patent entitled "Method of Treating TNF-Dependent Inflammation Using Tumor Necrosis Factor Antagonists." Immunex markets the drug etanercept under the tradename ENBREL for treating certain forms of arthritis, ankylosing spondylitis, and moderate to severe plaque psoriasis. Immunex has approval to market ENBREL in two different dosage forms or drug products: (a) as a 25 mg/vial of lyophilized powder for reconstitution (the powder product); and (b) 50 mg/mL solution for injection (the solution product), which is packaged in a 50 mg or 25 mg prefilled syringe.
+[2]
+Since 2000 and in accordance with the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 as amended (
+NOC Regulations
+), the '593 Patent has been listed on the Patent Register, in respect of the powder product.
+[3]
+In December 2006, Amgen Canada Inc. (Amgen), acting on behalf of Immunex, submitted patent lists to the Office of Patented Medicines and Liaison (OPML) in respect of the '593 Patent for the 25 mg/vial powder and the 50 mg/mL solution, with supplemental new drug submission (SNDS) 110292. It sought to use s. 4.1(2) of the recently-amended
+NOC Regulations
+to "carry-forward" the '593 Patent for both the powder and solution products.
+[4]
+In a decision dated June 25, 2008, the Minister of Health (the Minister) refused to add the '593 Patent, in respect of the liquid product, to the Patent Register. In this application for judicial review, Immunex seeks an order requiring the Minister to include the '593 Patent on the Register in respect of SNDS 110292 for etanercept 50 mg/mL solution for injection in a pre-filled syringe as of August 21, 2007, the date that an NOC issued for SNDS 110292, and in the alternative, as of another appropriate date, with costs.
+II.
+Issues
+[5]
+The two issues raised in this application are:
+1) Did the Minister err in his interpretation of s. 4.1 (2) of the
+NOC Regulations
+when he determined that the '593 Patent was not eligible for "carry forward" listing on the Register with respect to SNDS 110292 for the solution product?
+2) If the Minister erred in refusing to list the '593 Patent, should this Court order the Minister to add the patent to the Register, effective August 21, 2007?
+[6]
+For the reasons set out below, I have determined that the Minister correctly interpreted s. 4.1(2) of the
+NOC Regulations
+and that the application for judicial review should be dismissed. There is, therefore, no need to address the second issue.
+III.
+Background
+[7]
+The chronology of events related to the '593 Patent and the issues before me in this application as follows:
+• Immunex filed a New Drug Submission (NDS) 059168 on November 25, 1998, seeking approval for the powder product for the treatment of rheumatoid arthritis.
+• The '593 Patent was granted on or around March 16, 2000.
+• On September 19, 2000, a new drug identification number (DIN) 02242903 was assigned to the powder product. A DIN is an essential requirement to market a drug product; it identifies the drug product characteristics - such as strength and form of the product.
+• Immunex received a Notice of Compliance (NOC) on December 1, 2000 for NDS 059168.
+• On April 13, 2000, a patent list was submitted for listing on the Patent Register in respect of NDS 059168 for the powder product. It was subsequently added to the Register.
+• On July 24, 2003, Amgen Canada Inc. (Amgen), Immunex's Canadian agent, filed a Supplemental New Drug Submission (SNDS) 085746 seeking approval for a new indication of the drug (treatment of chronic plaque psoriasis). As this submission was in backlog, some time later, Health Canada invited Amgen to file an update to the submission. Amgen did so, seeking additional approval for a new formulation and new strength, namely the 50mg/mL solution, pre-filled syringe or solution product.
+• As the 50 mg/mL solution was a new drug product, it was assigned a new DIN 02274728.
+• The NOC for SNDS 085746 was issued on December 20, 2005.
+• On December 1, 2006, Amgen filed SNDS 110292, seeking approval for a new manufacturing site and a new presentation, namely, a new 25 mg pre-filled syringe. The 25 mg prefilled syringe was considered to be a new presentation and not a new drug product; as such, it retained the same DIN as the 50 mg prefilled syringe.
+• In December 2006, Amgen submitted patent lists to the Office of Patented Medicines and Liaison (OPML) in respect of the '593 Patent, the 25 mg/vial powder and 50 mg/mL solution, with SNDS 110292. They sought to use s. 4.1(2) of the recently amended
+NOC Regulations
+to "carry-forward" the '593 Patent in respect of both the powder and solution products.
+• The NOC in respect of SNDS 110292 was issued on August 21, 2007.
+[8]
+In a letter dated August 28, 2007, OPML notified Immunex that, in relation to SNDS 110292, the '593 Patent would be added to the Register in respect of the powder product, but not in respect of the solution product. A series of communications followed.
+[9]
+In his final decision letter, dated June 25, 2008, the Minister maintained the position that the patent was not eligible for listing on the Patent Register under s. 4.1(2) of the
+NOC Regulations
+with respect to SNDS 110292. The following factual findings appear to underlie the reasoning:
+"On August 21, 2007 the notice of compliance issued for SNDS 110292, which approved an additional manufacturing facility and new presentation. By letter dated August 28, 2007 the OPML reviewed the patent list submitted for SNDS 110292 and found that the '346 patent was eligible for listing on the Patent Register in accordance with subsection 4.1(2) of the
+PM(NOC) Regulations
+. However, it was our view that the '593 patent was ineligible for listing under subsection 4.1(2) of the
+PM(NOC) Regulations
+because the '593 patent was not previously listed on the Patent Register with respect to the notice of compliance dated December 20, 2005 that approved SNDS 085746 for a new indication, a new formulation and a new strength, namely, the 50 mg/mL subcutaneous solution, pre-filled syringe."
+[10]
+The Minister's main consideration was compliance with the timing requirements under the
+NOC Regulations
+. The Minister's reasoning was that, if that the OPML did not apply the concept of product specificity, then patents which were out of time for listing would still gain the protection of the regulations through an application for listing under the "carry forward" provisions of s. 4.1(2) of the
+NOC Regulations
+. Specifically, listing the '593 Patent against SNDS 110292 would result in a circumvention of the timing requirements of the
+NOC Regulations
+as the patent was not listed against the submission that first approved the second (solution) formulation (SNDS 085746). Therefore, the Minister relied upon the concept of product specificity in order to prevent use of the carry-forward provision to circumvent the timing requirements.
+IV.
+Statutory Framework
+[11]
+It is important to keep in mind the overall scheme of the
+NOC Regulations
+and the rights that these regulations give to patentees, which rights extend beyond those afforded by the
+Patent Act
+, R.S.C. 1985, c. P-4.
+[12]
+In order to market a drug in Canada, the drug manufacturer must submit a New Drug Submission (NDS) to the Minister pursuant to Part C, Division 8 of the
+Food and Drug Regulations
+, C.R.C., c. 870. If the Minister is satisfied with the drug's efficacy and safety, a Notice of Compliance (NOC) will be issued. A party who has received an NOC may file a Supplementary New Drug Submission (SNDS) if it intends to make changes to the approved drug.
+[13]
+The public Patent Register, which provides a link between the
+Food and Drug Regulations
+and the
+NOC Regulations
+, is an essential element of the statutory scheme. Listing of a patent provides significant benefits to the listing party ( <FRAGMENT_SUPPRESSED>  at paras. 5-7).
+[14]
+The listing requirements as set out in ss. 4 and 4.1 of the
+NOC Regulations
+, and as amended by the
+Regulations Amending the Patented Medicines (Notice of Compliance) Regulations
+, SOR/2006-242 (the 2006 Amendments), are as follows:
+"4(1) A first person who files or who has filed a new drug submission or a supplement to a new drug submission may submit to the Minister a patent list in relation to the submission or supplement for addition to the register.
+"(2) A patent on a patent list submitted under subsection (1) in relation to a new drug submission is eligible to be added to the register if the patent contains
+(a) a claim for the medicine itself, and
+(i) if that claim is for a medicinal ingredient, that ingredient has been approved through the issuance of a notice of compliance in respect of that submission, or
+(ii) if that claim is for a formulation that consists of medicinal and non-medicinal ingredients, that formulation has been approved through the issuance of a notice of compliance in respect of that submission; or
+(b) a claim for the use of the medicine and that use has been approved through the issuance of a notice of compliance in respect of that submission.
+"(3) A patent on a patent list in relation to a supplement to a new drug submission is eligible to be added to the register if the supplement is for a change in formulation, a change in dosage form or a change in use of the medicinal ingredient, and
+(a) in the case of a change in formulation, the patent contains a claim for the changed formulation that has been approved through the issuance of a notice of compliance in respect of the supplement;
+(b) in the case of a change in dosage form, the patent contains a claim for the changed dosage form that has been approved through the issuance of a notice of compliance in respect of the supplement; or
+(c) in the case of a change in use of the medicinal ingredient, the patent contains a claim for the changed use of the medicinal ingredient that has been approved through the issuance of a notice of compliance in respect of the supplement.
+"4.1(1) In this section, 'supplement to the new drug submission' means a supplement to a new drug submission as that term is used in Division 8 of Part C of the Food and Drug Regulations.
+"(2) A first person who submits a patent list in relation to a new drug submission referred to in subsection 4(2) may, if the list is added to the register, resubmit the same list in relation to a supplement to the new drug submission, but may not submit a new patent list in relation to a supplement except in accordance with subsection 4(3)."
+"4(1) La première personne qui dépose ou a déposé la présentation de drogue nouvelle ou le supplément à une présentation de drogue nouvelle peut présenter au ministre, pour adjonction au registre, une liste de brevets qui se rattache à la présentation ou au supplément.
+"(2) Est admissible à l'adjonction au registre tout brevet, inscrit sur une liste de brevets, qui se rattache à la présentation de drogue nouvelle, s'il contient, selon le cas:
+a) une revendication de l'ingrédient médicinal, l'ingrédient ayant été approuvé par la délivrance d'un avis de conformité à l'égard de la présentation;
+b) une revendication de la formulation contenant l'ingrédient médicinal, la formulation ayant été approuvée par la délivrance d'un avis de conformité à l'égard de la présentation;
+c) une revendication de la forme posologique, la forme posologique ayant été approuvée par la délivrance d'un avis de conformité à l'égard de la présentation;
+d) une revendication de l'utilisation de l'ingrédient médicinal, l'utilisation ayant été approuvée par la délivrance d'un avis de conformité à l'égard de la présentation.
+"(3) Est admissible à l'adjonction au registre tout brevet, inscrit sur une liste de brevets, qui se rattache au supplément à une présentation de drogue nouvelle visant une modification de la formulation, une modification de la forme posologique ou une modification de l'utilisation de l'ingrédient médicinal, s'il contient, selon le cas:
+a) dans le cas d'une modification de formulation, une revendication de la formulation modifiée, la formulation ayant été approuvée par la délivrance d'un avis de conformité à l'égard du supplément;
+b) dans le cas d'une modification de la forme posologique, une revendication de la forme posologique modifiée, la forme posologique ayant été approuvée par la délivrance d'un avis de conformité à l'égard du supplément;
+c) dans le cas d'une modification d'utilisation de l'ingrédient médicinal, une revendication de l'utilisation modifiée de l'ingrédient médicinal, l'utilisation ayant été approuvée par la délivrance d'un avis de conformité à l'égard du supplément.
+"4.1(1) Au présent article, 'supplément à une présentation de drogue nouvelle' s'entend au sens du titre 8 de la partie C du Règlement sur les aliments et drogues.
+"(2) La première personne qui présente une liste de brevets se rattachant à la présentation de drogue nouvelle visée au paragraphe 4(2) peut, si cette liste est ajoutée au registre, la présenter de nouveau à l'égard de tout supplément à cette présentation de drogue nouvelle; elle ne peut toutefois présenter de nouvelle liste se rattachant à un supplément donné qu'en conformité avec le paragraphe 4(3)."
+[15]
+Drug manufacturers are subject to strict timing deadlines for the listing of a patent. The 2006 Amendments did not change the timing requirement with respect to the submission of a patent for listing as found in ss. 4(5) and 4(6) (previously in ss. 4(3) and 4(4)):
+"4(5) Subject to subsection (6), a first person who submits a patent list must do so at the time the person files the new drug submission or the supplement to a new drug submission to which the patent list relates.
+"(6) A first person may, after the date of filing of a new drug submission or supplement to a new drug submission, and within 30 days after the issuance of a patent that was issued on the basis of an application that has a filing date in Canada that precedes the date of filing of the submission or supplement, submit a patent list, including the information referred to in subsection (4), in relation to the submission or supplement."
+"4(5) Sous réserve du paragraphe (6), la première personne qui présente une liste de brevets doit le faire au moment du dépôt de la présentation de drogue nouvelle ou du supplément à une présentation de drogue nouvelle qui s'y rattachent.
+"(6) La première personne peut, après la date de dépôt de la présentation de drogue nouvelle ou du supplément à une présentation de drogue nouvelle et dans les trente jours suivant la délivrance d'un brevet faite au titre d'une demande de brevet dont la date de dépôt au Canada est antérieure à celle de la présentation ou du supplément, présenter une liste de brevets, à l'égard de cette présentation ou de ce supplément, qui contient les renseignements visés au paragraphe (4)."
+V.
+Analysis
+[16]
+Immunex's key arguments may be summarized as follows:
+1. On a "plain" reading of s. 4.1(2), the '593 Patent is eligible for listing;
+2. The Minister erred by requiring that the DIN of the drug product of the SNDS (the liquid formulation) be the same as that of the drug product;
+3. The "name change" or "timing" jurisprudence relating to the
+NOC Regulations
+existing prior to the 2006 Amendments is not applicable to an interpretation of s. 4.1; and
+4. If Immunex is not permitted to list the '593 Patent with respect to the liquid product, it will have been unjustly denied an opportunity to do so.
+[17]
+In the analysis that follows, I will consider each of these arguments. However, I will first discuss the applicable standard of review, and the modern rule of statutory interpretation.
+A.
+Standard of Review
+[18]
+This application involves the interpretation of s. 4.1 of the
+NOC Regulations
+. I accept, as was found by the Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  at para. 33 and acknowledged by the parties, that the appropriate standard of review for the question of statutory interpretation is correctness.
+B.
+Rule of Statutory Interpretation
+[19]
+It is well-established that the modern rule of statutory interpretation should be used to interpret provisions of the
+NOC Regulations
+(
+ <FRAGMENT_SUPPRESSED>  at para. 37,
+ <FRAGMENT_SUPPRESSED>  at para. 26). This is the approach that I will use. As was described by Elmer Driedger in
+Construction of Statutes
+(2nd Ed.) (Toronto: Butterworths, 1983), at 87, and as cited with approval by the Supreme Court of Canada in
+Rizzo & Rizzo Shoes Ltd. (Bankrupt), Re
+, [1998] 1 S.C.R. 27; 221 N.R. 241; 106 O.A.C. 1, at paragraph 21:
+"Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament."
+C.
+The "Plain" Meaning and the Rule of Statutory Interpretation
+[20]
+One step in the analysis required for statutory interpretation is to review the "ordinary sense" of the words of a provision in question. Immunex argues that there is a legal presumption that legislation is accurate and drafted to reflect the author's intention (Sullivan, Ruth,
+Sullivan and Driedger on the Construction of Statutes
+(4th Ed.) (Markham: Butterworths Canada Ltd., 2002), at 130;
+ <FRAGMENT_SUPPRESSED>  Man.R.(2d) 302, at 509). On this basis, Immunex submits that the ordinary meaning of the words in s. 4.1 is clear and that, under the ordinary or defined (within the
+NOC Regulations
+) meaning, the '593 Patent is eligible for listing.
+[21]
+For ease of reference, s. 4.1(2) broken down into its components is as follows:
+A first person:
+• who submits a patent list in relation to a new drug submission referred to in subsection 4(2) may,
+• if the list is added to the register,
+• resubmit the same list in relation to a supplement to the new drug submission,
+• but may not submit a new patent list in relation to a supplement except in accordance with subsection 4(3).
+[22]
+Immunex points to the following sequence of reasoning:
+• Immunex submitted a patent list of the '593 Patent in relation to an NDS (that is, NDS 059168, filed November 25, 1998);
+• The patent list was added to the Patent Register;
+• SNDS 110292 constitutes a "supplement to the new drug submission", within the meaning of that term in s. 4.1(1);
+• The exception that the first person "may not submit a new patent list in relation to a supplement except in accordance with subsection 4(3)", is inapplicable. The reference to a "new patent list" must refer to a list relating to a new patent, and Immunex is not seeking to submit a new patent in relation to an SNDS. Rather, they are seeking to relist the same '593 Patent in relation to SNDS 110292.
+[23]
+Thus, Immunex asserts, its patent list for the '593 Patent submitted as part of SNDS 110292 meets the explicit requirements of s. 4.1(2) and does not fall within the exception.
+[24]
+It appears that the words of s. 4.1(2) could bear the meaning asserted by Immunex. However, this is not the end of the interpretation analysis. The problem with Immunex's argument is that it fails to have regard to the modern principle or approach to matters of statutory interpretation. While the "plain" meaning must be considered, the words of the provision in issue must be considered in their entire context, in a manner which harmonizes their ordinary meaning with the scheme, object and intention of the legislation. For this reason, I turn to a broader review of the context of the provision. This, in turn necessitates an understanding of the operation of the
+NOC Regulations
+and, in particular, requirements for listing.
+[25]
+For the purposes of this application, it is relevant to review the requirements for listing under s. 4 of the
+NOC Regulations
+as they existed both before and after the enactment of the 2006 Amendments. A review of the pre-2006
+Regulations
+highlights the intended purpose of the timing requirements for patent listing. It also provides the basis upon which we can understand the applicable case law.
+[26]
+Under s. 4 of the pre-2006
+Regulations
+, an innovator who filed a submission or had been issued an NOC in respect of a drug that contained a medicine could submit a patent list for listing. Patents could only be added to the Register if they met the timing requirements found in s. 4(3) and s. 4(4). Essentially, a first person was required to submit a patent list for filing at the time that they file a submission for an NOC. The only exception was when an innovator made the submission but the patent had not yet been issued. In that scenario, the innovator could apply to list the patent within 30 days of the granting of the patent.
+[27]
+The broad wording of s. 4 led to unintended results, one of which was that, when read in its plain wording, it potentially allowed drug companies to circumvent the timing requirements for filing. Even if the deadline for listing a patent in respect of a drug submission had passed, innovators could nonetheless get the patent list added to the Register by simply making an additional SNDS, which would form the basis for another opportunity to submit the patent list. Since an SNDS could be filed in relation to a wide range of changes, from the substantive (for example, change in formulation) to the administrative (for example, change in brand name, manufacturing site), innovators could extend the relevant deadline for patent list filing whenever they made a submission for an inconsequential administrative change.
+[28]
+This issue and the proper interpretation of s. 4 sparked much litigation between 1999 and 2006. I shall refer to these cases as the "timing cases". In very clear terms, courts declined to adopt a reading of s. 4 which would have led to the circumvention of the timing requirements. ( <FRAGMENT_SUPPRESSED> ; 199 F.T.R. 142 (T.D.); affd. (2002), 288 N.R. 24; 2002 FCA 32,
+ <FRAGMENT_SUPPRESSED>  (the
+Herceptin
+case);
+ <FRAGMENT_SUPPRESSED> .)
+[29]
+The listing requirements of the
+NOC Regulations
+received a substantial facelift by the enactment of the 2006 Amendments. Section 4(3) now states that a patent list may be added to the patent register in relation to a supplement to a new drug submission only where the supplement is for a change in formulation, a chance in dosage form or a change in use of the medicinal ingredient (i.e. substantive changes to the drug). The timing requirements previously found in ss. 4(3) and 4(4) have been kept intact and are contained in ss. 4(5) and 4(6). Section 4.1 was also added. To assist in understanding the 2006 Amendments, it is helpful to turn to the Regulatory Impact Analysis Statement (RIAS) which accompanied those Amendments.
+[30]
+A general statement of the overall objective of the Patent Listing Requirements of the
+NOC Regulations
+is contained in the RIAS which accompanied the 2006 Amendments. At p. 1511-1512 of the RIAS, the following statement is made:
+"Considering the societal imperative of encouraging new and better medical therapies, and the difficulties associated with protecting pharmaceutical patent rights by way of conventional infringement litigation, the
+PM(NOC) Regulations
+are intended to operate as a very potent patent enforcement mechanism. The 24-month stay under the regulations serves that purpose by providing innovator companies with the means to pre-empt the market entry of suspected patent infringers. At the same time, it is this very potency which calls for moderation in the application of the
+PM(NOC) Regulations
+, lest their effect dominate that of early-working and defeat the overall purpose of the policy. As has been observed by the courts on numerous occasions, the
+PM(NOC) Regulations
+are a special enforcement remedy which exists in addition to, not in lieu of, the right to pursue an action for patent infringement
+"Consistent with this understanding of the
+PM(NOC) Regulations
+is the fact that not every patent pertaining to an approved drug qualifies for enforcement under the scheme. Only those patents which meet the current timing, subject matter and relevance requirements set out in section 4 of the regulations are entitled to be added to Health Canada's patent register and to the concurrent protection of the 24-month stay. ...
+"By stipulating that the application filing date of the patent precede the date of the corresponding drug submission, the timing requirement promotes a temporal connection between the invention sought to be protected and the product sought to be approved. This ensures that patents for inventions discovered after the existence of a product do not pre-empt generic competition on that product. ..."
+"En considérant le besoin vital de la société d'encourager la création de nouveaux traitements médicaux améliorés, sans oublier les problèmes associés à la protection des droits conférés par les brevets pharmaceutiques au moyen d'une action en contrefaçon ordinaire, le règlement de liaison se veut un mécanisme très puissant dans l'application des droits conférés par un brevet. La suspension de 24 mois prévue par le règlement atteint cet objectif en permettant aux innovateurs d'empêcher l'entrée sur le marché des produits génériques concurrents dont ils soupçonnent de contrefaçon. En revanche, c'est ce même pouvoir qui doit être modéré dans l'application du règlement de liaison, faute de quoi les effets de celui-ci l'emporteraient sur ceux de la fabrication anticipée et empêcheraient l'atteinte du but général de la politique. Comme l'ont observé les tribunaux à maintes reprises, le règlement de liaison constitue un mécanisme d'application spécial supplétif et non substitut au droit d'intenter une action en contrefaçon.
+"Il s'ensuit que ce ne sont pas tous les brevets protégeant une drogue approuvée qui peuvent se prévaloir du mécanisme d'application prévu par le règlement de liaison. Seuls les brevets respectant les exigences énoncées à l'article 4 du règlement relatives au délai, à l'objet et à la pertinence, peuvent être inscrits au registre des brevets de Santé Canada et bénéficier de la protection correspondante de la suspension de 24 mois. ...
+"En stipulant que la date de dépôt de la demande de brevet doit précéder celle de la demande d'avis de conformité correspondante, l'exigence relative au délai procure un lien temporel entre l'invention que l'on cherche à protéger et le produit visé par la demande d'approbation. Ceci permet de faire en sorte que les brevets protégeant des inventions dont la découverte est postérieure à l'existence d'une drogue n'empêchent pas l'arrivée sur le marché de versions génériques de cette même drogue. ..."
+[31]
+As reflected in the RIAS, the changes embodied in the 2006 Amendments were intended to reaffirm "the requirements innovators must meet to list patents" (RIAS, p. 1515) and to "further [entrench] the concept of product specificity as the key consideration required of the Minister in applying the listing requirements under section 4 of the
+PM(NOC) Regulations
+" (RIAS, p. 1516). The purpose of both the s. 4 amendments and s. 4.1 are described in the RIAS, at p. 1518:
+"The amendments to section 4 also formally confirm the right to list new patents on the basis of SNDS filings and introduce listing requirements governing that right. Under these requirements, a patent which has been applied for prior to the filing of an SNDS may be submitted in relation to that SNDS provided the purpose of the latter is to obtain approval for a change in use of the medicinal ingredient (i.e. a new method or use or new indication), a change in formulation or a change in dosage form and the patent contains a claim to the formulation, dosage form or use so changed. ...
+"In keeping with existing practice, the amendments to section 4 include a provision expressly allowing innovators to carry forward patent lists submitted in relation to a NDS by resubmitting them in relation to a supplement to that NDS. A finding of ineligibility in respect of one patent on a patent list should not prevent the carrying forward of the remaining patents on that list."
+"De plus, les modifications relatives à l'article 4 confirment formellement le droit d'inscrire de nouveaux brevets en se fondant sur des dépôts de SPDN et instaurent des exigences régissant ce droit. Selon ces exigences, un brevet ayant une date de dépôt antérieure au dépôt d'un SPDN peut être soumis à l'égard de ce SPDN à condition que ce dernier ait pour objet l'approbation d'un changement relatif à l'utilisation de l'ingrédient médicinal (c.-à-d. un nouveau mode d'utilisation ou une nouvelle indication), d'un changement relatif à la formulation ou d'un changement relatif à la forme posologique et que le brevet comporte une revendication relative à la formulation, à la forme posologique ou à l'utilisation ainsi modifiée. ...
+"Conformément à la pratique établie, les modifications relatives à l'article 4 comportent une disposition autorisant expressément les innovateurs à reporter les listes de brevets soumises se rattachant à une PDN en les soumettant à nouveau en relation avec un supplément à cette PDN. Une conclusion de non-admissibilité d'un brevet apparaissant sur une liste de brevets ne doit pas empêcher le report des autres brevets sur cette liste."
+[32]
+The issue of timing has always been important to the proper functioning of the NOC regime. Although one of the key objectives of the
+NOC Regulations
+is to give additional patent protection to innovator drug companies, this protection is only obtainable if innovators adhere to certain time deadlines. Specifically, a patent can only be added to the Register and obtain NOC protection if the application for listing is made within the applicable time deadlines.
+[33]
+The RIAS and the overall wording of s. 4 and s. 4.1 make it clear there was no intent to eliminate the timing requirements. Indeed, the statement that "Only those patents which meet the current timing, subject matter and relevance requirements set out in section 4 of the
+Regulations
+are entitled to be added to Health Canada's patent register and to the concurrent protection of the 24-month stay" (RIAS, p. 1511) is a clear statement that the timing requirements would remain as a key concept.
+[34]
+I also observe that the RIAS refers to s. 4 and s. 4.1 collectively, expressing the intent that the listing requirements of s. 4.1 should be read together with s. 4.
+[35]
+Accordingly, an interpretation of s. 4.1(2) that would permit a circumvention of the timing requirements would be at odds with the scheme of the
+NOC Regulations
+and should not be accepted.
+D.
+The DIN Requirement
+[36]
+Immunex submits that the Minister erred by adopting an interpretation of s. 4.1, which allowed the patent list to be carried-forward only if the DIN of the drug product of the SNDS (the liquid formulation) is the same as that of the drug product approved in the original NDS.
+[37]
+In various letters to Immunex, the Minister presented their position by referencing portions of Health Canada's Guidance Document:
+Patented Medicines (Notice of Compliance) Regulations
+(December 13, 2007- File Number: 07-128353-235), which stated:
+"Therefore, in the narrow circumstances of subsection 4.1(2),
+a patent on a patent list that has been added to the Patent Register in respect of a new drug submission under subsection 4(2) will be 'carried forward' only in respect of a supplement for the same drug product - in most cases, a product with the same identification number ('DIN').
+If the supplement is for a change in formulation, a change in dosage form or a change in use of the medicinal ingredient, patents claiming the formulation, dosage form or use of the medicinal ingredient will not be 'carried forward' unless they meet the requirements of drug product specificity." (Emphasis added)
+"Par conséquent, dans les rares circonstances du paragraphe 4.1(2),
+un brevet inscrit à une liste qui a été ajoutée au registre en ce qui a trait à une présentation de drogue nouvelle aux termes du paragraphe 4(2) sera 'reporté' seulement à l'égard d'un supplément pour la même drogue - la plupart du temps, un produit avec la même identification numérique (DIN)
+. Si le supplément vise une modification de la formulation, de la forme posologique éléments ne seront pas 'reportés' à moins qu'ils ne répondent aux exigences de la spécificité d'une drogue." (Non souligné dans l'original)
+[38]
+As a result of the Minister's use of the phrase, "in most cases, a product with the same identification number", Immunex assumes that the Minister has read-in a requirement for DIN-equivalence, such that a patent may only be listed in respect of an SNDS if the drug product of that SNDS had the same DIN as that of the drug product approved by the NDS. Based on its understanding of the Minister's position, Immunex submits that this leads to an absurd result because it means that patents could only be resubmitted to the Register for the same drug product. Immunex made further submissions to the effect that the Minister's insistence on DIN-equivalence was tied to the issue of "relevance". Since the '593 Patent was "relevant" to the drug submission for both the powder and the solution products, the requirement for drug product specificity had been met, without the need the achieve DIN-equivalence.
+[39]
+In my opinion, Immunex's submissions on this point are based on a mischaracterization of the Minister's reasoning for refusing to list the patent. As is clear from the Minister's June 25, 2008 letter, the OPML did not apply a DIN-specific analysis; the assignment of a DIN was only one factor used in determining if a patent list was eligible to be carried-forward.
+[40]
+I do not read the Guidance Document as requiring the same DIN in all circumstances. As noted in the document and emphasized by the Minister's counsel in oral submissions, the DIN will often be the same, making it obvious that s. 4.1(2) applies. However, the guiding factor is not the DIN; rather, under the Minister's interpretation of s. 4.1(2), there must be a link between the subject matter of the patent and the submission in respect of the drug for which listing is sought.
+[41]
+I would therefore reject the Applicant's arguments to the extent that they claim that the Minister's position is wrong because it relied on a DIN-specific analysis. The Minister refused the application for listing in 2006 on the basis that doing so would allow the Applicant to circumvent the timing requirements for listing, and not on the basis that the liquid product had a different DIN.
+E.
+Applicability of the Timing Cases
+[42]
+Immunex submits that the pre-2006 Amendments jurisprudence, as reflected in the timing cases, is not applicable to the present case for two reasons. First, unlike the provisions that were dealt with in the timing cases, the ordinary meaning of the words used in s. 4.1 is clear and, therefore, the provision should be given its plain meaning. Second, those cases dealt with refusals to list patents due to the administrative nature of the SNDS. Since the current
+NOC Regulations
+now specify that patents can only be listed against SNDSs in respect of certain changes (specifically, dosage form, formulation, use of the medicinal ingredient), the old jurisprudence is no longer applicable.
+[43]
+In my opinion, Immunex is reading the timing cases too narrowly. The overarching principle enunciated in the timing cases is that the
+NOC
+Regulations
+should not be interpreted so as to permit innovators to list an otherwise time-barred patent on the basis of submissions for administrative changes such as changes to the brand name or drug manufacturing site. Otherwise, drug companies would be given infinite numbers of extensions of the filing deadline because they would be able to make up for missed listing opportunities by simply filing an SNDS for something like a name change or - as here - a new manufacturing site. In effect, it would permit patent holders to enhance the advantage they obtained under the
+Regulations
+, by allowing the circumvention of timing requirements. In the timing cases, this was found to be inconsistent with the statutory scheme. As stated by Justice Sharlow in the
+Herceptin
+case, above, at para. 25:
+"A change in the name of drug or a drug manufacturer, or a change of a manufacturing site, cannot possibly be relevant to any potential claim for infringement of a patent for a medicine found in the drug. There is no justification for permitting patent holders to use such a change to enhance the advantage they obtain under the
+Patented Medicines (Notice of Compliance) Regulations
+."
+[44]
+The 2006 Amendments did not change this principle. The timing cases remain relevant to the present case. Immunex sought, in December 2006, to list the '593 Patent in respect of the liquid product even though the liquid product had been approved for use in December 2005. In effect, Immunex used the change of a manufacturing site as an excuse to bring forward the liquid product in spite of the fact that the liquid product had already been approved for use in 2005. Immunex's motivation in doing so is obvious; in oral submissions, Immunex admitted that, as of 2003, the solution formulation of etanercept was "exposed" and more vulnerable to patent infringement because it was not listed on the Patent Register.
+F.
+Opportunity to List
+[45]
+As described above, in 2003, Amgen, on behalf of Immunex, filed SNDS 085746 for approval of a new indication. The application was part of a backlog in the OPML. Some time before December 2005 (the exact timing is not known), Amgen was "invited" to update its application. In response to this invitation, Amgen added the request to obtain approval for the 50 mg/mL product. Thus, a new DIN was assigned to the liquid product and the NOC, when it finally issued on December 20, 2005, included the liquid product. The '593 Patent was
+not
+submitted on a patent list with respect to the liquid product as included in the updated SNDS 085746. The question arises as to whether the liquid product could have been listed at that time.
+[46]
+Much of Immunex's argument rests on its assertion that it could not have listed the liquid product at the time of the SNDS 085746. Since the new formulation was filed by way of an update, there was no opportunity to list the patent in respect of the solution formulation. To support this argument, the Applicant relies on the cross-examination of Ms. Anne Bowes, the Acting Director of the OPML, on her affidavit. Accordingly, it argues, if not permitted to list the patent in respect of the liquid product as part of SNDS 110292, it would never be able to list this innovative new product.
+[47]
+In my view, this argument fails. A key distinction must be made here between an opportunity that was not available and one that was simply missed by Immunex. In Ms. Bowes' cross-examination, she stated that Immunex could have sought to list the patent at the time that the update was made to the SNDS for the change in formulation. To do so, Immunex (or Amgen) would have had to submit a Form 4 patent list for the solution product in addition to submitting a
+new
+SNDS for the change in formulation. Immunex's position appears to be that they were somehow misled by the OPML staff; Immunex accepted the offer to file an update without being informed that doing so would deprive it of the opportunity to file any patent list in connection with the update.
+[48]
+This constitutes a missed
+,
+as opposed to an unavailable or non-existent, opportunity. There were procedures available to the Applicant to submit an SNDS for the new formulation and to file a patent list at that time. However, these procedures were not complied with. Immunex had an opportunity to list the '593 Patent in respect of the solution product; it missed this opportunity.
+[49]
+Even if I accept Immunex's argument that it could not list the '593 Patent in respect of the liquid product before its SNDS 110292, it seems to me that the question is not highly relevant to the interpretation of s. 4.1(2). Whether Immunex could or could not list the '593 Patent under the pre-2006
+Regulations
+does not assist in the interpretation of the current
+NOC Regulations
+and, in particular, the "carry forward" provision - a brand new concept introduced by the 2006 Amendments. There was no intent that the 2006 Amendments would provide an opportunity for a patentee to gain protection for every missed or unavailable listing opportunity.
+V.
+Conclusion
+[50]
+In summary, Immunex's interpretation would lead to an absurd result. Specifically, it would permit some patent lists to be added to the Register based on supplemental submissions related to administrative changes. This, in spite of the fact that the patent holder had failed to apply for listing when it made the first drug submission in respect of a new formulation, dosage form or use of the medicinal ingredient (i.e. characteristics which are relevant to a potential claim in infringement).
+[51]
+While the "plain" meaning of s. 4.1(2) of the
+NOC Regulations
+may support the listing of the '593 Patent in respect of the liquid product, such interpretation fails to have regard to the entire context of s. 4.1(2). The better interpretation of the provision is that in which the words are read to prevent the listing of a patent that would circumvent the timing requirements.
+[52]
+In this case, I conclude that the Minister properly required drug product specificity in order to give effect to the timing requirement. This ensured that the only time that the '593 Patent could be listed in respect of the new formulation would be at the time of the first submission related to that formulation. In my view, this was the correct approach.
+[53]
+In conclusion, the application will be dismissed, with costs to the Minister
+JUDGMENT
+[54]
+THIS COURT ORDERS AND ADJUDGES that
+:
+1. The application for judicial review is dismissed with costs to the Minister.
+Application dismissed.
+Editor: Giovanni A. Merlini/clh
+[End of document]

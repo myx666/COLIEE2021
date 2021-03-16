@@ -1,0 +1,544 @@
+Gandhi v. Can. Border Services Agency, [DATE_SUPPRESSED] F.T.R. TBEd. MY.001
+MLB being edited
+Currently being edited for F.T.R. - judgment temporarily in rough form.
+Gandhi Jean Pierre (applicant) v. Canada Border Services Agency (respondent)
+(T-1582-13; DATE_SUPPRESSED FC 436)
+Indexed As: Gandhi v. Canada Border Services Agency
+Temp. Cite: [DATE_SUPPRESSED] F.T.R. TBEd. MY.001
+Federal Court
+Bédard, J.
+April 10, DATE_SUPPRESSED.
+Counsel:
+Gandhi Jean Pierre, self-represented;
+Léa Bou Karam, for the respondent.
+Solicitors of Record:
+William F. Pentney, Deputy Attorney General of Canada, Montreal, Quebec, for the respondent.
+Summary:
+The headnote and the decision for this document are in preparation. Any footnotes found in this case will appear below end of document.
+[1]
+Bédard, J.
+: This is an application for judicial review of a decision made on August 27, 2013, by John Mooney, Vice-Chairperson of the Public Service Staffing Tribunal (the Tribunal), wherein he dismissed the applicant́s complaint pursuant to paragraph 77(1)(
+a
+) of the
+Public Service Employment Act
+, SC 2003, c 22, ss 12, 13 (the PSEA). In his complaint, the applicant claimed that he was eliminated from an internal appointment process because of an abuse of authority by the assessment board. For the reasons that follow, the application is dismissed.
+I.
+Preliminary issues
+A. Style of cause
+[2]
+The respondent submits that under subsections 303(1) and 303(2) of the
+Federal Courts Rules
+, SOR/98-106 (the Rules), it is the Attorney General of Canada, not the Canada Border Services Agency (the CBSA), that should be identified as respondent in the case at bar. The respondent cites Justice Mary J. L. Gleason in
+REFERENCE_SUPPRESSED in support of its position.
+[3]
+The applicant opposes this application.
+[4]
+Paragraph 303(1)(
+a
+) of the Rules provides that persons directly affected by the order sought, other than the tribunal, must be named as respondents. Under subsection 303(2) of the Rules, if no respondent is appointed in application of subsection (1), the Attorney General of Canada must then be named respondent.
+[5]
+CITATION_SUPPRESSED
+involved an application for judicial review of a Tribunal decision in which the applicant had named as respondents the Deputy Minister of Justice and the Public Service Commission (PSC). Justice Gleason indicated, at paragraph 11 of her judgment, that the PSC should not have been named as respondent because it did not necessarily have an adversarial role before the Tribunal and would not necessarily be impacted by the order sought in the application for judicial review. As for the Deputy Minister of Justice, Justice Gleason indicated that the individual who performs this duty is not analogous to the employer or the staffing authority at the Department of Justice, and moreover was not directly affected by the object of the motion. She therefore concluded that only the Attorney General of Canada should be named respondent on judicial review of a decision of the Tribunal.
+[6]
+The background of the case at bar is somewhat different. The applicant named as respondent the CBSA, the agency within which the appointment process was held. The CBSA is thus the employer and as such would be affected by an order allowing the application for judicial review. Moreover, the CBSA has been established pursuant to subsection 3(1) of the
+Canada Border Services Agency Act
+, SC 2005, c 38, and has legal personality. It therefore constitutes, in my opinion, a person "directly affected by the order sought" within the meaning of paragraph 303(1)(
+a
+) of the Rules, and is properly named as respondent in these proceedings.
+B. The applicant`s affidavit and the exhibits filed in support of his affidavit
+[7]
+The applicant filed an affidavit in support of his application for judicial review. In its memorandum, the respondent asks the Court to strike several paragraphs in the applicant's affidavit on the ground that these paragraphs do not attest facts, but concern the applicant's opinions and arguments, or concern information that was not before the Tribunal. At the hearing, the respondent moreover indicated that it was leaving the matter up to the Court's discretion.
+[8]
+Like the respondent, I think the applicant's affidavit contains facts mixed with opinions and arguments that should not be there. Subsection 81(1) of the Rules requires that affidavits "be confined to facts within the deponent's personal knowledge." The Court may thus strike, in whole or in part, an affidavit containing opinions, arguments or legal conclusions (REFERENCE_SUPPRESSED). Paragraphs 30, 31, 34-39, 40-44, 52, 59, 60, 80-82, 87, 94, 97-102 and 105-107 of the applicant's affidavit include not only facts but also arguments.
+[9]
+Moreover, I think it would be tedious to separate out the facts from the arguments to strike only the portions of the affidavit that really refer to arguments and opinions. Suffice it to say that I shall consider only those parts of the applicant's affidavit that concern facts of which he has personal knowledge and that are relevant because they were before the Tribunal or because they are cited in support of the grounds mentioned by the applicant in his application for judicial review.
+[10]
+In its memorandum, the respondent also opposed filing Exhibits CF-32, CF-53, CF-88, CF-90, CF-91 and CF-92 because these exhibits were not before the Tribunal.
+[11]
+At the hearing of the complaint before the Tribunal, the applicant tried to lead Exhibits CF-32 and CF-53 in evidence, but the respondent objected to filing them and the Tribunal allowed its objections.
+[12]
+Exhibit CF-32 includes, in a bundle, exchanges of emails concerning a mediation meeting pertaining to another complaint the applicant had filed with the Tribunal in July 2009 concerning another appointment process, and the memorandum of settlement signed on December 11, 2009, at the time of the mediation.
+[13]
+Exhibit CF-53 includes an email dated September 15, 2008, addressed to the employees of the Quebec Region of Citizenship and Immigration Canada (CIC) announcing various appointments, including that of Dianne Clément to the position of Director, Pre-Removal Risk Assessment (PRRA) and Client Service (CS). Exhibit CF-53 also includes a second email sent by Ms. Clément on July 27, 2012, in which she announces her retirement. The applicant maintains that these emails reveal many professional connections between Ms. Clément and the CBSA.
+[14]
+It is well established that in principle, the record of evidence that must be filed with the Court in an application for judicial review shall be limited to what was available to the administrative tribunal when it rendered its decision. There are, however, exceptions to this principle, in particular where additional evidence is associated with allegations of breach of procedural fairness. The approach to take was clearly stated by Justice David Stratas in
+REFERENCE_SUPPRESSED:
+[20] There are a few recognized exceptions to the general rule against this Court receiving evidence in an application for judicial review, and the list of exceptions may not be closed. These exceptions exist only in situations where the receipt of evidence by this Court is not inconsistent with the differing roles of the judicial review court and the administrative decision-maker (described in paragraphs 17-18, above). In fact, many of these exceptions tend to facilitate or advance the role of the judicial review court without offending the role of the administrative decision-maker. Three such exceptions are as follows:
+...
+(b) Sometimes affidavits are necessary to bring to the attention of the judicial review court procedural defects that cannot be found in the evidentiary record of the administrative decision-maker, so that the judicial review court can fulfil its role of reviewing for procedural unfairness:
+e.g.
+,
+REFERENCE_SUPPRESSED. For example, if it were discovered that one of the parties was bribing an administrative decision-maker, evidence of the bribe could be placed before this Court in support of a bias argument.
+[15]
+At the hearing, the respondent withdrew its objections concerning Exhibits CF-32 and CF-53, and recognized their relevance to the applicant's allegations of breach of procedural fairness. I agree with the parties that Exhibits CF-32 and CF-53 were filed by the applicant to support of his allegations that the Tribunal breached procedural fairness, and as such, they are admissible.
+[16]
+I think the same may be said of Exhibits CF-88, CF-90, CF-91 and CF-92.
+II.
+Background
+[17]
+The applicant is an immigration officer with CIC, but between November 15, 2010, and October 28, 2011, he held the position of acting PRRA officer in the PRRA division of CIC. In December 2010, the CBSA started an internal advertised appointment process for the position of hearing officer, in order to create a pool of qualified candidates to meet the possible needs of the CBSA's Enforcement Division in Montréal.
+[18]
+The assessment board for this appointment process was chaired by Khalid Meniaï, a supervisor in the CBSA's Enforcement Division. The other members of the assessment board were hearing officers Catherine Raymond and Réjean Théberge. Anne-Marie Signori, manager of the Enforcement division, was also involved in the process because she was the manager to whom the CBSA had subdelegated staffing authority. The members of the assessment board were assisted by Miruna Vasilescu, who acted as human resources advisor.
+[19]
+The applicant submitted his application in this appointment process, but was eliminated by the assessment board because he did not obtain the pass mark required for three of the essential personal qualifications. A pass mark of 60% had been set for each essential qualification being assessed. According to the assessment plan for the process, the personal qualifications of "judgment", "effective interpersonal relationships" and "integrity" were to be assessed in an interview and through a reference check, and an overall mark was given for each of the qualifications. The fourth personal qualification involved, "reliability", was to be assessed solely through a reference check.
+[20]
+The applicant received excellent marks on the interview, namely 88% for "judgment", 98% for "effective interpersonal relations" and 100% for "integrity". However, his marks fell significantly after the references were checked. He thus received an overall mark of 50% for the qualifications of "judgment" and "integrity" and 60% for "effective interpersonal relationships". As for the "reliability" qualification, which was only assessed by the reference check, the applicant obtained a mark of 44%. He was thus eliminated from the process because he had not obtained the pass mark for the three essential qualifications of "judgment", "integrity" and "reliability".
+[21]
+For the purposes of checking references, the appointment process provided that candidates had to supply the names of two individuals who would act as referees, namely their immediate supervisor and a second person of their choice. The applicant gave the name of Cathie Giroux, who was his supervisor for his assignment as PRRA officer, and the name of Sophie Kobrynsky, who had been his immediate supervisor for about six months when he held the position of citizenship and immigration officer.
+[22]
+The assessment board first consulted Ms. Giroux, who provided a very negative reference concerning the applicant. Faced with this negative reference, which was hard to reconcile with the applicant's performance in the interview, the assessment board contacted Ms. Kobrynsky, who provided a very positive reference. Since the references obtained from Ms. Giroux and Ms. Kobrynsky were contradictory, the assessment board decided to proceed with additional checks with a senior manager, namely Ms. Clément, who was the regional director of the CIC Enforcement Division and Ms. Giroux's immediate supervisor. It was Ms. Signori who met with Ms. Clément. Ms. Clément provided references similar to those provided by Ms. Giroux. She noted, however, that the applicant had trouble performing in the position of PRRA officer, but that he had been a good employee in the other positions he had held at CIC.
+[23]
+After deliberation, the assessment board accepted the observations of Ms. Giroux and Ms. Clément, and did not assign the applicant the pass mark for the three essential personal qualifications concerned. The following passage, under the heading "reliability" of the selection board's book (pages 483-484 of the respondent's record), provides a very good summary of the analysis that the assessment board made of the references provided by the three referees:
+[translation]
+The selection board, having obtained very negative information from Ms. Giroux, thought it appropriate, in all fairness, to call upon Ms. Kobrynsky (2nd reference given by the candidate). The responses thus obtained proved to be contradictory. We therefore contacted Ms. Clément, the candidate's former manager, to make sure that Ms. Giroux did not have a personal conflict with the candidate. Ms. Clément's reference confirmed the information obtained from Ms. Giroux. We did not think that the positive reference provided by Ms. Kobrynsky was relevant, since the period when she supervised the applicant was short and occurred after the fact. The candidate's duties at Citizenship had nothing to do with Enforcement. There are, however, a number of similarities between the duties of a PRRA officer and of a hearing officer. After reviewing all the documents on the record, the Committee concluded that the candidate did not have the degree of reliability required to perform the duties of a hearing officer.
+[24]
+After receiving a letter advising him that he had been eliminated from the appointment process, the applicant asked to participate in an informal discussion with the assessment board, as allowed by section 47 of the PSEA. In this discussion, the applicant raised concerns about the impartiality of Ms. Giroux and Ms. Clément, and asked the board to consider a portfolio he had brought with him, which contained performance assessments, letters of appreciation and certificates of recognition, all obtained during his career at CIC. The assessment board refused to consider this portfolio out to ensure that it assessed all candidates consistently. Following this discussion, the applicant asked the assessment board to consult another referee or consider the portfolio he had brought to the informal discussion. The assessment board acknowledged receipt of the request and informed the applicant of his right to file a complaint with the Tribunal.
+[25]
+On July 3, 2012, the CBSA posted an appointment notice, which announced the acting appointment of an individual other than the applicant to the position of hearing officer.
+[26]
+On July 19, 2012, the applicant filed his complaint with the Tribunal.
+III.
+Legislative framework
+[27]
+The PSEA establishes the public service appointment processes and the recourse mechanisms available to federal public servants.
+[28]
+The fifth paragraph of the preamble of the PSEA provides that the authority to make appointments is vested in the PSC, which may then delegate this authority to deputy heads (see also section 11 and subsection 29(1) of the PSEA).
+[29]
+The second paragraph of the preamble and subsection 30(1) of the PSEA provide that appointments to the public service must be based on merit and free of political influence. To ensure that appointments are based on merit, the PSC or, as the case may be, the deputy heads must comply with the parameters set out in subsection 30(2) of the PSEA. These subsections read as follows:
+30. (1) Appointments by the Commission to or from within the public service shall be made on the basis of merit and must be free from political influence.
+Meaning of merit
+(2) An appointment is made on the basis of merit when
+(a) the Commission is satisfied that the person to be appointed meets the essential qualifications for the work to be performed, as established by the deputy head, including official language proficiency; and
+(b) the Commission has regard to
+(i) any additional qualifications that the deputy head may consider to be an asset for the work to be performed, or for the organization, currently or in the future,
+(ii) any current or future operational requirements of the organization that may be identified by the deputy head, and
+(iii) any current or future needs of the organization that may be identified by the deputy head.
+30. (1) Les nominations - internes ou externes - à la fonction publique faites par la Commission sont fondées sur le mérite et sont indépendantes de toute influence politique.
+Définition du mérite
+(2) Une nomination est fondée sur le mérite lorsque les conditions suivantes sont réunies:
+a) selon la Commission, la personne à nommer possède les qualifications essentielles - notamment la compétence dans les langues officielles - établies par l'administrateur général pour le travail à accomplir;
+b) la Commission prend en compte:
+(i) toute qualification supplémentaire que l'administrateur général considère comme un atout pour le travail à accomplir ou pour l'administration, pour le présent ou l'avenir,
+(ii) toute exigence opérationnelle actuelle ou future de l'administration précisée par l'administrateur général,
+(iii) tout besoin actuel ou futur de l'administration précisé par l'administrateur général.
+[30]
+In an internal appointment process, government employees whose application has not been accepted have certain forms of recourse, which are also fully set out in the PSEA. Paragraph 77(1)(
+a
+) of the PSEA, which is at issue in the case at bar, provides that a government employee may file a complaint with the Tribunal for abuse of authority. Paragraph 77(1)(
+a
+) states:
+77. (1) When the Commission has made or proposed an appointment in an internal appointment process, a person in the area of recourse referred to in subsection (2) may - in the manner and within the period provided by the Board's regulations - make a complaint to the Board that he or she was not appointed or proposed for appointment by reason of
+(a) an abuse of authority by the Commission or the deputy head in the exercise of its or his or her authority under subsection 30(2);
+77. (1) Lorsque la Commission a fait une proposition de nomination ou une nomination dans le cadre d'un processus de nomination interne, la personne qui est dans la zone de recours visée au paragraphe (2) peut, selon les modalités et dans le délai fixés par règlement de la Commission des relations de travail et de l'emploi, présenter à celle-ci une plainte selon laquelle elle n'a pas été nommée ou fait l'objet d'une proposition de nomination pour l'une ou l'autre des raisons suivantes:
+a) abus de pouvoir de la part de la Commission ou de l'administrateur général dans l'exercice de leurs attributions respectives au titre du paragraphe 30(2);
+[31]
+Abuse of authority is not exhaustively defined in the PSEA but is referred to in subsection 2(4): "For greater certainty, a reference in this Act to abuse of authority shall be construed as including bad faith and personal favouritism."
+[32]
+Moreover, the Tribunal's jurisdiction is limited. When a complaint is brought before it pursuant to paragraph 77(1)(
+a
+) of the PSEA, the Tribunal must determine whether there has been an abuse of authority in the appointment process. However, it does not have jurisdiction to deal with allegations of fraud in the appointment process or allegations that an appointment resulted from the exercise of political influence (subsection 77(3) of the PSEA). The PSC has exclusive jurisdiction over such allegations (sections 68 and 69 of the PSEA). To dispose of a complaint, the Tribunal may interpret and apply the
+Canadian Human Rights Act
+, RSC 1985, c. H-6 (the CHRA), other than, however, the provisions relating to the right to equal pay for work of equal value (section 80 of the PSEA).
+[33]
+If the Tribunal finds a complaint under section 77 to be substantiated, the Tribunal may order the Commission or the deputy head to revoke the appointment or not to make the appointment, as the case may be, and to take any corrective action that the Tribunal considers appropriate (section 81 of the PSEA).
+IV.
+The impugned decision
+[34]
+In his complaint, the applicant made various criticisms of the assessment board. The Tribunal stated the issues before it as follows:
+13 In order to determine whether the respondent abused its authority in the application of merit in this appointment process, and more specifically in the assessment of the complainant's qualifications, the Tribunal must decide the following issues:
+(i) Was the assessment board's choice of referees appropriate?
+(ii) Were the references given reliable?
+(iii) Were the assessment board members impartial?
+(iv) Was the assessment board required to re-assess the complainant?
+(v) Did the referees and assessment board members discriminate against the complainant?
+[35]
+The Tribunal first dealt with the concept of abuse of authority and, after weighing the evidence, concluded that the applicant had not established that the assessment board had abused its authority in eliminating him from the process. The Tribunal also determined that the assessment board was justified in accepting Ms. Giroux and Ms. Clément as referees, and that the applicant had not established that the references that they had provided were not reliable or were biased against him. The Tribunal also determined that the assessment board was under no obligation to re-examine the applicant's application in light of the documents contained in his portfolio. The Tribunal further concluded that the applicant had not provided
+prima facie
+evidence that Ms. Giroux or Ms. Clément, or the assessment board, had discriminated against him. The Tribunal added that even if this had been proved, the CBSA had shown that no discriminatory consideration had been taken into account in the committee's decision not to accept the applicant as a candidate.
+V.
+Issues and standards of review
+[36]
+The applicant makes several criticisms of the Tribunal, but in my opinion, these criticisms raise two categories of issues.
+[37]
+The first issues raised by the applicant concern allegations that the Tribunal breached the rules of procedural fairness. It is well established that the standard of review applicable to issues of procedural fairness is that of correctness (
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED). I moreover share the approach advocated by Justice Richard G. Mosley in
+REFERENCE_SUPPRESSED, according to which the Court's role is, in the final analysis, to check whether the process has been fair. Justice Mosley held as follows:
+[35] In my view, the proper approach is to ask whether the requirements of procedural fairness and natural justice in the particular circumstances have been met. The question is not whether the decision was "correct" but whether the procedure used was fair. ...
+[38]
+The other grounds the applicant relies on all concern the Tribunal's application of the concept of abuse of authority within the meaning of the PSEA and of discrimination under the CHRA. These are mixed questions of fact and law, and jurisprudence has established that such questions must be reviewed on the standard of reasonableness (
+CITATION_SUPPRESSED;
+CITATION_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+CITATION_SUPPRESSED;
+CITATION_SUPPRESSED).
+[39]
+I agree however, as Justice Gleason puts it in
+CITATION_SUPPRESSED
+, at paragraph 39, that it is conceivable that issues involving the Tribunal's interpretation of the provisions of the PSEA must be reviewed according to the correctness standard. Justice Gleason addressed the issue as follows:
+[39] While certain of the statements in
+Kane
+,
+CITATION_SUPPRESSED
+,
+CITATION_SUPPRESSED
+, and
+CITATION_SUPPRESSED
+also support the application of the reasonableness standard to the review of the PSST's interpretation of the CHRA, Mr. Agnaou's argument that deference should not be extended to the PSST's interpretation of the CHRA or the EEA may have merit since there are other Tribunals, namely the CHRC and the Canadian Human Rights Tribunal [CHRT], which are specifically mandated to interpret these statutes. As Mr. Agnaou argues, if the PSST (and the Public Service Labour Relations Board [PSLRB] ) are to be afforded deference in their interpretations of the CHRA and the EEA, there is a real possibility that conflicts will appear in the jurisprudence, with fundamental rights being interpreted in one fashion for public servants when they appear before the PSEA or the PSST and in another fashion by the CHRC and CHRT in other contexts. Moreover, the Federal Court of Appeal has recently held in
+REFERENCE_SUPPRESSED that the CHRT's interpretation of the CHRA, in terms of defining what is meant by "discrimination", is subject to review on a correctness standard. Thus, there is considerable weight to the argument that the PSST's interpretation of what conduct amounts to discrimination under the CHRA is to be reviewed on a correctness standard.
+[40]
+I consider, however, that the standard of review applicable to the Tribunal's interpretation of the PSEA in connection with the applicant's allegations of discrimination is not decisive in the case at bar because in my view, the Tribunal's decision contains no error that would warrant the court's intervention, regardless of the standard of review applied.
+VI.
+Analysis
+A. Did the PSST breach its duty of procedural fairness?
+[41]
+The applicant maintains that Ms. Giroux and Ms. Clément provided unfavourable references regarding him as payback because, on certain occasions, he had tried to assert his rights. He also alleged that Ms. Clément was not impartial because of earlier complaints he had filed, in particular a complaint filed with the Tribunal regarding an appointment process in 2009 and another complaint of unfair labour practices filed with the Public Service Labour Relations Board (PSLRB). He also asserts that Ms. Clément had a great deal of influence in the CBSA.
+[42]
+The applicant maintains that the Tribunal deprived him of his right to lead in evidence documents that were central to his allegations, and that it also prevented him from making a complete and effective presentation of his arguments concerning the prevailing context of reprisals.
+[43]
+Let me clarify at the outset that although questions associated with procedural fairness must be reviewed on the correctness standard, the jurisprudence recognizes that fairness obligations vary with the context and that some deference must be given to the procedural choices that an administrative tribunal may make. The Tribunal is master of its own proceedings (sections 98, 99 and 109
+(b)
+of the PSEA and section 27 of the
+Public Service Staffing Complaints Regulations
+, SOR/2006-6). The approach to take has been clearly stated by Justice John M. Evans in
+REFERENCE_SUPPRESSED:
+[37] In the absence of statutory provisions to the contrary, administrative decision makers enjoy considerable discretion in determining their own procedure, including aspects that fall within the scope of procedural fairness:
+REFERENCE_SUPPRESSED, at pages 568-569. These procedural aspects include: whether the "hearing" will be oral or in writing, a request for an adjournment is granted, or representation by a lawyer is permitted; and the extent to which cross-examination will be allowed or information in the possession of the decision maker must be disclosed. Context and circumstances will dictate the breadth of the decision maker's discretion on any of these procedural issues, and whether a breach of the duty of fairness occurred.
+...
+[39] That said, administrative discretion ends where procedural unfairness begins:
+CITATION_SUPPRESSED. A reviewing court must determine for itself on the correctness standard whether that line has been crossed. There is a degree of tension implicit in the ideas that the fairness of an agency's procedure is for the courts to determine on a standard of correctness, and that decision makers have discretion over their procedure.
+...
+[42] In short, whether an agency's procedural arrangements, general or specific, comply with the duty of fairness is for a reviewing court to decide on the correctness standard, but in making that determination it must be respectful of the agency's choices. It is thus appropriate for a reviewing court to give weight to the manner in which an agency has sought to balance maximum participation on the one hand, and efficient and effective decision making on the other. In recognition of the agency's expertise, a degree of deference to an administrator's procedural choice may be particularly important when the procedural model of the agency under review differs significantly from the judicial model with which courts are most familiar.
+[See also
+REFERENCE_SUPPRESSED]
+[44]
+In
+CITATION_SUPPRESSED
+, Justice Gleason had the opportunity to examine the extent of the Tribunal's authority when it deals with the admissibility of evidence, and I share the viewpoint she expressed:
+[102] As the Supreme Court of Canada stated in
+REFERENCE_SUPPRESSED, and as this Court noted in
+Scheuneman
+and
+Teeluck
+, labour tribunals are to be afforded considerable discretion in their assessments of admissibility of evidence. Thus, it will be rare that the refusal to allow evidence will be so significant that it will amount to a denial of procedural fairness; indeed, such a finding may only be made where the evidence in question is central to the position of a party (as it was in
+REFERENCE_SUPPRESSED).
+[45]
+It can happen that the rejection of relevant evidence results in a breach of the rules of procedural fairness if the evidence in question was relevant and if the impact of its rejection was such that it tainted the fairness of the process. As Justice Lamer noted in
+REFERENCE_SUPPRESSED:
+[46] For my part, I am not prepared to say that the rejection of relevant evidence is automatically a breach of natural justice. A grievance arbitrator is in a privileged position to assess the relevance of evidence presented to him and I do not think it is desirable for the courts, in the guise of protecting the right of parties to be heard, to substitute their own assessment of the evidence for that of the grievance arbitrator. It may happen, however, that the rejection of relevant evidence has such an impact on the fairness of the proceeding, leading unavoidably to the conclusion that there has been a breach of natural justice.
+[46]
+I must therefore determine whether the procedure followed by the Tribunal and the manner in which it treated the admissibility of the evidence were fair, and whether the applicant had an opportunity to express his point of view and participate fully in the decision-making process.
+[47]
+I am now going to deal with the applicant's specific allegations.
+(1) Did the Tribunal breach its duty of procedural fairness in refusing to admit certain exhibits in evidence?
+[48]
+The applicant argues that in allowing the objections made by the respondent regarding Exhibits CF-32 and CF-53, the Tribunal prevented him from entering evidence that was central to his allegations of bias on the part of Ms. Clément and to the context of payback of which he was a victim.
+[49]
+As I have already mentioned, Exhibit CF-32 contains, in a bundle, emails concerning a mediation meeting regarding a complaint that the applicant had filed with the Tribunal on July 15, 2009. This complaint concerned an appointment process for PRRA officer positions in CIC. The complaint was settled through a mediation process, and the memorandum of settlement was signed on December 11, 2009.
+[50]
+At the hearing before the Tribunal, the respondent objected to the filing of the memorandum of settlement on the ground that it was protected by the privilege relating to the confidentiality of the mediation process. The Tribunal allowed its objection.
+[51]
+The applicant argues that this evidence was relevant to show the Ms. Clément's partiality and hostility towards him, and to show that he had a history of disputes with her concerning another appointment process. The applicant also wanted to show that this was not the first time that he had been a target of irregularities in the form of discrimination and barriers to employment and to his professional development. More specifically, the applicant also maintains that the documents contained in Exhibit CF-32 establish that Ms. Clément acted as chairperson in the appointment process that led to the filing of his complaint in 2009. He also claims that this exhibit contradicts the Tribunal's assertion, in paragraph 53 of its decision, that "the complainant did not present any evidence that Ms. Clément was part of the other assessment board".
+[52]
+Before the Tribunal, the applicant also wished to introduce Exhibit CF-53 at the pleadings stage. As I have already indicated, Exhibit CF-53 contains an email dated September 15, 2008, addressed to the employees of the Quebec Region of CIC announcing various appointments to the CIC regional office, including the appointment of Ms. Clément to the position of Director, PRRA and CS. Exhibit CF-53 also includes a second email sent by Ms. Clément on July 27, 2012, announcing her retirement.
+[53]
+The respondent objected to the filing of this exhibit on the ground that no witness had been called regarding these emails, and the Tribunal allowed the objection.
+[54]
+The applicant maintains that these emails show the many professional ties between Ms. Clément and the CBSA. In her letter announcing her retirement, Ms. Clément thanks her CBSA colleagues for their collaboration and partnership. The applicant maintains that this document shows the significant influence that Ms. Clément had with the CBSA managers.
+[55]
+I shall first address Exhibit CF-32. Paragraph 50 of the Tribunal's decision shows that it clearly understood the applicant's argument:
+[50] The complainant submits that Ms. Clément was biased against him because she had been the chair of the assessment board in another appointment process and that he had filed a complaint with the Tribunal regarding that process. He later withdrew the complaint. According to the complainant, Ms. Clément provided negative comments about him as payback for his complaint in the other appointment process.
+[56]
+I have read the documents produced in a bundle under Exhibit CF-32. One can infer from these that Ms. Clément was in fact involved in the appointment process that was the subject of the 2009 complaint and in the mediation process that led to the withdrawal of this complaint. However, the documents do not show that she had acted as chair of the assessment board, but this detail is not important. As for the memorandum of settlement, it shows that the applicant withdrew his complaint in a context of settlement and [translation] "with a view to maintaining collaboration between the Department and the complainant."
+[57]
+I agree that the Tribunal indicated that the applicant had not presented any evidence showing that Ms. Clément was a part of the assessment board. It did, however, add that even if it had been established that Ms. Clément was a part of the assessment board, this fact did not establish an appearance of bias. The Tribunal also noted that Ms. Clément had declared, in her testimony, that she had never had any disputes with the applicant.
+[58]
+I consider that the refusal to allow this exhibit to be filed did not result in a breach of the rules of procedural fairness. In the first place, in its alternative conclusion on the matter, the Tribunal found that Ms. Clément's participation in the appointment process leading to the complaint did not prove an appearance of bias. I also share this point of view. Nothing in the documents of Exhibit CF-32 allows one to infer an appearance of bias or a reasonable apprehension of bias against the applicant on the part of Ms. Clément. The very most one can infer is that Ms. Clément was involved in an appointment process in 2009 that led to the filing of a complaint by the applicant, and that this complaint was subsequently settled. This type of situation is common in labour relations, and it cannot be inferred from it that a manager loses his or her impartiality towards an employee because the employee has filed a complaint, a grievance or some other recourse.
+[59]
+It is my view, then, that even if the documents of Exhibit CF-32 had been admitted in evidence, they do not support the applicant's allegations and would not have been likely to influence the Tribunal's decision.
+[60]
+I think that the same conclusions apply to the emails in Exhibit CF-53. The fact that Ms. Clément was a senior manager is not disputed. The fact that she held a position of director since 2008 and had had professional ties to the CBSA managers does not allow one to infer that she showed bias when she provided references regarding the applicant's performance, or that her observations raise a reasonable apprehension of bias. Moreover, the Tribunal's decision not to allow this exhibit to be filed at the pleadings stage because they had not been introduced by any witness was reasonable. Finally, the refusal to admit these documents in evidence was inconsequential because they did not support the applicant's allegations.
+(2) Did the Tribunal breach procedural fairness in not giving the applicant an opportunity to properly present his arguments pertaining to the payback context?
+[61]
+The applicant claims that the Tribunal did not allow him to lead in evidence and fully assert his allegations regarding the context of payback of which he claims he was a victim, and that the Tribunal did not consider the evidence for this payback context, although this was central to his allegation of bias on the part of Ms. Giroux and Ms. Clément. The applicant further maintains that the Tribunal wrongly refused his motion to suspend the proceeding until his complaint of unfair labour practices concerning Ms. Clément's assistant had been dealt with by the PSLRB.
+[62]
+In so far as the applicant claims there was an error in the assessment of the evidence, namely that the Tribunal failed to consider some evidence concerning the payback context or did not sufficiently deal with these allegations in its decision, I think that these arguments concern the reasonableness of the Tribunal's decision rather than procedural fairness. Consequently, I will deal with it farther on in my analysis with the reasonableness of the decision.
+[63]
+I shall, however, deal with the applicant's two arguments concerning procedural fairness, namely that the Tribunal prevented the applicant from presenting his arguments, and that the Tribunal should have suspended the proceeding while awaiting a decision by the PSLRB.
+[64]
+In the first place, there is nothing on the record to allow a conclusion that the applicant was not able to present his position to the Tribunal effectively. As previously discussed, the exhibits that the Tribunal found to be inadmissible could not have influenced its decision, and there is nothing on the record to indicate that the applicant was unable to present his arguments. On the contrary, paragraphs 50 to 56 of the decision deal with the applicant's arguments about the unfair labour practices complaint and his allegations of payback, indicating that the Tribunal fully understood the applicant's arguments in this regard.
+[65]
+Secondly, I think that the Tribunal was justified in not suspending the proceedings and waiting until the PSLRB had disposed of a complaint the applicant had filed after Ms. Giroux and Ms. Clément had provided references concerning his performance.
+[66]
+I therefore consider, for the reasons stated, that the Tribunal did not breach its duty of procedural fairness.
+B. Is the Tribunal's decision unreasonable?
+[67]
+The applicant's basic position may be summarized as follows. Until he arrived in the PRRA division, his career at CIC was exemplary, and he always received highly favourable performance assessments. He claims that his situation radically changed when he started to assert certain rights, including equality of opportunity. He maintains that he was the victim of reprisals, and that it was in this payback context that Ms. Giroux and Ms. Clément provided references on his performance that were false and biased and that tainted his reputation.
+[68]
+The applicant maintains that the Tribunal's decision is unreasonable for a multitude of reasons. He also claims that the Tribunal should have found that the assessment board erred in retaining Ms. Clément and Ms. Giroux as referees, and that it should have recognized that the references they had provided were unreliable because they were biased. He also criticizes the Tribunal for not recognizing that the assessment board had also shown bias against him. Furthermore, he criticizes the Tribunal for having trivialized the significance of irregularities committed by the assessment board and for not having recognized that he was the victim of discriminatory treatment.
+[69]
+Before analyzing the applicant's arguments in detail, we should recall some general principles. The Court's role in reviewing a decision on the standard of reasonableness was defined by the Supreme Court of Canada in
+CITATION_SUPPRESSED:
+Reasonableness is a deferential standard animated by the principle that underlies the development of the two previous standards of reasonableness: certain questions that come before administrative Tribunals do not lend themselves to one specific, particular result. Instead, they may give rise to a number of possible, reasonable conclusions. Tribunals have a margin of appreciation within the range of acceptable and rational solutions. A court conducting a review for reasonableness inquires into the qualities that make a decision reasonable, referring both to the process of articulating the reasons and to outcomes. Reasonableness is concerned mostly with the existence of justification, transparency and intelligibility within the decision making process and with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and the law.
+[70]
+It is also clearly established that it is not up to the Court to re-examine the evidence and to reweigh its probative value. In
+REFERENCE_SUPPRESSED, the Federal Court of Appeal recalled the Court's limited role in this regard:
+[99] In conducting reasonableness review of factual findings such as these, it is not for this Court to reweigh the evidence. Rather, under reasonableness review, our quest is limited to finding irrationality or arbitrariness of the sort that implicates our rule of law jurisdiction, such as a complete failure to engage in the fact-finding process, a failure to follow a clear statutory requirement when finding facts, the presence of illogic or irrationality in the fact-finding process, or the making of factual findings without any acceptable basis whatsoever:
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED.
+[71]
+The Tribunal's jurisdiction is also limited because its only role is to determine whether there was abuse of authority in an appointment process under the PSEA. In this regard, the Tribunal noted, apart from its reference to subsection 4(2) of the PSEA, that the jurisprudence had interpreted the concept of abuse of authority in a liberal manner, and that abuse of authority was not limited to bad faith and personal favouritism. The Tribunal acknowledged that depending on its nature and seriousness, an error, omission or irregular conduct could also constitute abuse of authority. The Tribunal also indicated that it was not its role to reassess the complainant's application, and that the applicant had the burden of proving, on the balance of probabilities, that the CBSA deputy head had abused his authority. I believe this analysis accords with the state of law (
+CITATION_SUPPRESSED,
+CITATION_SUPPRESSED), and that the Tribunal thus stated and applied the right legal tests to dispose of the complaint of abuse of authority. It is also important to keep in mind that the Tribunal's role was not to reassess the applicant, but to determine whether the applicant had established that the assessment board had committed an abuse of authority in the appointment process in question.
+[72]
+In light of these principles, I shall now deal with each argument raised by the applicant.
+(1) Disqualification of Ms. Kobrynsky as referee
+[73]
+The applicant argues that the assessment board erred in disqualifying Ms. Kobrynsky as referee, and that it applied the wrong test to justify its decision not to accept the references she provided. The applicant alleges that all the candidates had to submit, as first referee, the name of the person who was their immediate supervisor, but that they could submit a person of their choice as a second referee. This second person had to have had a professional relationship with the candidate in the four years preceding the submission of the application file. The applicant maintains that Ms. Kobrynsky met this test and that therefore the assessment board could not later set aside the references she had provided in favour of those supplied by Ms. Giroux and Ms. Clément on the ground that the references provided by these two were more contemporary.
+[74]
+The Tribunal indicated that the evidence showed that the assessment board had not ignored the references provided by Ms. Kobrynsky, but had rather considered the information provided by the three referees and had then, by consensus, given a mark to the applicant for each of the essential qualifications. The Tribunal deemed that the assessment board had not shown bias in attributing more importance to the references provided by Ms. Giroux and Ms. Clément. It considered the fact that the references of Ms. Giroux and Ms. Clément were consistent, and that Ms. Giroux had supervised the applicant for a longer period than Ms. Kobrynsky. The Tribunal also found that the references provided by Ms. Giroux and Ms. Clément contained more specific examples than Ms. Kobrynsky's reference.
+[75]
+These findings are supported by the evidence and are reasonable. The evidence in fact shows that Ms. Kobrynsky was not disqualified as a referee. The references she provided were considered, but the assessment board chose to give more weight to the references provided by Ms. Giroux and Ms. Clément, in particular because they contained more examples and were consistent with each other. The committee also considered the fact that the period when Ms. Giroux and Ms. Clément had supervised the applicant was longer and more recent.
+[76]
+I find that it was not unreasonable for the Tribunal to conclude that this decision by the assessment board did not demonstrate bias or abuse of authority. The assessment board faced a peculiar situation where the first referee provided an unfavourable reference that significantly contrasted with the applicant's performance in the interview. The committee acted with caution and diligence in not limiting itself to the reference provided by Ms. Giroux and in pursuing its information gathering with Ms. Kobrynsky. I also think that given the contradictory references of Ms. Giroux and Ms. Kobrynsky, the committee had an objective reason for deciding to contact a senior manager for additional comments.
+[77]
+Furthermore, faced with the contradictions between the reference provided by Ms. Kobrynsky and those given by Ms. Giroux and Ms. Clément, the assessment board then had to make a choice, and its reasons for accepting the references of Ms. Giroux and Ms. Clément are neither unreasonable nor devoid of sense. In the first place, the references the two women provided were consistent. Secondly, the other criteria of comparison used by the assessment board are reasonable, including the criterion about the length of time and the period in which Ms. Kobrynsky supervised the applicant. It is not unreasonable to think that a person who has recently supervised an employee for one year would be better able to provide a more global assessment of his performance than a person who supervised the same employee for a few months. I also read the notes made by Ms. Raymond when taking the references from Ms. Giroux and Ms. Krobynsky, and the summary of Ms. Clément's observations, and there is nothing to suggest that the decision to give more weight to the references provided by Ms. Giroux and Ms. Clément was influenced by any bias on the part of the members of the committee, or that it reflected an abuse of authority.
+[78]
+The applicant also maintains that the assessment board erred in determining that the position of PRRA officer had more similarities to the position of hearing officer to be staffed than the position of citizenship and immigration officer that the applicant held while he supervised by Ms. Kobrynsky. The applicant maintains that the assessment board applied the wrong test, and that it was not its role to compare positions.
+[79]
+The Tribunal noted that Ms. Raymond had explained, in her testimony, that she had already held the positions of PRRA officer and hearing officer, and that in her opinion, the two positions required similar personal suitability and knowledge. The Tribunal also noted the testimony of Darin Jacques, who had held the positions of PRRA officer and hearing officer. Mr. Jacques thought that the duties of a PRRA officer at CIC and those of a hearing officer at the CBSA were different. However, the Tribunal was not required to decide this issue because the similarities between the duties of PRRA officers and hearings officers were not the only criteria the assessment board used to attribute more importance to the comments of Ms. Giroux and Ms. Clément than to those of Ms. Kobrynsky.
+[80]
+In light of the evidence, that finding is reasonable. The Tribunal did not have to decide whether the position of hearing officer more similar to that of PRRA officer than that of citizenship and immigration officer, since the assessment board had based its decision on several other relevant considerations, and that in any case, its conclusions in this respect did not give rise to any apprehension of abuse of authority.
+[81]
+The applicant also maintains that if the assessment board thought that Ms. Kobrynsky's references were insufficient, it should have allowed him to provide the name of another referee or continue collecting information from Ms. Kobrynsky in greater depth. This argument is without merit. The interview notes taken by Ms. Raymond show that the referees were asked the same questions, and that the assessment board asked for concrete examples. It was neither necessary nor useful to ask Ms. Kobrynsky for more details. Furthermore, the committee was under no obligation to allow the applicant to provide the name of another person as referee. As I have already indicated, the assessment board's decision to contact Ms. Clément for additional comments made sense and was reasonable in the circumstances. I think that the Tribunal's conclusions about the arguments concerning the "disqualification" of Ms. Kobrynsky are reasonable.
+(2) Non-disqualification of Ms. Giroux as referee
+[82]
+The applicant maintains that the references provided by Ms. Giroux should not have been accepted. Firstly, he claims that what Ms. Giroux had to say strongly indicates bias. To support his position, he dissects all the remarks made by Ms. Giroux when her references were taken, to impugn their reliability. The Tribunal rejected this allegation.
+[83]
+The Tribunal dealt with the reliability of the references provided both by Ms. Giroux and Ms. Clément. Firstly, it noted, at paragraph 43 of its decision, that the applicant was questioning the reliability of the references they had provided on the grounds that they were biased against him and that their comments did not correspond with his previous performance assessments. The Tribunal then indicated that a referee's bias does not necessarily mean that the assessment board abused its authority, and it stressed that paragraph 77(1)(
+a
+) of the PSEA stipulates that the abuse of authority must have been committed by the person to whom the PSC delegated its appointment authority. The Tribunal also said that an assessment board should take into account any element that would call into question the reliability of the information provided by a referee, but added that the fact that a candidate disagrees with the comments of a referee does not prove that the reference is not reliable. To establish that the respondent abused its authority, the complainant must demonstrate that it was evident to the assessment board that the information provided by the referees was unreliable, whether because of an evident bias on their part or for any other reason.
+[84]
+The Tribunal also noted that the applicant had not informed the assessment board of his concerns about Ms. Giroux in the interview, and had only raised this point after being informed that Ms. Giroux had provided an unfavourable reference.
+[85]
+The applicant claimed that Ms. Giroux was biased against him because he had already disputed two performance assessments she had prepared. The Tribunal rejected this argument, and noted that the fact that an employee was disputing a performance assessment made by his supervisor was part of the normal labour relations model, and that dealing with such disputes was part of the regular duties of immediate supervisors. The Tribunal found that in the case at bar, the applicant had not established that the fact he had disputed performance assessments prepared by Ms. Giroux had affected her impartiality.
+[86]
+The complainant submits that Ms. Raymond wrote, in an email she sent to Mr. Meniaï and others on December 16, 2011, that Ms. Giroux had [translation] "personal problems" with the complainant. The applicant cited the contents of this email to support his allegation of bias on the part of Ms. Giroux. The Tribunal did not draw any inference from this email because Ms. Raymond stated in her testimony that she had misspoken, and that Ms. Giroux had not mentioned that she had personal problems with the applicant, but that the problems were related to his work performance. The Tribunal also noted that in her testimony, Ms. Giroux had said that she did not have personal problems with the applicant. The Tribunal added that Ms. Signori, in her testimony, affirmed that she had asked Ms. Clément if there was a conflict between Ms. Giroux and the applicant, and stated that Ms. Clément had replied that Ms. Giroux had problems with the applicant's work performance.
+[87]
+It emerges clearly from the decision that the Tribunal carefully analyzed the evidence concerning the criticisms that the applicant had made about the reliability of the Ms. Giroux's reference. It is not up to the Court to redo this review, and there is nothing that would indicate that the Tribunal's review led to unreasonable conclusions. Furthermore, I have not seen anything on the record that supports a finding that Ms. Giroux was biased or that the assessment board had showed narrow-mindedness in its assessment of Ms. Giroux's reference.
+(3) Selection of Ms. Clément as referee
+[88]
+The applicant argues that the Tribunal erred in not recognizing that the selection of Ms. Clément was problematic in several respects.
+[89]
+Firstly, the applicant argued that the assessment board could not select Ms. Clément as referee without his consent. The complainant referred to the PSC document entitled
+Structured Reference Checking: A User's Guide to Best Practices
+, which states that candidates may choose the referees and should play an active role in their selection and preparation. He also cited another PSC document entitled
+Reference Checking
+, which stipulates that the Treasury Board must obtain the candidate's consent when the reference checking is used to assess reliability and security.
+[90]
+The Tribunal rejected this argument. In the first place, it recognized that the applicant had been obliged to provide the name of Ms. Giroux and that he had not been consulted about the choice of Ms. Clément as a third reference. Nonetheless, the Tribunal deemed that it was appropriate, in the circumstances, that the assessment board asked Ms. Clément, who was Ms. Giroux's immediate supervisor, to submit her own comments about the applicant's performance.
+[91]
+Secondly, the Tribunal concluded that nothing obliged the assessment board to obtain a candidate's approval for the choice of a referee. It noted that the document
+Structured Reference Checking: A User's Guide to Best Practices
+of the PSC suggests that the candidate participate in a choice of referees, but does not oblige the assessment board to accept a candidate's suggestions. The Tribunal also noted that the document was a guide, not a policy that the deputy head to whom the PSC has delegated staffing authority is required to follow (section 16 and subsection 29(3) of the PSEA). The Tribunal also referred to decisions in which it was established that a candidate's consent is not required to communicate with referees who work in the public service. As for the second document cited by the applicant,
+Checking References
+, the Tribunal indicated that this was a guide that provided practical advice, and that in any case, it was not applicable in the case at bar. The Tribunal indicated that this guide dealt with references obtained in the precise context of reliability associated with a candidate's security clearance, which was not at issue in the applicant's case.
+[92]
+The Tribunal's reasoning is well supported and clearly articulated, and its conclusions are entirely reasonable in light of the evidence. The applicant maintains that the Tribunal trivialized the rules and the guides. I do not agree. The Tribunal recognized the importance of the guides, and explained why the assessment board was justified, in the case at bar, in collecting references from Ms. Clément, who was a senior manager and the immediate supervisor of Ms. Giroux.
+[93]
+The complainant also submits that, by contacting Ms. Clément without his consent, the assessment board violated sections 7 and 8 of the
+Privacy Act
+, RSC 1985, c P-21 (PA), which stipulate that personal information collected about an individual cannot be disclosed without the individual's consent.
+[94]
+The Tribunal rejected this argument, citing paragraph 8(2)(
+a
+) of the
+Privacy Act
+, which provides that personal information under the control of a government institution may be disclosed for the purpose for which the information was obtained or compiled by the institution or for a use consistent with that purpose. The Tribunal found that the use of information concerning a candidate's work performance in connection with an appointment process was such a permitted use.
+[95]
+The Tribunal's reasoning and the conclusion it drew are reasonable and do not warrant the Court's intervention.
+[96]
+Third point: the applicant maintained that the assessment board should have informed him in advance that it intended to contact Ms. Clément to obtain references about him, and that he would thus have been able to express his concerns about Ms. Clément's impartiality.
+[97]
+The Tribunal noted that it would have been preferable for the assessment board to inform the applicant about what it was doing because such an advance notice would have ensured greater transparency in the appointment process and t enabled the applicant to express his concerns about Ms. Clément. However, the Tribunal concluded that although this way of proceeding was a best practice, it was not a requirement. The Tribunal added that the applicant had the opportunity to inform the assessment board of his concerns about Ms. Clément's impartiality in the informal discussion, but the committee had decided not to accept his allegations.
+[98]
+Like the Tribunal I think it would have been preferable for the assessment board to inform the applicant in advance that it intended to contact Ms. Clément to obtain her assessment of the applicant's performance. However, the applicant had the opportunity to raise his concerns about Ms. Clément's impartiality at the informal discussion that took place before the completion of the appointment process. The assessment board did not accept the applicant's allegations of bias . Consequently, the fact that the applicant did not have the opportunity to inform the assessment board of his concerns before the references were taken had no impact because the committee was informed of the applicant's concerns before the appointment was completed and did not accept them.
+[99]
+Fourth point: the applicant argued that Ms. Clément should not have acted as referee because she was not his immediate supervisor.
+[100]
+The Tribunal noted that in her testimony, Ms. Clément had said that she was the manager of the employees in the PRRA division in which the applicant worked. The Tribunal reported that Ms. Clément stated that she had based her observations on records of decisions prepared by the applicant that she had read in part, on the reports of the applicant's "coaches", on the applicant's performance assessments and on her discussions with the applicant and with Ms. Giroux.
+[101]
+The Tribunal found that the applicant had not established that the referee necessarily had to be the candidate's immediate supervisor, and also found that a person could act as referee if he or she had sufficient knowledge of the candidate's work performance. It noted that the evidence, including the evidence submitted by the applicant, showed that Ms. Clément had clear knowledge of the applicant's performance.
+[102]
+I consider that this conclusion is reasonable and is supported by the evidence. It emerges clearly from the evidence, and more particularly from the many emails exchanged between Ms. Clément and the applicant, that Ms. Clément had sufficient knowledge of the applicant's performance for her to be selected as referee.
+[103]
+Fifth point: the applicant maintained that Ms. Clément's observations were very general and were not supported by concrete examples. The Tribunal dealt with the reliability and the content of Ms. Clément's observations and it is not open to the Court to reweigh the evidence that the Tribunal has considered. Furthermore, it is important to keep in mind the context of the complaint filed by the applicant. It was not the Tribunal's role to repeat the assessment of the applicant's qualifications. Its mandate was to verify whether the assessment process followed by the assessment board and its assessment of the applicant's qualifications were tainted by an abuse of authority. This is what it did. The Tribunal studied the evidence carefully. It had in its possession the notes taken when the references were checked, and it heard the testimony of the assessment board members and of Ms. Giroux and Ms. Clément. Its review of all the evidence led it to conclude that the applicant had not proved that the Ms. Clément's reference was not reliable. This conclusion was sufficient and reasonable, and the Tribunal did not have to proceed with a detailed review of every one of the applicant's observations.
+[104]
+Sixth point: the applicant questioned Ms. Clément's impartiality because of the complaint he had filed with the Tribunal about the appointment process in 2009. In his view, Ms. Clément provided unfavourable references concerning him as payback. The Tribunal did not accept this argument, and I think that its conclusion is entirely reasonable.
+[105]
+The Tribunal first noted that in her testimony, Ms. Clément had said that she had never had a conflict with the applicant. It added that the applicant had not produced any evidence establishing that Ms. Clément had been a member of that other appointment committee. The Tribunal noted that even if Ms. Clément had been part of the assessment board for the other appointment process, this fact would not establish an appearance of bias.
+[106]
+I agree that if the Tribunal had allowed Exhibit CF-32 to be filed, it would have noted that this exhibit showed that Ms. Clément had indeed been involved in the 2009 appointment process that had led to the filing of the complaint. As previously discussed, this is, however, inconsequential because the Tribunal had nonetheless found it could not infer from that the fact that Ms. Clément had participated in the appointment process and that the applicant had filed a complaint that this context had influenced Ms. Clément's impartiality. This conclusion is reasonable. The evidence does not contain any indication of bias or even of animosity towards the applicant on Ms. Clément's part. The evidence shows that Ms. Clément had concerns about the applicant's performance, and that she communicated her observations to the assessment board. Nothing leads to the conclusion that Ms. Clément's concerns were not objective and legitimate, or that they were tainted by any bias against the applicant.
+[107]
+Seventh point: the applicant raises doubts about Ms. Clément's impartiality because of the complaint he filed with the PSLRB. In his complaint, the applicant alleged unfair labour practices on the part of the employer because Ms. Clément's assistant had been in possession of the key to a filing cabinet belonging to the union, which contained confidential information about its members.
+[108]
+The Tribunal found that it could not draw any conclusion regarding this allegation because it lacked information. It indicated that the applicant had not provided more explanations about this complaint and that he had simply filed a letter from the PSLRB in which it acknowledged receipt of a complaint dated February 2, 2012, filed by the applicant. The Tribunal determined that this complaint could not have influenced Ms. Clément's reference because she gave her comments on December 19, 2011, before the complaint was filed.
+[109]
+This conclusion is eminently reasonable. At the hearing, the applicant maintained that the complaint was only one element in a continuum of reprisals that had started in 2009 when he had disputed another appointment process. I have already concluded that the Tribunal had not prevented the applicant from leading evidence relevant to the context of reprisals he alleges. The Tribunal evaluated the applicant's argument, but did not accept it.
+[110]
+Furthermore, none of the applicant's exhibits support his claims. I have read all the exhibits that the applicant claims to have filed to show that he was the subject of reprisals and animosity on the part of Ms. Clément, and more particularly Exhibits CF-33, CF-34, CF-36, CF-37, CF-38, CF-39, CF-41, CF-42, CF-43, CF-44, CF-45, CF-48, CF-49, CF-50, CF-52, CF-54, CF-55, CF-56, CF-57 and CF-58. The applicant claims that the Tribunal did not carefully review the evidence he presented. With respect, I think that none of these documents indicates or supports his allegations that he suffered reprisals from Ms. Clément or that she was biased against him. The evidence that the applicant filed shows that Ms. Clément had concerns about, and was dissatisfied with, the applicant's performance in the position of PRRA officer. However, we cannot infer from anything in the documents filed that Ms. Clément's concerns were not legitimate or that she had breached impartiality when she provided her comments to the assessment board about the applicant's performance.
+[111]
+Moreover, it is well established that the Tribunal is assumed to have weighed and considered all the evidence that has been presented to it (REFERENCE_SUPPRESSED), and that it is not obliged, in its decision, to mention every document filed in evidence, especially if the evidence is voluminous. In this regard, I entirely agree with the following remarks of Justice Mosley in
+CITATION_SUPPRESSED:
+[30] It is well established that a Tribunal is not required to list and address every piece of evidence and argument raised by an applicant:
+REFERENCE_SUPPRESSED. The record of the PSST proceedings is voluminous. The obligation on the Tribunal is to review the evidence and reasonably ground its findings in the materials before it:
+REFERENCE_SUPPRESSED. Much of what the applicant submitted in evidence before the PSST and argued before this Court was irrelevant. I am satisfied that, in its decision, the PSST addressed all of the material issues that were properly before it at the conclusion of its hearings. In these reasons, I do not intend to revisit all of the grounds for Dr. Makoundi's complaint that were dealt with by the PSST and repeated in his argument on this application.
+[112]
+It is also established that an administrative Tribunal is not obliged to mention every argument raised by each of the parties. In
+REFERENCE_SUPPRESSED, the Supreme Court of Canada considered the adequacy of an administrative Tribunal's reasons, and stated the following principles:
+[16] Reasons may not include all the arguments, statutory provisions, jurisprudence or other details the reviewing judge would have preferred, but that does not impugn the validity of either the reasons or the result under a reasonableness analysis. A decision-maker is not required to make an explicit finding on each constituent element, however subordinate, leading to its final conclusion (
+REFERENCE_SUPPRESSED). In other words, if the reasons allow the reviewing court to understand why the Tribunal made its decision and permit it to determine whether the conclusion is within the range of acceptable outcomes, the Dunsmuir criteria are met.
+[113]
+Consequently, I think that the Tribunal's finding that the evidence concerning the unfair labour practices complaint filed with the PSLRB did not support the applicant's allegations of payback was reasonable.
+[114]
+Eighth point: the applicant argued that the Ms. Clément's and Ms. Giroux's comments were not reliable because they were not consistent with his performance assessments by other supervisors throughout his career.
+[115]
+The Tribunal indicated, in this regard, that a person could very well produce good performance in one position and experience difficulties in another position. The Tribunal added that this observation also corresponded with Ms. Clément's testimony, who declared she had informed Ms. Signori that the applicant was not in a position that suited him in the PRRA division, but that he had done good work in other positions. The Tribunal also noted that the position of PRRA officer differs from that of citizenship and immigration officer. The Tribunal concluded that the fact that the complainant received positive performance evaluations as a citizenship and immigration officer did not indicate that Ms. Giroux's and Ms. Clément's comments do not properly reflect his performance as a PRRA officer.
+[116]
+I fully endorse the Tribunal's viewpoint. The fact that an employee performs well in one position does not necessarily imply that he will be as effective in a different position. Thus, the fact that the complainant received positive performance evaluations as a citizenship and immigration officer does not indicate that Ms. Giroux's and Ms. Clément's comments during the reference interview do not properly reflect his performance as a PRRA officer. In my opinion, the Tribunal's finding in this regard is entirely reasonable.
+[117]
+Ninth point: the applicant alleged that Ms. Clément's comments, like those of Ms. Giroux, were not compatible with the fact that he had, in the course of his career, received many certificates of recognition and letters of appreciation.
+[118]
+The Tribunal found that these certificates and letters failed to establish that Ms. Giroux's and Ms. Clément's comments were not reliable because they concerned the complainant's performance in other positions and for other activities. I completely share the Tribunal's viewpoint in this regard.
+[119]
+Tenth point: the applicant maintained that Ms. Clément's comments, like those of Ms. Giroux, concerning his relations with certain authority figures and managers were false, and violated his right to safeguard his reputation under the
+Charter of Human Rights and Freedoms
+, CQLR, c C-12 and the
+Civil Code of Québec
+.
+[120]
+The Tribunal noted that it did not have to decide that matter because the comments in question had been made in the context of the assessment of the qualification "effective interpersonal skills," for which the applicant had obtained a pass mark. I think that in this context, it was reasonable for the Tribunal not to deal specifically with Ms. Clément's and Ms. Giroux's comments concerning a qualification that was not at issue in the complaint.
+(4) Independence of the assessment board
+[121]
+The applicant claims that the assessment board lost its independence when Ms. Signori became involved in the process and met Ms. Clément to obtain her comments about the applicant's performance. This argument has no merit. Ms. Signori was the manager of the position to be staffed, and nothing would indicate that her involvement was inappropriate or had influenced Ms. Clément's comments, or moreover, that she had unduly influenced the assessment board's decision-making process. Ms. Clément's and Ms. Giroux's comments were what influenced the assessment by the assessment board, and not the involvement of Ms. Signori who received Ms. Clément's comments.
+(5) Ms. Raymond's bias
+[122]
+The applicant argued, before the Tribunal and again before the Court, that Ms. Raymond was biased because she had a close professional relationship and friendship with Ms. Giroux. The applicant supported his allegation in particular with the email dated December 16, 2011, that Ms. Raymond sent to Mr. Meniaï and other individuals in which she indicated that she knew Ms. Giroux and respected her judgment. The applicant infers from this email that Ms. Raymond could not possibly have had the open-mindedness necessary to consider the possibility that Ms. Giroux had been mistaken or was not credible.
+[123]
+The Tribunal dismissed this argument. In the first place, it indicated that the members of any assessment board had an obligation to conduct an assessment that was impartial and free of any reasonable apprehension of bias. Referring to
+REFERENCE_SUPPRESSED, the Tribunal cited the test for apprehension of bias set out by the Supreme Court of Canada, which is "whether a reasonably informed bystander could reasonably perceive bias on the part of an adjudicator," and it indicated that this test applies to the members of assessment boards trained in the appointment processes subject to the PSEA. The Tribunal found that the applicant had not established that there was an apprehension of bias against him on the part of the assessment board.
+[124]
+The Tribunal also noted that Ms. Giroux had stated, in her testimony, that she did not have a personal relationship with Ms. Raymond, whom she knew professionally but had not seen since 2005.
+[125]
+The Tribunal therefore found that the applicant had not presented any evidence to show that there was a friendship between Ms. Raymond and Ms. Giroux. It added that a reasonably informed bystander could not reasonably perceive bias on the part of Ms. Raymond based on the sole fact that she had worked with Ms. Giroux in the past and that she respected Ms. Giroux's judgment.
+[126]
+In my view, that conclusion was reasonably open to the Tribunal on the basis of the record before it. The fact that Ms. Raymond said that she knew Ms. Giroux and respected her judgment is clearly insufficient to raise a reasonable apprehension of bias on the part of Ms. Raymond or to conclude that she had a closed mind. Moreover, nothing that indicates that she had not faithfully reported the words of Ms. Giroux and Ms. Kobrynsky in her interview notes.
+[127]
+The applicant also claims that Ms. Raymond's statement (that she knew Ms. Giroux and respected her judgment) contained in her email of December 16, 2011, had been intentionally concealed from him. The applicant submits that this part of the email was redacted in the documents he received pursuant to an application he made under the
+Access to Information Act
+, then RSC 1985, c A-1, and that he read this statement in the context of exchanges of information and disclosure before the Tribunal. He claims that he was misled in connection with his access to information request because he was wrongly informed that this part of the affidavit had been redacted because it contained personal information. The applicant maintains that this situation proves fraud designed to mask compromising information that shows Ms. Raymond's bias.
+[128]
+This allegation is without merit. In the first place, there is no evidence that it was the assessment board that handled the applicant's access to information request, and it would be rather surprising if that were the case. The access to information process is independent from the process associated with appointments or with a complaint filed with the Tribunal. Furthermore, since the non-redacted email was sent to the applicant in connection with the exchange of information and documents by the CBSA, there is nothing to indicate that there was a desire to conceal this document from him in connection with the complaint he filed with the Tribunal.
+(6) Reckless disregard and lack of due diligence
+[129]
+The applicant maintains that faced with the [translation] "slanderous and tendentious remarks" of Ms. Giroux and Ms. Clément, he informed the assessment board of his concerns about their bias in the informal discussion. He also wanted to give the committee a portfolio containing a series of documents, in particular performance assessments, certificates of recognition and letters of appreciation he had received in the course of his career, to refute the references provided by Ms. Giroux and Ms. Clément.
+[130]
+The applicant maintains that by not accepting his allegations and by refusing to consider the documents contained in his portfolio, the assessment board committed several errors, particularly:
+• The committee hampered its discretionary authority and failed to show open-mindedness and diligence in hiding behind its wish to treat all candidates in a consistent manner.
+• The committee did not take into account the Values and Ethics Code, which emphasizes respect for the individual and democracy, nor the values of the public service.
+• The committee failed to show impartiality and open-mindedness because it had never considered the possibility that the allegations of bias regarding Ms. Giroux and Ms. Clément might be true.
+[131]
+The Tribunal rejected the applicant's arguments and found that the assessment board could reasonably conclude, in the informal discussion, that the applicant's allegations that Ms. Giroux and Ms. Clément were biased were not convincing and that it was not necessary to examine them in greater depth.
+[132]
+The Tribunal also concluded that nothing required the assessment board to replace the references of Ms. Giroux and Ms. Clément with the applicant's portfolio. The Tribunal noted that section 36 of the PSEA gives managers considerable leeway in choosing assessment methods, and that the applicant had not demonstrated to the assessment board that Ms. Giroux and Ms. Clément were biased against him. The Tribunal also indicated that if the assessment board had accepted the complainant's portfolio, it would have committed a serious injustice against the other candidates.
+[133]
+The Tribunal's findings were reasonable. The assessment board had the responsibility to make sure that the references provided were reliable, and there is no indication that it showed a lack of diligence, open-mindedness or neutrality in its assessment of the references. Rather than limiting itself to the unfavourable reference provided by Ms. Giroux, the assessment board showed diligence by pursuing its gathering of information in asking Ms. Kobrynsky for references. It again showed diligence when it decided to contact a senior manager for comments because the references provided by Ms. Giroux and Ms. Clément were contradictory.
+[134]
+Furthermore, the assessment board had chosen the tools it would use to assess each of the essential personal qualifications of the candidates, namely an interview and a reference check, and it was not required to substitute the documents contained in the applicant's portfolio for the references provided by the referees. It made sense that the assessment board wanted to ensure consistency by limiting itself to using the same tools to assess all the candidates. Furthermore, as I have already indicated, the fact that the applicant had performed well in his position of citizenship and immigration officer does not prove that his performance was equally satisfactory in the position of PRRA officer.
+[135]
+Finally, the documentary evidence and the summary of oral evidence reported by the Tribunal does not provide reasonable support for a conclusion of bias, lack of diligence, prejudice or lack of open-mindedness on the part of the assessment board. In sum, the applicant's allegations are not supported by the evidence.
+(7) Failure to consider relevant and decisive evidence
+[136]
+This criticism is directly addressed to the Tribunal. The applicant maintains that the Tribunal erred in not considering the evidence that the assessment board had failed to make sure that the references provided by Ms. Giroux and Ms. Clément were frank and reliable. This argument cannot stand. The Tribunal's decision shows that it thoroughly reviewed the evidence and that its assessment led it to conclude that the applicant had not proved that the references provided by Ms. Giroux and Ms. Clément were not reliable. As I have already indicated, it is not for the Court to reweigh the evidence, and there is nothing to suggest that the Tribunal failed to consider the relevant evidence or that its assessment of the evidence was unreasonable.
+(8) Refusal to exercise its jurisdiction under the act
+[137]
+The complainant entered into evidence various reports he had written as a PRRA officer as well as emails from Ms. Giroux in which she criticized certain elements of these reports. The applicant also filed the affidavit of Mr. Jacques, a member of the Immigration and Refugee Board who had already worked as PRRA officer for four years. In his affidavit, Mr. Jacques stated that he had been a colleague of the applicant between November 2010 and October 2011, and that at the applicant's request, he had examined ten or so of his records of decision. Mr. Jacques indicated that in his opinion, the applicant's records of decisions were excellent.
+[138]
+The applicant submits that the Tribunal should have considered this evidence, which showed that the references provided by Ms. Giroux and Ms. Clément were biased, and that their assessment of his performance was microscopic, peripheral and mistaken.
+[139]
+The Tribunal first noted that the assessment board had not had these documents in hand when it assessed the applicant's qualifications. It went on to point out that its role was not to reassess the applicant's qualifications in light of records of decisions filed by the applicant nor in light of the opinion of a colleague of the applicant, but rather to determine whether there had been abuse of authority by the assessment board in this appointment process.
+[140]
+In my view, the Tribunal properly delineated its mandate, which was to determine whether there had been abuse of authority in this appointment process. Having determined that no such abuse had been committed, the Tribunal's role was not to determine whether the applicant satisfied each of the personal qualifications at issue, and it was not obliged to consider evidence that had not been considered by the assessment board.
+(9) Selective analysis of the testimony and evidence
+[141]
+The applicant again states his disagreement with the Tribunal's assessment of the evidence. He also criticizes the Tribunal for failing to consider certain evidence that was relevant.
+[142]
+As I have already indicated, the Tribunal is not required to mention in its decision all the evidence that has been submitted and all the arguments advanced by the parties. Based on the analysis of the decision and of the applicant's record the Court cannot find that the Tribunal failed to consider the relevant evidence or the applicant's principal arguments.
+(10) Failure to consider the jurisprudential arguments
+[143]
+The applicant also criticizes the Tribunal for not mentioning the voluminous jurisprudence he cited in support of its arguments. For the reasons given in the previous paragraph, I find that this argument is unfounded. The decision shows that the Tribunal fully understood the applicant's arguments and dealt with them by applying the proper legal parameters. The Tribunal was not obliged in its decision to mention all the authorities submitted by the two parties. It did mention the decisions that were relevant for its analysis and for the issues it had to decide.
+(11) Allegations of discrimination
+[144]
+The applicant claimed he was a victim of discrimination because of his race, colour and ethnic origin, under both the CHRA and the
+Canadian Charter of Rights and Freedoms
+, Part 1 of the
+Constitution Act
+, 1982, Schedule B to the
+Canada Act
+1982 (UK), 1982, c 11 (the Charter), and he maintains that the Tribunal erred in failing to deal with the evidence of discrimination, in failing to follow the three-step process outlined in
+CITATION_SUPPRESSED
+and in failing to proceed with a separate analysis under the Charter.
+[145]
+Dealing first with the allegations under the CHRA, the Tribunal noted that according to the decision of the Supreme Court of Canada in
+REFERENCE_SUPPRESSED, the applicant had the burden of establishing
+prima facie
+evidence of discrimination and that to resolve the issue, the Tribunal had to determine whether the evidence submitted by the applicant, if believed, was complete and sufficient to justify a finding of discrimination, in the absence of any explanation from the CBSA. The Tribunal found that the evidence submitted by the applicant was insufficient to satisfy the
+prima facie
+burden of proof.
+[146]
+The Tribunal dealt with the applicant's arguments raised, and its conclusions are sustained and supported by the evidence. The Tribunal first noted that the applicant argued that the assessment board should not have accepted the references of Ms. Giroux and Ms. Clément because they had discriminated against him when he was a PRRA officer. Specifically, the applicant stated that his acting appointment as PRRA officer had been renewed for a period of six months, while that of his colleagues had been renewed for one year. As a second piece of evidence, the applicant said that he had been the only employee in the PRRA division whose decisions were reviewed by Ms. Giroux.
+[147]
+The Tribunal stated that the sole fact that the complainant believes that these events are due to prohibited grounds of discrimination is not sufficient to establish a
+prima facie
+case of discrimination. On the contrary, this evidence is so minimal that it has no effect in law. The Tribunal stated that the applicant had to show that the distinction based on a prohibited ground (his race, colour or ethnic origin) was a factor in the impugned conduct, in this case the unfavourable references provided by Ms. Giroux and Ms. Clément.
+[148]
+The Tribunal mentioned several documents filed by the applicant, including a table indicating the representation of visible minorities in the Quebec Region of the CBSA. The Tribunal found that this evidence was insufficient to conclude that the CBSA had engaged in discriminatory practices against members of visible minorities who had submitted applications in the appointment process at issue. The Tribunal added that even if there was statistical evidence of under-representation of visible minorities in hearings officer positions of the CBSA in Quebec, it did not automatically follow that under-representation was a result of systemic discrimination.
+[149]
+Alternatively, the Tribunal thought that the CBSA had provided a reasonable non-discriminatory explanation for its decision not to appoint the applicant as a result of the appointment process.
+[150]
+The Tribunal also accepted the testimony of Ms. Clément, who acknowledged that the applicant's acting appointment had been renewed for a period of six months while that of the four other employees had been renewed for one year, because of weaknesses is the applicant's performance. The Tribunal noted that the weaknesses in the applicant's performance had been entered into evidence and that they were described even in the documents filed by the applicant himself.
+[151]
+The Tribunal also accepted Ms. Clément's explanation of the reasons why she had decided that Ms. Giroux would check the applicant's decisions. She explained that the records of decisions written by PRRA officers were often reviewed by "coaches" to ensure quality control and that towards the end of his acting appointment, the applicant had asked her for permission to work without a coach. Ms. Clément stated that she granted the request on the condition that Ms. Giroux would check his decisions because the complainant had not established that he could work unsupervised.
+[152]
+The Tribunal then addressed the applicant's allegation that the assessment board had discriminated against him because he was the only employee in the PRRA division who had been eliminated from the process because of unfavourable references.
+[153]
+In this regard, the Tribunal accepted Ms. Raymond's testimony that the applicant could not make this assertion because he had not had access to the references of the other candidates, and had not testified that he had consulted the other candidate's references.
+[154]
+The Tribunal therefore found that no prohibited ground of discrimination had any bearing in the assessment board's decision to eliminate the applicant from the process.
+[155]
+The Tribunal then considered the applicant's allegation of discrimination in the context of section 15 of the Charter. Acknowledging that the way of determining whether there was discrimination is different under the two pieces of legislation, the Tribunal noted that both involve different treatment because of a prohibited ground of discrimination. The Tribunal stated that because it had already concluded in its analysis under the CHRA that the applicant's race, colour and ethnic origin had not been factors influencing the decision not to appoint him to the position of hearing officer, it concluded, for the same reason, that the applicant had not established that the CBSA had infringed subsection 15(1) of the Charter.
+[156]
+I find that the Tribunal's review of the applicant's allegations of discrimination in no way warrants the Court's intervention, regardless whether they are reviewed according to the standard of correctness or the standard of reasonableness. Indeed, the Tribunal applied the appropriate test in requiring
+prima facie
+evidence of discrimination, and having concluded that there was no minimal evidence of discrimination, it did not have to pursue a more in-depth and separate analysis of the factors set out in
+CITATION_SUPPRESSED
+or
+REFERENCE_SUPPRESSED
+[157]
+Furthermore, nothing in the record leads to the conclusion that the applicant established
+prima facie
+evidence of discrimination, and the statistical evidence on which the applicant relied is clearly insufficient to draw any inference whatsoever about an allegation of systemic discrimination. Finally, there is no indication in the evidence that unlawful considerations influenced the references provided by Ms. Giroux and Ms. Clément, or moreover the assessment board's assessment of the applicant's qualifications and the references provided by the three referees. I therefore find that the applicant's allegations of discrimination are completely unfounded.
+[158]
+I therefore find that the Tribunal's decision has all the attributes of reasonableness and that the disagreements raised by the applicant are clearly insufficient to warrant the Court's intervention.
+JUDGMENT
+[159]
+THIS COURT'S JUDGMENT is that
+the application for judicial review is dismissed with costs to the respondent.
+[End of document]

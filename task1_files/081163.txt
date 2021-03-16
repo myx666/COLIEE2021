@@ -1,0 +1,290 @@
+[1]
+Mactavish, J.
+: After Gábor Lukács' request for access to information held by the Natural Sciences and Engineering Research Council (NSERC) was refused, he filed a complaint with the Office of the Information Commissioner of Canada (OIC). NSERC ultimately provided three separate responses to Dr. Lukács' access request, each citing different sections of the
+Access to Information Act
+to justify its refusal to disclose the information in issue.
+[2]
+Following receipt of a report from the OIC, Dr. Lukács commenced this application for judicial review with respect to NSERC's refusal of his access request. NSERC has now brought a motion to strike Dr. Lukács' application, arguing that to the extent that the application relates to NSERC's refusal to disclose the documents under subsection 10(2) of the
+Access to Information Act
+, the application is moot as NSERC had withdrawn its reliance on that statutory provision prior to the release of the OIC's report.
+[3]
+To the extent that Dr. Lukács seeks to challenge NSERC's reliance on other sections of the
+Access to Information Act
+to deny him access to the information he is seeking, NSERC asserts that the application is premature, as the OIC has neither investigated nor considered whether NSERC's reliance on these exemptions is proper.
+[4]
+I agree with NSERC that Dr. Lukács' application is bereft of any chance of success. As a consequence, the motion to strike will be granted.
+I.
+Background
+[5]
+In order to understand the issues raised by NSERC's motion, it is necessary to understand the chronology of events relating to Dr. Lukács' access to information request.
+[6]
+On April 24, 2012, Dr. Lukács requested access to documents held by NSERC. NSERC is a federal government agency that funds research in the natural sciences and engineering. The documents sought by Dr. Lukács included:
+1. Copies of any reports or correspondence regarding the nature and outcomes of investigations regarding research misconduct, as reported to NSERC by McGill University between January 2010 and April 2012, with nominative information concerning individuals excised as required by the Act.
+2. Copies of any decisions or correspondence related to actions subsequently taken by NSERC in response to the reports or communications from item (1), immediately above, with nominative information concerning individuals excised as required by the Act.
+[7]
+On May 8, 2012, NSERC informed Dr. Lukács that it could "neither confirm nor deny the existence of such records in accordance with section 10(2) of the
+Access to Information Act
+" (the first refusal). Subsection 10(2) of the Act allows the head of a government institution to refuse to indicate the existence of a record in exceptional circumstances, where doing so would itself disclose information to a requester: Michel W. Drapeau & Marc-Aurèle Racicot
+, Federal Access to Information and Privacy Legislation Annotated 2015
+(Toronto: Thomson Reuters, 2014) at 1-154.6. The full text of the relevant statutory provisions is attached as an appendix to these reasons.
+[8]
+Dr. Lukács filed a complaint with the OIC concerning NSERC's first refusal, submitting that NSERC had failed to comply with paragraph 10(1)(b) of the
+Access to Information Act
+, R.S.C. 1985, c. A-1. This provision states that where the head of a government institution refuses to grant access to information, notice should be provided as to "the specific provision of this Act on which the refusal was based or, where the head of the institution does not indicate whether a record exists, the provision on which a refusal could reasonably be expected to be based if the record existed".
+[9]
+On November 5, 2012, NSERC sent Dr. Lukács a further response to his access request, reiterating its position that, in accordance with subsection 10(2) of the Act, it could neither confirm nor deny the existence of the information sought. However, this response added that if such a record existed "it can reasonably be expected that it would have been withheld pursuant to subsection 19(1) of the Act for personal information" (the second refusal).
+[10]
+Dr. Lukács provided the OIC with further submissions regarding the second refusal, and in July of 2014, he received a third response from NSERC with respect to his access request (the third refusal). This time NSERC stated that "...further to your complaint with the [OIC] ... and discussions we had with the investigator, the ATIP office has reviewed the application of subsection 10(2)
+and replaced it with 19(1)
+..." [my emphasis]. The letter went on to state that "[t]he documents will now be withheld, in their entirety, under section 19(1) of the
+Act
+". Subsection 19(1) of the Act directs that records containing personal information about an identifiable individual not be disclosed, absent certain circumstances that do not apply here.
+[11]
+NSERC also stated in the third refusal that some of the requested documents should also be withheld under section 23 of the Act, which protects documents that are subject to solicitor-client privilege, and under paragraph 21(1)(b) of the Act, which protects accounts of deliberations and consultations involving the directors, officers or employees of a government institution, a minister of the Crown or the staff of a minister.
+[12]
+On July 30, 2014, Dr. Lukács provided the OIC with submissions in relation to the third refusal.
+II.
+The OIC's Report
+[13]
+The OIC outlined the results of its investigation into Dr. Lukács' complaint in a report dated September 2, 2014. The report noted that the OIC had disagreed with NSERC's reliance on subsection 10(2) of the Act in its first and second responses, and that the OIC had asked NSERC to reconsider its position in this regard. According to the report, it was after further discussions between the OIC and NSERC that NSERC issued "a final response" to Dr. Lukács' access request in July of 2014, "replacing" its reliance on subsection 10(2) of the Act with exemptions claimed under sections 19(1), 21(1)(b) and 23 of the Act.
+[14]
+The OIC recognized in its report that Dr. Lukács was dissatisfied with the investigation, but stated that its investigation had been "limited to the applicability of section 10(2) of the Act to the responsive documents". The report further indicated that the OIC would consider Dr. Lukács' letter of July 30, 2014 "as a new complaint concerning the exemptions applied by NSERC on the responsive documents". According to the OIC, a new file number concerning these exemptions had been assigned to the complaint, and an investigator had been assigned to inquire into the matter.
+[15]
+The OIC completed its analysis by stating that "[t]herefore, we will conclude this complaint concerning the applicability of section 10(2) of the Act as well founded resolved".
+[16]
+Finally, the report notified Dr. Lukács of his right to apply to this Court for a review of NSERC's decision pursuant to section 41 of the Act.
+III.
+Dr. Lukács' Application for Judicial Review
+[17]
+On October 17, 2014, Dr. Lukács filed his application for judicial review with respect to NSERC's continuing refusal to grant him access to the requested documents. The application seeks an order requiring the President of NSERC to disclose the requested documents to Dr. Lukács, together with his costs of the application.
+IV.
+NSERC's Motion to Strike
+[18]
+NSERC responded to Dr. Lukács' application with its motion to strike. NSERC observed that as of the date of Dr. Lukács' application, the OIC had only investigated and reported on NSERC's reliance on subsection 10(2) of the Act. To the extent that Dr. Lukács' application seeks to challenge NSERC's reliance on subsection 10(2) of the Act, NSERC says that the application is moot, as it was no longer relying on subsection 10(2) of the Act to justify its refusal to grant access to the requested documents when the report was issued.
+[19]
+NSERC also submits that the OIC has yet to consider the exemptions that it now asserts under sections 19(1), 21(1)(b) and 23 of the Act. Absent a report from the OIC addressing NSERC's reliance on these provisions, NSERC says that Dr. Lukács' application for judicial review is premature.
+V.
+The Test on Motions to Strike Applications for Judicial Review
+[20]
+Applications for judicial review are intended to be summary proceedings, and motions to strike Notices of Application add to the cost and time required to deal with such matters. Moreover, as the Federal Court of Appeal observed in
+REFERENCE_SUPPRESSED, the striking out process is more feasible in actions than in applications for judicial review. This is because there are numerous rules governing actions which require precise pleadings as to the nature of the claim or defence, as well as the facts upon which the claim is based. There are no comparable rules governing Notices of Application for Judicial Review.
+[21]
+As a consequence, the Federal Court of Appeal has determined that an application for judicial review should not be struck out prior to a hearing on the merits, unless the application is "so clearly improper as to be bereft of any possibility of success". The Court further observed that "[s]uch cases must be very exceptional and cannot include cases ... where there is simply a debatable issue as to the adequacy of the allegations in the notice of motion":
+CITATION_SUPPRESSED.
+[22]
+Unless a moving party can meet this very stringent standard, the "direct and proper way to contest an originating notice of motion which the respondent thinks to be without merit is to appear and argue at the hearing of the motion itself":
+CITATION_SUPPRESSED; see also
+REFERENCE_SUPPRESSED, rev'd on other grounds 2007 SCC 33, [2007] 2 S.C.R. 793.
+VI.
+Is the Application Moot Insofar as it Relates to Subsection 10(2) of the Act?
+[23]
+As the Supreme Court of Canada noted in
+REFERENCE_SUPPRESSED, mootness is a policy or practice that allows a court to decline to decide cases that do not involve a live controversy between the parties, but raise only hypothetical or abstract questions.
+[24]
+The jurisdiction to strike a proceeding for mootness stems from the Court's inherent jurisdiction to control its own process, and not by reference to the power conferred on the Court by Rule 221 of the
+Federal Courts Rules
+, S.O.R./98-106:
+REFERENCE_SUPPRESSED.
+[25]
+I do not understand there to be any dispute that this application is properly before the Court, to the extent that it relates to NSERC's original subsection 10(2) claim for exemption. NSERC claimed this exemption in its first response to Dr. Lukács' access request, and it was investigated by and reported on by the OIC prior to the commencement of Dr. Lukács' application. As a consequence, the procedural requirements of section 41 of the Act have been satisfied.
+[26]
+That said, by the time that the OIC delivered its report, NSERC was no longer relying on subsection 10(2) to refuse Dr. Lukács access to the requested documentation. There is thus no live controversy between the parties as to whether this exemption was properly claimed by NSERC, and Dr. Lukács cannot derive any benefit from a judicial decision in this regard. To this extent, Dr. Lukács' application is clearly moot.
+[27]
+While the Court has discretion to decide a case that has become moot, Dr. Lukács has not identified any principled basis that would justify the expenditure of scarce judicial resources to decide the propriety of an exemption that NSERC is no longer claiming. The availability of a claimed exemption is largely a fact-specific exercise, and does not involve an issue of public importance that would transcend the interests of these parties. Nor is the availability of the subsection 10(2) exemption in this case an issue that is capable of repetition, but otherwise elusive of review. Consequently, I decline to exercise my discretion to allow this aspect of the application to proceed notwithstanding the fact that it is moot.
+[28]
+The next question is whether the application should be struck on the basis that it is premature, insofar as it relates to the exemptions that are actually being relied upon by NSERC. To answer this question, it is necessary to start by having regard to the procedural requirements of the
+Access to Information Act
+.
+VII.
+The Requirements of Section 41 of the
+Access to Information Act
+[29]
+Subsection 41 of the Act provides that anyone denied access to a record requested under the legislation may "if a complaint has been made to the Information Commissioner in respect of the refusal, apply to the Court for a review of the matter within forty-five days after the time the results of an investigation of the complaint by the Information Commissioner are reported to the complainant under subsection 37(2) ...".
+[30]
+Subsection 37(2) of the Act provides that after investigating a complaint, the OIC shall report to the complainant and the government institution the results of the investigation.
+[31]
+In
+REFERENCE_SUPPRESSED
+,
+[2012] 2 F.C.R. 421, the Federal Court of Appeal identified three prerequisites that an individual seeking access to information must satisfy before applying to the Federal Court under section 41 of the Act. These are:
+1. The applicant must have been "refused access" to a requested record;
+2. The applicant must have complained to the OIC about the refusal; and
+3. The applicant must have received a report of the OIC under subsection 37(2) of the Act.
+[32]
+As Justice Stratas observed in
+REFERENCE_SUPPRESSED, section 41 of the Act "is a statutory expression of the common law doctrine that, absent exceptional circumstances, all adequate and alternative remedies must be pursued before resorting to an application for judicial review".
+[33]
+The parties agree that the first two
+CITATION_SUPPRESSED
+criteria have been met in this case. Where they disagree is in relation to the third criterion.
+[34]
+As noted earlier, NSERC asserts that the OIC has yet to report on the availability of exemptions under sections 19(1), 21(1)(b) and 23 of the Act, and that Dr. Lukács' application for judicial review is premature in the absence of such a report.
+[35]
+Dr. Lukács submits that the third
+CITATION_SUPPRESSED
+criterion only requires that an applicant receive "a report" from the OIC. He submits that he has received "a report", together with notice from the OIC of his right to seek judicial review with respect to NSERC's refusal to provide him with access to the requested documents.
+[36]
+According to Dr. Lukács, section 41 of the Act does not specify what an OIC report must address. Dr. Lukács also submits that the OIC cannot bifurcate its investigations and reports, as it appears to have done in this case. According to Dr. Lukács, once the OIC has delivered "a report" in relation to an access complaint, it is
+functus officio
+and loses jurisdiction over the matter.
+[37]
+It is plain and obvious that Dr. Lukács' submissions on this point cannot succeed.
+[38]
+Section 34 of the Act makes it clear that the OIC is master of its own procedure insofar as the conduct of investigations is concerned. I see nothing in the legislative structure that would preclude the OIC from investigating and reporting on a complaint in stages as it is doing here.
+[39]
+We must, moreover, keep in mind that this case involves a challenge to NSERC's refusal to grant access to Dr. Lukács, and not an application to judicially review the way that the OIC had decided to investigate Dr. Lukács' complaint.
+[40]
+I also cannot accept Dr. Lukács' argument that once the OIC has delivered a report, even if that report only deals with a portion of an access complaint, it is
+functus officio
+and loses jurisdiction over a matter.
+[41]
+The doctrine of
+functus officio
+provides that once a decision-maker has done everything necessary to perfect his or her decision, he or she is then barred from revisiting that decision, other than to correct clerical or other minor errors. The policy rationale underlying this doctrine is the need for finality in proceedings:
+REFERENCE_SUPPRESSED.
+[42]
+In order to engage the principle of
+functus officio
+, the decision in issue must be final. In the context of judicial decision-making, a decision may be described as final when "... it leaves nothing to be judicially determined or ascertained thereafter, in order to render it effective and capable of execution, and is absolute, complete and certain ...": G. Spencer Bower& A.K. Turner,
+The Doctrine of Res Judicata
+, 2d. ed. (London: Butterworths, 1969) at 132, cited in Donald J.M. Brown & John M. Evans,
+Judicial Review of Administrative Action in Canada
+, loose-leaf (Toronto: Thomson Reuters, 2014), vol. 3 at 12:6222.
+[43]
+Functus officio
+can apply in the context of administrative decision-making:
+CITATION_SUPPRESSED. To apply, however, it still requires that there be a
+final decision
+. The OIC's report was not a
+final
+one, as it clearly deferred consideration of the substantive grounds for the refusal of access to a future investigation. It was, moreover, arguably not even a
+decision
+as it did not finally determine any rights. In contrast to investigative bodies such as the Canadian Human Rights Commission, the OIC does not make binding decisions, and only has the power to issue recommendations. I am thus not persuaded that the doctrine of
+functus officio
+has any application in a non-adjudicative, investigative process such as that in issue in this case.
+VIII.
+The Power of a Government Institution to Amend its Grounds for Refusing Access
+[44]
+Dr. Lukács also asserts that he has only made one access request, which was refused by NSERC. According to Dr. Lukács, the fact that NSERC repeatedly amended its grounds for refusing access does not create multiple decisions, each of which must be subject to separate applications for judicial review. If this were so, Dr. Lukács contends that a government institution could avoid its responsibilities under the Act by repeatedly amending its grounds of review every time the OIC is about to complete its investigation.
+[45]
+Although he did not raise this argument before the OIC, Dr. Lukács submits that a government institution cannot amend its grounds for refusing access to documents once a complaint has been filed with the OIC. In support of this claim, Dr. Lukács cites the Federal Court of Appeal's decision in
+REFERENCE_SUPPRESSED. That decision is, however, readily distinguishable from the present case, as the amended grounds relied upon in
+CITATION_SUPPRESSED
+were only asserted by the government institution
+after
+the delivery of the Privacy Commissioner's report, and not before.
+[46]
+The jurisprudence has, moreover, established that a government institution can indeed amend the grounds asserted for denying access if it does so
+before
+the OIC has reported in relation to an access complaint: see, for example,
+REFERENCE_SUPPRESSED.
+[47]
+CITATION_SUPPRESSED
+involved a request for access to a computer-readable version of the Revised Statutes of Canada. Access was initially denied to protect the economic interests of the government, as it was in the process of making the statutes available for sale in an electronic format.
+[48]
+Mr. Tolmie filed a complaint with the OIC regarding the refusal to provide access to the requested documents. However, before the OIC could complete its investigation, the requested information became publicly available. Accordingly, the government institution amended its initial response to claim that the information was published material available for purchase by the public.
+[49]
+The OIC found that the government institution's first ground for not disclosing the requested information was justified at the time of the complaint. The OIC further found that the amended ground asserted by the government institution justified non-disclosure at the date of the report, as the information was available on the internet by that time.
+[50]
+Justice McGillis dismissed Mr. Tolmie's application, noting that the OIC had "expressly considered the question of whether the respondent could rely on an additional ground of exemption raised during the course of the investigation". She found that the OIC had properly determined that, on the facts of that case, the government institution was entitled to raise an additional ground of exemption during the course of the OIC's investigation:
+CITATION_SUPPRESSED.
+[51]
+It is thus clear that there is no blanket prohibition on the ability of government institutions to amend the grounds relied upon to justify the refusal of access to documents once a complaint has been filed with the OIC, and that they can amend the grounds of exemption during the OIC investigative process.
+[52]
+Dr. Lukács argued that little weight should be given to Justice McGillis' decision in
+CITATION_SUPPRESSED
+, because the Federal Court of Appeal subsequently overturned a decision referred to in her reasons:
+REFERENCE_SUPPRESSED.
+[53]
+While this is true, the Federal Court of Appeal did not appear be concerned about the fact that the government institution had amended its grounds for exemption in
+CITATION_SUPPRESSED
+while the matter was still before the OIC. Indeed the entire Federal Court of Appeal decision relates to the amended ground.
+[54]
+Insofar as this Court's decision in
+REFERENCE_SUPPRESSED, is concerned, the facts of that case are readily distinguishable from the present case. In
+CITATION_SUPPRESSED
+, a third party brought an application under section 44 of the Act, objecting to the proposed disclosure by a government institution. The case thus did not involve a complaint to the OIC, nor was an OIC investigation or report involved, with the result that the section 41 prerequisites for commencing a Federal Court application did not apply. The Court's comments at paragraph 34 of
+CITATION_SUPPRESSED
+must be read in that context.
+IX.
+Is the Application Premature to the Extent that it Relates to NSERC's Other Asserted Exemptions?
+[55]
+The OIC has yet to investigate or report on the availability of the exemptions claimed by NSERC under sections 19(1), 21(1)(b) and 23 of the Act. Dr. Lukács' application for judicial review is thus premature:
+CITATION_SUPPRESSED The application should therefore be struck on this basis.
+X.
+Conclusion
+[56]
+Much of Dr. Lukács' dissatisfaction stems from the OIC's decision to respond to his complaint by dividing its investigative and reporting functions into two phases. I agree with the parties that it is puzzling why the OIC would choose to report on a ground (subsection 10(2) of the Act) that was no longer in issue as of the date of the report, while at the same time opting not to investigate a ground (subsection 19(1) of the Act - personal information) that NSERC had asserted some two years earlier. However, as was noted earlier, the OIC is master of its own procedure, and this application does not relate to the way that the OIC has performed its statutory duties.
+[57]
+To the extent that Dr. Lukács' application relates to NSERC's refusal to grant him access to the requested information under subsection 10(2) of the Act, the application is moot, as NSERC is no longer claiming an exemption under that provision.
+[58]
+To the extent that Dr. Lukács' application relates to NSERC's refusal to grant him access to the requested information under sections 19(1), 21(1)(b) and 23 of the Act, the application is premature. The OIC has neither investigated nor reported on this aspect of Dr. Lukács' complaint, with the result that the statutory preconditions for the commencement of an application for judicial review have not been met in this regard.
+[59]
+In these circumstances, Dr. Lukács' application is clearly bereft of any chance of success, and NSERC's motion is granted. It will, of course, be open to Dr. Lukács to file a further application for judicial review in the future if he is not satisfied with the results of the OIC's investigation into the outstanding aspects of his access complaint.
+[60]
+NSERC has not sought its costs of this application, and Dr. Lukács has not persuaded me that this case raises an important new principle regarding the
+Access to Information Act
+such that he should be entitled to his costs, notwithstanding the result. Consequently, no order will be made as to costs.
+JUDGMENT
+[61]
+THIS COURT ORDERS AND ADJUDGES that
+:
+1. NSERC's motion is granted, and this application for judicial review is struck out.
+Motion granted.
+Editor: E. Joanne Oley/nmg
+APPENDIX
+Access to Information Act
+, R.S.C. 1985, c. A-1
+10. (1) Where the head of a government institution refuses to give access to a record requested under this Act or a part thereof, the head of the institution shall state in the notice given under paragraph 7(a)
+(a) that the record does not exist, or
+(b) the specific provision of this Act on which the refusal was based or, where the head of the institution does not indicate whether a record exists, the provision on which a refusal could reasonably be expected to be based if the record existed,
+and shall state in the notice that the person who made the request has a right to make a complaint to the Information Commissioner about the refusal
+(2) The head of a government institution may but is not required to indicate under subsection (1) whether a record exists.
+[...]
+19. (1) Subject to subsection (2), the head of a government institution shall refuse to disclose any record requested under this Act that contains personal information as defined in section 3 of the Privacy Act.
+[...]
+21. (1) The head of a government institution may refuse to disclose any record requested under this Act that contains
+[...]
+(b) an account of consultations or deliberations in which directors, officers or employees of a government institution, a minister of the Crown or the staff of a minister participate,
+[...]
+if the record came into existence less than twenty years prior to the request.
+23. The head of a government institution may refuse to disclose any record requested under this Act that contains information that is subject to solicitor-client privilege.
+34. Subject to this Act, the Information Commissioner may determine the procedure to be followed in the performance of any duty or function of the Commissioner under this Act.
+37. (1) If, on investigating a complaint in respect of a record under this Act, the Information Commissioner finds that the complaint is well-founded, the Commissioner shall provide the head of the government institution that has control of the record with a report containing
+(a) the findings of the investigation and any recommendations that the Commissioner considers appropriate; and
+(b) where appropriate, a request that, within a time specified in the report, notice be given to the Commissioner of any action taken or proposed to be taken to implement the recommendations contained in the report or reasons why no such action has been or is proposed to be taken.
+(2) The Information Commissioner shall, after investigating a complaint under this Act, report to the complainant and any third party that was entitled under subsection 35(2) to make and that made representations to the Commissioner in respect of the complaint the results of the investigation, but where a notice has been requested under paragraph (1)(b) no report shall be made under this subsection until the expiration of the time within which the notice is to be given to the Commissioner.
+(3) Where a notice has been requested under paragraph (1)(b) but no such notice is received by the Commissioner within the time specified therefor or the action described in the notice is, in the opinion of the Commissioner, inadequate or inappropriate or will not be taken in a reasonable time, the Commissioner shall so advise the complainant in his report under subsection (2) and may include in the report such comments on the matter as he thinks fit.
+(4) Where, pursuant to a request under paragraph (1)(b), the head of a government institution gives notice to the Information Commissioner that access to a record or a part thereof will be given to a complainant, the head of the institution shall give the complainant access to the record or part thereof
+(a) forthwith on giving the notice if no notice is given to a third party under paragraph 29(1)(b) in the matter; or
+(b) forthwith on completion of twenty days after notice is given to a third party under paragraph 29(1)(b), if that notice is given, unless a review of the matter is requested under section 441.
+(5) Where, following the investigation of a complaint relating to a refusal to give access to a record requested under this Act or a part thereof, the head of a government institution does not give notice to the Information Commissioner that access to the record will be given, the Information Commissioner shall inform the complainant that the complainant has the right to apply to the Court for a review of the matter investigated.
+41. Any person who has been refused access to a record requested under this Act or a part thereof may, if a complaint has been made to the Information Commissioner in respect of the refusal, apply to the Court for a review of the matter within forty-five days after the time the results of an investigation of the complaint by the Information Commissioner are reported to the complainant under subsection 37(2) or within such further time as the Court may, either before or after the expiration of those forty-five days, fix or allow.
+53. (1) Subject to subsection (2), the costs of and incidental to all proceedings in the Court under this Act shall be in the discretion of the Court and shall follow the event unless the Court orders otherwise.
+(2) Where the Court is of the opinion that an application for review under section 41 or 42 has raised an important new principle in relation to this Act, the Court shall order that costs be awarded to the applicant even if the applicant has not been successful in the result.
+10. (1) En cas de refus de communication totale ou partielle d'un document demandé en vertu de la présente loi, l'avis prévu à l'alinéa 7a) doit mentionner, d'une part, le droit de la personne qui a fait la demande de déposer une plainte auprès du Commissaire à l'information et, d'autre part:
+a) soit le fait que le document n'existe pas;
+b) soit la disposition précise de la présente loi sur laquelle se fonde le refus ou, s'il n'est pas fait état de l'existence du document, la disposition sur laquelle il pourrait vraisemblablement se fonder si le document existait.
+(2) Le paragraphe (1) n'oblige pas le responsable de l'institution fédérale à faire état de l'existence du document demandé.
+[...]
+19. (1) Sous réserve du paragraphe (2), le responsable d'une institution fédérale est tenu de refuser la communication de documents contenant les renseignements personnels visés à l'article 3 de la Loi sur la protection des renseignements personnels.
+[...]
+21. (1) Le responsable d'une institution fédérale peut refuser la communication de documents datés de moins de vingt ans lors de la demande et contenant:
+[...]
+b) des comptes rendus de consultations ou délibérations auxquelles ont participé des administrateurs, dirigeants ou employés d'une institution fédérale, un ministre ou son personnel;
+[...]
+23. Le responsable d'une institution fédérale peut refuser la communication de documents contenant des renseignements protégés par le secret professionnel qui lie un avocat à son client.
+34. Sous réserve des autres dispositions de la présente loi, le Commissaire à l'information peut établir la procédure à suivre dans l'exercice de ses pouvoirs et fonctions.
+37. (1) Dans les cas où il conclut au bien-fondé d'une plainte portant sur un document, le Commissaire à l'information adresse au responsable de l'institution fédérale de qui relève le document un rapport où:
+a) il présente les conclusions de son enquête ainsi que les recommandations qu'il juge indiquées;
+b) il demande, s'il le juge à propos, au responsable de lui donner avis, dans un délai déterminé, soit des mesures prises ou envisagées pour la mise en oeuvre de ses recommandations, soit des motifs invoqués pour ne pas y donner suite.
+(2) Le Commissaire à l'information rend compte des conclusions de son enquête au plaignant et aux tiers qui pouvaient, en vertu du paragraphe 35(2), lui présenter des observations et qui les ont présentées; toutefois, dans les cas prévus à l'alinéa (1)b), le Commissaire à l'information ne peut faire son compte rendu qu'après l'expiration du délai imparti au responsable de l'institution fédérale
+(3) Le Commissaire à l'information mentionne également dans son compte rendu au plaignant, s'il y a lieu, le fait que, dans les cas prévus à l'alinéa (1)b), il n'a pas reçu d'avis dans le délai imparti ou que les mesures indiquées dans l'avis sont, selon lui, insuffisantes, inadaptées ou non susceptibles d'être prises en temps utile. Il peut en outre y inclure tous commentaires qu'il estime utiles.
+(4) Dans les cas où il fait suite à la demande formulée par le Commissaire à l'information en vertu de l'alinéa (1)b) en avisant le Commissaire qu'il donnera communication totale ou partielle d'un document, le responsable d'une institution fédérale est tenu de donner cette communication au plaignant:
+a) immédiatement, dans les cas où il n'y a pas de tiers à qui donner l'avis prévu à l'alinéa 29(1)b);
+b) dès l'expiration des vingt jours suivant l'avis prévu à l'alinéa 29(1)b), dans les autres cas, sauf si un recours en révision a été exercé en vertu de l'article 44.
+(5) Dans les cas où, l'enquête terminée, le responsable de l'institution fédérale concernée n'avise pas le Commissaire à l'information que communication du document ou de la partie en cause sera donnée au plaignant, le Commissaire à l'information informe celui-ci de l'existence d'un droit de recours en révision devant la Cour.
+41. La personne qui s'est vu refuser communication totale ou partielle d'un document demandé en vertu de la présente loi et qui a déposé ou fait déposer une plainte à ce sujet devant le Commissaire à l'information peut, dans un délai de quarante-cinq jours suivant le compte rendu du Commissaire prévu au paragraphe 37(2), exercer un recours en révision de la décision de refus devant la Cour. La Cour peut, avant ou après l'expiration du délai, le proroger ou en autoriser la prorogation.
+53. (1) Sous réserve du paragraphe (2), les frais et dépens sont laissés à l'appréciation de la Cour et suivent, sauf ordonnance contraire de la Cour, le sort du principal.
+(2) Dans les cas où elle estime que l'objet des recours visés aux articles 41 et 42 a soulevé un principe important et nouveau quant à la présente loi, la Cour accorde les frais et dépens à la personne qui a exercé le recours devant elle, même si cette personne a été déboutée de son recours.
+[End of document]

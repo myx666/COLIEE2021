@@ -1,0 +1,800 @@
+[1]
+Blais, J.
+: The within application is brought by the applicants, Novartis AG and Novartis Pharmaceuticals Canada Inc. (collectively "Novartis"), for an order under subsection 6(1) of the
+Patented Medicines (Notice of Compliance Regulations
+) (the "
+Regulations
+"). The order sought in the notice of application is to prohibit the respondent, the Minister of Health (the "Minister of Health"), from issuing a notice of compliance ("NOC"), under section C.08.004 of the
+Food and Drug Regulations
+, to the respondent, Apotex Inc. ( <FRAGMENT_SUPPRESSED> ) in connection with Apotex' version of the drug cyclosporin until after the expiration of Canadian Letters Patent 1,332,150.
+[2]
+In its memorandum of points of argument, Novartis stated that the order sought is to prohibit the Minister of Health from issuing an NOC to Apotex in connection with Apotex' abbreviated new drug submission for its generic version of Novartis' drug, Neoralr cyclosporin.
+BACKGROUND
+Facts
+Apotex' notice of allegation
+[3]
+Novartis is the owner of Canadian Letters Patent 1,332,150 (the "'150 patent").
+[4]
+Pursuant to section 4 of the
+Regulations
+, Novartis included the patent on patent lists filed with the Minister of Health in respect of NOCs issued to it for 25 mg, 50 mg, and 100 mg oral capsules and 100 mg/ml oral liquid of its cyclosporin drug products.
+[5]
+By a letter dated May 28, 1999, Apotex provided a notice of allegation to Novartis. In its notice of allegation, Apotex alleges that claims 1, 6-12, 15-17 and 27 of the '150 patent are invalid. Apotex alleged that the impugned claims of the '150 patent were invalid on three grounds, namely, anticipation, obviousness and over breadth.
+[6]
+The remainder of the claims have been addressed in a distinct allegation provided by a notice of allegation dated June 10, 1999 giving rise to the proceeding in Court File No. T-1337-99. In that notice of allegation, non-infringement of the remaining claims of the '150 patent was alleged. Upon agreement of the parties, the latter proceeding has been stayed pursuant to Court order, its result to be guided by the result of the within proceeding.
+[7]
+The proceeding in the case at bar, is in respect of the seventh notice of allegation that Novartis has received from Apotex, in respect of Apotex' submissions for NOCs relating to cyclosporin. It is the third time that Apotex has alleged that the '150 patent is invalid, relying on the same prior art document, namely Canadian Patent 1,339,667 (the "667 patent").
+[8]
+The first time Apotex alleged invalidity of the '150 patent was in a notice of allegation dated March 10, 1995, wherein the only ground of invalidity raised was anticipation by the '667 patent.
+[9]
+The second time Apotex alleged invalidity of the '150 patent was in a notice of allegation dated February 22, 1996, wherein Apotex alleged that the '150 patent was anticipated, obvious and over broad based on the '667 patent.
+[10]
+After Novartis commenced proceedings under the
+Regulations
+, Apotex withdrew both of these earlier notices of allegation. In those two proceedings, the case had moved well beyond the initiation of the proceedings, and Apotex experts had been cross-examined on their opinions in regards to the validity of the '150 patent. Subsequently, this Court has now twice dismissed these similar proceedings, once before a hearing on the merits and again, on the grounds of mootness.
+[11]
+The stated reason for withdrawal of the notices of allegation was that Apotex had abandoned the formulations that it was relying upon.
+Cyclosporin
+[12]
+The medicine cyclosporin possesses pharmacological, and in particular, immunosuppressive anti-inflammatory and/or anti-parasitic activity. It has particular clinical relevance as an immunosuppressive agent used in treating patients who have undergone organ transplant surgery to help prevent rejection of transplant. Cyclosporin is also used for the treatment of various auto-immune diseases.
+[13]
+Cyclosporin is a large molecule and has hydrophobic characteristics. It is therefore difficult to absorb, tends to be unstable in storage and difficult to formulate due to its inherent insolubility. Due to these problems, it is difficult to formulate cyclosporin into practical dosage forms. The first clinical uses of cyclosporin were in formulations made by solubilizing cyclosporin in olive oil. However, this approach was found to be unacceptable for long term use due to the excessive quantities of olive oil that patients had to consume. Therefore, there was an increasing need to design a better dosage form.
+'667 patent and '307 patent
+[14]
+In 1979, Sandoz (Novartis' previous name) filed the '667 patent in respect of cyclosporin formulations. The U.S. counterpart to the '667 patent is U.S. Patent 4,388,307 (the "'307 patent").
+[15]
+These patents represented an initial improvement in formulating cyclosporin over the original use of olive oil.
+[16]
+The '667 patent discloses that improved cyclosporin formulations can be made using certain ingredients including particular trans-esterification products. Some of the formulations of the '667 and '307 patent that use these ingredients are indicated to be in the form of emulsions. In particular, at pages 7 and 8 of the '667 patent the word "emulsion" appears in an example of a drinking solution of cyclosporin. The '307 counterpart contains this reference as well as a couple of additional references.
+[17]
+In addition, at column 6 of the '307 patent, it is indicated that some of these emulsion formulations can be self-emulsifying systems. Self-emulsifying as used in this patent simply means that when the formulation is added to water, e.g. upon ingestion into the stomach, an emulsion forms without or with only very limited additional energy being required to create the emulsion.
+[18]
+The composition disclosed and claimed in the '667 and '307 patents is a preconcentrate comprised of cyclosporin in addition to ethanol (component (c) of claim 1 of the '307 patent), which is a hydrophilic phase component; vegetable oil (component (b) of claim 1 of the '307 patent), which is a lipophilic phase component; and a trans-esterification product of a natural vegetable oil triglyceride and a polyalkylene polyol (component (a) of claim 1 of the '307 patent), which is a surfactant.
+[19]
+In the result, the '667 and '307 patents disclose and claim a cyclosporin composition in a three phase component system comprising a hydrophilic phase component, a lipophilic phase component and a surfactant.
+Sandimmune®
+[20]
+The cyclosporin formulations marketed under the trade-mark Sandimmune® in accordance with the '667 patent were the first commercial formulation of cyclosporin.
+[21]
+This product consisted of an oral solution in the form of a regular or conventional emulsion preconcentrate. This product became commercially available in Canada in 1984. When added to ordinary beverages such as water, milk or orange juice, Sandimmune® formed an emulsion. These emulsions appear as milky liquids thus indicating that a large droplet size has been formed.
+[22]
+Although Sandimmune® represented an important improvement in the formulation of cyclosporin, it displayed less than optimal characteristics, such as relatively poor bioavailability (absorption of the cyclosporin into the bloodstream). In addition, variability in inter- and intra-patient bioavailability was very large.
+[23]
+It became apparent that improvements in the Sandimmune® formulation were required. One problem that arose from the low bioavailability of the Sandimmune® formulation was that careful monitoring of the patient was required. The general opinion was that unless improvements in the bioavailability were achieved, it might be necessary to turn to a different immunosuppressant drug, as the levels of cyclosporin required to achieve therapeutic efficacy were potentially toxic.
+'150 patent
+[24]
+The '150 patent provides a solution to the above problems in the form of an improved formulation over Sandimmune®.
+[25]
+Claim 1 of the '150 patent claims the following:
+"1. A pharmaceutical composition in the form of an oil-in-water microemulsion preconcentrate and comprising cyclosporin dissolved in 1) a hydrophilic phase component; 2) a lipophilic phase component; and 3) a surfactant."
+[26]
+Claim 27 provides:
+"27. A pharmaceutical composition in the form of a microemulsion and comprising a composition to any of claims 1 to 26 and water."
+[27]
+In the discussion of the prior art, the '150 patent refers to the formulations made in accordance with the '307 patent (such as Sandimmune®). While this information was an improvement, it was also recognized that the level of bioavailability (the amount of the drug that is absorbed in the blood stream) of the earlier commercial formulation, was very low, approximately 30%.
+[28]
+More importantly, there were wide ranges in both inter- and intra-patient bioavailability (variability) with these earlier formulations.
+[29]
+At page 8 of the '150 patent, it is set out that the formulation provides for an oil-in-water microemulsion preconcentrate and oil-in-water microemulsion formulation that contain cyclosporin in a sufficiently high concentration to permit convenient oral administration as well as achieving improved efficacy, in terms of bioavailability characteristics. More importantly, it is disclosed that these compositions:
+"[...] enable effective cyclosporin dosage with concomitant enhancement of resorption/bioavailability levels, as well as reduced variability in resorption/bioavailability levels achieved both for individual patients receiving cyclosporin therapy as well as between individuals."
+[30]
+The manner in which these improvement were achieved is to employ an oil-in-water microemulsion preconcentrate formulation, as opposed to the previous Sandimmune® emulsion formulation.
+[31]
+Thus, the '150 patent recognized that formulations of cyclosporin in the form of oil-in-water microemulsions provided not only better and more complete absorption of cyclosporin into the bloodstream but also less variability in blood levels between patients and within the same patient.
+[32]
+Further, the '150 patent teaches how to make these oil-in-water microemulsion preconcentrates and microemulsions with cyclosporin. In particular, the patent teaches that one can form cyclosporin oil-in-water microemulsion preconcentrates and microemulsions by employing hydrophilic phase components, lipophilic phase components and surfactants in appropriate proportions.
+[33]
+It is also taught that the same components in the wrong proportions will not result in an oil-in-water microemulsion. Thus, even if one had a hydrophilic component, a lipophilic component and a surfactant that could make an oil-in-water microemulsion, one would not necessarily make a microemulsion, unless the relative proportions are in the right range. The patent teaches how to determine the correct range. More importantly, the patent is the first teaching that indicates that oil-in-water microemulsions and their preconcentrates are achievable with cyclosporin. It is also the first teaching of the advantages of an oil-in-water microemulsion formulation not only to achieve improved bioavailability, but also to lower inter- and intra-patient variability for cyclosporin formulations.
+Neoral
+[34]
+Novartis has applied the teachings of the '150 patent in its current commercial product, Neoralr. Cyclosporin microemulsions and microemulsion preconcentrates as represented by Neoralr were an answer to the deficiencies of Sandimmune®. This new formulation forms an oil-in-water microemulsion when administered, e.g. when added to water or any other aqueous medium, e.g. juice, milk or the contents of the stomach. In 1995, Novartis introduced this new cyclosporin oil-in-water microemulsion preconcentrate formulation as Neoralr capsules and oral solution.
+[35]
+Studies show that cyclosporin in the Neoralr formulation is, relative to the Sandimmune® formulation, absorbed more rapidly, in higher concentrations and with less intra- and inter-individual absorption variability. That is, there is less variability in the degree of absorption for the same patient over the same time, as well as less variability in the degree of absorption for different patients with Neoralr than was the case with Sandimmune®.
+[36]
+In contrast to the milky solutions obtained on dilution of the Sandimmune® formulation, those obtained on dilution of Neoralr are clear and opalescent. The reason for this is that Neoralr is an oil-in-water microemulsion preconcentrate formulation as opposed to an oil-in-water emulsion preconcentrate formulation.
+[37]
+During 1995 and 1996, both Sandimmune® and Neoralr cyclosporin products were on the market in Canada. One reason Novartis kept Sandimmune® on the market after the 1995 introduction of Neoralr was that generally there is a reluctance amongst doctors to take patients off a product that is working well. However, due to the superiority of the Neoralr product, nearly all patients are now prescribed with Neoralr.
+[38]
+The benefits of the Neoralr formulation were so great, that Neoralr soon overtook Sandimmune® in terms of sales. In 1996, as a result of the virtually complete replacement of Sandimmune® by Neoralr, Novartis ceased to actively market Sandimmune®. While the Sandimmune® product is still available under the Special Access Program for a few patients who could not switch to Neoralr, nearly all patients treated with cyclosporin are now prescribed with Neoralr. Today, Neoralr is the only cyclosporin product which is listed in the Compendium Pharmaceutical Specialities ("CPS").
+Emulsion and Microemulsion
+[39]
+The major point of difference between Apotex and Novartis concerns the correct definition of a microemulsion.
+[40]
+The '150 patent provides for improved pharmaceutical formulations of the drug cyclosporin. The key to these novel formulations is that they are in the form of oil-in-water (commonly abbreviated as "o/w") microemulsion preconcentrates. These formulations provide o/w microemulsions upon the addition of water. These formulations result in improved cyclosporin bioavailability and reduced inter- and intra-patient variability of bioavailability.
+[41]
+An emulsion is a mixture of two substances or phases, one phase "suspended" in the other phase. Microemulsions are similar to emulsions and share a number of characteristics. Both are mixtures consisting of two immiscible phases, namely a continuous phase as well as small droplets suspended in the continuous phase. The droplets are also called the discontinuous phase. Emulsions and microemulsions generally are of two basic types: "oil-in-water" or "water-in-oil" emulsion or microemulsion.
+[42]
+The use of the terms "oil" and "water" do not indicate emulsions or microemulsions and are limited to simply oil and water. Other terms used to describe the "oil" phase are "lipophilic", i.e. fat-loving or "hydrophobic", i.e. water-hating. Another term used to describe the "water" phase is hydrophilic, i.e. water-loving.
+[43]
+In an o/w emulsion, droplets of an oil or lipophilic phase are suspended within the continuous water or aqueous phase. An example of an o/w emulsion is oil and vinegar salad dressing. Without shaking, the oil and the vinegar form two layers. Upon shaking, the two phases mix and the dressing becomes milky. The milky appearance arises from the formation of an o/w emulsion, namely large droplets of the oil being suspended in the vinegar. Such an emulsion, however, is not stable as the emulsion quickly settles back to the two original layers.
+[44]
+Regular emulsions typically require energy to be added, such as mixing, to form the emulsion, though with the inclusion of surfactants, they can be self-emulsifying, as in the case of Novartis' Sandimmune® product. Emulsions appear opaque due to the relatively large droplet sizes. The droplet size of an emulsion is typically in the order of 4000 Å or more, but can range up to 10,000 Å or even larger. When the oil-in-water emulsion forms, the lipophilic component is distributed throughout the continuous aqueous phase.
+[45]
+Emulsions (and emulsion preconcentrates) have been employed by formulators for many decades as an appropriate dosage form for lipid soluble drugs (such as cyclosporin). The liquid emulsion preconcentrate is placed in a soft gelatin capsule to be ingested by the patient. Once in the gastrointestinal tract of the patient, the soft gelatin capsule dissolves, releasing the liquid preconcentrate which then forms an emulsion with the fluid contained in the gastrointestinal tract.
+[46]
+Formulators have long been aware that the release of the drug from the emulsion system is a function of the composition of the preconcentrate, since the drug must "partition" from the oil to the water and of the particle size of the oil droplets, since this will dictate the efficiency with which the drug partitions. Formulators have long known that the smaller the droplet size, the higher the surface area of contact between oil and water and the better the drug blood levels that result.
+[47]
+To the foregoing end, the skilled formulator will make a product such that, when added to water, it will give the smallest possible particle size of the oil droplet containing the drug knowing that this will optimize drug movement into the gastrointestinal tissue and subsequently the blood stream. As part of their art, formulators are well aware as to how to obtain very small particle sizes of the emulsion droplets. This can quickly be achieved with a small number of routine experiments on a laboratory bench.
+[48]
+Microemulsions are identified by their small droplet size, which is less than 2000 Å and typically from 100 Å to 1000 Å. They have further defining characteristics. For example, they are thermodynamically stable. They are monophasic. They also form without any substantial energy input. They are also substantially non-opaque, i.e., translucent or opalescent due to their small particle size.
+[49]
+Emulsions are not very stable and tend to separate easily into separate oil and aqueous phases. In contrast, microemulsions are thermodynamically stable and therefore the components remain in microemulsion form over long periods of time.
+[50]
+Microemulsions are distinct from regular emulsions in that regular emulsions are not thermodynamically stable, are milky in colour and have droplet sizes larger than 2000 Å.
+[51]
+One of the most noticeable differences is that regular emulsions are opaque or milky in appearance, while a microemulsion is transparent or opalescent. This visual difference also reflects significant differences in their functional or physical properties.
+[52]
+Apotex explains that the use of the word "emulsion" to describe a system does not necessarily imply that the system is not or cannot form a microemulsion at selected conditions. A microemulsion is merely an emulsion in which the droplet size is very small. One of the physical manifestations of smaller droplet size is that, as the droplet size falls, the emulsion loses its opaque appearance and may become transparent or opalescent.
+[53]
+Novartis, for its part, indicated that microemulsions can be considered either as distinct from emulsions or as a subset of emulsions depending upon which definition one is using. As noted above, emulsions and microemulsions share some common characteristics, however microemulsions have some unique properties that regular or conventional emulsions do not possess. While there may be some disagreement as to whether microemulsions are a subset of emulsions or whether they are a distinct form, there is no disagreement that use of the term "emulsion" does not necessarily include a microemulsion.
+[54]
+Indeed, the considerable differences between emulsions and microemulsions have been recognized by scientists who work in this area. They have clearly recognized that emulsions and microemulsions are distinct entities. The term "microemulsion" was first coined in the 1940s-50s. Since this date, there have been numerous scientific publications that have discussed and characterized the thermodynamics and stability of microemulsions as a unique class.
+ISSUES
+[55]
+1. Is the sending of Apotex' allegation abusive having regard to the orders of Rothstein and Reed, JJ., dismissing the exact same allegation of invalidity on the grounds of mootness?
+2. Should the Court consider the new prior art introduced by Apotex through its affiant, Dr. Langer, in light of the recent Federal Court of Appeal decision in
+AB Hassle
+?
+3. Decision on objection: File wrapper estoppel.
+4. Is Apotex' allegation of invalidity as set  <FRAGMENT_SUPPRESSED> ' letter of May 28, 1999 justified? In particular, are claims 1, 6-12, 15-17 and 27 of the '150 patent valid?
+(a) Are claims 1, 6-12, 15-17 and 27 of the '150 patent anticipated by the disclosure of either the '667 patent or the '307 patent?
+(b) Are claims 1, 6-12, 15-17 and 27 obvious?
+(c) Are claims 1, 6-12, 15-17 and 27 overly broad?
+ANALYSIS
+1. Is the sending of Apotex' allegation abusive having regard to the orders of Rothstein and Reed, JJ., dismissing the exact same allegation of invalidity on the grounds of mootness?
+[56]
+Novartis submits that this present notice of allegation is duplicitous of the notices of T-860-95 and T35-96. Apotex had the opportunity to have its case of invalidity heard on the merits of both of those proceedings, but chose to withdraw the allegations.
+[57]
+While a generic company may send more than one notice of allegation, the Court of Appeal imposed one important limitation on this right: each successive allegation must be different and its bringing before the Court cannot be seen as an abuse of process.
+[58]
+Novartis suggests that the sending of this notice of allegation which is the same as the two previous allegations of invalidity, amounts to abuse. The earlier decisions, namely that the Apotex' allegation of invalidity is moot and the withdrawal of the allegations, are final decisions. Consequently, this Court has no jurisdiction to hear the same issues.
+[59]
+Apotex submits that, based upon the jurisprudence, it is incumbent upon Novartis to establish, through sworn evidence, that the service of Apotex' notice of allegation here is abusive.
+[60]
+In an attempt to meet this standard, Novartis advances two arguments, neither of which is supported by the evidence. In particular, Novartis asserts that certain representations were made by Novartis to Apotex and the Court at the time that Apotex' previous notices of allegation were withdrawn. Further, Novartis suggests that the basis provided by Apotex for the withdrawal of its previous notices of allegation is untrue.
+[61]
+Apotex contends that based upon the evidence before the Court, it is clear that Apotex previously withdrew its notices of allegation by reason of problems that are entirely irrelevant to this proceeding, namely, compliance with the
+Food and Drug Regulations
+.
+[62]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 157 (T.D.), Rothstein, J., stated:
+"As to the question of res judicata in respect of dismissals for want of prosecution, the law in Alberta was recently canvassed by Master Funduk in a July 27, 1995 decision in
+ <FRAGMENT_SUPPRESSED> ; 31 Alta. L.R.(3d) 279]. Although Master Funduk was not dealing with an order for dismissal under rule 244.1(1), I see no reason why the principles are different in respect of discretionary versus non-discretionary dismissal orders for want of prosecution.
+"Master Funduk concluded that a second action is not an abuse of the process if a prior lawsuit for the same cause of action is dismissed for want of prosecution and that res judicata does not apply. [...]
+"There is ample authority to the effect that res judicata cannot be argued when there has not been an adjudication of the merits of the first action: see for example,
+ <FRAGMENT_SUPPRESSED>  (B.C.S.C.), per McFarlane, J. Res judicata does not apply in the instant case.
+"As to whether this action is a means of circumventing rule 244.1(1), I note that rule 244.1(1) does not state or imply that a second action may not be brought if an earlier action is dismissed thereunder. Master Funduk's reasons  <FRAGMENT_SUPPRESSED>  to which I have referred, are also apt. If a second action may be brought in the Alberta Court of Queen's Bench after an initial action is dismissed for want of prosecution, I see no reason why, if the Federal Court has concurrent jurisdiction, that a second action in this court could not also be brought. Again, although he was dealing with a dismissal for want of prosecution that was made by discretionary order and not an order under rule 244.1(1), I see no reason that his finding on this point would not be equally applicable in respect of a dismissal under rule 244.1(1)."
+[63]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 1 (F.C.A.), the Federal Court of Appeal explained:
+"On April 29, 1993, the respondent (hereinafter 'Apotex'), a Canadian manufacturer of generic products, submitted an application to the Minister for an NOC in respect of its own brand of nizatidine compositions. As Eli Lilly had completed, under the
+Regulations
+, a 'patent list' containing its two patents for nizatidine, Apotex appended to its application and served on Eli Lilly a notice of allegation to the effect that no claim for the medicine itself, and no claim for the use of the medicine in the Eli Lilly patents, would be infringed by the preparation and sale of nizatidine capsules formulated by Apotex, since these would be formulated from bulk nizatidine supplied by Novopharm Ltd. (hereinafter 'Novopharm'), a compulsory licensee of Eli Lilly, pursuant to an agreement between the two generic manufacturers.
+"On June 14, 1993, Eli Lilly commenced an application for prohibition pursuant to subsection 6(1) of the
+Regulations
+. By order dated February 9, 1995, the motions judge in the Trial Division, Madame Justice McGillis, allowed the judicial review application [
+Eli Lilly and  <FRAGMENT_SUPPRESSED> ]. She found that Apotex's allegation was unjustified since the agreement with Novopharm constituted an impermissible sublicense and, in any event, the processing of licensed bulk nizatidine into capsule form would infringe the patentee's rights. An order of prohibition was therefore issued as required by the
+Regulations
+, which order was later on appeal upheld by this Court [66 C.P.R.(3d) 329] whose judgment is now pending before the Supreme Court [70 C.P.R.(3d) vi].
+"Following the issuance of McGillis, J.'s, order, Apotex, while pursuing its appeal, submitted a second notice of allegation and served a copy thereof on Eli Lilly on February 13, 1995. In this second notice, Apotex stated that, in the formulation of its nizatidine capsules, it will use only nizatidine manufactured by means of a process that would not infringe the processes claimed in the Eli Lilly patents. Eli Lilly did not respond. In May, 1995, as Eli Lilly had not applied, under subsection 6(1) of the
+Regulations
+, for an order of prohibition within the 45 day limitation period, Apotex requested confirmation from the Minister that its application for an NOC in respect of its own brand of nizatidine would be processed. Being left without comment from the Minister, Apotex applied to the Trial Division of this Court for declaratory relief and an order in the nature of mandamus compelling the Minister to process Apotex's new drug submission unconstrained by the
+Regulations
+and the prohibition order of Madame Justice McGillis.
+"The different Trial Division judge seized with the application allowed it. Following, in that respect, what he saw as being the jurisprudence of the Court, he held that it was not an abuse of process for Apotex to have filed a second notice of allegation, insofar as the second notice was based on different grounds than the first, which was the case since the first notice was based on the existence of a license, whereas the second was on a non-infringing process. The learned Trial Division judge rejected Eli Lilly's argument that the principle of res judicata applied. As he saw it, the task of the Court in a prohibition proceeding was to determine whether a particular notice of allegation was justified as the contents of the underlying NDS are not directly before the Court. It would appear to him extraordinary to treat McGillis, J.'s, order as resolving any dispute other than that which was before her at the hearing. She obviously could not rule prospectively in respect of issues and evidence that were not before her. It followed that the scope of her prohibition order had to be confined to the specific allegations that were advanced in the proceedings then involved. The conclusion was inevitable: Eli Lilly having failed to commence an application for a prohibition order within 45 days of service of the second notice of allegation, the Minister was free to process Apotex's request."
+[64]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 14 (T.D.), Rothstein, J., stated:
+"The issue of whether a second person may file a second notice of allegations in circumstances such as in the case at bar is one of fairness. Both first and second persons may find themselves in the position of not having filed evidence within the time limited by the rules. Either may be refused an extension of time to file evidence by the court. It would not be fair to allow the second person to circumvent this difficulty and regain the opportunity to file evidence by serving a new notice of allegations when it is not open to the first person to regain the same opportunity because it cannot file a new application for a prohibition order. I do not think that the Governor in Council enacted
+Regulations
+that, in respect of procedure, were intended to treat first and second persons unequally.
+"There is another reason that I do not think that the
+Regulations
+contemplate a second notice of allegations in circumstances such as in the case at bar. The second notice of allegations gives rise to the exact same application for prohibition and evidence by Schering as it has already filed as a result of the first notice of allegations. Once the first application for prohibition has been adjudicated, the matter will have been decided on its merits. That Nu-Pharm has no evidence filed does not change the fact that the court will have made a decision on the merits, on the basis of the material before it. That decision will render the prohibition application res judicata. There will be no basis for a second proceeding at that point because the matter will have already been finally determined.
+[. . . . .]
+"For these reasons, I do not think that the
+Regulations
+contemplate multiple notices of allegations setting forth the same allegations in order to circumvent time-limits in the rules of the court and court orders made in respect of them. A purported new notice of allegations in these circumstances does not start the process again and does not give the second person a fresh opportunity to file evidence."
+[65]
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), Gibson, J., held:
+"As reflected in the relief sought in the later Notice of Motion, these Originating Notices of Motion were not the first filed by Bayer against the Minister and Apotex in respect of the medicine ciprofloxacin. They were in fact the fourth and fifth such Motions, all responsive to notices of allegations by Apotex. The first two applications were heard together by my colleague MacKay, J., who held in favour of Bayer. The third was heard by my colleague Lutfy, J., who found in favour of Apotex. These applications, that is to say the fourth and fifth applications, were, like the first and second, heard together. The argument proceeded almost entirely on the basis of material submitted on Court File T-591-96. These reasons have been written to apply with respect to both applications and copies of the reasons will be filed on both files together with separate orders.
+[. . . . .]
+"Earlier in these reasons, I noted that the notices of allegations giving rise to these applications are the fourth and fifth notices of allegations made by Apotex in respect of ciprofloxacin. Bayer alleges that the fifth notice of allegation is essentially the same as, and not separate and distinct from, the fourth notice of allegation. The fifth notice of allegation arises, it is alleged, under the same provision of the
+Act
+, that is to say subsection 28(2). It involves the same parties, the same medicine, the same Canadian patents and relies in part on the same foreign patent, the Chilean patent. It merely adds the Spanish patent and the German patent application comprised in the 'family I' referred to earlier. Bayer alleges that, through the exercise of reasonable diligence, the references to the Spanish patent and the German patent application could reasonably have been included in the fourth notice of allegation.
+" <FRAGMENT_SUPPRESSED>  one notice of allegation before the Court, provided it is separate and distinct from the others, cannot be seen as an abuse of process.'
+"For this proposition, Mr. Justice Lutfy cites
+ <FRAGMENT_SUPPRESSED>  expressed in the numerous Trial Division decisions referred to by the motions judge to the effect that successive allegations are possible and each one must be treated independently provided it is separate and distinct from the others and its bringing before the Court cannot be seen as an abuse of process.'
+[. . . . .]
+"The issue, then, is not whether multiple notices of allegations in respect of the same medicine and brought by the same 'second person' constitute an abuse of process but rather whether each of those notices of allegations is separate and distinct from each of the others. If they are not, there may be an abuse of process.
+[. . . . .]
+" <FRAGMENT_SUPPRESSED>  provided by earlier decisions in matters of this nature wrote [p. 211]:
+'7. Where second persons fail to file notices of allegation or adequate notices of allegation they "must assume their own risk when it comes to attacks on the adequacy of such allegations once prohibition proceedings are commenced".
+'8. The requirement in paragraph 5(3)(a) of the
+Regulations
+that a second person provide a detailed statement "seems intended ... [to make] the patentee ... fully aware of the grounds on which the applicant seeks issuance of a NOC [that will not lead to infringement of the patent] before the patentee decides whether or not to apply to a court for a determination. Such disclosure would define the issues at a very early stage".'" (Emphasis added, citations omitted)
+[66]
+ <FRAGMENT_SUPPRESSED>  (T.D.), Reed, J., stated:
+"[...] the approach that had been adopted in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.). In that case it was held that the withdrawal of an allegation indicated a concession of infringement and, therefore, the application to which the allegation related should be disposed of by a prohibition order. Counsel for the respondent advised on April 4, 1997, that this proposal was not acceptable. Reference was made to the decisions in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), and
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.). In the former, at 324 and 326-7, Mr. Justice Nadon declined to issue a prohibition order in the case of a withdrawal of an allegation. He decided that the withdrawal of the allegation rendered the application moot. He held that the facts before him did not support a conclusion that the withdrawal constituted a concession that infringement existed:
+'In
+Hassle
+, supra, Justice Richard interpreted the withdrawal of the notice as an admission that the allegations therein were not justified. However, in the case before me there are cogent facts which explain why this notice of allegation was withdrawn. I do not interpret the withdrawal as an admission. In this case the only effect of the withdrawal is to render the proceeding moot. Had I not concluded that the matter is moot I would have concluded, as Richard, J., did in
+Hassle
+, supra, that none of the allegations are justified.'
+"In the
+Merck Frosst
+decision, Mr. Justice Rothstein held that when a second allegation was withdrawn this rendered the proceeding to which it related moot. He held that there remained no adversarial issue having a logical nexus to the proceedings, and that a prohibition order is solely related to the application which gave rise to it, provided that the allegations are in no way interdependent.
+[. . . . .]
+"In the
+AB Hassle
+decision (1995), the facts indicated that the withdrawal of the first allegation and the substitution of a second was an attempt to escape a time limitation that had inadvertently been ignored. Thus, the refiling could be characterized as an abuse of process. But there is no such factual underpinning on this file to support such a characterization of the withdrawal and subsequent refiling. While both allegations are the same (the tablets are not osmotic devices), this does not mean that the formulations themselves are the same, or that an abuse of process occurred in the withdrawal and subsequent refiling. The existence of such can, in any event, be argued in the context of the application on file T-420-98, if the applicants wish to pursue that argument."
+[67]
+In the case at bar, Apotex has explained that it withdrew its notice of allegation because of problems regarding compliance with the
+Food and Drug Regulations
+.
+[68]
+I believe this to be a reasonable explanation. Furthermore, Novartis had not presented further evidence illustrating that the basis provided by Apotex for the withdrawal of its previous notices of allegation as being untrue. Therefore, the Apotex' notice of allegation is not an abuse of process.
+2. Should the Court consider the new prior art introduced by Apotex through its affiant, Dr. Langer, in light of the recent Federal Court of Appeal decision in AB Hassle?
+[69]
+In support of its contention, Novartis relies on
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), where the Federal Court of Appeal held:
+"It seems to me that a key to the determination of this appeal is an appreciation of the role played by a detailed statement within the scheme of the
+Regulations
+. As has been indicated, that statement is to be provided before a section 6 prohibition proceeding can be contemplated by the affected patentee. It serves the purpose of notifying the patentee that, in the view of a second person, a patent listed by the first person pursuant to section 4 of the
+Regulations
+will not be infringed or, alternatively, that the patent is invalid. This accords with the views of Marceau, J.A., in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at 11:
+'The basic purpose of the
+Regulations
+is to provide a means by which patents are noted and protected from possible infringement at the instance of the patent-holder. The
+Regulations
+thus ensure that an NOC is not issued without a patent-holder having the opportunity to defend its patent. This opportunity is not diminished by the fact that the notice of allegation is given first, if, as here, it contains sufficient information for the patent-holder to determine whether to seek a prohibition order and the Court can immediately proceed to determine its justification.'
+"Indeed, this Court has recognized that the detailed statement must be such as to make the patentee fully aware of the grounds for claiming that the issuance of an NOC would not lead to infringement of a listed patent for, otherwise, the patentee would be unable to decide whether or not to initiate a section 6 proceeding. Thus in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), Mahoney, J.A., stated:
+'One further matter warrants comment. Section 5(3)(a) of the
+Regulations
+requires that the applicant for the NOC provide a detailed statement of the basis in fact and law of his statement of allegation. It seems intended that the patentee be fully aware of the grounds on which the applicant says issuance of a NOC will not lead to infringement of the patent before the patentee decides whether or not to apply to a court for a determination. Such disclosure would define the issues at a very early stage.'
+"From the point of view of the patentee, the opportunity to initiate a section 6 proceeding presents advantages and disadvantages. The main advantage is that by paragraph 7(1)(e) the Minister of National Health and Welfare is not to issue the NOC for up to 24 months after receipt of proof of the making of the application for prohibition pursuant to section 6 of the
+Regulations
+. The effect, as was pointed out by Mahoney, J.A.,  <FRAGMENT_SUPPRESSED>  AG, supra, at 337 'is tantamount to an interlocutory injunction' for up to the now reduced period of 24 months. This advantage, while significant, is short term. The principal disadvantage is that where the section 6 proceeding is withdrawn, discontinued or dismissed the patentee is liable to compensate the second person for its loss incurred during the period described in subsection 8(1) of the
+Regulations
+. Hence the patentee would have less reason than formerly to be tardy in prosecuting a section 6 proceeding. On the other hand, the assurance that compensation must be paid to a second person at the end of an unsuccessful section 6 proceeding is no guarantee that the second person will act with despatch in that proceeding.
+[. . . . .]
+"In my view, all of these considerations suggest that a second person must do what, in fact, paragraph 5(3)(a) requires, i.e. set forth in the detailed statement 'the legal and factual basis' for the paragraph 5(1)(b) allegation and to do so in a sufficiently complete manner as to enable the patentee to assess its course of action in response to the allegation.  <FRAGMENT_SUPPRESSED>  (F.C.A.), per Strayer, J.A., at 216. An examination of the detailed statement in issue is thus required in order to determine whether it measures up to this requirement with respect to the allegation that the '693 and '891 Patents are not valid for obviousness.
+[. . . . .]
+'It seems to us that while a notice of allegation does play an important role in the ultimate outcome of litigation of this nature, it is not a document by which the judicial review application may be launched under s. 6 of the
+Regulations
+. That document was put in as a piece of evidence by the appellants; it originated with the application filed before the Minister. Because it is not a document that was filed with the court but with the Minister, in our view the notice of allegation is beyond the reach of the court's jurisdiction in a judicial review proceeding. That being so, the court, in our opinion, lacks jurisdiction to strike out the notice of allegation.'
+"This clearly means that the court has no jurisdiction to make orders concerning the filing of notices of allegation or requiring them to be perfected in some way. The principle is that, by the scheme of the
+Regulations
+, the notice of allegation precedes the institution of prohibition proceedings in this court. It forms part of the background to that proceeding, perhaps what one might loosely refer to as part of the 'cause of action'. A court cannot order that a cause of action be created, or that it be created at a certain time, or in a certain way. It can only deal with it after it is created or allegedly created. Those who fail to file notices of allegation, or adequate notices of allegation, must assume their own risk when it comes to attacks on the adequacy of such allegations once prohibition proceedings are commenced before the court.
+"In my view this reasoning applies equally to a deficiency in a detailed statement of a second person. This Court decided in
+ <FRAGMENT_SUPPRESSED> , that a second person could not in a section 6 proceeding add to the facts that were set forth in its detailed statement. I stated at page 6 of that decision:
+'... there cannot be any doubt that a second person in the position of the Cross-Appellant was under a clear obligation, imposed by subsection 5(3)(a) of the
+Regulations
+, to "provide a detailed statement of the legal and factual basis for the allegation" (emphasis added). I am not persuaded, therefore, that the Motions Judge erred in refusing leave to file further evidence when it was apparent that the purpose was simply to supply a deficiency of the Cross-Appellant's own making in failing to do what was required of it in its detailed statement i.e. providing all of the facts it intended to rely upon ...'
+"Further, the respondent contends that the list of prior art attached to Dr. Rowe's affidavit and the other items of prior art otherwise referred to in that affidavit, do not constitute new facts but only evidence of the factual basis set forth in the detailed statement. I have difficulty in viewing the new material in that way. It would appear that the prior art relied upon in the Rowe affidavit to support the allegation of invalidity for obviousness is not evidence of the facts contained in the detailed statement but rather new facts. Indeed, counsel candidly conceded during argument that, in tendering his evidence as to obviousness, Dr. Rowe preferred to rely on the Abbott Patent (1956) rather than on the '495 Patent listed in the detailed statement, even though counsel maintained that it was proper for Dr. Rowe to do so and, in any event, that the new references involved no new facts but merely evidence of the factual basis for the respondent's allegations."
+[70]
+As for Apotex, it suggests that the decision in
+AB Hassle
+, supra, does not apply since Novartis elected not to bring a motion similar to the motion brought in
+AB Hassle
+.
+[71]
+Instead, Novartis chose to seek leave of the Court to file further evidence in order to reply to the additional documents. This motion was granted.
+[72]
+Apotex submits therefore that Novartis had clearly waived any right to complain about the impugned documents.
+[73]
+In my view, Novartis should have raised that question by way of motion before the hearing. Raising it at this moment, could be unfair to the respondent, Apotex, who was led to believe that following the granting of the motion by Novartis to file further evidence, the material that was already in the file after the decision by the Court dated November 17, 1999, would stand.
+[74]
+As mentioned earlier, Novartis refers to the decision in
+AB Hassle
+, supra, of the Court of Appeal. This decision was rendered on June 12, 2000 and Stone, J.A., writing for the majority found that an adequate notice of allegation should contain the complete list of prior art on which a second person intends to rely at the time the notice of allegation is sent and that a second person cannot subsequently introduce prior art by way of an affidavit:
+"[...] I am of the view, however, that paragraph 5(3)(a) does not contemplate such possibility. The intent appears to be that the entire factual basis be set forth in the statement rather than be revealed piecemeal when some need happens to arise in a section 6 proceeding. This Court has cautioned persons in the position of the respondent that they assume a risk that a particular allegation may not be in compliance with the
+Regulations
+and that the deficiency cannot be cured by the Court in a section 6 proceeding."
+[75]
+Nevertheless, the interlocutory decision of this Court was rendered on November 17, 1999, months before the decision of the Court of Appeal and, in my view, I do not think that it would be reasonable for the Court to allow the applicants to raise that question now when a decision was already rendered in regards to the exact question by the Court two years ago.
+[76]
+Therefore, the request presented by Novartis, that the Court should not consider Apotex's additional references, is dismissed.
+3. Decision on objection: File wrapper estoppel
+[77]
+During the course of the discussion on prior art, counsel for the applicants raised an objection on the right of Apotex to rely on "file wrapper" from the U.S. patent office. Both parties submitted jurisprudence on this topic and the objection was reserved.
+[78]
+File wrapper estoppel, also called prosecution history or extrinsic evidence, is a doctrine that developed in the United States. It is based on the principle that an inventor will not be allowed to make representations to the patent office, including amendments to a patent application, in order to avoid being refused a patent and later, in the context of an infringement action assert that the patent covers elements or aspects of the subject which were disclaimed or abandoned in discussions with the patent office.
+[79]
+Pursuant to the objection based in regards to file wrapper estoppel, I have examined the pertinent jurisprudence:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 346 (F.C.A.); and
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 35 (T.D.).
+[80]
+It is important to note that there is uncertainty in the state of law in regards to the use of file wrapper. From these cases, the common element that gives rise to requests for file wrapper estoppel is typically a patent infringement case where counsel wishes to use the file wrapper for a specific purpose. The question then for the Court is to determine whether or not that specific purpose merits the admissibility of the file wrapper.
+[81]
+The specific purpose for the use of file wrapper in the case at bar would be to clarify the prior art so as to tender to look at the earlier patent ('307 patent) to determine if it anticipates the later patent ('150 patent).
+[82]
+Free World Trust v. Électro Santé Inc.
+, supra, is the Supreme Court of Canada's most recent decision touching upon the topic of file wrapper estoppel. The issue of file wrapper estoppel arose in the context of defining the scope of the monopoly. Binnie, J., stated that in Canada, the use of file wrapper has continuously been rejected for the purpose of construing the claims. He decided that in the case before him, that file wrapper should not be admissible:
+"[...] To allow such extrinsic evidence for the purpose of defining the monopoly would undermine the public notice function of the claims, and increase uncertainty as well as fuelling the already overheated engines of patent litigation. The current emphasis on purposive construction, which keeps the focus on the language of the claims, seems also to be inconsistent with opening the pandora's box of file wrapper estoppel. [...]"
+[83]
+However, he does allow for the possibility of admitting file wrapper in certain circumstances:
+"This is not to suggest that prosecution history can never be relevant for a purpose other than defining the scope of the grant of the monopoly:
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at p. 47. [...]"
+[84]
+ <FRAGMENT_SUPPRESSED>  estoppel in regards to correspondence and documents that were exchanged between the co-inventors relating to the development of the invention. The issue arose because the defendant claimed that the invention made was not the invention claimed. Reed, J., affirmed that:
+"Insofar as the question relates to correspondence and documents exchanged by the inventors relating to the development of the invention they should be produced. [...]"
+[85]
+In her decision, Reed, J., gives an excellent historical synopsis of file wrapper estoppel. She covers several cases both in the United States, the United Kingdom and Canada. In regards to Canadian law, she stated:
+"In light of all this jurisprudence, what is the applicable principle? It seems clear that information contained in file wrappers, either domestic or foreign, may be relevant for some purposes on some occasions. It may be that much of the information obtained by asking question relating thereto will turn out to be irrelevant but that is a decision for the trial judge to decide in the context of the case as presented. It is often difficult to know whether the answer to a question is relevant before one knows what the answer is and how it fits into the defendant's theory of its case. [...]"
+[86]
+This case is amongst the few where the Court has seen it fit to admit the file wrapper. The reason being that an explanation was required to clarify the facts, and not for the purpose of interpretation. Therefore, this case has a narrow application pertaining specifically to facts, whereas the admissibility of file wrapper in the case at bar would be to use the file wrapper to clarify the prior art. This particular purpose would require interpretation and so, <FRAGMENT_SUPPRESSED> , supra, would seem to be inapplicable.
+[87]
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), where he barred the admissibility of file wrapper:
+"That is, I came to the conclusion  <FRAGMENT_SUPPRESSED>  that the patentee and potential infringers are both bound by the terms of the patent as issued. Just as a patentee could not have his patent broadened by showing his intention to claim a broader invention through evidence of what transpired during the prosecution of his patent application, neither should an alleged infringer be able to resort to such evidence to show it is narrower in scope than the patent states. To do so would be to override the words of the patent as issued which, in my understanding, are to be determinative of the scope of the patent. By the same token, in my view, an alleged infringer cannot excuse acts of infringement of the words of the patent by invoking other words submitted by the patentee in prosecuting his patent application. At law he is not entitled to rely on such 'representations' in place of the very words of the patent."
+[88]
+However, Strayer, J., indicated that there may be occasions where file wrapper would be admissible. The purpose for having recourse to the file wrapper being what prior art had been before the examiners:
+"[...]  <FRAGMENT_SUPPRESSED> , at pp. 315-16, Reed, J., was seemingly willing to admit U.S. and Canadian file wrappers, not for the purpose of determining the scope of the patent but to indicate what prior art had been before the examiners. [...]"
+[89]
+In summary, what emanates from this collection of jurisprudence is that file wrapper is generally not admissible in order to ascertain the scope of the patent, nor the grant of the monopoly. There have been certain situations where file wrapper was admissible for a specific purpose such as in  <FRAGMENT_SUPPRESSED> , where the correspondence and documents of the inventors was admitted to be able to clarify the inventor's intention and in <FRAGMENT_SUPPRESSED> , supra, to indicate what prior art had been before the examiners. However it has been admissible only to assist in the specific purpose that is stated and for no other.
+[90]
+As for the present case, the jurisprudence allows for the possibility of admitting file wrapper in particular circumstances. The case at bar does not exemplify such particular circumstances.
+[91]
+In conclusion, I am of the opinion that the file wrapper should not be admitted since the earlier patent should be able to clarify the prior art and one should not need to consult any other material, namely the file wrapper from the U.S. patent office.
+4. Is Apotex' allegation of invalidity as set  <FRAGMENT_SUPPRESSED> ' letter of May 28, 1999 justified? In particular, are claims 1, 6-12, 15-17 and 27 of the '150 patent valid?
+Regulatory regime
+[92]
+Section 5 of the
+Regulations
+provides that a generic manufacturer ("second person") that wishes to compare its drug product to that of a patentee ("first person") must serve a notice of allegation alleging either that the patent has expired, is not valid, or will not be infringed by the second person. Section 5 of the
+Regulations
+indicates:
+"5(1) Where a person files or has filed a submission for a notice of compliance in respect of a drug and compares that drug with, or makes reference to, another drug for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics and that other drug has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted, the person shall, in the submission, with respect to each patent on the register in respect of the other drug,
+(a) state that the person accepts that the notice of compliance will not issue until the patent expires;
+or
+(b) allege that
+(i) the statement made by the first person pursuant to paragraph 4(2)(c) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed.
+"(1.1) Subject to subsection (1.2), where subsection (1) does not apply and where a person files or has filed a submission for a notice of compliance in respect of a drug that contains a medicine found in another drug that has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted, the person shall, in the submission, with respect to each patent included on the register in respect of the other drug containing the medicine, where the drug has the same route of administration and a comparable strength and dosage form,
+(a) state that the person accepts that the notice of compliance will not issue until the patent expires;
+or
+(b) allege that
+(i) the statement made by the first person pursuant to paragraph 4(2)(c) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed.
+[. . . . .]
+"(3) Where a person makes an allegation pursuant to paragraph (1)(b) or (1.1)(b) or subsection (2), the person shall
+(a) provide a detailed statement of the legal and factual basis for the allegation;
+(b) if the allegation is made under any of subparagraphs (1)(b)(i) to (iii) or (1.1)(b)(i) to (iii), serve a notice of the allegation on the first person;
+(c) if the allegation is made under subparagraph (1)(b)(iv) or (1.1)(b)(iv),
+(i) serve on the first person a notice of the allegation relating to the submission filed under subsection (1) or (1.1) at the time that the person files the submission or at any time thereafter, and
+(ii) include in the notice of allegation a description of the dosage form, strength and route of administration of the drug in respect of which the submission has been filed; and
+(d) serve proof of service of the information referred to in paragraph (b) or (c) on the Minister."
+"5(1) Lorsqu'une personne dépose ou a déposé une demande d'avis de conformité pour une drogue et la compare, ou fait référence, à une autre drogue pour en démontrer la bioéquivalence d'après les caractéristiques pharmaceutiques et, le cas échéant, les caractéristiques en matière de biodisponibilité, cette autre drogue ayant été commercialisée au Canada aux termes d'un avis de conformité délivré à la première personne et à l'égard de laquelle une liste de brevets a été soumise, elle doit inclure dans la demande, à l'égard de chaque brevet inscrit au registre qui se rapporte à cette autre drogue:
+a) soit une déclaration portant qu'elle accepte que l'avis de conformité ne sera pas délivré avant l'expiration du brevet;
+b) soit une allégation portant que, selon le cas:
+(i) la déclaration faite par la première personne aux termes de l'alinéa 4(2)c) est fausse,
+(ii) le brevet est expiré,
+(iii) le brevet n'est pas valide,
+(iv) aucune revendication pour le médicament en soi ni aucune revendication pour l'utilisation du médicament ne seraient contrefaites advenant l'utilisation, la fabrication, la construction ou la vente par elle de la drogue faisant l'objet de la demande d'avis de conformité.
+"(1.1) Sous réserve du paragraphe (1.2), lorsque le paragraphe (1) ne s'applique pas, la personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament que l'on trouve dans une autre drogue qui a été commercialisée au Canada par suite de la délivrance d'un avis de conformité à la première personne et à l'égard de laquelle une liste de brevets a été soumise doit inclure dans la demande, à l'égard de chaque brevet inscrit au registre visant cette autre drogue contenant ce médicament, lorsque celle-ci présente la même voie d'administration et une forme posologique et une concentration comparables:
+a) soit une déclaration portant qu'elle accepte que l'avis de conformité ne soit pas délivré avant l'expiration du brevet;
+b) soit une allégation portant que, selon le cas:
+(i) la déclaration faite par la première personne aux termes de l'alinéa 4(2)c) est fausse,
+(ii) le brevet est expiré,
+(iii) le brevet n'est pas valide,
+(iv) aucune revendication pour le médicament en soi ni aucune revendication pour l'utilisation du médicament ne seraient contrefaites advenant l'utilisation, la fabrication, la construction ou la vente par elle de la drogue faisant l'objet de la demande d'avis de conformité.
+[. . . . .]
+"(3) Lorsqu'une personne fait une allégation visée aux alinéas (1)b) ou (1.1)b) ou au paragraphe (2), elle doit:
+a) fournir un énoncé détaillé du droit et des faits sur lesquels elle se fonde;
+b) si l'allégation est faite aux termes de l'un des sous-alinéas (1)b)(i) à (iii) ou (1.1)b)(i) à (iii), signifier un avis de l'allégation à la première personne;
+c) si l'allégation est faite aux termes des sous-alinéas (1)b)(iv) ou (1.1)b)(iv)
+(i) signifier à la première personne un avis de l'allégation relative à la demande déposée selon les paragraphes (1) ou (1.1), au moment où elle dépose la demande ou par la suite,
+(ii) insérer dans l'avis d'allégation une description de la forme posologique, de la concentration et de la voie d'administration de la drogue visée par la demande;
+d) signifier au ministre une preuve de la signification effectuée conformément aux alinéas b) ou c)."
+[93]
+Pursuant to section 6 of the
+Regulations
+, in response to a notice of allegation, a first person may commence a proceeding seeking to prohibit the issuance of a notice of compliance to the second person. Section 6 of the
+Regulations
+provides:
+"6(1) A first person may, within 45 days after being served with a notice of an allegation pursuant to paragraph 5(3)(b) or (c), apply to a court for an order prohibiting the Minister from issuing a notice of compliance until after the expiration of a patent that is the subject of the allegation.
+"(2) The court shall make an order pursuant to subsection (1) in respect of a patent that is the subject of one or more allegations if it finds that none of those allegations is justified."
+"6(1) La première personne peut, dans les 45 jours après avoir reçu signification d'un avis d'allégation aux termes des alinéas 5(3)b) ou c), demander au tribunal de rendre une ordonnance interdisant au ministre de délivrer un avis de conformité avant l'expiration du brevet visé par l'allégation.
+"(2) Le tribunal rend une ordonnance en vertu du paragraphe (1) à l'égard du brevet visé par une ou plusieurs allégations si elle conclut qu'aucune des allégations n'est fondée."
+[94]
+Regarding the prohibition proceedings provided by section 6 of the
+Regulations
+, the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> ; 266 N.R. 141 (F.C.A.), stated that these proceedings are considered a draconian remedy:
+"When a patent holder commences a prohibition application under the
+Regulations
+, the Minister's authority to issue the notice of compliance for the new drug is automatically stayed pending the determination of the prohibition proceedings. This automatic stay is in place for a maximum of 24 months, unless extended pursuant to Regulation 7(5). The automatic stay prescribed by the
+Regulations
+has been described as draconian because it permits a patent holder to delay the entry of competitors into the market without having to establish even a prima facie case of patent infringement:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), the Court of Appeal held:
+"It has also been established that the section 6 proceedings launched by the patentee should not be likened to actions for determining validity or infringement but are of the nature of proceedings in judicial review, to be held expeditiously, whose aim is to determine whether the Minister is free to issue the notice of compliance requested. Their scope is confined to administrative purposes. Strayer, J.A., in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), at 217, again speaking for a unanimous Court, was clear to that effect:
+'It will be noted that the regulations nowhere create or abolish any rights of action between the parties; instead they confer a right on the patentee to bring an application for prohibition against the Minister of National Health and Welfare. That is, the regulations pertain to public law, not private rights of action. Of course the real adversary in such a prohibition proceeding is the generic company which served the notice of allegation.
+'If the Governor in Council had intended by these regulations to provide for a final determination of the issues of validity or infringement, a determination which would be binding on all private parties and preclude future litigation of the same issues, it surely would have said so. This court is not prepared to accept that patentees and generic companies alike have been forced to make their sole assertion of their private rights through the summary procedure of a judicial review application. As the regulations direct that such issues as may be adjudicated at this time must be addressed through such a process, this is a fairly clear indication that these issues must be of a limited or preliminary nature. If a full trial of validity or infringement issues is required this can be obtained in the usual way by commencing an action.'"
+[96]
+In
+ <FRAGMENT_SUPPRESSED>  (T.D.), Dubé, J., explained regarding the burden of proof:
+"The burden of proof in a prohibition application under subsection 6(1) of the
+Regulations
+is a heavy one. The patentee who objects to the issuance of a NOC must show that none of the allegations advanced by the applicant is justified. [...]"
+[97]
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), Joyal, J., held:
+"It is well established that in order to grant a prohibition order, the Court must find that the patentee has established, on a balance of probabilities, that the second person's allegations are not justified. In determining the nature of the burden to be met by the applicants, it is important to remember that the proceeding under subsection 6(2) is not an ordinary infringement action. Rather, it is a summary proceeding intended to allow a patent owner to protect its patent rights where the generic's allegations of non-infringement or invalidity have no merit. Accordingly, if a patent owner cannot establish that the generic's allegations have no merit, the prohibition application should be dismissed and the issue left to be resolved by more conventional measures."
+Patent construction
+[98]
+ <FRAGMENT_SUPPRESSED> , the Supreme Court of Canada stated:
+"The first step in a patent suit is therefore to construe the claims. Claims construction is antecedent to consideration of both validity and infringement issues. The appellants' argument is that these two inquiries -- validity and infringement -- are distinct, and that if the principles of 'purposive construction' derived from Catnic are to be adopted at all, they should properly be confined to infringement issues only. The principle of 'purposive construction', they say, has no role to play in the determination of validity, and its misapplication is fatal to the judgment under appeal."
+[99]
+The key to purposive construction is therefore the identification by the court, with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the "essential" elements of his invention. This is no different, I think, than the approach adopted roughly 40 years earlier by Duff, C.J., in
+ <FRAGMENT_SUPPRESSED> . The patent in that case related to a method of setting diamonds in devices such as rotary drill bits for earth boring. Duff, C.J., citing the earlier jurisprudence, put the focus on the inventor's own identification of the "essential" parts of his invention, at p. 285:
+"Obviously, the invention, as described by the inventor himself, involves the use of air suction to hold the diamonds in place while the molten metal is being introduced into the mold. There can be no doubt, in my mind, that as the inventor puts it, that is an essential part of his process. That part of his process is clearly not taken by the appellants. Adapting the language of Lord Romer, it is not the province of the court to guess what is and is not of the essence of the invention of the respondent. The patentee has clearly indicated that the use of air suction at that stage of the process is an essential, if not the essential, part of the invention described in the specification."
+[100]
+The function of the claims is to define clearly and with precision the monopoly claimed by the patentee so that others may know the exact boundaries, so as to avoid the possibility of trespassing.
+[101]
+The disclosure is intended to provide persons skilled in the art with all the information they would need to fully practise the invention upon expiry of the patent.
+[102]
+The Court should construe patents from the perspective of the average person skilled in its particular art. The average person skilled in the particular art of the patent is a technician endowed with those skills required to practise the invention.
+[103]
+In
+Free World Trust v. Électro Santé Inc.
+, supra, the Supreme Court of Canada held:
+"Based on the expert evidence given at trial as to the meaning of the terms used, and the understanding that these terms would convey at the date of the patent to an ordinary worker skilled in the art of electro-magnetotherapy devices and possessing the common knowledge of people engaged in that field, [...]"
+[104]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.), Hugessen, J.A., held:
+"[...] The classical touchstone for obviousness is the technician skilled in the art by having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; [...]"
+[105]
+In my view, the Court should consider what the person skilled in the art, upon reading the claims in light of the common general knowledge available at the date of the patent, would have considered to be the invention claimed.
+[106]
+ <FRAGMENT_SUPPRESSED> ; 188 F.T.R. 1 (T.D.), O'Keefe, J., held:
+"In order to determine whether the Apotex allegations are not justified, the '313 and '331 patents must be constructed and the scope of the monopoly claimed by the patents determined. To this end, reference will be made to well-established principles of patent construction. These principles of patent construction apply in this case even though this is not a patent infringement action per se -- for if I determine from the construction of the patent that the making or marketing of the Apotex formulation, as described in the evidence before me, would infringe Glaxo's '313 and '331 patents, the Apotex allegations of non-infringement would necessarily not be justified.
+"The principles of patent construction are well settled and without apparent controversy. According to leading textbook writers, the patent should be constructed in a purposive way, in order to give effect to the purpose of the invention, without the Court being either benevolent nor unduly harsh. The claims are to be read from the perspective of a person skilled in the art in question, with a mind willing to understand.
+"More specifically stated, the following canons of construction must be followed:
+(a) The claims are to be construed with reference to the entire specification.
+(b) The claims are to be construed without reference to the prior art.
+(c) Each claim is, if possible, to be given a distinct meaning.
+(d) What is not claimed is disclaimed.
+"Finally and importantly, the patent is to be constructed before determining the question of infringement of the patent and separate from any determination in that regard."
+Presumption of validity
+[107]
+In
+Diversified Products Corp. and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 350 (F.C.A.), the Federal Court of Appeal explained:
+"In reviewing the evidence I have kept in mind the presumption of validity of a registered patent established by s. 47 of the
+Patent Act
+, R.S.C. 1970, c. P-4. Section 47 provides that a patent granted under the
+Act
+'shall thereafter be prima facie valid [...]'. This section has become s. 45 in R.S.C. 1985, c. P-4, and has been redrafted as follows: 'it shall thereafter, in the absence of any evidence to the contrary, be valid [...]'. As the 1985 Revision of the Statutes of Canada was brought into force on December 12, 1988, I have retained the expression 'prima facie' which was used at the time the patent in issue was issued. The change, in any event, is solely of a stylistic nature and it could not be otherwise for the power of the Statute Revision Commission, under s. 6(e) and (f) of the
+Statute Revision Act
+, R.S.C. 1985, c. S-20, is to:
+(e) make such alterations in the language of the statutes as may be required to preserve a uniform mode of expression, without changing the substance of any enactment;
+and to:
+(f) make such minor improvements in the language of the statutes as may be required to bring out more clearly the intention of Parliament [...] without changing the substance of any enactment.
+"The trial judge adopted with respect to the presumption the statement of Thorson, P., in
+ <FRAGMENT_SUPPRESSED>  Fox Pat. C. 112 (Ex. Ct.), and the respondents referred us to that other statement by Thorson, P., in
+ <FRAGMENT_SUPPRESSED> , at p. 77, [1964] Ex. C.R. 649; 26 Fox Pat. C. 1:
+'The evidence required to rebut the presumption must be more than "some evidence". It must be credible evidence and substantial enough to satisfy the Court that the patent is invalid. In my opinion the presumption of validity created by the section remains in effect unless the party attacking the patent shows to the satisfaction of the Court that it is invalid. Thus the section does impose on the party attacking the patent for invalidity the onus of showing that it is invalid and, in my opinion, the onus so imposed is not an easy one to discharge.'
+[. . . . .]
+"Fox,
+Canadian Patent Law
+, 4th Ed. (1969), at p. 278, expresses the view that in most of the cases discussing the weight of the onus, 'the effect of this presumption has been placed far too high' and quotes
+ <FRAGMENT_SUPPRESSED> , at p. 129, [1956-60] Ex. C.R. 447; 21 Fox Pat. C. 1, wherein the Exchequer Court said that the statutory presumption [page 359] extended to presume the attributes of patentability (namely, novelty, utility and inventiveness) to be present until the contrary is clearly shown. Fox suggests that 'there appears to be no authority for giving such weight to the statutory presumption and placing such a heavy onus for its rebuttal. A prima facie presumption is a rebuttable presumption or presumption juris. As such, it take [sic] effect prima facie, but it can have no weight capable of being put in the balance against opposing evidence which is believed'.
+"I opt for the Fox approach and in my view, the most accurate description of the presumption is that of Pratte, J. (as he then was), in the case of
+ <FRAGMENT_SUPPRESSED>  this section "deals only with the incidence of proof, not with the standard of proof. It shows on whom the burden lies to satisfy the court, and not the degree of proof which he must attain":
+ <FRAGMENT_SUPPRESSED>  patent has introduced evidence, the Court, in considering this evidence and in determining whether it establishes the invalidity of the patent, must not take the presumption into account. It cannot be said that the presumption created by s. 47 is, as a rule, either easy or difficult to overcome; in some cases, the circumstances may be such that the presumption will be easily rebutted, while, in other cases the same result may be very difficult or even impossible to obtain.'
+"See also,
+ <FRAGMENT_SUPPRESSED> , at p. 181 (F.C.T.D.).
+"The onus, which was on the appellant, can therefore be put as follows: applying the tests applicable to the pleas of anticipation and obviousness, which are not easy tests to meet as we shall see, did the appellant prove, on the usual standard of balance of probabilities, that the patent was invalid as having been anticipated or as being obvious?"
+[108]
+I have no hesitation in concluding that there is a presumption of validity in favour of the applicants. I will now consider whether the respondent provides sufficient evidence to rebut the presumption of validity.
+(a) Are claims 1, 6-12, 15-17 and 27 of the '150 patent anticipated by the disclosure of either the '667 patent or the '307 patent?
+[109]
+In
+Free World Trust v. Électro Santé Inc.
+, supra, the Supreme Court of Canada held:
+"Anticipation by publication is a difficult defence to establish because courts recognize that it is all too easy after an invention has been disclosed to find its antecedents in bits and pieces of earlier learning. It takes little ingenuity to assemble a dossier of prior art with the benefit of 20-20 hindsight. In this case, the respondents contended that all of the essential elements of the appellant's alleged inventions were disclosed in a single publication, the Solov'eva article, which predated the patent application by almost 4 years. If this is correct, the patent would be invalid.
+"The Solov'eva article was drawn to the respondents' attention by the appellant who cited it as prior art in the specification of the '361 patent itself. The legal question is whether the Solov'eva article contains sufficient information to enable a person of ordinary skill and knowledge in the field to understand, without access to the two patents, 'the nature of the invention and carry it into practical use without the aid of inventive genius but purely by mechanical skill' (H.G. Fox,
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+(4th Ed. 1969), at pp. 126-27). In other words, was the information given by Solov'eva 'for [the] purpose of practical utility, equal to that given in the patents in suit?' (
+ <FRAGMENT_SUPPRESSED>  (Eng. C.A.), at p. 486:
+'A signpost, however clear, upon the road to the patentee's invention will not suffice. The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee.'
+"The test for anticipation is difficult to meet:
+'One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention.
+(
+ <FRAGMENT_SUPPRESSED>  that the Solov'eva article does not address, let alone solve, the technical problems dealt with in the patents in suit. It is nothing more than a four-page overview of the history of electro-magnetotherapy. It describes some of the various systems available in 1975 in Europe and Japan. The appellant, it must be appreciated, does not claim to have invented electro-magnetotherapy. It obtained a patent for a particular means. Although the various components were earlier known to persons skilled in the art, the inventor brought the elements together to achieve what the Commissioner of Patents considered a new, useful and ingenious result. The claimed invention effected an ingenious combination rather than a mere aggregation of previously known components (
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at pp. 189-91). The ingenious combination was neither taught nor anticipated in the Solov'eva publication. None of the other arguments against validity are convincing. The patentee lived up to its side of the bargain by disclosing an invention. The patents are valid."
+[110]
+ <FRAGMENT_SUPPRESSED>  at p. 28, the defences of prior knowledge, prior use, prior publication and prior sale are 'very much intermingled' and are referred to as 'anticipation'. I have noted throughout the cases that there does not appear to be any distinction in principle between these various defences and that what is said with respect, for example, to anticipation through prior knowledge is applicable, mutatis mutandis, to anticipation through prior publication. As all these defences have been raised in this case, I shall treat them basically as one, which is what counsel for both parties actually did in their written and oral submissions.
+"Anticipation has been recently described by Hugessen, J., as follows in  <FRAGMENT_SUPPRESSED> , at p. 297:
+'It will be recalled that anticipation, or lack of novelty, asserts that the invention has been made known to the public prior to the relevant time. The inquiry is directed to the very invention in suit and not, as in the case of obviousness, to the state of the art and to common general knowledge. Also, as appears from the passage of the statute quoted above, anticipation must be found in a specific patent or other published document; it is not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention. One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention. Where, as here, the invention consists of a combination of several known elements, any publication which does not teach the combination of all the elements claimed cannot possibly be anticipatory.'
+"I wish to point out, at the outset, that the cumulative tests formulated by Gibson, J., in
+ <FRAGMENT_SUPPRESSED> , at p. 157 (F.C.T.D.), which were accepted, without analysis, in several subsequent Canadian cases, including some in this court and were relied on by the respondents in their factum, have generally been used out of context:
+ <FRAGMENT_SUPPRESSED> , at p. 11, 3 C.I.P.R. 1; 53 N.R. 6;
+ <FRAGMENT_SUPPRESSED> ; see also William L. Hayhurst, Q.C.,
+Recent Developments in Canadian Law: Intellectual Property
+(1987), 19 Ottawa L. Rev. 137, at p. 157. Gibson, J., had only enumerated various formulations for the test of anticipation retained in earlier decisions and his conclusion, really, is that there could be no finding of anticipation unless one met any, rather than each of these eight 'tests'."
+[111]
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), Gibson, J., states:
+"As I understand it, in order that there may be a finding of anticipation, the prior art must (1) give an exact prior description; (2) give directions which will inevitably result in something within the claims; (3) give clear and unmistakable directions; (4) give information which for the purpose of practical utility is equal to that given by the subject patent; (5) convey information so that a person grappling with the same problem must be able to say 'that gives me what I wish'; (6) give information to a person of ordinary knowledge so that he must at once perceive the invention; (7) in the absence of explicit directions, teach an 'inevitable result' which 'can only be proved by experiments'; and (8) satisfy all these tests in a single document without making a mosaic. These tests are enunciated in the following cases:
+ <FRAGMENT_SUPPRESSED> , at pp. 189-92;
+ <FRAGMENT_SUPPRESSED>  at p. 444;
+ <FRAGMENT_SUPPRESSED>  at p. 75;
+ <FRAGMENT_SUPPRESSED> , at pp. 46-8 and 49."
+[112]
+Novartis suggests that neither the '307 patent nor the '667 patent inevitably result in the preparation of a cyclosporin o/w microemulsion preconcentrate or microemulsion formulation. Rather, Novartis believes that the '667 and '307 patents are directed to regular emulsion systems not o/w microemulsion preconcentrates and microemulsions. Therefore, Novartis alleges that the '667 and '307 patents do not teach an inevitable result that amounts to anticipation as there is no basis for a finding that these two patents give directions which will inevitably result in something within the claims, nor do they contain so clear a direction that a skilled person reading and following it would, in every case and without possibility of error, be led to the claimed invention.
+[113]
+Both parties seem to agree on some of the teachings of the '667 and '307 patents that are identified as prior art for the '150 patent.
+[114]
+A person skilled in the art reading the '667 and '307 patents would understand and be taught the following:
+(a) a liquid pharmaceutical composition in the form of an oil-in-water preconcentrate comprising cyclosporin and a three component system comprising a hydrophilic phase, a lipophilic phase and a surfactant;
+(b) the cyclosporin preconcentrate, upon entry into the gastrointestinal tract self-emulsifies, that is, spontaneously forms an emulsion with the fluids (i.e. aqueous phase) contained in the gastrointestinal tract;
+(c) the cyclosporin preconcentrate in the three component system produces a delivery system with good stability and better bioavailability; and
+(d) the delivery system was effective because, upon emulsification, there would be a high surface area of oil in contact with water (i.e. very small droplets) which would permit the cyclosporin to partition into the water and then be absorbed across the intestinal mucosa into the bloodstream.
+[115]
+The '307 patent specifically described the compositions therein disclosed and claimed:
+"Compositions comprising a three component system (a) + (i) + (iii) also have the advantage of providing a self-emulsifying system in the presence of water, without immediate precipitation of the active ingredient. This is important in respect to the bio-availability of the active ingredient, since precipitation in e.g. the aqueous medium of the stomach or on intra-muscular injection leads to severely impaired resorption. The occurrence of problems in relation to cyclosporin bio-availability employing hitherto known formulations has been recognised and discussed [...]"
+[116]
+The applicants suggest that following the directions of either '667 or '307 patents, the technician skilled in the art would make a regular emulsion of cyclosporin, they would not necessarily make an o/w microemulsion or microemulsion preconcentrate. All experts made similar comments for example, Dr. Robinson, expert for Apotex, in his cross-examination at question 506, agreed that one would not inevitably end up with a microemulsion:
+"506. Q. ... would you agree with me, that following the teachings of the '307 Patent, one would not inevitably end up with a microemulsion?
+R. Oh, yes."
+[117]
+On the other hand, Apotex alleges that the technician skilled in the art with the teachings of the two '667 and '307 patents would understand that to improve the stability and the bioavailability produced by the delivery system of these patents, a microemulsion process would be needed so that a formulation of a high surface area of oil in contact with water which permits the cyclosporin to partition into the water and be absorbed across intestinal mucosa into the bloodstream, would result.
+[118]
+The key question is whether the formulator skilled in the art would be aware that the smaller the droplets size, the higher the surface area of contact between oil and water enhance, and thus, the better the drug blood levels that result.
+[119]
+It is clear that the '667 and '307 patents do not describe the emulsions formed by the compositions disclosed other than being an emulsion. Apotex suggests that a person skilled in the art would understand that these patents include a microemulsion that is a subset of an emulsion.
+[120]
+Experts discussed at length and referred to different documents as to what the precise difference is between an emulsion and a microemulsion. Apotex referred the Court to the recent decision
+ <FRAGMENT_SUPPRESSED> ; 208 F.T.R. 105 (T.D.), where Gibson, J., held:
+"The '637 Patent is entitled 'Paroxetine Tablets and Process to Prepare Them'. The following extracts are drawn from the disclosure of the '637 Patent:
+[. . . . .]
+'It has been noticed that tablets of paroxetine often develop a pink hue which is highly undesirable.
+[. . . . .]
+'Accordingly, the present invention provides paroxetine which is formulated into tablets using a formulation process in which water is absent.
+'Examples of such a formulation process are dry direct compression of paroxetine or dry granulation of paroxetine followed by compression into tablets. The present invention therefore provides a formulation comprising direct compressed paroxetine admixed with dry excipients in the form of a tablet and a formulation comprising dry granulated and compressed paroxetine admixed with dry excipients in the form of a tablet.'
+[. . . . .]
+"The '060 Patent entitled Crysalline Paroxetine HCL issued to Beecham Group P.L.C. on the 30th of July, 1991. The abstract of the '060 Patent is in the following terms:
+'The invention provides crystalline paroxetine hydrochloride hemihydrate, processes for its preparation, compositions containing the same and its therapeutic use.
+[. . . . .]
+'It has now been discovered that paroxetine hydrochloride can be produced in crystalline form in a manner reproducible on a commercial scale.
+[. . . . .]
+'Paroxetine hydrochloride hemihydrate is stable and non-hygroscopic.
+[. . . . .]
+'In its preferred aspect the present invention provides paroxetine hydrochloride hernihydrate in pharmaceutically acceptable form.
+'The present invention also provides a pharmaceutical composition comprising crystalline paroxetine hydrochloride hernihydrate and pharmaceutically acceptable carrier.
+'The compositions of this invention are usually adapted for oral administration, but formulations for dissolution for parenteral administration are also within the scope of this invention.
+[. . . . .]
+'Preferred unit dosage forms include tablets or capsules.
+'The composition of this invention may be formulated by conventional methods of admixture such as blending, filling and compressing.'
+"It was not in dispute before me that conventional methods of admixture or formulation would be understood by persons skilled in the art to include wet granulation, dry granulation and direct compression.
+[. . . . .]
+"Referring back to the brief analysis of the '637 Patent and the '060 Patent set out earlier in these reasons, the sole matter disclosed in the '637 Patent that is not disclosed in the '060 Patent is that one or more of the 'conventional methods of admixture such as blending, filling and compressing' for formulation, on a commercial scale, of paroxetine tablets, namely, 'a formulation process' in which water is absent, 'a dry granulation' of paroxetine or comprising '[...] the step of admixing paroxetine with dry excipients, is less likely to give rise to the pink hue problem' than is wet granulation. It is worthy of note that this particular advantage flowing from certain of the 'conventional methods of admixture' disclosed in the '060 Patent is not referred to in the claims of the '637 Patent. That being said, even adopting a generous interpretation of the '636 Patent that would bring the advantage of reduction of the 'pink hue problem' within a broad interpretation of the claims of the '737 Patent, I conclude that the test for anticipation is here met.
+"Against the terms of the <FRAGMENT_SUPPRESSED> test, I am satisfied that a person of ordinary skill and knowledge in the field would, on the evidence before me, be able to look at a prior, single publication, the '060 Patent, and find in it all the information which, for practical purposes, would be needed to produce the invention of the '637 Patent without the exercise of any inventive skill. The '060 Patent contains so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention.
+"Having determined that a wet formulation of paroxetine tablets gives rise to a 'pink hue problem', a problem of significant enough magnitude to cause a skilled person to seek out at least a partial solution to the problem, I am satisfied that a logical first step for a person skilled in the art would be to turn to the alternative formulation methods disclosed by the '060 Patent and to determine whether each or any of those alternative formulation methods would solve, or a least partially solve, the problem. Such an enquiry would, I am satisfied, involve no inventive step or skill. It would simply involve application of the invention taught by the '060 Patent."
+[121]
+Based on the decision in  <FRAGMENT_SUPPRESSED> , Apotex concludes that by analogy, claim 1 of the '150 patent does not disclose the precise pharmaceutical compositions of the elements included in claim 1. The precise compositions are in claims 2 and 3 which are not the object of the notice of allegation by Apotex.
+[122]
+Claim 1 reads:
+"A pharmaceutical composition in the form of an oil-in-water microemulsion preconcentrate and comprising cyclosporin dissolved in 1) a hydrophilic phase component; 2) a lipophilic phase component; and 3) a surfactant."
+[123]
+In a nutshell, the Apotex allegations are that if the skilled technician follows the teachings of the '667 and '307 patents, he would understand that these two patents disclose a microemulsion process.
+[124]
+Pursuant to the evidence before the Court, the Court is now convinced that the '150 patent describes microemulsions consisting of a low particle size e.g., less than 2000 Å and optically transparent.
+[125]
+It seems that when the particles size increases to over 2000 Å, this creates a conventional emulsion.
+[126]
+Pursuant to the '667 and '307 patents, it was clearly identified that there were lingering problems identified with cyclosporin.
+[127]
+Difficulties were encountered in the administration of cyclosporin with regard to bioavailability, uniformness of dose, palatability and potential for toxicity. The invention disclosed and claimed in the '667 and '307 patents provides a solution to a problem associated with cyclosporin.
+[128]
+The disclosure of the '307 patent provides as follows:
+"The present invention accordingly provides a pharmaceutical composition comprising a pharmacologically active mono-cyclic peptide and carrier comprising at least one of the following components:
+(a) a trans esterification product of a natural or hydrogenated vegetable oil triglyceride and a polyalkylene polyol,
+(b) a saturated fatty acid triglyceride, and
+(c) a mono-or di-glyceride.
+"The compositions of the invention are particularly suitable for hydrophobic and/or lipophilic peptides which are insoluble or difficultly soluble in conventional pharmaceutical vehicles, in particular cyclosporins [...]"
+[129]
+Claim 1 of the '307 patent then claims to the following:
+"A liquid pharmaceutical composition comprising a pharmaceutically effective amount of a cyclosporin and a carrier comprising the following components:
+(a) a trans-esterification product of a natural vegetable oil triglyceride and a polyalkylene polyol;
+(b) a vegetable oil; and
+(c) ethanol, wherein the ratio of component (a) to cyclosporin is 10:0.2 to 10 parts by weight; the amount of component (b) is 35 to 60% by weight based on the total weight of the composition, and the amount of component (c) is 1 to 20% by weight based on the total weight of the composition."
+[130]
+Claim 3 of the '667 patent is to the same effect as claim 1 of the '307 patent:
+"A pharmaceutical composition according to claim 1, wherein the carrier comprises component a) together with x) a vegetable oil and y) ethanol."
+[131]
+Claim 1 of the '667 patent claims the following:
+"A pharmaceutical composition comprising a cyclosporin active ingredient and a carrier comprising at least one of the following components:
+a) a trans-esterification product of a natural or hydrogenated vegetable oil triglyceride and a polyalkylene polyol;
+b) a saturated fatty acid triglyceride; and
+c) a mono- or di-glyceride."
+[132]
+Claim 1 of the '150 patent claims the following:
+"1. A pharmaceutical composition in the form of an oil-in-water microemulsion preconcentrate and comprising cyclosporin dissolved in 1) a hydrophilic phase component; 2) a lipophilic phase component; and 3) a surfactant."
+[133]
+It is clear to the Court that the only distinction between the composition of claim 1 of the '150 patent and the compositions disclosed and claimed in the '667 and '307 patents, is the reference in claim 1 of the '150 patent to the pharmaceutical compositions being in the form of a microemulsion.
+[134]
+The final point that I have to decide is, taking for granted that the '667 and '307 patents teach emulsion formulations, do those teachings include microemulsions.
+[135]
+Both emulsions and microemulsions are well-known in the industry. I am inclined to agree with the suggestion made by Dr. Langer, expert for Apotex, that a microemulsion is merely an emulsion in which the droplet size is very small.
+[136]
+Microemulsion systems were first described in 1943 by Professor Jack Shulman. It is also admitted by both parties that scientific publications about microemulsions are numerous since that time.
+[137]
+Apotex suggests that in view of the teachings of the '667 and '307 patents and the literature available, a skilled formulator would understand that well formulated compositions within the scope of the '667 and '307 patents would be a microemulsion preconcentrate as claimed in claim 1 of the '150 patent and it follows that emulsion and microemulsion systems were developed as a means to increase the mass transfer rates of the drug to the aqueous phase. It was also well known that the rates of the mass transfer of the drug to the aqueous phase would increase as the size of the oil droplets decreased, e.g. the smaller the droplets size, the higher the surface area of contact between oil and water enhance, and thus, the better the drug blood levels. The real question is whether every formulator skilled in the art should know that the higher surface area of the dispersed phase (oil in water), that is a small particle size emulsion, the greater the absorption/bioavailability.
+[138]
+Apotex suggests that the emulsion and the microemulsion processes were commonly known in the industry and that the formulators skilled in the art were aware of these processes at the time of the patent. The respondent suggests that the use of an oil in water microemulsion for the delivery of hydrophobic drugs was known to result in an improvement in uniformity and control of dosing, rapidity of onset, reduction of side effects, improved palatability and stability upon storage. The respondent further suggests that it was known that formulations of such systems in preconcentrated forms would lead to further improvements in stability and efficiency.
+[139]
+The deficiencies in cyclosporin formulations regarding absorption and bioavailability as well as stability were well known. Apotex submits that a skilled formulator would understand that emulsion products, including specifically cyclosporin, were to be made with the smallest possible particle size of the oil droplet knowing that this would optimize drug movement into the gastrointestinal tissue and subsequently the blood stream, thereby maximizing drug release to the body.
+[140]
+I am charged with the duty to decide whether this is hindsight or whether this is clear from the teachings of the '667 and '307 patents.
+[141]
+In light of the evidence provided to the Court, and also in light of the decision by Gibson, J., in <FRAGMENT_SUPPRESSED> , supra, I am convinced that claim 1 of '150 patent was anticipated by the '667 and '307 patents.
+[142]
+I also conclude that a person skilled in the art, on the basis of the prior art namely the '667 and '307 patents and the existing common knowledge at the relevant time, would in every case and without possibility of error have arrived at the formulation claimed in claim 1 of the '150 patent.
+[143]
+Given the evidence that was provided relating to claims 6-12, 15-17 and 27, I conclude that each of these claims are dependant on claim 1 and therefore, that all these claims were anticipated by the '667 and '307 patents.
+(b) Are claims 1, 6-12, 15-17 and 27 obvious?
+[144]
+ <FRAGMENT_SUPPRESSED>  competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy.
+[. . . . .]
+"While the evidence of experts is, in my view, properly admissible even on an 'ultimate issue' question such as obviousness, it seems to me that it must be treated with extreme care.
+"Every invention is obvious after it has been made, and to no one more so than an expert in the field. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of a patent is known, to say, 'I could have done that'; before the assertion can be given any weight, one must have a satisfactory answer to the question, 'Why didn't you?'"
+[145]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 1 (F.C.A.), the Federal Court of Appeal explained:
+"The question to be answered is whether at the date of invention (August-September, 1964) an unimaginative skilled technician, in light of his general knowledge and the literature and information on the subject available to him on that date, would have been led directly and without difficulty to Gaiser's invention. As the learned trial Judge observed even if he had accepted the evidence of the 19 witnesses, what they did (i.e., their activities in this area), did not form part of the knowledge of the competent addressee of the Gaiser patent."
+[146]
+ <FRAGMENT_SUPPRESSED>  (Ont. Gen. Div.), affd. (1998), 113 O.A.C. 1; 82 C.P.R.(3d) 526 (C.A.), Lederman, J., stated:
+"Obviousness, of course, connotes something that would have been apparent or, in common parlance, 'plain as day' or 'crystal clear' to the reasonable technician skilled in the art as of the date of invention. [...]
+"The notional skilled technician can be a composite of scientists, researchers and technicians bringing their combined expertise to bear on the problem at hand: 'This is particularly true where the invention relates to a science or art that transcends several scientific disciplines.' (Per Wetston, J., in
+ <FRAGMENT_SUPPRESSED> , at p. 494, 82 F.T.R. 211])).
+"What seems paradoxical is that this hydra-headed technician is well-versed in the relevant sciences and yet totally unimaginative. It is difficult to think of such a person as a complete dullard. Presumably this prompted John Bochnovic in a chapter entitled,
+Invention Inventive Step/Obviousness
+in Patent Law of Canada (Toronto: Carswell), to state (without the support of any judicial authority) at p. 48: 'The suggestion that the skilled technician should be unimaginative should not strip that technician of the ability to pursue reasonable and logical inquiries'.
+"Mr. Radomski also relied on the comments of Mustill, L.J., in
+Genentech Inc.'s Patent
+, [1989] R.P.C. 147 (C.A.), set out in the following passages at pp. 276 and 279 in support of the proposition that something is obvious if it can be determined through well-known testing techniques:
+'... Then, in a case like the present, which does not involve a simple leap from the prior art to the invention (as in the James Watt type of case) but rather entails a journey with numerous steps taken in sequence, the court must ask itself by what routes it would have been possible to proceed to the goal from the starting point. Then, the court must see what obstacles the skilled man would have faced on these routes, and must enquire how he could have overcome them, either in the way that the inventor himself overcame the obstacles on his chosen route or by circumventing or overcoming them in some other way, or by choosing another route from the outset, or by abandoning one route and choosing another.'
+"Having identified these various expedients, the court must finally ask whether they could have been overcome by pertinacity, sound technique or trial and error, with no more, or whether there would have been required a spark of imagination beyond the imagination properly attributable to the man skilled in the art.
+"Equally, I am not persuaded that the standard of attainment contemplated by the sections will always be the same (although it will often be the same) for the individual members of the notional addressee team as for the notional discovery team. To work the patent, the addressees follow the instructions, filling in gaps and clarifying obscurities by common sense and trial and error. This may require skill and experience, but not inventive facility. But the discovery team has no instruction to follow. Unlike the addressees it does not know the answers in advance, and in practice the people who constitute it will be required to exercise different talents from those who take the information disclosed in the patent and put it into practice.
+"In my judgment this distinction lies close to the heart of what has seemed to me one of the most confusing aspects of this difficult case, namely the undoubted presence in the authorities of statements which seem to deny to the skilled man any inventive capacity at all. This surely cannot be applied in a literal way to cases like the present, for if it were so an invention could scarcely ever be obvious, since all the routes to the desired end are likely to throw up problems, more or less knotty. This problem does not arise in the context of section 14(3). If one is asking whether the patent teaches the reader how to work the invention, the fact that it cannot be worked unless the addressee himself makes an invention must be fatal, since it demonstrates that the description is insufficient. But where one is looking at the research team, one cannot treat them as dull plodders, for such people would not be members of the team at all, except as laboratory assistants. We have to envisage people who are skilled, and skilled in the art. Here we have a difficult art, in which the skill consists in a substantial degree of an ability to solve problems. It must, I consider, follow from this that the hypothetical skilled man must be credited with that particular ability in the appropriate degree.
+"There appears, however, to be a significant difference in the abilities of the English hypothetical skilled technician and the Canadian one. Indeed, making inquiries or testing, seems to be something outside the ken of the notional Canadian skilled technician. In
+Cabot Corp. v. 318602 Ontario Ltd.
+(1988), 20 C.P.R.(3d) 132, at p. 146, 19 C.I.P.R. 204; 9 A.C.W.S.(3d) 317 (F.C.T.D.), Rouleau, J., quoted H.G. Fox in
+Canadian Law and Practice Relating to Letters Patent for Inventions
+at pp. 70-1, as stating in part:
+'In order that a thing shall be "obvious", it must be something that would directly occur to someone who was searching for something novel, a new manufacture, or whatever it might be, without the necessity of his having to do any experimenting or serious thought, or research, whether the research be in the laboratory or amongst literature.'
+"Thus, although one would normally imagine that this mythical person's laboratory is filled with mythical test tubes and Petri dishes and that his or her daily life is spent in experimentation, for the purposes of this legal exercise, no research of any kind can be contemplated. So, although it may have been logical to an actual skilled person at the time, based on the state of the art, to conduct certain testing, that is not open to the mythical skilled technician. The mythical researcher cannot have an inquiring or thinking mind which ultimately would lead him or her to the answer but rather he or she is expected to instantly and spontaneously exclaim, without more, 'I already know the answer and it is obvious'. Nor is it appropriate to say that there were significant telltales which pointed the way for the mythical expert or that there were sufficient clues which made the invention 'worth a try'. In
+Farbwerke Hoechst  <FRAGMENT_SUPPRESSED>  (T.D.), Collier, J., in rejecting the 'worth a try' test stated:
+'Using the magnifying spectacles of hind-sight (a half borrowed phrase), it is easy to say that any experiment, if time and expense are unlimited [...] is or was worth a try.'
+"On appeal, the Supreme Court of Canada affirmed this position (42 C.P.R.(2d) 145; 104 D.L.R.(3d) 51, [1979] 2 S.C.R. 929), and stated at p. 155:
+'Very few inventions are unexpected discoveries. Practically all research work is done by looking in directions where the "state of the art" points. On that basis and with hindsight, it could be said in most cases that there was no inventive ingenuity in the new development because everyone would then see how the previous accomplishments pointed that way.'
+"Presumably, that is why Hugessen, J., stated that the question he posed in  <FRAGMENT_SUPPRESSED> , about the mythical creature is 'a very difficult test to satisfy'."
+[147]
+As indicated  <FRAGMENT_SUPPRESSED>  Canada
+, supra, the question to be answered is whether at the date of the invention, which is September 1988, an unimaginative skilled technician, in light of a general knowledge and the literature and information on the subject available to him on that date, would have been led directly and without difficulty to the '150 patent invention.
+[148]
+My understanding of the caselaw is that the test for obviousness is difficult to meet. It is now clear from the evidence submitted to the Court that cyclosporin presented problems in administration with regard to bioavailability, uniformness of dose, palatability and potential for toxicity.
+[149]
+The emulsion and the microemulsion processes were also known since as far back as 1943 and Professor Jack Schulman is identified as one of the first having described the microemulsion system.
+[150]
+There were, at the time of the invention, many book reviews, published conferences and documentation relating to emulsions and microemulsions. The use of microemulsions was also known to improve therapeutic efficiency and also to minimize the toxic side effects with respect to hydrophobic drugs such as cyclosporin. Dr. Langer, expert for Apotex, suggests at paragraph 37 of his affidavit:
+"The use of microemulsions for drug delivery was an area of active research and interest as of September 1988. The potential for microemulsions to improve the delivery of existing drug dosage forms was well documented at this time. For example, Bhargava et al. in their article entitled
+Using Microemulsions for Drug Delivery
+published in 1987 (appended as Exhibit 14) state that (page 46 of Exhibit 14):
+'During the past few years, much attention has been given to the design of new dosage forms that increase the effectiveness of existing drugs. The use of this approach has the potential not only to improve the therapeutic efficacy of a drug but also to allow a reduction in the total dose needed, minimizing toxic side effects.'
+"These statements appear to be particularly relevant to the case of drugs such as cyclosporin, for which initial dosage forms were sometimes ineffective and toxic side effects, were known to be a problem. Bhargava et al. stress the importance of the small size of the microemulsions in terms of the improved efficacy of such microemulsion dosage forms for hydrophobic drugs in the statement (page 46 of Exhibit 14):
+'Because its droplets are small, the microemulsion offers advantages as a carrier for drugs that are poorly soluble in water.'"
+[151]
+The document that is referred to by Dr. Langer was written by H.N. Bhargava, A. Narvrkar & L.M. Lieb,
+Using Microemulsions for Drug Delivery
+(1987) Pharmaceutical Technology 46.
+[152]
+In my view, this document was available to any individual involved in this sector, particularly to the technician skilled in the art.
+[153]
+The microemulsion systems were also well known at the time of the invention as consisting of combination of a hydrophilic phase (aqueous, non-aqueous or combination thereof), a lipophilic oil phase, and one or more surfactants, with the dimensions of the internal phase aggregates in the range such that the emulsion was optically clear.
+[154]
+Dr. Robinson, expert for Apotex, suggested at paragraph 18 of his affidavit:
+"[...] It was understood that skilled formulators would make emulsion products with the smallest possible particle size (i.e. microemulsion) to maximize drug release to the body. The science and technology of preparing microemulsions were known decades before the filing date of the '150 Patent and, indeed there were numerous publications as to selection of the proper surfactant(s) and conditions to prepare micron and submicron emulsion systems."
+[155]
+Dr. Langer, expert for Apotex, in his affidavit, at paragraph 26 suggested:
+"An important point to note is that the use of the word emulsion to describe a system does not necessarily imply that said system is not a microemulsion or cannot form a microemulsion at selected conditions. The nomenclature used by authors to describe emulsion systems was known to be somewhat variable; the word emulsion was used to refer to both macro- and microemulsions in many cases. For example, in their European patent application No. 0211258 A2 published in 1987 entitled 'Microemulsion Compositions' (appended as Exhibit 7) the patentees indicate that emulsions include microemulsions as a subset via the statement (page 1, lines 1 through 5 of Exhibit 7):
+'The invention relates to emulsion compositions for parenteral administration. More particularly, it relates to emulsions which are commonly called microemulsions, in which the particle size of the disperse phase is typically less than 0.125 micron.'
+"Later in this application, when describing one of the objectives of their invention, the patentees state that (page 4, lines 20 through 23 of Exhibit 7):
+'Still another objective of this invention is to provide a lipid emulsion for parenteral administration or for use as a parenteral vehicle which is
+substantially clear and colourless
+.' (emphasis added)
+"This statement indicates that the patentees are referring to a microemulsion when they are discussing their lipid emulsion system."
+[156]
+Dr. McGinity, expert for Novartis, also mentioned at page 135 of his cross-examination:
+"Q. Okay. So it was known that in the - I'm going to use the word 'emulsions' in a very general term, as a very general term.
+It was known that emulsions could exist with varying droplet sizes, ranging down to the microemulsion level, going up to - into the conventional range, going up to significant sizes above the microemulsion level. That was also known at the priority date of the '150, correct?
+A. That's correct."
+[157]
+Furthermore, lists of emulsifying agents and their method of selection were accessible through the literature prior to the date of the invention.
+[158]
+Dr. Langer, expert for Apotex, suggests at paragraph 42 of his affidavit:
+"The formulation of emulsions, including macro- and microemulsions, was also a well-established art as of September 1988. Extensive lists of emulsifying agents and their method of selection (in terms of the type of emulsion desired and the lipophilic and hydrophilic phase components being considered) were accessible through the literature prior to September 1988 (for example, see Table II of Exhibit 14 and Tables III and V of Exhibit 22). This selection process was largely based on matching the HLB number of the emulsifiers in question with the required HLB number of the oil component to be emulsified (see page 48 of Exhibit 14, page 140 of Exhibit 22, and page 80 of Exhibit 23 for examples). For example, it was known that to make an oil in water microemulsion with a standard vegetable oil as the lipophilic component, choosing an emulsifier with a HLB number in excess of 10 was best (see page 668 of Exhibit 20 and page 140 of Exhibit 22). Formation of these oil-in-water microemulsions would thus be facilitated by choosing emulsifying agents similar to many of those listed in the '150 patent."
+[159]
+Dr. McGinity, expert for Novartis, also mentioned in cross-examination at page 211:
+"Q. (By Mr. Radomski) And my question is: That kind of testing was known to the person skilled in the art? That person would know how to test a wide variety of surfactants to achieve a microemulsion, correct?
+A. They would know how to design the formulations or test those formulations?
+Q. Well, we're talking about testing. It says you have to test a wide variety of surfactants to try to achieve such microemulsion. Okay? So in terms of that testing, the person skilled in the art - you would agree with me, that kind of testing would be known to the person skilled in the art?
+A. The person that was skilled in this art?
+Q. Yeah, would know how to test for the wide variety of surfactants, correct?
+A.
+If they are skilled in this art, they would know
+." (my emphasis)
+[160]
+Dr. Langer, expert for Apotex, also explained in paragraphs 43, 44 and 45 of his affidavit that several specific protocols for formulating microemulsions for pharmaceutical applications were published prior to September 1988, both in research literature and in patent literature, including specifically protocols for formulating oil-in-water microemulsions.
+[161]
+I agree with Dr. Langer, expert for Apotex, that the state of the art at the time shows that emulsion and microemulsion systems were developed as a means to increase the mass transfer rate of the drug to the aqueous phase.
+[162]
+In addition, I have no hesitation in concluding that skilled formulators were aware as of September 1988 how to obtain smaller particle sizes of droplets. In fact, the formulators were aware that one could obtain very small particle sizes through an emulsion process and that one could obtain even smaller particle sized droplets through a microemulsion system.
+[163]
+The self-emulsifying preconcentrate formulation was also known by formulators at the time of the invention. Dr. Robinson, expert for Apotex, mentioned at paragraph 11 of his affidavit:
+"Emulsions are pharmaceutical dosage forms that date back to antiquity and formulators are well aware that the smaller the droplet size the higher the surface area of contact between oil and water and the better the drug blood levels that result. They are also very well aware, as part of the art, how to make self-emulsifying lipids, that would be placed in a soft gelatin capsule, and how to obtain very small particle sizes of the emulsion droplets."
+[164]
+Dr. McGinity, expert for Novartis, also admitted in his cross-examination at pages 107-111, that the oil-in-water regular emulsion preconcentrate was not a new concept.
+[165]
+With the evidence presented to the Court and the affidavits provided by both parties that the use of oil-in-water microemulsions for the delivery of hydrophobic drugs would result in improvement in uniformity and control of dosing, rapidity of onset, reduction of side effects, improved palatability and stability upon storage, I find that this was known at the time of the invention. What was also known was that formulations of such systems in preconcentrated forms would lead to further improvements in stability and efficiency.
+[166]
+Regarding the use of the emulsion preconcentrate self-emulsifying system for cyclosporin, Dr. Langer, expert for Apotex, suggests at paragraphs 51 and 52 of his affidavit:
+"The potential for improvements in the delivery of cyclosporine [sic]via the above means (as compared to existing methods) was also known prior to September 1988. As previously discussed in paragraph 6 of this my Affidavit, the poor absorption and bioavailability of cyclosporine [sic] formulations delivered via the solid phase or in an oil vehicle, as well as the instability of said formulations upon storage were well documented at this time (see page 1, lines 5-15 of Exhibit 2, column 1, lines 31-40 of Exhibit 3), and page 107 of Exhibit 33). Improvements in the delivery of cyclosporin in oil-based vehicles and aqueous dispersions containing many of the surfactants and emulsifiers specified by the '150 patent were also well known at this time (for example, see Exhibit 10).
+"Due to the disclosure of the '307 patent and the successes shown in the development of oil in water microemulsions and microemulsion preconcentrate formulations for other hydrophobic drugs as outlined above, it was obvious as of September 1988 that an oil-in-water microemulsion or microemulsion 'preconcentrate' formulation comprised of a vehicle containing a hydrophilic phase component, a lipophilic phase component, and a surfactant(s) would result in a pharmaceutically acceptable dosage form for cyclosporin."
+[167]
+Also, Dr. Robinson, expert for Apotex, suggested at paragraph 18 of his affidavit:
+"In neither the '667 nor the '307 Patent are the terms macro or microemulsion used. It was understood that skilled formulators would make emulsion products with the smallest possible particle size (i.e. microemulsion) to maximize drug release to the body. The science and technology of preparing microemulsions were known decades before the filing date of the '150 patent and, indeed there were numerous publications as to selection of the proper surfactant(s) and conditions to prepare micron and submicron emulsion systems."
+[168]
+Claim 1 of '150 patent does not claim a specifically defined working microemulsion preconcentrate formulation. Such formulations are claimed in claim 2 and certain subsequent claims.
+[169]
+Claim 1 of the '150 patent simply encompasses the general concept of the use of a cyclosporin microemulsion and microemulsion preconcentrate formulation containing unspecified hydrophilic, hydrophobic and surfactant agents. Any possible oil-in-water microemulsion preconcentrate in the three component systems are claimed through claim 1. It is clear that all possible oil-in-water microemulsion preconcentrates will not conduct a skilled formulator to an acceptable cyclosporin microemulsion preconcentrate; in fact, it can conduct to a multitude of results that are all microemulsion preconcentrates in the three component system. The acceptable cyclosporin microemulsion preconcentrate is claimed in claim 2 and certain subsequent claims and are not addressed by this notice of allegation.
+[170]
+Novartis suggested that the Court should also consider a number of other factors when dealing with the question of obviousness. They have been called secondary indicia, and are identified individually below.
+[171]
+Firstly, Novartis suggested that: "commercial success in the marketplace as a result of an advantage claimed in the patent, whether in Canada or elsewhere" is a relevant consideration. In fact, the patent had a commercial success but it should be remembered that they find themselves within the context of monopoly and do not face any competition.
+[172]
+It is clear in my mind that given that Novartis was the only provider of Sandimmune® in the first place; and secondly, that they decided to replace the Sandimmune® product by the Neoralr product on the market; and lastly, that the applicants focussed their advertising on the new Neoralr product, the commercial success is simply normal.
+[173]
+Secondly, does "the invention of the patent provide an unexpected benefit". In fact, this is related to the new product Neoralr that has addressed the problems identified with the previous Sandimmune® product on the market. A benefit has occurred, but nevertheless it was not an unexpected benefit regarding claim 1 of '150 patent.
+[174]
+Thirdly, does "the patent overcome the problem in the prior art". This may be true but any improvement of a precedent invention will always be seen as overcoming a problem in the prior art. The fact that it was anticipated responds to this consideration.
+[175]
+Fourthly, was there an "acknowledgment of a long felt need in the prior art for a solution to the problem which is addressed by the patented invention and which did not occur to an earlier inventor". This indicia should be rejected since the microemulsion process was already known at the time of the invention.
+[176]
+Fifthly, is there "general or universal acceptance and adoption of the invention in the industry to address the need directed to by the invention (often accompanied by the general displacement of previous types in the industry or field)." In this regard, the microemulsion system was already known by the industry and was already in use.
+[177]
+Sixthly, has "the party challenging the validity of the patent on the basis of alleged obviousness has itself sought a patent for much the same invention or has been the licensee of a foreign patent claiming the same or an equivalent invention." As for this indicia, I agree with Apotex that the patent sought is not claiming the same or an equivalent invention but another component that is addressed more so by claim 2 and the others, rather than by claim 1 of the '150 patent.
+[178]
+Finally, was there a "conventional wisdom in the industry at the time of the invention that pointed away from the teaching of the patent or if there was initial resistance in the industry to the invention which ultimately gave way to its acceptance." In my view, it is the converse of this indicia which rings true given that the industry was moving in the same direction and that there was no resistence in regards to the use of the microemulsion system for cyclosporin.
+[179]
+In conclusion, I find that the general formulation specified in claim 1 of the '150 patent and its benefits would have been obvious to a skilled formulator as of the date of the invention (September 1988).
+[180]
+Relating to claims 6-12, 15-17 and 27, I also conclude that these claims are dependant upon claim 1 of the '150 patent and would therefore, have been obvious to a skilled formulator as of the date of the invention (September 1988).
+(c) Are claims 1, 6-12, 15-17 and 27 overly broad?
+[181]
+I am of the opinion, that the idea of applying a microemulsion composition to a cyclosporin preconcentrate in the hydrophilic, lipophilic and surfactant system, given the state of knowledge as to the use of microemulsions and given the fact that a preconcentrate cyclosporin formulation in a three component system was already known, did not constitute an invention. The real invention is the one that is claimed in claim 2 and the other subsequent claims in the '150 patent.
+[182]
+The applicants cannot claim simultaneously that all compositions resulting from the microemulsion preconcentrate formulation are envisaged by the '150 patent, without identifying the useful compositions that are the result of using the particular agents which are specified in claim 2 and other subsequent claims.
+[183]
+ <FRAGMENT_SUPPRESSED>  (Ex. Ct.), it was explained:
+"The other attack was that the claims were too wide in that they claimed more than had been invented. This repeats the central theme to which I have referred, namely, the contention that all that had been invented were the specific wringer constructions described in the specification and that unless the claims were limited in their application to inventions of the said specific constructions they were too wide and, therefore, invalid. There is a simple answer to the contention. If the claims read fairly on what has been disclosed and illustrated in the specification and drawings, as they do, they are not wider than the invention. The specific wringer constructions described in the specification are simply embodiments or illustrations of the invention. The claims embrace them and might well embrace similar other embodiments or illustrations. There is nothing in any of the specifications that would limit the claims to one of the specific wringer constructions or to all of them."
+[184]
+Therefore, in my view, claims 1, 6-12, 15-17 and 27 are overly broad.
+CONCLUSION
+[185]
+In my view, Novartis has failed to discharge its burden.
+[186]
+Apotex has successfully demonstrated that claims 1, 6-12, 15-17 and 27 are anticipated, obvious and overly broad.
+[187]
+As I indicated earlier, claim 1 of the '150 patent does not claim a specifically defined working microemulsion preconcentrate formulation.
+ORDER
+[188]
+For all these reasons, this motion is dismissed with costs in favour of the respondent Apotex.
+Application dismissed.
+Editor: Rodney A. Jordan/klf
+[End of document]

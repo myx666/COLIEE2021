@@ -1,0 +1,63 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Pinard, J.
+October 7, 2011.
+Counsel:
+Benjamin Hackett, for the plaintiff;
+Andrew Bernstein and Alexandra Peterson, for the defendants.
+Solicitors of Record:
+Goodmans, LLP, Toronto, Ontario, for the plaintiff;
+Torys, LLP, Toronto, Ontario, for the defendants.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Pinard, J.
+: This is an appeal by the defendants from the discretionary Order made on August 23, 2011 by Madam Milczynski, the Case Management Prothonotary assigned to these proceedings, in respect of the plaintiff's motion to compel answers arising from examinations for discovery. Out of the 41 questions before the Prothonotary, only one (numbered question 342) is the subject of this appeal:
+For each patent filing by pharmaceutical companies from the early 1980s that included claims encompassing ACE inhibitors with a THIQ headgroup that Warner-Lambert is aware of, please identify when Warner-Lambert became aware of the patent filing and produce any documents that indicate Warner-Lambert's awareness.
+[2]
+The plaintiff commenced this patent impeachment action by statement of claim dated August 4, 2009 and later amended March 12, 2011. It seeks an order declaring that Canadian Patent No. 1,331,615 (615 Patent) and Canadian Patent No. 1,341,330 (330 Patent) and each of their claims are invalid, void and of no force and effect. The plaintiff also seeks a declaration of non-infringement of both the 330 and 615 Patents, which were filed in Canada on September 30, 1981.
+[3]
+In ordering the question answered, the Prothonotary exercised her discretion to limit the question to 1984 and to the making of reasonable inquiries:
+For each patent filing by pharmaceutical companies from up to 1984 that included claims encompassing ACE inhibitors with a THIQ headgroup that Warner-Lambert is aware of, please make reasonable efforts to identify when Warner-Lambert became aware of the patent filing and produce any documents that indicate Warner-Lambert's awareness.
+[4]
+It is well established that discretionary decisions of Prothonotaries ought not to be disturbed on appeal unless they raise questions vital to the final issue of the case or are clearly wrong, in the sense that the Prothonotary's exercise of discretion was based upon a wrong principle or upon a misapprehension of the facts. Furthermore, it is settled that it is rare that the disposition of a discovery motion will be vital to the final outcome (
+ <FRAGMENT_SUPPRESSED> ff'd, 2008 FCA 287).
+[5]
+Moreover, where the interlocutory order is one of a Case Management Prothonotary, the latter is entitled deference and the moving party will have a "heavy burden" when seeking to overturn that order (see
+ <FRAGMENT_SUPPRESSED> ff'd, 2009 FCA 41).
+[6]
+In the case at bar, the defendants argue that the Prothonotary's decision is "clearly wrong" because the question at issue is not relevant and is overbroad, and, in any event, because the Prothonotary's order fails to comply with the principle of proportionality, as the question at issue imposes a significant burden on the defendants.
+[7]
+For its part, the plaintiff argues that the question at issue is relevant because, as pleaded, one element of the obviousness of the patents in suit is the fact that other scientists in the field came to the same invention in and around the same time. The plaintiff further argues that the question is also relevant, to the extent that it relates to the time period up to September 30, 1981, to support its pleas as to the relevant state of the art. Finally, the plaintiff submits that the defendants filed no evidence to support their position that the question ordered answered is "very burdensome" or "onerous", and that their submissions in this regard fall squarely within the discretionary decision of the Case Management Prothonotary.
+[8]
+I agree with the plaintiff that none of the defendants' submissions are sustainable once the question at issue is properly understood. In so finding, I adopt the reasoning contained in paragraphs 16 to 23 of the "Responding Written Representations" filed. These specific submissions are appended as "Appendix" to these Reasons.
+[9]
+I therefore conclude that the defendants have manifestly failed to meet the heavy burden of demonstrating that the Prothonotary's interlocutory decision represents the "clearest case of a misuse of judicial discretion" (see, for example,
+ <FRAGMENT_SUPPRESSED> ; and
+ <FRAGMENT_SUPPRESSED> ).
+[10]
+Consequently, the defendants' appeal is dismissed, with costs.
+ORDER
+[10]
+The defendants' appeal from the Order made by Madam Prothonotary Milczynski, on August 23, 2011, in respect of the plaintiff's motion to compel answers arising from examinations for discovery, is dismissed, with costs.
+APPENDIX
+RESPONDING WRITTEN REPRESENTATIONS
+(Defendants' appeal of the Order of Prothonotary Milczynski)
+16. As noted above, Apotex has pleaded that the asserted obviousness of the 615 and 330 patents is demonstrated by the fact that others came to the invention in and around the same time. Warner-Lambert has denied this plea and asserted facts to the contrary.
+17. Apotex's assertion in this regard will be advanced if it can establish that Warner-Lambert, a company working in the field at the time, was aware of patent filings that included the pleaded essence of the Warner-Lambert scientists' purported invention. This fact will make it very difficult for Warner-Lambert do deny the fact that others came to patents for ACE inhibitors with a THIQ head group in and around the same time as Warner-Lambert at trial. If Warner-Lambert persists in its denial at trial, Apotex can use this fact to undermine any assertions, factual or expert, that are contrary to these facts.
+18. The question is also relevant as supporting a second line of inquiry. The fact that Warner-Lambert, a company working in the relevant field at the time, was aware of relevant prior art would be supportive of Apotex's plea that said art was part of the knowledge of the skilled addressee at the relevant date. Thus, insofar as the question relates to the time period up to September 1981, the question has further relevance in this regard.
+19. As noted above, it is likely that the skilled addressee will be found to include scientists working in industry at the time.2 As Warner-Lambert employed a number of scientists within the relevant industry, the fact that they had knowledge of relevant art is probative of whether a skilled address would have knowledge of same.3
+20. As a result, it is reasonable to conclude that the answer to the question ordered answered might lead to a train of inquiry that may either advance Apotex's case or harm the case of Warner-Lambert. The question meets the standard of relevance on discovery.
+ <FRAGMENT_SUPPRESSED>  at para. 18
+21. The Prothonotary accepted the relevance of this question. She was not clearly wrong in so doing. As a result, her decision ought not to be disturbed on appeal.
+22. Warner-Lambert's submissions of overbreadth of the Order are also answered by the nature of the primary basis for relevance of Apotex's inquiry. Given the delay between the filing of a patent application and the disclosure to the public of said application, it is logical to extend the time period for the question to a number of years subsequent to the Canadian filing date of the patents in suit.4 Thus, the Prothonotary did not clearly err in ordering the question answered with a date limit of 1984.
+23. Warner-Lambert's submissions of burden and proportionality are likewise flawed. A party cannot simply argue prejudice without appropriate supporting evidence. Nonetheless, on the motion below, Prothonotary Milczynski exercised her discretion and limited the question to the provision of making reasonable inquiries. Warner-Lambert has failed to address the significant burden facing it when seeking to overturn a discretionary decision of a Prothonotary, let alone a Case Management Prothonotary. In any event, the lack of evidence of burden is fatal to Warner-Lambert on any standard of review.
+ <FRAGMENT_SUPPRESSED>  at para. 47 (T.D.)
+____________________
+2 See e.g.
+ <FRAGMENT_SUPPRESSED>  at para. 85 and  <FRAGMENT_SUPPRESSED>  at para. 103.
+3 In this regard, Warner-Lambert's reliance upon earlier case law that did not compel the answer to questions that sought the knowledge of the inventors is unhelpful. The question seeks Warner-Lambert's knowledge, not that of the inventors alone, for the very reason that Warner-Lambert's knowledge is more probative of the knowledge of the skilled addressee. Also, to the extent that the inventors had cognizance of the relevant art before the date of invention found by the Court at trial, said knowledge is clearly relevant in light of the Supreme Court of Canada's decision in
+ <FRAGMENT_SUPPRESSED>  at paras. 70 and 71.
+4 Such an approach is not unlike the Court's recognition that the state of the art may be proven, where appropriate, by post-art articles that provide evidence as to the prior art: see
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  at paras. 420-423.
+[End of document]

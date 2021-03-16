@@ -1,0 +1,784 @@
+..................................................
+I. Background
+[1]
+Bédard, J.
+[Translation]: The Minister of Citizenship and Immigration (the Minister) seeks a declaration, pursuant to paragraph 18(1)(
+b
+) of the
+Citizenship Act
+, RSC 1985, c C-29 [the Act], that Célestin Halindintwali (the defendant) obtained his Canadian citizenship by false representation or fraud or by knowingly concealing material circumstances. For the reasons that follow, I am of the opinion that the Minister has established, on a balance of probabilities, that the defendant acquired Canadian citizenship by fraud and by concealing material circumstances.
+[2]
+In 1995, the defendant went to the Canadian High Commission in Nairobi, Kenya, to apply for permanent residence under the "Convention refugee seeking resettlement" class. The application included the defendant's wife, Marie Solange Ingabire, and their daughter.
+[3]
+In his application, the defendant stated that he and his wife were citizens of Burundi. He claimed that he was Hutu, while his wife was Tutsi, and that it was difficult to live in Burundi as a mixed couple. The defendant stated that their home in Bujumbura had been burned down in March 1995 in an attack by Tutsi militants supported by the Burundian army, and that their twin daughters had died during this attack.
+[4]
+The defendant's application for permanent residence was approved. He obtained permanent resident status on July 22, 1997, and became a Canadian citizen on June 21, 2001.
+[5]
+In June 2013, the Minister initiated a process to revoke the defendant's citizenship on the grounds that it had been obtained by false representation or fraud or by knowingly concealing material circumstances within the meaning of subsection 10(1) of the Act. The Minister contends that the defendant made false representations to Canadian authorities when applying for permanent residence. He maintains that the defendant is Rwandan, and not Burundian, and that he submitted false information in order to provide Canadian authorities with a story that would enable him to be accepted as a refugee. The Minister also maintains that the defendant lied when he stated in his permanent residence application that he had never participated in a crime against humanity. The Minister claims that the defendant actively participated in the Rwandan genocide of 1994 as a leader of the civil defence organization in the prefecture of Butare, and that he was a member of the National Revolutionary Movement for Development (MRND) party and its Interahamwe militia.
+II.
+Nature of the proceeding and procedural history
+A. Nature of the proceeding
+[6]
+This is a reference pursuant to paragraph 18(1)(
+b
+) of the Act. This proceeding is governed by sections 10 and 18 of the Act.
+[7]
+Pursuant to subsection 10(1) of the Act, the Governor in Council may make an order revoking a person's citizenship if he is satisfied that the person obtained citizenship by false representation or fraud or by knowingly concealing material circumstances. Subsection 10(2) of the Act creates a presumption whereby a person who obtained permanent resident status by false representation or fraud or by knowingly concealing material circumstances is deemed to have obtained citizenship through one of those means. Section 10 reads as follows:
+Order in cases of fraud
+10. (1) Subject to section 18 but notwithstanding any other section of this Act, where the Governor in Council, on a report from the Minister, is satisfied that any person has obtained, retained, renounced or resumed citizenship under this Act by false representation or fraud or by knowingly concealing material circumstances,
+(
+a
+) the person ceases to be a citizen, or
+(
+b
+) the renunciation of citizenship by the person shall be deemed to have had no effect,
+as of such date as may be fixed by order of the Governor in Council with respect thereto.
+Presumption
+(2) A person shall be deemed to have obtained citizenship by false representation or fraud or by knowingly concealing material circumstances if the person was lawfully admitted to Canada for permanent residence by false representation or fraud or by knowingly concealing material circumstances and, because of that admission, the person subsequently obtained citizenship.
+1974-75-76, c. 108, s. 9.
+Décret en cas de fraude
+10. (1) Sous réserve du seul article 18, le gouverneur en conseil peut, lorsqu'il est convaincu, sur rapport du ministre, que l'acquisition, la conservation ou la répudiation de la citoyenneté, ou la réintégration dans celle-ci, est intervenue sous le régime de la présente loi par fraude ou au moyen d'une fausse déclaration ou de la dissimulation intentionnelle de faits essentiels, prendre un décret aux termes duquel l'intéressé, à compter de la date qui y est fixée:
+a
+) soit perd sa citoyenneté;
+b) soit est réputé ne pas avoir répudié sa citoyenneté.
+Présomption
+(2) Est réputée avoir acquis la citoyenneté par fraude, fausse déclaration ou dissimulation intentionnelle de faits essentiels la personne qui l'a acquise à raison d'une admission légale au Canada à titre de résident permanent obtenue par l'un de ces trois moyens.
+1974-75-76, ch. 108, art. 9.
+[8]
+As per subsection 10(1), the Governor in Council reaches the decision based on a report submitted by the Minister.
+[9]
+Section 18 of the Act provides a mechanism that imposes on the Minister an obligation to give notice to the person involved of the Minister's intention to recommend that the Governor in Council revoke that person's citizenship. The person may then exercise his or her right to request that the case be referred to the Federal Court to determine whether he or she obtained citizenship by false representation or fraud or by knowingly concealing material circumstances. When the case is referred to the Court, the Minister must await the Court's decision before submitting his report to the Governor in Council.
+[10]
+Section 18, which governs this process, reads as follows:
+Notice to person in respect of revocation
+18. (1) The Minister shall not make a report under section 10 unless the Minister has given notice of his intention to do so to the person in respect of whom the report is to be made and
+(
+a
+) that person does not, within thirty days after the day on which the notice is sent, request that the Minister refer the case to the Court; or
+(
+b
+) that person does so request and the Court decides that the person has obtained, retained, renounced or resumed citizenship by false representation or fraud or by knowingly concealing material circumstances.
+Nature of notice
+(2) The notice referred to in subsection (1) shall state that the person in respect of whom the report is to be made may, within thirty days after the day on which the notice is sent to him, request that the Minister refer the case to the Court, and such notice is sufficient if it is sent by registered mail to the person at his latest known address.
+Decision final
+(3) A decision of the Court made under subsection (1) is final and, notwithstanding any other Act of Parliament, no appeal lies therefrom.
+1974-75-76, c. 108, s. 17.
+Avis préalable à l'annulation
+18. (1) Le ministre ne peut procéder à l'établissement du rapport mentionné à l'article 10 sans avoir auparavant avisé l'intéressé de son intention en ce sens et sans que l'une ou l'autre des conditions suivantes ne se soit réalisée:
+a
+) l'intéressé n'a pas, dans les trente jours suivant la date d'expédition de l'avis, demandé le renvoi de l'affaire devant la Cour;
+b) la Cour, saisie de l'affaire, a décidé qu'il y avait eu fraude, fausse déclaration ou dissimulation intentionnelle de faits essentiels.
+Nature de l'avis
+(2) L'avis prévu au paragraphe (1) doit spécifier la faculté qu'a l'intéressé, dans les trente jours suivant sa date d'expédition, de demander au ministre le renvoi de l'affaire devant la Cour. La communication de l'avis peut se faire par courrier recommandé envoyé à la dernière adresse connue de l'intéressé.
+Caractère définitif de la décision
+(3) La décision de la Cour visée au paragraphe (1) est définitive et, par dérogation à toute autre loi fédérale, non susceptible d'appel.
+1974-75-76, ch. 108, art. 17.
+[11]
+Rule 169(
+a
+) of the
+Federal Courts Rules
+, SOR/98-106 [the Rules], provides that Part 4 of the Rules, which is applicable to proceedings required to be brought as an action, applies to references under section 18 of the Act.
+[12]
+A reference under section 18 of the Act is therefore filed as a statement of claim (rule 171). However, it is not an action in the traditional sense of the word given that the Court is not being asked to maintain or revoke the citizenship of the individual in question. Rather, the Court must draw conclusions of fact and determine whether the person obtained citizenship by false representation or fraud, or by knowingly concealing material circumstances, and if so, make a declaration to this effect that will serve as the basis for the report the Minister must submit to the Governor in Council. The specific nature of a reference under section 18 of the Act was clearly described by the Federal Court of Appeal in
+REFERENCE_SUPPRESSED:
+15 Of course, a reference by the Minister under s. 18 of the Act is not an action in the ordinary or traditional sense. A proceeding initiated under s. 18 is essentially an investigative proceeding used to collect evidence of facts surrounding the acquisition of citizenship, so as to determine whether it was obtained by fraudulent means. It results simply in a non-executory finding which is the basis of a report by the Minister to the Governor in Council for a decision to be taken by the latter, unlike an action, which when valid produces executory conclusions. The very nature of a reference under s. 18 of the Act is that the provisions contained in Part 4 of the Court's Rules must be applied, making the necessary alterations not only as to terminology but also as to the advisability of applying certain provisions contained in that Part'.
+[See also
+REFERENCE_SUPPRESSED].
+[13]
+The Court's decision with regard to a reference under section 18 of the Act is final and is not subject to appeal (subsection 18(3) of the Act).
+B. Procedural history
+[14]
+On June 6, 2013, the Minister sent a notice to the defendant informing him of the Minister's intention to recommend that the Governor in Council revoke the defendant's citizenship pursuant to section 18 of the Act.
+[15]
+On June 21, 2013, the defendant, through his counsel, exercised his right to request that the case be referred to the Court.
+[16]
+The Minister filed his statement of claim on November 27, 2013, and it was duly served on the defendant in accordance with the Rules. The defendant did not file a statement of defence within the time prescribed in rule 204 of the Rules, nor at any other time. The Minister made numerous attempts to ensure that the defendant had not inadvertently failed to file his statement of defence. Counsel for the Minister left messages for the defendant's counsel, but these were never returned.
+[17]
+In June 2014, the Court sent the parties a notice of status review. The defendant did not reply. The Minister, meanwhile, filed submissions with the Court, which among other things informed the Court that the Minister intended to file a motion for confidentiality, and a motion for default judgment.
+[18]
+On August 8, 2014, Prothonotary Richard Morneau ordered that this proceeding continue as a specially managed proceeding. Although the defendant had not filed a statement of defence or responded to the notice of status review, a copy of Prothonotary Morneau's order, as well as the defendant's motions for a confidentiality order and default judgment, were served on the defendant on August 12, 2014. The defendant has still not responded.
+[19]
+Rule 210(1) provides that where a defendant fails to serve and file a statement of defence within the time set out in rule 204, the plaintiff may bring a motion for judgment against the defendant on the statement of claim. The plaintiff's motion is supported by affidavit evidence (subsection 210(3) of the Rules). Pursuant to rule 210(4), in dealing with a motion for default judgment, the Court may grant judgment, dismiss the action or order that the action proceed to trial and that the plaintiff prove its case in such manner as the Court may direct.
+[20]
+In this case, the Minister may proceed by default. The defendant was properly informed of the proceeding. In fact, it was the defendant who requested the reference to the Court, and he had legal representation, at least at the outset. The statement of claim was duly served on the defendant. Counsel for the Minister tried in vain to communicate with counsel for the defendant. The defendant also received service of subsequent proceedings even though, in principle, he was not so entitled. In particular, he received service of the notice of status review, the order for a specially managed proceeding, and the Minister's motions for confidentiality and default judgment.
+[21]
+It is unusual for a proceeding of this nature, which could have such significant consequences for the person involved, to be heard without that person's participation, when in fact, the reference was initiated at that person's request. However, given the numerous opportunities provided to the defendant to participate in this proceeding, I can only conclude that the defendant chose, with full knowledge of the matter, not to participate. Furthermore, this is not the first time that the Court has proceeded by default in such a reference: in
+REFERENCE_SUPPRESSED, the Court granted an application for default judgment in a reference to revoke citizenship, based solely on documentary evidence.
+III.
+Legal framework
+[22]
+As I have already indicated, the Minister is asking the Court to find, through application of paragraph 18(1)(
+b
+) of the Act, that the defendant obtained his permanent residence status, and consequently, his Canadian citizenship, by false representation or fraud, or by knowingly concealing material circumstances.
+[23]
+The legal parameters applicable to a reference to the Court are well established in case law, and I will summarize them briefly before dealing with the evidence that was submitted by the Minister.
+A. Procedural rights
+[24]
+First, the procedural rights applicable to a reference under the Act are governed by the provisions of the Act that were in effect when the citizenship revocation proceedings were initiated (
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED). In this case, the proceeding began on June 6, 2013, when the Minister sent the defendant notice of his intention to recommend that the Governor in Council revoke the defendant's citizenship. This case is therefore governed by the provisions of the Act that were in effect on that date. Sections 10 and 18 of the Act that were cited at the beginning of these reasons were in effect at that time.
+B. Substantive rights
+[25]
+The defendant's substantive rights related to obtaining Canadian citizenship derive from the Act that was in effect when he obtained Canadian citizenship, i.e., in June 2001. His substantive rights related to obtaining permanent resident status as a refugee seeking resettlement derive from the provisions of the
+Immigration Act
+, RSC 1985, c I-2, and the
+Immigration Regulations
+, 1978, SOR/78-172 [the Regulations], which were in effect when he applied for permanent resident status in November 1995 and obtained his permanent resident status in July 1997 (
+CITATION_SUPPRESSED).
+[26]
+To be admitted to Canada as a "Convention refugee seeking resettlement," the defendant had to be admissible first of all as a refugee.
+[27]
+Section 2 of the Regulations defines the criteria for this class of refugee:
+"Convention refugee seeking resettlement" means a person, other than a person whose case has been rejected in accordance with the Comprehensive Plan of Action adopted by the International Conference on Indo-Chinese Refugees on June 14, 1989, who is a Convention refugee
+(a) who is outside Canada,
+(b) who is seeking admission to Canada for the purpose of resettling in Canada, and
+(c) in respect of whom there is no possibility, within a reasonable period of time, of a durable solution.
+« réfugié au sens de la Convention cherchant à se réinstaller »
+Personne, autre qu'une personne dont le cas a fait l'objet d'un rejet conformément au plan d'action global adopté le 14 juin 1989 par la Conférence internationale sur les réfugiés indochinois, qui est un réfugié au sens de la Convention:
+a) qui se trouve hors du Canada;
+b) qui cherche à être admis au Canada pour s'y réinstaller;
+c) à l'égard duquel aucune solution durable n'est réalisable dans un laps de temps raisonnable.
+[28]
+To be recognized as a refugee, a person must demonstrate that he or she meets the definition of Convention refugee, which is set out in subsection 2(1) of the
+Immigration Act
+:
+"Convention refugee" means any person who
+(
+a
+) by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
+(i) is outside the country of the person's nationality and is unable or, by reason of that fear, unwilling to avail themself of the protection of that country, or
+(ii) not having a country of nationality, is outside the country of the person's former habitual residence and is unable or, by reason of that fear, is unwilling to return to that country, and
+(
+b
+) has not ceased to be a Convention refugee by virtue of subsection (2),
+but does not include any person to whom the Convention does not apply pursuant to section E or F of Article 1 thereof, which sections are set out in the schedule to this Act.
+« réfugié au sens de la Convention » Toute personne:
+a) qui, craignant avec raison d'être persécutée du fait de sa race, de sa religion, de sa nationalité, de son appartenance à un groupe social ou de ses opinions politiques:
+(i) soit se trouve hors du pays dont elle a la nationalité et ne peut ou, du fait de cette crainte, ne veut se réclamer de la protection de ce pays;
+(ii) soit, si elle n'a pas de nationalité et se trouve hors du pays dans lequel elle avait sa résidence habituelle, ne peut ou, en raison de cette crainte, ne veut y retourner;
+b) n'a pas perdu son statut de réfugié au sens de la Convention en application du paragraphe (2).
+Sont exclues de la présente définition les personnes soustraites à l'application de la Convention par les sections E ou F de l'article premier de celle-ci dont le texte est reproduit à l'annexe de la présente loi.
+[29]
+To be recognized as a refugee, the defendant had to demonstrate the existence of a well-founded fear of persecution for one of the enumerated reasons in every country in which he was a national (
+REFERENCE_SUPPRESSED).
+[30]
+Furthermore, to be recognized as a refugee, the defendant must not have been excluded from the definition of refugee. Clause 1F(a) of the
+Convention relating to the Status of Refugees
+excludes from the definition of refugee any person with respect to whom there are serious reasons for considering that he has committed a war crime or crime against humanity. Clause 1F(a) reads as follows:
+F. The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+(a) he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+F. Les dispositions de cette Convention ne seront pas applicables aux personnes dont on aura des raisons sérieuses de penser:
+a) qu'elles ont commis un crime contre la paix, un crime de guerre ou un crime contre l'humanité, au sens des instruments internationaux élaborés pour prévoir des dispositions relatives à ces crimes;
+[31]
+Paragraph 19(1)(
+j
+) of the
+Immigration Act
+also provided that no persons would be admitted if there were reasonable grounds to believe that they had committed a war crime or crime against humanity:
+19
+. (1) No person shall be granted admission who is a member of any of the following classes:
+. . .
+(
+j
+) persons who there are reasonable grounds to believe have committed an act or omission outside Canada that constituted a war crime or a crime against humanity within the meaning of subsection 7(3.76) of the
+Criminal Code
+and that, if it had been committed in Canada, would have constituted an offence against the laws of Canada in force at the time of the act or omission.
+19
+. (1) Les personnes suivantes appartiennent à une catégorie non admissible:
+[...]
+j
+) celles don't on peut penser, pour des motifs raisonnables, qu'elles ont commis, à l'étranger, un fait constituant un crime de guerre ou un crime contre l'humanité au sens du paragraphe 7(3.76) du
+Code criminel
+et qui aurait constitué, au Canada, une infraction au droit canadien en son état à l'époque de la perpétration.
+C. Burden of proof and standard of proof
+[32]
+A reference under section 18 of the Act is a civil, rather than criminal, proceeding. As such, the burden of proof that lies with the Minister is that which applies in civil matters, i.e., a balance of probabilities, despite the fact that the issue is an important one that could have serious consequences for the defendant (
+CITATION_SUPPRESSED). In order to find that the proof has been established based on a balance of probabilities, the Court must be satisfied that in light of the evidence presented, it is more probable than not that the alleged events did indeed occur (
+CITATION_SUPPRESSED). As the Supreme Court of Canada indicated in
+REFERENCE_SUPPRESSED:
+49 In the result, I would reaffirm that in civil cases there is only one standard of proof and that is proof on a balance of probabilities. In all civil cases, the
+trial judge must scrutinize the relevant evidence with care to determine whether it is more likely than not that an alleged event occurred
+.
+[Emphasis added.]
+[33]
+It is therefore up to the Minister to establish, on a balance of probabilities, that the defendant obtained permanent resident status, and consequently, Canadian citizenship, by false representation or fraud, or by knowingly concealing material circumstances.
+[34]
+The fact that this proceeding is being conducted without the defendant's participation does not lighten the Minister's burden of proof. It has been established that in a judgment by default, every allegation is treated as denied, and the onus is on the plaintiff to prove its claims (
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED).
+D. The legal test
+[35]
+The case law has established that in order to meet his burden, the Minister does not have to demonstrate that the false representation, fraud or knowing concealment of material circumstances would necessarily have led to the rejection of the application for permanent residence. He must, however, establish that the false representation, fraud or knowing concealment of material circumstances involved elements that were sufficiently important to cause a decision-maker to conclude that had they been known, these facts would have led Canadian authorities to conduct more in-depth fact-finding or inquiries before approving the application for permanent residence.
+[36]
+The courts have had more than one occasion to rule on the elements that must be established to demonstrate that the person in question knowingly concealed material circumstances, particularly in terms of the intent to conceal and the materiality of the information concealed. Madam Justice Mactavish provided a good description of the law in this regard in
+CITATION_SUPPRESSED
+, above:
+31 The Minister does not have to demonstrate that, had he been truthful during the immigration process, Mr. Rogan's application for permanent residence would necessarily have been rejected. Rather, the Minister need only show that Mr. Rogan gained entry to Canada by knowingly concealing material circumstances which had the effect of foreclosing or averting further inquiries:
+REFERENCE_SUPPRESSED.
+32 In order to find that someone "knowingly conceal[ed] material circumstances" within the meaning of section 10 of the
+Citizenship Act, 1985
+, "the Court must find on evidence, and/or reasonable inference from the evidence, that the person concerned concealed circumstances material to the decision, whether he knew or did not know that they were material, with the intent of misleading the decision-maker":
+CITATION_SUPPRESSED.
+33 "A misrepresentation of a material fact includes an untruth, the withholding of truthful information, or a misleading answer which has the effect of foreclosing or averting further inquiries":
+CITATION_SUPPRESSED
+. This is so even if the answer to those inquiries might not turn up any independent ground of deportation:
+CITATION_SUPPRESSED.
+34 In assessing the materiality of the information concealed, regard must be had to the significance of the undisclosed information to the decision in question:
+CITATION_SUPPRESSED. However, "more must be established than a technical transgression of the Act. Innocent misrepresentations are not to result in the revocation of citizenship":
+REFERENCE_SUPPRESSED.
+35 That said, misrepresentations claimed to be "innocent" must be carefully examined, and willful blindness will not be condoned. If faced with a situation of doubt, an applicant should invariably err on the side of full disclosure:
+REFERENCE_SUPPRESSED.
+[37]
+There is less case law with regard to the elements required to establish that citizenship was obtained by fraud or a false declaration. Madam Justice Kane recently provided an excellent analysis of the issue in
+REFERENCE_SUPPRESSED, concluding that intention to mislead is also required to establish that citizenship was obtained by fraud or false declarations. The relevant passage reads as follows:
+66 The plaintiff's primary argument is that the defendant acted intentionally in concealing material circumstances and in making false representations.
+67 The plaintiff's alternative argument is that some conduct that falls under section 10, namely false representations, need not be intentional. Success on this argument would avoid the need to provide some evidence to establish on a balance of probabilities that there was an intention to mislead the decision maker.
+68 The overall goal of section 10 is to ensure that persons who have obtained permanent resident status and citizenship by providing false information or by withholding information that is material to the decision will not continue to benefit from that status.
+In my view, intent to mislead the decision maker is required for all conduct referred to in section 10
+.
+That intention must be established on a balance of probabilities
+; the plaintiff must provide some evidence of intention or some evidence from which a reasonable inference of intention to mislead can be drawn.
+69 Section 10 refers to three types of conduct (false representation or fraud or by knowingly concealing material circumstances) and it is possible that the same conduct could satisfy all three, but that is not required.
+70 Fraud arises in both criminal law and in other contexts including tort and contract. Fraud is generally defined as intentional or reckless misrepresentation of fact by words or by conduct that deceives another person and which results in a detriment to that other person (see
+REFERENCE_SUPPRESSED). The conduct which amounts to fraud can also be an omission or silence in situations where there is an obligation to disclose information.
+71 The requirement for intention with respect to conduct that amounts to fraud in section 10 does not need to be spelled out because intention, which can include recklessness regarding the statement or omission and the other person's likely reliance on that statement, is part of the definition of fraud.
+. . .
+74 This leaves for consideration the conduct contemplated by false representations, which the plaintiff alternatively submits does not require an intention to mislead. As noted above, I do not agree. Simply making a false statement (i.e., a false representation) in error or inadvertently should not result in a declaration under section 10.
+Some intention to mislead is required. This intention must be established on a balance of probabilities.
+75 However, it is difficult to conceive of a situation where a false representation that is not inadvertent would not also be covered by the conduct described as fraud, given that in the context of permanent resident applications, the representation would be relied on by the decision maker and the applicant would benefit from making the false representation.
+76 Similarly, situations where an applicant would "knowingly conceal material circumstances" may also constitute a "false representation" and/or fraud.
+[Emphasis added.]
+IV.
+Analysis of the evidence
+[38]
+The Minister alleges that in his application for residence as a "Convention refugee seeking resettlement", the defendant made false representations and knowingly concealed material circumstances on two fronts:
+• The defendant made false representations with regard to his citizenship and several other personal details, and he fabricated a story in order to be accepted as a refugee;
+• The defendant lied when he stated on his permanent residence application form that he had never committed war crimes or crimes against humanity, nor participated in the perpetration of such crimes.
+[39]
+As part of the permanent residence application process, the defendant filled out the permanent residence application form, in which he provided several personal details. He signed this form on October 30, 1995. Section 31 of the form contains a declaration from the applicant to the effect that the information he has provided is truthful, complete and accurate and that he understands that any false statements or concealment of a material fact may be grounds for his prosecution and/or removal from Canada.
+A. The evidence submitted by the Minister
+[40]
+The Minister submitted several pieces of evidence.
+[41]
+These include an affidavit sworn on December 18, 2014, by Professor Timothy Pau Longman, an expert on the Rwandan genocide. Professor Longman attached to this affidavit his curriculum vitae, his expert report and a signed certificate acknowledging that he had read and agreed to abide by the code of conduct for expert witnesses.
+[42]
+Professor Longman holds a doctorate in political science from the University of Wisconsin, and is the Director of the African Studies Center and Associate Professor of Political Science at Boston University. He conducted exhaustive research in Rwanda for Human Rights Watch and the International Federation of Human Rights Leagues from November 1995 to July 1996. He also published a book on the genocide, entitled
+Christianity and Genocide in Rwanda
+. Professor Longman was recognized as an expert in the criminal trial of Jacques Mungwarere in Canada (
+REFERENCE_SUPPRESSED) and that of Beatrice Munyenyezi in the United States.
+[43]
+I have no hesitation in recognizing Professor Longman as an expert on issues related to the Rwandan genocide, particularly its origins and the nature of the conflict and the massacres that it engendered.
+[44]
+The report submitted by Professor Longman includes a very useful historical summary that provides for understanding what contributed to the genocide that took place in 1994. The report also sheds light on the sociopolitical context that existed in Rwanda in the 1990s and during the genocide, in which approximately 800,000 Rwandans, primarily Tutsis and so-called moderate Hutus, were killed. In his report, Professor Longman also offered a picture of the various organizations and key players in the genocide, as well as the methods they used. Among others, he described the roles of the MRND (a political party), the Interahamwe (the MRND's militia) and the civil defence committees. He also described how the genocide was perpetrated in Rwanda generally, and in the prefecture of Butare in particular. He explained the role of Butare's security and civil defence committees.
+[45]
+The Minister further submitted an affidavit from Mr. Rudy Exantus, an RCMP investigator. Beginning in August 2008, Mr. Exantus worked as an investigator on the RCMP criminal investigation into the possible involvement of the defendant in the 1994 Rwandan genocide. Since 2011, Mr. Exantus has also executed search warrants and conducted inquiries with regard to the defendant at the request of the Department of Justice Crimes Against Humanity and War Crimes Section.
+[46]
+In the context of his investigation and the search warrants he executed, Mr. Exantus and his colleagues met with several witnesses in Canada, Rwanda, Belgium and the Netherlands. In his affidavit, Mr. Exantus explained several aspects of the investigation and summarized the statements made by 21 witnesses in the interviews that he or his colleagues conducted.
+[47]
+In the context of this proceeding, the Minister submitted a redacted copy of Mr. Exantus's affidavit, in which the names of witnesses whose statements were reported in the affidavit were expunged.
+[48]
+On September 23, 2014, I granted the Minister's motion for order of confidentiality and rendered the order attached to these reasons (
+REFERENCE_SUPPRESSED). Under the terms of that order, I ordered that the identity of persons interviewed by the RCMP during its investigations into the defendant and referred to in Mr. Rudy Exantus's affidavit be declared confidential and that only a copy of the affidavit with the names of those individuals expunged be placed in the Court's public record. I myself saw an unredacted version of the affidavit.
+[49]
+The Minister also submitted as evidence, through Mr. Exantus's affidavit, various documents from the Government of Burundi, the Government of Rwanda and numerous academic institutions in Burundi and Rwanda.
+[50]
+In particular, Mr. Exantus referred to the affidavits of the following individuals, which were also submitted as evidence through his affidavit:
+• Stanislas Ngombwa, principal of the Byimana School of Sciences;
+• Emmanuel Havugimana, academic registrar at the National University of Rwanda;
+• Emma Munganyinka, head of the archives of the Southern Province (formerly known as the prefecture of Butare, in Rwanda);
+• Emmanuel Semahoro, documentalist in the Rwandan Ministry of Infrastructure (Minifra), the successor to the Ministry of Public Services and Energy (Minitrape);
+• Alexis Ntagungira, director of public management in the Rwandan Ministry of Public Service and Labour.
+[51]
+Several pieces of evidence were presented through these deponents.
+[52]
+Through Mr. Exantus's affidavit, the Minister also presented as evidence various exhibits and transcripts from legal proceedings that had taken place before the International Criminal Tribunal for Rwanda (ICTR), most notably in the prosecution of Colonel Nteziryayo (Case No. ICTR-98-42-T).
+[53]
+The Minister also submitted affidavits from the following individuals:
+• Emmanuel Ntaconsanze, responsible for the civil status registers in the commune of Maranga in Burundi;
+• Donatien Irangeza, director of the Matyazo primary school in the province of Ngozi in Burundi;
+• Sylvain Nsengiyumva, director of Mwumba College in the province of Ngozi in Burundi;
+• M. Josée Bigendako, head of student services at the University of Burundi in Bujumbura.
+[54]
+The Minister submitted the stenographic notes from an interview with the defendant that was conducted by RCMP investigators on August 29, 2002.
+[55]
+The Minister also submitted certain documents from the defendant's immigration file, as well as the affidavits of Alexandra Paslat, Aleksandra Wojciechowski and Francine Galarneau. Ms. Galarneau is First Secretary (Immigration) at the Canadian High Commission in London. When the defendant submitted his application for permanent residence, Ms. Galarneau was a visa officer at the Canadian High Commission in Nairobi, Kenya. She processed the defendant's application for permanent residence.
+[56]
+I will now deal with the Minister's two principal allegations.
+B. Did the defendant make false representations or knowingly conceal material circumstances with regard to the personal details that he supplied and the allegations of persecution that he made?
+[57]
+In her sworn affidavit of June 12, 2014, Ms. Galarneau explained the various stages involved in processing the defendant's application for permanent residence. Several exhibits are attached to her affidavit, including the defendant's permanent residence form and the notes she entered in CAIPS, which was the electronic database in use at that time in the visa offices of the Department of Citizenship and Immigration. In her affidavit, Ms. Galarneau indicated that notes could not be changed once they had been recorded in CAIPS and that they were always followed by the initials of the person who had made the entries. I am satisfied that the notes entered in CAIPS that are attached to Ms. Galarneau's affidavit are indeed the notes that she recorded in the database when processing the defendant's residence application.
+[58]
+Ms. Galarneau stated that the defendant, his wife and their daughter submitted an immigration application as "Convention refugees seeking resettlement" and that in order to meet the requirements of that class, they had to, among other things, meet the definition of "Convention refugee".
+[59]
+The defendant furnished a variety of details on his form, including the following:
+• He was born on April 22, 1965, in Marangara, Burundi;
+• He is a citizen of Burundi;
+• His wife, Marie Solange Ingabire, was born on September 28, 1968, in Marangara, Burundi;
+• He was married on October 13, 1993, in Marangara, Burundi;
+•  He attended Matyazo primary school in Burundi from September 1972 to July 1978;
+•  He attended Mwumba College in Burundi from September 1978 to July 1984;
+•  He attended the University of Burundi in Bujumbura, Burundi, from October 1984 to July 1988;
+•  He attended the National University of Rwanda in Butare, Rwanda, from October 1988 to September 1989;
+•  He was employed by the Ministry of Public Services and Energy in Kigali, Rwanda, from November 1989 to August 1993;
+•  He was employed by the Ministry of Public Works and Equipment in Bujumbura, Burundi, from October 1993 to March 1995;
+•  He lived in Marangara, Burundi, from April 1965 to July 1988;
+•  He lived in the Shyombo refugee camp in Butare, Rwanda, from August 1988 to November 1989;
+•  He lived in Kigali, Rwanda, from November 1989 to August 1993;
+•  He lived in Bujumbura, Burundi, from September 1993 to March 1995;
+•  He lived in the Lukore camp in Tanzania from March to June 1995;
+•  He did not mention any political or social organization of which he had been a member or collaborator.
+[60]
+Ms. Galarneau met with the defendant and his wife on February 5, 1996. During the interview, she reviewed with them the information they had entered in their application for permanent residence (APR), and they confirmed the accuracy of this information. At paragraph 16 of her affidavit, Ms. Galarneau recounts the story that she heard from the defendant and his spouse:
+[translation]
+16. During the interview, Célestin Halindintwali claimed that he was Hutu, and his wife said she was Tutsi. They told me that their home in the Kamenge quarter in Bujumbura, Burundi, had been burned down in March 1995 during an attack by Tutsi militia, supported by the Burundian army. Their twin daughters died during that attack. They told me of the difficulties faced by mixed couples in Burundi. I entered this information in CAIPS on February 6, 1996, the day after the interview.
+[61]
+The notes that Ms. Galarneau entered in CAIPS on February 6, 1996, read as follows:
+[translation]
+The claimant is Burundian. Copy of identity cards for him and his wife attest to this fact.
+Married, one child born in December 1995. He is Hutu, she is Tutsi. Were living in the Kamenge quarter of Bujumbura when their house was burned down in March 1995. Six people who were inside the house died in the fire, which had been set by Tutsi militia supported by the army. Among the victims were the applicants' twin daughters, who had been born in 1993. The claimant and his wife were visiting friends when these events took place. They never returned home. Neighbours told them that the victims' bodies had been placed in a truck and taken away by the militia.
+The claimant is an engineer by training (degree from the University of Rwanda, where he lived in 1993) and worked for the Ministry of Public Services.
+The claimants left Burundi in March 1995 and travelled to the Lukore camp in Tanzania, which they left in June 1995.
+The claimant lived in Rwanda, in a refugee camp in Butare, between 1988 and 1989.
+The wife's parents are in Uvira, Zaire, living in someone's home, not a camp.
+The claimants spoke of the difficulty and insecurity for mixed couples.
+. . .
+[62]
+At paragraph 17 of her affidavit, Ms. Galarneau stated that based on the information provided by the defendant, she had approved his application for permanent residence under the "Convention refugees seeking resettlement" class as a CR1, or "government-assisted refugee". She stated that refugees who obtained a Quebec selection certificate were considered as such.
+[63]
+However, the evidence shows, on a balance of probabilities, that several of the details supplied by the defendant in the context of his application for permanent residence were inaccurate.
+(1) Place of birth
+[64]
+The Minister contends that contrary to the defendant's statement to the effect that he was born on April 22, 1965, in Marangara, Burundi, the defendant was in fact born in the Mukindo sector of the Kibayi commune in the prefecture of Butare, Rwanda.
+[65]
+The evidence submitted demonstrates that there is no birth record in the civil status registers for the commune of Marangara in Burundi that corresponds to a person with the defendant's name who was born on April 22, 1965, in Marandara (paragraph 8 of the affidavit sworn by Emmanuel Ntaconsanze). In his interview with the RCMP in 2002, the defendant continued to claim that he was born in Burundi. However, the evidence, which includes a variety of documents, notably a birth certificate, documents from academic institutions and government documents, tends to establish that the defendant was born in the Mukindo sector in the commune of Kibayi, Rwanda.
+(2) Citizenship
+[66]
+The Minister maintains that at the time of his application for permanent residence, the defendant held Rwandan citizenship, and not Burundian as he claimed. The evidence, including a certificate of identity and a staff information form from the Ministry of Public Services, Energy and Water, as well as other documents from Rwandan government agencies, notably a certificate of full identity, establishes that the defendant held Rwandan citizenship when he applied for permanent residence.
+(3) Place of marriage
+[67]
+The Minister maintains that contrary to his claims, the defendant did not marry Solange Ingabire in 1993 in Burundi, but rather in 1995 in the Democratic Republic of the Congo.
+[68]
+On his Personal Information Form (PIF), the defendant states that he was married on October 13, 1993, in Maranga, Burundi. He gave different information during his interview with the RCMP, stating that he was married in 1995 in Burundi. The evidence submitted shows that there is no marriage certificate in the civil status registers for the commune of Marangara attesting to a marriage taking place between the defendant and Marie Solange Ingabire in Marangara on October 13, 1993 (paragraphs 9 and 10 of the affidavit sworn by Emmanuel Ntaconsanze). While the actual location and date of the marriage remain unclear, all of the evidence indicates that the defendant was not married in 1993 in Burundi.
+(4) Place of education
+[69]
+The Minister maintains that the defendant falsely claimed to have gone to school in Burundi, with the exception of his last year of university, when he attended the National University of Rwanda in Butare. The evidence shows, however, that the defendant did not go to school in Burundi, but rather in Rwanda.
+[70]
+The defendant made contradictory statements as to where he attended school. In his PIF, he indicated that he attended primary and secondary school in Burundi and had also gone to university in Burundi, with the exception of his final year, when he studied in Rwanda. However, in his interview with the RCMP, the defendant stated that he had attended the RINDA primary school in Kibayi and had gone to high school in Butare and Byimana, all of which are in Rwanda.
+[71]
+In his affidavit, Donatien Irangeza, director of the Matyazo primary school (in Burundi) stated that there were no academic records in the school's archives for a person having the defendant's name and a birth date of April 22, 1965, and who attended the school from September 1972 to July 1978. In the margins of his affidavit, he added that the Matyazo school did not even exist at the time that the defendant claimed to have studied there (from September 1972 to July 1978) and that it had only opened its doors in 1986.
+[72]
+In his affidavit, Sylvain Nsengiyumva, director of Mwumba College in Burundi, stated that there were no academic records in the college's archives for a person having the defendant's name and a birth date of April 22, 1965, and who attended the institution between September 1978 and July 1984. In the margins of his affidavit, he added that the college had opened its doors in 2004, and therefore did not exist at the time the defendant claimed to have studied there.
+[73]
+In his affidavit, M. Josée Bigendako, head of student services at the University of Burundi in Bujumbura, stated that there were no academic records in the university's archives for a person having the defendant's name and a birth date of April 22, 1965, and who attended the university from October 1984 to July 1988.
+[74]
+Documents from academic institutions in Rwanda show that the defendant studied at the Byimana College of Modern Humanities from 1981 to 1985 and that previous to that, he had attended the Groupe scolaire de Butare.
+[75]
+Documents from the office of the academic registrar at the National University of Rwanda indicate that the defendant attended the Butare campus of that university from 1985 to 1989 and earned a degree in engineering from the Faculty of Applied Sciences in 1989.
+(5) Employment history
+[76]
+In his PIF, the defendant claimed to have worked for the Ministry of Public Services and Energy in Kigali from November 1989 to August 1993 and for the Ministry of Public Works and Equipment in Bujumbura, Burundi, from October 1993 to March 1995.
+[77]
+The defendant provided different information when he was interviewed by the RCMP. He claimed to have begun working for Minitrape in Butare in September 1990 and to have been transferred to Kigali in February 1993. He added that he returned to work for Minitrape in Butare in May 1994, before leaving Rwanda in July 1994.
+[78]
+However, the evidence, which is composed of several documents from the Rwandan government, indicates that the defendant worked continuously in Rwanda from 1989 to 1994. In addition, in his interview with the RCMP investigators, the defendant claimed that he returned to Butare in 1994.
+(6) Places of residence
+[79]
+In his PIF, the defendant stated that he had lived in the province of Ngozi, in Burundi, from April 1965 to July 1988; in the Shyombo refugee camp in Butare, from August 1988 to November 1989; in Kigali, from November 1989 to August 1993; in Bujumbura, Burundi, from September 1993 to March 1995, and in the Lukore camp in Tanzania from March 1995 to June 1995.
+[80]
+However, the evidence shows that the defendant resided in Rwanda from his date of birth on April 22, 1965, until his flight from Rwanda in July 1994.
+[81]
+In his interview with the RCMP investigators, the defendant claimed that he was born in Burundi and had moved to the city of Kigali when he was a child. He also claimed to have rented a house in Buye when he was working in Butare and to have left for Kigali in February 1993. He said he returned to Butare in May 1994 and lived in a room at the Ibis hotel. He said he left Rwanda to go to Burundi in July 1994, before leaving for Tanzania.
+(7) Events that took place in Burundi
+[82]
+As I have already mentioned, the defendant claimed that he was Hutu and that his wife was Tutsi. In his affidavit, Mr. Exantus stated that according to the documents obtained from teaching institutions in Rwanda, the defendant's wife is also Rwandan, and a Hutu like him.
+[83]
+In his interview with the RCMP, the defendant made no mention of the alleged events in Burundi. He did not mention the fire or the death of his twin daughters. According to statements he made during the interview, the defendant was not even in Bujumbura in 1995: he stated that he went to Marangara, Burundi, after fleeing Rwanda in July 1994, but indicated that he had only stayed there for three months before departing for Tanzania. He also said that they fled Rwanda in July 1994 because [translation] "[we] were not welcome" in Rwanda after the change of power and because the [translation] "war was coming". Therefore, according to the defendant's own statements during the interview, the defendant was not in Bujumbura when the events recounted in the application for refugee protection would have taken place.
+[84]
+I therefore find that the evidence establishes that the defendant made false representations with regard to several personal details and that he knowingly concealed material circumstances pertaining to his personal information in the context of his application for permanent residence. I will return later to the consequences of those false representations.
+C. Did the defendant make false representations and did he knowingly omit material circumstances when he indicated that he had not committed or participated in war crimes or crimes against humanity?
+[85]
+In section 25 of the form, the applicant must indicate the names of political and social organizations, professional associations and youth or student movements of which he has been a member since his 18th birthday. The defendant did not indicate anything in this section.
+[86]
+In section 27F of the form, the defendant answered "no" to the question as to whether he had ever participated in a war crime or a crime against humanity.
+[87]
+To determine whether the Minister's allegations are founded, the Court must determine whether the evidence proves, on a balance of probabilities, that the defendant committed or participated in a crime against humanity by collaborating in the Rwandan genocide in 1994.
+[88]
+At the time of the defendant's application for permanent residence, a crime against humanity was defined in subsections 7(3.76) and 7(3.77) of the
+Criminal Code
+, RSC 1985, c C-46. Sections 21 and 22 of that Act defined what was meant by being a party to an offence:
+7.
+(3.76) For the purposes of this section,
+. . .
+"crime against humanity" means murder, extermination, enslavement, deportation, persecution or any other inhumane act or omission that is committed against any civilian population or any identifiable group of persons, whether or not it constitutes a contravention of the law in force at the time and in the place of its commission, and that, at that time and in that place, constitutes a contravention of customary international law or conventional international law or is criminal according to the general principles of law recognized by the community of nations;
+. . .
+(3.77) In the definitions "crime against humanity" and "war crime" in subsection (3.76), "act or omission" includes, for greater certainty, attempting or conspiring to commit, counselling any person to commit, aiding or abetting any person in the commission of, or being an accessory after the fact in relation to, an act or omission.
+. . .
+Parties to offence
+21
+. (1) Every one is a party to an offence who
+(
+a
+) actually commits it;
+(
+b
+) does or omits to do anything for the purpose of aiding any person to commit it; or
+(
+c
+) abets any person in committing it.
+Common intention
+(2) Where two or more persons form an intention in common to carry out an unlawful purpose and to assist each other therein and any one of them, in carrying out the common purpose, commits an offence, each of them who knew or ought to have known that the commission of the offence would be a probable consequence of carrying out the common purpose is a party to that offence.
+Person counselling offence
+22
+. (1) Where a person counsels another person to be a party to an offence and that other person is afterwards a party to that offence, the person who counselled is a party to that offence, notwithstanding that the offence was committed in a way different from that which was counselled.
+Idem
+(2) Every one who counsels another person to be a party to an offence is a party to every offence that the other commits in consequence of the counselling that the person who counselled knew or ought to have known was likely to be committed in consequence of the counselling.
+Definition of "counsel"
+(3) For the purposes of this Act, "counsel" includes procure, solicit or incite.
+7.
+(3.76) Les définitions qui suivent s'appliquent au présent article.
+[...]
+« crime contre l'humanité » Assassinat, extermination, réduction en esclavage, déportation, persécution ou autre fait - acte ou omission - inhumain d'une part, commis contre une population civile ou un groupe identifiable de personnes - qu'il ait ou non constitué une transgression du droit en vigueur à l'époque et au lieu de la perpétration - et d'autre part, soit constituant, à l'époque et dans ce lieu, une transgression du droit international coutumier ou conventionnel, soit ayant un caractère criminel d'après les principes généraux de droit reconnus par l'ensemble des nations.
+[...]
+(3.77) Sont assimilés à un fait, aux définitions de « crime contre l'humanité » et « crime de guerre », au paragraphe 3.76, la tentative, le complot, la complicité après le fait, le conseil, l'aide ou l'encouragement à l'égard du fait.
+[...]
+Participants à une infraction
+21
+. (1) Participent à une infraction:
+a
+) quiconque la commet réellement;
+b) quiconque accomplit ou omet d'accomplir quelque chose en vue d'aider quelqu'un à la commettre;
+c) quiconque encourage quelqu'un à la commettre.
+Intention commune
+(2) Quand deux ou plusieurs personnes forment ensemble le projet de poursuivre une fin illégale et de s'y entraider et que l'une d'entre elles commet une infraction en réalisant cette fin commune, chacune d'elles qui savait ou devait savoir que la réalisation de l'intention commune aurait pour conséquence probable la perpétration de l'infraction, participe à cette infraction.
+Personne qui conseille à une autre de commettre une infraction
+22
+. (1) Lorsqu'une personne conseille à une autre personne de participer à une infraction et que cette dernière y participe subséquemment, la personne qui a conseillé participe à cette infraction, même si l'infraction a été commise d'une manière différente de celle qui avait été conseillée.
+Idem
+(2) Quiconque conseille à une autre personne de participer à une infraction participe à chaque infraction que l'autre commet en conséquence du conseil et qui, d'après ce que savait ou aurait dû savoir celui qui a conseillé, était susceptible d'être commise en conséquence du conseil.
+Définitions de « conseiller » et de « conseil »
+(3) Pour l'application de la présente loi, « conseiller » s'entend d'amener et d'inciter, et « conseil » s'entend de l'encouragement visant à amener ou à inciter.
+[89]
+In
+REFERENCE_SUPPRESSED, the Supreme Court identified four elements that must be established for a criminal act to be considered as a crime against humanity:
+1. An enumerated proscribed act was committed. This involves showing that the accused committed the criminal act and had the requisite guilty state of mind for the underlying act;
+2. The act was committed as part of a widespread or systematic attack;
+3. The attack was directed against any civilian population or any identifiable group of persons; and
+4. The person committing the proscribed act knew of the attack and knew or took the risk that his or her act comprised a part of that attack.
+[90]
+In
+REFERENCE_SUPPRESSED, the Supreme Court enumerated six criteria to assist in assessing whether a refugee claimant voluntarily made a significant and knowing contribution to a crime or criminal purpose. They are the size and nature of the organization; the part of the organization with which the person was most directly concerned; the person's duties and activities within the organization; the person's position or rank within the organization; the length of time the person was in the organization; the method by which the person was recruited; and the person's opportunity to leave the organization.
+[91]
+The plaintiff claims that the criteria set out in the
+CITATION_SUPPRESSED
+and
+CITATION_SUPPRESSED
+judgments have been met in this case and that the evidence establishes that the defendant actively participated in the genocide perpetrated in Rwanda, specifically in the prefecture of Butare. The plaintiff contends that the defendant was one of the civil defence leaders, that he was a member of the MRND and its Interahamwe militia and that he was responsible for organizing the extermination of Tutsis in the prefecture of Butare. The Minister's specific allegations can be summarized as follows:
+• The defendant was a Minitrape supervisor in the prefecture of Butare and used that ministry's human and material resources to have mass graves dug, bodies transported and victims of the genocide buried;
+• The defendant encouraged or forced Hutus to kill Tutsi civilians;
+• The defendant was involved in supervising and coordinating the construction of barricades in the city of Butare and made a significant contribution to the activities that took place at the barricades in the city of Butare;
+• The defendant provided logistical support to the Interahamwe militia and the civil defence by transporting their armed men so they could help murder Tutsi civilians;
+• The defendant served as a body guard and assistant to Colonel Nteziryayo, who was the chief of civil defence for the prefecture of Butare and later the prefect of Butare, and accompanied the colonel to various gatherings, meetings and ceremonies, notably to the meeting held in Kibayi where the colonel incited Hutus to exterminate Tutsi civilians.
+[92]
+The evidence submitted in support of the Minister's allegations is composed of a variety of documents, including Professor Longman's report.
+[93]
+As I have already indicated, Professor Longman's report provides a summary of the origins of the genocide and the people who were involved, specifically in the prefecture of Butare. In his report, Professor Longman explains how the Rwandan genocide was carried out, specifically in the prefecture of Butare, as well as the role played by the civil defence and the MRND and its Interahamwe militia. Professor Longman's report establishes the role of the civil defence and of the MRND and its militia in the genocide. It also describes the role of Colonel Alphonse Nteziryayo (found guilty of genocide by the ICTR), who lived with an Interahamwe group at the Ibis hotel, in Butare. It also refers to the "Amanama Y'Urubyiruko" document, which lists the members of the civil defence committee. However, Professor Longman's report does not specifically mention the defendant by name, and does not establish the defendant's participation in the Rwandan genocide.
+[94]
+In his affidavit, Mr. Exantus presented as evidence a number of exhibits that were submitted to the ICTR. In particular, Mr. Exantus presented as evidence the document "Amanama Y'Urubyiruko" and the stenographic notes from the testimony of Sylvain Nsabimana and Pauline Nyiramashuko in the trial of Colonel Nteziryayo before the ICTR.
+[95]
+I consider the certified documents from the ICTR to be admissible as evidence under the authority of section 23 of the
+Canada Evidence Act
+, RSC 1985, c C-5. In my opinion, although the ICTR is not a court of a "foreign country", it can be likened to an international court of several countries, and there is no reason to doubt the authenticity of the documents in question because the copies included in the file were certified by the ICTR. The ICTR was created through Resolution 955 (1994) of the United Nations Security Council, acting pursuant to Chapter VII of the Charter of the United Nations. Decisions of the Security Council are binding, and Member States of the United Nations must comply with them. Canada has recognized the ICTR since its creation and maintained an ongoing cooperative relationship with itREFERENCE_SUPPRESSED, citing the
+Canada's War Crimes Program, Annual Report 2000-2001
+)
+.
+The ICTR is a "designated" extradition partner pursuant to the
+Extradition Act
+, SC 1999, c 18. Moreover, Canadian courts have cited ICTR case law (see, for example,
+CITATION_SUPPRESSED;
+REFERENCE_SUPPRESSED).
+[96]
+In the alternative, the stenographic notes from the hearings before the ICTR and the exhibits submitted to that tribunal can be admitted pursuant to the rules of the
+Civil Code of Québec
+(CCQ). Section 40 of the
+Canada Evidence Act
+provides that the laws of evidence in force in the province in which the proceedings are taken apply on a suppletive basis. In this case, the proceedings were instituted in Quebec. Moreover, the second paragraph of article 2822 of the CCQ provides that a copy of a document of which the foreign public office is the depositary makes proof of its conformity to the original. The exhibits from the ICTR are certified copies.
+[97]
+The document entitled "Amanama Y' Urubyiruko" contains the names of individuals who were members of the civil defence organizing committee. A person with the same name as the defendant is listed as a member of the MRND and of the civil defence organizing committee. This document was submitted to the ICTR and is admissible as evidence.
+[98]
+The Minister also submitted the transcripts from the testimony of Pauline Nyiramashuko and Sylvain Nsabimana before the ICTR. They stated that they had received the document entitled "Amanama Y' Urubyiruko" in May 1994. In the context of this proceeding, these are statements by individuals who neither testified nor produced an affidavit. However, these statements can be admitted as evidence if the criteria of necessity and reliability codified in article 2879 of the CCQ are met.
+[99]
+Article 2870 of the CCQ maintains the common law principles related to the admissibility of out-of-court-statements and codifies the requirements of necessity and reliability. It reads as follows:
+2870.
+A statement made by a person who does not appear as a witness, concerning facts to which he could have legally testified, is admissible as testimony on application and after notice is given to the adverse party, provided the court authorizes it.
+The court shall, however, ascertain that it is impossible for the declarant to appear as a witness, or that it is unreasonable to require him to do so, and that the reliability of the statement is sufficiently guaranteed by the circumstances in which it is made.
+Reliability is presumed to be sufficiently guaranteed with respect in particular to documents drawn up in the ordinary course of business of an enterprise, to documents entered in a register required by law to be kept, and spontaneous statements that are contemporaneous to the occurrence of the facts.
+2870.
+La déclaration faite par une personne qui ne comparaît pas comme témoin, sur des faits au sujet desquels elle aurait pu légalement déposer, peut être admise à titre de témoignage, pourvu que, sur demande et après qu'avis en ait été donné à la partie adverse, le tribunal l'autorise.
+Celui-ci doit cependant s'assurer qu'il est impossible d'obtenir la comparution du déclarant comme témoin, ou déraisonnable de l'exiger, et que les circonstances entourant la déclaration donnent à celle-ci des garanties suffisamment sérieuses pour pouvoir s'y fier.
+Sont présumés présenter ces garanties, notamment, les documents établis dans le cours des activités d'une entreprise et les documents insérés dans un registre dont la tenue est exigée par la loi, de même que les déclarations spontanées et contemporaines de la survenance des faits.
+[100]
+To be admissible therefore, the statements of individuals who do not appear as witnesses must satisfy the criteria of necessity and reliability. Jean-Claude Royer summarizes the purpose of those criteria as follows (page 569):
+[translation]
+With a view to rationalization, doctrine and case law have identified two criteria justifying exceptions to the prohibition on hearsay: necessity and reliability. The criterion of necessity is related to society's interest in discovering the truth. It also guarantees that the evidence presented in court will be in the best possible form, normally through
+viva voce
+testimony by the author of the statement. The criterion of reliability, meanwhile, is intended to ensure the integrity of the judicial process. Indeed, given that the main problem with hearsay is the impossibility of verifying the accuracy of the statement, the criterion of reliability identifies cases that provide for avoiding the risk.
+[101]
+In this case, the criterion of necessity is satisfied because the two witnesses are not available: they were found guilty by the ICTR, but their appeal before that tribunal is pending. The criterion of reliability is also satisfied because the declarations were made under oath in a judicial proceeding, providing a sufficiently serious guarantee of reliability (see Jean-Claude Royer and Sophie Lavallée,
+La preuve civile
+, 4th ed. (Cowansville: Éditions Yvon Blais, 2008) at pp 534-535, 577-578 [Royer];
+REFERENCE_SUPPRESSED).
+[102]
+The statements of Ms. Nyiramashuko and Mr. Nsabimana were submitted in order to introduce the document entitled "Amanama Y' Urubyiruko". This document contains a list of names, but no other details with regard to the individuals named. Although this document was filed with the ICTR and is admissible as evidence, it is not sufficient in itself to establish that the defendant is indeed named in it, nor to establish the defendant's membership in the MRND or the civil defence.
+[103]
+In his affidavit, Mr. Exantus also referred to two books that were written about the Rwandan genocide and that mention the defendant's name. Mr Exantus referred to the book
+Leave None to Tell the Story
+by Alison Des Forges, in which Célestin Halindintwali is cited as being one of the organizers of the massacres that preceded the official establishment of the civil defence, and as a participant in those massacres. He also referred to the book:
+Rwanda 1994: Les politiques du génocide à Butare
+written by André Guichaoua, which indicates that Célestin Halindintwali was a close collaborator of Colonel Nteziryayo and that he was responsible for recovering and burying bodies. With respect, the fact that a person who has the same name as the defendant is mentioned in two books does not establish that it is indeed the defendant, and does not constitute evidence of his participation in the genocide.
+[104]
+In his affidavit, Mr. Exantus also summarized several statements by 21 witnesses that had been gathered either by Mr. Exantus himself or by other investigators in the context of the RCMP investigation into the defendant. These people witnessed a number of events that the Minister is invoking as indications of the defendant's participation in the genocide. The witnesses in question did not all report the same things, but there is a certain similarity among some of the comments, and they all refer to the defendant's actions. This is the only evidence submitted by the Minister with regard to specific activities of the defendant during the genocide.
+[105]
+The affidavit of Mr. Exantus is admissible as evidence, but that does not necessarily render admissible all of the elements to which it refers. An affidavit is written testimony that replaces the oral testimony of a witness, but that testimony must satisfy all of the criteria and rules of evidence that apply to oral testimony (Royer, above, at p 565).
+[106]
+The witness statements reported by Mr. Exantus are out-of-court statements that constitute hearsay because they are reported to establish the truth of their content. The admissibility of these statements must be analyzed in light of the criteria of necessity and reliability set out in article 2870 of the CCQ.
+[107]
+The fact that it is impossible or unreasonable to have witnesses appear cannot be presumed. The Minister must therefore establish that it was impossible or unreasonable in the circumstances to call the witnesses to appear. He must also convince the Court that the circumstances in which the out-of-court statements were made allow for confirming the reliability of their content. I find that the Minister has not met this burden.
+[108]
+First, the affidavit of Mr. Exantus does not contain any explanation of the circumstances that would lead the Court to conclude that it was impossible or unreasonable to obtain and submit affidavits from the witnesses whose statements are reported. Mr. Exantus simply explains that the witnesses were met with in different countries, notably Canada, Belgium, the Netherlands and Rwanda.
+[109]
+In his brief, the Minister mentions that all the witnesses who would be called to testify, if there were a proceeding, live abroad and that the effort to obtain affidavits from these witnesses would have been prohibitive in the context of an uncontested proceeding. I find that explanation insufficient.
+[110]
+As I already indicated, a proceeding by default does not lessen the Minister's burden of proof, nor reduce the responsibility of the Court. The Minister must establish, on a balance of probabilities, that the defendant committed or participated in crimes against humanity. In the context of a default proceeding, the plaintiff presents its evidence by affidavit, unless the Court decides otherwise. This does not absolve the plaintiff from presenting the best possible evidence, which must also be admissible.
+[111]
+Furthermore, the Minister was able to produce affidavits from nine individuals living in Burundi and Rwanda to establish that the defendant had made a number of false statements with regard to his personal details. I do not see how it would have been too onerous to obtain affidavits from the witnesses, or at least from some of them, to establish the defendant's participation in the genocide. The witness statements that were reported in Mr. Exantus's affidavit constitute the bulk of the evidence submitted by the Minister with regard to the defendant's direct participation in the genocide. The allegations of crimes against humanity are serious and require reliable proof. The evidence does not establish in what way it would have been impossible or prohibitive to obtain affidavits from these individuals.
+[112]
+Furthermore, I do not consider the criterion of reliability to have been met either. First, Mr. Exantus did not meet all the witnesses himself, and he does not specify how many of them he did meet. Nor does he provide the names of the other investigators who met with some of the witnesses. Mr. Exantus claims that he read the contents of the statements made to the other investigators, but the Court does not have at its disposal the reports of those other investigators or the complete statements of the witnesses. The affidavit of Mr. Exantus refers to certain statements by witnesses, but, in my opinion, the context in which those statements were obtained is not sufficiently detailed to provide a sufficient guarantee of reliability.
+[113]
+The Minister has therefore not convinced me that the criteria of necessity and reliability justify the admissibility of the witness statements referred to in Mr. Exantus's affidavit with regard to the defendant's participation in the genocide.
+[114]
+I note that our Court adopted an even more conservative position in a reference for revocation by refusing to admit direct affidavits from deceased or mentally incompetent witnesses who had been interviewed by the RCMP (
+REFERENCE_SUPPRESSED). The Court ruled that the affidavits were neither necessary nor reliable, preferring the
+viva voce
+testimony of other witnesses. In this case, even in the context of a judgment by default, I find that the statements reported in Mr. Exantus's affidavit do not meet the criteria of necessity and reliability.
+[115]
+Even if I had decided to admit the out-of-court statements of the witnesses met by Mr. Exantus and other colleagues, I would have accorded little probative value to that evidence. I feel it is insufficient to rely on hearsay evidence to support a conclusion that a person committed a crime against humanity when the Minister has not convinced the Court that it would have been impossible or unreasonable to produce better evidence. Rule 81 of the Rules provides as follows:
+Content of affidavits
+81. (1) Affidavits shall be confined to facts within the deponent's personal knowledge except on motions, other than motions for summary judgment or summary trial, in which statements as to the deponent's belief, with the grounds for it, may be included.
+Affidavits on belief
+(2) Where an affidavit is made on belief, an adverse inference may be drawn from the failure of a party to provide evidence of persons having personal knowledge of material facts.
+Contenu
+81. (1) Les affidavits se limitent aux faits dont le déclarant a une connaissance personnelle, sauf s'ils sont présentés à l'appui d'une requête - autre qu'une requête en jugement sommaire ou en procès sommaire - auquel cas ils peuvent contenir des déclarations fondées sur ce que le déclarant croit être les faits, avec motifs à l'appui.
+Poids de l'affidavit
+(2) Lorsqu'un affidavit contient des déclarations fondées sur ce que croit le déclarant, le fait de ne pas offrir le témoignage de personnes ayant une connaissance personnelle des faits substantiels peut donner lieu à des conclusions défavorables.
+[116]
+The Court does not hesitate to accord little weight to an affidavit reporting hearsay evidence (
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED).
+[117]
+The other evidence submitted by the Minister, including the statements made by the defendant in his interview with the RCMP (among other things, he admitted that he was in Butare in 1994, that he knew Colonel Nteziryayo and that he lived in the Ibis hotel), are not sufficient to conclude, on a balance of probabilities, that the defendant committed a crime or crimes against humanity, and therefore, that he lied in that regard when he filled out his application for permanent residence.
+[118]
+This finding does not alter my finding with regard to the false declarations and the knowing concealment by the defendant of material circumstances related to the personal details that he provided in support of his application for permanent residence.
+D. Conclusions
+[119]
+I find, based on the evidence submitted by the Minister, that in the context of his application for permanent residence, the defendant lied and knowingly concealed material circumstances. I am convinced, based on a balance of probabilities, that the defendant made numerous false declarations with regard to the personal details that he provided in the context of his application for permanent residence, such as his place of birth and marriage, his citizenship, his place of residence and his employment history, and that he completely fabricated a story of persecution.
+[120]
+The case law does not require that the Minister prove that had it not been for the false declarations and the knowing failure to disclose material circumstances, the application for permanent residence would have been rejected. I therefore do not have to rule in that regard. The Minister was nevertheless required to prove that the defendant's false declarations and failure to disclose material circumstances had the effect of foreclosing or averting further inquiries, and the Minister's evidence has so convinced me.
+[121]
+I am convinced that in this case, the defendant's false representations prevented Canadian immigration authorities from continuing to collect information and undertaking a more in-depth inquiry before approving the defendant's application for permanent residence.
+[122]
+The defendant's false representations, as well as the important information that he concealed, concerned significant elements pertaining to his admissibility as a "Convention refugee seeking resettlement". The defendant concealed his Rwandan nationality and invented a story of persecution in Burundi, when he was in fact in Rwanda.
+[123]
+In her affidavit, Ms. Galarneau, who processed the defendant's permanent residence application, stated that had the defendant and his wife declared themselves to be Rwandan, she would not have approved their application for permanent residence because they claimed to be afraid of persecution in Burundi, and not in Rwanda. If they had admitted to being Rwandan, they would therefore not have met the definition of Convention refugee, which requires demonstration of a well-founded fear of persecution in the country of nationality.
+[124]
+Ms. Galarneau also stated that at the time of the defendant's application for permanent residence, Canadian authorities in the embassy in Nairobi, Kenya, were conducting rigorous checks of visa applicants who were originally from Rwanda in order to prevent anyone who had participated in the genocide from settling in Canada. She stated that had the defendant declared himself to be Rwandan, she would have questioned him in order to determine where he was and what he had been doing during the genocide. Ms. Galarneau indicated that in claiming to be from Burundi, the defendant avoided being questioned with regard to his activities during the genocide.
+[125]
+I am also convinced, on a balance of probabilities, that the defendant's false representations and failure to mention material circumstances were made knowingly. These are not innocent misrepresentations or inadvertent omissions. The defendant's false representations concerned pretty much all of the information he submitted in support of his application, both in terms of personal details and his allegations of persecution. I am therefore convinced, on a balance of probabilities, that the defendant made false representations with the intention of misleading Canadian authorities in the context of his application for Canadian residence.
+[126]
+In my opinion, the defendant's conduct corresponds to the three types of conduct referred to in section 10 of the Act. I therefore find that the defendant obtained permanent residence by false representation and fraud and by knowingly concealing material circumstances.
+[127]
+Therefore, through subsection 10(2) of the Act, the defendant is deemed to have obtained Canadian citizenship by false representation and fraud and by concealing material circumstances.
+JUDGMENT
+[128]
+THE COURT'S JUDGMENT IS that the
+defendant, Célestin Halindintwali, obtained Canadian citizenship through fraud or false representation or by knowingly concealing material circumstances, within the meaning of paragraph 18(1)(
+b
+) of the
+Citizenship Act.
+APPENDIX "A"
+Date: 20140923
+Docket: T-1952-13
+Citation: 2014 FC 909
+[UNREVISED ENGLISH CERTIFIED TRANSLATION]
+Montréal, Quebec, September 23, 2014
+PRESENT: The Honourable Madam Justice Bédard
+BETWEEN
+:
+THE MINISTER OF CITIZENSHIP AND IMMIGRATION
+Plaintiff
+and
+CÉLESTIN HALINDINTWALI
+Defendant
+ORDER AND REASONS
+[1]
+This is a motion for order of confidentiality filed by the plaintiff in the action brought under section 18(1)(
+b
+) of the
+Citizenship Act
+, RSC, 1985, c C-29 (the Act). The purpose of the action is to have the Court declare that the person obtained Canadian citizenship by false representation or fraud or by knowingly concealing material circumstances.
+[2]
+For the reasons that follow, this motion for confidentiality is granted.
+I.
+Background
+[3]
+The defendant became a permanent resident of Canada on July 22, 1997, and obtained Canadian citizenship on June 21, 2001. The plaintiff contends that the defendant made false representations when he applied for permanent residency in order to hide from Canadian authorities his participation in the Rwandan genocide in 1994, and that he completely fabricated his account in order to be admitted in to Canada as a refugee.
+[4]
+The Act (in force as of June 6, 2013) provides a procedure that enables the Governor in Council to make an order revoking a person's citizenship if he is satisfied that the person obtained citizenship by false representation or fraud or by knowingly concealing material circumstances. The Governor in Council's power in this respect is provided in section 10 of the Act, which reads as follows:
+Order in cases of fraud
+10. (1) Subject to section 18 but notwithstanding any other section of this Act, where the Governor in Council, on a report from the Minister, is satisfied that any person has obtained, retained, renounced or resumed citizenship under this Act by false representation or fraud or by knowingly concealing material circumstances,
+(a) the person ceases to be a citizen, or
+(b) the renunciation of citizenship by the person shall be deemed to have had no effect,
+as of such date as may be fixed by order of the Governor in Council with respect thereto.
+Presumption
+(2) A person shall be deemed to have obtained citizenship by false representation or fraud or by knowingly concealing material circumstances if the person was lawfully admitted to Canada for permanent residence by false representation or fraud or by knowingly concealing material circumstances and, because of that admission, the person subsequently obtained citizenship.
+1974-75-76, c. 108, s. 9.
+Décret en cas de fraude
+10. (1) Sous réserve du seul article 18, le gouverneur en conseil peut, lorsqu'il est convaincu, sur rapport du ministre, que l'acquisition, la conservation ou la répudiation de la citoyenneté, ou la réintégration dans celle-ci, est intervenue sous le régime de la présente loi par fraude ou au moyen d'une fausse déclaration ou de la dissimulation intentionnelle de faits essentiels, prendre un décret aux termes duquel l'intéressé, à compter de la date qui y est fixée:
+a) soit perd sa citoyenneté;
+b) soit est réputé ne pas avoir répudié sa citoyenneté.
+Présomption
+(2) Est réputée avoir acquis la citoyenneté par fraude, fausse déclaration ou dissimulation intentionnelle de faits essentiels la personne qui l'a acquise à raison d'une admission légale au Canada à titre de résident permanent obtenue par l'un de ces trois moyens.
+1974-75-76, ch. 108, art. 9.
+[5]
+As set out in subsection 10(1), the Governor in Council acts after receiving a report from the Minister of Citizenship and Immigration (the Minister). However, under section 18 of the Act, the Minister must give notice of his intention to submit a report to the Governor in Council recommending that citizenship be revoked to the person in respect of whom the report is to be made. That person may then request that the matter be referred to the Federal Court, which will determine whether there has been false representation, fraud or knowing concealment of material circumstances. When the person concerned requests that the matter be referred to the Court, the Minister must wait for the Court's decision before submitting his report to the Governor in Council. If the Court decides that citizenship has been obtained by false representation or fraud or by knowingly concealing material circumstances, he may then submit his report recommending that the Governor in Council revoke the person's citizenship.
+[6]
+Section 18, which governs this process, reads as follows:
+Notice to person in respect of revocation
+18(1) The Minister shall not make a report under section 10 unless the Minister has given notice of his intention to do so to the person in respect of whom the report is made and
+(a) that person does not, within thirty days after the day on which the notice is sent, request that the Minister refer the case to the Court; or
+(b) that person does so request and the Court decides that the person has obtained, retained, renounced or resumed citizenship by false representation or fraud or by knowingly concealing material circumstances.
+Nature of notice
+(2) The notice referred to in subsection (1) shall state that the person in respect of whom the report is to be made may, within thirty days after the day on which the notice is sent to him, request that the Minister refer the case to the Court, and such notice is sufficient if it is sent by registered mail to the person at his latest known address.
+Decision final
+(3) A decision of the Court made under subsection (1) is final and, notwithstanding any other Act of Parliament, no appeal lies therefrom.
+1974-75-76, c. 108, s. 17.
+Avis préalable à l'annulation
+18. (1) Le ministre ne peut procéder à l'établissement du rapport mentionné à l'article 10 sans avoir auparavant avisé l'intéressé de son intention en ce sens et sans que l'une ou l'autre des conditions suivantes ne se soit réalisée:
+a) l'intéressé n'a pas, dans les trente jours suivant la date d'expédition de l'avis, demandé le renvoi de l'affaire devant la Cour;
+b) la Cour, saisie de l'affaire, a décidé qu'il y avait eu fraude, fausse déclaration ou dissimulation intentionnelle de faits essentiels.
+Nature de l'avis
+(2) L'avis prévu at paragraphe (1) doit spécifier la faculté qu'a l'intéressé, dans les trente jours suivant sa date d'expédition, de demander au ministre le renvoi de l'affaire devant la Cour. La communication de l'avis peut se faire par courrier recommandé envoyé à la dernière adresse connue de l'intéressé.
+Caractère définitif de la décision
+(3) La décision de la Cour visée au paragraphe (1) est définitive et, par dérogation à toute autre loi fédérale, non susceptible d'appel.
+1974-75-76, ch. 108, art. 17.
+[7]
+On June 6, 2013, the plaintiff sent a notice to the defendant informing him of his intention to recommend that the Governor in Council revoke his citizenship pursuant to section 18 of the Act.
+[8]
+On June 21, 2013, the defendant, through his counsel, requested that the matter be referred to the Court.
+II.
+History of this proceeding and default proceedings
+[9]
+The plaintiff filed his statement of claim with the Registry of the Court on November 27, 2013. The defendant was served with the statement of claim pursuant to Rule 128(1)(
+b
+) of the
+Federal Courts Rules
+SOR/98-106 (the Rules). In accordance with Rule 128(2), service of the statement of claim on the defendant was effective on December 20, 2013, and the defendant had 30 days to challenge the action by serving and filing his statement of defence (Rule 204). The 30-day period, taking into account the holiday period, ended on February 5, 2014, and the defendant had not served or filed his statement of defence.
+[10]
+The plaintiff made many enquiries to ensure that the defendant had not inadvertently failed to file his statement of defence. Counsel for the plaintiff tried unsuccessfully to contact counsel for the defendant by telephone and left him messages that were never returned. On February 28, 2014, counsel for the plaintiff sent a letter by fax to counsel for the defendant informing him that unless he received some reply by March 10, 2014, he intended to file a motion for a default judgment. Rule 210 of the Rules authorizes and provides for default proceedings when a defendant fails to serve and file a statement of defence within the time set out in Rule 204.
+[11]
+On June 16, 2014, the Court sent the parties a Notice of Status Review. On June 27, 2014, the plaintiff filed written submissions in reply to the Notice of Status Review. In his submissions, the plaintiff informed the Court that he intended to file a motion for confidentiality and a motion for default judgment.
+[12]
+On August 8, 2014, Prothonotary Morneau ordered that the proceeding continue as a specially managed proceeding. Moreover, given the importance of the case and although it is not required under the Rules because the defendant had not filed a statement of defence, Prothonotary Morneau ordered the plaintiff to serve on the defendant a copy of the order as well as copies of the motions for confidentiality and default judgment. In this case, this is a precaution to ensure that the defendant truly chose to not participate in this hearing.
+[13]
+The evidence establishes that Mr. Morneau's order and the plaintiff's two motions were served on defendant, in accordance with Rule 140 of the Rules, on August 12, 2014. I am thus satisfied that this motion for confidentiality may proceed by default.
+III.
+The motion for confidentiality
+[14]
+In this case, the plaintiff alleges that the defendant made several misrepresentations in the permanent residence application that he filed in 1995 and knowingly concealed material circumstances. More specifically, the plaintiff submits that the defendant falsely stated that he had never committed a crime against humanity, whereas the defendant, he claims, participated in the perpetration of crimes against humanity against the Tutsi people during the Rwandan genocide. The plaintiff also submits that the defendant lied about his country of nationality, place of birth, where he had studied, his employment history, his marriage and his grounds for his fear of persecution.
+[15]
+In support of his motion for default judgment, and to adduce evidence of fraud and concealment of information, the plaintiff filed the affidavit of Rudy Exantus, a police officer with the Royal Canadian Mounted Police (RCMP). Mr. Exantus is currently assigned to the RCMP Sensitive and International Investigations Unit, but from July 2001 to 2012, he was assigned to the RCMP War Crimes Unit.
+[16]
+As part of his work, starting in August 2008, Mr. Exantus participated in a criminal investigation into the possible involvement of the defendant in the 1994 Rwandan genocide. Since 2011, he has also completed research and investigation mandates regarding the procedure for revoking the defendant's citizenship, on the request of the Crimes Against Humanity and War Crimes Section of the Department of Justice.
+[17]
+In his affidavit, Mr. Exantus stated that he had personally interviewed witnesses as part of the criminal investigation and the investigation related to the process to revoke the defendant's citizenship. He also stated that he was aware of statements obtained by colleagues who had also participated in the investigations. Mr. Exantus stated that as part of these investigations many people (the affidavit refers to the testimony of 20 witnesses) were interviewed in Canada, Rwanda, Belgium and Holland. These people allegedly witnessed, in different respects, the defendant's participation in the genocide in the Butare prefecture between April and July 1994.
+[18]
+Mr. Exantus' affidavit addresses statements allegedly made by the people that were interviewed.
+[19]
+The version of Mr. Exantus' affidavit filed in Court identifies the witnesses by pseudonyms and has some portions that are redacted.
+[20]
+The plaintiff submits that the safety of the witnesses interviewed as part of the investigations and whose statements are reported in Mr. Exantus' affidavit, could be compromised if their identity were disclosed publicly. That is the reason why the plaintiff and Mr. Exantus identified the witnesses by pseudonyms. The plaintiff also submits that the redacted excerpts of the affidavit contain and are limited to information that would be likely to identify the people who made the statements.
+[21]
+Through the motion for confidentiality, the plaintiff thus seeks to preserve the confidentiality of the identities of the witnesses who were interviewed and whose statements are recounted or summarized in Mr. Exantus' affidavit. The plaintiff is willing to file an unredacted copy of the affidavit but asks that it be declared confidential and that the redacted copy be the only copy placed in the Court's public file.
+IV.
+Analysis
+[22]
+It is well known that one of the foundations of our legal system is the open court principle. In principle, Court proceedings are public as are Court files, pleadings and evidence entered in the Court record. These principles are clearly reflected in subsections 26(1) and 29(1) of the Rules. Nonetheless, there are recognized exceptions to the open court principle.
+[23]
+Rule 151of the Rules sets out how motions for confidentiality are dealt with and reads as follows:
+Motion for order of confidentiality
+151. (1) On motion, the Court may order that material to be filed shall be treated as confidential.
+Demonstrated need for confidentiality
+Before making an order under subsection (1), the Court must be satisfied that the material should be treated as confidential, notwithstanding the public interest in open and accessible court proceedings.
+Requête en confidentialité
+151. (1) The Court peut, sur requête, ordonner que des documents ou éléments matériels qui seront déposés soient considérés comme confidentiels.
+Circonstances justifiant la confidentialité
+(2) Avant de rendre une ordonnance en application du paragraphe (1), The Court doit être convaincue de la nécessité de considérer les documents ou éléments matériels comme confidentiels, étant donné l'intérêt du public à la publicité des débats judiciaires.
+[24]
+Under Rule 151, before making an order of confidentiality, the Court must be satisfied that the documents at issue should be treated as confidential, notwithstanding the public interest in open and accessible court proceedings. It is clear from Rule 151 and the jurisprudence that confidentiality is an exception to the general open court rule and it must be applied carefully and after thorough analysis.
+[25]
+In
+REFERENCE_SUPPRESSED, the Supreme Court set out the framework and the test to be applied by a court hearing a motion for confidentiality. Thus, before making an order of confidentiality, the Court must be satisfied that the need for preserving the confidentiality of a document outweighs the public interest in open and accessible Court proceedings. The Court reiterated and adapted to the context of the case before it the two-branch test it had previously set out in other decisions (
+REFERENCE_SUPPRESSED). The Court stated, at paragraph 53 (
+CITATION_SUPPRESSED
+), a confidentiality order should only be granted when the Court determines that
+i. such an order is necessary in order to prevent a serious risk to an important interest, including a commercial interest, in the context of litigation because reasonably alternative measures will not prevent the risk; and
+ii. the salutary effects of the confidentiality order, including the effects on the right of civil litigants to a fair trial, outweigh its deleterious effects, including the effects on the right to free expression, which in this context includes the public interest in open and accessible court proceedings.
+[26]
+The Court also reiterated that three elements must be considered under the first branch of the test: (1) the risk in question must be real and substantial, well grounded in the evidence; (2) the Court should guard against protecting an excessive number of documents from disclosure; and (3) the Court must consider whether reasonable alternatives to a confidentiality order are available and restrict the order as much as is reasonably possible (
+CITATION_SUPPRESSED).
+[27]
+In
+REFERENCE_SUPPRESSED, the Court noted that the analytical approach developed in
+CITATION_SUPPRESSED
+and
+CITATION_SUPPRESSED
+applies to all discretionary decisions that affect the openness of proceedings.
+[28]
+These principles have been applied by our Court and by the Federal Court of Appeal in motions for confidentiality filed under Rule 151 (
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+BritishREFERENCE_SUPPRESSED, Justice Dawson discussed the applicable test and the burden that rests on the party seeking a confidentiality order:
+[8] The justifiable desire to keep one's affairs private is not, as a matter of law, a sufficient ground on which to seek a confidentiality order. In order to obtain relief under Rule 151, the Court must be satisfied that both a subjective and an objective test are met. See:
+REFERENCE_SUPPRESSED) affirming (1998) 81 C.P.R. (3d) 121. Subjectively, the party seeking relief must establish that it believes its interest would be harmed by disclosure. Objectively, the party seeking relief must prove, on a balance of probabilities, that the information is in fact confidential.
+(see also
+CITATION_SUPPRESSED).
+[29]
+In the present case, the Minister has satisfied me that the identity of the witnesses whose statements are reported or summarized in Mr. Exantus' affidavit should remain confidential.
+[30]
+The ground raised to support the confidential nature of the witnesses' identities is the risk that the safety of these persons would be compromised if their identities were disclosed publicly.
+[31]
+The uncontradicted evidence shows that some of the people interviewed during the RCMP investigation expressed their fear of reprisals from members of their community if their identity were revealed. The evidence, specifically the affidavit of Alfred Kewnde, Chief of Investigations at the Office of the Prosecutor of the International Criminal Tribunal for Rwanda, which was filed with the Superior Court during the trial of Jacques Mungwarere and was filed as an exhibit in support of Mr. Exantus' affidavit, shows that the fear for personal safety expressed by the people interviewed during the investigations is serious and genuine.
+[32]
+Thus, I am satisfied that there are grounds for preserving the confidentiality of the identity of the people interviewed during the RCMP investigations about the defendant's alleged participation in the Rwandan genocide to avoid compromising their security. The threat to the safety of witnesses is a serious risk that should be avoided to preserve an important interest. I am also of the opinion that in order to avoid any risk to their safety there are no reasonable options other than preventing the public identification of the witnesses' identities.
+[33]
+Furthermore, I am of the view that the salutary effects of the confidentiality order outweigh its deleterious effects, including on the right to freedom of expression and the public's interest in open and accessible Court proceedings. I would like to point out that steps were taken to preserve the confidentiality of witnesses also by the superior courts of Quebec and Ontario in the criminal trials of Désiré Munyaneza (
+REFERENCE_SUPPRESSED) and Jacques Mungwarere, (
+REFERENCE_SUPPRESSED), accused of participating in the Rwandan genocide.
+[34]
+I am of the view that the findings sought by the plaintiff are measures that limit as much as possible the information that will be declared confidential in this case.
+ORDER
+[35]
+THIS COURT ORDERS that:
+1. The plaintiff's motion is granted and the identities of the people interviewed during the RCMP investigations that Rudy Exantus refers to are declared confidential.
+2. Within five (5) days of the date of this order, the plaintiff must file under seal with the Court an unredacted copy of the affidavit of Rudy Exantus that must also provide the real names of the witnesses and the Court will treat this copy as confidential.
+3. The redacted copy of the affidavit of Rudy Exantus will remain in the Court's public record.
+4. The plaintiff's motion for a default judgment is fixed for hearing on Tuesday, January 13, 2015, at 9:30 am, at the Federal Court, 30 McGill Street, City of Montréal, Province of Quebec.
+5. The style of cause will be translated.
+6. The undersigned will retain jurisdiction over this matter in order to settle any issues that may arise from the implementation of this order.
+7. No costs are awarded.
+Order accordingly.
+Editor: Elizabeth M.A. Turgeon
+[End of document]

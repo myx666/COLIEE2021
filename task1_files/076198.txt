@@ -1,0 +1,144 @@
+I.
+INTRODUCTION
+[1]
+Phelan, J.
+: The issue in this judicial review is whether the Minister of National Revenue [Minister] has met the obligation to examine the Applicant's tax return "with all due dispatch" in circumstances where delay in examination was caused by the policy of a local tax centre of the Canada Revenue Agency to discourage certain types of tax shelter donations.
+[2]
+This judicial review had been commenced primarily to obtain
+mandamus
+to compel the Minister to examine the Applicant's 2010 tax year return; declaration was a secondary relief. After the hearing the Minister issued his assessment of the return and asked that the judicial review be dismissed for mootness. The Applicant had asked to expand and clarify the declaratory relief to be as follows:
+... in the alternative, a declaration that the Minister has no authority to delay the examination of the applicant's return, the issuance of a corresponding tax assessment, and the ending of a notice of that assessment for any of the following reasons:
+a) to deter or reduce taxpayer participation in a registered tax shelter (namely, in the Global Learning Gifting Initiative); or
+b) to pursue goals other than those directly related to examining the applicant's return and ascertaining her tax, interest, and penalties payable under the
+Income Tax Act
+.
+[3]
+The declaration amendment was granted by Order of the Court on April 24, 2013, and the motion to dismiss for mootness was dismissed on April 25, 2013. The reasons for dismissal of the motion regarding mootness are found in
+ <FRAGMENT_SUPPRESSED> .
+[4]
+The relevant section, s 152(1) of the
+Income Tax Act
+, RSC 1985 (5th Supp), c 1 [ITA], reads:
+152. (1) The Minister shall, with all due dispatch, examine a taxpayer's return of income for a taxation year, assess the tax for the year, the interest and penalties, if any, payable and determine
+(a) the amount of refund, if any, to which the taxpayer may be entitled by virtue of section 129, 131, 132 or 133 for the year; or
+(b) the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 125.4(3), 125.5(3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
+152. (1) Le ministre, avec diligence, examine la déclaration de revenu d'un contribuable pour une année d'imposition, fixe l'impôt pour l'année, ainsi que les intérêts et les pénalités éventuels payables et détermine:
+a) le montant du remboursement éventuel auquel il a droit en vertu des articles 129, 131, 132 ou 133, pour l'année;
+b) le montant d'impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 125.4(3), 125.5(3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l'impôt payable par le contribuable en vertu de la présente partie pour l'année.
+[5]
+It is fair to say that this case is something of a test case. There were 83 similarly delayed assessments in 2010 and a larger number for 2011.
+II.
+BACKGROUND
+[6]
+The context in which this issue arose is important. The Global Learning Gifting Initiative [GLGI] is a tax shelter that has been registered with Canada Revenue Agency [CRA] since 2004. CRA audited GLGI for each of the taxation years 2004-2008 which resulted in the denial of every charitable donation credit claim for those years. The 2009 audit was ongoing in mid-2011. The tax year at issue in this judicial review is 2010.
+[7]
+The Respondent describes how GLGI operated in 2004-2009 as follows:
+• a promoter signs up participants;
+• the participants make a cash payment to a charity;
+• the participants apply to become a beneficiary of a trust and indicate the amount of courseware (or software) they would like to receive from the trust;
+• after the trust approves the participant as a beneficiary, the trust makes a distribution of the courseware to the participant who in turn purports to donate the licences of this courseware to a charity;
+• the participant receives two charitable donation receipts, one in respect of the cash and one in respect of the courseware; and
+• the charities retain less than 10% of the cash received; up to 90% of the cash paid to the charities is ultimately paid to the promoter and IDI Strategies Inc.
+[8]
+Whether the above is an accurate or fair description is not before the Court. However, there is no evidence that in 2010 the Respondent's perception of GLGI's operation or the lack of legitimacy of charitable donation had changed in 2010. In fact, the Respondent's officials in Winnipeg viewed the GLGI activities as a "sham" or a fraud.
+[9]
+For the 2004-2009 tax years CRA denied the charitable tax credit on the following grounds:
+• the participants did not make a gift to a charity as they did not have a donative intent;
+• the participants did not own courseware licences to donate to the charity;
+• the trust was not valid;
+• the GLGI arrangement was a sham; and
+• the fair market value of the licences was substantially less than the value claimed in the charitable donation tax receipts issued by the charities.
+[10]
+There are a significant number of Notices of Objection filed disputing the denial of the charitable donation claims. A CRA official estimated that there were 27,000-28,000 Notices of Objection being held in CRA's Appeals Division with respect to GLGI for the 2004-2006 tax years alone. The Tax Court of Canada has yet to make a determination on the deductibility of these charitable donations.
+[11]
+CRA's long-standing policy across the country is to allow a taxpayer's claim for charitable donation tax credits made for a gifting tax shelter in the initial assessment and then, after auditing the tax shelter, issue a reassessment if necessary. This would result initially in a refund to the taxpayer and might subsequently, following a reassessment, require repayment to the CRA by the taxpayer.
+[12]
+In March 2011, the Director of CRA's Winnipeg Tax Centre [the Centre] formed a working group ostensibly to examine approaches aimed at improving compliance with the ITA. There was a specific focus on verifying taxpayer claims, that is conducting the audit, before issuing a refund [the New Policy]. GLGI was selected as a pilot for this New Policy because it had been audited for the 2004-2009 tax years and all charitable credits had been denied.
+[13]
+At the November 2012 hearing before this Court, the Respondent maintained that the 2010 tax year GLGI audit could take until June 2013 to finish. However, within a few weeks of the judicial review hearing, the audit was completed.
+[14]
+The Applicant is one of the taxpayers who made a donation in 2010 through GLGI knowing that it was a registered tax shelter. The Applicant and her husband made a payment to the GLGI program through their joint account and they received two tax receipts from donations made through GLGI. The receipts were for two amounts: $10,000 for a cash donation and $50,019.86 for the donation of courseware licences. The tax receipts were issued in the name of the Applicant's husband and were claimed on his return. He transferred $35,100 of his total donation to the Applicant. The husband was assessed in May 2011 and was allowed his charitable tax credit.
+[15]
+The Applicant, on the other hand, received a letter, as a result of the New Policy, advising that her assessment would not be issued until the 2010 audit was completed. A CRA Tax Alert was attached to the letter warning of an audit if contributions were made to a gifting tax shelter.
+III.
+ANALYSIS
+[16]
+The true issue is whether the Respondent's New Policy and the excuse for delay in assessing is consistent with the Minister's duty to assess "with all due dispatch" per s 152(1) of the ITA.
+A.
+Standard of Review
+(1)
+Legal Principles
+[17]
+The Applicant submits that there is no specific standard of review and that the Court is the trier of fact. In this regard, I do not agree. The Minister is given a wide (but not unfettered) discretion in assessing and it is not generally for the Court to second-guess the Minister's administrative decisions unless they are unreasonable or not compliant with the ITA.
+[18]
+In this case, the issue is whether the Minister's failure to assess is due to irrelevant considerations or improper purpose. In that regard, the standard of review is not particularly determinative in this case. The standard of review is either correctness because improper purpose goes to jurisdiction or irrelevant considerations, arbitrariness and improper purpose make a decision unreasonable. The assessment of the facts underlying the issue is for the Court to determine.
+[19]
+The term "with all due dispatch" was thoroughly canvassed in
+ <FRAGMENT_SUPPRESSED>  DTC 1254 (Ex Ct). The essential conclusions are that term is the equivalent of "with all due diligence" or "within a reasonable time" and that there is no fixed time period for the performance of the duty to assess.
+[20]
+The basic principle governing the Minister's performance of the duty to assess is well- described in paragraphs 47 to 49 of <FRAGMENT_SUPPRESSED> , above:
+47 There is no doubt that the Minister is bound by time limits when they are imposed by the statute, but, in my view, the words "with all due dispatch" are not to be interpreted as meaning a fixed period of time. The "with all due dispatch" time limit
+purports a discretion of the Minister to be exercised
+, for the
+good administration of the Act
+, with
+reason, justice and legal principles
+.
+48 The subject-matter in this appeal being the assessments, what the Court has to consider is the correctness of the assessments in question.  <FRAGMENT_SUPPRESSED>  the President of this Court stated at page 373,
+... There is
+no standard in the Act or elsewhere, either express or implied, fixing the essential requirements of an assessment
+. It is, therefore, idle to attempt to define what the Minister must do to make a proper assessment. It is exclusively for him to decide how he should, in any given case, ascertain and fix the liability of the taxpayer. The extent of the investigation that he should make, if any, is for him to decide. Of necessity it will not be the same in all cases.
+49 There is no doubt that the Minister is required to reconsider the assessment upon receipt of a notice of dissatisfaction in the time best suited for the accomplishment of his duty; however, the
+determination in each case as to whether he has executed his duty "with all due dispatch" is a question of fact
+. He may be delayed in his determination by many reasons and factors. But as said above, it is exclusively for him to decide how he should, in any given case, ascertain and fix the liability of the taxpayer and the extent of his reconsideration. This being so, how can the courts interfere and decide that an assessment becomes null and void because notice of reconsideration was not served in the time limit of 180 days? (Underlining by Court)
+[21]
+Other decisions such as
+ <FRAGMENT_SUPPRESSED>  (Fed TD), and
+Rodmon Construction Inc v R
+, [1975] CTC 73, 75 DTC 5038 (Fed TD), confirm that same basic interpretation which provides the Minister with reasonable discretion in the timing of assessment. However, the discretion is not unfettered, it must be reasonable and for a proper purpose of ascertaining and fixing the liability of the taxpayer (
+J  <FRAGMENT_SUPPRESSED>  (TCC)).
+[22]
+In assessing whether the facts exhibit "all due diligence", it is important to bear in mind the purposes of the provision, which is to bring some certainty to the taxpayers' financial affairs at the earliest reasonably possible time (see
+J  <FRAGMENT_SUPPRESSED> ;
+ <FRAGMENT_SUPPRESSED> ).
+[23]
+The prompt assessment requirement has important consequences within the scheme of the ITA. For example, the three-year limitation period on reassessment is postponed where there is delay in the initial assessment. The taxpayer cannot compel the refund of overpayment of taxes absent an initial Notice of Assessment, nor can the taxpayer proceed by way of objection to the Tax Court until an assessment is issued. As referred to in paragraph 28 hereof, headquarters of CRA warned of some of the adverse consequences of the New Policy.
+[24]
+It is essential, in determining whether the Minister has met this statutory obligation, to consider the real purpose and effect of the New Policy. The true purpose is found in the series of e-mails and documents surrounding the creation of the memo incorporating the New Policy. While the Director of the Winnipeg Tax Centre tried to describe the purpose as simply verification of donations, I conclude that its real aim was to deter taxpayers from participating in the GLGI program.
+[25]
+The Working Group admitted that it was trying to find a legitimate way to avoid issuing refunds from participation in the GLGI program and to find a method to prevent the refund from ever being issued. In this regard, the Winnipeg Tax Centre was proceeding on its own policy which was distinctly different from that in the rest of the country. Those taxpayers within the Centre's ambit were to be treated differently from taxpayers in the rest of the country. This is inconsistent with the federal and national nature of the Minister's obligation.
+[26]
+Even allowing for a certain degree of hyperbole or "piling on" in internal communications, the officials in the Centre wrote that they had GLGI participants "over a barrel" and that "withholding refunds for even a year or two may be sufficient to deter further participation" in GLGI. There is no evidence that anyone ever disavowed that this was the true purpose of the New Policy. The manner in which officials implemented the New Policy confirms that its true purpose is to discourage participation in tax shelters generally and GLGI in particular.
+[27]
+The method by which the Winnipeg Tax Centre thought it could achieve this purpose was to rely on the need for an audit to give legitimacy to the delay which they intended to use to discourage participation. However, it is apparent from the Record that the Centre had already determined that the donations claimed were not legitimate.
+[28]
+This initial development of the New Policy was outlined in a memo which also reflected the concerns of superiors at CRA in Ottawa:
+Headquarters has cautioned that there may be unintended effects on taxpayer rights where taxpayers may have rights to certain benefits under the Act, such as Child Tax Benefits and Goods and Services Tax /Harmonized Sales Tax credits, as these would be delayed until the time of assessment of the return.
+The headquarters' concerns were dismissed as largely irrelevant by the officials at the Winnipeg Tax Centre.
+[29]
+That same memo outlined the real reason for the delay in assessment:
+Withholding the refunds for even a year or two until the audit of the tax shelter is complete may be sufficient to deter further participation. In addition it is hoped that this approach might be adopted nationally, resulting in a consistent and stronger message to all those who participate in these aggressive arrangements that the CRA is taking all reasonable measures to protect the tax base.
+[30]
+Subsequently the description of the New Policy was massaged in later drafts to remove what officials knew were troublesome words - troublesome not because they were not accurate but troublesome because they were an accurate reflection of the reason for delaying the assessments. These officials removed the reference to the fact that the New Policy was an attempt to delay initial assessments, that the withholding of refunds was aimed at deterring further participation in the GLGI program and that CRA Headquarters had concerns about taxpayers and consequences to their rights under the ITA.
+[31]
+Ultimately a "cleansed" version of the New Policy was produced for briefing of officials.
+[32]
+The intent of the New Policy - to delay and discourage - was further reinforced in a December 4, 2011 e-mail from officials in Winnipeg that CRA was prepared to defend the "strategy behind the Prairie Region's decision to delay the assessment of [GLGI-related] returns ... vigorously at all levels including any application attempting to compel the assessment of these returns".
+[33]
+To the extent that there may have been some basis for awaiting the audit, the decision to audit is so tainted by the real reason for the New Policy that the audit is an excuse for delay not a reason for delay.
+[34]
+CRA has already determined its course of action. The GLGI structure has not changed; all previous donations have been disallowed; and CRA views GLGI as having been "offside for each of the last 7 years". Officials have used the term "fraudulent" in relation to GLGI; described donation claims as "wrong" and refunds as "undeserved"; and that GLGI participants are not "entitled to refunds in the first place".
+[35]
+Whatever the merits of CRA's concerns about the legitimacy of the GLGI donation program, that is a matter for the Tax Court. This Court must conclude that the delay in assessing the Applicant was not truly related to examining her return and ascertaining her tax liability. It was for the purpose of discouraging participation in the GLGI program. It resulted in singling out those GLGI participants under the Winnipeg Tax Centre for treatment different from those participants in other parts of the country for reasons which are not unique to the Prairie Region. There are no local circumstances which justify the marked departure from the national policy. More importantly, the Minister's obligation to assess remains unaffected by local policy concerns.
+IV.
+CONCLUSION
+[36]
+The Applicant is entitled to a declaration that the Minister failed to comply with the duty to assess with all due dispatch. The Court will not make a declaration in as broad terms as the Applicant requests. These Reasons describe the findings that underlie the failure to meet the statutory obligations.
+JUDGMENT
+[37]
+THIS COURT ADJUDGES AND DECLARES that
+for the Reasons given, the Respondent failed to assess the Applicant's tax return with all due dispatch.
+[38]
+Costs shall be as agreed between the parties.
+Application allowed.
+Editor: Angela E. McKay/vnh

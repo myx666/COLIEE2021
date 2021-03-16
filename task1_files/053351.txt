@@ -1,0 +1,779 @@
+TABLE OF CONTENTS
+-
+Para.
+Overview
+1
+Legislative Background
+5
+The Applicants
+15
+Discussion
+17
+--Statutory Interpretation
+17
+--
+Bill of Rights
+38
+--Rule of Law/Unwritten Principles of the Constitution
+45
+--Judicial Independence
+54
+--Applicability of the
+Charter
+61
+--Life, Liberty and Security of the Person
+80
+--Equality
+103
+---Evidence of Discrimination
+119
+---Perpetuation of Stereotype
+135
+--Justification for Infringement
+138
+--
+Mandamus
+139
+--Humanitarian and Compassionate Relief
+141
+--The Application Fees
+145
+Conclusion
+147
+JUDGMENT
+149
+ANNEX A:
+Immigration and Refugee Protection Act
+, SC 2001, c 27
+149
+ANNEX B:
+Canadian Bill of Rights
+, SC 1960, c 44
+149
+ANNEX C: Canada Permanent Residents by Source Country
+Omitted
+ANNEX D List of Applications Determined by this Decision
+Omitted
+Overview
+[1]
+Rennie, J.
+: These applications concern section 87.4 of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 (
+IRPA
+), a recent amendment introduced by Bill C-38, known as the
+Jobs Growth and Long-term Prosperity Act
+. Subsection 87.4(1) provides that applications for permanent residence as a member of the federal skilled worker (FSW) class made before February 27, 2008 are terminated unless an officer had made a selection decision before March 29, 2012.
+[2]
+The applicants applied for FSW permanent resident visas before February 27, 2008. They have been waiting many years for their applications to be processed and are now subject to legislation which purports to cancel their applications without further consideration. They seek an order of
+mandamus
+directing the respondent to process their applications and have filed Notices of Constitutional Question alleging that section 87.4 violates the rule of law and the
+Canadian Charter of Rights and Freedoms
+[Part I of the
+Constitution Act
+,
+1982
+, Schedule B,
+Canada Act
+1982
+, 1982, c 11 (UK), RSC, 1985, Appendix II, No 44].
+[3]
+Eight applicants were identified to represent approximately 1400 other individuals, all of whom had commenced applications under section 18.1 of the
+Federal Courts Act
+, RSC 1985, c F-7, seeking similar relief. The applicants are:
+a. Mae Joy Tabingo, who applied for permanent residence at the visa office in Manila, Philippines in 2005 (IMM-5635-12);
+b. Habibollah Abedi, who applied for permanent residence at the visa office in Damascus, Syria in 2006 ( <FRAGMENT_SUPPRESSED>  Philippines in 2005 (IMM-10307-12);
+d. Ali Raza Jafri, who applied for permanent residence at the visa office in Islamabad, Pakistan in 2007 (IMM-4866-12);
+e. Zafar Mahmood, who applied for permanent residence at the visa office in Islamabad, Pakistan in 2006 (IMM-8302-12);
+f. Sumera Shahid, who applied for permanent residence at the visa office in Islamabad, Pakistan in 2007 (IMM-3725-12);
+g. Fang Wei, who applied for permanent residence at the visa office in Hong Kong, People's Republic of China in 2007 (IMM-6165-12); and
+h. Yanjun Yin, who applied for permanent residence at the visa office in Beijing, People's Republic of China in 2007 (IMM-8747-12).
+[4]
+For the reasons that follow, the applications are dismissed.
+Legislative Background
+[5]
+The FSW category falls within the economic class of immigrants who, pursuant to subsection 12(2) of the
+IRPA
+, are selected based on their ability to become established in Canada. The economic class also includes business immigrants, provincial and territorial nominees, the Canadian experience class and live-in caregivers, as well as their spouses and dependants.
+[6]
+Section 75 of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 (
+Regulations
+) sets out the minimum requirements for immigration as a FSW. Sections 76 to 83 of the
+Regulations
+detail the selection criteria used to determine whether an applicant is able to become economically established in Canada.
+[7]
+The number of FSW applications has consistently exceeded both Citizenship and Immigration Canada's (CIC) processing capacity and the number of immigrants permitted under the annual immigration levels plan. It could take many years for an application to be reached, let alone assessed and the necessary information updated. This delay made it difficult to align a candidate's experience and skills to Canada's current labour market needs, or so it is contended by the respondent. The ensuing backlog of FSW applications has been a concern of CIC for a number of years.
+[8]
+To address this problem, the
+IRPA
+was amended in February of 2008 to introduce section 87.3. Section 87.3 authorized the Minister of Citizenship and Immigration (the Minister) to issue Ministerial Instructions regarding the priority in which applications would be processed, and removed the obligation to process every application received. The Ministerial Instructions provided for a triage of applications according to revised eligibility criteria, including the establishment of categories of applicants and quotas. However, and of importance for the purposes of these proceedings, the Ministerial Instructions only applied to applications submitted after February 27, 2008.
+[9]
+The first set of Ministerial Instructions was unsuccessful in restraining the growth of applications and reducing the backlog. A second set of Ministerial Instructions was thus introduced. The second set imposed a global cap on FSW applications; a maximum of 20,000 applications (excluding those with an arranged employment offer) were to be processed each year. Within that cap, a maximum of 1,000 applications per occupational category were to be processed each year. Applications exceeding those limits would be returned unprocessed. A third set of Ministerial Instructions lowered this cap to 10,000 FSW applications per year and 500 per occupation.
+[10]
+The Ministerial Instructions had two consequences. First, the annual caps on total applications prevented the backlog from growing. Second, the Instructions created a hierarchy of processing priority. Applications received under the third Ministerial Instructions were given the highest priority, followed by applications received under the second and then the first Ministerial Instructions and finally, applications from before February 27, 2008. The Ministerial Instructions slowed, but did not completely halt, the processing of applications from before February 27, 2008.
+[11]
+CIC also attempted to reduce the backlog by confirming whether applicants were still interested in immigrating to Canada. In 2009, CIC sent letters to pending FSW applicants offering to return the application fee if applicants wished to withdraw their application. These letters stated; "No further offers to return your fee will be sent."
+[12]
+By April, 2011 the backlog had been reduced by 50%. Despite this progress, the government determined that further measures to eliminate the backlog were required.
+[13]
+Before Bill C-38 received Royal Assent, CIC issued Operational Bulletin 400, which instructed that processing should not commence or continue for any FSW application received before February 27, 2008 for which a selection decision had not been made before March 29, 2012. The application of this bulletin was successfully challenged on the grounds that it implemented proposed legislation that had not yet become law. CIC subsequently issued Operational Bulletin 413, stating that managers must continue processing all FSW applications until Bill C-38 came into force.
+[14]
+Bill C-38 received Royal Assent on June 29, 2012. CIC issued Operational Bulletin 442 to provide guidance on its implementation. Bulletin 442 provided that applications were terminated in two situations: (1) if an officer had not made a selection decision prior to March 29, 2012; or (2) if an officer made a selection decision on or after March 29, 2012 and the application had not been finalized as of Royal Assent. This is, in fact, a subset of the first situation.
+The Applicants
+[15]
+The applicants share the common characteristic of having their FSW applications terminated. The eight applicants are citizens of diverse nationalities and applied at different Canadian visa posts, including Islamabad, Beijing, Manila and Damascus. As noted, the eight applicants represent, in turn, several thousand FSW applicants who have had their applications terminated and who have commenced applications for judicial review.
+[16]
+The applicants, collectively, raise the following issues:
+a. Whether section 87.4 applies retrospectively and terminated the applications upon its coming into force;
+b. Whether subsections 1(a) and 2(e) of the
+Canadian Bill of Rights
+, SC 1960, c 44 apply to provide procedural safeguards;
+c. Whether section 87.4 is compliant with the rule of law;
+d. Whether section 87.4 respects judicial independence;
+e. Whether section 87.4 is compliant with the
+Charter
+;
+f. Whether the Court may issue an order for
+mandamus
+;
+g. Whether the applicants may request humanitarian and compassionate relief;
+h. Whether section 87.4 complies with the
+Financial Administration Act
+, RSC 1985, c F-11; and
+i. Whether the applicants are entitled to interest on their application fees.
+Discussion
+Statutory Interpretation
+[17]
+The first, and perhaps most significant issue, is that of statutory interpretation. The applicants submit that section 87.4 (Annex A), properly construed, does not apply retrospectively to interfere with vested rights. Further, they submit that it does not operate to terminate the applications as a matter of law, but rather that individualized adjudication must follow to determine what applications the provision in fact captures; put otherwise, the applications remain extant until a subsequent administrative action or adjudicative decision is made.
+[18]
+As I will explain, these arguments cannot be sustained. It is evident, on a principled reading of the provision, that section 87.4 was intended to terminate the applications upon its coming into force. This requires that it apply retrospectively, cancelling any entitlement the applicants may have had to have their applications considered.
+[19]
+The modern approach to statutory interpretation is set out by E. A. Driedger in
+Construction of Statutes
+(2nd ed. 1983), p 87: "...the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament." As a corollary to this, when the language of the statute is precise and unequivocal, the ordinary meaning of the words plays a dominant role in the interpretive process:
+ <FRAGMENT_SUPPRESSED> , para 21.
+[20]
+Section 12 of the
+Interpretation Act
+, RSC 1985, c I-21 also instructs that:
+12. Every enactment is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects.
+12. Tout texte est censé apporter une solution de droit et s'interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet.
+[21]
+When determining what Parliament or the legislature intended, a court may reference the various ancillary principles of statutory interpretation. The applicants urge this Court to apply the presumption against interference with vested rights, the presumption against retrospectivity and the presumption that the legislature does not intend absurd or inequitable results. For the purpose of the statutory interpretation question I will assume that the applicants had a vested right to the processing of their application.
+[22]
+Courts will not interpret legislation in a manner that removes existing rights or entitlements unless Parliament's intention to do so is clear. However, when a statute is unambiguous, there is no role for presumptions or interpretive aids, and the courts may not apply any of the interpretive presumptions noted earlier:
+Professional Institute of the  <FRAGMENT_SUPPRESSED> , para 71;
+ <FRAGMENT_SUPPRESSED> .
+[23]
+Here, the ordinary meaning of the provision governs. The meaning and effect of the word "terminated" is clear. Section 87.4, by its terms, is explicitly designed to apply retrospectively to applications dated before February 27, 2008 and to eliminate the obligation to further process pending applications. The plain and obvious meaning of section 87.4 requires that the provision be retrospective and interfere with vested rights, regardless of any perceived unfairness. The three presumptions relied on by the applicants are displaced by the clarity of Parliament's intention. Further, to interpret the section otherwise would leave it without any effect beyond refunding the application fee.
+[24]
+The applicants point to various terms in section 87.4 which they contend are ambiguous and vague. In particular, the applicants identify the terms "selection criteria" and "other requirements applicable to that class" as undefined and as having multiple meanings. Additionally, the applicants argue that preliminary assessments are made at various stages in the processing of an application and therefore it is not clear what constitutes a selection decision and when it arises. Individualized evaluation is thus required.
+[25]
+The wording does not demonstrate any ambiguity such that presumptions are triggered.
+[26]
+The term "selection criteria" is used elsewhere in the
+IRPA
+and
+Regulations
+. Section 70 of the
+Regulations
+provides that a visa officer shall issue a permanent resident visa if it is established that a foreign national meets various conditions, including the "selection criteria". Section 76 of the
+Regulations
+is titled "Selection Criteria" and provides the criteria on which applicants will be assessed. When read in context, as it must, this term is not vague.
+[27]
+The phrase "other requirements applicable to that class" is also familiar to the
+Regulations
+. Satisfying such other requirements is a precondition for obtaining permanent residence visas and status in sections 65.1, 70 and 72 of the
+Regulations
+. The "other requirements" would include, for example, the minimum requirements set out in section 75 of the
+Regulations
+.
+[28]
+It is apparent from the plain reading of the section that only the final decision given by an officer qualifies as a selection decision. When an application is brought forward for processing, applicants are asked to provide updated forms and supporting documents. At this stage staff at the visa office perform an initial paper screening of the file. The file is then forwarded to an officer who decides whether the applicant meets the selection criteria and other requirements applicable to the FSW class. The language of subsection 87.4(1) specifically refers to this decision, as it is the only one made under the
+IRPA
+by an officer.
+[29]
+Having determined that section 87.4 is intended to operate retrospectively, the question remains whether the FSW applications at issue were terminated by operation of law when section 87.4 came into force, or whether the applications are to be terminated following an individualized assessment and decision.
+[30]
+The respondent takes the position that the applications were terminated by operation of law at the time of Royal Assent, on June 29, 2012. The applicants submit that the termination only takes effect once an officer determines whether section 87.4 applies. I conclude that what subsection 87.4(1) entails is a non-discretionary application of the law to incontestable facts.
+[31]
+The applicants' position is premised on the language of section 87.4, contending it necessitates a decision-making process. As I have previously found, the language in section 87.4 is clear. Section 87.4 creates objective, factual criteria for termination: (1) the application was made before February 27, 2008; and (2) an officer has not made a selection decision before March 29, 2012. These conditions either existed or did not exist for each application as of the date of Royal Assent. The legislation does not contemplate any subsequent adjudicative process, nor does it authorize the exercise of judgment or discretion in applying the law to each application. An officer is not entitled to consider an applicant's unique circumstances or to weigh various factors. No new factual determination must be made other than to identify whether or not the file contains a selection decision.
+[32]
+It was only necessary for CIC to identify, through an administrative review, which applications had been terminated. This is distinguishable from an adjudicative process whereby an officer would decide whether to terminate an application. Again, section 87.4 entails a non-discretionary application of law to verifiable and incontrovertible facts.
+[33]
+The applicants' statutory interpretation argument also fails when viewed through the lens of section 12 of the
+Interpretation Act
+. If the files are not terminated, as a matter of law, but terminated only upon some subsequent assessment, then the plain and obvious meaning of section 87.4 would be undermined.
+[34]
+The applicants point to CIC's Operational Bulletin 442 which provides that applicants who had not received a selection decision prior to March 29, 2012 but who had subsequently received a selection decision and had their application finalized before June 29, 2012 are not affected by section 87.4. This ensures that even if an application should have been terminated by section 87.4, i.e., captured by having been decided during the transition period, the positive selection decision stands if it was made before section 87.4 became law.
+[35]
+In my view, if the FSW application had been determined before Bill C-38 received Royal Assent then there was no pending application for section 87.4 to terminate. It ceased to be "pending". It was now spent. Section 87.4 only purports to terminate applications, not an applicant's file indicating that he or she has been accepted, much less a permanent residence visa once it has been issued. Operational Bulletin 442 is consistent with this interpretation.
+[36]
+Finally, the applicants submit that there must be some individualized decision so that the applicants could seek judicial review in the event that their application was terminated in error. I disagree. An applicant may apply to this Court for an order of
+mandamus
+to compel the Minister to process an application which had been identified as terminated if in fact a positive selection decision had been made. The Court will then determine whether the application is in fact caught by section 87.4. If not, then it was never terminated (only mistakenly classified as terminated) and an order for
+mandamus
+may follow. Accordingly, applicants have a process for redress if their application is identified as terminated in error.
+[37]
+My conclusion on the issue of statutory interpretation is that section 87.4 terminates the applications at issue by operation of law. The presumptions put forward by the applicants do not apply and there is no requirement for individualized adjudication. Therefore, the application for
+mandamus
+must fail unless the legislation is unconstitutional or contrary to the
+Bill of Rights
+.
+Bill of Rights
+[38]
+The
+Bill of Rights
+was enacted in 1960 as a statute of Parliament. While it has diminished importance in light of the
+Charter,
+as the
+Charter
+does not contain a general guarantee of "due process" or any protection for economic rights, the
+Bill of Rights
+retains continued significance in the landscape of Canadian jurisprudence.
+[39]
+The applicants submit that section 87.4 violates their rights under subsection 1(a) of the
+Bill of Rights
+, which protects the right not to be deprived of property except by due process of law and subsection 2(e), which guarantees a fair hearing for the determination of rights and obligations (Annex B).
+[40]
+My conclusion that there is no adjudicative process involved in terminating the applications is determinative of this issue. The due process protections of the
+Bill of Rights
+do not apply to legislative enactments:
+ <FRAGMENT_SUPPRESSED> , paras 42-46 and 59 and, as there is no individualized decision to terminate the applications, the
+Bill of Rights
+is inapplicable. The
+Bill of Rights
+only guarantees the fairness of proceedings before a tribunal or administrative body that determines rights and obligations.
+[41]
+In <FRAGMENT_SUPPRESSED> , disabled war veterans relied on the
+Bill of Rights
+to claim interest on pension funds held in trust on their behalf by the federal government. Parliament had enacted legislation which barred any claim for interest that might otherwise be payable on the funds prior to 1990. The Supreme Court of Canada agreed that the effect of the statute was to take a property interest from a vulnerable group, in disregard of the government's fiduciary duty. However, this taking was within the power of Parliament.
+[42]
+The Supreme Court of Canada rejected the argument that subsection 1(a) was triggered by the deprivation of property and the bar of judicial recourse. Major J, speaking for the Court, wrote:
+What procedural protections for property rights are guaranteed by due process? In my opinion, the
+Bill of Rights
+guarantees notice and some opportunity to contest a governmental deprivation of property rights only in the context of an adjudication of that person's rights and obligations before a court or tribunal.
+[...]
+Similarly, s. 1(
+a
+) may be seen as conferring procedural protections against the deprivation of property that existed in 1960. Certain procedural rights in this regard have long been recognized.  <FRAGMENT_SUPPRESSED>  the Privy Council recognized a right to have notice of accusations made and an opportunity to make a defence where the board of directors of a pension board stripped a police officer, who had resigned, of his pension. Where the law requires the application of discretion or judgment to specific factual situations, notice and an opportunity to contest may be required. For example, such rights may exist where the government eliminates a veteran's benefits because it believes he is no longer disabled, or because it believes he was never a member of the armed forces. However, notice and an opportunity to make a defence are not required where the government legislates to completely eliminate such benefits.
+[43]
+To conclude, the language of <FRAGMENT_SUPPRESSED> is dispositive of this issue:
+The respondent submitted that the clear, uncontested interpretation of s. 5.1(4) of the
+Department of Veterans Affairs Act
+is that it is an expropriation of disabled veterans' interest on DVA-administered pensions, and as such is inoperative. But no adjudicative procedure is necessary for the non-discretionary application of a law to incontestable facts. A taxpayer could not claim procedural protections against a change in income tax rates that adversely affected him.
+[44]
+While I accept that the applicants have incurred various expenses in making their FSW applications this is not equivalent to a deprivation of property. Rather, the applicants have freely chosen to apply to come to Canada and to incur the related expense. Their FSW application did not provide any right to, or recognizable legal interest in, the potential future economic opportunities that might come their way if they were successful. At best, the applicants possessed a mere chance to gain access to economic opportunities in Canada. No economic right had vested and any opportunity remained prospective, contingent and speculative. In sum, a pending FSW application does not constitute property within the meaning of subsection 1(a) of the
+Bill of Rights
+. Even if it was considered property, the
+Bill of Rights
+does not prevent the expropriation of property without compensation by the passage of unambiguous legislation.
+Rule of Law/Unwritten Principles of the Constitution
+[45]
+The applicants contend that section 87.4 is unconstitutional. They argue that the provision violates the rule of law because it is vague and has retrospective effects.
+[46]
+Three principles underlie the rule of law. First, the law is supreme over both the government and individuals. Second, law must be created and maintained to preserve and embody a normative order. Third, the relationship between individuals and the state must be regulated by law.
+[47]
+None of these principles speak directly to the content of legislation. In consequence, as noted by the Supreme Court of Canada "it is difficult to conceive of how the rule of law could be used as a basis for invalidating legislation ... based on its content". The rule of law is primarily concerned with the relationship between the executive, legislative and judicial branches of government, and the legislature is only constrained in the sense that it must comply with the procedural requirements for enacting, amending and repealing legislation:
+Imperial Tobacco Canada
+, paras 58-60.
+[48]
+There has been some debate as to the extent to which the rule of law and unwritten principles of the Constitution have embedded within them principles that would permit the invalidation of legislation on the basis of its content. This issue was joined in
+ <FRAGMENT_SUPPRESSED> . Section 39 of the
+Canada Evidence Act
+, RSC 1985, c C-5, barred the production of documents and their admission into evidence upon certification by the Clerk of the Privy Council that they were confidences of the Queen's Privy Council. It was contended that the unfairness of creating special evidentiary rules that favoured the Crown and the absence of judicial oversight of the certification process offended the rule of law. The Supreme Court of Canada rejected the argument:
+Babcock
+, para 57.
+[49]
+The Supreme Court of Canada returned to the question three years later in
+Imperial Tobacco
+(paras 61-64) concluding that there is no constitutional guarantee that law be general in character and not confer special privileges on the government:
+Nonetheless, considerable debate surrounds the question of what
+additional
+principles, if any, the rule of law might embrace, and the extent to which
+they
+might mandate the invalidation of legislation based on its content.
+[...]
+This debate underlies Strayer J.A.'s apt observation in
+ <FRAGMENT_SUPPRESSED>  (C.A.), at para. 33, that "[a]dvocates tend to read into the principle of the rule of law anything which supports their particular view of what the law should be."
+The appellants' conceptions of the rule of law can fairly be said to fall at one extreme of the spectrum of possible conceptions and to support Strayer J.A.'s thesis. They submit that the rule of law requires that legislation: (1) be prospective; (2) be general in character; (3) not confer special privileges on the government, except where necessary for effective governance; and (4) ensure a fair civil trial. And they argue that the Act breaches each of these requirements, rendering it invalid.
+A brief review of this Court's jurisprudence will reveal that none of these requirements enjoy constitutional protection in Canada.
+[50]
+With the exception of criminal offences and sanctions there is no requirement that legislation be prospective, even though retrospective and retroactive legislation can overturn settled expectations and be perceived as unjust:
+Imperial Tobacco
+, paras 69-72. Whatever personal and economic opportunities a pending FSW application may represent to an applicant, it does not equate with, or possess the characteristics of an interest that would preclude its termination on the basis of the rule of law. Here, Parliament has expressed a clear intention that section 87.4 apply retrospectively. Though this may be perceived as unjust, it does not violate the rule of law.
+[51]
+Section 87.4 is also not contrary to the rule of law due to vagueness. I have found that its meaning is readily apparent on a plain and obvious reading. Second, vagueness has only been used to invalidate legislation in exceedingly rare circumstances and then only in a criminal law context:
+R v Spindloe
+, 2001 SKCA 58, para 78.
+[52]
+As was the case in
+Imperial Tobacco
+, the applicants have argued for an understanding of unwritten constitutional principles that would expand on the rights specifically provided for in the written Constitution. In particular, the applicants have argued that, embedded in the rule of law, there is a broader equality right than that provided for in section 15 of the
+Charter
+. Acceptance of this argument would render the written constitutional rights redundant. The recognition of unwritten constitutional principles is not an invitation to dispense with the written text of the Constitution:
+Reference re Secession of Quebec,
+[1998] 2 SCR 217, para 53, and, while the parameters of the unwritten principles of the Constitution remain undefined, they must be balanced against the concept of Parliamentary sovereignty which is also a component of the rule of law: Warren J Newman,
+The Principles of the Rule of Law and Parliamentary Sovereignty in Constitutional Theory and Litigation
+(2005) 16 NJCL 175.
+[53]
+The argument predicated on the rule of law and unwritten principles of the Constitution is therefore dismissed.
+Judicial Independence
+[54]
+Although unwritten, judicial independence is a foundational principle of the Constitution. Judicial independence safeguards the judiciary's freedom to render decisions based solely on the requirements of the law, without interference from the executive branches of government. There are three essential conditions of judicial independence: security of tenure, financial security and administrative independence. The applicants have not identified a basis on which section 87.4 interferes with any of the essential conditions of judicial independence.
+[55]
+In
+Imperial Tobacco
+, the Supreme Court of Canada emphasized that judicial independence does not include the freedom to apply only laws of which the judiciary approves. This would require "a constitutional guarantee not of judicial independence, but of judicial governance."
+[56]
+The rule of law mandates that the government is not beyond the law. However, the government is only bound by the law as it exists from time to time. Subject always to the Constitution, both written and unwritten, Parliament may change the law and this includes barring certain claims through limitation and Crown immunity statutes:
+ <FRAGMENT_SUPPRESSED> .
+[57]
+The applicants argue that section 87.4 unduly interferes with the courts by prescribing certain outcomes. They draw support for this from subsection 87.4(3) which they argue excludes any form of judicial supervision, and subsection 87.4(5) which bars any right of recourse against the Crown for damages.
+[58]
+This argument misunderstands the origins and purpose of judicial independence. Parliament is free to craft legislation and the courts must, assuming it is constitutional, interpret and apply that legislation as written. It is not interference with judicial independence for Parliament to write legislation which leads to a certain outcome when properly applied. This is the proper function of lawmaking, of which there are many examples. <FRAGMENT_SUPPRESSED> ,
+Imperial Tobacco
+, and
+Babcock
+involved legislative change or adaptation to what would otherwise be decided through judicial process. In <FRAGMENT_SUPPRESSED> , causes of action to recover interest were barred; in
+Imperial Tobacco
+, a duty of care and causation were decreed by legislation and in
+Babcock
+, relevant evidence could be rendered inadmissible by a certificate of the Clerk of the Privy Council.
+[59]
+As I have previously explained, if any applicants believe their applications were improperly identified as terminated and can point to a positive selection decision before March 29, 2012, they may apply to the Court for an order of
+mandamus
+. The rule of law mandates that all administrative action must have its source in law. If CIC improperly identifies an application as terminated and refuses to process it, that action would be without a source in law and therefore amenable to the Court's jurisdiction. Additionally, this Court is not prevented from scrutinizing the legislation to ensure it is compliant with the Constitution and the
+Bill of Rights
+. Section 87.4 does not bar access to the courts.
+[60]
+Finally, Crown immunity clauses, such as that contained in subsection 87.4(5), are not unconstitutional unless the statute itself is
+ultra vires
+on division of powers grounds:
+ <FRAGMENT_SUPPRESSED>  para 67. In
+Kingsway General Insurance Company
+, the legislature of Alberta passed legislation to immunize the government from liability resulting from insurance reforms, targeting a specific action which was pending before the Court of Queen's Bench. The Court determined that the legislation was within the competence of the legislature and did not violate the rule of law even though it barred a specific, pending action.
+Applicability of the Charter
+[61]
+The applicants contend that section 87.4 infringes their rights under sections 6, 7 and 15 of the
+Charter
+. At the hearing, the applicants abandoned their reliance on subsection 2(d) of the
+Charter
+, the right to freedom of association.
+[62]
+As a threshold issue, there is the question whether the applicants, as non-citizens residing outside of Canada, are entitled to the protection of the
+Charter
+. This question is one of application of the
+Charter
+, and not to be confused or conflated in its analysis with that of standing. The applicants are "directly affected" by the passage of Bill C-38, as to have sufficient legal interest to commence the applications. Whether the
+Charter
+applies or extends to non-residents is a discrete legal question.
+[63]
+Without a doubt, as legislation enacted by Parliament, section 87.4 must be
+Charter
+compliant. If not, a remedy is available under section 52 of the
+Constitution Act, 1982
+. Similarly,
+Charter
+compliant legislation must be administrated in a manner consistent with the
+Charter
+. If not, a remedy is available under section 24 of the
+Charter
+. In all cases, the central and controlling frame of analysis is that constitutionality is governed by effect and consequence, not legislative intent. In this case, the repercussions and effects of section 87.4 are outside of Canada, and fall upon nationals of other countries. At issue, therefore, is whether section 7 and section 15 rights are vested in foreign, non-resident applicants. The legislation would not violate the applicants'
+Charter
+rights if they do not have those rights to begin with.
+[64]
+Section 6 of the
+Charter
+is explicitly limited to citizens and permanent residents. Therefore, the applicants' reliance on that section must fail. However, section 7 and section 15 do not contain that explicit limitation, applying to "everyone" and "every individual" respectively.
+[65]
+There has been clear guidance from the Supreme Court of Canada and the Federal Court of Appeal as to when the
+Charter
+applies to the actions of Canadian officials outside of Canada. The present case has a significant distinction from these authorities. The issue here is not whether the
+Charter
+applies to officers and agents of the Government of Canada when abroad, but whether it affords rights to foreign nationals outside of Canada who are affected only by legislative change of Parliament. The weight of the case law indicates that non-citizens outside of Canada may not claim the protection of the
+Charter
+, absent exceptional circumstances involving the actions of Canadian officials or agents abroad.
+[66]
+Justice Edmond Blanchard considered this issue in
+ <FRAGMENT_SUPPRESSED>  (aff'd 2009 FCA 259), in the context of a section 7
+Charter
+claim brought by foreign nationals who had been detained at Guantanamo Bay and questioned there by Canadian officials. Justice Blanchard conducted a detailed review of the law on extra-territorial application of the
+Charter
+, starting with
+ <FRAGMENT_SUPPRESSED> . In
+Singh
+, it will be recalled, Justice Wilson accepted that the term "everyone" in section 7 of the
+Charter
+"includes every human being who is physically present in Canada and by virtue of such presence amenable to Canadian law".
+[67]
+Justice Blanchard also noted Justice L'Heureux-Dubé's dissenting reasons in
+R v Cook
+, [1998] 2 SCR 597 wherein she noted:
+I am not convinced that passage of the
+Charter
+necessarily gave rights to everyone in the world, of every nationality, wherever they may be, even if certain rights contain the word "everyone". Rather, I think that it is arguable that "everyone" was used to distinguish the rights granted to everyone on the territory of Canada from those granted only to citizens of Canada and those granted to persons charged with an offence.
+[68]
+The majority in
+Cook
+had determined that the
+Charter
+did apply in the context of an American citizen who had been questioned by Canadian authorities in the United States and then faced trial for murder in Canada, without explicitly addressing Justice L'Heureux-Dubé's concern.
+[69]
+More recently, in
+R v
+Hape, 2007 SCC 26, [2007] 2 SCR 292 the Supreme Court of Canada effectively overruled the majority in
+Cook
+and determined that the
+Charter
+did not apply to Canadian police officers while conducting an extraterritorial search and seizure under the authority of local officials. Writing for the majority, Justice LeBel emphasized that Canada cannot act to enforce or give effect to its laws, including the
+Charter
+, within the territory of another state absent that state's consent or some other exceptional basis in international law. Justice LeBel also acknowledged, but did not explicitly endorse, Justice L'Heureux-Dubé's dissent in
+Cook
+. I note, parenthetically, that the circumstances of this case do not involve the application of Canadian law within the territory of another state.
+[70]
+Having reviewed these authorities, Justice Blanchard concluded, at paragraphs 47-48 that:
+In summary, the jurisprudence of the Supreme Court teaches that section 7 Charter protections may be available to non-Canadians when they are physically present in Canada or subject to a criminal trial in Canada, and that Canadian citizens, in certain circumstances, may assert their section 7 Charter rights when they are outside Canada.
+[...] The Applicants are not Canadian citizens. They have failed to establish the required connection to Canada. Consequently, their circumstances cannot engage a section 7 Charter right.
+[71]
+This decision was upheld by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> . The Court agreed with Justice Blanchard's determination "that section 7 was inapplicable to the applicants while detained by U.S. authorities at Guantànamo Bay because they are not Canadian citizens".
+[72]
+ <FRAGMENT_SUPPRESSED> , the Supreme Court of Canada found that the
+Charter
+applied to Canadian agents who questioned Omar Khadr, a Canadian citizen, while he was detained in Guantanamo Bay. Two factors distinguish <FRAGMENT_SUPPRESSED> from the present case. First, Mr. Khadr was a Canadian citizen. Second, it was accepted that Canada had participated in a process that violated Mr. Khadr's fundamental human rights under both Canadian law and international law. This finding was at the core of the decision in <FRAGMENT_SUPPRESSED> .
+[73]
+ <FRAGMENT_SUPPRESSED>  (aff'd 2008 FCA 401), involved detainees held by the Canadian Forces in Afghanistan in the context of an ongoing armed conflict. The Federal Court of Appeal upheld Justice Anne Mactavish's conclusion that while the detainees were protected by international humanitarian law, they did not have
+Charter
+rights as "there has been no consent by the Government of Afghanistan to having Canadian
+Charter
+rights conferred on its citizens, within its territory":
+Amnesty International
+, para 172.
+[74]
+It is significant that the jurisprudence interpreting section 15 has developed in reference to Canadian society and Canadian norms and values.  <FRAGMENT_SUPPRESSED> , Justice Iacobucci explained that discrimination promotes the view that an individual has less value "as a human being or as a member of Canadian society." In determining whether a claim for discrimination has been made out, a court is to consider whether the claimant has a "disadvantaged position within Canadian society." The Supreme Court of Canada recently endorsed this language in
+Quebec (Attorney General) v A
+, 2013 SCC 5, para 151.
+[75]
+Other recent decisions of this Court have found that non-citizens outside of Canada generally do not hold
+Charter
+rights:
+ <FRAGMENT_SUPPRESSED>  paras 70-72;
+ <FRAGMENT_SUPPRESSED>  paras 45-47;
+Toronto Coalition to  <FRAGMENT_SUPPRESSED>  paras 81-82. These three decisions followed Justice Blanchard's determination that a
+Charter
+claim may only be advanced by an individual who is present in Canada, subject to criminal proceedings in Canada, or possessing Canadian citizenship.
+[76]
+This limitation on the application of the
+Charter
+is not a recent development. Even prior to <FRAGMENT_SUPPRESSED> , the Federal Court and the Federal Court of Appeal had interpreted
+Singh
+as barring
+Charter
+claims from non-citizens outside  <FRAGMENT_SUPPRESSED> . In that case the applicant had applied for citizenship from within Canada and had a Canadian mother.
+[78]
+The respondent does not dispute either the applicants' standing or the application of the
+Charter
+. The parties appear to coalesce around the proposition that the FSW applications establish a sufficient nexus with Canada to extend the reach of sections 7 and 15. The jurisprudence does not support this concession. What is in issue involves the repercussions abroad of domestic legislation. In this case, there is no question of the extra-territorial application of the
+Charter
+as an adjunct of the actions of Canadian officials abroad, nor is there, as I conclude on the evidence, non-compliant administration of the legislation. The issue framed by this case is whether the protections provided by sections 7 and 15 reach foreign nationals, when residing outside of or beyond Canadian territory.
+[79]
+Despite my reservations as to the correctness of the concession, given that there is no
+lis
+between the parties on the issue, I will not determine the point.
+Charter
+jurisprudence should develop incrementally through the interface of opposing positions and interests. In any event, it is unnecessary to determine the point, as I find that the claims of infringement fail on their merits.
+Life, Liberty and Security of the Person
+[80]
+Section 7 of the
+Charter
+provides that:
+7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+7. Chacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu'en conformité avec les principes de justice fondamentale.
+[81]
+A prerequisite to a discussion of the principles of fundamental justice is that the applicants' life, liberty or security interests be demonstrated to have been engaged:
+ <FRAGMENT_SUPPRESSED> , para 47. I have concluded that the applicants' argument under section 7 fails at that threshold question.
+[82]
+In
+Canada (Minister of Employment and  <FRAGMENT_SUPPRESSED> , the Supreme Court of Canada concluded that deportation of a non-citizen for committing serious crimes did not violate section 7. While the respondent urges <FRAGMENT_SUPPRESSED> as a conclusive answer to the section 7 challenge, the applicants say that this is too broad a reading, noting that the Court in <FRAGMENT_SUPPRESSED> did not determine whether deportation could be conceptualized as a deprivation of the right to liberty, only that it did not violate the principles of fundamental justice.
+[83]
+In a subsequent decision the Supreme Court of Canada relied on <FRAGMENT_SUPPRESSED> in support of its conclusion that "the deportation of a non-citizen in itself cannot implicate the liberty and security interests protected by s. 7":
+ <FRAGMENT_SUPPRESSED> , para 46. In both decisions, the Supreme Court of Canada emphasized that, "The most fundamental principle of immigration law is that non-citizens do not have an unqualified right to enter or remain in Canada."
+[84]
+These decisions are dispositive of the applicants' section 7 arguments. While the focus was on the right to remain in Canada consequent to criminal conduct, the Supreme Court of Canada spoke at a higher level of principle when it concluded that there is no unqualified right to enter into Canada.
+[85]
+The applicants seek to confine the scope of <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> . They contend that their liberty and security of the person interests are engaged because immigration is a decision of fundamental personal importance and because of the psychological stress they have experienced. The applicants were assured that their applications would be processed. They incurred substantial costs and made personal sacrifices in hopes of immigrating. They waited patiently in the queue, for many years. They are now dismayed to learn that it was all for nothing.
+[86]
+Mae Joy Tabingo, a qualified nurse, waited seven years, only to find that it was for naught. As the door she was seeking to enter closed, another door opened to other nurses who had not stood in the same line. I accept her evidence that she perceives this to be unfair.
+[87]
+Fang Wei applied to immigrate to Canada in order to join her husband who landed as a permanent resident on June 14, 2006. Because her husband did not disclose their marriage on landing, she cannot be sponsored by him as a spouse. Ms. Wei and her husband have delayed having children as a result of their separation and her life has been "on hold". CIC repeatedly reassured her that "all of the applications in our inventory will be processed" and she was not advised that she could reapply under that the new Ministerial Instruction scheme.
+[88]
+Sumera Shahid made her application in September of 2007. CIC mistakenly returned her file on the erroneous basis that she had failed to include the appropriate fee. CIC confirmed acceptance of her application in November of 2007 and advised that processing would take three to three and a half years. Ms. Shahid repeatedly inquired as to the status of her application and was reassured that a decision would be forthcoming.
+[89]
+Ali Raza Jafri also applied in 2007 at the Islamabad visa office, based on his experience as a marketing manager. His wife and children were listed as his dependants. In 2009 he requested that his application be transferred to another visa office but this was denied. He now feels "completely betrayed" by the termination of his application. He gave up job opportunities and delayed buying a home in anticipation of immigrating.
+[90]
+Habibollah Abedi is a citizen of Iran where he has worked as an aircraft maintenance engineer. He applied at the Damascus visa office in 2006, listing his wife and children as dependants. In 2010, his file was transferred to Warsaw and in 2012 the Warsaw office advised that it was trying to "manage arrivals" and needed to "stagger" the issuance of visas.
+[91]
+Maria Sari Teresa Borja Austria applied at the visa office in Manila in 2005, listing her son as a dependant. She hoped to be reunited with her sister in Canada. When she applied, Ms. Austria was 49 years old and would have received 10 out of 10 points for her age. Now, she is outside of the prescribed age range and would not be entitled to any points for her age. For Ms. Austria, the possibility of submitting a new application is no solution to having her pending application terminated.
+[92]
+Zafar Mahmood applied in 2006 at the Islamabad visa office, with his wife and three children as dependants. CIC informed him that the anticipated processing time was 36 - 42 months, and so he expected a decision by May of 2010. His application was transferred to London in 2010 and by then the anticipated processing time had increased to 88 months.
+[93]
+Yanjun Yin applied in 2007, listing his wife as his dependant. In March of 2010, he provided updated documentation to the Beijing visa office, as requested by that office, and anticipated that a decision would be forthcoming. Mr. Yin has been diligent in corresponding with CIC and the Minister regarding his pending application. He and his wife pursued English language and professional education in anticipation of immigrating.
+[94]
+These circumstances are said to engage the applicants' section 7 interests.
+[95]
+Section 7 is primarily, but not exclusively, concerned with the rights of individuals in the criminal justice context, including rights on search, seizure, detention, arrest, trial and imprisonment. However, the liberty interest protected by section 7 encompasses more than freedom from physical restraint and includes the freedom to make fundamental personal choices: <FRAGMENT_SUPPRESSED> , paras 49, 54. Additionally, security of the person can protect both physical and psychological integrity:
+New Brunswick (Minister of Health and  <FRAGMENT_SUPPRESSED> .
+[96]
+The applicants contend that their pending FSW applications engage these fundamental interests. The FSW process provides the sole path by which they can attain additional rights and a standard of living essential to their physical and psychological integrity. They also say that completing their applications and emotionally investing in the decision to leave their country of origin constitutes a fundamental personal choice. However, giving section 7 its widest scope, I find that there are no section 7 interests engaged by section 87.4.
+[97]
+In
+R v Morgentaler
+, [1988] 1 SCR 30, Justice Wilson, speaking for herself, determined that a woman's liberty interest was engaged by restricting access to abortion. She explained at page 166, that the right to liberty "grants the individual a degree of autonomy in making decisions of fundamental personal importance." Justice La Forest endorsed this passage in
+B ( <FRAGMENT_SUPPRESSED>  at page 369, in deciding that section 7 protected the rights of parents to care for their children.
+[98]
+ <FRAGMENT_SUPPRESSED> , Justice Sopinka wrote that personal autonomy and basic human dignity are encompassed within security of the person. This includes the right to make choices concerning one's own body and control over one's physical and psychological integrity. In <FRAGMENT_SUPPRESSED> , the Court cautioned that only serious, state-imposed impacts on a person's psychological integrity may engage section 7: <FRAGMENT_SUPPRESSED> , paras 56-57.
+[99]
+I accept that the applicants have experienced stress and hardship; I also accept that the circumstances of some of the applicants are compelling. However, immigration is not of such an intimate, profound and fundamental nature as to be comparable with a woman's right of reproductive choice, or the freedom of parents to care for their children. The ability to immigrate, particularly as a member of an economic class, is not among the fundamental choices relating to personal autonomy which would engage section 7. While it may have life-altering consequences, the possibility of immigrating to Canada as a successful FSW applicant does not engage life or liberty interests.
+[100]
+The voluntary character of the applicants' decision to apply for a FSW visa, and to voluntarily put major life decisions in abeyance pending the outcome, is determinative of the question as to whether security of the person is engaged. Voluntariness distinguishes the applicants' situation from that in <FRAGMENT_SUPPRESSED> . Sue Rodriguez suffered from amyotrophic lateral sclerosis, a terminal illness. She challenged the law against assisted suicide so that she could die at the time and in the manner of her choosing. The Supreme Court of Canada accepted that she would slowly deteriorate, become dependent and lose her dignity. The hardship she experienced is incomparable in extent and dimension to that experienced by the applicants, and more importantly, she had no choice.
+[101]
+The applicants' situation is also unlike that in
+ <FRAGMENT_SUPPRESSED>  a parent affected the parents' security of the person. Child apprehension is a profound intrusion into private life and stigmatizes the parent who is judged as "unfit." In reaching this conclusion, Chief Justice Lamer emphasized that, "the right to security of the person does not protect the individual from the ordinary stresses and anxieties that a person of reasonable sensibility would suffer as a result of government action."
+[102]
+The loss of the expectation or hope is understandably distressing. I also accept that, given the passage of time, the effect on the points awarded on the basis of age and the shift in occupational priorities reflected in successive Ministerial Instructions, the opportunity of re-applying has evaporated. Nevertheless, I find that the interests protected by section 7 are not engaged in these circumstances. In my view, the applicants have experienced the ordinary stresses and anxieties that accompany an application to immigrate. All section 87.4 did was terminate the opportunity. Therefore, the section 7 argument fails at the threshold question.
+Equality
+[103]
+Subsection 15(1) of the
+Charter
+provides that:
+15.(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+15.(1) La loi ne fait acception de personne et s'applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
+[104]
+The applicants argue that section 87.4 codifies and legitimizes past discrimination on the basis of national origin and country of residence. As such, the application and implementation of the law is discriminatory.
+[105]
+It is also axiomatic to
+Charter
+analysis that, regardless of Parliament's intention or purpose, the legislation is assessed by its effects on individuals and groups. It is not enough for legislation itself to be constitutional; legislation must also be administered in a
+Charter
+compliant manner:
+Little Sisters Book and  <FRAGMENT_SUPPRESSED> .
+[106]
+The applicants' evidence is that approximately 92% of the terminated applications originated in Africa, the Middle East, Asia and the Pacific, while 8% of the terminated applications originated in Europe and the Americas. They argue that the sole conclusion that can be drawn from these differential rates in the clearance of FSW backlogs is that CIC's manner of implementing the
+IRPA
+, namely the allocation of resources and other operational decisions, has resulted in differential treatment on the basis of national origin or residence.
+[107]
+From this global analysis of the evidence the applicants point to specific visa posts for further support. The rate of reduction varied dramatically depending on the visa office in question. For example, Mae Joy Tabingo is a citizen of the Philippines and applied at the Manila visa office. Manila had a backlog of 21,581 files as of February 27, 2008. On June 29, 2012, there were 13,733 files remaining. In contrast, the Buffalo office in the United States had 17,225 applications in its backlog as of February 27, 2008. On June 29, 2012, there were only 9 remaining files to be terminated.
+[108]
+This is significant because subsection 11(1) of the
+Regulations
+requires persons applying for a permanent resident visa to apply at the visa office serving their country of citizenship or residence. The objective of this regulation is to ensure that applications are assessed by the visa posts best situated to verify and assess the application materials. This does not mean, however, that applications, once received, are necessarily processed in that country's visa post.
+[109]
+As a matter of first impression, the visa office processing rates support the inference that nationals of the Americas and Europe have been prioritized over those from Asia, the Pacific, the Middle East and Africa, and support the claim of differential treatment based on national origin. Closer examination reveals a different picture.
+[110]
+As a preliminary issue, I note that national origin is an enumerated ground of discrimination and that citizenship has been recognized as an analogous ground. The applicants primarily rely on national origin for their section 15 argument. They have placed less emphasis on country of residence, which they argue is a ground of discrimination analogous to those set out in section 15.
+[111]
+There is no case law which suggests that country of residence is an analogous ground.
+[112]
+Analogous grounds arise or are established on the basis of personal characteristics that are immutable, or changeable only at unacceptable cost to personal identity. When determining whether grounds of discrimination are analogous to those listed in section 15, courts should consider whether the characteristics at issue have historically served as "illegitimate and demeaning proxies for merit-based decision making" and whether the distinction being drawn affects a "discrete and insular minority or a group that has been historically discriminated against":
+ <FRAGMENT_SUPPRESSED>  wherein the Supreme Court of Canada left it open that a person's province of residence might, in appropriate circumstances, ground a claim of discrimination. Further, in <FRAGMENT_SUPPRESSED> , the Court found that the residence of aboriginal Canadians, specifically the question of whether an aboriginal band member lives on or off a reserve, is an analogous ground of discrimination. However, the Court made it clear that residence decisions faced by non-aboriginal Canadians should not be confused with the profound decisions aboriginal band members make to live on or off their reserves, assuming choice is possible. Aboriginal identity, including identification with an ancestral land, is unique. The situation in <FRAGMENT_SUPPRESSED> is not comparable to that of the applicants.
+[114]
+It is doubtful that country of residence could be an analogous ground. Country of residence is not an immutable characteristic, nor is it vital to identity, given the applicants' willingness to immigrate. Nor are the applicants a discrete and insular minority, and certainly not such a group within Canadian society. Country of residence, in contrast to race and religion, does not have the same historical antecedence of being a basis for discrimination, nor is there sufficient evidence that would establish that residence is an illegitimate or demeaning proxy for merit-based decision making. Accordingly, I find that country of residence is not an analogous ground of discrimination under section 15 of the
+Charter
+and turn to the applicants' argument based on national origin.
+[115]
+Finally, it is said that the applicants share the common characteristic or condition of economic disadvantage and in some cases, poverty. It is difficult to make a singular finding of financial circumstances across a broad class of individuals, resident in all corners of the globe. This aside, poverty or economic disadvantage is not an immutable, indelible personal characteristic. Financial circumstances and the associated social conditions change; individual fortunes may ebb and flow, several times, over a lifetime, as may the general social and economic condition of their country of origin.
+[116]
+ <FRAGMENT_SUPPRESSED>  the Supreme Court of Canada cautioned against a formalistic approach to section 15 and the rigid reliance on comparator groups. The Court re-focused section 15 on the core question of substantive discrimination, the foundational principle expressed in
+ <FRAGMENT_SUPPRESSED> .
+[117]
+Section 15 does not guarantee identical treatment. Given that the search is for substantive discrimination, differential treatment is not necessarily discriminatory. Justice McIntyre explained discrimination in <FRAGMENT_SUPPRESSED> as follows:
+[...] discrimination may be described as a distinction, whether intentional or not but based on grounds relating to personal characteristics of the individual or group, which has the effect of imposing burdens, obligations, or disadvantages on such individual or group not imposed upon others, or which withholds or limits access to opportunities, benefits, and advantages available to other members of society. Distinctions based on personal characteristics attributed to an individual solely on the basis of association with a group will rarely escape the charge of discrimination, while those based on an individual's merits and capacities will rarely be so classed.
+[118]
+In determining whether a law is discriminatory within the meaning of section 15, there is a two part test: (1) whether the law creates a distinction based on an enumerated or analogous ground; and (2) whether the distinction creates a disadvantage by perpetuating prejudice or stereotyping: <FRAGMENT_SUPPRESSED> , paras 30-31. Put otherwise, not all distinctions are discriminatory.
+Evidence of Discrimination
+[119]
+On its face, section 87.4 only differentiates FSW applicants based on the date of application. However, I accept the applicants' evidence that processing rates varied between visa offices, such that section 87.4 had a differential impact and outcome depending on where an applicant applied. That however, does not necessarily indicate a distinction based on an enumerated or analogous ground.
+[120]
+The applicants are a diverse group. They share no commonality of race, national or ethnic origin, colour or religion. They are nationals of various countries, having made their FSW applications in the Philippines, Syria, Pakistan and China. The eight applicants in turn represent hundreds of additional applicants across the global spectrum of race, nationality and religion.
+[121]
+There is some dispute between the parties with regards to the statistical evidence. The applicants have argued that the respondent's evidence should be given little weight because its affiants do not have personal knowledge of the statistical evidence they provided. While the statistics are hearsay, I consider the evidence reliable and necessary in the circumstances. I doubt that statistics regarding the FSW program in an organization as large and complex as CIC could be within the personal knowledge of any particular affiant. Additionally, apart from the objection raised at the level of principle against the receipt of hearsay evidence, no precise or particular deficiency was raised that might call the accuracy or reliability of the evidence into question.
+[122]
+Once received, CIC transferred many applications between visa offices for processing. 10,000 applications were transferred from the Islamabad visa office to London and of these, 512 were processed. Ali Raza Jafri, Sumera Shahid and Zafar Mahmood's applications are among those that were transferred from Islamabad to London in 2010 and 2011. Additionally, 6,000 files and 4,600 files were transferred from Damascus and New Delhi, respectively, to Warsaw. Nearly 10,000 of these applications were processed in Warsaw. The applicant Habibollah Abedi's application was transferred to Warsaw in 2010.
+[123]
+On February 27, 2008, there were 29,423 files in the backlog inventory at the visa offices in Africa and the Middle East. On June 29, 2012, 17,257 files remained in the backlog, a 41% reduction. However, the applicants note that 769 files which originated in Damascus were transferred to Warsaw but not processed. Adding these files back, there were 18,026 files remaining which originated from the Africa and Middle East region, a 39% reduction in the backlog from this region.
+[124]
+For the Asia and Pacific region, there were 123,923 applications in the backlog on February 27, 2008. As of June 29, 2012, 62,265 files remained, indicating the backlog was reduced by 50%. Again, adding back the 9,503 files transferred from Islamabad and New Delhi but not processed, 71,768 files remained, a 42% reduction in the backlog.
+[125]
+Overall, 39% of the backlog files originating in Africa and the Middle East and 42% of the files originating in Asia and the Pacific were processed before section 87.4 became law. In comparison, 88% of the backlog files from Europe and 92% from the Americas were processed.
+[126]
+This evidence demonstrates, in the applicants' view, that the Africa, Asia and Middle East visa posts were chronically and deliberately under-resourced, reflecting discrimination against FSW applicants from countries served by those offices. Applicants from those regions were presumed to be less worthy, less capable of being successful immigrants, and therefore the corresponding visa posts were resourced at lower levels.
+[127]
+The respondent provided evidence to explain the different processing rates between the various offices.
+[128]
+James McNamee is the Director for the Immigration Strategies and Analysis Division, Strategic Policy and Planning Branch for CIC. He explained that each mission receives a varied mix of applications including temporary resident visa applications and non-FSW permanent resident applications such as those in the family class. Temporary resident visas, which include visitors, international students and temporary foreign workers, may be prioritized because they are time sensitive.
+[129]
+David Manicom, Director General of the Immigration (Policy) Branch for CIC gave evidence that external factors influence CIC's ability to resource certain visa offices. For example, natural disasters, political instability and regional conflicts resulted in temporary and partial closures at the visa offices in Islamabad and Damascus. Additionally, staff turnover varies between offices. During 2007 and 2008, the Accra, Ghana regional processing centre lost five of its six decision makers. Finally, Mr. Manicom noted that there are physical and security limitations to adding more resources. At various times in the past six years, the Accra, Cairo, Damascus, Islamabad, Manila, Nairobi, New Delhi and Pretoria offices have been staffed at their maximum, given the availability of space.
+[130]
+Mr. Manicom also explained that applications from certain regions require more time and resources to process. The Accra office is illustrative. Mail service is unreliable and bandwidth for e-mail and other telecommunications has been problematic. Documentation can be of poor quality and fraud is elevated, requiring additional verification measures. Local conditions make verification of birth, education and training credentials more difficult and time-consuming.
+[131]
+Additionally, Mr. Manicom testified that certain visa offices had different priorities. The Damascus, Cairo and Nairobi offices processed large numbers of refugees. For Manila, the Live-In Caregiver Program and Provincial Nominee Program were of increased importance.
+[132]
+Mr. Manicom also gave evidence regarding the Buffalo regional processing centre, which was responsible for applications out of the United States and Canada. Because many of the applications in Buffalo were by persons already in Canada, it was allocated a larger portion of the total FSW immigration targets. This is because applicants applying in Buffalo are often already studying, living and working in Canada. Additionally, many of these applicants had arranged employment opinions or work permits which rendered them eligible for priority processing.
+[133]
+There is one element of the evidence which is particularly compelling on the question as to whether the difference in clearance rates is evidence of discrimination. Each visa office processes applicants from many different countries. For example, citizens of the United States, Great Britain and France represent a only a small percentage of cases processed at the Buffalo, London and Paris offices, 7%, 14% and 7% respectively. Applicants from India represent 26% of the cases processed in Buffalo and 21% of the cases processed in London. Applicants from China represent 18% of the total cases processed in Buffalo while applicants from Iran represent 9% of the cases processed at that post. Citizens of Pakistan represented 17% of all applications processed in London.
+[134]
+Having reviewed this evidence, I conclude that the applicants have not demonstrated that section 87.4 has had a disproportionate impact on the basis of national origin. The evidence is that CIC transferred files from high demand posts to lower demand posts in order to facilitate timelier processing. Additionally, the high clearance rate at the Buffalo post does not represent a bias towards applicants from the United States, as only 7% of the applicants at that office were in fact Americans. Rather, the Buffalo office managed time-sensitive and priority applications from individuals already lawfully in Canada. The applicants submit that CIC discriminated against individuals from Asia, the Middle East and Africa; however, 69% of the applications processed in Buffalo, which had one of the highest clearance rates, were from citizens of those regions.
+Perpetuation of Stereotype
+[135]
+Turning to the second part of the section 15 test, the evidence does not indicate that section 87.4 perpetuates a disadvantage through prejudice or stereotyping. The applicants contend that in failing to dedicate the necessary resources to the posts in Africa, the Middle East and Asia, CIC perpetuated the view that individuals in those countries are less worthy or desirable. Again, however, this argument fails under closer scrutiny. Persons from Africa and the Middle East represented about 23% of those who entered Canada in the economic class between 2002 and 2011. Half of all economic immigrants during that time were from Asia and the Pacific. In total, approximately 73% of Canada's economic immigrants are from the very regions that the applicants argue are viewed as undesirable (Annex C [omitted]).
+[136]
+The applicants have argued that section 87.4 perpetuates the mistaken belief that applicants who applied before February 27, 2008 are less qualified to immigrate. I accept the applicants' evidence that there are many qualified applicants in the backlog. Notably, Mr. McNamee gave evidence that, even up to the date the backlog was terminated, the backlog was successfully mined to find qualified applicants for the Provincial Nominee Program. Additionally, approximately one-third of all FSW permanent resident visas in 2011 were issued to applicants in the backlog. These visas would not have been issued if the applicants were not qualified. However, the date of application is not an enumerated or analogous ground and so stereotyping on this basis does not constitute discrimination.
+[137]
+Section 87.4 must be considered in light of the wider immigration context. Visa offices do not only process FSW applications, but also a wide-range of visa applications, which have different priorities. Certain visa offices face unique challenges, such as weaker infrastructure, higher instances of fraud, or an influx of refugee claims. As the historical evidence consistently indicated, globally viewed, economic immigrants from Asia, the Middle East and Africa become Canadian permanent residents in large numbers. The evidence does not support the claim that section 87.4 is discriminatory.
+Justification for Infringement
+[138]
+As I have found that no section 7 interest is triggered by the termination of the FSW files, and that section 87.4, in its purpose or effect, is not discriminatory within the meaning of section 15, I will not address section 1 of the
+Charter
+.
+Mandamus
+[139]
+Mandamus
+is available to compel a public authority to perform a duty that it is obligated to do under its enabling statute. As I have found that section 87.4 of the
+IRPA
+unambiguous and constitutionally valid legislation, the applications are terminated and the respondent has no legal duty to continue to process them. There can be no order for
+mandamus
+.
+[140]
+The applicants have argued that, even before section 87.4 came into force, the respondent had already breached their rights to timely processing of their applications and that there must be some remedy for this past breach. This argument fails as
+mandamus
+cannot remedy a past breach when there is no present duty.
+Humanitarian and Compassionate Relief
+[141]
+The applicants advance an alternative argument. They say that even if their files were terminated, they are entitled, under section 25 of the
+IRPA,
+to apply for humanitarian and compassionate (H&C) relief from the application of section 87.4. The applicants note that the Minister used a similar section to assist applicants who were issued visas in error even though their applications were captured by section 87.4. On the basis of the Minister's own conduct, it is said that the applicants are entitled to H&C consideration.
+[142]
+Section 25.2 allows the Minister to grant permanent resident status to a foreign national who is otherwise inadmissible or who does not meet the requirements of the
+IRPA
+if the Minister is satisfied that the decision is justified on public policy considerations. It is axiomatic that, save for the public policy exception, an H&C application is not a free-standing, independent vehicle for entry; rather it is an authority in the Minister to grant relief from requirements or provisions of the
+IRPA
+in an otherwise deficient application or claim. Here, there is no application, nor any requirements which could be waived on H&C grounds.
+[143]
+Applicants who were issued a visa in error were sent a letter informing them that their visa was invalid. They were then sent a subsequent letter explaining that the Minister considered there to be public policy considerations which warranted granting the visa and necessary exemptions. The letter asked the applicants to sign and date the letter to indicate that they wished to take advantage of the provision and to return it along with certain documents.
+[144]
+The applicants submit that if the underlying application had been terminated, then the Minister could not invoke section 25.2. Those individuals had already been issued permanent resident visas; some may have already landed in Canada. I see no conflict between the Minister's decision under section 25.2 and his position in the present applications. The nature of the discretion conferred under section 25.2 is very broad, and, in any event, no request has been made to the Minister nor is there a refusal. The argument is thus premature.
+The Application Fees
+[145]
+The applicants submit that subsection 87.4(4), which provides that the application fees will be returned, is outside of the jurisdiction of the
+IPRA
+because only the
+Financial Administration Act
+can bind the Treasury Board. However, I agree with the respondent's submission that there is concurrent authority for this under the
+IRPA
+and the
+Financial Administration Act
+. The applicants also argue that subsection 87.4(4) violates subsection 19(2) of the
+Financial Administration Act
+which provides that application fees cannot exceed the costs. They argue that the respondent is required to pay interest on the application fees.
+[146]
+There is no indication in the record that interest was earned or that the fees exceeded the costs associated with the applications. While the applications were not ultimately processed to conclusion, CIC still required resources to initially accept and manage the applications. In any event, even if there was an evidentiary foundation to the argument, any entitlement to interest was extinguished by section 87.4. For this reason, the applicants' unjust enrichment argument must also fail: <FRAGMENT_SUPPRESSED> .
+Conclusion
+[147]
+As noted earlier, the applicants have waited in the queue for many years only to find the entrance door closed. They see the termination of their hope for a new life in Canada to be an unfair, arbitrary and unnecessary measure. However, section 87.4 is valid legislation, compliant with the rule of law, the
+Bill of Rights
+and the
+Charter
+. The applications have been terminated by operation of law and this Court cannot order
+mandamus
+.
+[148]
+In light of the serious issues raised and the general importance of this matter to many thousands of applicants the following questions will be certified:
+a. Does subsection 87.4(1) of the
+IRPA
+terminate by operation of law the applications described in that subsection upon its coming into force, and if not, are the applicants entitled to
+mandamus
+?
+b. Does the
+Canadian Bill of Rights
+mandate notice and an opportunity to make submissions prior to termination of an application under subsection 87.4(1) of the
+IRPA
+?
+c. Is section 87.4 of the
+IRPA
+unconstitutional, being contrary to the rule of law or sections 7 and 15 the
+Canadian Charter of Rights and Freedoms
+?
+JUDGMENT
+[149]
+THIS COURT'S JUDGMENT is that
+:
+1. The application for judicial review is dismissed.
+2. The applications for judicial review in the following proceedings are dismissed for the reasons given in this proceeding:
+a.  <FRAGMENT_SUPPRESSED>  files listed in Annex D hereto.
+4. Leave is hereby granted to the parties to bring a motion beyond the ten day requirement specified in Rule 397 to vary the terms of this judgment by amending Annex D to address any omissions or errors in that Annex.
+5. The following questions are certified pursuant to subsection 74(d) of the
+IRPA
+:
+a. Does subsection 87.4(1) of the
+IRPA
+terminate by operation of law the applications described in that subsection upon its coming into force, and if not, are the applicants entitled to
+mandamus
+?
+b. Does the
+Canadian Bill of Rights
+mandate notice and an opportunity to make submissions prior to termination of an application under subsection 87.4(1) of the
+IRPA
+?
+c. Is section 87.4 of the
+IRPA
+unconstitutional, being contrary to the rule of law or sections 7 and 15 the
+Canadian Charter of Rights and Freedoms
+?
+6. Submissions on costs are due within twenty days of the date of this decision.
+Application dismissed.
+Editor: E. Joanne Oley/vnh
+Annex A
+Immigration and Refugee Protection Act
+, SC 2001, c 27
+Section 87.4
+87.4 (1) An application by a foreign national for a permanent resident visa as a member of the prescribed class of federal skilled workers that was made before February 27, 2008 is terminated if, before March 29, 2012, it has not been established by an officer, in accordance with the regulations, whether the applicant meets the selection criteria and other requirements applicable to that class.
+(2) Subsection (1) does not apply to an application in respect of which a superior court has made a final determination unless the determination is made on or after March 29, 2012.
+(3) The fact that an application is terminated under subsection (1) does not constitute a decision not to issue a permanent resident visa.
+(4) Any fees paid to the Minister in respect of the application referred to in subsection (1) - including for the acquisition of permanent resident status - must be returned, without interest, to the person who paid them. The amounts payable may be paid out of the Consolidated Revenue Fund.
+(5) No person has a right of recourse or indemnity against Her Majesty in connection with an application that is terminated under subsection (1).
+Loi sur l'immigration et la protection des réfugiés
+(LC 2001, ch 27)
+article 87.4
+87.4 (1) Il est mis fin à toute demande de visa de résident permanent faite avant le 27 février 2008 au titre de la catégorie réglementaire des travailleurs qualifiés (fédéral) si, au 29 mars 2012, un agent n'a pas statué, conformément aux règlements, quant à la conformité de la demande aux critères de sélection et autres exigences applicables à cette catégorie.
+(2) Le paragraphe (1) ne s'applique pas aux demandes à l'égard desquelles une cour supérieure a rendu une décision finale, sauf dans les cas où celle-ci a été rendue le 29 mars 2012 ou après cette date.
+(3) Le fait qu'il a été mis fin à une demande de visa de résident permanent en application du paragraphe (1) ne constitue pas un refus de délivrer le visa.
+(4) Les frais versés au ministre à l'égard de la demande visée au paragraphe (1), notamment pour l'acquisition du statut de résident permanent, sont remboursés, sans intérêts, à la personne qui les a acquittés; ils peuvent être payés sur le Trésor.
+(5) Nul n'a de recours contre sa Majesté ni droit à une indemnité de sa part relativement à une demande à laquelle il est mis fin en vertu du paragraphe (1).
+Annex B
+Canadian Bill of Rights
+, SC 1960, c 44
+subsection 1(a)
+1. It is hereby recognized and declared that in Canada there have existed and shall continue to exist without discrimination by reason of race, national origin, colour, religion or sex, the following human rights and fundamental freedoms, namely,
+(a) the right of the individual to life, liberty, security of the person and enjoyment of property, and the right not to be deprived thereof except by due process of law;
+subsection 2(e)
+2. Every law of Canada shall, unless it is expressly declared by an Act of the Parliament of Canada that it shall operate notwithstanding the
+Canadian Bill of Rights
+, be so construed and applied as not to abrogate, abridge or infringe or to authorize the abrogation, abridgment or infringement of any of the rights or freedoms herein recognized and declared, and in particular, no law of Canada shall be construed or applied so as to [...]
+(e) deprive a person of the right to a fair hearing in accordance with the principles of fundamental justice for the determination of his rights and obligations;
+Déclaration canadienne des droits
+(SC 1960, ch 44)
+paragraphe 1(a)
+1. Il est par les présentes reconnu et déclaré que les droits de l'homme et les libertés fondamentales ci-après énoncés ont existé et continueront à exister pour tout individu au Canada quels que soient sa race, son origine nationale, sa couleur, sa religion ou son sexe:
+a) le droit de l'individu à la vie, à la liberté, à la sécurité de la personne ainsi qu'à la jouissance de ses biens, et le droit de ne s'en voir privé que par l'application régulière de la loi;
+paragraphe 2(e)
+2. Toute loi du Canada, à moins qu'une loi du Parlement du Canada ne déclare expressément qu'elle s'appliquera nonobstant la
+Déclaration canadienne des droits
+, doit s'interpréter et s'appliquer de manière à ne pas supprimer, restreindre ou enfreindre l'un quelconque des droits ou des libertés reconnus et déclarés aux présentes, ni à en autoriser la suppression, la diminution ou la transgression, et en particulier, nulle loi du Canada ne doit s'interpréter ni s'appliquer comme [...]
+e) privant une personne du droit à une audition impartiale de sa cause, selon les principes de justice fondamentale, pour la définition de ses droits et obligations;
+Annex C
+[Diagram omitted - see printed version]
+Annex D
+[Diagram omitted]

@@ -1,0 +1,361 @@
+Amgen Can. v. Mylan Pharmaceuticals, [DATE_SUPPRESSED] F.T.R. TBEd. NO.043
+MLB being edited
+Currently being edited for F.T.R. - judgment temporarily in rough form.
+Amgen Canada Inc. (applicant) v. Mylan Pharmaceuticals ULC, The Minister of Health and NPS Pharmaceuticals, Inc. (respondents)
+(T-2056-14; DATE_SUPPRESSED FC 1244)
+Indexed As: Amgen Canada Inc. v. Mylan Pharmaceuticals ULC et al.
+Temp. Cite: [DATE_SUPPRESSED] F.T.R. TBEd. NO.043
+Federal Court
+Phelan, J.
+November 3, DATE_SUPPRESSED.
+Counsel:
+Andrew Shaughnessy, Andrew Bernstein and Alexandra Peterson, for the applicant;
+J. Bradley White, Vincent M. de Grandpré and Geoffrey Langen, for the respondent, Mylan Pharmaceuticals ULC.
+Solicitors of Record:
+Torys LLP, Toronto, Ontario, for the applicant;
+Osler, Hoskin & Harcourt LLP, Ottawa, Ontario, for the respondent, Mylan Pharmaceuticals ULC;
+William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent, The Minister of Health;
+Blake, Cassels & Graydon LLP, Toronto, Ontario, for the respondent, NPS Pharmaceuticals,  Inc.
+Summary:
+The headnote and the decision for this document are in preparation. Any footnotes found in this case will appear below end of document.
+I.
+INTRODUCTION
+[1]
+Phelan, J.
+: This is an application, pursuant to s 6 of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133, by Amgen Canada Inc [Amgen] against Mylan Pharmaceuticals ULC [Mylan], the Minister of Health [Minister] and NPS Pharmaceuticals, Inc [NPS], for an order prohibiting the Minister from issuing a Notice of Compliance [NOC] to Mylan.
+[2]
+Mylan proposes to sell/distribute Cinacalcet hydrochloride in tablet form for oral administration in 30, 60 and 90 mg strength [Mylan-Cinacalcet] until after the expiry of Canadian Patent No. 2,202,879 [879 Patent or the 879], which expires October 23, 2015.
+[3]
+Amgen manufactures Cinacalcet hydrochloride in tablet form for oral administration in 30, 60 and 90 mg strength under the brand name Sensipar®.
+[4]
+The patent at issue is the 879 Patent, which claims a vast number of compounds. The sole claim at issue is Claim 5, which specifically claims the compound Cinacalcet and its pharmaceutically acceptable salts.
+[5]
+The parties have requested that the Court render its judgment (if not its reasons) before the expiry of the 879 Patent (rather than the expiry of the statutory hold date of October 3, 2016) so as to avoid any issue of mootness in respect of s 8 damages. There is an issue whether the Court has jurisdiction to make a prohibition order if the Patent in issue has expired.
+These are the reasons for the Court's judgment dismissing Amgen's application prohibiting the Minister from issuing an NOC to Mylan, which was issued on October 19, 2015.
+II.
+BACKGROUND
+A. Facts
+(1)
+General
+[6]
+The parathyroid gland regulates calcium levels in the body through the secretion of parathyroid hormone [PTH]. When extracellular ionic calcium (Ca2+) levels are low, the glands secrete PTH, which triggers processes to increase calcium levels. When the calcium levels have returned to normal, the glands cease secretion of PTH. This process of responses is understood to be an inverse relationship.
+[7]
+Parathyroid cells respond differently to calcium than other cells. The mechanism by which this occurs - a calcium-sensing receptor [CaSR] - forms the basis of the issues in this case. Previously, the mechanism was thought to be a "calcium channel" - a completely different process.
+[8]
+In 1992, after setting out to develop a drug that targeted the calcium receptor, Drs. Nemeth and Van Wagenen at NPS discovered that a large family of compounds,
+including Cinacalcet
+, mimicked the effect of extracellular calcium at the parathyroid calcium receptor. This led to the 828 Patent, discussed later. They believed that such a drug could help regulate the secretion of PTH and treat diseases characterized by abnormal levels of calcium ions or PTH, like hyperparathyroidism [HPT].
+[9]
+The resulting drug, Sensipar, contains the compound Cinacalcet. Sensipar is approved for the reduction of elevated calcium levels (hypercalcemia) in patients with HPT for whom the removal of the parathyroid gland is not appropriate, or for those suffering with parathyroid carcinoma. It was also indicated for treatment of secondary HPT in patients with chronic kidney disease [CKD]. Sensipar stems from the 879 Patent in issue.
+[10]
+Mylan filed its Abbreviated New Drug Submission [ANDS] seeking an NOC for Mylan-Cinacalcet, containing Cinacalcet hydrochloride in tablet form of 30, 60 and 90 mg. Mylan's drug is indicated for the treatment of secondary HPT in patients with CKD receiving dialysis; the reduction of hypercalcemia in patients with parathyroid carcinoma; and the reduction of clinically significant hypercalcemia in patients with primary HPT for whom parathyroidectomy is not clinically appropriate or is contraindicated.
+[11]
+On August 19, 2014, Mylan served Amgen with a Notice of Allegation [NOA] alleging that the 879 Patent was invalid and in any event Mylan-Cinacalcet would not infringe the 879 Patent.
+[12]
+On October 3, 2014, Amgen filed its Notice of Application in this Court asserting that none of Mylan's allegations are justified. In particular, the 879 Patent contains claims that are relevant, valid and go to the medicinal ingredient, formulation, dosage form and/or use of the medicinal ingredient and will be infringed by the making, constructing, using and/or selling of Mylan-Cinacalcet.
+(2)
+The Drug
+[13]
+At the time of the development of Sensipar in the early 1990s, there was a need for a drug that could help the body maintain normal calcium levels. The operation of the parathyroid gland and the regulation of Ca2+ has been described in paragraphs 6 and 7.
+[14]
+It is now known that parathyroid cells have a CaSR on their surface, which detects extracellular Ca2+ and initiates signalling events within the cell in part by triggering an increase in levels of intracellular Ca2+.
+[15]
+The issue of novelty of the CaSR is significant in this case. Amgen raised the issue of the novelty of the discovery of the existence of the calcium receptor. In its response to Mylan's NOA, Amgen described the discovery of the CaSR as a "good news story". Mylan's retort was that it was a story told in Patent 828, not in Patent 879.
+[16]
+On this issue, Amgen objected to Mylan's use of numerous publications that were not in its NOA and argues that this Court should not consider the articles or the evidence of Mylan that relies on these publications.
+[17]
+As Justice Hughes observed in
+REFERENCE_SUPPRESSED, the Court of Appeal has firmly established that a generic has the obligation in its NOA to raise all the facts and legal arguments upon which it relies in support of its allegations. It cannot create new arguments, raise new allegations or new facts or new prior art documents not set out in its NOA.
+[18]
+However, in the present case, Mylan was responding to Amgen's evidence as to the novelty of the existence of the CaSR as part of its contention of non-obviousness. That evidence is properly before this Court in accordance with the decision in
+REFERENCE_SUPPRESSED, which confirms that if the first party (the inventor) puts an issue in play, the second party (the generic) is entitled to rebut the issue with other evidence.
+(3)
+The Relevant Patents
+(a) 879 Patent
+[19]
+The patent in issue, the 879 Patent, is listed by Amgen on the Patent Register. It is owned by NPS, and Drs. Van Wagenen, Balandrin and Nemeth are three of the named inventors.
+[20]
+The 879 Patent is entitled "Calcium Receptor - Active Compounds" and was filed on October 23, 1995, published May 2, 1996 and issued August 30, 2005. This patent claims priority from PCT/US94/12117 (filed October 21, 1994) and US08/353,784 (filed December 8, 1994).
+[21]
+The 879 Patent describes the invention to feature:
+...compounds able to modulate one or more activities of an inorganic ion receptor and methods for treating diseases or disorders by modulating inorganic ion receptor activity. Preferred compounds can mimic or block the effect of extracellular calcium on a cell surface calcium receptor.
+The patent claims trillions of calcimimetic compounds defined by two separate genera. The only claim in issue is Claim 5 (Cinacalcet) which reads:
+The compound ( (R) -N- (3- (3- (trifluoromethyl) - phenyl) propyl) -1- (1-naphthyl) ethylamine) or a pharmaceutically acceptable salt or complex thereof.
+[22]
+The 879 Patent is claimed to be a selection patent. Central to that issue and to whether Claim 5 of the 879 Patent is anticipated, obvious or double patented, as alleged by Mylan, is Canadian Patent No. 2,115,828 [828 Patent].
+(b) The 828 Patent
+[23]
+The 828 Patent is entitled "Calcium Receptor Active Molecules". It was issued September 20, 2011 and has expired on August 21, 2012. The same Drs. Nemeth and Van Wagenen (as well as Dr. Balandrin) are named inventors and the patent is owned by NPS.
+[24]
+The invention is summarized as follows:
+Applicant is the first to demonstrate a Ca2+ receptor protein in parathyroid cells, and to pharmacologically differentiate such Ca2+ receptors in other cells, such as c-cells and osteoclasts. Applicant is also the first to describe methods by which molecules active at these Ca2+ receptors can be identified and used as lead molecules in the discovery, development, design modification and/or construction of useful calcimimetics or calcilytics which are active at Ca2+ receptors. Such calcimimetics or calcilytics are useful in the treatment of various disease states characterized by abnormal levels of one or more components ... Further, the identification of different Ca2+ receptors in different cell types, and the specific response of such receptors to different lead molecules allows design and construction of specific molecules active in treatment of specific diseases which can be affected by action at such specific Ca2+ receptors.
+[25]
+The 828 Patent discloses an enormous genus of compounds. There is no issue that this patent discloses in those compounds, the very Cinacalcet at issue here in the 879 Patent.
+[26]
+Also germane to the issues in this matter is that while the 828 Patent was issued on September 20, 2011, it was
+published
+on May 2, 1996 and filed August 21, 1992. As such, Amgen has enjoyed patent protection from that early date and the contents of the 828 Patent were in the public domain from that point as well, despite the fact that it was issued after the 879 Patent.
+[27]
+The WO 373 application [PCT application] ultimately led to 828. Cinacalcet falls within Claims 99-101 of WO 373. This has the same disclosure but different claims than 828.
+[28]
+WO 959, filed on February 23, 1993, and published September 1, 1994, has largely the same teachings as WO 373 with almost the identical disclosure. The chemical structures in WO 959 are essentially identical to those disclosed in the 828 Patent. While this application has additional material related to the cloning of the bovine parathyroid CaSR, importantly Cinacalcet is within Claims 99-101 of WO 959 as it was in WO 373.
+III.
+SUMMARY OF KEY WITNESSES
+[29]
+There was no dispute as to the qualifications of the experts to give their expert evidence nor real challenges to credibility. However, there were significant issues as to weight to be given to certain witnesses.
+A. Applicant's Witnesses
+[30]
+Dr. Nemeth was the Director of Biology at NPS and one of the inventors of the 879 Patent. His evidence focused on the research that led to the invention of Cinacalcet. He described the work involved and the difficulty in gaining acceptance in the general scientific community of calcium receptor theory. The existence of the calcium receptor was proposed as early as 1983. He described the work he did with Dr. Balandrin to develop a safe drug but it was clear that it was Dr. Baladrin who steered research in a particular direction because of his bias against the naphthyl group of compounds.
+[31]
+Dr. Van Wagenen was a research scientist at NPS and also one of the inventors of the 828 and 879 Patents. He provided evidence about the medicinal chemistry leading to the invention of Cinacalcet. Most importantly, he addressed the unique philosophy of Dr. Balandrin who directed the development of the drug and who guided Dr. Van Wagenen and the medicinal chemistry group as a whole. Dr. Balandrin is alive yet not called as a witness by Amgen.
+[32]
+Dr. Balandrin emphasized drug safety, not potency. His approach to focus on compounds that were small, simple and had a degree of success was, as admitted by Van Wagenen, not in line with the pharmaceutical industry. This philosophy to limit testing of certain compounds had a direct bearing on the ease with which Cinacalcet was developed. It has direct bearing on the issue of obviousness/obvious to try.
+[33]
+While neither Nemeth nor Van Wagenen were called as experts - they would hardly be objective in this case - they had considerable experience in the relevant area. The remaining witnesses for each party were experts in the traditional sense.
+[34]
+Dr. Bartlett is an Emeritus Professor of Chemistry at the University of California, Berkeley. He provided evidence of the person skilled in the art [POS] ; the promised utility of Claim 5; double patenting; obviousness and anticipation of Claim 5 (or more accurately, the non-obviousness and non-anticipation); and the unexpected utility of Claim 5. He admitted that a POS making each of the compounds in Claim 1 of the 828 Patent would make Cinacalcet. In respect of the 879 Patent, no examples are directed specifically at Cinacalcet, no specific chemical synthesis is described and no examples of the testing of Cinacalcet is given except for one line on Table 1a.
+[35]
+Dr. Shoback is a Professor of Medicine at the University of California, San Francisco, and a trained clinical endocrinologist. She was involved in a number of Sensipar clinical trials. Her evidence related to the POS, the utility of the 879 Patent invention compared to the 828 Patent, the unexpected utility of the 879 Patent and the clinical impact of Sensipar. Dr. Shoback opined that the cloning of the receptor after publication of the 828 Patent was the critical breakthrough. She was of the view that the utility of Cinacalcet could not have been predicted from the data in the 828 Patent.
+[36]
+Dr. Shoback's evidence, particularly under cross-examination, did not hold up as well as other witnesses. She appears to have been both defensive and dogmatic and her answers were often inconsistent with objective documents. She tried to explain away an article she wrote with Dr. Nemeth which showed that by 1988 it was apparent that there was a calcium receptor. She also tried to suggest that the existence of a calcium receptor and properties were uncertain because there was no absolute proof thereof - a higher standard than usually applicable. Her evidence is also undermined by her reading of the 828 Patent, not for what it discloses but whether it provided absolute and conclusive proof. She was not focused on the right question about the teachings of the 828 Patent.
+B. Mylan's Witnesses
+[37]
+Dr. Lubell is a Professor of Chemistry at the University of Montreal. His laboratory has been involved in the synthesis of new compounds and drug candidates. He provided evidence with respect to POS, background and definitions related to the scientific aspects of the 879; an understanding of the invention claimed in the 879 Patent; whether the claims to the 879 Patent are the same or an obvious variant to the 828 Patent; and whether the claims (especially Claim 5) in the 879 Patent were disclosed and anticipated by the 828 Patent or WO 959.
+[38]
+Dr. Lubell's evidence was particularly helpful, clear and objective. I accord it considerable weight. It was his opinion that the claim in the 828 Patent is directed to calcium receptor active molecules which encompass or include Cinacalcet hydrochloride and do not teach away from the structure of Cinacalcet. As such, Claim 5 in the 879 Patent is anticipated by the 828 Patent and WO 959 application and also enabled thereby. Further, the 879 Patent does not disclose any unexpected activity of Cinacalcet over and above what was known in the 828 Patent or WO 959 application. Dr. Lubell importantly pointed out that a POS would have made Cinacalcet hydrochloride as part of a routine development based solely on the teaching of the 828 Patent. It would have been obvious to achieve the invention covered by Claim 5. The activity necessary to do so was not inventive but simply mechanical. As indicated, using the preferred claims in the 828 Patent and looking to the right and left of the molecule, there would be less than 200 compounds to test - Cinacalcet would be one of them.
+[39]
+Dr. Marsden is a Professor of Medicine at the University of Toronto and a Nephrologist at the University of Toronto and St. Michael's Hospital. His evidence touched on the POS and how a POS would read the 879 Patent, 828 Patent and WO 959, and evidence about the various assays disclosed. His evidence was balanced and impartial; deserving of significant weight. He highlighted that the assays referred to in the 828 Patent showed that the compounds in that Patent, including Cinacalcet, modulated the effect of an inorganic ion on a cell having an inorganic ion receptor, and that the inventors of the 879 Patent acknowledged that the 828 Patent described compounds that modulate the effect of the inorganic ion on a cell having an inorganic ion receptor. Although the words "inorganic ion receptor" do not appear in 828, the functional target would be understood as such. Dr. Marsden also noted that the disclosure of the 879 Patent is very similar to the 828 Patent or WO 979 but provides for one additional assay method.
+[40]
+Dr. Friedman is a Professor at the University of Pittsburgh School of Medicine in the Department of Pharmacology and Clinical Biology and the Department of Structural Biology. His evidence addressed construing the 828 and 879 Patents; how a POS in the art in respect to both patents would read the patents; whether Mylan's drug fell within the scope of the 828 Patent; differences in the inventions claimed in each patent; whether the differences constituted an obvious step or required inventive ingenuity; and finally, whether the 879 Patent identified any substantive or unexpected advantage.
+[41]
+Dr. Friedman opined that the 828 Patent, WO 959 and the 879 Patent all enable a POS to make Cinacalcet and use it to modulate calcium receptors and treat certain diseases. All three teach the same use. The 879 Patent in respect of Cinacalcet provided no surprising or substantial advantage; its activity and effectiveness was comparable to other compounds in the class and within the expected range. Dr. Friedman effectively rebutted Dr. Shoback's comments and requirement for absolute proof of the existence of the calcium receptor. Scientists routinely draw inferences and a POS knew that the best evidence pointed to a calcium receptor. A POS reading the 828 Patent would understand that the inventors believed that a calcium receptor existed and that the compounds disclosed (of which Cinacalcet is one) worked to modulate that receptor. His evidence undermines Amgen's contention that the 828 Patent teaches away from Cinacalcet.
+[42]
+Finally, Dr. Friedman opines that a POS would conclude that the same invention is claimed by both patents, and that the uses are the same. If there is any legal distinction between Claim 5 and the 828 Patent, it is an obvious variation. It would take no inventive skill or ingenuity to select a compound from a class and claim it for the same purpose as disclosed in the earlier patent.
+[43]
+In conclusion, while there is no reason to doubt the skill, integrity or honesty of any of the witnesses, I conclude, for reasons briefly discussed, that Mylan's experts' evidence is to be preferred where it conflicts or qualifies the evidence of Amgen's witnesses.
+IV.
+ISSUES
+[44]
+There are three principal issues in this Application:
+1. When did the person of skill in the art accept the calcium receptor theory?
+2. Is Claim 5 of the 879 Patent a selection invention/is the 879 a selection patent?
+3. Is Claim 5 of the 879 Patent invalid because of one or more of:
+a) obviousness - double patenting?
+b) anticipation by either the 828 Patent or WO 959?
+c) obviousness - general?
+[45]
+There is no issue that, as Mylan led evidence in the NOA capable of establishing its allegations, the burden shifted to Amgen to establish that the allegations as to the validity of the 879 Patent are not justified.
+[46]
+Likewise, there is no issue that the person of ordinary skill (the POS) is in fact a team with expertise in endocrinological disorders as well as medicinal and synthetic chemistry. They would also have experience with the assays described in the prior art.
+V.
+ANALYSIS
+A. Issue 1 - Acceptance of Calcium Receptor Theory
+[47]
+Amgen, possibly in order to avoid the selection patent issue difficulties, argues that the calcium receptor [CaSR] theory was settled and finalized only at the time of filing of the 879 Patent. Most particularly, it was "accepted" after Dr. Brown's team of researchers cloned the bovine parathyroid calcium receptor in 1993, approximately six months after the August 21, 1992 filing date of both the WO 373 application and the 828 Patent.
+[48]
+Amgen contends that the CaSR theory was controversial, competing with the calcium channel theory and possibly other receptor molecule theories. The CaSR theory was only accepted in 1993. Dr. Shoback's evidence is particularly relied upon to support this argument. That evidence suffers from inconsistency and unreasonableness as discussed earlier.
+[49]
+However, the bulk of the credible evidence supports the conclusion that before the filing of the 828 Patent, the CaSR theory was accepted wisdom. As said earlier, Amgen argued that the CaSR discovery was a "good news story" to which Mylan properly responds "it is, but it was told in the 828 Patent".
+[50]
+There are multiple evidentiary points that establish that at the time of the filing of the 828 Patent, the inventors were confident in the existence of the calcium receptor and that particular molecules acted on those receptors. Those molecules were the compounds in the 828 Patent, including Cinacalcet. The inventors were so confident that the 828 Patent repeatedly refers to the CaSR.
+[51]
+That evidence, in summary, is:
+• the 828 Patent discusses research by Dr. Nemeth and others which suggests there was a receptor on the surface of the parathyroid cell. A 1990 article co-authored by Nemeth points to the accumulating evidence of such a Ca2+ receptor which allows the parathyroid cell to detect small changes in the concentration of extracellular Ca2+;
+• the 828 Patent refers to measuring intracellular calcium levels which provide an assay to assess the ability of molecules to act "as agonists or antagonists at the Ca2+ receptor";
+• Dr. Shoback's research is noted in the 828 Patent. In 1988 Dr. Shoback wrote that her studies supported the hypothesis of a Ca2+ receptor;
+• Dr. Nemeth wrote in 1993 that his own studies indicated the presence of a Ca2+ receptor. The 828 Patent makes consistent reference to a Ca2+ receptor. Amgen's suggestion that Table 6 in the 828 Patent could be attributed to a calcium channel is inconsistent with the Patent itself;
+• the Summary of Invention in the 828 Patent says "Applicant has demonstrated that Ca2+ receptor proteins enable certain specialized cells involved in bodily Ca2+ metabolism to detect and respond to changes in the concentration of extracellular Ca2+";
+• the 828 Patent correctly explains the mechanism of action at the calcium receptor; and
+• the 828 Patent refers to lead molecules being used to identify structural features that allow them to act on the Ca2+ receptor.
+[52]
+The experts in the field accepted the existence of the CaSR at the time of the 828 Patent filing. Amgen suggests that it was not accepted yet by the "scientific community", which it described so broadly that it includes people with a "passing familiarity" of parathyroid research and those "very peripherally involved". Given the high level of knowledge of parathyroid disorders that a POS would have, these people on the outer edges of the relevant knowledge are not relevant to whether a POS would accept the CaSR's existence. They do not fall within the class of persons who would constitute a POS for purposes of this case.
+[53]
+Amgen has produced no credible evidence on this point and I conclude, based on the weight of the evidence, that a POS would have known of the existence, importance and role of the CaSR as of the 828 Patent filing date.
+B. Issue 2 - Is the 879 a selection patent/Claim 5 a selection invention?
+[54]
+The starting point of any patent litigated, selection patent or not, is the proper construction of the patent and relevant claim.
+(1)
+Claim Construction/Claim 5
+[55]
+In considering Claim 5, regard must be had to the Patent as a whole in claim construction (
+REFERENCE_SUPPRESSED). The 879 Patent sets out the context of the invention in its Description, noting that the compounds covered modulate the CaSR and the effectiveness of the compounds is measured against the EC50 standard. The means of measuring is well established in the prior art.
+[56]
+At page 13 of the Patent, there is a description of the Preferred Embodiments. However, no promises are made as to their activity or potency.
+[57]
+The process for measuring the activity of the compounds, their ability to mimic calcium and descriptions of their potency were known and described in the 828 Patent. Similarly, the examples reflected what was contained in 828 or in WO 959.
+[58]
+The examples show that the activity of the compounds is different at different concentrations. Of importance is that at page 98 of the 879 Patent, Compound 22J is acknowledged to be Cinacalcet. There is no E50 value and it is not identified as the most active compound. It does not stand out as a compound with special properties.
+[59]
+Claim 1 claims trillions of compounds and the other Claims cover many compounds in addition to Cinacalcet. However, Claim 5 is the only claim in issue.
+[60]
+Claim 5 does not include a specific use, and no use is otherwise specifically stipulated for Cinacalcet in the patent disclosure. The 879 Patent does not promise a particular level of activity for Cinacalcet, and other compounds (for example, Compound 24M) are evidently more active such that one is not drawn, at least by implication, to Cinacalcet as having outstanding, unexpected features.
+[61]
+Dr. Lubell, on behalf of Mylan, makes two telling points at paragraphs 41 and 42 of his affidavit.
+41. In my opinion, a person skilled in the art would conclude from the available EC50 values that the claimed compounds, including cinacalcet (22J), fall within the promised range of activity/potency of less than or equal to 1nM, to less than or equal to 5 NM and could be used for modulating calcium receptor activity and for treating diseases or disorders which can be affected by modulating one or more activities of a calcium receptor.
+42. Claim 5 reads as follows:
+The compound (R)-N-(3-(3-(trifluoromethyl)-phenyl)propyl)-1-(1-naphthyl)ethylamine) or a pharmaceutically acceptable salt or complex thereof.
+[62]
+Dr. Bartlett makes a similar point that 47 of the 61 listed compounds elicited a
+larger
+increase in intracellular calcium levels than did Cinacalcet. The data in Table 1a of the Patent shows that Cinacalcet is not unique in having greater activity than the previous lead component but also that Cinacalcet was not one of the most potent compounds tested. He concludes:
+There is no evidence (or even statement) in the 879 Patent that Cinacalcet has a unique or substantial advantage over the other compounds disclosed in the 828 Patent. On the contrary, Cinacalcet appears to be less potent than many of the other previously disclosed compounds.
+[63]
+Neither the Patent nor Claim 5 in particular shines a light on Cinacalcet. The data point in Table 1a is not a promise of performance.
+(2)
+Selection Patent Criteria
+[64]
+Amgen concedes that Cinacalcet was disclosed in the prior art but claims that Claim 5 is a selection invention. Given its admission of disclosure, the plea with respect to Claim 5 is an attempt to keep the 879 Patent valid. It is my view that this is simply an attempt, by retroactive characterization, to save Amgen's pharmaceutical. Failure to establish a selection patent results in the patent being invalid.
+[65]
+The basic criteria for a selection patent is set out in
+REFERENCE_SUPPRESSED. Before setting out the non-exhaustive list of conditions established (and adopted in this decision) in the leading case of
+In re I.G. Farbenindustrie A.G.'s Patents
+(1930), 47 RPC 289 (Ch D), the U.K. court noted that a selection patent does not, in its nature, differ from any other patent (
+CITATION_SUPPRESSED).
+[66]
+The Supreme Court adopted Justice Maugham's requirement for a selection patent that the compound be
+novel
+and possess a
+special property
+of an
+unexpected character
+.
+[67]
+Amgen has also argued that a valid selection patent is a complete answer to an allegation of obviousness, anticipation or double patenting. This argument is not a correct statement of principle. It is inconsistent with paragraph 9 of
+CITATION_SUPPRESSED
+, noted above.
+REFERENCE_SUPPRESSED, states that a selection patent is "vulnerable to attack on any of the grounds set out in the Act". This principle was recently followed by Justice Kane in
+REFERENCE_SUPPRESSED.
+[68]
+A selection patent has at least three conditions which must be satisfied:
+1. There must be a substantial advantage to be secured or disadvantage to be avoided by the use of the selected members.
+2. The whole of the selected members (subject to "a few exceptions here and there") possess the advantage in question.
+3. The selection must be in respect of a quality of a special character peculiar to the selected group. If further research revealed a small number of unselected compounds possessing the same advantage, that would not invalidate the selection patent. However, if research showed that a larger number of unselected compounds possessed the same advantage, the quality of the compound claimed in the selection patent would not be of a special character.
+(3)
+Substantial and unexpected advantage
+[69]
+Amgen has been unclear in its submissions by firstly asserting that the 879 Patent is a selection invention, and then that it is Claim 5 which is the selection invention. It asserts that Cinacalcet has unexpected utility over the previous genus (the class of compounds having been disclosed in WO 373 and claimed in the 828 Patent) as well as the former lead compound (NPS R-568).
+[70]
+Amgen has failed to establish a substantial and unexpected advantage, either quantitative or qualitative, in respect of either the 879 Patent as a whole or with respect to Claim 5 in particular. On the qualitative end, the actual mechanism by which the process works and the target upon which Cinacalcet acts was the same in 879 as what the inventors had expected in 828. Further, there is nothing in the potency of Cinacalcet that was surprising - it was "similar" or "comparable" to that of R-568. On the quantitative side, 47 of the 61 compounds listed in Table 1a of 879 had a larger increase in intracellular calcium levels than Cinacalcet did. Cinacalcet's potency fell within the range identified in the 828 Patent. A compound selected from a broader genus that has the activity predicted for the genus can hardly be said to offer an unexpected advantage.
+[71]
+In fact, NPS did not consider Cinacalcet to offer a substantial advantage over the lead compound. Cinacalcet was first synthesized in early 1995 and tested at least twice by June 1995. However, until NPS 658, the lead compound, showed toxicity issues in March 1996, NPS did not focus on Cinacalcet. Further, Cinacalcet was synthesized after the Claim Date of January 30, 1995. Therefore, Cinacalcet was not "selected" at the Claim Date; NPS did not know Cinacalcet had the special properties now claimed. If Cinacalcet truly offered such a substantial advantage, NPS would likely have focused on it earlier.
+[72]
+There was no substantial and unexpected advantage, and no advantage was even described in the Patent.
+(4)
+All selected members possess the advantage
+[73]
+Claim 5, as a selection invention, cannot meet this test as there are no other members in that Claim except Cinacalcet. If, as Amgen also argues, 879 is a selection patent, Cinacalcet would belong to a much larger grouping of compounds that would comprise the selection patent. As Mylan has established, many of the compounds are actually less potent than NPS R-568 and do not have a substantial or unexpected advantage over the prior genus.
+(5)
+The selection is in respect of a special quality peculiar to the selected group
+[74]
+That Cinacalcet is known to act on the CaSR is not a special quality as it would apply to all claimed compounds of the 828 Patent. If unexpected potency is the alleged special quality, there is insufficient evidence that Cinacalcet and the other like compounds in 879 are unique.
+(6)
+The specification must define the nature of the characteristic in clear terms
+[75]
+In
+REFERENCE_SUPPRESSED, the Court held that one of the hallmarks of a selection patent is a clear statement of the premise of the special advantages of the selected compounds over the genus.
+[76]
+The central failing in respect of this part of the selection patent analysis is that there is no singling out of Cinacalcet as a selection invention. The 879 Patent does not describe any special advantages of Cinacalcet nor of any of the other compounds of the alleged selection patent. A single reference to Cinacalcet's activity in a table that lists 61 other compounds is insufficient, absent something more, to meet this requirement of special advantage. Nothing stands out from this single reference.
+(7)
+Summary re Selection Patent/Invention
+[77]
+Given the foregoing, in summary the 879 Patent is not a selection patent nor is Cinacalcet a selection invention because:
+• there is no language of selection used, particularly there is no disclosure of the alleged selection of Cinacalcet;
+• the Patent is directed at a large class of compounds without selection of a few compounds from a previously disclosed class;
+• the 879 Patent does not promise any specific level of activity of any compound;
+• the Patent never states that naphthyl compounds were viewed as unsuitable - a view of Dr. Balandrin which steered NPS away from Cinacalcet but which was erroneous;
+• nothing in the 879 Patent singles out Cinacalcet - it is neither mentioned nor are its test results outstanding such as to distinguish it from other compounds (unsurprising since Cinacalcet had not been made by the Claim Date);
+• Amgen's focus on Claim 5 is unwarranted as the 879 Patent neither focuses on Cinacalcet nor discloses a selection;
+• the 828 Patent clearly discloses Claim 5 is claiming calcimimetic compounds;
+• the 828 Patent teaches all the relevant aspects of the 879 Patent and Claim 5 in particular, including the EC50 values and how to make all the compounds (including Cinacalcet);
+• the 828 Patent teaches that there is a calcium receptor, and that the claimed compounds are active at that receptor and further describes the testing protocol in support of those teachings;
+• Cinacalcet does not have a substantial and unexpected advantage over the prior art genus; and
+• the 879 Patent claims compounds that are no better than the compounds in the 828 Patent.
+[78]
+Therefore, the 879 Patent is not a selection patent, and Claim 5 is not a selection invention. Amgen has failed to establish that its patent is novel and to rebut Mylan's allegation.
+C. Other Validity Challenges
+[79]
+Mylan had alleged, in addition to the selection patent issue, that the 879 Patent was invalid for obviousness-type double patenting, anticipation and obviousness.
+(1)
+Anticipation
+[80]
+The test for anticipation is well established. It requires disclosure and enablement. I adopt Justice Hughes' summary of the legal requirements set out in
+REFERENCE_SUPPRESSED:
+1. For there to be anticipation there must be both disclosure and enablement of the claimed invention.
+2. The disclosure does not have to be an "exact description" of the claimed invention. The disclosure must be sufficient so that when read by a person skilled in the art willing to understand what is being said, it can be understood without trial and error.
+3. If there is sufficient disclosure, what is disclosed must enable a person skilled in the art to carry out what is disclosed. A certain amount of trial and error experimentation of a kind normally expected may be carried out.
+4. The disclosure when carried out may be done without a person necessarily recognizing what is present or what is happening.
+5. If the claimed invention is directed to a use different from that previously disclosed and enabled then such claimed use is not anticipated. However if the claimed use is the same as the previously disclosed and enabled use, then there is anticipation.
+6. The Court is required to make its determinations as to disclosure and enablement on the usual civil burden of balance and probabilities
+[sic
+], and not to any more exacting standard such as quasi-criminal.
+7. If a person carrying out the prior disclosure would infringe the claim then the claim is anticipated.
+[81]
+In the present case, Amgen admits Cinacalcet is disclosed in 828 and in WO 959. Dr. Bartlett conceded that a person working Claim 1 of 828 would have made Cinacalcet. Dr. Lubell also concluded that a skilled medicinal chemist would have understood Cinacalcet to be a member of the class of formula compounds in both of 828 and WO 959.
+[82]
+Dr. Lubell's evidence is particularly persuasive as there is no evidence to effectively contradict it. Aside from disclosure by 828 and WO 959 (in addition to the supporting evidence of Dr. Friedman and the cross-examination response of Dr. Bartlett), Dr. Lubell outlined how there is no inventive step from 828 to get to Cinacalcet. Dr. Lubell, using claims 20-55 of the 828 and bearing in mind a preference for R-isomers, concluded that there were at most 200 molecules to be tested. Cinacalcet was one of those molecules. The testing itself was mechanical.
+[83]
+It is not necessary that the 828 Patent be prior art to make out anticipation. Dr. Friedman confirms that WO 959 enables Cinacalcet.
+[84]
+However, on the issue of 828 as prior art, there was an unusual circumstance surrounding 828. There was a long gap between publication date (1993) and issue date (2011). As a result, 879 was issued prior to 828. Amgen erroneously conflates the publication date with the issue date to contend that 828 is not prior art.
+[85]
+However, s 28.2(1)(c) of the
+Patent Act
+, RSC 1985 c P-4, makes the filing date relevant for purposes of a validity analysis. The 828 Patent was filed before the 879 Patent - even the publication date of 828 was before 879's filing date.
+[86]
+The Federal Court of Appeal in
+REFERENCE_SUPPRESSED, clarified that the crucial juncture is the disclosure to the public. The Court adopted the analogy advanced by Adous J. in
+REFERENCE_SUPPRESSED:
+Further it is settled law that there is no need to prove that anybody actually saw the disclosure provided the relevant disclosure was in public. Thus an anticipating description in a book will invalidate a patent if the book is on a shelf of a library open to the public, whether or not anybody read the book and whether or not it was situated in a dark and dusty corner of the library. If the book is available to the public, then the public have the right to make and use the information in the book without hindrance from a monopoly granted by the State.
+[87]
+While I find 828 to be prior art, more importantly I find that Mylan has made out that the 879 Patent was anticipated by the prior art - the 828 Patent and WO 959.
+(2)
+Obviousness
+[88]
+The Supreme Court has established a four-step approach to the analysis of the issue:
+(1) (a) Identify the notional "person skilled in the art";
+(b) Identify the relevant common general knowledge of that person;
+(2) Identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+(3) Identify what, if any, differences exist between the matter cited as forming part of the "state of the art" and the inventive concept of the claim or the claim as construed;
+(4) Viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention?
+CITATION_SUPPRESSED
+[89]
+The Court elaborated on the "Obvious to try" component of the fourth step, appropriate where advances are often won by experimentation. As outlined at paragraph 69 of that decision, the non-exhaustive factors to consider are:
+[69] If an "obvious to try" test is warranted, the following factors should be taken into consideration at the fourth step of the obviousness inquiry. As with anticipation, this list is not exhaustive. The factors will apply in accordance with the evidence in each case.
+1. Is it more or less self-evident that what is being tried ought to work? Are there a finite number of identified predictable solutions known to persons skilled in the art?
+2. What is the extent, nature and amount of effort required to achieve the invention? Are routine trials carried out or is the experimentation prolonged and arduous, such that the trials would not be considered routine?
+3. Is there a motive provided in the prior art to find the solution the patent addresses?
+[90]
+Applying the obviousness analysis to the facts, the least contentious step is the POS, about whom there is general agreement.
+[91]
+With respect to the inventive concept, since Cinacalcet is not an inventive selection, Claim 5 is Cinacalcet
+per se
+; it is
+not
+Cinacalcet's unexpected activity as a modulator of the CaSR. That activity had been described in 828.
+[92]
+Regarding the difference between Claim 5 and the prior art (particularly 828 and WO 959), there is no inventive difference as opined by Dr. Friedman. Cinacalcet, its clinical structure and its function, had been disclosed. Claim 5, at best, merely gave further specificity. As Amgen's witness Dr. Bartlett admitted, a POS could make Cinacalcet in view of the prior art and common general knowledge.
+[93]
+As to obvious or obvious to try, in my view Cinacalcet was obvious. At the very least, if there is a difference between the state of the art and Claim 5, it was obvious to try to achieve the invention covered by Claim 5. The 828 Patent and WO 959 disclosed compounds which included Cinacalcet, and are active at the calcium receptor on parathyroid cells. The POS would have found Cinacalcet by using known assays to screen compounds for activity at the calcium receptor.
+[94]
+As Cinacalcet's potency fell within the range set out in 828, and acts on the CaSR as stated in 828, it was self-evident (or should have been) that Cinacalcet would work on the CaSR with the expected potency.
+[95]
+Dr. Lubell outlined how easy and mechanical the process would be as mentioned in paragraph 38. There were only 200 molecules to test, of which Cinacalcet was one. Simple verification as this test was described is not an innovative step.
+[96]
+There are two subsidiary points to address. Firstly, to the often rhetorical question "if it was so obvious, why did you not do it", the answer lies in part that the compound was already covered by the 828 Patent. There would be no point and indeed economic and legal risk in working an existing patent. This is not a case of discovery for an originating patent, where the question has greater validity. It is a case of working with an existing patent where the compound enjoyed patent protection.
+[97]
+Secondly, the actual conduct of NPS (and particularly Dr. Balandrin) was not helpful to Amgen. Dr. Balandrin had a bias against the naphthyl group based on alleged safety concerns and steered NPS's research away from synthesis of compounds with the naphthyl group. As Dr. Friedman opined, a skilled person would not have been so adverse to inclusion of the naphthyl group with the compounds. At least two other drugs used the naphthyl group.
+[98]
+Amgen cannot use Dr. Balandrin's bias in product development to justify delay in developing Cinacalcet as part of routine development based on 828 and WO 959 or to claim now that it was not obvious/obvious to try.
+[99]
+Lastly, on the issue of obviousness-type double patenting, Mylan's counsel said it was not a "toss off" argument. However, in view of what has preceded this issue, it is not necessary to address the issue separately from obviousness.
+[100]
+The Court has held that, viewed from the perspective of a POS, Claim 5 is patentably indistinct from the 828 Patent.
+[101]
+Amgen has not shown that the allegation that Claim 5 was obvious or obvious to try was not justified.
+VI.
+CONCLUSION
+[102]
+For all these reasons, Amgen has not shown that Mylan's allegations are not justified. As such, the application to prohibit the Minister of Health from issuing a Notice of Compliance is dismissed with costs.
+[End of document]

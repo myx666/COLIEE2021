@@ -1,0 +1,85 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Snider, J.
+April 28, 2010.
+Counsel:
+Jack Davis, for the applicant;
+Prathima Prashad, for the respondents.
+Solicitors of Record:
+Davis & Grice, Toronto, Ontario, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Toronto, Ontario, for the respondents.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+I.
+Background
+[1]
+Snider, J.
+: The Applicant, a citizen of Colombia, arrived in Canada from the United States on July 27, 2009 with his family. He alleges a well-founded fear of persecution and risk to his life by the Revolutionary Armed Forces of Colombia (FARC). Because the Applicant had made an unsuccessful refugee claim in Canada in 2003, he was not eligible to have his claim referred to the Refugee Protection Division of the Immigration and Refugee Board (RPD). However, it was determined that he was eligible to make an application for pre-removal risk assessment (PRRA). Under cover letter of August 14, 2009, the Applicant's application was submitted, attached to which was extensive affidavit and documentary evidence.
+[2]
+In a lengthy decision, dated October 7, 2009, a PRRA Officer rejected the application. The key finding of the Officer was that the Applicant had submitted insufficient evidence to establish that he or his family had been targeted or threatened by FARC. Although the Officer acknowledges that adequate state protection does not exist for persons targeted by FARC, the insufficiency of the evidence to establish that the Applicant was such a person was fatal to his claim for protection. In other words, the mere existence of FARC in Colombia was not indicative of the risk for this individual.
+[3]
+The Applicant seeks to quash the PRRA Officer's decision.
+II.
+Issues
+[4]
+This application raises the following issues:
+1. Did the Officer err by failing to acknowledge that the evidence raised a "serious issue of the applicant's credibility" such that an oral hearing was required pursuant to s. 113 (b) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (IRPA) and s. 167 of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 (the Regulations)?
+2. Did the Officer err by applying an incorrect test or by failing to articulate the correct test under s. 97 of IRPA?
+3. Did the Officer err by ignoring, misinterpreting, or misconstruing the evidence before him?
+[5]
+On the particular facts of this case, I am satisfied that the Officer applied the correct test under s. 97 of IRPA and that he did not fail to have regard to the evidence before him. However, I will allow this application for judicial review on the basis that the Officer erred by failing to convoke an oral interview where the evidence before him raised a serious issue of the Applicant's credibility.
+III.
+Statutory Framework
+[6]
+As noted, because the Applicant had previously made an unsuccessful refugee claim in Canada (in 2003), he was precluded by s. 101(1)(b) of IRPA from making a claim to the RPD for protection under s. 96 or 97 of IRPA. He was limited to applying to the Minister for protection under s. 112(1) of IRPA. The assessment of his application is referred to as a PRRA.
+[7]
+Section 113(b) of IRPA states that, on an application for a PRRA, "a hearing may be held if the Minister, on the basis of prescribed factors, is of the opinion that a hearing is required".
+[8]
+The prescribed factors are set out in s.167 of the Regulations, as follows:
+1) whether there is evidence that raises a serious issue of the applicant's credibility and is related to ss. 96 and 97 of IRPA;
+2) whether the evidence is central to the decision with respect to the application for protection; and
+3) whether the evidence, if accepted, would provide a basis for allowing the application for protection.
+IV.
+Analysis
+[9]
+In the decision, the Officer explicitly accepts that "state protection or an Internal Flight Alternative is not available for those targeted by FARC". It follows that an acceptance of the Applicant's story of persecution by FARC is central to the decision and that, had that evidence been accepted, there would have been a basis for allowing the application. Thus, the second and third factors set out in s. 167 of the Regulations are clearly satisfied on the facts of this case. Moreover, it appears obvious to me that the fears of the Applicant are related to, at least, s. 97. (I leave open the question of whether they are also related to s. 96.) Accordingly, the question before me is whether the evidence before the Officer raises a "serious issue" of the Applicant's credibility.
+[10]
+Although there may be some disagreement as to the appropriate standard of review of this aspect of the Officer's decision, I view the Officer's decision of whether to convoke a hearing to be an exercise of discretion to which a standard of reasonableness should apply.
+[11]
+Paraphrasing the words of Justice Zinn in
+ <FRAGMENT_SUPPRESSED>  Imm. L.R. (3d) 306 at para. 32, where a fact asserted is critical to the PRRA application, it is open to an Officer to require more evidence to satisfy an applicant's legal burden. In this case, a critical element of the Applicant's case was his wife's work with indigent people.
+[12]
+The key piece of evidence before the Officer was the Applicant's sworn affidavit. I begin by observing that a key fact in the
+Ferguson
+case was that the Applicant had
+not
+submitted a sworn affidavit; all the submissions were made by counsel. In his sworn affidavit, the Applicant describes a number of incidents of targeting of him and his family by members of FARC. While I accept that more details could have been included, the incidents were set out in some detail. In his decision, the PRRA Officer sets out a number the evidentiary matters referred to by the Applicant and determines that there is insufficient evidence in respect of each. Among the purported deficiencies in the sworn affidavit (along with some other supporting documentation) are the following:
+• Insufficient evidence to show that the Applicant's wife was kidnapped;
+• Insufficient evidence that FARC had threatened or extorted the Applicant, his family or a native chief;
+• Insufficient explanation of how his spouse recognized a person in an automobile to be a person who had accosted her the previous day; and
+• Insufficient evidence that the spouse's work as a cultural advisor would involve her in security issues.
+[13]
+The alleged insufficiencies in the affidavit together with the Officer's finding that the Applicant's failure to claim in the United States showed a lack of subjective fear appear to have animated his overall finding. I conclude that the Officer, in fact, made the decision on credibility grounds; quite simply, the Officer did not believe the Applicant's story and rejected the PRRA application on that basis.
+[14]
+A review of this Court's jurisprudence is not particularly helpful as each of these cases turns on its individual facts. However, speaking generally, the case at bar compares more closely with the decisions in
+ <FRAGMENT_SUPPRESSED>  [2009] F.C.J. No. 1470 (QL) and
+ <FRAGMENT_SUPPRESSED>  [2010] F.C.J. No. 307 (QL) where the Court allowed the judicial reviews on similar facts.
+[15]
+I wish to make it clear that I am not saying that an affidavit will automatically mean that an oral hearing is required. Each case will turn on its facts and what information may or may not be included in the affidavit. Nor should this decision be an invitation for applicants to expect an oral hearing where they can add details and further support. In general, an applicant bears the burden of presenting sufficient evidence to the Officer and an interview is an exception to the normal written review. However, it is obvious, from the inclusion in IRPA and the Regulations of the possibility of an oral hearing, that cases will arise where credibility can only be assessed after an oral hearing. In my view, this is one of those cases.
+V.
+Conclusion
+[16]
+In conclusion, the decision of the Officer not to convoke a hearing on the evidence before him does not fall within a range of possible, acceptable outcomes which are defensible in respect of the facts and law (see
+ <FRAGMENT_SUPPRESSED>  at para. 47).
+[17]
+Neither party proposed a question for certification. None will be certified.
+JUDGMENT
+[18]
+THIS COURT ORDERS AND ADJUDGES that
+1. The application for judicial review is allowed, the decision of the Board is quashed and the matter is sent back for re-determination by a different panel of the Board; and
+2. No question of general importance is certified.
+[End of document]

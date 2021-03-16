@@ -1,0 +1,620 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nautical Data Intl. Inc. v. C-Map USA (2012), 407 F.T.R. 175 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ [French language version follows English language version] 
+ 
+ 
+ 
+ [La version française vient à la suite de la version anglaise] 
+ 
+ 
+ 
+ ......................... 
+ 
+ 
+ 
+ Temp. Cite: [2012] F.T.R. TBEd. AP.046 
+ 
+ 
+ 
+ Nautical Data International Inc. (plaintiff) v. C-Map USA Inc., and Doe Co. (defendants) and Her Majesty in Right of Canada (Copyright Owner added pursuant to s. 36(2) of the Copyright Act) 
+ 
+ (T-1219-04) 
+ 
+ 
+ 
+ Nautical Data International, Inc. (plaintiff) v. Navionics Inc. and Doe Co. (defendants) and Her Majesty in Right of Canada (Copyright Owner added pursuant to s. 36(2) of the Copyright Act) 
+ 
+ (T-1220-04; 2012 FC 300; 2012 CF 300) 
+ 
+ 
+ 
+ Indexed As: Nautical Data International Inc. v. C-Map USA Inc. et al. 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Zinn, J. 
+ 
+ April 3, 2012. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The defendants asked the court to dismiss two actions, with costs, on the basis that there was no genuine issue for trial because the plaintiff lacked the standing required by the Copyright Act to bring an action for copyright infringement in relation to the works at issue. 
+ 
+ 
+ 
+ The Federal Court allowed the motions and dismissed the actions. 
+ 
+ 
+ 
+ Contracts - Topic 7409 
+ 
+ Interpretation - General principles - Subsequent conduct of parties - [See second  
+ Copyright - Topic 3005 
+ ]. 
+ 
+ 
+ 
+ Contracts - Topic 7521 
+ 
+ Interpretation - Surrounding circumstances - General - [See second  
+ Copyright - Topic 3005 
+ ]. 
+ 
+ 
+ 
+ Copyright - Topic 3005 
+ 
+ Licences - General - Exclusive licensee defined - The Federal Court stated that "even if a licensee has been given a right to sue in its own name by means of an agreement, it does not necessarily lead to a characterization of the licence as exclusive." - See paragraph 32. 
+ 
+ 
+ 
+ Copyright - Topic 3005 
+ 
+ Licences - General - Exclusive licensee defined - The defendants asked the court to dismiss two actions on the basis that there was no genuine issue for trial because the plaintiff (NDI) lacked the standing required by the Copyright Act to bring an action for copyright infringement related to the works at issue - The Federal Court allowed the motions and dismissed the actions - As the parties agreed, only an exclusive licence constituted a grant of interest sufficient to grant a licensee standing to bring a claim for copyright infringement - Three permissions were given to NDI under the Agreement: the rights to produce, integrate and distribute - Only the rights to produce and integrate were protected under the Act - The copyright owner (CHS) promised not to give anyone else permission to produce or integrate CHS works for the licence's duration - The court rejected NDI's submission that CHS was not permitted to distribute digital data products for commercial purposes and therefore CHS had promised not to do the licensed acts - The Agreement did not explicitly state that CHS promised not to produce or integrate its works - All that CHS agreed was not to "distribute the Products or Product Updates to any person" - As noted, the right to distribute was not a right under the Act - Therefore, although NDI might have an exclusive licence to distribute the CHS works for commercial purposes, it did not follow that the Agreement gave it an exclusive licence in copyright because the right to distribute was not a protected right under the Act - Courts were not limited to the Agreement's terms, but had to be mindful of the parties' intentions at the time that it was entered into - The court also had to consider all the surrounding circumstances to properly characterize the Agreement - These circumstances included facts that were known or reasonably capable of being known to the parties when they entered into the Agreement - The parties' subsequent conduct could also be helpful in determining the meaning they attached to the Agreement after its execution - The court found that the Agreement was not exclusive. 
+ 
+ 
+ 
+ Copyright - Topic 6003 
+ 
+ Practice - General - Evidence - General - [See second  
+ Copyright - Topic 3005 
+ ]. 
+ 
+ 
+ 
+ Copyright - Topic 6041 
+ 
+ Practice - Parties - General - [See second  
+ Copyright - Topic 3005 
+ ]. 
+ 
+ 
+ 
+ Practice - Topic 5702 
+ 
+ Judgments and orders - Summary judgments - Jurisdiction or when available or when appropriate - [See second  
+ Copyright - Topic 3005 
+ ]. 
+ 
+ 
+ 
+ Practice - Topic 5702 
+ 
+ Judgments and orders - Summary judgments - Jurisdiction or when available or when appropriate - The Federal Court stated that the principles applicable to a motion for summary judgment were well established - The court summarized these principles and referred to extensive relevant case law - See paragraphs 10 to 12. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+FRAGMENT_SUPPRESSED 
+ Authors and Works Noticed: 
+ 
+ Hughes, Roger, Kratz, Martin, and Sustrik, Gordon, Canadian Forms and Precedent: Commercial Transactions - Licensing (2007), paras. 1.85 [para. 34]; 1.88 [paras. 29, 34]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Jamie Mills and Chantal Saunders, for the plaintiff; 
+ 
+ Gary Daniel and Athar Malik, for the defendants. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Borden Ladner Gervais LLP, Ottawa, Ontario, for the plaintiff; 
+ 
+ Blake, Cassels & Graydon LLP, Toronto, Ontario, for the defendants. 
+ 
+ 
+ 
+ This application was heard at Toronto, Ontario, on December 5, 2011, by Zinn, J., of the Federal Court, who delivered the following decision on April 3, 2012. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Zinn, J. 
+ : The defendants ask the Court to dismiss these two actions, with costs, on the basis that there is no genuine issue for trial because Nautical Data International, Inc. (NDI) lacks the standing required by the  
+ Copyright Act 
+ , RSC 1985, c C-42 to bring an action for copyright infringement in relation to the works at issue. 
+ 
+ 
+ 
+ [2] 
+  These actions have been litigated for nearly eight years. They are parallel actions, the summary judgment motions were argued together, and accordingly one set of reasons will be issued applicable to both and a copy placed in each Court file. 
+ 
+ 
+ 
+ Background 
+ 
+ 
+ 
+ [3] 
+  Canadian Hydrographic Service (CHS), a federal government agency in the Science Sector of the Department of Fisheries and Oceans, produces hydrographic charts in paper format, containing data that is owned by Canada and maintained by the CHS (the CHS Works). CHS also produces electronic navigation charts in S-57 compliant digital vector format, containing data that is owned by Canada and maintained by the CHS (the Additional CHS Works). 
+ 
+ 
+ 
+ [4] 
+  In 1993 NDI entered into an agreement with CHS with respect to the data used to produce these navigation charts. In 1998 and 2000, CHS and NDI revised their agreement. The agreement between NDI and CHS will be referred to in these reasons as the Agreement or the Licence. 
+ 
+ 
+ 
+ [5] 
+  By virtue of the Licence, CHS provided the raw data and data source materials used in the preparation of the CHS Works and the Additional CHS Works for conversion into electronic charts and updates. After CHS verified the accuracy of its electronic charts, NDI would reproduce them in a variety of digital formats (the NDI Works) which it licensed directly to end-users, and indirectly to end-users through distributors, value-added licensees, and resellers. 
+ 
+ 
+ 
+ [6] 
+  The defendants sell electronic hydrographic charts in proprietary data and media formats for use in their equipment. Specifically, they produce electronic vector charts and charting systems for use in marine, aeronautical, and land navigation. The defendants admit to using CHS Works to produce their digital charts and recognize that CHS has the authority to produce hydrographic charts in Canada. 
+ 
+ 
+ 
+ [7] 
+  When these actions were commenced, they related to claims of infringement of copyright of three categories of works related to hydrographic charts: the NDI Works, the CHS Works, and the Additional CHS Works. However, the parties agree that the claims now relate only to one category - the CHS Works. NDI agrees that it is appropriate to grant summary judgment in favour of the defendants with respect to all claims, save those relating to the CHS Works. 
+ 
+ 
+ 
+ [8] 
+  It is agreed that CHS owns the copyright in the CHS Works which is defined in paragraph 4 of the Re-Amended Statement of Claim as "hydrographic charts in paper format, containing data that is owned by Canada and maintained by the CHS." 
+ 
+ 
+ 
+ [9] 
+  The position of the defendants is that NDI does not have standing to enforce the copyright of the CHS Works because it is not the exclusive licensee with respect to those works. Therefore, it is said, there is no genuine issue for trial. NDI submits that it was granted an interest in the copyright of the CHS Works, that it is a person deriving a "right, title or interest by assignment or grant in writing from the owner" as provided for in section 36 of the  
+ Copyright Act 
+ , and it is therefore entitled to its remedies. 
+ 
+ 
+ 
+ Test for Summary Judgment 
+ 
+ 
+ 
+ [10] 
+  The principles applicable to a motion for summary judgment are well established and may be summarized as follows: 
+ 
+ 
+ 
+ 1. The Court can grant a motion for summary judgment only if satisfied that there is no genuine issue for trial: Rule 215(1) of the  
+ Federal Courts Rules, 
+  SOR/98-106;  
+FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ 2. Summary decisions serve the important purpose of preventing claims and defences which have no likelihood of success at trial:  
+ FRAGMENT_SUPPRESSED. It is crucial for the proper operation of our judicial system and for parties that such claims are weeded out early on, while those disclosing real issues proceed to trial:  
+ FRAGMENT_SUPPRESSED. For this reason, the  
+ Federal Courts Rules 
+  dealing with summary judgment need to be interpreted and applied in a manner that secures the just, most expeditious and least expensive determination of every proceeding on its merits:  
+FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ 3. The moving party on a summary judgment motion has the burden of proving the futility of a trial:  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ 4. The Court's decision on the motion must be based on the pleadings and evidence:  
+ FRAGMENT_SUPPRESSED. However, the judge hearing the motion is entitled to make inferences of fact based on undisputed facts before the Court:  
+ FRAGMENT_SUPPRESSED citing  
+FRAGMENT_SUPPRESSED. The Court may also determine questions of fact and law if such determinations can be made based on the material before it:  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ 5. There is no determinative test to apply in order to grant a summary judgment:  
+ FRAGMENT_SUPPRESSED. Rather, the question turns to whether the case is so doubtful that it does not deserve consideration at trial:  
+ FRAGMENT_SUPPRESSED. The issue is not whether the claim can possibly succeed at trial, but rather whether it is "clearly without foundation:"  
+ FRAGMENT_SUPPRESSED. It must be evident that a trial is unnecessary:  
+ FRAGMENT_SUPPRESSED. It is not the Court's function on a motion for summary judgment to resolve an issue of fact but rather to determine whether such a genuine issue exists:  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ 6. Summary judgment cannot be granted if the necessary facts cannot be found or if it would be unjust:  
+ FRAGMENT_SUPPRESSED. Rather, such a judgment is granted where the evidence is uncontested, or uncontroversial, or where there is no serious issue as to credibility:  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ 7. Before granting summary judgment, the Court must weigh the various competing interests, namely those of the defendant in avoiding needless litigation, those of the plaintiff having his "day in court," and those of the judicial system in not wasting resources:  
+FRAGMENT_SUPPRESSED. In doing this weighing one must exercise caution:  
+FRAGMENT_SUPPRESSED. However, a court has discretion over its own process and the  
+ Federal Courts Rules 
+  are to be used, not avoided, and where warranted, summary judgment should be granted, even if there is a serious legal issue, provided it can be dealt with summarily:  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [11] 
+  In  
+ FRAGMENT_SUPPRESSED 
+ , summary judgment was said to be warranted based on the following factors as enumerated FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ [12] 
+  Applying these factors to the matter before me, I find that the summary judgment motion before the Court is appropriate because the issues are well defined, the facts are clearly set out in the evidence, the evidence is uncontroversial, there is no issue as to credibility and any questions of law can be dealt with easily. Although it is necessary in this case for the Court to engage in contract interpretation to evaluate NDI's standing, this does not preclude summary judgment because the Court may make determinations of fact and law based on the material before it:  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ Analysis of the Issue of Standing 
+ 
+ 
+ 
+ [13] 
+  Whether there is a genuine issue for trial turns on whether or not NDI has standing to sue for infringement under the  
+ Copyright Act 
+ . If NDI does have standing, the motion must be dismissed and the actions proceed to trial. If NDI does not have standing, the motion must be granted and the actions dismissed. 
+ 
+ 
+ 
+ [14] 
+  Subsection 36(1) of the  
+ Copyright Act 
+  provides the basis for a person to bring suit in order to protect their copyright or their interest in a copyright: 
+ 
+ 
+ 
+ 36. (1) Subject to this section, the owner of any copyright, or any person or persons deriving any right, title or interest by assignment or grant in writing from the owner, may individually for himself or herself, as a party to the proceedings in his or her own name, protect and enforce any right that he or she holds, and, to the extent of that right, title and interest, is entitled to the remedies provided by this Act. 
+ 
+ 
+ 
+ [15] 
+  Where, as here, the suit is being brought by a person other than the copyright owner, a grant of interest is necessary. A copyright owner may "grant any interest" in writing to whomever it so wishes, either wholly or partially:  
+ Copyright Act 
+ , s. 13(4). 
+ 
+ 
+ 
+ [16] 
+  The parties are in agreement that only an exclusive licence constitutes a grant of interest sufficient to grant a licensee standing to bring a claim for copyright infringement. The Supreme Court of Canada in  
+FRAGMENT_SUPPRESSED, stated: 
+ 
+ 
+ 
+FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ In  
+FRAGMENT_SUPPRESSED, the Supreme Court held that FRAGMENT_SUPPRESSED
+ 
+ 
+ [17] 
+  The defendants submit that NDI was granted a  
+ sole 
+  licence and not an  
+ exclusive 
+  licence. They submit that CHS, in its licence agreement with NDI, has retained its right to produce or reproduce the CHS Works. 
+ 
+ 
+ 
+ [18] 
+  Section 2.7 of the  
+ Copyright Act 
+  defines "exclusive licence" as follows: 
+ 
+ 
+ 
+ 2.7 For the purposes of this Act, an exclusive licence is an authorization to do any act that is subject to copyright to the exclusion of all others including the copyright owner, whether the authorization is granted by the owner or an exclusive licensee claiming under the owner. 
+ 
+ 
+ 
+ [19] 
+  In  
+ FRAGMENT_SUPPRESSED, Justice Rothstein outlined the three requirements of an exclusive licence: 
+ 
+ 
+ 
+FRAGMENT_SUPPRESSED 
+ 
+ 
+ Does NDI's license agreement satisfy the requirements 
+   
+ of an exclusive licence? 
+ 
+ 
+ 
+ (a) Permission to do something within the copyright 
+ 
+ 
+ 
+ [20] 
+  NDI submits that by virtue of its agreement with CHS, it is permitted it to do something within the copyright. NDI relies on section 2.1 of the Agreement which provides: 
+ 
+ 
+ 
+ 2.1. Subject to the rights reserved in Sections 2.4 and 2.5 below, Canada grants to NDI  
+ a sole worldwide right and license 
+  (the "License") to use the CHS Data  
+ to produce 
+  Products and Product Updates,  
+ to integrate 
+  these Products with other products or services (provided that such integrated offerings do not derogate in any respect from the availability or reliability of the Products or Product Updates) and  
+ to distribute 
+  same directly or through third parties to whom a sublicense is granted in accordance with the terms hereof.  
+ Except as expressly set out herein, CHS shall have no right to distribute the Products or Product Updates to any person 
+  [emphasis added]. 
+ 
+ 
+ 
+ [21] 
+  The defendants submit that section 2.1 of the Agreement merely gives NDI the right to  
+ use 
+  certain information owned by CHS; namely, the CHS Data. They submit that section 2.1 of the Agreement does not refer to or grant NDI any right relating to the copyright of CHS Works. 
+ 
+ 
+ 
+ [22] 
+  NDI claims that three permissions were given to it under the Agreement: the right to produce, to integrate and to distribute. Only two of these three rights, the right to produce and the right to integrate, are protected under the  
+ Copyright Act 
+ . The right to distribute is not protected because subsection 3(1) of the C 
+ opyright Act 
+  does not mention distribution as a protected right. A number of decisions have held that an exclusive right to distribute is not an interest in the copyright:  
+FRAGMENT_SUPPRESSED. I agree with the submission of the defendants that "a collateral interest to distribution ... is not actionable under the  
+ Copyright Act 
+ :"  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [23] 
+  CHS having permitted NDI to produce and integrate CHS Works as protected by the  
+ Copyright Act 
+ , one must next ask whether CHS promised not to give anyone else permission to produce or integrate the CHS Works for the duration of the licence. 
+ 
+ 
+ 
+ (b) Promise not to give anyone else the same permission 
+ 
+ 
+ 
+ [24] 
+  The defendants do not contest that CHS promised not to give the right to produce or integrate the CHS Works to anyone else for the duration of the licence. 
+ 
+ 
+ 
+ [25] 
+  One must next ask whether CHS promised not to itself produce or integrate the CHS Works for the duration of the licence. 
+ 
+ 
+ 
+ (c) Does CHS itself promise not to do the acts it has licensed? 
+ 
+ 
+ 
+ [26] 
+  Section 2.1 of the Agreement provides that "[e]xcept as expressly set out herein, CHS  
+ shall have no right to distribute the Products or Product Updates to any person 
+  [emphasis added]." The exceptions are found in sections 2.4 and 2.5 of the Agreement, which provide: 
+ 
+ 
+ 
+ 2.4 CHS may provide CHS Data, Products that are CHS Certified, and Product Updates that are CHS Certified directly,  
+ for non-commercial purposes 
+ , to any Canadian (Federal or Provincial) Government Department or Agency, to any Canadian university or other educational institution, to any Hydrographic Office with which CHS has bilateral arrangements, or, in case of a national emergency, as defined in the Emergencies Act, to any other third party. CHS will use its best efforts to ensure that all requests for CHS Data, Products, and Product Updates are routed through NDI [emphasis added]. 
+ 
+ 
+ 
+ 2.5 In the event of a national emergency, as defined in the Emergencies Act, and on written notification from CHS, NDI will immediately cease, to the extent and under any conditions specified in the notification, the distribution of any CHS Data, Products that are CHS Certified, or Product Updates that are CHS Certified. NDI will not renew distribution of any CHS Data, Products that are CHS Certified, or Product Updates that are CHS Certified without written notification from CHS. In this Section, notification shall come from the Director General of CFIS or any supervisory officer of the Director General of CHS. 
+ 
+ 
+ 
+ [27] 
+  NDI submits that CHS is not permitted to distribute digital data products  
+ for commercial purposes 
+  and that CHS has therefore promised not to do the licensed acts. I do not agree. 
+ 
+ 
+ 
+ [28] 
+  The Agreement does not explicitly state that CHS promises not to produce or integrate CHS Works. All that CHS has promised in section 2.1 of the Agreement is not to " 
+ distribute 
+  the Products or Product Updates to any person [emphasis added]." As previously noted, the right to distribute is not a right under the  
+ Copyright Act 
+ . Therefore, although NDI may be correct that it has an exclusive licence to distribute the CHS Works for commercial purposes, it does not follow that the Agreement gives it an exclusive licence  
+ in copyright 
+  because the right to distribute is not a protected right under the  
+ Copyright Act 
+ . 
+ 
+ 
+ 
+ [29] 
+  Having canvassed the three requirements set out in  
+ FRAGMENT_SUPPRESSED 
+ , the Court must now consider the circumstances surrounding the Agreement in order to interpret and characterize it:  
+FRAGMENT_SUPPRESSED; and Justice Roger Hughes, Martin Kratz & Gordon Sustrik,  
+ Canadian Forms and Precedent: Commercial Transactions- Licensing 
+ , Markham: LexisNexis, 2007 at para 1.88 [ 
+ Licensing 
+ ]. 
+ 
+ 
+ 
+ (d) Other factors 
+ 
+ 
+ 
+ [30] 
+  NDI submits that other factors such as its entitlement to commence a legal action under the Agreement, the surrounding circumstances indicating the contracting parties' intent, its right to sublicense, and the subsequent conduct of CHS all point to it having been granted an exclusive license. 
+ 
+ 
+ 
+ [31] 
+  NDI points to its right to bring a suit in its own name for infringement as provided in subparagraph 6.2(d)(i) of the Agreement and submits that this should lead to the conclusion that it was given an exclusive licence. However, section 6.2 of the Agreement provides that it is only if CHS or a government authority does not institute an action for infringement that the plaintiff may "bring suit in its own name." Accordingly, NDI's right to sue is not exclusive. In fact, the section indicates that CHS has retained the right, as the copyright owner, to sue. 
+ 
+ 
+ 
+ [32] 
+  NDI relies on subsection 13(7) of the  
+ Copyright 
+   
+ Act 
+  which provides that: "For greater certainty, it is deemed always to have been the law that a grant of an exclusive licence in a copyright constitutes the grant of an interest in the copyright by licence." Hence, it says, there is no doubt that a licensee of an exclusive licence is allowed to bring an action in its own name:  
+ FRAGMENT_SUPPRESSED 
+ . NDI relies on authorities which found an exclusive licence where the licensee had a sufficient grant of interest to preserve and enforce its rights protected under the  
+ Copyright Act 
+ :  
+FRAGMENT_SUPPRESSED 
+ . However, those authorities do not say that the contractual right to sue will necessarily lead to an exclusive licence. In my view, even if a licensee has been given a right to sue in its own name by means of an agreement, it does not necessarily lead to a characterization of the licence as exclusive. 
+ 
+ 
+ 
+ [33] 
+  I am further of the view that NDI's ability to sublicense digital data products derived from CHS Works is not indicative of an exclusive licence. While this right to sublicense does indicate that NDI was given the right to "use CHS Data and to produce Products and Product Upgrades" to the exclusion of others, this does not necessarily qualify the licence as exclusive because for a license to be exclusive, CHS would also have had to promise not to do those acts defined in the license; it would have to be to the exclusion of the copyright owner:  
+FRAGMENT_SUPPRESSED; and section 2.7 of the  
+ Copyright Act 
+ . 
+ 
+ 
+ 
+ [34] 
+  NDI is correct in its submission that courts are not limited to the terms of the agreement, but must be mindful of the intention of the parties at the time the agreement was entered into:  
+ Licensing 
+  at para 1.85. This Court must consider all the surrounding circumstances to properly characterize the agreement:  
+FRAGMENT_SUPPRESSED 
+ Licensing 
+  at para 1.88. These circumstances include facts that were known or reasonably capable of being known to the parties when they entered into the Agreement:  
+ FRAGMENT_SUPPRESSED. The subsequent conduct of the parties may also be helpful in determining the meaning the CHS and NDI attached to the Agreement after its execution:  
+FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [35] 
+  The defendants presented evidence from the written discovery wherein CHS was questioned and gave the following responses: 
+ 
+ 
+ 
+ Q: Did CHS understand that, pursuant to any of the signed agreements, CHS had granted an exclusive license to NDI in respect of CHS' copyright? 
+ 
+ 
+ 
+ A: No. 
+ 
+ 
+ 
+ Q: If so, which works or categories of works were subject to the exclusive license? 
+ 
+ 
+ 
+ A: NDI did not have an exclusive licence. 
+ 
+ 
+ 
+ Q: In particular, did CHS understand that, pursuant to any of the signed agreements, CHS had granted an exclusive license to NDI in respect of CHS' copyright in CHS paper charts? 
+ 
+ 
+ 
+ A: NDI did not have an exclusive licence in CHS paper charts. 
+ 
+ 
+ 
+ [36] 
+  I agree with the defendants that these responses provide clear evidence of the intent of CHS. Its intent was that NDI not have an exclusive licence. Whatever license NDI has, it does not have standing to bring an action in respect of any alleged copyright infringement relating to the CHS Works. 
+ 
+ 
+ 
+ [37] 
+  NDI submits that one must consider the backdrop when the Agreement was entered into by the parties. It claims that the intent of CHS was to find a private company to take over the exclusive distribution of digital data products. Paragraphs 3 and 6 of the Agreement indicate that CHS was "interested in supplementing its standard paper chart with electronic navigation charts and other digital data products" and that NDI was "interested in acquiring the marketing and distribution rights to CHS electronic charts and other digital data products." Under section 14 of the Agreement, CHS and NDI stated that their intention was that it be a "'Showcase Contract' for the production and marketing of digital products." 
+ 
+ 
+ 
+ [38] 
+  I agree with NDI that it appears that CHS did not intend to distribute digital data products itself and was seeking to contract with someone for that distribution. However, while NDI alleges its intent was to conclude an exclusive agreement, the real question is whether CHS intended to grant such an exclusive right. As I have previously stated, the intent of CHS is forcefully found in the evidence it gave on discovery. NDI was not to have an exclusive licence. While under the Agreement CHS may have referred anyone seeking digital data products to NDI, this alone is not an indication that NDI had an exclusive licence under the  
+ Copyright Act 
+ . 
+ 
+ 
+ 
+ Conclusion 
+ 
+ 
+ 
+ [39] 
+  For these reasons, the Agreement does not qualify as an exclusive licence. Consequently, NDI does not have the grant of interest necessary to bring an action for copyright infringement with respect to the CHS Works under the  
+ Copyright Act 
+ . Since the plaintiff does not have standing to advance the claims in these actions, there is no genuine issue for trial. Accordingly, these motions for summary judgment are granted and the actions are dismissed in their entirety, with costs in favour of the defendants. If the parties are unable to agree on costs, the Court will provide further directions at the request of any party. 
+ 
+ 
+ 
+ [40] 
+  Confidential Reasons issued on March 13, 2012, together with a Direction to the parties to inform the Court by March 23, 2012, end of business hours, if any portions of those Reasons ought to be deleted or modified in its public version. Nothing has been received from either party within the time provided and accordingly, the public Reasons contain no deletions or modifications from the confidential Reasons previously issued to the parties. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [41] 
+   
+ THIS COURT ORDERS that 
+  the defendants' motions for summary judgment are granted and the actions are dismissed with costs in accordance with these reasons. 
+ 
+ 
+ 
+ Motions granted; 
+ 
+ actions dismissed. 
+ 
+ 
+ 
+ Editor: Jana A. Andersen/vnh 
+ 
+ 
+ 
+

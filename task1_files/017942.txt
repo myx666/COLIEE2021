@@ -1,0 +1,323 @@
+[1]
+Strickland, J.
+: This application for judicial review concerns the decision of the Canadian Human Rights Commission (the Commission), dated August 1, 2012, which pursuant to subsection 41(1)(d) of the
+Canadian Human Rights Act
+, RSC 1985, c H-6 (the
+CHRA
+) refused to consider the Applicant's human rights complaint. The basis for the Commission's decision was that the Applicant's allegations of discrimination had been previously addressed in another forum.
+Background
+[2]
+On November 29, 2004, the Applicant made a complaint to the Commission alleging that her employer, Canada Border Service Agency (CBSA), discriminated against her in her employment on the ground of disability (chronic fatigue syndrome). Specifically, that CBSA treated her in an adverse detrimental manner by failing to accommodate her and by pursuing a discriminatory policy or practice, contrary to sections 7 and 10 of the
+CHRA
+. She further alleged that the failure to accommodate was a systemic problem.
+[3]
+In May 2005, the Commission, pursuant to subsection 41(1)(a) of the
+CHRA
+, decided not to address the complaint because the allegations of discrimination could be dealt with through a grievance procedure available to the Applicant. Thereafter, she could, if necessary, ask to reactivate the complaint.
+[4]
+On June 17, 2005, the Applicant filed a grievance against CBSA. It was referred to adjudication by the Public Service Labour Relations Board (PSLRB). Because the events that led to the grievance occurred before April 1, 2005, it was adjudicated in accordance with the provisions of the
+Public Service Staff Relations Act
+, SC 2003, c 22, s 2 (
+PSSRA
+). The adjudicator issued a decision on January 20, 2011, clarified as to remedy by a second decision dated May 27, 2011.
+[5]
+The adjudicator found that the Applicant had been discriminated against on the basis of her disability. CBSA was ordered to compensate her for any losses in income and benefits incurred.
+[6]
+In addition to the complaint against CBSA, the Applicant filed two other related complaints with the Commission which proceeded to investigation: one against Health Canada and the other against the Treasury Board of Canada. The Commission decided not to deal with these complaints. Regarding Health Canada, it found that the evidence did not establish that its practices and policies for fitness to work evaluations were discriminatory. As to the complaint against the Treasury Board, the Commission found that the Treasury Board was not responsible for the alleged discriminatory acts and that the evidence did not support a conclusion that its policies discriminated against persons with disabilities.
+[7]
+The Applicant filed an application for judicial review of those two decisions. This Court dismissed the judicial review application pertaining to the Commission's decision concerning Health Canada but quashed its decision concerning the complaint against the Treasury Board (
+ <FRAGMENT_SUPPRESSED> ). The Commission was ordered to conduct a new investigation of the complaint against the Treasury Board when the Applicant's grievance procedure had been completed. If that grievance was upheld and the complaint against CBSA proceeded before the Commission, then it was directed to consider whether the complaints against the Treasury Board and CBSA should be investigated and reported on together.
+[8]
+On April 19, 2011, the Applicant requested that her original complaint against CBSA be reactivated by the Commission. By letter dated August 10, 2012, the Commission informed the Applicant that it had decided pursuant to subsection 41(1)(d) of the
+CRHA
+, not to deal with her complaint. It is that decision which is the subject of this judicial review (Decision).
+Decision Under Review
+[9]
+The Record of Decision Under Sections 40/41 states that the Commission decided, pursuant to subsection 41(1)(d) and for the reasons set out, not to deal with the complaint. The Commission adopted the conclusions of a March 16, 2012 Section 40/41 Report, as follows:
+According to the decisions in Boudreault, Barrette, and Figliola, while the Commission cannot rely on the decision of another process to dismiss a complaint but must make up its own mind, it also has the responsibility to examine whether it is in the public interest to deal with the complaint before carrying out its own investigation into the matter. The Commission must ask itself whether the decision-maker in the other redress procedure turned his/her mind to essentially the same issues as those that were raised in the human rights complaint, and whether those issues were dealt with. The Commission can only deal with a complaint that has been finally decided under an alternative process if (a) the complaint to the Commission has human rights issues that were not considered by the alternate decision-maker, or (b) the complainant did not have the opportunity to address his or her human rights issues through the alternate process.
+There was a final decision in the complainant's grievance by a PSLRB adjudicator who has concurrent jurisdiction to apply human rights legislation. That grievance raised essentially the same allegations as those raised under section 7 in the present complaint. It is plain and obvious that all of the complainant's allegations under section 7 involving the CBSA were considered by the grievance adjudicator, and that the complainant had the opportunity to address the human rights issues relating to her own particular circumstances through the grievance adjudication process.
+Although the grievance adjudicator did not consider the complainant's section 10 allegation, which related to the duty to accommodate, it appears that this allegation, if proven, is unlikely to lead to a practical result. This is because the respondent has already taken significant steps to improve its compliance with the duty to accommodate. These steps include the adoption of a comprehensive duty to accommodate policy, as well as training through the workplace. This new Policy on the Duty to Accommodate and the related training provided by the CBSA to its employees appear to address the systemic issues raised by the complainant. This portion of the complaint appears to be frivolous within the meaning of the Act, as adjudication of the complaint would not advance the purposes of the Act, and it would not be in the public interest for the Commission to deal with.
+Issues
+[10]
+The issues are as follows:
+i) What is the applicable standard of review?
+ii) Was the Commission's Decision not to deal with the Applicant's section 7
+CHRA
+complaint reasonable?
+iii) Was the Commission's Decision not to deal with the Applicant's section 10
+CHRA
+complaint reasonable?
+Standard of Review
+Applicant's Position
+[11]
+The Applicant submits that decisions rendered under section 41 of the
+CHRA
+are discretionary and reviewable on the standard of reasonableness (
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED>  [
+Lawrence
+];
+ <FRAGMENT_SUPPRESSED>  [
+English-Baker
+]). However, that the range of acceptable outcomes is narrow in this case. Section 41 provides a preliminary screening of complaints. A decision not to deal with a complaint at this stage results in its dismissal without investigation. The Applicant submits that the Commission should only decide not to deal with a complaint at this stage in "plain and obvious" cases and that this requirement restricts the scope of decisions that will satisfy a reasonableness standard of review (
+ <FRAGMENT_SUPPRESSED>  (FCA), leave to appeal dismissed [1999] SCC No 323 [
+Canada Post
+]).
+[12]
+Further, that the Commission's Decision not to deal with the section 7 complaint had a significant legal component as its reasoning was based on its interpretation of the Supreme Court's decision in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] (
+ <FRAGMENT_SUPPRESSED> [
+Michon-Hamelin
+]). If the Commission erred in that regard then its Decision not to deal with the section 7 complaint was unreasonable.
+Respondent's Position
+[13]
+The Respondent submits that the appropriate standard of review is reasonableness, citing
+ <FRAGMENT_SUPPRESSED> , and notwithstanding Justice Rothstein's words in
+Canada Post
+, above at para 13, to the effect that the Commission should only decide to deal with a complaint at this stage in "plain and obvious" cases (
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ];
+English-Baker
+, above at para 13).
+Analysis
+[14]
+A standard of review analysis need not be conducted in every instance. Where the standard of review applicable to a particular issue before the Court is well-settled by past jurisprudence the reviewing Court may accept that standard of review ( <FRAGMENT_SUPPRESSED> , above, at para 62). Jurisprudence has held that the appropriate standard of review with respect to decisions by the Commission, pursuant to subsection 41(1) of the
+CHRA
+, not to deal with a complaint is reasonableness ( <FRAGMENT_SUPPRESSED> , above;
+English-Baker
+, above at para 13;
+Lawrence
+, above, at para 18). This standard applies to both the decision making process and the result ( <FRAGMENT_SUPPRESSED> , above, at para 47). Such a review must concern itself with the existence of justification, transparency and intelligibility within the decision making process and with whether the decision falls within a range of possible, acceptable outcomes defensible on the facts and the law ( <FRAGMENT_SUPPRESSED> , above, at para 47).
+[15]
+The Applicant relies on
+Canada Post
+, above, to suggest that the "plain and obvious" requirement referenced by Justice Rothstein serves to restrict the scope of decisions that will satisfy a reasonableness test, thus, the range of acceptable outcomes is narrow in cases concerning section 41 of the
+CHRA
+. As noted previously, Justice Rothstein's comments were addressed in <FRAGMENT_SUPPRESSED> , above. There the Commission refused, pursuant to subsection 41(1)(d), to consider the applicant's complaint because an independent investigator had already conducted an investigation of her allegations. The applicant argued that the Commission did not have jurisdiction to hear her complaint.
+[16]
+Justice Russell held:
+[15] In my view, however, the Applicant has not raised issues that go to jurisdiction. Her complaint is that the Commission did not appropriately apply subsection 41(1)(d) of the Act to the facts before it. In my view, this issue should attract a standard of reasonableness. Notwithstanding Justice Rothstein's words in
+ <FRAGMENT_SUPPRESSED>  [
+Canadian Postmasters
+] at paragraph 3, that "the Commission should only decide not to deal with a complaint at this stage in plain and obvious cases," the more recent jurisprudence of the court, and in particular the post <FRAGMENT_SUPPRESSED> decisions, have used reasonableness as the appropriate standard of review when the Commission decides not to deal with a complaint under subsection 41(1)(d).  <FRAGMENT_SUPPRESSED>  [2009] F.C.J. No. 1604, at paragraph 13;
+ <FRAGMENT_SUPPRESSED>  [2010] F.C.J. No. 481 at paragraphs 6 and 7;
+ <FRAGMENT_SUPPRESSED>  (aff'd 2008 FCA 269), [2007] F.C.J. No. 1741 at paragraph 25.
+[17]
+While it may be that a decision rendered under section 41 has a narrow range of acceptable outcomes in the sense that, as a preliminary screening mechanism the decision is either to deal with the complaint or not to, the fact that that decision requires a "yes or no" answer does not change the application of the reasonableness standard. "Just because there are only two possible outcomes does not mean that any less deference should be shown to the Tribunal. Nor does it mean that only one option is reasonable (hence correct) and the other is not" (
+ <FRAGMENT_SUPPRESSED> ).
+[18]
+As to the suggestion that the Commission's Decision not to deal with the section 7 complaint had a significant legal component as its reasoning was based solely on its interpretation of <FRAGMENT_SUPPRESSED> , above, I cannot agree that this has an impact on the standard of review in this case. As stated by the Supreme Court in
+ <FRAGMENT_SUPPRESSED> "In substance, if the issue relates to the interpretation and application of its own statute, is within its expertise and does not raise issues of general legal importance, the standard of reasonableness will generally apply and the Tribunal will be entitled to deference."
+[19]
+Here the Commission was interpreting and applying subsection 41(1)(d) of its own home statute in arriving at a discretionary decision as to whether or not it would deal with the Applicant's complaint. Accordingly, the standard of review is reasonableness and deference is owed. Nothing more, nothing less.
+ISSUE 1: Was the Commission's Decision to dismiss the Applicant's section 7
+CHRA
+complaint reasonable?
+Applicant's Position
+[20]
+The Applicant submits that the Commission's Decision regarding her section 7 complaint was premised on an improper application of <FRAGMENT_SUPPRESSED> , above. In her view, that case stands for the proposition that an unsuccessful complainant cannot re-litigate his or her human rights complaint in a different forum. However, in this case the adjudicator did not have the jurisdiction to apply the
+CHRA
+. Thus, the Commission erred in finding that <FRAGMENT_SUPPRESSED> applied in this context.
+[21]
+Although it was replaced by the
+Public Service Labour Relations Act
+(
+PSLRA)
+in 2005, the former
+PSSRA
+regime for grievance adjudication in the federal public service is applicable in this case (
+Public Service Modernization Act,
+SC 2003 c 22, s. 61(1)). The critical distinction between the two regimes is the adjudicator's power to apply human rights legislation. Pursuant to section 226(1)(g) of the
+PSLRA,
+adjudicators are expressly authorized to interpret and apply the
+CHRA
+and, pursuant to subsection 226(1)(h), to award remedies set out section 53(2)(e) or 53(3) of the
+CHRA
+. This is to be contrasted with
+PSSRA
+which, pursuant to subsection 91(1), limits an adjudicator's jurisdiction to matters "in respect of which no administrative procedure for redress is provided in or under an Act of Parliament". Thus,
+PSSRA
+adjudicators cannot interpret or apply other statutes including the
+CHRA
+.
+[22]
+In issuing his decision under the
+PSSRA
+, the adjudicator had no jurisdiction to apply the
+CHRA.
+Therefore, he did not address the allegations of systemic discrimination, nor could he award remedies under section 53 of the
+CHRA.
+These include individual and systemic remedies; compensation for pain and suffering; and, special compensation for reckless or wilful conduct (
+ <FRAGMENT_SUPPRESSED>  (Div Ct) (QL) at para 43 [
+Shelter Corp
+.];
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]). The investigator acknowledged that the adjudicator had no jurisdiction to apply the
+CHRA
+and, therefore, could not award damages for pain and suffering. However, based on <FRAGMENT_SUPPRESSED> , above, the investigator found that the Commission must respect the finality of the adjudicator's decision and, therefore, should not deal with the complaint.
+[23]
+The Applicant submits that, as a result, she did not receive a full determination of her human rights complaint because it was not possible in the grievance adjudication process. The Commission clearly erred in concluding that the PSLRB adjudicator had "concurrent jurisdiction to apply human rights legislation" and, by applying <FRAGMENT_SUPPRESSED> to her case, the Commission "effectively denied ... [her] access to full redress for the violation of her human rights."
+[24]
+The Applicant referred to prior decisions of this Court dealing with subsection 41(1)(d) which, similarly to <FRAGMENT_SUPPRESSED> , also held that the Commission should decline to deal with complaints if they have already been disposed of by another administrative decision maker (
+ <FRAGMENT_SUPPRESSED> ;
+English-Baker,
+above;
+Lawrence
+, above, at para 18) but submits that all of these cases are distinguishable because they involved complainants who were seeking different and better results before the Commission, which is not the case here. <FRAGMENT_SUPPRESSED> did not alter the landscape of subsection 41(1)(d) as demonstrated by the Federal Court of Appeal's decision in
+ <FRAGMENT_SUPPRESSED>  which applied
+Figiola,
+warning against forum shopping and holding that the Commission erred by hearing the complaint as it had been dismissed in a final decision in another matter.
+Respondent's Position
+[25]
+The Respondent submits that the Commission's Decision to not deal with the section 7 complaint, on the basis that the Applicant's allegations were considered by the labour adjudicator and that her complaint was fully addressed in that forum, was reasonable.
+[26]
+The Respondent notes that subsection 41(1) imposes a "screening function" on the Commission to ensure that only those complaints worthy of being investigated are dealt with. Frivolous or vexatious proceedings are barred under paragraph 41(1)(d) to "avoid wasting judicial and institutional resources and imposing unnecessary expenditure on the parties involved (
+English-Baker
+, above, at para 20). To avoid abuse of process, Parliament has given the Commission the discretion to eliminate such processes and, unless that discretion is exercised arbitrarily without reasonable grounds, the courts may not intervene (
+ <FRAGMENT_SUPPRESSED> ). The doctrine of abuse of process is triggered where allowing the litigation to proceed would violate principles such as "judicial economy, consistency, finality and the integrity of the administration of justice (
+ <FRAGMENT_SUPPRESSED> , at paras 25 and 33).
+[27]
+The Respondent submits that the Applicant's complaint of discrimination on the basis of a disability and failure to accommodate was fully addressed by the labour adjudicator. The adjudicator thoroughly reviewed the facts and issues relevant to the Applicant's complaint, undertook a discrimination analysis and assessed whether she was accommodated to the point of hardship. The Commission held that the grievance raised essentially the same allegations as those found in the section 7
+CHRA
+complaint and that the adjudication of the grievance had addressed the allegation of discrimination.
+[28]
+It would be an abuse of process for the section 7 complaint to proceed in the human rights system and be dealt with a second time, giving rise to the risk of duplicative proceedings and inconsistent findings (
+ <FRAGMENT_SUPPRESSED> , at para 33). The principles underlying the provision at issue in <FRAGMENT_SUPPRESSED> are the same in the present case. The issue is whether the substance of the Applicant's complaint has already been addressed and it has been. The remedies available in each of the procedures for redress do not have to be identical in order to oust the jurisdiction of the alternate process (
+ <FRAGMENT_SUPPRESSED> [
+Byers Transport Ltd
+]) and achieve the goals of "fairness and finality in decision-making" and "the avoidance of the relitigation of issues already decided by a decision-maker with the authority to resolve them" set out in
+ <FRAGMENT_SUPPRESSED> , at para 25.
+[29]
+The Respondent concludes that <FRAGMENT_SUPPRESSED> , above, is not distinguishable in this case as the complainant is seeking a better outcome - a better remedy - in a different forum. There is no basis to disturb the Commission's Decision under paragraph 41(1)(d) as it falls within an acceptable range of outcomes.
+Analysis
+[30]
+The adjudicator did not have jurisdiction to award remedies under the
+CHRA
+(
+ <FRAGMENT_SUPPRESSED> ) and, in that regard, the Applicant did not receive a full determination and resolution of her human rights complaint. It was therefore not reasonable for the Commission to summarily dismiss the section 7 complaint pursuant to paragraph 41(1)(d) as "trivial, frivolous, vexatious or made in bad faith."
+[31]
+As stated by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> :
+Where a party wishes to litigate issues that have previously been settled it is open to the Commission to find that the complaint is "trivial, frivolous, vexatious or made in bad faith". This is so because the relitigation of issues previously resolved or settled can constitute an abuse of process, which would permit the relitigation to be characterized as vexatious.
+[32]
+In
+ <FRAGMENT_SUPPRESSED> , the Supreme Court indicated the approach to be taken when determining whether an applicant was essentially seeking to relitigate a case in a different forum:
+[37] Relying on these underlying principles leads to the Tribunal asking itself whether there was concurrent jurisdiction to decide human rights issues; whether the previously decided legal issue was essentially the same as what is being complained of to the Tribunal; and whether there was an opportunity for the complainants or their privies to know the case to be met and have the chance to meet it, regardless of how closely the previous process procedurally mirrored the one the Tribunal prefers or uses itself. All of these questions go to determining whether the substance of a complaint has been "appropriately dealt with". At the end of the day, it is really a question of whether it makes sense to expend public and private resources on the relitigation of what is essentially the same dispute.
+[33]
+However, in applying this principle in the Section 40/41 Report (at para 40, AAR Vol I at 26), the Commission erred in finding the following:
+The complainant has also asked the Commission to deal with her complaint, because her grievance was adjudicated under the provisions of the
+Public Service Staff Relations Act,
+and the adjudicator did not have jurisdiction to award her damages for pain and suffering. However, according the recent decision  <FRAGMENT_SUPPRESSED> ,
+the Commission must respect the finality of the decisions made by other administrative decision-makers with concurrent jurisdiction to apply human rights legislation where the issues raised in the other process were essentially the same as the allegations in the complaint before the Commission. That is the case with this complaint.
+[34]
+However, the grievance adjudicator in this case did not, under the
+PSSRA,
+have concurrent jurisdiction with the Commission to apply the
+CHRA
+. In particular, he did not have the power to award damages for pain and suffering, recognized in
+Shelter Corp.
+, above as "compensation for the loss of the right to be free from discrimination and the experience of victimization." Those damages are available before the Commission under section 53 of the
+CHRA
+( <FRAGMENT_SUPPRESSED> , above, at paras 100, 102).
+[35]
+It is also of note that in
+ <FRAGMENT_SUPPRESSED>  at para 36, Abella J. wrote that in determining whether a matter had been fully, or appropriately, dealt with in another forum, the human rights body should "be guided less by precise doctrinal catechisms and more by the goals of the fairness of finality in decision-making and the avoidance of the relitigation of issues already decided by a decision-maker with the authority to resolve them...". Further, the importance of giving complainants "a chance to air their grievances before an authorized decision-maker" was noted at paragraph 49. In other words, in determining whether an issue has been fully dealt with, the Commission should look at the substance of the matter and balance fairness with protecting the finality of the previous decision. In this case, fairness suggests that the matter was not fully addressed, in the context of a remedy, because the adjudicator lacked the authority to address a part of the Applicant's claim.
+[36]
+The Respondent submits that the principles underlying the provisions at issue in <FRAGMENT_SUPPRESSED> are the same as in this case and that the issue is whether the substance of the Applicant's complaint has already been addressed. While I would agree that the principles of fairness and finality in decision making and the avoidance of unnecessary litigation of issues already decided do apply, I do not agree that the issue of jurisdiction is a "red herring". The very quote from <FRAGMENT_SUPPRESSED> referred to by the Respondent, "the avoidance of the relitigation of issues already decided by a decision-maker
+with the authority to resolve them
+" (para 36, emphasis added), belies the jurisdictional issue as, in this instance, the arbitrator lacked the authority to award damages for pain and suffering and therefore resolve that aspect of the claim. The same can be said for the Respondent's reliance on
+Byers Transport Ltd.
+, above:
+[39] [...] the complaint (i.e. the factual situation complained of) must be essentially the same in the other "procedure for redress". But I doubt that the remedies have to be as good or better under the other provision in order to oust the jurisdiction of the adjudicator under paragraph 242(3.1)(b). That paragraph does not require that the same redress be available under another provision of the Canada Labour Code or some other federal Act. What it requires is that in respect of the same complaint there be another procedure for redress. [...] I do not believe that for there to be a "procedure for redress ... elsewhere" there must be a procedure which will yield exactly the same remedies, although no doubt that procedure must be capable of producing some real redress which could be of personal benefit to the same complainant."
+[37]
+As stated in
+Boutilier
+, above, in the context of section 91 of the
+PSSRA
+:
+[23] [...] If another administrative procedure for redress is available to a grievor, that process must be used, as long as it is a "real" remedy. It need not be an equivalent or better remedy as long as it deals "meaningfully and effectively with the substance of the employee's grievance". [...] Differences in the administrative remedy, even if it is a "lesser remedy", do not change it to a non-remedy.
+[38]
+The factual complaint before both the adjudicator and the Commission was essentially the same in this case. However, this is not a situation where the remedies available under one regime or provision were comparable to those available in another. There was no authority under the
+PSRLA
+to award damages for pain and suffering or damages for engaging wilfully or recklessly in a discriminatory practice pursuant to section 53(2)(e) or 53(3) which may, if substantiated, be available to the Applicant pursuant to the
+CHRA
+. Therefore, this is not a lesser but a non-remedy situation. While the potential for relitigation is regrettable, it is limited in this case to a consideration of the availability of the section 53 remedies.
+[39]
+I would also note that the Section 40/41 Report states that in considering whether a complaint is frivolous within the meaning of the
+CHRA
+, the Commission may refer to various factors in deciding whether or not to deal with the complaint under section 41(1)(d). One of these factors is whether there are remedies available under the
+CHRA
+for the alleged acts or omissions that are the subject of the complaint. There is the potential for such a remedy in this case that was not available before the labour adjudicator.
+[40]
+For these reasons the Commission's Decision to dismiss the Applicant's section 7
+CHRA
+complaint was not reasonable.
+ISSUE 2: Was the Commission's Decision to dismiss the Applicant's section 10
+CHRA
+complaint unreasonable?
+Applicant's position
+[41]
+The Applicant submits that it was unreasonable for the Commission to have dismissed her section 10 complaint at the preliminary screening stage on the basis that it was unlikely that her complaint would lead to a practical result. It was not plain and obvious that paragraph 41(1)(d) applied to her complaint (
+Canada Post,
+above at para 3;
+ <FRAGMENT_SUPPRESSED> ;
+Michon- <FRAGMENT_SUPPRESSED> , at para 16).
+[42]
+The Commission found that after the Applicant had filed her complaint the CBSA had taken significant steps to comply with the duty to accommodate including establishing a
+Policy on the Duty to Accommodate
+(the "Policy") and conducting related training. However, it was not plain and obvious that these steps were sufficient to remedy a systemic failure to comply with the duty to accommodate or that the Applicant's allegations of systemic discrimination based on disability were remedied by steps taken in response to an unrelated complaint about discrimination based on family status. The Policy was developed in response to an order by the Canadian Human Rights Tribunal in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], related to discrimination on the ground of family status. While the Commission noted that the Policy addresses the duty to accommodate generally and not only on grounds of family status, that it approved the Policy, and, that CBSA's manager training adopted components of the training offered by the Commission, the Applicant submits that this does not conclusively demonstrate that no further systemic remedies would be required if her complaints were substantiated. Discrimination based on disability raises unique issues unlikely to be addressed by a general effort to improve accommodation procedures.
+[43]
+Further, that the Commission took an overly narrow view of her systemic allegations implying that it pertained only to a lack of understanding and support for the duty to accommodate. However, read in whole, her complaint alleges that the entire process to which she was subjected was discriminatory and in need of change. Accordingly, if proven, additional remedies would be required. Nor did the Policy address those allegations.
+[44]
+The Applicant submits that the Treasury Board already had a broad accommodation policy in place. However, as acknowledged by this Court in regard to her application for judicial review of the Commission's Decision concerning her complaint against the Treasury Board, its "failure to monitor the implementation" of that policy was the gravamen of the Applicant's complaint (
+ <FRAGMENT_SUPPRESSED> ). This Court found that the Commission erred in not considering the policy's implementation in its investigation. Further, that the Treasury Board complaint was closely related to the CBSA complaint and directed that the two complaints be investigated together if the CBSA complaint proceeded. Had this been done the Commission may have determined that combined remedies against the Treasury Board and CBSA were warranted. This underscores the unreasonableness of concluding that it was plain and obvious that the CBSA complaint would have no practical result.
+Respondent's Position
+[45]
+The Respondent submits that the Commission's Decision to not deal with the Applicant's section 10 complaint because it would have no practical effect and was frivolous within the meaning of the
+CHRA
+is not unreasonable given the comprehensive nature of the CBSA Policy and its related training efforts. The Policy is a 25-page document that outlines the CBSA's legal obligations related to the duty to accommodate and establishes a structured process for dealing with accommodation requests. As of March 2012, the Policy had been introduced to 414 CBSA managers during 38 training sessions held across Canada. Contrary to the Applicant's assertions, the Policy deals not only with discrimination and accommodation on the basis of family status but covers all prohibited grounds of discrimination, including disability.
+[46]
+In essence, the Respondent contends that the Applicant's 2004 complaint has been overtaken by subsequent events. While the complaint stated that "there is a lack of understanding of the duty to accommodate" by CBSA, a "lack of support for the implementation of the duty to accommodate," and a need for "continuous monitoring", these issues are now addressed through the Policy and CBSA managerial training sessions.
+Analysis
+[47]
+Here the investigator in the Section 40/41 Report found that although the grievance adjudicator did not consider the Applicant's section 10 complaint, even if proven it was unlikely to lead to a practical result because the Respondent had already taken significant steps to improve its compliance with the duty to accommodate. These steps included the adoption of the Policy and conducting of related training. Therefore, that aspect of the complaint was frivolous within the meaning of the
+CHRA
+as adjudication would not advance its purposes and it would not be in the public interest for the Commission to deal with it.
+[48]
+With respect to the Policy, the Section 40/41 Report indicates that:
+• In <FRAGMENT_SUPPRESSED> , above, the Canadian Human Rights Tribunal ordered CBSA to cease its discriminatory practices against employees seeking accommodation and to develop an accommodation policy in consultation with the Commission;
+• The Canadian Human Rights Tribunal examined CBSA's new Policy and was satisfied with it;
+• Although the <FRAGMENT_SUPPRESSED> case related specifically to the ground of family status, the new Policy covers all of the prohibited grounds of discrimination listed in section 3 of the
+CHRA
+;
+• Its Policy states that "The objective of this policy is to promote a work environment that is inclusive and non-discriminatory, and to ensure a consistent and coordinated approach to accommodation of its employees in accordance with
+CHRA
+";
+• The Policy defines "Duty to Accommodate" which includes the statement that "...Needs that must be accommodated to the point of undue hardship result from the following grounds: ....disability ...";
+• The Policy outlines the roles and responsibilities of employees, managers/supervisors and others including the National Coordinator, Disability and Accommodation Care Management Program. These are set out and include monitoring, evaluating and reporting on the implementation of the duty to accommodate through quarterly status reports and monitoring of requests for accommodation on an ad hoc basis to ensure the policy and procedures have been correctly applied. Further, to recommend, develop and implement communication plans and education, training and awareness sessions on the duty to accommodate; monitor quarterly reports for trends, issues and evaluate the effectiveness of the duty to accommodate program; and, review the policy on an annual basis and revise as required;
+• The Policy outlines recourse steps for employees whose accommodation requests have been denied and provides direction for monitoring and reporting including the monitoring of the application of the Policy and requiring the taking of any corrective measures required to ensure compliance;
+• As of June 16, 2011 CBSA had held 38 training sessions across the country and 414 managers had attended the training;
+• By letter of March 13, 2012 CBSA reported to the Commission that its training adopts many of the components of training offered by the Commission. Further, that training covers the prohibited grounds of discrimination, the employer's duty to accommodate, outlines the roles and responsibilities of each person in the accommodation process and identifies the steps of the accommodation process. CBSA also advised that additional training was being planned for the next year
+[49]
+The Policy is found in the record. A review of it supports the Commission's conclusion. It is also noteworthy that managers/supervisors are required, amongst other things, to consult with employees to determine the nature of the accommodation required; engage in an individualized assessment of the employee's need for accommodation and address each request on a case by case basis; take an active role in exploring and considering options/alternative approaches and solutions to accommodate the employee; and, to monitor the accommodation plan.
+[50]
+Based on this, the Commission reasonably concluded that the systemic allegation contained in the complaint, if proven, is unlikely to lead to a practical result because CBSA had already taken significant steps to improve its compliance with the duty to accommodate. The Applicant in her submissions states that the Policy did not address all of her allegations and lists other potential remedies that the Commission could order in relation to her complaint. In my view, it is not realistic to think that the Policy would encompass the level of detail proposed by the Applicant. However, if properly implemented and monitored, the Policy in practice should address those concerns or provide appropriate recourse if that is not the case.
+[51]
+I am of the view that the Commission's finding that the Applicant's section 10 allegations of systemic discrimination at the CBSA were unlikely to yield a practical result and, therefore, not to deal with her section 10 complaint, falls within an acceptable range of outcomes. The Commission's Decision was reasonable.
+[52]
+As to the Treasury Board complaint, this Court did not direct that it and the CBSA complaint be investigated and reported on together, if the latter proceeded. Rather, it directed that the Commission consider this approach. The Section 40/41 Report noted that a decision by the Commission not to deal with the CBSA complaint, which was the Decision made, would not impact the Commission's ability to investigate the complaint against the Treasury Board. The status of that investigation is unknown to the Court. However, this Court previously identified that the basis of the complaint was the Treasury Board's failure to monitor the implementation of its employment and accommodation policies. And, as the only issue that is being remitted back to the Commission based on this application for judicial review is a narrow one, being whether the Applicant is entitled to any further remedy pursuant to section 53 of the
+CHRA
+arising out of the complaint previously considered by the labour adjudicator, a joint investigation and report may now be of lesser import.
+JUDGMENT
+[53]
+THIS COURT'S JUDGMENT is that
+the judicial review is granted, in part, as follows:
+1. The Commission's Decision pursuant to subsection 41(1)(d) of the
+CHRA
+to refuse to consider the Applicant's section 7 complaint is quashed;
+2. The Commission shall consider that complaint solely for the purpose of determining if the Applicant is entitled to any further remedy that may be available to her pursuant to section 53 of the
+CHRA
+;
+3. The Commission's Decision to refuse to consider the Applicant's section 10 complaint is upheld;
+4. Given the mixed result, there shall be no order as to costs.
+Application allowed in part.
+Editor: Sharon McCartney/vnh

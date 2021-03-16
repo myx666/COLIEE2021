@@ -1,0 +1,536 @@
+[1]
+Harrington, J.
+: These three applications deal with two words not in every day use; enantiomers and racemates. The patent in issue relates to (+) citalopram which is an enantiomer of citalopram. Citalopram, the subject of a patent which expired years ago, is a racemic compound containing unresolved (+) citalopram and (-) citalopram in equal amounts. It has been found useful as an antidepressant. Lundbeck claims that (+) citalopram, which has come to be known as escitalopram, is also useful as an antidepressant.
+[2]
+The applications seek an order prohibiting the Minister from authorizing Genpharm, Apotex and Cobalt (hereinafter the respondents) from manufacturing and selling their generic versions of escitalopram until the patent expires in 2014, the whole pursuant to the
+Patented Medicine (Notice of Compliance) Regulations
+.
+[3]
+Escitalopram is covered by Canadian patent 1,339,452 which was applied for in June 1989 based on a United Kingdom priority date of June 1988. It was granted in 1997 and expires in 2014. The
+Patent
+Act
+as it was immediately prior to 1 October 1989, applies. The patent is held by H. Lundbeck A/S of Denmark. Escitalopram is sold in Canada by its Canadian subsidiary, Lundbeck Canada Inc., in virtue of a Notice of Compliance obtained from Health Canada. Lundbeck Canada Inc. also succeeded in having the patent listed in the Register maintained by the Minister pursuant to the said
+PM (NOC) Regulations
+. Subsequent references to  <FRAGMENT_SUPPRESSED>  are either to the Danish or Canadian corporation as dictated by context.
+[4]
+Unless the hurdles incorporated in the
+PM (NOC) Regulations
+are overcome, the Minister is disentitled from permitting the respondents from marketing their generic versions of escitalopram until the patent expires. These regulations have been intensely litigated and need not be analyzed in detail here. Reference is made to the decisions of the Supreme Court in
+ <FRAGMENT_SUPPRESSED> (
+Biolyse
+) and
+ <FRAGMENT_SUPPRESSED> s well as to the decision of Mr. Justice Hughes in
+ <FRAGMENT_SUPPRESSED> .
+[5]
+Not content to await the expiry of the patent, each of the three respondents served Lundbeck with a "Notice of Allegation", the upshot of each are submissions that patent '452 is invalid. Lundbeck responded by instituting these three applications for prohibition orders. The applications in effect serve as a statutory injunction for up to two years. As applicant, the overall burden of proof falls upon Lundbeck to persuade the Court that the factual and legal bases of the allegations are not justified. However since only invalidity is in issue, cognisance must be taken of the legally rebuttable presumption that the patent is valid. That presumption is a weak one, but it does behove the respondents to, at the very least, lead enough evidence to put validity in play. (
+ <FRAGMENT_SUPPRESSED>  per Mr. Justice Mosley at paragraphs 44-51)
+ISSUES
+[6]
+Ultimately, the only issue is whether or not the Minister should be prohibited from issuing a Notice of Compliance to one, some, or all of the respondents. The penultimate step in the process is to determine whether or not Lundbeck has persuaded the Court, on the balance of probabilities, that the allegations of invalidity are not justified. In some instances, but not the ones at hand, a determination that the allegations are not justified does not lead to a prohibition order. For instance, a party may be barred from obtaining such an order on the basis of abuse of process (
+ <FRAGMENT_SUPPRESSED> ).
+[7]
+All three respondents allege that the patent in issue is a selection patent chosen from a previous U.S. patent and is invalid because it falls short of the requisite criteria. Selection patents were dealt with very recently by the Supreme Court  <FRAGMENT_SUPPRESSED> - <FRAGMENT_SUPPRESSED> . I shall refer to that decision as
+Plavix
+after the compound in issue so as to distinguish it from other cases cited herein in which either Sanofi or Apotex appears in the style of cause. Lundbeck asserts that escitalopram is not a selection patent; it is a per se patent for escitalopram itself. However, should it be found that it is a selection patent then it meets all the requirements thereof. I regard this issue as fundamental. If escitalopram is an invalid selection patent, it is not necessary to deal with the other allegations of invalidity.
+[8]
+Although couched in somewhat different language, the three respondents further allege that, in any event, Lundbeck invented nothing deserving of a patent. One or more allege that escitalopram is not novel, was anticipated, was obvious, and lacks utility. Finally, more technical grounds of invalidity are asserted such as insufficiency of the specification and disclosure, overclaiming, or making irrelevant claims, lack of sound prediction, ambiguity and a lack of candour as well as wilful omissions contrary to section 53 of the
+Act
+.
+DECISION
+[9]
+Although they have not succeeded on every point, each of the respondents has, in my opinion, lead enough evidence to put validity into play. However, I have reached the conclusion that Lundbeck has established that the allegations are not justified in each of the three applications and so prohibition orders shall issue.
+NATURE OF THE PROCEEDINGS
+[10]
+It has been well-established that applications pursuant to the
+PM (NOC) Regulations
+are intended to be summary in nature and are not ultimately binding upon the parties as to validity or infringement. The parties are entitled to litigate those issues in a proper action, as well as other patent claims not covered by the
+Regulations
+such as product by process claims. Lundbeck only has to meet the allegations set out in the separate Notices of Allegation. Consequently, the result could differ from application to application. Non-infringement was not raised at all and so is not before me. These proceedings determine neither validity nor infringement.
+[11]
+The advantages of an action over an application are well known. They include: a full discovery of documents based on affidavits in which all must be disclosed, not just the documents relied upon; viva voce examination for discovery; experts are qualified as such by the Court before testifying; a trial where witnesses are heard; and the judge is able to ask clarifying questions. In applications the evidence is heard outside court by way of affidavits and cross-examinations thereon. Transcripts, by their very nature, are sterile. By way of example, in
+ <FRAGMENT_SUPPRESSED>  Mr. Justice Mosley held in the context of a
+PM (NOC)
+application that the patent was invalid for obviousness. Janssen-Ortho then took action for patent infringement and, following a full trial, succeeded before Mr. Justice Hughes (
+ <FRAGMENT_SUPPRESSED>  affd. (2007), 366 N.R. 290; 59 C.P.R.(4th) 116; 2007 FCA 217, leave to appeal refused, [2007] S.C.C.A. No. 442; 383 N.R. 397 (S.C.C.)).
+[12]
+I consider it important to emphasize the limited value of this decision because patents directed to escitalopram has been under attack in several jurisdictions.
+[13]
+At trial in the U.K., it was found that claims 1 and 3 were invalid for insufficiency because they claimed the enantiomer made by any method but the specification only disclosed two ways of making it. (
+ <FRAGMENT_SUPPRESSED> ; [2007] R.P.C. 32. However the Patents Court decision was reversed by the Court of Appeal in
+ <FRAGMENT_SUPPRESSED> ; [2008] EWCA Civ. 311. I was informed during the course of argument that the case is proceeding to the House of Lords on the insufficiency point.
+[14]
+In the United States, the American version of the patent was upheld both at trial and in appeal. I was informed that the appeal decision is final. (
+ <FRAGMENT_SUPPRESSED> . That decision is said to be under appeal.
+[16]
+However in Germany the Federal Patent Court ruled the patent was invalid on the grounds that the subject matter of the alleged invention was not novel and was not based on an inventive step. The nature of the proceedings was somewhat different from a common law trial. Witnesses were not heard and the judge was assisted by three others who had expertise in the field. That decision is also said to be under appeal.
+[17]
+Of course, none of these decisions, either in findings of fact or in conclusions of law, is binding upon me. That is not to say that the rationale of those decisions may not be persuasive.
+[18]
+In addition I was told that proceedings are pending in several other jurisdictions.
+[19]
+These are three distinct applications which, although heard consecutively, were never joined. Lundbeck's evidence is tailored somewhat to meet the different Notices of Allegation, but the affidavits of its factual and expert witnesses are essentially the same. However, these witnesses were cross-examined on three separate occasions. With the exception of Dr. Newton, called by both Genpharm and Cobalt, the respondents' witnesses are different, although much of what they have had to say is the same.
+[20]
+In each proceeding, Lundbeck obtained a protective order which had the effect of keeping much of the information in each of the applications confidential. They were kept absolutely separate and distinct until shortly before the hearings when, following a case management conference, it was agreed that counsel for the respondents could attend all three hearings without facing an in camera application. Memoranda of fact and law in all three applications were also exchanged.
+[21]
+The application records, excluding copies of case law, total more than 29,000 pages. Argument on the validity of three claims of one patent lasted thirteen days. Given that the degree of commonality greatly surpasses the distinctiveness of each application, I have decided to render one set of reasons, identifying where necessary the points in issue which were not raised by all three respondents.
+AN ORGANIC CHEMISTRY PRIMER
+[22]
+As stated at the outset, citalopram is what is known as a racemate and escitalopram is one of the two enantiomers inherent therein. The parties assure me that every undergraduate student of organic chemistry, much less the skilled addressee of a patent, knows, and at all relevant times knew, that carbon-centered molecules have a three-dimensional structure. If that carbon atom is bonded to four different atoms or groups of atoms (as is the case here), the molecule is described as having an asymmetric centre. These compounds are identical save that they exist in two space-occupying forms called "enantiomers". They are non-superimposable mirror images of one another. Such asymmetric molecules are called chiral, coming from the Greek word for hand, as a left hand and right hand are mirror images of each other and are not superimposable. When many drugs are created or synthesized, the result is an equal mixture of the two enantiomers. This mixture is called a racemic mixture or a racemate.
+[23]
+Although the racemate and its enantiomers do not differ in their chemical or physical properties (and thus may be difficult to separate or resolve), they can, as noted by Professor Jenner, a witness called by Apotex, dock within the human body in different ways with biomolecules, such as proteins, which also have three-dimensional structure.. "... The best analogy to draw is a key and lock interaction ... As a consequence they can have differing pharmacological properties ..."
+[24]
+Enantiomers are a subset of stereoisomers, which in turn are a subset of isomers. Isomers are molecules with the same chemical formula, but in which the atoms are arranged differently. Stereoisomers are isomers with the same atomic connectivity, but whose atomic arrangement in space is different. Enantiomers are stereoisomers that, as aforesaid, are mirror images of each other and not superimposable. They are molecules which have only one chiral centre and are to be distinguished from diasteromers which are stereoisomers that are not mirror images and may have more than one chiral centre. This distinction is important when it comes to separating or resolving a racemate.
+[25]
+Enantiomers are the subject of two unrelated nomenclatures. An enantiomer is capable of directing the plane of polarization of polarized light in one direction or another. If the plane is turned clockwise, to the right, the enantiomer is called (+), d or dextro-rotary. If the plane is turned counter-clockwise it is called (-), l or levo-rotary.
+[26]
+The second naming method is the Cahn-Ingold-Prelog convention which specifies absolute configuration. The substituents around the chiral centre are "sized" according to their atomic numbers. If the sequence from the largest to the smallest flows in a clockwise direction, the molecule is assigned the R or rectus designation. Otherwise it is assigned the S or sinister designation.
+[27]
+There is no relationship between the plus and minus designations and the S and R designations. Escitalopram was first described as (+) or dextro, and only later as sinister.
+[28]
+Although this information is drawn from the affidavits of Professor Stephen Davies, called by Lundbeck, and Dr. Frank Newton, called by both Genpharm and Cobalt, I have found no disagreement among the various experts as to the basic chemistry involved or that the racemate and each of its two enantiomers may work differently within the body.
+PATENT CONSTRUCTION
+[29]
+At the heart of any dispute regarding a patent is its meaning. The principles have been well-established and were clearly set forth by the Supreme Court in
+ <FRAGMENT_SUPPRESSED> . As applicable to these applications:
+a. It is a statutory requirement that the patent contain a specification and end with a claim or claims "defining distinctly and in explicit terms the subject-matter of the invention for which an exclusive privilege or property is claimed". The specification must be sufficiently full, clear, concise and exact "as to enable any person skilled in the art or science to which it pertains, or to which it is most closely connected, to make, construct, compound or use it". (
+Patent
+Act
+, pre-1 October 1989, s. 34).
+b. The patent is notionally addressed to a person skilled in the art or science of the subject-matter and is to be read as such a person would have read it when it first became public.
+c. The claims are to be read in an informed and purposive way to permit fairness and predictability and to define the limits of the monopoly.
+d. The claim portion of the patent specification takes precedence over the disclosure portion in the sense that the disclosure is read to understand what was meant by a word in the claims "... but not to enlarge or contract the scope of the claim as written and thus understood" (
+Whirlpool
+at para. 52).
+e. To overclaim is to lose everything. If the inventor underclaims, the court will not broaden the monopoly in the interests of the "spirit" thereof
+f. A patent is not an ordinary document. It meets the definition of a "regulation" in the
+Interpretation
+Act
+, and must be read to assure the attainment of its objects. "[C]laims construction is a matter of law for the judge, and he was quite entitled to adopt a construction of the claims that differed from that put forward by the parties." (
+Whirlpool
+at para. 61.)
+(See also
+ <FRAGMENT_SUPPRESSED>  at para. 15).
+[30]
+Pursuant to section 27 of the
+Patent
+Act
+, as it was prior to 1 October 1989, an inventor or legal representative thereof was entitled to obtain a patent for:
+"... an invention that was
+(a) not known or used by any other person before he invented it,
+(b) not described in any patent or in any publication printed in Canada or in any other country more than two years before presentation of the petition hereunder mentioned, and
+(c) not in public use or on sale in Canada for more than two years prior to his application in Canada."
+"... une invention qui
+a) n'était pas connue ou utilisée par une autre personne avant que lui-même l'ait faite,
+b) n'était pas décrite dans quelque brevet ou dans quelque publication imprimée au Canada ou dans tout autre pays plus de deux ans avant la présentation de la pétition ci-après mentionnée, et
+c) n'était pas en usage public ou en vente au Canada plus de deux ans avant le dépôt de sa demande au Canada"
+[31]
+An invention was defined at section 2 as meaning:
+"[...] any new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter"
+"[...] Toute réalisation, tout procédé, toute machine, fabrication ou composition de matières, ainsi que tout perfectionnement de l'un d'eux, présentant le caractère de la nouveauté et de l'utilité."
+SKILLED ADDRESSEE
+[32]
+The qualities of the person to whom a patent addressed were dealt with in
+Whirlpool
+, above. Mr. Justice Binnie, at paragraph 70, quoted Mr. Justice Dickson in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 145 at 523 quoting H.G. Fox,
+Canadian Law and Practice Relating to Letter Patent for Invention
+, 4th Ed. (Toronto: Carswell, 1969) at page 204:
+"The persons to whom the specification is addressed are 'ordinary workmen', ordinarily skilled in the art to which the invention relates and possessing the ordinary amount of knowledge incidental to that particular trade. The true interpretation of the patent is to be arrived at by a consideration of what a competent workman reading the specification at its date would have understood it to have disclosed and claimed."
+[33]
+Mr. Justice Binnie added at paragraph 71 that "'Ordinariness' will, of course, vary with the subject matter of the patent. Rocket science patents may only be comprehensible to rocket scientists."
+[34]
+Considerable detail was set out in the various affidavits as to the identity of this person, or group of persons, particularly as regards the common general knowledge prevalent at the time and the depth of the research required of such person into the prior art. This concern flows from the fact that at paragraph 70 of
+Whirlpool
+Mr. Justice Binnie also quoted from
+ <FRAGMENT_SUPPRESSED>  (C.A.) where Aldous, L.J., said at page 494:
+"The notional skilled addressee is the ordinary man who may not have the advantages that some employees of large companies may have. The information in a patent specification is addressed to such a man and must contain sufficient details for him to understand and apply the invention.
+It will only lack an inventive step if it is obvious to such a man.
+" (Emphasis added.)
+[35]
+I very much doubt that, at the time, such an addressee had the analytical tools to find, and the inclination to read and digest, every single published document pertaining to racemates and enantiomers, as does today's pharmaceutical company which, with the aid of more sophisticated computers and search engines, is driven to list an encyclopedia of prior art in its Notice of Allegation when it cannot market its product because it is on "patent hold". Dr. Newton, for one, was armed with more prior art in these applications than he was in the U.K. trial. However, nothing turns thereon as I am persuaded that the resolution of citalopram by any method was not obvious even to an addressee who was perfect in every way.
+[36]
+Suffice it to say that the patent is addressed to a team centred around a medicinal chemist who has access to and makes use of others with different skill sets such as analytical chemists and psychiatrists. It is not necessary to make a definitive finding as to the balance between the team's formal education and laboratory experience, be it in a university or at a pharmaceutical company. Theoretical knowledge of, and practical experience in, the methods of resolving racemates is essential.
+SELECTION PATENTS
+[37]
+The term "selection patent" is to be found nowhere in the current or previous
+Patent
+Act
+s
+. It is a product of English jurisprudence. In
+Du Pont de Nemours (E.I.) & Co. (Witsiepe's) Application, Re
+, [1982] F.S.R. 303 (H.L.), Lord Wilberforce stated at page 309: "... [t]he difficulty arises when disclosure is made of a group or class of substances for which some advantage is claimed, and later it is found that one or more of this group or class possesses special advantages not belonging to the rest of the group or class and not previously identified. ..."
+[38]
+Following the decision of the Supreme Court in
+Plavix
+, above, there can be no doubt that in principle such patents are valid in Canada. Mr. Justice Rothstein drew upon English jurisprudence, more particularly the decision of Mr. Justice Maugham in the leading case of
+I.G. Farbenindustrie A-G's Patents, Re
+(1930), 47 R.P.C. 289 (Ch. Div.), and stated at paragraph 9:
+"... At p. 321, he explained that in the field of chemical patents (which would of course include pharmaceutical compounds), there are often two 'sharply divided classes'. The first class of patents, which he called originating patents, are based on an originating invention, namely, the discovery of a new reaction or a new compound. The second class comprises patents based on a selection of compounds from those described in general terms and claimed in the originating patent. Maugham, J., cautioned that the selected compounds cannot have been made before, or the selection patent 'would fail for want of novelty'. But if the selected compound is 'novel' and 'possess[es] a special property of an unexpected character', the required 'inventive' step would be satisfied (p. 321). At p. 322, Maugham, J., stated that a selection patent 'does not in its nature differ from any other patent'."
+Plavix was an enantiomer specifically claimed in the original or genus patent.
+[39]
+The genus patent in
+Plavix
+only described the overall class of more than 250,000 compounds, racemates and enantiomers alike, in general terms. In order to discover Plavix's special qualities, a racemate had to be resolved. This was the inventive step as found by Mr. Justice Shore in first instance
+ <FRAGMENT_SUPPRESSED>  a finding which held sway throughout 358 N.R. 135; 59 C.P.R.(4th) 46; 2006 FCA 421.
+[40]
+Although it may seem a little peculiar, and contrary to section 34(1)(b) of the
+Act
+, that if one claims a group of compounds, it may only be necessary to give a few examples as to how a few within the group may be made, it must be kept in mind that the genus patent may literally claim millions of different compounds. In
+May & Baker Ltd. and  <FRAGMENT_SUPPRESSED> ; [1950] R.P.C. 23, not less than 97 million compounds had been claimed.
+PATENT '452
+[41]
+Patent '452 entitled "Enantiomers of Citalopram and Derivatives Thereof" states in the abstract of the disclosure that the invention relates to the two novel enantiomers of citalopram and to their use as antidepressant compounds. It is said to include pharmaceutically acceptable salts. After stating that previous attempts to resolve citalopram (which it noted had been previously disclosed in U.S. patent number 4,136,193, which was filed in January 1977) by crystallizing diastereomeric salts of citalopram had failed, it was discovered that a precursor of citalopram, a diol disclosed in U.S. patent number 4,650,884 filed in August 1985 entitled "Novel Intermediate and Method for Its Preparation" (which was also a racemic mixture) could be resolved into its enantiomers and in a stereoselective way converted to the corresponding citalopram enantiomers. Patent '452 described two reaction schemes by which the (+) enantiomer of citalopram could be obtained. Of the 11 claims only 1, 3 and 5, to the extent it is dependent on 3, are in issue. They claim:
+"- 1 -
+"A compound selected from substantially pure (+)-1-(3-Dimethylaminopropyl)-1-(4'-fluorophenyl)-1, 3-dihydroisoben-zofuran-5-carbonitrile and non-toxic acid addition salts thereof.
+. . . . .
+- 3 -
+"A pharmaceutical composition in unit dosage form useful as an antidepressant comprising a pharmaceutically-acceptable diluent or adjuvant and, as an active ingredient, an effective amount of a compound as defined in Claim 1.
+. . . . .
+- 5 -
+"A pharmaceutical composition in unit dosage form, useful as an antidepressant according to claim 3 or 4, wherein the active ingredient is present in an amount from 0.1 to 100 milligram per unit dose."
+[42]
+U.S. patents '193 and '884, or at least '193, are said to be the patents from which Canadian patent '452 was selected. Patent '193 discloses a formula which might generate a few hundred different compounds. Citalopram was specifically claimed. Neither U.S. patent makes mention of stereochemistry in general, or the enantiomers of citalopram in particular, much less claims them.
+Is escitalopram special?
+[43]
+The most favourable reading that can be given to the '452 patent, a reading some of the respondents dispute, is that escitalopram is about 1.6 times more potent than citalopram. Since it was well within the realm of possibility that more, and indeed sometimes all, of the desired biological activity of a racemate might rest within one enantiomer rather than in the other, the discovery that escitalopram may be more beneficial than citalopram is not surprising. Indeed, if all of the desired activity resided in escitalopram, it would only be twice as potent as citalopram, which is not sufficiently unexpected to serve as the basis of a selection patent (
+ <FRAGMENT_SUPPRESSED> ). Surprises arise outside this range. There is no indication that escitalopram has other desirable or surprising traits such as less toxicity or an unexpected and substantial increase in solubility, stability, handling properties, processability or in its side effects profile. Consequently, if escitalopram is a selection patent, it is invalid.
+[44]
+However, I am satisfied that escitalopram is not a selection patent. In
+Plavix
+, the Supreme Court clarified the circumstances in which a patent, selection or otherwise, may be invalided on the grounds of anticipation. In first instance, Mr. Justice Shore cited
+Free World
+, above, which approved the test for anticipation set out by Mr. Justice Hugessen in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.) at p. 297:
+"... One must, in effect, be able to look at a prior, single publication and find in it all the information which for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill.
+The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be lead to the claimed invention
+. ..." (Emphasis added by Mr. Justice Shore.)
+However, and drawing from the decision of Lord Hoffmann in
+ <FRAGMENT_SUPPRESSED> ; [2006] R.P.C. 10, Mr. Justice Rothstein held that there are two components to anticipation: prior disclosure and enablement. "... [P]rior disclosure means that the prior patent must disclose subject matter, which, if performed, would necessarily result in infringement of that patent ..." (para. 25).
+[45]
+No trial and error experimentation is permitted at the disclosure stage, but such experimentation is permitted at the enablement stage (para. 27). The decision of Mr. Justice Hugessen has now been held to only be applicable to the disclosure stage.
+[46]
+The evidence is clear that if the subject matter of either prior U.S. patent were worked, the result would be a racemate, not an enantiomer. Consequently it cannot be said that patent '452 formed part of either U.S. patent, and so the selection patent argument falls for lack of prior disclosure. ( <FRAGMENT_SUPPRESSED> .)
+[47]
+It was urged upon me that as a result of the
+Plavix
+decision, the disclosure and claim of a racemate in a prior patent is automatically a disclosure and claim of the enantiomers. That cannot be so. It is not enough to say that everyone knew there were two enantiomers within citalopram. That is no better than saying that any undergraduate student in organic chemistry could have read the formula and realized that citalopram contains a carbon atom bonded with four separate constituents. Nowhere do I see support in
+Plavix
+for the proposition that the claim of a racemate is ipso facto a claim for its two enantiomers. Considering that if one overclaims one gets nothing, and considering that one could not possibly know the exact qualities of the enantiomers, i.e. which, if either, would be useful in treating depression, I cannot construe the patent as invited by the respondents. In fact, at paragraph 19 Mr. Justice Rothstein said:
+"... Apotex implies that the current understanding of the law sets the bar for proving anticipation too high and that the acceptance of a system of genus and selection patents necessarily, or at least on the facts of this case, involves anticipation and therefore invalidity. I would reject the broader objection. ..."
+[48]
+As shall be discussed later in these reasons, the utility of escitalopram could not be determined until citalopram was resolved in sufficient quantities to allow for suitable testing. Before the results were in, all that could be said was that escitalopram might be more beneficial than citalopram, or less beneficial, or toxic, or otherwise useless. It is common ground among the experts that some enantiomers are toxic or useless. If to claim a racemate useful in the treatment of depression is to claim the same usefulness for each of the two enantiomers then in such circumstances the inventor would have overclaimed and lost everything. U.S. Patent '193 is not one which contains layer upon layer of distinct claims such that, if the claim with respect to one enantiomer fell, the claim with respect to the other might survive. Although the R-enantiomer has some activity, no evidence was led that it is useful in the treatment of depression.
+[49]
+We now turn to whether Lundbeck has established, on the balance of probabilities, that the other allegations are not justified, or that the respondents did not lead sufficient evidence to even put some of them in play.
+ANTICIPATION
+[50]
+The single document contemplated by section 27 of the
+Act
+and published not less than two years prior to the '452 application which might describe the subject matter claimed in a subsequent invention need not itself be a patent. Apart from the U.S. patents, the respondents rely on each of the two papers published by Dr. D.F. Smith in 1985 and 1986, which discuss depression and drugs that inhibit serotonin uptake. He also prepared a model and wrote "... Although effects of the individual enantiomers of citalopram have never been studied, the model predicts that the (
+R
+)-enantiomer ... is far more potent than the (
+S
+)-enantiomer as 5-HT uptake inhibitor ... Thus, the present model can be tested in determining whether these predictions are correct." The prediction was incorrect as post the '452 patent it was determined that the (S) enantiomer was by far the more potent.
+[51]
+This led, for example, Dr. McClelland, a chemist called by Apotex, to say "In these two papers Dr. Smith has clearly disclosed the two enantiomers of citalopram". This cannot be correct. It was known to the addressee of the patent, and indeed to undergraduate organic chemistry students, that within citalopram were two enantiomers. Although it might not be a surprise that one might be more potent than the other, I agree with Professor Stephen Davies, called by Lundbeck, that one would not know the qualities of the two enantiomers without separating and testing them.
+[52]
+As pointed out by Justice Lindgren of the Federal Court of Australia in <FRAGMENT_SUPPRESSED> , above, the Smith articles teach away from the invention covered by the '452 patent. The Smith articles do not disclose escitalopram as useful in the treatment of depression and are in no way enabling. Nor does the 1983 article by Waldmeier cited by Cobalt.
+OBVIOUSNESS
+[53]
+The Supreme Court's decision in
+Plavix
+has also clarified the application of <FRAGMENT_SUPPRESSED> , above, to invalidity on the grounds of obviousness. Mr. Justice Hugessen had said at page 294:
+"The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy."
+[54]
+The skilled addressee is now allowed some imagination and intuition. After reviewing developments in the United States and the United Kingdom, Mr. Justice Rothstein held at paragraph 68 that there are circumstances which permit an element of "obvious to try". He agreed with the current state of the law in the United Kingdom as summarized by Lord Hoffmann in the Court of Appeal on this same escitalopram invention (
+Generics (U.K.)
+, above). Lord Hoffmann had in turn endorsed, at paragraph 24, the state of the law expressed at trial by Mr. Justice Kitchin:
+"... The question of obviousness must be considered on the facts of each case. The court must consider the weight to be attached to any particular factor in the light of all the relevant circumstances. These may include such matters as the motive to find a solution to the problem the patent addresses, the number and extent of the possible avenues of research, the effort involved in pursuing them and the expectation of success."
+[55]
+Mr. Justice Rothstein went on to apply the four-step approach outlined in the United Kingdom in
+ <FRAGMENT_SUPPRESSED>  (C.A.) and in
+ <FRAGMENT_SUPPRESSED> . They are, as set out in <FRAGMENT_SUPPRESSED> by Jacob, L.J.:
+"... In the result I would restate the <FRAGMENT_SUPPRESSED> questions thus:
+(1)(a) Identify the notional 'person skilled in the art';
+(b) Identify the relevant common general knowledge of that person;
+(2) Identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+(3) Identify what, if any, differences exist between the matter cited as forming part of the 'state of the art' and the inventive concept of the claim or the claim as construed;
+(4) Viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention?"
+[56]
+Mr. Justice Rothstein noted that it is at this fourth step that the "obvious to try" issue will arise. At paragraphs 69 and 70 he set out four non-mandatory, non-exhaustive, factors to consider:
+a) Is it more or less self-evident that what is being tried ought to work?
+b) What is the extent, nature and amount of effort required?
+c) Is there a motive provided in the prior art to find the solution?
+d) The actual course of conduct which culminated in the making of the invention.
+[57]
+This is not to say that other factors as listed by the Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  may not be relevant as well. Apart from motivation, at paragraph 25 the Court of Appeal referred to "[t]he climate in the relevant field at the time the alleged invention was made" and as secondary factors, commercial success and meritorious awards.
+[58]
+Turning to <FRAGMENT_SUPPRESSED> , I have already identified the notional "person skilled in the art" as a team centered on a medicinal chemist, which team would also include analytical chemists.
+[59]
+The construction of the claims does not present difficulty. Claim 1 is for substantially pure escitalopram and non-toxic acid additional salts thereof. Claim 3 is a chemical composition in unit dosage form useful as an antidepressant, and claim 5, insofar as it is dependant on claim 3, is for a unit dosage form wherein the active ingredient ranges from 0.1 to 100 milligrams per unit dose. The inventors do not claim that escitalopram is better than citalopram, notwithstanding some puffery to that effect in the disclosure.
+[60]
+The difference between the prior art and the inventive concept of the invention is that, while the prior art disclosed the racemate citalopram useful as an antidepressant, it did not disclose or enable its enantiomers or even predict whether either of them would be useful as an antidepressant. The prior art did not allow the skilled addressee to "have come directly and without difficulty to the solution thought by the patent", i.e. the resolution of the racemate in sufficient quantity to permit the testing disclosed in the patent. In my view, resolution was the inventive step. Once a sufficient quantity had been obtained, the testing to allow a prediction that escitalopram was useful as an antidepressant was mundane. It was the same test used for citalopram itself.
+[61]
+The remaining question is whether viewed without knowledge of the escitalopram invention, would the differences between it and the prior art coupled with common general knowledge constitute steps obvious to the skilled addressee, or do they require a degree of invention.
+[62]
+Obviousness is assessed at the date of invention. Lundbeck asserts that escitalopram was invented 21 April 1988. The fallback position is the U.K. patent application filed 14 June 1988. Among the respondents, Apotex originally took the position that the U.K. priority date was inappropriate because of differences in the text of the U.K. and Canadian patent applications. However, during oral argument it said it would accept Lundbeck's position. In any event there is a consensus that there is no difference in the state of the art and common general knowledge between the two dates.
+EXPERT WITNESSES
+[63]
+The parties called as expert witnesses a number of chemists who offered their opinions as to how the patent would be read by its addressees, the common general knowledge, the state of prior art at the time, the motivation, if any, to resolve racemates in general and citalopram in particular and most importantly, the methods available to resolve citalopram and whether those methods would have been considered routine.
+[64]
+Lundbeck called Professor Stephen Davies and Professor Brian J. Clark. Professor Davies is the Chairman of Chemistry at the University of Oxford, has consulted with pharmaceutical companies over the years, is the founder of a private corporation specializing in asymmetrical problems, founded in 1989, and is still editor-in-chief of
+Tetrahedron Asymmetry
+, a journal which reports advances in knowledge of all aspects of stereochemistry. He professes to have an overall knowledge of racemates, the methods to resolve them and the motivating factors at the time.
+[65]
+Professor Clark is the Associate Dean for Research and Innovation in the School of Life Sciences and an academic in the School of Pharmacy at the University of Bradford, U.K. Professor Clark is particularly knowledgeable about one of the ways of resolving racemates, chiral HPLC (high pressure liquid chromatography).
+[66]
+Both Genpharm and Cobalt called Dr. Roger Newton, who worked as a medicinal chemist for Glaxo in the U.K. from 1971 to 1996, has been the CEO of a small company which designs and synthesizes specialist research based organic chemicals for the pharmaceutical industry, has consulted for other pharmaceutical companies and was the resident medicinal chemist in the Chemistry Department at the University of Cambridge from 1996 to 2005. Like Professor Davies, he has a sound overall knowledge of the subject and various methods to resolve racemates.
+[67]
+Genpharm called Professor Michael Chong, of the University of Waterloo and Director of its Guelph/Waterloo Centre for Graduate Work in Chemistry. He also offers an opinion as to methods available at the time to resolve racemates and the ease thereof.
+[68]
+Genpharm also called Dr. Roland Collicott who has spent almost his entire professional career in the U.K. in pharmaceutical research and development with specialization in chiral and polymorphic analysis and chiral separation. He has personally used chiral HPLC columns since 1982.
+[69]
+Dr. John Keana was called by Apotex. Except for a leave of absence in the late 1990s when he worked in private industry on drug discovery efforts, he is an academic and was an associate professor or professor at the University of Oregon from 1965 to 2003. He is now professor emeritus there and serves as a consultant for a number of pharmaceutical companies. He deals with methods to achieve resolution of citalopram and is of the view that such methods were routine at the time.
+[70]
+Professor Timothy Ward, called by Apotex, first worked with Professor Daniel Armstrong who developed one of the chiral HPLC columns used to resolve racemates. After working in industry for a number of years he now teaches at Millsaps College where he became the Chair of the Chemistry Department and Dean of Science. His speciality is chiral chromatography.
+[71]
+Dr. Robert McClelland was also called by Apotex. He served as a professor of chemistry at the University of Toronto for many years and is now professor emeritus. He is knowledgeable in organic and bioorganic chemistry and in the field of medicinal chemistry. He has also offered an opinion on the above-mentioned topics.
+[72]
+In addition to Dr. Newton, Cobalt called Dr. Peter Kissinger who has been a professor of analytical chemistry at Purdue for many years. His research is focused on liquid chromatography techniques. He founded a company in 1974 which manufactures instrumentation and develops software and has done contract research for pharmaceutical and biotechnology companies. He covers many of the areas dealt with by Dr. Collicott.
+[73]
+All these experts are qualified to assist the Court. I am of the impression that some, if not all, of them are overqualified. They certainly are not "ordinary workmen" ( <FRAGMENT_SUPPRESSED> , above).
+[74]
+Lundbeck was particularly aggressive in attacking the objectivity of some of the experts called by the respondents. Counsel should realize that it is difficult to assess these allegations since the experts are not even "talking heads". They are merely words on pieces of paper. Such an attack invites retaliation as happened here, none of which was at all useful to the Court. It is difficult, if not impossible, to assess such allegations based on transcripts of cross-examination. The criticism of Dr. McClelland is particularly noteworthy. It was centred on the fact that he has been called by Apotex more than 20 times in a career spanning over 30 years. The implication is that if he is not a man for all seasons, he is certainly a man for all patents. However, I was not aware that there was a limit to a number of times a witness could appear. It may well be that Apotex has come to rely upon his opinion. It may well be that there have been times when NOAs were not issued because his advice was that the patent was valid, or that Apotex's method would infringe, based on his understanding of the common general knowledge and prior art. A reading of his cross-examination in its entirety, not just in bits and pieces, shows his objectivity in this case. No adverse inference should be drawn from the fact that I have come to prefer the evidence of Professor Davies.
+[75]
+Dr. Kissinger found himself in an embarrassing situation not wholly of his own making. A good deal of his affidavit was drawn by counsel who, unbeknownst to him, liberally borrowed from an affidavit given by Dr. Collicott in the U.K. case. This is not to say that Dr. Kissinger did not personally believe in what was said in his affidavit. No doubt, the next time both Dr. Kissinger and counsel will keep in mind that expert evidence presented to the Court should be, and should be seen to be, the independent product of the expert uninfluenced as to form and content by the exigencies of litigation. The expert witness should provide independent assistance to the Court by way of objective unbiased opinion (
+ <FRAGMENT_SUPPRESSED>  citing
+ <FRAGMENT_SUPPRESSED>  point, [1995] 1 Lloyd's Rep. 455 (C.A.)).
+[76]
+Although I doubt the skilled addressee would have been quite as knowledgeable as suggested by the experts called by the respondents and would have carried out the research into prior art done by respondents almost 20 years later (or been capable of so doing), I also doubt that the addressee would have been quite as ordinary as suggested by Professors Davies and Clark. However, in the result nothing turns on this difference of opinion.
+Motivation
+[77]
+Motivation is one of the factors taken into consideration in assessing whether an alleged invention was obvious. This is one of several issues where the parties, all of them, bolted down more rabbit holes than Alice did in Wonderland. The respondents allege that there was motivation within the pharmaceutical industry at large to resolve citalopram, an allegation Lundbeck denies. Lundbeck suggests that resolution was a pet project of its Dr. Klaus Bøgesø, a co-inventor of citalopram and eventually a co-inventor of escitalopram. One would have thought, if anything, that Lundbeck would have boasted that the entire industry was trying to resolve citalopram and since it was the first to succeed the prize of the patent should go to it; and that the respondents would have argued that, had there been any interest in resolving citalopram, it would have been done routinely by any one of several methods.
+[78]
+This results-oriented approach arises from some case law. At paragraphs 57 and 58 of Plavix, Mr. Justice Rothstein refers to the decision of the U.S. Supreme Court in
+ <FRAGMENT_SUPPRESSED>  (U.S.S.C.). At page 1742 Justice Kennedy said:
+"... When there is a design need or market pressure to solve a problem and there are a finite number of identified, predictable solutions, a person of ordinary skill has good reason to pursue the known options within his or her technical grasp. If this leads to the anticipated success, it is likely the product not of innovation but of ordinary skill and common sense ..."
+However Mr. Justice Rothstein also quoted that part of Justice Kennedy's reasons in which he opined that previous U.S. case law "set forth a broad inquiry and invited courts, where appropriate, to look at any
+secondary
+considerations that would be instructive." (My Emphasis.)
+[79]
+Motivation does not prove instructive in this case. The experts rely upon papers from the U.S. Food and Drug Administration, the first in 1987, and the other in 1992, as well as Japanese and European commentaries which indicated an interest by regulatory bodies in knowing the qualities of enantiomers within racemates. The evidence with respect to the 1987 FDA paper is appallingly thin. Experts retained by the respondents only appear to refer to it because it was in the list of prior art cited by the respondents. Indeed, the copy filed in court appears to have come out of a course given in 1994, which lends itself to the possibility that prior thereto it was only an unpublished internal document. In any event, no regulatory body made it "de rigueur" that marketing approvals were contingent upon disclosing details of the enantiomers, notwithstanding the oft-cited drug thalidomide which was said to be marketed as a racemate, one enantiomer of which it was useful in dealing with morning sickness while the other led to terrible birth defects. However even on this point the evidence is really anecdotal. Professor Davies considers the problem may have been that the good enantiomer spontaneously converted back to the racemate.
+[80]
+There is evidence that some drugs in citalopram category were marketed as racemates and others as enantiomers.
+[81]
+Apotex went so far as to allege, without any foundation whatsoever, that the U.S. and Japanese authorities had required Lundbeck to provide evidence with respect to the enantiomers of citalopram, an allegation successfully refuted by Lundbeck's Director, Corporation Patents and Trade-marks, John Meidahl Petersen.
+[82]
+On the other hand, Lundbeck is downplaying its interest in resolving citalopram. Not only had Dr. Bøgesø involved other scientists from Lundbeck, one in turn who engaged an outside laboratory, but internal papers publicly disclosed at the Australian trial, which considered that escitalopram would extend the monopoly granted by the citalopram patent, led Cobalt, in particular, to submit that Lundbeck was less than forthright. However, as said earlier an application does not require a full disclosure of documents. No one sought an order for further production as allowed by Rule 313.
+[83]
+There is also evidence from Dr. Newton in the Genpharm and Cobalt applications that pharmaceutical companies were not particularly interested in resolving racemates which were covered by a patent issued to a competitor. There was no bonhomie about this. Not only would the patentee likely have a head start on resolving the racemate, but at best one would end up in cross-licensing agreements. If a competitor produced escitalopram, it probably could not use it because it infringed the citalopram patent. On the other hand, Lundbeck could not use escitalopram. Research and development may well have been directed to other molecules as suggested by Professor Davies. Suffice it to say that I do not consider the evidence respecting motivation helpful in considering whether the invention of escitalopram was obvious.
+Resolution of Citalopram
+[84]
+Although Professor Davies suggests that there were 13 ways to resolve racemates at the time, some better known than others, the focus of all the chemists has been more restrictive. What could be resolved and by what method? In addition to the resolution of citalopram itself, the process could begin with a precursor, such as a diol, covalent bond formation or modification of the molecule. Then one of two methods would be applied: the long-standing "classical" method of fractional crystallization or chiral HPLC.
+[85]
+As explained by Dr. McClelland, the classic method takes advantage of the difference between enantiomers and diastereomers and goes back to Pasteur. Since the two enantiomers have identical physical properties, separation based on standard techniques will not work. Consequently, the racemate is reacted with a second substance that is also capable of existing as a pair of enantiomers. However, only one of the enantiomers of the second substance is employed. This is the resolving agent. The product of this reaction is a 50/50 mixture of stereoisomers. Since they have different physical properties, they can then be separated based on such differences as solubility, boiling points or retention times on a chromatography column. Once these diastereomers are separated the resolving agent is removed or cleaved. The oldest method of separating the enantiomers of a racemic amine, such as citalopram, is to form diastereomeric salts which are then separated by fractional crystallization. Because of a difference in solubility, one salt crystallizes out leaving the other in solution.
+[86]
+The '452 patent states that previous attempts to crystallize diastereomeric salts of citalopram enantiomers had failed. Certainly, efforts by Lundbeck had failed and there is no evidence that anyone else had even tried to resolve citalopram by any method. Success was achieved not by using citalopram, but rather by using one of its precursors or intermediates, the diol, which was disclosed in U.S. patent '854. Diols are molecules containing two distinct hydroxyl (OH) groups. The citalopram diol is also a racemate. The diol was resolved into its enantiomers. Each enantiomer was then subjected to a reaction known as cyclization to form an enantiomer of citalopram.
+[87]
+Two routes or reaction schemes were provided, both of which involved the resolution of the citalopram diol, or an ester thereof, followed by conversion of the resolved molecule to the (+) enantiomer of citalopram using specific reagents and conditions. Scheme 1 involved reacting the diol with either the (+) or (-) form of an agent called Mosher's acid chloride to form diastereomeric esters on the primary alcohol which could be separated by non-chiral HPLC followed by low temperature ring closure using a strong base. Scheme 2 provided two methods. Having made diastereomeric salts of the racemic diol, the ring closure involves the further step of making a labile ester with the primary alcohol, followed by low temperature selective ring closure using a weak base.
+[88]
+The other resolution method cited by the experts was chiral HPLC. As explained by Dr. Kissinger, chromatography refers to a collection of techniques used to separate compounds based on different rates of migration. The mixture to be separated is first dissolved into a liquid mobile phase and then passed over an absorbent stationary phase that has been packed into a column. Around 1970 smaller diameter stationary phase particles were developed. They required higher pressure in order to percolate the mobile phase through the stationary phase bed. HPLC thus requires the use of high pressure pumping systems, injection valves, columns that can withstand high pressure and detectors to monitor the effluent from the column. However, these non-chiral phases cannot distinguish between enantiomers. The chiral stationary phase contains small molecules or a polymer-capable chiral recognition. The enantiomers are separated through stereoselective retention as one enantiomer may interact more strongly with the chiral stationary phase and is thus retained for a longer period.
+[89]
+However, both with fractional crystallization/diastereomeric salts and chiral HPLCs, the devil is in the detail.
+WHAT LUNDBECK DID
+[90]
+Lundbeck's evidence is found in the affidavits of Dr. Klaus Bøgesø and Mr. Klaus Gundertofte and the cross-examinations thereon. Lundbeck was criticized for not providing affidavit evidence from the other co-inventor of escitalopram, Dr. Perregaard, who is now in retirement, and from the fact that certain failed experiments referred to in the affidavits were not fully documented. However, the evidence was sufficient, in my view, to overcome the allegations of invalidity. There is no reason to doubt what had transpired. This is not a test in record keeping.
+[91]
+The story began in 1971. Lundbeck had a number of projects in hand with a view to producing pharmaceuticals effective in treating depression. One project involved compounds which might have selective serotonin reuptake inhibition activity. Some 60 compounds were synthesized. One of these, first made in 1972, was what became known as citalopram.
+[92]
+In 1980, Dr. Bøgesø began his attempt to resolve citalopram directly by using chiral acids and then to crystallize one of the diastereomeric salts out of solution (as broadly described by Dr. McClelland). His attempts using various resolving agents were not successful. Another unsuccessful technique used to induce crystallization was to modify the molar ratio of the acid being used as a resolving agent.
+[93]
+In addition, solutions and oils of the reactions were left standing either at ambient temperature or in a refrigerator or freezer for long periods, anti-solvents were used, solvents were evaporated and so on, as detailed in his affidavit.
+[94]
+Come late 1983, he attended a course run by one of the leading lights in the resolution of racemates, Professor Collet. The course brought to his attention a new resolving agent, bis naphthyl phosphoric acid, which, unlike the general rule for resolving agents, did not contain a chiral carbon. As BNPPA was not commercially available, he personally synthesized it but was again unsuccessful in his resolution efforts. He studied the literature, including a book edited by one Newman which gave hundreds of examples of successful resolutions, as drawn from scientific papers.
+[95]
+Attention was then shifted to citalopram derivatives and to conversion of those derivatives into the single enantiomers of citalopram once they had been resolved. One idea was to alter the shape and functionality of the molecule. Within Lundbeck there were discussions of resolving the diol. They were concerned that the result would be a racemate.
+[96]
+By the fall of 1986, Dr. Bøgesø had a strategy of shortening the distance between the salt forming group and the chiral carbon. Utilization of this bromo/carboxylic acid derivative was ultimately unsuccessful, as were other strategies.
+[97]
+Finally come the end of 1987, Drs. Bøgesø and Perregaard took another look at the diol route. Dr. Perregaard experimented and succeeded in making an ester of the diol by using Mosher's acid chloride. This was an unusual choice as Mosher's acid chloride was not known and used as a chiral agent, but rather as an analytical reagent for NMR analysis. When the formula for citalopram and its enantiomers is set out as a diagram one can see that one of the bonds attached to the carbon centre is in pentagon form. However, in the diol one of the five sides is open. The reaction mixture had to be kept cold and there would be difficulty in isolating the ester long enough to get it to a non-chiral HPLC column for resolution. If the ring closure occurred before separation, the result would be citalopram, not an enantiomer. The team succeeded in obtaining a small yield of the diol-ester which was resolved by non-chiral HPLC. Further purifications were carried out by a "peak shaving" technique which resulted in enantiomerically pure diol-ester isomers. Dr. Perregaard then carried out the ring closure mechanism on the diol-ester with a strong base. This is scheme 1 described in the patent.
+[98]
+This ring closure reaction also provided another way to make citalopram. Further work to resolve the diastereomeric salts of the diol was carried out. Crystals and the salt of the (-) enantiomer of the diol were formed. Thereafter, using the same ring closure mechanism they were converted via an ester to the (+) enantiomer of citalopram. This is reaction scheme 2.
+[99]
+Apart from fractional crystallization of citalopram or a derivative, Lundbeck also attempted to resolve citalopram using chiral HPLC. There were many types of columns available in this rapidly advancing field. Klaus Gundertofte, another chemist, who had experience with HPLC, tried unsuccessfully to resolve citalopram using a number of chiral HPLC columns. Mr. Gundertofte joined Lundbeck in 1982. At that time he had a master's degree in chemistry and biology. His thesis had included the use of high performance liquid chromatography. He developed considerable experience in the HPLC lab, separating many hundreds of mixtures. Apart from the choice of the column, there are other parameters such as the choice of solvents, temperature, flow rate, pressure, PH, and the stationary phase. His experience was such that, following a presentation at the Technical University of Denmark, he prepared a paper published in
+Dansk Kemi
+(Danish Chemistry) which discusses the theoretical and practical considerations involved in using HPLC.
+[100]
+He endeavoured to resolve citalopram with a number of different analytical columns. An analytical column will allow one to analyze which compounds and impurities are present in a given reaction mixture but, unlike a preparative HPLC, cannot be used to obtain much of the desired compound.
+[101]
+By 1988 there were more than 30 chiral columns on the market, but it has been generally accepted that they fell into five basic types. Mr. Gundertofte used four. In addition, in or around 1987, he retained the Royal Danish School of Pharmacy which had a microcrystalline cellulose triacetate chiral HPLC column. Lundbeck did not have access to such a column at that time as it was not commercially available. The University reported back that they were unable to achieve separation of citalopram.
+[102]
+To take the example set out by Mr. Justice Rothstein in paragraph 71 of
+Plavix
+, the inventors and their team did not reach "... the invention quickly, easily, directly and relatively inexpensively, in light of the prior art and common general knowledge, that may be evidence supporting a finding of obviousness ..." Genpharm suggests that Lundbeck was a victim of its earlier success with citalopram, that Dr. Bøgesø had built-in biases because of that experience and so did not have an open mind, since it was obvious that attention should have been focused on the diol. On the other hand, Apotex suggests that the Lundbeck scientists were not sufficiently competent. I am satisfied that the evidence of Dr. Bøgesø, and Mr. Gundertofte, as well as the experts called by Lundbeck refute these suggestions.
+[103]
+Even if it were obvious to try to resolve citalopram, or a diol thereof, it was certainly not self-evident that what was being tried ought to work. In commenting on this approach as enunciated in
+Plavix
+Mr. Justice Marc Noël recently noted that: "... According to this test, an invention is not made obvious because the prior art would have alerted the person skilled in the art to the possibility that something might be worth trying. The invention must be more or less self-evident. ..." (
+ <FRAGMENT_SUPPRESSED> ). In fractional crystallization, the logical starting point was citalopram itself. If that failed, one might then try to resolve other molecules such as the diol. The experts retained by the respondents did not sufficiently divorce themselves from the knowledge they had of the alleged invention as claimed. Why select the diol disclosed in the '884 patent rather than the five precursors disclosed in the '183 patent? Without going into the chemistry, which was intensely debated, the closure of the diol ring and its timing was a crucial process which led to discussions of SN1 and SN2 reactions. Furthermore, there was an almost infinite combination of reagents and conditions to draw from.
+[104]
+Although spoken of anticipation by publication, the following passage taken from Mr. Justice Binnie's speech in
+Free World Trust
+, above, at paragraph 25 is à propos: "... It takes little ingenuity to assemble a dossier of prior art with the benefit of 20-20 hindsight ..."
+[105]
+Since this is a per se patent claiming escitalopram howsoever made, had it been obvious to resolve citalopram, directly or indirectly, with the aid of a chiral HPLC column, the patent would be invalid. As aforesaid, there were more than 30 commercial models available, falling into five broad groups. Again, the parameters were almost endless: the choice of column, mobile phase, stationary phase, pressure, temperature and so on. Lundbeck carried out or commissioned efforts using five different columns. The criticism that they would have been successful had they not stopped these efforts in 1987 and instead continued through into 1988, is simply not warranted.
+[106]
+All the chemists called by the respondents are naturally and properly imbued with a sense of professional pride. Had they been asked prior to June 1988 to resolve citalopram they believe they could have done so without difficulty, or at least properly instructed lab technicians how to do so. The fact of the matter is that not one of them had ever attempted to resolve citalopram, and it is now a fairly straightforward task.
+[107]
+These experts have not successfully shed their 20 years of after-acquired knowledge and returned to the days of their relative youth. Although the poem describes a judge, judges and chemists have sufficient common bonds to bring into play what Whittier said in
+Maud Muller
+:
+...
+"God pity them both! and pity us all,
+Who vainly the dreams of youth recall;
+For of all sad words of tongue or pen,
+The saddest are these: 'It might have been!'"
+[108]
+It might have been that the experts could have resolved citalopram. I think not, unless they were inventive.
+[109]
+The experts called by the respondents would have one believe that systematic routine work based either on fractional crystallization or chiral HPLC would have been successful. The fact of the matter is that some racemates were easy to resolve at the time while others were extremely difficult, if not impossible. Certainly Dr. Newton acknowledged this. Overall, I prefer the evidence of Professors Davies and Clark on the difficulties involved. My comments with respect to Professor Davies are scattered throughout these reasons.
+[110]
+There is no basis for believing that as part of routine testing, Mosher's acid, which had been known as a shift reagent, would be used in a preparative solution and would play a major role in the ring closure reaction. This was not of the common general knowledge or of the prior art. Although spoken in the context of a process claim in
+ <FRAGMENT_SUPPRESSED> , President Thorson stated at page 152:
+"... [W]hen a process consists in the application of a known method to known materials but it has not previously been applied to them and the use of the process results in the production of a substance that is not only new but also valuable for its unobvious useful qualities, the process by which such substance is produced is patentable."
+In dismissing the appeal, Mr. Justice Martland added at [1959] S.C.R. 378, page 383:
+"... The method may be known and the materials may be known, but the idea of making the application of the one to the other to produce a new and useful compound may be new, and in this case I think it was."
+[111]
+Professor Clark dealt with chiral HPLC, which was not the resolution method disclosed in the patent. I have found his analysis of the difficulties involved to be well balanced. In particular, he was careful to distinguish what was known and available in 1988 as compared to later developments, with new generations of columns, with better packing material which improved resolution capacity and preparative scales. These improvements, he explained, allowed for the separation of sufficient quantities of material to allow for biological testing and not simply detection.
+Rochat
+[112]
+Post-1988, reference has also been made to two papers by Rochat published in 1995, lab experiments commissioned by Lundbeck in 2002, a paper by Elati et al., in 2007 and Apotex commissioned a Dr. Kellogg to attempt to resolve citalopram in 2007. These papers and work cannot be considered prior art. The respondents assert however that these are examples of what could also have been done in 1988. Rochat did achieve some separation of citalopram in 1995 using an analytical HPLC column. However, there are three reasons Rochat cannot be relied upon. The first is that an analytical column at best will give very little of the desired product. To get a sufficient quantity to carry out tests one would have had to use the column some 40,000 times and would lose resolution. The second is that there is no evidence that the type of column used by Rochat was available in 1988. It is clear that even small changes could make a huge difference in resolution. The third is that Rochat did not get substantially pure citalopram, although that might have been overcome, but one would literally end up with a pool of solvent in order to obtain a few milligrams.
+[113]
+Certainly, basing oneself on Rochat, the experimentation would have been prolonged and arduous and not considered routine.
+Rhodia ChiRex Inc.
+[114]
+In 2002, Lundbeck retained Rhodia ChiRex Inc. to resolve citalopram and its diol precursors. They purchased 77 different resolving agents all told and tested the respective racemates to promote diastereomeric salt formations in the hope of finding something that would give resolution in a chiral HPLC analysis. There was no real success which lead to their conclusion that resolution was only possible on diol precursors. The study was only a screening. Optimization of the best candidates identified would thereafter be necessary.
+[115]
+Needless to say the respondents did not take kindly to this study. It is interesting that one of the resolving agents used was later used by Elati. Dr. Chong, for one, also notes that the study only used ethanol and acetone as solvents. He said: "... I would have expected a person skilled in the art who wished to achieve success in directly resolving citalopram to not limit themselves to two solvents, but rather conduct a routine and methodical solvent screen on the salts which formed crystals ..." If anything, this proves the point that there were a myriad of possibilities and that the use of Mosher acid had been fortuitous.
+Elati
+[116]
+In January 2007, Elati and others published an article in
+Organic Process Research & Development
+which disclosed successful resolution of citalopram using di-p-toluoyltartaric acid. This article is relied upon by the respondents as this acid was available in 1988. Lundbeck moved for leave to file additional evidence in the
+Genpharm
+and <FRAGMENT_SUPPRESSED> cases but was unsuccessful before Prothonotary Morneau, on appeal to the Federal Court, and in the case of Apotex on appeal to the Court of Appeal. The basis of Prothonotary Morneau's decisions was that, save in special circumstances, these matters should be left to the judge who hears the case on the merits.
+[117]
+Shortly before the hearing on the merits, Lundbeck brought on further motions in all three cases in an effort to bring to my attention the fact that subsequent articles in the same journal challenged Elati's findings and that Elati himself had admitted an error. These motions were strongly opposed.
+[118]
+In my opinion it would be open to me to allow further evidence, particularly since Elati's partial admission, was very recent. Indeed, in
+Kent Trade and  <FRAGMENT_SUPPRESSED>  the Federal Court of Appeal allowed new expert evidence in appeal. However, in this case the motions are moot because I give no weight whatsoever to the Elati article. Reply evidence would not assist the Court (
+ <FRAGMENT_SUPPRESSED> ).
+[119]
+The article lists various ways to resolve racemates. There is no reference whatsoever to any article published before 1990 and Elati even claims a patent on his process. Assertions by experts called by the respondents that this could have been done in 1988 are simply that: assertions. It is certainly not plain and obvious that such a step would have been taken or that the Elati process would have been used. Even on the basis that the particular solvent was available in 1988, it was simply one of a great number and no cogent evidence was advanced as to why it would have been obvious to use it in 1988, rather than one of the many others. In any event, there were flaws in the Elati article as admitted by Drs. Newton and McClelland.
+DR. RICHARD KELLOGG
+[120]
+Dr. Richard Kellogg was retained by solicitors for Apotex (not the solicitors of record) and given a mandate to resolve citalopram. However, he was called as a factual witness. The report prepared by his laboratory in the Netherlands reports the resolution of a diol precursor of citalopram with a resolving agent called phencyphos as well as separation of citalopram by a chiral HPLC column namely, a chiralcelOD-H column. Dr. Kellogg's report was issued after Apotex's Notice of Allegation and so is neither referred to in the text of the allegation nor in the literature cited. Apotex had alleged that "testing results have confirmed that separation of citalopram using conventional techniques (as described herein) available prior to June 13, 1987 results in substantially pure (+) citalopram."
+[121]
+Lundbeck moved to have Dr. Kellogg's affidavit struck as well as those portions of the affidavits of others who referred to them or, in the alternative, to be given leave to file reply evidence. Their motion was dismissed by Prothonotary Morneau but on appeal I struck the affidavit in its entirety and those portions of the other affidavits which referred to the lab report. In turn, the Court of Appeal reinstated Prothonotary Morneau's decision which left the matter to the applications judge which, as it turns out, is me. One of the rationales for taking a cautious approach to interlocutory motions in applications is that these matters may be successfully resolved by cross-examination and, in any event the applications judge, after hearing the entire case, is in a better position to consider relevance and to render a ruling.
+[122]
+Apparently, Dr. Kellogg's aim was to carry out his experiments as if he were back in 1988. This is a very difficult task. His report falls short of the mark and does not make it more or less self-evident that resolution ought to have worked in 1988. I consider it unfortunate that Dr. Kellogg was put forth as a factual rather than an expert witness given that he and his company have done this type of work. This limited cross-examination.
+[123]
+The mandate Dr. Kellogg was given in late 2006 was to resolve the citalopram diol. Immediately one realizes that a number of other possible starting points had been eliminated. Although phencyphos was in existence prior to 1988, the only relevant paper published, that of Wolter ten Hoeve and Hans Wynberg, does not identify it as a likely candidate. There is no explanation as to why phencyphos was selected. In cross-examination, Dr. McClelland admitted that he had not used phencyphos prior to 1988 and that it was not commercially available from the most important supplier of such compounds before 1995. With respect to the chiral HPLC column resolution, the column used, a chiralcel OD-H, came on the market after 2000. It has smaller particle sizes which, as admitted by Dr. Ward, have a direct impact on its resolution capacity. Dr. Kellogg did not successfully recreate what would have happened in 1988.
+[124]
+To conclude on this point, the resolution of citalopram was not obvious. It was not more or less self-evident that resolution ought to work. There were almost an infinite number of parameters known to persons skilled in the art. The only trials carried out up to 1988 were by Lundbeck. They certainly were not routine. They were prolonged and arduous. They succeeded in inventing escitalopram.
+ANTICIPATION BY PRIOR USE
+[125]
+In addition to anticipation by prior publication, all the respondents alleged in their NOAs that escitalopram had been previously used. The theory is that the body resolves citalopram into its two enantiomers on its own. Neither Cobalt nor Apotex pursued this allegation. As Professor Jenner stated at paragraph 23 of his affidavit for Apotex: "... The enantiomers do not physically separate when ingested but interact with molecules in the body in different lock and key ways ...". However this evidence does not form part of the Genpharm application.
+[126]
+Dr. Newton, speaking as a witness called by Genpharm, was of the opinion that when a racemic drug, such as citalopram, is ingested, the two enantiomers exist as two separate compounds in solution. They react with receptors within the body at different rates. It is only the biologically active enantiomer that binds to the receptor to produce a drug receptor complex and a biological response. The inactive enantiomer, R-citalopram, has little or no affinity for the receptor and does not bind to it.
+[127]
+The legal inspiration for this hypothesis is the decision of the House of Lords in
+ <FRAGMENT_SUPPRESSED> ; [1996] UKHL 14; 189 N.R. 364 (H.L.). In that case, Merrell Dow had obtained a patent for terfenadine, an anti-histamine. Following the expiry of the patent, other companies began to make and market their generic versions. However, Merrell Dow discovered that when the drug passed through the stomach it was metabolised in the liver. They analyzed the chemical composition of the acid metabolite formed in the liver, patented it and then alleged that the generic versions of terfenadine infringed.
+[128]
+In essence, knowledge of the acid metabolite was held to have been available to the public by means of the terfenadine specification under the description "a part of the chemical reaction in the human body produced by the ingestion of terfenadine and having an anti-histamine effect." Technically it was held that this was anticipation by disclosure, not anticipation by use.
+[129]
+The evidence in this case is not evidence at all; it is outright conjecture. The precise configuration of the receptors within the body is not known, and there is no reason to believe that the R-enantiomer is completely inactive. The tests disclosed in the '452 patent suggest there is some activity within the R-enantiomer, albeit even though it is some 60 to 130 times less potent than escitalopram. Furthermore, Rochat obtained his partially resolved citalopram by drawing human blood samples which suggests that the body does not resolve citalopram into substantially pure escitalopram and R-citalopram. The distinction between conjecture and inference is most important.
+Minister of Employment and  <FRAGMENT_SUPPRESSED>  (F.C.A.) at paragraphs 34 and 35, Mr. Justice MacGuigan wrote:
+"The common law has long recognized the difference between reasonable inference and pure conjecture. Lord Macmillan put the distinction this way in
+ <FRAGMENT_SUPPRESSED> , at 45, 144 L.T. 194, at 202, (H.L.):
+'The dividing line between conjecture and inference is often a very difficult one to draw. A conjecture may be plausible but it is of no legal value, for its essence is that it is a mere guess. An inference in the legal sense, on the other hand, is a deduction from the evidence, and if it is a reasonable deduction it may have the validity of legal proof ...'"
+AMBIGUITY
+[130]
+The
+Patent
+Act
+requires the specification to correctly and fully describe the invention. However it must be read by a mind willing to understand, not a nit-picking mind, and should not be defeated on a mere technicality. It has been alleged that the patent is ambiguous because claim 1 is directed to substantially pure (+) citalopram, a term not defined. However there is no ambiguity. The examples given show purity in excess of 99% and Professor Davies was of the view that "substantially pure" would mean at least 95% as a standard method for measuring purity can only reliably detect impurities if they are present at a level of 5%. Likewise, a proper reading of the patent indicates "substantially pure" refers to optical purity. This lack of definition did not bother Justices Mosley and Hughes in the
+Janssen-Ortho
+cases cited at paragraph 11 of these reasons.
+[131]
+Apotex makes the point that different solvents may rotate light in a different way so that the (+) and (-) designations are ambiguous. I find no merit in this allegation as the solvents were fully described.
+[132]
+As Mr. Justice Hughes noted in
+ <FRAGMENT_SUPPRESSED> ; 46 C.P.R.(4th) 244 at paragraphs 49-53, "... ambiguity is truly a last resort, rarely, if ever, to be used.". I hold that patent is not invalid for ambiguity.
+OTHER ALLEGATIONS OF INVALIDITY
+[133]
+The usefulness of an invention need not be demonstrated in the patent. A sound prediction will suffice. As noted by the Supreme Court  <FRAGMENT_SUPPRESSED>  Inc. and  <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 499, sound prediction is dependent upon a factual basis, the inventor must have an articulate and sound line of reasoning from which the desired result can be inferred from that factual basis and there must be proper disclosure. One must carefully consider what the inventor promised. As noted above, the inventor did not promise that escitalopram was better than citalopram as an antidepressant, although there are now indications that it is indeed the case. Although there is no evidence that escitalopram had been tested on humans that is not a condition precedent to obtaining a patent, as opposed to obtaining food and drug administration approvals. The testing disclosed was on rodents, the same testing which had been done on citalopram. Since citalopram was a useful antidepressant and escitalopram was more potent with no indication of adverse side effects, it follows that the prediction was a sound one. This allegation, particularly pursued by Apotex, fails.
+[134]
+Usefulness was promised, usefulness was predicted and usefulness was delivered. Only a scintilla of utility was required (
+ <FRAGMENT_SUPPRESSED>  as per Madam Justice Snider at paragraph 270, quoting the edition of Fox referred to at paragraph 32 hereof, at page 153).
+[135]
+A failure to define the way an invention is produced or built would invalidate a patent on the grounds of insufficiency (
+ <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 223; 25 C.P.R.(3d) 257). A patent is sufficient as long as the patentee describes what the invention is, its usefulness and describes how a person skilled in the art could put it into practice by producing it (
+ <FRAGMENT_SUPPRESSED> ). Apotex submitted that the '452 patent is invalid because it discloses that escitalopram might be useful in the treatment of obesity and alcoholism, but provides no particulars thereof. However, the patent makes no promise or claim in this regard and so supporting data was not required. The claim portion of the patent specification takes precedence over the disclosure portion.
+[136]
+Likewise, Apotex also submits that the '452 patent is invalid because even if it established that escitalopram is useful as an anti-depressant, it did not do so with respect to R-citalopram. Indeed, the disclosure begins "the present invention relates to the two novel enantiomers of [citalopram]." Again, in the claim portion of the specification no promise whatsoever was made that R-citalopram was useful as an anti-depressant. Maybe it is. Maybe it is not. However, the patent cannot fall because of something which was not claimed. At most, the patent disclosed R-citalopram and so it would be much too late for anyone to now seek patent protection.
+[137]
+Cobalt alleges inutility because of the wide dosage range in claim 5 of 0.1 to 100 milligrams, especially when compared to a narrower range in the citalopram patent, citalopram being less potent. This, surely, is a lawyer's point. Cobalt has not put in play any evidence that at the lower extremities the unit dosage would not be useful.
+[138]
+I said earlier that only claims 1, 3 and that portion of 5 dependent on 3 are at issue. In its NOA, Apotex said that claim 2, including claims 4 and 5 as dependent thereon, are irrelevant. However, in its argument it submitted that all of claims 1 through 5 were invalid. Claim 2, 4 and 5 read:
+"- 2 -
+"A compound of Claim 1 being the pamoic acid salt of (+)-1-(3-dimethylaminopropyl)-1-(4'-fluorophenyl-1, 3-dihydro-isobenzofuran-5-carbonitrile.
+- 4 -
+"A pharmaceutical composition in unit dosage form useful as an antidepressant comprising a pharmaceutically-acceptable diluent or adjuvant and, as an active ingredient, an effective amount of the compound of claim 2.
+- 5 -
+"A pharmaceutical composition in unit dosage form, useful as an antidepressant according to claim 3 or 4, wherein the active ingredient is present in an amount from 0.1 to 100 milligram per unit dose."
+[139]
+Apotex alleges that the pamoic acid addition salt of escitalopram is toxic. The basis of this allegation is a Lundbeck patent application in 2004 which refers to the free base of escitalopram as an oil, not as salt. Pamoic salt or pamoate salts were commercially approved in 1988 (McClelland, cross-examination at pp. 200-205). In any event, claim 1 only covers escitalopram and non-toxic additional salts thereof and does not include pamoic salt. In
+ <FRAGMENT_SUPPRESSED> , it was held that the knowledge the skilled addressee is expected to possess is to be taken into consideration in construing a patent. To such an addressee it is obvious that one is not to devise a compound with ingredients that are toxic.
+[140]
+That rationale also applies to the allegation that some of the salts may not be useful. The characteristics of unsuitable salts would be avoided by application of the knowledge expected of the skilled addressee. Thus the allegations as they may pertain to claims 2, 4 and 5 are not justified.
+[141]
+Apotex and Cobalt assert the specification is insufficient since the resolution methods disclosed were not economically and environmentally feasible for industry production. Apart from lack of evidence, the argument is irrelevant as commercial utility was not promised and was not required. The question is whether the invention works and does what the specification promises it will do: act as an antidepressant.
+[142]
+Dr. Keana found so much linguistic imperfection in the patent that it could not be understood. For instance, there was a reference to a compound 20 which, on cross-examination, he had to concede to be a clerical error and had to refer to escitalopram. As well, there was failure to mention a phenol, but it was impossible to work the invention without it. Dr. McClelland, also called by Apotex, had no problem understanding the invention.
+[143]
+Genpharm criticized the patent for not providing margins of error, for stating that most of the activity resided in escitalopram rather than R-citalopram without giving sufficient particulars and for setting out test results which had to be a compilation drawn from more than one test. The test results nevertheless gave sufficient detail. Even allowing for a margin of error, the worst possible situation was that escitalopram was only nearly sixty times as potent as R-citalopram. The point was that escitalopram was far more potent and every chemist called by the respondents assumed that one enantiomer would be more potent than the other.
+[144]
+The respondents allege that the claims are broader than the invention made. For instance, Cobalt alleges that if there is any invention, it should be limited to the specific resolution methods disclosed in the '452 patent and that escitalopram cannot be claimed regardless of how it is made. This point is going to the House of Lords as noted earlier in these reasons. However, I take the law to be as stated by Lord Hoffman who came down from the House of Lords to hear the
+Generics (U.K.) Ltd.
+case in appeal:
+"26. The judge held that claim 1 and claim 3 (which is dependent on claim 1) were insufficient. His reasoning was that claim 1, being a claim to the (+) enantiomer as a product, was a claim to a monopoly of that product however made: see section 60(1)(a) of the 1977
+Act
+. But Lundbeck's inventive idea was not to discover that the enantiomer existed and had a medicinal effect. Everyone knew that the two enantiomers existed and that one or other or both had a medicinal effect. What Lundbeck discovered was one way of making it. But that did not entitle them to a monopoly of every way of making it.
+"27. I can understand and sympathise with the judge's instinctive reaction to the inherent breadth of a product claim. Indeed, as I shall in due course show, he is not the first to have registered such a protest. But in my opinion his reasoning is not justified either by the statute or the authorities. In an ordinary product claim, the product is the invention. It is sufficiently enabled if the specification and common general knowledge enables the skilled person to make it. One method is enough."
+[145]
+Cobalt alleges that section 53 was breached because the patentee failed to disclose the prior art which revealed the importance of stereochemistry and the likelihood that one enantiomer would have better pharmaceutical activity than the other, and in failing to bring those facts to the attention of the patent examiner. However, there is no provision in the
+Patent
+Act
+or
+Rules
+that an omission to disclose prior art has any effect on the validity of a patent. In any event, the closest prior art was U.S. patent '193 which had been disclosed.
+[146]
+This argument runs counter to the accepted proposition that even an undergraduate organic chemistry student would have appreciated the stereochemistry aspects of the patent. While this case does not go into the qualities expected of a patent examiner, there is certainly no reason to suppose that he or she is a dolt.
+[147]
+Section 53 provided that a patent might be invalidated if any material allegation was untrue and wilfully made for the purpose of misleading. Both Cobalt and Apotex made much of the fact that the patent states "... Results upon administration to human beings have been very gratifying." At that point in time, as confirmed by Dr. Bøgesø, escitalopram had not been administered to human beings. Lundbeck led evidence from Peter Davies who spent 37 years with the Canadian Patent Office culminating in his appointment as Chairman of the Patent Appeal Board. Had he been the examiner in looking for utility, he would have examined the reported data and would have thought that the statement referred to the racemate. With all respect to Mr. Davies, the language was not technical and the Court does not need his assistance in reading that portion of the patent, although I do note that some pages earlier the following statement appears "... All work in the development of this compound has been made with the racemate ..." However Mr. Davies' evidence is helpful in that he points out the file history does not indicate that the examiner requested an explanation for or correction of this statement. Given that the patent has two full pages of evaluation of escitalopram upon rodents together with a table of pharmacological test results, I do not consider that the one-liner misled anyone. Furthermore, there is no evidence of an effort to mislead.
+INTERLOCUTORY MATTERS
+[148]
+Mention has been made in these reasons of efforts by Lundbeck to strike affidavits or portions thereof, to adduce new evidence or both. Counsel for the respondents on occasion directed witnesses who were being cross-examined not to answer questions and some answers were given under reserve of objections. The motions will be dismissed and rulings on objections and refusals are not necessary as no new evidence is needed, answers are not needed to questions which were not answered and no reliance was placed on the evidence taken under reserve. No useful purpose would be served.
+SUMMATION
+[149]
+To summarize, patent '452 is not a selection patent. If I am wrong on that score then it is an invalid selection patent. The other allegations of invalidity asserted by the respondents, be they with respect to anticipation, obviousness, ambiguity, or otherwise, are not justified. Lundbeck has made its case and the Minister shall be prohibited from issuing Notices of Compliance to the respondents prior to the expiry of the patent.
+COSTS
+[150]
+Lundbeck Canada Inc. and H. Lundbeck A/S are entitled to one set of costs in each of the three applications. Failing agreement, the parties have 30 days to move for directions, and may seek an order for lump sum costs in whole or in part. As the Minister did not participate, the prohibition orders shall issue against him without costs.
+Applications allowed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

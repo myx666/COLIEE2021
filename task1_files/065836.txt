@@ -1,0 +1,429 @@
+REASONS FOR ORDER (With respect to application Nos. 2 and 3)
+[1]
+Kelen, J.
+: These are applications for judicial review to set aside a decision of the Minister of Health ("Minister") dated January 27, 2004 to issue a Notice of Compliance ("NOC") to the respondent, Apotex Inc. ( <FRAGMENT_SUPPRESSED> ) for 20 mg and 40 mg capsules of omeprazole, without requiring Apotex address patents added to the Patent List after the applicant ceased marketing the drug in Canada.
+Preliminary Issues
+[2]
+The following preliminary issues were brought to the Court's attention:
+(1) Apotex states that the NOC was issued in error with respect to 40 mg omeprazole capsules, because it did not seek an NOC for that dosage; and
+(2) Apotex did serve a notice of allegation with respect to the patent no. 2,133,762'762. In response to that allegation, AstraZeneca commenced a prohibition proceeding pursuant to s. 6 of the
+Regulations
+(Docket: T-2311-01). In that proceeding Mr. Justice O'Keefe concluded that issuing the NOC would not result in an infringement of the '762 patent.  <FRAGMENT_SUPPRESSED> ; 248 F.T.R. 1; 2004 FC 313.
+Therefore, these reasons will only address the Minister's decision with respect to AstraZenca's 20 mg omeprazole capsules and the '470 and '037 patents.
+THE FACTS
+Background
+[3]
+The applicant, AstraZeneca Canada Inc., is a pharmaceutical company that began marketing omeprazole in 1989 under the brand name LOSEC. LOSEC is used to treat certain stomach conditions related to hyperacidity, such as gastric and duodenal ulcers, gastroesophageal reflux disease, Zollinger-Ellison disease, and dyspepsia.
+[4]
+Apotex, a manufacturer of generic pharmaceutical products, has been attempting since 1993 to introduce a generic version of LOSEC 20 mg capsules into the Canadian market. This application for judicial review is part of an eleven year history of litigation between these two parties, over the right to produce and market omeprazole capsules.
+[5]
+The applicant's drug, LOSEC omeprazole 20 mg capsules, was voluntarily withdrawn from the Canadian market by the applicant in 1996. The applicant continued to list new patents in association with omeprazole 20 mg capsules. No other brand name company has attempted to list patents in this manner in Canada, making this a novel situation.
+[6]
+In 1996, AstraZeneca voluntarily withdrew LOSEC 20 mg capsules from the Canadian market and replaced it with a variation: tablets containing omeprazole magnesium (instead of capsules containing omeprazole). In 2002, AstraZeneca listed two additional patents on the Patent Register ("Register") with respect to LOSEC capsules: patent no. 2,284,470 ("'470 patent"), and patent no. 2,186,037 ("'037 patent"). These patents were added to the Register in relation to two Supplemental New Drug Submissions ("SNDS"), for which supplemental NOCs were issued.
+The Patents
+[7]
+The relevant particulars are as follows:
+Patent
+Application Date
+Issue Date
+Date Added to Register
+'470
+November 10, 1998
+February 26, 2002
+March 8, 2002
+'037
+February 9, 1996
+April 16, 2002
+February 27, 2003
+The Supplemental NOCs
+[8]
+The relevant particulars are as follows:
+SNDS No.
+Date Filed
+Date NOC Issued
+059881
+January 22, 1999
+June 4, 1999
+067991
+July 12, 2000
+October 24, 2000
+Apotex's New Drug
+[9]
+Prior to September 1996, while AstraZeneca's '470 and '037 patents were pending, Apotex filed an Abbreviated New Drug Submission ("ANDS") for 20 mg omeprazole capsules. On January 3, 2002 Apotex's ANDS was approved under the
+Food and Drug Regulations
+, C.R.C., c. 870. This meant that, barring any prohibition arising out of the
+PM NOC Regulations
+, Apotex was entitled to a NOC.
+[10]
+Apotex did not make an allegation with respect to the '470 and '037 patents since these patents were not in effect before the LOSEC 20 mg capsules were withdrawn from the Canadian market in 1996.
+Marketing of LOSAC in Canada
+[11]
+On May 14, 2002, AstraZeneca informed the Minister that it had resumed marketing LOSEC 20 mg capsules in Canada. In response, Apotex submitted independent data from IMS Health, indicating that AstraZeneca had not resumed marketing as it reported. (IMS Health is a pharmaceutical market tracking company, and recognized as an independent source of reliable data for the worldwide pharmaceutical market.)
+[12]
+On January 13, 2004, Health Canada requested AstraZeneca provide information which could establish: (1) whether LOSEC 20 mg capsules are currently marketed in Canada, and (2) whether LOSEC 20 mg capsules were marketed in Canada at any time between June 4, 1999 (NOC date for '470 patent), and January 13, 2004. On January 21, 2004, AstraZeneca responded that LOSEC 20 mg capsules had been marketed in Canada since about May 14, 2002 continuously to the present date. Enclosed with the response were 4 sales invoices indicating the following:
+(1) May 14, 2002 - 1 sale of 10 units for $616.00 in Moose Jaw, Saskatchewan
+(2) May 22, 2003 - 1 sale of 2 units for $123.20 in Lorraine, Quebec
+(3) October 8, 2003 - 1 sale of 1 unit for $61.60 in Trenton, Ontario
+(4) January 15, 2004 - 1 sale of 2 units for $123.20 in Woodstock, New Brunswick
+On January 27, 2004, Health Canada's Therapeutic Products Directorate ("TPD") advised that AstraZeneca had provided insufficient information to establish the marketing of LOSEC 20 mg in Canada, during the relevant period. Therefore, Apotex would not be required to address either the '470 or the '037 patent. That same day (January 27, 2004), Apotex received a NOC from the Minister.
+THE MINISTER'S DECISION
+[13]
+The Minister decided that Apotex is not required to address either the '470 or the '037 patent because AstraZeneca had not fulfilled the prerequisites under s. 5(1) of the
+Regulations
+to require a "second person" to address those patents. The Minister decided that AstraZeneca has failed to market LOSEC 20 mg capsules pursuant to the NOCs for which the '470 and '037 patents were listed.
+[14]
+In the Minister's opinion, the circumstances with respect to omeprazole 20 mg were unique and raised a novel regulatory question with significant policy impact, which is: should a generic company be required to address a patent listed on the basis of a change to a drug which is no longer marketed in Canada, and to which the generic could not have made a comparison? An undated internal memorandum to the Deputy Minister stated:
+"[...] The brand company, AstraZeneca, has recently filed yet another patent for LOSEC capsules on the Patent Register, although it no longer markets LOSEC capsules in Canada. The regulatory question has therefore arisen as to whether or not Apotex must address a patent listed on the basis of a change made to a drug no longer marketed in Canada. The ruling on this issue will have a significant policy impact.
+. . . . .
+"Unlike the '762 patent, the '470 patent was applied for after LOSEC capsules were withdrawn from the Canadian market. The '470 patent is not relevant to the subject matter of the supplemental new drug submission for which it was added. Moreover, the supplemental new drug submission itself was not approved until after LOSEC was withdrawn.
+. . . . .
+"While there is no requirement for a drug product to be marketed in considering whether to add it to the Patent Register, the
+PM (NOC) Regulations
+do require that a generic company must address a patent where a comparison has been made to a drug which has been marketed in Canada pursuant to a NOC.
+"To date, the administrative policy has been to address all patents listed for a drug. However, this is the first time a patent has been listed for a supplemental new drug submission introducing a change to a drug which was clearly never marketed, and to which the generic could not have made a comparison.
+"The Patent Unit is recommending that Apotex should not be required to address the '470 patent." (Emphasis in original)
+[15]
+On evidence received from Apotex that AstraZeneca had not resumed marketing LOSEC 20 mg capsules, and because the Minister decided that evidence provided by AstraZeneca was insufficient to prove otherwise, the Minister made a final decision that Apotex would not be required to address either the '470 or the '037 patent. The Minister's delegate notified AstraZeneca of this decision in a letter dated January 27, 2004 which states at page 1:
+"I wish to inform you that the TPD has reached the conclusion that LOSEC 20 mg capsules have not been marketed in Canada so as to trigger the application of s. 5 of the
+Patented Medicines (Notice of Compliance) Regulations
+with respect to Canadian patents 2, 284, 470 (the ''470 patent') and 2, 186, 037 (the ''037 patent').
+"With respect to the four invoices which were provided as evidence of AstraZeneca's recent marketing of LOSEC 20 mg capsules, the TPD is of the view that they do not provide sufficient evidence of marketing in Canada. In light of the very limited number of sales, the very small quantities of drug involved in each sale, and that two of the sales are dated immediately after direct inquiries from the TPD about the marketing of LOSEC 20 mg capsules, the TPD has been unable to conclude that the evidence establishes the marketing of LOSEC 20 mg capsules in Canada during the relevant period."
+RELEVANT LEGISLATION
+The Regulations
+[16]
+This application is governed by ss. 4(1), 4(3), 4(4), 4(6), 5(1), and 7(1) of the
+Regulations
+which prescribe the obligations and procedures required to permit a "first person" such as AstraZeneca to add patents to the Patent Register, and to permit a NOC to issue to a "second person", such as Apotex. These sections are attached as Appendix A.
+ISSUES
+[17]
+This application raises the following four issues:
+(1) what is the standard of review for the Minister's decisions under the
+Regulations
+in this case;
+(2) did the Minister err in law by interpreting s. 5 of the
+Regulations
+to not require Apotex address patents '470 and '037 for LOSEC capsules because the drug had not been "marketed" pursuant to a NOC in respect of those patents;
+(3) did the Minister err by finding that LOSEC was not marketed in Canada after May 22, 2002 as claimed by the applicant; and,
+(4) did the Minister breach the duty to act fairly by not providing the applicant with an adequate opportunity to know, and respond to, Apotex's representations on the first two issues.
+POSITION OF THE PARTIES
+A) The Applicant
+(i) Standard of Review
+[18]
+The applicant submits that the Minister's interpretation of the
+Regulations
+warrants a low level of deference and ought to be reviewed on the correctness standard.
+(ii) The Regulations
+[19]
+The applicant submits that the language of s. 5(1) clearly requires a "second person" to make an allegation in respect of each and every patent listed on the Patent Register with respect to a "first person's" drug, where that drug has been "marketed" pursuant to any NOC.
+[20]
+The applicant submits that the Minister has failed to interpret the
+Regulations
+in a manner consistent with their objective of preventing infringement. The applicant submits that the Minister has misinterpreted the
+Regulations
+to mean that a "second person" is only required to address a patent listed for a drug where the "first person" has marketed that drug pursuant to a NOC issued for the drug submission, for which the relevant patent was listed on the Register. The applicant argues that the Minister has unlawfully required a nexus between a patent listed in respect of a drug and the particular submission for the drug under that patent. The applicant submits that the Minister's view defeats the objective of preventing infringement since a "second person" is not required to address a legal patent.
+[21]
+The applicant also submits that the Federal Court of Appeal, in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), has confirmed that a patent list is submitted in respect of a drug and not in respect of any particular submission.
+(iii) Marketing
+[22]
+The applicant submits that the ordinary meaning of "marketing" is sold, therefore any sale is sufficient to establish marketing. The applicant submits that this view is supported by the Court's decision in
+Alberta and  <FRAGMENT_SUPPRESSED>  (T.D.), that a drug is marketed when it is sold. The applicant argues that the evidence it provided establishes sales of LOSEC 20 mg capsules since May 2002.
+[23]
+The applicant submits that there is therefore no legal basis for the Minister's conclusion that evidence of sales provided by AstraZeneca is insufficient to establish marketing. The applicant argues that the Minister reached this conclusion by applying an arbitrary and undefined standard of "sufficient sales".
+(iv) Procedural Fairness
+[24]
+The applicant submits that the Minister was unduly influenced by representations made on behalf of Apotex, and which were not disclosed to AstraZeneca. The applicant argues that the Minister applied a new understanding of "marketed", which was contrary to prior established policy, without disclosing this to AstraZeneca. The applicant submits that the Minister acted hastily and unfairly without allowing AstraZeneca the opportunity to respond.
+[25]
+The applicant submits that the Minister failed to communicate to AstraZeneca the consequence that Apotex would immediately be issued a NOC if AstraZeneca failed to establish "marketing" to the satisfaction of the Minister. The applicant submits that AstraZeneca had a legitimate expectation, based on the Minister's previous representations and various Health Canada policy documents, that the Minister would conclude that LOSEC 20 mg capsules have been marketed in Canada.
+[26]
+The applicant submits that, under these circumstances, the duty of fairness dictates that more extensive procedural rights be accorded to AstraZeneca. The applicant relies on
+ <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 193 and submits that a breach of the duty of procedural fairness is sufficient to grant an application for judicial review, and the Court need not review the decision itself.
+B) The Respondent
+(i) Standard of review
+[27]
+The respondent submits that because two aspects of the Minister's decision are being challenged, there are two different standards of review applicable. The respondent submits that the Minister's decision on the "marketing" of LOSEC 20 mg capsules should be reviewed on a patently unreasonable standard because the applicant seeks to overturn a finding of fact. The respondent agrees that the Minister's decision to issue a NOC to Apotex is a question of law, and should be reviewed on the correctness standard.
+(ii) The Regulations
+[28]
+The respondent submits that the Minister correctly determined that the '470 and '037 patents were added to the patent list only as against the NOC issued to AstraZeneca on June 4, 1999 because of s. 4(4) and 4(6) of the
+Regulations
+. The respondent submits that the earlier NOCs issued to AstraZeneca had filing dates that long preceded the patent applications for the '470 and '037 patents. The respondent submits that the Minister therefore correctly determined that AstraZeneca had to establish "marketing" of LOSEC 20 mg capsules pursuant to the June 4, 1999 NOC, and not any earlier NOCs.
+(iii) Marketing
+[29]
+The respondent submits that the Minister's decision on "marketing" was not patently unreasonable since AstraZeneca failed to rebut the independent and credible evidence supplied by Apotex that no sales of LOSEC 20 mg had occurred since September, 1996. The respondent submits that "marketing" does not simply mean any sale of a drug; rather, it means the sale of a drug in a market. The respondent argues that "marketing" therefore requires that the drug be offered for sale to qualified purchasers. The respondent submits that the evidence establishes that AstraZeneca has not offered its LOSEC 20 mg capsules for sale to qualified purchasers.
+(iv) Minister's decision is correct in any event
+[30]
+The respondent submits that even if this Court should find the Minister's decision on "marketing" to be patently unreasonable, the Minister's ultimate decision not to require Apotex to address the '470 and '037 patents was correct. The respondent submits that AstraZeneca has conceded that it was not marketing LOSEC 20 mg capsules in January 2002, when Apotex's omeprazole 20 mg capsules became approvable. Apotex submits that what is relevant is that at the time that Apotex's capsules were approvable, there was no requirement on Apotex to address the '470 and '037 patents.
+C) Minister of Health
+(i) Standard of Review
+[31]
+The Minister submits that, on a functional and pragmatic analysis, the applicable standard of review is reasonableness. The Minister submits that even if this Court should find that the standard is correctness, the Minister's decision is correct in any event.
+(ii) The Regulations
+[32]
+The Minister submits that the Minister correctly interpreted s. 5 of the
+Regulations
+by considering the entire context of the relevant words, their grammatical and ordinary sense, the scheme and object of the legislation, and the intention of Parliament. The Crown respondents rely on
+ <FRAGMENT_SUPPRESSED>  (F.C.A.); and
+ <FRAGMENT_SUPPRESSED>  (C.A.), and submit that circumstances which have been created primarily to gain an advantage through technical conformity with the
+Regulations
+must not be permitted to defeat their overall intent.
+[33]
+The Minister submits that since the "marketing" period for LOSEC 20 mg capsules ended in 1996-two years before the '470 patent application, and just after the '037 patent application was made, it was not unreasonable for the Minister to conclude that any "marketing" in the 1989-96 period was not relevant.
+(iii) Marketing
+[34]
+The Minister submits that AstraZeneca's evidence of a few isolated sales after 1996 cannot be considered as "marketing" because the
+Regulations
+use the term "marketed", in distinction to the more common term "sold". The Minister submits that the term "marketed" imparts a broader meaning than the completion of a single contract of sale. The Crown respondents argue that "marketing" means engaged in "the action or business of promoting and selling products or services".
+(iv) Procedural fairness
+[35]
+The Minister submits that the duty of fairness owed to AstraZeneca was satisfied by the Minister. The Minister argues that AstraZeneca was given a full opportunity to respond and was advised of the consequences that would follow if it provided unsatisfactory evidence of "marketing". The Minister submits that even if there was a breach of procedural fairness, that breach had no impact on the decision since there is no evidence that the decision would, or could have been different, but for the breach. The Crown respondents rely on
+ <FRAGMENT_SUPPRESSED>  Nfld. & P.E.I.R. 334; 36 A.P.R. 334.
+ANALYSIS
+Issue No. 1
+What is the standard of review for the Minister's decisions under the Regulations in this case
+Pragmatic and functional analysis
+[36]
+The pragmatic and functional approach must be taken in determining the appropriate standard of review.  <FRAGMENT_SUPPRESSED> , addendum [1998] 1 S.C.R. 1222;
+Dr. Q., Re
+, [2003] 1 S.C.R. 226; 302 N.R. 34; 179 B.C.A.C. 170; 296 W.A.C. 170; 223 D.L.R.(4th) 599; and
+ <FRAGMENT_SUPPRESSED>  N.B.R.(2d) 207; 674 A.P.R. 207. And as McLachlin, C.J., states in
+Dr. Q.
+, supra, at paragraph 25, "it is no longer sufficient to slot a particular issue into a pigeon hole of judicial review and, on this basis, demand correctness from the decision-maker." At paragraph 26, McLachlin, J., describes the correct approach as follows:
+"In the pragmatic and functional approach, the standard of review is determined by considering four contextual factors - the presence or absence of a privative clause or statutory right of appeal; the expertise of the tribunal relative to that of the reviewing court on the issue in question; the purposes of the legislation and the provision in particular; and, the nature of the question - law, fact, or mixed law and fact. The factors may overlap. The overall aim is to discern legislative intent, keeping in mind the constitutional role of the courts in maintaining the rule of law. ..."
+[37]
+Therefore, applying the functional and pragmatic approach to this case I conclude:
+(1) Privative Clause or Statutory Right of Appeal
+- The presence of a privative clause would imply more deference, while the presence of a statutory right of appeal would indicate less deference. But where the statute is silent, as it is in this case, this factor is neutral. See
+Dr. Q.
+, supra, at paragraph 27.
+(2) Relative Expertise
+- A finding that a tribunal is more expert than the Court, vis-à-vis the particular issue, would militate in favour of greater deference to the Minister. The particular issue at hand is the interpretation of s. 5(1) of the
+Regulations
+with respect to "marketing". The Minister does not have more expertise than the Court on the specific issue of interpreting s. 5(1) of the
+Regulations
+. This militates in favour of less deference to the Minister.
+(3) Purpose of the Legislation
+- Where the purpose of the legislation is to resolve polycentric questions, this militates in favour of deference to the Minister. NOC issuance involves the overlapping legislative regimes of the
+Food and Drugs Act
+and the
+PM NOC Regulations
+, the purpose of which is to protect patent rights. As Blanchard, J., held in
+ <FRAGMENT_SUPPRESSED> ; 303 N.R. 63 (F.C.A.), at paragraph 24, the process is a judicial one which involves balancing the rights of the patentee against those of the new drug applicant, rather than a polycentric decision. The Minister's decision involved a bipolar opposition of parties and interests, rather than "a large number of interlocking and interacting interests and considerations", which is how the Supreme Court of Canada distinguishes a polycentric issue in <FRAGMENT_SUPPRESSED> , supra at paragraph 36. Accordingly, this factor militates in favour of less deference to the Minister.
+(4) Nature of the Question
+- There are two questions in this case: first - a question of law, i.e. the proper interpretation of "marketed" in s. 5 of the
+Regulations
+; and, second - a question of fact, whether LOSAC capsules were marketed in Canada after May 22, 2002.
+[38]
+The question of law is one of general importance and precedential value. This factor militates in favour of no deference to the Minister, so the standard of review is correctness. The question of fact favours deference to the Minister, so the standard is patent unreasonableness.
+Issue No. 2
+Did the Minister err in law by interpreting s. 5 of the Regulations to not require Apotex address patents '470 and '037 for LOSEC capsules because the drug had not been "marketed" pursuant to a NOC in respect of those patents.
+[39]
+For ease of reference, I repeat s. 5(1) of the
+Regulations
+:
+"5(1) Where a person files or has filed a submission for a notice of compliance in respect of a drug and
+compares that drug with, or makes reference to, another drug for the purpose of demonstrating bioequivalence
+on the basis of pharmaceutical and, where applicable, bioavailability characteristics
+and that other drug has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted,
+the person shall, in the submission, with respect to each patent on the register in respect of the other drug,
+(a) state that the person accepts that the notice of compliance will not issue until the patent expires; or
+(b) allege that
+(i) the statement made by the first person pursuant to paragraph 4(2)(c) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed." (underlining added)
+"5(1) Lorsqu'une personne dépose ou a déposé une demande d'avis de conformité pour une drogue et la compare, ou fait référence, à une autre drogue pour en démontrer la bioéquivalence d'après les caractéristiques pharmaceutiques et, le cas échéant, les caractéristiques en matière de biodisponibilité, cette autre drogue ayant été commercialisée au Canada aux termes d'un avis de conformité délivré à la première personne et à l'égard de laquelle une liste de brevets a été soumise, elle doit inclure dans la demande, à l'égard de chaque brevet inscrit au registre qui se rapporte à cette autre drogue:
+a) soit une déclaration portant qu'elle accepte que l'avis de conformité ne sera pas délivré avant l'expiration du brevet;
+b) soit une allégation portant que, selon le cas:
+(i) la déclaration faite par la première personne aux termes de l'alinéa 4(2)c) est fausse,
+(ii) le brevet est expiré,
+(iii) le brevet n'est pas valide,
+(iv) aucune revendication pour le médicament en soi ni aucune revendication pour l'utilisation du médicament ne seraient contrefaites advenant l'utilisation, la fabrication, la construction ou la vente par elle de la drogue faisant l'objet de la demande d'avis de conformité."
+[40]
+The critical words are "... and that other drug has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted. ..." There are two determinations that the Minister must make: (1) whether the relevant drug had been "marketed" in Canada by AstraZeneca, and (2) whether that "marketing", if any, was carried out pursuant to a NOC issued to AstraZeneca "in respect of which a patent list has been submitted".
+[41]
+It is not disputed that the applicant marketed LOSAC 20 mg capsules in Canada from 1989 until 1996 pursuant to NOCs. The applicant voluntarily withdrew the product from the market in 1996 because it introduced a new form of the medicine, omeprazole magnesium tablets.
+[42]
+The LOSAC 20 mg capsules were withdrawn in 1996 and patents '470 and '037 were added to the Patent Register on March 8, 2002 and February 27, 2003 after the applicant ceased marketing the drug. The NOCs issued for these patents were related to supplementary new drugs submissions filed in 1999 and 2000, at which time the applicant was not marketing LOSAC 20 mg capsules. (I leave aside for the moment the issue of whether the applicant resumed marketing LOSAC 20 mg capsules on May 14, 2002.)
+[43]
+On a plain reading of s. 5(1), there is no requirement of a "relevant time period" in either the English or French version of the
+Act
+of when the drug was "marketed". There is only a requirement that a drug be marketed pursuant to
+a
+NOC for which a patent list has been submitted. There is nothing to indicate that it be any specific NOC.
+[44]
+The respondents submit that to construe the phrase "has been marketed in Canada" as meaning marketed in the past at any time, would open the door to considerable abuse and distort the purpose and intent of s. 5(1). This is because the
+Regulations
+were designed to allow a first person to obtain the benefit of the "draconian" automatic stay remedy, in recognition of the fact that interlocutory injunctions are difficult to obtain from the Courts.
+[45]
+This case calls for the proper statutory interpretation of s. 5(1) of the
+Regulations
+. The Federal Court of Appeal provides a useful review of the correct approach to statutory interpretation, at paragraphs 12 - 13 of
+Bristol-Myer Squibb Co.
+, supra:
+"[12] The starting point for statutory interpretation in Canada is the following familiar extract from Driedger,
+Construction of Statutes
+, 2nd Ed. (Toronto: Butterworths, 1983), at page 87:
+'Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.'
+"[13] This holistic approach to the interpretation of legislation, including, as here, subordinate legislation, requires a court to attribute the meaning that provides the best fit with both the text and the context of the provision in question. Neither can be ignored, although the clearer the 'ordinary meaning' of the text, the more compelling the contextual considerations must be in order to warrant a different reading of it, especially when that involves adding words to those used by the legislator."
+Reading s. 5(1) in its entire context and its words in their grammatical and ordinary sense harmoniously with the scheme of the
+Act
+, the object of the
+Act
+and the intention of Parliament, I have concluded that:
+(1) the patented drug with which the generic drug compares itself for the purpose of demonstrating bioequivalence, must be a drug which is on the market and available for comparative purposes. In the case at bar, that patented drug could not be a drug manufactured and sold pursuant to patents listed on the Patent Register after the applicant stopped marketing LOSAC omeprazole 20 mg capsules in 1996; and,
+(2) the words in s. 5(1):
+"and that other drug has been marketed in Canada pursuant to a Notice of Compliance issued to a first person and respect of which a patent list has been submitted ..."
+can only refer to a drug marketed in Canada pursuant to a Notice of Compliance in respect of which the patent in question has been listed. Since the marketing ceased in 1996, since the patents were added to the Register on March 8, 2002 and February 27, 2003, and since the NOCs for these patents were issued on June 4, 1999 and October 24, 2000, the applicant's LOSAC 20 mg omeprazole capsules could not have been "marketed" in Canada since the NOCs were issued after 1996 and since the patents were added after 1996.
+[46]
+This interpretation is harmonious with the scheme of the
+Act
+, the object of the
+Act
+and the intention of Parliament. A generic drug cannot be expected to compare itself to a drug which is not available on the Canadian market. The generic drug manufacturer could not obtain such a drug.
+[47]
+The object of the
+Regulations
+is to provide a summary method to protect drug innovators from generic drugs infringing their patents. However, a patent drug company should not be able to use the
+Regulations
+to delay a generic drug by listing new patents for a drug no longer sold in Canada. That would be an abuse of the
+Regulations
+, and contrary to the object and intent of the
+Regulations
+.
+[48]
+This Court has recently considered another case involving the same drug and the same parties, where this issue arose.  <FRAGMENT_SUPPRESSED>  F.T.R. 8 (T.D.), dated April 30, 2004, Justice O'Keefe held that he did not need to decide which interpretation of "marketing" under s. 5(1) was correct as he found that with either interpretation, Apotex was required to address the '762 patent. Justice O'Keefe held at paragraphs 69 and 70:
+"¶ 69 AstraZeneca filed a patent list on August 31, 2000, listing the '762 Patent and referencing Supplemental New Drug Submissions 14671, 17495 and 059881 for which NOCs were issued on June 30, 1993, July 15, 1994 and June 4, 1999 respectively.
+"¶ 70 The '762 Patent was added to the patent register on September 1, 2000. As AstraZeneca did not cease marketing Losec in Canada until 1996, AstraZeneca did market Losec in Canada pursuant to NOCs associated with the patent list, namely, the NOCs issued June 30, 1993 and July 15, 1994. Section 5(1) was triggered, obliging Apotex to address the '762 Patent in an NOA."
+[49]
+The facts in the case before Justice O'Keefe are distinguishable in that the '762 patent was with respect to a Supplemental New Drug Submission for which NOCs was issued prior to 1996, i.e. prior to the time that the applicant ceased marketing its omeprazole capsules.
+Issue No. 3
+Did the Minister err by finding that LOSEC was not marketed in Canada after May 22, 2002 as claimed by the applicant
+[50]
+I will review the Minister's decision in this regard on the basis of patent unreasonableness.
+[51]
+The evidence is that about May 1, 2002 the applicant was told by the Minister that Apotex would not be required to address patents '470 and '037 because the applicant's omeprazole 20 mg capsules were no longer being sold on the Canadian market. Approximately two weeks later, the applicant informed the Minister that it had resumed marketing the drug.
+[52]
+About two years later, the Minister asked the applicant to prove that the marketing had resumed. The applicant provided four sales invoices between May 14, 2002 and January 15, 2004, representing total sales of about $1,000. This compares with the applicant's annual sales of $400 million for omeprazole tablets. Moreover, Apotex submitted independent pharmaceutical market sales data which showed no sales for the applicant's LOSAC 20 mg capsules in Canada. Based on this evidence, I am satisfied that the Minister's decision, that the applicant had not resumed marketing its omeprazole 20 mg capsules sales, was reasonably open to the Minister, not patently unreasonable or clearly wrong.
+[53]
+In my view, it was reasonably open to the Minister to reach his decision based on the independent IMS data submitted by the Apotex, and AstraZeneca's questionable evidence showing only a few isolated sales. The evidence of AstraZeneca is questionable because the alleged sales are sparse, and occur at the same period the Minister's made inquiries as to AstraZeneca's evidence of marketing LOSEC in Canada.
+[54]
+Moreover, "marketing" means something more than mere "sales" or "sold". It means "the action or business of promoting and selling products including market research and advertising". See the
+The Canadian Oxford Dictionary
+(Oxford University Press Canada), 2001.
+Issue No. 4
+Did the Minister breach the duty to act fairly by not providing the applicant with an adequate opportunity to know, and respond to, Apotex's representations on the first two issues
+[55]
+It is trite law that the duty to act fairly on a matter affecting the rights of a person requires the decision-maker to provide the person with an adequate opportunity to know, and respond to, the case against the person. In this case, I have reviewed the correspondence between the Minister and the applicant. The applicant had full knowledge of the facts and both issues.
+[56]
+In fact, after the applicant had been given an opportunity of replying, and had replied, the Minister decided that the applicant had resumed marketing omeprazole 20 mg capsules on May 22, 2002. It was only after receiving further evidence and providing the applicant with a further opportunity of responding, did the Minister make the decision. The applicant was explicitly invited to provide specified evidence, and advised of the consequences if that evidence was not satisfactory. Accordingly, I am satisfied that the Minister acted fairly on this matter.
+DISPOSITION
+[57]
+For these reasons, this application for judicial review will be dismissed.
+Application dismissed.
+Editor: Jana A. Andersen/gs
+APPENDIX A
+The relevant sections of the
+Patented Medicine (Notice of Compliance) Regulations
+:
+"2. In these Regulations,
+. . . . .
+'first person' means the person referred to in subsection 4(1);
+. . . . .
+'second person' means the person referred to in subsection 5(1) or (1.1), as the case may be.
+PATENT LIST
+"4(1) A person who files or has filed a submission for, or has been issued, a notice of compliance in respect of a drug that contains a medicine may submit to the Minister a patent list certified in accordance with subsection (7) in respect of the drug.
+. . . . .
+"(3) Subject to subsection (4), a person who submits a patent list must do so at the time the person files a submission for a notice of compliance.
+"(4) A first person may, after the date of filing of a submission for a notice of compliance and within 30 days after the issuance of a patent that was issued on the basis of an application that has a filing date that precedes the date of filing of the submission, submit a patent list, or an amendment to an existing patent list, that includes the information referred to in subsection (2).
+. . . . .
+"(6) A person who submits a patent list must keep the list up to date but may not add a patent to an existing patent list except in accordance with subsection (4).
+"4(7)
+. . . . .
+"5(1) Where a person files or has filed a submission for a notice of compliance in respect of a drug and compares that drug with, or makes reference to, another drug for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics and that other drug has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted, the person shall, in the submission, with respect to each patent on the register in respect of the other drug,
+(a) state that the person accepts that the notice of compliance will not issue until the patent expires; or
+(b) allege that
+(i) the statement made by the first person pursuant to paragraph 4(2)(c) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed.
+"5(1.1) Subject to subsection (1.2), where subsection (1) does not apply and where a person files or has filed a submission for a notice of compliance in respect of a drug that contains a medicine found in another drug that has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted, the person shall, in the submission, with respect to each patent included on the register in respect of the other drug containing the medicine, where the drug has the same route of administration and a comparable strength and dosage form,
+(a) state that the person accepts that the notice of compliance will not issue until the patent expires; or
+(b) allege that
+(i) the statement made by the first person pursuant to paragraph 4(2)(c) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug.
+RIGHT OF ACTION
+"6(1) A first person may, within 45 days after being served with a notice of an allegation pursuant to paragraph 5(3)(b) or (c), apply to a court for an order prohibiting the Minister from issuing a notice of compliance until after the expiration of a patent that is the subject of the allegation.
+"(2) The court shall make an order pursuant to subsection (1) in respect of a patent that is the subject of one or more allegations if it finds that none of those allegations is justified.
+"(3) The first person shall, within the 45 days referred to in subsection (1), serve the Minister with proof that an application referred to in that subsection has been made.
+"(4) Where the first person is not the owner of each patent that is the subject of an application referred to in subsection (1), the owner of each such patent shall be made a party to the application.
+"(5) In a proceeding in respect of an application under subsection (1), the court may, on the motion of a second person, dismiss the application
+(a) if the court is satisfied that the patents at issue are not eligible for inclusion on the register or are irrelevant to the dosage form, strength and route of administration of the drug for which the second person has filed a submission for a notice of compliance; or
+(b) on the ground that the application is redundant, scandalous, frivolous or vexatious or is otherwise an abuse of process.
+"(6) For the purposes of an application referred to in subsection (1), where a second person has made an allegation under subparagraph 5(1)(b)(iv) or (1.1)(b)(iv) in respect of a patent and where that patent was granted for the medicine itself when prepared or produced by the methods or processes of manufacture particularly described and claimed or by their obvious chemical equivalents, it shall be considered that the drug proposed to be produced by the second person is, in the absence of proof to the contrary, prepared or produced by those methods or processes.
+"(7) On the motion of a first person, the court may, at any time during a proceeding,
+(a) order a second person to produce any portion of the submission for a notice of compliance filed by the second person relevant to the disposition of the issues in the proceeding and may order that any change made to the portion during the proceeding be produced by the second person as it is made; and
+(b) order the Minister to verify that any portion produced corresponds fully to the information in the submission.
+"(8) A document produced under subsection (7) shall be treated confidentially.
+"(9) In a proceeding in respect of an application under subsection (1), a court may make any order in respect of costs, including on a solicitor-and-client basis, in accordance with the rules of the court.
+"(10) In addition to any other matter that the court may take into account in making an order as to costs, it may consider the following factors:
+(a) the diligence with which the parties have pursued the application;
+(b) the inclusion on the certified patent list of a patent that should not have been included under section 4; and
+(c) the failure of the first person to keep the patent list up to date in accordance with subsection 4(6).
+NOTICE OF COMPLIANCE
+"7(1) The Minister shall not issue a notice of compliance to a second person before the latest of
+. . . . .
+(b) the day on which the second person complies with section 5,
+(c) subject to subsection (3), the expiration of any patent on the register that is not the subject of an allegation,
+(d) subject to subsection (3), the expiration of 45 days after the receipt of proof of service of a notice of any allegation pursuant to paragraph 5(3)(b) or (c) in respect of any patent on the register,
+(e) subject to subsections (2), (3) and (4), the expiration of 24 months after the receipt of proof of the making of any application under subsection 6(1), and
+(f) the expiration of any patent that is the subject of an order pursuant to subsection 6(1)."
+"2. Les définitions qui suivent s'appliquent au présent règlement.
+. . . . .
+'première personne' La personne visée au paragraphe 4(1).
+. . . . .
+'seconde personne' Selon le cas, la personne visée aux paragraphes 5(1) ou (1.1).
+LISTE DE BREVETS
+"4(1) La personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament ou qui a obtenu un tel avis peut soumettre au ministre une liste de brevets à l'égard de la drogue, accompagnée de l'attestation visée au paragraphe (7).
+. . . . .
+"(3) Sous réserve du paragraphe (4), la personne qui soumet une liste de brevets doit le faire au moment du dépôt de la demande d'avis de conformité.
+"(4) La première personne peut, après la date de dépôt de la demande d'avis de conformité et dans les 30 jours suivant la délivrance d'un brevet qui est fondée sur une demande de brevet dont la date de dépôt est antérieure à celle de la demande d'avis de conformité, soumettre une liste de brevets, ou toute modification apportée à une liste de brevets, qui contient les renseignements visés au paragraphe (2).
+. . . . .
+"(6) La personne qui soumet une liste de brevets doit la tenir à jour mais ne peut ajouter de brevets à une liste que si elle le fait en conformité avec le paragraphe (4).
+. . . . .
+"5(1) Lorsqu'une personne dépose ou a déposé une demande d'avis de conformité pour une drogue et la compare, ou fait référence, à une autre drogue pour en démontrer la bioéquivalence d'après les caractéristiques pharmaceutiques et, le cas échéant, les caractéristiques en matière de biodisponibilité, cette autre drogue ayant été commercialisée au Canada aux termes d'un avis de conformité délivré à la première personne et à l'égard de laquelle une liste de brevets a été soumise, elle doit inclure dans la demande, à l'égard de chaque brevet inscrit au registre qui se rapporte à cette autre drogue:
+a) soit une déclaration portant qu'elle accepte que l'avis de conformité ne sera pas délivré avant l'expiration du brevet;
+b) soit une allégation portant que, selon le cas:
+(i) la déclaration faite par la première personne aux termes de l'alinéa 4(2)c) est fausse,
+(ii) le brevet est expiré,
+(iii) le brevet n'est pas valide,
+(iv) aucune revendication pour le médicament en soi ni aucune revendication pour l'utilisation du médicament ne seraient contrefaites advenant l'utilisation, la fabrication, la construction ou la vente par elle de la drogue faisant l'objet de la demande d'avis de conformité.
+"5(1.1) Sous réserve du paragraphe (1.2), lorsque le paragraphe (1) ne s'applique pas, la personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament que l'on trouve dans une autre drogue qui a été commercialisée au Canada par suite de la délivrance d'un avis de conformité à la première personne et à l'égard de laquelle une liste de brevets a été soumise doit inclure dans la demande, à l'égard de chaque brevet inscrit au registre visant cette autre drogue contenant ce médicament, lorsque celle-ci présente la même voie d'administration et une forme posologique et une concentration comparables:
+DROITS D'ACTION
+"6(1) La première personne peut, dans les 45 jours après avoir reçu signification d'un avis d'allégation aux termes des alinéas 5(3)b) ou c), demander au tribunal de rendre une ordonnance interdisant au ministre de délivrer un avis de conformité avant l'expiration du brevet visé par l'allégation.
+"(2) Le tribunal rend une ordonnance en vertu du paragraphe (1) à l'égard du brevet visé par une ou plusieurs allégations si elle conclut qu'aucune des allégations n'est fondée.
+"(3) La première personne signifie au ministre, dans la période de 45 jours visée au paragraphe (1), la preuve que la demande visée à ce paragraphe a été faite.
+"(4) Lorsque la première personne n'est pas le propriétaire de chaque brevet visé dans la demande mentionnée au paragraphe (1), le propriétaire de chaque brevet est une partie à la demande.
+"(5) Lors de l'instance relative à la demande visée au paragraphe (1), le tribunal peut, sur requête de la seconde personne, rejeter la demande si, selon le cas:
+a) il estime que les brevets en cause ne sont pas admissibles à l'inscription au registre ou ne sont pas pertinents quant à la forme posologique, la concentration et la voie d'administration de la drogue pour laquelle la seconde personne a déposé une demande d'avis de conformité;
+b) il conclut qu'elle est inutile, scandaleuse, frivole ou vexatoire ou constitue autrement un abus de procédure.
+"(6) Aux fins de la demande visée au paragraphe (1), lorsque la seconde personne a fait une allégation aux termes des sous-alinéas 5(1)b)(iv) ou (1.1)b)(iv) à l'égard d'un brevet et que ce brevet a été accordé pour le médicament en soi préparé ou produit selon les modes ou procédés de fabrication décrits en détail et revendiqués ou selon leurs équivalents chimiques manifestes, la drogue que la seconde personne projette de produire est, en l'absence d'une preuve contraire, réputée préparée ou produite selon ces modes ou procédés.
+"(7) Sur requête de la première personne, le tribunal peut, au cours de l'instance:
+a) ordonner à la seconde personne de produire les extraits pertinents de la demande d'avis de conformité qu'elle a déposée et lui enjoindre de produire sans délai tout changement apporté à ces extraits au cours de l'instance;
+b) enjoindre au ministre de vérifier que les extraits produits correspondent fidèlement aux renseignements figurant dans la demande d'avis de conformité.
+"(8) Tout document produit aux termes du paragraphe (7) est considéré comme confidentiel.
+"(9) Le tribunal peut, au cours de l'instance relative à la demande visée au paragraphe (1), rendre toute ordonnance relative aux dépens, notamment sur une base avocat-client, conformément à ses règles.
+"(10) Lorsque le tribunal rend une ordonnance relative aux dépens, il peut tenir compte notamment des facteurs suivants:
+a) la diligence des parties à poursuivre la demande;
+b) l'inscription, sur la liste de brevets qui fait l'objet d'une attestation, de tout brevet qui n'aurait pas dû y être inclus aux termes de l'article 4;
+c) le fait que la première personne n'a pas tenu à jour la liste de brevets conformément au paragraphe 4(6).
+AVIS DE CONFORMITÉ
+"7(1) Le ministre ne peut délivrer un avis de conformité à la seconde personne avant la plus tardive des dates suivantes:
+a) [Abrogé, DORS/98-166, art. 6]
+b) la date à laquelle la seconde personne se conforme à l'article 5;
+c) sous réserve du paragraphe (3), la date d'expiration de tout brevet inscrit au registre qui ne fait pas l'objet d'une allégation;
+d) sous réserve du paragraphe (3), la date qui suit de 45 jours la date de réception de la preuve de signification de l'avis d'allégation visé aux alinéas 5(3)b) ou c) à l'égard de tout brevet inscrit au registre;
+e) sous réserve des paragraphes (2), (3) et (4), la date qui suit de 24 mois la date de réception de la preuve de présentation de la demande visée au paragraphe 6(1);
+f) la date d'expiration de tout brevet faisant l'objet d'une ordonnance rendue aux termes du paragraphe 6(1)."
+[End of document]

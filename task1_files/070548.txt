@@ -1,0 +1,144 @@
+I.
+Overview
+[1]
+Shore, J.
+: The principles of law on adverse inference are well-established. The leading statement is to be found in Wigmore,
+Evidence in Trials at Common Law
+, 1979 (Chadbourn Rev.) at vol. 2, 285, page 192:
+"... The failure to bring before the tribunal some circumstance, documents,
+or witness, when either the party himself or his opponent claims that the facts would thereby be elucidated, serves to indicate, as the most natural inference, that the party fears to do so, and this fear is some evidence that the circumstance or document or witness, if brought, would have exposed facts unfavourable to the party
+. These inferences, to be sure, cannot fairly be made except upon certain conditions; and they are also open always to explanation by circumstances which make some other hypothesis a more natural one than the party's fear of exposure.
+But the propriety of such an inference in general is not doubted
+. [emphasis added]"
+[2]
+Reasonableness dictates that in the case of the Immigration and Refugee Board (and all its divisions), although the rules of evidence in its regard are relaxed, nevertheless, when evidence is available, or could be made available but not produced, or when a person can testify, is given the opportunity to testify, but does not testify, then an adverse inference can be drawn.
+[3]
+The adverse inference is drawn not merely from the failure to produce, "but from non-production when it would be natural for the party to produce" such evidence: Wigmore, vol. 2 at 199; reference is also made to
+ <FRAGMENT_SUPPRESSED> , affd. (1955), 14 W.W.R. 673 (B.C.C.A.), adopting and citing Wigmore:
+"It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted."
+[4]
+The Supreme Court of Canada has dealt with this issue in the often referred to decision of
+ <FRAGMENT_SUPPRESSED>  N.B.R.(2d) 15. It was held that a court must presume that such evidence would adversely affect the plaintiff's case, as said by Justice Louis-Philippe Pigeon on behalf of the majority of the court, at pp. 1012-3.
+[5]
+ <FRAGMENT_SUPPRESSED> ; 127 Nfld. & P.E.I.R. 1; 396 A.P.R. 1; 53 A.C.W.S.(3d) 786, the Prince Edward Island Court of Appeal following <FRAGMENT_SUPPRESSED> , above, found that the trial judge erred in failing to draw an adverse inference from the fact that a key witness to the case was not called to give evidence:
+"[36] ... Generally speaking, where a plaintiff is at best able to raise only a possibility a certain condition was the cause of the plaintiff's condition, the plaintiff's failure to produce evidence, which may be material to the cause and which is within the power of the plaintiff to produce,
+must result in an adverse inference that the evidence which was not produced, would adversely affect the plaintiff's case
+. The weight which may be given to such an adverse inference is clearly within the discretion of the trial judge;
+however, the trial judge's failure to draw an adverse inference, in such circumstances, is an error which goes to the trial judge's overall assessment of the evidence
+. [emphasis added]"
+[6]
+Indeed, that is the crux of this matter. It would have been natural for the spouse to have testified at the appeal. It is clear that she, as the spouse, was particularly and uniquely qualified to give evidence on the material issue in the appeal, namely, her credibility. She failed to do so. While the Immigration Appeal Division (IAD) did not explicitly use the language of adverse inference, it reasonably concluded, after considering all of the evidence before it, that in the absence of the testimony of the spouse, the evidentiary burden which the statutory language placed upon the Applicant was not met.
+[7]
+Moreover, in that regard, the tribunal's reasoning was consistent with both logic and common sense. The Applicant is in fact challenging the weight assigned to the evidence by the IAD and is asking the Court to substitute a different assessment; however, as the Federal Court of Appeal stated in
+ <FRAGMENT_SUPPRESSED> ; 120 N.R. 193; 24 A.C.W.S.(3d) 1140 (F.C.A.) : "[t] he assessment of the weight of the evidence is a proper matter for decision by the Board and is not subject to review by this Court." No arguable issue of law arises from this ground of attack.
+II.
+Judicial Review
+[8]
+This is an application for judicial review of a February 19, 2009 decision of the Immigration Appeal Division of the Immigration and Refugee Board (IAD) dismissing the Applicant's appeal of a finding that his marriage was not genuine for the purposes of section 4 of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 (
+Regulations
+).
+III.
+Background
+[9]
+The Applicant, Mr. Phat Thoai Ma, is a Canadian citizen. He met his wife, Ms. Angelica Castro Ramirez, a citizen of Mexico, in 2004 and began a romantic relationship. The two were married in a civil ceremony on December 17, 2005. The couple's daughter, Melissa, was born in Mexico on March 11, 2009.
+[10]
+Ms. Ramirez came to Canada on September 12, 2002, to study English, but decided to apply for refugee status, which she did on November 16, 2002. Her claim was denied due to a lack of credibility on March 15, 2005. She left Canada on July 7, 2006, after marrying Mr. Ma.
+[11]
+Subsequent to her removal from Canada, Ms. Ramirez submitted an application for landing as a member of the family class, Mr. Ma having, himself, applied for Ms. Ramirez' landing under his sponsorship.
+[12]
+The Applicant appealed the decision of a visa officer who found Ms. Ramirez was not a member of the family class because her marriage to Mr. Ma was not considered genuine for the purposes of the Regulations. The refusal letter specifies the officer's decision was based on the following considerations: a lack of evidence that Ms. Ramirez and the Mr. Ma had lived together; Mr. Ma had not informed his parents of his relationship with Ms. Ramirez; their different ethnic backgrounds, religions and ages; as well as the fact that their religious differences were set aside in favour of a civil union shortly before Ms. Ramirez was removed from the country.
+IV.
+Decision under Review
+[13]
+The IAD found that Mr. Ma had not "met his burden to establish that, on a balance of probabilities, his marriage to the applicant [Ms. Ramirez] is genuine or that it was not entered into primarily for immigration purposes" (Applicant's Record at p. 8).
+[14]
+The IAD stated that the genuineness of a marriage is based on several factors which may vary from case to case and will be weighed according to the prevailing circumstances.
+[15]
+Ms. Ramirez did not testify at the hearing. The IAD cited the case of
+ <FRAGMENT_SUPPRESSED>  applicant is not required on all appeals; the testimony of the appellant, alone, can suffice to show the bona fides of their intentions. The IAD went on to state that in some cases the testimony of an applicant is necessary, for instance, in circumstances wherein an applicant has a questionable immigration history. The IAD held that Ms. Ramirez's immigration history and the timing of her marriage raised questions in respect of her intentions; therefore, her testimony was necessary to address these concerns.
+[16]
+The IAD found that Ms. Ramirez's testimony was also necessary to further examine the discrepancies in regard to her cohabitation with Mr. Ma and religious differences. The IAD did note evidence of communication between the two, as well as Mr. Ma's trips to Mexico and financial support that was given; nevertheless, serious concerns remained regarding the intentions of Ms. Ramirez which could not be addressed without her specific and direct testimony.
+[17]
+The IAD had noted that Ms. Ramirez was pregnant and, further, stated that the Mr. Ma "likely is the child's father". It held, nevertheless, that pregnancy is not a determinative factor when analyzing the genuineness of a marriage. The IAD stated that no evidence of support by Mr. Ma's family was offered at the time, nor was there any evidence that his family had any contact, during that period, with Ms. Ramirez and no evidence was offered that the family were, at the time, made aware of the pregnancy.
+IV.
+Issues
+[18]
+(1) Did the IAD apply the wrong test for genuineness?
+(2) Did the IAD make an unreasonable decision having regard to all the evidence before it?
+V.
+Relevant Legislative Provisions
+[19]
+Section 4 of the
+Regulations
+states:
+"
+Bad faith
+"4. For the purposes of these Regulations, a foreign national shall not be considered a spouse, a common-law partner, a conjugal partner or an adopted child of a person if the marriage, common-law partnership, conjugal partnership or adoption is not genuine and was entered into primarily for the purpose of acquiring any status or privilege under the
+Act
+."
+VI.
+Positions of the Parties
+Applicant's Position
+[20]
+The Applicant submits section 4 of the
+Regulations
+states that a foreign national shall not be a member of the family class if a marriage to a sponsor is not genuine and was entered into primarily for the purposes of immigration. The Applicant cites the case of
+ <FRAGMENT_SUPPRESSED>  for the proposition that section 4 is examined for both its prongs which are to be met before a marriage is considered to be genuine. The Applicant submits the IAD neither referenced this two-pronged approach nor did it analyze the evidence to indicate that this approach was followed.
+[21]
+The Applicant  <FRAGMENT_SUPPRESSED>  jurisprudence to indicate that the conception of a child is a strong indicator of a genuine marriage. The IAD was aware of this jurisprudence, but distinguished certain cases on the grounds that they involved children who were born prior to the refusal of a visa, not after it, as is the case at bar. The Applicant submits this misconstrues the very purpose of an appeal before the IAD, which is an appeal de novo.
+[22]
+The Applicant submits the IAD's finding in regard to the couple's different religious backgrounds is unreasonable. The Applicant states that he and Ms. Ramirez resolved the matter of their daughter's religious upbringing before she was born and, regardless of what the IAD held, no inconsistencies were evidenced by the testimony in respect of religion.
+Respondent's Position
+[23]
+The Respondent submits the IAD set out the correct legal test and properly applied it to the decision.
+[24]
+The Respondent submits the IAD's decision is based primarily upon the unexplained failure of Ms. Ramirez to testify at the hearing. The Respondent cites the case of <FRAGMENT_SUPPRESSED> , above, for the proposition that a court must presume that a failure to produce evidence that would logically be of assistance means the evidence would adversely affect the Applicant's case.
+[25]
+The Respondent notes that Ms. Ramirez has a questionable immigration history that calls into question her intentions.
+VII.
+Standard of Review
+[26]
+Courts have held that the IAD's factual findings are to be reviewed on a standard of reasonableness, having regard to the fact that an appeal before the IAD is a hearing de novo.
+[27]
+The Court, subsequent to discussion and analysis with the parties, recognizes that section 4 of the
+Regulations
+must be interpreted on a standard of correctness in accordance with the legislator's intention that the test be conjunctive.
+VIII.
+Analysis
+(1)
+Did the IAD apply the wrong test for genuineness?
+[28]
+Subsequent to an in-depth discussion in the Courtroom with counsel for each party respectively regarding the interpretation of the genuineness test, the Court is in full agreement with the Respondent bearing the circumstances of this case. The IAD did not apply the wrong test for genuineness.
+(2)
+Did the IAD make an unreasonable decision having regard to all the evidence before it?
+[29]
+Having established that the IAD had set out the correct legal test, the Court finds that the IAD properly applied the test to the evidence and facts before it. It is clear from the decision that the IAD was not satisfied that there was a genuine marriage; notwithstanding, the documentation in support of the relationship, it was only the sponsor who testified and his testimony did not satisfactorily resolve the material issues of credibility. The IAD could not resolve the contentious issues because only the sponsored spouse, herself, could have provided answers to dispel reasonable doubts in regard to the bona fides of the spousal relationship.
+[30]
+The IAD's conclusions are based upon a continuous and unresolved credibility concern which relates to factors described by the visa officer in his decision and Computer Assisted Immigration Processing System (CAIPS) notes. An adequate evidentiary basis exists for the IAD to suspect the spouse's motives and to conclude that her primary purpose for entering the marriage was immigration to Canada, the second prong of the test under section 4.
+IX.
+Conclusion
+[31]
+The standard of reasonableness dictates that this Court is to show deference to the IAD's reasoning and not to intervene unless it can be shown that the decision falls outside a range of "possible, acceptable outcomes which are defensible in respect of the facts and law" (
+ <FRAGMENT_SUPPRESSED>  at para. 47).
+[32]
+The Court is cognizant of its place within the Canadian immigration system in cases such as this. It is established law that an appeal before the IAD is an appeal de novo (
+ <FRAGMENT_SUPPRESSED> ; 360 F.T.R. 287; 2009 FC 1310, at para. 25). Therefore, the Applicant must convince the IAD, not this Court, that the marriage is genuine or was
+not entered
+into primarily for the purpose of gaining status under the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (
+IRPA
+). This Court's jurisdiction is relegated to that of review and it is not to tamper with the IAD's discretion if that discretion was reasonably exercised.
+[33]
+The IAD noted there is evidence to suggest the marriage is genuine; however, it could not be convinced of this fact, on a balance of probabilities, without the testimony of Ms. Ramirez, taking into account concerns regarding her intentions and various evidentiary discrepancies.
+[34]
+Subsequent to an analysis of the evidentiary material, the arguments of counsel and prevalent considerations specified above, the application for judicial review is dismissed.
+JUDGMENT
+[35]
+THIS COURT ORDERS that
+1. The application for judicial review be dismissed;
+2. No serious question of general importance be certified.
+Application dismissed.
+Editor: Sharon McCartney/ve

@@ -1,0 +1,696 @@
+I. Introduction
+[1]
+Scott, J.
+: The Applicants are seeking judicial review of a decision made by the Minister of Aboriginal Affairs and Northern Development Canada (the Minister), in the spring of 2011("the Decision"), changing the "reasonably comparable" approach to the assistance rates and eligibility criteria in the Income Assistance Program to apply a requirement of strict compliance with provincial assistance rates and eligibility criteria on the grounds that such change:
+a) is an unconstitutional abandonment or sub-delegation to the provinces of the federal government's power under subsection 91(24) of the
+Constitution Act, 1867
+(UK), 30 & 31 Vict, c 3, s 91, reprinted in RSC 1985, App II, No 5 [
+Constitution Act,
+1867] and will unconstitutionally bind its citizens by the laws of another government without specific enabling legislation;
+b) was made without an opportunity for meaningful consultation, thus failing to meet the obligations of the Crown which flow from its
+sui generis
+relationship with the Aboriginal peoples of Canada, from the honour of the Crown, and from international instruments;
+c) fails to meet the requirements of procedural fairness in accordance with the doctrine of legitimate expectations arising from the past history of dealings between the Crown and the Applicants (Amended Notice of Application, Joint Application Record [JAR], volume 2, p 379-380).
+[2]
+For the reasons that follow, this application for judicial review is allowed.
+II. The Parties
+A. The Applicants
+[3]
+The Applicants represent the Band Councils and membership of twenty six (26) Maritime and Maliseet "bands" as defined under the
+Indian Act,
+RSC 1985, c I-5 [
+Indian Act
+].The representative Applicants are the following:
+a) the Elsipogtog First Nation represents itself and eight other Mi'gmag First Nations communities located in New Brunswick;
+b) the Tobique First Nation represents itself and three other Maliseet First Nations communities located in New Brunswick;
+c) the Eskasoni First Nation represents itself and eleven other Mi'kmaq First Nations communities in Nova Scotia;
+d) the Abegweit First Nation represents itself, one of the two First Nations communities in Prince Edward Island;
+e) the four First Nations who were added to these proceedings by order of Justice Mary Gleason dated September 21, 2012.
+III. The facts
+B. The Respondent
+The Attorney General of Canada
+[4]
+The Government of Canada provides essential services and programs to "Indians" residing on "reserves" (as these terms are defined under the
+Indian Act
+). There is no specific federal legislation regulating the provision of these essential services and programs.
+[5]
+In the 1960's the Department of Indian Affairs and Northern Development [DIAND], now recently renamed Aboriginal Affairs and Northern Development Canada [AANDC], identified a gap in the provision of income assistance to First Nations. The solution proposed by AANDC and approved by cabinet was the adoption of provincial and local municipal rates for food and clothing, fuel, household equipment, public utilities such as water and electricity, rent, as may be applicable.
+[6]
+In 1964, the Treasury Board forwarded a letter to the Deputy Minister of Citizenship and Immigration (Indian Affairs Branch) approving funding to what is now AANDC, to administer relief assistance for First Nations in accordance with provincial or local municipal standards and procedures in force where reserves are situated (the "Directive").
+[7]
+In 1967, AANDC implemented the Directive through the development of regional manuals, all the while attempting to negotiate cost-sharing agreements with the provinces under Part II of the
+Canada Assistance Plan,
+SC 1966, c 45 [repealed SC 1995, c 17, ss 31-32] entitled "Indian Welfare". Only one agreement for the provision of provincial welfare to Indians on reserves was successfully negotiated and it was with the Province of Ontario.
+[8]
+AANDC directly administered the provision of essential services to First Nations up until the late 1970's.
+[9]
+By the 1980's, as a result of federal policy being directed towards self-government negotiations, AANDC began entering into agreements with First Nations communities that allowed them to administer the Income Assistance Program to their members. These agreements were funded on an actual expense basis and are now referred to as Comprehensive Funding Agreements [CFAs]. The role of AANDC staff was to ensure, through regular accountability and compliance reviews, as well as audits, that the appropriate eligibility criteria and rates were being applied.
+[10]
+In June 1986, the Treasury Board adopted the Increased Ministerial Authority and Accountability [IMAA] policy and, soon after, an IMAA Memorandum of Understanding [MOU] between the Treasury Board and DIAND at the time (now AANDC) was signed. The MOU described the parameters within which AANDC could spend its appropriated funds. Like the Directive it replaced, the MOU requires AANDC's income assistance programs to apply the qualifying requirements and assistance schedules as the general assistance program of the province or territory in which it is administered. The pertinent sections of the MOU provide as follows:
+"A.2 Delegation of Authorities: Constraints
+As a result of the decision of TB Ministers to implement IMAA, DIAND enjoys broad discretion to reallocate resources (financial and person-year) within existing appropriations, provided that such reallocations:
+- respect the mandate of the department;
+- are consistent with government-wide policies and objectives established by Treasury Board and Cabinet;
+- do not draw funds away from capital investment;
+- can be funded in future years within approved reference levels; and
+- do not increase the size or the wage bill of the public service.
+DIAND is expected to live within approved resources which may be adjusted through the Multi-Year Operational Plan (MYOP) to address new policy initiatives, extraordinary workloads, and price increases required to fund programs such as elementary-secondary education delivered by provincial governments. It is understood that while the department may reallocate funds which are surplus to services involving basic needs it will not request any supplementary funding for its basic needs programs beyond those funds approved in its MYOP.
+...
+B.3 Administrative Accountabilities
+The DIAND accountability framework for TB policies dated July 13, 1990, is held by the TBS and departmental spokespersons named in Section B.7 and defines, for key TB policies:
+- policy objectives;
+- performance targets/results expected;
+- performance indicators;
+- reporting requirements; and/or
+- the basis on which TB will monitor performance.
+...
+C.3 Social Development Activity (IIAP)
+...
+I) Social assistance. The department funds social assistance in accordance with the service standard and method of program delivery as outlined below:
+- Service Standard. For each province and the Yukon Territory, the Social Assistance Program must adopt the qualifying requirements and assistance schedules of the general assistance program of the province or territory. The level of benefits provided are
+[sic
+] adjusted to reflect the services and benefits provided to Indian people through other federal programs, e.g. the Indian Housing Program and Non-Insured Health Benefits.
+...
+Funding for social assistance services is provided by the department for the following items, but not limited to:
+- Financial Assistance. Funds for income support payments for eligible recipients consistent with the assistance schedules of the provincial/territorial general assistance program; and
+- Service Delivery. Funds provided for the provision of services to qualified applicants.
+- Method of Program Delivery. While the department may directly administer the social assistance to qualified applicants, it may be alternatively delivered by bands or district/tribal councils. The department is authorized to enter into and amend agreements/arrangements with the bands or district/tribal councils which deliver the program.
+In the case of the Province of Ontario, the department compensates the province for social assistance provided to Indians with reserve status. The payments are made in accordance with the provisions of the Memorandum of Agreement Respecting Welfare Programs for Indians between the Government of Canada and the Government of Ontario of 1965 and as subsequently amended.
+- Related Social Assistance Authorities. The department currently has Treasury Board authority related to the use of the social assistance entitlements of participants in employment and training projects. The authorities listed below remain in effect:
+- Work Opportunity Program - TB 705360 and 711118
+- Indian Community Human Resources Strategies - TB 808548
+...
+Annex I:
+Program Performance Frameworks
+The enhanced ministerial accountability in the area of program delivery that is being provided through the IMAA Memorandum of Understanding consists of program performance frameworks for four key areas of the department and an outline of the proposed development of performance frameworks for the other significant areas of the department.
+The four completed program performance frameworks are for the following activities:
+- Education
+- Social Development
+- Capital Management
+- Administration
+Expenditures on those activities constitute 80% of total expenditures of the Indian and Inuit Affairs Program, the Northern Affairs Program and the Administration Program. The frameworks include the overall activity objective, sub-objectives, related results, performance indicators and details on reporting and targets. Also, some of the frameworks include commitments to make specific management improvements.
+In the first Annual Management Report (AMR) there will be reporting against the various indicators which follow. Targets for these indicators will be established in the first AMR so that in the second AMR there will be reporting against these targets. In order to provide sound data to the Treasury Board and to improve policy development, the department is enhancing the quality and extent of information through such initiatives as the required post-censal survey of aboriginal persons.
+. . .
+Social Development: Program Performance Framework
+General: The Social Development activity consists of three major programs: Social assistance, Indian child and family services, and adult care.
+Social Assistance: The objective of the social assistance program is to ensure that eligible Indians receive the same level of social assistance benefits as other provincial residents and to reduce Indian dependence on social assistance to the extent possible.
+Sub-Objectives
+Results
+Indicators
+Targets/Reporting
+• Same level of benefits
+• Fair treatment of eligible on-reserve Indians who will receive benefits comparable to those available to other Canadians
+• Percentage of social assistance funds under bank or departmental administration that have been correctly administered
+• Develop systems and targets for AMR June 1991. Report against targets June 1992 and subsequent years
+• Reduced dependency rate
+• Greater self-reliance
+• Percentage of social assistance budget transferred under existing authorities to provide training and development to eligible individuals
+• This indicator will not be targeted because it is subject to many uncontrollable influences. The indicator will be reported in all AMRs
+Evaluation: An evaluation of the longer term impacts of the social assistance transfer authority will be reported on in the AMR June 1993 or in a previous AMR.
+[11]
+The MOU also provided AANDC with the flexibility to enter into Alternative Funding Agreements [AFAs]. Unlike CFAs, AFAs are multi-year agreements under which First Nations receive a block of funding. AFAs also allowed First Nations to apply any unused or surplus funds in one program and transfer them to another approved program. Under CFAs, First Nations are required to return any surplus funds to AANDC. First Nations that qualify for funding, but do not qualify for an AFA, may enter into a one-year CFA.
+[12]
+Since 1991, AANDC has provided regional and national program manuals. These identified policy priorities and set the rates and eligibility criteria for income assistance on reserves. Some First Nations have developed their own policy manuals.
+[13]
+In 1991, AANDC developed a regional manual called the Atlantic Office Social Assistance Manual for New Brunswick (the 1991 Manual). That Manual did specify that First Nations had to administer income assistance at provincial rates and standards but, contrary to the Directive, the suggested rates were not identical to those in the provinces (see Susan Brown affidavit, JAR, volume 2, tab 4, paras 41-46 and Dougal MacDonald cross-examination, JAR, volume 7, pp 2483 and 2484).
+[14]
+Aside from a rate change in 1994, the policy priorities, rates and eligibility criteria for income assistance outlined in the 1991 Manual have remained the same.
+[15]
+Prior to the completion of the 1991 Manual, AANDC received comments from First Nations in New Brunswick. In April 1990, the Elsipogtog First Nation sent a report to AANDC containing their comments and concerns on the draft 1991 Manual. The Elsipogtog had concerns regarding AANDC's decision to adopt and follow the rates and conditions established by the New Brunswick government.
+[16]
+In 1994, the Elsipogtog developed its own community manual, called the Etpiiteneoei Program - Supports to Personal, Family and Community Development (the "Etpiiteneoei Manual"), which First Nations felt better reflected the social reality of life on their reserve than the regional manual. The Etpiiteneoei Manual and the 1991 Manual differ primarily in their criteria for determining eligibility for income assistance. The Elsipogtog have been applying the Etpiiteneoei Manual since at least 1999 (and possibly as early as 1994). The parties disagree over whether AANDC ever authorized the Elsipogtog to use the Etpiiteneoei Manual in administering income assistance on their reserve.
+[17]
+AANDC did not conduct any compliance reviews on First Nations under AFAs between 1991 and 2008.
+[18]
+In or around 2004, AANDC developed a national manual entitled "Income Assistance- National Standards and Guidelines Manual" (the "National Manual"), with the goal of establishing national standards to guide the development of regional policies. A draft of the National Manual dated February 16, 2004 specifies, at section 1.5, that, as a general principle, income assistance would be delivered at standards reasonably comparable to those applied in the province or territory where the reserve is located.
+[19]
+Additional national manuals were published in July 2006 and January 2007. Under the heading "Roles and Responsibilities", in section 1.5.5., both manuals retained the principle of reasonable comparability as stated in the 2004 version that is:
+". . . delivery of income assistance at standards reasonably comparable to the reference province or territory of residence" (see JAR, volume 3, p 873).
+[20]
+A draft Atlantic Region Social Programs Manual (the "Atlantic Manual") dealing with income assistance as well as other social programs on-reserve in the Atlantic Region was completed and circulated to AANDC's Regional Operations and Program Committee at its June 2011 meeting. This new manual did not refer to reasonable comparability but instead mandated strict adherence or mirror-like compliance with provincial rates and standards. It stated that "[t]he Income Assistance program on a reserve is administered using the same rate structure and eligibility criteria as the parallel program administered by the province for off reserve residents" (see JAR, volume 5, p 1844). It also specified that "[b]asic needs rates should follow the standards and rate schedules of the province" (see JAR, volume 5, p 1852). In January 2012, AANDC gave notice that this Manual would not be implemented and would be replaced by a revised National Manual (the "National Manual (2012)").
+[21]
+According to Dougal MacDonald, the Assistant Director General of AANDC for Atlantic Canada, the National Manual (2012) replaced the draft Atlantic Manual. The Chiefs and Councillors of Atlantic Canada received a copy of that latest version of the National Manual (2012) in view of their attendance at an Aboriginal Affairs "How To" Workshop. It is important to note the wording retained in the National Manual (2012). It reads as follows:
+"1.0 Main Objective and Program Description
+1.1 The purpose of the IA program, as a last means, is to:
+• support the basic and special needs of indigent residents of Indian reserves and their dependants; and
+• support access to services to help clients transition to and remain in the workforce.
+1.2 The objective of the program is to provide funding so that:
+• basic needs for food, clothing and shelter are met;
+• employment and pre-employment support is provided;
+• special needs allowances are available for goods and services essential to the physical or social well-being of a client;
+• programs will be delivered at standards
+reasonably comparable
+to those of the reference province/territory of residence; and (emphasis added)
+• amounts payable for income assistance will be equivalent to the rates of the reference province or territory". (see JAR, volume 2, p 416)
+[22]
+The manual explains that the "amounts payable for income assistance will be equivalent to the rates of the reference province or territory". The National Manual (2012) thus mandates a mirroring of provincial rates but retains the reasonably comparable criteria in respect of eligibility. It is important to note that the National Manual (2012) does specify, at page 16, that a client must demonstrate that he is eligible for basic or special financial assistance (as "defined by the province or territory of residence") (see JAR, volume 2, p 418, section 3.1). Consequently it is a strict application of provincial eligibility criteria.
+[23]
+The National Manual (2012) contains only 4 pages on AANDC's Income Assistance Program on-reserve. AANDC informed participants at the mid-February 2012 "How-to" meeting that First Nations in New Brunswick would have to apply New Brunswick's Social Assistance Manual.
+IV. The issues and the standard of review
+A. The issues
+[24]
+The Applicants have suggested the following issues for review:
+1. Is the Decision constitutional on division of powers principles?
+2. Does the Decision fetter, or otherwise constitute an abuse of the Minister's discretion?
+3. Does the Decision breach the Applicants' rights to procedural fairness?
+[25]
+The Respondent on the other hand casts the points in issue as follows:
+1. Are the Crown's funding decisions subject to judicial review?
+2. The Minister did not delegate his powers.
+3. Even if the Decision can be reviewed, the evidence does not support the Applicants' claim.
+4. The Minister did not breach procedural fairness in the course of making his decision.
+5. The Minister's implementation of his funding authority does not engage either the honour of the Crown or a duty to consult.
+[26]
+The Court, however, concludes that the following issues are determinative of this application:
+1. Does the Minister's Decision to have rates and eligibility requirements applicable to funding of income assistance on reserves mirror those provided by the province conform to the Treasury Board's MOU?
+2. Did the Minister breach the Applicants' right to procedural fairness?
+B. The standard of review
+[27]
+It is clear that the Decision is subject to judicial review for compliance with the
+Constitution Act,
+1867. The Respondent argues that this Court cannot review the Minister's decision on principles of administrative law as it is a funding decision at its core and would consequently engage the Court in political decision-making on how the Crown should be exercising its spending power. The Court disagrees in the present instance for the following reasons.
+[28]
+Professor David J. Mullan defines administrative law and the relationship between courts and the administrative process in the following manner:
+"[...] Administrative law is ... the body of law that establishes or describes the legal parameters of powers that exist by virtue of statute or residual Royal prerogative. ... [A]dministrative law embodies the principles by which the courts supervise the functioning of persons and bodies that derive their powers from either statute or the Royal prerogative" (David J. Mullan,
+Administrative Law
+, (Toronto: Irwin Law, 2001) at 3).
+[29]
+The guiding principle behind the above definition is the respect for the division of powers between the executive, legislative and judicial branches of our constitutional democracy. As Justice Barnes found in
+ <FRAGMENT_SUPPRESSED> :
+"One of the guiding principles of justiciability is that all of the branches of government must be sensitive to the separation of function within Canada's constitutional matrix so as not to inappropriately intrude into the spheres reserved to the other branches: see
+ <FRAGMENT_SUPPRESSED> , at paragraphs 33 to 36 and
+ <FRAGMENT_SUPPRESSED>  (2004), 244 D.L.R. (4th) 175 (F.C.), at paragraph 39. Generally a court will not involve itself in the review of the actions or decisions of the executive or legislative branches where the subject matter of the dispute is either inappropriate for judicial involvement or where the court lacks the capacity to properly resolved [
+sic
+] it."
+[30]
+Paragraph 4(
+a
+) of the
+DIAND Act
+provides that "[t]he powers, duties and functions of the Minister extend to and include all matters over which Parliament has jurisdiction, not by law assigned to any other department, board or agency of the Government of Canada, relating to (a) Indian affairs; [...]". Were this the only statute prescribing the Minister's powers relative to income assistance funding for First Nations, it would be difficult for the Court to intervene. The Decision would truly be an example of a government (i.e. executive) decision motivated by, in this case, government policy. Such decisions are generally final and not reviewable on administrative law principles (see
+ <FRAGMENT_SUPPRESSED>  [
+Thorne's Hardware
+] at p 111;
+Masse
+, cited above, at para 214).
+[31]
+Judicial review on grounds of an abuse of ministerial discretion is difficult in the case at bar because such review is limited to 1) decisions that are contrary or inconsistent with the purpose of the discretion-granting statute; 2) decisions that are so unreasonable that they amount to an absence of good faith (see
+Conseil des  <FRAGMENT_SUPPRESSED> ).
+[32]
+The
+DIAND Act
+is of little assistance in the present case because the statute is not specific to income assistance for First Nations and thus offers no specific purpose against which to assess the Decision. Indeed, the
+DIAND Act
+is limited in scope, as we have stated, since it confines the Minister's powers, duties and functions related to AANDC as those over which Parliament has jurisdiction and not handed over to another department board or agency of the Government of Canada. As noted above, the Parliament of Canada has legislative authority regarding Indians by virtue of subsection 91(24) of the
+Constitution Act
+, 1867. Parliament has yet to adopt specific legislation governing income assistance to First Nations.
+[33]
+Because the Decision involves the expenditure of public monies, however, the Minister's actions are circumscribed by the provisions of the
+Financial Administration Act
+, RSC 1985, c F-11 [
+FAA
+] and by the legal and regulatory requirements relating to Crown expenditures and contracts (e.g. the annual
+Appropriation Acts
+). Whether the Decision is in compliance with the
+FAA
+is clearly subject to judicial review (see
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]). Less obvious, though, is whether the Decision is reviewable on the basis that it does not comply with the Treasury Board's Directive, MOU or Policy on Transfer Payments.
+[34]
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] at para 11, Justice Strayer concluded that the question as to whether Treasury Board "directives create legal rights which a court can define or enforce, appears from the jurisprudence to depend on what the intent was and the context in which the directive was issued".
+[35]
+According to the Respondent, the Treasury Board's MOU "was an exercise of [its] legal authority over the financial management of the funds [under paragraph 7(1)(
+c
+) of the
+FAA
+] and constituted a constraint on the Minister's authority to spend such funds" (Respondent's Memorandum, para 17). The Court agrees. Given that Parliament has refrained from legislating in the area of income assistance to First Nations, the Treasury Board's Directive, MOU and Policy on Transfer Payments are the only documents which express Parliament's purpose or goal in providing funds for income assistance on reserves. In that sense, they represent a kind of legislative decision- making that binds the Minister's discretion over the expenditure of funds authorized for that purpose. They are, in this Court's view more than simple guidelines for the expenditure of funds and the efficient management of the income assistance program since they also set out criteria against which these funds can be expended and results to be attained (see MOU).
+[36]
+Both parties acknowledge that the Treasury Board, via its Directive, MOU and Policy on Transfer Payments, granted AANDC funding authority to administer income assistance programs at rates and standards "comparable" to those offered by the provinces. The only significant point of contention between the parties is the extent to which the National Manual (2012) imposes rates and eligibility requirements that are "comparable" to those offered in the referenced Provinces. In other words, the correct interpretation of the word "comparable" is at issue.
+[37]
+The applicable standard of review for the interpretation of Treasury Board directives was considered by Justice Evans in
+ <FRAGMENT_SUPPRESSED> was determined to be that of correctness. This Court also referred to <FRAGMENT_SUPPRESSED> , cited above, which related to the grievance board's interpretation of wording used in a Treasury Board Policy and for which the Court determined that the appropriate standard of review was correctness (see <FRAGMENT_SUPPRESSED> , cited above, at para 9). It could be argued, however, that the appropriate standard now is that of reasonableness, since, as was stated in
+ <FRAGMENT_SUPPRESSED>  at para 54 [ <FRAGMENT_SUPPRESSED> ], where the tribunal is interpreting its own statute or statutes closely related to its function with which it will have particular familiarity then the standard is normally that of reasonableness. The case of
+Alberta (Information and Privacy commissioner) v Alberta Teacher's Association,
+2011 SCC 61 at para 34 reinforced this statement:
+"[U]nless the situation is exceptional, and we have not seen such a situation since Dunsmuir, the interpretation by the tribunal of 'its own statute or statutes closely connected to its function, with which it will have particular familiarity' should be presumed to be a question of statutory interpretation subject to deference on judicial review".
+[38]
+Since all government departments are subject to the
+FAA
+, cited above, and to the
+Appropriation Acts
+, these statutes can be viewed as closely connected to their functions. The Minister's authority to make the expenditures related to income assistance for First Nations recipients is circumscribed by the MOU, the
+FAA
+and the
+Appropriation Acts
+. Consequently, it is this Court's view that the reasonableness standard of review should apply in this instance as it reviews the first issue.
+[39]
+This Court concludes that it has the appropriate authority to review the Minister's Decision to interpret the meaning of the words "adopt", "comparable" and "consistent with", in the MOU, as meaning to mirror provincial rates. Contrary to the Respondent's argument it is not the Minister's spending authority which is being reviewed but his interpretation of the criteria applicable to spending under that authority and whether that interpretation will result in the attainment of the objectives set by the MOU with respect to the Income Assistance Program.
+[40]
+As to the second issue,
+i.e.
+procedural fairness, the appropriate standard of review is correctness (see
+ <FRAGMENT_SUPPRESSED> ).
+V. The parties' position
+A. The Applicants' position
+[41]
+The Applicants present three main arguments in support of their conclusion that the Court must quash the Minister's decision to impose the mirroring of provincial rates and eligibility criteria.
+[42]
+The first proposition is rooted in constitutional law. The Applicants submit that it is unconstitutional for one level of government to bind its citizens to the laws of another government, in this case the provincial laws on welfare. They cite a Supreme Court decision,
+Reference re: Anti-Inflation Act
+(Canada)
+, [1976] 2 SCR 373 [
+Reference re: Anti-Inflation Act
+] and cite Justice Laskin, at paragraph 89, for the proposition that the Minister of Indian Affairs does not have the authority to bind First Nations under Canada's subsection 91(24) jurisdiction to laws not enacted by Parliament nor made applicable to First Nations by authorizing legislation.
+[43]
+The second argument brought forth by the Applicants is to the effect that the Minister's decision to impose mirror provincial rates on First Nations reserves in the Maritimes is so flawed that it constitutes an abuse of discretion because it was made in the absence of proper consultation and without consideration of its impacts on recipients.
+[44]
+The Applicants submit that AANDC does not know the full impact of the decision and failed to assess its repercussions on current recipients. They point, firstly, to the administrative chaos and the increased likelihood of non-compliance that will result from the implementation of the National Manual (2012) since First Nations social workers are now required to access the applicable provincial social manual online. The Applicants also indicate that the current computer systems used by several First Nations are not compatible with provincial assistance data systems (see JAR, volume 2, tab 6, paras 16 to 28 and paras 66 to 73, Affidavit of Susan Brown).
+[45]
+The second issue raised by the Applicants pertains to the changes in eligibility criteria as a result of moving from a reasonably comparable approach that was embodied in the 1991 Atlantic Manual to a strict adherence to provincial standards mandated by AANDC. Their main contention on that point is that several types of income which are not currently calculated into a recipient's gross income will now be calculated under provincial rules, thereby rendering several recipients non-eligible. In Nova Scotia, certain benefits for seniors will no longer be allowed, similarly, the criteria for youth eligibility will change from 18 to 19 years of age (see Dr. Wien's presentation dated April 24, 2011, JAR, volume 8, tab K, p 2758).
+[46]
+The Applicants also claim that there exists a lack of comparability between provincial regimes and the needs of First Nations communities in Atlantic Canada. In view of the imposition of a strict adherence to the basic assistance rates and special needs as defined by the applicable provincial manuals, it is the Applicants' contention that provincial subsidies and programs, which are complementary to these schemes, will not be accessible to First Nations recipients and therefore create a significant disparity. They invoke a letter sent by the assembly of First Chiefs in New Brunswick to the Minister of AANDC in April 2011 identifying 29 programs in New Brunswick that supplement the basic rate of welfare recipients in that province that are not accessible to First Nations recipients living on reserves. A similar concern exists in relation to complementary social benefit programs in Nova Scotia (see JAR, volume 1, tab 2, p 89). The list of programs identified in New Brunswick is the following:
+"Affordable Housing Program Subsidies
+Daycare Assistance Program
+Disability Support Program
+Emergency Fuel Benefit
+Energy Efficiency Retrofit Program
+Fuel Supplement
+Federal/Provincial Repair Program
+Health Services Allergy Serum Program
+Health Services - Convalescence and Rehabilitation Program
+Health Services - Dental Program
+Health Services - Enhanced Dental Program
+Health Services - Hearing Aid Program
+Health Services - Hyperalimentation Program
+Health Services - Orthopedic Program
+Health Services - Ostomy Program
+Health Services - Out-o-Province Medical Program
+Health Services Oxygen and Breathing Support Program
+Health Services - Prosthetics Program
+Health Services - Vision Care Program
+Health Services - Wheelchair and Mobility Support Program
+Home Heating Supplement
+Home Completion Loan Program
+Home Ownership Support Program
+Housing Assistance for Persons with Disabilities
+Long-Term Care Subsidies
+Prenatal Benefits Program
+Postnatal Benefits Program
+Rent Supplement Assistance Program
+Seniors with Low Income Benefit"
+[47]
+The fourth problem identified by the Applicants is the lack of shelter supplement and its impact on the Canada Mortgage and Housing Corporation [CMHC] low-income housing loans. As the Applicants explain:
+"Most social assistance recipients on reserve live in Band-owned housing financed under loan agreements between the First Nation and Canada Mortgage and Housing ("CMHC"), pursuant to s. 95 of the
+National Housing Act
+, RSC 1985, c N-11. Pursuant to these agreements, the loans from CMHC to build each home are to be repaid through the occupiers' social assistance payments. CMHC loan repayments can be in the range of $500-600 per month on reserves in New Brunswick. .... Therefore, if a person on reserve is receiving New Brunswick's basic Schedule B amount of $827, after paying their rent, the individual will be left with only $200-300 for utilities, food, transport, and personal need items for the entire month" (Applicants' Memorandum, para 55).
+[48]
+The Applicants equally allege that a similar problem will exist in Nova Scotia. They referred the Court to Dr. Wien's presentation, a consultant hired by the joint committee, and more particularly to his comparison between what a single adult currently receives and what he would be receiving as a result of a strict mirroring of provincial rates.
+Component
+Presently receiving on reserve (monthly)
+Would receive under provincial (monthly)
+Basic assistance
+$209.70
+$229.00
+Supplement for household
+$108.60
+-
+Shelter
+-
+$620.00
+--Electricity
+Tbd
+-
+--Heat
+$373.00
+-
+--Mortgage
+$411.00
+-
+Benefits for 2 children ages 5 and 7
+$276.00
+-
+TOTAL
+$1,378.90
+$849.00
+[49]
+The Applicants identified two other areas in New Brunswick where the strict application of provincial rates would create significant difficulties. These are the reduction in utilities supplement and the reduction in funding for special diet supplements.
+[50]
+The Applicants equally contend that welfare recipients in Nova Scotia will no longer be able to keep the National Child Benefit which represents approximately $56-$84 every second week (see Dr. Wien's presentation, JAR, volume 8, tab 18, para 38).
+[51]
+The Applicants submit that AANDC acknowledges that the Decision to mirror provincial rates and eligibility criteria is not impact-neutral but emphasizes that First Nations will be receiving the same amount of money under their respective funding agreements and can therefore supplement deficiencies, and demise new programs to alleviate these shortfalls. The Applicants take exception to this point of view and allege that the wording in the new agreements does not necessarily provide the flexibility to adequately compensate any shortfall.
+[52]
+In view of the fact that the Government of Canada has chosen not to legislate the provision of services to First Nations, the Applicants submit that the discretionary nature of the Decision should not shelter it from judicial review. Indians on reserves should be entitled to the same rights in terms of their access to judicial review as other Canadians, notwithstanding the fact that the Minister's decision is discretionary since there is no statutory framework imposing boundaries on the Minister with respect to the provision of welfare services to First Nations.
+[53]
+The Applicants also look to Canada's commitment in article 5 of the
+Social Union Framework Agreement
+[SUFA] and Canada's endorsement of the
+United Nations Declaration on the Rights of Indigenous Peoples
+[
+UNDRIP
+], more specifically articles 19, 21 and 43 to argue that both instruments reflect values and principles that should have guided the Minister in his decision making.
+[54]
+The Applicants also argue that the honour of the Crown is at stake in all dealings between Canada and its Aboriginal peoples (
+ <FRAGMENT_SUPPRESSED>  [
+Baker
+], the Applicants submit that, when applying the factors identified by that decision to assess the reasonableness of the Decision, the Court must consider the original intent behind the 1964 Directive. The Court should consequently apply a contextual approach in assessing the discretionary Decision taken by the Minister.
+[56]
+Another argument presented by the Applicants is based on the Minister's failure to provide an opportunity for meaningful consultation which, in turn, deprived them of procedural fairness. Applying the five principles set out in paragraphs 23 to 27 of
+Baker
+cited above, that is:
+(1) the nature of the decision being made and the process followed in making it;
+(2) the nature of the relevant statutory scheme;
+(3) the importance of the decision to the individuals affected;
+(4) the legitimate expectations of the individual challenging the decision;
+(5) the decision maker's own choice of procedure.
+[57]
+The Applicants contend that factors 2 to 4 weigh heavily in their favour, factor 5 is irrelevant and factor 1 is neutral; consequently, the Court should intervene as a majority of factors favours the Applicants.
+B. The Respondent's position
+[58]
+The Respondent presents the following arguments to conclude that the Court should deny this application for judicial review.
+[59]
+According to the Respondent, the Court should not review a policy decision. In the case at bar, the Minister's Decision is, at its core, a decision with respect to the disbursement of public monies, that is, how to fund income assistance for First Nation members living on reserves through a grant, subject to certain conditions.
+[60]
+The Respondent also alleges that Courts, as they exercise their judicial review function, must keep in mind the doctrine of separation of powers and should consequently only review a minister's decision if that decision falls outside of the exclusive powers that belong to the executive or legislative branches of government.
+[61]
+The Respondent asserts that the Applicants are, in substance, asking the Court to engage in political decision-making about how the Crown should spend its monies. According to the  <FRAGMENT_SUPPRESSED>  [
+Masse
+], clearly stand for the proposition that such decisions are not subject to judicial review by the Courts.
+[62]
+Referring to the Federal Court of Appeal's decision in <FRAGMENT_SUPPRESSED> , cited above, the Respondent reminds the Court that the disbursement process must adhere strictly to the administrative procedure to ensure compliance with the rules set by the Treasury Board and proper monitoring of the Crown's expenditures. The procedure in this instance requires that the sums voted and authorized by Parliament cannot be exceeded and must be disbursed in the financial year in which they are approved. AANDC is accountable to Parliament with respect to these expenditures.
+[63]
+Since Treasury Board approved the funding authority for the Minister to issue contributions for income, and since the Minister has chosen not to legislate as to how to provide income assistance programs to First Nations, it is the Respondent's view that such a decision is not reviewable by the Court.
+[64]
+The Respondent equally rejects the Applicants' submission that the reference to provincial standards constitutes an unconstitutional delegation of power because, in this instance, as confirmed by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  the adoption of provincial standards does not amount to a delegation of authority. The Respondent also disputes the relevance of the doctrine of
+Reference: Re Anti-Inflation Act
+(cited above) cited by the Applicants since, in the present instance, there is no abdication of federal responsibility as there was by the Province of Ontario in the latter case when it adopted federal standards.
+[65]
+The Respondent also takes exception with the Applicants' position that the introduction of CFAs and AFAs provided the Big Cove First Nation with the authority to implement its own manual without regard to the existing provincial scheme. Such a delegation, according to the Respondent, would have been illegal since AANDC never intended nor could they transfer the power to determine the eligibility requirements and rates to First Nations administrators.
+[66]
+According to the Respondent, the 1991 Manual is clear and leaves no room for discussion. AANDC could not transfer the power to determine the eligibility requirements and rates to First Nations administrators since AANDC is accountable to Parliament through the Minister for the expenditure of funds. Consequently, there is no decision to review since AANDC never authorized the use of the First Nations manual.
+[67]
+The Respondent also submits that the factual evidence does not support the Applicants' contention that the Minister's Decision constitutes a change in policy that is subject to review by this Court. On that score, the Respondent maintains that the Decision remains, at its core, a funding decision which is immune from judicial review.
+[68]
+The Respondent asserts that the status quo remains until this Court determines the outcome of this application. That status quo is based on comparability with provincial rates and eligibility criteria. It is the Respondent's position that the status quo, as defined by the Applicants from New Brunswick, does not reflect the true state of affairs because the eligibility criteria applied by the First Cove First Nation and Kingsclear, Oromocto and Woodstock is not reasonably comparable to those of the Province of New Brunswick as mandated by the 1991 Manual.
+[69]
+With respect to the Nova Scotia First Nations, the Respondent claims that the status quo is the 1991/1994 Nova Scotia manual but it is not in a position to determine what eligibility criteria or rates have been applied between 1991 and 2008.
+[70]
+According to the Respondent, the First Nations Manual is not reasonably comparable to the reference provinces and it does not reflect the status quo. Consequently, the Respondent disputes the Applicants' position that the Minister actually changed the policy. The Respondent alleges that the evidence points to greater emphasis being placed on compliance with provincial rates and eligibility criteria rather than an actual change in policy. It is argued that only two significant things happened since 1991. First Nations did not follow the 1991 Manual and secondly AANDC did not conduct compliance reviews on AFA funded First Nations before 2008.
+[71]
+Finally, the Respondent submits that procedural fairness was afforded to the First Nations as administrators and to recipients before implementation of the Minister's decision and there was no duty to consult or breach of the honour of the Crown in the present case.
+[72]
+Since there is no potential Aboriginal claim or right to funding arising out of subsection 35(1) of the
+Constitution Act,
+1982, s 35, being Schedule B to the Canada Act 1982 (UK), 1982, C 11 [
+Constitution Act
+, 1982], the Respondent contends that the honour of the Crown is not engaged.
+[73]
+The Respondent points to the notice provided to First Nations in May 2011 to implement provincial rates and eligibility criteria and the opportunity to raise questions on the Manual during a session held for that very purpose as evidence of consultation. The joint Steering Committee and working subcommittee that was set up, but subsequently disbanded, when First Nations representatives withdrew, is also viewed by the Respondent as another example of the consultation and discussions that took place and the opportunity afforded to First Nations administrators to have input and receive training.
+[74]
+According to the Respondent, First Nations recipients are entitled to appeal from any decision of First Nations administrators, as provided in the funding agreements and the 1991 Manual. The Applicants are, therefore, not prejudiced by the lack of legislative framework. Furthermore, the Respondent underlines that the appeal decisions of the Regional Appeal Board are subject to judicial review.
+[75]
+The Respondent also states that the
+UNDRIP
+cannot transform procedural fairness into a substantive right.
+Preliminary Issues -
+What is the Decision under review
+?
+[76]
+The Applicants describe the Decision under review as AANDC's "new interpretation of its program directive from (a) reasonable comparability to (b) one of strict adhesion, or what has been called "mirror" compliance with provincial rates and standards" (Applicants' Memorandum, para 35). They qualify the Decision as discretionary and as "a deliberate choice of the government, done to save costs and reinvest saving (sic) into 'active measures'" (Applicants' Memorandum, para 125).
+[77]
+Under subsection 2(1) and paragraph 4(
+a
+) of the
+DIAND Act
+cited above, the Minister of Aboriginal Affairs (the Minister) is a delegate of the Canadian Parliament and has "[t]he powers, duties and functions ...over which Parliament has jurisdiction, not by law assigned to any other department, board or agency of the Government of Canada, relating to (a) Indian affairs; ..." (paragraph 4(
+a
+) of the
+DIAND Act
+).
+[78]
+Parliament's authority to legislate in respect of Indians comes from subsection 91(24) of the
+Constitution.
+The Applicants submit that, because Canada has yet to enact legislation with respect to income assistance on Indian reserves, AANDC's involvement in Indian welfare through contribution arrangements, directives and policies, must therefore be qualified as an exercise of "discretionary decision-making" (Applicants' Memorandum, para 73).
+[79]
+The Respondent, on the other hand, argues that the Minister has no discretion over the amount of funding First Nations' receive under the heading of income assistance. According to the Respondent, what the Applicants are really seeking to challenge is the Minister's decision to provide income assistance with qualifying requirements and assistance schedules that mirror the general assistance program of the province or territory in which it is administered under the Treasury Board Directive and subsequent MOU.
+[80]
+While the federal Parliament has legislative authority over income assistance on reserves, it has never exercised it. According to the Respondent, the constitutional authority for the federal provision of income assistance to First Nations is derived from "the federal spending power and legislative authorization to dispense funds from the annual
+Appropriation Acts
+" (Respondent's Memorandum at para 67).
+[81]
+By virtue of paragraph 4(
+a
+) of the
+DIAND Act
+, the Minister has the discretion to seek funding from Parliament for income assistance programs on reserves. The Minister does not, however, have discretion in determining the terms and conditions for the use of those funds. The Respondent cites the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> , cited above, at paras 15 and 16, where the Court explained that "[t]he disbursement process [for public funds] must actively adhere to a specific administrative procedure to ensure compliance with rules designed to ensure monitoring of the Crown's expenditures".
+[82]
+The procedure requires that 1) the purpose of the expenditure be clearly identified; 2) voted sums authorized by Parliament in the annual
+Appropriation Act
+not be exceeded; 3) the authorized sums be only available in the financial year in which they are approved; and 4) departments are to provide Parliament with information necessary to examine the departments' performance in carrying out policies, functions, projects and programs (see <FRAGMENT_SUPPRESSED> , cited above, at para 16). The Court of Appeal noted that "[i]n Canada, these principles are reflected in the
+Financial Administration Act
+, from which I have already reproduced certain provisions. These principles apply to contracting activities, as we see
+inter alia
+in paragraph 7(1)(
+c
+), and sections 32, 34, 40 and 41 of that Act" ( <FRAGMENT_SUPPRESSED> at para 17).
+[83]
+This Court accepts the Respondent's position that the Minister's decisions relative to funding are limited by the terms and conditions of the Treasury Board's Directives and MOUs. This conclusion will be further elaborated in the Court's analysis.
+[84]
+The Court agrees with the Applicants, however, that the action being challenged in this application is the Minister's decision to interpret the Treasury Board's MOU narrowly and enforce a mirror-like adherence to provincial rates and eligibility criteria. The Respondent, on the other hand, insists that the Minister is merely implementing on reserves the adherence to rates and standards comparable to those in the Provinces where the reserve is located.
+VI. Analysis
+[85]
+The Applicants argue that this case raises questions of administrative law and peripherally Aboriginal law because of the
+sui generis
+relationship between the Crown and Indians. It is clear to this Court that the case engages administrative law principles as we have explained above, namely in that the Minister is bound by public policy to provide funding for income assistance programs on reserves since 1964.
+[86]
+Under that policy, the Minister has broad discretion. In the exercise of his discretion he must stay within the confines and parameters of the policy's terms and ensure that the objectives set by the Treasury Board will be attained. This case raises the question whether the Minister's decision respects the principles outlined in the Treasury Board Directive and MOU and ensures that members of First Nations living on reserves receive the same level of social assistance benefits as other provincial residents.
+[87]
+It is our view that the decision to mirror strictly provincial rates will ensure that members of First Nations living on reserves will receive at least a comparable level of social assistance benefits as other provincial residents for the following reasons.
+[88]
+Firstly, it is important to note that the Court rejects the Applicants' position that the reference to provincial standards constitutes a delegation of the Minister's power and is unconstitutional. Contrary to the situation in
+Reference Re: Anti-Inflation Act
+, cited above, in the present instance, it is clear that the reference to provincial standards constitutes an exercise of federal jurisdiction to fund welfare on reserves on a basis that recipients will be treated on a comparable basis to welfare recipients living off reserve in the same province. While it imports eligibility standards and rates set by the provinces, it does not purport to abnegate the federal government's jurisdiction over Indians under the
+Constitution Act
+, 1867.
+[89]
+Secondly, the Court also rejects the Applicants' argument that the Minister fettered his discretion because the National Manual (2012) did retain the reasonably comparable criteria.
+[90]
+In order to narrow the issue, the Court also finds that, in terms of its eligibility for assistance requirements, the Etpiiteneoei Manual was not comparable with the eligibility requirements in New Brunswick. The National Manual (2012) attempts to realign the eligibility requirements with those of the provinces though it specifies that they must be "reasonably comparable" in one section and imposes strict adherence in another. The question is whether the mirroring of provincial rates and eligibility criteria will result in recipients on reserves receiving less financial assistance than individuals eligible under the provincial welfare systems.
+[91]
+The Applicants argue that there will be significant discrepancies because, when setting assistance rates in their social assistance programs, the provinces have now taken a more comprehensive approach and take into account other subsidies, services and programs they are providing to social welfare recipients which are complementary to these schemes but do no qualify as social benefits. The only evidence before the Court as to the extent of these discrepancies, is the letter sent by the assembly of First Chiefs in New Brunswick to the Minister of AANDC in April 2011 identifying 29 programs in New Brunswick that supplement the basic rate (these programs were listed above in paragraph 46) and the findings of Dr Wien in paragraph 48 above.
+[92]
+The Court notes that AANDC did, in fact, review the list and came to the conclusion that for: "the majority of these programs [they] were able to clearly identify what the comparable benefit would be, so it either was something [they] could deliver through income assistance, such as the fuel supplement, or it was something clearly delivered through another program" (see Cross-Examination of Barbara Robinson, JAR, volume 6, p 2271, lines 11 to 16). On the same topic, Ms. Robinson testified as follows:
+"Well one of the things that we were certainly aware of when this letter was sent in to the minister is that there are a number of benefits listed on this list which either are eligible under income assistance- and the assumption was made they are not- or they're benefits that Canada delivers through another mechanism ... "Health services", there are a number of items here, so the dental program, the allergy serum, a hearing aid, these are all things that can be provided through Health Canada's non-insured health benefits."(see JAR, volume 6, p 2266, lines 18 to 25 and p 2267, lines 1 to 4).
+[93]
+On the basis of Ms. Robinson's testimony and the fact that AANDC's conclusion was communicated verbally at the May 19th, 2011 meeting with Atlantic Policy Congress of First Nations, the Court is satisfied that, for a majority of the programs listed, either they are delivered by the federal government through Canada's non-insured benefits, or are eligible under income assistance or, finally, they can be accessed directly by residents on reserves (vocational training etc.) In sum, a comparable level of benefits is offered though not necessarily an identical level.
+[94]
+The evidence in the record indicates that while only 30% of the basic rate is designated for housing costs in New Brunswick, the province also provides a shelter subsidy covering 70% of the remaining shelter costs. As the Applicants explain:
+"Most social assistance recipients on reserves live in Band-owned housing financed under loan agreements between the First Nation and Canada Mortgage and Housing ("CMHC"), pursuant to s. 95 of the
+National Housing Act
+, RSC 1985, c N-11. Pursuant to these agreements, the loans from CMHC to build each home are to be repaid through the occupiers' social assistance payments. CMHC loan repayments can be in the range of $500-600 per month on reserves in New Brunswick. . . . Therefore, if a person on reserve is receiving New Brunswick's basic Schedule B amount of $827, after paying their rent, the individual will be left with only $200-300 for utilities, food, transport, and personal need items for the entire month" (Applicants' Memorandum, para 55).
+[95]
+As noted above, the majority of First Nations in the Maritime provinces have entered into AFAs with Aboriginal Affairs (currently 27 out of 30 bands). Previous AFAs allowed First Nations to move surplus funds from one program to another. The Applicants submit that this is no longer available to them:. "If providing an additional shelter supplement beyond the basic rate is not permitted under the delivery standards for the social assistance program pursuant to the Decision, then doing so under a social housing scheme developed under the capital program would be similarly prohibited" (Applicants' Memorandum, para 65).
+[96]
+Ms. Robinson, when questioned on that issue by Applicants' counsel, clearly stated (at p 2231, JAR, volume 6, lines 13 to 22) that:
+". . . I believe that the mechanism to support that within the Funding Agreement is there because within the Block-Funding Agreement, of course, if you generate surpluses under one Block-Funded Program, you can transfer those to eligible expenditures under another. So if you're reducing the overall amount that you're paying out under income assistance, because you're not paying actuals for rent and utilities anymore, those surpluses can be transferred to the Capital Program to pay for subsidized housing or the service of mortgages."
+[97]
+This being the case, the shelter expenses issue described above is not so crucial (at least for the vast majority of First Nations who are under AFAs). With respect to the New Brunswick First Nations under CFAs, the evidence in the record is to the effect that AANDC has made a commitment that, whatever difference in costs arises out of moving to provincial rates, the difference will be retained in a reserve for the use of that band (see Cross-Examination of Barbara Robinson, JAR, volume 6, p 2244, lines 10 to 18).
+[98]
+First Nations will be able to transfer the savings arising from the implementation of provincial rates to their social assistance program into newly developed housing assistance programs under which they could reduce an income recipient's housing costs. According to the Associate Regional Director General of the Atlantic Region of AANDC, Dougal MacDonald, the new funding agreements will require First Nations to seek pre-approval for any use of surplus funds. The wording of the new agreements mandates approval from AANDC for the transfer of surplus funds to a housing assistance program (see JAR, volume 6, tab 9, p 2147). There is no evidence that such approval will not be granted.
+[99]
+The Applicants have also offered evidence showing a significant discrepancy between what recipients will be receiving in Nova Scotia versus what they are currently receiving as a result of the implementation of the change in policy. The Court finds that part of that significant difference relates to shelter and mortgage payments and can be addressed as indicated above. There is, nonetheless, a significant difference arising out of the child welfare supplement that current recipients on reserves would be losing according to Dr. Wien's evidence. Ms. Robinson testified that: "However, families do continue to receive the full National Child Benefit and they also receive something called the Nova Scotia Child Benefit, and the amount of money that families would receive in those combined child benefits is greater than what would have been provided to meet children's basic needs under the old 1991 manual" (see JAR, volume 6, p 2378, lines 8 to 13).
+[100]
+There are two other areas that were raised by the Applicants; these are the diet supplements and the funding for utilities. The Court acknowledges that the implementation of a mirroring of provincial rates will definitely impact the welfare recipients living on reserves who require a special diet. The data before the Court do not provide any evidence as to the number of recipients who will be affected, but the shortfall in the monthly allowance will be $16 a month in New Brunswick (see JAR, volume 6, Cross-Examination of Barbara Robinson, p 2255, lines 6 to 12). The Court also notes that the allowance for special pre- and post-natal diets and formulas will also be capped at $40 per month in New Brunswick (see JAR, volume 6, p 2257, lines 16 to 18). Ms. Robinson stated the following (see JAR, volume 6, p 2188, lines 6 to 15): "And, in the Province of New Brunswick, they have a flat-rate special diet, now. So, in most cases, the special diet amount in the Province of New Brunswick would be less than what clients had been receiving, but not in all cases".
+[101]
+As to the utilities, the evidence in the record points to the existence of measures in the New Brunswick provincial rates such as the one time $550 supplement on top of the basic rate of $250 payable from November to April and $100 for the rest of the year (see JAR, volume 6, p 2249, lines 8 to 16) that can partially offset the current practice of certain First Nations to pay actual costs.
+[102]
+Finally with respect to the Applicants' contention that bands would not be able to access the provincial manuals online, Ms Barbara J. Robinson testified that it is, in fact, available online and that provincial officials had made a presentation to the First Nations attendees as to how to access the provincial manual online (see JAR, volume 6, Cross-Examination of Barbara Robinson at p 2297) and, more importantly, that funding is available as part of service delivery to purchase off -the-shelf case management software programs (see JAR, volume 6, Cross-Examination of Barbara Robinson, p 2309, lines 2 to 5).
+[103]
+Beyond the funding agreements, the evidence before the Court indicates that Aboriginal Affairs intend to direct most unexpended funds into active measures programs which would provide for services such as employment training (see JAR, volume 5, tab 62, p 1785). While it can be argued that directing the unexpended funds to employment training will also meet one of the objectives set by the MOU that is reduced dependency rates and greater self reliance, it is also important to underline that the priority set by the MOU is equal treatment with citizens living off reserves.
+[104]
+When Barbara J. Robinson, the Manager of Social Programs, was questioned on the impact of moving to a mirroring of provincial rates, she explained that AANDC could not determine the impact of the move to strict adherence to provincial rates on every individual recipient but overall
+". . . if you include all the benefits currently provided, so that would be shelter costs, including utilities, plus the personal allowances, in most cases the current Atlantic Regional Manual would provide a higher dollar amount of assistance per client than the provincial rate structure would, ... [N]ot to say in every case, but in the majority of cases" (see Cross-Examination of Barbara Robinson, JAR, volume 6, p 2187, lines 11 to 19).
+[105]
+Providing rates identical to those offered in the reference provinces would, in our view, certainly comply with a literal reading of "consistent" used in the MOU, it would also be "comparable" because, as the evidence indicates, a majority of First Nations recipients will see decreases in the amount of revenues they will be receiving, but the overall amount of funding to their respective communities will remain constant. As First Nations have the flexibility to demise programs to lessen the impact of the strict application of provincial rates, the Court finds that the change in policy intended to be implemented through the National Manual (2012) conforms to the Treasury Board's MOU that specifies that First Nation social assistance recipients receive the same level of benefits as other provincial residents.
+[106]
+It is the Court's opinion that the true significance of the change in policy will affect eligibility. The Applicants have provided little evidence of the actual impact except for Prince Edward Island where it is alleged that 35% of recipients will no longer be entitled to benefits and that youth eligibility in Nova Scotia will now be subject to a higher age threshold of 19 years of age.
+[107]
+As the Court reviewed Ms. Robinson's affidavit dated March 8, 2012, it notes paragraphs 7 and 38 that deal with eligibility criteria. After 2008, when compliance reviews were initiated, "some of the common problems identified" were:
+"(a) Ineligible benefits or inappropriate rates applied; and
+(b) Ineligible recipients receiving benefits including:
+Individuals living off reserve
+Individuals who have income exceeding allowable amounts
+Individuals who have not provided necessary proof of eligibility
+Individuals who have not applied for Income Assistance (generally applies to those receiving special benefits only)
+Individuals receiving Old Age Security or Guaranteed Income Supplement" (see JAR, volume 3, p 586)
+[108]
+There is very little data on the actual number of recipients who will be impacted by the strict application of provincial eligibility criteria, save for paragraph 9 of Ms. Robinson's affidavit, where reference is made to a 5% sampling of Elsipogtog's files from their Income Assistance program in 2010 which revealed that 21 persons had received benefits while being employed by the band with no reduction to take into account their employment income.
+[109]
+When cross-examined on her affidavit, Ms. Robinson explained this lack of data by the fact that block-funded bands have no obligation to provide client level data under their agreements and AANDC has not asked for this information (see JAR, volume 6, p 2404 and 2386).
+[110]
+In paragraph 38 of her affidavit, Ms. Robinson states that the group of people likely to be affected to the greatest degree by the implementation of the current New Brunswick rate structure are primarily people who are receiving assistance but are not eligible for assistance under provincial regulations. Such a person would only be deemed ineligible if they had income which exceeded the needs test under provincial manual or if they belonged to the household of an individual whose income exceeded the needs test or if they resided off reserve or if they owned assets that exceeded provincial regulations.
+[111]
+The Court underlines that AANDC has not offered any evidence indicating that it conducted any type of comprehensive study to measure the actual impact of shifting to a strict application of provincial eligibility criteria. The only document of record was presented by the Applicants at para 68 of their memorandum. It emanates from AANDC and identifies a significant list of risks associated to the change to a strict mirroring of provincial rates and eligibility criteria but does not place any kind of dollar amount on the actual impacts nor on the number of persons who will be affected.
+[112]
+Is the decision to apply strictly provincial criteria in conformity with the Treasury Board's Memorandum?
+[113]
+The Court finds it is nonetheless consistent with the Treasury Board's memorandum for the same reasons as above, in that the wording in the Manual reflects the intent and objective found in the original MOU. It is not reasonable, however, because there is no data on the number of recipients who will loose their benefits as a result of the application of provincial eligibility criteria. The Minister failed to obtain data on the impact the strict application of provincial eligibility criteria would have on recipients, this omission renders his decision unreasonable (see
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]).
+[114]
+The Court also notes that the language used in the Manual (2012) departs somewhat from the wording in the MOU as it relates to standards applicable to programs in that the concept of reasonable comparability has been retained. The Applicants should consequently benefit from this change in that the standard applicable to the programs need only be reasonably comparable.
+[115]
+Having found that the application of provincial eligibility criteria and rates conforms to the Treasury Board Memorandum there remains only one issue to address and that is consultation.
+CONSULTATION
+[116]
+The Applicants have underlined in their representations that they were not accorded procedural fairness and were owed a duty of meaningful consultation on the basis of their analysis of the
+Baker
+framework.
+[117]
+The Applicants have not cited any authority in support of their position that the honour of the Crown imposed a duty for meaningful consultation in this instance, except for the judgment of Justice Pitt in <FRAGMENT_SUPPRESSED> (cited above) and the Supreme Court's decisions in
+Haida
+and in
+Taku River
+(both cited above). The Court notes that the Applicants' rights to receive benefits under the income assistance programs do not arise from a potential Aboriginal claim or treaty based on subsection 35(1)of the
+Constitution Act,
+1982 nor did Canada's endorsement of the
+UNDRIP
+create substantive rights.
+[118]
+Section 35 of the
+Constitution Act
+, 1982 provides that:
+35. (1) The existing aboriginal and treaty rights of the aboriginal peoples of Canada are hereby recognized and affirmed.
+(2) In this Act, "aboriginal peoples of Canada" includes the Indian, Inuit and Métis peoples of Canada.
+(3) For greater certainty, in subsection (1) "treaty rights" includes rights that now exist by way of land claims agreements or may be so acquired.
+(4) Notwithstanding any other provision of this Act, the aboriginal and treaty rights referred to in subsection (1) are guaranteed equally to male and female persons.
+35. (1) Les droits existants - ancestraux ou issus de traités - des peuples autochtones du Canada sont reconnus et confirmés.
+(2) Dans la présente loi, « peuples autochtones du Canada » s'entend notamment des Indiens, des Inuit et des Métis du Canada.
+(3) Il est entendu que sont compris parmi les droits issus de traités, dont il est fait mention au paragraphe (1), les droits existants issus d'accords sur des revendications territoriales ou ceux susceptibles d'être ainsi acquis.
+(4) Indépendamment de toute autre disposition de la présente loi, les droits - ancestraux ou issus de traités - visés au paragraphe (1) sont garantis également aux personnes des deux sexes.
+[119]
+This Court disagrees with Applicants' contention that the honour of the Crown is at stake in
+all
+dealings between Canada and its Aboriginal peoples.  <FRAGMENT_SUPPRESSED>  the Court stated, at para 39, in reference to
+Haida
+that:
+"I am not convinced that the decision of the Supreme Court goes as far as the applicants submit. In my view, the Supreme Court's decision, properly interpreted, does not assert that the honour of the Crown arises whenever the Crown takes an action that may indirectly impact aboriginal peoples. Rather, in
+Haida Nation
+and other decisions, courts have observed that the honour of the Crown arises when there is a specific aboriginal interest or right at stake in the Crown's dealing. In
+Haida Nation
+, the right or interest was the assertion of the Haida Nation that it had aboriginal title to all of the lands of the Haida Gwaii and the waters surrounding it ..."
+[120]
+The Applicants have failed to establish any case for the existence of an aboriginal right or title that may be adversely affected by the Respondent's Decision.
+[121]
+The Supreme Court of Canada has acknowledged the importance of international human rights law in the interpretation of domestic legislation such as the
+Canadian Human Rights Act,
+RSC 1985, c H-6
+.
+When it comes to interpreting Canadian law, there is a presumption, albeit refutable, that Canadian legislation is enacted in conformity to Canada's international obligations. Consequently, when a provision of domestic law can be ascribed more than one meaning, the interpretation that conforms to international agreements that Canada has signed should be favoured. In the present instance, the Applicants invoke
+UNDRIP
+to inform the contextual approach to statutory interpretation as per
+Baker
+cited above, at paras 69-71
+.
+Indeed, while this instrument does not create substantive rights, the Court nonetheless favours an interpretation that will embody its values
+.
+[122]
+The Court agrees with the Applicants that they were entitled to procedural fairness. The Decision was administrative in nature and would greatly affect the interests of a large number of individuals, in this instance the majority of social assistance recipients (see
+ <FRAGMENT_SUPPRESSED>  at para 14 and <FRAGMENT_SUPPRESSED> cited above at paras 87 and 88).
+[123]
+The different program manuals issued by AANDC were administrative in nature and not legislative as they were "meant for internal use as an interpretive aid for 'rules' laid down in the legislative scheme" (see
+ <FRAGMENT_SUPPRESSED> ), in this instance as an interpretative aid for the standards and objectives laid down in the MOU. The manuals are meant to set policy priorities, standards, rates and eligibility criteria in order to properly administer funds disbursed under the authority set down by the Treasury Board's decision which is embodied in the MOU.
+[124]
+It is important to review the course of events to determine, firstly, if, on the basis of its duty to provide Applicants with procedural fairness, AANDC had to consult them and, secondly, whether they were properly consulted.
+[125]
+In April 2011, Chief Simon, the Chief of Elsipogtog, learned that AANDC was preparing a draft Atlantic Region Social Programs Manual. A letter was sent to the Minister, on behalf of the New Brunswick Chiefs, setting out their concerns about the draft Manual and urging that there be collaboration between AANDC and the New Brunswick Chiefs.
+[126]
+In May 2011, AANDC officials held a meeting with the group Atlantic Policy Congress of First Nation Chiefs [APC] during which they advised them that a draft Atlantic Manual was being finalized and that they would have to comply with provincial rates and standards commencing on November 1, 2011. There is no evidence that this meeting afforded any opportunity for consultation.
+[127]
+In July 2011, Chief Simon sent a follow-up letter but received no response to either letters.
+[128]
+In September 2011, the Nova Scotia Chiefs adopted a motion in opposition to the implementation of the Manual. During that month the New Brunswick Chiefs passed a resolution stating that they would not assist AANDC in implementing cuts to social welfare programs until they met with Government of Canada's elected representatives to discuss social policy. At the end of September, AANDC hosted an information meeting in Fredericton about the draft Atlantic Manual. Certain First Nations' representatives did not attend the information session, such as representatives from Elsipogtog, by fear that AANDC would say that they had been fully consulted.
+[129]
+On September 21, 2011, AANDC's Assistant Deputy Minister met with the APC's executive Director, John Paul, to discuss concerns about income assistance rates on reserves. Justice Simpson, found, in her injunction order, that this meeting was the first and only consultation about the implementation of strict provincial rates and eligibility criteria (see
+ <FRAGMENT_SUPPRESSED> ).
+[130]
+On September 28, 2011, Dougal Macdonald of AANDC presented the Manual to the APC but there is no evidence that the Chiefs' views were discussed or even solicited.
+[131]
+On September 29, 2011, the APC passed a resolution supporting the Nova Scotia and New Brunswick Chiefs in their opposition to the draft Manual. The resolution also called for the creation of a joint working group (the "Working Group") on social assistance involving both representatives of APC and AANDC to discuss the issues related to implementation of the Manual.
+[132]
+On October 7, 2011, the Applicants filed their application for judicial review.
+[133]
+A first Working Group meeting took place on October 19, 2011. The minutes of the meeting show that the implementation of the Manual and not its merits was going to be the focus of the discussions. The objective of the Working Group was to assemble data to allow the parties to understand the different impacts of the Manual. An extension of the implementation date was requested.
+[134]
+On October 24, 2011 the Working Group met in Nova Scotia. No representatives from Elsipogtog were present at this meeting fearing that their participation would be subsequently viewed as consultation. During that meeting it was determined that the Working Group would collect data to show the impact of the Policy and this data collection would have to be finished by November 2011 so that final recommendations could be available by the end of February 2012.
+[135]
+Three events derailed this process on October 27, 2011: 1) The Nova Scotia Chiefs abandoned the Working Group; 2) The Minister failed to provide a new deadline; 3) the APC halted the Working Group process.
+[136]
+The Nova Scotia Chiefs abandoned the Working Group because they wanted a confirmation that the group was not directed at changing the current social assistance rates and terms applicable in Nova Scotia nor was it intended as a process to implement the new Manual. They were concerned that their participation would be interpreted as acceptance and support of the Manual.
+[137]
+On October 27, 2011, the Minister sent a letter regarding the date for implementation. It stated that the remainder of the fiscal year, ending on March 31, 2012, would provide enough time to conduct the data collection and complete the implementation of the provincial standards. This Court agrees with the views of Justice Simpson, who suggested that the letter appeared to say that implementation would proceed to completion while the Working Group prepared its recommendations, therefore the conclusions would not be taken into account before the full implementation of the  <FRAGMENT_SUPPRESSED>  the assurance that AANDC would not take the view that participation in the Working Group entailed acceptance and support of the Manual.
+[139]
+On December 20, 2011, the Minister wrote to the APC asking them to participate in the Working Group, informing them of the extension for the implementation of provincial rates and eligibility criteria to April 1, 2012 and providing the assurances sought.
+[140]
+On December 28, 2011 the Minister wrote to the New Brunswick Chiefs confirming the April 1, 2012 implementation date and inviting them to identify an alternative to the Working Group which would give the parties an opportunity to engage on implementation issues.
+[141]
+The Working Group did not reconvene. The Court disagrees with the Respondent's contention that the Applicants waived their right to procedural fairness because they did not carry out their end of the consultation process (see Respondent's Memorandum at paras 140 and 160). The consultations that took place through the Working Group were not about the Decision itself, but rather on how to implement it and assess the impacts.
+[142]
+The last interaction between the parties occurred on February 15 and 16, 2012 during an AANDC "How To" workshop for social development administrators to work through the implementation of provincial rates and standards of the National Manual (2012) which replaced the Atlantic Manual in January 2012.
+[143]
+It appears from above that the First Nations were consulted about the implementation of the new Manual and chose to abandon the process. However, there was never any meaningful consultation about the merits of a strict application of provincial rates and eligibility criteria before it was developed and implemented. There was also no suggestion that the results of the Working Group's study on impacts could prevent the implementation of the Manual.
+[144]
+This Court agrees that the Applicants were entitled to procedural fairness; however, in determining the extent of this obligation, the five
+Baker
+factors must be weighed. It is appropriate to recall these factors:
+(1) the nature of the decision being made and the process followed in making it;
+(2) the nature of the relevant statutory scheme;
+(3) the importance of the decision to the individuals affected;
+(4) the legitimate expectations of the individual challenging the decision;
+(5) the decision maker's own choice of procedure.
+[145]
+Justice l'Heureux-Dubé, writing on behalf of the Supreme Court of Canada, stated that:
+"[U]nderlying all these factors is the notion that the purpose of the participatory rights contained within the duty of procedural fairness is to ensure that administrative decisions are made using a fair and open procedure, appropriate to the decision being made and its statutory, institutional, and social context, with an opportunity for those affected by the decision to put forward their views and evidence fully and have them considered by the decision-maker." (see
+Baker
+, cited above at para 22)
+[146]
+The decision to interpret the MOU is administrative in nature, it does not resemble judicial decision-making; therefore less procedural fairness is owed (see
+Baker
+at para 23).
+[147]
+There is no legislative scheme, providing for a direct appeal of the decision. The Court rejects the Respondent's submission that individuals affected by the implementation of provincial rates can appeal any decision affecting them to their respective band councils. In this case, the provision of social assistance to First Nations is not legislated; hence there is no mechanism in existence to challenge the decision of the Minister to change the standards applicable to the delivery of social assistance on reserves. Consequently, greater procedural protection was owed by AANDC; indeed, more so in view of the twenty years that elapsed between the implementation of the 1991 Regional Atlantic Manual applying reasonable comparability and the decision to move to a strict application of provincial rates and eligibility criteria in 2012, notwithstanding the insertion of reasonable comparability in the National Manual (2012) (see
+Baker
+at para 24).
+[148]
+The Decision will have significant impacts on First Nations recipients of social assistance though these have not been fully assessed nor evaluated by the Minister. In the light of the evidence in the record where AANDC admitted not having a full understanding or appreciation of the impact of the Decision to move to a strict mirroring of provincial rates or eligibility criteria it is obvious to this Court that the Applicants were owed more procedural fairness.
+[149]
+The Applicants claim to have had legitimate expectations that they would be consulted before any changes to social assistance would occur. They refer to the report of the 1976 Cabinet committee on social policy, Canada's
+Gathering Strength
+document and the Social Union Framework as evidence that Canada has committed to work in concert with the Aboriginal peoples and not to act unilaterally with respect to social development programs (see JAR, volume 3, tabs 4, 6, 8, 21, 23, 24 and 25). While the Court acknowledges that there is commitment to work closely with First Nations, the Supreme Court of Canada recently clarified the notion of legitimate expectations in <FRAGMENT_SUPPRESSED> . At paragraph 94, the Court states:
+"[...] If a public authority has made representations about the procedure it will follow in making a particular decision, or if it has consistently adhered to certain procedural practices in the past in making such a decision, the scope of the duty of procedural fairness owed to the affected person will be broader than it otherwise would have been."
+[150]
+Legitimate expectations do not however lead to any substantive rights, the Court may only grant procedural remedies ( <FRAGMENT_SUPPRESSED> , cited above, at para 97).
+[151]
+The Applicants had legitimate expectations that they would be consulted before changes to social assistance would be decided and implemented. First Nations were previously afforded the opportunity to express their views regarding the draft 1991 Manual before its implementation and should have been given at least the same opportunity in this instance. It is clear under this factor that the Applicants were entitled to greater procedural fairness and to present their arguments against the changes in the Manual.
+[152]
+As to the last
+Baker
+factor, that is the decision maker's choice of procedure, this Court agrees with the Applicants that this factor is not relevant because it is not clear that AANDC made any deliberate procedural choices (see
+ <FRAGMENT_SUPPRESSED>  decision.
+[153]
+In the light of the above analysis of the
+Baker
+factors, this Court concludes that the Applicants were owed greater procedural protection in the form of consultations before the Decision was taken.
+[154]
+It is clear from the evidence that there was never any meaningful consultation about the merits of the Manual before it was developed and implemented. The First Nations affected by the decision were not afforded the opportunity to "put forward their views and evidence fully and have them considered by the decision-maker" (see
+Baker
+, cited above at para 22). The Respondent therefore breached his duty to observe procedural fairness.
+[155]
+The Court finds that the consultation that took place was not serious in that the Decision was made prior to any actual consultation. AANDC did have on hand conclusive evidence that a mirroring of provincial rates would impact a majority of recipients, yet it informed the First Nations that the Decision would be implemented. It is particularly disturbing that there is no hard data on the number of recipients that will actually lose their entitlement to social assistance further to a strict application of provincial eligibility criteria. The recipients of social assistance are the most vulnerable in society and yet a decision affecting a number of them is made without any true comprehension of its impact. The meetings held focussed on the implementation of the Decision; at the end of the day, there was no discussion as to whether the strict mirroring of provincial rates and eligibility criteria was advisable within the context of overall AANDC Policy towards greater autonomy for First Nations in the management of their affairs.
+[156]
+Consequently, the Court grants the application.
+JUDGMENT
+[157]
+THIS COURT'S JUDGMENT is that
+1. This application for judicial review is granted with costs against the Respondent.
+2. The Decision of the Minister of Aboriginal Affairs and Northern Development is hereby set aside.
+Application allowed.
+Editor: Gary W. McLaughlin/vnh

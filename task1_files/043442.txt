@@ -1,0 +1,156 @@
+..................................................
+I.
+Introduction
+[1]
+Annis, J.
+: This is an application for judicial review pursuant to section 18.1 of the
+Federal Courts Act
+, RSC 1985, c F-7 of a decision of Transport Canada refusing the Applicant's application for a transportation security clearance [the clearance] required to work at Lester B. Pearson International Airport in Toronto, Ontario [the airport].
+II.
+Factual Background
+[2]
+The Applicant has been employed as a baggage handler for Servisair at the airport, a position that requires access to restricted areas of the airport. He initially obtained a clearance in 1997, to be renewed every five years, and the most recent renewal occurred on June 11, 2012.
+[3]
+On August 13, 2013 the Royal Canadian Mounted Police [the RCMP] provided Transport Canada with a Law Enforcement Records Check report [the RCMP Report] regarding the Applicant, which it indicated as follows:
+• The Applicant is associated with three other individuals employed at the airport, identified only as Subjects A, B, and C [the Subjects], who are believed to be co-conspirators in a drug importation ring at the airport;
+• The YYZ Airport Intelligence Unit received information from a reliable human source on May 7, 2007 indicating that the Applicant and the Subjects were attending the airport on their days off to retrieve controlled substances from international flights;
+• On May 14, 2007, the Canadian Border Services Agency [CBSA] observed Subject A offloading baggage onto a conveyor belt at Terminal 3 of the airport and that one of the offloaded suitcases was found to contain twenty bricks of cocaine hidden in two small backpacks;
+• The Applicant and the remaining two Subjects were identified as being at Terminal 3 that day, despite not being scheduled to work;
+• The packing strategy observed by the CBSA is a "strong indicator" of an internal conspiracy and employee corruption;
+• A January 25, 2008, report by the YYZ Airport Intelligence Unit revealed that the Applicant and the Subjects were believed to be part of a group suspected of smuggling narcotics out of the airport and that there was electronic data indicating that the Applicant and Subject A were attending the airport on their days off and using their Restricted Area Identity Cards [RAICs] to access secure doors within the airport; and
+• The RCMP's Toronto Airport Drug Enforcement Unit received information from a reliable confidential human source that the Applicant can and does conspire to import drugs with individuals other than Subject A at the airport;
+[4]
+In a letter dated August 22, 2013 [the Letter], the Chief of Security Screening Program [SSP] advised the Applicant that the SSP had received adverse information regarding his suitability to retain the clearance and that his clearance would be reviewed by the Transportation Security Clearance Advisory Body [the Advisory Body], which would in turn provide a recommendation to the Minister of Transport [the Minister]. The Letter included, in nearly verbatim detail, the allegations outlined in the RCMP Report.
+[5]
+The Letter directed the Applicant to consult the
+Transportation Security Clearance Program Policy
+[the Policy] and encouraged him to provide any additional information or explanation, including any extenuating circumstances. The Applicant did not provide any response to the Letter.
+[6]
+The Advisory Body convened on November 19, 2013 and recommended cancelling the Applicant's clearance based on its conclusion that the information on file led the Advisory Body to reasonably believe, on a balance of probabilities, that the Applicant may be prone or induced to commit an act or to assist or abet any person to commit an act that may unlawfully interfere with civil aviation.
+[7]
+The final decision to cancel the clearance was made on behalf of the Minister by Ms. Erin O'Gorman, the Director General of Aviation Security and was communicated to the Applicant in a letter dated December 13, 2013. The decision essentially reiterated the factors considered by the Advisory Board and its concerns regarding the Applicant's suitability for the clearance.
+III.
+Issues
+[8]
+The singular issue in this application for judicial review is whether there was a breach of procedural fairness.
+IV.
+Standard of Review
+[9]
+The standard of review for questions of procedural fairness in the context of transportation security clearances is correctness (
+ <FRAGMENT_SUPPRESSED> [
+Sylverster
+], citing
+ <FRAGMENT_SUPPRESSED>  [
+Clue
+]).
+V.
+Analysis
+[10]
+In security clearance cases, it has been said that the level of fairness is "limited to the right to know the facts alleged against [the Applicant] and the right to make representations about those facts" (
+ <FRAGMENT_SUPPRESSED> [
+Salmon
+],
+Sylvester
+at para 11, citing
+ <FRAGMENT_SUPPRESSED> [
+Rivet
+]).
+[11]
+The Applicant submits that there was a breach of procedural fairness in that he was denied a meaningful opportunity to directly address the allegations against him since the Letter did not include the identity of the Subjects, the specific dates that he was alleged to have attended the airport on his days off and accessed restricted areas, or the specific areas in Terminal 3 where he was believed to have been seen.
+[12]
+The Applicant relies entirely on the recent decision of
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 542 [ <FRAGMENT_SUPPRESSED> ] by Justice Rennie, setting aside a similar decision of the Minister on procedural fairness grounds. The applicant in <FRAGMENT_SUPPRESSED> was one of three subjects mentioned in a report by the RCMP and, like the Applicant in the present case, she had lost her security clearance.
+[13]
+In summarizing the difficult position that the applicant in <FRAGMENT_SUPPRESSED> found herself in, Justice Rennie stated as follows:
+[35] In sum, the applicant has lost her employment on the basis of allegations that sometime perhaps between 2007-2009, or perhaps subsequent to 2009 and 2013, she associated, in some unspecified way, with a certain unspecified individual in a major drug importation scheme at Pearson. Other than a minor charge many years ago for the theft of children's Tylenol from a drug store, the applicant has no criminal record. She has never been interviewed in respect of the alleged criminal activity relied on in the decision letter. She has never been charged in respect of these matters.
+[36] What was the case the applicant was to meet? Was her involvement in a plot between 2007-2009, as the decision letter indicated, or was it her involvement in a current investigation, as suggested by the RCMP? Why did the Department of Transport wait over three years before acting on the information, said to originate from reliable sources? The case the applicant had to meet was a miasma of unspecified allegations and distilled to the assertion that at some point between 2007 and 2013 she associated with an unidentified person who was involved in drug smuggling at Pearson. How she was associated, and what she, in particular, did in respect of the smuggling operation, even in the most rudimentary terms of date, time and place, remain unknown.
+[14]
+The Respondent concedes that the decision of Justice Rennie should govern the outcome of this decision, but submits that Court must consider the individual in <FRAGMENT_SUPPRESSED> made serious attempts to obtain further particulars of the allegations, all of which were refused, while the Applicant did nothing in response to the fairness letter in this matter. It is the Respondent's position that this factual difference is significant.
+[15]
+However, the Applicant pointed out that all of Ms. Meyler's requests were refused during the same period that he would have been asking for the same particulars and argues that, as can be seen from the facts described in <FRAGMENT_SUPPRESSED> , the Respondent's argument has no foundation in reality.
+[16]
+I agree that the Respondent's argument is too artificial in reality. There was no chance that any request from the Applicant would have been responded to positively. Accordingly, I apply the <FRAGMENT_SUPPRESSED> decision to this matter and allow the application setting aside the Minister's decision revoking the Applicant's security clearance. The order shall similarly require the re-determination to be made in accordance with the reasons  <FRAGMENT_SUPPRESSED> .
+JUDGMENT
+[17]
+THIS COURT'S JUDGMENT is that
+1. The application for judicial review is granted and the decision to revoke the Applicant's security clearance is quashed;
+2. The matter is remitted to the Minister for re-determination in accordance with the reasons in
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 542; and
+3. Costs are awarded to the Applicant.
+.........................
+ <FRAGMENT_SUPPRESSED>  d'une demande de contrôle judiciaire présentée en vertu de l'article 18.1 de la
+Loi sur les cours fédérales
+, LRC 1985, c F-7, à l'encontre d'une décision de Transports Canada rejetant la demande du demandeur pour une habilitation de sécurité en matière de transports (l'habilitation) nécessaire pour travailler à l'Aéroport international Lester B. Pearson à Toronto, en Ontario (l'aéroport).
+II.
+Le contexte factuel
+[2]
+Le demandeur a été employé à l'aéroport par Servisair, à titre de bagagiste. Ce poste exige l'accès à des zones d'accès restreint de l'aéroport. À l'origine, le demandeur avait obtenu en 1997 une habilitation qui devait être renouvelée tous les cinq ans. Le plus récent renouvellement a été accordé le 11 juin 2012.
+[3]
+Le 13 août 2013, la Gendarmerie royale du Canada (la GRC) a communiqué à Transports Canada un rapport sur la vérification des antécédents criminels (le rapport de la GRC) concernant le demandeur. Ce rapport indiquait ce qui suit:
+• Le demandeur est associé à trois autres personnes employées à l'aéroport et identifiées seulement comme étant les sujets A, B et C (les sujets), qu'on croit être des complices dans un réseau d'importation de drogues à l'aéroport;
+• L'Unité de renseignements de l'aéroport YYZ a reçu d'une source humaine fiable, le 7 mai 2007, des renseignements indiquant que le demandeur et les sujets se rendaient à l'aéroport lors de leurs jours de congé pour recueillir des substances désignées provenant de vols internationaux;
+• Le 14 mai 2007, l'Agence des services frontaliers du Canada (l'ASFC) a observé le sujet A en train de débarquer des bagages sur un tapis roulant au terminal 3. Il a été découvert que l'une des valises débarquées contenait vingt briques de cocaïne dissimulées dans deux petits sacs à dos;
+• Le demandeur et les deux autres sujets ont été vus au terminal 3 ce jour-là, bien qu'ils n'aient pas été inscrits à l'horaire de travail;
+• La stratégie d'emballage observée par l'ASFC est une [traduction] « sérieuse indication » de complot interne et de corruption d'employés;
+• Un rapport de l'Unité de renseignements de l'aéroport YYZ, daté du 25 janvier 2008, révélait qu'on croyait que le demandeur et les sujets faisaient partie d'un groupe soupçonné de contrebande de stupéfiants à partir de l'aéroport. Aussi, selon le rapport, il existait des données électroniques indiquant que le demandeur et le sujet A se trouvaient à l'aéroport lors de leurs jours de congé et qu'ils utilisaient leurs cartes d'identité de zones réglementées pour accéder à des portes sécurisées au sein de l'aéroport;
+• Le Groupe de lutte antidrogue de la GRC à l'aéroport de Toronto a reçu des renseignements d'une source humaine fiable et confidentielle, selon lesquels le demandeur pourrait comploter et complote bel et bien pour importer des drogues avec des personnes autres que le sujet A, à l'aéroport;
+[4]
+Dans une lettre datée du 22 août 2013 (la lettre), le directeur du Programme de filtrage de sécurité (le PFS) a avisé le demandeur que le PFS avait reçu des renseignements défavorables quant à aux qualités qu'il possédait pour conserver son habilitation et que celle-ci serait examinée par l'Organisme consultatif d'examen d'habilitation de sécurité en matière de transport (l'Organisme consultatif) qui fournirait, par la suite, ses recommandations au ministre des Transports (le ministre). La lettre comprenait les allégations contenues dans le rapport de la GRC, énoncées presque textuellement.
+[5]
+La lettre invitait le demandeur à consulter la
+Politique sur le Programme d'habilitation de sécurité en matière de transports
+(la politique) et l'encourageait à fournir des renseignements supplémentaires ou des explications, y compris toute circonstance atténuante. Le demandeur n'a pas répondu à la lettre.
+[6]
+L'Organisme consultatif s'est réuni le 19 novembre 2103 et a recommandé l'annulation de l'habilitation du demandeur. Cette recommandation se fondait sur les renseignements au dossier, qui amenaient l'Organisme consultatif à croire, selon la prépondérance des probabilités, que le demandeur était sujet ou susceptible d'être incité à commettre un acte ou à aider ou inciter toute autre personne à commettre un acte d'intervention illicite visant l'aviation civile.
+[7]
+La décision définitive d'annuler l'habilitation a été rendue au nom du ministre par madame Erin O'Gorman, directrice générale de la sécurité aérienne, et a été communiquée au demandeur dans une lettre datée du 13 décembre 2013. Essentiellement, la décision réitérait les facteurs dont l'Organisme consultatif avait tenu compte, de même que ses préoccupations quant aux qualités possédées par le demandeur pour l'habilitation.
+III.
+La question en litige
+[8]
+Dans le cadre de la présente demande, la seule question en litige est de savoir s'il y a eu manquement à l'équité procédurale.
+IV.
+La norme de contrôle
+[9]
+En ce qui concerne l'équité procédurale dans le contexte des habilitations de sécurité en matière de transport, la norme de contrôle est la décision correcte (
+ <FRAGMENT_SUPPRESSED>  (
+Sylvester
+), au paragraphe 11, citant
+ <FRAGMENT_SUPPRESSED>  (
+Clue
+)).
+V.
+Analyse
+[10]
+Il a été dit que, dans les dossiers liés à l'habilitation en matière de sécurité, le niveau d'équité se limite « au droit de connaître les faits reprochés contre [le demandeur] et au droit de faire des représentations à l'égard de ces faits » (
+ <FRAGMENT_SUPPRESSED>  (
+Salmon
+), au paragraphe 27;
+Sylvester
+, au paragraphe 11, citant
+ <FRAGMENT_SUPPRESSED>  (
+Rivet
+), au paragraphe 25).
+[11]
+Le demandeur soutient qu'il y a eu manquement à l'équité procédurale, en ce qu'il n'a pas eu d'occasion valable de répondre directement aux allégations faites contre lui, puisque la lettre n'indiquait pas l'identité des sujets, les dates précises auxquelles le demandeur se serait trouvé à l'aéroport alors qu'il était en congé et aurait accédé à des zones d'accès restreint, ni les zones précises du terminal 3 où sa présence aurait été observée.
+[12]
+Le demandeur s'appuie exclusivement sur la décision récente du juge  <FRAGMENT_SUPPRESSED>  ACWS (3d) 542 ( <FRAGMENT_SUPPRESSED> ). Dans cette affaire, une décision similaire du ministre a été annulée pour des motifs d'équité procédurale. Dans l'affaire <FRAGMENT_SUPPRESSED> , la demanderesse comptait parmi trois sujets mentionnés dans un rapport de la GRC et, tout comme le demandeur en l'espèce, elle avait perdu son habilitation de sécurité.
+[13]
+Résumant la position difficile dans laquelle se trouvait la demanderesse dans <FRAGMENT_SUPPRESSED> , le juge Rennie a déclaré ce qui suit:
+[35] En somme, la demanderesse a perdu son emploi à cause d'allégations selon lesquelles, peut-être quelque part entre 2007 et 2009, ou peut-être après 2009 et 2013, elle s'était associée, sans que l'on sache comment, avec une certaine personne non précisée, dans un important réseau d'importation de drogue à l'aéroport Pearson. Hormis une accusation mineure portée il y a de nombreuses années pour le vol d'un flacon de Tylenol pour enfant dans une pharmacie, la demanderesse n'a pas de casier judiciaire. Elle n'a jamais été questionnée sur la supposée activité criminelle évoquée dans la lettre de décision. Elle n'a jamais été accusée en marge de cette activité.
+[36] De quoi la demanderesse devait-elle répondre? Était-ce de son implication dans un complot entre 2007 et 2009, comme l'indiquait la lettre de décision, ou était-ce de son implication dans une enquête en cours, comme l'avait insinué la GRC? Pourquoi le ministère des Transports avait-il attendu plus de trois ans avant de donner suite à l'information, qu'il disait détenir de sources dignes de foi? Ce dont la demanderesse devait répondre n'était qu'un fatras d'allégations imprécises se résumant à l'idée voulant que, quelque part entre 2007 et 2013, elle se soit associée à une personne non identifiée qui était impliquée dans des activités de contrebande de drogue à l'aéroport Pearson. On ne sait toujours pas comment elle s'est ainsi associée, ni le rôle qu'elle-même a pu jouer dans les activités de contrebande, ne serait-ce que dans ses aspects les plus élémentaires, à savoir la date, l'heure et l'endroit.
+[14]
+Le défendeur admet que la décision du juge Rennie devrait servir de guide pour décider du résultat en l'espèce. Il soutient cependant que la Cour doit prendre en considération les tentatives sérieuses faites par la demanderesse dans <FRAGMENT_SUPPRESSED> pour obtenir des renseignements supplémentaires sur les allégations, lesquelles furent toutes rejetées, alors que le demandeur en l'espèce n'a aucunement réagi à la lettre d'équité. Le défendeur est d'avis que cette différence factuelle est importante.
+[15]
+Cependant, le demandeur a souligné que toutes les demandes formulées par Mme Meyler avaient été refusées au cours de la période même pendant laquelle il aurait demandé les mêmes précisions et il fait valoir que, comme on peut le voir d'après les faits décrits dans <FRAGMENT_SUPPRESSED> , l'argument du défendeur n'a pas de fondement dans la réalité.
+[16]
+Je conviens que l'argument du défendeur est, en réalité, trop artificiel. Il n'y avait aucune chance pour que le demandeur reçoive une réponse positive s'il avait formulé une demande. Par conséquent, j'applique la décision <FRAGMENT_SUPPRESSED> en l'espèce et j'accueillerai la demande visant l'annulation de la décision du ministre qui a révoqué l'habilitation de sécurité du demandeur. De même, l'ordonnance exigera que la nouvelle décision soit rendue conformément aux motifs énoncés dans <FRAGMENT_SUPPRESSED> .
+JUGEMENT
+[17]
+LA COUR STATUE que
+1. la demande de révision judiciaire est accueillie, et la décision de révoquer l'habilitation de sécurité du demandeur est annulée;
+2. le dossier est renvoyé au ministre pour nouvelle décision, conformément aux motifs énoncés dans
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 542;
+3. les dépens sont adjugés au demandeur.
+Application granted.
+Editor: E. Joanne Oley
+[End of document]

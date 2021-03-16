@@ -1,0 +1,441 @@
+Hospira Healthcare Corp. v. Can., [DATE_SUPPRESSED] F.T.R. TBEd. NO.019
+MLB being edited
+Currently being edited for F.T.R. - judgment temporarily in rough form.
+Hospira Healthcare Corporation (applicant) v. The Minister of Health, Attorney General of Canada and Sanofi-Aventis Canada Inc. (respondents)
+(T-1963-13; DATE_SUPPRESSED FC 1205)
+Indexed As: Hospira Healthcare Corp. v. Canada (Minister of Health) et al.
+Temp. Cite: [DATE_SUPPRESSED] F.T.R. TBEd. NO.019
+Federal Court
+Gagné, J.
+November 6, DATE_SUPPRESSED.
+Counsel:
+Susan D. Beaubien, for the applicant, Hospira Healthcare Corporation;
+J. Sanderson Graham and Leah Garvin, for the respondents, The Minister of Health and The Attorney General of Canada;
+Judith Robinson and Brian Capogrosso, for the respondent, Sanofi-Aventis Canada Inc.
+Solicitors of Record:
+Macera & Jarzyna LLP, Ottawa, Ontario, for the applicant, Hospira Healthcare Corporation;
+William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondents, The Minister of Health and The Attorney General of Canada;
+Norton Rose Fulbright, Montreal, Quebec, for the respondent, Sanofi-Aventis Canada Inc.
+Summary:
+The headnote and the decision for this document are in preparation. Any footnotes found in this case will appear below end of document.
+[1]
+Gagné, J.
+: This is an application for judicial review of a decision dated October 31, 2013, whereby the Minister of Health [Minister or Health Canada] refused to issue a Notice of Compliance [NOC] for the applicant's OXALIPLATIN FOR INJECTION product. The Minister found that the applicant's New Drug Submission [NDS] sought its NOC on the basis of a direct or indirect comparison to Sanofi-Aventis Canada Inc.'s innovative drug ELOXATIN, and therefore applied the data protection provisions found in section C.08.004.1 of the
+Food and Drug Regulations
+, CRC c 870 (2013) [Regulations] and concluded that the applicant's NOC could not issue until the expiry of data protection for ELOXATIN.
+[2]
+The applicant argues that: (i) Health Canada wrongly applied the data protection regulation to the NDS for OXALIPLATIN FOR INJECTION, as nothing in the wording or regulatory scheme provided authority for Health Canada to apply data protection when only post-filing amendments make direct or indirect comparison to an innovative drug; (ii) alternatively, the decision under review is unreasonable; (iii) Health Canada breached the duty of fairness owed to the applicant; and accordingly (iv) this Court should issue an order for
+mandamus
+.
+[3]
+For the reasons discussed below, I am of the view that the application for judicial review should be dismissed.
+I.
+Regulatory Framework
+[4]
+A brief overview of the relevant regulatory provisions (the text of which is found in annex to these reasons) is in order so that the factual background to this case may be situated.
+[5]
+Part C, Division 8 of the Regulations regulates the sale of all drugs in Canada, more rigorously so for new drugs (as defined in section C.08.001). In those cases, the sponsor has to establish that the new drug is safe and effective for the proposed therapeutic use. The Minister is responsible for overseeing the safety and effectiveness of "new drugs" and, ultimately to approve a new drug by giving it a Drug Identification Number [DIN] and by issuing a NOC for its sale in Canada.
+A. Filing a NDS or an ANDS
+[6]
+A drug manufacturer, in an effort to obtain a NOC, must file submissions in respect of its new drug. a NDS, which typically is filed by innovator companies, must contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the drug and must provide substantial evidence of clinical effectiveness. An abbreviated new drug submission [ANDS] is used, normally by manufacturers of generic drugs, in comparison with an existing Canadian reference product. The manufacturer has to establish pharmaceutical equivalence and bioequivalence with that Canadian reference product. The content of the ANDS is therefore less extensive.
+B. A supplement to either submission
+[7]
+The Regulations anticipate that matters originally specified in a NDS or an ANDS might in fact be significantly different. The manufacturer is then requested to file a supplement with respect to those matters that are significantly different from those contained in the submission. The supplement shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug in relation to those matters.
+C. The Minister's examination of compliance and the manufacturer's amendment of a submission or supplement
+[8]
+Subject to the data protection provisions that will be discussed below, after completing an examination of a NDS, an ANDS or a supplement to either submission:
+• The Minister issues a NOC if the submission or supplement complies with the Regulations;
+• The Minister notifies the manufacturer if the submission or supplement does not comply with the Regulations;
+• The manufacturer whose submission or supplement does not comply with the Regulations may amend the submission or supplement by filing additional information or material;
+• After completing the examination of any additional information, the Minister issues a NOC if the submission or supplement complies with the Regulations or notifies the manufacturer if it does not.
+[9]
+Once a NOC is issued, the drug will be listed as a Canada Reference Product and subsequently issued a DIN.
+D. Data protection provisions
+[10]
+The provisions comprised in section C.08.004.1 are identified as the "data protection provisions", the purpose of which is to implement Canada's obligations under the
+North American Free Trade Agreement Between the Government of Canada, the Government of Mexico and the Government of the United States
+, 17 December 1992, Can TS 1994 No 2, 32 ILM 289 (entered into force 1 January 1994) [NAFTA] and the
+Agreement on Trade-related Aspects of Intellectual Property Rights
+, being Annex 1C of the
+Marrakesh Agreement Establishing the World Trade Organization
+, 15 April 1994, Marrakesh, 1867 UNTS 3 [TRIPS], as reflected in subsection C.08.004.1(2). Under section 5 of Article 1711 of NAFTA (Article 39, section 3 of TRIPS having a similar effect) a party is required to protect pharmaceutical products that utilize "new chemical entities", that is, which meet the definition of "innovative drug" under subsection C.08.004.1(1).
+[11]
+An innovator who has an "innovative drug" listed on the Register of Innovative Drugs benefits from an eight year period of exclusivity starting the day its NOC was issued with the possibility of an extension of six months if clinical trials were designed and conducted for the purpose of increasing knowledge of use in paediatric populations.
+[12]
+As the interpretation and application of the data protection provisions are at the heart of the dispute between the parties, I will reproduce subsection C.08.004.1(3) in its entirety:
+(3) If a manufacturer seeks a notice of compliance for a new drug on the basis of a direct or indirect comparison between the new drug and an innovative drug,
+(a) the manufacturer may not file a new drug submission, a supplement to a new drug submission, an abbreviated new drug submission or a supplement to an abbreviated new drug submission in respect of the new drug before the end of a period of six years after the day on which the first notice of compliance was issued to the innovator in respect of the innovative drug; and
+(b) the Minister shall not approve that submission or supplement and shall not issue a notice of compliance in respect of the new drug before the end of a period of eight years after the day on which the first notice of compliance was issued to the innovator in respect of the innovative drug.
+[13]
+Finally, a manufacturer's new drug which has not been issued a NOC may be authorized for sale under the Special Access Program [SAP] through practitioners and on an individual basis, in cases of emergency treatment.
+II.
+Background
+[14]
+OXALIPLATIN FOR INJECTION is a finished pharmaceutical dosage product with oxaliplatin as its active medicinal ingredient. Oxaliplatin is a "standard of care" drug that has been used in the treatment of colorectal cancer for over 30 years. It was discovered in Japan in 1976 and subsequently licensed to and acquired by respondent Sanofi. It was approved in France in 1996, in the United States in 2002, and by 2006, it had received regulatory approval and was marketed in over 60 countries. It has been available in Canada through the SAP since 1999. Numerous SAP supplies were authorized by the Minister from 1999 to 2007.
+[15]
+From 2004 to 2006, the applicant worked on a way to file a NDS for its OXALIPLATIN FOR INJECTION, as respondent Sanofi had not yet sought to obtain a NOC for the sale in Canada of its own oxaliplatin known as ELOXATIN. The difficulty the applicant was facing arose from the unusual circumstances of oxaliplatin. The applicant did not have clinical trial data for its drug and it could no longer ethically perform clinical trials as oxaliplatin was then recognized by oncologists in Canada and around the world as a "standard of care" drug for the treatment of colorectal cancer; it was the most therapeutically effective treatment for a particular medical condition. The applicant underwent pre-filing consultations with the Minister in order to discuss the form and content of a regulatory submission that the Minister would consider acceptable in the circumstances.
+[16]
+The publication in early 2006 of the proposed amendments to the data protection provisions might have triggered what occurred next.
+[17]
+After numerous unsatisfactory exchanges and meetings with the Minister, the applicant filed its NDS for OXALIPLATIN FOR INJECTION on October 27, 2006.
+[18]
+On November 20, 2006, respondent Sanofi also filed its NDS seeking approval to market its new drug ELOXATIN. Respondent Sanofi's NDS was granted priority status in accordance with the
+Guidance for Industry: Priority Review of Drug Submissions
+document (Ottawa: Health Canada, 2006).
+A. The screening of the applicant's NDS for OXALIPLATIN FOR INJECTION
+[19]
+On December 19, 2006, the applicant's NDS for OXALIPLATIN FOR INJECTION was rejected by Health Canada at the screening stage. There had not been a substantive review of the information which was provided in support of the NDS because no pre-clinical or clinical data had been submitted - only literature references and reports of post-marketing experience were submitted.
+[20]
+The applicant filed an application for judicial review of that decision. This Court dismissed it but the Federal Court of Appeal granted the appeal and sent the file back to the Minister for a redetermination. The Court of Appeal stressed that the Minister had discretion to determine the nature and form of the information that will be accepted as meeting the requirements of safety and effectiveness. However, based on the ambiguity in the Minister's reasons, it was unclear whether her decision was mindful and made pursuant to the discretion in question or rather the result of a wrong interpretation of those provisions.
+[21]
+Meanwhile, as the proceedings before the federal courts were ongoing, a NOC for ELOXATIN was issued to respondent Sanofi on June 15, 2007. Subsequently, respondent Sanofi submitted a supplement to its NDS for revisions which also included clinical trials evaluating oxaliplatin in paediatric populations. An additional six-month data protection period was granted and ELOXATIN was added to the Register of Innovative Drugs and granted data protection for a term expiring on December 15, 2015.
+[22]
+The Minister reconsidered the applicant's NDS in compliance with the Federal Court of Appeal's decision, but the filing date remained October 27, 2006.
+[23]
+On March 4, 2011, the Minister asked the applicant to explain why its NDS contained no clinical trial data. On April 18, 2011 the applicant responded by providing a bioethics expert's curriculum vitae and affidavit explaining that clinical testing to establish the safety and efficacy of oxaliplatin could not be ethically done.
+[24]
+On June 3, 2011, the screening of the NDS for OXALIPLATIN FOR INJECTION was considered complete by Health Canada and the NDS was found acceptable for examination.
+B. Requests for additional information
+[25]
+Between October and November of 2011, a series of informal exchanges were made between the applicant and Health Canada dealing with administrative issues. However, during that period, formal requests for clarification, known as clarifaxes, were made by Health Canada pursuant to its
+Guidance for Industry:
+Management of Drug Submissions
+document (Ottawa: Health Canada, 1993).
+[26]
+I find the following excerpt from page 16 of the document particularly helpful:
+B) Requests for Clarification During Screening or Review of the Submission - all submission types
+The purpose of a Clarification Request, or Clarifax, is to expand on, add precision to or re-analyse existing information or data in the submission
+. Clarifaxes do not contain requests for new data, such as, new Clinical and/or Pre-Clinical information, including bioavailability data not previously submitted.
+Health Canada uses this mechanism of addressing elements requiring clarification in high quality submissions as frequently as possible.
+[...]
+There is no limitation on the number of clarifaxes that may be issued for one submission. However, no particular issue will be addressed more than once in a Clarification Request. If a request for clarification is identified in a clarifax and the response is not satisfactory, a Screening Deficiency Notice, NOD, NSN or NON will be issued.
+[Emphasis in original.]
+[27]
+More clarifaxes and responses followed from November 20, 2011 until January 5, 2012.
+[28]
+On January 9, 2012 a meeting was held in the Therapeutic Products Directorate to seek input regarding the applicant's NDS.
+[29]
+During January of 2012, Ms. Beryl Chan, the applicant's Director of Regulatory Affairs, initiated two telephone follow-ups with Health Canada, particularly with Dr. Barbara Rotter, regarding the scientific literature submitted as evidence of "clinical" safety and efficacy.
+C. Issuance of Notice of Noncompliance
+[30]
+On March 28, 2012, the Minister had completed her examination of the applicant's NDS and issued a Notice of Noncompliance [NON] pursuant to section C.08.004 of the Regulations.
+[31]
+The NON identified chemistry and manufacturing issues in addition to clinical issues. Of note are the literature references provided by the applicant which, while establishing the non-clinical profile of the drug, were not found sufficiently robust to establish the clinical safety and efficacy as per the requirements of paragraphs C.08.002(2)
+(g)
+and
+(h)
+.
+[32]
+The applicant did not seek judicial review of that decision.
+[33]
+On July 24, 2012, the applicant responded to the NON, indicating that the basis for the request for approval included other information. This other information included reference to the Summary Basis of Decision for ELOXATIN and to the Canadian Product Monograph for ELOXATIN.
+D. Events leading to the refusal to issue the applicant a NOC
+[34]
+Again, several requests for clarification were made and responses followed, which included an August 12, 2013 request for additional information found in the Canadian ELOXATIN Product Monograph; the applicant subsequently included the information.
+[35]
+On October 4, 2013, the applicant was notified that a DIN number would be assigned to OXALIPLATIN FOR INJECTION.
+[36]
+On October 25, 2013, the Bureau of Metabolism, Oncology & Reproductive Sciences of Health Canada prepared an assessment of the NDS for OXALIPLATIN FOR INJECTION recommending approval of the NOC. The Executive Summary did not include a data protection assessment. The Bureau subsequently transmitted the Executive Summary to the Director General of the Therapeutic Products Directorate.
+[37]
+On October 31, 2013, the Minister completed an examination of Hospira's NDS and determined that the NOC could not issue until after the expiry of the market exclusivity period for ELOXATIN - an Intellectual Property Hold Letter was sent to the applicant, dated October 31, 2013.
+[38]
+On November 15, 2013, at the request of the applicant, a teleconference took place with Health Canada. The applicant was offered the opportunity to file written submissions as regards the Minister's decision, but finally chose not to do so.
+[39]
+On November 28, 2013, the applicant instead commenced the present application for judicial review of the October 31, 2013 decision.
+III.
+The Impugned Decision
+[40]
+In the October 31, 2013 letter, the Director of Regulatory Affairs at Health Canada, on behalf of the Minister, notified the applicant that as it had made comparisons in its submission to ELOXATIN, an "innovative drug" listed on the Register of Innovative Drug, the data protection provisions applied and the NOC for OXALIPLATIN FOR INJECTION would not be issued until the expiry of the term of market exclusivity for the drug ELOXATIN.
+IV.
+Issues
+[41]
+This application for judicial review raises the following issues:
+1. Did the Minister breach procedural fairness by failing to inform the applicant earlier in the approval process that the data protection provisions would prevent the issuance of its NOC?
+2. Did the Minister err in finding that subsection C.08.004.1(3) applies to post-filing amendments made pursuant to subsection C.08.004(2)?
+3. If applicable, what is the appropriate remedy to the case at bar?
+V.
+Standard of Review
+[42]
+The first issue is reviewable on a standard of correctness (REFERENCE_SUPPRESSED).
+[43]
+On the standard applicable to the second issue, the applicant argues that issues dealing with the Minister's interpretation of the data protection provisions are reviewable on a standard of correctness (
+REFERENCE_SUPPRESSED).
+[44]
+The Minister argues that the standard of reasonableness is applicable and would like the Court to engage in the two-step process identified in
+REFERENCE_SUPPRESSED. The Minister argues that in
+CITATION_SUPPRESSED
+, the majority noted that the parties had agreed correctness was the appropriate standard and no one argued that the presumption of reasonableness applied.
+[45]
+Sanofi argues that the interpretation and application of the data protection provisions relate to the decision-maker's constituent statute over which the Minister has considerable discretion, such that the standard of reasonableness applies (
+REFERENCE_SUPPRESSED;
+CITATION_SUPPRESSED).
+[46]
+I am of the view that the standard to be applied is correctness based on
+CITATION_SUPPRESSED
+and on this Court's reasons in
+REFERENCE_SUPPRESSED.
+[47]
+First, I do not agree with the Minister that the fact that in
+CITATION_SUPPRESSED
+, the parties agreed on correctness as being applicable has any significance. Both Dawson J, (who wrote the majority reasons) and Stratas J (dissenting) addressed the issue regardless, and took different approaches.
+[48]
+Second, I agree with my former colleague Gleason J in
+CITATION_SUPPRESSED
+that the decisions of the Supreme Court of Canada in
+CITATION_SUPPRESSED
+and
+REFERENCE_SUPPRESSED, which are post-
+CITATION_SUPPRESSED
+, dictate there is a presumption that the reasonableness standard applies to the second issue raised in this application, as it involves the interpretation of the decision-maker's constituent statute. I also agree with her that this presumption "may be rebutted by a contextual analysis if it demonstrates that the issue in question is not one that the legislature intended to leave to the decision-maker to determine because it falls more appropriately within the expertise of a reviewing court" and that "[i]n conducting the contextual analysis, the reviewing court may have regard to such factors as the presence or absence of a privative clause, the purpose of the tribunal, the nature of the question at issue, and the expertise of the tribunal" (
+CITATION_SUPPRESSED).
+[49]
+Given that in
+CITATION_SUPPRESSED
+Stratas J dealt with both the presumption and the contextual factors surrounding the data protection provisions, I see no need to redo the exercise:
+[26] In this Court, both parties agree that the Federal Court adopted the correct standard of review, correctness. I agree that the standard of review is correctness.
+[27] This Court has not previously decided the issue of the standard of review of Ministerial interpretations of the data protection provisions under the Food and Drug Regulations. The interpretation of subsection C.08.004.1(1) arose in the recent case of
+REFERENCE_SUPPRESSED. However, this Court did not decide the standard of review issue because the Minister had correctly interpreted the Regulations (at paragraph 9).
+[28] The Supreme Court has spoken of a presumption that the standard of review is reasonableness for the legislative interpretations of administrative decision-makers:
+REFERENCE_SUPPRESSED. But that is a rebuttable presumption that can be overcome upon an analysis of the four relevant factors discussed in [REFERENCE_SUPPRESSED.
+[29]
+In my view, the presumption is overcome. All of the factors relevant to determining the standard of review lean in favour of correctness review. In this case, the nature of the question is purely legal. There is no privative clause. The Minister has no expertise in legal interpretation. There is nothing in the structure of the Act, this regulatory regime or this particular legislative provision that suggests that deference should be accorded to the Minister's decision.
+This analysis of the factors mirrors that in
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED.
+[30] I am comforted in this conclusion by the application of the correctness standard to Ministerial interpretations of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133:
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED. Although different regulations are involved in this case, both concern Minister-administered regimes governing the period before drugs are authorized for sale. It would be anomalous if the standards of review differed.
+[Emphasis added.]
+[50]
+Having said that however, I do not think that the determination of the applicable standard of review in the present case is determinative, as I view the Minister's decision and interpretation of the data protection provisions as both reasonable and correct.
+VI.
+Analysis
+A. Did the Minister breach procedural fairness by failing to inform the applicant earlier in the approval process that the data protection provisions would prevent the issuance of a NOC?
+[51]
+The applicant points out that it was clear from the regulatory dealings which took place from 2004 to 2006 that OXALIPLATIN FOR INJECTION was commercially important to the applicant. In the context, the Minister had a duty to inform the applicant that it had adopted or was considering to adopt an interpretation of the data protection provisions that would prevent the issuance of an early NOC.
+[52]
+The applicant submits that the applicant's NDS was on Health Canada's "radar" by July 2012 and yet it remained silent in the sense that it continued to require amendments to the applicant's NDS although these amendments would eventually be invoked to apply the data protection provisions in a manner that was not contemplated by either the statutory language or Health Canada's own policy, to the prejudice of the applicant (
+REFERENCE_SUPPRESSED).
+[53]
+The Minister submits that there was no breach of procedural fairness because: i) there was no basis to inform the applicant of an anticipated decision that the data protection provisions would be applied; and, ii) the applicant declined an opportunity to make submissions in light of an offer by Health Canada to reconsider the issue.
+[54]
+Health Canada admits that it knew earlier than October 31, 2013 that there was a possibility data protection would be engaged but until the basis for approval on safety and efficacy was established by the Bureau of Metabolism, Oncology & Reproductive Sciences, the issue could not be raised. Until the Bureau's Executive Summary was completed, Health Canada had no foundation for the decision it would have to make. The Minister contends that therefore, there was no basis to inform the applicant of an anticipated decision.
+[55]
+On November 15, 2013, after the decision was rendered, the applicant participated in a teleconference, during which Health Canada officials agreed to consider any written submissions the applicant wished to make and to reply in writing. The Minister submits it was clear that Health Canada contemplated a full reconsideration of the issue, but the applicant simply declined.
+[56]
+Respondent Sanofi does not really take position on this first issue. However, it observes that the applicant's NDS benefited from a "significant anomaly"; the Minister reviewed the original NDS filed in 2006 which was subject to judicial review. Respondent Sanofi contends that Health Canada's original policy mandates that the sponsor who is faced with a NON should resubmit its NDS and receive a new control number and filing date which, in the case of the applicant, would have been in 2010.
+[57]
+This Court has held that the regulatory process under the Regulations is more akin to an "administrative process" and therefore the degree of fairness owed to the applicant in the present circumstances is low (
+REFERENCE_SUPPRESSED ;
+REFERENCE_SUPPRESSED). The question is whether the applicant knew the case it had to meet and was afforded an opportunity to respond.
+[58]
+The Executive Summary detailing the assessment of the applicant's NDS by the Bureau of Metabolism, Oncology & Reproductive Sciences, which provides a recommendation for approval of the NOC, was completed on October 25, 2013. In her affidavit, Ms. Anne Elizabeth Bowes for Health Canada states that "[t]he Executive Summary, which provides an overview of the review process but does not include a data protection assessment, is transmitted to the Director General of the Therapeutic Products Directorate as part of the NOC approval package, or in this case, with the Intellectual Property Hold Letter." In other words, a data protection assessment is only undertaken after the safety and efficacy of a new drug has been demonstrated to the Bureau's satisfaction.
+[59]
+In my view, the Minister did not have to advise the applicant that should it choose to seek a NOC for a new drug on the basis of a direct or indirect comparison with an innovative drug, the issuance of that NOC could be subject to the data protection provisions, because that is clear from the combined wording of subsections C.08.004(1) and C.08.004.1(3).
+[60]
+In addition, the assessment of the safety and efficacy of OXALIPLATIN FOR INJECTION by the Bureau was and is a prerequisite for the marketing of that new drug in Canada, whether before or after the expiration of the data protection period. The applicant cannot argue that it was prejudiced by the order in which the different issues were dealt with by different departments of Health Canada.
+[61]
+In any event, if there was a procedural irregularity in the treatment of the applicant's NDS, it can be argued that it was cured at a later stage in the proceeding.
+[62]
+In her affidavit, Ms. Beryl Chan for the applicant explains that "[a]t no point during the regulatory review process", beginning with the applicant's filing of its NDS in October of 2006, and the seven year period to follow, "did Health Canada advise or even suggest...that it had adopted, or was considering, an interpretation of the data protection provisions that would affect issuance of a NOC". Ms. Chan acknowledges that a teleconference took place but remains silent on the opportunity given by Health Canada for reconsideration (affidavit at paragraphs 74 to 77). However, in cross-examination she admits that the applicant waived its right to make written submissions (transcript of cross-examination at 30-31):
+Q: Did Hospira file written submissions in response to this letter?
+A: From what I recall, after a lot of internal discussion and reviewing all the previous communications that we had had with Health Canada and the dialogue that we had had and just the history of this file, I believed our company made the decision that we felt it was in our best interest to proceed [with the Notice of Application] because---well, with not going ahead and submitting representations because we didn't feel that it would be very productive ....
+[63]
+The applicant chose not to take advantage of the full opportunity to be heard, as it foreclosed the reconsideration process that was clearly available. I therefore reject this first ground of judicial review.
+B. Did the Minister err in finding that subsection C.08.004.1(3) applies to post-filing amendments made pursuant to subsection C.08.004(2)?
+(1) Party Submissions
+[64]
+The applicant argues that the Minister wrongly applied the data protection provisions to its NDS for OXALIPLATIN FOR INJECTION. The applicant highlights the following facts:
+— It is uncontested that ELOXATIN had no NOC and no term of data protection when the applicant filed its NDS;
+— ELOXATIN was listed on the Innovative Drug Register after the applicant filed its NDS;
+— Health Canada's decision appears to be based on the applicant's references to ELOXATIN that it was required to add to its NDS "at Health Canada's own direction".
+[65]
+According to the applicant, nothing in the wording or regulatory scheme provides authority for Health Canada to have applied the data protection provisions to post-filing amendments. The applicant clearly did not "seek" a NOC on the basis of a comparison with an innovative drug. Post-filing amendments do not fall within the scope of subsection C.08.004.1(3):
+(3) If a manufacturer seeks a notice of compliance for a new drug on the basis of a direct or indirect comparison between the new drug and an innovative drug,
+(a) the manufacturer may not file a new drug submission, a supplement to a new drug submission, an abbreviated new drug submission or a supplement to an abbreviated new drug submission in respect of the new drug before the end of a period of six years after the day on which the first notice of compliance was issued to the innovator in respect of the innovative drug; and
+(b) the Minister shall not approve that submission or supplement and shall not issue a notice of compliance in respect of the new drug before the end of a period of eight years after the day on which the first notice of compliance was issued to the innovator in respect of the innovative drug.
+[66]
+According to the applicant, paragraph (
+b
+) cannot be severed and applied independently of paragraph (
+a
+). If the submission or supplement can be filed, data protection is not triggered; "'the new drug' of paragraph (b) can only be the 'new drug' mentioned in paragraph (a), and the 'new drug' that is being compared with the innovative drug, as set forth in the preamble." The applicant adds:
+On a contextual reading, "that submission or supplement" can only refer to the submission or supplement defined in subsection (a) -there is no other antecedent. Otherwise, the word "that" is wholly redundant.
+[67]
+Therefore, in the applicant's view, the prohibition against the Minister's issuance of a NOC only applies to those submissions or supplements that were the subject to the six year "no-filing" bar of paragraph (
+a
+). The applicant relies on the ordinary meaning of the words which, it argues, are precise and unequivocal, thus playing a dominant role in the exercise of interpretation (
+CITATION_SUPPRESSED). Use of the conjunctive word "and" serves to tie paragraphs (
+a
+) and (
+b
+) together. Nothing in the language of subsection (5), which creates an exception for the innovative drug that is not being marketed in Canada, suggests that paragraphs (3)(
+a
+) and (
+b
+) are to be read disjunctively.
+[68]
+According to the applicant, this interpretation is consistent with the overall context and purpose of the regulation. The regulation is structured to achieve the legislative objective of ensuring access to drugs (
+REFERENCE_SUPPRESSED). In the applicant's view, it encourages early filing of regulatory submissions for innovative drugs by leaving room for another manufacturer to seek a NOC for its new drug where no NOC has yet been issued.
+[69]
+The Minister, in turn, asserts that the prohibition on issuing a NOC may be applied independently of paragraph 3(
+a
+). Section C.08.004.1 establishes two prohibitions which run concurrently from the date the first NOC was first issued to the innovator: paragraph (
+a
+) features a six-year prohibition on the filing of comparative new drug submissions and paragraph (
+b
+) features an eight-year prohibition on the issue of a NOC for that drug. The "trigger" for data protection is when it is clear that a NDS for a new drug is making a "direct or indirect comparison between the new drug and an innovative drug". The difference between paragraphs (
+a
+) and (
+b
+) is merely one of scope; the second prohibition being broader in scope than the first because it is not connected to "that submission" but rather to "in respect of the new drug" described in the opening words of subsection (3). In the Minister's view, the use of different language is significant because it reflects an intention to create a broader prohibition on issuing a NOC, which operates whether or not the generic manufacturer was caught by the prohibition in paragraph 3(
+a
+).
+[70]
+The Minister issued a NON pursuant to paragraph C.08.004(1)(
+b
+) because the literature-based NDS did not compensate for the absence of clinical data in demonstrating compliance with the requirements for safety and efficacy. Under subsection C.08.004(2), a manufacturer who receives such a notice has the right
+but is by no means obliged to amend its submission or file additional information or material in support of its submission
+. In such circumstances, subsection C.08.004(3) comes into effect and the Minister must then consider the issue of compliance afresh faced with this additional information. The Minister maintains that he never directed the applicant to make a comparison to ELOXATIN; it was a suggestion and the applicant could have tried to meet the requirements in other ways.
+[71]
+Simply put, the comparison the applicant made to Health Canada's Summary of Basis of Decision for ELOXATIN and the ELOXATIN Canadian Product Monograph provided the Minister with enough certainty to reassess the NDS and to conclude that it satisfied the safety and efficacy requirements.
+[72]
+Sanofi endorses the Minister's interpretation of subsection C.08.004.1(3) and adds that in keeping with the principles of statutory interpretation, the Court must interpret "and" in a manner to avoid absurdity and further the object of the legislation, even if this means interpreting "and" as disjunctive; the purpose and legislative intent are paramount (REFERENCE_SUPPRESSED).
+[73]
+Sanofi further points out that the applicant has offered an incomplete discussion of the purpose of the data protection legislation. The purpose is to protect from unfair use of undisclosed clinical or other data generated by an innovative manufacturer to support its drug submission - this provides an incentive for the development of new drugs. Further, the Federal Court of Appeal has rejected interpretations which would serve to "undercut" the treaty protections afforded to an innovator for its proprietary clinical data by section C.08.004.1 (
+CITATION_SUPPRESSED;
+CITATION_SUPPRESSED). As an innovator of ELOXATIN, Sanofi is entitled to the protection of its voluminous confidential clinical data.
+(2) The Correct Approach to Subsection C. 08.004.1(3)
+[74]
+It is uncontested that OXALIPLATIN FOR INJECTION and ELOXATIN are new drugs, as defined in section C.08.001. Although it has been contested by the Minister and a third party, the Federal Court of Appeal has confirmed in
+CITATION_SUPPRESSED
+, that ELOXATIN is also an innovative drug as defined in subsection C.08.004.1(1).
+[75]
+The question raised by the present application for judicial review is not whether the Minister erred in finding that OXALIPLATIN FOR INJECTION's safety and efficacy has not been established by its literature-based NDS; no application for judicial review of the NON was made and the question is not before me. Further, the question is not whether or not the applicant's NDS or supplement to NDS makes a direct or indirect comparison between OXALIPLATIN FOR INJECTION and Sanofi's ELOXATIN; that fact is not contested by the applicant and the evidence before the Court supports a finding that it was a direct comparison.
+[76]
+The question is simply whether or not the data protection provisions apply to the applicant's request for a NOC for OXALIPLATIN FOR INJECTION.
+[77]
+That said, the parties agree that the interpretation of subsections C.08.004(2) and C.08.004.1(3) is governed by the principles of statutory interpretation which have, for example, been employed in
+CITATION_SUPPRESSED
+, and
+Canada
+REFERENCE_SUPPRESSED; a reviewing Court must give attention to the text, context and purpose surrounding the provisions at issue.
+[78]
+As Dawson J has recently discussed in
+CITATION_SUPPRESSED
+, "[w]ords of a provision are to be read in their ordinary, grammatical sense. Where the words of a provision are precise and unequivocal, the ordinary meaning is to play a dominant part in the interpretive exercise." (at para 119; see also
+CITATION_SUPPRESSED). However, attention must still be given to the context and purpose even where there is clarity in the ordinary meaning of the text (
+CITATION_SUPPRESSED).
+[79]
+In my view, while I agree with the applicant that subsection C.08.004.1(3) is not sufficiently precise, I find that when its text is read by cross-reference to the other provisions found in section C.08.004, it is clear that post-filing amendments are subject to the data protection prohibition imposed on the Minister by paragraph (
+b
+) of subsection C.08.004.1(3).
+[80]
+First, upon reading subsection C.08.004.1(3), it appears that the only way a manufacturer may seek a NOC for a new drug on the basis of a direct or indirect comparison of that new drug to an innovative drug, is through "a new drug submission, a supplement to a new drug submission, an abbreviated drug submission or a supplement to an abbreviated new drug submission in respect of the new drug." If a comparison is made through any of these mechanisms, two prohibitions apply: (i) the manufacturer may not file for a period of six years starting from the day the innovative drug received a NOC; and, (ii) the Minister shall not issue the NOC for the new drug until eight years after the innovative drug has received a NOC. Paragraph (
+b
+) ensures that the explicit eight year period of market exclusivity granted to an innovator is respected notwithstanding an early filing date or a previous NON.
+[81]
+In my view, what is important here is not necessarily to determine whether paragraph (
+b
+) can be applied independently of paragraph (
+a
+), but rather to ascertain whether amendments made under subsection C.08.004(2) are encompassed or are said to be included in "a new drug submission, a supplement to a new drug submission, an abbreviated drug submission or a supplement to an abbreviated new drug submission in respect of the new drug."
+[82]
+Subsection C.08.004.1(3) is silent on post-filing amendments. However, I note subsection C.08.004(3) clearly stipulates that an examination of the additional information filed is also subject to the data protection provisions.
+[83]
+In my view, this conclusion is confirmed by the purpose behind the data protection provisions which, I agree with the respondents, the applicant has stated incompletely (see
+CITATION_SUPPRESSED, as endorsed by the majority). In my view, the interpretation the applicant urges would run contrary to Canada's NAFTA and TRIPS obligations and undercut its commitments to protecting innovators from unfair commercial use of undisclosed data, which took considerable effort to negotiate and implement.
+VII.
+Conclusion
+[84]
+For the foregoing reasons, I conclude that the Minister correctly interpreted subsections C.08.004.1(3) and C.08.004(2) of the Regulations, and hold that there was no breach of procedural fairness. It is therefore not necessary for me to address the issue relating to the order of
+mandamus
+requested by the applicant.
+JUDGMENT
+[85]
+THIS COURT'S JUDGMENT is that
+:
+1. The applicant's application for judicial review is dismissed;
+2. Costs are granted in favour of both respondents.
+ANNEX
+Food and Drug Regulations
+, CRC, c 870
+(version in force from October 2, 2013 to November 1, 2013)
+Division 8
+New Drugs
+C.08.001.
+For the purposes of the Act and this Division, "new drug" means
+(a) a drug that contains or consists of a substance, whether as an active or inactive ingredient, carrier, coating, excipient, menstruum or other component, that has not been sold as a drug in Canada for sufficient time and in sufficient quantity to establish in Canada the safety and effectiveness of that substance for use as a drug;
+(b) a drug that is a combination of two or more drugs, with or without other ingredients, and that has not been sold in that combination or in the proportion in which those drugs are combined in that drug, for sufficient time and in sufficient quantity to establish in Canada the safety and effectiveness of that combination and proportion for use as a drug; or
+(c) a drug, with respect to which the manufacturer prescribes, recommends, proposes or claims a use as a drug, or a condition of use as a drug, including dosage, route of administration, or duration of action and that has not been sold for that use or condition of use in Canada, for sufficient time and in sufficient quantity to establish in Canada the safety and effectiveness of that use or condition of use of that drug.
+[...]
+C.08.002. (1) No person shall sell or advertise a new drug unless:
+(
+a
+) the manufacturer of the new drug has filed with the Minister a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission or an abbreviated extraordinary use new drug submission relating to the new drug that is satisfactory to the Minister;
+(
+b
+) the Minister has issued, under section C.08.004 or C.08.004.01, a notice of compliance to the manufacturer of the new drug in respect of the submission;
+(
+c
+) the notice of compliance in respect of the submission has not been suspended pursuant to section C.08.006; and
+(
+d
+) the manufacturer of the new drug has submitted to the Minister specimens of the final version of any labels, including package inserts, product brochures and file cards, intended for use in connection with that new drug, and a statement setting out the proposed date on which those labels will first be used.
+[...]
+C.08.004.1
+(1) The following definitions apply in this section.
+"abbreviated new drug submission"
+"abbreviated new drug submission" includes an abbreviated extraordinary use new drug submission.
+"innovative drug"
+"innovative drug" means a drug that contains a medicinal ingredient not previously approved in a drug by the Minister and that is not a variation of a previously approved medicinal ingredient such as a salt, ester, enantiomer, solvate or polymorph.
+"new drug submission"
+"new drug submission" includes an extraordinary use new drug submission.
+"pediatric populations"
+"pediatric populations" means the following groups: premature babies born before the 37th week of gestation; full-term babies from 0 to 27 days of age; and all children from 28 days to 2 years of age, 2 years plus 1 day to 11 years of age and 11 years plus 1 day to 18 years of age.
+(2) The purpose of this section is to implement Article 1711 of the North American Free Trade Agreement, as defined in the definition "Agreement" in subsection 2(1) of the
+North American Free Trade Agreement Implementation Act
+, and paragraph 3 of Article 39 of the Agreement on Trade-related Aspects of Intellectual Property Rights set out in Annex 1C to the Agreement Establishing the World Trade Organization, as defined in the definition "Agreement" in subsection 2(1) of the
+World Trade Organization Agreement Implementation Act
+.
+(3) If a manufacturer seeks a notice of compliance for a new drug on the basis of a direct or indirect comparison between the new drug and an innovative drug,
+(a) the manufacturer may not file a new drug submission, a supplement to a new drug submission, an abbreviated new drug submission or a supplement to an abbreviated new drug submission in respect of the new drug before the end of a period of six years after the day on which the first notice of compliance was issued to the innovator in respect of the innovative drug; and
+(b) the Minister shall not approve that submission or supplement and shall not issue a notice of compliance in respect of the new drug before the end of a period of eight years after the day on which the first notice of compliance was issued to the innovator in respect of the innovative drug.
+Règlement sur les aliments et drogues,
+CRC, c 870 (version en vigueur du 2 octobre 2013 au 1er novembre 2013)
+Titre 8
+Drogues nouvelles
+C.08.001.
+Pour l'application de la Loi et du présent titre, « drogue nouvelle » désigne:
+a) une drogue qui est constituée d'une substance ou renferme une substance, sous forme d'ingrédient actif ou inerte, de véhicule, d'enrobage, d'excipient, de solvant ou de tout autre constituant, laquelle substance n'a pas été vendue comme drogue au Canada pendant assez longtemps et en quantité suffisante pour établir, au Canada, l'innocuité et l'efficacité de ladite substance employée comme drogue;
+b) une drogue qui entre dans une association de deux drogues ou plus, avec ou sans autre ingrédient, qui n'a pas été vendue dans cette association particulière, ou dans les proportions de ladite association pour ces drogues particulières, pendant assez longtemps et en quantité suffisante pour établir, au Canada, l'innocuité et l'efficacité de cette association ou de ces proportions employées comme drogue; ou
+c) une drogue pour laquelle le fabricant prescrit, recommande, propose ou déclare un usage comme drogue ou un mode d'emploi comme drogue, y compris la posologie, la voie d'administration et la durée d'action, et qui n'a pas été vendue pour cet usage ou selon ce mode d'emploi au Canada pendant assez longtemps et en quantité suffisante pour établir, au Canada, l'innocuité et l'efficacité de cet usage ou de ce mode d'emploi pour ladite drogue.
+[...]
+C.08.002. (1) Il est interdit de vendre ou d'annoncer une drogue nouvelle, à moins que les conditions suivantes ne soient réunies:
+a) le fabricant de la drogue nouvelle a, relativement à celle-ci, déposé auprès du ministre une présentation de drogue nouvelle, une présentation de drogue nouvelle pour usage exceptionnel, une présentation abrégée de drogue nouvelle ou une présentation abrégée de drogue nouvelle pour usage exceptionnel que celui-ci juge acceptable;
+b) le ministre a délivré au fabricant de la drogue nouvelle, en application des articles C.08.004 ou C.08.004.01, un avis de conformité relativement à la présentation;
+c) l'avis de conformité relatif à la présentation n'a pas été suspendu aux termes de l'article C.08.006;
+d) le fabricant de la drogue nouvelle a présenté au ministre, sous leur forme définitive, des échantillons des étiquettes - y compris toute notice jointe à l'emballage, tout dépliant et toute fiche sur le produit - destinées à être utilisées pour la drogue nouvelle, ainsi qu'une déclaration indiquant la date à laquelle il est prévu de commencer à utiliser ces étiquettes.
+[...]
+C.08.004.1
+(1) Les définitions suivantes s'appliquent pour cette section.
+« présentation abrégée de drogue nouvelle »
+« présentation abrégée de drogue nouvelle » S'entend également d'une présentation abrégée de drogue nouvelle pour usage exceptionnel
+« drogue innovante »
+« drogue innovante » S'entend de toute drogue qui contient un ingrédient médicinal non déjà approuvé dans une drogue par le ministre et qui ne constitue pas une variante d'un ingrédient médicinal déjà approuvé tel un changement de sel, d'ester, d'énantiomère, de solvate ou de polymorphe.
+« présentation de drogue nouvelle »
+« présentation de drogue nouvelle » S'entend également d'une présentation de drogue nouvelle pour usage exceptionnel.
+« population pédiatrique »
+« population pédiatrique » S'entend de chacun des groupes suivants: les bébés prématurés nés avant la 37e semaine de gestation, les bébés menés à terme et âgés de 0 à 27 jours, tous les enfants âgés de 28 jours à deux ans, ceux âgés de deux ans et un jour à 11 ans et ceux âgés de 11 ans et un jour à 18 ans.
+(2) L'objet du présent article est de mettre en œuvre l'article 1711 de l'Accord de libre-échange nord-américain, au sens du terme « Accord » au paragraphe 2(1) de la
+Loi de mise en œuvre de l'Accord de libre-échange nord-américain
+, et le paragraphe 3 de l'article 39 de l'Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce figurant à l'annexe 1C de l'Accord instituant l'Organisation mondiale du commerce, au sens du terme « Accord » au paragraphe 2(1) de la
+Loi de mise en œuvre de l'Accord sur l'Organisation mondiale du commerce
+.
+(3) Lorsque le fabricant demande la délivrance d'un avis de conformité pour une drogue nouvelle sur la base d'une comparaison directe ou indirecte entre celle-ci et la drogue innovante:
+a) le fabricant ne peut déposer pour cette drogue nouvelle de présentation de drogue nouvelle, de présentation abrégée de drogue nouvelle ou de supplément à l'une de ces présentations avant l'expiration d'un délai de six ans suivant la date à laquelle le premier avis de conformité a été délivré à l'innovateur pour la drogue innovante;
+b) le ministre ne peut approuver une telle présentation ou un tel supplément et ne peut délivrer d'avis de conformité pour cette nouvelle drogue avant l'expiration d'un délai de huit ans suivant la date à laquelle le premier avis de conformité a été délivré à l'innovateur pour la drogue innovante.
+[End of document]

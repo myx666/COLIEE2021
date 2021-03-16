@@ -1,0 +1,793 @@
+ <FRAGMENT_SUPPRESSED>  CF 1169)
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Hughes, J.
+November 9, 2011.
+Counsel:
+David Aitken and Bryan Norrie, for the plaintiff;
+Brian Daley and Joanne Chriqui, for the defendants, Wyeth LLC and Pfizer Canada Inc.
+Solicitors of Record:
+Osler, Hoskin & Harcourt LLP, Ottawa, Ontario, for the plaintiff;
+Norton Rose OR LLP, Montreal, Quebec, for the defendants, Wyeth LLC and Pfizer Canada Inc.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+(Confidential Reasons for Judgment and Judgment issued on October 17, 2011)
+[1]
+Hughes, J.
+: The Plaintiff Teva Canada Limited has brought a motion under the provisions of Rules 213 ff. of the
+Federal Courts Rules,
+SOR/98-106, for a Summary Trial in respect of matters at issue in this action. For the reasons that follow, I find that the motion will proceed as a summary trial and that Teva can no longer pursue the section 8 claim initiated by ratiopharm in this action.
+[2]
+This action was commenced by a company called ratiopharm inc. as Plaintiff. By a Statement of Claim dated October 22, 2007 ratiopharm claimed damages as against companies known as Wyeth and Wyeth Canada based under the provisions of section 8 of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (
+NOC Regulations
+). That claim arose following earlier proceedings taken by Wyeth under the
+NOC Regulations
+against ratiopharm involving Canadian Patent No. 1,248,540 (the '540 patent) and Canadian Patent No. 2,199,778 (the '778 patent). Wyeth had counterclaimed in the present action alleging infringement of the '540 and '778 patents and seeking, among other things, damages or profits. However, just prior to the hearing of the present motion, Wyeth discontinued the counterclaim. In the course of this action, the Plaintiff became Teva Canada Limited (Teva); the Defendants became Wyeth LLC and Pfizer Canada Inc. The change respecting the Plaintiff will be examined in some detail. It is convenient simply to refer to the Defendants collectively as Wyeth.
+INDEX
+[3]
+The following is an index to these Reasons:
+THE
+NOC
+REGULATIONS PROCEEDING
+Paras 4 to 8
+THE NOVOPHARM LICENCE
+Paras 9 to 13
+AMALGAMATION
+Paras 14 to 18
+THE EVIDENCE
+Paras 19 to 21
+THE MOTION FOR SUMMARY TRIAL
+Para 22
+RELEVANT DATES AND NAMES
+Paras 23 to 25
+ISSUES
+Paras 26 to 58
+--Issue #1 - Is it appropriate to determine this matter by way of a summary trial?
+Paras 27 to 34
+--Issue #2 - On a summary trial, where does the burden lie?
+Paras 35 to 37
+--Issue #3 - Is Teva, the merged corporation, entitled to maintain the claim for the section 8 damages as initiated by ratiopharm in this action?
+Paras 38 to 57
+--Issue #4 - If the answer to Issue#3 is yes, is Wyeth entitled to offset against the section 8 claim any gains realized by Teva/Novopharm under the License Agreement?
+Para 58
+CONCLUSION AND COSTS
+Para 59
+THE
+NOC REGULATIONS
+PROCEEDING
+[4]
+As a starting point, the proceedings taken by Wyeth against ratiopharm will be considered. On December 23, 2005, ratiopharm served on Wyeth a Notice of Allegation in which ratiopharm stated that it wished to market in Canada a generic version of a drug sold by Wyeth in Canada under the brand name EFFEXOR XR. In that Notice, ratiopharm stated that it accepted a Notice of Compliance would not be granted to it until the expiry of the '540 patent, and alleged that the '778 patent was invalid and would not be infringed by the ratiopharm product.
+[5]
+On January 10, 2006, the term of the '540 patent expired. Given the discontinuance of the counterclaim, no further consideration needs to be given to the '540 patent.
+[6]
+On February 10, 2006, Wyeth commenced proceedings against ratiopharm under the provisions of the
+NOC Regulations
+, seeking to prohibit the issuance of a Notice of Compliance to ratiopharm until the expiry of the '778 patent.
+[7]
+On December 18, 2006, ratiopharm brought a motion for dismissal of Wyeth's NOC proceedings on the basis that the '778 patent was not eligible for listing under the
+NOC Regulations
+. On March 29, 2007, the Federal Court made an Order dismissing that motion but only in part. On August 1, 2007, the Federal Court of Appeal allowed ratiopharm's appeal and dismissed Wyeth's application for prohibition in its totality.
+[8]
+On August 2, 2007, ratiopharm received a Notice of Compliance from Health Canada, thus receiving approval from the Minister of Health for the sale of its product, ratio-VENLAFAXINE XR in Canada. On August 15, 2007, it commenced selling this product in Canada.
+THE NOVOPHARM LICENCE
+[9]
+Novopharm Limited was, since before the time that the NOC proceedings against ratiopharm were initiated, a Canadian corporation which, like ratiopharm, carried on business in Canada in the marketing of generic drugs. Novopharm and ratiopharm were competitors at that time.
+[10]
+On December 7, 2005, Novopharm and Wyeth entered into a License Agreement. Among other patents, Wyeth licensed Novopharm to sell Novopharm's generic version of the drug at issue under the '778 patent. Novopharm began to sell this version in Canada about December 1, 2006.
+[11]
+The License Agreement included terms whereby [omitted]
+[omitted]
+[12]
+Wyeth, early in 2006, notified Novopharm that ratiopharm had served a Notice of Allegation on Wyeth. An exchange of communications between their respective solicitors occurred following which Wyeth instituted the NOC proceedings. This exchange will be discussed later.
+[13]
+On February 6, 2010 Novopharm changed its name to Teva Canada Limited. The several named licencors in the Agreement have changed to some degree; however, Counsel for each of the parties at the hearing before me agreed that they can simply be called Wyeth for the purposes of this motion.
+AMALGAMATION
+[14]
+On August 10, 2010 ratiopharm (and three other related companies) amalgamated with Teva Canada Limited (formerly Novopharm) and continued under the name Teva Canada Limited.
+[15]
+Since the amalgamation, Teva has sold both the ratiopharm and Novopharm generic drugs pursuant to the License Agreement with Wyeth.
+[16]
+The amalgamation of ratiopharm (and others) and Teva (nee Novopharm) took place under the provisions of the
+Canada Business Corporations Act
+, R.S.C. 1985, c. C-44. Section 186 of that Act provides:
+186. On the date shown in a certificate of amalgamation
+(a) the amalgamation of the amalgamating corporations and their continuance as one corporation become effective;
+(b) the property of each amalgamating corporation continues to be the property of the amalgamated corporation;
+(c) the amalgamated corporation continues to be liable for the obligations of each amalgamating corporation;
+(d) an existing cause of action, claim or liability to prosecution is unaffected;
+(e) a civil, criminal or administrative action or proceeding pending by or against an amalgamating corporation may be continued to be prosecuted by or against the amalgamated corporation;
+(f) a conviction against, or ruling, order or judgment in favour of or against, an amalgamating corporation may be enforced by or against the amalgamated corporation; and
+(g) the articles of amalgamation are deemed to be the articles of incorporation of the amalgamated corporation and the certificate of amalgamation is deemed to be the certificate of incorporation of the amalgamated corporation.
+[17]
+Prior to the amalgamation, ratiopharm's founder died tragically. That company was part of a larger group of companies owned directly or indirectly by a European company Merckle GMBH. Preceding the amalgamation, there were a series of complex corporate sale and restructuring steps involving ratiopharm, none of which is relevant to the issues here. Teva (nee Novopharm) and ratiopharm then amalgamated.
+[18]
+The parties are agreed that, prior to the date of amalgamation, no litigious rights of ratiopharm in the present action or any other assets of ratiopharm were purchased by Teva or its parent companies.
+THE EVIDENCE
+[19]
+Teva, the moving party, provided two affidavits, each with exhibits. One was the affidavit of Kane Denike, Director, Intellectual Property  <FRAGMENT_SUPPRESSED> , who attested to much of the history respecting ratiopharm and the Novopharm licence. The other was the affidavit of Ildiko Mehes, Vice President and General Counsel of Teva Canada Limited, with exhibits. She testified as to the corporate restructuring of ratiopharm and its acquisition by Teva Canada Limited. Both affiants were cross-examined.
+[20]
+Wyeth provided in evidence the affidavit of Denise Pope, a paralegal in its Counsel's Office. She attached as exhibits a transcript of the examination for discovery of Kane Denike and certain correspondence between the lawyers for the parties. She was not cross-examined.
+[21]
+Counsel for Teva, in a letter dated May 13, 2011 to Counsel for Wyeth stated:
+For the purpose of summary trial, Teva is prepared to accept
+:
+1. Novopharm Limited entered into the December 7, 2005 License Agreement and later changed its name to Teva Canada Limited. Ratiopharm did not enter into the License Agreement at any time prior to amalgamation. The legal effect of amalgamation in relation to this issue is not a "fact" that requires discovery, and is properly a matter for determination on summary trial.
+2. Teva accepts that Novopharm benefitted during the period from January 10, 2006 to August 2, 2007 (the "Relevant Period") from the fact that ratiopharm was not on the market, because Novopharm was a licensee under the License Agreement. The quantum of Teva's benefit is not relevant and no discovery is required unless and until it is established on summary trial that the legal effect of the amalgamation allows Wyeth to offset Teva's gains against ratiopharm's losses.
+3. Teva accepts that paragraph 5.1 of the License Agreement obliges Wyeth to use commercially reasonable efforts to address any actual or potential infringement of Canadian Patent No. 2,199,778 by a generic drug company, and that the Prohibition Application was in compliance with that obligation. The legal effect of amalgamation in relation to this issue is not a "fact" that requires discovery, and is properly a matter for determination on summary trial.
+THE MOTION FOR SUMMARY TRIAL
+[22]
+Teva has brought this motion for summary trial in which it seeks the following relief:
+Order sought
+40. The plaintiff (defendant by counterclaim) requests that the Court grant an order on summary trial in favour of the plaintiff pursuant to Rule 216 of the Federal Court Rules that
+:
+(a) Teva Canada is entitled to make the claim under section 8 of the NOC Regulations formerly made by ratiopharm in this action;
+(b) Irrespective of quantum, Wyeth is not entitled to offset any gains realized by Novopharm as a licensee of Wyeth under the License Agreement against any damages suffered by Ratiopharm in the period in which it was kept off the market;
+(c) (Deleted as a result of the discontinuance of the counterclaim).
+[23]
+The Defendants Wyeth ask for the following Order in their Memorandum of Argument:
+1. An Order that the issues raised in the plaintiff's motion are not suitable for summary trial and summary trial will not assist in the efficient resolution of the action;
+2. In the alternative, an Order declaring that Teva is not entitled to continue Ratiopharm's claim for damages under section 8 of the Regulations;
+3. If Teva is entitled to make the claim, an Order declaring that any damages suffered by Teva may be offset by the gains realized, or that would have been realized, by Teva under the License Agreement;
+4. Costs of this Motion, in any event of the cause; and
+5. Such further or other relief as counsel may advise and as to this Honourable Court may seem just.
+RELEVANT DATES AND NAMES
+[24]
+Dates and events relevant to the discussion of the issues in this motion are not contested. I will set them out below. Also, for convenience and to avoid possible confusion, while it is recognized that Novopharm changed its name to Teva before the merger with ratiopharm, and the merged corporation carried on under the name Teva. I will call Novopharm by that name up to the point of merger. Thus, for purposes of these Reasons, I will say that Novopharm and ratiopharm merged and continued under the name Teva.
+[25]
+Relevant dates include:
+a. Dec. 7, 2005
+Wyeth and Novopharm entered into the License Agreement.
+b. Dec. 7, 2005
+The Minister of Health certifies that, but for the NOC proceedings, ratiopharm would have received an NOC on this date.
+c. Jan. 10, 2006
+The '540 patent expired; ratiopharm had undertaken in its Notice of Allegation not to sell its drug in Canada before the expiry date. This is the date from which ratiopharm claims section 8 damages.
+d. Feb. 10, 2006
+Wyeth commenced NOC proceedings against ratiopharm.
+e. Dec. 1, 2006
+Novopharm commenced selling its drug in Canada pursuant to its licence from Wyeth.
+f. Aug. 1, 2007
+Federal Court of Appeal dismissed Wyeth's NOC proceedings.
+g. Aug. 2, 2007
+ratiopharm received its NOC. This is the end date for the period over which ratiopharm seeks section 8 damages.
+h. Aug. 15, 2007
+ratiopharm commenced selling its drug in Canada.
+i. Oct. 22, 2007
+ratiopharm filed its Statement of Claim in the present action, seeking section 8 damages.
+j. Dec. 6, 2007
+Wyeth filed its Defence and Counterclaim.
+k. Feb. 16, 2010
+Novopharm changed its name to Teva.
+l. March 2010
+Teva acquired ownership interest in ratiopharm.
+m. Aug. 10, 2010
+ratiopharm and Novopharm (now called Teva) merged under the name Teva.
+n. Sept. 19, 2011
+Wyeth discontinued its counterclaim.
+[26]
+A chart where these dates and events may be visualized is attached as Schedule A to these Reasons. [omitted]
+ISSUES
+[27]
+The following issues have emerged:
+Issue # 1
+: Is it appropriate to determine this matter by way of summary trial?
+Issue #2
+: On a summary trial, where does the burden lie?
+Issue #3
+: Is Teva, the merged corporation, entitled to maintain the claim for the section 8 damages as initiated by ratiopharm in this action?
+Issue #4
+: If the answer to Issue #3 is yes, is Wyeth entitled to offset against the section 8 claim any gains realized by Teva/Novopharm under the License Agreement?
+Issue #1
+:
+Is it appropriate to determine this matter by way of summary trial?
+[28]
+Rules 213 to 219 of the Federal Courts Rules are recent additions to the Rules, having been added in 2009. In large part, they have been modeled after Rule 18-A (now 9 - 7) of the British Columbia Supreme Court Civil Rules (B.C. Reg. 168/209).
+[29]
+The Federal Court has considered these new Rules and on occasion, applied jurisprudence from the British Columbia Courts in decisions, including,
+ <FRAGMENT_SUPPRESSED>  CPR (4th) 412, at paras 33 to 40;
+ <FRAGMENT_SUPPRESSED> to 99;
+ <FRAGMENT_SUPPRESSED> to 23; and
+ <FRAGMENT_SUPPRESSED> to 46.
+[30]
+In dealing with the Rules, including the ones at issue here, Rule 3 establishes the guiding principles. The Rules must be interpreted so as to secure the just, most expeditious and least expensive determination of every proceeding on the merits:
+3.
+These Rules shall be interpreted and applied so as to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+3.
+Les présentes règles sont interprétées et appliquées de façon à permettre d'apporter une solution au litige qui soit juste et la plus expéditive et économique possible.
+[31]
+These principles are not to be passed over quickly or only given lip service; they are the basic guiding principles behind the interpretation of every Rule of this Court. The Rules provide a variety of "tools" for the determination of a proceeding, including motions to strike, questions of law, determination of an issue, full trial or hearing, and now summary trial and judgment. These are tools to be applied judiciously; each case may require a separate and distinct determination. However, one cannot view the Rules as requiring a full trial
+unless
+one fits one of the other categories. The proper approach is to consider that there is provided a number of means or "tools" by which a just, expeditious and least expensive determination can be made in dealing with a matter on the merits with an appropriate selection to be made among them..
+[32]
+The jurisprudence is evolving in this regard with the ultimate goal of providing the Court with a discretion over its own process so as to achieve a just, expeditious and inexpensive determination; they include:
+a. summary trial need not be reserved only in cases where there will be a determination of every issue. The Court in its discretion can look at the issue or issues in question and determine if it is appropriate to deal with the those issues by summary trial (Rule 213(1));
+b. the party seeking a summary trial should put in all its evidence relevant to the issues, as should the responding party; a responding party cannot assert that there may be better evidence later (Rule 214);
+c. where the evidence is uncontested, or uncontroversial, or where there are no serious issues as to credibility, the Court should be more inclined to allow a summary trial. This does not mean that if the evidence is contested or controversial, or credibility is at issue, then there shall be no summary trial. It means that the Court must decide if there is "no genuine issue" (Rule 215); and
+d. the Court should not avoid summary trial simply because there is a serious legal issue (Rule 215(5)).
+[33]
+These Rules are intended to be used, not avoided or distinguished. In a proper case, it is appropriate to hold a summary trial and grant summary judgment.
+[34]
+In the present case, I find that a summary trial and summary judgment is an appropriate way to proceed so as to secure a just, expeditious and least expensive determination of the issues before the Court. I do so for the following reasons:
+a. the issues are well defined and , while a disposition of the issues may not resolve every issue in the action, they are significant issues and their resolution will allow the action or whatever remains, to proceed more quickly or be resolved between the parties acting in good faith;
+b. the facts necessary to resolve the issues are clearly set out in the evidence;
+c. the evidence is not controversial and there are no issues as to credibility; and
+d. the questions of law, though novel, can be dealt with as easily now as they would otherwise have been after a full trial.
+Issue #2
+:
+On a summary trial, where does the burden lie?
+[35]
+There are several burdens to consider. First, the party seeking a summary trial bears the burden of demonstrating that a summary trial is appropriate (
+Trevor Nicholas Construction, supra
+at para 44). This is the usual level of burden which the moving party here, the Plaintiff Teva, has satisfied.
+[36]
+Once the matter is before the Court for determination by summary trial, the usual burden in a civil trial applies. In brief, the party making an assertion must prove it by relevant evidence and the application of appropriate law.
+[37]
+Here, the Plaintiff Teva asserts that it is entitled to damages under the provisions of section 8 of the
+NOC Regulations
+. It bears that burden. The Defendants Wyeth assert that by reason of the amalgamation, the Novopharm licence, and other events, Teva is disentitled to such damages. They bear that burden. In each instance, the burden is the usual burden in civil cases - a balance of probabilities.
+Issue #3
+:
+Is Teva, the merged corporation, entitled to maintain the claim for the section 8 damages as initiated by ratiopharm in this action?
+[38]
+It is reasonable to approach this issue by addressing first a situation where no merger has occurred and ratiopharm alone is making a section 8 claim under the
+NOC Regulations
+. All the necessary criteria to establish a section 8 claim would be met. Ratiopharm is a "second person"; it was kept off the market until the Federal Court of Appeal "dismissed" the Wyeth claim. The beginning and ending dates asserted by ratiopharm for the claim period; namely, beginning at the date of expiry of the '540 patent, until the date of dismissal by the Court of Appeal, are reasonable. The quantum of damages would have to be assessed and any arguments raised by Wyeth would have to be considered.
+[39]
+The matter shifts to Wyeth and its arguments as to why the amalgamation, the licence to Novopharm and other events affect the section 8 claim. Wyeth bears the burden in this respect. Wyeth's Counsel raised three arguments. I repeat the titles given to those arguments  <FRAGMENT_SUPPRESSED> 's Counsel's Memorandum:
+Teva is not entitled to damages for the period ending on December 1, 2006 since it contractually agreed not to enter the market before that date
+Teva is not entitled to damages for the period between December 1, 2006 to August 2, 2007 since it was admittedly on the market during that time
+Teva required that Wyeth institute the Prohibition Application but now claims damages, alleging it should never have been brought
+[40]
+Generally, with respect to the effect of an amalgamation, the parties are agreed that the principles as set out by the Supreme Court of Canada in
+R v Black & Decker Manufacturing Company Limited
+, [1975] 1 SCR 411, at pages 421-422 are applicable
+:
+[...] But in an amalgamation a different result is sought and different legal mechanics are adopted, usually for the express purpose of ensuring the continued existence of the constituent companies. The motivating factor may be the Income Tax Act or difficulties likely to arise in conveying assets if the merger were by asset or share purchase. But whatever the motive, the end result is to coalesce to create a homogeneous whole. The analogies of a river formed by the confluence of two streams, or the creation of a single rope through intertwining of strands have been suggested by others.
+. . .
+[...] The effect of the statute, on a proper construction, is to have the amalgamating companies continue without subtraction in the amalgamated company, with all their strengths and their weaknesses, their perfections and imperfections, and their sins, if sinners they be. Letters patent of amalgamation do not give absolution.
+[41]
+To this can be added the comments of Justice Feldman (as she then was) in
+ <FRAGMENT_SUPPRESSED>  that the amalgamating companies do not end their lives with amalgamation, but continue to exist in the amalgamated company. There is no "old" company extinguished or "new" company created. There is no transfer of the assets of the amalgamating companies to the amalgamated company; this is indicated by the use of the term "continues" in the statute together with the statement that the amalgamated company "possesses all the property ..." of the amalgamating companies. In respect of those two terms Dickson J. said the following in Black & Decker at p. 417  <FRAGMENT_SUPPRESSED> 
+:
+"If corporate birth or death were envisaged, one would have expected to find, in the statute, some provision for transfer or conveyance or transmission of assets and not simply the word 'possesses', a word which re-enforces the concept of continuance; ..."
+(The Canada Corporations Act, R.S.C. 1970, c. C-32 and the Ontario Business Corporations Act, R.S.O. 1990, c. B.16 ("O.B.C.A.") contain the same language; the Canada Business Corporations Act, R.S.C. 1985, c. C-44 contains similar language.)
+[42]
+Section 186 of the
+Canada Business Corporations Act
+,
+supra
+, was enacted after the Supreme Court decision in
+Black & Decker
+,
+supra
+, but captures the principles set out in that decision. In particular, as may be relevant to this case, section 186 a), b), c) and d) say:
+186.
+On the date shown in a certificate of amalgamation
+(a) the amalgamation of the amalgamating corporations and their continuance as one corporation become effective;
+(b) the property of each amalgamating corporation continues to be the property of the amalgamated corporation;
+(c) the amalgamated corporation continues to be liable for the obligations of each amalgamating corporation;
+(d) an existing cause of action, claim or liability to prosecution is unaffected;
+186.
+À la date figurant sur le certificat de fusion
+:
+a) la fusion des sociétés en une seule et même société prend effet;
+b) les biens de chaque société appartiennent à la société issue de la fusion;
+c) la société issue de la fusion est responsable des obligations de chaque société;
+d) aucune atteinte n'est portée aux causes d'actions déjà nées;
+[43]
+In the present case, there can be no doubt that the amalgamated corporation, Teva, in the absence of the arguments raised by Wyeth, can carry on the section 8 claim made in this action as begun by ratiopharm. The question arises, however: what is the effect of the presence of Novopharm as an amalgamating party on the amalgamated corporation; and, in particular, the effect of the Novopharm licence and the activities carried out on Novopharm's behalf by its solicitors?
+[44]
+Wyeth's Counsel argued that the merged corporation, Teva, continues to be licensed under the Novopharm License Agreement by operation of law under section 186 of the
+Canada Business Corporations Act
+. Teva's Counsel agrees. Wyeth's Counsel then proceeded to make an argument that the Court must therefore clothe ratiopharm, retrospectively, with all of Novopharm's obligations as licensee. This argument was made with Wyeth's Counsel protesting all the while that no argument was being made that there was retrospective application; rather, that Teva (hence, ratiopharm as a merged party) was clothed with the obligations prospectively with retrospective effect. The argument would give even a Jesuit scholar reason to pause. I will not go further into this argument, as I find another argument made by Wyeth's Counsel to be dispositive.
+[45]
+The dispositive argument is that respecting the equitable doctrine of election. This doctrine has enjoyed a renaissance beginning with the Ontario Court of Appeal decision in
+ <FRAGMENT_SUPPRESSED>  where Justice Epstein, for the panel, including Justices Armstrong and Karakatsanis, reviewed and distinguished between the common law doctrine of election and the equitable doctrine of election. The doctrine of election holds that a person is precluded from exercising a right that is inconsistent with another right if that person has consciously and unequivocally exercised the latter. To establish an election in equity, it is unnecessary to show that the electing party made a conscious choice between inconsistent rights at the time when the original decision was made; an equitable election does not involve making a choice at all - it involves accepting the consequences of a decision already made.
+[47]
+I repeat what Epstein JA wrote at paragraphs 15 to 22:
+15 The essence of the doctrine of election is that a person is precluded from exercising a right that is inconsistent with another right if he has consciously and unequivocally exercised the latter.
+16 The doctrine is set out in the oft-quoted decision of Lord Atkin, in  <FRAGMENT_SUPPRESSED>  (H.L), in which the appellant had started an action against a company on a cheque, framing the action as money had and received to the use of the appellant. The cheque had been unlawfully issued. The action was discontinued and no judgment obtained. The appellants then brought an action against the bank for conversion of the cheque. It was held that the commencement of the first action did not amount to an election to waive the tort so as to preclude the bringing of the second action. In the course of his decision, Lord Atkin said at pp. 29-30:
+It seems to me that in this respect it is essential to bear in mind the distinction between choosing one of two alternative remedies, and choosing one of two inconsistent rights. As far as remedies were concerned, from the oldest time the only restriction was on the choice between real and personal actions. If you chose the one you could not claim on the other
+...
+On the other hand, if a man is entitled to one of two inconsistent rights it is fitting that when with full knowledge he has done an unequivocal act showing that he has chosen the one he cannot afterwards pursue the other, which after the first choice is by reason of the inconsistency no longer his to choose. Instances are the right of a principal dealing with an agent for an undisclosed principal to choose the liability of the agent or the principal: the right of a landlord where forfeiture of a lease has been committed to exact the forfeiture or to treat the former tenant as still tenant and the like. To those cases the statement of Lord Blackburn in  <FRAGMENT_SUPPRESSED>  inconsistent things when once he has made his election it cannot be retracted." In a later passage [(1882) 7 App. Cas. 345, 361] Lord Blackburn speaks of a man choosing between two remedies: but it is plain that he is speaking of remedies in respect of the inconsistent things as stated above. The case was one where the plaintiff had a right of recourse against two former partners, or against two new partners: but obviously not against both. Lord Blackburn quotes Dumpor's
+case [(1601) 4 Co. Rep. 119(b)] which was a plain case of inconsistent rights, the question of waiver of a forfeiture. I therefore think that on a question of alternative remedies no question of election arises until one or other claim has been brought to judgment.
+17 The doctrine has been endorsed by Canadian courts. See, for example:  <FRAGMENT_SUPPRESSED> , at pp. 103-104 and 110.
+18 The doctrine of election has been broken down into two categories - the common law doctrine of election and the equitable doctrine of election.
+19 Election at common law takes place where a party is faced with a choice between two inconsistent courses of action that affect another party's rights or obligations, and knowing that the two courses of action are inconsistent and that he or she has the right to choose between them, makes an unequivocal choice and communicates that choice to the other party. The doctrine provides that the party making the election is afterwards precluded from resorting to the course of action that he has rejected. The election is effective at the point of communication on the basis that the parties to an ongoing relationship are entitled to know where they stand:  <FRAGMENT_SUPPRESSED>  (H.C.A.), at pp. 421-422.
+20 Subsequent to the development of the common law doctrine, the courts of equity developed a separate principle - the equitable doctrine of election - in the context of wills and trusts. The doctrine is based on the fact that the electing party, having obtained a particular benefit from a transaction, must accept all of the consequences that flow from that transaction, including those to his detriment:  <FRAGMENT_SUPPRESSED>  (C.A.), at p. 424; Piers Feltham, Daniel Hochberg & Tom Leech, The Law Relating to Estoppel by Representation, 4th ed. (London: LexisNexis UK, 2004), at pp. 361-362.
+21 The two doctrines are distinct. This point is clearly stated in the following passage in Banner Industrial and  <FRAGMENT_SUPPRESSED>  at pp 417-418, is a term used in different senses. There is an equitable doctrine of election (known in Scotland as the doctrine of "approbate and reprobate") encapsulated in Lord Eldon's dictum that "no person can accept and reject the same instrument":  <FRAGMENT_SUPPRESSED>  confers a benefit upon a party and at the same time purports to dispose of his property to someone else. The principle requires that if he accepts the benefit, he must also accept the burden of giving effect to the purported disposition of his own property or compensating the person intended to benefit thereby. There is also the common law principle of election, under which in certain circumstances a party faced with a choice of remedies (such as whether to affirm or repudiate a contract induced by misrepresentation) may be held to the choice he has made. The circumstances in which the two doctrines will apply are quite distinct. [Emphasis added].
+22 As can be seen, there is a fundamental difference between the two doctrines. The equitable doctrine of election does not involve choice between alternatives. To establish an election in equity, it is unnecessary to show that the electing party made a conscious choice between inconsistent rights at the time when the original decision was made. In fact, an equitable election does not involve making a choice at all - it involves accepting the consequences of a decision already made. On the other hand, the common law doctrine is all about choice. It applies to prevent a person who has made a decision from resorting to an inconsistent course of action that he has specifically rejected.
+[48]
+Most recently, Justice Newbould of the Ontario Superior Court considered a similar matter in
+ <FRAGMENT_SUPPRESSED> to 218 where he wrote:
+210 Devonshire contends that by its actions Barclays should be taken to have abandoned its ability to rely on the insolvency of Devonshire.
+211 The general conditions of the ISDA Master Agreement contain provisions regarding the requirement to pay money. They provide:
+2. Obligations
+(a)
+General Conditions.
+(i)
+Each party will make each payment or delivery specified in each Confirmation to be made by it ...
+(iii)
+Each obligation of each party under section 2(a)(I) is subject to (1) the condition precedent that no Event of Default or Potential Event of Default with respect to the other party has occurred and is continuing ...
+212 Therefore the obligation to make payments under the relevant agreements is subject to the condition precedent that there is no existing event of default. Thus, the obligation of Barclays to make payments to Devonshire for credit protection under the swap contracts was subject to the condition precedent that there was no insolvency event of default on the part of Devonshire.
+213 Barclays did not take the position following the Suspension Notice that an event of default had been committed by Devonshire under 5(a)(vii) of the ISDA Master Agreement, which I shall refer to as taking the position that Devonshire was insolvent, or take steps to terminate the swaps. It could have. Barclays as a credit protection buyer continued to pay monthly payments to Devonshire as the credit protection seller against the possibility of defaults in the underlying portfolio of debt obligations. This carried on right to the end until Barclays delivered its early termination notice on January 13, 2009. Likewise, Barclays continued to charge Devonshire for liquidity protection against a market disruption event under the liquidity line until that protection terminated by its terms in February, 2008 by deducting the liquidity premium payable by Devonshire from the protection premium payable to Devonshire.
+214 Devonshire contends that by making these protection payments and not taking steps to terminate under section 6(a) of the ISDA Master Agreement, Barclays elected to affirm the ISDA Master Agreement and abandoned its right to claim insolvency as an event of default.
+215 Devonshire relies on a passage in Firth, Derivatives Law and Practice, (London: Thomson Reuters (Legal) Limited 2010). The same text is relied on by Barclays for a different point. In chapter 11, dealing with the ISDA Master Agreement, it is stated on p. 11-59 that a right to terminate will be lost if the non-defaulting party affirms the agreement. It is also stated that it is a question of fact whether this has occurred and that notwithstanding a non-waiver clause, for the non-defaulting party to continue to perform the agreement without protest for a significant period may be construed as an election by it to abandon its right to terminate. Two cases are cited for these propositions. Neither case deals with an ISDA Master Agreement.
+216 The first case is  <FRAGMENT_SUPPRESSED>  at a safe port. The port nominated by the charterer was not safe, but by various actions the owner was taken to have acted on the nomination. It was held that by its actions, the owner of the vessel elected to accept the nomination and thereby waived or abandoned its right to reject the nomination. In the course of his judgment, Lord Goff made an extensive analysis of the doctrine of election and affirmation of a contract. He stated, amongst other things:
+It is a commonplace that the expression "waiver" is one which may, in law, bear different meanings. In particular, it may refer to a forbearance from exercising a right or to an abandonment of a right. Here we are concerned with waiver in the sense of abandonment of a right which arises by virtue of a party making an election. Election itself is a concept which may be relevant in more than one context. In the present case, we are concerned with an election which may arise in the context of a binding contract, when a state of affairs comes into existence in which one party becomes entitled, either under the terms of the contract or by the general law, to exercise a right, and he has to decide whether or not to do so. His decision, being a matter of choice for him, is called in law an election. Characteristically, this state of affairs arises where the other party has repudiated the contract or has otherwise committed a breach of the contract which entitles the innocent party to bring it to an end, or has made a tender of performance which does not conform to the terms of the contract.
+...
+In all cases, he has in the end to make his election, not as a matter of obligation, but in the sense that, if he does not do so, the time may come when the law takes the decision out of his hands, either by holding him to have elected not to exercise the right which has become available to him, or sometimes by holding him to have elected to exercise it. Instances of this phenomenon are to be found in s. 35 of the
+Sale of Goods Act
+, 1979. In particular, where with knowledge of the relevant facts a party has acted in a manner which is consistent only with his having chosen one of the two alternative and inconsistent courses of action then open to him - for example, to determine a contract or alternatively to affirm it - he is held to have made his election accordingly, just as a buyer may be deemed to have accepted uncontractual goods in the circumstances specified in s. 35 of the 1979 Act.
+217 The second case cited in Firth, supra, is  <FRAGMENT_SUPPRESSED>  parent company to the Post Office for obligations under a phone card supply contract, which failure gave the Post Office the right to terminate the contract. However, it was held that under the doctrine of affirmation of a contract by election, the Post Office had elected not to terminate the contract by continuing with the contract for a year after the breach.
+218 See also Charter Building Company v. 1540957 Ontario Inc. (Mademoiselle Women's Fitness & Day Spa), 2011 ONCA 487 for a recent discussion by Epstein J.A. of the doctrine of election.
+[49]
+There is no doubt, having regard to sections 3 and 20(2) of the
+Federal Courts Act
+, RSC 1985, c. F-7, that the Federal Court is a Court at law and in equity and can apply principles of equity including in intellectual property matters such as those relating to patents, as is the case here.
+[50]
+Turning to the facts, Novopharm entered into a License Agreement with Wyeth, which Agreement has been previously reviewed in these Reasons. Novopharm received a licence to sell its generic version of the drug at issue commencing as of a certain date and subject to paying certain royalties. Wyeth, among other things, undertook to take
+"commercially reasonable efforts"
+to address infringement.
+[51]
+As set out in "THE EVIDENCE", Teva's Counsel stated that Teva was prepared to accept, among other things, the following:
+Teva accepts that Novopharm benefitted during the period from January 10, 2006 to August 2, 2007 [the period over which ratiopharm claimed section 8 damages] from the fact that ratiopharm was not on the market, because Novopharm was a licensee under the License Agreement.
+[52]
+The evidence is, particularly in correspondence exhibited to the affidavit of Pope and acknowledged as authoritative in the discovery of Denike, that when ratiopharm first triggered the
+NOC Proceedings
+by sending a Notice of Allegation to Wyeth, the solicitors for Wyeth and Novopharm entered into discussions as to steps that may be taken by Wyeth. In particular:
+a. Jan. 12, 2006
+Wyeth notified Novopharm (Teva) that it had received ratiopharm's Notice of Allegation and provided a copy (Pope - Exhibit 2A).
+b. Jan. 12, 2006
+Novopharm's solicitors sent an email to Wyeth's solicitors offering to consult and requesting a conference call (Pope - Exhibit 2 <FRAGMENT_SUPPRESSED>  stating:
+We assume that Wyeth will be filing a timely notice of application and seek your confirmation. Please advise.
+(Pope - Exhibit 2C)
+d. Aug. 8, 2007
+Novopharm's lawyers wrote a letter to Wyeth's lawyers requesting that infringement proceedings be taken against ratiopharm, who had, because the NOC proceedings had been dismissed, received its NOC. That letter stated, in part:
+Wyeth's Continuing Obligation to Enforce and Defend the 778 Patent Against Infringement
+Section 5.1 of the Agreement requires that Wyeth and Novopharm provide each other with notice of any potential or actual infringement of Canadian Patent 2,199,778 (the "778 Patent"). Novopharm hereby notifies Wyeth of such infringement by Ratiopharm Inc.
+Section 5.1 of the Agreement also requires that Wyeth "shall use its commercially reasonable efforts" to address infringement arising from "making, using, selling, offering for sale, or importing or having imported any generic equivalent" to EFFEXOR XR. Wyeth took the position in Court File No. T-243-06 that Ratiopharm Inc. would infringe the 778 Patent if it were to market venlafaxine XR. Now that this eventuality has been realized, Novopharm expects that Wyeth will commence legal proceedings against Ratiopharm to stop such infringement, in keeping with its obligations under the Agreement.
+(Pope - Exhibit 2D)
+e. Aug. 15, 2007
+Wyeth's solicitors responded to the letter of August 8, 2007. No specific mention was made of the point set out above (Pope Exhibit 2E).
+[53]
+As set out in the timeline earlier in these Reasons, ratiopharm commenced this action on October 22, 2007. Wyeth filed a Defence and a Counterclaim for infringement (now discontinued) on December 6, 2007.
+[54]
+It is clear from the foregoing that Novopharm, as a licensee, encouraged and expected Wyeth to commence the NOC proceedings against ratiopharm. Novopharm believed that Wyeth was acting consistent with its obligations to take
+"commercially reasonable efforts"
+to address infringement.
+[55]
+Thus, Novopharm's actions fit within the criteria of the equitable doctrine of election. It has taken a deliberate course of action, the encouragement and expectation that Wyeth must take proceedings against ratiopharm. Novopharm, by its Counsel as previously set out in a review of the evidence, has accepted that it has benefitted from the License Agreement.
+[56]
+What, then, is the effect of the merger between ratiopharm, who otherwise would have a perfectly valid section 8 claim, and Novopharm, who would be precluded by the equitable doctrine of election from asserting such a claim? Section 186 of the
+Canada Business Corporations Act,
+supra, subsection (d) says an existing cause of action is unaffected (ratiopharm) and subsection (e) says that a pending civil action (this one) may be continued. However, subsection (c) says that the amalgamated corporation is liable for the obligations of the amalgamating corporations (Novopharm equitable election).
+[57]
+I find that on the basis of subsection 186(c) of the
+Act
+, the doctrine of equitable election is carried forward as it applies to Novopharm, and as of the date of amalgamation and thereafter affects Teva, the amalgamated corporation, which carries with it the obligation of equitable election so as to make the ratiopharm section 8 claim no longer enforceable.
+Issue #4
+:
+If the answer to Issue #3 is yes, is Wyeth entitled to offset against the section 8 claim any gains realized by Teva/Novopharm under the License Agreement?
+[58]
+The answer to Issue #3 is no; therefore, this Issue #4 does not need to be addressed. Given the emerging nature of jurisprudence in respect of section 8 of the
+NOC Regulations
+, it would be prudent to avoid making speculative or "in case of appeal" analyses of matters that do not require analysis at this time.
+CONCLUSIONS AND COSTS
+[59]
+In conclusion, this motion is allowed to proceed as a summary trial and summary judgment is given. That judgment is that Teva cannot continue the section 8 claim initiated by ratiopharm. The parties are agreed that costs of this motion shall be fixed in the sum of $20,000.00 and shall follow the event; which in this case, is an award of costs to the Defendants Wyeth.
+POSTSCRIPT
+[60]
+These Reasons for Judgment and Judgment contain redactions made to the Confidential Reasons for Judgment and Judgment that were issued on October 17, 2011, pursuant to the Protective and Confidentiality Order dated November 5, 2008. The redactions were made in accordance with correspondence received from the solicitors for the Plaintiff Teva Canada Limited, with which this Court agrees, and are now incorporated in the within Public Reasons for Judgment and Judgment.
+JUDGMENT
+[61]
+FOR THE REASONS PROVIDED
+:
+THIS COURT'S JUDGMENT is that
+:
+1. This motion is allowed to proceed as a summary trial and summary judgment is given herein.
+2. The Plaintiff Teva is not entitled to continue ratiopharm's claim for damages under section 8 of the
+NOC Regulations
+; and
+3. The costs of this motion, fixed in the sum of $20,000.00, are awarded to the Defendants.
+SCHEDULE "A"
+[Diagram omitted]
+.........................
+ <FRAGMENT_SUPPRESSED>  17 octobre 2011)
+[1]
+Le juge Hughes
+[Traduction]: La demanderesse Teva Canada Limited a déposé une requête en procès sommaire fondée sur les articles 213 et suivants des
+Règles des Cours fédérales
+, DORS/98-106, à l'égard des questions en litige dans la présente action. Pour les motifs exprimés ci-dessous, je conclus que la requête sera instruite par voie de procès sommaire et que Teva ne peut plus poursuivre la demande fondée sur l'article 8 et engagée par Ratiopharm dans la présente action.
+[2]
+L'action visée par la présente affaire a été intentée par une société du nom de Ratiopharm inc. qui, dans une déclaration datée du 22 octobre 2007, a réclamé une indemnité à des sociétés appelées Wyeth et Wyeth Canada en se fondant sur les dispositions de l'article 8 du
+Règlement sur les médicaments brevetés (avis de conformité),
+DORS/93-133 (Règlement AC). Cette demande découlait de procédures antérieures que Wyeth avait engagées en vertu du Règlement AC contre Ratiopharm à l'égard du brevet canadien no 1,248,540 (le brevet 540) et du brevet canadien no 2,199,778 (le brevet 778). Dans la présente action, Wyeth avait présenté une demande reconventionnelle dans laquelle elle avait soutenu que les brevets 540 et 778 avaient été contrefaits et sollicité, notamment, des dommages-intérêts ou des bénéfices. Cependant, juste avant l'audition de la présente requête, Wyeth a abandonné la demande reconventionnelle. Au cours de la présente action, la demanderesse est devenue Teva Canada Limited (Teva) et les défenderesses sont devenues Wyeth LLC et Pfizer Canada Inc. Le changement concernant la demanderesse sera commenté de façon plus détaillée ci-dessous. Quant aux défenderesses, il convient de les désigner collectivement sous le nom de Wyeth.
+TABLE DES MATIÈRES
+[3]
+Voici une table des matières des présents motifs:
+L'INSTANCE FONDÉE SUR LE RÈGLEMENT AC
+Paragraphes 4 à 8
+LA LICENCE DE NOVOPHARM
+Paragraphes 9 à 13
+LA FUSION
+Paragraphes 14 à 18
+LA PREUVE
+Paragraphes 19 à 21
+LA REQUÊTE EN PROCÈS SOMMAIRE
+Paragraphe 22
+LES DATES ET NOMS PERTINENTS
+Paragraphes 23 à 25
+LES QUESTIONS EN LITIGE
+Paragraphes 26 à 58
+--Question no 1 - Convient-il de trancher la présente affaire par voie de procès sommaire?
+Paragraphes 27 à 34
+--Question no 2 - À qui incombe le fardeau de la preuve dans un procès sommaire?
+Paragraphes 35 à 37
+--Question no 3 - Teva, la société issue de la fusion, a-t-elle le droit de poursuivre la demande d'indemnité fondée sur l'article 8 et engagée par Ratiopharm dans la présente action?
+Paragraphes 38 à 57
+--Question no 4 - Si la réponse à la question no 3 est affirmative, Wyeth a-t-elle le droit de retrancher par voie de compensation à la demande fondée sur l'article 8 les gains réalisés par Teva/Novopharm aux termes de l'accord de licence?
+Paragraphe 58
+CONCLUSION ET DÉPENS
+Paragraphe 59
+L'INSTANCE FONDÉE SUR LE RÈGLEMENT AC
+[4]
+Il convient d'abord d'examiner les procédures que Wyeth a engagées contre Ratiopharm. Le 23 décembre 2005, Ratiopharm a signifié à Wyeth un avis d'allégation dans lequel elle a affirmé qu'elle souhaitait commercialiser au Canada une version générique d'un médicament que Wyeth vendait au Canada sous le nom commercial EFFEXOR XR. Dans cet avis, Ratiopharm a mentionné qu'elle reconnaissait qu'aucun avis de conformité ne lui serait accordé avant l'expiration du brevet 540 et a soutenu que le brevet 778 était invalide et ne serait pas contrefait par le produit qu'elle comptait commercialiser.
+[5]
+Le 10 janvier 2006, le brevet 540 a expiré. Compte tenu de l'abandon de la demande reconventionnelle, il n'est pas nécessaire de s'attarder plus longuement au brevet 540.
+[6]
+Le 10 février 2006, Wyeth a engagé des procédures contre Ratiopharm en vertu des dispositions du Règlement AC afin d'interdire la délivrance d'un avis de conformité à celle-ci jusqu'à l'expiration du brevet 778.
+[7]
+Le 18 décembre 2006, Ratiopharm a présenté une requête portant rejet de l'instance relative à l'AC de Wyeth au motif que le brevet 778 n'était pas admissible aux termes du Règlement AC. Le 29 mars 2007, la Cour fédérale a rendu une ordonnance dans laquelle elle a rejeté cette requête, mais uniquement en partie. Le 1er août 2007, la Cour d'appel fédérale a accueilli l'appel de Ratiopharm et rejeté en entier la demande d'interdiction de Wyeth.
+[8]
+Le 2 août 2007, Ratiopharm a reçu de Santé Canada un avis de conformité dans lequel le ministre de la Santé approuvait la vente de son produit, soit le ratio-VENLAFAXINE XR, au Canada. Le 15 août 2007, Ratiopharm a commencé à vendre ce produit au Canada.
+LA LICENCE DE NOVOPHARM
+[9]
+Avant même que l'instance relative à l'AC ait été engagée contre Ratiopharm, Novopharm Limited était une société canadienne qui, à l'instar de Ratiopharm, faisait affaires au Canada dans le domaine de la vente de médicaments génériques. Novopharm et Ratiopharm étaient des concurrents à l'époque.
+[10]
+Le 7 décembre 2005, Novopharm et Wyeth ont conclu un accord de licence dans lequel Wyeth a autorisé Novopharm, notamment, à vendre la version générique que celle-ci avait produite du médicament en litige aux termes du brevet 778. Novopharm a commencé à vendre cette version générique au Canada vers le 1er décembre 2006.
+[11]
+L'accord de licence comportait des conditions selon lesquelles [partie omise]
+[partie omise]
+[12]
+Au début de l'année 2006, Wyeth a avisé Novopharm qu'elle avait reçu signification d'un avis d'allégation de Ratiopharm. Après un échange de communications entre les avocats de Novopharm et de Wyeth, celle-ci a engagé l'instance relative à l'AC. Cet échange sera commenté plus loin.
+[13]
+Le 6 février 2010, Novopharm a modifié son nom et est devenue Teva Canada Limited. Les différents concédants de licence nommés dans l'accord ont changé jusqu'à un certain point; cependant, les avocats de chacune des parties à l'audience tenue devant moi ont convenu qu'il était possible de les désigner simplement sous le nom de Wyeth pour l'examen de la présente requête.
+LA FUSION
+[14]
+Le 10 août 2010, Ratiopharm (et trois autres sociétés liées) a fusionné avec Teva Canada Limited (auparavant Novopharm) et a été maintenue sous le nom de Teva Canada Limited.
+[15]
+Depuis la fusion, Teva a vendu les médicaments génériques de Ratiopharm et de Novopharm conformément à l'accord de licence conclu avec Wyeth.
+[16]
+La fusion de Ratiopharm (et d'autres sociétés) et de Teva (auparavant Novopharm) a été effectuée conformément aux dispositions de la
+Loi canadienne sur les sociétés par actions,
+L.R.C. 1985, c. C-44, dont l'article 186 est ainsi libellé:
+186. À la date figurant sur le certificat de fusion:
+a) la fusion des sociétés en une seule et même société prend effet;
+b) les biens de chaque société appartiennent à la société issue de la fusion;
+c) la société issue de la fusion est responsable des obligations de chaque société;
+d) aucune atteinte n'est portée aux causes d'actions déjà nées;
+e) la société issue de la fusion remplace toute société fusionnante dans les poursuites civiles, pénales ou administratives engagées par ou contre celle-ci;
+f) toute décision, judiciaire ou quasi judiciaire, rendue en faveur d'une société fusionnante ou contre elle est exécutoire à l'égard de la société issue de la fusion;
+g) les statuts de fusion et le certificat de fusion sont réputés être les statuts constitutifs et le certificat de constitution de la société issue de la fusion.
+[17]
+Avant la fusion, le fondateur de Ratiopharm est décédé dans des circonstances tragiques. Cette société faisait partie d'un groupe d'entreprises appartenant directement ou indirectement à une société européenne du nom de Merckle GGMBH. Avant la fusion, une série de mesures complexes de vente et de restructuration qui concernaient Ratiopharm, mais dont aucune n'est pertinente quant aux questions en litige en l'espèce, ont été prises. Teva (auparavant Novopharm) et Ratiopharm ont ensuite fusionné.
+[18]
+Les parties conviennent qu'avant la date de la fusion, Teva et ses sociétés mères n'ont acheté aucun droit litigieux de Ratiopharm dans la présente action ni d'autres biens de celle-ci.
+LA PREUVE
+[19]
+Teva, qui a présenté la requête, a fourni deux affidavits ainsi que des pièces jointes à chacun d'eux. Un de ces affidavits était celui de Kane Denike, directeur de la propriété intellectuelle chez Teva, qui a attesté une bonne partie des événements passés concernant Ratiopharm et la licence de Novopharm. L'autre affidavit, qui comportait des pièces, a été signé par Ildiko Mehes, vice-présidente et avocate générale de Teva Canada Limited, et concernait la restructuration de Ratiopharm et son acquisition par Teva Canada Limited. Les deux souscripteurs d'affidavit ont été contre-interrogés.
+[20]
+Wyeth a produit en preuve l'affidavit de Denise Pope, technicienne juridique du bureau de son avocat. Mme Pope a joint à son affidavit une transcription de l'interrogatoire préalable de Kane Denike et certaines lettres échangées entre les avocats des parties. Cependant, elle n'a pas été contre-interrogée.
+[21]
+Dans une lettre datée du 13 mai 2011 qui a été envoyée à l'avocat de Wyeth, l'avocat de Teva a souligné ce qui suit:
+[traduction]
+Aux fins du procès sommaire, Teva est disposée à reconnaître ce qui suit:
+1. Novopharm Limited a conclu l'accord de licence du 7 décembre 2005 et a plus tard changé son nom pour devenir Teva Canada Limited. Ratiopharm n'a pas signé l'accord de licence avant la fusion. L'effet juridique de la fusion en ce qui concerne cette question ne constitue pas un « fait » nécessitant un interrogatoire préalable et peut être déterminé dans le cadre d'un procès sommaire.
+2. Teva reconnaît qu'au cours de la période allant du 10 janvier 2006 au 2 août 2007 (la « période pertinente »), Novopharm a été avantagée du fait que Ratiopharm n'était pas sur le marché, puisque Novopharm était titulaire de licence en vertu de l'accord de licence. Le montant de l'avantage que Teva a obtenu n'est pas pertinent et aucun interrogatoire préalable n'est nécessaire à ce sujet, à moins qu'il ne soit établi dans le cadre d'un procès sommaire que la fusion a juridiquement pour effet d'autoriser Wyeth à retrancher par voie de compensation les gains de Teva aux pertes de Ratiopharm.
+3. Teva reconnaît que le paragraphe 5.1 de l'accord de licence oblige Wyeth à déployer des efforts raisonnables sur le plan commercial pour mettre fin à toute contrefaçon réelle ou possible du brevet canadien no 2,199,778 par un fabricant de médicaments génériques et que la demande d'interdiction était conforme à cette obligation. L'effet juridique de la fusion en ce qui concerne cette question n'est pas un « fait » nécessitant un interrogatoire préalable et peut être déterminé dans le cadre d'un procès sommaire.
+LA REQUÊTE EN PROCÈS SOMMAIRE
+[22]
+Teva a déposé la présente requête en procès sommaire dans laquelle elle sollicite ce qui suit:
+[traduction]
+Ordonnance sollicitée
+40. La demanderesse (défenderesse reconventionnelle) demande à la Cour de rendre une ordonnance faisant droit à la requête en procès sommaire conformément à l'article 216 des Règles des Cours fédérales et concluant ce qui suit:
+a) Teva Canada a le droit de poursuivre la demande fondée sur l'article 8 du Règlement AC que Ratiopharm a précédemment déposée dans la présente action;
+b) Quel que soit le montant, Wyeth n'a pas le droit de retrancher par voie de compensation au préjudice que Ratiopharm a subi pendant la période où elle a été tenue en dehors du marché les gains que Novopharm a réalisés en qualité de titulaire de licence de Wyeth aux termes de l'accord de licence;
+c) (Texte supprimé par suite de l'abandon de la demande reconventionnelle).
+[23]
+Les défenderesses Wyeth sollicitent ce qui suit dans leur mémoire:
+[traduction]
+1. Une ordonnance portant que les questions soulevées dans la requête de la demanderesse ne se prêtent pas à la tenue d'un procès sommaire et qu'un procès sommaire n'est pas susceptible de contribuer efficacement au règlement de l'action;
+2. Subsidiairement, une ordonnance portant que Teva n'a pas le droit de poursuivre la demande d'indemnité que Ratiopharm a présentée en vertu de l'article 8 du Règlement;
+3. Si Teva a le droit de poursuivre la demande d'indemnité, une ordonnance portant que le montant correspondant au préjudice subi par Teva peut être retranché aux gains que Teva a ou aurait réalisés aux termes de l'accord de licence;
+4. Les dépens de la présente requête, quelle que soit l'issue de la cause;
+5. Toute autre réparation que les avocats peuvent juger à propos de réclamer et que la Cour estime juste.
+LES DATES ET NOMS PERTINENTS
+[24]
+Les dates et événements pertinents quant à l'examen des questions à trancher dans la présente requête ne sont pas contestés. Je les résumerai ci-après. De plus, par souci de commodité et pour éviter tout risque de confusion, même s'il est admis que Novopharm a changé de nom et a commencé à utiliser le nom de Teva avant la fusion avec Ratiopharm et que la société issue de la fusion a poursuivi ses activités sous le nom de Teva, j'appellerai Novopharm par ce nom pour la période allant jusqu'à la fusion. En conséquence, aux fins des présents motifs, je dirai que Novopharm et Ratiopharm ont fusionné et que la société issue de cette fusion a été maintenue sous le nom de Teva.
+[25]
+Les dates pertinentes comprennent les dates suivantes:
+a. 7 décembre 2005
+Wyeth et Novopharm ont conclu l'accord de licence.
+b. 7 décembre 2005
+Le ministre de la Santé atteste que, n'eut été de l'instance relative à l'AC, Ratiopharm aurait reçu un avis de conformité à cette date.
+c. 10 janvier 2006
+Le brevet 540 a expiré; Ratiopharm s'était engagée, dans son avis d'allégation, à s'abstenir de vendre son médicament au Canada avant la date d'expiration. Il s'agit de la date qui marque le début de la période pour laquelle Ratiopharm demande une indemnité fondée sur l'article 8.
+d. 10 février 2006
+Wyeth a engagé l'instance relative à l'AC contre Ratiopharm.
+e. 1er décembre 2006
+Novopharm a commencé à vendre son médicament au Canada conformément à la licence qu'elle avait obtenue de Wyeth.
+f. 1er août 2007
+La Cour d'appel fédérale a rejeté l'instance relative à l'AC de Wyeth.
+g. 2 août 2007
+Ratiopharm a reçu son AC. Cette date marque la fin de la période pour laquelle Ratiopharm demande une indemnité fondée sur l'article 8.
+h. 15 août 2007
+Ratiopharm a commencé à vendre son médicament au Canada.
+i. 22 octobre 2007
+Ratiopharm a déposé sa déclaration dans la présente action afin d'obtenir une indemnité fondée sur l'article 8.
+j. 6 décembre 2007
+Wyeth a déposé sa défense et sa demande reconventionnelle.
+k. 16 février 2010
+Novopharm a changé son nom et est devenue Teva.
+l. Mars 2010
+Teva a acquis une participation dans Ratiopharm.
+m. 10 août 2010
+Ratiopharm et Novopharm (alors appelée Teva) ont fusionné sous le nom de Teva.
+n. 19 septembre 2011
+Wyeth a abandonné sa demande reconventionnelle.
+[26]
+Un tableau illustrant les dates et événements susmentionnés est joint aux présents motifs en annexe A [omis].
+LES QUESTIONS EN LITIGE
+[27]
+Les questions en litige sont les suivantes:
+Question no 1
+:
+Convient-il de trancher la présente affaire par voie de procès sommaire?
+Question no 2
+:
+À qui incombe le fardeau de la preuve dans un procès sommaire?
+Question no 3
+:
+Teva, la société issue de la fusion, a-t-elle le droit de poursuivre la demande d'indemnité fondée sur l'article 8 et engagée par Ratiopharm dans la présente action?
+Question no 4
+:
+Si la réponse à la question no 3 est affirmative, Wyeth a-t-elle le droit de retrancher par voie de compensation à la demande fondée sur l'article 8 les gains réalisés par Teva/Novopharm aux termes de l'accord de licence?
+Question no 1
+:
+Convient-il de trancher la présente affaire par voie de procès sommaire?
+[28]
+Les articles 213 à 219 des
+Règles des Cours fédérales
+n'ont été ajoutés que récemment aux Règles, soit en 2009, et sont calqués en grande partie sur l'article 18-A (aujourd'hui l'article 9-7) des Supreme Court Civil Rules (règles de la Cour suprême en matière civile) de la Colombie-Britannique (règlement 168/209 de la Colombie-Britannique).
+[29]
+La Cour fédérale a examiné ces nouveaux articles des Règles et a appliqué à l'occasion des décisions rendues par les tribunaux de la Colombie-Britannique, notamment dans
+ <FRAGMENT_SUPPRESSED>  CPR (4th) 412, aux paragraphes 33 à 40;
+ <FRAGMENT_SUPPRESSED> à 99;
+ <FRAGMENT_SUPPRESSED> à 23; et
+ <FRAGMENT_SUPPRESSED> à 46.
+[30]
+Le principe devant guider l'interprétation des Règles, y compris les articles de celles-ci qui sont en litige en l'espèce, est énoncé à l'article 3, selon lequel les Règles doivent être interprétées de façon à permettre d'apporter une solution au litige qui soit juste et la plus expéditive et économique possible:
+3.
+Les présentes règles sont interprétées et appliquées de façon à permettre d'apporter une solution au litige qui soit juste et la plus expéditive et économique possible.
+3.
+These Rules shall be interpreted and applied so as to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+[31]
+Ce principe ne peut être appliqué à la légère ou abordé pour la forme seulement; il constitue le principe de base qui doit guider l'interprétation de chacune des Règles de la Cour fédérale. Les Règles offrent différents moyens de trancher une instance, y compris les requêtes en radiation, les décisions préliminaires sur un point de droit, la détermination du bien-fondé d'une question, le procès complet et, maintenant, le jugement et le procès sommaires. Ces moyens doivent être utilisés de manière judicieuse, chaque cas pouvant nécessiter une décision distincte. Cependant, il n'y a pas lieu de dire que les Règles exigent la tenue d'un procès complet à moins que l'affaire ne soit visée par l'une des autres catégories. Ce qu'il faut retenir, c'est qu'il est possible d'apporter au litige une solution qui soit juste et la plus expéditive et économique possible en choisissant le moyen qui convient parmi ceux qui sont disponibles à cette fin.
+[32]
+La jurisprudence évolue à cet égard de façon que la Cour soit investie du pouvoir discrétionnaire nécessaire pour conduire ses propres procédures afin d'apporter au litige une solution juste, expéditive et économique; dans ce contexte, il faut savoir, notamment, ce qui suit:
+a. il n'est pas nécessaire de réserver la tenue d'un procès sommaire aux seuls cas où chaque question en litige sera tranchée. La Cour peut, dans l'exercice de son pouvoir discrétionnaire, examiner la ou les questions en litige en cause et décider s'il convient de les trancher par voie de procès sommaire (paragraphe 213(1) des Règles);
+b. la partie qui demande un procès sommaire devrait présenter sa preuve pertinente quant aux questions en litige, tout comme la partie intimée, qui ne peut fonder sa réponse sur un élément qui pourrait être produit ultérieurement en preuve dans l'instance (article 214 des Règles);
+c. lorsque la preuve n'est pas contestée ou controversée ou que la crédibilité n'est pas vraiment en jeu, la Cour devrait être davantage tentée d'accorder la requête en procès sommaire. Cela ne signifie pas qu'il n'y aura pas de procès sommaire si la preuve est contestée ou controversée ou que la crédibilité est en jeu. Cela signifie que la Cour doit décider s'il existe ou non « une véritable question litigieuse » (article 215 des Règles);
+d. la Cour ne devrait pas éviter la tenue d'un procès sommaire pour la simple raison qu'il existe une question de droit sérieuse à trancher (paragraphe 215(5) des Règles).
+[33]
+Ces Règles sont destinées à être utilisées et non à être éludées ou contournées. Dans les cas opportuns, il convient de tenir un procès sommaire et de rendre un jugement sommaire.
+[34]
+Dans la présente affaire, je suis d'avis que la tenue d'un procès sommaire et le prononcé d'un jugement sommaire constituent une bonne façon de procéder de manière à apporter aux questions en litige une solution qui soit juste et la plus expéditive et économique possible. J'en arrive à cette conclusion pour les raisons suivantes:
+a. les questions en litige sont bien définies et, même si la réponse qui leur est donnée ne tranchera peut-être pas tous les points litigieux dans l'action, il s'agit de questions importantes dont la solution permettra d'accélérer le déroulement ou le règlement de l'action ou de ce qui en reste entre les parties agissant de bonne foi;
+b. les faits nécessaires pour répondre aux questions ressortent clairement de la preuve;
+c. la preuve n'est pas controversée et la crédibilité n'est pas en jeu;
+d. bien qu'elles soient nouvelles, les questions de droit peuvent être réglées aussi facilement maintenant qu'elles le seraient par ailleurs à l'issue d'un procès complet.
+Question no 2
+:
+À qui incombe le fardeau de la preuve dans un procès sommaire?
+[35]
+Il y a plusieurs étapes à examiner à cet égard. D'abord, la partie qui demande la tenue d'un procès sommaire doit démontrer que cette mesure est appropriée (
+Trevor Nicholas Construction,
+décision précitée, au paragraphe 44). Il s'agit là du fardeau de preuve habituel dont la partie requérante, en l'occurrence la demanderesse, s'est déchargée.
+[36]
+Une fois que la question est portée devant la Cour pour être instruite par voie de procès sommaire, le fardeau de preuve qui s'applique est le fardeau de preuve habituel en matière civile. En résumé, la partie qui formule une allégation doit l'établir au moyen des éléments de preuve et des règles de droit pertinents.
+[37]
+Dans la présente affaire, la demanderesse Teva soutient qu'elle a droit à une indemnité en vertu de l'article 8 du Règlement AC. Elle doit faire cette preuve. Les défenderesses Wyeth répondent pour leur part que, par suite de la fusion, de l'octroi de la licence à Novopharm et d'autres événements, Teva a perdu le droit de demander cette indemnité. Les défenderesses doivent aussi faire cette preuve. Dans chaque cas, le fardeau qui s'applique est le fardeau habituel en matière civile, soit la prépondérance des probabilités.
+Question no 3
+:
+Teva, la société issue de la fusion, a-t-elle le droit de poursuivre la demande d'indemnité fondée sur l'article 8 et engagée par Ratiofarm dans la présente action?
+[38]
+Pour répondre à cette question, il convient d'abord d'examiner la situation où aucune fusion n'aurait eu lieu et où seule Ratiofarm formule une demande en vertu de l'article 8 du Règlement AC. Tous les critères nécessaires pour prouver le bien-fondé de la demande seraient établis. Ratiopharm est une « seconde personne »; elle a été tenue à l'écart du marché jusqu'à ce que la Cour d'appel fédérale « rejette » la demande de Wyeth. Les dates que Ratiopharm a invoquées comme dates marquant le début et la fin de la période visée par la demande, soit respectivement la date d'expiration du brevet 540 et la date du rejet de la demande de Wyeth par la Cour d'appel fédérale, sont raisonnables. Il serait nécessaire de déterminer le montant de l'indemnité et d'examiner les arguments soulevés par Wyeth.
+[39]
+Le fardeau de la preuve est ensuite transféré à Wyeth, qui doit expliquer pourquoi la fusion, la licence accordée à Novopharm et d'autres événements touchent la demande fondée sur l'article 8. À cet égard, l'avocat de Wyeth a invoqué trois arguments. Je reproduis ci-après les titres donnés à ces arguments dans le mémoire de l'avocat de Wyeth:
+[traduction]
+Teva n'a pas droit à une indemnité pour la période terminée le 1er décembre 2006, puisqu'elle a convenu par contrat de ne pas entrer sur le marché avant cette date;
+Teva n'a pas droit à une indemnité pour la période allant du 1er décembre 2006 au 2 août 2007, parce qu'elle était apparemment sur le marché pendant cette période;
+Teva a demandé à Wyeth d'engager la demande d'interdiction, mais elle sollicite aujourd'hui une indemnité, soutenant que cette demande n'aurait jamais dû être présentée.
+[40]
+De façon générale, les parties conviennent qu'en ce qui concerne les effets d'une fusion, les principes que la Cour suprême du Canada a énoncés dans
+R c Black & Decker Manufacturing Company Limited
+, [1975] 1 R.C.S. 411, aux pages 421 et 422, s'appliquent:
+[...] Mais dans une fusion on recherche un résultat différent et on adopte des mécanismes juridiques différents, généralement dans le but exprès d'assurer la continuité d'existence des compagnies constituantes. Le facteur qui motive cette recherche peut être la Loi de l'impôt sur le revenu ou des difficultés pouvant survenir lors de transferts d'actifs si l'absorption se faisait par l'achat de biens ou d'actions. Mais quel que soit le motif, le résultat final est de se coaliser de manière à créer un tout homogène. Certains ont proposé des analogies avec la rivière qui part du confluent de deux cours d'eau, ou avec le cordage unique que forme l'entrelacement des différents torons.
+[. . .]
+[...] Bien interprétée, la loi a pour effet de permettre aux compagnies constituantes de subsister dans leur intégralité au sein de la compagnie née de la fusion avec toutes leurs forces et leurs faiblesses, leurs qualités et leurs défauts ainsi que leurs péchés, lorsqu'elles sont pécheresses. Les lettres patentes de fusion ne donnent pas l'absolution.
+[41]
+Il convient d'ajouter à ces remarques les commentaires que madame la juge Feldman a formulés dans
+ <FRAGMENT_SUPPRESSED>  matière de faillite):
+[traduction]
+56 Dans ces affaires, il a été décidé que les sociétés fusionnantes ne meurent pas lors de la fusion, mais continuent à exister dans la société issue de la fusion. Il n'y a pas « d'ancienne » société éteinte ou de « nouvelle » société créée. Il n'y a pas de transfert des biens des sociétés fusionnantes à la société issue de la fusion; c'est ce qui ressort de l'emploi du mot « continues » dans la version anglaise de la loi ainsi que de l'énoncé selon lequel la société issue de la fusion « possède tous les biens... » des sociétés fusionnantes. Voici les commentaires que le juge en chef Dickson a formulés à ce sujet dans l'arrêt Black & Decker, à la page 417  <FRAGMENT_SUPPRESSED>  :
+Si la naissance ou la disparition d'une corporation avait été envisagée, on aurait pu s'attendre à trouver, dans la loi, quelques dispositions sur le transfert ou la cession ou la transmission des actifs et non simplement le mot « possède », lequel renforce le concept de continuité. [...]
+(La Loi sur les corporations canadiennes, S.R.C. 1970, ch. C-32, et la Loi sur les sociétés par actions de l'Ontario, L.R.O. 1990, ch. B-16 (L.S.A.O.) comportent le même libellé, tandis que le texte figurant dans la Loi canadienne sur les sociétés par actions, L.R.C. 1985, ch. C-44, est semblable.)
+[42]
+L'article 186 de la
+Loi canadienne sur les sociétés par actions
+, susmentionnée, a été édicté après le jugement que la Cour suprême du Canada a rendu dans
+Black & Decker
+, mais reprend les principes énoncés dans cette décision. Plus précisément, les alinéas 186
+a
+),
+b
+),
+c
+) et
+d
+) prévoient ce qui suit:
+186.
+À la date figurant sur le certificat de fusion:
+a) la fusion des sociétés en une seule et même société prend effet;
+b) les biens de chaque société appartiennent à la société issue de la fusion;
+c) la société issue de la fusion est responsable des obligations de chaque société;
+d) aucune atteinte n'est portée aux causes d'actions déjà nées;
+186.
+On the date shown in a certificate of amalgamation
+(a) the amalgamation of the amalgamating corporations and their continuance as one corporation become effective;
+(b) the property of each amalgamating corporation continues to be the property of the amalgamated corporation;
+(c) the amalgamated corporation continues to be liable for the obligations of each amalgamating corporation;
+(d) an existing cause of action, claim or liability to prosecution is unaffected;
+[43]
+Dans la présente affaire, il est indéniable qu'en l'absence des arguments soulevés par Wyeth, la société issue de la fusion, Teva, peut poursuivre la demande déposée en vertu de l'article 8 dans la présente action et engagée par Ratiopharm. Cependant, il faut se demander quel est l'effet de la présence de Novopharm, à titre de partie fusionnante, sur la société issue de la fusion; plus précisément, quel est l'effet de la licence de Novopharm et des activités poursuivies au nom de celle-ci par ses avocats?
+[44]
+L'avocat de Wyeth a soutenu que la société issue de la fusion, Teva, continue par effet de la loi à détenir une licence en vertu de l'accord de licence de Novopharm aux termes de l'article 186 de la
+Loi canadienne sur les sociétés par actions
+. L'avocat de Teva souscrit à cet argument. L'avocat de Wyeth a ensuite fait valoir que la Cour devait, en conséquence, imputer rétrospectivement à Ratiopharm toutes les obligations qui incombaient à Novopharm en qualité de titulaire de licence, tout en affirmant qu'il n'avait nullement été question d'application rétrospective et qu'il était plutôt reconnu que Teva (et donc, Ratiopharm, en qualité de partie issue de la fusion) était débitrice de toutes les obligations de manière prospective, mais sur une base rétrospective. L'argument en ferait sourciller plusieurs et je ne m'y attarderai pas, étant donné que je suis d'avis qu'un autre argument formulé par l'avocat de Wyeth permet de trancher la question.
+[45]
+L'argument en question concerne la doctrine de l'option reconnue en
+equity
+. Cette doctrine a connu un nouveau souffle depuis le jugement que la Cour d'appel de l'Ontario a prononcé dans
+ <FRAGMENT_SUPPRESSED>  où le juge Epstein, qui a prononcé le jugement pour l'ensemble du tribunal, y compris les juges Armstrong et Karakatsanis, a établi une distinction entre la doctrine de l'option reconnue en common law et celle qui est reconnue en
+equity
+. Selon la doctrine de l'option, une personne ne peut exercer un droit incompatible avec un autre droit dont elle s'est consciemment et clairement prévalue. Pour que la doctrine s'applique en
+equity
+, il n'est pas nécessaire de démontrer que la partie en question a fait un choix conscient entre des droits incompatibles au moment où la décision initiale a été prise; la doctrine de l'option reconnue en
+equity
+ne sous-entend aucun choix, mais simplement le fait d'accepter les conséquences d'une décision déjà prise.
+[47]
+Je reproduis ci-après les propos que le juge Epstein, de la Cour d'appel de l'Ontario, a formulés aux paragraphes 15 à 22:
+[traduction]
+15 Essentiellement, selon la doctrine de l'option, une personne ne peut exercer un droit incompatible avec un autre droit dont elle s'est consciemment et clairement prévalue.
+16 La doctrine est énoncée dans la décision souvent citée que Lord Atkin a rendue dans  <FRAGMENT_SUPPRESSED>  (C.L), où l'appelante avait engagé une action contre une société fondée sur un chèque et sur ce qu'elle a appelé un enrichissement sans cause. Le chèque avait été établi illégalement. L'action a été abandonnée et aucun jugement n'a été rendu. Les parties appelantes ont ensuite intenté une action contre la banque afin d'obtenir la conversion du chèque. Il a été décidé que l'introduction de la première action n'équivalait pas à une renonciation à l'argument du délit de façon à empêcher le dépôt de la deuxième action. Dans les motifs de sa décision, Lord Atkin s'est exprimé comme suit, aux pages 29 et 30:
+Il me semble qu'à cet égard, il est essentiel de se rappeler la distinction entre le fait de choisir entre deux recours possibles et celui d'opter pour l'un de deux droits incompatibles. En ce qui concerne les recours, la seule restriction a toujours porté sur le choix entre l'action réelle et l'action personnelle. Si vous choisissez la première, vous ne pouvez vous tourner vers la seconde.
+[...]
+En revanche, si une personne a le droit d'exercer un ou deux droits incompatibles, il convient que lorsqu'il a en toute connaissance de cause accompli un acte non équivoque démontrant qu'il a choisi un des deux, il ne peut par la suite faire valoir l'autre, qu'il ne peut plus exercer après avoir choisi le premier droit, en raison de cette incompatibilité. Un exemple qui illustre ce principe est le cas de la personne ayant traité avec un mandataire qui ne lui a pas révélé l'existence de son mandat. Cette personne a le choix de poursuivre le mandant ou le mandataire. C'est le cas du locateur qui peut, en cas de non-respect des conditions du bail par le locataire, exiger la résiliation du bail ou considérer que l'ancien locataire est toujours locataire, et ainsi de suite. Les observations suivantes de lord Blackburn dans l'arrêt  <FRAGMENT_SUPPRESSED>  choses incompatibles ne peut se dédire une fois qu'elle a fait son choix ». Dans un passage subséquent [(1882) 7 App. Cas. 345, p. 361], lord Blackburn parle d'un homme qui choisit entre deux recours, mais il est évident que ces recours concernent les éléments incompatibles susmentionnés. Dans l'affaire en question, le demandeur pouvait exercer un recours contre deux anciens associés ou contre deux nouveaux associés, mais non contre les deux groupes en même temps. Lord Blackburn cite l'affaire Dumpor [(1601) 4 Co. Rep. 119(b)], où il s'agissait simplement de droits incompatibles et de renonciation à la confiscation. Je suis donc d'avis que, en ce qui concerne les recours possibles, aucune question de choix ne se pose avant qu'un jugement ait été rendu sur l'un de ceux-ci.
+17 Les tribunaux canadiens ont approuvé la doctrine. Voir, par exemple,  <FRAGMENT_SUPPRESSED> , aux pages 103, 104 et 110.
+18 La doctrine de l'option a été classée en deux catégories: la doctrine de l'option reconnue en common law et celle qui est reconnue en equity.
+19 En common law, la doctrine de l'option s'applique dans les situations où une partie devant faire un choix entre deux mesures incompatibles qui touchent les droits et obligations d'une autre partie opte sans équivoque pour une des deux mesures et fait connaître son choix à l'autre partie. Selon la doctrine, la partie qui opte pour une mesure ne peut par la suite faire valoir celle qu'elle a rejetée. L'option choisie entre en vigueur au moment où elle est communiquée, puisque les parties à une relation continue ont le droit de savoir à quoi s'en tenir:  <FRAGMENT_SUPPRESSED>  (H.C.A.), aux pages 421 et 422.
+20 Après l'élaboration de la doctrine reconnue en common law, les tribunaux d'equity ont établi un principe distinct applicable en equity, dans le contexte des testaments et des fiducies. La doctrine repose sur le fait qu'après avoir obtenu un avantage précis découlant d'une opération, la partie concernée doit accepter toutes les conséquences de l'opération en question, y compris celles qui la désavantagent:  <FRAGMENT_SUPPRESSED>  (C.A.), à la page 424; Piers Feltham, Daniel Hochberg & Tom Leech, The Law Relating to Estoppel by Representation, 4th ed. (Londres: LexisNexis UK, 2004), aux pages 361 et 362.
+21 Les deux doctrines sont différentes. Cette affirmation est énoncée en toutes lettres dans le passage suivant de la décision Banner Industrial and  <FRAGMENT_SUPPRESSED>  aux pages 417 et 418, le mot « election » (option) est un terme employé dans différents sens. Il existe une doctrine de l'option reconnue en equity (appelée en Écosse la doctrine du choix entre l'acceptation et le refus), qui est résumée dans la conclusion de Lord Eldon selon laquelle « nul ne peut accepter et rejeter le même acte »:  <FRAGMENT_SUPPRESSED>  autre acte qui confère un avantage à une partie tout en ayant pour effet de transférer les biens de celle-ci à une autre personne. Selon le principe, lorsque la personne accepte l'avantage, elle doit également accepter de donner effet au transfert de ses propres biens ou de dédommager la personne censée bénéficier de celui-ci. Il y a aussi le principe de l'option reconnu en common law, selon lequel une partie devant, dans certaines circonstances, choisir entre différents recours (comme la confirmation ou la répudiation d'un contrat obtenu par une déclaration inexacte) peut être contrainte de s'en tenir au choix qu'elle a fait. Les circonstances dans lesquelles les deux doctrines s'appliquent sont assez différentes. [Non souligné dans l'original.]
+22 Cet extrait montre donc qu'il y a une différence fondamentale entre les deux doctrines. La doctrine reconnue en equity ne sous-entend pas un choix entre différents recours. Pour que la doctrine s'applique en equity, il n'est pas nécessaire de démontrer que la partie en question a fait un choix conscient entre des droits incompatibles au moment où la décision initiale a été prise. En fait, la doctrine reconnue en equity ne sous-entend aucun choix, mais plutôt le fait d'accepter les conséquences d'une décision déjà prise. En revanche, la doctrine reconnue en common law repose sur un choix et s'applique de façon à empêcher une personne qui a pris une mesure de se tourner vers une conduite incompatible qu'elle a expressément rejetée.
+[48]
+Très récemment, le juge Newbould, de la Cour supérieure de l'Ontario, a examiné une question similaire dans
+ <FRAGMENT_SUPPRESSED> à 218, où il s'est exprimé comme suit:
+[traduction]
+210 Devonshire soutient que, par sa conduite, Barclays devrait être réputée avoir abandonné la possibilité d'invoquer l'insolvabilité de Devonshire.
+211 Les conditions générales de l'entente-cadre de l'ISDA comportent des dispositions concernant l'obligation de payer une somme d'argent. Voici ce qu'elles prévoient:
+2. Obligations
+a) Conditions générales.
+(i) Chaque partie verse à l'autre le paiement ou lui livre les éléments précisés dans chaque confirmation qu'elle établit...
+(iii) L'obligation de chaque partie aux termes du sous-alinéa 2a)(i) est assujettie à la condition qu'aucun cas de défaut mettant en cause l'autre partie ne soit survenu et ne se poursuive...
+212 En conséquence, l'obligation de paiement prévue dans les accords pertinents est assujettie à la condition qu'aucun cas de défaut ne soit en cours. L'obligation de Barclays de verser des sommes d'argent à Devonshire en échange de la protection de crédit aux termes des accords de swap était donc assujettie à la condition préalable que Devonshire ne soit pas insolvable, laquelle insolvabilité constituait un cas de défaut.
+213 Barclays n'a pas soutenu, après l'avis de suspension, que Devonshire était en situation de défaut pour cause d'insolvabilité aux termes du sous-alinéa 5a)(vii) de l'entente-cadre de l'ISDA, ni n'a pris de mesures visant à mettre fin aux accords de swap. Elle aurait pu le faire. En qualité d'acheteur de la protection de crédit, Barclays a continué à verser des paiements mensuels à Devonshire, le vendeur de la protection, pour se prémunir contre la possibilité de défauts susceptibles de toucher le portefeuille sous-jacent de titres de créance. Ces paiements se sont poursuivis jusqu'à ce que Barclays remette son avis de résiliation anticipée le 13 janvier 2009. De la même façon, Barclays a continué à exiger des frais de Devonshire pour la protéger contre toute perturbation du marché aux termes de la marge de liquidité jusqu'à ce que cette protection prenne fin automatiquement en février 2008, en retranchant la prime de liquidité payable par Devonshire à la prime de protection qui devait être versée à celle-ci.
+214 Devonshire soutient qu'en effectuant ces paiements et en ne prenant aucune mesure de résiliation aux termes de l'alinéa 6a) de l'entente-cadre de l'ISDA, Barclays a choisi de confirmer l'entente en question et a abandonné son droit d'invoquer l'insolvabilité à titre de cas de défaut.
+215 Devonshire invoque un passage de l'ouvrage de Firth, intitulé Derivatives Law and Practice (Londres: Thomson Reuters (legal) Limited 2010, tout comme Barclays, mais pour un aspect différent. Au chapitre 11, qui concerne l'entente-cadre de l'ISDA, il est mentionné, à la page 11-59, que la partie non défaillante perd le droit de résilier l'entente si elle confirme celle-ci. Il est également mentionné que la question de savoir si cette confirmation a eu lieu est une question de fait et que, malgré l'existence d'une clause de non-renonciation, la partie non défaillante qui continue pendant une période significative à exécuter l'entente sans contester peut être réputée avoir choisi d'abandonner son droit de la résilier. Deux décisions, dont aucune ne concerne une entente-cadre de l'ISDA, sont citées au soutien de ces propositions.
+216
+La première décision est celle qui a été rendue dans  <FRAGMENT_SUPPRESSED>  pour transporter du pétrole vers un port sûr. Le port choisi par l'affréteur n'était pas sûr; cependant, par ses agissements, le propriétaire a été réputé avoir accepté la désignation. Il a été décidé que, par sa conduite, le propriétaire du navire avait choisi d'accepter le port désigné et qu'il avait donc abandonné le droit de rejeter la désignation. Dans son jugement, Lord Goff a analysé en profondeur la doctrine de l'option et de la confirmation d'un contrat. Voici un extrait de ses propos:
+Il est reconnu que le mot « waiver » (renonciation) peut avoir différents sens en droit. Plus précisément, il peut s'entendre de l'abstention d'exercer un droit ou de l'abandon d'un droit. Dans la présente affaire, il s'agit de l'abandon d'un droit par suite du choix qu'une partie a fait. En soi, l'option est un concept qui peut s'appliquer dans plusieurs contextes. En l'espèce, il s'agit d'une option qui peut se présenter dans le contexte d'un contrat obligatoire, lorsque se présente une situation déterminée dans laquelle une des parties contractantes a la faculté, soit aux termes du contrat, soit en vertu des règles de droit générales, d'exercer un droit déterminé et qu'elle doit décider si elle exerce ou non ce droit. Comme sa décision suppose l'exercice d'une option de sa part, c'est ainsi qu'on désigne ce concept en droit. Le plus souvent, cette situation se produit lorsque l'autre partie a répudié le contrat ou a commis un manquement à celui-ci qui donne à la partie innocente le droit d'y mettre fin, ou a fait une offre réelle d'exécution qui n'est pas conforme aux clauses du contrat.
+[...]
+Dans tous les cas, c'est lui qui doit au bout du compte exercer l'option, non pas parce qu'il y est obligé, mais parce que, s'il n'exerce pas d'option, il risque de la perdre par l'opération de la loi, qui présumera qu'il a choisi de ne pas exercer le droit qui lui était ouvert ou qui considérera parfois qu'il a effectivement choisi de l'exercer. Des exemples de cette situation figurent, notamment, à l'article 35 de la Sale of Goods Act, 1979. Plus précisément, lorsqu'une partie informée des faits pertinents a agi d'une façon qui va de pair uniquement avec l'une des deux options qui s'offraient à elle, par exemple, mettre fin à un contrat ou le confirmer, elle est réputée avoir fait son choix en conséquence, tout comme l'acheteur peut être réputé avoir accepté des marchandises non visées par le contrat dans les circonstances précisées à l'article 35 de la loi de 1979.
+217 La deuxième décision mentionnée dans Firth est celle de  <FRAGMENT_SUPPRESSED>  poste une garantie de sa société mère à l'égard des obligations découlant d'un contrat de fourniture de télécartes, lequel manquement donnait au bureau de poste le droit de mettre fin au contrat. Cependant, il a été décidé qu'en vertu de la doctrine de la confirmation du contrat découlant de l'exercice d'une option, le bureau de poste avait choisi de ne pas résilier le contrat en continuant à l'appliquer pendant un an suivant le manquement.
+218 Voir également Charter Building Company c. 1540957 Ontario Inc. (Mademoiselle Women's Fitness & Day Spa), 2011 ONCA 487, pour un récent examen de la doctrine de l'option par le juge Epstein, de la Cour d'appel de l'Ontario.
+[49]
+Eu égard à l'article 3 et au paragraphe 20(2) de la
+Loi sur les Cours fédérales
+, LRC 1985, ch. F-7, il est indéniable que la Cour fédérale est un tribunal de droit et d'
+equity
+et qu'elle peut appliquer les principes d'
+equity
+, notamment dans les affaires de propriété intellectuelle, y compris les affaires concernant des brevets comme la présente affaire.
+[50]
+Dans la présente affaire, Novopharm a conclu avec Wyeth un accord de licence qui a déjà été commenté plus haut. Novopharm a obtenu une licence l'autorisant à vendre sa version générique du médicament en cause à compter d'une certaine date, pourvu qu'elle paie certaines redevances. Wyeth s'est engagée, notamment, à [traduction] « déployer des efforts raisonnables sur le plan commercial » pour mettre fin à la contrefaçon.
+[51]
+Tel qu'il est mentionné sous la rubrique « LA PREUVE », l'avocat de Teva a affirmé que celle-ci était disposée à accepter, notamment, ce qui suit:
+Teva reconnaît qu'au cours de la période allant du 10 janvier 2006 au 2 août 2007 (la « période pertinente »), Novopharm a été avantagée du fait que Ratiopharm n'était pas sur le marché, puisque Novopharm était titulaire de licence en vertu de l'accord de licence.
+[52]
+Il appert donc de la preuve, notamment de la correspondance jointe à l'affidavit de Pope, que Denike a reconnue comme un document faisant foi dans le cadre de la communication préalable de la preuve, que lorsque Ratiopharm a engagé l'
+instance relative à l'AC
+en faisant parvenir un avis d'allégation à Wyeth, les avocats de celle-ci et de Novopharm ont engagé des discussions sur les mesures que Wyeth pouvait prendre. Plus précisément,
+a. 12 janvier 2006
+Wyeth a fait savoir à Novopharm (Teva) qu'elle avait reçu l'avis d'allégation de Ratiopharm et en a remis une copie (Pope - pièce 2A).
+b. 12 janvier 2006
+Les avocats de Novopharm ont fait parvenir aux avocats de Wyeth un courriel dans lequel ils ont offert de consulter et demandé la tenue d'une conférence téléphonique (Pope - pièce 2B).
+c. 2 février 2006
+Les avocats de Novopharm, qui n'avaient pas eu de nouvelles des avocats de Wyeth, ont fait parvenir le courriel suivant:
+[traduction]
+Nous présumons que Wyeth déposera un avis de demande en temps opportun et sollicitera votre confirmation. Veuillez nous tenir au courant.
+(Pope - pièce 2C)
+d. 8 août 2007
+Les avocats de Novopharm ont fait parvenir à ceux de Wyeth une lettre dans laquelle ils ont demandé qu'une action en contrefaçon soit intentée contre Ratiopharm, qui avait reçu son AC par suite du rejet de l'instance relative à l'AC. Voici un extrait de cette lettre:
+[traduction]
+Obligation continue de Wyeth de faire valoir et de protéger le brevet 778 contre la contrefaçon
+L'article 5.1 de l'accord exige que Wyeth et Novopharm s'informent l'une l'autre de toute contrefaçon réelle ou possible du brevet canadien 2,199,778 (le « brevet 778 »). Novopharm avise par les présentes Wyeth d'une contrefaçon de cette nature de la part de Ratiopharm Inc.
+L'article 5.1 de l'accord exige également que Wyeth « déploie des efforts raisonnables sur le plan commercial » pour empêcher la contrefaçon découlant de 'la fabrication, l'utilisation, la vente, ou l'importation de tout produit générique équivalent' au produit EFFEXOR XR, ou pour mettre fin à cette contrefaçon. Dans le dossier de la Cour fédérale no T-243-06, Wyeth a soutenu que Ratiopharm Inc. violerait le brevet 778 si elle commercialisait le médicament venlafaxine XR. Étant donné que cette possibilité s'est concrétisée, Novopharm s'attend à ce que Wyeth engage des poursuites judiciaires contre Ratiopharm afin de mettre fin à cette contrefaçon, conformément à ses obligations découlant de l'accord.
+(Pope - pièce 2D)
+e. 15 août 2007
+Les avocats de Wyeth ont répondu à la lettre du 8 août 2007. Aucune mention précise n'a été faite du point décrit plus haut (Pope - pièce 2E).
+[53]
+Comme le montre le calendrier figurant plus haut dans les présents motifs, Ratiopharm a engagé la présente action le 22 octobre 2007. Wyeth a produit une défense et une demande reconventionnelle en contrefaçon (laquelle demande reconventionnelle a maintenant été abandonnée) le 6 décembre 2007.
+[54]
+Il appert clairement de ce qui précède qu'en qualité de titulaire de licence, Novopharm a encouragé Wyeth à engager l'instance relative à l'AC contre Ratiopharm et s'attendait à ce qu'elle le fasse. Novopharm a cru que Wyeth agissait d'une façon allant de pair avec l'obligation qu'elle avait de «
+déployer des efforts raisonnables sur le plan commercial
+» pour mettre fin à la contrefaçon.
+[55]
+Par conséquent, la conduite de Novopharm est visée par la doctrine de l'option reconnue en
+equity
+. Novopharm a en effet clairement encouragé Wyeth à engager une action contre Ratiopharm. Tel qu'il est mentionné plus haut, Novopharm a admis qu'elle avait été avantagée par l'accord de licence.
+[56]
+Dans ces circonstances, quel est l'effet de la fusion entre Ratiopharm, qui aurait par ailleurs une demande d'indemnité parfaitement valide en vertu de l'article 8, et Novopharm, qui serait empêchée de faire valoir cette demande en raison de la doctrine de l'option reconnue en
+equity
+? L'article 186 de la
+Loi canadienne sur les sociétés par actions
+énonce, à l'alinéa
+d
+), qu'aucune atteinte n'est portée aux causes d'actions déjà nées lors de la fusion (Ratiopharm) et, à l'alinéa
+e
+), que la société issue de la fusion remplace toute société fusionnante dans les poursuites civiles (la présente action). Cependant, selon l'alinéa
+c
+), la société issue de la fusion est responsable des obligations des sociétés fusionnantes (application à Novopharm de la doctrine de l'option reconnue en
+equity
+).
+[57]
+Je suis d'avis que, compte tenu de l'alinéa 186
+c
+) de la Loi, la doctrine de l'option reconnue en
+equity
+s'applique d'abord à Novopharm puis, à compter de la date de la fusion, à Teva, la société issue de la fusion, de façon à rendre désormais inopposable la demande fondée sur l'article 8 de Ratiopharm.
+Question no 4
+:
+Si la réponse à la question no 3 est affirmative, Wyeth a-t-elle le droit de retrancher par voie de compensation à la demande fondée sur l'article 8 les gains réalisés par Teva/Novopharm aux termes de l'accord de licence?
+[58]
+La réponse à la question no 3 est négative; par conséquent, il n'est pas nécessaire de répondre à la question no 4. Étant donné que les décisions rendues au sujet de l'article 8 du Règlement AC sont récentes, il serait prudent d'éviter toute analyse conjecturale ou analyse « en cas d'appel » de questions qu'il n'est pas nécessaire de trancher à ce moment-ci.
+CONCLUSIONS ET DÉPENS
+[59]
+En conclusion, la présente requête est instruite par voie de procès sommaire et un jugement sommaire est rendu. Selon ce jugement, Teva ne peut poursuivre la demande fondée sur l'article 8 que Ratiopharm avait engagée. Les parties conviennent que les dépens de la présente requête sont fixés au montant de 20 000 $ et suivent le sort du principal, c'est-à-dire qu'ils sont adjugés aux défenderesses Wyeth.
+POST-SCRIPTUM
+[60]
+Les présents motifs de jugement constituent une version expurgée des motifs confidentiels de jugement rendus le 17 octobre 2011, conformément à l'ordonnance de non-divulgation datée du 5 novembre 2008. Les modifications ont été apportées conformément aux indications reçues des avocats de la demanderesse Teva Canada Limited et autorisées par la Cour, et sont maintenant incorporées aux présents motifs publics du jugement.
+JUGEMENT
+[61]
+POUR LES MOTIFS EXPOSÉS CI-DESSUS
+:
+LA COUR ORDONNE
+:
+1. La présente requête est instruite par voie de procès sommaire et un jugement sommaire est rendu aux présentes.
+2. La demanderesse Teva n'a pas le droit de poursuivre la demande d'indemnité que Ratiopharm avait présentée en vertu de l'article 8 du Règlement AC.
+3. Les dépens de la présente requête, fixés au montant de 20 000 $, sont adjugés aux défenderesses.
+ANNEXE « A »
+[Diagramme omis]
+[End of document]

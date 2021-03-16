@@ -1,0 +1,262 @@
+Background
+[1]
+von Finckenstein, J.
+: David Baazov ( <FRAGMENT_SUPPRESSED> ), and Benjamin Ahdoot ( <FRAGMENT_SUPPRESSED> ) are two young Montreal based entrepreneurs who decided to go into the computer and accessories business in the late nineties. At first they sold computers and accessories directly to end users. They worked as a partnership calling themselves Vortek Systèmes s.e.n.c. (the "Partnership").
+[2]
+On February 1, 2000 they incorporated a numbered company, 9087-0718 Québec Inc (the "Numbered Company"), and changed their business model to enter the computer and accessories reselling business, i.e. buying from manufacturers and then reselling to retailers.
+[3]
+Ahdoot and Baazov are the sole shareholders, directors and officers of the Numbered Company. Ahdoot is the president and Baazov is the vice-president of the defendant Numbered Company.
+[4]
+As part of its business, the Numbered Company imported and sold blank recordable compact discs ("CD-R") and re-writeable compact discs ("CD-RW"). The discs, upon sale in Canada, are subject to the private copying tariffs as found in Part VIII of the
+Copyright Act
+,  <FRAGMENT_SUPPRESSED>  to decide whether or not it will pay these levies in accordance with the
+Act
+.
+[5]
+That scheme of Part VIII was succinctly described by Justice Ann Mactavish in
+ <FRAGMENT_SUPPRESSED>  as follows:
+"
+The Private Copying Tariffs
+"[4] Prior to March 19, 1998, the unauthorized reproduction of musical works, performances and sound recordings (referred to collectively as 'recorded music'), for private use, constituted copyright infringement.
+"[5] Because of the difficulty in enforcing these rights, Parliament enacted Part VIII of the
+Copyright Act
+, which provides that the copying of recorded music for private use no longer amounts to copyright infringement.
+"[6] At the same time, the legislation was amended to create a scheme to provide rightsholders with equitable remuneration through the imposition of a tariff or levy on manufacturers and importers of blank audio recording media sold in Canada. As the Federal Court of Appeal noted in
+ <FRAGMENT_SUPPRESSED> ; 2004 FCA 424, leave to appeal to the Supreme Court of Canada denied, [2005] S.C.C.A. No. 74, the levy was created to support creators and cultural industries, by striking a balance between the rights of creators and those of users. (at ¶ 51)
+"[7] The rate of the levy is fixed each year through the certification of a
+Private Copying Tariff
+by the Copyright Board of Canada, in accordance with Part VIII of the
+Act
+. Since December of 1999, the Board has certified four tariffs determining which blank audio recording media are subject to levies, the amounts of those levies, and the terms and conditions applicable to the payment of those levies.
+"[8] The CPCC is a non-share, non-profit corporation, whose members are collective societies holding private copying remuneration rights on behalf of rightsholders. The CPCC has been designated by the Copyright Board of Canada as the collecting body, in accordance with paragraph 83(8)(d) of the
+Act
+.
+"[9] Levies collected by the CPCC are then distributed to eligible collective societies for redistribution to the rightsholders themselves.
+"[10] Under the provisions of the
+Copyright Act
+and the
+Private Copying Tariffs
+, manufacturers and importers of blank audio recording media are obliged to track and report sales activity to the CPCC. They must also keep records from which the CPCC can readily ascertain, through an audit, the amounts payable. The
+Tariffs
+also require that manufacturers and importers pay interest on overdue amounts owed to CPCC."
+Collection Attempts
+[6]
+The Agreed Statement of Facts describes the dealings between the parties prior to the commencement of the proceedings as follows:
+"21. The defendants 9087-0718 Québec Inc., Benjamin Ahdoot and David Baazov have been aware of the existence of the private copying tariffs since at least as early as January 2003.
+"22. On January 16, 2003 the plaintiff sent a letter of demand to Vortek Systems (9087-0718 Québec Inc.), c/o Benjamin Ahdoot, advising the company of its levy obligations under the
+Copyright Act
+, and calling upon it to submit outstanding reports and make levy payments to the plaintiff. The letter was received several days after January 16, 2003.
+"23. Shortly thereafter, the defendant David Baazov was made aware of the existence of the January 16, 2003 letter and of its contents.
+"24. Benjamin Ahdoot admittedly was aware of the existence of CPCC prior to receiving the letter of January 16, 2003.
+"25. A reply to the January 16, 2003 letter was sent on behalf of Vortek Systems by the defendant Benjamin Ahdoot on February 4, 2003, then by the legal firm of Michelin, Hughes, Oberman, Perras. These letters sought additional information on the private copying levies, which was provided by CPCC.
+"26. In a telephone conversation with a representative of CPCC on February 20, 2003, the defendant Benjamin Ahdoot obtained more information about the company's obligations under the private copying tariffs. On that occasion he denied that the defendant 9087-0718 Québec Inc. imported blank CD-R/CD-RW.
+"27. The defendant 9087-0718 Québec Inc. and Vortek Systemes s.e.n.c. have not remitted any reports or levies to the Plaintiff in respect of blank audio recording media imported into Canada and sold in Canada by any of them."
+History of Proceedings
+[7]
+CPCC filed a statement of claim against the Numbered Company, Ahdoot, Baazov, and the Partnership on January 6, 2004. All defendants initially denied importing blank audio recording media and challenged the constitutionality of the levy regime.
+[8]
+However, after protracted contested interlocutory proceedings, key admissions were made and are recited in the Agreed Statement of Facts as follows:
+"39. In the responses to the plaintiff's Requess to Admit, the defendants admitted:
+(a) that the defendant 9087-0718 Québec Inc. has imported blank CD-R/CD-RW into Canada;
+(b) that the defendant 9087-0718 Québec Inc. has sold in Canada the CD-R/CD-RW that it has imported;
+(c) that the defendant 9087-0718 Québec Inc. has not paid the private copying levies to the plaintiff;
+(d) that Benjamin Ahdoot and David Baazov were aware of the private copying tariffs since 2003."
+[9]
+The constitutionality of the levy regime was the subject of separate litigation. The regime was held to be constitutionally valid by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>   and leave to appeal to the Supreme Court of Canada was denied on July 28, 2005 (
+ <FRAGMENT_SUPPRESSED> ; 346 N.R. 193 (S.C.C.)).
+Issues
+[10]
+The following issues are raised in this matter:
+1. Are the defendants Ahdoot and Baazov liable for the debts of the Numbered Company by virtue of their positions as directors?
+2. Is the Numbered Company subject to penalty under s. 88(2) of the
+Act
+, and if so to what extent?
+3. Should costs be awarded against either (a) the Numbered Company, or (b) Ahdoot and Baazov, or (c) both the Numbered Company, Baazov, and Ahdoot?
+Facts Admitted
+[11]
+The Numbered Company has admitted liability in the Agreed Statement of Facts for levies in the following amounts:
+"94. Subject to the determination of the constitutional issue, the liability of the defendant 9087-0718 Québec Inc. for levies in the amount of $1,594,439.70 up to and including November 25, 2004 is admitted.
+"95. Of the 7,592,570 units of blank CD-R/CD-RW admittedly sold by the defendant 9087-0718 Québec Inc., 5,032,550 were sold after January 16, 2003, the date of CPCC's first demand letter to 9087-0718 Québec Inc., ...
+"96. Of the 7,592,570 units of blank CD-R/CD-RW admittedly sold by the defendant 9087-0718 Québec Inc., 851,425 were sold after January 6, 2004, the date of the issuance of the Statement of Claim in the present proceeding.
+"97. Levies owed by the defendant 9087-0718 Québec Inc. for sales of imported CD-R/CD-RW after January 16, 2003 and up to November 25, 2004 are therefore in the amount of at least $900,123.77."
+Evidence at Trial
+[12]
+Both Ahdoot and Baazov testified at trial. Their testimony was straightforward and clear. They also produced financial statements and employee source deduction records for the Numbered Company, and import and sales data for the period November 25, 2004 to the present. There is no reason to doubt the credibility of either witness, and no contradictions or discrepancies came to light during cross-examination.
+[13]
+In addition, Ms. Michelle Roy McSpurren testified on behalf of CPCC. Her evidence described her collection activities and the interaction between CPCC and the Numbered Company. She also walked the court through the lengthy pre-trial litigation of this case. There was no contradiction between her testimony and that of Ahdoot and Baazov.
+[14]
+Michael Rubin, an ex-employee of the Numbered Company, also testified. He advised that only one customer inquired whether the price of CD-R's and CD-RW's included the levy. Upon inquiry with Mr. Baazov, he advised the client not to worry about the levy as the price was the one quoted.
+[15]
+At the end of the trial, in its submissions, CPCC admitted that there was no evidence against the Partnership and abandoned its claim against the Partnership.
+[16]
+On the basis of the evidence produced, I find that:
+A. There is no evidence that either Ahdoot, Baazov or the Partnership ever imported any CD-R's or CD R-W's;
+b. There is no evidence that Ahdoot or Baazov stripped the Numbered Company of its assets;
+c. The salaries paid by the Numbered Company to Ahdoot and Baazov were modest and not incommensurate with their services;
+d. There is no evidence of fraud, negligence or abuse by Ahdoot and Baazov;
+e. The Numbered Company is still in operation and there is no evidence that it was stripped of its assets; and
+f. The Numbered Company, under the direction of Ahdoot and Baazov, followed a strategy of avoiding payment of the levy as long as possible, evidently hoping that the constitutional attack on the levy, being conducted by others, would succeed. Even after the constitutional issue was settled, the outstanding levy was not paid, nor was a reserve set up for the outstanding levy obligation.
+[17]
+The Numbered Company admitted liability for levies arising from the importation and sale of CD-R's and CD-RW's in the amount of $1,594,439.70 for the period up to November 25, 2004. The testimony of Mr. Ahdoot at trial also established liability of the Numbered Company for levies arising from the importation and sale of CD-R's and CD-RW's in the amount of $57,300.00 for the period November 25, 2004 to the present. Thus, the total liability of the Numbered Company up to the present time amounts to $1,651,739.70.
+Issue 1: Are the Defendants Ahdoot and Baazov liable for the debts of the Numbered Company by virtue of their positions as directors?
+[18]
+To consider issue one, we must first examine the provisions of Part VIII of the
+Act
+regarding liability to pay and recovery.
+[19]
+Section 82 provides;
+"82(1) Every person who, for the purpose of trade, manufactures a blank audio recording medium in Canada or imports a blank audio recording medium into Canada
+(a) is liable, subject to subsection (2) and section 86, to pay a levy to the collecting body on selling or otherwise disposing of those blank audio recording media in Canada; and
+(b) shall, in accordance with subsection 83(8), keep statements of account of the activities referred to in paragraph (a), as well as of exports of those blank audio recording media, and shall furnish those statements to the collecting body.
+"(2) No levy is payable where it is a term of the sale or other disposition of the blank audio recording medium that the medium is to be exported from Canada, and it is exported from Canada."
+"82(1) Quiconque fabrique au Canada ou y importe des supports audio vierges à des fins commerciales est tenu:
+a) sous réserve du paragraphe (2) et de l'article 86, de payer à l'organisme de perception une redevance sur la vente ou toute autre forme d'aliénation de ces supports au Canada;
+b) d'établir, conformément au paragraphe 83(8), des états de compte relatifs aux activités visées à l'alinéa a) et aux activités d'exportation de ces supports, et de les communiquer à l'organisme de perception.
+"(2) Aucune redevance n'est toutefois payable sur les supports audio vierges lorsque leur exportation est une condition de vente ou autre forme d'aliénation et qu'ils sont effectivement exportés."
+[20]
+With respect to collections, s. 83(8) provides:
+"(8) On the conclusion of its consideration of the proposed tariff, the Board shall ...
+(d) designate as the collecting body the collective society or other society, association or corporation that, in the Board's opinion, will best fulfil the objects of sections 82, 84 and 86,"
+"(8) Au terme de son examen, la Commission:
+d) désigne, à titre d'organisme de perception, la société de gestion ou autre société, association ou personne morale la mieux en mesure, à son avis, de s'acquitter des responsabilités ou fonctions découlant des articles 82, 84 et 86."
+[21]
+With respect to recovery, section 88 provides
+"88(1) Without prejudice to any other remedies available to it, the collecting body may, for the period specified in an approved tariff, collect the levies due to it under the tariff and, in default of their payment, recover them in a court of competent jurisdiction.
+"(2) The court may order a person who fails to pay any levy due under this Part to pay an amount not exceeding five times the amount of the levy to the collecting body. The collecting body must distribute the payment in the manner set out in section 84.
+"(3) Where any obligation imposed by this Part is not complied with, the collecting body may, in addition to any other remedy available, apply to a court of competent jurisdiction for an order directing compliance with that obligation.
+"(4) Before making an order under subsection (2), the court must take into account
+(a) whether the person who failed to pay the levy acted in good faith or bad faith;
+(b) the conduct of the parties before and during the proceedings; and
+(c) the need to deter persons from failing to pay levies."
+"88(1) L'organisme de perception peut, pour la période mentionnée au tarif homologué, percevoir les redevances qui y figurent et, indépendamment de tout autre recours, le cas échéant, en poursuivre le recouvrement en justice
+"(2) En cas de non-paiement des redevances prévues par la présente partie, le tribunal compétent peut condamner le défaillant à payer à l'organisme de perception jusqu'au quintuple du montant de ces redevances et ce dernier les répartit conformément à l'article 84.
+"(3) L'organisme de perception peut, en sus de tout autre recours possible, demander à un tribunal compétent de rendre une ordonnance obligeant une personne à se conformer aux exigences de la présente partie
+"(4) Lorsqu'il rend une décision relativement au paragraphe (2), le tribunal tient compte notamment des facteurs suivants:
+a) la bonne ou mauvaise foi du défaillant;
+b) le comportement des parties avant l'instance et au cours de celle-ci;
+c) la nécessité de créer un effet dissuasif en ce qui touche le non-paiement des redevances."
+[22]
+The legislation clearly addresses the collection issue. It provides that the person manufacturing or importing the blank audio recording medium must pay the levy, it provides for the designation of a collecting body, it allows the designated collecting body to sue for unpaid levies, and it empowers the court to award penalties in appropriate cases. However, unlike other statutes that deal with statutorily imposed charges such as fees, taxes or duties (see for instance the
+Income Tax Act
+, R.S.C. 1985, c. 1 (5th Supp.), s. 227.1(1) or the
+Employment Insurance Act
+, R.S.C. 1996, c. 23 s. 83(1)), there is no provision holding the directors of corporations liable for payment of the statutorily imposed levy. Any liability of the directors must therefore be based on the applicable principles of corporate law rather than on the
+Act
+.
+[23]
+The plaintiff relies on the principle set out in
+Mentmore Manufacturing Co. and  <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 164 (F.C.A.), and Article 317 of the
+Civil Code of Québec
+(the "
+Code
+") as this case involves a Québec corporation operating in Québec. In
+Mentmore
+, above, the case involved a patent infringement and Justice Le Dain observed:
+"The appellants relied particularly on the following statement of the law in 29 Hals., 3rd Ed., p. 90, para. 192, 'Patents and Inventions' which, while it does not expressly refer in the notes to what was said by Lord Atkin in
+ <FRAGMENT_SUPPRESSED> , would appear to be based upon it:
+'192. Liability of directors for infringement. The directors of a company are not personally liable for infringements by the company, even if they are managing directors or the sole directors and shareholders, unless either (1) they have formed the company for the purpose of infringing; or (2) they have directly ordered or authorised the acts complained of; or (3) they have so authorized or ordered by implication.'
+"
+What is involved here is a very difficult question of policy. On the one hand, there is the principle that an incorporated company is separate and distinct in law from its shareholders, directors and officers, and it is in the interests of the commercial purposes served by the incorporated enterprise that they should as a general rule enjoy the benefit of the limited liability afforded by incorporation. On the other hand, there is the principle that everyone should answer for his tortious acts
+. The balancing of these two considerations in the field of patent infringement is particularly difficult. This arises from the fact that the acts of manufacture and sale which are ultimately held by a Court to constitute infringement are the general business activity of a corporation which its directors and officers may be presumed to have authorized or directed, at least in a general way. Questions of validity and infringement are often fraught with considerable uncertainty requiring long and expensive trials to resolve. It would render the offices of director or principal officer unduly hazardous if the degree of direction normally required in the management of a corporation's manufacturing and selling activity could by itself make the director or officer personally liable for infringement by his company.
+"This is a principle that should apply, I think, not only to the large corporation but also to the small, closely held corporation as well. There is no reason why the small, one-man or two-man corporation should not have the benefit of the same approach to personal liability merely because there is generally and necessarily a greater degree of direct and personal involvement in management on the part of its shareholders and directors. This view finds support, I believe, in the cases. It has been held that the mere fact that individual defendants were the two sole shareholders and directors of a company was not by itself enough to support an inference that the company was their agent or instrument in the commission of the acts which constituted infringement or that they so authorized such acts as to make themselves personally liable: see
+ <FRAGMENT_SUPPRESSED> . It is the necessary implication of this approach,
+I think, that not only will the particular direction or authorization required for personal liability not be inferred merely from the fact of close control of a corporation but it will not be inferred from the general direction which those in such control must necessarily impart to its affairs
+. I, therefore, have no difficulty in concluding, with respect, that the learned trial Judge was correct in holding that the fact 'Goldenberg and Berkowitz imparted the practical, business, financial and administrative policies and directives which ultimately resulted in the assembling and selling of some goods (in National's overall stock of goods) which I have found infringed the plaintiffs' rights' was not by itself sufficient to give rise to personal liability.
+"What, however, is the kind of participation in the acts of the company that should give rise to personal liability? It is an elusive question.
+It would appear to be that degree and kind of personal involvement by which the director or officer makes the tortious act his own
+. It is obviously a question of fact to be decided on the circumstances of each case." (Underlining added)
+[24]
+This principle is reflected Article 1457 of the
+Code
+which provides:
+"1457. Every person has a duty to abide by the rules of conduct which lie upon him, according to the circumstances, usage or law, so as not to cause injury to another.
+"Where he is endowed with reason and fails in this duty, he is responsible for any injury he causes to another person by such fault and is liable to reparation for the injury, whether it be bodily, moral or material in nature.
+"He is also liable, in certain cases, to reparation for injury caused to another by the act or fault of another person or by the act of things in his custody."
+"1457. Toute personne a le devoir de respecter les règles de conduite qui, suivant les circonstances, les usages ou la loi, s'imposent à elle, de manière à ne pas causer de préjudice à autrui.
+"Elle est, lorsqu'elle est douée de raison et qu'elle manque à ce devoir, responsable du préjudice qu'elle cause par cette faute à autrui et tenue de réparer ce préjudice, qu'il soit corporel, moral ou matériel.
+"Elle est aussi tenue, en certains cas, de réparer le préjudice causé à autrui par le fait ou la faute d'une autre personne ou par le fait des biens qu'elle a sous sa garde."
+[25]
+How this article operates is well explained in Maurice Martel & Paul Martel,
+La compagnie au Québec Vol 1, Les aspects juridiques
+(Montreal: Martel Ltée, 2002), at page 24-84:
+"3 - Faute extracontractuelle de la compagnie. Troisièmement, la responsabilité personnelle des administrateurs peut par ailleurs, dans certaines circonstances, être engagée en cas de faute extracontractuelle de la compagnie ...
+"En droit québécois, la responsabilité de l'administrateur en cas de faute extracontractuelle de la compagnie peut se fonder sur la solidarité en matière extracontractuelle, et aussi sur le fait que son immunité à titre de mandataire ne peut jouer à l'égard de tiers, en dehors de relations contractuelles entre ceux-ci et la compagnie. Encore faut-il prouver la faute extracontractuelle de l'administrateur lui-même. Toutefois, dans le cas d'un administrateur unique, sa participation à la faute sera présumée."
+[26]
+It should be noted that both
+Mentmore
+, above and
+Martel
+, above speak about a tort or "faut". In this case there is no such thing. There is no tort, no abuse, no personal enrichment, no misrepresentation, and no dissipation of assets or the like action by the directors. We are speaking merely of a debt that is due and unpaid, and reports that were not rendered. In the case of
+Corp. d'hebergement du  <FRAGMENT_SUPPRESSED>  Courville, J.C.S., described the extra-contractual liability as follows:
+"42 Dans l'arrêt Lanoue, la Cour d'appel conclut que les défenderesses, à titre d'administrateurs, n'ont pas commis de faute entraînant leur responsabilité extracontractuelle:
+. . . . .
+'Le premier juge semble conclure que Citi Club a tenté d'éviter le paiement de ses dettes à ses fournisseurs et ce, à l'instigation, cela va de soi, de ses administrateurs, les frères Lanoue. Même si on accepte cette conclusion de fait et si l'on retient ce reproche è l'endroit des frères Lanoue, cela ma paraît insuffisant pour engager leur responsabilité extracontractuelle. Raisonner autrement aurait pour effet d'entraîner la responsabilité de tous les administrateurs d'une société qui tente d'éviter le paiement de ses dettes
+par des gestes peut-être discutables, mais qui n'équivaillent (sic) ni à la fraude ni à l'abus de droit
+.' ... (Soulignement ajouté)
+"43 La Cour semble avoir établi un seuil au-delà duquel la responsabilité des administrateurs de compagnie peut être engagée sous l'article 1457. Même si la limite de ce seuil n'est pas précise, l'on pourrait soutenir qu'elle se trouve à mi-chemin entre un comportement 'discutable' et un comportement 'frauduleux ou abusif'."
+While this case was overturned on appeal, the finding in respect of the lack of responsibility by the individual directors was upheld (see
+Corp. d'hebergement du  <FRAGMENT_SUPPRESSED> ).
+[27]
+Payment of debts is a most normal corporate activity. One of the main reasons why entrepreneurs incorporate is to shield themselves personally from the debt of their corporation. I fail to see how the mere non-payment of a debt (albeit imposed by statute) falls mid-point in the continuum between "questionable conduct" and "abuse". CPCC argues that the Numbered Company should have set up a reserve for the levy that was potentially payable. By failing to do so, according to the CPCC, Ahdoot and Baazov's conduct falls mid-point in the continuum discussed in
+Hebergement Québec
+, above. I disagree. It may not be good corporate practise to fail to set up a reserve, and it can certainly result in negative consequences for the directors (in this case, the company may well go bankrupt), but it does not amount to a "faut" or tort in the sense of
+Mentmore
+, above or Article 1457 of the
+Code
+. To hold otherwise would mean directors are always responsible for debts of corporations and would render nugatory the whole concept of limited liability for corporations.
+Issue 2: Is the Numbered Company subject to penalty under s. 88(2) of the Act, and if so to what extent?
+[28]
+The Numbered Company has admitted its liability for the levy. The levy has not been paid. Any excuse for non-payment evaporated when the Supreme Court of Canada denied leave to appeal from the Federal Court of Appeal's decision regarding the constitutionality of the levy regime in
+ <FRAGMENT_SUPPRESSED>  tendered. There is absolutely no excuse for the failure to pay the fine after July 28, 2005 (when the Supreme Court of Canada refused to grant leave). While I am not prepared to find that the Numbered Company acted in bad faith, its conduct was certainly inexcusable. It took nine months and three interlocutory motions to prod the Numbered Company into providing the necessary data as to its sales of audio recording media. As a result of these motions, costs in the collective amount of $4,500 was awarded against the Numbered Company for two of these motions. The final data on the financials of the Numbered Company and its importation of audio recording media was only delivered on the second day of trial. There is certainly the need to send a clear signal that will deter such future conduct by others. CPCC is asking for a penalty in the amount of $900,123.77 representing the amount that should have been remitted between January 16, 2004 (the date of the first demand letter from CPCC) and November 24, 2004 (the last date for which sales data was furnished prior to the commencement of the trial). This amounts to less than one times the total amount of $1,651,739.70 outstanding and far from the maximum of five times the amount outstanding that CPCC could request per s. 88(2) of the
+Act
+. Consequently, I have no hesitation in awarding a penalty amount of $900,123.77 as requested by CPCC.
+Issue 3: Should costs be awarded against either (a) the Numbered Company, or (b) Ahdoot and Baazov, or (c) both the Numbered Company, Baazov, and Ahdoot?
+[29]
+Given that CPCC has abandoned its claim against the Partnership and given that I have found that Ahdoot and Baazov are not liable as directors for the amount owed, costs would normally be awarded in their favour against CPCC. However, in my view Ahdoot and Baazov and the Partnership have forfeited any entitlement to costs given the conduct of Ahdoot and Baazov in dragging these proceedings out for as long as possible, in not furnishing the subpoenaed documents until the second day of trial, and in failing to have the Numbered Company pay the required amounts even after the constitutionality of Part VIII of the
+Act
+was finally decided.
+[30]
+As far as the Numbered Company is concerned, its conduct is also quite inexcusable. It did not pay the levies for which it was liable, did not file the requisite reports with CPCC, and did not set up a reserve account for the liability after the constitutionality of the
+Act
+was determined. Furthermore, it did not provide the documents regarding the importation blank audio recording media and its financial statements until the second day of trial. Therefore, the Plaintiff is entitled to solicitor and client costs (see
+ <FRAGMENT_SUPPRESSED>  (T.D.)).
+[31]
+As a result, the action against Ahdoot, Baazov and the Partnership is dismissed without costs. The action against the Numbered Company is allowed with the Plaintiff being awarded solicitor and client costs against the Numbered Company.
+ORDER
+[32]
+THE TRIAL
+of this action having been heard by this Court at Montreal, Quebec on February 21 and 22, 2006;
+[33]
+UPON
+hearing the witnesses for the Plaintiff, and the Defendants, and having reviewed the documentary evidence submitted herein;
+[34]
+AND UPON
+hearing argument by Counsel for the Plaintiff and Counsel for the Defendant;
+[35]
+AND UPON
+finding 9087-0718 Québec Inc. has failed to report and pay to the Plaintiff the private copying levies certified by the Copyright Board of Canada in accordance with the provisions of Part VIII of the
+Copyright Act
+, on account of the manufacture or importation into Canada, and the sale or other disposition in Canada by 9087-0718 Québec Inc., of blank audio recording;
+[36]
+AND FOR
+the Reasons delivered herewith;
+[37]
+THIS COURT ORDERS
+that
+1. The action against Vortek Systèmes s.e.n.c., David Baazov, and Benjamin Ahdoot be dismissed;
+2. 9087-0718 Québec Inc. pay to the plaintiff the private copying levies owed pursuant to the private copying tariffs certified by the Copyright Board ("private copying tariffs") since December 18, 1999 up to the date of trial in the sum of $1,651,739.70;
+3. 9087-0718 Québec Inc. pay to the plaintiff an amount equal to $900, 123.77 as a penalty pursuant to section 88(2) of the
+Copyright Act
+;
+4. 9087-0718 Québec Inc. provide to the plaintiff, within thirty days of judgement herein, detailed statements of account prepared in accordance with subsection 82(1)(b) of the
+Copyright Act
+and the private copying tariffs;
+5. the plaintiff shall have pre-judgment and post-judgment interest on all monetary relief pursuant to sections 36 and 37 of the
+Federal Courts Act
+;
+6. 9087-0718 Québec Inc. grants the plaintiff the right to audit the books and records of 9087-0718 Québec Inc. and nothing in this order shall be interpreted to restrict the plaintiff from claiming payment from 9087-0718 Québec Inc. of any additional amounts, including audit fees, which might be shown to be owing as a result of such audits; and
+7. the plaintiff shall have its costs relating to its action against 9087-0718 Québec Inc., calculated on a solicitor and client basis.
+Order accordingly.
+Editor: Anick Ouellette-Levesque/klf
+[End of document]

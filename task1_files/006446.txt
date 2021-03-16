@@ -1,0 +1,152 @@
+ <FRAGMENT_SUPPRESSED> )
+Indexed As: Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> 
+Federal Court
+Mactavish, J.
+April 23, 2008.
+Counsel:
+Rick Garvin, for the applicant;
+None Received, for the respondent.
+Solicitors of Record:
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the applicant;
+Mir Huculak Law Office, Vancouver, British Columbia, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Mactavish, J.
+: The Minister of Citizenship and Immigration seeks summary judgment declaring that Kamal Laroche (formerly known as Kamaljit Singh Gill and Kamal Jit Singh Gill) obtained his Canadian citizenship through false representations or fraud, or by knowingly concealing material circumstances.
+[2]
+Specifically, the Minister asserts that Mr. Laroche was married to a wife in India, and had a family with her at the time that he was sponsored for landing by his putative Canadian wife. Having failed to disclose this to the Canadian immigration authorities, Mr. Laroche misrepresented his status and his eligibility for permanent residency.
+[3]
+Mr. Laroche has not filed any materials in response to the Minister's motion, which was brought in accordance with the provisions of Rule 369 of the
+Federal Courts Rules
+.
+[4]
+For the reasons that follow, I am satisfied that summary judgment should issue.
+[5]
+Before turning to consider the merits of the motion, however, it is helpful to first address the general principles governing motions for summary judgment.
+General Principles Governing Summary Judgment
+[6]
+As the Supreme Court of Canada recently observed in
+ <FRAGMENT_SUPPRESSED> the summary judgment process serves an important purpose in the civil litigation system, as it prevents claims or defences that have no chance of success from proceeding to trial. That said, while being able to weed out such cases at an early stage can save scarce judicial resources, justice requires that claims involving real issues be allowed to proceed to trial.
+[7]
+Summary judgment in the Federal Court is governed, in part, by Rule 216 of the
+Federal Courts Rules
+, the operative portions of which provide:
+216. (1) Where on a motion for summary judgment the Court is satisfied that there is no genuine issue for trial with respect to a claim or defence, the Court shall grant summary judgment accordingly.
+...
+(3) Where on a motion for summary judgment the Court decides that there is a genuine issue with respect to a claim or defence, the Court may nevertheless grant summary judgment in favour of any party, either on an issue or generally, if the Court is able on the whole of the evidence to find the facts necessary to decide the questions of fact and law.
+216. (1) Lorsque, par suite d'une requête en jugement sommaire, la Cour est convaincue qu'il n'existe pas de véritable question litigieuse quant à une déclaration ou à une défense, elle rend un jugement sommaire en conséquence.
+...
+(3) Lorsque, par suite d'une requête en jugement sommaire, la Cour conclut qu'il existe une véritable question litigieuse à l'égard d'une déclaration ou d'une défense, elle peut néanmoins rendre un jugement sommaire en faveur d'une partie, soit sur une question particulière, soit de façon générale, si elle parvient à partir de l'ensemble de la preuve à dégager les faits nécessaires pour trancher les questions de fait et de droit.
+[8]
+It has been suggested that there is some ambiguity between Rule 216(1), which states that matters should proceed to trial where there is a genuine issue to be decided, and Rule 216(3), which entitles a motions judge to decide that issue, if the necessary facts can be found.
+[9]
+According to the Federal Court of Appeal, this apparent ambiguity should not result in motions for summary judgment becoming summary trials on the basis of affidavit evidence: see
+ <FRAGMENT_SUPPRESSED>  2004 FCA 140, at ¶19.
+[10]
+A number of other principles can be gleaned from the jurisprudence. One such principle is that where there is an issue of credibility involved, the case should not be decided on summary judgment under Rule 216(3) but rather should go to trial because the parties should be cross-examined before the trial judge:
+ <FRAGMENT_SUPPRESSED>  2004 FCA 50, at ¶ 32.
+[11]
+Judges hearing motions for summary judgment can only make findings of fact or law where the relevant evidence is available on the record, and does not involve a serious question of fact or law which turns on the drawing of inferences: see
+ <FRAGMENT_SUPPRESSED>  2002 FCA 210.
+[12]
+Also relevant to this matter is Rule 215, which provides that:
+215.
+A response to a motion for summary judgment shall not rest merely on allegations or denials of the pleadings of the moving party, but must set out specific facts showing that there is a genuine issue for trial.
+215.
+La réponse à une requête en jugement sommaire ne peut être fondée uniquement sur les allégations ou les dénégations contenues dans les actes de procédure déposés par le requérant. Elle doit plutôt énoncer les faits précis démontrant l'existence d'une véritable question litigieuse.
+[13]
+That is, a party responding to a motion for summary judgment cannot simply rely on allegations or denials in its pleadings. Instead, the responding party must provide evidence, through affidavits or by other means, of specific facts demonstrating that there is a genuine issue for trial: see
+ <FRAGMENT_SUPPRESSED>  at ¶18.
+[14]
+According to the Federal Court of Appeal in the
+MacNeil Estate
+case previously cited, parties responding to a motion for summary judgment do not have the burden of proving
+all
+of the facts in their case; rather, they have only an evidentiary burden to put forward evidence showing that there is a genuine issue for trial: at ¶25.
+[15]
+Although the burden lies with the moving party to establish that there is no genuine issue to be tried, Rule 215 does, however, require that the party responding to the motion for summary judgment "put his best foot forward". To do this, a responding party must set out facts that show that there is a genuine issue for trial: see
+MacNeil Estate
+, at ¶37.
+[16]
+This requirement has also been described as necessitating that a responding party "lead trump or risk losing": see
+Kirkbi AG
+, above, at ¶18, quoting
+ <FRAGMENT_SUPPRESSED>  at 463 (Ont. Ct. (Gen.Div.)), aff'd (1997), 75 C.P.R. (3d) 467 (Ont. C.A.).
+[17]
+Ultimately, the test is not whether a plaintiff cannot succeed at trial, but whether the case is so doubtful that it does not deserve consideration by the trier of fact at a future trial: see
+ <FRAGMENT_SUPPRESSED>  2004 FC 590.
+[18]
+In making this determination, a motions judge must proceed with care, as the effect of the granting of summary judgment will be to preclude a party from presenting any evidence at trial with respect to the issue in dispute. In other words, the unsuccessful responding party will lose its "day in court": see
+ <FRAGMENT_SUPPRESSED> .
+[19]
+With this understanding of the relevant principles governing motions for summary judgment, I turn now to consider the merits of the motion.
+Analysis
+[20]
+In order to be entitled to the relief sought, the Minister must establish, on a balance of probabilities, that Mr. Laroche obtained his Canadian citizenship through false representations or fraud, or by knowingly concealing material circumstances: see
+Citizenship Act
+, section 10.
+[21]
+A review of the record clearly demonstrates that Mr. Laroche has repeatedly attempted to deceive the immigration authorities in this country. Indeed, he has conceded as much in a number of instances.
+[22]
+Insofar as the issues relevant to this motion are concerned, Mr. Laroche has previously conceded that he did not disclose the existence of his biological daughter in India when he was landed in Canada. He says that he was never asked whether he had a child in India. However, the Record of Landing signed by Mr. Laroche clearly states that he has no dependant relatives, when that was admittedly not the case.
+[23]
+The failure to disclose dependants when applying for permanent residence status is a material misrepresentation:
+ <FRAGMENT_SUPPRESSED>  at paras. 23-26. In this case, the disclosure of the fact that Mr. Laroche had a daughter in India would have led to further statutorily-related inquiries, which could have revealed the existence of his wife and family in India. By foreclosing these inquiries, Mr. Laroche circumvented the proper functioning of the immigration system.
+[24]
+This finding, by itself, is sufficient to justify the granting of the Minister's motion for summary judgment.
+[25]
+However, I am also satisfied that Mr. Laroche obtained his permanent residency in Canada, and subsequently his Canadian citizenship, through false representations, and by knowingly concealing material circumstances insofar as his marital status and the validity of his Canadian marriage were concerned.
+[26]
+Mr. Laroche was married in India in 1991. He came to Canada in 1994. In 1995, he purportedly married a Canadian citizen, who subsequently sponsored him for landing in Canada. Mr. Laroche has asserted in his Statement of Defence and at his examination for discovery that at the time of his Canadian marriage, he was divorced from his Indian wife.
+[27]
+When his Canadian marriage later ended in divorce, Mr. Laroche says that he then remarried his Indian wife, and then attempted to sponsor her and his children to come to join him in Canada. He acknowledges that he initially advised the Canadian immigration authorities that his Indian wife was a widow and was his fiancée, and that the two children were the children of her deceased husband.
+[28]
+Mr. Laroche has also admitted that he provided Canadian immigration authorities with fraudulent documents in support of his sponsorship application, including a fake death certificate for his Indian wife's purported deceased husband, as well as a false marriage certificate, and fraudulent birth certificates for the two children which indicated that the deceased spouse was the children's father.
+[29]
+In a hearing before the Immigration Appeal Division of the Refugee Protection Division with respect to Mr. Laroche's appeal of the refusal of his application to sponsor his Indian family, Mr. Laroche testified that he had not previously been married to his Indian wife, and was not the children's father. However, after an investigation determined that this documentation was fraudulent, and that Mr. Laroche had been married to his Indian wife in 1991, Mr. Laroche acknowledged his 1991 marriage, and further admitted that the documents that he had provided in support of his application were false.
+[30]
+Mr. Laroche has also admitted that he maintained a relationship with his Indian wife throughout the entirety of his 'marriage' to his Canadian wife. He spoke to his Indian wife by telephone every other day, and sent her money to support the family on a regular basis. He visited her regularly in India, and engaged in sexual relations with her during the course of these visits. One such visit resulted in the birth of his son in 1997.
+[31]
+It is noteworthy that Mr. Laroche never claimed before the IAD that he had ever been divorced from his Indian wife.
+[32]
+In a 2003 decision, the IAD dismissed Mr. Laroche's sponsorship appeal, finding him to be totally lacking in credibility. The IAD found as a fact that Mr. Laroche and his Indian wife had been married since 1991, and had gone to extraordinary lengths to mislead the immigration authorities.
+[33]
+After the Minister began this proceeding to revoke Mr. Laroche's citizenship, Mr. Laroche claimed for the first time in his Statement of Defence that he had been divorced from his Indian wife at the time of his marriage to his Canadian sponsor. As is explained below, this does not raise a genuine issue for trial.
+[34]
+If Mr. Laroche's claim that he was divorced at the time of his marriage to his Canadian sponsor was true, it would then follow that he misrepresented his status in applying for permanent residency, as he did not disclose either his Indian marriage or his purported Indian divorce on his application for landing. This would have been a further material misrepresentation, which once again would have precluded further statutorily-related inquiries, which in turn could have raised issues as to both the
+bona fides
+and the legality of his marriage to his Canadian sponsor.
+[35]
+That said, for the reasons that follow, the Court is satisfied that Mr. Laroche was not legally divorced from his Indian wife at the time of his purported marriage to his Canadian sponsor.
+[36]
+In support of his claim that he had been divorced from his Indian wife at the time of his marriage to his Canadian sponsor, Mr. Laroche initially produced what he claimed was a divorce decree from an Indian Court. He also claimed to have personally attended before the Court in India for various divorce-related matters.
+[37]
+Ministerial inquiries subsequently revealed that the divorce documents were fraudulent, and this was subsequently conceded by Mr. Laroche at his examination for discovery.
+[38]
+Mr. Laroche then produced documents purporting to be a "divorce deed" and a "Panchayat Nama", promulgated by a village council, allegedly in accordance with Hindu custom.
+[39]
+In support of the motion for summary judgment, the Minister has provided affidavit evidence from Krishnan Jarth, an employee of Citizenship and Immigration Canada in New Delhi, with expertise in Indian matrimonial law. According to Mr. Jarth, customary Hindu marriages are recognized in Indian law, provided that certain formalities are complied with. These formalities have not, however, been complied with in this case, with the result that the divorce is not valid.
+[40]
+Moreover, according to Mr. Jarth, the village council in question did not have the authority to dissolve marriages on the basis of mutual consent. Mr. Jarth is further of the opinion that the divorce documents in question are fraudulent.
+[41]
+As was noted at the outset, Mr. Laroche has chosen not to file any material in response to this motion. Not only has he not "put his best foot forward" in this case - he has put no foot forward at all on this motion to counter Mr. Jarth's evidence.
+[42]
+That said, I do note that the Minister's motion record contains an affidavit sworn by Mr. Laroche, which attaches two letters purportedly from Indian lawyers, discussing the validity of the purported customary Indian divorce. However, these letters have not been supported by affidavits from their authors, and Mr. Laroche was not in a position to swear to the truth of their contents.
+[43]
+As a consequence, there is no evidence properly before the Court to counter Mr. Jarth's opinion regarding the invalidity of the purported customary Indian divorce. Moreover, as was noted earlier, even if it could have been shown that the divorce was legal, it would not have assisted Mr. Laroche, as he failed to disclose either his Indian marriage or his Indian divorce at the time that he applied for landing.
+[44]
+In light of the foregoing, the Minister has persuaded me that there is no genuine issue for trial in this matter. The evidence before the Court on this motion establishes clearly that Mr. Laroche was still legally married to his wife in India at the time that he purportedly married his Canadian wife, and that he failed to disclose this information on his application for landing.
+[45]
+Moreover, as they were not legally married, Mr. Laroche's Canadian 'wife' was not in a position to sponsor him for landing, nor was he subsequently entitled to obtain Canadian citizenship based upon his permanent residency in Canada.
+[46]
+Finally, as was previously noted, the Court is satisfied that Mr. Laroche also provided misleading information by failing to disclose the existence of his dependant daughter on his application for landing.
+JUDGMENT
+[47]
+THIS COURT THEREFORE ORDERS AND ADJUDGES THAT
+:
+1) The Minister's motion for summary judgment is granted, with costs in accordance with Column V of Tarriff B to the
+Federal Courts Rules
+.
+2) The Court declares that Kamal Laroche (formerly known as Kamaljit Singh Gill and Kamal Jit Singh Gill) obtained his Canadian citizenship through false representations, and by knowingly concealing material circumstances.
+[End of document]

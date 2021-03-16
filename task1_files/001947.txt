@@ -1,0 +1,1092 @@
+..................................................
+-
+Paragraph
+I. Introduction
+3
+II. The Parties
+13
+III. Witnesses
+17
+IV. The Notice of Allegation: What it says
+31
+V. Burden
+46
+VI. Person Skilled in the Art
+52
+VII. Construction of the Patent
+60
+--A. How the patent is presented
+60
+--B. Construction
+90
+VIII. Infringement
+123
+--A. Infringement: binder
+125
+--B. Infringement: dissolution profiles
+138
+IX. Invalidity
+148
+--A. Obviousness
+148
+---(1) (a)
+The Skilled Person
+152
+---(1) (b)
+The Common General Knowledge
+153
+----i. Gliclazide used in the treatment of diabetes
+153
+----ii. Modified release formulation and matrix alteration
+156
+----iii. Tablet Divisibility and Release Profiles
+163
+---(2) The Inventive Concept
+171
+---(3) Differences between the Prior Art and the Inventive Concept
+176
+---(4) Were the Steps Obvious to Try?
+177
+----(a) The Actual Course of Conduct
+194
+--B. Utility
+204
+---(1) The Promise of the Patent
+207
+---(2) Demonstrated Utility
+211
+---(3) Sound Prediction
+219
+X. Conclusion
+228
+XI. Post-script
+232
+[1]
+Roy, J.
+: This is an application for judicial review, in the nature of a prohibition order, brought by Les Laboratoires Servier and Servier Canada Inc. [Servier] pursuant to the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133, as amended [
+NOC Regulations
+]. Servier Canada sells a 60 mg modified release [MR] gliclazide tablet in Canada under the name DIAMICRON MR, which is used in the treatment of diabetes. The respondent Apotex Inc. [Apotex] wishes to sell a generic version of a 60 mg MR gliclazide tablet. The applicants seek to restrain the Minister of Health from issuing a Notice of Compliance [NOC] to Apotex until after Canadian Patent No. 2,629,670 [the '670 Patent] expires.
+[2]
+For the reasons that follow, the Court concludes that the application must be dismissed, with costs to Apotex.
+I.
+Introduction
+[3]
+Gliclazide, the active ingredient in the product under review, was discovered by Servier. It is not a new product. It is a hypoglycemic agent which helps maintain sugar levels in the blood of diabetic patients by releasing insulin.
+[4]
+Originally, Servier produced an 80 mg tablet with immediate release [IR], which produced a high concentration of gliclazide in the plasma in a short-term fashion. That tablet was breakable.
+[5]
+A second formulation was developed. It ended up being non-breakable, contrary to the 80 mg tablet, but it had a modified release. It is available in a 30 mg dosage.
+[6]
+The advantage of MR is that it is meant to avoid the high and short-lived concentration of an active ingredient in the blood. Compared to IR, it reduces "peak effects". The '670 Patent uses the terms "modified release" and "prolonged release". (The '670 Patent under review was written in French. The parties referred to an English version produced on behalf of Apotex and used it throughout the proceedings. It has not been challenged. The original French version of the '670 Patent speaks of "libération modifiée du principe actif" and "libération prolongée".)
+[7]
+The '670 Patent seeks to claim a new formulation that covers the 60 mg gliclazide MR divisible tablet. Servier argues that its patent is limited to the 60 mg dosage, while Apotex counters that there is no such limitation. The tablet is breakable.
+[8]
+According to the patent, there are three components to the tablet: the active pharmaceutical ingredient (gliclazide), a cellulose derivative and a binder, which are all physical characteristics of the tablets. The patent claims that the whole tablet as well as a fraction of a whole tablet will have an "identical dissolution profile". Claim 1 speaks of an "identical dissolution profile" ("profil de dissolution identique") while claim 15 speaks in terms of "similar dissolution profile" ("profil de dissolution similaire").
+[9]
+Apotex argues that its tablets do not contain a binder. Furthermore, its tablets would not show an identical dissolution profile as defined by the patent where one compares the whole tablet to the fraction obtained once the tablet is broken. Thus, the '670 Patent is not infringed according to Apotex because two of the essential elements are different.
+[10]
+The prohibition order sought in these proceedings will not issue if Apotex is successful on any of its allegations that it does not infringe the monopoly granted through the patent. If Apotex's tablet and a fraction thereof do not have identical dissolution profiles, its product is not covered by the patent and, therefore, it does not infringe the '670 Patent. Similarly, if the Apotex product does not have a binder, as required by the patent, it could not be said that there is infringement. In those circumstances, it does not matter that the '670 Patent would be valid or not since there would not be any infringement.
+[11]
+However, Apotex argues also that the patent, as framed, is invalid. If that is the case, it would evidently be impossible to infringe on an invalid patent. Either way, Servier cannot be successful because there is no infringement or the patent is invalid.
+[12]
+Thus Apotex alleges that the '670 Patent is not valid because the subject matter defined by a claim is obvious to the skilled person. Similarly, the patent had to disclose an invention that is new and useful (definition of "invention", section 2 of the
+Patent Act
+, RSC, 1985, c P-4). It did not. For good measure, Apotex also argues that the patent is invalid because it lacks specificity (subsections 27(3) and (4) of the
+Patent Act
+) as well as being overbroad and ambiguous. These other arguments are largely presented in the alternative to arguing invalidity on the bases of obviousness and utility.
+II.
+The Parties
+[13]
+Servier is a "first person" as described in the
+NOC Regulations
+. It received a NOC from the Minister of Health on September 9, 2010 to sell its 60 mg MR gliclazide tablets in Canada under the registered trade-mark DIAMICRON MR. In the course of obtaining regulatory approval, Servier submitted the '670 Patent to the Minister of Health for inclusion in the Patent Register maintained by the Minister pursuant to subsection 3(2) of the
+NOC Regulations
+.
+[14]
+Servier Canada is the Canadian affiliate of Les Laboratoires Servier, which is the owner of the '670 Patent. Les Laboratoires Servier is a party to this application pursuant to subsection 6(4) of the
+NOC Regulations
+.
+[15]
+In these reasons, the applicants Servier Canada and Les Laboratoires Servier are collectively referred to as Servier. Servier filed its Notice of Application to launch these proceedings on January 31, 2013.
+[16]
+The respondent Apotex is a "second person" as referred to in the
+NOC Regulations
+. It manufactures and markets generic drugs and has filed an Abbreviated New Drug Submission [ANDS] with the Minister of Health to sell a 60 mg MR gliclazide tablet in Canada. The ANDS compares Apotex's product to Servier's DIAMICRON MR tablet. In accordance with the
+NOC Regulations
+, Apotex served Servier Canada with a Notice of Allegation [NOA] dated December 19, 2012 in which it stated that the Apotex product would not infringe the '670 Patent and that the '670 Patent was invalid.
+III.
+Witnesses
+[17]
+The parties submitted the evidence in this proceeding, through affidavits, of several witnesses.
+[18]
+Servier's history of how its invention came to be was presented by Dr. Patrick Wüthrich, a fact witness, its "directeur du centre de développement pharmaceutique". He is one of the named inventors and is located in Europe. Dounia Maizi is Servier's Chief of Regulatory Affairs in Canada. This witness was offered as an expert with regard to the regulatory process that Servier and Apotex had to follow in order to get approval from the regulator, Health Canada. She also testified as to her understanding of the construction of the patent. Because Apotex's product must be bioequivalent with that of Servier's in order to get regulatory approval, Ms. Maizi states that "ce qui veut nécessairement dire que le comprimé entier de 60 mg du produit d'Apotex est un comprimé sécable à libération prolongée qui dans sa forme non subdivisée, possède un profil de dissolution in vivo identique à chacun des demis-comprimés de 30 mg de sorte qu'il existe une forte similarité entre la biodisponibilité du produit d'Apotex avec le produit DIAMICRON® MR 60 mg de Servier" (para 71 of the affidavit of Dounia Maizi of September 13, 2013).
+[19]
+Apotex took issue with Ms. Maizi's testimony as she is an employee of the first person. Relying on the Code of Conduct for Expert Witnesses (SOR/2010-176, section 13 (Schedule)), Apotex argues that the expert must be independent and objective (section 2). Ms. Maizi is not and declares that she wishes her employer prevail in these proceedings: indeed she is an officer of Servier. Pursuant to Rule 52.2(2) of the
+Federal Courts Rules
+, SOR/98-106, the failure to comply with the Code of Conduct may be sanctioned by the exclusion of some or all of the expert's affidavit.
+[20]
+It seems to me that the Federal Court of Appeal's statement in
+REFERENCE_SUPPRESSED is apposite:
+[41] In fact, there is a further weakness in the evidence of the affiants: at the time of swearing her affidavit, Ms. Murphy was a senior officer of Astra Pharma Inc., one of the Appellants to this action and, as a result her "opinion" evidence could be viewed as biassed or self-serving statements of an interested party.
+[21]
+However, I would not reject the evidence of Ms. Maizi altogether. Her evidence, on the regulatory process at Health Canada, to the extent it is relevant in these proceedings, may not in fact require any expertise other than that of someone familiar with the applicable regulations. I observe that Apotex has offered the testimony of Duane Terrill, an employee, for a similar purpose. He did not testify as an expert. With respect to the evidence of Ms. Maizi concerning the construction that should be put on the '670 Patent, I would find her evidence much more suspicious. Although it is true that my colleague Tremblay-Lamer J. found in
+REFERENCE_SUPPRESSED, that, in the circumstances of that case, employees of the party could testify in an expert capacity, she was careful to note that they had "testified in a straightforward and competent manner, and I did not detect any bias in either experts' testimony." More caution is needed in our case, where the employee is in fact an officer at Servier and has readily conceded that she wishes to see Servier prevail in this proceeding (cross-examination of Ms. Maizi, question 38). It follows that her testimony on the patent construction carries little weight.
+[22]
+Servier presented two other witnesses, Dr. Bodmeier and Dr. Marroum, whose expertise and ability to testify as experts I would not question. One, Dr. Roland Bodmeier, is a professor in the Department of Pharmaceutical Technology at the Freie Universität Berlin, in Germany. He declares to have focused his research on innovative drug delivery systems with special emphasis on controlled drug release and holds a Ph.D. in pharmaceutics. The other, Dr. Patrick John Marroum, obtained his Ph.D. in pharmacy and spent a large portion of his career with the US Food and Drug Administration where he "worked to identify issues considered to be crucial to the determination of safety and efficacy of a drug product" (para 3, affidavit of Dr. Marroum). His studies were in the area of pharmaceutics (the science of preparing dosage forms) and pharmacokinetics which studies the absorption, distribution, metabolism and elimination of drugs.
+[23]
+The Court was invited to accept with caution the evidence of experts Marroum and Bodmeier. It was said that Dr. Bodmeier was not straightforward in cross-examination, perhaps to the point of truculence. As for Dr. Marroum, it was argued that his qualifications should not allow him to opine in matters of formulation design.
+[24]
+In my view, there is no reason to consider the opinions of these experts with caution on the basis of the arguments put forward by Apotex. I am satisfied that both are experts. These experts testified in cross-examination as is generally expected of experts: they do not change their view readily on cross-examination in spite of skilful attempts by adept counsel. As was put tactfully in
+Phipson on Evidence
+(JH Buzzard, R May& MN Howard, eds,
+Phipson on Evidence
+, 13th ed (London, UK: Sweet& Maxwell Ltd, 1982)):
+It is proverbial that they [experts] are, perhaps unwillingly, biased in favour of the side which calls them, as well as over-ready to regard neutral facts as confirmation of preconceived theories: moreover support or opposition to given hypotheses can generally be multiplied at will. (Para 27-35.)
+[25]
+Furthermore, both these witnesses have sterling academic credentials and significant experience in their field. If there is a distinction to be made between the experts presented by Apotex and those presented by Servier, it could be on the basis of the information provided to each set of experts, where the experts offered by Servier appear to have received more information about the issues in the proceedings than the experts offered by Apotex. More than 30 years ago, Lord Wilberforce observed in
+REFERENCE_SUPPRESSED):
+While some degree of consultation between experts and legal advisers is entirely proper, it is necessary that expert evidence presented to the court should be, and should be seen to be, the independent product of the expert, uninfluenced as to form or content by the exigencies of litigation. To the extent that it is not, the evidence is likely to be not only incorrect, but self-defeating.
+[26]
+Of course, experienced legal advisers will avoid that pitfall. Where the evidence in-chief of a witness presents elements of tailoring, consciously or not, coming from an honest witness, to support the side that has hired him, the weight to be given to that evidence will be negatively affected.
+[27]
+As I will explain further later, the evidence of Dr. Marroum, however, must be discounted in some areas because he would have crossed the line between what can be expected of experts and an advocate for a product. Portions of his affidavit were more argumentative than informative. In
+The Law of Evidence in Canada
+(Alan W Bryant, Sidney N Lederman & Michelle K Fuerst,
+Sopinka, Lederman & Bryant: The Law of Evidence in Canada
+, 3rd ed (Markham, ON: LexisNexis, 2009)), the authors remind us that experts are expected to provide independent assistance to the Court:
+§12.134 The expert witness should provide independent assistance to the court and should not assume the role of an advocate. An expert should state the facts or assumptions upon which his or her opinion is based and should not omit to consider material facts which weaken his or her opinion.
+[28]
+In fact, the experts offered by Apotex were not challenged by Servier in that fashion. Dr. Reza Fassihi, who holds a Ph.D. in pharmaceutics, is a professor in that area of expertise at Temple University, in Philadelphia. As for Dr. Ping Lee, the second expert offered by Apotex, he holds a Ph.D. in pharmaceutics and teaches at the Faculty of Pharmacy of the University of Toronto. While Dr. Bodmeier and Dr. Marroum were provided with the NOA, which would give them a good understanding of the issues that were to be litigated, Dr. Fassihi and Dr. Lee, according to their affidavits, were asked to consider the '670 Patent without the benefit of the NOA and the nature of the proceedings for which they were retained. A close examination of the affidavits of Dr. Lee and Dr. Fassihi confirms that they were not provided information concerning Apotex's product, its composition or dissolution characteristics. That gave rise to Apotex's argument that experts offered by Servier reached results-oriented constructions. To put it in the words of counsel for Apotex, if a question is given "blind" to an expert, the suggestion is that his or her credibility is enhanced.
+[29]
+The only other Apotex affiant who was challenged on cross-examination was Duane Terrill, the Associate Director for Regulatory Affairs at Apotex. He oversaw the preparation of the ANDS filed by Apotex in order to seek approval for its tablet. For the purposes of this litigation, three elements of Mr. Terrill's affidavit have some importance:
+1.
+[Redacted]
+2.
+[Redacted]
+3.
+[Redacted]
+[30]
+The respondent Minister of Health, responsible for approving drugs for sale in Canada and issuing NOCs, had notice of these proceedings, but took no active role.
+IV.
+The Notice of Allegation: What it says
+[31]
+The NOA is dated December 19, 2012. It constitutes the statement of allegations, both factual and legal, in accordance with subsections 5(1)(b)(iii) and (iv) of the
+NOC Regulations
+. The ANDS presented by Apotex to the Minister of Health for a NOC is with respect to a 60 mg strength gliclazide MR tablet marketed by Apotex. The Apotex product is compared to DIAMICRON 60 mg MR tablets marketed by Servier Canada.
+[32]
+Servier has not argued that the NOA, as framed, is in itself not adequate. It would appear that the parties agree that the NOA must be complete in the sense that the first person must be given the information that will allow a sufficient understanding of the case: what is the case to answer? It has not been alleged or argued that the NOA suffers from some infirmity.
+[33]
+Servier, on the other hand, suggests that Apotex raised for the first time late in the process, in its experts' affidavits, its so-called manufacturing theory according to which its tablet holds together through direct compression, thus avoiding the need for a binder. This Court, in
+REFERENCE_SUPPRESSED, noted again that the second person must raise the facts and legal arguments it wishes to raise in the NOA. New arguments, facts, allegations not set out in the NOA cannot be raised later. The goal posts cannot be moved. Hughes J. put it succinctly:
+[36] As matters stand now, the Court must reject arguments based on facts or documents not set out in the Notice of Allegation nor can the Court address new allegations.
+[34]
+The Court is invited to disregard that theory.
+[35]
+Apotex counters that once an issue has been put into play by the second person, it must be allowed to respond to the patentee's arguments, without having "to anticipate every theory of possible infringement, however speculative, in the detailed statement supporting its allegations" (
+REFERENCE_SUPPRESSED). In the case at hand, Apotex put in play the issue of the binder, which is one of the essential elements of the Servier invention claimed by Apotex to be absent in his product. As the Federal Court of Appeal put it in
+REFERENCE_SUPPRESSED:
+[16] The Applications Judge erred in his formulation of the legal test to determine whether Novopharm's NOA was deficient when he required Novopharm to 'put into play' all aspects of the non-infringement issue. Whether Novopharm's NOA was adequate depends on whether it provided Pfizer with a sufficient understanding of the case it had to meet (
+CITATION_SUPPRESSED). The legal test of adequacy does not require Novopharm to anticipate all possible grounds of infringement, including Pfizer's speculative theory that the dihydrate could be used in the process of manufacturing Novopharm's bulk monohydrate. As noted by Evans J.A. in
+REFERENCE_SUPPRESSED:
+A second person [the generic] should not be required to anticipate every theory of possible infringement, however speculative, in the detailed statement supporting its allegations.
+[36]
+Accordingly, Apotex argues that it must be allowed to explain how its tablet holds together, its so-called manufacturing theory.
+[37]
+Whether or not Apotex can rely on its evidence with respect to how its tablet is manufactured appears to be the only significant difference between the parties about the NOA. The parties appear to agree that claim 14, concerned with a method for producing the tablet of any of claims 1 to 13, is not relevant in these proceedings and need not be considered any further.
+[38]
+The parties have otherwise argued their case on the basis that the NOA puts the issues in play. Except for the issue of the existence of a binder, where Apotex has not indicated how its tablet holds together, there is no dispute that the NOA provided Servier with a sufficient understanding of the case it has to meet. Paraphrasing the Federal Court of Appeal in
+CITATION_SUPPRESSED, the statement in the NOA is sufficiently detailed to make Servier fully aware of the grounds put forward by Apotex that its patent is invalid or that it has not been infringed. In my view, the NOA raised allegations of invalidity supported by evidence capable of establishing the invalidity of the patent: similarly, the allegations made by Apotex that it does not infringe the '670 Patent are in play.
+[39]
+The NOA constructs the claims of the '670 Patent as requiring that there be a cellulose derivative that is different from the binder: these are two separate ingredients. One can read at page 8 of the NOA:
+The claimed tablet comprises gliclazide as the active ingredient, between 50% and 60% of the total weight of the tablet of a cellulose derivative, and a binder. The skilled person would understand what is meant by a cellulose derivative and a binder, and examples of these are provided in the 670 Patent. A skilled person would also understand from the context of the 670 Patent as a whole that the cellulose derivative is a separate and distinct component of the tablet from the binder so that two separate components of the tablet functions are the cellulose derivative and the binder. Given that claim 1 requires both a cellulose derivative and a binder, the skilled person would understand that the use of the terms independently and separately means that two distinct functional agents, a binder and a cellulose derivative, must be present in the tablet.
+[40]
+Claims 1 and 10 require an identical dissolution profile (profil de dissolution identique) for the whole tablet and a fraction of it. Apotex complains that the conditions to use to conduct the dissolution test are not provided; similarly, how to assess the results in order to determine if there is a statistical difference is lacking. The hardness, coating, size, shape of the tablet, as well as the score line (the tablet must be scored as the tablet is said to be "sécable") receive no teaching in the patent.
+[41]
+As to non-infringement of the patent, Apotex points that its product does not infringe the '670 Patent for two reasons. First, it argues that the evidence will show that the dissolution profile of its product is not identical, as the notion is defined in the disclosure, when comparing the whole tablet and fractions of it. Indeed, Apotex alleges that the dissolution profile is not similar (claim 15) either. Apotex goes on to state that if the method used to calculate the dissolution profiles of its product is challenged as inappropriate by Servier, it would allege that the patent is necessarily invalid because it would lack sufficiency, and thus would be in breach of subsection 27(3) of the
+Patent Act
+. "If a specific dissolution method and/or statistical test is required to be used in order to assess whether a given tablet is within or outside the scope of the claims of the 670 Patent, this essential information was required to be disclosed within the specification in order to provide a full and correct description of the invention" (pages 14-15 of the NOA). Indeed, the patent does not place any limitation on the methods of comparison or analysis.
+[42]
+Second, Apotex argues that its product does not use a binder, contrary to the requirements of the '670 Patent with respect to claims 1 to 13 and 15. With respect more especially to claim 10, which is very precise as to the composition of the invention, the second person asserts that its tablet does not include some of the ingredients, which establishes non-infringement of claim 10, together with dependent claims 11 to 13. Similarly, claim 4 cannot be infringed because the binder is said to be maltodextrin, polyvidone or a hydroxypropylmethylcellulose [HPMC] of very low viscosity. Apotex does not use any of these substances according to the NOA. The same is said of claim 9 which requires the binder to be between 2% and 15% of the total weight of the tablet. Apotex's tablets not having a binder according to Apotex, that particular claim cannot be infringed.
+[43]
+Apotex raises a number of issues leading to its contention that the '670 Patent is invalid. As already pointed out, it argued ambiguity if Servier were to counter that the method and analysis used by Apotex to establish that the dissolution profile of its product was not identical between their whole tablet and a fraction. Apotex also alleges obviousness. In essence, a person of skill in the art would have known that the purported invention is a scored, modified release tablet of gliclazide whose dissolution profile is identical to a subdivided fraction. Given the prior art, there was no inventiveness according to Apotex. Any difference between the state of the art, and the inventive concept would have been obvious.
+[44]
+Apotex further argues that the patent lacked a demonstrated utility and that the promised utility was not soundly predicted. As an alternative argument, Apotex alleges that the specification of the '670 Patent was insufficient in that it did not provide the teaching needed to allow the person skilled in the art to put the invention into practice. (It is of course counterintuitive to argue obviousness and insufficiency. If it was that obvious, how can the specification be also insufficient such that the person skilled in the art would be able, using only the disclosure, to produce the invention? However, I can think of no reason why such an argument could not be made. At any rate, Apotex made the argument solely in the alternative.)
+[45]
+Finally, Apotex asserts in its NOA that the '670 Patent is overbroad. It is said that the claims overreach if they are not already invalid due to lack of utility. An inventor cannot claim more than what is disclosed or invented. Apotex dedicated three paragraphs of its 44-page NOA to the argument. Its Memorandum of Fact and Law presented the issue in two paragraphs and counsel for Apotex did not press the issue at the hearing; indeed he did not argue the point. I do not intend to address the issue.
+V.
+Burden
+[46]
+The validity of a patent is presumed (section 43 of the
+Patent Act
+). However, that early presumption can be rebutted once Apotex has made allegations supported by evidence that is capable of establishing invalidity. The issue is put in play. These passages of
+REFERENCE_SUPPRESSED, present the state of the law and were specifically approved by Hughes J. in
+REFERENCE_SUPPRESSED:
+[9] In my view, the burden on a respondent under the Regulations is an "evidential burden" - a burden merely to adduce evidence of invalidity. Once it has discharged this burden, the presumption of validity dissolves and the Court must then determine whether the applicant has discharged its legal burden of proof. I believe this is what is meant in those cases where the Court has stated that the respondent must put its allegations "into play". It must present sufficient evidence to give its allegations of invalidity an air of reality.
+...
+[12] To summarize, Pfizer bears the legal burden of proving on a balance of probabilities that Apotex's allegations of invalidity are unjustified. Apotex merely has an evidentiary burden to put its case "into play" by presenting sufficient evidence to give its allegations of invalidity an air of reality. If it meets that burden, then it has rebutted the presumption of validity. I must then determine whether Pfizer has established that Apotex's allegations of invalidity are unjustified. If Apotex does not meet its evidential burden, then Pfizer can simply rely on the presumption of validity to obtain its prohibition order.
+[47]
+The burden then shifts onto the first person, Servier, that must establish that the allegations of invalidity are not justified. It is the civil burden of proof, the balance of probabilities, which must be met by the first person (see
+REFERENCE_SUPPRESSED).
+[48]
+Evidence evenly balanced between the parties will favour the second person: the prohibition order would not issue (see
+REFERENCE_SUPPRESSED
+,
+supra
+).
+[49]
+It follows that it is Servier's burden to satisfy the Court, on a balance of probabilities and not merely on a tied score, that none of the invalidity allegations are justified.
+[50]
+As for allegations of infringement of the patent, once again it is Servier that bears the burden of proof. As early as 1994, the Federal Court of Appeal made the point clearly in
+REFERENCE_SUPPRESSED. We can read at page 319:
+Furthermore, since the Regulations clearly allow the Minister, absent a timely application under section 6, to issue a notice of compliance on the basis of the allegations in the notice of allegation, it would seem that on the hearing of such an application, at least where the notice has alleged non-infringement, the Court should start from the proposition that the allegations of fact in the notice of allegation are true except to the extent that the contrary has been shown by the applicant. In determining whether or not the allegations are "justified" (subsection 6(2)) the Court must then decide whether, on the basis of such facts as have been assumed or proven, the allegations would give rise in law to the conclusion that the patent would not be infringed by the respondent.
+[51]
+More recently, the same point was made in
+CITATION_SUPPRESSED:
+[20] In my view, this statement remains good law. Where, as here, the NOA is found to be adequate, the legal burden remains squarely on Pfizer to prove, on a balance of probabilities, that the allegations in the NOA are unjustified. Novopharm has no evidential burden to support the allegations in its NOA and detailed statement (see
+CITATION_SUPPRESSED). Therefore, Novopharm need only file evidence supporting its detailed statement to counter evidence, if any, submitted by Pfizer in the course of the prohibition proceedings.
+VI.
+Person Skilled in the Art
+[52]
+Patent construction is undertaken through the lens of a notional person at whom the patent is said to be directed. This person is often referred to as the "person skilled in the art," the "person of ordinary skill in the art," the "skilled worker," and, in acronym form, as the POSITA or the POSA. The person is reasonably diligent in keeping up with advances and has an ordinary level of requisite competence and knowledge in the particular field. This person can be an individual or it can be a composite of multiple individuals working as a team, each bringing particular knowledge and skills to the reading of the patent as a whole. See
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED.
+[53]
+In
+CITATION_SUPPRESSED, Justice Hughes described this person's attributes and aptitudes:
+That person is to be unimaginative, but that does not mean that the person is slow-witted or graduated (if at all) at the bottom of the class. Nor is the person the gold medalist who graduated at the top of the class. That person is the average person in the group. Just as a "reasonable man" is expected to be reasonable, the POSITA is expected to possess the ordinary skill in the art.
+[54]
+Servier and Apotex are substantially in agreement about the person of skill in the art at whom the '670 Patent is addressed. Where they vary is largely, in my view, a distinction without a difference and does not affect the construction of the patent.
+[55]
+At the hearing, Servier contended that the POSITA can be made up of a number of people constituting a team. That team would be able to proceed to the evaluation of solid dosage forms. Indeed, individually experts would not have to be POSITAs and their evidence should not be rejected.
+[56]
+It would appear that Servier was concerned with an anticipated attack on the expertise of two of its witnesses, Ms. Maizi and Dr. Marroum.
+[57]
+There is caselaw confirming that the person of ordinary skill in the art may be a team of persons (
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED). It must be remembered that the POSITA is that notional person at whom the patent is directed and who, through their expertise, will understand that which may not be understood without those qualifications. In this case, nothing rides on whether the POSITA is only one person or a team of persons as the qualifications required are present.
+[58]
+In the end, as already discussed, Apotex invited the Court to assess the evidence of Servier's experts with caution, in particular Dr. Marroum because he is not an expert in formulation, and Ms. Maizi because she has a direct interest in the case and she would have limited expertise. These considerations go to the weight of the evidence, not whether it is receivable.
+[59]
+The skilled person of the '670 Patent has a graduate degree in pharmacy, biopharmaceutics, pharmaceutical sciences, chemistry or chemical engineering, pharmacology, formulation engineering, or a related field. The person also has industrial experience in the design, formulation, and evaluation of solid dosage forms. Apotex and Servier agree that at least some of the team members could also have lesser degrees if they have more years of relevant, practical experience in this field. The skilled person possesses the ability to formulate and then evaluate solid dosage forms to assess whether a particular form has the properties required of it by the claims of the '670 Patent.
+VII.
+Construction of the Patent
+A.
+How the patent is presented
+[60]
+The '670 Patent was filed with the Canadian Patent Office on April 24, 2008 and claims priority from an application filed in France on March 21, 2008 (FR08/01561). The patent application was published on October 1, 2008 and the patent is set to expire on April 24, 2028, subject to being invalidated earlier.
+[61]
+By virtue of the patent application being filed after October 1, 1989, the so-called "new"
+Patent Act
+, RSC 1985, c P-4 governs the '670 Patent.
+[62]
+The '670 Patent, written in French as already indicated, is entitled "Forme galénique sécable permettant une libération modifiée du principe actif." In its NOA, Apotex appended a document purporting to be a certified translation of the patent into English. For ease of reference, these reasons will provide the English translation of the '670 Patent, which has been used by the parties, alongside the text of the patent, where applicable.
+[63]
+The '670 Patent was issued to Les Laboratoires Servier, FR. The patent lists four inventors, all of whom are from France: Gilles Fonknechten, Patrick Genty, Jean-Manuel Pean, and Patrick Wüthrich. As indicated earlier, Dr. Wüthrich provided fact evidence in these proceedings and was cross-examined.
+[64]
+The specification of the '670 Patent, in its disclosure part, begins with a general description of the invention, at page 1:
+La présente invention s'inscrit dans le cadre de la recherche et de la mise au point de nouvelles formes galéniques de préparations pharmaceutiques. La présente invention concerne une forme galénique sécable permettant une libération modifiée du principe actif.
+The present invention falls within the context of the research and development of new dosage forms of pharmaceutical preparations. The present invention relates to a scored dosage form allowing modified release of the active ingredient.
+[65]
+In other words, the disclosure announces an invention of limited scope. It says that the "forme galénique", i.e. the form a medicine can take (syrup, capsule, suppository, etc.) is scored, thus allowing modified release of the active ingredient. We are not concerned with a new medicine, the active ingredient being gliclazide which has been known for some time, but rather with the form in which it will be administered to and taken by patients.
+[66]
+The '670 Patent then describes certain benefits associated with modified release drugs, particularly that undesirable and perhaps harmful elevated concentrations of the active ingredient are avoided in a patient's blood compared to immediate release. The specification also describes benefits associated with tablets that are, as written in the patent, "sécable". In the English translation of the patent provided by Apotex, the term "sécable" has been translated as "scored" although in the applicants' materials the term "divisible" is used instead. There does not appear to be any difference intended in the use of different words. The benefit of a scored or divisible tablet lies in permitting the manufacturing of a single tablet which can be later subdivided into different dosages. It is also said that there is a benefit for the patient by providing better treatment adherence as the 60 mg prolonged release scored tablet would limit the number of tablets a patient would have to take.
+[67]
+The '670 Patent disclosure describes the difficulty in combining modified release properties with a tablet shape that is scored or divisible. However, it only cites a warning, issued by the European Medicines Agency [EMA] in 1999, against this combination except in exceptional cases, at page 2:
+C'est une mauvaise pratique de subdiviser les formes à libération prolongée mais cela pourrait être justifié dans des cas exceptionnels.
+It is bad practice to subdivide prolonged-release dosage forms but this may be justified in exceptional cases.
+[68]
+Essentially, the difficulty described by the '670 Patent is that when a modified release tablet is divided, the surface area increases as the broken face is now exposed. This change in surface area alters the rate of dissolution of the active ingredient in the tablet. While tablets can be designed with deep scoring grooves to minimize the increase in surface area after division, the patent states that such tablets are prone to breaking too easily.
+[69]
+Accordingly, the '670 Patent presents the purported invention to overcome the alleged problems it identified with the subdivision of modified release tablets, at page 3:
+La présente invention a donc pour but de proposer une stratégie alternative permettant de contourner les problèmes inhérents au développement de comprimés sécables à libération modifiée déjà disponibles, en vue de remédier, au moins en partie aux inconvénients liés à la subdivision des comprimés en dose fractionnaire. Cette stratégie alternative est fondée sur l'originalité de la composition pharmaceutique de la forme galénique.
+La présente invention a pour objet une forme galénique sécable, par exemple un comprimé sécable, à libération modifiée comprenant un ou plusieurs principes actifs et les excipients suivants: un polymère dérivé de cellulose et un liant. Cette nouvelle forme galénique se caractérise par le fait qu'elle présente un profil de dissolution identique qu'elle ait été subdivisée ou non. Par exemple, le comprimé sécable à libération prolongée dans sa forme non subdivisée et une fraction de ladite forme obtenue par subdivision ont un profil de dissolution identique.
+The objective of the present invention is therefore to propose an alternative strategy for bypassing the problems inherent in the development of modified-release scored tablets that are already available, with a view to remedying, at least in part, the drawbacks related to the subdivision of tablets into a fractional dose. This alternative strategy is based on the originality of the pharmaceutical composition of the dosage form.
+The subject of the present invention is a modified-release scored dosage form, for example scored tablet, comprising one or more active ingredients and the following excipients: a cellulose-derived polymer and a binder. This novel dosage form is characterized in that it has an identical dissolution profile whether or not it has been subdivided. For example, the prolonged-released scored tablet in its non-subdivided form and a fraction of said form obtained by subdivision have an identical dissolution profile.
+[70]
+It is therefore announced that in order to bypass problems caused by the subdivision of tablets, it is the pharmaceutical composition of the dosage form that will address the issue.
+[71]
+The disclosure sets out what is meant by "profil de dissolution identique / identical dissolution profile" in the context of the claimed invention, at page 4:
+Dans le contexte de l'invention on entend par « profil de dissolution identique » des cinétiques de dissolution ayant des coefficients de variations sans différence statistiques entre eux. Les cinétiques de dissolution in vitro identiques selon l'invention donnent des cinétiques plasmatiques identiques.
+In the context of the invention, the expression "identical dissolution profile" is intended to mean dissolution kinetics having variation coefficients with no statistic difference between them. The identical in vitro dissolution kinetics according to the invention give identical plasma kinetics.
+[72]
+I note that the disclosure uses language that can hardly be more precise. In the French version, the patentee speaks forcefully of "on entend". There is no ambiguity: "profil de dissolution identique / identical dissolution profile" has one meaning in the specification and it is spelled out in the disclosure.
+[73]
+While the disclosure notes that the expression "principe actif", or "active ingredient", relates in the invention to a variety of types of medicines, it notes that the preferred active ingredient for the invention is gliclazide. As previously mentioned, gliclazide is used in the treatment of diabetes. Indeed, claim 1, which defines the monopoly sought, speaks of gliclazide as being the active ingredient. Claims 10 and 15 make the same limitation. The '670 Patent describes the two prior formulations of gliclazide: an 80 mg immediate-release tablet and a 30 mg prolonged- and controlled-release matrix tablet. The patent claims that the invention at issue compares advantageously with these prior formulations.
+[74]
+As noted, the claimed invention requires two excipients to be included in the formulation alongside gliclazide: a cellulose-derived polymer and a binder.
+[75]
+The patent describes the function of the cellulose-derived polymer, at pages 5 to 6:
+Dans la formule, le polymère dérivé de cellulose a pour fonction de former la matrice assurant, entre autre, la libération modifiée du principe actif. La libération du principe actif se fait à la fois par diffusion et par érosion de la matrice et permet en particulier une libération prolongée du principe actif.
+In the formula, the function of the cellulose-derived polymer is to form the matrix providing, inter alia, the modified release of the active ingredient. The release of the active ingredient is done both by diffusion and by erosion of the matrix and in particular allows prolonged release of the active ingredient.
+[76]
+The patent prefers the cellulose derivative to be a low-viscosity cellulose derivative and more preferably that the tablet comprise HPMC. The patent notes that HPMCs are sold under the brand names Methocel™ and Metolose™. The patent names certain high-viscosity, medium-viscosity, and low-viscosity HPMCs which can be selected in the formulation of tablets. One of the named low-viscosity HPMCs is Methocel K100 LV™, which has a viscosity of 100 cP.
+[77]
+Similarly, the disclosure sets out the role of the binder in the invention as the following, at page 7:
+Dans la composition pharmaceutique selon l'invention le liant sert à agglutiner entre elles les particules qui ne peuvent l'être sous la seule action de la pression
+In the pharmaceutical composition according to the invention, the binding serves to agglutinate together the particles which cannot be agglutinated under the action of pressure alone.
+[78]
+Like with the cellulose-derived polymer, the patent sets out preferred binders for the invention, one of which is an HPMC of a very low molecular weight.
+[79]
+Thus, a pattern can be discerned in the presentation of the disclosure. It advises that there are three essential elements, the active ingredient (gliclazide), a cellulose derivative and a binder. This novel dosage form ("nouvelle forme galénique") has the further characteristic of having an identical dissolution profile, whether it is subdivided or not. For each of those elements, the disclosure gives a definition: the patent defines its own terms when dealing with its essential elements.
+[80]
+There are 15 claims in the patent. Servier asserts infringement of claims 1 to 6, 8, and 11 to 13. Claim 7 is concerned with a particular binder, maltodextrin, which is not part of the composition of the Apotex tablet. Claim 9 requires a particular percentage of the weight of the tablet to consist of a binder. Claim 10 provides precise percentages of ingredients, including the essential ingredients including 6.9% of the total weight consisting of the binder maltodextrin. At the hearing, Servier announced that it was not asserting anymore infringement of claim 15 for a number of reasons that were not revealed.
+[81]
+That leaves us with the other claims being discussed in this case. Claim 1 deals with a prolonged release tablet which is scored. It is stated that it is comprised of gliclazide, a cellulose derivative that is 50% to 60% of the total weight and a binder. There is then the requirement that the tablet in its non-divided form have an identical dissolution profile ("profil de dissolution identique") as would have a fraction produced by subdivision. Claims 2 and 3 depend on claim 1. Claim 2 identifies cellulose derivatives, including HPMC which is identified specifically at claim 3 in its low viscosity variety. Such is the logic of the cascading claims: claim 1 identifies the four essential elements and claims 2 and 3 deal with one of these essential elements, the cellulose derivative. Having identified three cellulose derivatives in claim 2, the inventor identifies HPMC of low viscosity as the cellulose derivative in claim 3. The NOA notes that no definition of low viscosity is provided in the patent. However, I note that the disclosure identifies a number of HPMCs having high, medium and low viscosity.
+[82]
+The next cascading claim is claim 4 which addresses the binder needed in the patent. It identifies three binders, before selecting in particular one of the three binders as maltodextrin at cascading claim 7. However, claim 4 also identifies as a binder HPMC of very low viscosity as a possible binder. As with HPMC of low viscosity, the patent does not define "very low viscosity". While the disclosure identifies products of low viscosity, there is no such identification for what could be very low-viscosity HPMC. The reader is left in the dark.
+[83]
+Claims 5 and 6 state that the tablet comprises a hydrophylizing agent, which is spelled out as being colloidal silica.
+[84]
+Claim 8 states that gliclazide comprises 12% to 40% of the total weight of the tablet, while claim 9 states that the binder weighs between 2% and 15% of the total weight of the tablet.
+[85]
+Claim 10 is much more precise than the cascading claims examined previously. It states that the tablet is comprised of 18.7% of gliclazide, 22.3% of lactose monohydrate, 6.9% of maltodextrin, 0.5% of magnesium stearate, 1.6% of anhydrous colloidal silica and 50% of HPMC. The claim speaks of a scored tablet which produces a modified release with a dissolution profile said to be identical whether the tablet is subdivided or not. Obviously, as with other claims dealing with a binder, Apotex's product cannot infringe claim 10 because it does not contain 6.9% of its weight in maltodextrin.
+[86]
+Claim 11 simply requires that the tablet have one or more scores, or grooves, that will be perpendicular to its height and length. The grooves are said to be breakable ("rainures de ruptures").
+[87]
+Claim 12 addresses the dissolution profile of the tablet: within the first two hours, 13% to 27% of the active ingredient, gliclazide, will have been released; 32% to 52% of the total quantity of gliclazide will be released within four hours and 85% will have been released within 12 hours.
+[88]
+Claim 13 states that claims 1 to 12 are intended for a product that treats diabetes. Claim 14 speaks of methods for producing the tablet.
+[89]
+Finally, claim 15 speaks again of a modified release tablet of gliclazide, including a cellulose derivative comprising 50% to 60% of the tablet's total weight and a binder. However, while claims 1 and 10 speak of identical dissolution profiles whether one has the whole tablet or a fraction of it, claim 15 speaks in terms of a similar dissolution profile,
+in vitro
+, for a period of 12 hours following the start of dissolution. This is the only claim that posits a time period. The second person notes in its NOA that there is no explanation as to what is meant by "similar" ("similaire"). It would appear reasonable to think that something different was meant. Being obviously an independent claim, one is left with little or no information, on the size and shape, coating or not. As with claims 1 and 10, there is no indication concerning the conditions under which the dissolution tests are to be conducted.
+B.
+Construction
+[90]
+In this case, the construction of the patent will be important in that whether or not Apotex's product infringes on the '670 Patent will be largely a function of what the patent actually asserts. However, the construction of the patent must be made without any consideration of allegations of infringement or validity. In
+CITATION_SUPPRESSED
+, Binnie J. for a unanimous Court states:
+[43] The first step in a patent suit is therefore to construe the claims. Claims construction is antecedent to consideration of both validity and infringement issues. The appellants' argument is that these two inquiries - validity and infringement - are distinct, and that if the principles of "purposive construction" derived from
+CITATION_SUPPRESSED
+are to be adopted at all, they should properly be confined to infringement issues only. The principle of "purposive construction", they say, has no role to play in the determination of validity, and its misapplication is fatal to the judgment under appeal.
+[91]
+To be more specific, the Court goes on to say at paragraph 49 that "[a] patent must not of course be construed with an eye on the allegedly infringing device in respect of infringement or with an eye to the prior art in respect of validity to avoid its effect" (see also
+REFERENCE_SUPPRESSED).
+[92]
+Claims construction is a question of law. It is said that a purposive construction is to be performed, that is that the construction exercise seeks to elicit the inventor's purpose. In spite of being a question of law, POSITAs will be of assistance to a court. In
+REFERENCE_SUPPRESSED, the Court gives the following explanation of the task at hand, at page 563:
+While the construction of a patent is for the Court like that of any other legal document, it is however to be done on the basis that the addressee is a man skilled in the art and the knowledge such a man is expected to possess is to be taken into consideration.
+[93]
+Dickson J. referred with approval to this passage taken out of Fox,
+Canadian Patent Law and Practice
+(Harold G Fox,
+Canadian Patent Law and Practice
+, 4th ed (Toronto: Carswell, 1969)), at page 204, in
+REFERENCE_SUPPRESSED:
+The persons to whom the specification is addressed are "ordinary workmen", ordinarily skilled in the art to which the invention relates and possessing the ordinary amount of knowledge incidental to that particular trade. The true interpretation of the patent is to be arrived at by a consideration of what a competent workman reading the specification at its date would have understood it to have disclosed and claimed.
+[94]
+Lord Diplock put it this way in
+REFERENCE_SUPPRESSED:
+A patent specification should be given a purposive construction rather than a purely literal one derived from applying to it the kind of meticulous verbal analysis in which lawyers are too often tempted by their training to indulge. The question in each case is: whether persons with practical knowledge and experience of the kind of work in which the invention was intended to be used, would understand that strict compliance with a particular descriptive word or phrase appearing in a claim was intended by the patentee to be an essential requirement of the invention so that
+any
+variant would fall outside the monopoly claimed, even though it could have no material effect upon the way the invention worked. [Emphasis in original.]
+[95]
+However, purposive construction does not lead to a construction that would not be consistent with the language used by the inventor in the patent. While it has long been true that a patent "must be read by a mind willing to understand, not by a mind desirous of misunderstanding" (
+REFERENCE_SUPPRESSED, that does not imply that the words used can be ignored. In
+CITATION_SUPPRESSED,
+supra
+, the Supreme Court describes in the following fashion the basic tension between a literal application of the text of the patent and an interpretation that would be overly broad:
+[29] It is obviously an important public policy to control the scope of "substantive infringement". A purely literal application of the text of the claims would allow a person skilled in the art to make minor and inconsequential variations in the device and thereby to appropriate the substance of the invention with a copycat device while staying just outside the monopoly. A broader interpretation, on the other hand, risks conferring on the patentee the benefit of inventions that he had not in fact made but which could be deemed with hindsight to be "equivalent" to what in fact was invented. This would be unfair to the public and unfair to competitors. It is important that the patent system be fair as well as predictable in its operation.
+[96]
+That fundamental tension is resolved by the primacy of claims language which "was already rooted deeply in our jurisprudence and should, I think, be affirmed again on this appeal" (
+CITATION_SUPPRESSED
+,
+supra
+, CITATION_SUPPRESSED). Thus the Supreme Court stated at CITATION_SUPPRESSED of the same case:
+The involvement in claims construction of the skilled addressee holds out to the patentee the comfort that the claims will be read in light of the knowledge provided to the court by expert evidence on the technical meaning of the terms and concepts used in the claims. The words chosen by the inventor will be read in the sense the inventor is presumed to have intended, and in a way that is sympathetic to accomplishment of the inventor's purpose expressed or implicit in the text of the claims. However, if the inventor has misspoken or otherwise created an unnecessary or troublesome limitation in the claims, it is a self-inflicted wound. The public is entitled to rely on the words used
+provided
+the words used are interpreted fairly and knowledgeably. [Emphasis in original.]
+[97]
+Indeed, the Supreme Court cited with approval this passage written by Pratte J.A. in
+REFERENCE_SUPPRESSED:
+A court must interpret the claims; it cannot redraft them. When an inventor has clearly stated in the claims that he considered a requirement as essential to his invention, a court cannot decide otherwise for the sole reason that he was mistaken.
+[98]
+Accordingly, the dictionary approach to claims construction is rejected (
+CITATION_SUPPRESSED), but the purposive claims construction would take into account the primacy of the language used. It is also clear that the construction must consider the disclosure and the claim. In
+CITATION_SUPPRESSED
+,
+supra
+, Dickson J. writes at pages 520-521:
+We must look to the whole of the disclosure and the claims to ascertain the nature of the invention and methods of its performance, (
+REFERENCE_SUPPRESSED), being neither benevolent nor harsh, but rather seeking a construction which is reasonable and fair to both patentee and public. There is no occasion for being too astute or technical in the matter of objections to either title or specification for, as Duff C.J.C. said, giving the judgment of the Court in
+REFERENCE_SUPPRESSED, "where the language of the specification, upon a reasonable view of it, can be so read as to afford the inventor protection for that which he has actually in good faith invented, the court, as a rule, will endeavour to give effect to that construction". Sir George Jessel spoke to like effect at a much earlier date in
+REFERENCE_SUPPRESSED. He said the patent should be approached "with a judicial anxiety to support a really useful invention".
+[99]
+It follows that the task at hand is to conduct a purposive construction of the patent, relying on the particular words and phrases in the claims as defined or further described in the disclosure, with a view to ascertaining the essential elements of the invention. The Supreme Court reasserted in
+CITATION_SUPPRESSED
+,
+supra
+, its view expressed in
+REFERENCE_SUPPRESSED:
+The claims, of course, must be construed with reference to the entire specifications, and the latter may therefore be considered in order to assist in apprehending and construing a claim, but the patentee may not be allowed to expand his monopoly specifically expressed in the claims "by borrowing this or that gloss from other parts of the specifications".
+[100]
+However, there is a clear limitation to the use that can be appropriately made of the specification. In
+REFERENCE_SUPPRESSED, Rothstein J., for a unanimous Court offers this reminder:
+[77] The inventive concept of the claims is not readily discernable from the claims themselves. A bare chemical formula in a patent claim may not be sufficient to determine its inventiveness. In such cases, I think it must be acceptable to read the specification in the patent to determine the inventive concept of the claims. Of course, it is not permissible to read the specification in order to construe the claims more narrowly or widely than the text will allow.
+[101]
+In the case at bar, the parties do not disagree on what claim 1 identifies as the essential elements of the invention. They are the active ingredient, identified in claim 1 as gliclazide, a cellulose derivative which provides the modified release of the active ingredient, a binder and, once subdivided, that the gliclazide tablet has an identical dissolution profile to that of the whole tablet.
+[102]
+There is not any dispute in the construction of the asserted claims around the active ingredient and the cellulose derivative. On the other hand, there is much debate around the other two.
+[103]
+Servier contends that, with respect to the "profile de dissolution identique" (identical dissolution profile), the POSITA would understand that "[a] divided tablet exhibits similar
+in vivo
+plasma kinetics (bioequivalence) as a whole tablet, which may be predicted by
+in vitro
+dissolution" (Applicant's Memorandum of Fact and Law, para 30). The Memorandum of Fact and Law states that the identical dissolution profile "is defined to mean
+in vivo
+similarity or bioequivalence" (para 32).
+[104]
+In order to make that case, Servier relies on its expert Dr. Bodmeier who states that the POSITA would understand "identical dissolution profile" to mean statistically similar
+in vivo
+dissolution profile.
+[105]
+With respect, this is less than convincing. For starters, the words "
+in vivo
+" are nowhere to be found in the specification. Furthermore the expression "identical dissolution profile" is defined in the disclosure:
+Dans le contexte de l'invention on entend par « profile de dissolution identique » des cinétiques de dissolution ayant des coefficients de variations sans différence statistiques entre eux. Les cinétiques de dissolution in vitro identiques selon l'invention donnent des cinétiques plasmatiques identiques.
+In the context of the invention, the expression "identical dissolution profile" is intended to mean dissolution kinetics having variation coefficients with no statistical difference between them. The identical
+in vitro
+dissolution kinetics according to the invention give identical plasma kinetics.
+[106]
+The applicant would want to read in the words "
+in vivo
+" in the first sentence (which would then read "is intended to mean in vivo dissolution kinetics having variation coefficients with no statistical difference between them"). There was never a justification given by Servier for how there would be two types of dissolution kinetics in consecutive sentences, in the same definition. The second sentence carefully states that the "identical
+in vitro
+dissolution kinetics" are "
+according to the invention
+". The first sentence makes the same point: "In the context of the invention ..." A fair reading of the paragraph suggests that the "dissolutions kinetics" in the first sentence are the same dissolution kinetics in the second sentence, i.e.
+in vitro
+kinetics.
+[107]
+Servier has argued at the hearing that its interpretation is supported by paragraphs 2 and 3 of the disclosure. It is said that the reference to variations in plasma levels of the active ingredient signals that the reader would have to look for
+in vivo
+dissolution kinetics. There are many difficulties with this argument. First, the reference to "
+in vivo
+dissolution kinetics" does not appear anywhere in the two paragraphs; the same is true of "
+in vivo
+" alone. Second, this very early part of the specification is at best descriptive: it merely states the obvious, in that the active ingredient will find its way into the bloodstream. Hence, the inventor refers to "variations in the plasma levels of the active ingredient" and "the production of high and short-lived blood concentrations of active ingredient" in the context of presenting the advantages of the modified release of the active ingredient.
+[108]
+I was less than convinced by the Servier experts. No doubt they are skilled readers. But in order to reach their conclusions, they need to put a strained construction on the definition and "read in" words that are not present. They do not account either for the only example that can be found in the specification. Under the heading "Example 1: Dissolution kinetics" the patentee asserts that "[t] his example compares the
+in vitro
+release kinetics of non-subdivided tablets and of fractional doses according to the invention." The example goes on to show that the
+in vitro
+dissolution profiles satisfy the so-called f2 similarity factor, which is a mathematical equation, that measures the variation between release profiles. As pointed out by Dr. Bodmeier, "[a] similarity factor, or f2 value, of 50 or higher denotes similarity between the two profiles being compared" (para 79, affidavit of Dr. Bodmeier).
+[109]
+Dr. Fassihi, who was measured in his testimony, appears to me to express adequately what the skilled person would understand:
+203. At various places in their affidavits, both Dr. Marroum (see, for example paragraphs 21, 84-85, 87, 105 and 111) and Dr. Bodmeier (see, for example, paragraphs 17, 86-88, 109 and 123) provide the opinion that the identical dissolution profile in claims 1 and 10 relates to an
+in vivo
+dissolution profile or bioequivalency. This interpretation of the claims is surprising given that there is no
+in vivo
+testing described in the 670 Patent. Rather, the single dissolution study that is reported in the 670 Patent was conducted
+in vitro
+. It is also stated in the 670 Patent (see page 5) that the identical
+in vitro
+dissolution kinetics according to the invention give identical plasma kinetics. In the 670 Patent (see pages 4-5), "identical dissolution profile" is defined as meaning dissolution kinetics with no statistical difference between them, and the only dissolution kinetics provided in the 670 Patent are found in Example 1 (and Figure 1). These dissolution kinetics relate to the
+in vitro
+dissolution of a whole and half tablet of batch L0014022. Based on the information provided in the 670 Patent, it is my opinion that the skilled person would understand the 670 Patent to be referring to
+in vitro
+dissolution rather than
+in vivo
+dissolution or bioequivalency.
+To put it bluntly, there is nothing in this patent that would signal
+in vivo
+dissolution.
+[110]
+Similarly, Dr. Lee did not try to give a strained interpretation of the patent. Furthermore, the interpretation conforms with the plain words used by the patentee:
+77. This issue is complicated by the fact that claim 15 refers to a "similar dissolution profile". While the meaning of a "similar" dissolution profile is not described in the remainder of the 670 Patent, this is a term that the skilled person would understand in the context of dissolution profiles. One of the common statistical tests for comparing two dissolution profiles is the similarity factor test, or f2, which compares the amount of material dissolved between a test sample (for example, the subdivided tablet) and a reference sample (for example, the whole tablet) at different time points. If the value calculated for f2 is between 50 and 100, the dissolution profiles are considered to be similar. This allows for an approximate 10% variance in dissolution between two sets of dissolution data at each time point (f2 = 50). If the value calculated for f2 is less than 50, the dissolution profiles are considered not to be similar.
+78. Absent a different explanation in the 670 Patent, it is my opinion that the skilled person would adopt this understanding of the term "similar dissolution profile" in claim 15. While an f2 value of 100 would represent "identical" dissolution values, the skilled person would understand that this is an impractical standard and could not be what the inventors had intended when they refer to an "identical dissolution profile". Therefore, the skilled person would understand that "identical dissolution profile" in claim 1 must be referring to something that is more than "similar" (an f2 value of greater than 50) but less than absolutely "identical" (and f2 of less than 100). However, the skilled person would not know exactly what this difference was intended to be.
+[111]
+Both Dr. Lee and Dr. Fassihi gave interpretations that sought to account for the written words, as defined in the disclosure, and for claim 15. Their interpretation is in my view more persuasive than adding words in the definition the patentee chose to give and ignore the sole example given which refers to
+in vitro
+dissolution profiles. Dr. Fassihi gave an opinion which has the merit of acknowledging the difficulties inherent in the language used by the patentee:
+85. However, this understanding of the phrase "identical dissolution profile" in independent claims 1 and 10 of the 670 Patent is complicated by the fact that there is a reference to a "similar dissolution profile" in claim 15. There is no doubt that the skilled person would understand a "similar dissolution profile" as used in claim 15 to refer to an f2 similarity factor of greater than 50. What is not clear is whether the inventors intended the phrase "identical dissolution profile" to mean the same as the phrase "similar dissolution profile", or whether the phrase "identical dissolution profile" is meant to refer to a dissolution profile that is more similar than a "similar dissolution profile" (that is, an f2 value that is somewhat greater than 50), or whether the inventors intended the phrase "identical dissolution profile" to mean that some other statistical test was to be used.
+86. Therefore, while it is not clear exactly what the inventors intended to mean with their use of the term "identical dissolution profile" in independent claims 1 and 10, it is my opinion that the skilled person would understand that the inventors likely intended that this would refer to dissolution profiles where the f2 value was at least 50, but most likely something closer to the upper end of 50-100. As noted above, the skilled person would understand a "similar dissolution profile" to refer to dissolution profiles having an f2 value of 50 or greater.
+[112]
+Thus, the applicant has not discharged its burden that the identical dissolution profile requires
+in vivo
+dissolution kinetics in the eyes of the POSITA. The specification provides clearly, in my view, that the essential element requires that there be identical
+in vitro
+dissolution kinetics.
+[113]
+Apotex also argues that the patent requires that there be a binder other than the cellulose derivative that is used in providing the modified release of the active ingredient. Servier argues that the cellulose derivative can serve both purposes once the specification is purposively constructed.
+[114]
+Once again, the disclosure is of assistance in describing what the binder is for:
+Dans la composition pharmaceutique selon l'invention le liant sert à agglutiner entre elles les particules qui ne peuvent l'être sous la seule action de la pression.
+In the pharmaceutical composition according to the invention, the binder serves to agglutinate together the particles which cannot be agglutinated under the action of pressure alone.
+[115]
+Hence, in order to qualify as a binder, an excipient will have to serve to agglutinate (in Dr. Marroum's affidavit, he gives at paragraph 90 the explanation that the word comes from the Latin "to glue") and that the particles cannot be agglutinated under the action of pressure alone.
+[116]
+Servier asserts that out of the list of binders found in the specification, the inventor specifies that HPMC can be a binder. In essence, Servier contends that HPMC can be both a cellulose derivative and a binder. It must be noted, however, that the cellulose derivative would preferably be of low viscosity ('670 Patent, page 8 and claim 3). Indeed, the Servier product uses HPMC 100 cP, which is described in the specification as a low-viscosity HPMC. Conversely, the binder is presented as being preferably a number of substances (
+inter alia
+glucose, sucrose, maltodextrin, polyvidone and HPMC of very low viscosity). We know that Servier uses maltodextrin for its product. When, as part of the disclosure at page 9, the inventor offers a further preference, it is for "maltodextrin, polyvidone or an HPMC of very low molecular weight."
+[117]
+Claim 4, which deals with the binder, speaks of three possible excipients: maltodextrin, polyvidone and HPMC of very low viscosity. In the disclosure, HPMC is referenced as a possible binder, but it would have to be either of very low viscosity or very low molecular weight. In spite of that Servier argues that the binder can be the HPMC of low viscosity.
+[118]
+Servier relies on the testimonies of its two experts, Dr. Bodmeier and Dr. Marroum, for its view that the POSITA would accept that the binder may be HPMC of low to very low viscosity (Memorandum of Fact and Law, para 34). In so doing, Servier appears to seek support in one of the three preferred combinations found after the paragraphs on page 9 that speak of "an HPMC of very low viscosity" and "an HPMC of very low molecular weight". That paragraph evidently deals with the third essential element. It reads:
+La présente invention concerne donc de préférence un comprimé sécable à libération prolongée comprenant: a) du gliclazide, un dérivé de cellulose, de la maltodextrine ou b) du gliclazide, un dérivé de cellulose, de la polyvidone ou c) du gliclazide, un dérivé de cellulose, une HPMC de faible à très faible poids moléculaire.
+The present invention therefore preferably relates to a prolonged-release scored tablet comprising: a) gliclazide, a cellulose derivative, maltodextrin or b) gliclazide, a cellulose derivative, polyvidone or c) gliclazide, a cellulose derivative, an HPMC of low to very low molecular weight.
+[119]
+I would not hold against the applicant that it speaks in its factum of low to very low viscosity, instead of low to very low molecular weight. Rather, the issue is that the specification speaks in terms that forcefully suggest that the binder will be a different excipient than the cellulose derivative which forms "the matrix providing, inter alia, the modified release of the active ingredient." The patent is careful to speak of
+an
+HPMC of very low molecular weight. It also states that the HPMC, in order to be a binder, will be of very low viscosity both in the disclosure and claim 4. This helps confirm that if the binder is to be HPMC, it has to be a different HPMC than that forming the cellulose derivative.
+[120]
+I am comforted in this conclusion by the fact that nothing in the specification teaches that the cellulose derivative and the binder can be one and the same. Indeed, the applicant does not explain how the same HPMC would be capable "to agglutinate together the particles which cannot be agglutinated under the action of pressure alone". What part of HPMC of low viscosity (as opposed to very low viscosity) can serve to agglutinate the particles without being under the action of pressure alone was never explained? Servier tries to take advantage of three words ("low to very") in a paragraph in the disclosure after having stated clearly that the binder could be HPMC if it is either of very low viscosity or very low molecular weight. It seems to me that the balance of probabilities favours that the POSITA would understand that the patent requires that the binder be a different excipient that, if it is to be HPMC, would have to be an HPMC of very low viscosity (or of very low molecular weight). To paraphrase Pratte J.A. in
+CITATION_SUPPRESSED
+,
+supra
+, it is not for the Court to redraft claims. When claims are written to state four essential elements, and the specification is written to identify a binder as a different element, it will not be possible to construct the claims as allowing two of the essential elements to be the same, but with different properties unless, somehow, the party seeking that construction convinces the Court that the patent teaches that much. Here the applicant has failed to meet that burden. Its reliance on three words, in the face of other statements in the specification and the gist of it will be not sufficient to reverse the tide.
+[121]
+It follows that the '670 Patent must be constructed as having the following essential elements:
+a) an active ingredient: gliclazide;
+b) a cellulose derivative (50% to 60% of the total weight of the tablet);
+c) a binder which will be an excipient other than the cellulose derivative, but could be an HPMC of very low viscosity (or very low molecular weight);
+d) the subdivided tablet will have an identical
+in vitro
+dissolution profile to that of the undivided tablet.
+[122]
+It is understood that the prolonged-release tablet is scored, or grooved.
+VIII.
+Infringement
+[123]
+Apotex alleges that it does not infringe the '670 Patent because its tablet does not contain a binder and its testing has not shown
+in vitro
+dissolution profiles that would be identical for undivided and subdivided tablets.
+[124]
+The law is clear. "There is no infringement if an essential element is different or omitted" (
+CITATION_SUPPRESSED). Furthermore, on an application for a prohibition order, it is the applicant's burden, as we have seen, to satisfy the Court that its patent has been infringed. In the case at hand, that means that Servier must demonstrate that Apotex's product contains a binder and the
+in vitro
+dissolution profiles are identical. For the reasons that follow, Servier has failed to discharge its burden.
+A.
+Infringement: binder
+[125]
+In order to show that Apotex's product contains a binder, Servier must argue that the fact that it contains HPMC, which is a listed binder that meets the definition of binder found in the disclosure, is sufficient. That argument falls short of the mark.
+[126]
+As already shown, the specification requires that an HPMC has to be of very low viscosity to act as a binder. The specification already establishes that the HPMC used in the claimed invention is one of low viscosity.
+[Redacted]
+[127]
+[Redacted
+], Apotex offered expert evidence, which was not successfully contradicted, about its manufacturing process. Without getting into the details of the manufacturing process, suffice it to say that the weight of the evidence is to the effect that the use of the HPMC of low viscosity is to form the prolonged-release matrix. To quote from the affidavit of one of Apotex's experts, Dr. Fassihi, "[a] ll of the HPMC used in the Apo-Gliclazide tablets would have the same function, that is, forming the prolonged-release matrix" (para 113). The witness goes on to state at paragraph 223 of his affidavit:
+223. In the Apo-Gliclazide tablets, binding is provided by mechanical means alone, that is, the force of compaction on the mixed ingredients. In the 670 Patent, the presence of the binder is to agglutinate together the particles which cannot be agglutinated under the action of pressure alone. Contrary to the tablets of the 670 Patent, the particles of the Apo-Gliclazide tablets can be agglutinated under pressure alone, and therefore a binder is not required.
+[128]
+Dr. Fassihi was not shaken on cross-examination. In fact, it was quite the opposite. An exchange between Dr. Fassihi and counsel for Servier will illustrate the point:
+394 Q. Yes. Turn to page 11; you see the title at the top says "Formulation with Methocel"?
+A. Yes.
+395 Q. It says direct compression.
+A. Yes.
+396 Q. What do you understand direct compression to mean?
+A. It means you blend your powders together and without granulation you compress it. No granulation is removed.
+397 Q. It says:
+"When working with a directly compressible system it is simple to add Methocel products in dry powder form."
+You see that?
+A. Again, you are using the word Methocel as a general term. We need to be very specific because you just now showed me on page 7 a list of Methocel products in Table 1. There are close to 20 Methocels and maybe a couple of them are used as a binder which have very low viscosity and very low molecular weight, but everything else is specific for matrix formers. So I just want to be sure that we understand when they use the word Methocel we need to define it because we have 20 different Methocels. What are we talking about? What Methocel? So that has to be clear.
+[129]
+And later on:
+400 Q. It says Methocel K. It doesn't specify which one of them.
+A. That's exactly what I'm talking about because you have Methocel K which is 100,000, 50,000, 4,000. And just keep in mind in the patent, page 9 of the 670 Patent, binder serves to agglutinate together the particles which cannot be agglutinated under the action of pressure. So here this is direct compression. So you are talking about pressure here. The patent doesn't talk about pressure. The patent talks about materials that cannot be agglutinated under pressure. So this is direct compression.
+[130]
+In my view, the point is well taken. The binder under consideration in the patent is one that "serves to agglutinate together the particles which
+cannot be agglutinated under the action of pressure alone
+" (page 9 of the specification in its English translation; my underlining), not merely to compact the cellulose derivative. The issue is not so much whether HPMC can be a binder - it can, according to the evidence. But it must be of very low viscosity to act as the defined binder, which is a property the HPMC used in this case by Apotex does not have. Furthermore, the evidence is to the effect that there is no agglutination; rather, Apotex uses compression for its tablet.
+[131]
+In an attempt to counterweight the evidence of Dr. Fassihi, the applicant put forth an affidavit in reply from Dr. Bodmeier. In a short affidavit, one can read the one paragraph which is apposite here:
+7. The Dow publication (1982, NOA Exhibit #5) states that a matrix of Methocel can be tableted by direct compression, with compression granulations, or with conventional wet granulation (page 3, second column, last paragraph). On pages 11-12 of the document, the manufacturer explains that the direct compression (i.e. when HPMC is used as dry powder) or wet granulations are possible with HPMC. Therefore, HPMC can act as binder even if it is used in a dry granulation process such as the one used by Apotex.
+[132]
+This paragraph falls short of rebutting Dr. Fassihi's evidence. If it establishes that HPMC can act as a binder, this is not something new. Moreover, the paragraph does not purport to address the point that the agglutination we are concerned with is something other than under the action of pressure alone. Compression does not do: there must be agglutination of "the particles which cannot be agglutinated under the action of pressure alone", in the words of the disclosure. Holding in a single mass is one thing. Causing the agglutination, as required by the patent, is quite another. In a word, this evidence is of limited assistance and does not address squarely the strong evidence offered by Dr. Fassihi. That would not satisfy Servier's burden of justifying its contention that Apotex's tablet contains a binder as described in the specification.
+[133]
+Faced with this evidence, Servier chose to mount an attack on the admissibility of this evidence. Basically, the applicant argues that the manufacturing evidence ought to have been disclosed in the NOA.
+[134]
+Although Apotex counters that its NOA unequivocally states that its product did not employ a binder, it remains that nothing prevented the respondent from alleging further that it was using a different manufacturing process. The fact that it never has to disclose the manufacturing details (
+REFERENCE_SUPPRESSED) before a confidentiality order is issued does not address fully the fact that it said nothing of its manufacturing process.
+[135]
+A better argument, one that is decisive here, is that Apotex did not have to anticipate the position Servier chose to take. In
+REFERENCE_SUPPRESSED, Muldoon J. describes the state of the law as this:
+[11] The applicants also take exception to the corporate respondent's seeking refuge in Prof. Ross-Murphy's definition of gel, stating that the definition of a gel was not one of the grounds of non-infringement laid out in the NOA. The struggle surrounding the term "gel", however, was initiated by the applicants, through the first affidavit of Prof. Morris, in order to help disprove Alcon's allegation in its NOA that xanthan gum does not undergo a liquid to gel phase transition
+in situ
+. Alcon had, therefore, every right to adduce Prof. Ross-Murphy's competing definition of "gel" as a defence. To conclude otherwise would be to strip a respondent in a section 5 proceeding of any ability to defend itself. It would also force a respondent first, to prophesy down which path an applicant will march in construing the patent so as to attack the NOA and second, predict what scientific evidence it will need to guard the ramparts. Such a process, however, would be inefficient and serve no purpose. In addition, because defining the word "gel" is a matter of patent construction and, as such, a necessary precursor to any discussion of non-infringement or validity, the applicants cannot now argue that they were unaware that it would rear its head. The rationale underlying the rule against additional allegations, therefore, can be considered satisfied in the circumstances.
+[136]
+To the same effect is the decision of the Federal Court of Appeal in
+CITATION_SUPPRESSED
+,
+supra
+. It bears repeating CITATION_SUPPRESSED:
+[16] The Applications Judge erred in his formulation of the legal test to determine whether Novopharm's NOA was deficient when he required Novopharm to 'put into play' all aspects of the non-infringement issue. Whether Novopharm's NOA was adequate depends on whether it provided Pfizer with a sufficient understanding of the case it had to meet (
+supra
+at CITATION_SUPPRESSED). The legal test of adequacy does not require Novopharm to anticipate all possible grounds of infringement, including Pfizer's speculative theory that the dihydrate could be used in the process of manufacturing Novopharm's bulk monohydrate. As noted by Evans J.A. in
+REFERENCE_SUPPRESSED:
+A second person [the generic] should not be required to anticipate every theory of possible infringement, however speculative, in the detailed statement supporting its allegations.
+[137]
+I fail to see how Apotex should be faulted for not having anticipated the dual function of the cellulose derivative theory of Servier, especially in view of the definition of binder found in the specification, including the requirement that the particles agglutinate with the assistance of a binder. Similarly, it cannot seriously be argued that Servier did not know the case it had to meet. Servier has not shown that the allegation of non-infringement by reason of the absence of a binder is not justified.
+B.
+Infringement: dissolution profiles
+[138]
+The second ground alleged by Apotex to show that it does not infringe the '670 Patent is based on the assertion that the
+in vitro
+dissolution profiles of subdivided and undivided Apotex tablets are not identical.
+[139]
+The evidence in this case is that
+in vitro
+analysis was conducted (affidavit of S. Channamalle) that compared Apotex's whole tablet to a subdivided portion of a tablet. The results were examined by Dr. Lee, an Apotex expert witness, who concluded that there was not an identical (nor similar) dissolution profile, based on the statistical test that seems to be agreed upon by all experts in this case, the f2 similarity test. Hence, the f2 value was calculated to be 44, which is less than the floor value of 50 required to establish
+in vitro
+identity. Given that one of the essential elements is the presence of
+in vitro
+identical dissolution profiles, Apotex argues that it does not infringe the patent. To my way of thinking, in view of the construction put on the claims, that also disposes of the issue in favour of Apotex.
+[140]
+Nevertheless, I should probably comment on two objections raised by Servier. First, Servier complains that Apotex's testing was not conducted in three different media. That criticism is unwarranted. As a matter of fact, Servier itself did not conduct its own studies in three media. Not only did Dr Bodmeier concede that the patent is silent on how the
+in vitro
+dissolution kinetics analysis is to be conducted, but he also agreed that the only example to be found in the specification did not supply any data on testing in three different media, but rather that it has one dissolution medium.
+[141]
+Second, counsel for Servier spent some time trying to establish that in order to gain regulatory approval for its product, Apotex must have shown bioequivalence which entails that the two products, Servier's and Apotex's products, have identical drug release profiles in plasma. Basically, Servier wishes to establish infringement with respect to dissolution kinetics by arguing that the bioequivalence that must have been ascertained in order to have gained preliminary regulatory approval must have been shown to the regulator. That takes Servier to
+in vivo
+plasma kinetics.
+[142]
+The difficulty with Servier's argument is that it is not what the patent requires. If the claims spoke in terms of
+in vivo
+, the applicant's argument could have a chance to fly. However, as already established, this inventor defined "identical dissolution profiles" in terms of identical
+in vitro
+kinetics. The claims set the parameters for the monopoly they seek to obtain from the state. Without being benevolent or harsh, one is driven to ascertain what the so-called fences are. It must be remembered that the purpose of the
+Food and Drug Regulations
+, CRC, c 870, as amended, is different than the current proceedings as it pertains to public law: establish the safety and security of the drug with a view to seeking marketing approval from the Minister acting as a regulator.
+Hughes and Woodley on Patents
+(2nd ed (Markham, ON: LexisNexis, 2005) loose-leaf) provides a brief but helpful comment on the two processes at §23:
+This scheme imposes two processes: an administrative one that is designed to ensure safety and efficacy, and a judicial one that is designed to protect the interests of patent holders. These are parallel processes; matching them is achieved only through their results.
+A notice of compliance should not be issued if the first person shows in the words of Hughes and Woodley "that the patents, as referenced by the generic in its Notice of Allegation, are owned by the first person and that the relevant claims are not invalid or not infringed" (§23). The Federal Court of Appeal could not have been more explicit in
+REFERENCE_SUPPRESSED:
+[4] We will, however, restate in our own words the basic propositions on which the whole reasoning is built. The
+Patented Medicines (Notice of Compliance) Regulations
+recently adopted pursuant to the
+Patent Act
+, R.S.C. 1985, c. P-4, ought not to be interpreted rigidly, without regard to their true intent and scope. The judicial process they introduced a few years ago following the abolition of the compulsory licencing system, with a view to bringing some protection to patent holders whose proprietary rights might be inadvertently but too easily affected, is separate and distinct from the long-standing administrative process imposed by the
+Food and Drug Regulations
+, C.R.C., c. 870, adopted pursuant to the
+Food and Drugs Act
+, whose purpose is to satisfy the requirements of safety and efficacy. Of course, both processes can only be triggered by a drug manufacturer who contemplates marketing a new product. But nothing requires that they be both set in motion at the same time. The judicial process has nothing to do with the administrative one and vice versa. These are parallel processes. Matching them is achieved only through their results: the Minister cannot issue a NOC without regard to the findings established by the two processes.
+To put it bluntly, what counts, first and foremost, is what the claims say. As President Thorson wrote close to 70 years ago in
+REFERENCE_SUPPRESSED:
+[59] Section 14.(1) also requires that the specification shall end with a claim or claims stating distinctly the things or combinations which the applicant regards as new and in which he claims an exclusive property and privilege. By his claims the inventor puts fences around the fields of his monopoly and warns the public against trespassing on his property. His fences must be clearly placed in order to give the necessary warning and he must not fence in any property that is not his own. The terms of a claim must be free from avoidable ambiguity or obscurity and must not be flexible; they must be clear and precise so that the public will be able to know not only where it must not trespass but also where it may safely go. If a claim does not satisfy these requirements it cannot stand.
+[143]
+For whatever reason, the inventor has chosen to limit the claims by defining the identical dissolution profile as was done. I find in this case an analogy with this quip, in
+CITATION_SUPPRESSED
+,
+supra
+, with respect to the situation in
+CITATION_SUPPRESSED
+,
+supra
+:
+[60] The facts of
+CITATION_SUPPRESSED
+have an echo in the facts of this case. Claim 1 of the '156 patent stipulates the "said magnetization coil being stationary" during treatment. Whether the magnetization coil is stationary may or may not affect the way the device works, but the inventor has explicitly so stipulated.
+[144]
+[Redacted]
+[145]
+Not only are the claims written in a narrow way that excludes in my estimation
+in vivo
+analysis, but the theory advanced by Servier was simply unsupported by the evidence available in this case. In fact, one has to wonder if the evidence coming from the regulatory process does not constitute extrinsic evidence of the inventor's intention (see
+CITATION_SUPPRESSED. The identification of elements as essential or non essential is made: "(v) without, however, resort to extrinsic evidence of the inventor's intention").
+[146]
+With great respect, the use of information coming from the regulatory process did not satisfy the applicant's burden of showing infringement.
+[147]
+Because there is no infringement if an essential element is different, it follows that Apotex did not infringe Servier's claims with respect to two different essential elements. That should dispose of the application to obtain a prohibition order, as it is sufficient for the application to be dismissed. Be that as it may, in case I am wrong, I have examined some of the grounds of invalidity alleged by Apotex.
+IX.
+Invalidity
+A.
+Obviousness
+[148]
+Section 28.3 of the
+Patent Act
+requires that an invention be non-obvious, on the claim date, to the skilled person to be the subject of a valid patent. It reads:
+Invention must not be obvious
+28.3 The subject-matter defined by a claim in an application for a patent in Canada must be subject-matter that would not have been obvious on the claim date to a person skilled in the art or science to which it pertains, having regard to
+(a) information disclosed more than one year before the filing date by the applicant, or by a person who obtained knowledge, directly or indirectly, from the applicant in such a manner that the information became available to the public in Canada or elsewhere; and
+(b) information disclosed before the claim date by a person not mentioned in paragraph (a) in such a manner that the information became available to the public in Canada or elsewhere.
+Objet non évident
+28.3 L'objet que définit la revendication d'une demande de brevet ne doit pas, à la date de la revendication, être évident pour une personne versée dans l'art ou la science dont relève l'objet, eu égard à toute communication:
+a) qui a été faite, plus d'un an avant la date de dépôt de la demande, par le demandeur ou un tiers ayant obtenu de lui l'information à cet égard de façon directe ou autrement, de manière telle qu'elle est devenue accessible au public au Canada ou ailleurs;
+b) qui a été faite par toute autre personne avant la date de la revendication de manière telle qu'elle est devenue accessible au public au Canada ou ailleurs.
+[149]
+In the case of the '670 Patent, the relevant date is the claim date of March 21, 2008.
+[150]
+In
+CITATION_SUPPRESSED, the Supreme Court adopted a four step approach for determining whether an invention was obvious. Servier and Apotex agree that the
+CITATION_SUPPRESSED
+framework governs this analysis, with their disagreement coming in the result of its application. Accordingly, this Court must address the following:
+(1)
+(a) Identify the notional "person skilled in the art";
+(b) Identify the relevant common general knowledge of that person;
+(2) Identify the inventive concept of the claim in question or if that cannot readily be done, construe it;
+(3) Identify what, if any, differences exist between the matter cited as forming part of the "state of the art" and the inventive concept of the claim or the claim as construed;
+(4) Viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention? [Emphasis added.]
+[151]
+In
+CITATION_SUPPRESSED
+, the Supreme Court noted that, at the final step of this analysis, an "obvious to try" test may be appropriate for determining whether or not the step is met (para 68).
+(1) (a)
+The Skilled Person
+[152]
+As discussed above in these reasons at paragraph 59, the notional skilled person at whom the '670 Patent is directed has a graduate degree in pharmacy, biopharmaceutics, pharmaceutical sciences, chemistry or chemical engineering, pharmacology, formulation engineering or a related field with industrial experience in the design, formulation, and evaluation of solid dosage forms. Based on this education and experience, the skilled person is able to formulate and then evaluate whether a particular form has the properties required of it by the patent.
+(1) (b)
+The Common General Knowledge
+i.
+Gliclazide used in the treatment of diabetes
+[153]
+As of the claim date, the skilled person knew that diabetes (also known as diabetes mellitus) was a metabolic disease which causes high glucose, or blood sugar, levels in afflicted individuals. The body requires insulin, produced by the pancreas, to properly regulate its absorption of glucose. Diabetes is caused when there is a failure by the pancreas to produce sufficient insulin or when the body fails to respond properly to the insulin that is produced. The skilled person also knew that diabetes could be treated through the administration of gliclazide, which is a hypoglycemic sulfonylurea derivative. Gliclazide (and other sulfonylureas) works by lowering glucose levels in blood. The known daily dosage range for gliclazide in the treatment of diabetes was between 30 mg and 120 mg, according to individual patients' needs and the severity of the disease.
+[154]
+The use of gliclazide in the treatment of diabetes was well known by the skilled person prior to the claim date. Indeed, the disclosure of the '670 Patent discusses two pre-existing formulations made by Servier containing gliclazide as the active ingredient: an immediate release tablet containing 80 mg of gliclazide (in an immediate release tablet, the active ingredient is rapidly dissolved and absorbed in the body) and a 30 mg modified release tablet.
+[155]
+The 30 mg modified release tablet is in the form of a hydrophilic matrix. The tablet permits a prolonged and controlled release of the active ingredient into the body. This avoids undesirable peaks and valleys in the concentration of gliclazide in patients' bloodstreams, which can occur when taking immediate release tablets. The 30 mg pill is not divisible. Accordingly, by the claim date, the existence of a matrix-based modified release containing gliclazide was known in the prior art for the treatment of diabetes.
+ii.
+Modified release formulation and matrix alteration
+[156]
+By March 2008, not only was it known that it was possible to have modified release formulation, but it was known that gliclazide could be formulated, in the 60 mg tablet, together with a cellulose derivative and a binder. US Patent 6,733,782, International Patent Application 2006/061697 and European Patent Application 1,741,435 [Application '435] all address the formulation of gliclazide.
+[157]
+Actually, even Servier's expert, Dr. Marroum, does not challenge that modified release formulation for gliclazide could be prepared (cross-examination of Dr. Marroum, questions 277 to 279). Application '435, which was filed in April 2004, even provides an example comprising 60 mg of gliclazide, 52.5% of cellulose derivative (HPMC in that case) as well as a binder (polyvinylpyrrolidone, in that case) and lactose. The preferred composition of Patent '670's 60 mg tablet has 18.7% of the total weight in gliclazide; Application '435 has 18.75%. It has the same weight in lactose, i.e. 18.75%, while Patent '670 has 22.3% of its weight in lactose. The amount of HPMC is also comparable, being 50% of the weight of the '670 Patent compared to 52.5% in Application '435. As for the binders, although different, they represent close percentages (maltodextrin at 6.9% and polyvinylpyrrolidone at 5%).
+[158]
+The skilled person also knew from the prior art that the rate at which a drug is released and dissolved, from a cellulose derivative-based matrix, can be controlled by altering the matrix.
+[159]
+A matrix is the material in which the active ingredient is held within a tablet formulation; it can be used to slow the release and dissolution into the body of the active ingredient. A hydrophilic matrix system is one in which the polymer or polymers comprising the matrix will wet, hydrate, and/or dissolve. When a formulation with a hydrophilic matrix encounters water, a gel forms which impedes the release of the active ingredient and any excipients (i.e., other ingredients) contained in the tablet.
+[160]
+The '670 Patent calls for the tablet's matrix to be comprised of a cellulose-derived polymer, preferably of HPMC. The patent acknowledges that HPMCs and their use in the formulation of medicines were known to persons skilled in the art.
+[161]
+When the viscosity of a matrix is increased, the viscosity of the gel it forms increases, which causes the drug's release from the matrix to be slower and extended. (Viscosity is a measure of a liquid's ability to flow. The lower a fluid's viscosity, the more easily it flows; a fluid with a higher viscosity will accordingly flow less easily.) HPMCs of different viscosities are available for selection. The drug's release from its matrix can also be modified by altering the concentration and particle size of the polymer used in the matrix. Doing so affects the viscosity of the gel formed by the matrix.
+[162]
+The ability to customize a matrix to achieve a particular desired rate of dissolution was well known in the art. At least as of 1995, Dow, a chemical company that manufactures HPMCs, marketed their use and flexibility in formulating controlled release drug forms. Indeed, Servier's own US Patent 6,733,782 B1 [the '782 Patent] of May 1, 2004 makes that point vividly. Example 3 shows that the HPMC viscosity alone will have a significant impact on the dissolution kinetics of the active ingredient. One can read:
+The curves of FIG. 5 show clearly that the dissolution kinetics of the active ingredient are influenced not only by the total amount of hydroxypropyl methylcellulose used in the hydrophilic matrix but also by the grade of the hydroxypropyl methylcellulose used as shown in FIG. 5.
+(I note in passing that Servier uses
+in vitro
+release kinetics throughout its '782 Patent. Example 4, which deals with a dose of 60 mg as compared to the 30 mg dose, provides that "the in vitro release kinetics of a tablet containing a dose of 60 mg are similar to that of a tablet containing 30 mg (batch LP6) for matrix tablets containing the same doses of hydroxypropyl methylcellulose and of maltodextrin. The in vitro dissolution kinetics is shown in FIG. 7." Evidently, it was already known, and surely Servier knew, that 60 mg gliclazide tablets had the same
+in vitro
+release kinetics as the 30 mg tablet.) The skilled person, assumed to diligently keep up with the advances in the field, would have been aware of this general knowledge as of the claim date.
+iii.
+Tablet Divisibility and Release Profiles
+[163]
+By the claim date, it was well known in the prior art that tablets could be designed in such a way to split them into one or more pieces if properly scored; however, it was also known that divisible modified release tablets could suffer from certain problems. Increasing the surface area by exposing a new face along a division line can affect the rate at which the active ingredient(s) contained in a tablet are released and dissolve. In 1999, the EMA warned against subdividing modified release formulations except in exceptional cases:
+C'est une mauvaise pratique de subdiviser les formes à libération prolongée mais cela pourrait être justifié dans des cas exceptionnels.
+It is bad practice to subdivide prolonged-release dosage forms but this may be justified in exceptional cases.
+[164]
+Tellingly in my view, this constitutes the only outside reference relied on by Servier, one that dates back nine years from the claim date. However, by the claim date in 2008, it was also known in the prior art that tablets could be designed in such a way to be both divisible and maintain a desired modified release rate. Indeed, this was known as early as 1982, when a United States patent (Patent 4,353,887 or the '887 Patent) described a (and is entitled) "[d] ivisible tablet having controlled and delayed release of the active substance". The '887 Patent teaches that tablets can be scored and shaped so that, on breaking, the increase in surface area is limited. This is accomplished in the '887 Patent through the use of deep dividing grooves. For this to work, the active ingredient must also be uniformly distributed throughout the tablet. The '887 Patent sets out specific measurements and shape characteristics to achieve such a tablet. In the patent, it is said that "the active substance release characteristics [of the subdivided fragments] differ, at most, insignificantly from those of the whole tablet". Actually, Dr. Fassihi, one of Apotex's experts, calculated an f2 value of 61 for the whole and subdivided tablets (well above 50) using the dissolution data available in the '887 Patent.
+[165]
+Before the claim date in 2008, the prior art included multiple papers in peer-reviewed and other prominent journals that discussed methods of overcoming the problems associated with divisibility in modified release tablets. A 1987 paper in
+Pharmaceutical Research
+, the official journal of the American Association of Pharmaceutical Scientists, analyzed the dissolution profile data for split controlled release theophylline tablets; it concluded that while the halved tablets dissolved more quickly than the whole tablets, the difference in rates of dissolution was not significant enough to cause concern or require bioavailability studies. A 1997 paper published in the
+Annals of Pharmacotherapy
+examined the splitting and subsequent dissolution of unscored and scored methylphenidate tablets; its authors noted that, in the scored tablets, the differences in dissolution profiles were not great as between the whole and half tablet.
+[166]
+In 2000, the
+Pharmazeutische Industrie
+published a paper which compared whole and half matrix-based modified release tablets with different scoring and breaking methods. The authors found dissolution rates between the whole and half tablets which can be calculated to have dissolution profiles with an f2 greater than 50 but less than 100. A 2002 article from the
+European Journal of Pharmaceuticals and Biopharmaceutics
+examined
+in vitro
+dissolution of a double-scored controlled-release tablet containing isosorbide-5-mononitrate. It showed that the dissolution profiles had f2 results between 50 and 100 in all of their tests (they compared the whole tablet, a trisected tablet, the lateral and central parts of the tablet, and two-thirds of the tablet).
+[167]
+These papers were discussed by Dr. Lee and Dr. Fassihi in their affidavits and were identified by Apotex in a schedule appended to the company's Notice of Allegation. A skilled person conducting a reasonably diligent search through the prior art would have been likewise able to locate and learn from these references.
+[168]
+Furthermore, by the claim date, multiple drugs (though not including gliclazide) were marketed in North America that were both divisible and had modified release properties. Isosorbide-5-mononitrate (marketed under the brand name Imdur) is an anti-angina medication with extended release properties and is scored (the matrix for this drug uses hydroxypropylcellulose, which is not the preferred polymer for use in the '670 Patent but is listed as a possible cellulose derivative). Aminophylline (marketed under the brand name Phyllocontin) is a bronchodilator in the form of a scored, sustained release tablet; it uses hydroxyethylcellulose which also is a cellulose derivative listed in the '670 Patent. Theophylline (marketed as Uniphyl) is another bronchodilator in the form of a scored, sustained release tablet also using hydroxyethylcellulose. The antibiotic marketed as Augmentin is a combination of amoxicillin and calvulanate potassium; it is a scored sustained release tablet with hypromellose and xanthan gum (which can be used for matrix formation). Metoprolol succinate (marketed as Toprol-XL) is a beta blocker sold in a scored, extended release tablet form. This drug is somewhat different than the other scored, modified release drugs in that the active ingredient is stored in multiple controlled release pellets which are compressed to form a matrix which control the release of the drug.
+[169]
+Patent '887, the published papers, and the existence of marketed divisible, modified release drug formulations were all part of the prior art and common general knowledge that the skilled person would have been aware of as of the claim date in 2008. The evidence shows that there had been an important evolution since the EMA warning of 1999. Cumulatively, these pieces of art show that the formulation of divisible modified release tablets could be accomplished while achieving desired dissolution profile results by 2008.
+[170]
+In the absence of persuasive contradictory evidence, I have to accept the evidence of Dr. Lee who stated in his affidavit at paragraph 179:
+179. By March 2008, it was well known to the skilled person that in order to have similar dissolution profiles for a whole and subdivided tablet, it was advisable to follow certain physical design rules that minimize the increase in surface area resulting from the breaking or splitting of the whole tablet. This is because drug release from the matrix of a controlled release tablet is directly related to the available surface area, and as a tablet is split, the total surface area increases. As a result, the skilled person would understand that the ingredients in the tablet and their amounts have little influence on this property of a tablet. Rather, the skilled person would know that the increase in surface area must be minimized in order to obtain similar dissolution profiles.
+(2)
+The Inventive Concept
+[171]
+There are three independent inventive concepts set out in the '670 Patent, in claim 1, claim 10 and claim 15. Claims 10 and 15 are not asserted by Servier. Dependent on claim 1 are claims 2 through 9 and claims 11 to 14, where certain limitations are set out upon the inventive concept identified in that claim.
+[172]
+The inventive concept of the asserted claim 1 is a scored, modified release tablet comprising gliclazide, a cellulose derivative in the amount of 50% to 60% of the total weight of the tablet, and a binder; the tablet has the property that, if divided, the subdivided portions will have an identical dissolution profile with each other and a whole tablet. As discussed above at paragraphs 110 to 112, in the '670 Patent, the phrase "identical dissolution profile" refers to
+in vitro
+dissolution kinetics that produce an f2 similarity value between 50 and 100, closer to the upper end of this range.
+[173]
+Servier would have the inventive concept to be slightly different. It advances that the gliclazide tablet is limited to an amount of 60 mg. The claims in the '670 Patent do not refer to any limitation, contrary, for instance, to the Servier '782 Patent which claims specifically tablets containing 30 mg and 60 mg of gliclazide. Nevertheless, for the purpose of the discussion I am willing to accept that we are here concerned with a 60 mg tablet that is divisible; at any rate, I have not been convinced that resort cannot be had to the specification in order to ascertain what the inventive concept is. The Supreme Court in
+CITATION_SUPPRESSED
+,
+supra
+, seems to me to open the door:
+[77] The inventive concept of the claims is not readily discernable from the claims themselves. A bare chemical formula in a patent claim may not be sufficient to determine its inventiveness. In such cases, I think it must be acceptable to read the specification in the patent to determine the inventive concept of the claims. Of course, it is not permissible to read the specification in order to construe the claims more narrowly or widely than the text will allow.
+[174]
+This whole case is about the 60 mg dosage. The specification stipulates:
+Le schéma posologique recommandé pour le gliclazide consiste à administrer dans une première période du gliclazide à une dose de 30mg puis dans une deuxième période du gliclazide une dose de 60mg, dose de traitement administrée à la majorité des patients. Par ailleurs, des patients plus gravement atteints par la maladie doivent être traités à des doses de 90mg voire 120mg de gliclazide.
+De manière très avantageuse par rapport aux formulations existantes, la présente invention consistant en un comprimé matriciel sécable à libération prolongée de gliclazide 60mg assure une meilleure observance du traitement en limitant le nombre de comprimés à prendre de la part du patient et permet également d'optimiser la fabrication des médicaments sur une unique ligne de production.
+The dosage scheme recommended for gliclazide consists in administering, in a first period, gliclazide at a dose of 30 mg and then, in a second period, gliclazide at a dose of 60 mg, which is the treatment dose administered to the majority of patients. Moreover, patients more seriously affected by the disease should be treated at doses of 90 mg or even 120 mg of gliclazide.
+Very advantageously compared with the existing formulations, the present invention consisting of a 60 mg prolonged-release scored matrix gliclazide tablet provides better treatment adherence by limiting the number of tablets to be taken by the patient and also makes it possible to optimize the production of medicaments on a single production line.
+[175]
+On the other hand, the attempt by Servier to read into the inventive concept the words "where the
+in vivo
+plasma profiles of the whole and half tablet are similar or bioequivalent" (Memorandum of Fact and Law, para 62) cannot be successful. As already explained above, the definition of "identical dissolution profile", an expression defined in the specification that is found in claim 1, must refer to
+in vitro
+dissolution kinetics. Neither the claims nor the specification as a whole refer to these notions.
+(3)
+Differences between the Prior Art and the Inventive Concept
+[176]
+The use of gliclazide in a modified release formulation in the treatment of diabetes, the ability to alter a tablet matrix to obtain particular release profiles, and the design of a divisible tablet such that the whole and subdivided portions had dissolution profiles giving f2 results between 50 and 100 were, as discussed above, all known in the prior art. The difference between the prior art and the inventive concept is the combination of these elements in a tablet for the first time: a gliclazide tablet capable of being divided but maintaining the desired dissolution profile.
+(4)
+Were the Steps Obvious to Try?
+[177]
+In
+CITATION_SUPPRESSED
+, the Supreme Court held that "[i] n areas of endeavour where advances are often won by experimentation, an "obvious to try" test might be appropriate. In such areas, there may be numerous interrelated variables with which to experiment" (at para 68). The Supreme Court specifically noted that pharmaceutical inventions in particular might warrant this analytical approach. I agree that the "obvious to try" analysis is warranted in this case. Per
+CITATION_SUPPRESSED, the following factors, while not exhaustive, should be considered:
+1. Is it more or less self-evident that what is being tried ought to work? Are there a finite number of identified predictable solutions known to persons skilled in the art?
+2. What is the extent, nature and amount of effort required to achieve the invention? Are routine trials carried out or is the experimentation prolonged and arduous, such that the trials would not be considered routine?
+3. Is there a motive provided in the prior art to find the solution the patent addresses?
+[178]
+At CITATION_SUPPRESSED
+, the Supreme Court also held that the actual course of conduct undertaken in the making of the invention might be relevant to the analysis.
+[179]
+To find that an invention was "obvious to try" there must be "evidence to convince a judge on a balance of probabilities that it was more or less self-evident to try to obtain the invention. Mere possibility that something might turn up is not enough" (
+CITATION_SUPPRESSED). In this step, "obvious" means "very plain" and it is not sufficient that the "prior art would have alerted the person skilled in the art to the possibility that something might be worth trying" (
+REFERENCE_SUPPRESSED). The determinative issue is at this stage of the analysis whether it was more or less self-evident to the skilled person that, if the matrix was adjusted in a modified release gliclazide tablet and the proper tablet scoring selected, the resulting tablet would have the desired dissolution profile. I have to conclude that, on this record and with the evidence adduced, given the burden of proof, it was plain and more or less self evident for the skilled person to try to obtain the invention.
+[180]
+Given the nature of the claimed invention here (where it is alleged by Apotex that through routine experimentation, the invention is more or less self-evident), the simultaneous discussion of the first two factors is appropriate. In my view, these factors are largely determinative as to the obviousness to try of the claimed invention.
+[181]
+The prior art establishes that tablets, with various active ingredients, can be formulated in such a way that they are divisible and exhibit a particular dissolution profile. Even though gliclazide had not been included in such a formulation as of the claim date, there is no evidence to suggest that it was not a suitable candidate for incorporation into such a tablet.
+[182]
+The jurisprudence from this Court is clear that where a claimed invention consists of assembling elements of the prior art into a new composition, the claimed invention may be obvious where doing so would have been more or less self-evident to the skilled person. As stated by Justice Snider in
+REFERENCE_SUPPRESSED (see also
+REFERENCE_SUPPRESSED and
+REFERENCE_SUPPRESSED):
+[A] mosaic of prior art may be assembled in order to render a claim obvious. Even uninventive skilled technicians would be presumed to read a number of professional journals, attend different conferences and apply the learnings from one source to another setting or even combine the sources. However, in doing so, the party claiming obviousness must be able to demonstrate not only that the prior art exists but how the person of ordinary skill in the art would have been led to combine the relevant components from the mosaic of prior art.
+[183]
+Servier complained that the prior art offered by Apotex is biased. This criticism is unsupported by the evidence. It must be remembered that, at the end of the day, it is Servier's burden to satisfy the Court that the allegation of invalidity because of obviousness is not justified. That demonstration has not been made on a balance of probabilities on this record. The attempt made by Servier to discount the prior art presented by Apotex was largely unsuccessful. The point of the matter was to show that prior to 2008, there existed a number of publications showing how a tablet can be broken in order to have identical or similar dissolution profiles, whether divided or undivided. The caution of the EMA in 1999 had been, so it seems, largely vanquished.
+[184]
+In fact, Apotex, through Dr. Lee, reported the existence of Application '435 which dealt specifically with a modified release tablet whose active ingredient is gliclazide for the treatment of diabetes. That particular formulation comprises 52.5% of HPMC and a binder. Not only are the three essential ingredients present, i.e. gliclazide, a cellulose derivative and a binder (also identified in the patent in suit), but two examples address specifically a tablet containing 60 mg of gliclazide. The criticism made of Application '435 came from Dr. Marroum who merely indicated that the Application "does not present a formulation that is scored and when divided will present the release characteristics of the half compared to the whole" (affidavit of Dr. Marroum, para 168). However, as already pointed out, the prior art on divisibility was already abundant by March 2008. The mosaic has already taken shape. Actually it is a mosaic that does not have that many pieces. In the end, Servier did not bring forth its own evidence of prior art references that would have mollified, or even put in question, the prior art evidence adduced by Apotex.
+[185]
+In my opinion, Apotex has in effect shown that the skilled worker would have been able to combine the mosaic of prior art into the claimed invention. The step was not high. The gap was not broad. Once the decision was made (
+[Redacted]
+) that it would be desirable to have a modified release divisible tablet containing gliclazide, obtaining the precise formulation would have been a matter of routine experimentation and adjustment, on the record before the Court. When one weighs the evidence put forth by Apotex against that of Servier, the balance favours clearly Apotex.
+[186]
+In his affidavit at paragraph 205, Dr. Lee described the routine experimentation that the skilled person would need to undertake in selecting the physical scoring design of the tablet:
+205. In my opinion, the addition of scoring to an extended release tablet to obtain a tablet where the whole and subdivided tablets had an identical or similar dissolution profile was well within the routine work of the skilled person. This is because the skilled person was only required to select a new tablet punch and die containing scoring and, if necessary, to adjust the dimensions of the tablet and/or scoring depth to minimize the newly exposed surface area upon splitting of the tablet in order to obtain a tablet where the whole and subdivided tablets had an identical or similar dissolution profile. This exercise would not require any inventive ingenuity whatsoever since this principle was well known to the skilled person (as taught, for example, in the 887 Patent). Also, the skilled person knew that this exercise was not dependent on any particular formulation of the gliclazide tablets.
+[187]
+Dr. Lee similarly described the routine nature of adjusting the matrix in order to achieve a particular dissolution profile at paragraph 206 of his affidavit:
+206. Adjustments to the formulation (type or amounts of ingredients) would only be required if the skilled person was also required to maintain a specific dissolution profile for the whole tablet. Even then, adjusting the grades and concentrations of the matrix polymer providing the controlled release would be a routine matter for the skilled person that did not require any inventive ingenuity, especially since the prior art included several examples of prolonged or modified release gliclazide tablets.
+[188]
+While Servier and its expert witnesses disagree with the characterization of this experimentation as routine rather than complex and requiring ingenuity, I note that they rely on a construction of the patent, and therefore an understanding of the claimed invention, where the phrase "identical dissolution profile" relates to
+in vivo
+properties of the tablet. This Court has rejected, as not being discernable from the specification and contrary to the definition given by the patentee in the disclosure, that construction in favour of
+in vitro
+dissolution kinetics that produce an f2 similarity value between 50 and 100, closer to the upper end of that range. Dr. Marroum, in particular, seems to have adopted a position that is argumentative to the point of crossing the line into advocacy. Because the presence of
+in vivo
+release profiles became central to the theory developed by Servier, his portion of his affidavit concerned with dissolution kinetics reads more like an argument than an expert's affidavit. In order to illustrate my observation, I refer plainly to paragraphs 116, 119, 120 and 121. We find, to a lesser extent perhaps, the same kind of unwavering resoluteness in Dr. Bodmeier's affidavit. For instance, one reads at paragraph 122 the following:
+122. Apotex's allegation is with respect to its limited in vitro data, but Apotex conveniently omits to address whether the Apotex Product has an "identical dissolution profile" in vivo.
+However, Apotex did not offer data relevant to identical dissolution profile
+in vivo
+because, in view of its construction, that was not relevant. It did not "conveniently omit to address". Similarly, Dr. Bodmeier takes issue with another aspect of the
+in vivo
+dissolution profile debate, accusing Apotex of "switching position":
+127. It is not clear to me why Apotex did not to address the in vivo dissolution profile in the non-infringement section of the Apotex Letter. Despite this, they include the in vivo components in the utility section. Apotex is seemingly switching positions. As will be discussed below, the Apotex Product has an identical dissolution profile.
+This constitutes in my view an empty accusation that takes an expert in the world of advocacy in an attempt to salvage the position of the party that has retained him. In this particular case, Apotex was merely arguing that if Servier's contention is that it is
+in vivo
+dissolution profile that must be shown, Servier would fail on the utility of the patent because it has not even announced in the specification that such testing existed at the appropriate time. Accordingly, their comments as to whether it would have been more or less self-evident to try to obtain the invention are of less assistance to the Court. Indeed, Servier may well have been chasing something other than the invention it patented, which would help explain the time it took.
+[189]
+Given the routine nature of the experimentation required to reach the claimed invention, the skilled person, wanting to combine the prior art regarding tablet divisibility and dissolution profiles with a gliclazide formulation, would have pursued that experimentation and made the necessary adjustments - either to the matrix formulation, the scoring of the tablet, or both - to reach it.
+[190]
+The third
+CITATION_SUPPRESSED
+factor to be considered is motivation. "Motivation is relevant in determining whether the skilled person has good reason to pursue "predictable" solutions or solutions that provide "a fair expectation of success"" (
+REFERENCE_SUPPRESSED).
+[191]
+Servier points to the 1999 warning from the EMA against combining divisibility with modified release in tablets to suggest that the skilled person would have been demotivated from finding the claimed invention.
+[192]
+However, this argument is neither consistent with the warning itself nor with the evidence showing multiple successfully marketed divisible prolonged release tablets in the prior art. The warning itself states that the creation of divisible modified release tablets "may be justified in exceptional cases" and no evidence has been led to show that gliclazide was not such a case. Furthermore, the prior art shows multiple instances of divisible modified release tablets being successfully approved and marketed, as discussed above in the prior art. As of the claim date in 2008, the warning was almost a decade old and there is no evidence that at that time it would have demotivated the skilled worker from pursuing the predictable solutions of the claimed invention. That it may have demotivated a worker from attempting to obtain the invention in 1999 is of no relevance to this inquiry.
+[193]
+Given the routine nature of the experimentation required to achieve the desired characteristics of the claimed invention as discussed by Dr. Lee, the skilled person would have been motivated to undertake this work and would not have been demotivated by the 1999 warning from doing so.
+(a)
+The Actual Course of Conduct
+[194]
+In order to discharge its burden to show that Patent '670 required ingenuity and was not obvious, Servier relies on the EMA warning of 1999 and its evidence of arduous efforts to reach a solution. Servier relied on the evidence of Dr. Wüthrich who, as a matter of fact, is listed as one of the three inventors of US Patent '782 which, in its abstract, described the invention:
+The invention relates to a matrix tablet for the prolonged release of gliclazide which ensures continuous and consistent release of the active ingredient after administration by the oral route, the release being insensitive to variations in the pH of the dissolution medium.
+[195]
+As already pointed out, the '782 Patent is dated May 11, 2004, but it was applied for in 1999. Furthermore, example 4 establishes that the
+in vitro
+release kinetics of the 60 mg tablet are similar (meaning an f2 value between 50 and 100) to the 30 mg tablets. To say the least, Dr. Wüthrich and his team already had significant experience by the time Servier asked for divisibility of a 60 mg tablet of gliclazide.
+[196]
+Given its burden of establishing non-obviousness, it is surprising how little is said of the work needed to reach the result of identical dissolution profiles for one half-tablet compared to a whole tablet.
+[197]
+Servier points to its invention story presented by Dr. Wüthrich in his affidavit as evidence of the difficulty in obtaining the invention, and therefore as a sign that it would not have been obvious to the skilled person.
+[Redacted]
+[198]
+[Redacted
+] The affidavit of Dr. Wüthrich is remarkably spare on details and timelines. Nevertheless, US Patent '782, whose application was filed in October 1999 and was approved in 2004, already referred to HPMC used in the hydrophilic matrix.
+[Redacted
+] There is no evidence that, once Servier decided to pursue a hydrophilic matrix based tablet, the team conducted other than routine experimentation and adjustment in settling on the precise formulation necessary to achieve the desired dissolution profile. I repeat: the burden of proof never shifts. Once the issue of invalidity is put in play by Apotex, it is for Servier to satisfy the Court that it was not obvious to try. On numerous occasions the Court inquired about the inventive concept and what were the difficulties encountered. What was the inventive ingenuity involved? That the team tried multiple alternative routes prior to its work with the hydrophilic matrices does not, in and of itself, render the invention non-obvious. I am left with the evidence of Dr. Lee who wrote in his affidavit
+:
+[Redacted]
+[199]
+Apotex attempted to explain the time taken by Servier to come to a result by the suggestion that, in fact, Servier was seeking to develop a different product, perhaps one that would defeat an invalidity challenge for obviousness. Apotex points to the evidence of one of its experts, Dr. Lee, at paragraph 217 of his affidavit
+:
+[Redacted]
+[200]
+He adds at paragraph 244
+:
+[Redacted]
+[201]
+The lack of information, let alone evidence, about what precisely Servier was seeking to attain makes it unwise for the Court to speculate. We know from the cross-examination of Dr. Wüthrich that Servier was pursuing many goals (see cross-examination, questions 139 to 145).
+[202]
+For our purposes, what counts is to measure the invention as presented in the '670 Patent against the prior state of the art. The time spent and the efforts made to attain other goals have no relevance. The difference between the prior art and the inventive concept, on this record, did not require inventive ingenuity. The burden on Servier to convince that the allegation of obviousness is not justified has not been discharged.
+[203]
+A pharmaceutical company developing and bringing new drugs to market may be motivated by factors other than pursuing the most obvious route to the invention. The skilled worker, in contrast, never misses the obvious (see
+REFERENCE_SUPPRESSED). The actual course of conduct pursued by Servier, without further particularization, does not assist in suggesting that the invention was other than obvious to try.
+B.
+Utility
+[204]
+The requirement that an invention possess utility to be the subject of a valid patent comes from the definition of "invention" in the
+Patent Act
+, which states that a claimed invention must be "useful:"
+Definitions
+2. In this Act, except as otherwise provided,
+...
+"invention" means any new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter;
+Définitions
+2. Sauf disposition contraire, les définitions qui suivent s'appliquent à la présente loi.
+...
+« invention » Toute réalisation, tout procédé, toute machine, fabrication ou composition de matières, ainsi que tout perfectionnement de l'un d'eux, présentant le caractère de la nouveauté et de l'utilité.
+[205]
+The granting of a patent has been described as a bargain between inventors and the public: inventors receive a monopoly over the invention for a limited period of time and, in return for the monopoly, the public gains knowledge of the invention as it is brought into the public domain (
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED). Accordingly, a patent must disclose enough information that the skilled person at whom it is directed could put the invention into practice and have it work as promised.
+[206]
+As of the Canadian filing date (here April 24, 2008), the patent must either disclose demonstrated utility (i.e., proof that the invention does what it claims to do) or a basis for a sound prediction of the utility (i.e., predict that it is likely to do what it claims to do):
+CITATION_SUPPRESSED;
+REFERENCE_SUPPRESSED. Accordingly, this Court must construe the promise of the '670 Patent, and then assess whether the promised utility was demonstrated or had been soundly predicted.
+(1)
+The Promise of the Patent
+[207]
+For an invention to exhibit utility, "[i] t is sufficient that it be new, better, cheaper, or afford a choice. It can include an advantage or a disadvantage that is avoided" (
+REFERENCE_SUPPRESSED). Where a patent does not promise a particular result or usefulness in the invention, the threshold for determining utility is low; however, where a patent does promise a particular utility, the patent will be held to that promise and utility must be assessed according to it (
+CITATION_SUPPRESSED;
+REFERENCE_SUPPRESSED).
+[208]
+Like other elements of the patent, the promise of the utility is purposively construed through the eyes of the skilled worker at whom the patent is directed (
+REFERENCE_SUPPRESSED;
+CITATION_SUPPRESSED). The '670 Patent promises a divisible modified release gliclazide tablet where the whole and subdivided portions of the tablet will exhibit identical
+in vitro
+dissolution kinetics. It is to this promise which the patent will be held.
+[209]
+The claimed invention is also said to provide two advantages: improved treatment adherence by the patient (who, depending on his or her recommended dosage, may have fewer pills to take) and optimized production of the medicine:
+De manière très avantageuse par rapport aux formulations existantes, la présente invention consistant en un comprimé matriciel sécable à libération prolongée de gliclazide 60mg assure une meilleure observance du traitement en limitant le nombre de comprimés à prendre de la part du patient et permet également d'optimiser la fabrication des médicaments sur une ligne de production.
+Very advantageously compared with the existing formulations, the present invention consisting of a 60 mg prolonged-release scored matrix gliclazide tablet provides better treatment adherence by limiting the number of tablets to be taken by the patient and also makes it possible to optimize the production of medicaments on a single production line.
+[210]
+Although the advantage in the claimed invention accrues mostly to the producer of the tablets (as some patients, depending on dosage, would have no reduction in the number of pills required and may face an additional step of dividing the tablet), this promise and ensuing advantage is sufficient for a promised utility.
+(2)
+Demonstrated Utility
+[211]
+Where a patent claims utility on the basis of a result actually achieved as of the filing date, the patent disclosure must "makes reference to a study demonstrating that the patent does what it promises to do" (
+CITATION_SUPPRESSED). The actual proof of demonstrated utility need not, however, be set out in the patent disclosure.
+[212]
+If I am mistaken and the '670 Patent is infringed or the allegation of obviousness is not justified because the claims must be construed as requiring
+in vivo
+dissolution profiles that are identical, then the '670 Patent has not demonstrated its utility because there is no evidence whatsoever of utility.
+[213]
+In the view of Servier, it suffices that there be, as of April 24, 2008, a demonstration of the invention's usefulness. Servier relies on two bioequivalence studies which it claims prove utility. However, it is not disputed that neither of those studies is alluded to, let alone referenced, in the specification. It is only when utility is challenged that Servier pulls two studies which, it claims, prove utility.
+[214]
+The difficulty posed is that the Federal Court of Appeal in its decision in
+CITATION_SUPPRESSED
+,
+supra
+, states that the law requires such references:
+[30] Section 2 of the Act requires that the subject matter of a patent be new and useful. The granting of a patent is dependant upon the disclosure of how the patent intends to fulfill its promise (
+REFERENCE_SUPPRESSED;
+CITATION_SUPPRESSED). The general principle is that, as of the date of the filing, a patent must disclose either an actually achieved result (i.e., prove that it does what it claims) or a basis for sound prediction of the result (i.e., show that it is likely to do what it claims).
+There is no requirement to prove demonstrated utility in the disclosure of the patent; so long as the disclosure makes reference to a study demonstrating that the patent does what it promises to do, this criteria is met
+(
+REFERENCE_SUPPRESSED). In our case, utility would be demonstrated if the patent disclosed studies showing that latanoprost, when administered on a chronic basis, reduced intraocular pressure without causing substantial side effects. [My emphasis.]
+[215]
+That decision is binding on this Court. No one suggests that the patentee must extol the virtues of its discovery. But without any reference to studies that will show, once they have to be produced, the existence of the promised utility, how is the public to know that utility is demonstrated?
+[216]
+At the hearing of this matter, counsel for Servier suggested that the Court could disregard the requirement that reference to a study be included in the patent disclosure and characterized the decision by the Federal Court of Appeal in
+CITATION_SUPPRESSED
+,
+supra
+, as "a bit of an outlier that [...] represented a high water mark [...] of the elements which must be in the patent for demonstrated utility." I find it difficult to agree with this characterization. This Court is bound by the principle of
+stare decisis
+to follow and apply the articulation of the law as set out by the Federal Court of Appeal in
+CITATION_SUPPRESSED
+. Accordingly, the tests Servier points to that are not referred to in the '670 Patent are not relevant for establishing demonstrated utility.
+[217]
+If on the other hand we consider the promised utility as asserted by Apotex, I would have been inclined to find that one embodiment of the claims had been demonstrated. But is that sufficient?
+[218]
+While the '670 Patent includes results from a single
+in vitro
+dissolution test based on L0014022 (the single example included in the specification), this is not sufficient demonstrated utility in the patent claims. None of the asserted claims is limited to the specific tablet that was tested. While claim 10 and its dependent claims are limited to the same ingredient composition as L0014022, there are no limitations set as to the tablet shape, size, surface area, etc. Accordingly, it cannot be said that the testing conducted on the example lot and referred to in the patent demonstrates the dissolution properties, and therefore the invention's utility, across the entire spectrum of the claimed invention. Where some of the bodies falling within the claim have no utility (beyond a
+de minimis
+range), the claim fails (
+REFERENCE_SUPPRESSED, citing
+REFERENCE_SUPPRESSED).
+(3)
+Sound Prediction
+[219]
+The doctrine of sound prediction permits a patent to establish utility, even where that utility had not been fully verified as of the filing date. To be valid under this doctrine, a patent must provide a "solid teaching" of the claimed invention (
+CITATION_SUPPRESSED). A patent whose predicted usefulness is based on "misinformation, mere speculation or lucky guesses" will not meet this standard (
+CITATION_SUPPRESSED).
+[220]
+Sound prediction has three elements, all of which must be met when a patent relies on this doctrine for its validity:
+1) There must be a factual basis for the prediction;
+2) The inventor must have an articulable and "sound" line of reasoning from which the desired result can be inferred from the factual basis; and
+3) There must be proper disclosure.
+(See
+CITATION_SUPPRESSED;
+CITATION_SUPPRESSED;
+CITATION_SUPPRESSED).
+[221]
+Again, the perspective of the skilled worker at whom the patent is directed sets the standard against which these elements are measured. As stated by the Federal Court of Appeal in
+CITATION_SUPPRESSED:
+[T]he factual basis, the line of reasoning and the level of disclosure required by the doctrine of sound prediction are to be assessed as a function of the knowledge that the skilled person would have to base that prediction on, and as a function of what that skilled person would understand as a logical line of reasoning leading to the utility of the invention.
+[222]
+In my view, the claimed invention fails on all three elements, whether we direct our attention to the patent as asserted by Apotex or by Servier.
+[223]
+The sole factual basis upon which the '670 Patent can rely is the single
+in vitro
+dissolution test using example L0014022, as discussed above. For the same reason this single test failed to support a demonstration of utility, this test does not provide an adequate factual basis for sound prediction across the breadth of the claimed monopoly or with respect to
+in vivo
+dissolution profiles. The patent specifically refers to this testing as an "example" of the invention and this single set of illustrative data does not support as large a claim as set out in the '670 Patent.
+[224]
+There is no sound and articulated line of reasoning in the patent bridging the gap between the factual basis and the predicted utility (i.e., that all tablets falling within the claimed invention will exhibit the necessary dissolution profiles). It is true that the sufficiency of the line of reasoning is assessed in light of the abilities and aptitudes of the skilled person (
+CITATION_SUPPRESSED asks "whether the skilled person would accept the logic presented in the specification and derive from the sound prediction as a whole an expectation that the invention will provide the promised utility."). However, even with the skilled worker's extensive education and experience in drug formulation and evaluation, he or she cannot make a sound prediction where nothing is offered as a basis for such a prediction.
+[225]
+Finally, and most importantly in my view, building upon the insufficiency of the factual basis and logical reasoning, there is no proper disclosure in the patent. When assessing this element of the doctrine of sound prediction, the Court is to "determine whether the specification provides a full, clear and exact description of the nature of the invention and the manner in which it can be practised" (
+CITATION_SUPPRESSED; see also
+CITATION_SUPPRESSED). Where a prediction is made sound by tests, such as the clinical trials and additional
+in vitro
+tests pointed to by Servier, those tests must be disclosed in the patent (
+REFERENCE_SUPPRESSED). Once again, this patent discloses very little. Indeed, that will have been the main issue with the '670 Patent. After much deliberation and numerous examinations of the '670 Patent and the evidence proffered by the parties, I was left with the general impression that was played a game of hide-and-seek. Where the law required a full, clear, and exact description of the nature of the invention and most importantly the manner in which it can be practised in order to benefit from the bargain, the patent as written says very little and it cannot satisfy the burden. The Servier evidence did not elucidate sufficiently. Without proper disclosure, it cannot be said that the public is receiving their proper share in return for the patent and monopoly.
+[226]
+Apotex abandoned at the hearing its argument about overbreadth. It advanced its insufficiency argument solely as an alternative to its obviousness argument.
+[227]
+Having found that the allegation of obviousness is justified, it will not be necessary to consider further this argument.
+X.
+Conclusion
+[228]
+The Court concludes that the allegations of non-infringement are justified. Furthermore, the Court concludes that the allegations of invalidity for obviousness and utility are also justified.
+[229]
+It follows that the application for an order of prohibition sought by the first person, Servier, must be dismissed, with costs in favour of Apotex.
+[230]
+At the conclusion of the hearing, counsel for Apotex suggested that the parties might reach an agreement between themselves as to costs, prior to knowing the outcome of this application. On November 19, 2014, the Court received a letter from one of Apotex's counsel indicating that such an agreement had been reached. It showed that a copy of the letter also had been sent to counsel for Servier. The following directions were submitted for the Court's approval:
+a) Costs are to be assessed at the middle of Column IV of Tariff B;
+b) No costs are recoverable for in-house counsel, law clerks, students and support staff;
+c) Costs are recoverable only for those experts who provided affidavits or reports that were filed in the proceeding (the "allowable experts");
+d) The hourly rate for allowable experts shall not exceed the hourly rate of senior counsel;
+e) Fees paid to allowable experts for time not spent preparing the expert's own affidavit/report or preparing for the expert's own cross-examination are recoverable only where it is demonstrated that it was reasonable and necessary to provide technical assistance to counsel;
+f) Counsel fees shall be assessed on the basis of:
+i. one senior and one junior counsel at the hearing;
+ii. one senior and one junior counsel in conducting cross-examinations; and
+iii. one senior counsel for defending cross-examinations;
+g) Travel and accommodation expenses will be assessed on the basis of economy air fares and single rooms; and
+h) Photocopying costs will be assessed at $0.25 per page, and the number of recoverable copies shall be limited to that which is reasonable and necessary.
+[231]
+The Court finds that the terms of this agreement are reasonable in light of the nature of the proceedings. Costs are awarded to Apotex, to be assessed in accordance with these directions.
+XI.
+Post-script
+[232]
+The Confidential Judgment and Reasons were released to the parties on January 28, 2015. In light of the Confidentiality Order issued on March 19, 2014 covering certain information in this proceeding, the Court directed the parties to provide submissions on any redactions they wished to propose before the Public Judgment and Reasons were released. On February 6, 2015, counsel for Servier and counsel for Apotex made submissions by separate letters requesting certain redactions. The Court has agreed with those redactions, and accordingly, the Public Judgment and Reasons contain redactions made to the Confidential Judgment and Reasons.
+JUDGMENT
+[233]
+THIS COURT'S JUDGMENT is that
+:
+1. This application to prohibit the Minister of Health from issuing a Notice of Compliance to Apotex Inc. for its 60 mg divisible, modified release gliclazide tablet until the expiry of Canadian Patent No. 2,629,670 is dismissed; and
+2. Costs are awarded to Apotex, to be assessed in accordance with the Reasons.
+Application dismissed.
+Editor: Angela E. McKay
+[End of document]

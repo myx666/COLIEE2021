@@ -1,0 +1,910 @@
+Introduction
+[1]
+McGillis, J.
+: The application for judicial review in file T-1257-97 raises the question of whether the Human Rights Tribunal ("Tribunal") is an institutionally independent and impartial quasi-judicial body.
+Facts
+[2]
+A series of human rights complaints were filed against Bell Canada with the Canadian Human Rights Commission ("Commission") between 1990 and 1994 by some of its employees and their unions, the Canadian Telephone Employees Association ("CTEA") and the Communications, Energy and Paperworkers Union of Canada ("CEPU"), as well as a group called Femmes Action. The complaints involved allegations that Bell Canada engaged in a discriminatory practice on the ground of sex, in a matter related to employment, by paying its female employees lower wages than male employees who were performing work of equal value, contrary to s. 11 of the
+Canadian Human Rights Act
+, R.S.C. 1985, c. H-6 ("
+Act
+"). The Commission conducted an investigation into the various complaints. Attempts to resolve the matter by mediation and by other informal discussions were unsuccessful, and the Commission released its investigation report in 1995.
+[3]
+In May 1996, the Commission requested, under s. 49 of the
+Act
+, that the President of the Human Rights Tribunal Panel ("Tribunal Panel") appoint a Tribunal to inquire into the pay equity complaints against Bell Canada. The Commission also requested, under s. 40(4) of the
+Act
+, the appointment of a single Tribunal to hear all of the complaints, on the basis that they involved substantially the same issues of fact and law.
+[4]
+On June 10, 1996, the Registrar of the Tribunal Panel wrote to Bell Canada and requested information, such as the preferred venue, the estimated length of the hearing, and the name of counsel, in order to assist in preparing for the hearing.
+[5]
+On June 14, 1996, Bell Canada instituted judicial review proceedings in file T-1414-96 challenging the decision of the Commission to request the appointment of a Tribunal to inquire into the complaints. By letter dated June 19, 1996, counsel for Bell Canada requested that the inquiry not proceed pending the determination of the judicial review application in the court.
+[6]
+On August 7, 1996, the President of the Tribunal Panel appointed, under s. 49(1.1) of the
+Act
+, a Tribunal composed of three members to inquire into the complaints against Bell Canada.
+[7]
+On August 14, 1996, counsel for Bell Canada wrote to the Registrar of the Tribunal Panel to request confirmation that the inquiry would not proceed until the pending judicial review application had been determined by the court. On August 27, 1996, the Registrar confirmed to all of the parties that the Tribunal intended to proceed with the inquiry.
+[8]
+On September 6, 1996, Bell filed a judicial review application, in file T-1985-96, challenging the decision of the President of the Tribunal Panel to appoint a Tribunal to inquire into the complaints.
+[9]
+By letters dated September 13 and 24, 1996, the Registrar notified the parties that the Tribunal would entertain submissions concerning whether the inquiry should be adjourned pending the outcome of the two outstanding judicial review applications. The Tribunal held a hearing on Bell Canada's motion for adjournment and, on November 26, 1996, dismissed the motion.
+[10]
+On December 11, 1996, Bell Canada filed a judicial review application, in file T-2722-96, challenging the decision of the Tribunal refusing to adjourn the inquiry.
+[11]
+Shortly thereafter, Bell Canada filed a motion in the court seeking to stay the proceedings of the Tribunal pending the final disposition of the applications for judicial review in files T-1414-96, T-1985-96 and T-2722-96. On February 21, 1997, Richard, J., dismissed the motion for a stay of proceedings.
+[12]
+Between April and June 1997, the Tribunal heard other motions by Bell Canada, including a motion that one of its members recuse himself from the hearing, and a motion that the Tribunal was not an independent quasi-judicial body institutionally capable of providing a fair hearing.
+[13]
+On April 10, 1997, the Tribunal dismissed Bell Canada's motion seeking the recusal of one of its members. In that regard, the Tribunal concluded, among other things, that the member's previous retainers as an expert witness for the Commission in other cases did not give rise to a reasonable apprehension of bias. On May 9, 1997, Bell Canada filed a judicial review application, in file T-950-97, challenging the decision of the Tribunal on the recusal motion.
+[14]
+On June 4, 1997, the Tribunal issued written reasons in which it concluded that it was "... an independent quasi-judicial body, institutionally capable of providing a fair hearing in accordance with the principles of natural justice and fundamental freedom". On June 10, 1997, Bell Canada filed a judicial review application, in file T-1257-97, challenging the decision of the Tribunal concerning its independence.
+[15]
+On June 16, 1997, Richard, J., issued an order joining the judicial review applications in files T-2722-97, T-950-97 and T-1257-97.
+Legislative History Of The Commission
+And The Tribunal Panel And The
+Practice Governing Their Relationship
+[16]
+In order to determine whether a Tribunal appointed under the
+Act
+is an independent and impartial quasi-judicial body, the history of the legislative scheme and the development of the practice governing the relationship between the Tribunal Panel and the Commission must be examined in detail.
+i)
+Canadian Human Rights Act
+, S.C.
+1976-77, c. 33
+[17]
+On July 14, 1977, the
+Canadian Human Rights Act
+, S.C. 1976-77, c. 33 ("
+1977 Act
+") was proclaimed in force. Under the legislative scheme, Part I of the
+1977 Act
+contained the code proscribing discrimination in Canada. In Part II, the Commission was established, consisting of a Chief Commissioner, a Deputy Commissioner and other members, all of whom were appointed by the Governor-in-Council. Part III contained the statutory scheme governing the complaint, investigative and adjudicative process. For the purposes of this application, certain aspects of the statutory scheme in Parts II and III of the
+1977 Act
+must be considered in detail.
+[18]
+Part II of the
+1977 Act
+provided, among other things, that the Chief Commissioner was designated as the chief executive officer of the Commission, with the power to supervise and direct the Commission and its staff (s. 25; now s. 31). The Chief Commissioner and Deputy Commissioner were full-time members of the Commission, while the others were either full or part-time members (s. 21(2); now s. 26(2)). With respect to pay, the full-time members were to be paid a salary fixed by the Governor-in-Council, while the part-time members would be paid the remuneration prescribed by bylaw of the Commission (s. 24(1); now s. 30(1)). Furthermore, each member of the Commission would be paid the travel and living expenses prescribed by bylaw of the Commission (s. 24(3); now s. 30(3)).
+[19]
+Under the statutory scheme in Part II, the Commission was granted broad powers, duties and responsibilities for the administration of Parts I, II and III of the
+1977 Act
+, as well as for various other matters, in order to permit it to discharge its mandate as the federal vehicle for the protection of human rights in Canada. One of the important powers accorded to it was the ability to make bylaws for the conduct of its affairs, including bylaws prescribing the rate of remuneration to be paid to its part-time members, members of a Tribunal and experts providing technical or specialized knowledge to the Commission. The Commission was also accorded the power to make bylaws prescribing the travel and living expenses for its members and members of a Tribunal, as well as expenses for an expert. No bylaw made by the Commission would have effect unless it was approved by Treasury Board. The power granted to the Commission to make bylaws stated as follows:
+"29(1) The Commission may make bylaws for the conduct of its affairs and, without limiting the generality of the foregoing, may make bylaws:
+. . . . .
+(d) prescribing the rates of remuneration to be paid to part-time members, members of a Human Rights Tribunal and any person engaged pursuant to subsection 26(2); and
+(e) prescribing reasonable rates of travel and living expenses to be paid to members of the Commission, members of a Human Rights Tribunal and any person engaged pursuant to subsection 26(2)."
+"29(1) La Commission peut, par règlement, régir son activité et, notamment, prévoir
+. . . . .
+d) la rémunération à verser aux commissaires à temps partiel, aux membres des tribunaux des droits de la personne et aux personnes visées au paragraphe 26(2); et,
+e) les indemnités raisonnables de déplacement et de séjour à verser aux commissaires, aux membres des tribunaux des droits de la personne et aux personnes visées au paragraphe 26(2)."
+(now s. 37(1)(e) and (f))
+[20]
+A second important power granted to the Commission in Part II was the ability to issue guidelines outlining its opinion concerning the extent to which and the manner in which any provision of the
+1977 Act
+would apply in a particular case or in a class of cases (s. 22(2); now ss. 27(2) and (3)). Any guideline issued by the Commission was binding on both it and a Tribunal with respect to the resolution of a complaint falling within its terms. Each guideline issued by the Commission was required to be published in Part II of the
+Canada Gazette
+(s. 22(2.1); now s. 27(4)). Furthermore, a guideline that applied to a particular case had to be communicated to the persons directly affected by it in such manner as deemed appropriate by the Commission (s. 22(2.1); now s. 27(4)).
+[21]
+Under the scheme in Part III governing the complaint, investigative and adjudicative process, the Commission was permitted to receive or initiate complaints, and was required to deal with every complaint filed, subject to certain exceptions (ss. 32 and 33; now ss. 40, 40.1 and 41). In order to assist it in dealing with a complaint, the Commission could designate a person to investigate (s. 35; now s. 43). Following an investigation, an investigator was required to submit to the Commission a report containing the findings (s. 36(1); now s. 44(1)). Upon receipt of such a report, the Commission could adopt the report or dismiss the complaint (s. 36(3); now s. 44(3)). However, if there were other grievance, review or statutory procedures available to the complainant, the Commission was required to refer the complainant to the appropriate authority (s. 36(2); now s. 44(2)). After receipt of a report, the Commission was required to notify the complainant of the action taken, namely whether it adopted the report or dismissed the complaint, or whether it had decided to refer the complainant to another authority (s. 36(4); now s. 44(4)). Following that notification, or earlier on the filing of the complaint, the Commission could appoint a conciliator to attempt to bring about a settlement of the complaint (s. 37; now s. 47).
+[22]
+At any time following the filing of a complaint, the Commission had the discretion to appoint a Tribunal, consisting of no more than three members, to inquire into a complaint (ss. 39(1) and (2)). The Commission also had the discretion, if it were satisfied that complaints involved substantially the same issues, to appoint a single Tribunal to deal with the complaints. In appointing a Tribunal, the Commission was required to select the members from a panel of persons established and maintained by the Governor-in-Council (s. 39(5)). No member, officer or employee of the Commission, and no person who had acted as an investigator or conciliator of the complaint in question, was eligible for appointment to a Tribunal (s. 39(3); now s. 49(3)). A member of a Tribunal was entitled to be paid the remuneration and expenses prescribed in a bylaw made by the Commission (s. 39(4); now s. 49(4)).
+[23]
+In terms of its duties, a Tribunal was required to inquire into the complaint, after giving due notice to the Commission, the complainant, the person against whom the complaint was made, and any other interested party (s. 40(1); now s. 50(1)). A Tribunal was also required to provide all parties to whom notice had been given a full and ample opportunity to appear before it, to present evidence and to make representations, in person or through counsel (s. 40(1); now s. 50(1)). In appearing before a Tribunal, the Commission was an interested party, but was required to adopt the position that was, in its opinion, in the public interest, having regard to the nature of the complaint (s. 40(2); now s. 51).
+[24]
+With respect to its adjudicative powers, a Tribunal was accorded the right, in the same manner and to the same extent as a superior court of record, to summon and enforce the attendance of witnesses, as well as to compel them to give oral or written evidence on oath and to produce documents (s. 40(3); now s. 50(2)). Furthermore, a Tribunal had the power to receive and accept evidence or information whether or not it would be admissible in a court of law, save and except for evidence that would be inadmissible by reason of any privilege (s. 40(4); now s. 50(3)). A Tribunal was also permitted to administer oaths, and to permit a witness to receive fees and allowances (s. 40(3)(b) and (7); now ss. 50(2)(b) and (5)). Although its hearings were to be held in public, a Tribunal was given the power to exclude the public from the whole or any part of its hearing, if necessary in the public interest (s. 40(b); now s. 52).
+[25]
+At the conclusion of a hearing, a Tribunal was required to determine whether a complaint was substantiated (s. 41(1) and (2); now ss. 53(1) and (2)). In the event that it found a complaint to be substantiated, a Tribunal was granted the power to make an order against the person who had engaged in the discriminatory practice in question, and to include various terms in the order (s. 41(2); now s. 53(2)). In certain defined circumstances, a Tribunal was also given the power to order the person to pay compensation, not exceeding $5,000.00, to the victim (s. 41(3); now s. 53(3)).
+[26]
+The Commission, the complainant and the person against whom the complaint was made were granted the right to appeal an order or decision of a Tribunal, composed of fewer than three members, to a Review Tribunal on any question of law or mixed fact and law (s. 42.1; now ss. 55 and 56). Following the filing of such an appeal, the Commission was required to select three members of the panel, other than the member or members whose decision or order was under appeal, to constitute the Review Panel (s. 42.1(2)). For the purposes of the present application, the procedures before the Review Tribunal need not be examined.
+[27]
+Finally, the Commission was required to forward an annual report concerning its activities under Parts II and III of the
+1977 Act
+to the Minister of Justice, for transmittal to Parliament (s. 47; now s. 61).
+ii) The 1978 Amendments
+[28]
+In the
+Miscellaneous Statute Law Amendment Act
+, 1978, S.C. 1977-78, c. 22, the provision permitting the Commission to issue binding guidelines concerning the application of the
+1977 Act
+was amended by extending its scope to bind not only a Tribunal, but also a Review Tribunal (s. 5 of the amending
+Act
+amended s. 22 of the
+1977 Act
+; now s. 27). In all other respects, the provision remained unchanged.
+iii) The Early Relationship Between The
+Commission And The Tribunal
+[29]
+In August 1978, shortly after the enactment of the
+1977 Act
+, Michael Glynn was hired as an employee of the Commission in a position called "Secretary and Head", in which he performed dual duties and exercised responsibilities for both the Commission and the Tribunal. Mr. Glynn held the most senior administrative position in relation to the activities of the Tribunal. In that capacity, he had responsibility for supervising one or two Tribunal officers and for organizing the Tribunal. However, Mr. Glynn took direction from the Commission in relation to the exercise of most of his duties, and much of his work in the early years related to the Commission. For example, he and the other Tribunal officers performed many administrative duties for the Commission, including those pertaining to telecommunications, the organization of meetings, and the publication and issuance of manuals. At that time, the Tribunal shared premises with the Commission. Furthermore, there was no separate budget for the Tribunal; it was "just incorporated" in the Commission's budget.
+[30]
+In 1978, the Governor-in-Council created a panel of approximately one hundred members from which the Chief Commissioner would select the members of a Tribunal. The first Tribunal hearing was conducted in June 1979. Although the evidence in the record is somewhat deficient, a bylaw was passed by the Commission at some point in time following the enactment of the
+1977 Act
+in order to provide for the remuneration and travel and living expenses of the members of a Tribunal.
+iv) The 1985 Amendments
+[31]
+On May 9, 1984, Collier, J., concluded, in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), that the statutory scheme in the
+1977 Act
+requiring the Commission to substantiate a complaint prior to appointing a Tribunal gave rise to a reasonable apprehension of bias.
+[32]
+As a result of that decision, the provisions requiring the Commission to appoint a Tribunal were repealed in June 1985 in the
+Statute Law (Canadian Charter of Rights and Freedoms)
+Amendment Act
+, S.C. 1985, c. 26 (
+"1985 amendments"
+). Those amendments occurred just prior to the October 1985 decision in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), in which the Federal Court of Appeal also held that the scheme in the
+1977 Act
+gave rise to a reasonable apprehension of bias on the basis that the Commission both selected the members of the Tribunal and prosecuted the complaint before it.
+[33]
+In the 1985 amendments, the scheme in the
+1977 Act
+for the appointment of a Tribunal or a Review Tribunal by the Commission was abolished (s. 71 of the 1985 amendments amending s. 39). The Tribunal Panel was formally established in law, consisting of a President and such other members as may be appointed by the Governor-in-Council (s. 70 of the 1985 amendments, enacting ss. 38.1, 38.2, 38.3, 38.4 and 38.5; now ss. 48.1, 48.2, 48.3, 48.4 and 48.5). The President and the other members were appointed to hold office during good behaviour, but were removable by the Governor-in-Council for cause. The term of a President's appointment was three years in duration, while the other members were appointed for terms not exceeding three years. A President and any other member whose term had expired was eligible for reappointment in the same or any other capacity. With respect to pay, the 1985 amendments addressed that question only in relation to the President, who was to be paid remuneration and expenses for the performance of duties as President "... at the same rate as is prescribed by bylaw of the Commission for a member of the Tribunal acting in the capacity of a Chairman thereof". (s. 70 of the 1985 amendments, enacting s. 38.5; now s. 48.5). The 1985 amendments did not alter the bylaw provision in the
+1977 Act
+which specified that a member of the Tribunal was entitled to be paid the remuneration and expenses prescribed in a bylaw made by the Commission.
+[34]
+Under the scheme enacted in the 1985 amendments, the Commission was permitted to request the President of the Tribunal Panel to appoint a Tribunal to inquire into a complaint, following a determination by the Commission that an inquiry was warranted and that the complaint ought not to be referred to another authority or dismissed (ss. 69 and 71 of the 1985 amendments amending ss. 36 and 39; now ss. 44 and 49). On receipt of such a request, the President was required to appoint a Tribunal, consisting of a person or persons selected by him from the members of the Tribunal Panel, to inquire into the complaint. In the event that a Tribunal had more than one member, the President was required to designate a Chairman. The President could also appoint himself as a Tribunal or as a member of a Tribunal. In the latter case, the President would preside as the Chairman. In the event of an appeal from a decision of a Tribunal composed of fewer than three members, the President was required to select three members from the Tribunal Panel, other than the member or members whose decision or order was under appeal, to constitute the Review Tribunal. Under the transitional scheme, every Tribunal appointed prior to the coming into force of the amendments continued to act as though the amendments had not taken place (s. 73 of the 1985 amendments).
+[35]
+In summary, the fundamental scheme enacted in the
+1977 Act
+establishing the Commission and creating its powers, duties and responsibilities was unchanged by the 1985 amendments, save and except in relation to the abolition of the Commission's power to select the members of a Tribunal and Review Tribunal. Given the abolition of that power, there were consequential amendments providing for the creation of the Tribunal Panel and the office of its President, as well as the method of referral of complaints from the Commission and the procedure for the appointment of a Tribunal by the President. However, the power of the Commission to make bylaws fixing the rates of remuneration for its part-time members, its experts and the members of a Tribunal, as well as their expenses, remained in effect. Similarly, the power of the Commission to issue guidelines binding on itself and any Tribunal was unaffected. Finally, the Commission, under the supervision and direction of the Chief Commissioner, retained its general responsibility for the administration of the
+Act
+, including Part III relating to all aspects of the Tribunal Panel and its activities. The role of the President of the Tribunal Panel, including his duties, powers and responsibilities, was not addressed in the 1985 amendments.
+v) Bylaws And Guidelines
+[36]
+In 1985 or 1986, the Commission enacted Bylaw No. 4, under what are now paragraphs 37(1)(e) and (f) of the
+Act
+, providing for the remuneration and travel and living expenses to be paid to members of a Tribunal. With respect to remuneration, the bylaw provided for payment at the rate of $325.00 per day for a member and $450.00 per day for the Chairman of a Tribunal. The bylaw further specified that travel and living expenses would be paid to a Tribunal member in accordance with Treasury Board directives in force at the time the expenses were incurred. The bylaw has not been amended since it was enacted.
+[37]
+On November 18, 1986, the
+Equal Wages Guidelines
+, 1986
+of the Commission were proclaimed in force, respecting the application of s. 11 of the
+Act
+and prescribing factors justifying different wages for work of equal value. These
+Guidelines
+replaced the
+Equal Wages Guidelines
+made on September 17, 1978. The explanatory note which accompanied the
+Equal Wages Guidelines, 1986
+stated as follows:
+"EXPLANATORY NOTE
+(This note is not part of the Guidelines)
+These guidelines prescribe
+(a) the manner in which section 11 of the
+Canadian Human Rights Act
+is to be applied; and
+(b) the factors that are considered reasonable to justify a difference in wages between men and women performing work of equal value in the same establishment."
+vi) The Relationship Between The
+Commission And The Tribunal Panel After
+The 1985 Amendments
+[38]
+After the 1985 amendments and the decisions in
+ <FRAGMENT_SUPPRESSED>  funding and the operations of the Tribunal Panel from the Commission. In order to achieve that objective, the newly appointed President, Sidney Lederman, placed all dealings and responsibilities for the operations of the Tribunal Panel under his auspices. In particular, the Tribunal Panel staff began to take directions from the President, even though they remained employees of the Commission. Furthermore, any instructions concerning a Tribunal appointed under the
+Act
+came from its members, not from a staff member of the Commission. A Tribunal had responsibility for all aspects of the carriage of the case, including making the decisions concerning the timing and the venue of the hearing. The registry provided all of the required administrative support, including making the necessary arrangements for the hearing, preparing the documents, notices and correspondence to the parties, assisting in the case planning process and keeping the official record.
+[39]
+In the same time period, the Department of Justice began to conduct a general review of the
+Act
+, including the relationship between the Commission and the Tribunal Panel, as well as the funding of the Tribunal Panel.
+[40]
+Despite the 1985 amendments and the limited administrative changes which were implemented, there was, as Mr. Glynn termed it, a "perception problem" concerning the Tribunal's lack of independence. In particular, there was still a close relationship between the Commission and the Tribunal Panel which, among other things, included the sharing of office premises. By letter dated February 28, 1986, Mr. Glynn raised with the President in writing the fact that the Commission and the Tribunal Panel shared premises, a matter which, in his view, could compromise "the independence of the appointment process".
+[41]
+The President of the Tribunal Panel shared Mr. Glynn's concerns, and by letter dated March 10, 1986, stated as follows to the Chief Commissioner:
+"I note that under items 2 and 3 of the schedule the mailing address for the President of the Human Rights Tribunal Panel is c/o The Canadian Human Rights Commission. Although it is purely cosmetic, this gives an appearance of an association between the Commission and myself. In addition, the parties may also believe that filing the documents with the Tribunal in accordance with the
+Regulations
+is sufficient to constitute service upon the Commission. In view of the sensitivity that exists with respect to the independence of the appointment process and that there be no appearance of association between the Commission and the President, I am raising this matter with you as I understand you have some responsibility for amendments to the
+Regulations
+made under Order-in-Council. I would obviously recommend that a change be made to eliminate reference in the mailing address to the Canadian Human Rights Commission. The address itself can remain the same as it is the address for Tribunal Secretariat".
+[42]
+By letter dated March 19, 1986, to the President of the Tribunal Panel, the Chief Commissioner indicated that the relationship between the Commission and the Tribunal, including their shared office premises, was a matter that should be raised with the Department of Justice. In that letter, he stated as follows:
+"[...] The matter of the Tribunal Secretariat's location at the Commission offices is perhaps worthy of further attention. The Department of Justice is presently engaged in a fundamental review of the
+Canadian Human Rights Act
+and we are hopeful of having some input into that process. We intend to review with the Department the relationship between the Commission and the Tribunal Panel, including the Tribunal Secretariat
+and the method of remuneration of Tribunal Members
+. The Tribunal address and the location of the Tribunal Secretariat will form part of that discussion." (emphasis added)
+[43]
+At some point in time, the President suggested to Mr. Glynn that the Tribunal Panel should relocate to another part of the building in order to "better facilitate" its independence. Following receipt of the Chief Commissioner's letter dated March 19, 1986 to the President, Mr. Glynn advised the President that he had engaged in preliminary discussions with personnel from the Commission with respect to that suggestion, but that he had not received any "concrete response".
+[44]
+In or about 1986, a respondent in a case pending before a Tribunal challenged its institutional independence. As a result, the Chief Commissioner wrote the following letter, dated January 30, 1987, to the Deputy Minister of Justice Mr. Iacobucci (as he then was):
+"The independence of the Human Rights Tribunals appointed under the provisions of the
+Canadian Human Rights Act
+is being challenged in the Federal Court of Canada for a number of reasons; one being that the Commission and the Tribunal Secretariat are occupying the same premises. Although the Commission and the Secretariat are scrupulous in separating our respective tasks even to the extent of installing separate telephone lines, nonetheless, if the challenge on these grounds were to be successful the work of the Tribunals would be at a stand-still.
+"Pending amendments to the
+Canadian Human Rights Act
+which may be some months away, I suggest that a practical remedy would be for the Tribunal Secretariat to move to the Department of Justice. ..."
+[45]
+In a letter dated February 13, 1987, the Deputy Minister of Justice responded as follows:
+"As you know, we are considering amendments to the
+Canadian Human Rights Act
+, including changes to the Human Rights Tribunals which could result in provision being made for separate facilities. The question of the location of the Secretariat, while it has been raised in the court challenge which you mentioned, would not appear to be by itself determinative of the applicant's case. In any event, that court challenge will likely not be dealt with for some time yet, allowing time for amendments to be brought forward. In addition, given the role of the Attorney General in representing government respondents before Tribunals, it would not appear to be any more desirable to have the Secretariat's facilities located in the Department of Justice. For these reasons, I do not believe that the facilities of the Secretariat should be moved to the Department of Justice. ..."
+[46]
+Several other respondents in cases pending before Tribunals instituted proceedings in the court challenging their institutional independence. [see footnote 1] As a result, the successive Presidents of the Tribunal Panel and Mr. Glynn have considered, in a process that has continued from 1985 to the present, the steps that could be taken to resolve the "perception problem" concerning the perceived lack of independence of the Tribunals appointed under the
+Act
+. In that regard, their first and the preferred option was, and continues to be, to secure the necessary amendments to the
+Act
+, particularly concerning the remuneration of members of a Tribunal. The second option was to implement various administrative changes to separate the Tribunal Panel from the Commission. Throughout the years, the Presidents and Mr. Glynn have informed officials from the Government, particularly from the Department of Justice and the Treasury Board, of their various concerns relating to the perception that a Tribunal appointed under the
+Act
+lacked the necessary degree of independence.
+[47]
+In 1988, the Tribunal Panel moved out of the Commission's premises. From that point on, the Commission's involvement in the day-to-day operations of the Tribunal Panel was limited to budgetary matters and the provision of corporate services in relation to finances, personnel and administration. At that time, the Tribunal Panel staff ceased to perform duties for the Commission, although they remained employees of the Commission.
+[48]
+In 1990 or 1991, Mr. Glynn, now the Registrar of the Tribunal Panel, assumed operational authority for its finances. From that point in time, he prepared separate budgetary submissions for the funding required by the Tribunal Panel for its operation in the upcoming fiscal year, including the salaries of its employees and the per diem fees for members of Tribunals appointed under the
+Act
+. However, given the scheme in the
+Act
+, the Tribunal Panel had no authority to submit its budget to Parliament; only the Commission could appropriate the necessary funding. As a result, Mr. Glynn submitted the Tribunal Panel's budget to the Commission's Secretary General for transmission to the Chief Commissioner. At the same time, he also submitted the budget to the Treasury Board. The Commission included in its annual budgetary estimates to Parliament an amount indicating the funding required by the Tribunal Panel for the upcoming fiscal year. Following the vote by Parliament of monies to be allocated to the Commission, the Tribunal Panel obtained its funding from the Commission, by virtue of a "gentlemen's agreement". Despite that arrangement, the Commission had authority in law over the funding.
+[49]
+Since about 1991 or 1992, there has been no intermingling of money between the Commission and the Tribunal Panel. Furthermore, the Commission has had no input concerning the manner in which the Tribunal Panel spends its monies. However, the Commission continued to provide all administrative and corporate services, including financial and personnel services, to the Tribunal Panel. With respect to the processing of the fees or expenses of the members of a Tribunal, Mr. Glynn would approve a member's claim and submit it to the Commission's financial services for payment. Pay cheques for Tribunal members were requisitioned by the Commission and bore on their face the words "Canadian Human Rights Commission".
+[50]
+Despite the efforts made by the Presidents and Mr. Glynn on the administrative front, the Commission continued to harbour concerns relating to the question of the independence of a Tribunal appointed under the
+Act
+, as indicated in the following passage from its 1990 Annual Report:
+"
+TRIBUNALS AND REMEDIES
+The Commission believes that the following amendments are necessary to ensure the independence and impartiality of tribunals and to increase their effectiveness.
+TRIBUNAL STRUCTURE AND PROCEDURES
+Independence of Tribunals
+While 1985 amendments to the
+Act
+provided safeguards to ensure the independence and impartiality of tribunals from the Commission, sections 37(1)(e)(f), 48.5 and 49(4) still provide that remuneration and expenses of tribunal members be prescribed in Commission bylaws. The Commission believes it is important that it should not be involved in determining compensation for tribunal members. The Commission also believes that amendments are required to ensure that Tribunal members are available on a permanent basis, have sufficient knowledge of human rights law and practice, and can deal more expeditiously with cases ..."
+vii) Bill C-108
+[51]
+On December 10, 1992, the Minister of Justice introduced in the House of Commons Bill C-108,
+An Act to amend the Canadian Human Rights Act and other Acts in consequence thereof
+. In her News Release that was issued following the tabling of Bill C-108 in the House of Commons, the then Minister of Justice, Kim Campbell, made the following comments concerning the proposed administrative and procedural changes:
+"
+2.
+Administrative and Procedural Changes
+Elimination of the power to make binding guidelines
+Currently, the Human Rights Commission issues guidelines for the application of the
+Act
+, which are binding on the Tribunals (i.e., the Tribunals must abide by them). However, this causes certain important problems.
+Firstly, it creates a potential conflict of interest, because the Commission is an advocate before the Tribunals, usually in opposition to the respondent. It should not be making guidelines that determine how the case it is a party to, is resolved.
+Secondly, binding guidelines potentially inhibit independent decision-making by the Human Rights Tribunals, who adjudicate cases, as well as restricting the evolution of the law in new and developing areas.
+The Government proposes to make the guidelines
+non-binding
+. This way, the Commission can still provide guidance, while allowing the law to develop. The current equal pay guidelines will remain in force."
+[52]
+Bill C-108 addressed several matters which were perceived to create problems in relation to the independence of a Tribunal appointed under the
+Act
+. In particular, the Bill repealed the provisions in the
+Act
+which permitted the Commission to make bylaws prescribing the rates of remuneration, as well as the travel and living expenses, for members of a Tribunal, and provided that members of a Tribunal would be paid the remuneration fixed by the Governor-in-Council (s. 12 of C-108, amending s. 37(1)). Furthermore, the members of a Tribunal were entitled to be paid the travel and other allowances that judges are entitled to under the
+Judges Act
+, and were permitted to complete their outstanding cases following the expiry of their appointments (s. 21 of C-108). The President of the Tribunal Panel became its chief executive officer, with the power to supervise and direct its work. In consultation with the other members of the Tribunal Panel, the President was required to make rules of procedure, with the approval of the Governor-in-Council, governing inquiries by a Tribunal into complaints (s. 21 of C-108). Although the Bill preserved the power of the Commission to make guidelines, it made them non-binding on a Tribunal, save and except for the
+Equal Wage Guidelines, 1986
+which were continued in force as binding on both the Commission and a Tribunal (ss. 11(2) and 29 of C-108). A Tribunal was accorded the power, in certain circumstances, to award costs against the Commission (s. 21 of C-108). The other amendments in the Bill concerning the Tribunal Panel or the proceedings before a Tribunal need not be referred to for the purposes of this case.
+[53]
+By letter dated January 26, 1993, the then President of the Tribunal Panel, Keith Norton, responded to the Minister of Justice's invitation to make comments on the amendments contained in Bill C-108. With respect to the proposed amendments eliminating the power of the Commission to make bylaws fixing the rates of remuneration and the travel and living expenses of members of a Tribunal, the President stated as follows:
+"The independence of the Tribunal will be enhanced by this amendment, as the salaries of the President, Vice-president, and the members would no longer be determined by bylaw of the Commission, removing a troubling appearance of conflict of interest since the Commission is also a party before the Tribunal in each case."
+[54]
+The President also commented favourably to the Minister concerning, among other things, the proposed amendment requiring the Tribunal Panel to make rules of procedure. In that regard, the President observed that the Tribunal Panel would be "wholly independent" from the Commission in making such procedural rules, and that its powers would be greatly enhanced. In terms of the transitional provision specifying that the
+Equal Wage Guidelines, 1986
+were binding on the Commission and any Tribunal until revoked, the President recommended that those and all other existing guidelines no longer be binding on a Tribunal. It is interesting to note that, although the President's submissions to the Minister had contained a section entitled "Independence" with respect to every other proposed amendment, that section was conspicuously absent from the page dealing with the binding nature of the guidelines, and no comment was made by the President in that regard.
+[55]
+In its 1992 Annual Report, the Commission commented at some length on the proposed amendments in Bill C-108, noting that it was "happy" to see, among other things, a "clarification" of the separation between the Commission and the Tribunal Panel.
+[56]
+With respect to Bill C-108, Mr. Glynn testified that the Bill "... achieved the objective we were trying to create". Unfortunately, the Bill died on the Order Paper.
+[57]
+In its 1993 Annual Report, the Commission indicated that it had largely welcomed the proposals contained in Bill C-108. It also specified other amendments that were urgently required "[i]n addition to amendments that have been proposed by previous Governments at one time or another ...".
+[58]
+The Commission noted in its 1995 Annual Report that the Government had failed to introduce a number of important amendments to the
+Act
+, particularly in relation to sexual orientation and the reasonable accommodation of disabilities. In February 1996, the then Minister of Justice stated in a speech to the Canadian Bar Association that he planned to introduce amendments to the
+Act
+.
+[59]
+Since the death of Bill C-108, the Presidents and Mr. Glynn have "made many suggestions" to the Department of Justice in an attempt to have the legislative amendments proposed in Bill C-108 again tabled before Parliament in order to address the concerns relating to a Tribunal's lack of independence. In particular, the Presidents and Mr. Glynn have been seeking an amendment to ss. 37(1)(e) and (f) of the
+Act
+which enable the Commission to control the rate of remuneration and travel and living expenses for the members of a Tribunal. In 1992 to 1993, the question of the per diem rate of remuneration paid to members of a Tribunal was a subject of discussion between the President of the Tribunal Panel and the Commission. Due to the freeze on public service wages, the discussions were put on hold. However, the issue appears likely to resurface in the near future, given the lifting of the freeze. In order to obtain an increase in the per diem rate of remuneration for the members of a Tribunal, the Tribunal Panel would have to negotiate with the Commission and convince it to pass a bylaw authorizing the payment of an increased rate of remuneration. In the event that the Commission agreed to enact a new bylaw, Treasury Board approval would also be required.
+viii) 1997 Administrative Reorganization
+[60]
+As indicated previously, after Bill C-108 died on the Order Paper in 1992, the President and Mr. Glynn continued to have discussions with the Department of Justice concerning the need to amend the
+Act
+"... in order to create a perception of greater independence ...". They also began to pursue the implementation of administrative changes to separate formally the Registry of the Tribunal Panel from the Commission. The first step in that process was to secure the agreement of the Commission, the Treasury Board, the Department of Justice, Public Works and Government Services, and the Privy Council Office. The second step was to decide how to implement the necessary changes legally, given the statutory scheme in the
+Act
+. Eventually, a decision was made to effect the changes by way of various Orders-in-Council.
+[61]
+In October 1994, the Department of Justice, as part of its review of the
+Act
+, forwarded to Mr. Glynn for his comment a detailed proposal for a new Tribunal. In his response, Mr. Glynn reiterated and updated the written submissions previously made by the then President, Keith Norton, to the Minister of Justice in January 1993 in relation to the provisions of Bill C-108. He also added the following general comments among others:
+"- that the salary and per diem remuneration of members be established by the Governor-in-Council, not the [Commission];
+- that the
+Act
+inclusively pronounce that the Tribunal is an independent entity and that funding be approved by a separate vote from Parliament; ...
+- that all previously appointed Tribunals retain jurisdiction to conclude matters of which they are seized."
+[62]
+On September 4, 1996, the President Anne Mactavish met with officials from the Department of Justice to discuss the question of amendments to the
+Act
+. In a memorandum dated September 6, 1996, the substance of the discussion at the meeting concerning the question of the remuneration of Tribunal members was summarized as follows:
+"
+Remuneration of Tribunal Members
+If amendments are not forthcoming soon, [the President] advised we may have to revisit the proposal put to [the Deputy Minister of Justice] ie. reference to Federal Court, since this relates to the independence issue of the Tribunal (members currently paid by bylaw of CHRC).
+Justice commented that a Federal Court reference was something [the Deputy Minister] did not want."
+[63]
+The memorandum also provided the following summary of the discussion concerning the binding nature of the Commission's guidelines:
+"
+CHRC Guidelines - Binding on HRT
+[The President] expressed the view that it is inappropriate for [Commission] guidelines to be binding on the [Tribunal], as is currently the practice under s. 27(3) of the
+Act
+, since they are one of the parties appearing before the [Tribunal]. She explained that previous proposed amendments had taken this out.
+Justice reps. advised that the amending of legislation related to [Commission] functions is Phase 2 of the amendment process and the guidelines is one of the things they are looking at."
+[64]
+On December 5, 1996, an Order-in-Council was made under the
+Public Service Rearrangement and Transfer of Duties Act
+, R.S.C. 1985, c. P-34, transferring from the Commission to the Tribunal Panel the control and supervision of the Tribunal Panel Registry. [see footnote 2] Orders-in-Council were also made amending the Schedules of the
+Financial Administration Act
+, the
+Access to Information Act
+, the
+Privacy Act
+, the
+Public Service Staff Relations Act
+, and the
+Public Sector Compensation Act
+to include the Tribunal Panel. [see footnote 3] The Regulatory Impact Analysis Statement which was drafted by Mr. Glynn and which accompanied the Orders-in-Council stated as follows: [see footnote 4]
+"REGULATORY IMPACT
+ANALYSIS STATEMENT
+(This statement is not part of the orders.)
+Description
+The Orders-in-Council address the necessary administrative re-organization to effect the transfer of the Human Rights Tribunal Registry from the [Commission] by creating the [Tribunal Panel] as a separate department as defined in s. 2(1) of the
+Public Service Employment Act
+.
+The
+Canadian Human Rights Act
+was amended in 1985 to create a separate Tribunal. The [Tribunal Panel] and the [Commission] are part of one program namely the Canadian Human Rights Program. The Tribunal's Registry, however, has remained a part of the Commission even though it has operated independently on day-to-day matters. The Registry is funded as part of the Commission and reports to the Commission's Secretary General and ultimately to the Chief Commissioner.
+Alternatives
+The only other possible alternative to achieve the end objective is an amendment to the
+Canadian Human Rights Act
+. It does not appear that the government will make the necessary amendments in the foreseeable future.
+Benefits and Costs
+The potential social impact will be positive. Separation of the Tribunal and the Commission is required for several reasons. First, from a policy perspective, it is inappropriate for the Commission to be involved in any decision making process and fiscal operation of the Tribunal, since the Commission represents the public interest and generally the same interest of the complainant before the Tribunal. The Commission is a party of equal status to the complainant and the respondent. The rules of natural justice demand that the Commission not appear to have special status or influence before the Tribunal. Secondly, respondents have alleged that they are unable to receive a fair hearing before a Tribunal within the meaning of the
+Charter
+. This allegation is based on the belief that the Tribunal and the Commission are too closely aligned and are in fact one organization. These allegations have caused delays in Tribunal proceedings.
+The separation of the two organizations will give the Tribunal its own Vote (appropriation of funds) and the necessary independence. Simultaneously, it will relieve the Commission of its responsibilities and reporting commitments on the Tribunal's activities.
+The economic impact will be minimal. There will be no additional costs. All financial authorities for the Registry operations are currently in [Commission] reference levels and will be transferred under the control of the [Tribunal Panel].
+The Tribunal will obtain corporate services from an independent federal government agency within the Justice portfolio.
+. . . . .
+Compliance and Enforcement
+Without these changes, the operational independence and authority of the Tribunal to fulfill its mandate as established by Parliament could be at risk."
+[65]
+As a result of those Orders-in-Council, the Tribunal Panel acquired the status of a government department, separate from the Commission. From a practical perspective, the designation of the Tribunal Panel as a department provided it with the power to seek the appropriation of funding from Parliament on its own behalf, rather than through the Commission. Furthermore, the President acquired the authority of a deputy head of a government agency, and the Tribunal Panel's Registry staff no longer had a relationship with the Commission. As a result, the Tribunal Panel's Registry ceased to be a part of the Canadian Human Rights Program for the purposes of government financing, and the Commission ceased to have any operational or budgetary role in relation to the Tribunal Panel. Despite this significant change, the legislative scheme in the
+Act
+remains in effect. In particular, the
+Act
+requires the Commission to fix the remuneration, travel and living expenses of the members of a Tribunal. Furthermore, the Commission has statutory power to issue guidelines which are binding on a Tribunal.
+[66]
+The separation of the Tribunal Panel from the Commission, as effected by the Orders-in-Council, occurred on January 1, 1997. The Tribunal Panel therefore had the authority to submit its budgetary estimates to Parliament for the 1997-1998 fiscal year. However, the Tribunal Panel required assistance during the transitional period in terms of corporate, financial and personnel services, since the Commission had previously performed all of those functions for it. As a result, the Tribunal Panel made an arrangement with the Commissioner of Federal Judicial Affairs to have that office provide it with the necessary corporate services, effective January 1, 1997.
+[67]
+The Tribunal Panel submitted its 1997-1998 Estimates to Parliament, with the approval of the Minister of Justice. In that document, which was drafted by Mr. Glynn and approved by the President, the Tribunal Panel noted the following in a section entitled "Change Management Issues":
+"Prior to 1996/97, [the Tribunal Panel] formed part of the Canadian Human Rights Commission program and received funding from the Commission's allotted appropriations. Authority was requested to make the Tribunal a department, separate from [the Commission], to ensure that the Tribunal was seen by the Public and clients as being an impartial party in cases referred to it by the Commission."
+ix) Bill C-98
+[68]
+On April 23, 1997, Bill C-98, an
+Act to amend the Canada Evidence Act and the Criminal Code in respect of persons with disabilities, to amend the Canadian Human Rights Act in respect of persons with disabilities and other matters and to make consequential amendments to other Acts
+, was given first reading in the House of Commons. Among other things, Bill C-98 amended the entire legislative structure of the Tribunal Panel by creating the Canadian Human Rights Tribunal, consisting of a maximum of fifteen full or part-time members appointed by the Governor-in-Council to hold office during good behaviour, including a full-time Chairperson and Vice-chairperson. The Chairperson was the chief executive officer of the Tribunal, with the power to supervise and direct its work, including the allocation of work and the management of its internal affairs. The Chairperson also was permitted to make rules of procedure for the Tribunal Panel. The Bill repealed the power of the Commission to make bylaws fixing the rate of remuneration and the travel and living expenses for members of a Tribunal, and provided that such members were entitled to be paid the remuneration fixed by the Governor-in-Council (s. 26 of C-98 amending s. 48.1 and enacting subsequent sections). Furthermore, members were entitled to be paid travel and living expenses not exceeding the maximum limits authorized by the Treasury Board directives for employees of the Government (s. 20 of C-98 amending s. 37). The registrar and other employees necessary for the proper conduct of the work of the Tribunal were to be appointed in accordance with the
+Public Service Employment Act
+(s. 26 of C-98 enacting s. 48.8). Although the Bill amended slightly the wording of the guideline provision in s. 27(3) of the
+Act
+in order to ensure conformity with other amendments, it did not affect the power of the Commission to issue guidelines which were binding on the Tribunal (s. 19 of C-98).
+[69]
+Due to the dissolution of the House of Commons for the general election in 1997, Bill C-98 died on the Order Paper.
+x) Bill S-5
+[70]
+After the election, the Government decided to introduce the amendments previously contained in Bill C-98 into the Senate in Bill S-5. [see footnote 5] On October 9, 1997, Bill S-5, an
+Act to amend the Criminal Code in respect of persons with disabilities, to amend the Canadian Human Rights Act in respect of disabilities and other matters and to make consequential amendments to other Acts
+, had its first reading in the Senate. Following its second reading on October 29, 1997, Bill S-5 was referred to the Standing Senate Committee on Legal and Constitutional Affairs for detailed study. The Standing Committee reported to the Senate on the Bill on December 4, 1997. As a result of the Standing Committee report, one amendment was made to the Bill. [see footnote 6] The Bill received third reading and passed on December 11, 1997.
+[71]
+On February 2, 1998, Bill S-5 had its first reading in the House of Commons. Following its second reading on February 11, 1998, Bill S-5 was referred to the Justice and Human Rights Committee for study. As of today's date, that Committee is continuing its study of Bill S-5.
+ix) Tribunal Appointments
+[72]
+Since the 1985 amendments, all of the appointments to the Tribunal Panel, including the President, are part-time appointments made by the Governor-in-Council. The members are informed on appointment that their per diem rates of remuneration are fixed by bylaw of the Commission. The initial appointment of a member to the Tribunal Panel, which presently consists of approximately fifty-two persons, is always made for a fixed term, generally for a period of two, three or five years. Since the
+Act
+provides that a member may be reappointed by the Governor-in-Council, the Minister of Justice has complete discretion to make a recommendation concerning the question of reappointment. To assist the Minister in exercising that discretion, the Tribunal Panel provides the Minister's office with a regular update concerning the status of members' appointments and a list of their outstanding cases. In the event that a member is seized of a case which is not expected to be completed by the date of the appointment's expiry, the President of the Tribunal Panel will request an extension of the appointment.
+[73]
+In the present case, the member chairing the Tribunal was appointed to the Tribunal for a fixed term appointment of one and a half years, with an expiry date of December 31, 1997; the other two members were appointed for fixed terms of two and five years, with respective expiry dates of August 15 and May 21, 1997. Accordingly, at the time the President appointed those three members to constitute the Tribunal in the present case in August 1996, she was aware that their appointments were all scheduled to expire in 1997, and that it would be necessary to make an application to the Minister to extend their three terms. However, she did not have much choice in the matter, since approximately forty-four of the fifty-two or fifty-three members of the Tribunal Panel had terms that expired in 1997. She was also aware that the present case involved pay equity and that any hearing would be very lengthy. Indeed, the three members were advised that the hearing would be a lengthy one prior to accepting the appointment. As a result, they were presumably interested in having their terms extended, or they would not have agreed to sit on the case. The Tribunal Panel presented to the Minister a list of the members whose terms were expiring in 1997 and their outstanding cases, including the members presiding over the present case, in order to permit the Minister to seek an extension of their appointments, if she saw fit to exercise her discretion in that manner. The appointment of one of the members of the Tribunal in the present case was not extended, for some reason, in a timely manner. As a result, the Tribunal's proceedings were suspended for a period of time. However, the member's appointment was subsequently extended by the Governor-in-Council.
+[74]
+The members of a Tribunal are subject to the
+Conflict of Interest and Post-Employment Code
+for Public Office Holders, as well as the
+Human Rights Tribunal Members Code of Conduct
+. Paragraph 17 of the
+Tribunal Code of Conduct
+provides as follows:
+"GENERAL RESPONSIBILITIES
+17. All members recognize their fundamental role in the fulfilment of the objectives of the Act and undertake to carry out their responsibilities as Tribunal or Review Tribunal members in a way that will promote the integrity, impartiality and independence of the proceedings. To that end, every Panel member and former member shall avoid impropriety so that the integrity, independence and impartiality of the proceedings are preserved."
+Issue
+[75]
+The question to be determined is whether a Tribunal appointed under the
+Act
+is institutionally independent and impartial.
+Analysis
+i) Jurisprudence Pertaining To Judicial
+Independence
+[76]
+A determination of a Tribunal's institutional independence and impartiality requires an analysis of the principles concerning judicial independence, with particular reference to their application to administrative tribunals.
+[77]
+In recent years, the Supreme Court of Canada has written extensively on the question of judicial independence. In order to extract the principles to be applied in the present case, several of the Supreme Court of Canada decisions relating to the evolving concept of judicial independence must be reviewed, beginning with the seminal decision
+ <FRAGMENT_SUPPRESSED>  O.A.C. 79. In that decision, Le Dain, J., writing for the court, considered whether a provincial judge sitting as the Provincial Court (Criminal Division) in Ontario was an independent tribunal within the meaning of s. 11(d) of the
+Canadian Charter of Rights and Freedoms
+("
+Charter
+"). [see footnote 7] Although the case raised only the question of the individual independence of a provincial judge, Le Dain, J., highlighted in his analysis the distinction between the concepts of impartiality and independence, noting as follows, at page 685:
+"Although there is obviously a close relationship between independence and impartiality, they are nevertheless separate and distinct values or requirements. Impartiality refers to a state of mind or attitude of the tribunal in relation to the issues and the parties in a particular case. The word 'impartial' as Howland, C.J.O., noted, connotes absence of bias, actual or perceived. The word 'independent' in s. 11(d) reflects or embodies the traditional constitutional value of judicial independence. As such, it connotes not merely a state of mind or attitude in the actual exercise of judicial functions, but a status or relationship to others, particularly to the executive branch of government, that rests on objective conditions or guarantees."
+[78]
+Having considered the difference between impartiality and independence, Le Dain, J., expanded on the individual and institutional relationships comprised in judicial independence, stating as follows, at page 687:
+"It is generally agreed that judicial independence involves both individual and institutional relationships: the individual independence of a judge, as reflected in such matters as security of tenure, and the institutional independence of the court or tribunal over which he or she presides, as reflected in its institutional or administrative relationships to the executive and legislative branches of government. See Lederman,
+The Independence of the Judiciary
+in
+The Canadian Judiciary
+(1976, Ed. A. M. Linden), p. 7; and Deschênes,
+Masters in their own house
+(1981), passim, where the notion of institutional independence is referred to as 'collective' independence. The objections in the present case to the status of provincial court judges under the legislation and
+Regulations
+that prevailed at the time Sharpe, J., declined jurisdiction raise issues of both individual and institutional independence. The relationship between these two aspects of judicial independence is that an individual judge may enjoy the essential conditions of judicial independence but if the court or tribunal over which he or she presides is not independent of the other branches of government, in which is essential to its function, he or she cannot be said to be an independent tribunal."
+[79]
+Following his analysis of those relationships, Le Dain, J., concluded, at page 688, that the objective status or relationship of judicial independence constituted the primary meaning to be accorded to the word "independent" in s. 11(d) of the
+Charter
+. In that regard, he stated as follows, at page 688:
+"Of course, the concern is ultimately with how a tribunal will actually act in a particular adjudication, and a tribunal that does not act in an independent manner cannot be held to be independent within the meaning of s. 11(d) of the
+Charter
+, regardless of its objective status. But a tribunal which lacks the objective status or relationship of independence cannot be held to be independent within the meaning of s. 11(d), regardless of how it may appear to have acted in the particular adjudication. It is the objective status or relationship of judicial independence that is to provide the assurance that the tribunal has the capacity to act in an independent manner and will in fact act in such a manner."
+[80]
+Prior to outlining the conditions which must be met in order to guarantee judicial independence, Le Dain, J., recognized the necessity for a certain amount of flexibility in the application of such principles, given the "variety" of tribunals dealing with matters subject to s. 11(d) of the
+Charter
+. At page 692, he stated as follows:
+"It would not be feasible, however, to apply the most rigorous and elaborate conditions of judicial independence to the constitutional requirement of independence in s. 11(d) of the
+Charter
+, which may have to be applied to a variety of tribunals. The legislative and constitutional provisions in Canada governing matters which bear on the judicial independence of tribunals trying persons charged with an offence exhibit a great range and variety. The essential conditions of judicial independence for purposes of s. 11(d) must bear some reasonable relationship to that variety. Moreover, it is the essence of the security afforded by the essential conditions of judicial independence that is appropriate for application under s. 11(d) and not any particular legislative or constitutional formula by which it may be provided or guaranteed".
+[81]
+Le Dain, J., concluded that there were three essential conditions of judicial independence for the purposes of s. 11(d) of the
+Charter
+: security of tenure, financial security, and the institutional independence of the tribunal with respect to matters of administration bearing directly on the exercise of its judicial function. With respect to security of tenure, its essence, for the purposes of s. 11(d) of the
+Charter
+, was "... a tenure, whether until an age of retirement, for a fixed term, or for a specific adjudicative task, that is secure against interference by the Executive or other appointing authority in a discretionary or arbitrary manner" (page 698). Similarly, in relation to financial security, its essence was that "... the right to salary and pension should be established by law and not be subject to arbitrary interference by the Executive in a manner that could affect judicial independence" (page 704). Finally, administrative independence required, at a minimum, judicial control over matters such as the "... assignment of judges, sittings of the court, and court lists -- as well as the related matters of allocation of court rooms and direction of administrative staff engaged in carrying out these functions ..." (page 709).
+[82]
+Le Dain, J., also made it clear in
+ <FRAGMENT_SUPPRESSED>  the
+Charter
+should be, as for impartiality, whether the tribunal may reasonably be perceived as independent". As a result, he agreed that the following test for reasonable apprehension of bias, articulated by de Grandpré, J., in
+Committee for Justice and  <FRAGMENT_SUPPRESSED> , was the proper test to be applied in determining the independence of a tribunal:
+"... the apprehension of bias must be a reasonable one, held by reasonable and right minded persons, applying themselves to the question and obtaining thereon the required information. In the words of the Court of Appeal, that test is 'what would an informed person, viewing the matter realistically and practically -- and having thought the matter through -- concluded ...' ."
+[83]
+The origins of judicial independence were considered by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  O.A.C. 321; 68 D.L.R.(4th) 524; 90 C.L.L.C. 14,007; 42 Admin.L.R. 1, a case which raised the question of whether the institutional practices of the Ontario Labour Relations Board breached the rules of natural justice by affecting the independence and impartiality of an adjudicator. Gonthier, J., writing for the majority, confirmed that "judicial independence is a long-standing principle of our constitutional law which is also part of the rules of natural justice even in the absence of constitutional protection" (page 332). In making that statement, Gonthier, J., referred to
+ <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 481.
+[84]
+In
+Lippé et autres v. Québec (Procureur général) et autres
+, [1991] 2 S.C.R. 114; 128 N.R. 1; 39 Q.A.C. 241; 64 C.C.C.(3d) 513, the Supreme Court of Canada considered whether a municipal court judge presiding in certain areas of Quebec constituted an "independent and impartial tribunal", within the meaning of s. 11(d) of the
+Charter
+, in the context of a challenge to the institutional structure of the municipal court system. Since the facts of the case did not raise any issue concerning the concept of "independence", the court addressed, for the first time, the question of institutional impartiality. In particular, the court considered legislative provisions that allowed part-time municipal court judges to continue practising law, subject to certain safeguards. Gonthier, J., writing for the five person majority, agreed with the conclusions of Lamer, C.J., and also substantially agreed with his reasons. The sole area of disagreement between Gonthier, J., and Lamer, C.J., pertained to the latter's "restrictive definition" of judicial independence "... as related solely to independence from the government" (page 152).
+[85]
+In his reasons, Lamer, C.J., described the characteristics inherent in the concepts of judicial independence and impartiality in the following terms, at page 139:
+"As this court stated in
+ <FRAGMENT_SUPPRESSED> , at p. 826, judicial independence is an
+underlying
+condition which
+contributes
+to the guarantee of an impartial hearing:
+'It should be noted that the independence of the judiciary must not be confused with impartiality of the judiciary. As Le Dain, J., points out in
+ <FRAGMENT_SUPPRESSED>  contrast, denotes the underlying relationship between the judiciary and other branches of government which serves to ensure that the court will function and be perceived to function impartially. Thus the question in a case such as this is not whether the government action in question would in fact affect a judge's impartiality, but rather whether it threatens the independence which is the underlying condition of judicial impartiality in the particular case.'
+"The overall objective of guaranteeing judicial independence is to ensure a reasonable perception of impartiality; judicial independence is but a 'means' to this 'end'. If judges could be perceived as 'impartial' without judicial 'independence', the requirement of 'independence' would be unnecessary. However, judicial independence is critical to the public's perception of impartiality. Independence is the cornerstone, a necessary prerequisite, for judicial impartiality.
+"However, the facts of this case make it clear that in some situations, judicial independence may not be sufficient. Judicial independence is only one component of judicial impartiality:
+"[A] lack of independence could be considered a good indicator of a lack of impartiality. However, a lack of impartiality taken alone does not necessarily mean a lack of independence. The absence of impartiality could be caused by a number of factors, of which lack of independence is only one."
+[86]
+Having considered the distinct but overlapping aspects of independence and impartiality, Lamer, C.J., extended the fundamental principles enunciated in
+ <FRAGMENT_SUPPRESSED>  follows, at page 140:
+"Notwithstanding judicial independence, there may also exist a reasonable apprehension of bias on an institutional or structural level. Although the concept of institutional impartiality has never before been recognized by this court, the constitutional guarantee of an 'independent and impartial tribunal' has to be broad enough to encompass this. Just as the requirement of judicial independence has both an individual and institutional aspect ( <FRAGMENT_SUPPRESSED> , supra, at p. 687), so too must the requirement of judicial impartiality. I cannot interpret the Canadian
+Charter
+as guaranteeing one on an institutional level and the other only on a case-by-case basis."
+[87]
+In further describing the concept of institutional impartiality, Lamer, C.J., noted at page 140 that "... whether or not any particular judge harboured pre-conceived ideas or biases, if the system is structured in such a way as to create a reasonable apprehension of bias on an institutional level, the requirement of impartiality is not met. As the court stated in <FRAGMENT_SUPPRESSED> , supra, the appearance of impartiality is important for public confidence in the system". However, Lamer, C.J., admitted, as did LeDain, J., in
+ <FRAGMENT_SUPPRESSED>  existence of the concept, Lamer, C.J., directed his mind to the question of the test for determining an infringement of institutional impartiality, and concluded that the test outlined by de Grandpré, J., in
+Committee for Justice and  <FRAGMENT_SUPPRESSED>  facts of the case before him, Lamer, C.J., engaged in the following two pronged analysis, at pages 144-145:
+"Step One: Having regard for a number of factors ... will there be a reasonable apprehension of bias in the mind of a fully informed person in a
+substantial number
+of cases?
+Step Two: If the answer to that question is no, allegations of an apprehension of bias cannot be brought on an institutional level, but must be dealt with on a case-by-case basis.
+However, if the answer to that question is yes ... [a]t this point in the analysis, one must consider what safeguards are in place to minimize the prejudicial effects and whether they are sufficient to meet the guarantee of institutional impartiality under s. 11(d) of the Canadian
+Charter
+. Again, the test is whether the court system will give rise to a reasonable apprehension of bias in the mind of a fully informed person in a
+substantial number
+of cases. It is important to remember that the fully informed person at this stage of the analysis must be presumed to have knowledge of any safeguards in place. If these safeguards have rectified the partiality problems in the substantial number of cases, the tribunal meets the requirements of institutional impartiality under s. 11(d) of the Canadian
+Charter
+."
+[90]
+Accordingly, Lamer, C.J., adopted the test enunciated in the
+Committee for Justice and  <FRAGMENT_SUPPRESSED>  question of a reasonable apprehension of bias at that first stage, he added in the second stage of his test the new and additional requirement of considering whether any safeguards exist to alleviate the perceived problems of partiality.
+[91]
+In applying his two pronged test to the facts of the case before him, Lamer, C.J., concluded on the first stage, at page 146, that "... the occupation of practising law gives rise to a reasonable apprehension of bias in a
+substantial number
+of cases and is therefore per se incompatible with the functions of a judge". Given the positive response on the first stage of the test, Lamer, C.J., proceeded to the second stage, in which he considered the legislative safeguards in place to minimize the perceived problem of partiality, including the oath of office, judicial immunity and the code of ethics. He also referred to the steps taken by the municipal judges to make themselves more independent and impartial. As a result of the legislative safeguards, he found that "[a] reasonably well-informed person - with full knowledge of the Quebec municipal court system, including all of its safeguards - should not have an apprehension of bias in a substantial number of cases". He therefore concluded that there was no infringement of the guarantee of judicial impartiality in s. 11(d) of the
+Charter
+and s. 23 of the Quebec
+Charter
+.
+[92]
+ <FRAGMENT_SUPPRESSED>  C.C.C.(3d) 1; 88 D.L.R.(4th) 110, the Supreme Court of Canada considered, among other questions, whether the appellant's trial by General Court Martial violated his right to a fair hearing by an independent and impartial tribunal as guaranteed by s. 11(d) of the
+Charter
+. Lamer, C.J., writing for the majority, noted that the appellant did not question the impartiality of the General Court Martial, but rather challenged the institutional independence of the tribunal.
+[93]
+In his outline of the principles to be applied in analysing the s. 11(d)
+Charter
+right, Lamer, C.J., reiterated the essential conditions of independence outlined in
+ <FRAGMENT_SUPPRESSED>  applied flexibly in the context of a variety of tribunals. However, he cautioned at page 286 that "[a]lthough the conditions are susceptible to flexible application in order to suit the needs of different tribunals, the essence of each condition must be protected in every case".
+[94]
+In describing the essential conditions of independence, Lamer, C.J., observed at page 285 that the first condition, security of tenure, could be "... satisfied in a number of ways", but that "[w]hat is essential is that the decision-maker be removable only for cause". With respect to the second condition, financial security, he referred to the statement in
+ <FRAGMENT_SUPPRESSED>  subject to arbitrary interference by the Executive. However, he recognized that different schemes may satisfy this requirement, stating as follows, at page 285:
+"Within the limits of this requirement, however, the federal and provincial governments must retain the authority to design specific plans of remuneration that are appropriate to different types of tribunals. Consequently, a variety of schemes may equally satisfy the requirement of financial security, provided that the essence of the condition is protected."
+[95]
+In relation to the third condition of administrative independence, Lamer, C.J., stated that it would be "unacceptable" for "... an external force [to] be in a position to interfere in matters that are directly and immediately relevant to the adjudicative function, for example, assignment of judges, sittings of the court and court lists" (page 286).
+[96]
+Having considered the general principles to be applied, Lamer, C.J., began his analysis of the s. 11(d)
+Charter
+issue by examining the legislative framework governing the constitution and proceedings of the General Court Martial, with a view to determining "... whether the institution has the essential characteristics of an independent and impartial tribunal" (page 296). Following his review of the institutional background and structure of the General Court Martial, he proceeded to examine its status "... in terms of the three conditions of judicial independence described in <FRAGMENT_SUPPRESSED> " (page 300).
+[97]
+With respect to the criteria of security of tenure, Lamer, C.J., noted, among other things, that "... under the
+Regulations
+in force at the time of the appellant's trial, the judge advocate was appointed solely on a case by case basis. As a result, there was no objective guarantee that his or her career as a military judge would not be affected by decisions tending in favour of an accused rather than the prosecution" (page 303). He therefore concluded that, at the very least, "... the essential condition of security of tenure, in this context, requires security from interference by the executive for a fixed period of time". In explaining his rationale for that conclusion, Lamer, C.J., stated as follows, at pages 303-304:
+"It was stated in <FRAGMENT_SUPPRESSED> that according a decision-maker tenure for a 'specific adjudicative task' may be a sufficient guarantee of security of tenure. I do not believe that this statement is applicable in this context. Although a General Court Martial is convened on an ad hoc basis, it is not a 'specific adjudicative task'. The General Court Martial is a recurring affair. Military judges who act periodically as judge advocates must therefore have a tenure that is beyond the interference of the executive for a fixed period of time. Consequently, security of tenure during the period of a specific General Court Marital, achieved by the fact that no provision of the statute or
+Regulations
+allows for the removal of a judge advocate during a trial (except if the judge advocate is unable to attend: art. 112.64(2) Q.R. & O.) is not adequate protection for the purposes of s. 11(d) of the
+Charter
+."
+[98]
+Lamer, C.J., noted that the main deficiencies in relation to security of tenure had been cured by amendments appointing an officer as a military judge for a period of two to four years.
+[99]
+With respect to financial security, Lamer, C.J., concluded that the executive had the power to interfere with the salaries and promotions of officers serving as judge advocates and members at a court martial. He examined the practice in place, with a view to determining whether the problems were corrected. In that regard, he stated as follows, at page 307:
+"The executive clearly had the ability to interfere with the salaries and promotional opportunities of officers serving as judge advocates and members at a court martial. Although the practice of the executive may very well have been to respect the independence of the participants at the court martial in this respect, this was not sufficient to correct the weaknesses in the tribunal's status. A reasonable person would perceive that financial security, an essential condition of judicial independence, was not present in this case."
+[100]
+In relation to administrative independence, Lamer, C.J., found, for various reasons, that there was external interference in relation to such matters. He therefore concluded that "... certain characteristics of the General Court Martial system would be very likely to cast into doubt the institutional independence of the tribunal" (page 308).
+[101]
+ <FRAGMENT_SUPPRESSED> , the Supreme Court of Canada considered, among other things, whether the Courts of Revision and the Assessment Review Committee, appointed under the Band's taxation and assessment bylaws, gave rise to a reasonable apprehension of bias arising from their institutional structures.  <FRAGMENT_SUPPRESSED>  W.A.C. 16; 14 B.C.L.R.(3d) 66 (C.A.), the British Colombia Court of Appeal provided the following "roadmap" at page 74 to assist in reviewing the decision in
+ <FRAGMENT_SUPPRESSED>  dismissed by five of the nine judges, but the majority, while agreeing in result, did so for different reasons. Lamer, C.J.C. (Cory, J., concurring), dealt at length with the issue of institutional independence. Sopinka, J. (L'Heureux-Dubé, Gonthier and Iacobucci JJ. concurring), dissenting in result, also considered the issue of institutional independence, but took a different view from that of the Chief Justice on that issue. La Forest, J., wrote brief reasons for dismissing the appeal but did not find it necessary to consider the question of institutional independence. Major, J. (McLachlin, J., concurring), also concluded that the appeal should be dismissed but did so without reference to the question of institutional independence."
+[102]
+A review of the dissenting reasons of Sopinka, J., concurred in by three other judges, reveals that he agreed with Lamer, C.J., on all issues, save and except with respect to the issue of lack of institutional independence. In particular, Sopinka, J., found that it was essential to consider the practice of the tribunal in assessing the question of institutional independence, while Lamer, C.J., restricted his analysis to the tribunal's structure as delineated in the constituting bylaws.
+[103]
+At the outset of his reasons, Lamer, C.J., confirmed that the principles enunciated by the court in relation to judicial independence in the context of a s. 11(d)
+Charter
+challenge were equally applicable to allegations of a reasonable apprehension of bias concerning the independence and impartiality of administrative tribunals. In that regard, he stated as follows, at page 41:
+"As a preliminary comment, I would note that s. 11(d) of the
+Canadian Charter of Rights and Freedoms
+guarantees to everyone charged with an offence a hearing before an independent and impartial tribunal. Of course, this case does not involve someone 'charged with an offence', so s. 11(d) does not apply directly. However, in interpreting s. 11(d), this court has developed important principles on the correct approach which should be taken to issues of bias, and particularly the issues of independence and impartiality."
+[104]
+With respect to the question of institutional impartiality, Lamer, C.J., applied the two pronged test outlined by him in
+ <FRAGMENT_SUPPRESSED>  informed person in a substantial number of cases.
+[105]
+In relation to the question of institutional independence, Lamer, C.J., confirmed that the principles developed in
+ <FRAGMENT_SUPPRESSED>  stated as follows, at page 48:
+"I begin my analysis of the institutional independence issue by observing that the ruling of this court in <FRAGMENT_SUPPRESSED> , supra, provides guidance in assessing the independence of an administrative tribunal. There, Le Dain, J., considered whether provincial court judges were independent. He pointed to three facts which must be satisfied in order for independence to be established: security of tenure, security of remuneration and administrative control."
+[106]
+He also confirmed that judicial independence is part of the rules of natural justice, and as such applies to proceedings before administrative tribunals. In that regard, he stated as follows, at page 49:
+"As noted above, Le Dain, J., was writing in the context of s. 11(d) of the
+Charter
+, which applies only where a person is charged 'with an offence'. However, several Federal Court of Appeal decisions have found the <FRAGMENT_SUPPRESSED> principles to be applicable in the case of administrative tribunals. See, for example,
+ <FRAGMENT_SUPPRESSED> , at pp. 869-71;
+ <FRAGMENT_SUPPRESSED> , at pp. 558-59; and
+ <FRAGMENT_SUPPRESSED> , at pp. 386-87.
+"This court has considered <FRAGMENT_SUPPRESSED> , supra, in at least one case involving an administrative tribunal,
+ <FRAGMENT_SUPPRESSED> , in which the independence of the Ontario Labour Relations Board was at issue. There, Gonthier, J., stated at p. 332:
+'Judicial independence is a longstanding principle of our constitutional law which is also part of the rules of natural justice even in the absence of constitutional protection.'
+"I agree and conclude that it is a principle of natural justice that a party should receive a hearing before a tribunal which is not only independent, but also appears independent. Where a party has a reasonable apprehension of bias, it should not be required to submit to the tribunal giving rise to this apprehension. Moreover, the principles for judicial independence outlined in <FRAGMENT_SUPPRESSED> are applicable in the case of an administrative tribunal, where the tribunal is functioning as an adjudicative body settling disputes and determining the rights of parties. However, I recognize that a strict application of these principles is not always warranted."
+[107]
+In relation to the test, Lamer, C.J., confirmed that the "classic test" in
+Committee for Justice and  <FRAGMENT_SUPPRESSED>  concerns related to the institutional independence of an administrative tribunal. He also noted, at page 50, "... that the grounds for the apprehension must be 'substantial', and that the test for bias should be applied flexibly in the context of administrative tribunals".
+[108]
+Given the divergent powers and duties of administrative tribunals, Lamer, C.J., provided the following guidance at pages 51-52 concerning the application of the test:
+"Therefore, while administrative tribunals are subject to the <FRAGMENT_SUPPRESSED> principles, the test for institutional independence must be applied in light of the functions being performed by the particular tribunal at issue. The requisite level of institutional independence (i.e., security of tenure, financial security and administrative control) will depend on the nature of the tribunal, the interests at stake, and other indices of independence such as oaths of office.
+"In some cases, a high level of independence will be required. For example, where the decisions of a tribunal affect the security of the person of a party (such as the Immigration Adjudicators in
+Mohammad
+, supra), a more strict application of the <FRAGMENT_SUPPRESSED> principles may be warranted. In this case, we are dealing with an administrative tribunal adjudicating disputes relating to the assessment of property taxes. In my view, this is a case where more flexible approach is clearly warranted.
+"I would therefore apply this approach to the question of whether the members of the appellants' appeal tribunals are sufficiently independent. The <FRAGMENT_SUPPRESSED> principles must be considered in light of the nature of the appeal tribunals themselves, the interests at stake, and other indices of independence, in order to determine whether a reasonable and right-minded person, viewing the whole procedure as set out in the assessment bylaws, would have a reasonable apprehension of bias on the basis that the members of the appeal tribunals are not independent."
+[109]
+In applying the test to the facts before him, Lamer, C.J., found problems in relation to the remuneration and periods of tenure of the tribunal members. He indicated, at page 59, that the problems could be rectified in the following manner in order to preserve the institutional independence of the two tribunals:
+"Of course, Indian bands may be reluctant to cede the power to appoint tribunal members to the federal government, given that one of the purposes of the new tax assessment regime is to facilitate the development of Aboriginal self-government. Thus, to conform to the requirements of institutional independence, the appellant bands' bylaws will have to guarantee remuneration and stipulate periods of tenure for tribunal members. The bylaws will also have to ensure that members may only be dismissed during this tenure 'with cause'."
+[110]
+In his dissenting reasons (concurred in by three judges), Sopinka, J., explained his sole area of difference with Lamer, C.J., in the following terms, at page 68:
+"The difference between us in this regard is that, while the Chief Justice would limit the information to the procedure set out in the bylaws, I would defer application of the test so that the reasonable person will have the benefit of knowing how the tribunal operates in actual practice. That the principles of natural justice are flexible and must be viewed in their contextual setting has become almost a trite observation. As de Grandpré, J., stated in
+Committee for Justice and Liberty
+, supra, at p. 395:
+'The basic principle is of course the same, namely that natural justice be rendered. But its application must take into consideration the special circumstances of the tribunal.'"
+[111]
+Sopinka, J., also noted that the practice of a tribunal in the context of an actual hearing was used to assess the question of institutional independence in the following cases:
+Couture (Alex) Inc. et autres v. Canada (Procureur général) et autres
+(1991), 41 Q.A.C. 1; 83 D.L.R.(4th) 577 (C.A.), leave to appeal refused, [1992] 2 S.C.R. v; 141 N.R. 396; 52 Q.A.C. 160,
+ <FRAGMENT_SUPPRESSED>  (C.A.).
+[112]
+Finally, Sopinka, J., alluded to the dangers inherent in failing to examine the tribunal's practice, stating as follows, at page 71:
+"It is not safe to form final conclusions as to the workings of this institution on the wording of the bylaws alone. Knowledge of the operational reality of these missing elements may very well provide a significantly richer context for objective consideration of the institution and its relationships. Otherwise, the administrative law hypothetical 'right-minded person' is right-minded, but uninformed."
+[113]
+ <FRAGMENT_SUPPRESSED>  reasonable apprehension of bias on the part of a hearing panel appointed by the Vancouver Stock Exchange. In determining that there was no reasonable apprehension of bias, the court considered the legislation and bylaws of the Exchange, as well as the practice. The court also noted that the self-regulatory function of the hearing panels appointed by the Exchange was not analogous to the adjudication function of the property assessment tribunals in
+ <FRAGMENT_SUPPRESSED>  B.C.A.C. 29; 133 W.A.C. 29, the Supreme Court of Canada dismissed the appeal from the decision of the British Columbia Court of Appeal, stating as follows, at page 406:
+"We agree with the British Columbia Court of Appeal that the practice of the tribunal in question is one of the many factors to consider in determining whether the necessary degree of independence is present to avoid creating a perception of reasonable apprehension of bias. We also agree with the British Columbia Court of Appeal that the situation in this case, particularly its self-regulatory context, is quite different from that which was present in
+ <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 577, the Supreme Court of Canada considered whether the tribunal which revoked the appellant's liquor licence was institutionally independent and impartial. At the outset of his reasons, Gonthier, J., writing for the majority, noted that the case underscored "... the need to reconcile the imperatives of administrative convenience with the principles of impartiality and independence, which cannot readily be reconciled" (page 9).
+[116]
+Following his determination that the process leading to the revocation of the licence was quasi-judicial in nature, Gonthier, J., concluded that s. 23 of the
+Charter of Human Rights and Freedoms
+, R.S.Q. 1977, c. C-12, which is similar in wording to s. 11(d) of the
+Charter
+, applied. However, he noted that, even if s. 23 were not applicable, the principles of natural justice would require the independence and impartiality of a quasi-judicial decision-maker.
+[117]
+With respect to institutional impartiality, Gonthier, J., applied the test in
+ <FRAGMENT_SUPPRESSED>  question of reasonable apprehension of bias in relation to administrative tribunals. However, he noted, at page 36, that:
+"... this necessary flexibility, and the difficulty involved in isolating the essential elements of institutional impartiality, must not be used to justify ignoring serious deficiencies in a quasi-judicial process. The perception of impartiality remains essential to maintaining public confidence in the justice system."
+[118]
+In relation to institutional independence, Gonthier, J., adopted the approaches taken in
+ <FRAGMENT_SUPPRESSED>  appropriate where administrative agencies are concerned." (page 48). He also adopted the statement of Lamer, C.J., in
+ <FRAGMENT_SUPPRESSED>  institutional independence "... will depend on the nature of the tribunal, the interests at stake, and other indices of independence such as oaths of office" (page 48).
+[119]
+The most recent decision of the Supreme Court of Canada dealing with judicial independence is
+Reference Re Remuneration of Judges of the Provincial Court (P.E.I.)
+, [1997] 3 S.C.R. 3; 217 N.R. 1; 156 Nfld. & P.E.I.R. 1; 483 A.P.R. 1; 206 A.R. 1; 121 Man.R.(2d) 1; 158 W.A.C. 1, ("
+Judges' Case
+"). The appeals in that case were based on s. 11(d) of the
+Charter
+, and the sole issue was "... whether and how the guarantee of judicial independence in s. 11(d) of the [
+Charter
+] restricts the manner by and the extent to which provincial governments and legislatures can reduce the salaries of provincial court judges" (page 30). In particular, the court considered the content of "... the institutional dimension of financial security for judges of provincial courts" (page 31).
+[120]
+In his reasons, Lamer, C.J., writing on behalf of the majority, addressed the question of the "constitutional home" of judicial independence, and concluded that it is "... at root an
+unwritten
+constitutional principle, in the sense that it is exterior to the particular sections of the
+Constitution Acts
+" (pages 63-64). In that regard, he stated as follows, at pages 77-78:
+"[109] In conclusion, the express provisions of the
+Constitution Act, 1867
+and the
+Charter
+are not an exhaustive written code for the protection of judicial independence in Canada. Judicial independence is an unwritten norm, recognized and affirmed by the preamble to the
+Constitution Act, 1867
+. In fact, it is in that preamble, which serves as the grand entrance hall to the castle of the Constitution, that the true source of our commitment to this foundational principle is located."
+[121]
+Following his consideration of the origins and nature of judicial independence, Lamer, C.J., reviewed and expanded on certain aspects of the decision in
+ <FRAGMENT_SUPPRESSED>  and ... the two dimensions of judicial independence" outlined by  <FRAGMENT_SUPPRESSED>  judicial independence --- security of tenure, financial security, and administrative independence -- should be contrasted with what I have termed the two dimensions of judicial independence. In <FRAGMENT_SUPPRESSED> , Le Dain, J., drew a distinction between two dimensions of judicial independence, the
+individual independence
+of a judge and the
+institutional or collective independence
+of the court or tribunal of which that judge is a member. In other words, while individual independence attaches to individual judges, institutional or collective independence attaches to the court or tribunal as an institutional entity. The two different dimensions of judicial independence are related in the following way ( <FRAGMENT_SUPPRESSED> , supra, at p. 687):
+'The relationship between these two aspects of judicial independence is that an individual judge may enjoy the essential conditions of judicial independence but if the court or tribunal over which he or she presides is not independent of the other branches of government, in what is essential to its function, he or she cannot be said to be an independent tribunal.'
+"[119] It is necessary to explain the relationship between the three core characteristics and the two dimensions of judicial independence, because Le Dain, J., did not fully do so in <FRAGMENT_SUPPRESSED> . For example, he stated that security of tenure was part of the individual independence of a court or tribunal, whereas administrative independence was identified with institutional or collective independence. However, the core characteristics of judicial independence, and the dimensions of judicial independence, are two different concepts. The core characteristics of judicial independence are distinct facets of the definition of judicial independence. Security of tenure, financial security, and administrative independence come together to constitute judicial independence. By contrast, the dimensions of judicial independence indicate which entity -- the individual judge or the court or tribunal to which he or she belongs -- is protected by a particular code characteristics.
+"[120] The conceptual distinction between the core characteristics and the dimensions of judicial independence suggests that it may be possible for a core characteristics to have
+both
+an individual
+and
+an institutional or collective dimension. To be sure, sometimes a core characteristic only attaches to a particular dimension of judicial independence; administrative independence, for example, only attaches to the court as an institution (although sometimes it may be exercised on behalf of a court by its chief judge or justice). However, this need not always be the case."
+[122]
+Lamer, C.J., therefore concluded that the core characteristic of financial security has both an individual and an institutional dimension.
+[123]
+Lamer, C.J., also addressed the concept of institutional independence, and confirmed the link between it and the constitutional separation of powers in Canada. In that regard, he observed at page 85 that "... the institutional independence of the judiciary is 'definitional to the Canadian understanding of constitutionalism'". He therefore concluded that the provincial statutory courts, which "... play a critical role in enforcing the provisions and protecting the values of the Constitution ... must be granted some institutional independence" (page 85). To achieve the necessary level of institutional independence, the provincial courts "... must be protected by a set of objective guarantees against intrusions by the executive and legislative branches of government" (page 90).
+[124]
+In order to guarantee objectively the institutional financial security of the provincial courts and to prevent "... political interference through economic manipulation ...", Lamer, C.J., placed an independent judicial compensation commission between the judiciary and the other branches of government (page 102). He further stated unequivocally that salary negotiations between the judiciary and the government are constitutionally inappropriate, not only because such negotiations are political in nature, but also because they place the judiciary in the position of negotiating with a litigant. In relation to the latter point, Lamer, C.J., stated as follows, at pages 112-113:
+"[187] Second, negotiations are deeply problematic because the Crown is almost always a party to criminal prosecutions in provincial courts. Negotiations by the judges who try those cases put them in a conflict of interest, because they would be negotiating with a litigant. The appearance of independence would be lost, because salary negotiations bring with them a whole set of expectations about the behaviour of the parties to those negotiations which are inimical to judicial independence. The major expectation is of give and take between the parties. By analogy with <FRAGMENT_SUPPRESSED> , the reasonable person might conclude that judges would alter the manner in which they adjudicate cases in order to curry favour with the executive. A professor Friedland has written in
+A Place Apart: Judicial Independence and Accountability in Canada
+(Ottawa: Canadian Judicial Council, 1995), at p. 57, 'head-to-head bargaining between the government and the judiciary [creates] ... the danger of subtle accommodations being made'. This perception would be heightened if the salary negotiations, as is usually the case, were conducted behind closed doors, beyond the gaze of public scrutiny, and through it, public accountability. Conversely, there is the expectation that parties to a salary negotiation often engage in pressure tactics. As such, the reasonable person might expect that judges would adjudicate in such a manner so as to exert pressure on the Crown."
+[125]
+For the purpose of the present case, the remaining aspects of Lamer, C.J.'s, analysis in the
+Judges' Case
+are not relevant and need not be reviewed.
+ii) Summary Of Principles Concerning
+Judicial Independence Applicable In
+The Present Case
+[126]
+A review of the jurisprudence from the Supreme Court of Canada confirms that judicial independence is part of the rules of natural justice, and as such applies to proceedings before administrative tribunals performing an adjudicative role. In determining the judicial independence of a tribunal, both its institutional independence and its institutional impartiality may be challenged. With respect to institutional independence, the classic test in
+Committee for Justice and  <FRAGMENT_SUPPRESSED>  analysis of the three core characteristics of judicial independence: security of tenure, financial security and administrative independence. The test should be applied flexibly, having regard to the functions exercised by the tribunal. The level of institutional independence required will depend on the nature of the tribunal, the interests at stake and other indices of independence. Furthermore, in assessing the question of institutional independence, the practice of a tribunal is relevant. In relation to institutional impartiality, the two-pronged test outlined in
+ <FRAGMENT_SUPPRESSED>  Level
+Of Independence
+[127]
+In order to determine the requisite level of independence for a Tribunal appointed under the
+Act
+, its nature, its functions and the interests at stake must be considered.
+[128]
+The nature of a Tribunal appointed under the
+Act
+was described in
+ <FRAGMENT_SUPPRESSED> , in which the Supreme Court of Canada considered the ability of the Commission to decide general questions of law. In determining that question, La Forest, J., writing for the majority, analysed the mandate accorded to the Commission and a Tribunal under the statutory scheme in the
+Act
+.
+[129]
+In his analysis of the legislative scheme, La Forest, J., noted that the
+Act
+"... sets out a complete mechanism for dealing with human rights complaints", and that the Commission plays a "central" administrative role, primarily in relation to receiving and screening complaints by assessing the sufficiency of the evidence before it (pages 889-891 and 893). He described the role of the Commission as follows, at page 889:
+"The
+Act
+sets out a complete mechanism for dealing with human rights complaints. Central to this mechanism is the Commission. Its powers and duties are set forth in ss. 26 and 27, and Part III of the
+Act
+. Briefly put, the Commission is empowered to administer the
+Act
+, which includes among other things fostering compliance with the
+Act
+through public activities, research programs, and the review of legislation. It is also the statutory body entrusted with accepting, managing and processing complaints of discriminatory practices. It is this latter duty which is provided for in Part III of the
+Act
+."
+[130]
+In contrasting the legislative roles accorded to the Commission and a Tribunal, La Forest, J., stated unequivocally that "... the Commission is not an adjudicative body; that is the role of a tribunal appointed under the
+Act
+" (page 891). He therefore concluded that the Commission had no power to consider questions of law.
+[131]
+With respect to the jurisdiction of a Tribunal appointed under the
+Act
+, La Forest, J., confirmed that a Tribunal or Review Tribunal also lacked jurisdiction to declare unconstitutional a limiting provision of the
+Act
+(pages 895-896). However, he concluded that "... a tribunal may have jurisdiction to consider general legal and constitutional questions" (pages 897-898). In that regard, he stated as follows, at pages 896-897:
+"As with the Commission there is no explicit power given to a tribunal to consider questions of law. Taken together, ss. 50(1) and 53(2) of the
+Act
+state that a tribunal shall inquire into the complaint referred to it by the Commission to determine if it is substantiated. This is primarily and essentially a fact-finding inquiry with the aim of establishing whether or not a discriminatory practice occurred. In the course of such an inquiry a tribunal may indeed consider questions of law. As with the Commission, these questions will often centre around the interpretation of the enabling legislation. However, unlike the Commission, it is implicit in the scheme of the
+Act
+that a tribunal possess a more general power to deal with questions of law. Thus tribunals have been recognized as having jurisdiction to interpret statutes other than the
+ <FRAGMENT_SUPPRESSED>  (C.A.)) and as having jurisdiction to consider constitutional questions other than those noted above. In particular, it is well accepted that a tribunal has the power to address questions on the constitutional division of powers (
+ <FRAGMENT_SUPPRESSED> ). Even in such instances, however, the legal findings of a tribunal receive no deference from the courts. This position was firmly established by this court in
+Mossop
+, supra, at p. 585:
+"The superior expertise of a human rights tribunal relates to fact-finding and adjudication in a human rights context. It does not extend to general questions of law such as the one at issue in this case. These are ultimately matters within the province of the judiciary, and involve concepts of statutory interpretation and general legal reasoning which the courts must be supposed competent to perform."
+[132]
+ <FRAGMENT_SUPPRESSED>  the
+Act
+is purely adjudicative in nature, and possesses the jurisdiction to consider certain general legal and constitutional questions.
+[133]
+Having determined the nature of a Tribunal, reference must also be made to its functions, which are outlined in Part III of the
+Act
+. In particular, a Tribunal is mandated under the
+Act
+to inquire into a human rights complaint by conducting a hearing in which all parties have an opportunity to adduce evidence and make representations. In exercising its adjudicative functions, a Tribunal has the same power as a superior court of record to summon and enforce the attendance of witnesses, as well as to compel them to give oral or written evidence on oath and to produce documents. A Tribunal also has the power to administer oaths. At the conclusion of the hearing, the Tribunal must determine whether the complaint was substantiated. If a Tribunal finds a complaint to be substantiated, it has the power to make an order, on terms, against the person who engaged in the discriminatory practice. In certain circumstances, a Tribunal may order the payment of compensation, not exceeding $5,000.00, to the victim of the discrimination.
+[134]
+The interests at stake in a hearing before a Tribunal may be determined by considering the nature of the legislation which it interprets and applies.
+[135]
+ <FRAGMENT_SUPPRESSED> , La Forest, J., writing for the majority, emphasized the quasi-constitutional nature of the
+Act
+, stating as follows at pages 89-90:
+"... As McIntyre, J., speaking for this Court, recently explained in
+Ontario Human Rights Commission and  <FRAGMENT_SUPPRESSED> , the
+Act
+must be so interpreted as to advance the broad policy considerations underlying it. That task should not be approached in a niggardly fashion but in a manner befitting the special nature of the legislation, which he described as 'not quite constitutional'; see also
+ <FRAGMENT_SUPPRESSED> , per Lamer, J., at pp. 157-58. By this expression, it is not suggested, of course, that the
+Act
+is somehow entrenched but rather that it incorporates certain basic goals of our society. More recently still, Dickson, C.J., in
+ <FRAGMENT_SUPPRESSED> , emphasized that the rights enunciated in the
+Act
+must be given full recognition and effect consistent with the dictates of the
+Interpretation Act
+that statutes must be given such fair, large and liberal interpretation as will best ensure the attainment of their objects."
+[136]
+Furthermore, in
+ <FRAGMENT_SUPPRESSED> , Lamer, J. (as he then was), described the
+Human Rights Code
+of British Columbia as a "fundamental law" which was "... not to be treated as another ordinary law of general application" (page 158).
+[137]
+In the circumstances, the interests at stake in a hearing before a Tribunal are the quasi-constitutional, fundamental human rights protected in the
+Act
+.
+[138]
+Accordingly, given the purely adjudicative role and the functions performed by a Tribunal in relation to rights and interests which are quasi-constitutional in nature, I am satisfied that a high level of independence is required, and that a relatively strict application of the principles in
+ <FRAGMENT_SUPPRESSED>  Security Of Tenure
+[139]
+Since the 1985 amendments, all of the members of the Tribunal Panel, including the President, hold part-time, fixed term appointments made by the Governor-in-Council. They hold office during good behaviour, are removable for cause, and are eligible for reappointment. However, the
+Act
+does not permit a Tribunal member, whose appointment has expired, to complete a case commenced prior to the expiry of the appointment. In such circumstances, the President of the Tribunal Panel must request the Minister of Justice to seek an extension of the member's appointment in order to enable the case to be completed. The decision of the Minister to seek an extension of a member's appointment is purely discretionary in nature.
+[140]
+In the present case, the President appointed the three Tribunal members knowing that their appointments would expire before the completion of the lengthy pay equity hearing, and that it would be necessary to make an application to the Minister to extend their fixed term appointments. The appointment of one of the members was not extended in a timely manner, and the Tribunal's proceedings were suspended for a period of time.
+[141]
+ <FRAGMENT_SUPPRESSED>  characteristic of security of tenure is "... a tenure ... that is secure against interference by the Executive or other appointing authority in a discretionary or arbitrary manner".
+[142]
+The facts of the present case illustrate the tenuous nature of the security of tenure afforded to a Tribunal member whose appointment expires during the course of a hearing. In such circumstances, the ability of the member to continue hearing the case depends solely and exclusively on the discretionary decision of the Minister to recommend that member's reappointment. The
+Act
+contains no objective guarantee that the member's prospect of reappointment to complete a case would not be adversely affected by any decisions made by that member, whether in the context of the outstanding case or any other matter.
+[143]
+In order to ensure a sufficient guarantee of the essential condition of security of tenure in the context of an administrative tribunal requiring a high level of independence, the statutory scheme must accord to the person performing the adjudicative role the right to complete that task without any intervention from the executive or legislative branches of the government. In other words, a Tribunal member's capacity to complete a hearing involving the fundamental rights protected by the
+Act
+should not depend on the exercise of ministerial discretion. For that reason, I have concluded that the statutory scheme in the
+Act
+is inadequate in that it fails to provide Tribunal members with a sufficient guarantee of security of tenure. I have further concluded that the insufficient nature of the security of tenure, in the context of a Tribunal requiring a high level of independence, would raise a reasonable apprehension of bias in the mind of a fully informed and reasonable person.
+b) Financial Security
+[144]
+The Commission possesses the legislative power to make bylaws for the conduct of its affairs, including bylaws prescribing the rate of remuneration, as well as the travel and living expenses, for the members of a Tribunal. In 1985 or 1986, the Commission enacted Bylaw No. 4 providing for the remuneration and travel and living expenses to be paid to members of a Tribunal. Although the bylaw has not been amended since it was enacted, the President of the Tribunal Panel and Commission officials had discussions from 1992 to 1993 concerning the per diem rate of remuneration paid to the members of a Tribunal. Those discussions were suspended due to the public service freeze on wages. However, given the recent lifting of the freeze, the issue concerning the remuneration of the members of a Tribunal is likely to be raised in the near future, requiring discussions and negotiations between the President of the Tribunal Panel and officials of the Commission.
+[145]
+The practice governing the relationship between the Tribunal Panel and the Commission in relation to funding, including the fees of Tribunal members, from 1990 until the administrative reorganization in January 1997 must also be considered. During those years, the Registrar prepared and submitted to the Commission, for transmission to the Chief Commissioner and to the Treasury Board, separate budgetary submissions for the Tribunal Panel, including the funds required for the per diem fees of its members. Under the
+Act
+, only the Commission could appropriate the necessary funding from Parliament. The Commission therefore included in its annual estimates the funding required by the Tribunal Panel for the next fiscal year. Following the parliamentary vote of funds, the Commission provided the Tribunal Panel with its funding, by virtue of a "gentleman's agreement". Finally, the fees billed by the members of a Tribunal were submitted for payment by the Tribunal Panel to the Commission's financial services, and the cheques issued to Tribunal members bore the words "Canadian Human Rights Commission" on their face.
+[146]
+As a result of the statutory scheme, the remuneration provided to Tribunal members was fixed by bylaw of the Commission, an interested party appearing as a litigant in a case conducted before a Tribunal. Furthermore, that remuneration could only be increased in the event that the Commission agreed, following discussions or negotiations with the Tribunal Panel, to enact a new bylaw. Finally, as a result of the practice in place from 1990 to early 1997, the members of a Tribunal were paid with cheques requisitioned by the Commission, bearing the words "Canadian Human Rights Commission", and from funds appropriated by the Commission.
+[147]
+From as early as 1986, a coterie of well-informed persons, including the Chief Commissioner and other officials of the Commission and the various Presidents and the Registrar of the Tribunal Panel, have raised concerns that the legislative method of remuneration for the members of a Tribunal adversely affected the perceived independence of a Tribunal appointed under the
+Act
+. Those concerns were apparently shared by at least two Attorneys General who have tabled legislation in Parliament, in 1992 and twice in 1997, which, among other things, repeals the power of the Commission in ss. 37(1)(e) and (f) of the
+Act
+to make bylaws providing for the remuneration and travel and living expenses to be paid to members of a Tribunal.
+[148]
+The jurisprudence from
+ <FRAGMENT_SUPPRESSED>  characteristic of judicial independence requires a basic degree of financial security which is not "subject to arbitrary interference" or economic manipulation, recognizing that different plans for remuneration will be appropriate for different types of tribunals. The
+Judges' Case
+, supra also indicated that negotiating with a litigant creates a conflict of interest which results in the loss of the appearance of independence. Counsel for the respondents submitted that the principles in the
+Judges' Case
+, supra had no application to administrative tribunals. I cannot accept that submission. In my opinion, the principles in the
+Judges' Case
+, supra may be applied and adapted to the circumstances of administrative tribunals, in the same manner as the principles in
+ <FRAGMENT_SUPPRESSED>  Case
+, supra, concerning the appearance created by negotiating a salary with a litigant, is equally applicable in the circumstances of an administrative tribunal requiring a high level of independence.
+[149]
+Counsel for the respondents further submitted that the use of bylaws as a means of fixing remuneration for administrative tribunals was approved by Lamer, C.J., in
+ <FRAGMENT_SUPPRESSED>  bylaws by an Indian Band as a means of fixing the remuneration for members of its administrative tribunals. However, the context of that case involved administrative tribunals adjudicating disputes relating to property taxes, in relation to which Lamer, C.J., concluded that a "more flexible" approach in the application of the principles in
+ <FRAGMENT_SUPPRESSED>  appointed under the
+Act
+, which performs a purely adjudicative role concerning fundamental human rights, requires a high level of independence. In the circumstances, I am satisfied that the approach taken by Lamer, C.J., in which he approved the use of Indian Band bylaws to fix remuneration for its tribunal members, has no application in the present case.
+[150]
+In applying the relevant principles in the context of the present case, I have concluded that the legislative scheme in the
+Act
+does not respect the essence of the condition of financial security, in that the remuneration of the members of a Tribunal is controlled by the Commission, an interested party in all Tribunal proceedings. Furthermore, any increase in the remuneration prescribed in the Commission's bylaw may be obtained only by virtue of negotiations between the Tribunal Panel and the Commission. In that regard, I am satisfied that any negotiations between the Tribunal Panel and the Commission relating to the remuneration of Tribunal members would create a conflict of interest negatively impacting on the appearance of independence. The fact that Treasury Board must approve the remuneration provided in a bylaw does not remove the conflict of interest or otherwise alleviate the weakness in a Tribunal's status created by the legislation. For those reasons alone, I have concluded that a fully informed and reasonable person, considering all of the facts, would have a reasonable apprehension of bias on the part of a Tribunal.
+[151]
+In arriving at this decision, I note that many fully informed and reasonable persons, including a past Chief Commissioner of the Commission, the various Presidents of the Tribunal Panel (including the present one) and its Registrar, have all raised concerns relating to the "perception" that the remuneration provisions in the
+Act
+adversely affect the perceived independence of a Tribunal. Indeed, several of those people have actively lobbied the Government in the hopes of seeking legislative change to correct the problem. Furthermore, at least two Attorneys General have tabled legislation in Parliament which, among other things, repealed the impugned legislative provisions. In my opinion, those facts unequivocally support my finding that a Tribunal appointed under
+Act
+is perceived to be lacking in independence. I also note that the practice in place from 1990 to 1997 could only have exacerbated that perceived lack of independence, in that the members were paid with cheques requisitioned from the Commission bearing the words "Canadian Human Rights Commission", and from funds appropriated by the Commission. Furthermore, I am of the opinion that the new practices implemented by virtue of the administrative reorganization in 1997 are not sufficient to correct the weakness in a Tribunal's status created by the impugned legislative provisions.
+c) Administrative Independence
+[152]
+Although the registry staff of the Tribunal Panel were employees of the Commission until the 1997 administrative reorganization, I am nevertheless satisfied that a Tribunal appointed under the
+Act
+has enjoyed sufficient independence in relation to administrative matters bearing directly on the exercise of its judicial function.
+v) Conclusion On Question Of Institutional
+Independence
+[153]
+I have concluded that the legislative scheme in the
+Act
+relating to security of tenure and financial security weakens the status of a Tribunal appointed under the
+Act
+to such an extent that it lacks the requisite level of institutional independence. In the circumstances, I am satisfied that a fully informed and reasonable person would have a reasonable apprehension of bias on the part of a Tribunal appointed under the
+Act
+.
+vi) Institutional Impartiality
+[154]
+In view of my conclusion that there is a reasonable apprehension of bias arising in relation to the two core characteristics of security of tenure and financial security of a Tribunal appointed under the
+Act
+, it is unnecessary for me to consider the question of institutional impartiality. However, I nevertheless wish to indicate that I have serious reservations concerning the impact on institutional impartiality arising from the power of the Commission, which is a litigant in all Tribunal proceedings, to issue binding guidelines on a Tribunal with respect to "... the manner in which, in the opinion of the Commission, any provision of the
+Act
+applies in a particular case ..." (s. 27(2)). In that regard, I note that the amendments in Bill C-108 would have eliminated any potential problem by making the guidelines non-binding on a Tribunal. I have no hesitation whatsoever in suggesting that, in order to preserve the institutional impartiality of a Tribunal appointed under the
+Act
+, the preferable and prudent course of action would be to permit the Commission to make guidelines which are nonbinding on a Tribunal.
+vii) Consequences Of Finding Of
+Reasonable Apprehension Of Bias
+[155]
+ <FRAGMENT_SUPPRESSED>  Nfld. & P.E.I.R. 271; 301 A.P.R. 271, the Supreme Court of Canada indicated, in a unanimous decision, that a finding of a reasonable apprehension of bias vitiates the right to a fair hearing. The court stated as follows, at page 645:
+"
+The Consequences of a Finding of Bias
+Everyone appearing before administrative boards is entitled to be treated fairly. It is an independent and unqualified right. As I have stated, it is impossible to have a fair hearing or to have procedural fairness if a reasonable apprehension of bias has been established. If there has been a denial of a right to a fair hearing it cannot be cured by the tribunal's subsequent decision. A decision of a tribunal which denied the parties a fair hearing cannot be simply voidable and rendered valid as a result of the subsequent decision of the tribunal. Procedural fairness is an essential aspect of any hearing before a tribunal. The damage created by apprehension of bias cannot be remedied. The hearing, and any subsequent order resulting from it, is void."
+[156]
+I am satisfied that the principles enunciated by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  apprehension of bias based on a perceived lack of institutional independence on the part of an administrative tribunal. I have therefore concluded that the proceedings before the Tribunal in the present case are void. The fundamental rights at issue in the present case cannot be determined by a Tribunal appointed under the
+Act
+until legislative reform, which has been sought for so many years, corrects the problems identified in relation to security of tenure and financial security.
+viii) Tribunal's Decision
+[157]
+In view of my conclusion in this matter, I have determined that the Tribunal erred in law and was not correct in determining that it was "... an independent quasi-judicial body institutionally capable of providing a fair hearing in accordance with the rules of natural justice".
+Decision
+[158]
+The application for judicial review is allowed in file T-1257-97. The proceedings before the Tribunal are quashed. There shall be no further proceedings in this matter, until the problems identified in these reasons for order in relation to security of tenure and financial security are corrected by legislative amendments to the
+Act
+.
+[159]
+In view of my decision in file T-1257-97, the applications for judicial review in files T-2722-96 and T-950-97 are dismissed on the basis that they are moot.
+Application allowed.
+Editor: Steven C. McMinniman/slm
+Footnotes
+1.	Since the complaints in all of those cases were settled, the question of the institutional independence of a Tribunal following the 1985 amendments has never been determined by the court.
+2.	SI/96-109, December 25, 1996,
+Canada Gazette
+Part II, vol. 130, No. 26, page 3396.
+3.	SOR/96-537, SOR/96-538, SOR/96-539, SOR/96-540, and SOR/96-541, December 25, 1996,
+Canada Gazette
+Part II, vol. 130, No. 26, pages 3345 to 3350.
+4.	Ibid, page 3350.
+5.	Bill S-5 is identical to Bill C-98, save and except for one minor matter which is not relevant for the purposes of the present case.
+6.	The amendment relates to special programs for disadvantaged groups, and is not relevant for the purposes of the present case.
+7.	Section 11(d) of the
+Charter
+provides as follows:
+"Any person charged with an offence has the right
+(d) to be presumed innocent until proven guilty according to law in a fair and public hearing by an independent and impartial tribunal;"
+[End of document]

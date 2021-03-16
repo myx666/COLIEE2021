@@ -1,0 +1,567 @@
+Hospira Healthcare v. Kennedy Institute, [DATE_SUPPRESSED] F.T.R. TBEd. DE.016
+MLB being edited
+Currently being edited for F.T.R. - judgment temporarily in rough form.
+Hospira Healthcare Corporation (plaintiff/moving party) v. The Kennedy Institute of Rheumatology (defendant/responding party)
+The Kennedy Trust for Rheumatology Research, Janssen Biotech, Inc., Janssen Inc. and Cilag GmbH International (plaintiffs by dounterclaim/responding parties) v. Hospira Healthcare Corporation, Celltrion Healthcare Co. Ltd. and Celltrion Inc. (defendants by counterclaim/moving parties)
+(T-396-13; DATE_SUPPRESSED FC 1292)
+Indexed As: Hospira Healthcare Corp. v. Kennedy Institute of Rheumatology
+Temp. Cite: [DATE_SUPPRESSED] F.T.R. TBEd. DE.016
+Federal Court
+Kane, J.
+November 18, DATE_SUPPRESSED.
+Counsel:
+Warren Sprigings, for the moving parties/appellants;
+Andrew Skodyn and Vanessa Park Thompson, for the responding parties/respondents.
+Solicitors of Record:
+Sprigings, Toronto, Ontario, for the moving parties/appellants;
+Lenczner Slaght Royce Smith Griffin LLP, Toronto, Ontario, for the responding parties respondents.
+Summary:
+The headnote and the decision for this document are in preparation. Any footnotes found in this case will appear below end of document.
+I.
+Overview
+[1]
+Kane, J.
+: This is an appeal from the Order of Prothonotary Martha Milczynski, made on January 15, 2015, arising from the motion by Hospira Healthcare Corporation [Hospira] and Celltrion Healthcare Co. Ltd. and Celltrion Inc. [collectively, the appellants] to compel the respondents, the Kennedy Institute of Rheumatology and the Kennedy Trust for Rheumatology Research [Kennedy], to answer questions refused at the examination for discovery of Kennedy's representative.
+[2]
+The underlying dispute is a patent impeachment action. The appellants, the plaintiffs in the underlying action, seek a declaration that claims 1-42 of Canadian Patent No 2,261,630 are invalid and that the appellants' proposed product will not infringe these claims. The respondents, the defendants in the underlying action, counterclaim and seek a declaration that the claims of the patent are valid and that the appellants have or will infringe the patent. Janssen Biotech Inc, Janssen Inc and CILAG GmbH International, who are licensees, distributors of the licensees and manufacturers of the licensees [Janssen], are plaintiffs by counterclaim. Celltrion Healthcare Co Ltd and Celltrion Inc are defendants to the counterclaim. The pleadings were closed on January 28, 2014.
+[3]
+On February 24, 2014, the Court issued a bifurcation order; the liability issues will proceed before the quantification of damages issues. The order provides that the liability phase would include the respondents' entitlement to damages, that during the liability phase there shall be no documentary or other discovery on matters solely relating to the quantification issues, and that the quantum of damages would be decided during the quantification phase.
+[4]
+The examination for discovery of Mr Espinasse, the representative for Kennedy, took place in May 2014. After two full days and before discovery was complete, the respondents refused the re-attendance of Mr Espinasse. The respondents were subsequently ordered to produce Mr Espinasse for two additional days.
+[5]
+The appellants brought a motion to compel the respondents to answer 354 questions that were taken under advisement or refused at the examination for discovery of Mr Espinasse,
+[6]
+Prothonotary Milczynski heard the motion on September 10-11 and October 1-2, 2014 and ordered that the respondents answer nineteen of the 354 questions which were either refused or taken under advisement at the examination for discovery.
+[7]
+The appellants now appeal 85 rulings in the order.
+[8]
+The Court notes that the examination for discovery which gave rise to the refusals and the subsequent motion lasted two days (with two additional days subsequently ordered). The hearing of the motion by the prothonotary was also four days. The hearing of this appeal was one day. The Court's review of the record, including the pleadings, the examination for discovery and the transcript of the motion hearing, has required many additional days. Despite the Court's comprehensive review of the record, the Court does not have the same grasp of all the issues at stake, the history of the proceedings and the context which the prothonotary has acquired over the two years she has case managed this litigation. However, the Court has a sufficient grasp of the issues on this appeal to reach a determination. Even if a
+de novo
+review were warranted, which it is not, it would require a great deal more time than a one day hearing and the additional days of review to do so. These observations highlight the importance of proportionality as a consideration in the management of complex litigation.
+[9]
+The motion hearing before the prothonotary provided ample opportunity for the appellants to make submissions on the relevance of the questions they sought to have answered. The decision of the prothonotary reveals that careful consideration was given to the appellants' arguments. Several of the prothonotary's rulings were based on balancing the degree of relevance of the question or request and the onerousness of requiring the respondents to answer or provide documents, often in circumstances where the respondents had already indicated that they had provided what they possessed, the information had been provided by others, or the appellants could not elaborate on why the information was relevant. There are several instances where the prothonotary encouraged the appellants to provide an explanation or elaborate on why a question was relevant, but rather than do so, the appellants preferred to regard the question as dismissed.
+[10]
+It would be impractical to pen a decision of hundreds of pages to address each question refused and each argument the appellants raised on appeal with respect to each of those questions. The Court's Order, as long as it is, cannot address every argument raised by the appellants on the questions they submit should have been ordered to be answered.
+[11]
+For the reasons that follow the appeal is dismissed.
+II.
+The Prothonotary's Order
+[12]
+By order dated January 15, 2015, Prothonotary Milczynski ordered that 19 of the questions be answered, at least in part, and dismissed the balance of the motion. (There are some minor discrepancies regarding the number of questions posed and refused because several were multi-part questions.)
+[13]
+The prothonotary noted that the purpose of examinations for discovery is to advance the case; discoveries ought to be conducted to obtain omissions from the opposing party, narrow the issues for trial, and, through gathering the facts, "shape the case that must be met at trial without risk of ambush or surprise".
+[14]
+The prothonotary then noted the principles governing the scope of examinations, including: that questions must be relevant, in that they advance a party's case or damage the opposing party's case; questions that call for privileged information to be disclosed, for speculation, or for expert or legal opinion do not need to be answered; and, that vague or overbroad questions are improper. The prothonotary added that while questions that could lead to a "train of inquiry" may be relevant, they must not go off track or show little prospect of reaching their destination. Finally, the prothonotary explained that the principle of proportionality must be applied: questions that require onerous or costly efforts will not be compelled when the information is of limited usefulness and not likely to advance a party's legal position.
+[15]
+The prothonotary found that, for the oral reasons she provided at the hearing of the motion, many of the questions did not need to be answered. She also found that many questions had been resolved by the respondents providing or agreeing to provide answers.
+III.
+The Issues
+[16]
+The issues raised in the appeal are:
+1. What is the applicable standard of review?
+2. Should the decision as a whole be reviewed on a
+de novo
+basis?
+3. Should specific rulings be reviewed on a
+de novo
+basis?
+IV.
+The Standard of Review
+[17]
+The parties agree that the current standard of review of a prothonotary's discretionary decision is that established in
+REFERENCE_SUPPRESSED, leave to appeal to SCC refused, [2004] SCCA No 80 [
+CITATION_SUPPRESSED
+], the standard of review previously established in
+CITATION_SUPPRESSED
+was restated as follows: "Discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless: (a) the questions in the motion are vital to the final issue of the case, or (b) the orders are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of facts."
+[19]
+Prothonotaries are given wide discretion by virtue of their case management role; see e.g.,
+REFERENCE_SUPPRESSED:
+[16] It has often been said in this Court that, because of their intimate knowledge of the litigation and its dynamics, prothonotaries and trial judges are to be afforded ample scope in the exercise of their discretion when managing cases: see also
+Federal Courts Rules
+, rules 75 and 385. Since this Court is far removed from the fray, it should only intervene in order to prevent undoubted injustices and to correct clear material errors. None have been demonstrated here. [...]
+[20]
+The Court should only intervene in a prothonotary's decision "in the clearest case[s] of a misuse of judicial discretion" (
+REFERENCE_SUPPRESSED). The Federal Court of Appeal clarified in
+REFERENCE_SUPPRESSED that this principle does not permit the prothonotary to deny a party the legal right to have questions answered on examination for discovery that are relevant to the issues in the pleadings. The prothonotary must direct their mind to several considerations in discovery, including relevance (at para 15). Other considerations were noted at para 10:
+[...] It is clear that the primary consideration is relevance. If a prothonotary or a judge does, however, find a question to be relevant he or she may still decline to order the question to be answered if it is not at all likely to advance the questioner's legal position, or if the answer to a question would require much time and effort and expense to obtain and its value would appear to be minimal, or where the question forms part of a "fishing expedition" of vague and far-reaching scope.
+[21]
+In
+REFERENCE_SUPPRESSED, Justice Paul Crampton considered both the
+CITATION_SUPPRESSED
+test and the principle that deference is owed to prothonotaries, at para 10, noting that the principle in
+CITATION_SUPPRESSED
+does not appear to apply when the question is vital to the final issue in the case:
+[10] More recently, the Federal Court of Appeal has stated that discretionary decisions of prothonotaries should stand unless intervention is warranted "to prevent undoubted injustices and to correct clear material errors" (
+REFERENCE_SUPPRESSED). However, the latter statement appears to have been made solely with respect to the second prong of the test set forth above, as the Court in that case agreed with the motions judge that the issue that had been raised was not vital to the final issue of the case (
+CITATION_SUPPRESSED). Based on a more recent decision of the Federal Court of Appeal, it is clear that this Court is still obliged to conduct a
+de novo
+review of a prothonotary's decision in respect of a question that is vital to the final issue in the case (
+REFERENCE_SUPPRESSED).
+[22]
+The respondents submit that the test in
+CITATION_SUPPRESSED
+has been the subject of commentary in the Federal Court of Appeal and that there is some support for moving toward deference to the prothonotory's decision even on issues that are vital to the final outcome of the case (
+REFERENCE_SUPPRESSED) and toward following the normal appellate standard of review articulated in
+REFERENCE_SUPPRESSED of "palpable and overriding error".
+[23]
+In
+REFERENCE_SUPPRESSED, Justice Donald Rennie referred to
+CITATION_SUPPRESSED
+, noting that it articulated "sound policy reasons" for the application of the
+CITATION_SUPPRESSED
+standard, but found that the comments were
+obiter
+and applied the
+CITATION_SUPPRESSED
+standard.
+[24]
+In
+CITATION_SUPPRESSED, Justice Crampton also cited
+CITATION_SUPPRESSED
+and found that, because the prothonotary's decision was vital to the final issue in the proceeding, he was obliged to perform a
+de novo
+review of the decision. However, he noted that he was "attracted to the view that deference should be given to determinations made by a prothonotary, even where they raise a question vital to the final issue of the case."
+[25]
+In the present case, the parties agree that the current or prevailing standard of review is that set out in
+CITATION_SUPPRESSED
+. While the respondents have raised good arguments for breaking new ground regarding the standard of review, I do not find that this case is the case to do so. Moreover, the result would be the same whether the
+CITATION_SUPPRESSED
+test is applied or whether the palpable and overriding error standard is applied.
+V.
+Is the decision as a whole clearly wrong and should a
+de novo
+review be conducted
+?
+The Appellants' Position
+[26]
+The appellants argue that the prothonotary's decision fails both parts of the
+CITATION_SUPPRESSED
+test.
+[27]
+The prothonotary's decision discloses a lack of appreciation of relevant evidence, a misapprehension of the facts, and her exercise of discretion was based upon a wrong principle of law.
+[28]
+Alternatively, or in addition, the appellants submit that the prothonotary improperly exercised her discretion on matters that relate to an issue vital to the final outcome of the case.
+[29]
+The appellants claim that the order does not address why the questions, either individually or categorically, were dismissed. While the order refers to oral reasons, many of the oral reasons were "inaudible" on the transcript. It is unclear whether the questions were dismissed because they lacked relevance or because, while relevant, they were unduly onerous or otherwise improper.
+[30]
+The appellants argue that the respondents provided no evidence that the questions were unduly onerous or would require an inordinate amount of time, effort or cost that would be disproportionate to the results. There were only submissions by counsel on this issue, rather than an affidavit attesting to how or why this would be onerous.
+[31]
+The appellants submit that the litigation is complicated, the litigants are sophisticated and the stakes are high, as these proceedings relate to the highest selling drug in Canada. Although this should not impact the scope of discovery, the respondents cannot complain about the extra time needed to look for the answers or the documents because they have the resources to do so.
+[32]
+The appellants point to the Federal Court's Practice Direction dated June 24, 2015, "Case Management: Increased Proportionality in Complex Litigation Before the Federal Court," which provides that "[q]uestions should be answered unless clearly improper or prejudicial, or would require the disclosure of a privileged communication."
+[33]
+The appellants submit that the prothonotary made a broad ruling based on Rule 3 of the
+Federal Courts Rules
+, SOR/98-106 [
+Rules
+] to provide an expeditious determination without regard to other principles, including that answers cannot be refused on issues relevant to an issue in the pleadings and justice cannot be subordinated to expediency.
+[34]
+The appellants allege several errors of law and fact by the prothonotary.
+[35]
+The appellants allege that the prothonotary applied the wrong test of relevance by asking whether a document was "relevant enough" rather than "relevant". She further erred by requesting privileged information, trial strategy and how documents would be used at trial as a measure of relevance.
+[36]
+The appellants note that the test for relevance is whether something will lead to information or a train of inquiry which may directly or indirectly allow a party to advance its own case or damage the case of its adversary (
+REFERENCE_SUPPRESSED). The purpose of discovery is to inform the adverse party of the case it has to meet. There should be flexibility in examinations and the production of documents. Relevant questions should only be disallowed when they are abusive. The appellants argue that the prothonotary did not apply the train of inquiry approach, but rather took a narrow approach and improperly put a higher onus on the appellants by asking them to provide the theory of their case.
+[37]
+The appellants argue that the prothonotary erred in accepting the oral argument of Kennedy's counsel as evidence of onerousness and undue effort, rather than an affidavit attesting to how or why a question would be onerous.
+[38]
+The appellants also allege that the prothonotary erred by not requiring Kennedy to answer a question based on the fact that Janssen had already provided an answer to that question and by not requiring Kennedy to assist Hospira's counsel by directing them to an answer previously given by Kennedy or Janssen. The appellants submit that a party cannot refuse to answer a question or produce a document on the basis that a co-defendant has already answered the question or produced the document (REFERENCE_SUPPRESSED).
+[39]
+The appellants also argue that Kennedy's witness, Mr Espinasse, was uninformed and unprepared, which resulted in many refusals and undertakings. The appellants acknowledge that they will have an opportunity to examine Dr Maini, who they initially requested as the witness, and that they have examined Dr Baker, a representative of Janssen.
+[40]
+The appellants contend that Kennedy delivered an unsworn affidavit of documents that lacked detail regarding dates, authors, titles or descriptions for the majority of the 770 documents listed. Even if an affidavit with an index was provided afterward, expecting the appellants to sort it out is not reasonable.
+[41]
+The appellants dispute the respondents' contention that they simply asked the questions and failed to read the documents provided. The appellants submit that they still needed to ask questions to determine relevance.
+The Respondents' Position
+[42]
+The respondents submit that the context is an important consideration in the appeal. The prothonotary has case-managed this protracted litigation with a view to moving it forward for over two years. There have been several discovery motions and many interlocutory decisions, several have been or are being appealed. The respondents suggest that the appellants have not heeded the Court's guidance and their actions are abusive and wasteful.
+[43]
+The respondents submit that the 85 questions under appeal out of over 500 cannot be argued to be vital to the final outcome. Additional days of discovery are scheduled, or have already taken place, and if the questions were vital, there will be another opportunity to ask them. Moreover, the disposition of a discovery motion will rarely be vital to the final outcome of the case (REFERENCE_SUPPRESSED).
+[44]
+The respondents submit that the absence of written reasons for each ruling is not grounds for a
+de novo
+hearing. Although the transcript includes some parts that are inaudible or unclear, the oral reasons and written order as a whole clearly convey that the prothonotary applied the legal principles of discovery and refusals motions to her understanding of the case.
+[45]
+The respondents add that even when a question is relevant, the Court has a discretion to disallow it, for example where it would be onerous or cause hardship, where other means exist to address it, or where it is vague or a fishing expedition (REFERENCE_SUPPRESSED).
+[46]
+The appellants were aware that Mr Espinasse would be the respondents' representative. The appellants' motion to have an inventor appear as the witness was dismissed. However, the inventors have been subsequently discovered.
+[47]
+The respondents dispute that Mr Espinasse was unprepared. No one could have been able to answer the inappropriate questions posed by the appellants, some of which raised ancient events beyond his knowledge.
+[48]
+The respondents also note several exchanges between the appellants and the prothonotary where the appellants failed to make submissions on how the documents requested were relevant and simply took the prothonotary's inquiry as a dismissal of the question. The respondents also submit that the appellants preferred to ask questions rather than review the documents that would have provided the answers to the questions asked.
+The decision as a whole is not clearly wrong; the prothonotary did not exercise her discretion based upon a wrong principle or upon a misapprehension of facts
+[49]
+None of the questions on the discovery motion will likely be vital to the final outcome of the case (
+CITATION_SUPPRESSED). As a result, the applicable standard is whether the prothonotary's order was clearly wrong, in that the exercise of her discretion was based on a wrong principle or a misapprehension of the facts (
+CITATION_SUPPRESSED
+at 462-463).
+[50]
+The appellants bear the burden of establishing that the prothonotary was clearly wrong and that the Court should intervene. They have not met this burden.
+[51]
+With respect to the appellants' submissions that the prothonotary applied the wrong test for relevance, failed to appreciate relevant evidence, misapprehended the facts and did not make clear findings, the appellants make only broad references to the oral reasons.
+[52]
+The prothonotary's findings are clear and the decision refers to the appropriate considerations and principles in the jurisprudence. The appellants have not established that the prothonotary's order was based on a wrong principle or a misapprehension of the facts.
+[53]
+As noted above regarding the standard of review, the prothonotary must consider relevance, but even if a question is relevant, it may be refused if, for example, it is not at all likely to advance the questioner's legal position, the answer to a question would require significant time, effort and expense to obtain and its value would be minimal, or the question forms part of a "fishing expedition" of vague and far-reaching scope (
+CITATION_SUPPRESSED).
+[54]
+The prothonotary did not ask or consider whether the questions or issues were "relevant enough". However, if she had, this would not necessarily be an error. The degree of relevance of a question is an appropriate consideration (
+REFERENCE_SUPPRESSED). Even the train of inquiry approach does not provide a vehicle to permit remotely potentially relevant questions to ride along. As the prothonotary noted, not every question deserves an answer.
+[55]
+The appellants' submission that the prothonotary erred by requesting privileged information, trial strategy and how documents would be used at trial as a measure of relevance are also addressed below as they arise in the question-by-question submissions.
+[56]
+The prothonotary did not err in asking the appellants to better explain why particular questions or documents were relevant. The onus was on the appellants to provide more than an assertion and, for many requests, they failed to do so.
+[57]
+The prothonotary's order reflects that she applied the principles summarised by Justice Yves de Montigny in
+CITATION_SUPPRESSED:
+[16] Pursuant to Rule 240, a person being examined for discovery is required to answer any questions relevant to any unadmitted allegation of fact disclosed in the pleadings as well as any question concerning the identity of any person, other than an expert witness, who may reasonably be expected to have knowledge of matters in issue.
+[17] Rule 242(1) establishes, however, permissible objections during an examination for discovery, if, for example, the question is not relevant, is unreasonable, is unnecessary or would be unduly onerous. Relevance is a matter of law, not discretion. The question of whether a document "relates" to an issue in the case depends upon a reasonable interpretation of the pleadings. The party demanding a document must demonstrate that the information in the document may, either directly or indirectly, advance its own case or damage the case of an opponent.
+[18] More recently, the Federal Court of Appeal has adopted the "train of inquiry test" with respect to which documents may be deemed to advance a party's case. In other words, the Court must determine whether it is reasonable to conclude that the answer to a particular question might lead the questioning party to a train of enquiry that may either advance its case or damage the case of its opponent: see
+REFERENCE_SUPPRESSED.
+[19] It is fair to say, therefore, that the Court will apply a generous and flexible standard of relevance in determining whether a question should be answered. A fair amount of latitude will be allowed on discovery provided that a question is relevant to issues raised by the pleadings. The standard of relevance on discovery is lower than at trial and doubt as to the propriety of the question will be resolved in favour of disclosure: see
+REFERENCE_SUPPRESSED.
+[20] That being said, the Court retains a residual discretion to decide not to compel the production of technically relevant documents where such production would have no benefit or could not be used to advance a party's case. Although there is a broad right of examination, there are limits on that right of discovery and the Court will not permit the discovery process to be used as a fishing expedition: see
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED.
+[21] Moreover, the simple fact that a question can be considered "relevant" does not mean that it must inevitably be answered. Relevance must be weighed against matters such as the degree of relevance, how onerous it is to provide an answer, whether the answer requires fact or opinion of law, and so forth:
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED.
+[58]
+The Federal Court of Appeal in
+CITATION_SUPPRESSED also clearly stated that relevance is not the only consideration and that questions can be disallowed following a balancing of other factors:
+[35] Where relevance is established the Court retains discretion to disallow a question. The exercise of this discretion requires a weighing of the potential value of the answer against the risk that a party is abusing the discovery process. See
+REFERENCE_SUPPRESSED. The Court might disallow a relevant question where responding to it would place undue hardship on the answering party, where there are other means of obtaining the information sought, or where "the question forms part of a 'fishing expedition' of vague and far-reaching scope":
+REFERENCE_SUPPRESSED;
+REFERENCE_SUPPRESSED.
+[59]
+The appellants argue that the stakes are very high in this litigation and that the determination of the issues in the appeal should be assessed in this context and, therefore, relevance should be more broadly interpreted. While I agree that context is important, high stakes are not the only contextual consideration and cannot trump other well-established principles.
+[60]
+Moreover, the corollary cannot be supported, i.e., that where the stakes are not as high, the determinations of relevance would be less important or the scope of relevance would be narrower.
+[61]
+It is apparent that while the prothonotary may have found some of the questions and requests to have some relevance, she also went on to consider the other factors, and in many instances properly concluded that the value of requiring an answer was disproportionate for varying reasons, including onerousness, vagueness or that the information had already been provided by others.
+[62]
+With respect to the appellants' submission that the prothonotary erred in accepting the oral submissions of Kennedy's counsel as evidence of onerousness and undue effort, rather than requiring an affidavit, the appellants have not cited any authority to support that this is an error. It was open to the prothonotary to accept the explanations offered by the respondents regarding the onerous impact of producing particular documents in the context of her awareness of the case, given her experience case managing the litigation. Similarly, the appellants do not point to a legal principle that requires the prothonotary to order the respondents to assist the appellants by directing them to an answer previously given. The prothonotary pointed out that many documents appeared not to have been read by the appellants and, rather than read them, the appellants simply asked the respondents to pinpoint particular information.
+[63]
+With respect to the appellants' argument that the prothonotary erred by dismissing questions based on the fact that Janssen had already provided answers to the questions,
+CITATION_SUPPRESSED
+, relied on by the appellants, does not, in my view, support the broad proposition advanced by the appellants.
+CITATION_SUPPRESSED
+dealt with gaps in the production of documents and referred to circumstances where the documents had been provided by another source, i.e., a third party. In the present case, the questions have been answered by a party to the proceedings, i.e., Janssen. Kennedy had clearly stated that it provided all it had in its possession. Moreover, even if Kennedy had the documents, it would be a waste of resources to require them to provide answers or documents already known to the appellants. Even if the respondents have adequate resources, there is no reason to exploit them.
+[64]
+With respect to the appellants' submission that there were no reasons provided for some of the prothonotary's determinations due to inaudible portions of the transcript, I do not agree that the inaudible portions make it impossible for the Court to consider the issues raised on this appeal. The motion occurred over four days, the record is voluminous and the majority of the transcript is audible. Moreover, the appellants were present and heard the prothonotary's rulings as the motion proceeded. If there were examples of the oral reasons that are not transcribed that the appellants take issue with, the appellants should have been able to provide some of the specific examples.
+[65]
+The Saskatchewan Court of Queen's Bench addressed a similar issue in
+REFERENCE_SUPPRESSED:
+When I read the impugned portion of the transcript by itself I am able to ascertain the basic content and effect of the evidence. This portion of the transcript relates only to the rebuttal evidence of Robinson and when I read it in conjunction with the preceding portion of the transcript I am confident that I have a proper understanding and appreciation of the deficient portion of the transcript. More importantly, I am satisfied from a perusal of the portions of the transcript surrounding the inaudible portions that whatever has not been transcribed would not have brought about a different decision. In short, I am not persuaded that the interests of justice require a trial
+de novo
+. Accordingly, the application for such a trial is dismissed.
+[66]
+Although the absence of parts of a transcript or record may, in some cases, affect a party's right to know the reasons for a decision and the Court's ability to determine if the decision is clearly wrong, this is not such a case. The inaudible parts of the transcript were heard by the appellants in person, they have not provided specific examples of the errors alleged and the inaudible portions would not likely have brought about a different decision.
+[67]
+With respect to the appellants' suggestion that the prothonotary misapplied the June 24, 2015 Practice Direction and focussed only on expediency, I note that the appellants have selectively extracted one part of that Practice Direction (which was not in effect at the time of the motion or the prothonotary's order) without reference to its overall purpose and the related principles. The Practice Direction is intended to bring about increased proportionality in proceedings before this Court. Amoung other recommendations, it proposes limits on documentary and oral discovery and limits on refusals motions "to ensure the proportionate use of the Court's scarce resources by parties."
+[68]
+The appellants referred only to the proposal that questions should be answered unless they are clearly improper or prejudicial, or would require disclosure of privileged information. Equally applicable are the following proposals:
+• No refusals motions will be permitted until discoveries are complete.
+• Such motions will be limited to one hour per day of discovery of each party's representative.
+• Potentially significant cost sanctions may be imposed against unsuccessful/unreasonable parties.
+• No questions will be taken under advisement.
+• Answers provided under objection will be considered by the trial judge, if the objection is not sustained.
+[69]
+The prothonotary did not place expediency ahead of the need to assess the relevance of the questions and the other considerations. Moreover, had the June 24, 2015 Practice Direction been in effect at the time of the motion, the appellants would have been far more limited in their approach to discovery.
+VI.
+Are any of the prothonotary's specific rulings clearly wrong
+?
+[70]
+As noted above, the appellants appealed 85 of the prothonotary's rulings on the refusals motion and have raised some similar and some specific arguments regarding the rulings on this appeal, several of which are addressed below.
+[71]
+The applicable test for each ruling remains whether the prothonotary was clearly wrong: did the prothonotary exercise her discretion based upon a wrong principle or upon a misapprehension of facts?
+Category 1: Standing and entitlement of the relief sought
+Motion items 29, 30, 38, 40, and 41
+The Appellants' Submissions
+[72]
+The appellants submit that the standing of Janssen and its entitlement to relief goes to the final outcome of the case. It is unclear what type of license was granted to any Janssen entity, who plead they are licensees of the patent and are claiming under the patentee. The appellants dispute the standing of the parties and the existence of the license and submit that the type of license is essential, particularly to the issue of accounting for profits. There was no clear finding on the relevance of these questions by the prothonotary.
+[73]
+The prothonotary dismissed question 38, which asked Kennedy to provide the nature of the damage that it refers to as "significant damage" that will be caused as a result of the acts of alleged infringement, on the basis that it was not relevant at this stage of the proceedings and would be relevant only to the quantification stage. The appellants argue that the prothonotary based her decision on the wrong principle because the question is directed to the nature of the harm, including causation and proximity, not simply the quantum of liability. The appellants should not be surprised at trial when the nature of the "significant damage" and its relationship to the appellants' actions is disclosed.
+[74]
+The appellants make a similar argument regarding questions 40 and 41, which asked Kennedy to provide its knowledge, information and belief regarding how the respondents would suffer "irrevocable damage" if the case succeeds.
+The Respondents' Submissions
+[75]
+The respondents submit that the threshold for standing is very low and the appellants' own evidence shows that Kennedy and Janssen have repeatedly confirmed their relationship as one of patentee and licensee. The transcript and order reveal that these questions were dismissed because the respondents' interpretation of their agreement is not relevant to any issue in the proceedings.
+[76]
+The damages information that is relevant to the first phase of the trial has already been produced (data on sales in Canada). Causation and proximity are established by the appellants' pleadings that their products are a biosimilar version of the respondents' products. The appellants did not provide any evidence about the relevance of the additional information requested and did not point to any deficiencies in the information that has been produced.
+The prothonotary did not err
+[77]
+Although the prothonotary's reasons on the issue of the nature of the license are inaudible, the respondents are correct: the threshold to establish standing is low and Kennedy and Janssen have repeatedly described their relationship.
+[78]
+The prothonotary did not misapprehend the facts or base her discretion on a wrong principle in finding that the nature of the damages is not relevant at the first stage of the proceeding, given the bifurcation order.
+Category 2: Deposition Transcripts from Foreign Proceedings
+Motion items 45 and 53
+The Appellants' Submissions
+[79]
+The questions at issue request that Kennedy produce the deposition transcripts from proceedings in the US and UK that Mr Espinasse reviewed in preparation for his examination for discovery. The deposition transcripts were from the inventors, Drs Maini and Feldmann, and Mr Espinasse in those US and UK proceedings.
+[80]
+The appellants argue that because Mr Espinasse prepared for discovery using evidence from a previous action, these transcripts are clearly relevant to the present proceedings. Transcripts from other proceedings should be produced where they may provide useful information to assist the Court in determining the true facts (
+REFERENCE_SUPPRESSED).
+[81]
+The appellants also argue that the Canadian position regarding production from one jurisdiction to another was summarized by Prothonotary Kevin Aalto in
+REFERENCE_SUPPRESSED, where he found that production should be guided by the principles that: (a) where prejudice to the examinee is virtually non-existent, and the material is regarding the same or similar issues and the same or similar parties, leave will generally be granted; (b) the order should be almost automatic, provided there is sufficient connection between the two actions, the parties, their interests, and the issues between them; and, (c) the overall question is whether the evidence given by the witness at discovery in the earlier action may have some bearing or relevance, directly or indirectly, on the evidence he or she may give in the second action.
+[82]
+The transcripts are not expert evidence and, despite their obvious relevance, the prothonotary dismissed the requests "with the proviso that it is open ... at the appropriate time to seek the transcripts ... for the purposes of impeaching a witness." The appellants submit that the prothonotary ignored the law.
+The Respondents' Submissions
+[83]
+The respondents submit that the prothonotary did not err in refusing the requests for transcripts from foreign proceedings. The Court has held that foreign depositions and trial testimony are not relevant or admissible at trial in Canada and admissions from those proceedings cannot be relied upon in Canada (
+REFERENCE_SUPPRESSED;
+CITATION_SUPPRESSED).
+[84]
+The respondents add that the transcripts would also include expert opinion which is not admissible in the Canadian proceedings (
+CITATION_SUPPRESSED). The testimony in the other proceedings can only be used for the purposes of impeachment, if it is inconsistent, as found by the prothonotary.
+[85]
+The respondents also submit that the appellants' reliance on
+CITATION_SUPPRESSED
+is misplaced. In
+CITATION_SUPPRESSED
+Prothonotary Aalto held that a Canadian discovery transcript could be used in US proceedings, but "solely for the purposes of impeachment, if necessary," noting that the circumstances were exceptional. In
+CITATION_SUPPRESSED
+, there were parallel proceedings in the US and Canada involving the same parties and the trial was imminent. In this case, the parties in the proceedings in the US and Canada are not the same, the US law on discovery differs from the law in Canada, and the trial is not imminent.
+[86]
+The respondents note that the US depositions included two types of questions and answers: questions that would also be answerable in Canada, noting that both Drs Feldman and Maini will be examined (or have been examined) and these questions can be put to them directly during their examinations; and, questions that would not be proper in Canada, for example expert or opinion evidence, which may have been allowed in the US where the rules differ.
+[87]
+There is an implied undertaking to not use the discovery in another proceeding and the circumstances of this case do not justify an exception to this principle.
+[88]
+The respondents also submit that the appellants did not identify any particular area where the transcripts would be relevant. The prothonotary stated that the transcript may become relevant for the purposes of impeaching a witness and a new request could be made at that time. The prothonotary did not err in so finding.
+The prothonotary did not err
+[89]
+In
+CITATION_SUPPRESSED
+, relied on by the appellants, the Alberta Court of Appeal found that transcripts from foreign proceedings can be ordered to be produced. The Court found that "discoveries are confidential in the sense that they may not be used for an improper purpose. That caveat on their use, however, does not mean that the transcripts are privileged" (at para 35). At paras 34 and 39, the Court of Appeal affirmed the Court of Queen's Bench, which found:
+I find the case of
+REFERENCE_SUPPRESSED applicable in these circumstances. The Court ordered the Defendants to produce transcripts of discoveries of those defendants from another action. The Court recognized that discoveries from previous actions could not be used for improper purposes but this did not make them privileged. They refused to adopt a rule that would prevent the court from learning what a party had said under oath in the past.
+I see no reason why the same principles should not be applied in the present circumstances. The depositions in the U.S. action may provide useful information to assist this court in determining the true facts in the present case. In my view, this would not be using the documents for an improper purpose. As far as these documents are possibly relevant to the present case, and may be of assistance in ascertaining the truth, they should be produced by the Defendant.
+[90]
+However,
+CITATION_SUPPRESSED
+does not support the view that transcripts of discoveries must be produced; it simply provides that, if they are relevant and may be of assistance in ascertaining the truth, they should be produced.
+[91]
+CITATION_SUPPRESSED
+, also relied on by the appellants, can be distinguished from the present case in several ways. As noted by the respondents, it was about the production of Canadian discovery transcripts in US proceedings. The transcripts were admitted shortly before the trial in the US for the purpose of impeaching witness testimony, not for discovery purposes. The circumstances which permitted an exception to the implied undertaking to not use discovery evidence in other proceedings do not exist in the present case.
+[92]
+Moreover, the jurisprudence of this Court supports the ruling made by the prothonotary that the transcripts in the foreign proceedings were not relevant and need not be produced.
+[93]
+In
+CITATION_SUPPRESSED, Justice Roger Hughes noted:
+[6] [...]
+5. Justice Layden-Stevenson [in
+REFERENCE_SUPPRESSED], properly pointed out that admissions made in foreign litigation expressly for the purpose of that litigation only cannot be relied upon in litigation in Canada. She also correctly pointed out that one cannot readily assume that a foreign patent "corresponds" to a Canadian one and that the Court must be mindful of the differences in claim construction, which is a matter of law.
+[...]
+[94]
+In
+CITATION_SUPPRESSED, Justice de Montigny also noted the applicable principles:
+[66] These arguments are not persuasive. First of all, the expert opinion of an individual given in another jurisdiction is not relevant or admissible at trial in respect of the issues before the Court in this proceeding. Apotex has already sought, by way of motion, extensive production from litigation in other jurisdictions and this Court has deemed such production unnecessary:
+REFERENCE_SUPPRESSED.
+Second, deposition and trial testimony of an individual given in another jurisdiction is not relevant or admissible at trial in respect of the issues before the Court in this proceeding
+:
+REFERENCE_SUPPRESSED.
+Such trial testimony and deposition could only be used to impeach a witness at trial, and as such, this information need not be produced on discovery.
+Third, the expert opinion and testimony would have been created after the filing of the '777 Patent and this would not be relevant to the issues of obviousness and sound prediction. Finally, Apotex can obtain the testimony if the information is publicly available; if it is not, then it would still be subject to confidentiality and its production would be restricted. For all of these reasons, I believe the prothonotary did not err in exercising her discretion to refuse this request.
+[Emphasis added.]
+[95]
+The prothonotary's decision was based in the jurisprudence of the Federal Court and not based on any wrong principle or a misapprehension of the facts.
+Category 3: Validity
+The Appellants' Submissions
+Category 3B - Anticipation: Motion item 72
+[96]
+The appellants allege that the patent was anticipated and in order to prepare for trial, they require a factual basis for Kennedy's assertion that the prior art is not properly citeable. The question asked Kennedy to provide its knowledge, information and belief regarding its allegation that particular documents are not properly citeable prior art.
+Category 3F - Obviousness: Motion items 100, 111-112, 115-119, 126-127, 140-142, 145, 167
+[97]
+The appellants submit that the actual course of conduct of the inventors which culminated in an invention is a relevant consideration to the obviousness analysis (
+REFERENCE_SUPPRESSED). Therefore, the documents relating to the development of the invention, research plans, advisory board reports, other reports, awards and correspondence are all relevant.
+[98]
+With respect to motion item 100, the prothonotary refused production of Appendix A of the Agreement between Kennedy and Centocor, including the research plan and the budget for the research, not because it was not relevant, but because it would require time, effort and resources to obtain. There is no evidence to suggest production would be unduly onerous.
+[99]
+With respect to motion items 111-112, the prothonotary dismissed the request for production of the Arthritis Research Council [ARC] Annual Reports as a "make work project." The relevance of the reports is clear because the respondents produced other versions of the reports. The prothonotary failed to apply the test of whether the reports would "lead to a train of inquiry" that would advance the appellants' case.
+[100]
+With respect to motion items 115-118 and 126, regarding production of the Kennedy Institute Advisory Board reports (motion item 115), Centocor Reports (motion items 116-118) and the Kennedy Annual Reports (motion item 126), the appellants submit that the prothonotary's reasons for dismissing their request are not clear. Kennedy has produced Annual Reports for 1993, 1994 and 1997, but not for 1995 and 1996. These reports are relevant to how the inventors conceived of and characterized their alleged invention and whether they encountered any difficulty in arriving at the invention. There is no evidence that this will be onerous to produce.
+[101]
+With respect to motion item 127 about the conception of the invention, the appellants seek documents on the clinical trials to substantiate the answer given by Kennedy about the administration of the drug. The prothonotary did not consider the relevance of the questions to the issue of whether the claimed invention was obvious and provided no reasons for dismissing the question.
+[102]
+With respect to motion items 140-141 relating to questions about the design, results, conclusions, correspondence and documentation on the T09 Monotherapy Study, the appellants submit that this information is also relevant to obviousness and to Kennedy's assertion that the alleged invention was not arrived at directly or with difficulty.
+[103]
+With respect to motion item 142 regarding the Phase II study, the appellants refer to a letter from an inventor dated in 1992 that suggests that the study was being contemplated. The appellants argue that whether this study was discussed, designed, conducted or implemented is relevant to the obviousness analysis. The prothonotary's reasons are recorded as inaudible.
+[104]
+Motion item 145 relates to a draft manuscript of the T14 study which was referred to as "enclosed" in a letter that was disclosed. While the letter was produced, the enclosure was not.
+[105]
+With respect to motion item 167, regarding questions about how the prior art relates to the pleadings, the appellants note that the respondents' Amended Statement of Defence states that "[t]he art and prevailing views taught away from the invention of [the patent]." The prothonotary dismissed the request for particulars about what is meant by "the art" on the basis that it was seeking expert evidence. The appellants note that there are 101 scientific articles cited and they should know which ones taught away. The particulars of "the art" are required for the appellants to know the case to meet and are relevant to obviousness.
+Category 3G - Commercial success of the alleged invention: Motion items 175-179
+[106]
+With respect to motion items 175, 176 and 177, the appellants note that the product monograph for Janssen's product (Remicade/infliximab) lists nine different indications, only one of which relates to a use that Kennedy and Janssen allege is not obvious (infliximab as an adjunctive therapy with methotrexate for the treatment of rheumatoid arthritis). The appellants allege that the respondents' reliance on the total sales of Remicade as an indicator of commercial success is misplaced, because eight out of nine indications do not relate to methotrexate or rheumatoid arthritis.
+[107]
+The appellants submit that Kennedy has put the issue of commercial success into play and should be compelled to produce these documents. The payment of royalties is also relevant to the issue of commercial success, which is relevant to the issue of obviousness. The prothonotary erred by finding that this information does not need to be produced because it had already been produced by Janssen.
+[108]
+With respect to motion item 178 and 179, the appellants submit that the prothonotary erred by refusing to require the respondents to identify the awards that were received by the inventors. The appellants argue that they need to know what the awards were specifically for, including whether the awards relate to this invention or other work, hence their request for photos of the awards. The appellants refer to the related US invalidity action, which found that the inscription on the award for discovery of anti-TNF therapy as an effective treatment for rheumatoid arthritis and other autoimmune diseases does not mention the adjunctive use of methotrexate.
+[109]
+They are not prepared to take Kennedy's word that the awards were for this invention.
+Category 3H - Broad claims: Motion items 193, 194, 198-201
+[110]
+The appellants plead, among other allegations, that the patent is invalid for overbreadth. The appellants asked for the correspondence between the patent agent, Kennedy and the inventors regarding what the inventors made, which is a question of fact, the communications of the inventors regarding their invention, and whether the inventors conceived independently of the examples of the patent.
+[111]
+The appellants submit that correspondence and documents exchanged by inventors relating to the development of an invention should be produced and that questions relating to the substance of discussions involving an inventor and the prosecution of a patent are compellable on discovery (
+REFERENCE_SUPPRESSED).
+"Resolved" questions within Category 3
+[112]
+Motion items 90-94, 153, 189, 191-192 and 202 were dismissed as "resolved" because Janssen had answered or will answer them. The appellants argue that because the prothonotary declined to order that Kennedy adopt Janssen's answers and that Kennedy identify the documents, it was improper to find that these issues were resolved. One of the purposes of discovery is to obtain admissions from the party being examined, i.e., Kennedy, and this is not possible if the answers from Janssen must be relied on. The prothonotary erred in treating these questions as resolved.
+The Respondents' Submissions
+[113]
+The respondents submit that the prothonotary considered the relevance of each of the questions regarding validity and properly dismissed them. The questions were either irrelevant, resolved at the motion or otherwise improper because: (a) they were overly broad or onerous to answer; (b) they were duplicative; (c) there were other means of obtaining the information; or (d) they sought legal or expert opinion.
+[114]
+The respondents note that in many instances, counsel for the appellants did not respond to the prothonotary's request to make submissions on why the question was relevant and counsel simply indicated he would "take it as dismissed."
+[115]
+The respondents point to items 72, 100, 126-127, 140-142, 145, 153, 175 and 177 as examples of questions that were overly broad and onerous to answer.
+[116]
+The respondents submit that questions seeking information that has already been provided do not need to be answered (
+REFERENCE_SUPPRESSED). The respondents point to items 127, 140, 190 and 192 as examples of duplicative questions. The same reasoning applies to the resolved items.
+[117]
+Many of the questions requested that Kennedy provide information that Janssen had already produced or is in a better position to provide. For example, Janssen already produced the information requested in items 90-94. Even if the appellants would like this information to come from Kennedy, the respondents have already advised that they had produced all relevant information in their possession, power and control.
+[118]
+The respondents acknowledge that it is not appropriate to refuse to answer a question because a co-defendant has already answered; however, the Court must consider who the appropriate custodian is and the most proportionate means of getting relevant information. They simply cannot produce what they do not have.
+[119]
+The appellants' request regarding commercial success around the world was dealt with in a previous order which narrowed this to production of the documents related to commercial success in Canada. Information has been provided by Janssen regarding commercial success in Canada. Kennedy has provided information regarding awards and honours the inventors have received for their work on the invention.
+[120]
+The respondents submit that some questions, including those alleged to be related to anticipation and obviousness, sought expert or legal opinion and were properly refused. Items 72 and 167 asked Mr Espinasse to provide what "the art" was that taught away from the patent. The respondents note that
+REFERENCE_SUPPRESSED, relied on by the appellants, was a speaking order of Justice Judith Snider that does not have precedential value. The respondents point out, however, that Justice Snider noted the fine distinction between proper questions asking for particulars and improper questions asking a party for the facts supporting its pleadings. The appellants' request is for the facts supporting its pleadings and is an improper question. The respondents add that it is improper to ask a question where the answer would depend on or be expert evidence.
+[121]
+The respondents add that these rulings are fair, because the prothonotary made similar rulings on the respondents' refusals motions.
+[122]
+The respondents further submit that the prothonotary did not err by refusing the appellants' request for internal correspondence between Kennedy or the inventors and Kennedy's patent agent regarding the drafting and prosecution of the patent. Patent prosecution history is not relevant to patent construction, construing a claim or varying the scope of a claim. The cases relied upon by the appellants to support the claim that the substance of discussions between Kennedy or the inventors and the patent agent are compellable on discovery relate to public interactions with the Patent Office (i.e., the "file wrapper") rather than internal files with the patent agent.
+[123]
+With respect to motion items 111-112, the respondents note that ARC is an arm's length charity that provided some funds to Kennedy Trust for research. The annual reports of ARC were public at the relevant times, but may not have been retained in the archives of Kennedy, and there was no obligation for them to do so. Kennedy Trust is not ARC. The prothonotary noted that there was no need to repeatedly go back to look for documents that Kennedy did not have. The respondents submit that the prothonotary properly asked why the other parts were needed by the appellants, but the appellants simply took the request as dismissed.
+[124]
+With respect to questions about the Kennedy Research Advisory Board, the respondents note that the same questions were asked the previous day by co-counsel.
+[125]
+With respect to item 126 regarding the Kennedy Annual Reports, the respondents note that they provided the reports for 1993, 1994, and 1997 and advised they were making inquiries for the other years requested. Since that time, the 1995 report has been provided and only the 1996 report remains outstanding, which Kennedy continues to look for.
+[126]
+The respondents argue that it is improper for the appellants to include this in this appeal. The Court cannot order what is impossible to produce, nor should it order what Kennedy has agreed to produce.
+The prothonotary did not err
+Category 3B: Motion item 72
+[127]
+The appellants challenge the prothonotary's dismissal of questions related to why the respondents stated that documents listed in the Second Amended Statement of Claim were not properly citable prior art (motion item 72).
+[128]
+The appellants relied on
+REFERENCE_SUPPRESSED, a decision of Prothonotary Hargrave:
+[16] Turning to prior art, an invention must not have been anticipated by some other patent or publication for in such an instance it would lack the novelty required to be patentable. When a litigant attacks novelty or refers to prior art, the opposing party is entitled to know which parts of prior patents or publications are relied upon and this information must be specific: see for example
+REFERENCE_SUPPRESSED, a 20 May 1998 decision of Mr. Justice Richard (as he then was), in Action T-1334-97, at pages 4 and 5. Mr. Justice Richard then went on to point out that questions of this nature do not require interpretation of a patent and are thus proper on discovery. I have looked at the questions in this category from the point of view of the definition of obviousness, keeping in mind the entitlement of the Plaintiff under the Dek-Block case and have also considered whether they are truly follow-up questions.
+[129]
+In the present case, the prothonotary did not misapprehend the facts or base her ruling on a wrong principle. The prothonotary assessed the questions as seeking the respondents' legal arguments about why some of the prior art is not citable and the facts supporting the respondents' pleadings. The prothonotary is best placed to characterize the questions and did not err in doing so.
+Category 3F - Motion item 167
+[130]
+They appellants also questioned what "prior art" the respondents assert taught away from the invention in its Amended Statement of Defence (motion item 167), which is relevant to obviousness.
+[131]
+As the respondents note, the appellants' submissions to the prothonotary on this issue were brief and the prothonotary reasonably assessed the question as seeking expert evidence based on those brief submissions. Deference is owed to her characterisation of the question.
+Category 3G - Commercial success submissions
+[132]
+REFERENCE_SUPPRESSED provides:
+[11] Both questions involve consideration of the principle of commercial success. On this point, academic commentary and case law have clearly established that
+commercial success is only relevant in certain marginal cases and cannot be used as a pretext for "fishing expeditions"
+(see Fox,
+Canadian Patent Law and Practice
+, 4th ed., Toronto, The Carswell Company Limited, at pp. 76 and 78,
+REFERENCE_SUPPRESSED).
+[Emphasis added.]
+[133]
+The prothonotary did not base her ruling on any wrong principle; she understood that the obviousness analysis includes many aspects and factors and will require expert evidence. She characterized the broad request as not relevant or so minimally relevant to the issue of obviousness that the proportionality analysis did not support the request.
+[134]
+As noted above, the appellants' questions about commercial success around the world had been narrowed by a previous order to focus on Canada and that information had already been provided.
+[135]
+In my view, the appellants' unwillingness to take Kennedy's word that the awards had been for this invention is no basis for arguing that the prothonotary erred; rather, it buttresses the need to consider proportionality.
+Category 3H - Broad claims submissions
+[136]
+In
+CITATION_SUPPRESSED
+the Supreme Court of Canada noted that the use of file wrapper estoppel in Canada was rejected in
+REFERENCE_SUPPRESSED and that this Court (the Federal Court) has confirmed the exclusion of file wrapper materials tendered for claims construction (at para 64).
+[137]
+At para 66, the Court acknowledged the commentaries that support the admissibility of prosecution history in some circumstances to obtain consistent claims interpretation, but took a narrower approach:
+[66] In my view, those references to the inventor's intention refer to an objective manifestation of that intent in the patent claims, as interpreted by the person skilled in the art, and do not contemplate extrinsic evidence such as statements or admissions made in the course of patent prosecution.
+To allow such extrinsic evidence for the purpose of defining the monopoly would undermine the public notice function of the claims, and increase uncertainty as well as fuelling the already overheated engines of patent litigation.
+The current emphasis on purposive construction, which keeps the focus on the language of the claims, seems also to be inconsistent with opening the pandora's box of file wrapper estoppel. If significant representations are made to the Patent Office touching the scope of the claims, the Patent Office should insist where necessary on an amendment to the claims to reflect the representation.
+[67]
+This is not to suggest that prosecution history can never be relevant for a purpose other than defining the scope of the grant of the monopoly:
+REFERENCE_SUPPRESSED. That point does not arise in this case for decision and lies outside the scope of these reasons.
+[Emphasis added.]
+[138]
+The prothonotary did not err in refusing to order production of the correspondence between Kennedy, the inventor and the Patent Office. She applied the principles of the jurisprudence.
+Category 3G - "Resolved" questions
+[139]
+The prothonotary did not misapprehend the facts or base her ruling on a wrong principle of law in finding that several questions had been resolved, previously answered or answered by Janssen, the co-respondent. The prothonotary understood the context of the litigation, the previous discoveries and the planned discoveries, and Kennedy's role as a charity, which differs from Janssen's role as licensees, distributors and manufacturers. It would be a waste of time, effort and money to require Kennedy to provide the same information that was already provided or that would be provided by another party. If the appellants dispute the questions found to be resolved, they may have (and may have already had) other opportunities to revisit the questions.
+[140]
+More generally, in addressing the appellants' submissions on the questions refused or taken under advisement by Kennedy at the examination for discovery, the prothonotary engaged in the discretionary proportionality analysis. She did not base her decision on a wrong principle or any misunderstanding of the facts. The transcript of the motion reveals the prothonotary's effort to provide an opportunity for the appellants to advise her how or why the question was relevant to advance its case. Many of the instances where the appellants submit that the prothonotary did not give clear reasons dealt with inaudible parts of the transcript, for which the appellants did not provide their recollection of why the reasons were deficient. The appellants also "took" the items as dismissed without providing or elaborating on the relevance of the question as invited by the prothonotary, negating the need for reasons. In other instances, the prothonotary accepted the respondents' explanation that a document could not be located and, therefore, did not put them to a futile search. For example, the Kennedy Annual Reports had been provided with the exception of one year, which Kennedy undertook to continue to search for. I agree it is futile to demand that the respondents continue to look for what they have already made unsuccessful efforts to locate. It is also futile to appeal the ruling with respect to reports already received.
+Category 4 - Particularizing Kennedy's Pleadings: Motion items 217, 221-223, 225
+The Appellants' Submissions
+[141]
+The appellants submit that the prothonotary erred by dismissing their request that the respondents indicate where in the Inflectra product monograph adjunctive therapy with methotrexate for the treatment of rheumatoid arthritis is mentioned (motion item 222).
+[142]
+The appellants argue that the prothonotary dismissed the question because the representative had to read and interpret the document and not because it was not relevant. The appellants submit that this is inconsistent with the prothonotary's order for the respondents to answer where it is mentioned in the Remicade product monograph that Remicade had been approved for adjunctive therapy with methotrexate for the treatment of rheumatoid arthritis.
+[143]
+The appellants argue that paragraphs in the Amended Statement of Defence are open-ended pleadings and improper. The appellants requested particulars, including what "in general" means within the pleadings. The prothonotary refused the request finding that it required expert evidence.
+[144]
+The appellants submit that the Court has previously held that open-ended pleadings are improper and that the examining party is entitled to know the case to meet. The Court has held that pleadings that use the term "including" must detail what it is that "including" means (REFERENCE_SUPPRESSED).
+[145]
+Regarding motion items 221, 223 and 225, the prothonotary did not provide reasons; the statement "the Court doesn't see anything necessary to order" does not address relevance.
+The Respondents' Submissions
+[146]
+The respondents submit that the request regarding the Inflectra product monograph is an abuse of the discovery process because the requested information is within the appellants' knowledge. It is not inconsistent with the prothonotary's order for the respondents to point to information in the Remicade product monograph, because that order required the respondents to indicate information about their own activities. This request regarding Inflectra would require the respondents to indicate information about the appellants' activities.
+[147]
+The respondents further submit that the questions require expert evidence and ask for the facts the respondents rely on in support of particular pleadings.
+[148]
+With respect to open-ended pleadings, the respondents submit that there is no sweeping principle that such pleadings are improper. The cases referred to by the appellants where the pleadings were found to be improper related to the activities of third parties and found that it would be unfair if a defendant could come up with new examples of third parties' activities at trial. Here, the open-ended pleadings relate to the appellants' behaviour which will be explored through the discovery process. The respondents also submit that because this information is about the appellants' own activities, it will not narrow the proceedings or allow the appellants to know the case to meet.
+[149]
+The prothonotary did not err in her application of the proportionality principle to these items.
+The prothonotary did not err
+[150]
+The appellants have not established how the prothonotary based her ruling on a wrong principle of law or on a misapprehension of the facts. The appellants appear to acknowledge that expert evidence would be required to interpret the product monograph. Moreover, Inflectra is the appellants' product and they must be taken to already know what is in the product monograph.
+Category 5 - Minimum Required Basic Information for Documents: Motion items 239, 242, 253, 265-267, 269-270, 298, 300-302, 309, 319-323, 325, 330, 340-351
+The Appellants' Submissions
+[151]
+The appellants raised questions about authorship, the recipient of documents, dates of documents, and whether the documents were published and when. The questions were refused for lack of relevance, because the information was clear from the document or because Kennedy stated that it was unable to locate the document.
+[152]
+The appellants submit that the affidavit of documents provided by the respondents was grossly deficient in providing basic information. The unsworn affidavit was a "mish-mash" listing 770 documents, 576 of which had no title, description or date. Without this information, the appellants argue that they cannot discern the materiality, degree of relevance and usefulness of the relevant documents. The Rules require the respondents to provide this information. The prothonotary erred by dismissing these questions.
+[153]
+The appellants submit that if a party lists a document, then that document is relevant and should be produced in its entirety. Similarly, duplicate documents are a burden to the appellants and should have been identified. There were many drafts of the same documents which should have been clearly dated or marked. The appellants should not be required to demonstrate why they needed dates and other details.
+[154]
+The appellants argue that they should not have to go through all the documents to get the fundamental information. Even if the dates of the documents could be inferred, the dates should have been provided. If the information requested is clear on the face of the document, as asserted by the respondents, the respondents should not refuse to provide that information.
+The Respondents' Submissions
+[155]
+The respondents agree that an affidavit should list all relevant documents (
+CITATION_SUPPRESSED), but with respect to the dates of the documents and the studies referred to in the patent, events have overtaken the request. The appellants' submissions ignore that the respondents served an affidavit of documents, with an index indicating the title, date and document type, by the time of the motion. The respondents' indexed affidavit indicated the dates of the documents, where those dates were known. It is clearly onerous to require the respondents to track down the authors of documents, some of which were twenty years old, to ascertain dates, particularly given that the appellants could not indicate how this would be relevant.
+[156]
+The respondents add that the details requested by the appellants are irrelevant and the request for information is abusive.
+[157]
+The respondents note that Kennedy produced all the documents in its possession. Janssen completed the studies for submission to the US Federal Drug Administration and produced those documents. There is no reason for Kennedy to even have this information since it did not conduct the three studies at issue.
+[158]
+Kennedy explained at the motion that the appellants had been provided with the data in the most useful manner. The prothonotary directed the appellants to look at what had been produced first and then ask questions, if relevant, at the next discovery. The prothonotary correctly noted that there was no value in asking Kennedy to search for documents that had already been provided.
+[159]
+The respondents submit that the onerousness of the request was apparent. There would be no point in providing an affidavit to identify the details of how onerous it would be, the time involved or how they would have to conduct the search. This is common sense.
+[160]
+The prothonotary did not err in finding that asking the respondents to review and confirm information that is apparent in the document is unnecessary and contrary to Rule 242(c).
+[161]
+In addition, the prothonotary did not err in applying the proportionality principle.
+The prothonotary did not err
+[162]
+Although the affidavit of documents in its unsworn and unindexed state lacked complete information, the respondents ultimately provided an indexed affidavit with the details possible to provide.
+[163]
+The prothonotary did not err in refusing to order the respondents to search for more or seek out details, such as dates, publication sources that would have been obviously very onerous to track down. Similarly, the appellants should not expect answers to questions they can readily glean by reviewing the information and documents produced.
+[164]
+As noted by the prothonotary, once the appellants have reviewed the information, they will have a further opportunity to ask more questions at the next discovery.
+[165]
+The prothonotary noted that many of the questions were irrelevant and many of the answers to the appellants' questions were self-evident from the documents. In other cases, the appellants could not or would not indicate how the information would advance their case or respond to the prothonotary's request that they explain further.
+VII.
+Conclusion
+[166]
+The appellants have not established that the prothonotary was clearly wrong in that the decision was based on a wrong principle of law or on a misapprehension of the facts as a whole or with respect to specific questions. The prothonotary's decision refers to and applies the appropriate considerations and principles in the jurisprudence.
+ORDER
+[167]
+THIS COURT ORDERS that
+:
+1. This motion is dismissed; and
+2. The respondents shall have their costs in respect of this motion fixed at $6,500, in any event of the cause.
+[End of document]

@@ -1,0 +1,730 @@
+[1]
+O'Keefe, J.
+: This is a proceeding brought by the plaintiff, TimberWest Forest Corp., pursuant to subsection 48(1) of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7, challenging the validity of a federal scheme controlling the export of logs harvested from private lands in British Columbia. The plaintiff contends that the federal export scheme promulgated under the policy statement, Notice to Exporters Serial No. 102 (Notice 102), is not authorized by the
+Export and Import Permits Act
+, R.S.C. 1985, c. E-19 (
+EIPA
+), and moreover, is unconstitutional as being an attempt by the federal government to regulate in an area of provincial jurisdiction.
+[2]
+The plaintiff seeks:
+(1) a declaration that Notice 102 is ultra vires and of no force or effect;
+(2) a declaration that
+EIPA
+does not authorize the establishment of a unique legislative and administrative scheme applicable to the export of logs harvested from privately owned lands situated in British Columbia that is distinct and different from that which prevails for the export of logs harvested from other privately owned lands situated in any other province or territory in Canada; and
+(3) costs of the trial.
+[3]
+The defendant requests that this action be dismissed with costs.
+[4]
+Furthermore, in the amended statement of claim, the plaintiff at paragraph 1(c) seeks "damages in the amount of $250 million for losses suffered by the plaintiff as a result of the Notice", and at paragraph 18(g), is asserting losses of $250 million since issuance of the Notice. However, pursuant to the order of case management judge, Justice O'Reilly, dated April 13, 2005, this matter proceeded to trial without requiring the parties to adduce evidence at trial on any issue of fact relating solely to these allegations of damages and losses (the bifurcated issues). If, following trial, it appears that any of the bifurcated issues require determination, a hearing under Rules 107 and/or 153 shall by conducted to determine them, including necessary documentary and oral discovery. The question of whether such hearing shall proceed by way of further trial or reference and the procedure to apply in respect of any such proceedings shall be determined by the trial judge.
+Background
+[5]
+TimberWest is the largest owner of private timberlands in B.C. It sells the logs harvested from its lands in the B.C. market as well as to buyers in the U.S. Pacific Northwest, Japan, Korea, Taiwan and China. Logs command a higher price in the international markets than in the domestic market. TimberWest and other log producers therefore have a significant financial interest in the export of logs.
+[6]
+The cost of moving logs over land between B.C. and other provinces is prohibitively expensive due to the mountain ranges in B.C. Logs from B.C. are thus seldom shipped to other provinces. However, the province's access to salt water ports and the lower cost of shipping over water provide for easier access to international markets, particularly, the U.S. Pacific Northwest and Asia. B.C. is the largest provincial exporter of logs by volume and number of shipments. Log exports from B.C. generated $527 million in revenues in 2005. Ontario, the second largest provincial exporter of logs, generated log export revenues of $55 million in 2005.
+[7]
+That said, only a small percentage of raw logs are actually exported out of Canada. Statistics Canada estimates that in 2003, 6.2% of the logs harvested in B.C. were exported, and 1.2% of the logs harvested in Ontario were exported. (At trial it was pointed out by David Gyton, a consulting forester, that this estimate is not reliable because Statistics Canada relies on data obtained from U.S. Customs. Nevertheless, this is the best available information.) The logs that are not exported are used in the domestic log processing industry. They are processed into wood products such as softwood and hardwood lumber, pulp and paper products, panels, and value added products, for example, moulding and furniture. B.C. is the largest provincial exporter of lumber products. B.C. lumber exports generated $6.4 billion in revenues in 2005, 12 times more than those for B.C. log exports.
+[8]
+This case concerns export controls for logs, as opposed to wood products. Under federal legislation, the export of logs is prohibited unless an export permit is issued by the Minister of Foreign Affairs and International Trade (the Minister). This permit requirement is set out in the
+EIPA
+, sections 7 and 13, and the
+Export Control List
+, S.O.R./89-202, item 5101 (
+Export Control List
+).
+[9]
+For a long time, the issue of log export controls has been a sensitive political, social and environmental issue in B.C. Log processors support the banning of log exports, since the processing of logs within the province creates employment and adds value to local industry. Environmentalists also support the banning of log exports, arguing that increasing exports results in greater deforestation and unnecessary environmental destruction. By contrast, log producers, which benefit from the higher prices in the international market, are opposed to log export controls.
+[10]
+The federal government and the B.C. government have co-operated in the field of export controls over B.C. logs, by adopting a restrictive log export policy so as to ensure an adequate supply of logs for log processors in B.C. Generally, logs proposed for export must be offered first to domestic log processors by way of advertisement for sale on a bi-weekly list. If no fair offers are received in response to the advertisement, the logs are considered to be surplus to domestic needs and an export permit is issued by the Minister. Conversely, if fair offers are received, the logs are not considered to be surplus and an export permit is normally refused.
+[11]
+A consequence of this export scheme is that it pits log producers against log processors in a strategic game in which deals are struck to ensure that proposed log exports are not blocked from export. Log producers are of the view that log processors should always approach log producers directly to purchase logs, rather than submit offers on logs that are advertised on the bi-weekly list. Log producers refer to any offers made on proposed log exports as "blocking" offers because they prevent the log exports from reaching their intended customer in the international market. Log processors, however, view the process of making an offer on logs advertised on a bi-weekly list as simply a means to obtain a supply of logs if the log producer is unwilling to supply the logs. TimberWest's strategy to reduce the number of blocking offers is to negotiate with sawmills to give them supplies of logs in exchange for an agreement not to block the log exports. This strategy is also followed by a number of other B.C. log producers, including Darkwoods Forestry, Merrill & Ring, and Island Timberlands.
+[12]
+TimberWest and other log producers claim that the export scheme in B.C. favours the log processing sector at the expense of the log producing sector. They claim that it has the effect of artificially lowering the price of logs in the domestic market because log producers are ensured an adequate supply of cheap logs. Also, international buyers discount the price they are willing to pay for a parcel of logs given that shipments of logs are not guaranteed, as export of logs may be blocked by an offer from a domestic purchaser.
+[13]
+The provincial log export restrictions are set out in Part 10 of the
+Forest Act
+, R.S.B.C. 1996, c. 157 (The
+B.C. Forest Act
+). Section 127 provides that timber harvested from Crown land or from private lands granted by the Crown after March 12, 1906 must be used and manufactured in the province. Exemptions to this rule may be granted where (a) the timber would be surplus to the requirements of log processors in British Columbia, (b) the timber cannot be processed economically, or (c) the exemption would prevent the waste of or improve the utilization of timber (see section 128 of the
+B.C. Forest Act
+).
+[14]
+The first ground of exemption is known as the surplus test. It operates by permitting B.C. log processors to make offers on timber that is proposed for export. If offers are received, the provincial Timber Export Advisory Committee (TEAC) considers these offers and determines whether they are reasonable. If no reasonable offers are received, the logs are deemed surplus to domestic needs and the province exempts the logs from the application of section 127 of the
+B.C. Forest Act
+. Where logs are given provincial authorization to leave B.C., the provincial government charges a "fee in lieu of manufacture" which is intended to capture the benefits that are lost to the province when logs leave the province for processing elsewhere.
+[15]
+Once the province approves export pursuant to the TEAC process, a federal export permit is still required to export the logs. It is usual practice for such a permit to be granted following the provincial authorization for export.
+[16]
+The export restrictions in Part 10 of the
+B.C. Forest Act
+do not apply to timber from private lands granted by the Crown before March 12, 1906 (the date on which the province enacted province-wide legislation restricting the export of logs). To fill in the gap, the federal government adopted a policy which applies the surplus test to proposed log exports harvested from lands in B.C. which are not subject to the control of Part 10 of the
+B.C. Forest Act
+. It is this federal export policy that is presently being challenged by TimberWest. The vast majority of TimberWest's private timberlands were originally granted by the Crown before March 12, 1906 and therefore is subject to the federal policy.
+[17]
+To put the export restrictions in context, it should be noted that in B.C., provincial Crown lands comprise 95% of the land holdings, federal Crown lands comprise 1%, and private lands comprise the remaining 4%. Almost two-thirds of the B.C. softwood log exports in 2005 came from private lands. TimberWest and Island Timberlands together own 75% of the private lands on the B.C. coast.
+[18]
+The federal export policy came about because the B.C. government had approached the federal government for assistance in managing their forest industry and protecting local jobs and industry by restricting the export of logs from B.C. To formalize the co-operation in the field of export controls over logs, the two governments signed a Memorandum of Understanding (MOU) on March 30, 1998. It is stated in the MOU that its purpose is to "recognize the importance of export controls in ensuring an adequate supply of logs for domestic manufacture". Don Ruhl, the current chairman of TEAC and long-time secretary, explained at the trial that he understood that this reference to "domestic manufacture" meant "manufacture in the province" because he looked at it in the context of provincial export controls.
+[19]
+The MOU was followed by Notice 102, published on April 1, 1998 by the Department of Foreign Affairs and International Trade (DFAIT). Notice 102 is a statement explaining the policy and administrative practice that the Minister will generally follow in exercising his discretion to issue export permits for logs harvested from lands in B.C. which are not subject to the control of Part 10 of the
+B.C. Forest Act
+. With respect to such logs, the practice stated in Notice 102 is as follows:
+(1) An exporter of logs obtained from private lands in B.C. must first submit to the Export Controls Division (ECD) of the DFAIT an application to advertise the logs for domestic sale. A copy of this application must be sent to the regional office of the B.C. Ministry of Forests (BCMOF) where the logs will be advertised. (See paragraph 2.1 of Notice 102.)
+(2) Upon receipt of the application to advertise, the ECD/DFAIT will request the BCMOF to notify potential domestic purchasers that logs are available for domestic sale and that they may submit written offers, normally within 14 days of the notification date. (See paragraph 2.2 of Notice 102.)
+(3) If offers are made within the required time period, the offers are forwarded by the ECD/DFAIT and/or the BCMOF to the Federal Timber Export Advisory Committee (FTEAC) (see paragraph 2.4 of Notice 102). The FTEAC considers whether any offers made are fair and makes a recommendation to the ECD/DFAIT, which will then review the FTEAC recommendation and any other relevant factors in determining whether or not an adequate supply of logs exists. The Minister then decides on whether to issue an export permit. In making this decision, the Minister considers whether the logs are surplus. (See paragraph 4.4 of Notice 102.)
+(4) If no offers are received within the required time period, the ECD/DFAIT will consider this and any other factors in determining whether the logs are surplus to domestic requirements. If the logs are determined to be surplus, the exporter is asked to submit an application form for an export permit, and the ECD/DFAIT will undertake to process the application. (See paragraph 3.0 of Notice 102.)
+[20]
+Evidence was adduced at trial showing how export permits for B.C. logs are issued in practice. Parcels of logs proposed for export are advertised for domestic sale on a bi-weekly list, which is available on a B.C. government website, not on a federal government website. Each page of the bi-weekly list is headed with the words "Ministry of Forests, Province of British Columbia" and the seal of the province of British Columbia. Log applications which are covered by Part 10 of the
+B.C. Forest Act
+are listed under the heading "provincial timber". Log applications which are not covered by Part 10 are listed under the heading "federal timber". Both federal and provincial timber applications appear on the same bi-weekly list and are organized by region.
+[21]
+In the majority of cases, no offers are received in response to the advertisements in the bi-weekly list. As a general practice, the Minister grants export permits for federal applications where no offers have been received.
+[22]
+In the few cases where offers are received, the offers are reviewed by a pair of committees, TEAC and FTEAC, to determine whether they are fair offers-in other words, whether the offers reflect fair market value in the domestic market. The same surplus test is applied to federal and provincial timber applications. Timber is considered to be surplus to the needs of B.C. if no fair offers have been received.
+[23]
+FTEAC then makes a recommendation to the Minister as to whether an export permit should issue on a federal application. If the offer on the proposed log exports is fair, the FTEAC usually recommends that the Minister refuse a permit. If the offer is unfair, FTEAC usually recommends that the Minister issue a permit. The Minister follows the recommendation in most cases.
+[24]
+However, the Minister does take into account other considerations in the exercise of his discretion, including considerations raised by log producers in their representations to the Minister. The types of representations that are made by log producers include the following:
+(a) the offer is invalid as it was made by a company which has exported logs within the preceding 90 days (paragraph 4.3(a) of Notice 102);
+(b) the offer is invalid as it was made by a company which is not a log processor (paragraph 4.3(c) of Notice 102);
+(c) the offer should be dismissed as it does not represent fair market value; and
+(d) the offer should be dismissed because the log parcel on which the offer is made is the only one of its kind that received offers, and as such, those logs are not in short supply (see, for example, Trial Exhibit D-1, letter from Merrill & Ring to Mr. Jones dated December 23, 2002).
+[25]
+Thomas Jones, the federal representative on FTEAC from 1998 to 2004, testified that he invited log producers to submit representations with respect to whether the offers were valid or reflected fair market value. In many cases, he forwarded their representations to the Minister for consideration. There was evidence that Merrill & Ring had made verbal and written representations to DFAIT concerning certain offers, and the Minister responded by dismissing the offer and issuing a permit in some of those cases.
+[26]
+There was also evidence that the Minister does not always apply the surplus test for proposed log exports. An Order-in-Council (OIC) is issued by provincial Cabinet to exempt logs from provincial control under Part 10 of the
+B.C. Forest Act
+. Sometimes such orders are issued without application of the surplus test and the TEAC process. For example, provincial OICs are often issued under the economic criteria test set out in paragraph 128(3)(b) of the
+B.C. Forest Act
+. In such cases, a federal export permit is usually granted authorizing those logs to leave Canada, without consideration of the surplus test. Moreover, federal export permits are sometimes granted for timber harvested from private lands adjoining the OIC lands and which are not subject to provincial control under Part 10 of the
+B.C. Forest Act
+. This is done without application of the usual surplus test, in order to ensure equal treatment of similarly situated logs.
+[27]
+The composition and practice of TEAC and FTEAC demonstrate that the federal government is dependent on the provincial government for administration of the log export policy. FTEAC is composed of the members of TEAC plus a federal representative. Apart from the federal representative who is appointed by the federal government, all the committee members (currently there are eight members plus a secretary) are appointed by the B.C. Minister of Forests. The federal government is consulted on such appointments but it has never objected to an appointment.
+[28]
+Compensation to the committee members, in the form of a per diem honorarium plus expenses, is paid by the B.C. government. The federal government pays the travel expenses of the federal representative. TEAC and FTEAC have never met outside of B.C., and they often meet in a B.C. government office.
+[29]
+There is one agenda for the combined TEAC/FTEAC meetings and one set of minutes is produced. Both federal and provincial timber applications are reviewed at the meetings.
+[30]
+The written procedures on which TEAC and FTEAC operate are provincial ones, as no federal procedures exist. Data for all applications which are considered by TEAC and FTEAC are handled by a provincial government computer system, and is not available on a federal government computer system, although efforts are being made to migrate the federal data to a federal system.
+[31]
+Since April 1, 1998, the date on which Notice 102 was issued, two individuals have sat as the federal representative on FTEAC, namely, Thomas Jones (from 1998 to 2004) and Judy Korecky (from 2005 to the present). Both of them are based in Ottawa and have not had personal first-hand experience in the B.C. forest industry, other than their membership on the committee. Mr. Jones and Ms. Korecky rely on the expertise of the other committee members in the market review portion of the meetings and in assessing the fairness of the offers received on proposed timber exports. The other committee members have ties to the B.C. log processing industry and have considerable experience in the forestry markets.
+[32]
+While Mr. Jones and Ms. Korecky have travelled to B.C. for TEAC and FTEAC meetings, they have mainly participated in meetings via teleconference. TEAC and FTEAC have often met without the federal representative being present or participating in any way. For example, Mr. Jones missed nearly two consecutive years of meetings between 2000 and 2002. He explained that his primary responsibility was to deal with the export of strategic and military goods, and such duties took him out of the country for significant periods of time.
+[33]
+A previous challenge to the federal export policy for B.C. logs was brought in
+ <FRAGMENT_SUPPRESSED>  (T.D.), appeal dismissed for being moot (1998), 223 N.R. 212 (F.C.A.).
+K.F. Evans
+was a judicial review of the Minister's refusal to issue export permits for logs harvested from private lands which were not subject to the provincial forestry act. The applicant argued that the Minister's discretion had been fettered pursuant to the policy expressed in Notice 23 (the predecessor to Notice 102). The Court found that the Minister had improperly fettered his discretion because he adopted a policy of not granting permits unless export was approved by TEAC. As a result, the impugned decisions were referred back to the Minister for re-determination.
+[34]
+The present challenge to Notice 102 is structured differently than the challenge to its predecessor notice in
+K.F. Evans
+. In the present case, the issue is whether the practice under Notice 102 falls within the
+EIPA
+and the constitutional authority of the federal government.
+[35]
+The plaintiff claims that the core defect in the old regime which had been criticized by this Court in
+K.F. Evans
+(namely that the government is abdicating its authority under the
+EIPA
+to regulate the export of resources in a single province to the provincial regulatory regime) was not remedied. The plaintiff argues that it is time for this Court to issue a definitive pronouncement that any regime with the basic characteristics of Notice 102 is illegal and unconstitutional.
+[36]
+It is worth noting that with one exception, logs are the only product in Canada for which a notice to exporters has been issued which treats goods differently based on province of origin. The exception is roe herring, which requires an export permit only if it is obtained off the B.C. coast. The plaintiff suggests that roe herring is clearly within federal jurisdiction because of the federal government's responsibility over oceans and fisheries.
+Issues
+[37]
+The plaintiff framed the issues as follows:
+1. Does the plaintiff have standing to challenge Notice 102, and can Notice 102 be declared invalid by this Court even though it is neither a statute nor a regulation?
+2. Is Notice 102 invalid as not being authorized by the
+Export and Import Permits Act
+?
+3. Is Notice 102 invalid as being an attempt by the federal government to regulate in an area of provincial jurisdiction?
+[38]
+The defendant framed the issues as follows:
+1. Is Notice 102 subject to limited review as a non-statutory instrument?
+2. Is Notice 102 consistent with the
+Export and Import Permits Act
+?
+3. Is Notice 102 consistent with the federal jurisdiction under the
+Constitution Act, 1867
+(U.K.), 30 & 31 Vict., c. 3, reprinted in R.S.C. 1985, App. II, No. 5?
+Plaintiff's Submissions
+I. TimberWest has standing to challenge Notice 102 and Notice 102 can be held invalid although it is neither a statute nor a regulation
+(a) Notice 102 is subject to judicial review
+[39]
+The plaintiff submits that Notice 102 is not immune from review. It is submitted that all non-statutory instruments (guidelines, policies and government programs) can be challenged as being illegal on administrative law grounds or as unconstitutional. The plaintiff cites a leading Ontario Court of Appeal decision in
+ <FRAGMENT_SUPPRESSED>  O.R.(3d) 104 (C.A.), where the Court at page 109 recognized three circumstances in which a non-statutory instrument will be struck down: (i) where it contradicts a statutory provision or regulation; (ii) where it pre-empts the exercise of a regulator's discretion in a particular case; or (iii) where it imposes mandatory requirements enforceable by sanction such that the regulator is issuing de facto laws disguised as guidelines. The plaintiff submits that all three circumstances are at issue in this case.
+[40]
+The plaintiff also refers to
+Independent Contractors and Business  <FRAGMENT_SUPPRESSED>  (S.C.), where the British Columbia Supreme Court held that the Fair Wage and Skills Development policy adopted by the provincial government went beyond the mere formulation or articulation of governmental policy, but it was "the means by which Cabinet's decision regarding the policy was implemented". The policy was declared a nullity because it was in conflict with the
+Wages (Public Construction) Act
+, which precluded the adoption and implementation of a policy purporting to regulate wages in an area already regulated by the
+Act
+. The plaintiff submits that like the Fair Wage and Skills Development policy, Notice 102 transforms political direction into an enforceable and coercive instrument and it is amenable to judicial review.
+[41]
+The plaintiff submits that in the context of the
+EIPA
+, notices to importers have twice been challenged, in
+Canadian  <FRAGMENT_SUPPRESSED>  (F.C.A.) and
+ <FRAGMENT_SUPPRESSED> , affing. [1981] 1 F.C. 500; 42 N.R. 312 (F.C.A.). It is further submitted that in
+K.F.  <FRAGMENT_SUPPRESSED> , the Court commented extensively on the propriety of Notice 23, while ultimately not having to rule on that point because the case did not entail a challenge to the policy itself but was an application for judicial review of a decision made under that policy.
+(b) TimberWest has standing to mount a challenge to Notice 102
+[42]
+The plaintiff submits that the evidence adduced at trial amply demonstrates that it has a very direct interest in Notice 102, including, among other things, a significant financial interest in whether the regime survives or falls. As such, it is submitted that the plaintiff has private interest standing to attack Notice 102. Moreover, if it were necessary to invoke it, it is submitted that the plaintiff would easily meet the test for public interest standing (see
+ <FRAGMENT_SUPPRESSED>  Sask.R. 420, at 598).
+II. Notice 102 is not authorized by the EIPA
+[43]
+The plaintiff submits that Notice 102 expressly relies on subsection 3(e) of the
+EIPA
+as the basis upon which it is promulgated. Paragraph 2 of Notice 102 states:
+"While all logs exported from Canada require Federal export permits for all destinations, this Notice provides information with respect to the export of logs from British Columbia. Log exports are controlled for the purposes set out in section 3(e) of the
+Export and Import Permits Act
+(
+EIPA
+):
+'3(e)to ensure that there is an adequate supply and distribution of the article in Canada for defence or other needs.'"
+[44]
+The plaintiff submits that a policy which purports to rely on a specific statutory provision should be required to be justified on the basis of that provision, and should be struck down if it cannot be. The plaintiff submits that the government should not be permitted to search after the fact for another statutory basis (namely, other parts of section 3) to justify Notice 102. Therefore, it is submitted that Notice 102 is only valid if it comports with subsection 3(e).
+[45]
+In support of these arguments, the plaintiff cites a line of cases, including the Federal Court of Appeal decision in
+Canadian Association of Regulated  <FRAGMENT_SUPPRESSED> , which held that a policy decision may not be based predominantly or entirely on considerations irrelevant or extraneous to the statutory purpose.
+[46]
+The plaintiff submits that the starting point for analyzing whether Notice 102 is consistent with subsection 3(e) of the
+EIPA
+is in
+K.F. Evans
+, in which Madam Justice Reed undertook a comprehensive analysis of whether Notice 23 was consistent with this provision. It is submitted that Justice Reed's analysis, while technically obiter, is very instructive. Like Notice 102, Notice 23 stated on its face that it was based on subsection 3(e) of the
+EIPA
+. The Minister argued that he could take into account other factors listed in section 3 of the
+EIPA
+, including subsections 3(b), 3(c.1) (now repealed), and 3(d). Justice Reed held that subsections 3(b) and 3(c.1) are irrelevant because they were added to the
+EIPA
+after logs were added to the
+Export Control List
+. She also dismissed the application of subsection 3(d) as there was no intergovernmental arrangement or memorandum of understanding in place. She then turned to subsection 3(e). After noting that the Federal Court of Appeal had stated in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) that "other needs" in subsection 3(e) could refer to needs other than defence, Justice Reed wrote at page 425:
+"[...] The Court held that 'other needs' could refer to needs other than defence. While this is clearly so, phrases such as 'for ... other needs', when used as those words are used in paragraph 3(e), must be interpreted in accordance with the ejusdem generis rule of construction. The words 'other needs' are not synonymous with 'for any other purpose'. As I read the words of paragraph 3(e), 'other needs' must at least have a national or federal character and there must be a 'need'. I have difficulty accepting that the existence of a provincial policy, simpliciter, falls within the wording 'defence or other needs'. In any event, I do not have to decide this issue."
+The plaintiff submits that this is an impeccable exercise of statutory interpretation. It is submitted that "other needs" must be read restrictively. To read it as meaning "for any purpose" would render the rest of section 3 superfluous.
+[47]
+The plaintiff submits that the evidence adduced at trial reveals that there is no federal purpose to Notice 102, as it is not about the adequate supply of logs in Canada. The purpose of Notice 102 is to ensure an adequate supply of logs for log processors in B.C., but it does nothing to ensure an adequate supply in other parts of Canada, such as Alberta, Ontario and Quebec, where sawmills are in fact facing log shortages at the moment. The plaintiff submits that Notice 102 directs the exercise of discretion to be based on considerations which are extraneous, irrelevant and collateral to the statutory purpose and object of the
+EIPA
+. As such, it is submitted that Notice 102 is not authorized by the
+EIPA
+and should be declared invalid.
+III. Notice 102 is unconstitutional as being a provincial scheme in federal garb
+(a) The constitutional issue to be determined
+[48]
+The plaintiff submits that the primary objective of an administrative scheme must be identified in order to determine its constitutional validity. The constitutional issue to be determined is whether, in pith and substance, the regulatory regime created by Notice 102 falls within federal or provincial jurisdiction. More precisely, does it fall within the federal power enumerated in subsection 91(2) of the
+Constitution Act, 1867
+("the Regulation of Trade and Commerce") or does it fall within a provincial power enumerated in subsections 92(13) or (16) ("Property and Civil Rights in the Province" and "Generally all Matters of a merely local or private Nature in the Province")?
+(b) The effort by Notice 102 to regulate a local trade within a province is constitutionally fatal
+[49]
+The plaintiff submits that the regulatory regime under Notice 102 does not fall within federal jurisdiction, but it is an unconstitutional attempt by the federal government to regulate the B.C. forest industry.
+[50]
+The plaintiff submits that a line of cases dating back to
+ <FRAGMENT_SUPPRESSED>  extend to the regulation of a particular business or trade within a province. In particular, the plaintiff cites the following passage at page 113 of the Parsons case:
+"Construing therefore the words 'regulation of trade and commerce' by the various aids to their interpretation above suggested, they would include political arrangements in regard to trade requiring the sanction of parliament, regulation of trade in matters of interprovincial concern, and it may be that they would include general regulation of trade affecting the whole dominion. Their Lordships abstain on the present occasion from any attempt to define the limits of the authority of the dominion parliament in this direction. It is enough for the decision of the present case to say that, in their view, its authority to legislate for the regulation of trade and commerce does not comprehend the power to regulate by legislation the contracts of a particular business or trade, such as the business of fire insurance in a single province, and therefore that its legislative authority does not in the present case conflict or compete with the power over property and civil rights assigned to the legislature of Ontario by No. 13 of sect. 92."
+The plaintiff submits that
+ <FRAGMENT_SUPPRESSED> ; 7 N.R. 477, at 160 affirmed that the <FRAGMENT_SUPPRESSED> case continues to be good law.
+[51]
+The plaintiff reviews a number of cases where federal legislation has been held to be unconstitutional as being primarily directed at the regulation of trade within a province:
+ <FRAGMENT_SUPPRESSED> ; 19 N.R. 361. The plaintiff also cites
+ <FRAGMENT_SUPPRESSED>  which was an unsuccessful challenge to provincial legislation.
+[52]
+ <FRAGMENT_SUPPRESSED>  was found to be an unconstitutional attempt to regulate particular occupations (grain traders and elevator operators) and local works and undertakings (grain elevators), which are matters assigned exclusively to the provincial legislatures. Despite the fact that most harvested grain was exported from Canada, Parliament could still not regulate it locally.
+[53]
+In
+Reference Re Natural Products Marketing Act, 1934
+, the Privy Council struck down a federal statute which established a marketing board to regulate the quantity, quality, grade, class, sale and distribution of dairy products. The statute covered transactions which were completed within the province, with no connection to inter-provincial or export trade. As such, the statute purported to affect property and civil rights in the province, a matter beyond the competence of Parliament. The fact that provinces were in support of the federal scheme was not enough to save its constitutionality.
+[54]
+In
+Reference Re Validity of Section 5(a) of the Dairy Industry Act
+, the Privy Council struck down a federal statute which prohibited the manufacture, offer, sale or possession of margarine. It was held that the purpose of the statute was to protect and encourage the dairy industry, and the federal power over the regulation of trade and commerce does not permit the regulation of individual forms of trade and commerce confined to the province.
+[55]
+In
+Re Agricultural Products Marketing Act
+(also known as the "Egg Reference"), the federal and Ontario governments passed co-operative legislation to regulate the marketing of eggs in intra-provincial, inter-provincial and export trade. The Supreme Court of Canada ruled that Parliament had overstepped its authority in providing local boards with authority to fix prices, through adjustment levies, in respect of intra-provincial marketing. The Court emphasized that it will look through any scheme to strike down all attempts to do indirectly what cannot be done directly; regard must be had to the substance and not to the mere form of the enactment.
+[56]
+ <FRAGMENT_SUPPRESSED>  farmers and processed it into evaporated milk at its plant-brought a constitutional challenge to provincial legislation that controlled the price of raw milk in Quebec. The manufacturer argued that the scheme was an improper attempt to regulate inter-provincial trade, given that a significant portion of its evaporated milk was exported out of Quebec. The Supreme Court of Canada rejected this argument and upheld the legislation, finding that the scheme was not directed at the regulation of inter-provincial trade but only incidentally affected the regulation of inter-provincial trade.
+[57]
+The plaintiff submits that the evidence demonstrates that Notice 102 aims to regulate the B.C. forest industry by favouring B.C. log processors at the expense of B.C. log producers, exactly as the parallel provincial scheme does. It is submitted that this is an effort to regulate trade within a province, an effort which falls outside the jurisdiction of the federal government.
+(c) The lack of a federal character to Notice 102 is also constitutionally fatal
+[58]
+The plaintiff refers to three cases for the proposition that the federal power over the regulation of trade and commerce requires a federal character:
+ <FRAGMENT_SUPPRESSED> .
+[59]
+ <FRAGMENT_SUPPRESSED>  with respect to business practices that were "contrary to honest industrial or commercial usage". The defendant in that case was alleged to have disclosed and used trade secrets contrary to subsection 7(e). The Supreme Court of Canada ruled that subsection 7(e) was ultra vires because it merely extended civil causes of action that were known in the provincial courts and reflected issues falling within provincial legislative competence. The Court stated that it was not enough that the legislation applied throughout Canada, and noted that the absence of a regulatory scheme under section 7 demonstrated a lack of national character.
+[60]
+ <FRAGMENT_SUPPRESSED>  liquors that could be labelled as "light beer". The Supreme Court of Canada held that the impugned provisions could not be founded in the federal trade and commerce head of power. The impugned provisions were not concerned with the control or regulation of the extraprovincial distribution of the products or their movement through any channels of trade. Rather, the Court found that the impugned provisions were aimed at the regulation of the production process of a single industry, namely, the brewing industry. This industry was substantially local in character given that transportation to distant markets was expensive.
+[61]
+ <FRAGMENT_SUPPRESSED>  relation to purely intra-provincial transactions, and quashed the charges laid against the appellant. The appellant had been charged under the impugned federal legislation for selling apples under the grade "Canada Extra Fancy", which did not meet the prescribed requirements of that grade because they were bruised. The transaction in question took place wholly within the province of Ontario. The federal government argued that it had jurisdiction to establish a voluntary marketing scheme, and that the federal legislation was voluntary in the sense that the grading requirements did not apply unless the products were offered for sale under a grade name. The Supreme Court of Canada, however, found that the federal legislation was in reality, mandatory, as the provincial government of Ontario had enacted co-operative legislation which prohibited the sale of any produce that was not accompanied by a sign stating the grade of the produce. The grade names for apples under the Ontario statute were identical to the grade names adopted by federal regulation. The Court stated that the presence of the provincial statute did not of itself invalidate the federal statute, but it formed part of the surroundings to be scrutinized in discerning the true nature (the pith and substance) of the federal legislation. The Court cautioned that "Parliament cannot do indirectly, with provincial aid, what it could not have done directly."
+[62]
+The plaintiff submits that in pith and substance, Notice 102 purports to regulate the intra-provincial trade of unprocessed logs within the province of B.C. The surplus test applied under Notice 102 reduces the price of unprocessed logs in transactions between log producers and log processors in B.C. It is submitted that the purpose of Notice 102 is to protect jobs in the log processing sector in B.C., and that this is a matter of provincial rather than federal jurisdiction.
+Defendant's Submissions
+I. Notice 102 is a non-statutory instrument subject to limited review
+[63]
+The defendant submits that Notice 102 is not a statutory instrument. As a general practice, the Minister issues notices to exporters to provide information to members of the public that will help them assess whether they need a federal export permit before they export certain products, and to provide them with assistance in applying for and obtaining a permit.
+[64]
+The defendant submits that Courts have approached Notices to Importers or Exporters as policy guidelines, as opposed to binding legislative instruments with the force of law (see, for example,
+ <FRAGMENT_SUPPRESSED>  (F.C.A.) was a judicial review application of the Minister's decision to impose fishing quotas on licence holders. The Federal Court of Appeal held that the allocation of policy quotas is a discretionary decision in the nature of policy or legislative action. The Court stated at paragraph 28 that "Policy guidelines outlining the general requirements for the granting of licenses are not regulations; nor do they have the force of law".
+[65]
+The defendant submits that it is well established that Courts give the greatest deference to ministerial policy decisions of the kind impugned by TimberWest. In the Federal Court of Appeal decision of
+K.F. Evans
+, the three-part mootness test from
+ <FRAGMENT_SUPPRESSED>  Sask.R. 82, was applied to determine whether the Court should entertain the appeal. In the context of assessing the third <FRAGMENT_SUPPRESSED> criteria (i.e. whether the Court should intrude into the role of other branches of government, in the absence of a real dispute to be resolved between the parties), the Federal Court of Appeal stated at paragraph 13 that "[w]hether or to what degree the exercise of federal powers should be tied to the policy preferences of particular provinces is very much a question best left to the political branches of government."
+[66]
+The defendant submits that the standard of review applicable to ministerial policy decisions is as expressed in
+Maple Lodge  <FRAGMENT_SUPPRESSED> , at pages 7 to 8  <FRAGMENT_SUPPRESSED> :
+"[...] It is, as well, a clearly-established rule that the courts should not interfere with the exercise of a discretion by a statutory authority merely because the court might have exercised the discretion in a different manner had it been charged with that responsibility. Where the statutory discretion has been exercised in good faith and, where required, in accordance with the principles of natural justice, and where reliance has not been placed upon considerations irrelevant or extraneous to the statutory purpose, the courts should not interfere. [...]"
+[67]
+The defendant submits that while the plaintiff has challenged Notice 102 by way of action instead of judicial review of a particular decision, the recent decision in
+ <FRAGMENT_SUPPRESSED> indicates that the principles concerning the review of an administrative decision apply, whether the review of that decision is made by an application for judicial review, by appeal or by a collateral attack such as an action in damages. Therefore, the defendant submits that the principles of judicial review of administrative decision-making apply to the present action to the extent that this Court should adopt the highly deferential standard of patent unreasonableness in reviewing the impugned policy.
+[68]
+The defendant further submits that constitutional arguments are not applicable to policy instruments such as Notice 102. In
+Little Sisters Book and  <FRAGMENT_SUPPRESSED>  the Supreme Court of Canada stated at paragraph 85:
+"[...] It is simply not feasible for the courts to review for
+Charter
+compliance the vast array of manuals and guides prepared by the public service for the internal guidance of officials. The courts are concerned with the legality of the decisions, not the quality of the guidebooks, although of course the fate of the two are not unrelated."
+II. Notice 102 is consistent with the
+EIPA
+and
+Export Control List
+[69]
+The defendant emphasizes that the federal legislative scheme prohibiting the export of logs without a permit does not specify one particular purpose enumerated in section 3 of the
+EIPA
+for which log exports are controlled. Rather, the regulation applies to logs for the multiple purposes set out in section 3 of the
+EIPA
+. On the other hand, subsection 1.2(a) of Notice 102 states that the export of logs from British Columbia is controlled for the purposes set out in subsection 3(e) of the
+EIPA
+. The defendant submits that this statement does not affect, and is incapable of affecting, the broad wording found in the regulatory scheme.
+[70]
+The defendant submits that Madam Justice Reed's comments in the trial level decision of
+K.F. Evans
+with respect to subsection 3(e) of the
+EIPA
+were obiter and therefore this Court is not constrained by them. On appeal of that decision, the Federal Court of Appeal determined that the appeal was moot and noted that the trial judge had based her order on the fettering of the Minister's discretion. The Court of Appeal rejected the view that the decision had much broader implications in precluding the Minister from seeking outside advice such as that of the TEAC.
+[71]
+The defendant submits that in subsection 3(e), the term "other needs" is not restricted by its preceding term "defence". It is submitted that had Parliament intended "other needs" to have a federal or national character, it could easily have said so. It is further submitted that nothing in the text of section 3 suggests that the
+Export Control List
+was created to support matters of federal or national character alone. For example, subsection 3(c) allows the control of the export of raw or processed material produced in Canada in circumstances of surplus supply and depressed prices. Subsection 3(d) allows items to be added to the
+Export Control List
+to implement an intergovernmental arrangement or commitment. It is submitted that by their nature, such arrangements must take into account matters of federal or national character and those of a provincial nature as well. It is submitted that the Minister may take into account provincial supply concerns in determining whether to issue an export permit.
+[72]
+The defendant submits that the fact that Notice 102 purports to be based on subsection 3(e) is not relevant for purposes of constitutionality arguments, as Notice 102 is a mere policy statement as to how the Minister proposes generally to exercise his discretion to issue export permits. The defendant submits that nor can this policy statement be seen as limiting the broader discretion conferred under the legislative scheme to consider not only the purpose set out in subsection 3(e) when making export permit decisions, but also the purposes set out in subsections 3(b) and (d). The defendant submits that while it may be true that logs were originally placed on the
+Export Control List
+during the second world war to ensure adequate supply for defence or other needs, logs may continue to be kept on the list for other reasons, which change over time and which could include ensuring adequate supply of raw products for domestic processing.
+[73]
+The defendant submits that it is clear that the objective of Notice 102 is to manage and identify a practice and procedure for applications for log export permits. It is submitted that the policy does not contradict any provision in the
+EIPA
+or the
+Export Control List
+; does not pre-empt the exercise of the Minister's discretion in a particular case; and does not impose mandatory requirements imposable by sanction such that the Minister is issuing de facto laws disguised as guidelines.
+[74]
+The defendant submits that the evidence indicates that the nature of the B.C. forest industry creates unique challenges for the administration of log export controls. The sheer volume of log export applications in B.C. highlights the need for further scrutiny by the Minister in taking into account whether export has an impact on the supply and distribution of logs in Canada (which includes the province of B.C.) pursuant to subsection 3(e) of the
+EIPA
+. In 2005, TimberWest had 2,317 log permit applications for which it was granted permission by the Minister to apply for an export permit. Although TimberWest ultimately only requested 1,318 permits, this number far exceeds the number of log export permits issued in other provinces. Ms. Korecky testified that in one year, 4000 permits would be issued in B.C., 70 permits in Quebec, and 50 or 60 permits in Ontario. In the other provinces, even less permits were issued.
+[75]
+The defendant submits that the need for further scrutiny is also evident in the provincial regulatory scheme in B.C. which limits the removal of logs from the province on the basis of three criteria, including a surplus test and assessments of general economic issues and waste. There is no evidence that any other province has such a scheme in place.
+[76]
+The defendant submits that the plaintiff has presented its case outside the context of any particular decision made by the Minister. It is submitted that there is no evidence that the Minister has denied the plaintiff the opportunity to export its logs, and there is no evidence that the impugned portion of Notice 102, specifically the FTEAC recommendation process, has pre-empted the exercise of the Minister's discretion in any particular case. The evidence indicates that, notwithstanding FTEAC recommendations with respect to whether offers on logs were fair, the Minister has considered other relevant factors which were raised by his delegates or in submissions received from log producers, and in some cases, the Minister did not follow the FTEAC recommendation.
+[77]
+The defendant submits that Notice 102 does not require the Minister to rely on considerations irrelevant or extraneous to the statutory purpose outlined in the
+EIPA
+. The Minister gauges the adequacy of supply and distribution of logs in Canada by the demand for logs expressed in offers to purchase proposed exports advertised on the federal bi-weekly list. In the exceptional circumstances where offers are received, the Minister seeks advice from an advisory body, the FTEAC. The defendant submits that even if it can be argued that Notice 102 indicates that the Minister takes into account some irrelevant factors, this is not fatal to its validity (see
+Canadian  <FRAGMENT_SUPPRESSED> , at 260 (C.A.)).
+III. Federal Jurisdiction under the Constitution
+Act
+, 1867
+[78]
+The defendant submits that any constitutional or division of powers claim must be made in relation to a statutory instrument, not a policy. It is submitted that the evidence does not support TimberWest's characterization of Notice 102 as creating a "regulatory regime" or "marketing scheme" for the B.C. forest industry.
+[79]
+The defendant submits that to the extent that the procedure in Notice 102 favours log processors at the expense of log producers, this is a predictable effect of the application of subsection 3(e) of the
+EIPA
+. It is submitted that ensuring an adequate supply and distribution in Canada naturally favours domestic processors and this effect does not render Notice 102 unconstitutional. It is submitted that the federal government has no obligation to ensure that log producers maximize their profits.
+[80]
+The defendant submits that there is no constitutional impediment to prevent the federal government, while exercising its jurisdiction over international trade, from taking into account an existing provincial policy and harmonizing the federal exports policy with the provincial policy. The defendant submits that where the federal government has regulated to the extent of creating marketing schemes in conjunction with provincial governments, the Courts have upheld such schemes, in
+Fédération des producteurs de volailles du  <FRAGMENT_SUPPRESSED>  O.R.(3d) 616 (Div. Ct.); and
+ <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 177 (Div. Ct.).
+[81]
+The defendant submits that the present case is an example of the federal government legislating within its constitutional jurisdiction over trade and commerce where the regulation and administration of
+EIPA
+has incidental and consequential effects on the local or provincial market in B.C.
+[82]
+The defendant submits that the interest of the federal government in ensuring an adequate supply and distribution of logs in Canada overlaps with and complements the legislative policy of the province of B.C. The economy and economic development are not the exclusive domain or responsibility of one or the other level of government. It is submitted that there is nothing unconstitutional about the federal government pursuing the same or a similar objective as a provincial government provided it acts solely within its own legislative competence.
+[83]
+The defendant submits that the Minister's approach to making a permit assessment does not mirror the B.C. regulatory scheme. Notice 102 contemplates the export of all log grades and species, whereas the provincial scheme does not. The provincial scheme requires all exporters of logs under their jurisdiction to pay a levy representing the lost economic value to the province for removing those logs from the province without further processing. By contrast, the federal scheme provides that the exporter need only pay a nominal processing fee.
+[84]
+It is further submitted that Notice 102 concerns itself with the supply and distribution of logs in Canada rather than B.C. alone. While few, if any, offers to purchase logs are submitted by purchasers from provinces other than B.C., the potential remains that any of them could submit an offer and that offer would be considered by the Minister in accordance with the policy.
+[85]
+The defendant submits that because of the unique nature of the B.C. forest industry (it provides the majority of Canada's log exports in terms of log volumes and permit applications), it is important that the Minister receive and consider the advice of individuals more familiar with the B.C. markets before exercising his discretion. It is submitted that the Minister may seek outside advice provided that the consultation does not fetter the exercise of the Minister's discretion or breach the duty of fairness. That the B.C. Ministry of Forests provides administrative support to the committee, that most members of FTEAC are appointed by and receive a modest honorarium from the provincial government, and that FTEAC does not rigidly separate its activities as a federal body from those undertaken as members of a provincial body is irrelevant to the constitutional or administrative law issues in this case. It is submitted that what matters is that the Minister concerns himself with the question of supply and distribution in Canada and that FTEAC recommendations are but one of the factors considered by the Minister in exercising his discretion.
+Analysis and Decision
+Standard of Review
+[86]
+The Federal Court of Appeal stated the following in
+ <FRAGMENT_SUPPRESSED> , at paragraph 62:
+"On appeal, when delivering its decision, the Federal Court, like the Prothonotary, did not have the benefit of this Court's decision in
+Berhad
+, in which it was held at paragraphs 65-66 that the principles applicable to the review of an administrative decision apply, whether the review of that decision is made by an application for judicial review, by appeal or by a collateral attack such as an action in damages. Had the Federal Court applied the administrative law principles that the Prothonotary ought to have applied to the decision of the institutional head and of the Segregation Review Board, it would have concluded that the administrative decisions ordering and maintaining the respondent's administrative segregation were based on evidence which, in the circumstances, could not be found to be unreasonable."
+However, it must be remembered that in the present case, what is in issue is not a decision made by the Minister as to whether or not to grant an export permit for logs. The plaintiff is questioning the validity of a policy issued by the Minister.
+[87]
+ <FRAGMENT_SUPPRESSED> , the Supreme Court of Canada upheld the decision of the Federal Court of Appeal. The Federal Court of Appeal had stated the following at pages 513 to 514 (see
+ <FRAGMENT_SUPPRESSED>  (C.A.):
+"Assuming, however, that this is a correct view of what the guidelines purport to say -- that a permit will normally be issued if the Agency is unable to find a domestic source of supply of the specific product for which the applicant seeks a permit -- it is not in my opinion sufficient by itself to invalidate the Minister's decision in the present case on the ground that it was based on an extraneous or irrelevant consideration. To hold otherwise would be to adopt the position that guidelines, once adopted, indicate what are to be considered to be the only relevant considerations for the exercise of a discretion. Such a conclusion would be contrary to the fundamental principle that guidelines, which are not regulations and do not have the force of law, cannot limit or qualify the scope of the discretion conferred by statute, or create a right to something that has been made discretionary by statute. The Minister may validly and properly indicate the kind of considerations by which he will be guided as a general rule in the exercise of his discretion (see
+ <FRAGMENT_SUPPRESSED> , at pp. 169-171), but he cannot fetter his discretion by treating the guidelines as binding upon him and excluding other valid or relevant reasons for the exercise of his discretion (see
+Re Hopedale Developments Ltd. and Town of Oakville
+, [1965] 1 O.R. 259)."
+[88]
+In my view, no decision has been made in this case with respect to which the pragmatic and functional approach may be applied as dictated by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  N.B.R.(2d) 207; 674 A.P.R. 207.
+[89]
+That, however, is not the end of the matter as the Federal Court of Appeal held in
+Maple Lodge Farms Ltd.
+above, that ministerial guidelines are not regulations and do not have the force of law. As well, the Courts have stated that the creation of a guideline is a discretionary decision in the nature of a policy or legislative action. This was stated in
+ <FRAGMENT_SUPPRESSED>  (C.A.), at paragraph 28:
+"The imposition of a quota policy (as opposed to the granting of a specific licence) is a discretionary decision in the nature of policy or legislative action. Policy guidelines outlining the general requirements for the granting of licences are not regulations; nor do they have the force of law. It flows from the decision of the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  licence by treating the guidelines as binding upon him, may validly and properly indicate the kind of considerations by which he will be guided as a general rule when allocating quotas. These discretionary policy guidelines are not subject to judicial review, save according to the three exceptions set out in
+Maple Lodge Farms
+: bad faith, non-conformity with the principles of nature justice where their application is required by statute and reliance placed upon considerations that are irrelevant or extraneous to the statutory purpose."
+This is the standard of review that should be applied to the consideration of Notice 102.
+[90]
+In its oral argument, the plaintiff made two arguments against the validity of Notice 102. The first was an administrative law argument that Notice 102 was not authorized by its governing statute (the
+EIPA
+). The second argument was that Notice 102 was unconstitutional because it was not within federal jurisdiction under subsection 91(2) of the
+Constitution Act, 1867
+but was within the provincial area of jurisdiction under either subsection 92(13), property and civil rights or subsection 92(16), matters of a purely local and private nature (
+Constitution Act, 1867
+).
+Is Notice 102 authorized by the Export and Import Permits
+Act
+?
+[91]
+At the outset, it is important to note that the plaintiff is neither contesting the validity of sections 3, 5 or 7 of the
+EIPA
+, nor a decision made pursuant to section 7 of the
+EIPA
+. The plaintiff is attacking the validity of Notice 102 as not being authorized under the
+EIPA
+. The main basis of the attack is that the words "other needs" contained in subsection 3(e) of the
+EIPA
+must refer to "other needs" that are Canadian in nature as opposed to provincial.
+[92]
+The defendant submitted that the validity of a policy statement may only be challenged where a decision has been made as a result of an application of the policy. This proposition seems to have merit when reference is made to the existing jurisprudence. In
+Maple Lodge Farms Ltd.
+, above, the Supreme Court of Canada stated the following at pages 6 to 9:
+"It is clear, then, in my view, that the Minister has been accorded a discretion under s. 8 of the
+Act
+. The fact that the Minister in his policy guidelines issued in the Notice to Importers employed the words: 'If Canadian product is not offered at the market price, a permit will normally be issued; ...' does not fetter the exercise of that discretion.
+The discretion is given by the Statute and the formulation and adoption of general policy guidelines cannot confine it. There is nothing improper or unlawful for the Minister charged with responsibility for the administration of the general scheme provided for in the
+Act
+and
+Regulations
+to formulate and to state general requirements for the granting of import permits
+. It will be helpful to applicants for permits to know in general terms what the policy and practice of the Minister will be.
+To give the guidelines the effect contended for by the appellant would be to elevate ministerial directions to the level of law and fetter the Minister in the exercise of his discretion
+. Le Dain, J., dealt with this question at some length and said, at p. 513:
+'The Minister may validly and properly indicate the kind of considerations by which he will be guided as a general rule in the exercise of his discretion (see
+ <FRAGMENT_SUPPRESSED> , at pp. 169-171), but he cannot fetter his discretion by treating the guidelines as binding upon him and excluding other valid or relevant reasons for the exercise of his discretion (see
+Re Hopedale Developments Ltd. and Town of Oakville
+, [1965] 1 O.R. 259).'
+"In any case, the words employed in s. 8 do not necessarily fetter the discretion. The use of the expression 'a permit will normally be issued' is by no means equivalent to the words 'a permit will necessarily be issued'. They impose no requirement for the issue of a permit.
+"
+In construing statutes
+such as those under consideration in this appeal, which provide for far-reaching and frequently complicated administrative schemes, the judicial approach should be to endeavour within the scope of the legislation to give effect to its provisions so that the administrative agencies created may function effectively, as the legislation intended.
+In my view, in dealing with legislation of this nature
+, the courts should, wherever possible, avoid a narrow, technical construction, and endeavour to make effective the legislative intent as applied to the administrative scheme involved. It is, as well, a clearly-established rule that
+the courts should not interfere with the exercise of a discretion by a statutory authority
+merely because the court might have exercised the discretion in a different manner had it been charged with that responsibility. Where the statutory discretion has been exercised in good faith and, where required, in accordance with the principles of natural justice, and where reliance has not been placed upon considerations irrelevant or extraneous to the statutory purpose, the courts should not interfere. [...]" (Emphasis added)
+[93]
+In
+Little Sister's Book and  <FRAGMENT_SUPPRESSED> , the Supreme Court of Canada stated at page 1173:
+"The trial judge concluded that Customs' failure to make Memorandum D9-1-1 conform to the Justice Department opinion on the definition of obscenity violated the appellants'
+Charter
+rights. However, I agree with the British Columbia Court of Appeal that the trial judge put too much weight on the Memorandum, which was nothing more than an internal administrative aid to Customs inspectors. It was not law. It could never have been relied upon by Customs in court to defend a challenged prohibition. The failure of Customs to keep the document updated is deplorable public administration, because use of the defective guide led to erroneous decisions that imposed an unnecessary administrative burden and cost on importers and Customs officers alike. Where an importer could not have afforded to carry the fight to the courts a defective Memorandum D9-1-1 may have directly
+contributed
+to a denial of constitutional rights. It is the statutory decision, however, not the manual, that constituted the denial. It is simply not feasible for the courts to review for
+Charter
+compliance the vast array of manuals and guides prepared by the public service for the internal guidance of officials. The courts are concerned with the legality of the decisions, not the quality of the guidebooks, although of course the fate of the two are not unrelated."
+[94]
+The Supreme Court appears to state that the courts will deal with decisions, not the guidelines themselves. However, since the plaintiff is seeking a declaration that Notice 102 is not authorized by the
+EIPA
+, I will deal with this argument.
+[95]
+The plaintiff urged upon me that the words "other needs" contained in subsection 3(e) of the
+EIPA
+must be interpreted to mean other "Canadian" needs or in other words, needs of a federal nature and not local needs. The plaintiff based this submission on a comparison of the French and English versions of the section.
+[96]
+The principles of bilingual statutory interpretation applicable where there are discrepancies between two versions of the same provision were set out by Justice Bastarache, in
+ <FRAGMENT_SUPPRESSED> , commencing at paragraph 26:
+"(1)
+Principles of Bilingual Statutory Interpretation
+"26. The Court has on several occasions discussed how a bilingual statute should be interpreted in cases where there is a discrepancy between the two versions of the same text. For example, in
+ <FRAGMENT_SUPPRESSED>  at para. 56, LeBel, J., wrote:
+'A principle of bilingual statutory interpretation holds that where one version is ambiguous and the other is clear and unequivocal, the common meaning of the two versions would a priori be preferred; see: Côté, supra, at p. 327; and
+ <FRAGMENT_SUPPRESSED> . Furthermore, where one of the two versions is broader than the other, the common meaning would favour the more restricted or limited meaning: see Côté, supra, at p. 327;
+ <FRAGMENT_SUPPRESSED>  at para. 5, I stated the following:
+'The
+Criminal Code
+is a bilingual statute of which both the English and French versions are equally authoritative. In his
+Interpretation of Legislation in Canada
+(3rd Ed. 2000), at p. 327, Pierre-André Côté reminds us that statutory interpretation of bilingual enactments begins with a search for the shared meaning between the two versions.
+'I would also draw attention to the two-step analysis proposed by Professor Côté in
+The Interpretation of Legislation in Canada
+(3rd Ed. 2000), at p. 324, for resolving discordances resulting from divergences between the two versions of a statute:
+'Unless otherwise provided, differences between two official versions of the same enactment are reconciled by educing the meaning common to both. Should this prove to be impossible, or if the common meaning seems incompatible with the intention of the legislature as indicated by the ordinary rules of interpretation, the meaning arrived at by the ordinary rules should be retained.'
+"27. There is, therefore, a specific procedure to be followed when interpreting bilingual statutes. The first step is to determine whether there is discordance. If the two versions are irreconcilable, we must rely on other principles: see Côté, supra, at p. 327. A purposive and contextual approach is favoured: see, for example,
+ <FRAGMENT_SUPPRESSED>  , at para. 26;
+ <FRAGMENT_SUPPRESSED>  at para. 27;
+ <FRAGMENT_SUPPRESSED>  at para. 33.
+"28. We must determine whether there is an ambiguity, that is, whether one or both versions of the statute are 'reasonably capable of more than one meaning':
+Bell  <FRAGMENT_SUPPRESSED> , at para. 29. If there is an ambiguity in one version but not the other, the two versions must be reconciled, that is, we must look for the meaning that is common to both versions: Côté, supra, at p. 327. The common meaning is the version that is plain and not ambiguous: Côté, supra, at p. 327; see
+Goodyear Tire and  <FRAGMENT_SUPPRESSED> , at p. 863.
+"29. If neither version is ambiguous, or if they both are, the common meaning is normally the narrower version:
+ <FRAGMENT_SUPPRESSED> , at p. 669;
+ <FRAGMENT_SUPPRESSED> , at pp. 464-65. Professor Côté illustrates this point as follows, at p. 327:
+'There is a third possibility: one version may have a broader meaning than another, in which case the shared meaning is the more narrow of the two.'
+"30. The second step is to determine whether the common or dominant meaning is, according to the ordinary rules of statutory interpretation, consistent with Parliament's intent: Côté, supra, at pp. 328-329. At this stage, the words of Lamer, J., in
+ <FRAGMENT_SUPPRESSED> , at p. 1071, are instructive:
+'First of all, therefore, these two versions have to be reconciled if possible. To do this, an attempt must be made to get from the two versions of the provision the meaning common to them both and ascertain whether this appears to be consistent with the purpose and general scheme of the
+Code
+.'
+"31. Finally, we must also bear in mind that some principles of interpretation may only be applied in cases where there is an ambiguity in an enactment. As Iacobucci, J., wrote in
+Bell  <FRAGMENT_SUPPRESSED> , at para. 28: 'Other principles of interpretation -- such as the strict construction of penal statutes and the "
+Charter
+values" presumption -- only receive application where there is ambiguity as to the meaning of a provision.'"
+Before using this approach, a discrepancy between the two versions of the statute must be identified. In my view, there is no discrepancy in this case. Both the English and French versions refer to Canadian needs. The English version refers to "in Canada for defence and other needs", while the French version refers to "besoins Canadiens" or when translated, "Canadian needs". Both sets of needs refer to needs that are in Canada. There is no mention of needs of a federal nature.
+[97]
+Although Justice Reed in
+ <FRAGMENT_SUPPRESSED>  (T.D.) stated, in obiter, that "other needs" would be needs of a national or federal character, she appeared to be basing this conclusion on the ejusdem generis rule of construction.  <FRAGMENT_SUPPRESSED>  (C.A.), the Federal Court of Appeal stated the following at pages 167 to 168:
+"With respect to the question whether the making of the Order in Council was authorized by paragraph 3(c) of the
+Act
+, the Judge of first instance, in addition to finding that the Governor in Council had possibly acted on the basis of erroneous information, expressed the view that the Governor in Council had possibly misconstrued that paragraph of the statute and, for that reason, failed to form the required belief. Indeed, the Judge expressed the opinion that the words 'other needs' in that paragraph were to be interpreted by applying the 'ejusdem generis' rule as referring only to needs related to defence. As we are not in a state of war, and as red cedar is clearly not necessary for the defence of the country, it would follow, if I understand the Judge's reasons, that the Governor in Council acted on the basis of a wrong interpretation of the statute as well as of misleading information.
+"I may say immediately that this interpretation of paragraph 3(c) of the
+Act
+appears to me to be wrong. The words 'other needs' in that paragraph clearly mean what they say, namely, needs other than those related to defence. I do not see any reason to restrict the normal meaning of those words in the manner suggested. I am of the opinion, therefore, that it cannot be seriously argued that the Governor in Council, in making the order in council in question, acted on a wrong interpretation of the statute."
+[98]
+The same conclusion was reached by Justice Pitfield in
+ <FRAGMENT_SUPPRESSED>  BCSC 1709. Justice Pitfield stated at paragraphs 37 and 38:
+"37. An interpretation of the meaning of the phrase 'defence or other needs' was not required in order to compel reconsideration of the <FRAGMENT_SUPPRESSED> applications by the Minister. While stating her inclination in relation to the meaning of the phrase, Reed, J., was careful to say she did not have to decide the point. It follows that I am not constrained by the Federal Court of Canada Trial Division decision on the meaning of the phrase. With respect, it is my opinion that the phrase should not be given the narrow meaning proposed by Reed, J.
+"38. In my opinion, the use of the word 'defence' in conjunction with 'other needs' does not readily permit the application of the ejusdem generis doctrine of construction. The rule of construction was described by LaForest, J., in
+ <FRAGMENT_SUPPRESSED>  (S.C.C.), at 203:
+'Whatever the particular document one is construing, when one finds a clause that sets out a list of specific words followed by a general term, it will normally be appropriate to limit the general term to the genus of the narrow enumeration that precedes it.'"
+Justice Pitfield also stated the following at paragraphs 41 to 50:
+"41. The word 'defence' stands on its own. It is not a word in a list. It is not described as having a federal or national character although it is of such a character. In my opinion, it is not appropriate to rely on the ejusdem generis doctrine to say that 'other needs' may only be those that possess one attribute of a single word and therefore must mean needs with a national or federal character. The meaning of 'other needs' is not restricted in any manner by its disjunctive juxtaposition with the word 'defence'. Had Parliament intended a need to have a federal or national character, it could easily have said so.
+"42. Furthermore, nothing in the text of s. 3 suggests that the
+Export Control List
+was created to support matters of federal or national character without reference to provincial need.
+"43. Section 3(a) is directed to a matter of federal concern namely, arms, ammunition, implements and munitions of war. Paragraph (b) is directed to the promotion of further processing in Canada of a natural resource that is produced in Canada. That phrase embodies provincial needs or purposes.
+"44. Section 3(c) is directed to the control of the export of raw or processed material produced in Canada in circumstances of surplus supply and depressed prices. There is nothing to suggest that a federal or national, as opposed to provincial, need is paramount in that context.
+"45. Section 3(c. 1) was directed to the support or enforcement of the
+Softwood Lumber Products Export Charge Act
+. While that is federal legislation concerned with international trade and commerce, it does not exist for a federal or national purpose but for the purpose of counter-acting alleged shortcomings in provincial policy.
+"46. Section 3(d) refers to the addition of items to the
+Export Control List
+in order to implement an intergovernmental arrangement or commitment. By their very nature, such arrangements must take into account matters of federal or national character and those of a provincial nature as well.
+"47. With respect, there is nothing in paragraph 3(e) which should compel the addition of an article to the
+Export Control List
+, or restrict the exercise of discretion, by reference to matters of national or federal, as opposed to provincial, importance.
+"48. It is in the discretion of the Minister to decide whether or not there is any need to restrict the export of any article in order to ensure adequate supply and distribution of that article in Canada. Provided adequate supply and distribution are the bases of the concern, the cause of the concern, whether provincial, national or federal, is not material. In sum, the restriction of the words 'other needs' to a need of a national or federal character would have the effect of amending the statute.
+"49. In my opinion, the claim in respect of abuse of public office must fail. Because the words 'other needs' are broad enough to encompass a provincial supply and distribution concern, the Minister did not act unlawfully by taking that need into account. The Minister cannot be said to have acted with targeted malice toward <FRAGMENT_SUPPRESSED> , nor can he be said to have been reckless in acting as he did, given the nature of the discretion conferred upon him. An essential element of the tort has not been proved on the balance of probabilities.
+"50. If a contrary view should prevail with respect to the interpretation of s. 3(e) so that it does not encompass provincial needs, then nothing would have prevented the Minister from resorting to s. 3(b) in the course of exercising his discretion. Provincial need is relevant in that context. That being the case, the Minister cannot be said to have exercised his discretion with malice or in reckless disregard of the nature and extent of his discretion."
+[99]
+I would adopt the reasoning of Justice Pitfield for the present case.
+[100]
+In conclusion, I am of the opinion that Notice 102 is authorized by the
+EIPA
+.
+Is the Notice 102 regime constitutionally valid under subsection 91(2) of the Constitution
+Act
+, 1867 (trade and commerce) or invalid because it is under subsection 92(13) of the Constitution
+Act
+, 1867 (property and civil rights) or under subsection 92(16) of the Constitution
+Act
+, 1867, (matters of a purely local and private nature)?
+[101]
+The defendant submitted that a constitutional argument is not applicable to policy instruments such as Notice 102 and cited the Supreme Court of Canada decision in
+Little Sister's Book and Art Emporium
+, above. For ease of reference, I will repeat paragraph 85:
+"The trial judge concluded that Customs' failure to make Memorandum D9-1-1 conform to the Justice Department opinion on the definition of obscenity violated the appellants'
+Charter
+rights. However, I agree with the British Columbia Court of Appeal that the trial judge put too much weight on the Memorandum, which was nothing more than an internal administrative aid to Customs inspectors. It was not law. It could never have been relied upon by Customs in court to defend a challenged prohibition. The failure of Customs to keep the document updated is deplorable public administration, because use of the defective guide led to erroneous decisions that imposed an unnecessary administrative burden and cost on importers and Customs officers alike. Where an importer could not have afforded to carry the fight to the courts a defective Memorandum D9-1-1 may have directly contributed to a denial of constitutional rights. It is the statutory decision, however, not the manual, that constituted the denial. It is simply not feasible for the courts to review for
+Charter
+compliance the vast array of manuals and guides prepared by the public service for the internal guidance of officials. The courts are concerned with the legality of the decisions, not the quality of the guidebooks, although of course the fate of the two are not unrelated."
+[102]
+In our constitutional system, laws are considered unconstitutional for one reason or another, not policies. The plaintiff has not challenged the legislative provisions dealing with the issuance of export permits.
+[103]
+In the event that I am incorrect, I will now decide whether or not Notice 102 is valid under subsection 91(2) of the
+Constitution Act, 1867
+. The plaintiff has submitted that Notice 102 is in essence an attempt by the federal government to legislate in the provincial sphere. I would again note that Notice 102 is not legislation, it is a policy made by the Minister. The plaintiff submitted that a pith and substance analysis must be carried out to determine whether the policy is valid under subsection 91(2) of the
+Constitution Act, 1867
+.
+[104]
+In
+Fédération des producteurs de volailles du  <FRAGMENT_SUPPRESSED>  at paras. 53-54, a case involving provisions of the
+Heritage Conservation Act
+, R.S.B.C. 1996, c. 187:
+'A pith and substance analysis looks at both (1) the purpose of the legislation as well as (2) its effect. First, to determine the purpose of the legislation, the Court may look at both intrinsic evidence, such as purpose clauses, or extrinsic evidence, such as Hansard or the minutes of parliamentary committees.
+'Second, in looking at the effect of the legislation, the Court may consider both its legal effect and its practical effect. In other words, the Court looks to see, first, what effect flows directly from the provisions of the statute itself; then, second, what "side" effects flow from the application of the statute which are not direct effects of the provisions of the statute itself: see
+ <FRAGMENT_SUPPRESSED>  at para. 23:
+'The effects of the legislation may also be relevant to the validity of the legislation in so far as they reveal its pith and substance. For example, in
+ <FRAGMENT_SUPPRESSED>  the Privy Council struck down a law imposing a tax on banks because the effects of the tax were so severe that the true purpose of the law could only be in relation to banking, not taxation. However, merely incidental effects will not disturb the constitutionality of an otherwise intra vires law.'" (Emphasis added)
+(See also P.W. Hogg,
+Constitutional Law of Canada
+(loose-leaf ed.), vol. 1, at p. 15.5(d)).
+[105]
+The plaintiff submitted that in issuing Notice 102, the federal government was entering into the business of regulating the forestry industry in British Columbia. The plaintiff stated that Notice 102 was in effect creating a regulatory scheme for the British Columbia logging industry.
+[106]
+Section 7 of the
+EIPA
+deals with the necessity to obtain a licence in order to export a shipment of logs from Canada and the issuance of such licences. It does not deal with the export of logs from province to province. The procedure to be followed by log producers in British Columbia was summarized above at paragraphs 13 to 19 of this decision.
+[107]
+Thomas Jones, Deputy Director, Technology, in the Export Control Division of DFAIT testified as follows during the trial:
+"Q. Just dealing for a few moments with Ministerial decisions following recommendations from the Federal Timber Export Advisory Committee, during the period that Notice to Exporters Number 102 remained in force, has the Minister ever rejected the recommendation of the Federal Timber Export Advisory Committee?
+A. Yes.
+Q. And has the Minister ever rejected the recommendation of the Federal Timber Export Advisory Committee concerning TimberWest's logs?
+A. Yes.
+Q. Can you educate us as to the circumstances under which that occurred, to the best of your recollection?
+A. I think it was in 1998. I received a letter from TimberWest ---
+I had received a few letters over the years.
+I believe it was from John Kelvin – I mentioned his name earlier – and he pointed out different factors that we should consider.
+I can't remember the specific factors; I do know that we did consult with the Minister.
+Since the new Policy came into effect, we first have to get an appreciation for the Minister's position.
+While he set the Policy and we administer it, we want to make sure that we are administering it in a fashion he intended.
+So for the first year to a year-and-a-half, we would go up to the Minister and seek his advice on whether he should disregard an FTEAC recommendation, or accept it.
+So ...
+Boy, you are testing my memory here.
+I know TimberWest was in there.
+I believe there was another company involved as well.
+We didn't go up with just one; we went up with a couple of similar cases.
+And if I remember correctly, on this one, on the earlier ---
+At least on the earlier ones, it was a case of discrimination, if you will, on where a company was bidding on those logs by TimberWest, or Merrill & Ring; but these logs over
+here
+, which were similar in quality, in species, in grade, they weren't bidding on these at all.
+So the argument was made:
+That's unfair. If
+these
+are not surplus, the Federal ones, the ones from Federal Lands, those should be not surplus. But if those are surplus, then
+those
+should be surplus
+...
+"And that was the argumentation which one developed and with which went up to the Minister and explained what was going on: '
+Based on the information we have, should we accept the FTEAC recommendation, or not? And if we don't, do you then agree that a Federal Permit be issued
+?'
+"And in that case, in my recollection, that is exactly what happened: a Federal Permit was issued."
+Mr. Jones was a federal representative on FTEAC.
+[108]
+The evidence also established that the purpose of Notice 102 was to obtain information and then provide a recommendation to the Minister on the granting of an export permit.
+[109]
+The plaintiff argued that Notice 102 mirrored the provincial scheme. I do not agree. Notice 102 contemplates the export of all grades and species of logs from British Columbia while the provincial scheme prohibits the removal of higher quality logs from British Columbia. Notice 102 does not prohibit the movement of logs from British Columbia to other provinces while the provincial scheme does. The fees and levies are different under Notice 102 and the provincial scheme. I would also note that the FTEAC board contains an additional member who is the federal nominee to FTEAC.
+[110]
+ <FRAGMENT_SUPPRESSED> , (F.C.A.), Justice Strayer stated the following at paragraph 13:
+"[ ... ] In the
+Teal Cedar Products
+case this court has already upheld the use of this paragraph to support export control on B.C. short red cedar boards in order to promote their processing in the province into shingles and shakes. It seems clear that if the Minister were exercising a discretion as to whether to refuse an export permit for logs covered by a list established under paragraph 3(b) he could have resort to the advice (but not require the approval) of a body such as T.E.A.C."
+In my view, this reasoning is even more applicable now that FTEAC exists.
+[111]
+It is reasonable for the Minister to seek advice concerning the supply and distribution of logs in British Columbia when he is determining the supply and distribution of logs in Canada.
+[112]
+Looking at both the purpose of Notice 102 and its effect, I am of the opinion that in pith and substance, it is federal in nature and is authorized under subsection 91(2) (Trade and Commerce) of the
+Constitution Act, 1867
+.
+[113]
+The fact that Notice 102 might have incidental effects on the British Columbia logging industry does not make it otherwise unconstitutional.
+[114]
+The above analysis was done on the premise that the constitutionality of a policy could be assessed.
+[115]
+I am of the view that the plaintiff's claim cannot succeed. The plaintiff's claim for relief is therefore dismissed.
+[116]
+The plaintiff's claims are dismissed.
+[117]
+The defendant shall have her costs of the action.
+JUDGMENT
+[118]
+THIS COURT ADJUDGES that:
+1. The plaintiff's claims are dismissed.
+2. The defendant shall have her costs of the action.
+Action dismissed.
+Editor: Elizabeth M.A. Turgeon/clh
+ANNEX
+Relevant Legislation
+The relevant provisions of each act are set out below. The
+Export and Import Permits Act
+, R.S.C. 1985, c. E-19:
+3. The Governor in Council may establish a list of goods, to be called an Export Control List, including therein any article the export of which the Governor in Council deems it necessary to control for any of the following purposes:
+(a) to ensure that arms, ammunition, implements or munitions of war, naval, army or air stores or any articles deemed capable of being converted thereinto or made useful in the production thereof or otherwise having a strategic nature or value will not be made available to any destination where their use might be detrimental to the security of Canada;
+(b) to ensure that any action taken to promote the further processing in Canada of a natural resource that is produced in Canada is not rendered ineffective by reason of the unrestricted exportation of that natural resource;
+(c) to limit or keep under surveillance the export of any raw or processed material that is produced in Canada in circumstances of surplus supply and depressed prices and that is not a produce of agriculture;
+(c.1) (Repealed, 1999, c. 31, s. 88)
+(d) to implement an intergovernmental arrangement or commitment;
+(e) to ensure that there is an adequate supply and distribution of the article in Canada for defence or other needs; or
+(f) to ensure the orderly export marketing of any goods that are subject to a limitation imposed by any country or customs territory on the quantity of the goods that, on importation into that country or customs territory in any given period, is eligible for the benefit provided for goods imported within that limitation.
+7(1) Subject to subsection (2), the Minister may issue to any resident of Canada applying therefor a permit to export goods included in an Export Control List or goods to a country included in an Area Control List, in such quantity and of such quality, by such persons, to such places or persons and subject to such other terms and conditions as are described in the permit or in the regulations.
+13. No person shall export or attempt to export any goods included in an Export Control List or any goods to any country included in an Area Control List except under the authority of and in accordance with an export permit issued under this Act.
+3. Le gouverneur en conseil peut dresser la liste des marchandises d'exportation contrôlée comprenant les articles dont, à son avis, il est nécessaire de contrôler l'exportation pour l'une des fins suivantes:
+a) s'assurer que des armes, des munitions, du matériel ou des armements de guerre, des approvisionnements navals, des approvisionnements de l'armée ou des approvisionnements de l'aviation, ou des articles jugés susceptibles d'être transformés en l'un de ceux-ci ou de pouvoir servir à leur production ou ayant d'autre part une nature ou valeur stratégiques, ne seront pas rendus disponibles à une destination où leur emploi pourrait être préjudiciable à la sécurité du Canada;
+b) s'assurer que les mesures prises pour favoriser la transformation au Canada d'une ressource naturelle d'origine canadienne ne deviennent pas inopérantes du fait de son exportation incontrôlée;
+c) limiter, en période de surproduction et de chute des cours, les exportations de matières premières ou transformées d'origine canadienne, sauf les produits agricoles, ou en conserver le contrôle;
+c.1) (Abrogé, 1999, ch. 31, art. 88)
+d) mettre en oeuvre un accord ou un engagement intergouvernemental;
+e) s'assurer d'un approvisionnement et d'une distribution de cet article en quantité suffisante pour répondre aux besoins canadiens, notamment en matière de défense;
+f) assurer la commercialisation ordonnée à l'exportation de toute marchandise soumise à une limitation de la quantité de marchandise pouvant être importée dans un pays ou un territoire douanier qui, au moment de son importation dans ce pays ou territoire douanier dans une période donnée, est susceptible de bénéficier du régime préférentiel prévu dans le cadre de cette limitation.
+7(1) Sous réserve du paragraphe (2), le ministre peut délivrer à tout résident du Canada qui en fait la demande une licence autorisant, sous réserve des conditions prévues dans la licence ou les règlements, notamment quant à la quantité, à la qualité, aux personnes et aux endroits visés, l'exportation des marchandises inscrites sur la liste des marchandises d'exportation contrôlée ou destinées à un pays inscrit sur la liste des pays visés.
+13. Il est interdit d'exporter ou de tenter d'exporter des marchandises figurant sur la liste des marchandises d'exportation contrôlée, ni des marchandises vers un pays dont le nom paraît sur la liste des pays visés si ce n'est sous l'autorité d'une licence d'exportation délivrée en vertu de la présente loi et conformément à une telle licence.
+The
+Export Control List
+, S.O.R./89-202:
+5101. Logs of all species of wood. (All destinations)
+5101. Billes de toutes essences de bois. (Toutes destinations)
+The
+Forest Act
+, R.S.B.C. 1996, c. 157:
+127. Unless exempted under this Part, timber that is harvested from Crown land, from land granted by the government after March 12, 1906 or from land granted by the government before March 12, 1906 in a tree farm licence area, and wood residue produced from the timber, must be
+(a) used in British Columbia, or
+(b) manufactured in British Columbia into wood products to the extent of manufacture specified by regulation.
+128(1) The Lieutenant Governor in Council may exempt from section 127
+(a) a species of timber or kind of wood residue and may limit the volume of a species of timber or kind of wood residue to which the exemption applies for a period or for successive periods of time, and
+(b) a volume of timber, whether or not harvested, or a volume of a wood residue, on receiving an application in a form required by the minister.
+(2) On receiving an application in the form required by the minister, he or she may exempt from section 127 a volume of timber that has been harvested, not exceeding 15 000 m [cubed] for each application.
+(3) An exemption must not be given under this section unless the Lieutenant Governor in Council or the minister, as the case may be, is satisfied that
+(a) the timber or wood residue will be surplus to requirements of timber processing facilities in British Columbia,
+(b) the timber or wood residue cannot be processed economically in the vicinity of the land from which it is cut or produced, and cannot be transported economically to a processing facility located elsewhere in British Columbia, or
+(c) the exemption would prevent the waste of or improve the utilization of timber cut from Crown land.
+The
+Federal Courts Act
+, R.S.C. 1985, c. F-7:
+18(1) Subject to section 28, the Federal Court has exclusive original jurisdiction
+(a) to issue an injunction, writ of certiorari, writ of prohibition, writ of mandamus or writ of quo warranto, or grant declaratory relief, against any federal board, commission or other tribunal; and
+(b) to hear and determine any application or other proceeding for relief in the nature of relief contemplated by paragraph (a), including any proceeding brought against the Attorney General of Canada, to obtain relief against a federal board, commission or other tribunal.
+(2) The Federal Court has exclusive original jurisdiction to hear and determine every application for a writ of habeas corpus ad subjiciendum, writ of certiorari, writ of prohibition or writ of mandamus in relation to any member of the Canadian Forces serving outside Canada.
+(3) The remedies provided for in subsections (1) and (2) may be obtained only on an application for judicial review made under section 18.1.
+48(1) A proceeding against the Crown shall be instituted by filing in the Registry of the Federal Court the original and two copies of a document that may be in the form set out in the schedule and by payment of the sum of $2 as a filing fee.
+(2) The original and two copies of the originating document may be filed as required by subsection (1) by being forwarded, together with a remittance for the filing fee, by registered mail addressed to "The Registry, The Federal Court, Ottawa, Canada".
+18(1) Sous réserve de l'article 28, la Cour fédérale a compétence exclusive, en première instance, pour:
+a) décerner une injonction, un bref de certiorari, de mandamus, de prohibition ou de quo warranto, ou pour rendre un jugement déclaratoire contre tout office fédéral;
+b) connaître de toute demande de réparation de la nature visée par l'alinéa a), et notamment de toute procédure engagée contre le procureur général du Canada afin d'obtenir réparation de la part d'un office fédéral.
+(2) Elle a compétence exclusive, en première instance, dans le cas des demandes suivantes visant un membre des Forces canadiennes en poste à l'étranger: bref d' habeas corpus ad subjiciendum, de certiorari, de prohibition ou de mandamus.
+(3) Les recours prévus aux paragraphes (1) ou (2) sont exercés par présentation d'une demande de contrôle judiciaire.
+48(1) Pour entamer une procédure contre la Couronne, il faut déposer au greffe de la Cour fédérale l'original et deux copies de l'acte introductif d'instance, qui peut suivre le modèle établi à l'annexe, et acquitter la somme de deux dollars comme droit correspondant.
+(2) Les deux formalités prévues au paragraphe (1) peuvent s'effectuer par courrier recommandé expédié à l'adresse suivante: Greffe de la Cour fédérale, Ottawa, Canada.
+The
+Crown Liability and Proceedings Act
+, R.S.C. 1985, c. C-50:
+3. The Crown is liable for the damages for which, if it were a person, it would be liable
+(a) in the Province of Quebec, in respect of
+(i) the damage caused by the fault of a servant of the Crown, or
+(ii) the damage resulting from the act of a thing in the custody of or owned by the Crown or by the fault of the Crown as custodian or owner; and
+(b) in any other province, in respect of
+(i) a tort committed by a servant of the Crown, or
+(ii) a breach of duty attaching to the ownership, occupation, possession or control of property.
+10. No proceedings lie against the Crown by virtue of subparagraph 3(a)(i) or (b)(i) in respect of any act or omission of a servant of the Crown unless the act or omission would, apart from the provisions of this Act, have given rise to a cause of action for liability against that servant or the servant's personal representative or succession.
+23(1) Proceedings against the Crown may be taken in the name of the Attorney General of Canada or, in the case of an agency of the Crown against which proceedings are by an Act of Parliament authorized to be taken in the name of the agency, in the name of that agency.
+(2) Where proceedings are taken against the Crown, the document originating the proceedings shall be served on the Crown by serving it on the Deputy Attorney General of Canada or the chief executive officer of the agency in whose name the proceedings are taken, as the case may be.
+3. En matière de responsabilité, l'État est assimilé à une personne pour:
+a) dans la province de Québec:
+(i) le dommage causé par la faute de ses préposés,
+(ii) le dommage causé par le fait des biens qu'il a sous sa garde ou dont il est propriétaire ou par sa faute à l'un ou l'autre de ces titres;
+b) dans les autres provinces:
+(i) les délits civils commis par ses préposés,
+(ii) les manquements aux obligations liées à la propriété, à l'occupation, à la possession ou à la garde de biens.
+10. L'État ne peut être poursuivi, sur le fondement des sous-alinéas 3a)(i) ou b)(i), pour les actes ou omissions de ses préposés que lorsqu'il y a lieu en l'occurrence, compte non tenu de la présente loi, à une action en responsabilité contre leur auteur, ses représentants personnels ou sa succession.
+23(1) Les poursuites visant l'État peuvent être exercées contre le procureur général du Canada ou, lorsqu'elles visent un organisme mandataire de l'État, contre cet organisme si la législation fédérale le permet.
+(2) Dans les cas visés au paragraphe (1), la signification à l'État de l'acte introductif d'instance est faite au sous-procureur général du Canada ou au premier dirigeant de l'organisme concerné, selon le cas.
+[End of document]

@@ -1,0 +1,96 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Phelan, J.
+August 4, 2010.
+Counsel:
+Rocco Galati, for the applicant;
+Ada Mok and Gordon Lee, for the respondent.
+Solicitors of Record:
+Rocco Galati Law Firm, Professional Corporation, Toronto, Ontario, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+I.
+INTRODUCTION
+[1]
+Phelan, J.
+: The Applicant seeks judicial review of a negative Pre-Removal Risk Assessment (PRRA) on the grounds that the Officer erred in her interpretation and application of "new evidence" under s. 113
+(a)
+of the
+Immigration and Refugee Protection Act
+(IRPA). The issue that s. 113
+(a)
+is contrary to the
+Canadian
+Charter of Rights and Freedoms
+was abandoned.
+II.
+BACKGROUND
+[2]
+Mr. Wang, a citizen of China, claimed refugee protection upon his arrival in Canada on February 15, 2003. The basis of his claim was that he feared persecution on account of being a Christian and for his political opinions. Specifically, he alleged that he was wanted in China by the Public Security Bureau (PSB) for these reasons.
+[3]
+The Refugee Protection Division (RPD) rejected his refugee claim because of significant credibility concerns due to multiple inconsistencies between his oral testimony and his PIF. They also found his story to be implausible. This was particularly so in respect of his claim that a PSB summons had been left at his home but that his mother had torn it up.
+No application for judicial review was filed in respect of the RPD decision.
+[4]
+Subsequently the Applicant fathered two children, married and his wife was pregnant with a third child at the time of the PRRA decision. His wife attempted to sponsor Mr. Wang but this was rejected in February 2008 because of his significant criminal record which included failure to comply, break and enter, possession of break-in instruments and drug possession. A model candidate he was not.
+[5]
+The PRRA application was filed on September 11, 2009 and denied on October 15, 2009.
+[6]
+The PRRA decision noted the previous credibility issues at the RPD. The Officer found that the risk asserted was the same as that presented to the RPD. In particular, the allegation that Mr. Wang was wanted by the PSB had been the same claim as dealt with by the RPD.
+[7]
+The "new evidence" relied upon by the Applicant was a summons for him in China which post-dated the RPD decision and which was issued in September 2009, at the time of the PRRA application.
+[8]
+The Officer noted the grainy nature of the photocopy; the absence of evidence explaining how the document could have been transmitted to Toronto and translated so quickly when the Applicant had no family in China to receive the document; the convenient timing of the summons' arrival; and the listing of his address in China despite not having lived there for six years.
+[9]
+The Officer noted the Board's RIRs on the manufacture, production, distribution and use of fraudulent documents particularly in Fujian province (the Applicant's home province). The types of fraudulent documents covered included home residency cards, permits and identification documents but summons were not specifically listed.
+[10]
+Finally, the Officer noted that although country conditions showed continuing human rights abuses, the circumstances were not materially different from those at the time of the Applicant's RPD decision.
+III.
+ANALYSIS
+[11]
+It is by now somewhat trite law that the standard of review for a PRRA decision overall is reasonableness. However, where there are issues of law or procedural fairness within the PRRA decision, these must be determined on a standard of correctness. ( <FRAGMENT_SUPPRESSED> ;
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> )
+[12]
+It is unclear from the decision whether the Officer articulated the proper legal test in respect of "new evidence" under s. 113
+(a)
+. The Officer appears to suggest that an applicant can only raise a "new risk".
+[13]
+If that was the Officer's conclusion, it would be an error of law. Section 113
+(a)
+is clear on its face that in the circumstances of a rejected refugee claim, an applicant can only present
+new evidence
+that arose after the rejection, or was not reasonably available or could not reasonably be expected to be presented at the time of the rejection.
+113.
+Consideration of an application for protection shall be as follows:
+(
+a
+) an applicant whose claim to refugee protection has been rejected may present only new evidence that arose after the rejection or was not reasonably available, or that the applicant could not reasonably have been expected in the circumstances to have presented, at the time of the rejection;
+113.
+Il est disposé de la demande comme il suit:
+a
+) le demandeur d'asile débouté ne peut présenter que des éléments de preuve survenus depuis le rejet ou qui n'étaient alors pas normalement accessibles ou, s'ils l'étaient, qu'il n'était pas raisonnable, dans les circonstances, de s'attendre à ce qu'il les ait présentés au moment du rejet;
+[14]
+ <FRAGMENT_SUPPRESSED>  makes clear, the "new evidence" would include evidence that would have countered a finding by the RPD.
+[15]
+Despite the Officer's questionable articulation of the legal test, she in fact applied the correct test in dealing with the "new evidence" being the summons. Had it been otherwise, this Court would have granted the judicial review.
+[16]
+The Applicant claims that as credibility was in issue, pursuant to s. 113
+(a)
+of IRPA and s. 167 of the Regulations, the Applicant was entitled to a hearing interview.
+[17]
+Credibility was in issue here but not by virtue of the new evidence but because the RPD had found the Applicant to be not believable. It was the Applicant's burden to displace this finding with sufficient new evidence.
+[18]
+The Officer's treatment of the summons was correct in law and reasonable. She did not find the Applicant not to be credible in respect of the summons but that the creation and source of the document was questionable and its timing remarkably convenient.
+[19]
+In determining whether credibility was truly in issue, since the term is often loosely used to cover a broad range of admissibility issues, the Court must determine the true basis of the decision. In this case, the Officer's finding was as to the sufficiency of the evidence and the weight to be given to that evidence.
+[20]
+The factors considered including the RIRs were reasonable and relevant. Although summons was not listed as one of the types of fraudulent documents, it is logical that if almost all other types of government documents might be fraudulent, there is a reasonable chance that fraudulent summons might be created. Against that background, the Officer's conclusion as to sufficiency and probity was reasonable.
+IV.
+CONCLUSION
+[21]
+This application for judicial review will be dismissed. There is no question for certification.
+JUDGMENT
+[22]
+THIS COURT ORDERS AND ADJUDGES that
+the application for judicial review is dismissed.
+[End of document]

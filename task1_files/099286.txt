@@ -1,0 +1,189 @@
+ <FRAGMENT_SUPPRESSED>  CF 1514)
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Bédard, J.
+December 19, 2012.
+Counsel:
+[None disclosed].
+Solicitors of Record:
+[None disclosed].
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2012] F.T.R. TBEd. DE.053. Any footnotes found in this case will appear below end of document.
+[1]
+Bédard, J.
+: The plaintiff is an inmate in a federal penitentiary in Edmonton, Alberta. On July 16, 2012, he filed a Statement of Claim seeking damages in relation to the tort of misfeasance in public office that has allegedly been committed by some Correctional Service of Canada (CSC) representatives. The Statement of Claim initially identified the Attorney General of Canada as the defendant, but the style of cause was amended by this Court in an Order issued by Justice Mosley on November 7, 2012. The respondent moves for an Order under Rule 221(1)(a) of the
+Federal Courts Rules
+[the Rules], striking the Statement of Claim, without leave to amend, for failing to disclose a reasonable cause of action [the Motion to Strike].
+I.
+Context
+[2]
+The plaintiff commenced this action following the issuance of a judgment of this Court allowing an application for the judicial review of a decision regarding a grievance filed by the plaintiff (
+ <FRAGMENT_SUPPRESSED>  (available on CanLII)).
+[3]
+The plaintiff's grievance challenged an Assessment for Decision, dated October 3, 2008, that contained two recommendations: (1) that his request for an institutional transfer be refused; and (2) that his Institute Adjustment Score be increased. Both recommendations were eventually adopted in a decision dated March 5, 2008, made by the acting warden. The plaintiff's grievance wound its way through the internal grievance procedure and was eventually dealt with at the third, and final, level where the plaintiff raised several issues. Four of the issues raised by the plaintiff were rejected by the Assistant Commissioner for not having been raised at the lower levels of the grievance procedure.
+[4]
+The plaintiff filed an application for judicial review challenging that decision. He claimed that the decision was made in breach of his right to procedural fairness because he had not been provided with the Executive Summary recommendations, prepared by Analyst Dwight Lalonde, prior to the making of the decision, and he had not been given an opportunity to explain why he was not able to raise the "new" issues at the lower levels of the grievance procedure. The plaintiff also claimed that the Assistant Commissioner violated subsection 27(1) of the
+Corrections and Conditional Release Act
+, SC 1992, c 20 [the Act], which states that when an offender is entitled to make representations in relation to a decision affecting him that is to be taken by CSC, he should be provided with the information that is to be considered in the decision-making process.
+[5]
+The Court allowed the judicial review and set aside the third-level grievance decision. The judge found that CSC's representatives had not complied with subsection 27(1) of the Act and had breached the plaintiff's right to be treated fairly. The judge further found that CSC's representatives had failed to comply with paragraph 37 of Commissioner's Directive 81, which directed the decision maker to provide the grievor with a complete response to all the issues that he had submitted.
+[6]
+The plaintiff subsequently commenced this action.
+II.
+The plaintiff's pleading
+[7]
+In his Statement of Claim, the plaintiff claims that the Analyst and the Assistant Commissioner committed the tort of misfeasance in public office. The Statement of Claim contains allegations that revolve around the following: (1) the Analyst and the Assistant Commissioner were aware of the provisions of the Act and of the Commissioner's Directives and it was their duty to carry out their responsibilities in accordance with them; (2) they failed to abide by the Act and by Directive 81, forcing the plaintiff to challenge the decision dismissing his grievance before this Court; (3) CSC's representatives would need to be wilfully blind or reckless not to be aware of the harm they caused to the plaintiff; and (4) they acted in bad faith.
+[8]
+Rule 221(1) of the Rules provides that the Court may strike a pleading if it"discloses no reasonable cause of action". The stringent test for striking out a Statement of Claim on that basis is whether, taking the facts as pleaded, it is "plain and obvious" that the action discloses no reasonable cause of action. This test was reiterated by the Supreme Court in
+R v Imperial Tobacco Canada Ltd.
+, 2011 SCC 42 at para 17, [2011] 3 SCR 45, where Justice McLachlin stressed that "[w]here a reasonable prospect of success exists, the matter should be allowed to proceed to trial".
+[9]
+The Court also insisted, at paragraph 22, that the claimant must clearly plead the facts supporting the claim:
+[...] It is incumbent on the claimant to clearly plead the facts upon which it relies in making its claim. A claimant is not entitled to rely on the possibility that new facts may turn up as the case progresses. The claimant may not be in a position to prove the facts pleaded at the time of the motion. It may only hope to be able to prove them. But plead them it must. The facts pleaded are the firm basis upon which the possibility of success of the claim must be evaluated. If they are not pleaded, the exercise cannot be properly conducted.
+[10]
+It is also well established that the Court must read the pleading generously with a view to accommodating drafting deficiencies (
+ <FRAGMENT_SUPPRESSED> (available on QL) [ <FRAGMENT_SUPPRESSED> ],
+ <FRAGMENT_SUPPRESSED> (available on CanLII)). This, however, does not exempt the claimant from pleading the material facts supporting the claim. Bare assertions and conclusions are not sufficient.
+[11]
+In <FRAGMENT_SUPPRESSED> , at para 15, Justice Snider, summarized as follows this requisite:
+The jurisprudence also establishes that a statement of claim does not disclose a cause of action where it contains bare assertions, but no facts on which to base those assertions (
+ <FRAGMENT_SUPPRESSED>  (CA)). Moreover, a conclusion of law pleaded without the requisite factual underpinning to support the legal conclusions asserted is defective, and may be struck out as an abuse of Court (
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], as in this case, the issue related to the striking of a Statement of Claim for want of disclosing a reasonable cause of action. As in this case, the tort of misfeasance in public office was claimed. The Court indicated that the primary question in dealing with the Motion to Strike was "whether the statement of claim pleads each of the constituent elements of the tort" (para 33).
+[13]
+The Supreme Court discussed the constituent elements of the tort of misfeasance of a public office and stated that there are two essential elements to the tort. Defining those elements, the Court wrote as follows at para 23:
+In my view, there are two such elements. First, the public officer must have engaged in deliberate and unlawful conduct in his or her capacity as a public officer. Second, the public officer must have been aware both that his or her conduct was unlawful and that it was likely to harm the plaintiff. [...]
+[14]
+The Court expanded and stated that the essential ingredient was "whether the alleged misconduct is deliberate and unlawful" (para 24). The Court then offered further clarification, indicating that "misfeasance in a public office requires an element of 'bad faith' or 'dishonesty'" and that knowledge of harm is insufficient to conclude that a public officer acted in bad faith or dishonestly (para 28).
+[15]
+This Court must determine whether the applicant's Statement of Claim pleads each element of the alleged tort of misfeasance in public office. In addition to the principles set out in the jurisprudence with respect to the test for striking out pleadings, the Court must consider Rules 174 and 181 of the Rules. Rule 174 requires that every pleading "contain a concise statement of the material facts on which the party relies". The first paragraph of Rule 181 requires that allegations be particularized. It reads as follows:
+181. Particulars - A pleading shall contain particulars of every allegation contained therein, including
+(a) particulars of any alleged misrepresentation, fraud, breach of trust, wilful default or undue influence; and
+(b) particulars of any alleged state of mind of a person, including any alleged mental disorder or disability, malice or fraudulent intention.
+[16]
+ <FRAGMENT_SUPPRESSED>  NR 160, the Federal Court of Appeal was seized with a situation somewhat similar to the situation in this case. The allegation of misfeasance in a public office was articulated as follows at para 32:
+Since 1992, the Government sought collection contrary to legislation, regulation, and its own policies, knowing that its conduct was unlawful and likely to injure the Class. In particular, for the purposes of harassing and injuring the Collector Subclass, and in bad faith, the Government ignored P-182R, P-209, and other interpretation and policy instruments.
+[17]
+Justice Stratas, writing for the Court, discussed the sufficiency of the pleading and offered some guidance with respect to allegations of bad faith. His remarks read as follows:
+[34] I agree with the Federal Court's observation (at paragraph 26) that paragraph 12 of the amended statement of claim "contains a set of conclusions, but does not provide any material facts for the conclusions." When pleading bad faith or abuse of power, it is not enough to assert, baldly, conclusory phrases such as "deliberately or negligently," "callous disregard," or "by fraud and theft did steal":
+ <FRAGMENT_SUPPRESSED>  (F.C.A.). "The bare assertion of a conclusion upon which the court is called upon to pronounce is not an allegation of material fact":
+ <FRAGMENT_SUPPRESSED> . If the requirement of pleading material facts did not exist in Rule 174 or if courts did not enforce it according to its terms, parties would be able to make the broadest, most sweeping allegations without evidence and embark upon a fishing expedition. As this Court has said, "an action at law is not a fishing expedition and a plaintiff who starts proceedings simply in the hope that something will turn up abuses the court's process":
+ <FRAGMENT_SUPPRESSED> , 176 N.R. 68 at paragraph 4 (F.C.A.).
+[35] To this, I would add that the tort of misfeasance in public office requires a particular state of mind of a public officer in carrying out the impunged action, i.e., deliberate conduct which the public officer knows to be inconsistent with the obligations of his or her office
+:  <FRAGMENT_SUPPRESSED> . For this tort, particularization of the allegations is mandatory. Rule 181 specifically requires particularization of allegations of "breach of trust," "wilful default," "state of mind of a person," "malice" or "fraudulent intention."
+[18]
+These principles apply to the case at bar. The Statement of Claim contains bald allegations that are purely speculative, not particularized, and not supported by facts. It does not disclose any facts that, if proven, could support a conclusion of misfeasance in a public office. To be more specific, the Statement of Claim does not disclose any facts that could support a conclusion that CSC's representatives
+deliberately
+failed to deal with the plaintiff's grievance in accordance with the Act and the Commissioner's Directives or that
+they were aware
+that their conduct was unlawful and likely to harm the plaintiff.
+[19]
+In his Responding Motion Record, the plaintiff claims that his Statement of Claim is sufficiently particularized to disclose a reasonable cause of action. However, at the same time, he argues that he still has the opportunity to amend his Statement of Claim, without leave, until a defence is filed. He also adds that the defendants should have asked for particulars under Rule 181(2) of the Rules rather then seeking the dismissal of the action.
+[20]
+First, for the reasons expressed above, the Court is of the view that the plaintiff's Statement of Claim is insufficient to disclose a reasonable cause of action, and that it does not comply with Rules 174 and 181, as it is not particularized and does not set out the material facts in support of the bald allegations of deliberate unlawful conduct and awareness of the injury caused to the plaintiff.
+[21]
+Second, the Court has to assess the sufficiency of the Statement of Claim that is on the record without speculating as to what the plaintiff may eventually add to it through an amendment. The filing of the respondent's Motion to Strike gave the applicant an indication of the concerns that his Statement of Claim may have raised. In addition, in the Order issued on November 7, 2012, the Court clearly informed the plaintiff that his Statement of Claim, as filed, failed to disclose a viable cause of action. Justice Mosley wrote the following:
+[...] The plaintiff must understand, however, that on the basis of the record thus far his Statement of Claim does not contain a viable cause of action and should he fail to demonstrate that there is one and seek an amendment to the Statement of Claim, it will be struck and the action dismissed.
+[22]
+Despite the Court's
+mise en garde
+, the plaintiff has not amended his Statement of Claim.The plaintiff's Responding Motion Record cannot supplement or replace a defective Statement of Claim. Moreover, even if the Court was to consider the factual allegations contained in the plaintiff's Responding Motion Record as if they were included in the Statement of Claim, or was to allow the plaintiff to amend is Statement of Claim accordingly, the Court would reach the same conclusion.
+[23]
+The plaintiff essentially claims in his written representations that it was the duty of CSC's representatives to know the Act, the Regulations and the Commissioner's Directives and that, by not abiding by them, they acted intentionally. The plaintiff claims that CSC'S representatives cannot plead ignorance of the law. With respect, I am of the view that it is not sufficient to allege that because it was the responsibility of CSC's representatives to deal with the applicant's grievance in accordance with the Act, Regulations and Directives, there is an inference that, in violating them, they acted deliberately and in bad faith and they knew that their conduct was unlawful and likely to harm the plaintiff. In order to proceed to trial, those kinds of allegations must be supported by facts that, if proven, would allow the Court to concluded that CSC's representatives acted in a deliberate manner and knew that their conduct was unlawful and likely to injure the plaintiff. The Statement of Claim, as filed, is insufficient to support such conclusions.
+[24]
+Finally, while Rule 181(2) provides a party the opportunity, on motion, to request that another party be ordered to provide "further and better particulars of any allegation in its pleading", this possibility does not exempt the plaintiff from his initial obligation to file a Statement of Claim that contains "a concise statement of the material facts on which [he] relies" (Rule 174) and to provide "particulars of every allegation" (Rule 181(1)), especially when bad faith is alleged.
+[25]
+I therefore conclude that the Statement of Claim does not disclose a reasonable cause of action as it does not have a reasonable chance of success. Furthermore, I am of the view that the plaintiff should not be authorized to amend his Statement of Claim. As stated above, the plaintiff was previously invited by the Court to amend his Statement of Claim and he chose not to do so. In addition, the factual allegations contained in the plaintiff's written representations submitted in reply to the defendant's Motion to Strike could not salvage his Statement of Claim. They remain insufficient to form the basis of a conclusion that the tort of misfeasance in public office has been committed.
+ORDER
+[26]
+THIS COURT ORDERS that the motion be granted, without leave to amend, and that the action be dismissed with costs in favour of the defendant.
+.........................
+ <FRAGMENT_SUPPRESSED>  pénitencier fédéral à Edmonton (Alberta). Le 16 juillet 2012, il a produit une déclaration en vue d'obtenir des dommages-intérêts pour un délit de faute dans l'exercice d'une charge publique qu'il impute à certains représentants du Service correctionnel du Canada (SCC). La déclaration désignait initialement le procureur général du Canada comme le défendeur, mais l'intitulé a été modifié par la Cour dans une ordonnance délivrée par le juge Mosley le 7 novembre 2012. La défenderesse sollicite, au titre de l'alinéa 221(1)
+a
+) des
+Règles des Cours fédérales
+[les Règles], une ordonnance en radiation de la déclaration, sans autorisation de la modifier, au motif qu'elle ne révèle aucune cause d'action valable [la requête en radiation].
+I.
+Contexte
+[2]
+Le demandeur a intenté la présente action après que la Cour eut rendu un jugement faisant droit à la demande de contrôle judiciaire visant la décision relative au grief qu'il avait déposé (
+ <FRAGMENT_SUPPRESSED>  (disponible sur CanLII)).
+[3]
+Dans son grief, le demandeur contestait l'Évaluation en vue d'une décision, datée du 3 octobre 2008, qui contenait deux recommandations: 1) refuser sa demande de transfèrement interpénitentiaire; 2) modifier à la hausse son pointage d'adaptation à l'établissement. Les deux recommandations ont finalement été adoptées dans une décision de la directrice intérimaire datée du 5 mars 2008. Le grief a suivi son cours conformément à la procédure interne de règlement des griefs, et a fini par être tranché au troisième et dernier palier, étape à laquelle le demandeur a soulevé plusieurs questions. Quatre d'entre elles ont été rejetées par le commissaire adjoint au motif qu'elles n'avaient pas été soulevées aux paliers inférieurs.
+[4]
+Le demandeur a déposé une demande de contrôle judiciaire à l'encontre de cette décision. Il soutenait qu'elle enfreignait son droit à l'équité procédurale parce qu'on ne lui avait pas communiqué, avant de la rendre, les recommandations contenues dans le résumé administratif préparé par l'analyste Dwight Lalonde, ni permis d'expliquer pourquoi il n'avait pas pu soulever les « nouvelles » questions aux paliers inférieurs de la procédure de règlement des griefs. Le demandeur soutenait également que le commissaire adjoint avait contrevenu au paragraphe 27(1) de la
+Loi sur le système correctionnel et la mise en liberté sous condition
+, LC 1992, c 20 [la Loi], en vertu duquel le SCC qui doit rendre une décision au sujet d'un délinquant est tenu, lorsque celui-ci a le droit de présenter des observations, de lui communiquer les renseignements entrant en ligne de compte dans le processus décisionnel.
+[5]
+La Cour a fait droit au contrôle judiciaire et a annulé la décision rendue au troisième palier de la procédure des griefs. Le juge a estimé que les représentants du SCC avaient enfreint le paragraphe 27(1) de la Loi et avaient porté atteinte au droit du demandeur à un traitement équitable. Le juge a également conclu que les représentants du SCC avaient contrevenu à l'article 37 de la Directive du commissaire no 81, qui enjoint au décideur de répondre pleinement à toutes les questions soumises par le plaignant.
+[6]
+Le demandeur a par la suite intenté la présente action.
+II.
+Le plaidoyer du demandeur
+[7]
+Dans sa déclaration, le demandeur soutient que l'analyste et le commissaire adjoint ont commis un délit de faute dans l'exercice d'une charge publique. La déclaration contient les allégations suivantes: 1) l'analyste et au commissaire adjoint connaissaient les dispositions de la Loi et les directives du commissaire et il leur incombait de s'y conformer dans l'exercice de leurs fonctions; 2) ils n'ont respecté ni la Loi ni la Directive no 81, ce qui a forcé le demandeur à contester devant la Cour la décision par laquelle son grief a été rejeté; 3) les représentants du SCC doivent avoir fait preuve de négligence ou d'aveuglement volontaire pour ne pas réaliser qu'ils causaient préjudice au demandeur; 4) ils ont agi de mauvaise foi.
+[8]
+Le paragraphe 221(1) des Règles prévoit que la Cour peut radier un acte de procédure s'il « ne révèle aucune cause d'action [...] valable ». Le critère rigoureux à remplir en l'occurrence consiste à déterminer si, compte tenu des faits plaidés, il est « évident et manifeste » que l'action ne révèle aucune cause d'action valable. Ce critère a été entériné par la Cour suprême dans l'arrêt
+R c Imperial Tobacco Canada Ltée
+, 2011 CSC 42, par 17, [2011] 3 RCS 45, où la juge McLachlin insiste sur le fait que « la demande doit n'avoir aucune possibilité raisonnable d'être accueillie. Sinon, il faut lui laisser suivre son cours ».
+[9]
+Au paragraphe 22, la Cour souligne également que le demandeur doit clairement plaider les faits sur lesquels il appuie sa demande:
+[...] Il incombe au demandeur de plaider clairement les faits sur lesquels il fonde sa demande. Un demandeur ne peut compter sur la possibilité que de nouveaux faits apparaissent au fur et à mesure que l'instruction progresse. Il peut arriver que le demandeur ne soit pas en mesure de prouver les faits plaidés au moment de la requête. Il peut seulement espérer qu'il sera en mesure de les prouver. Il doit cependant les plaider. Les faits allégués sont le fondement solide en fonction duquel doit être évaluée la possibilité que la demande soit accueillie. S'ils ne sont pas allégués, l'exercice ne peut pas être exécuté adéquatement.
+[10]
+Il est également bien établi que la Cour doit interpréter l'acte de procédure de manière généreuse, en restant conciliante à l'égard des lacunes de rédaction (
+ <FRAGMENT_SUPPRESSED> (disponible sur QL) [ <FRAGMENT_SUPPRESSED> ],
+ <FRAGMENT_SUPPRESSED> (disponible sur CanLII)). Cependant, cela ne dispense pas le demandeur de plaider les faits importants sur lesquels la demande est fondée. Il ne suffit pas d'avancer de simples affirmations ou conclusions.
+[11]
+Dans la décision <FRAGMENT_SUPPRESSED> , au paragraphe 15, la juge Snider résumait ainsi cette exigence:
+[traduction] La jurisprudence établit aussi qu'une déclaration contenant de simples affirmations, mais ne faisant état d'aucun fait susceptible de les étayer, ne révèle aucune cause d'action (
+ <FRAGMENT_SUPPRESSED>  (CA)). De plus, la conclusion de droit qui n'est pas appuyée par les faits requis est viciée et peut être radiée au motif qu'elle constitue un abus de procédure (
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], le litige concernait, comme en l'espèce, la radiation d'une déclaration pour absence de cause d'action valable, et une allégation de délit de faute dans l'exercice d'une charge publique. La Cour a indiqué que, dans le cadre d'une requête en radiation, il s'agissait essentiellement de savoir « si on a allégué dans la déclaration tous les éléments constitutifs du délit » (par 33).
+[13]
+La Cour suprême a analysé les éléments constitutifs du délit de faute dans l'exercice d'une charge publique, et a indiqué qu'il comprenait deux éléments essentiels, qu'elle définit ainsi au paragraphe 23:
+Il existe à mon avis deux éléments communs. Premièrement, le fonctionnaire public doit avoir agi en cette qualité de manière illégitime et délibérée. Deuxièmement, le fonctionnaire public doit avoir été conscient du caractère non seulement illégitime de sa conduite, mais aussi de la probabilité de préjudice à l'égard du demandeur [...]
+[14]
+La Cour poursuit et déclare que la question principale est de savoir « si l'inconduite alléguée revêt un caractère illégitime et délibéré » (paragraphe 24). Elle précise ensuite que« la faute dans l'exercice d'une charge publique nécessite un élément de"mauvaise foi" ou de "malhonnêteté" » et que la connaissance du préjudice ne permet pas de conclure que le fonctionnaire public a agi de mauvaise foi ou de façon malhonnête (par 28).
+[15]
+La Cour doit déterminer si chaque élément du délit de faute dans l'exercice d'une charge publique a été plaidé dans la déclaration du demandeur. En plus des principes énoncés dans la jurisprudence concernant le critère relatif à la radiation d'actes de procédure, la Cour doit examiner les articles 174 et 181 des Règles. L'article 174 exige que tout acte de procédure « contien[ne] un exposé concis des faits substantiels sur lesquels la partie se fonde », et le premier paragraphe de l'article 181 que les allégations soient précisées:
+181. Précisions - L'acte de procédure contient des précisions sur chaque allégation, notamment:
+a
+) des précisions sur les fausses déclarations, fraudes, abus de confiance, manquements délibérés ou influences indues reprochés;
+b
+) des précisions sur toute allégation portant sur l'état mental d'une personne, tel un déséquilibre mental, une incapacité mentale ou une intention malicieuse ou frauduleuse.
+[16]
+Dans l'arrêt
+ <FRAGMENT_SUPPRESSED>  RN 160, la Cour d'appel fédérale était saisie d'un cas assez comparable à celui qui nous occupe. L'allégation de faute dans l'exercice d'une charge publique était présentée en ces termes au paragraphe 32:
+Depuis 1992, le gouvernement a effectué la perception en violation de la loi, des règlements et de ses propres politiques en étant pleinement conscient qu'il agissait illégalement et qu'il risquait de porter préjudice à cette catégorie de personnes. Plus particulièrement, le gouvernement a agi de mauvaise foi et a ignoré les publications P-182R, P-209 et autres documents d'interprétation et de politique dans le but de harceler le groupe des contribuables et de leur porter préjudice.
+[17]
+Le juge Stratas, s'exprimant au nom de la Cour, a évoqué le caractère suffisant de l'acte de procédure et fourni quelques indications concernant les allégations de mauvaise foi. Voici ses remarques:
+[34] Je suis d'accord avec l'observation de la Cour fédérale (au paragraphe 26) voulant que le paragraphe 12 de la déclaration modifiée [traduction] « contienne une série de conclusions ne fournissant aucun fait substantiel pour les appuyer ».Lorsqu'on plaide la mauvaise foi ou l'abus de pouvoir, il ne suffit pas d'utiliser des formulations laconiques et catégoriques telles que [traduction] « délibérément ou négligemment »,« indifférence complète » ou « s'est procuré illégalement par le vol ou la fraude »:
+ <FRAGMENT_SUPPRESSED>  (C.A.F.). « La simple affirmation d'une conclusion sur laquelle la Cour est appelée à se prononcer ne constitue pas une allégation d'un fait essentiel »:
+ <FRAGMENT_SUPPRESSED> . Si l'exigence prévoyant qu'un acte de procédure doit contenir des faits substantiels ne figurait pas à l'article 174 des Règles ou si les tribunaux ne la faisaient pas respecter, les parties pourraient faire valoir les arguments les plus vagues sans aucun élément de preuve pour les étayer et lancer leur filet à l'aveuglette. Comme l'a affirmé notre Cour, « une action en justice n'est pas une enquête à l'aveuglette et une partie demanderesse qui intente des poursuites en se fondant sur le simple espoir qu'elles lui fourniront des preuves justifiant ses prétentions utilise les procédures de la Cour de façon abusive »:
+ <FRAGMENT_SUPPRESSED> , 176 N.R. 68, au paragraphe 4 (C.A.F.).
+[35] J'ajouterais que le délit de faute dans l'exercice d'une charge publique implique que le fonctionnaire public responsable de l'action contestée ait été dans un état mental particulier, c'est-à-dire qu'il doit avoir agi délibérément d'une manière qu'il savait incompatible avec les obligations propres à ses fonctions:
+ <FRAGMENT_SUPPRESSED> . Pour ce délit, des précisions doivent être fournies pour chaque allégation. L'article 181 exige explicitement que des précisions soient fournies pour les allégations d'« abus de confiance », de « manquements délibérés », d'« état mental d'une personne », d'« intention malicieuse » ou d'« intention frauduleuse ».
+[18]
+Ces principes s'appliquent au cas qui nous occupe. La déclaration contient des allégations laconiques et purement hypothétiques, non spécifiées et non appuyées par des faits. Elle ne révèle aucun fait qui, s'il était prouvé, permettrait de conclure qu'il y a eu faute dans l'exercice d'une charge publique. Pour être plus précis, la déclaration ne révèle aucun fait de nature à établir que les représentants du SCC ont
+délibérément
+négligé d'examiner le grief du demandeur conformément à la Loi et aux directives du commissaire, ou qu'
+ils étaient conscients
+que leur conduite était illégale et susceptible de porter préjudice au demandeur.
+[19]
+Dans son dossier de requête déposé en réponse, le demandeur soutient que sa déclaration est assez détaillée pour établir une cause d'action valable. Cependant, il fait valoir en même temps qu'il peut toujours la modifier, sans autorisation, tant qu'une défense n'a pas été soumise. Il ajoute que les défendeurs auraient dû réclamer des détails au titre du paragraphe 181(2) des Règles plutôt que le rejet de l'action.
+[20]
+Premièrement, pour les motifs exposés plus haut, la Cour est d'avis que la déclaration du demandeur n'est pas suffisamment détaillée pour établir une cause d'action valable et qu'elle n'est pas conforme aux articles 174 et 181 des Règles, en ce qu'elle ne contient pas de précisions et n'expose pas les faits substantiels sur lesquels reposent les simples allégations de conduite illégitime et délibérée, et de connaissance du préjudice causé au demandeur.
+[21]
+Deuxièmement, la Cour doit évaluer le caractère suffisant de la déclaration qui se trouve au dossier, sans conjecturer sur ce que le demandeur pourrait y ajouter en la modifiant. Le dépôt de la requête en radiation de la défenderesse a donné au demandeur une idée des préoccupations que sa déclaration a pu soulever. De plus, dans l'ordonnance qu'elle a rendue le 7 novembre 2012, la Cour a clairement informé le demandeur que sa déclaration, telle que produite, ne révélait pas une cause d'action valable. Le juge Mosley a déclaré ce qui suit:
+[traduction] [...] Le demandeur doit comprendre toutefois que d'après l'état actuel du dossier, sa déclaration ne révèle aucune cause d'action valable, et que s'il ne réussit pas à en établir une et qu'il cherche à faire modifier sa déclaration, celle-ci sera radiée et l'action rejetée.
+[22]
+Malgré la mise en garde de la Cour, le demandeur n'a pas modifié sa déclaration. Le dossier de requête qu'il a produit en réponse ne saurait compléter ou remplacer une déclaration viciée. De plus, même si elle devait considérer les allégations factuelles qu'il contient comme faisant partie de la déclaration, ou autoriser le demandeur à modifier sa déclaration en conséquence, la Cour parviendrait à la même conclusion.
+[23]
+Le demandeur soutient essentiellement dans ses observations écrites qu'il incombait aux représentants du SCC de connaître la Loi, le Règlement et les directives du commissaire, et qu'ils ont agi intentionnellement en ne s'y conformant pas. Il prétend que ces derniers ne peuvent plaider l'ignorance de la loi. J'estime respectueusement qu'il ne suffit pas d'alléguer que les représentants du SCC devaient traiter son grief conformément à la Loi, au Règlement et aux directives, et qu'ils ont manqué de le faire, pour inférer qu'ils ont agi délibérément et de mauvaise foi, et qu'ils savaient que leur conduite était illégale et susceptible de porter préjudice au demandeur. Pour que l'affaire puisse être instruite, ce genre d'allégation doit reposer sur des faits qui, s'ils étaient prouvés, permettraient à la Cour de conclure que les représentants du SCC ont agi délibérément et savaient que leur conduite était illégale et susceptible de porter préjudice au demandeur. La déclaration, telle que produite, est insuffisante pour justifier pareilles conclusions.
+[24]
+Enfin, même si, en vertu du paragraphe 181(2) des Règles et sur requête, une partie peut demander qu'il soit ordonné à l'autre partie de fournir « des précisions supplémentaires sur toute allégation figurant dans l'un de ses actes de procédures », cela ne dispense pas le demandeur de son obligation initiale de déposer une déclaration contenant « un exposé concis des faits substantiels sur lesquels [il] se fonde » (article 174 des Règles) et d'avancer « des précisions sur chaque allégation » (paragraphe 181(1) des Règles), surtout lorsque la mauvaise foi est invoquée.
+[25]
+Par conséquent, je conclus que la déclaration ne révèle pas de cause d'action valable parce qu'elle n'a pas de chance raisonnable de succès. Par ailleurs, j'estime que le demandeur ne devrait pas être autorisé à modifier sa déclaration. Comme je l'ai indiqué plus haut, il a déjà été invité à le faire par la Cour et a choisi de ne pas agir. De plus, les allégations factuelles contenues dans ses observations écrites faisant réponse à la requête en radiation de la défenderesse ne pouvaient sauver sa déclaration. Elles restent insuffisantes pour conclure qu'un délit de faute dans l'exercice d'une charge publique a été commis.
+ORDONNANCE
+[26]
+LA COUR ORDONNE que
+la requête soit accueillie, sans autorisation de la modifier, et que l'action soit rejetée avec dépens en faveur de la défenderesse.
+[End of document]

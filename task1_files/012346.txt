@@ -1,0 +1,456 @@
+A. Introduction
+[1]
+Evans, J.
+: This is an appeal under s. 56 of the
+Trade-marks Act
+, R.S.C. 1985, c. T-13 by Novopharm Ltd. against a decision by the Registrar of Trademarks dated December 23, 1996. In this decision the Registrar rejected Novopharm's opposition to Bayer Inc.'s Canadian Trademark Application No. 657,397 for the trademark CIRCLE DESIGN for use in association with "pharmaceutical preparations, namely, nifedipine".
+[2]
+Bayer had first filed an application for the mark in 1990 and amended it in 1991.
+[3]
+Novopharm alleges that the Registrar erred in rejecting its opposition because the trademark application failed to comply with statutory requirements of both form and substance, and because the evidence did not support his finding that the mark in fact distinguished Bayer's nifedipine tablets from other pharmaceutical products on the market.
+[4]
+Counsel did not take issue with the orthodox learning that, on an appeal from the Registrar, the decision is reviewable on a standard of correctness, although in exer­cising its appellate jurisdiction the court should not lightly reverse a decision made by hearing officers who have extensive experience in adjudicating opposition to applications for trademarks:
+ <FRAGMENT_SUPPRESSED>  C.P.R. 207 (T.D.), affd. (1992), 139 N.R. 319 (F.C.A.).
+[5]
+More recently, however, in
+ <FRAGMENT_SUPPRESSED>  (T.D.), Lutfy, J., perceptively noted that it may be time to rethink or to reformulate the standard of review in trademark appeals as a result of contemporary administrative law jurispru­dence on the standard of review applicable to decisions of specialist tribunals. The apparent contradiction between the two halves of the statement of the law contained in the previous paragraph would also suggest that such an exercise would be timely.
+[6]
+Despite this, the doctrine of curial defer­ence can have little application to those findings by the Registrar on which signifi­cant new evidence has been adduced before the court under s. 56(5) of the
+Act
+. The evidence before me which was not before the Registrar, particularly on the crucial issue of the distinctiveness of the mark (see the affidavits at tabs A, B, C, and D of the applicant's application record) was suffi­ciently significant to satisfy me that correct­ness is the applicable standard in this case.
+[7]
+Accordingly, even though the new affi­davits filed on behalf of Novopharm seem not to have been the subject of cross-exami­nation, this case does not provide the occa­sion for taking up the challenge offered by Lutfy, J., in
+Young  <FRAGMENT_SUPPRESSED> .
+B. Some Factual Background
+[8]
+Bayer first started selling nifedipine in Canada in 1982 in yellow capsules, which it marketed under the brand name ADALAT. In 1987, using the same brand name, it commenced manufacturing the product in extended-release tablets which were dusty rose in colour and round in shape with biconvex sides. These tablets are the wares with which the mark CIRCLE DESIGN is associated.
+[9]
+When Bayer started to sell nifedipine in the form of extended-release tablets they came in one size containing a dosage of 20 mg. However, it later produced tablets of differing dosage and size: a 10 mg tablet similar in size to the 20 mg, and 30 mg and 60 mg tablets which are considerably larger than the 10 mg and 20 mg tablets.
+[10]
+Nifedipine has only ever been available in Canada on the prescription of a physician. It is used for the treatment of high blood pressure and angina. The tablets are supplied to pharmacists in stock bottles and packaging that prominently display the brand name ADALAT and the manufacturer's name.
+[11]
+When Novopharm filed its opposition to the trademark application in 1992 Bayer was the only supplier in Canada of extended-release nifedipine, which was not inter­changeable with any other pharmaceutical product. That is, when ADALAT, or extended-release nifedipine tablets were prescribed by a physician, pharmacists could only dispense the Bayer product. These tablets have enjoyed significant commercial success: by mid 1993 Bayer had achieved sales in Canada of almost $373 million.
+C. The Registrar's Decision
+1. Defects In The Application
+[12]
+The trademark CIRCLE DESIGN was described in the amended application as follows:
+"The trademark consists of the colour dusty rose applied to the whole of the visible surface of the tablets, as shown in the specimen tablet affixed to the form of the application. The tablet shown in the dotted outline does not form part of the trademark."
+A 10 mg tablet of ADALAT was filed with the Trademark Office as a specimen.
+[13]
+The drawing included in the original application was of a circle with a solid line circumference and hatched with vertical lines which, s. 28(2) of the
+Trade-marks Regula­tions
+states, are to be used to designate the colour pink.
+[14]
+The application was amended and another drawing was substituted in order to make it consistent with the verbal descrip­tion: the solid line circumference was replaced by a dotted line. Unfortunately, as one error was corrected another was com­mitted. The drawing of the mark included in the amended application showed hatching in horizontal lines instead of vertical: under the
+Regulations
+horizontal lines denote the colour blue.
+[15]
+The advertisement that appeared in the
+Trade-marks Journal
+was even more inapt, and compounded the errors in both the original and the amended applications: the drawing of the mark showed both a
+solid
+line circumference and
+horizontal
+hatching. The verbal description was essentially the same as in the amended application, except that it omitted any reference to the filing of a specimen with the Trademark Office.
+[16]
+The Registrar held that these defi­ciencies did not invalidate the application. At the opposition hearing both parties fully understood that the application was for a mark of the colour pink as applied to the surfaces of a tablet, and that a specimen had been filed with the Office. Consequently, he concluded, no prejudice had been caused since no one had been misled by the errors contained in either the amended application or the advertisement placed in the
+Journal
+for the purposes of opposition.
+[17]
+The Registrar went on to hold that the application complied with s. 30(h) of the
+Act
+because it included "a drawing accurately representing at least one perspective of a tablet", and the verbal description of the mark in the application referred to a speci­men that had been filed with the Office.
+[18]
+The Registrar also raised a question about the claim in the application that the first use of the mark was in 1987. This claim was not strictly accurate because it was not until 1989 that Bayer had started to sell the 10 mg tablet, the specimen filed with the Office. However, since 1987 it had been marketing a 20 mg tablet which was only slightly larger than the 10 mg tablet.
+[19]
+Accordingly, the Registrar held that no prejudice would be caused by permitting Bayer to rely on its use of the mark since 1987 in association with the 20 mg tablet in order to support the trademark application for the 10 mg tablet. The 20 mg tablets continued to be sold after the introduction of the other sizes. This was sufficient to satisfy the requirement in s. 30(b) of the
+Act
+that the application include the date when the mark was first used in association with the wares described in the application.
+2. Can A Colour Be A "Trademark"?
+[20]
+Novopharm had also opposed the appli­cation on the ground that the claimed mark was for a colour, dusty rose, and that a colour is not capable or constituting a trade­mark for the purposes of the
+Act
+.
+[21]
+The Registrar rejected this argument since the mark applied for was for the colour dusty rose
+as applied to the surface of a tablet of a particular size and shape
+. The colour was thus only one feature of the mark and, as such, could constitute a trademark: at
+ <FRAGMENT_SUPPRESSED> ; 9 F.T.R. 129, at p. 636  <FRAGMENT_SUPPRESSED>  (T.D.).
+3. Confusion With Existing Trademarks
+[22]
+Section 16(1)(c) of the
+Act
+provides that a mark is not capable of registration if, at the time that it was first used, it was confusing with an existing mark used in Canada by another person. Novopharm alleged that in 1987, the date of first use claimed in Bayer's application, it was mar­keting in Canada dusty rose coloured tablets.
+[23]
+The Registrar dismissed this ground of opposition since Novopharm had adduced no evidence to support the facts contained in its allegation.
+4. The Distinctiveness Of The Mark
+[24]
+Novopharm submitted that the mark applied for was not a "trademark" as defined in s. 2 of the
+Act
+because it was not used "for the purposes of distinguishing", or "so as to distinguish", wares manufactured by Bayer from those manufactured by others. In other words, the colour dusty rose as applied to the surfaces of small round tablets lacked the "distinctiveness" required to constitute a trademark.
+[25]
+The Registrar was prepared to infer from the opponent's evidence that, at the date when Novopharm filed its opposition, there were dozens of pink tablets of different sizes on the pharmaceutical market. How­ever, he found no evidence that any of them had a reputation in Canada.
+[26]
+Further, he was satisfied on the evi­dence before him that, since there was no other interchangeable product for Bayer's extended-release nifedipine, pharmacists used the colour, size and shape of the tablets as a secondary check to ensure that they were dispensing ADALAT. In addition, since the brand name ADALAT and the manufac­turer's name were displayed prominently on the packaging, it was not unlikely that the ultimate consumer, the patient, would associ­ate the mark applied for either with Bayer, or the brand name ADALAT.
+[27]
+Accordingly, the Registrar concluded that the applicant had established on the balance of probabilities that the mark for which Bayer had applied was distinctive of its nifedipine product and thus constituted a trademark.
+D. The Legislation
+[28]
+The following provisions of the
+Trade-marks Act
+are relevant to the disposition of this appeal.
+"2. 'distinctive' 'distinctive'
+'distinctive', in relation to a trademark, means a trademark that actually distin­guishes the wares or services in associa­tion with which it is used by its owner from the wares or services of others or is adapted so to distinguish them;
+'distinguishing guise' means
+(a) a shaping of wares or their con­tainers,
+. . . . .
+the appearance of which is used by a person for the purpose of distinguishing or so as to distinguish wares or services manufactured, sold, ... by him from those manufactured, sold, ... by others;
+'trademark' means
+(a) a mark that is used by a person for the purpose of distinguishing or so as to distinguish wares ... manufactured, sold, ... by him from those manufactured, sold, ... by others,
+. . . . .
+(c) a distinguishing guise, or
+(d) a proposed trademark;
+. . . . .
+"30. An applicant for the registration of a trademark shall file with the Registrar an application containing
+. . . . .
+(b) in the case of a trademark that has been used in Canada, the date from which the applicant or his named prede­cessors in title, if any, have so used the trademark in association with each of the general classes of wares or services described in the application; 	. . . . .
+(h) unless the application is for the regis­tration only of a word or words not depicted in a special form, a drawing of the trademark and such number of accu­rate representations of the trademark as may be prescribed;
+"38(2) A statement of opposition may be based on any of the following grounds:
+. . . . .
+(d) that the trademark is not distinctive."
+"2. 'distinctive' 'distinctive'
+'distinctive' Relativement à une marque de commerce, celle qui distingue véritablement les marchandises ou services en liaison avec lesquels elle est employée par son propriétaire, des marchandises ou services d'autres propriétaires, ou qui est adaptée à les distinguer ainsi.
+'signe distinctif' Selon le cas :
+a) façonnement de marchandises ou de leurs contenants;
+. . . . .
+dont la présentation est employée par une personne afin de distinguer, ou de façon à distinguer, les marchandises fabriquées, vendues, ... par elle, des marchandises fabriquées, vendues, ... par d'autres.
+'marque de commerce' Selon le cas :
+a) marque employée par une personne pour distinguer, ou de façon à distinguer, les marchandises fabriquées, vendues, ... par elle, des marchandises fabriquées, vendues, ... par d'autres;
+. . . . .
+c) signe distinctif;
+d) marque de commerce projetée.
+. . . . .
+"30. Quiconque sollicite l'enregistrement d'une marque de commerce produit au bureau du registraire une demande renfermant :
+. . . . .
+b) dans le cas d'une marque de commerce qui a été employée au Canada, la date à compter de laquelle le requérant ou ses prédécesseurs en titre désignés, le cas échéant, ont ainsi employé la marque de commerce en liaison avec chacune des catégories générales de marchandises ou services décrites dans la demande;
+. . . . .
+h) sauf si la demande ne vise que l'enregistrement d'un mot ou de mots non décrits en une forme spéciale, un dessin de la marque de commerce, ainsi que le nombre, qui peut être prescrit, de représentations exactes de cette marque;
+"38(2) Cette opposition peut être fondée sur l'un des motifs suivants :
+. . . . .
+d) la marque de commerce n'est pas distinctive."
+E. Issues And Analysis
+1. Was The Mark Adequately Defined
+In The Application?
+[29]
+Novopharm's argument under this rubric can be summarized as follows: the errors and omissions in the application and in the
+Journal
+advertisement combined to obscure the precise scope of the mark being claimed by Bayer for their nifedipine tablets, and provided insufficient notice to other interested persons who, if the information had been accurate, might have considered themselves prejudiced by the application, and consequently might have chosen to oppose it in order to protect their own commercial interests.
+[30]
+Further, in order to ensure the integrity of the Register, applicants must define with clarity the scope of the monopoly being claimed, and thereby give adequate notice to competitors about the extent of the rights claimed.
+[31]
+I shall consider in turn the various technical defects in Bayer's application alleged by Novopharm in support of its appeal.
+(a) Colour-Only Claim
+[32]
+Novopharm alleges that the application could be understood to be claiming the colour dusty rose as the mark because the drawing included with the verbal description stated that the "tablet shown in dotted outline does not form part of the trademark". If this is so, then the application is defective because a colour alone cannot constitute a trademark:
+ <FRAGMENT_SUPPRESSED> .
+[33]
+I find no merit in this contention. The words just quoted from the verbal description of the application are intended to indicate that the mark claimed is not the tablet itself, but only the colour as applied to its outer surfaces as shown in the specimen filed with the Trademarks Office.
+[34]
+It is apparent from another somewhat similar case,
+ <FRAGMENT_SUPPRESSED>  that the words, "tablet shown in dotted line does not form part of the trademark", are included at the instance of the Office for the purpose explained above. In my opinion, they are quite apt to make the intended distinction between the product itself and its physical properties of shape and outward colour.
+[35]
+Further, if I had any doubt on this issue I would have given considerable weight to the Registrar's opinion since it relates to a matter of practice and procedure followed by the Office with regard to trademark applications.
+[36]
+Hence, I find no error in the Registrar's conclusion that the mark applied for was not limited to colour, but was for the colour dusty rose as applied to the whole of the outside of the tablets shown in the specimen.
+[37]
+Moreover, in the absence of evidence to the contrary, I am unable to conclude that the drawing in the
+Journal
+, which showed a solid line, and not a dotted line as described in the verbal part of the advertisement, would have misled potential opponents who might otherwise have opposed the application to protect their own commercial interests.
+(b) Pink Or Blue?
+[38]
+Novopharm contended that the Registrar erred when, in effect, he amended the application by treating the drawing included with it as if it had been hatched for pink rather than, as it was, for blue.
+[39]
+The Registrar has no discretion to amend an application by changing it after it has been advertised: s. 37(a) of the
+Regulations
+. Such a discretion would undermine the reason for requiring an advertisement prior to the registration of a trademark, namely giving notice of the application so that others may decide whether to oppose the registration of a mark that might jeopardise their interests:
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 463, at pp. 463-466  <FRAGMENT_SUPPRESSED>  (F.C.A.).
+[40]
+Counsel argued that Bayer's failure to include in the application an accurate drawing or other representation of the trademark, as required by s. 30(h) of the
+Act
+, is not excused by the fact that Novopharm was confused by neither the application nor the advertisement, and opposed the application understanding that the colour in question was pink, not blue as shown in the drawing. There is an important public interest in ensuring the integrity of the Register as a record on which individuals can rely in order to know with certainty the precise scope of the monopoly asserted through the trademark.
+[41]
+Nor, counsel submitted, was the filing of a specimen sufficient to enable the Registrar to conclude that the error in the drawing was immaterial. Specimens may, after all, deteriorate over time, and will thus not necessarily provide that degree of certainty about the precise boundaries of the mark to which competitors, and the public at large, are entitled.
+[42]
+Moreover, the advertisement in the
+Journal
+did not mention the fact that the specimen had been filed, and so potential opponents might not have been able to resolve the inconsistencies between the written description of the mark applied for and the included drawing.
+[43]
+In support of her argument counsel relied on the following passage from Mackay, J.'s, reasons for judgment in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 76, at p. 87  <FRAGMENT_SUPPRESSED>  (T.D.):
+"Unless the mark consists solely of a word or words without particular style, the
+Act
+requires that a drawing of the trademark and accurate representations of it be filed with an application for registration. It is the mark so depicted in the drawing, reproducible with a certificate of registration, which then provides notice to the world of the owner's or registered user's proprietary interest in the trademark and which forms the evidentiary basis for actions of infringement or for expungement. Useful as photographs and samples of a trademark, including a distinguishing guise, may be upon application for registration, to ensure the drawing is a reasonable representation of the trademark claimed, in my view, those do not form part of the trademark for registration or for other purposes under the
+Act
+."
+[44]
+Despite the apparently technical nature of the error on which Novopharm relies, it is difficult to resist the conclusion that the drawing is not an
+accurate
+representation of the trademark as required by s. 30(h). When the most important element of a claim relates to colour, it is an error that goes to the heart of the mark to show a different colour in the drawing from that claimed in the verbal description. When the Registrar dismissed the opposition on this ground he in effect amended the mark after it had been advertised, contrary to s. 37 of the
+Regulations
+.
+[45]
+The response of counsel for Bayer was essentially that the inaccuracy of the drawing was not material. Hatching may only be
+required
+under s. 28 of the
+Regulations
+when the colour is unclear from the verbal description in the application, which is not the case here.
+[46]
+The answer to this is that, while hatching is not statutorily mandated, when it is in fact provided and the hatching is wrong, the resulting drawing does not accurately represent the mark, as s. 30(h) of the
+Act
+requires. There has, therefore, been no compliance with the relevant statutory provisions.
+[47]
+No doubt counsel was right to maintain that, given the level of sophistication of members of the pharmaceutical industry and their advisers, confusion was unlikely to be caused by Bayer's failure to include an accurate drawing of the mark because the verbal description made it quite clear that the colour in question was pink, not blue. The filing of a pink coloured specimen would further reduce the possibility of legitimate doubt about the colour being claimed.
+[48]
+However, in view of the total inaccuracy of the drawing, the verbal description and the filing of a specimen cannot be determinative of the issue that confusion was unlikely, and certainly not proved. For one thing, s. 30(h) does not expressly state that the likelihood of confusion about the nature of the mark claimed defines the scope of an applicant's duty to provide an accurate drawing or other representation of the mark.
+[49]
+Of course, the rationale of the requirement of an accurate drawing is to avoid confusion by clarifying what might otherwise not be clear from the verbal description in the application. In my opinion, however, this does not speak to the situation here, where the drawing flatly contradicts the verbal description.
+[50]
+In addition, I agree with the submission of counsel for Novopharm that, when the state is granting a monopoly, competitors and the public at large are entitled to insist on strict compliance with the terms of the legislation authorizing the grant. There is a public interest in ensuring the accuracy of the Register as a public record of trademarks that extends beyond whether there is any immediate likelihood of confusion. The rights enforceable in the future by a trademark holder are defined by the terms of the application as registered, including the drawing, and competitors ought to be able to regard the terms of the registration as definitive of the registrant's legal rights.
+[51]
+After the hearing had concluded counsel brought to my attention and made written submissions on a very recent decision,
+ <FRAGMENT_SUPPRESSED>  in the present case, held that where "the application as filed clearly describes pink as a feature of the mark ... the applicant is not obliged to follow the colour scheme set out in the
+Regulations
+". Accordingly, he dismissed opposition to the application for the mark, even though there was an inconsistency between the verbal description and the drawing of the colour.
+[52]
+For reasons that I have already given, I cannot, with respect, agree with this interpretation of s. 28 of the
+Regulations
+. If no specimen is filed, why should it be assumed that the error is with the drawing and not the verbal description?
+[53]
+Further, even if, contrary to the view expressed by Mackay, J., in
+Calumet  <FRAGMENT_SUPPRESSED> , a specimen filed with the Office, and referred to in the application (but not here, in the advertisement as well) were part of the application, this would not render the drawing accurate, although it may in the short term help to resolve any possible confusion about the terms of the application. Nonetheless, as counsel for Novopharm pointed out, specimens deteriorate over time and it is not now possible to say that the specimen filed by Bayer in connection with the application under consideration here will retain its present colour indefinitely.
+[54]
+In my opinion, however, the better view is that adopted by Mackay, J., in
+Calumet  <FRAGMENT_SUPPRESSED> , who held that the statute does not make a specimen an integral part of the application. Accordingly, the Registrar erred in law when he found that the failure to provide an accurate drawing or other representation of the mark did not invalidate the application.
+(c) Size
+[55]
+Counsel for Novopharm submitted that the application was also defective because it did not clearly identify whether the size of the tablet to which the colour dusty rose was applied was a part of the mark. On the one hand, Bayer's filing of a specimen, to which the application referred, was an indication that the trademark included round pink tablets of the size of the specimen, so that other manufacturers could market round pink tablets that were significantly smaller or larger in size than the specimen without infringing Bayer's mark.
+[56]
+On the other hand, from an affidavit sworn for the purpose of this appeal by Peter Alexander, Group Products Manager-Cardiovascular at Miles Inc., Bayer's predecessor, it would seem that Bayer does not regard the application as limited by size.
+[57]
+Counsel for Bayer argued that it was legitimate for his client to regard size as part of the application when it was first filed, because the company then manufactured only one size of ADALAT. However, the application did not state that size was part of the trademark. Furthermore, size should no longer be regarded as part of the mark since, at the time that its trademark was registered, Bayer was manufacturing ADALAT in smaller and larger dosages, contained in correspondingly smaller and larger sizes of tablet. As a result, the mark comprises biconvex, round, pink tablets of nifedipine, regardless of size.
+[58]
+The Registrar, it will be recalled, held that the application included in the mark the size of the 10 mg tablet that had been filed in the Office with the application, and was referred to in the application. Bayer did not cross-appeal this finding of the Registrar.
+[59]
+In my opinion, the Registrar's construction of the application was not in error. The filing of the specimen implicitly thereby indicated that its size was part of the application. Mr. Alexander's subsequent explanation pointing out the dates at which different sizes were subsequently introduced does not undermine the Registrar's conclusion.
+[60]
+Moreover, the 30 mg and 60 mg tablets are also different in appearance from the smaller 10 mg and 20 mg tablets, not only by virtue of their size, but also because inscribed on one surface in easily legible black letters are "ADALAT 30" and "ADALAT 60" respectively. In contrast, the indented letters 10 and 20 on the smaller tablets and the name, MILES, are not at all easy to see.
+[61]
+Since Bayer was making two slightly different sizes of tablet in 1991 when it filed its amended application, it could either have stated that size was not part of the application, or have filed both 10 mg and 20 mg tablets as specimens. However, it did neither, and it is appropriate to construe strictly the scope of the application for a monopoly.
+[62]
+There is therefore no reason for disturbing the Registrar's finding that Bayer's amended application included size, and was limited to the size of the 10 mg ADALAT tablet filed as a specimen. The fact that, for different reasons, neither party supported the Registrar's decision in this appeal is not determinative.
+(d) Date Of First Use
+[63]
+Counsel for Novopharm relied on other decisions by Mr. Herzig as authority for the proposition that an application must accurately state the date of first use of a mark in Canada in association with the wares of the applicant, or of a predecessor, as described in the application:
+ <FRAGMENT_SUPPRESSED>  (T.M. Opp. Bd.), loc. cit. at pp. 256, 258-259 (T.M.O.B.). Section 30(b) of the
+Act
+expressly requires that this information be included in an application for a trademark.
+[64]
+In my opinion, the Registrar gave to Bayer an appropriate latitude when he held that, since the 10 mg and 20 mg tablets were very close in size, it was permissible to take into account its use of the mark in association with the 20 mg tablets, which started at the date stated in the application, even though the mark was first used in association with the 10 mg tablet only in 1989 when that size was first marketed by Bayer.
+[65]
+To enable Bayer to rely on its prior use of the 20 mg tablet in these circumstances in order to satisfy s. 30(b) makes both practical sense and is justifiable in terms of the public policy considerations that underpin the statutory requirement.
+[66]
+If, contrary to my view, the Registrar did err on this question, I would not regard his error as requiring that the appeal be allowed. I agree with counsel for Bayer that the issue about the date of the first use of the mark was not included in the grounds of opposition filed by Novopharm and, accordingly, neither the Registrar nor the court on an appeal should have dealt with it:
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at p. 21;
+ <FRAGMENT_SUPPRESSED> , at p. 243 (T.D.).
+(e) Conclusion
+[67]
+The inclusion of a drawing that fundamentally misrepresented the colour of the tablet was a breach of s. 30(h) and is sufficient to allow the appeal. Further, while I am not satisfied that the Registrar erred in concluding that the applicant had complied in other respects with s. 30, Bayer's application was far from being a model of clarity, precision and accuracy.
+2. Was The Mark "Distinctive"
+Of The Associated Wares?
+[68]
+Despite my conclusion above, I should also consider the substantive aspect of Novopharm's opposition, which was that Bayer's mark was not a "trademark" because it was not used by Bayer so as to distinguish its wares from those of others.
+[69]
+The definition of "distinctive" is found in s. 2 of the
+Act
+, which provides that, in order to be distinctive, the trademark applied for by Bayer must "actually distinguish the wares ... in association with which it is used by its owner from the wares ... of others ..."
+[70]
+Whether a particular mark or guise is distinctive is a question of fact, and is determined by reference to the message that the mark conveys to the consuming public:
+ <FRAGMENT_SUPPRESSED>  (F.C.A.). That is to say, the relevant question is whether there is a clear message to the public that the wares with which the mark is associated and used are the wares of the owner of the mark, and not of another person:
+Havana House Cigar &  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 203 (T.D.).
+(a) Relevant Legal Principles
+[71]
+Before I turn to the evidence it may be helpful to set out some of the legal principles that will help to frame the analysis of it.
+[72]
+First, the burden of establishing the distinctiveness of a mark rests on the applicant, both in the opposition proceeding before the Registrar and on an appeal to this court. Thus, Bayer must establish on a balance of probabilities that in 1992, when Novopharm filed its opposition to the application, ordinary consumers associated dusty rose, round extended-release tablets of the size of the 10 mg ADALAT tablet, with Bayer, or a single source of manufacture or supply:
+ <FRAGMENT_SUPPRESSED> , at p. 123 (T.D.); affd. [1976] 2 F.C. 4 (F.C.A.).
+[73]
+Second, the "ordinary consumers" to be considered for this purpose include not only physicians and pharmacists, but also the "ultimate consumers", that is the patients for whom ADALAT tablets are prescribed and to whom they are supplied, even though their only access to nifedipine is through a physician's prescription:
+ <FRAGMENT_SUPPRESSED>  O.A.C. 321; 44 C.P.R.(3d) 289.
+[74]
+In
+CIBA-Geigy
+the court held that the elements of the tort of passing-off were as applicable to pharmaceutical products as to any other. Accordingly, it was relevant to consider whether the "get-up" of the plaintiff's goods had acquired a distinctiveness that would lead patients to identify that "get-up" with a single source, so that they were likely to be confused into thinking that another's product, with a similar appearance to that of the plaintiff, emanated from the same source as the plaintiff's.
+[75]
+I should also note that, while there are some obvious differences between actions for the tort of passing-off and opposition proceedings to the registration of a trademark, there is also a significant link between them. A dismissal of Novopharm's opposition will enable Bayer to prevent competitors from marketing a product that is interchangeable with ADALAT in the form of tablets with a similar appearance to Bayer's nifedipine tablets.
+[76]
+Thus, in any enforcement proceedings that Bayer were to bring for trademark infringement it would not be required to prove that the colour, shape and size of its product had a secondary meaning, as it would in a passing-off action if it were not the holder of valid trademark. By virtue of the statutory definition of a trademark, the valid registration of the mark at issue in this proceeding in effect irrefutably establishes that the appearance of ADALAT tablets is associated by consumers with a single source.
+[77]
+Third, while I accept that the colour, shape and size of a product may together be capable in law of constituting a trademark, the resulting mark is, as a general rule, likely to be weak:
+ <FRAGMENT_SUPPRESSED>  tablets are commonplace in the pharmaceutical market. This means that Bayer has a heavy burden to discharge in proving on the balance of probabilities that in 1992 those properties had a secondary meaning, so that ordinary consumers associated the tablets with a single source:
+Standard Coil
+, supra, at p. 123. The fact that, when Novopharm filed its objection, ADALAT were the only extended-release nifedipine tablets on the market is in itself insufficient to establish a secondary meaning:
+ <FRAGMENT_SUPPRESSED> .
+[79]
+Fourth, it is not fatal to an application that consumers may also use means other than the mark for identifying the product with a single source. Thus, while pharmacists rely mainly on the brand name and other identifying indicia on the stock bottles and packaging containing the product, or the inscription on the tablets, which is not part of the mark, if there is evidence that to any significant degree they also recognized the product by its appearance (excluding the markings on the tablet because they are not part of the mark), this may be sufficient to establish the distinctiveness of the mark.
+(b) The Registrar's Decision
+[80]
+The Registrar based his conclusion that the applicant's mark was distinctive on the following facts:
+(a) the lack of any evidence that other pharmaceutical products of a similar appearance had any reputation in Canada;
+(b) the use of the appearance of the tablets by pharmacists as a secondary check to ensure that they were dispensing nifedipine;
+(c) the absence of a product that was interchangeable with ADALAT; and
+(d) the tendency of the appearance of the manufacturer's name on the packaging containing the tablets to lead ordinary consumers to associate tablets of that appearance with Bayer or, at any rate, with a single source.
+(c) The "Sole Producer" Argument
+[81]
+Novopharm submitted that the Registrar erred in finding Bayer's mark to be distinctive of the applicant's extended-release nifedipine tablets at the relevant time. This argument has two branches. First, it was said, assume that the relevant market for determining distinctiveness is extended-release nifedipine tablets, as opposed to other products containing nifedipine, tablets with other active ingredients that were used for cardiovascular conditions, or pharmaceutical products in general. Then, since no other product was marketed in Canada in 1992 that was interchangeable with Bayer's product, the colour, shape and size of the tablets could not serve to distinguish it from nifedipine tablets manufactured by others because there were no others to be distinguished.
+[82]
+Counsel for Novopharm cited no authorities to support this submission. As counsel for Bayer pointed out, the argument entails the surprising proposition that the first person to market a new product is never entitled to register a trademark used in association with it until others have entered the market by manufacturing similar products of their own. By this time, if the competitor uses a confusingly similar mark to that of the first producer, then the first producer may be prejudiced because its mark was not already registered.
+[83]
+In the absence of authority requiring me to accept this proposition, I do not think that it can be the law. I do not see why an innovator should be deprived of the full benefit of a registered trademark until competitors have entered the market, by which time damage may already have been caused, both to the original producer, and to consumers. Indeed, it would also follow from the appellant's argument that a valid trademark would become invalid if the wares from which the mark distinguished the holder's goods ceased to be sold.
+[84]
+My conclusion can be supported by an interpretation of the statutory definition of a trademark that avoids giving a temporal connotation to the words "wares ... manufactured ... [or] ... sold ... by others". That is, provided that the mark actually identifies wares as emanating from a single source, the definition of a trademark should not be interpreted so as to require that it is used to distinguish an applicant's wares from those that are
+currently
+manufactured or sold by others.
+(d) "Distinctiveness In Fact"
+[85]
+In contrast, the second branch of the appellant's "distinctiveness" argument is much sturdier. Counsel submitted that there was simply insufficient evidence in the record to support a finding of fact that in 1992 "consumers" of nifedipine associated it with a single source, by virtue of the dusty rose colour of the tablets, their round biconvex shape, and the size of the 10 mg or 20 mg tablet.
+[86]
+The fact that Bayer was the only manufacturer of nifedipine in Canada at that time is not in itself sufficient to establish that, because of their appearance, the tablets would thereby be associated with a single source. Nor does the fact that Bayer chose the colour dusty rose purely for marketing reasons, rather than for reasons connected with the function of the product, necessarily mean that it operated as a trademark when applied to the round, extended-release nifedipine tablets.
+[87]
+Before the Registrar, and in this appeal, Bayer relied heavily on indirect or circumstantial evidence to establish that a substantial number of "consumers", namely, physicians, pharmacists, and patients, associated dusty rose, round biconvex nifedipine tablets with a single source, and with Bayer or its predecessor, Miles, in particular. In other words, the contention was that the appearance of the tablets had acquired a secondary meaning, and thus marked the tablets as coming from Bayer or, at least, from one source.
+[88]
+I was referred to a somewhat similar case,
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (T.D.), in which the plaintiff had obtained an interlocutory injunction to restrain the defendant from passing-off its pharmaceutical product as that of the plaintiff. Both parties manufactured tablets with the same active ingredient and the same appearance: which was dark pink in colour, and round and biconvex in shape.
+[89]
+Rothstein, J. (as he then was), found that the evidence established that there was a serious issue to be tried. Following the Supreme Court of Canada's reasons in the other
+Ciba-Geigy
+case referred to earlier, he was particularly interested in the extent to which the evidence indicated that
+patients
+were likely to be confused by the similarity in the appearance of the two products.
+[90]
+The products in Rothstein, J.'s, case were interchangeable and, if patients identified the plaintiff's product by its appearance, the marketing by the defendant of tablets that were confusingly similar in appearance would prevent patients from exercising consumer choice by specifying which product they wished to have prescribed. He also stated that it was unlikely, on the other hand, that physicians and pharmacists identified pharmaceutical products by their physical appearance.
+[91]
+This case is also helpful to Bayer because Rothstein, J., found in favour of the plaintiff, even though it adduced no direct evidence of confusion by patients. He was prepared to rely on the affidavits of physicians and pharmacists who, he stated, were sufficiently close to the "front line" and, in the case of pharmacists, exposed to the commercial realities of the retail trade, to provide reliable testimony from their own knowledge and experience of the behaviour of a substantial number of patients.
+[92]
+On the other hand, the relevance of this decision is limited by the fact that Rothstein, J., was only concerned to find whether there was a serious issue to be tried. In contrast, I must decide whether the evidence in this case establishes on the balance of probabilities that the colour, shape and size of ADALAT tablets had acquired a secondary meaning in 1992.
+[93]
+Counsel for Novopharm countered counsel for Bayer's reliance on the judgment of Rothstein, J.,  <FRAGMENT_SUPPRESSED> - <FRAGMENT_SUPPRESSED> , by referring me to the reasons for judgment of Reed, J., in
+Eli Lilly and  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 371 (T.D.). Both cases concerned claims for passing-off involving attempts by an innovator pharmaceutical company to prevent a generic company from marketing pharmaceutical products that were similar in appearance to those of the plaintiff.
+[94]
+As we have already seen, Rothstein, J., had found that the evidence before him on the issue of the distinctiveness of the appearance of the plaintiff's product was sufficient to establish only that there was a serious issue to be tried. However, in
+Eli Lilly
+, supra, Reed, J., held at the end of a trial that the plaintiff had not established on the balance of probabilities that a sufficient number of patients identified the appearance of its product with a single source of supply. Accordingly, she dismissed the plaintiff's claim for passing-off.
+[95]
+It is clear from the reasons given by Reed, J., that she had before her voluminous evidence relating to such issues as, the ways in which pharmacists identify pharmaceutical products, physicians' prescription practices and survey evidence on patient awareness of brand names. There was also evidence that in Canada generic pharmaceutical manufacturers commonly market their product in a colour, size and shape similar to that of the brand name product with which it is interchangeable, after either the expiry of the brand name's patent or the development of a non-infringing way of manufacturing an interchangeable product with the same bioavailability.
+[96]
+Despite the fact that some of the evidence in
+Eli Lilly
+was not limited to the particular product in question in that case, I must decide the appeal before me on the much less extensive evidence that was adduced in the present case. Because the decisions  <FRAGMENT_SUPPRESSED> -Geigy
+and
+Eli Lilly
+, and other similar cases, are heavily based on findings of fact made on the evidence adduced in each proceeding they are of only limited direct assistance to me. I set out below the evidence relied on to establish the distinctiveness of the colour dusty rose as applied to the ADALAT tablets.
+(i) Market Dominance And Reputation
+[97]
+Bayer adduced evidence on ADALAT's market penetration and dominance in 1992 in order to support its claim that the product had acquired sufficient distinctiveness by the relevant date.
+[98]
+First, counsel for Bayer submitted, it could be inferred from the fact that in 1992 ADALAT was the only extended-release nifedipine product on the market that consumers must have identified its appearance with a single source. I agree that the non-interchangeability of the product at the relevant time supports Bayer's claim, but I do not regard it as conclusive. Otherwise, patentees would be able to extend their sole right to market a product long after their patent on the product had expired:
+Cellular Clothing
+, supra;
+Canadian Shredded Wheat
+, supra.
+[99]
+Consumers may well identify the appearance of a pharmaceutical product with its therapeutic purposes, rather than with a single manufacturer, even when, in fact, the product is not interchangeable with any other. Patients may simply refer to the colour and shape of a tablet to identify the medication that they take for a particular condition: "These are the pink round pills that I take for my angina", not, "My angina tablets are dusty rose and round, and therefore, I know that they come from the same manufacturer."
+[100]
+Second, there was evidence that, by both name and appearance, ADALAT tablets had a significant reputation in Canada by 1992 when Novopharm filed its opposition to the application. In his affidavit Mr. Alexander stated that the sales of ADALAT in Canada at the time were well in excess of $300 million, and that several million dollars had been spent on advertising and other promotional literature, which often contained both photographs or some other life-like representation of the tablets, and the manufacturer's name. In addition, Bayer had supplied to physicians over 17 million samples of ADALAT free of charge. All of these activities, it was said, would tend to associate the appearance of the tablets with a single source, and with Bayer or Miles in particular, of course.
+[101]
+Further, Mr. Alexander explained, the
+Compendium of Pharmaceuticals and Specialties
+, a reference book published by the Canadian Pharmaceutical Association and widely distributed to physicians and pharmacists in Canada, included a "Product Recognition Section". This section is intended to familiarize readers with the physical appearance of products available in Canada so that they can associate them with the manufacturer and identify them by their appearance. ADALAT had appeared in the Product Recognition Section prior to 1992, and continued to do so thereafter.
+(ii) Recognition By Physicians And Pharmacists
+[102]
+Bayer also relied on the evidence of physicians and pharmacists who testified that ADALAT tablets were associated by their appearance with a single manufacturer.
+[103]
+Bayer relied on a statement by Mr. Dan, president of Novopharm, in response to a question from counsel for Bayer. Mr. Dan said that, when dispensing pharmaceutical products, pharmacists rely on the colour, size and shape to identify them. However, he also added that this was only a "secondary check", the primary source of identification for pharmacists being the label on the container in which the product was supplied.
+[104]
+Other evidence adduced by Novopharm also suggested that, for purposes of identification, physicians and pharmacists use the colour of ADALAT, and indeed of all prescription medicines, in a very minimal way, if at all.
+[105]
+For example, in one of the affidavits that was not before the Registrar Dr. Mitchell Levine, a physician, stated that the size and shape of a pharmaceutical product played no role in his decision to prescribe it.
+[106]
+Other evidence also indicated that pharmacists identified Bayer's nifedipine by the colour and size of the tablets to only a very limited degree, especially since there are many pink pills on the market, including those prescribed for the treatment of cardiovascular conditions. Thus, for instance, in addition to Mr. Dan's testimony that he used colour as only a "secondary check", Mr. Joseph Newton, another pharmacist, said that he relied primarily on the label on the manufacturer's stock bottle when supervising his assistants, and did not always check the colour of the pills in the bottle.
+[107]
+Two other pharmacists, Mr. Organ and Mr. Haber, testified that, when they used the appearance of a tablet to help them to identify it, they looked also at the markings on it. However, the markings on Bayer's extended-release nifedipine are not part of the mark that is the subject of the application under consideration here.
+[108]
+In my opinion, the evidence did not prove that physicians or pharmacists to any significant degree identified ADALAT by colour and shape.
+(iii) Recognition By Patients
+[109]
+Bayer also sought to establish that ADALAT had achieved significant recognition amongst the final consumers of the product, namely, the patients for whom it is prescribed and to whom it is sold. In this context it was emphasised that ADALAT tends to be prescribed on a long-term basis, so that patients have plenty of opportunity to associate the appearance of the tablets with the fact that they come from a particular manufacturer.
+[110]
+There was also evidence that pharmacists often sold ADALAT in boxes containing several weeks' supply for a particular patient. The boxes prominently displayed both the brand name of the tablets and the name of the manufacturer. Moreover, the name of the active ingredient and of the manufacturer appear on the label affixed to the vial in which the tablets are dispensed to the patient.
+[111]
+From all this evidence it could be inferred, one pharmacist agreed in the course of cross-examination on his affidavit, that many patients would associate their pink round angina pills with the brand name ADALAT, or the sole manufacturer, especially since a substantial percentage of patients are chronic consumers of the tablets.
+[112]
+However, this same evidence might be regarded as supporting exactly the opposite inference. That is, the prominence of the name ADALAT on the packaging would tend to cause patients to identify their medication by the brand name, or that of the manufacturer, rather than by the colour, shape and size of the tablets themselves. Thus, if satisfied with the therapeutic effect of ADALAT, they would be able to ask for it by its brand name or that of the manufacturer.
+[113]
+In the course of cross-examination by counsel for Bayer, Dr. Paul Pitt, a physician, stated that people who find a particular medication to be helpful will often identify it by its colour, shape and size. However, this did not seem to me to advance Bayer's cause much because, as Dr. Pitt subsequently said, the colour, size and shape of tablets mean to many people little more than that, "this is the pill that I take for my angina." His evidence thus fell well short of establishing that consumers identify the appearance of ADALAT tablets with a single source.
+[114]
+Dr. Levine also stated that, while patients may identify a medication by its colour, shape and size, they do so in order to identify the tablet that they take for a particular condition, especially when they are taking a number of tablets for different purposes. In his experience, however, they generally do not associate the medication with a particular source, although he also admitted that he did not base his opinion on statements made to him by patients.
+(iv) Distinctiveness In The Broader Prescription Medicine Market
+[115]
+Counsel for Novopharm submitted that, contrary to the view expressed by the Registrar in this case, the fact that ADALAT is not the only pharmaceutical product in the market that is sold in pink round tablets tends to negate a finding of distinctiveness, even though there was no evidence that those other products had a reputation in Canada as a result of which their appearance was associated with a single source of manufacture
+.
+[116]
+This point was addressed by Thurlow, J. (as he then was), in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 126 (F.C.A.), at p. 131  <FRAGMENT_SUPPRESSED> , which was also a case where the application for a mark was challenged on the ground that it lacked distinctiveness. The court held that it was difficult to find that the mark in question in fact served to distinguish the applicant's wares when it was also used by several other companies in association with their wares. The question was not whether those other producers had the right to monopolize the use of the mark, and therefore it was irrelevant whether consumers associated it with the other producers' wares.
+[117]
+An affidavit that was not in evidence before the Registrar was sworn for the purpose of this appeal by Mr. Donald Macdonald, a pharmacist. The affidavit listed nearly 40 medications available in Canada for the treatment of high blood pressure and angina that were pink in colour. He attached to his affidavit extracts from the "Product Recognition Section" of the CPS for 1992 showing pink tablets that were available in Canada, including most of those listed in the body of the affidavit.
+[118]
+This evidence, it is true, does not always address both the colour
+and
+the shape and size of medication other than ADALAT. However, in my opinion it tends to negate Bayer's claim that the colour and shape of ADALAT are distinctive of the product, especially since the colour pink as applied to a small round biconvex pill can hardly be said to be inherently distinctive:
+ <FRAGMENT_SUPPRESSED>  (T.M. Opp. Bd.).
+[119]
+In another affidavit that was not before the Registrar Dr. Levine confirmed the availability in Canada in 1992 of some 20 pink tablets that were prescribed for the treatment of cardiac problems. He also stated that he had switched patients from one pink tablet to another if the first appeared not to be helpful to the particular patient.
+(v) Conclusion
+[120]
+On the basis of the evidence adduced in this appeal, not all of which was before the Registrar, I am unable to conclude that the colour, shape and size of ADALAT are distinctive of the product. Evidence of the prevalence in Canada in 1992 of pink tablets used to treat cardiovascular conditions seriously damages Bayer's claim, especially given the mark's inherent weakness, and the fact that it does not include the markings which appear to be used to some extent to identify ADALAT.
+[121]
+While the fact that there was no other product that was interchangeable for nifedipine in 1992 provides some support for its distinctiveness, in my opinion it was insufficient in itself to establish the necessary secondary meaning. Bayer produced no direct evidence to show that patients associated the colour and shape of ADALAT tablets with a single source.
+[122]
+While such evidence may not be necessary, its absence is damaging when there is evidence from pharmacists and physicians to the effect that patients typically do not associate the appearance of a medication with a single source. In addition, in this case the evidence about the packaging of ADALAT suggested that patients were more likely to identify Bayer's product by its brand name or manufacturer, than by its colour, shape and size.
+[123]
+Given this finding, the very limited use that pharmacists make of the appearance of medication for identification purposes is quite inadequate to establish the distinctiveness required for a valid trademark.
+F. Conclusions
+[124]
+Behind the essentially factual enquiry into whether Bayer had established that the colour dusty rose as applied to their round ADALAT tablets had acquired a secondary meaning lurk two competing public policy considerations, in addition to the manufacturer's interest in protecting the market share that it may have built up by investing in advertising and creating a product to which consumer good will attaches.
+[125]
+On the one hand, there is the concern that the market not be distorted, and competition thereby unduly restricted, by preventing generic pharmaceutical manufacturers from selling an interchangeable product, with the same bioavailability, that is identical in appearance to that of the brand name product.
+[126]
+The fact that the Minister of Health is satisfied that a generic product is in all respects functionally identical to the brand name means that in most cases it is immaterial for therapeutic purposes which one is supplied to the patient. Price, not appearance, is the primary basis for a supplying or purchasing decision. To require the generic manufacturer to market an interchangeable product, with the same bioavailability, in a form other than that to which consumers are accustomed may provoke consumer resistance that has no rational basis.
+[127]
+On the other hand, some patients may experience adverse side effects from one product but not from another, even though they are interchangeable and have the same bioavailability. The non-active ingredients, or excipients, used in the manufacture of pharmaceutical products may affect people differently.
+[128]
+In addition, not all manufacturers exercise the same level of quality control. Consequently, consumers who have found a brand name product to be very beneficial may not want to have their prescription filled with an interchangeable generic product in case its quality is less reliable than that of the medication that they have been taking.
+[129]
+To deny an applicant a mark in the appearance of a pharmaceutical product might prejudice members of both of these groups of consumers, especially since it is otherwise difficult to identify a tablet with a single source. A patient who reports symptoms to her doctor may not attribute them to a switch from the brand name to the generic if she is not alerted to the switch because the drugs are identical in appearance.
+[130]
+Both of these concerns can be said to involve consumer protection. The first tends to reduce the price of medication by not limiting competition through the grant of a monopoly in a product's appearance. The second maximizes consumers' freedom of choice over the medication that they purchase or ingest.
+[131]
+In the context of the dispute in this case, the tension between these competing public policy considerations is to be mediated through the requirement that an applicant for a trademark must establish its distinctiveness. However, trademark law is a more suitable instrument for ensuring fair competition than for protecting the health of individuals, especially since, as in this case, the description of the wares with which the mark is associated includes the active ingredient, nifedipine, but not the excipients that are also a part of the pharmaceutical product in question. Trademark law would not prevent Bayer from changing the excipients of ADALAT, nor require that notice of any change be given to consumers.
+[132]
+Accordingly, an applicant seeking to register as a trademark the colour and shape of a prescription pharmaceutical product must adduce evidence that clearly establishes on the balance of probabilities that a significant number of consumers associate the appearance of that product with a single source.
+[133]
+On the basis of the evidence before me and the considerations outlined above, I have concluded that Bayer has not discharged this burden of proof with respect to the mark for which it applied in association with its extended-release nifedipine tablets. Novopharm's appeal is therefore allowed.
+[134]
+The parties may make written submissions with respect to costs within 14 days from the date of this judgment.
+Appeal allowed.
+Editor: Jana A. Andersen/saf
+[End of document]

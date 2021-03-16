@@ -1,0 +1,729 @@
+TABLE OF CONTENTS
+-
+Para.
+I. Overview
+1
+II. Background
+10
+III. Preliminary issues
+15
+--A.
+No private interest standing
+17
+--B.
+The applicants have public interest standing
+20
+--C.
+The admissibility of Mr. Galati's affidavit
+30
+IV. The availability of judicial review
+32
+--A.
+The Governor General's grant of royal assent is not justiciable
+32
+---(1) Principles which underlie the doctrine of justiciability
+33
+---(2) The grant of assent is a legislative act
+41
+--B.
+The Governor General as respondent
+49
+--C.
+The ministers as respondents
+61
+V. Whether section 8 of the
+Strengthening Citizenship Act
+is beyond the legislative capacity of Parliament under the
+Constitution Act, 1867
+66
+--A.
+Citizenship is not an inalienable constitutional right
+72
+---(1) Pre-1931 historical review of legislation providing loss of citizenship
+81
+---(2) Post-1931 historical review of legislation providing loss of citizenship
+86
+--B.
+The absence of citizenship as an enumerated head of legislative competence and Parliament's exclusive jurisdiction over citizenship
+91
+VI. Conclusion
+100
+I.
+Overview
+[1]
+Rennie, J.
+: The applicants seek to set aside the decision of His Excellency The Right Honourable David Johnston Governor General of Canada on June 19, 2014 to grant royal assent to Bill C-24, the
+Strengthening Canadian Citizenship Act
+, SC 2014, c 22 (
+Strengthening Citizenship Act
+).
+[2]
+Section 8 of the
+Strengthening Citizenship Act
+amends the
+Citizenship Act
+, RSC 1985, c C-29 (
+Citizenship Act
+). The amendments allow the Minister of Citizenship and Immigration to revoke the citizenship of natural-born and naturalized Canadian citizens where a citizen has a conviction relating to national security or terrorism. These convictions include treason under section 47 of the
+Criminal Code
+, RSC 1985, c C-46 (subsection 10(2)(a) of the
+Citizenship Act
+); a terrorism offence as defined in section 2 of the
+Criminal Code
+(subsection 10(2)(b) of the
+Citizenship Act
+) and certain offences under the
+National Defence Act
+, RSC 1985, c N-5 and the
+Security of Information Act
+, RSC 1985, c O-5. Where the citizen holds, or could have a right to dual nationality, the
+Strengthening Citizenship Act
+provides for the revocation of citizenship and designation of that individual as a foreign national, which may lead to deportation from Canada.
+[3]
+In broad terms, the applicants contend that section 8 of the
+Strengthening Citizenship Act
+is beyond the legislative competence of Parliament under the
+Constitution Act, 1867
+. They assert that as a matter of constitutional principle, citizenship is an immutable and inalienable right which cannot be revoked by legislation. This principle, derived from the law of the United Kingdom, was, through the requirement in the preamble of the
+Constitution Act, 1867
+that Canada have a constitution "similar in Principle to that of the United Kingdom", embedded in the Constitution. It is not, in the absence of a constitutional amendment, subject to the ordinary laws of Parliament. In the result, the applicants contend that the Governor General exceeded the scope of his discretion under the crown prerogative, as well as his authority under the
+Royal Assent Act
+, SC 2002, c 15 (
+Royal Assent Act
+), in granting royal assent to the
+Strengthening Citizenship Act
+.
+[4]
+The availability of judicial review and its associated remedies is subject to analytical pre-conditions. It is not every act of a public officer that is reviewable; there are jurisprudential and statutory criteria that must be met before the Federal Court will engage in judicial review and, if granted, discretionary considerations in respect of remedies.
+[5]
+The threshold statutory question is whether the Governor General, in granting royal assent, was a "federal board, commission or other tribunal" within the meaning of subsection 2(1) of the
+Federal Courts Act
+, RSC 1985, c F-7 (
+Federal Courts Act
+). Put otherwise, was the Governor General, in assenting to Bill C-24, exercising a power or jurisdiction conferred under "an Act of Parliament or by or under an order made pursuant to a prerogative of the Crown" as required by subsection 2(1). The answer to that question depends on the power exercised and, importantly, the source of that power:
+ <FRAGMENT_SUPPRESSED> .
+[6]
+There is an ancillary question as to whether the remaining respondents, the Honourable Chris Alexander, Minister of Citizenship and Immigration, and the Minister of Justice and Attorney General of Canada fall, in the context of this application, within the scope of subsection 2(1). The applicants seek to set aside the decisions of the two ministers, who in their capacity as Members of Parliament and "aware of the constitutional impediment" voted in favour of the
+Strengthening Citizenship Act
+, or more accurately, in support of the passage of Bill C-24.
+[7]
+The threshold jurisprudential consideration is whether the matter in question is subject to judicial review. Justiciability and the statutory pre-conditions serve different purposes. Justiciability is rooted in the court's understanding of the proper scope or subject matter of judicial review, or, as the Federal Court of Appeal said "the appropriateness and ability of a court to deal with an issue before it":
+ <FRAGMENT_SUPPRESSED> per Stratas JA. Justiciability is focused on the nature or substance of the question under review; the source of the power exercised, whether statutory or prerogative, is not determinative. In contrast, subsection 2(1) is directed to necessary jurisdictional requirements, and whether it is engaged is very much a question of the source of the power.
+[8]
+In this case, consideration of each leads, independently, to the conclusion that the Governor General's grant of royal assent is not justiciable, and that none of the respondents are federal boards within the scope of subsection 2(1) of the
+Federal Courts Act
+(RSC, 1985, c F-7).
+[9]
+The application, in any event, fails in respect of its underlying merits. Section 8 of the
+Strengthening Citizenship Act
+is within the legislative competence of Parliament, subject only to the constraint of the
+Canadian Charter of Rights and Freedoms
+, Part I of the
+Constitution Act, 1982
+, being Schedule B to the
+Canada Act 1982
+(UK), 1982, c 11 (the
+Charter
+). The application for judicial review is therefore dismissed.
+II. Background
+[10]
+Rocco Galati, Manuel Azevedo, and the Constitutional Rights Centre Inc. (the Centre) are the applicants. Mr. Galati is a lawyer and member of the Ontario bar who from 1990 to present has worked in private practice. His practice is restricted to proceedings against the Crown and many of the cases which he has undertaken involve constitutional issues or the defence of individuals charged with offences which may trigger revocation of citizenship under the new legislation. He believes that matters of the Constitution are "every citizen's business". Mr. Azevedo is also a lawyer. He has represented those accused of terrorism and related offences under the
+Criminal Code
+, the
+Extradition Act
+, SC 1999, c 18, and the
+Immigration and Refugee Protection Act
+, SC 2001, c 27. Mr. Galati and Mr. Azevedo are naturalized Canadian citizens.
+[11]
+The Centre is a non-profit Ontario corporation incorporated on November 29, 2004. The object of the Centre is to advance constitutional rights of Canadians through education and litigation. The Centre has three corporate directors, including Mr. Galati and Mr. Azevedo, and four operational directors, including Mr. Galati, Mr. Azevedo and Mr. Paul Slansky, also a member of the Ontario bar.
+[12]
+Since 2004 the Centre's main activity has been to procure
+pro bono
+counsel for clients in constitutional or public law cases. The material filed in this Court included a number of cases, at both trial and appeal, and in diverse courts, where counsel who form part of the executive of the Centre had been involved. The recent intervention by the Centre in the
+Reference re Supreme Court Act, ss. 5 and 6
+, 2014 SCC 21 was the first time either Mr. Galati or the Centre intervened in their own name.
+[13]
+On June 9, 2014, the Constitutional Rights Centre, under Mr. Galati's signature, wrote to the Governor General. Exercising the petition of right, the applicants requested that His Excellency refuse to grant royal assent to the
+Strengthening Citizenship Act
+, asserting that Parliament had no legislative competence to remove or revoke the citizenship of citizens born in Canada or naturalized Canadian citizens, and that its competence was confined to aliens and naturalization under section 91(25) of the
+Constitution Act, 1867
+.
+[14]
+The Office of the Governor General responded that the Governor General had taken note of the petition's contents; however, on June 19, 2014, the Governor General assented to the
+Strengthening Citizenship Act
+, effectively denying the applicants' petition. It is in respect of that decision that judicial review is, primarily, sought.
+III. Preliminary issues
+[15]
+Two preliminary issues have been raised by the Attorney General; whether the applicants have standing and the admissibility of certain evidence.
+[16]
+The respondents argue that this application should be dismissed because the applicants have neither private nor public interest standing. They assert that the applicants have no real or genuine stake in the matter. That is, although the applicants may have a political or intellectual interest in the outcome, they have neither been convicted, nor charged, of any offence that could lead to revocation of their citizenship.
+A.
+No private interest standing
+[17]
+Both Mr. Galati and Mr. Azevedo are naturalized Canadians, and are theoretically at risk of revocation and removal under the legislation to Italy and Portugal, respectively. In their capacity as counsel, the applicants also represent Canadians accused of national security or terrorism offences contemplated by the
+Strengthening Citizenship Act
+. Mr. Galati emphasizes comments made by the Minister of Citizenship and Immigration suggesting, at least from Mr. Galati's perspective, that Mr. Galati shared the beliefs of his clients, with the result that he is at particular risk under the new legislation so as to give rise to private interest standing.
+[18]
+The applicants do not have private interest standing. The fact that the applicants have access to dual citizenship is, in and of itself, insufficient to establish private interest standing. They stand undifferentiated from the millions of Canadians who hold or may have access to, dual citizenship. The applicants have neither been charged nor convicted of an offence which triggers the
+Strengthening Citizenship Act
+. Further, the provisions of the
+Strengthening Citizenship Act
+are triggered upon an accused's conviction of a listed offence. They do not target defence counsel who represent them. Moreover, the Minister's comments, objectively viewed, do not support the inferences drawn by Mr. Galati nor the
+animus
+or intent alleged. In any event, it is not the Minister of Citizenship who prosecutes the listed offences. The decision to prosecute rests either with the Director of Public Prosecutions or with the provincial Attorney General.
+[19]
+The claim for private interest standing is dismissed. The applicants' personal interests are speculative, remote and do not have an objective evidentiary foundation.
+B.
+The applicants have public interest standing
+[20]
+In so far as public interest standing is concerned, the applicants submit that the constitutionality of the
+Strengthening Citizenship Act
+is serious and justiciable. They further argue they have a genuine interest in the issue raised and are not merely bringing forward a case in which they have no interest and serves no purpose, rather, they point to the jurisprudence of the Supreme Court of Canada recognizing that the Constitution belongs to the country and its citizens:
+ <FRAGMENT_SUPPRESSED> , at 209-210. Finally, they submit that the proposed suit is a reasonable and effective means to bring an important question before the courts. No other party is currently challenging the
+Strengthening Citizenship Act
+and no further additional facts, adjudicative or legislative, are required to determine the issue.
+[21]
+The principles governing the exercise of judicial discretion to grant standing are to be interpreted in a liberal and generous manner:
+ <FRAGMENT_SUPPRESSED> . At the root of the law of standing is the need to achieve a balance "between ensuring access to the courts and preserving judicial resources":
+Canadian Council of Churches
+at 252 and
+ <FRAGMENT_SUPPRESSED> .
+[22]
+In
+Downtown Eastside
+, the Supreme Court of Canada refined the approach to determining public interest standing. The court must consider three factors: whether there is a serious justiciable issue; whether the plaintiff has a real stake or a genuine interest in the issue; and whether, in all the circumstances, the proposed suit is a reasonable and effective way to bring the issue before the courts:
+Downtown Eastside
+at para 37. The Court instructed that these factors should not be perceived as "items on a checklist or technical requirements"; instead, are to be weighed cumulatively and in light of their purposes:
+Downtown Eastside
+at para 36.
+[23]
+I am persuaded that the three interrelated factors, applied purposively and flexibly, favour granting public interest standing to the applicants.
+[24]
+First, the question as to the constitutional validity of the
+Strengthening Citizenship Act
+is a "substantial constitutional issue" and therefore a "serious" issue. In
+Downtown Eastside
+at para 42 the Supreme Court of Canada expanded on the substance of this criteria:
+To constitute a "serious issue", the question raised must be a "substantial constitutional issue" (
+McNeil
+, at p. 268) or an "important one" (
+Borowski
+, at p. 589). The claim must be "far from frivolous" (
+Finlay
+, at p. 633), although courts should not examine the merits of the case in other than a preliminary manner. For example, in
+Hy and Zel's
+, Major J. applied the standard of whether the claim was so unlikely to succeed that its result would be seen as a "foregone conclusion" (p. 690). He reached this position in spite of the fact that the Court had seven years earlier decided that the same Act was constitutional:
+ <FRAGMENT_SUPPRESSED> . Major J. held that he was "prepared to assume that the numerous amendments have sufficiently altered the Act in the seven years since
+Edwards Books
+so that the Act's validity is no longer a foregone conclusion" (
+Hy and Zel's
+, at p. 690). In
+Canadian Council of Churches
+, the Court had many reservations about the nature of the proposed action, but in the end accepted that "some aspects of the statement of claim could be said to raise a serious issue as to the validity of the legislation" (p. 254). Once it becomes clear that the statement of claim reveals at least one serious issue, it will usually not be necessary to minutely examine every pleaded claim for the purpose of the standing question.
+[25]
+Thus, on a preliminary examination of the merits of the case, the claim must be so unlikely to succeed that its outcome is a "foregone conclusion". Reservations as to the merits, or the existence of countervailing authority, is not determinative. Applying the criteria of
+Downtown Eastside
+, I am satisfied that a substantial constitutional issue is raised. The constitutionality of section 8 of the
+Strengthening Citizenship Act
+is of public importance. The memoranda filed with the Court reveal a genuine, serious and substantial argument, albeit novel and ultimately unsuccessful. Success on the merits is not the barometer of standing.
+[26]
+Second, I am satisfied that the applicants have a genuine interest in the proceeding. This factor is concerned with whether the applicants are engaged with the issues they raise:
+Downtown Eastside
+at para 43. It is clear from the affidavits filed by Mr. Galati and the Centre that the applicants have been and are currently engaged with a variety of constitutional challenges consistent with the Centre's mandate to challenge state action or laws which may, in their opinion, be unconstitutional. They point to their petition to the Governor General that he refrain from granting assent as evidence of their genuine interest and their pursuit of recourse other than litigation.
+[27]
+Finally, this proceeding is a reasonable and effective means of bringing to court the question of the legislative competence of Parliament in respect of citizenship. Although future challenges to the
+Strengthening Citizenship Act
+may arise, there is no parallel litigation to consider that may constitute a more effective vehicle for determining the narrow question raised in this application. Secondly, it is not contended that the
+Strengthening Citizenship Act
+trenches on provincial legislative jurisdiction. No question of the correct demarcation between abutting or potentially overlapping legislative schemes, each with their own objectives, policy frameworks and operational contexts is engaged, as is characteristic of division of powers analysis; rather the argument here is that Parliament's competence is constrained by constitutional limits derived from British common law and woven into the
+Constitution Act, 1867
+.
+[28]
+Further, and importantly, this proceeding does not engage any issues pursuant to the
+Charter
+. There is no
+Charter
+challenge, no question of section 1 evidence. All counsel stress that the issue before this Court is both narrow and discrete. In addition, the well-understood caution against the adjudication of constitutional issues in a vacuum is not triggered (
+ <FRAGMENT_SUPPRESSED> ). The Court has all the necessary legislative facts before it. There is no missing factual matrix.
+[29]
+In sum, all three factors, viewed cumulatively, favour the exercise of discretion to grant public interest standing to the applicants to bring their application. Having regard to the completeness of the record, the narrow nature of the question, the fact that a serious constitutional question is framed, and the consideration of the most efficient use of scarce judicial resources, I am satisfied that a grant of public interest standing is warranted. The determination of the issues raised in this application is consistent with the efficient administration of justice. Deferring resolution of the question raised to another day benefits neither the applicants, the respondents, nor the Court.
+C.
+The admissibility of Mr. Galati's affidavit
+[30]
+The second procedural objection concerns the admissibility of Mr. Galati's affidavit. The respondents state that this affidavit should be struck because Mr. Galati, as counsel, filed the affidavit without leave contrary to Rule 82 of the
+Federal Courts Rules
+, SOR/98-106. Rule 82 precludes a solicitor from appearing as counsel in a proceeding in which he or she has sworn an affidavit. The Notice of Application and the affidavit both indicate that Mr. Galati was not acting as counsel, but "on his own behalf". Arguments regarding admissibility of Mr. Galati's affidavit were not advanced at the hearing, nor did Mr. Galati appear in Court as counsel, and, as such, the prohibition of counsel appearing on his own affidavit was not engaged.
+[31]
+The affidavit is, however, in large measure, irrelevant to the issues as framed by the parties. It also contains hearsay, speculation, opinion evidence, purported expert evidence and legal argument, and is inadmissible. Paragraphs 12, 13, 15, 16 and 20-30 of the affidavit of August 10, 2014 are struck.
+IV. The availability of judicial review
+A.
+The Governor General's grant of royal assent is not justiciable
+[32]
+I turn to the threshold question in this application: whether the Governor General's grant of royal assent is justiciable. This can be answered by reference to settled constitutional principles with respect to the role of the Governor General in the legislative process. For the reasons that follow, I conclude that the Governor General's grant of royal assent was a legislative act and, in consequence, the issue of whether the Governor General exceeded his constitutional authority in granting royal assent to the
+Strengthening Citizenship Act
+is not justiciable.
+(1) Principles which underlie the doctrine of justiciability
+[33]
+Each of the branches of Canada's government - the legislature; the executive and the judiciary - play a discreet role. All three branches of government must be "sensitive to the separation of function within Canada's constitutional matrix so as not to inappropriately intrude into the spheres reserved to the other branches":
+ <FRAGMENT_SUPPRESSED>  at paras 33-36. No branch should overstep its bounds and each must show "proper deference for the legitimate sphere of activity of the other":
+ <FRAGMENT_SUPPRESSED>  at 389. This relationship between the branches of government, arising as it does from the evolution of the Westminster model, is fundamental to parliamentary democracy and the rule of law. Justiciability is one of the legal devices or doctrines by which the courts give effect to this principle.
+[34]
+The courts cannot intervene in the legislative process. The Supreme Court of Canada explained in
+Re: Resolution to Amend the Constitution
+, [1981] 1 SCR 753 at 785, that courts "come into the picture when legislation is enacted and not before (unless references are made to them for their opinion on a bill or a proposed enactment)". Courts respect the right of Parliament to exercise unfettered freedom in the formulation, tabling, amendment, and passage of legislation.
+[35]
+The courts exercise a supervisory jurisdiction once a law has been enacted. Until that time, a court cannot review, enjoin or otherwise engage in the legislative process unless asked by way of a reference framed under the relevant legislation. To conclude otherwise would blur the boundaries that necessarily separate the functions and roles of the legislature and the courts. To review the Governor General's act of granting royal assent, as the applicants request, would conflate the constitutionally discreet roles of the judiciary and the legislature, affecting a radical amendment of the
+Constitution Act, 1867
+and the conventions which underlie our system of government, notably the right of Parliament to consider and pass legislation.
+[36]
+The applicants' arguments turn this principle on its head. On the theory advanced, the judiciary would adjudicate on the constitutionality of proposed legislation before it became law. That line, once crossed, would have no limit. If the decision to grant royal assent was justiciable so too would the decision to introduce legislation, to introduce a bill in the Senate as opposed to the House, or to invoke closure. No principled line would limit the reach of judicial scrutiny into the legislative process. A similar caution was expressed in
+Reference Re Canada Assistance Plan (BC)
+, [1991] 2 SCR 525 at 559-560 where Justice Sopinka writing for the Court concluded that:
+Parliamentary government would be paralyzed if the doctrine of legitimate expectations could be applied to prevent the government from introducing legislation in Parliament. [...]
+A restraint on the Executive in the introduction of legislation is a fetter on the sovereignty of Parliament itself. [...]
+[37]
+For reasons that I will describe, a constraint on the grant of assent to legislation is equally a fetter on the sovereignty of Parliament.
+[38]
+These examples demonstrate the centrality of justiciability as a doctrine to demarcate the respective roles of the judiciary and Parliament and its importance in maintaining constitutionalism. The point was best expressed by Chief Justice Dickson in
+ <FRAGMENT_SUPPRESSED> , at 90-91:
+[...] As I noted in
+ <FRAGMENT_SUPPRESSED> , at p. 459, justiciability is a "doctrine . . . founded upon a concern with the appropriate role of the courts as the forum for the resolution of different types of disputes", endorsing for the majority the discussion of Wilson J. beginning at p. 460. Wilson J. took the view that an issue is non-justiciable if it involves "moral and political considerations which it is not within the province of the courts to assess" (p. 465). An inquiry into justiciability is, first and foremost, a normative inquiry into the appropriateness as a matter of constitutional judicial policy of the courts deciding a given issue or, instead, deferring to other decision-making institutions of the polity.
+[39]
+No legal doctrine or precedent was identified in argument which would justify the insertion of the courts into an assessment of the lawfulness of legislation as it progresses through Parliament. Indeed, the argument rails against both precedent and convention. Responsible government, at its core, requires that the democratically elected representatives of Canadians determine what laws are enacted by Parliament.
+[40]
+To conclude, the judiciary will not, to borrow from Justice Sopinka in
+Re Canada Assistance Plan
+at 559, meddle in the legislative process. The courts respect the process and procedures of Parliament from introduction of a bill to its enactment, and do not, absent a reference, comment on the legality of bills before either of the two Houses of Parliament. Questions that come before the courts which engage these issues are not justiciable. The inquiry, in this case, thus turns to the nature and character of the act of assent and where it is situated in the legislative process and constitutional framework. I turn to that issue.
+(2) The grant of assent is a legislative act
+[41]
+Canada is a constitutional monarchy and a parliamentary democracy. Section 9 of the
+Constitution Act, 1867
+provides for the unity of all executive authority in the Queen. Within this framework, there is a
+formal
+head of a state and a
+political
+head of state. The Governor General exercises the powers of the Crown on behalf of the sovereign:
+Letters Patent Constituting the Office of Governor General and Commander-in-Chief of Canada (1947),
+in
+Canada Gazette
+, Part I, vol 81, p 3014 (reproduced in RSC 1985, App II, No 31)). As such, the Governor General serves as Canada's formal head of state and the representative of the Queen in Canada, while the political head of state in Canada is the Prime Minister.
+[42]
+The Governor General retains many duties which are integral to the conventions which, collectively, create the Westminster system of government. These include the swearing-in of the Prime Minister, the summoning, prorogation and dissolution of Parliament, the reading of the Speech to the Throne, the swearing-in and oath of office of justices of the Supreme Court and Chief Justices.
+[43]
+Under the Constitution, the Queen, and her representative in Canada, is expressly included in the legislative process. Section 17 of the
+Constitution Act, 1867
+establishes the Parliament of Canada and section 55 of
+Part IV - Legislative Power
+provides for and defines the nature of the legislative power exercised by the Governor General when he or she grants royal assent:
+17. There shall be One Parliament for Canada, consisting of the Queen, an Upper House styled the Senate, and the House of Commons.
+55. Where a Bill passed by the Houses of Parliament is presented to the Governor General for the Queen's Assent, he shall declare, according to his discretion, but subject to the Provisions of this Act and Her Majesty's Instructions, either that he assents thereto in the Queen's Name, or that he withholds the Queen's Assent, or that he reserves the Bill for the Signification of the Queen's Pleasure.
+17. Il y aura, pour le Canada, un parlement qui sera composé de la Reine, d'une chambre haute appelée le Sénat, et de la Chambre des Communes.
+55. Lorsqu'un bill voté par les chambres du parlement sera présenté au gouverneur-général pour la sanction de la Reine, le gouverneur-général devra déclarer à sa discrétion, mais sujet aux dispositions de la présente loi et aux instructions de Sa Majesté, ou qu'il le sanctionne au nom de la Reine, ou qu'il refuse cette sanction, ou qu'il réserve le bill pour la signification du bon plaisir de la Reine.
+[44]
+Royal assent is the final stage in the legislative process. It transforms a bill into law. It is only once royal assent is given that a bill becomes part of the law of Canada (Jessica Richardson, "Modernisation of Royal Assent in Canada" (2004) 27 Canadian Parliamentary Review 32). The approval of the Sovereign, represented by the Governor General and indicated by assent, is required before a bill is passed by the House of Commons and the Senate and becomes law. Section 55 makes the grant of assent a constitutional imperative.
+[45]
+The Governor General's grant of royal assent is important, both symbolically, but also doctrinally. Doctrinally, the fusion of legislative and executive functions at various stages of the Parliamentary process is central to the conceptual underpinning of the Westminster system of government. Symbolically, the grant of assent is the moment when the three constituent elements of Parliament - the House of Commons, the Senate, and the Crown - come together to create law; hence, it is the moment when the Queen is in Parliament (Richardson at 32).
+[46]
+While section 55 confers discretion on the Governor General whether to assent, that discretion is wholly constrained by the constitutional convention of responsible government. In granting assent, the Governor General does not exercise an independent discretion. He acts on the advice of the Prime Minister. Assent must be given to a bill that has passed both Houses of Parliament; to withhold assent would be inconsistent with the principles of responsible government. As Professor Peter Hogg has explained, constitutional conventions prevent the Governor General from withholding royal assent:
+The definition of those occasions when the Governor General may exercise an independent discretion has caused much constitutional and political debate. But it is submitted that the basic premise of responsible government supplies the answer: so long as the cabinet enjoys the confidence of a majority in the House of Commons, the Governor General is always obliged to follow lawful and constitutional advice which is tendered by the cabinet. (Peter Hogg,
+Constitutional Law of Canada
+, 5th ed (Toronto: Carswell) vol 1 at 9-24)
+[47]
+Section 55 is included in Part IV of the
+Constitution Act, 1867
+-
+Legislative Power
+, confirming the conclusion that the act of assent is legislative in nature. While section 55 reflects the construct of a constitutional monarchy, the fact that the power to grant or withhold assent was, in its inception, a prerogative power of the sovereign, does not alter its fundamental character as the final act in the legislative process. As the Federal Court of Appeal observed  <FRAGMENT_SUPPRESSED>  First Nation
+at para 63, the question whether a matter is justiciable bears no relation to the source of the power, and there is "no principled distinction between legislative sources of power and prerogative sources of power ..." The act of assent, although originally a prerogative power and now wholly constrained by constitutional convention, remains a legislative act and therefore not justiciable.
+[48]
+To conclude, it is the act of the Sovereign, represented in Canada by the Governor General, which moves a bill from the political, legislative process into the realm of normative law. More prosaically, assent breathes life into the law:
+ <FRAGMENT_SUPPRESSED>  (Nfld SCTD). The Governor General may signify royal assent in writing, and in my view, everything up to the ink used to signify assent being dry is a legislative act and not justiciable. The application fails on this basis alone.
+B.
+The Governor General as respondent
+[49]
+I turn now to the threshold statutory objection to this application: whether the respective respondents are federal boards, commissions or other tribunals within the ambit of subsection 2(1) of the
+Federal Courts Act
+. In addition to the Governor General, the applicants have joined the Minister of Citizenship and Immigration and the Attorney General of Canada both as Ministers and in their capacity as Members of Parliament. The alleged
+gravamen
+of their conduct as Members of Parliament was to vote in favour of Bill C-24 when they were aware of its patent unconstitutionality.
+[50]
+Again, as noted earlier, the justiciability and jurisdictional inquiries are discrete; justiciability focuses on the nature and character of the act or question before the court, and appropriateness and ability of the court to deal with the matter. Whether the respondents are federal boards turns on the source of the power in question. Thus, whether the Governor General, in granting royal assent is a federal board is determined by the source or origin of the power exercised:
+ <FRAGMENT_SUPPRESSED> .
+[51]
+Relying on <FRAGMENT_SUPPRESSED> , the applicants contend that the Governor General's decision to grant or withhold assent is subject to the judicial review because its origins lie in the crown prerogative. That is, the crown prerogative is the
+source
+of the Governor General's power to grant royal assent. They say as a matter of constitutional principle, the sovereign has always had the power to grant or withhold royal assent. As Parliament has not restricted the power to grant royal assent as of the date of patriation of the Constitution in 1982, the crown prerogative remains the source of the power. As the exercise of crown prerogative is reviewable by the courts for compliance with the Constitution, so to, it follows, is the decision of the Governor General:
+Hupacasath First Nation
+;
+ <FRAGMENT_SUPPRESSED> .
+[52]
+The Attorney General contends that section 55 of the
+Constitution Act, 1867
+is the source of the power to grant or withhold assent. In response, the applicants say that section 55 merely
+assigns
+the power of assent to the Governor General, as opposed to other executive actors such as the Queen directly, or a Lieutenant Governor. Thus, in granting, or withholding assent, the Governor General is exercising a pure prerogative power.
+[53]
+As previously noted, section 17 of the
+Constitution Act, 1867
+establishes "One Parliament for Canada, consisting of the Queen, an Upper House styled the Senate, and the House of Commons". The Governor General, in granting royal assent, is part of Parliament, and as such, is excluded from judicial review jurisdiction.
+[54]
+Speaking in the context of a judicial review of a decision of a Senate committee, the Court of Appeal affirmed the view of Strayer J that the source of the Senate's power was not the
+Parliament of Canada Act
+, but rather was the
+Constitution Act, 1867
+:
+However, in my view, the words "conferred by or under an Act of Parliament" of Canada in section 2 mean that the Act of Parliament has to be the source of the jurisdiction or powers which are being conferred. The privileges, immunities and powers of the Senate are conferred by the Constitution, not by a statute, although the latter defines or elaborates upon the privileges, immunities and powers. Such a statute then is the manifestation of Senate privileges but it is not its source; the source is section 18 of the Constitution Act, 1867:
+ <FRAGMENT_SUPPRESSED>  at para 28 (CA).
+[55]
+The decision of the Court of Appeal in <FRAGMENT_SUPPRESSED> is clear guidance that the power of assent is derived from the
+Constitution Act, 1867
+.
+[56]
+The provenance of the power to grant or withhold assent lies in the royal prerogative, but that power is now embedded in section 55 of the
+Constitution Act, 1867
+, and how that prerogative is exercised is constrained by constitutional convention. As Professor Hogg observes, in granting assent, the Governor General "plays no discretionary role whatever"; rather, the Governor General is bound by the conventions of responsible government and "...must always give the royal assent to a bill which has passed both Houses of Parliament" (Hogg at 9-22). There is "no circumstance" which would justify refusal of assent, as the obligation is that of a constitutional convention (Hogg at 9-22).
+[57]
+The applicants also point to the
+Royal Assent Act
+, SC 2002, c 15 as the act of Parliament which assigns procedural functions of the Governor General regarding the power to grant or withhold assent. Therefore, the applicants argue that as certain facets of royal assent are exercised pursuant to statute, the Governor General, in this respect, is thus brought within the ambit of subsection 2(1) of the
+Federal Courts Act
+.
+[58]
+The
+Royal Assent Act
+prescribes the form and manner by which assent is communicated. The Governor General may grant royal assent through either a written procedure detailed in the
+Royal Assent Act
+, or by way of the traditional ceremony where bills are presented to the Governor General and he or she signifies assent by a nod of the head. Section 2 of the
+Royal Assent Act
+provides:
+2. Royal assent to a bill passed by the Houses of Parliament may be signified, during the session in which both Houses pass the bill,
+(a) in Parliament assembled; or
+(b) by written declaration.
+2. L'octroi de la sanction royale aux projets de loi adoptés par les chambres du Parlement s'effectue, au cours de la session de l'adoption:
+a) soit devant les trois composantes du Parlement;
+b) soit par déclaration écrite.
+[59]
+The
+Royal Assent Act
+also prescribes that assent must be given "in Parliament assembled" at least twice a year, and on the first vote on appropriation, whether main or supplementary estimates, in each session. I note that while the applicants rely on the
+Royal Assent Act
+to establish that the Governor General is acting pursuant to a statutory power, the preamble provides: "Whereas royal assent is the constitutional culmination of the legislative process". While it is perhaps too obvious a point to be made, the prerogative to assent predates the
+Royal Assent Act
+, which was enacted in 2002. The
+Royal Assent Act
+cannot be the source of the Governor General's power to grant royal assent, and it is of no support to the applicants.
+[60]
+In sum, in granting assent, the Governor General is not acting under the
+Royal Assent Act
+, but is exercising a constitutional responsibility vested in him under section 55 of the
+Constitution Act
+. The application against His Excellency, The Right Honourable Governor General David Johnston is therefore dismissed.
+C.
+The ministers as respondents
+[61]
+Subsection 2(1) of the
+Federal Courts Act
+defines a "federal board, commission or other tribunal":
+Interpretation
+2. (1) Definitions - In this Act,
+"federal board, commission or other tribunal" means any body, person or persons having, exercising or purporting to exercise jurisdiction or powers conferred by or under an Act of Parliament or by or under an order made pursuant to a prerogative of the Crown, other than the Tax Court of Canada or any of its judges, any such body constituted or established by or under a law of a province or any such person or persons appointed under or in accordance with a law of a province or under section 96 of the Constitution Act, 1867.
+Définitions
+2. (1) Définitions - Les définitions qui suivent s'appliquent à la présente loi.
+« office fédéral » Conseil, bureau, commission ou autre organisme, ou personne ou groupe de personnes, ayant, exerçant ou censé exercer une compétence ou des pouvoirs prévus par une loi fédérale ou par une ordonnance prise en vertu d'une prérogative royale, à l'exclusion de la Cour canadienne de l'impôt et ses juges, d'un organisme constitué sous le régime d'une loi provinciale ou d'une personne ou d'un groupe de personnes nommées aux termes d'une loi provinciale ou de l'article 96 de la Loi constitutionnelle de 1867.
+[62]
+If there were any doubt whether members of the House of Commons were a federal board because of the
+Parliament of Canada Act
+, RSC 1985, c P-1 it is put to rest by subsection 2(2):
+(2) For greater certainty, the expression "federal board, commission or other tribunal", as defined in subsection (1), does not include the Senate, the House of Commons, any committee or member of either House, the Senate Ethics Officer or the Conflict of Interest and Ethics Commissioner with respect to the exercise of the jurisdiction or powers referred to in sections 41.1 to 41.5 and 86 of the Parliament of Canada Act.
+(2) Il est entendu que sont également exclus de la définition de « office fédéral » le Sénat, la Chambre des communes, tout comité ou membre de l'une ou l'autre chambre, le conseiller sénatorial en éthique et le commissaire aux conflits d'intérêts et à l'éthique à l'égard de l'exercice de sa compétence et de ses attributions visées aux articles 41.1 à 41.5 et 86 de la Loi sur le Parlement du Canada.
+[63]
+Subsection 2(2) makes clear that members of the House of Commons are exempt from the definition of "federal board, commission or other tribunal". As members of the House of Commons, neither Minister can be joined as a respondent:
+ <FRAGMENT_SUPPRESSED>  (FCA). The application is therefore dismissed against the Ministers in their capacity as Members of Parliament.
+[64]
+The result is no different simply because a Member of Parliament also holds a Cabinet portfolio. While Members of Parliament, in their capacity as cabinet ministers, may introduce legislation, and speak in its support in the House and at Committee, they vote with their peers as Members of Parliament. In the act of voting, cabinet ministers stand undifferentiated from other Members of Parliament. Hence the saying, "the executive proposes, the House disposes". The clear language and intent of subsection 2(1) is neither truncated nor altered by the fact that a member of the House of Commons also is a cabinet minister.
+[65]
+Further, no decision, order or act is alleged to have been made or taken by either the Minister of Citizenship and Immigration or the Attorney General exercising a jurisdiction or power under an act of Parliament which would trigger jurisdiction of this Court. The application against the ministers is also dismissed.
+V. Whether section 8 of the
+Strengthening Citizenship Act
+is beyond the legislative capacity of Parliament under the
+Constitution Act, 1867
+[66]
+I have disposed of this application on the dual basis that the decision of the Governor General to royal assent is not justiciable and that the respondents are not federal boards within the meaning of subsection 2(1) of the
+Federal Courts Act
+. However, the underlying substantive question in respect of which declaratory relief is sought, namely whether section 8 of the
+Strengthening Citizenship Act
+is beyond the legislative capacity of Parliament under the
+Constitution Act, 1867
+, remains. With respect to this issue I find that section 8 of the
+Strengthening Citizenship Act
+is within the legislative competence of Parliament under the
+Constitution Act, 1867
+, and has a constitutional foundation in both the general power of section 91 as well as section 91(25) of the
+Constitution Act, 1867
+.
+[67]
+The applicants first argue that citizenship is an inalienable right. At the heart of this argument is the principle of
+jus soli
+- that citizenship or nationality follows place of birth.
+ <FRAGMENT_SUPPRESSED>  expressed as one of perpetual allegiance to the sovereign. Once a subject of the Queen, always a subject of the Queen.
+Jus soli
+was thus embedded in Canadian law through the "similar in Principle to that of the United Kingdom" preamble clause of the
+Constitution Act, 1867
+and has the same force and effect as any of the provisions of the
+Constitution Act, 1867
+. The
+Constitution Act, 1867
+is silent in regards to "subjects" and "citizens" because it was implicitly understood by the drafters of the Constitution that Parliament had no competence to revoke the rights of natural-born citizens.
+[68]
+The applicants point to the evolution of
+jus soli
+in the United States from a common law doctrine to a constitutional right of citizenship to argue that this evolution has also occurred in Canada. In my view, no analogy can be made to the consideration of citizenship in American jurisprudence. Since the 14th Amendment in 1868, citizenship on the basis of
+jus soli
+has been woven into the constitutional jurisprudence of the Supreme Court of the United States such that it is of historical interest alone to this Court.
+[69]
+It therefore follows, according to the applicants, that Parliament cannot legislate with respect to revocation of citizenship of Canadians, whether natural born or naturalized. The legal construct of citizenship is as it stood in 1982. Citizenship is now "frozen and constitutionalized" because of the patriation of the Constitution in 1982. That is, Parliament has no ability to revoke citizenship in the case of natural-born or naturalized citizens because the patriation of the Constitution did not alter key language in the preamble and section 91(25). The applicants place considerable emphasis, by way of analogy, on the decision of the Supreme Court of Canada in
+Reference re Supreme Court Act
+.
+[70]
+The applicants' reliance on the
+Reference re Supreme Court Act
+is of no assistance. The question before the Supreme Court concerned the specific issue of the appointment of judges to the Supreme Court in respect of the province of Québec, and the amending formulas in section 41 of the
+Constitution Act, 1982
+. The decision does not stand for the proposition that common law principles transform into constitutional principles through the similar in principle clause of the
+Constitution Act, 1867
+, or that the interpretation of the Constitution is frozen as of the date of patriation.
+[71]
+The applicants' second argument is that, even if the first fails, which it does, Parliament does not have the legislative competence to revoke citizenship. The absence of citizenship as a head of legislative power in the
+Constitution Act, 1867
+, was a deliberate omission consistent with the inalienability of citizenship as it was known at the time. Parliament's legislative competence was carefully limited at Confederation to simply "naturalization and aliens".
+A.
+Citizenship is not an inalienable constitutional right
+[72]
+The applicants' first argument is that citizenship is an inalienable and immutable right, and that this common law principle was essentially cemented in the Canadian constitutional framework in 1867 through the preamble of the Constitution. The genesis of this argument lies in the
+Magna Carta (1215)
+and
+Calvin's
+Case
+, to which I now turn.
+[73]
+It is hard to see how, even on a textual basis, the
+Magna Carta
+assists the applicants. Section 39 of the
+Magna Carta
+contemplates that no man will be "outlawed, or exiled" or "deprived of his standing" except by "the lawful judgment of his equals or by the law of the land". Section 42 grants subjects of the sovereign the right to leave England and to return unharmed and without fear "preserving his allegiance to us". Thus, citizenship was not lost by time spent abroad, subject to the qualification that subjects may be "outlawed in accordance with the law". Exile, and the right to remain in England was subject to "the law of the land". Therefore these provisions of the
+Magna Carta
+point in the opposite direction to that urged by the applicants.
+[74]
+Secondly, the
+Magna Carta
+is not a constitutional instrument. While its seminal place in the development of our constitutional and legal principles is well known, its terms may be, and have been displaced by the legislation of Westminster and Parliament. As Professor Hogg writes, the
+Magna Carta
+is simply a statute "amenable to ordinary legislative change" (Hogg at 34-2). It "has no independent legal significance or legislative weight in the scheme of current Canadian legislation":
+ <FRAGMENT_SUPPRESSED> . I now turn to the second foundation of the applicants' argument,
+Calvin's Case
+.
+[75]
+The applicants are correct when they assert that
+Calvin's Case
+established a common law entitlement to citizenship based on birthplace (
+jus soli
+). However,
+Calvin's Case
+was over-taken by both the common law and statute law.
+[76]
+The
+American Colonies Peace Act
+(1782), Geo. III, c 46 and the ensuing
+Definitive Treaty of Paris
+, United States and Great Britain, 3 September 1783, 8 US Stat 80, UKTS 104, Article 1 (the
+Treaty
+), recognized the 13 colonies to be a free, independent and sovereign state. The question whether the colonists in the new republic remained British subjects, according to
+Calvin's
+Case
+, or whether, by virtue of the
+Treaty
+, became citizens of the United States of America, was squarely addressed in
+Doe on the  <FRAGMENT_SUPPRESSED>  time of British colonies were "undoubtedly" British subjects, but that the inhabitants generally became United States citizens and aliens to Britain. The Court held that the plaintiff's father, through his continued residence in the United States, "manifestly became a citizen of them". Further, the Court held that subsequent acts of Parliament gave validity to the
+Treaty
+, thus ending the debate, and reversing the principle expressed in
+Calvin's Case
+. As the principle of perpetual allegiance and
+jus soli
+was rejected in
+Doe on the  <FRAGMENT_SUPPRESSED>  Act, 1867
+, and frozen by the
+Constitution Act, 1982
+.
+[77]
+There was, therefore, no common law doctrine extant at Confederation which, through the preamble to the
+Constitution Act, 1867
+, could become an unwritten constitutional principle of an inalienable right to citizenship. Since no such right existed it therefore could not then have been "frozen and constitutionalized" upon the patriation of the
+Constitution Act, 1867
+. I leave aside the question as to how a common law principle, even if it was unequivocally established, metamorphasized into a constitutional requirement.
+Charter
+considerations aside, the jurisprudence and legislative history teach that citizenship does not have the same dimension.
+[78]
+I note as well that this case stands far removed from those where an unwritten principle was found to have a constitutional dimension through the similar in principle clause. For example, the independence of the judiciary in Canada is partly secured by written constitutional provisions, partly by "unwritten constitutional principles", but is "most effectively secured" by a long political tradition going back to the beginning of the eighteenth century in Britain (Hogg at 34-3). Other such examples include the independence of the legal profession; the rule of the law and the separation of powers (Hogg at 34-3;
+ <FRAGMENT_SUPPRESSED> ).
+[79]
+The proposition that citizenship is an inalienable right that cannot be defined, circumscribed or revoked by Parliament has no support. Certainly, by 1824, the year in which
+Doe on the  <FRAGMENT_SUPPRESSED>  judicial responses to events in pre- and post-Confederation Canada and in the United Kingdom also cast considerable doubt on the concept of a perpetual bond between the subject and sovereign as a common law principle, let alone one with a constitutional dimension.
+[80]
+Finally, legislation can always, save the constraint of the division of powers and the
+Charter
+, trump common law principles. As Professor Hogg notes, Parliament received powers as 'plenary and ample' as those of the United Kingdom Parliament (Hogg at 34-3). Thus, Parliament can, through legislation, reverse or override any common law principle. A historical review of such legislative and judicial responses illustrates that neither Westminster, nor Parliament, felt that citizenship was inalienable.
+(1) Pre-1931 historical review of legislation providing loss of citizenship
+[81]
+In 1814, the legislature of Upper Canada enacted
+An Act to declare certain persons, therein described, Aliens, and to vest their estates in His Majesty
+;
+Statutes of Upper Canada
+, 54 George III, c 9, 1814 (the
+Aliens Act
+). The
+Aliens Act
+deemed those British colonists who left Upper Canada to fight for the Americans in the War of 1812 to be aliens, and forfeited their lands to the Crown.
+[82]
+In 1869, the Lord Chief Justice noted on the need to reform the "inflexible rule, that no British subject can put off his country or the natural allegiance which he owes to the Sovereign ..." (Sir Alex Cockburn,
+Nationality: The Law Relating to Subjects and Aliens
+(London: William Ridgway, 1869) at 198-203).
+[83]
+Reform arrived through the Imperial
+Naturalization Acts
+, 1870 and 1872 (UK), 35 & 36 Vict, c 39 and
+The Naturalization Act, 1881
+, SC 1881, c 13 (The
+Naturalization Act, 1881
+), which allowed citizens to expatriate themselves, an option inconsistent with the premise which underlies the applicants' argument.
+[84]
+These statutes removed any uncertainty which may have lingered after
+Doe on the  <FRAGMENT_SUPPRESSED>  abrogates the old rule of law,
+nemo potest exure patriam
+[no one can get rid of his country], and concedes the right of expatriation, thus sweeping away the formerly well known theory, - 'once a British subject always a British subject'" (Alfred Howell, "Expatriation" (1883) Vol III:12 The Canadian Law Times 463). The
+Naturalization Act, 1881
+also provided that women who married aliens adopted the nationality of their spouses and were no longer British subjects. Further, the acts had retroactive effect; women who had married aliens before the acts became law were automatically, by operation of the statute, deemed to be aliens.
+[85]
+World War I also triggered legislative responses in respect of citizenship, again inconsistent with the applicants' position.
+An Act respecting British Nationality, Naturalization and Aliens
+, SC 1914, c 44, s 7(2), and its Imperial equivalent, provide for the revocation of citizenship where the person "... has shown himself by act or speech to be disaffected or disloyal to His Majesty". Disloyalty included trading and communicating with the enemy where continuance of the certificate was "not conducive to the public good". Revocation of status as a British subject on these grounds remained part of Canadian law until 1958:
+An Act to amend the Canadian Citizenship
+Act, SC 1958, c 24, s 2.
+(2) Post-1931 historical review of legislation providing loss of citizenship
+[86]
+Canada only obtained the exclusive jurisdiction over citizenship in 1931 with the passage of the
+Statute of Westminster, 1931,
+1931 (UK) c 4, and it was not until 1947 when the first
+Canadian Citizenship Act
+, SC 1946, c 15 (
+Canadian Citizenship Act
+) was enacted, and the concept of Canadian citizenship was created:
+ <FRAGMENT_SUPPRESSED>  at para 30. The
+Canadian Citizenship Act
+provided for loss of citizenship when a Canadian with dual nationality served in the armed forces of a country that was at war with Canada. This disentitlement provision remained in force until 1977 with the passage of the
+Citizenship Act
+, SC 1974-75-76, c 108.
+[87]
+The
+Canadian Citizenship Act
+was amended in 1953. Persons born outside of Canada but deemed by operation of the statute to be citizens by parentage, lost their citizenship if they failed to establish a domicile in Canada or file a declaration of citizenship by a certain age: see
+ <FRAGMENT_SUPPRESSED> .
+[88]
+More recently, the
+British Nationality Act, 1981
+(UK), 1981, c 61, legislated that all children born in the UK were not necessarily British subjects, and, in 2002, the act was amended to allow for revocation where the Secretary of State is "satisfied that the deprivation is conducive to the public good".
+[89]
+This brief historical survey of the legislative treatment of nationality and citizenship demonstrates that neither Westminster, nor Parliament, felt constrained by the
+jus soli
+principle. Nationality or citizenship could be lost, in some cases, retroactively, by conduct, absence from the country, and marriage. As early as 1871 in the United Kingdom and 1881 in Canada, citizens could, of their own volition, revoke their citizenship.
+[90]
+It is trite to note that the fact Parliament and Westminster enacted legislation does not make it constitutional. That is not the object of this review, rather it demonstrates that even if
+jus soli
+was a common law principle, it had long been displaced by legislation, and that in the 190 years since
+Doe on the  <FRAGMENT_SUPPRESSED>  the legislative history and jurisprudence establishes the opposite. Nationality and citizenship are entirely statutory constructs.
+B.
+The absence of citizenship as an enumerated head of legislative competence and Parliament's exclusive jurisdiction over citizenship
+[91]
+The applicants next point to the absence of citizenship as a head of legislative power in the
+Constitution Act, 1867
+. They say that the omission was deliberate, consistent with the inalienability of citizenship as it was known at the time. The framers of the
+British North American Act, 1867
+, did not address citizenship as a head of power, as citizenship, as it was understood as matter of law, was inalienable. There is, therefore, no constitutional authority, and no legislative competence, for any government to revoke citizenship of a natural born or naturalized Canadian citizen. However, the applicants' position is inconsistent with settled principles of constitutional interpretation and law.
+[92]
+Citizenship is a creature of statute. The Court of Appeal and the Supreme Court of Canada have made clear that there is no independent or free-standing right to citizenship except as accorded by the provisions in Part I -
+The Right to Citizenship
+of the
+Citizenship Act
+. Citizenship may be acquired through birth (subsection 3(1)(a) and (b)), or naturalization (subsection 3(1)(c)). Since the passage of the
+Citizenship Act
+, SC 1974-75-76, c 108, Part II of the
+Citizenship Act
+-
+Loss of Citizenship
+- has authorized the loss of citizenship pursuant to subsection 10(1), where the Governor-in-Council is satisfied, on the basis of a report from the Minister, that the person has obtained citizenship by fraud or misrepresentation. As the Court of Appeal said in
+Taylor
+at para 50:
+Our Court, in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), leave to appeal to Supreme Court of Canada denied [2000] 2 S.C.R. xix, has held that Canadian citizenship is a creature of federal statute and has no meaning apart from statute and that in order to be a Canadian citizen, a person must satisfy the applicable statutory requirements (see, also,
+ <FRAGMENT_SUPPRESSED>  (C.A.), affg (1999), 1999 CanLII 9040 (FC), 177 F.T.R. 219 (F.C.T.D.), and
+ <FRAGMENT_SUPPRESSED>  (CanLII), 268 D.L.R. (4th) 513 (F.C.A.).
+[93]
+Citizenship did not exist as a concept at the time of Confederation, as persons born in, or naturalized in, the British Empire were considered British subjects. In the original understanding of the words "naturalization and aliens" in section 91(25) of the
+Constitution Act, 1867
+, an "alien" was a person who was not a British subject, and "naturalization" was the granting of British-subject status to a person born outside the British Empire (Hogg at 26-5).
+[94]
+Citizenship need not be explicitly listed as a head of power for it to fall within the exclusive jurisdiction of Parliament. Professor Hogg has explained that it is not clear whether the power of Parliament to pass citizenship legislation "comes from s. 91(25) or from the peace, order, and good government power in the opening words of s. 91" (Hogg at 26-5). In my view, it is not necessarily that it be a choice of one or the other. Citizenship clearly falls within Parliament's residual powers under the opening words of section 91 (peace, order, and good government), as well as section 91(25). Although written some 65 years ago, Justice Rand's analysis of the power in
+ <FRAGMENT_SUPPRESSED>  at 918-919, remains compelling in its logic and elegance:
+The first and fundamental accomplishment of the constitutional Act was the creation of a single political organization of subjects of His Majesty within the geographical area of the Dominion, the basic postulate of which was the institution of a Canadian citizenship. Citizenship is membership in a state; and in the citizen inhere those rights and duties, the correlatives of allegiance and protection, which are basic to that status.
+The Act makes no express allocation of citizenship as the subject-matter of legislation to either the Dominion or the provinces; but as it lies at the foundation of the political organization, as its character is national, and by the implication of head 25, section 91, "Naturalization and Aliens",
+it is to be found within the residual powers of the Dominion
+:
+Canada Temperance
+case, at p 205. Whatever else might have been said prior to 1931, the Statute of Westminster, coupled with the declaration of constitutional relations of 1926 out of which it issued, creating, in substance, a sovereignty, concludes the question. (Emphasis added)
+[95]
+Section 91(25) complements the general power, and reinforces the conclusion that all aspects of citizenship are within the exclusive and plenary authority of Parliament. It is implicit, indeed logically imperative, that legislative competence over naturalization includes competence over citizenship. If it did not, it would leave unanswered the question as to the end result of the naturalization process - naturalized to what? Similarly implicit in the concept of "alien" is a legal state or status from which one is alienated. "Naturalization" and "alien" both require, for their understanding and meaning, juxtaposition or distinction with citizenship or nationality.
+[96]
+The applicants' argument that the power to legislate with respect to the revocation of citizenship is outside the legislative competence of
+both
+Parliament and the provincial legislatures because the language of "citizen" or "citizenship" is not specifically mentioned in the
+Constitution Act, 1867
+ignores Justice Rand's comments in
+Winner
+, the broad residual powers left to Parliament in section 91 of the
+Constitution Act, 1867
+, and the specific allocation of a key aspect of citizenship to Parliament in section 91(25). It also is inconsistent with governing principles of interpretation as well as the principle of exhaustiveness in the division of powers.
+[97]
+As a matter of long-standing doctrine, the Constitution is to be interpreted in a liberal manner that ensures its vitality and relevance to a large, complex and evolving nation.  <FRAGMENT_SUPPRESSED>  (PC) at 136 Lord Sankey referred to the
+British North America Act
+as "a living tree capable of growth and expansion within its natural limits." Aeronautics, regulation of radio frequencies, the creation and development of a national capital region are all examples of the evolution of the Constitution to respond to change:
+Reference re: Regulations & Control of Aeronautics
+, [1930] SCR 663;
+Reference re: Regulation and Control of Radio Communication
+, [1931] SCR 541;
+ <FRAGMENT_SUPPRESSED> . The concept of citizenship and the subsequent rights that flow from the concept have also changed over time. The argument that revocation of citizenship is untouchable because the language of 'citizen' or 'citizenship' is not explicitly included in the Constitution is incompatible with the living tree doctrine. Indeed, this argument ignores the capabilities of the Constitution and instead fells the tree.
+[98]
+The principle of exhaustiveness recognizes that there is no legislative power that is not held by either Parliament or the Legislatures. It ensures that there is no vacuum in the legislative capacity of government. As the Supreme Court of Canada explained in
+Reference re Same-Sex Marriage
+, 2004 SCC 79 at para 34:
+The principle of exhaustiveness, an essential characteristic of the federal distribution of powers, ensures that the whole of legislative power, whether exercised or merely potential, is distributed as between Parliament and the legislatures:
+Attorney-General for  <FRAGMENT_SUPPRESSED>  (PC) at p 581; and
+Attorney-General for  <FRAGMENT_SUPPRESSED>  (PC). In essence, there is no topic that cannot be legislated upon, though the particulars of such legislation may be limited by, for instance, the
+Charter
+.
+[99]
+Given these principles, it is clear that Parliament must enjoy exclusive and unqualified legislative competence over citizenship, subject only to constraints of the
+Charter of Rights and Freedoms
+.
+VI. Conclusion
+[100]
+The application for judicial review is dismissed. The matter in respect of which judicial review is sought, the decision to grant royal assent, is a legislative act and not justiciable. The respondents are not federal boards exercising a power or jurisdiction conferred under an act of Parliament. In any event, the substantive argument with respect to constitutionality of the
+Strengthening Citizenship Act
+fails. Section 8 of the
+Strengthening Citizenship Act
+is within the legislative competence of Parliament.
+JUDGMENT
+[101]
+THIS COURT'S JUDGMENT is that
+the application is dismissed, with costs. If parties cannot agree on the amount of costs, submissions of no more than five pages in length may be made within 10 days from the date of this decision.
+Application dismissed.
+Editor: E. Joanne Oley/bk
+[End of document]

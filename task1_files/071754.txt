@@ -1,0 +1,144 @@
+[1]
+Noël, J.
+[Translation]: This is an application for judicial review of a decision by the Refugee Protection Division of the Immigration and Refugee Board (the Board) dated October 28, 2004. By that decision, the Board rejected the claim for refugee protection of the applicant Ricardo Antonio Salgado and of his wife Sofia Esperanza Alas de Salgado and his two minor children, Eduardo Antonio Salgado Alas and Ricardo Vladimir Salgado Alas.
+ISSUES
+[2]
+The issue is the following:
+- Did the Board err in law in dismissing the applicant's claim for refugee protection based on the exclusion grounds provided for by the
+Convention Relating to the Status of Refugees
+, Can. T.S. 1969, No. 6 (the
+Convention
+)?
+CONCLUSION
+[3]
+For the reasons that follow, the application for judicial review is dismissed.
+FACTS ALLEGED BY APPLICANT
+[4]
+The applicant and the members of his family are citizens of El Salvador. The applicant worked for that country's Air Force from 1983 to 1994. The position he held was that of stock clerk in the Air Force spare parts warehouse. In particular, he was responsible for the warehouse section for the model A-37-B aircraft. From 1995 onwards, the applicant made several trips to the U.S..
+[5]
+The claim by the applicant and his family for refugee protection was based on the existence of a fear of persecution in El Salvador on account of their alleged political opinions. However, in the application for judicial review at bar, only the question of exclusion (not fear of persecution) is at issue and the applicant's family are not parties to the case.
+[6]
+The applicant and his family filed their claim for refugee protection in Canada while travelling in the U.S. in December 2002.
+IMPUGNED DECISION
+[7]
+In his decision of October 28, 2004, Board member Michel Jobin dismissed the applicant's claim on account of a ground of exclusion based on the
+Convention
+. Relying on documentary evidence, Mr. Jobin found that, in the 1980s and 1990s, the Salvadoran army bombed civilian populations in the course of its struggle against the FLMN, which also affected the civilian population. Mr. Jobin applied the exclusion clause contained in subsections F(a) and (c) of the
+Convention
+, on the ground that the applicant was a party to crimes against humanity committed by the Salvadoran army in the 1983-1994 period. These exclusion clauses are expressly incorporated by section 98
+IRPA
+and subsection 2(1)
+IRPA
+.
+ANALYSIS
+[8]
+The applicable standard of review is that of the reasonableness simpliciter when the exclusion clauses in section F of the
+Convention
+are in issue in a particular case, since the question is one of mixed fact and law (
+ <FRAGMENT_SUPPRESSED> ; 2002 FCT 887, at para. 12;
+ <FRAGMENT_SUPPRESSED> ; 273 F.T.R. 33; 2005 FC 524, at para. 12).
+[9]
+The relevant provisions of the
+IRPA
+read as follows:
+"2(1) The definitions in this subsection apply in this Act.
+. . . . .
+'Refugee Convention' means the United Nations Convention Relating to the Status of Refugees, signed at Geneva on July 28, 1951, and the Protocol to that Convention, signed at New York on January 31, 1967. Sections E and F of Article 1 of the Refugee Convention are set out in the schedule.
+. . . . .
+"98. A person referred to in section E or F of Article 1 of the Refugee Convention is not a Convention refugee or a person in need of protection.
+. . . . .
+Schedule
+. . . . .
+"F. The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+(a) he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+. . . . .
+(c) he has been guilty of acts contrary to the purposes and principles of the United Nations."
+[10]
+In the case at bar, it is not in dispute that the Salvadoran Army committed the crimes for which it is blamed in the documentation (see panel's record, Decision, at pages 8 and 9; M-8, at page 133, M-23, at page 257, M-15, at page 195, M-16, at page 206 and M-20, at page 234). There is ample evidence that the Salvadoran Armed Forces, including the Air Force, committed numerous crimes against humanity during the relevant period. Therefore, only the definition of complicity in a crime against humanity, and its application to the facts, is at issue here.
+[11]
+The applicant argued that it is the
+Crimes Against Humanity and War Crimes Act
+, S.C. 2000, c. 24 (the
+Crimes Against Humanity Act
+) which provides a definition of the concept of complicity in a crime against humanity within the meaning of the
+Convention
+. For the following reasons, I do not share that view.
+[12]
+First, in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), Mr. Justice MacGuigan dismissed the idea that the concept of complicity could only be interpreted in light of the
+Canadian Criminal Code
+. At paragraph 13, he wrote:
+"It was common ground to both parties during argument that it is not open to this Court to interpret the 'liability' of accomplices under this
+Convention
+exclusively in the light of section 21 of the
+Canadian Criminal Code
+[R.S.C. 1985, c. C-46], which deals with parties to an offence, since that provision stems from the traditional common law approach to 'aiding' and 'abetting.' [See Note 4 below]. An international convention cannot be read in the light of only one of the world's legal systems."
+I think the same is true for the
+Crimes Against Humanity Act
+, in the absence of an express reference thereto. Section 35
+IRPA
+refers to the
+Crimes Against Humanity Act
+. If Parliament had intended that the definition of complicity in a crime against humanity referred to in the Schedule to the
+IRPA
+should be that of the
+Crimes Against Humanity Act
+, it would have indicated this as it did in section 35 of the
+IRPA
+. Further, in the recent case of
+ <FRAGMENT_SUPPRESSED> ; 2003 FCA 178, at paragraph 131, Mr. Justice Nadon indicated that the definition of this concept must be taken from international law:
+"Article F(a) and (c) deals with extraordinary activities, that is international crimes in the case of Article 1F(a), or acts contrary to international standards in the case of article 1F(c) (which explains the presence of the word 'committed' in Article 1F(a), which deals with crimes, and the fact that it is not present in Article 1F(c), which deals with acts that are not necessarily crimes). These are activities which I characterize as extraordinary because, if I might so phrase it, they have been criminalized by the international community collectively for exceptional reasons, and their nature is described in international instruments (Article 1F(a)) or in terms of such instruments (Article 1F(c)). One feature of some of these activities is that they affect communities and are conducted through persons who do not necessarily participate directly in them. In order for the persons who really are responsible to be held to account, the international community wished responsibility to attach to the persons, for example, on whose orders the activities were carried out or who, aware of their existence, deliberately closed their eyes to the fact that they were taking place. It is in these circumstances that the concept of complicity by association developed, making it possible to reach the persons responsible who would probably not have been responsible under traditional criminal law. Fundamentally, this concept is one of international criminal law."
+Therefore, in order to understand this concept derived from international criminal law (in the context of the Schedule to the
+IRPA
+, which refers to the
+Convention
+), we must look to the Federal Court of Appeal's jurisprudence.
+[13]
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), the Court held that it is possible to commit a crime against humanity within the meaning of section F(a) as an accomplice.
+[14]
+Certain benchmarks derived from the case-law make it possible to determine whether a person has committed a crime against humanity by complicity.  <FRAGMENT_SUPPRESSED> ; 302 N.R. 178; 2003 FCA 39, at paragraph 19, Mr. Justice Décary wrote:
+"As the Court noted in
+Bazargan
+at 286, membership in a group makes it easier to conclude that there was 'personal and knowing participation' - which remains the first test - than when there was no membership, but the difference affects the evidence, not the principles. Counsel for the respondent would like the Court to clarify what is meant by 'membership in a group'. I do not think this is necessary. The expression was used in <FRAGMENT_SUPPRESSED> in the context of a member whom the Court described as 'active'. The expression suggests the existence of an institutional link between the organization and the person, accompanied by a more than nominal commitment to the organization's activities. As everything is a question of fact, at the end of the analysis I feel that it is better to speak in terms of participation in the group's activities than of membership in the group."
+[15]
+After reviewing the facts in the record, I have no doubt that the applicant personally and knowingly participated in the crime against humanity committed by the Salvadoran Army with respect to the civilian population of that country. The definition seems quite broad, and the evidence mentioned by Mr. Jobin is abundant and persuasive:
+- according to his testimony, the applicant voluntarily joined the Air Force of the Salvadoran Army, though his family advised him against it;
+- the applicant was responsible for the general spare parts and equipment warehouse for aircraft used by the Salvadoran Army;
+- in particular, he was responsible for a storage division for parts for the A-37-B aircraft which, according to the applicant's testimony, are the fighter planes responsible for covering combat zones against FMLN guerrilla forces;
+- the plaintiff was fully aware of the various flights and the frequency of aircraft flying over the country and knew that during the 1980s the number of missions increased;
+- the applicant knew that the aircraft carried bombs the weight of which amounted to 750 kilos in some cases, and that the bomb most regularly used weighed 500 lb.;
+- like the greater part of the population, the applicant knew that the bombing affected civilian populations as well as the FMLN guerrilla forces (specifically, he was aware of this from 1983 onwards);
+- the applicant admitted that the Army did not treat the population properly;
+- the applicant remained in the Army for a lengthy period, for economic reasons, although he said he considered leaving his job around 1989;
+- the applicant never tried to find any other civilian employment.
+[16]
+These facts show that the applicant, knowingly acted as an accomplice in relation to crimes against humanity committed by the Air Force of the Salvadoran Army. Further, it must be emphasized that, according to the applicant's own testimony, he deliberately chose to stay in the Air Force of the Salvadoran Army, in a position directly linked to the commission of crimes against humanity. He knew full well that the Air Force kept on bombing the civilian population and was fully aware of the link between his work and those bombings. He still decided to stay in his job for economic reasons.  <FRAGMENT_SUPPRESSED>  an important factor to consider is evidence that the individual protested against the crime or tried to stop its commission or attempted to withdraw from the organization. Mr. Justice Robertson noted this point in
+Moreno
+, supra, when he stated [at page 324]:
+'[T]he closer a person is involved in the decision-making process and the less he or she does to thwart the commission of inhumane acts, the more likely criminal responsibility will attach.'
+Of course, as Mr. Justice MacGuigan has written, 'law does not function at the level of heroism' ( <FRAGMENT_SUPPRESSED> , supra, at page 320). Thus, people cannot be required, in order to avoid a charge of complicity by reason of association with the principal actors, to encounter grave risk to life or personal security in order to extricate themselves from a situation or organization. But neither can they act as amoral robots."
+[17]
+It is true that membership in itself will not suffice to establish complicity. However, it is a relevant factor in determining personal and knowing participation. The facts of this case speak for themselves. The applicant belonged to an organization engaged in crimes against humanity, for a very lengthy period. Taken together with the factors noted by Mr. Jobin in his decision, these circumstances lead to the conclusion that the applicant is captured by the
+Convention
+exclusion clauses, incorporated in the
+IRPA
+pursuant to section 98
+IRPA
+and subsection 2(1)
+IRPA
+.
+[18]
+For these reasons, the Board's decision on the question of exclusion within the meaning of the
+Convention
+cannot be varied, irrespective of the applicable standard of review. This was a correct decision.
+[19]
+The parties were invited to suggest questions for certification and no questions were put forward.
+CONCLUSION
+[20]
+The application for judicial review is dismissed and no question will be certified.
+ORDER
+[21]
+THE COURT ORDERS THAT:
+- The application for judicial review be dismissed and no question be certified.
+Application dismissed.
+Editor: Angela E. McKay/vnh

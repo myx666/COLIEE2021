@@ -1,0 +1,74 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Heneghan, J.
+May 2, 2016.
+Counsel:
+Rui Chen, for the applicant;
+Mahan Keramati, for the respondent.
+Solicitors of Record:
+Matthew Wong Orange, LLP, Toronto, Ontario, for the applicant;
+William F. Pentney, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Heneghan, J.
+: Mr. Masaru Gennai (the "Applicant") seeks judicial review of the decision of a delegate of the Minister of Citizenship and Immigration (the "Respondent"), refusing his application for permanent residence in Canada under the Canadian Experience Class ("CEC") Program.
+[2]
+In October 2014, the Applicant applied for permanent residence in Canada under the CEC Program. His application was returned to his Canadian representative under cover of letter dated January 8, 2015 because it did not comply with the requirements for the completion of the application, specifically the payment of the application fees by Visa card was declined.
+[3]
+Under cover of a letter dated February 10, 2010, the application was resubmitted and the fees were paid by an international money order.
+[4]
+By letter dated February 20, 2015, the application was declined, on the basis that as of December 1, 2014, the Respondent had issued Ministerial Instructions requiring all CEC applications be made through the online "Express Entry" system. The Applicant was advised that since his application had been received after January 1, 2015, it was necessary to resubmit the application for processing through the "Express Entry" system.
+[5]
+The Applicant argues that he had a legitimate expectation that his application would be accepted and processed under the prior regime, once he had submitted the necessary fees. He relies on the decision in
+ <FRAGMENT_SUPPRESSED>  to submit that the delegate of the Respondent incorrectly found that his application did not exist because it was incomplete.
+[6]
+On the other hand, the Respondent contends that in the present case, the Applicant's application remains to be assessed according to the same statutory and regulatory criteria that governed his initial application and that the change in the manner of processing the application derives from Ministerial Instructions authorized by subsection 87.3(3) of the
+Immigration and Refugee Protection Act
+, S.C. 2002, c. 27 (the "Act"), not from an Operational Manual, as was the case in
+Campana Campana
+,
+supra
+.
+[7]
+The Ministerial Instructions mandate submission of a complete application to qualify for processing. A complete application requires payment of the necessary processing fees.
+[8]
+The Applicant frames the issue in this application for judicial review as one of procedural fairness, reviewable on the standard of correctness, relying on the decision in
+ <FRAGMENT_SUPPRESSED>  at paragraph 53 and
+ <FRAGMENT_SUPPRESSED>  at paragraphs 52-62.
+[10]
+I agree with the Respondent's view of the nature of the issue in this application for judicial review. The doctrine of legitimate expectations relates only to procedural rights, not to a particular result. It is an aspect of procedural fairness; see the decision in
+ <FRAGMENT_SUPPRESSED> .
+[11]
+I see no breach of procedural fairness resulting from the fact that the Applicant did not get notice, prior to the letter of January 8, 2015, that the processing fees had not been paid.
+[12]
+The heart of this application is a simple question: did the Applicant submit a completed application for permanent residence in October 2014 when the payment of the processing fees, by Visa card, was declined?
+[13]
+Paragraph 10(1)(d) of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 provides as follows:
+10 (1) Subject to paragraphs 28(b) to (d) and 139(1)(b), an application under these Regulations shall
+(d) be accompanied by evidence of payment of the applicable fee, if any, set out in these Regulations; and
+10 (1) Sous réserve des alinéas 28b) à d) et 139(1)b), toute demande au titre du présent règlement:
+d) est accompagnée d'un récépissé de paiement des droits applicables prévus par le présent règlement;
+[14]
+In my opinion, the fact that the originally submitted application was not accompanied by the required fees means that the application was incomplete. An incomplete application is not an "application", as described in the decision in
+ <FRAGMENT_SUPPRESSED> s follows:
+An application under IRPA must be a complete application. The receipt of an application which is missing key components is not an application within the meaning of IRPA and the Regulations. ...
+[15]
+I also agree with the submissions of the Respondent that the decision in
+Campana
+Campana
+,
+supra
+does not assist the Applicant. In that case, an application for permanent residence was returned to the applicant on the ground of incompleteness, prior to statutory changes that disadvantaged the applicant. The Court held that Operational Manuals were not binding and could not be used to support a decision to return an incomplete application and treat it as nonexistent.
+[16]
+In the result, I am not persuaded that the Officer committed any reviewable error. The Applicant had no vested right and no legitimate expectation that the system for processing applications for permanent residence in the CEC Program would not change. For these reasons, the application for judicial review was dismissed by the Judgment issued on April 29, 2016.
+[17]
+Both parties submitted questions for certification, following an exchange of correspondence dated February 1, 2016, February 2, 2016 and February 5, 2016. In my opinion, the question proposed by the Respondent meets the criteria identified in section 74(d) of the Act.
+[18]
+Accordingly, the following question was certified in the Judgment of April 29, 2016:
+If an application for permanent residence is incomplete as it fails to meet the requirements prescribed by s 10 of the
+Immigration and Refugee Protection Regulations
+("IRPA Regulations") and the application and all supporting documents are returned to the applicant pursuant to s 12 of the IRPA Regulations, does the application still "exist" such that it preserves or "locks in" the applicant's position in time so that a subsequently submitted complete application must be assessed according to the regulatory scheme that was in effect when the first, incomplete application was submitted?
+[End of document]

@@ -1,0 +1,265 @@
+  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED>  
+ 
+  <FRAGMENT_SUPPRESSED>  (TD)  <FRAGMENT_SUPPRESSED>  
+ MLB headnote and full text  <FRAGMENT_SUPPRESSED>  
+  <FRAGMENT_SUPPRESSED>  Indexed  <FRAGMENT_SUPPRESSED>  1997.  <FRAGMENT_SUPPRESSED>  
+ Summary: 
+ 
+ The plaintiff sued the defendant Hallmark et al. for patent infringement. At discovery, Hallmark's representative refused to answer certain questions. The Associate Senior Prothonotary of the Federal Court of Canada, Trial Division, ordered that certain questions be answered and certain questions need not be answered. Both the plaintiff and Hallmark appealed.  <FRAGMENT_SUPPRESSED>  
+ The Federal Court of Canada, Trial Division, allowed both appeals in part and determined which questions had to be answered and which did not.  <FRAGMENT_SUPPRESSED>  
+ Courts - Topic 2583 
+ 
+ Registrars and prothonotaries - Appeals from - Scope of review - The Federal Court of Canada, Trial Division, stated that "a trial judge should show deference to a prothonotary's decision, in a manner similar to that exercised by courts of appeal in the case of discretionary decisions by trial judges. Such deference should be shown unless the prothonotary's decision is: (1) clearly wrong in the sense that the decision was based on either a wrong principle of law or a misapprehension of the facts; (2) deals with a matter vital to the final issues of the case. Questions that are vital to the final issues of a case are, for example, the entering of default judgment, a decision not to allow an amendment to pleadings, a decision to add additional defendants and thereby potentially reduce the liability of the existing defendant or a decision on a motion for dismissal for want of prosecution. None of the questions raised by the present appeals with respect to the answering of questions on discovery can be characterized as vital to the final issues of the case." - See paragraphs 3 to 4.  <FRAGMENT_SUPPRESSED>  
+ Patents of Invention - Topic 8106 
+ 
+ Practice - Discovery - Examination - Questions which must be answered - The plaintiff sued the defendant Hallmark et al. for patent infringement - At discovery, Hallmark's representative refused to answer certain questions - A prothonotary ordered that certain questions be answered and certain questions need not be answered - Both the plaintiff and Hallmark appealed - The Federal Court of Canada, Trial Division, allowed both appeals in part and determined which questions had to be answered and which did not - The defendant was required to answer questions respecting its commercial success (i.e., total sales of infringing product) - Commercial success was a proper area for discovery once a defendant pleaded obviousness in defence - The plaintiff was not required to expressly plead commercial success - See paragraphs 10 to 37.  <FRAGMENT_SUPPRESSED>  
+ Patents of Invention - Topic 8107 
+ 
+ Practice - Discovery - Examination - Questions which need not be answered - [See  
+ Patents of Invention - Topic 8106 
+ ].  <FRAGMENT_SUPPRESSED>  
+ Practice - Topic 5642 
+ 
+ Judgments and orders - Discretionary orders or judgments - What constitute - The Federal Court of Canada, Trial Division, stated that a prothonotary's order respecting what questions must be answered at discovery was a discretionary order - See paragraphs 6 to 7.  <FRAGMENT_SUPPRESSED>  
+  <FRAGMENT_SUPPRESSED>  (H.L.), refd to. [para. 4, footnote 3]. 
+ 
+  <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 11 (F.C.A.), refd to. [para. 9]. 
+ 
+  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 66; 22 C.I.P.R. 240 (T.D.), refd to. [para. 10]. 
+ 
+  <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 138 (F.C.A.), refd to. [para. 10]. 
+ 
+  <FRAGMENT_SUPPRESSED> ; 12 C.I.P.R. 209 (F.C.T.D. Protho.), refd to. [para. 13]. 
+ 
+  <FRAGMENT_SUPPRESSED>  (F.C.T.D.), refd to. [para. 13]. 
+ 
+  <FRAGMENT_SUPPRESSED>  (F.C.T.D.), refd to. [para. 13]. 
+ 
+ Unilever plc et al. v. Procter & Gamble Inc. et al. (1989), 24 C.P.R.(3d) 388; 23 C.I.P.R. 237 (F.C.T.D.), refd to. [para. 16]. 
+ 
+  <FRAGMENT_SUPPRESSED>  (T.D.), refd to. [para. 33]. 
+ 
+  <FRAGMENT_SUPPRESSED>  (F.C.T.D. Protho.), refd to. [para. 37].  <FRAGMENT_SUPPRESSED>  
+ Statutes Noticed: 
+ 
+ Federal Court Rules, rule 409 [para. 16, footnote 9]; rule 458(1) [para. 10, footnote 8].  <FRAGMENT_SUPPRESSED>  
+ Authors and Works Noticed: 
+ 
+ Kerans, R.P., Standards of Review Employed by Appellate Courts (1994), pp. 122 to 149 [para. 6].  <FRAGMENT_SUPPRESSED>  
+ Counsel: 
+ 
+ Dino P. Clarizio, for the plaintiff; 
+ 
+ Brian D. Edmonds and Navin Khanna, for the defendants.  <FRAGMENT_SUPPRESSED>  
+ Solicitors of Record: 
+ 
+ Dimock, Stratton, Clarizio, Toronto, Ontario, for the plaintiff; 
+ 
+ McCarthy, Tétrault, Toronto, Ontario, for the defendants.  <FRAGMENT_SUPPRESSED>  
+ These appeals were heard on January 13, 1997, at Toronto, Ontario, before Reed, J., of the Federal Court of Canada, Trial Division, who delivered the following judgment on February 11, 1997.  <FRAGMENT_SUPPRESSED>   <FRAGMENT_SUPPRESSED>                                                                                                        <FRAGMENT_SUPPRESSED>  
+ [1] 
+   
+ Reed, J. 
+ : The plaintiff and the defendant Hallmark Cards, Incorporated ("Hallmark") appeal a decision by the Associate Senior Prothonotary of October 2, 1996. That decision ordered the answering of certain questions, on discovery, by the representative of the defendant, and declined to order the answering of others. The defendant argues that the Associate Senior Prothonotary erred in ordering the answering of some of those questions. The plaintiff argues that the Associate Senior Prothonotary erred in not ordering the answering of others. The questions will be addressed by category of question, as counsel classified them.  <FRAGMENT_SUPPRESSED>  
+ [2] 
+  The action to which the discovery proceeding relates is an action by the plaintiff alleging infringement of two of its patents. The two patents relate to a type and method of making paper plates (pressed paperboard containers). The Federal Court of Appeal decision in  
+  <FRAGMENT_SUPPRESSED>  prothonotary's order.  <FRAGMENT_SUPPRESSED>  
+ [3] 
+  I understand the  
+ Aqua-Gem 
+  decision to state that a trial judge should show deference to a prothonotary's decision, in a manner similar to that exercised by courts of appeal in the case of discretionary decisions by trial judges [see footnote 2]. Such deference should be shown unless the prothonotary's decision is: (1) clearly wrong in the sense that the decision was based on either a wrong principle of law or a misapprehension of the facts; or (2) deals with a matter vital to the final issues of the case.  <FRAGMENT_SUPPRESSED>  
+ [4] 
+  Questions that are vital to the final issues of a case are, for example, the entering of default judgment, [see footnote 3] a decision not to allow an amendment to pleadings, a decision to add additional defendants and thereby potentially reduce the liability of the existing defendant, [see footnote 4] or a decision on a motion for dismissal for want of prosecution [see footnote 5]. None of the questions raised by the present appeals with respect to the answering of questions on discovery can be characterized as vital to the final issues of the case.  <FRAGMENT_SUPPRESSED>  
+ [5] 
+  Counsel raised the question, at least with respect to category 7, on p. 14 infra, whether the decisions of the Associate Senior Prothonotary could be said to be discretionary ones. If they are not, the logical consequence would be that a judge should apply a more stringent test when reviewing the orders on appeal. It is difficult to characterize a prothonotary's authority to require that a person, being examined for discovery, reattend to answer questions as discretionary, if that term is being used only to signify a situation in which there is room for reasonable people to hold differing opinions as to the appropriate decision. The prothonotary's authority to require that certain questions be answered on discovery is not of that nature.  <FRAGMENT_SUPPRESSED>  
+ [6] 
+  A useful explanation of the use of the label discretion, however, is found in the text R.P. Kerans,  
+ Standards of Review Employed by Appellate Courts 
+  (1994) at pp. 122-149. Discretion is described as a term that is used for two categories of decisions: (1) those involving the management of the trial and the pretrial process; and (2) those where the rule of law is one that makes many factors relevant and requires a decision-maker to weigh and balance them. In both cases "the inclination of the reviewing courts has always been to govern with a light hand. They do this by assigning the issue to the 'discretion' category" [see footnote 6]. The text notes that courts use this terminology to describe most interlocutory matters including, for example, the amendment of pleadings, the striking of pleadings and "a host of other situations where the judge manages or supervises ... the process of preparation for trial" [see footnote 7]. It is in this sense that I understand the  
+ Aqua-Gem 
+  case to be using the term discretionary when speaking of decision-making by a prothonotary.  <FRAGMENT_SUPPRESSED>  
+ [7] 
+  Also, the Chief Justice in the  
+ Aqua-Gem 
+  case, at p. 446, clearly indicated that an order requiring the giving of particulars is a discretionary order. An order with respect to the giving of answers on discovery is of a similar nature.  <FRAGMENT_SUPPRESSED>  
+ 1. Questions Relating To Inducing 
+ 
+ Infringement  <FRAGMENT_SUPPRESSED>  
+ [8] 
+  The Associate Senior Prothonotary ordered a number of questions answered that relate to the defendant Hallmark's interaction with the defendant Coutts. These include the pricing of the plates sold to Coutts, the marketing of the plates in Canada, the existence of management reporting relationships or interlocking directorships, the existence of production reports, and whether Hallmark is the sole source of plates sold by Coutts.  <FRAGMENT_SUPPRESSED>  
+ [9] 
+  Counsel for the defendant argues that the questions falling into this category should not have been ordered answered because the pleadings cannot support that line of questioning. The plaintiff's statement of claim alleges that the defendant Hallmark induced the defendant Coutts to infringe the plaintiff's patents. The relevant paragraph reads:  <FRAGMENT_SUPPRESSED>  
+ "by reason of its activities as  
+ described above 
+  [i.e., in the preceding paragraphs of the claim] ... Hallmark ... had, and continues ... to induce and pressure the defendant ... Coutts ... to offer for sale and sell in Canada ... the paper board plates and therefore to infringe [the claims of the patent] ..." (emphasis added)  <FRAGMENT_SUPPRESSED>  
+ The activities "described above" are: the fact that Coutts is a wholly owned subsidiary of Hallmark (which is admitted); the plates sold by Coutts in Canada are manufactured by Hallmark in the United States and sold in Canada to Coutts; the plates are infringing plates. Counsel argues that the facts as pleaded are too sparse to allow for the scope of discovery that has been granted. Chief Justice Jackett's decision in  
+  <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 11 (F.C.A.), is relied upon. I am not persuaded that the  
+ U.S. Natural Resources 
+  decision applies to the present circumstances. That decision relates to Federal Court Rule 412:  <FRAGMENT_SUPPRESSED>  
+ "(1) A party may by his pleading raise any point of law.  <FRAGMENT_SUPPRESSED>  
+ "(2) Raising a question of law or an express assertion of a conclusion of law - such as an assertion of title to property - shall not be accepted as a substitute for a statement of material facts on which the conclusion of law is based. <FRAGMENT_SUPPRESSED>  
+ 
+ [10] 
+  I would not characterize the allegation of inducement as set out in the plaintiff's statement of claim as a conclusion of law. It is a conclusion of fact or an allegation of factual inference. I have not been persuaded that the Associate Senior Prothonotary's decision to require that answers be given to this category of question was wrong in principle or based on a misapprehension of the facts. The Associate Senior Prothonotary's decision must be assessed in the light of Federal Court Rule 458(1), [see footnote 8] and the decisions describing the scope of discovery applicable in this court; see, for example,  
+  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 66; 22 C.I.P.R. 240 (T.D.);  
+  <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 138 (F.C.A.).  <FRAGMENT_SUPPRESSED>  
+ [11] 
+  Counsel for the defendant argues that many of the questions, in any event, are too broad. It is argued, for example, that they are not limited to the time period relevant to this litigation (e.g., Q. 191), not restricted to plates (e.g., Q. 1074-75), and not restricted to products manufactured by Hallmark for Coutts (e.g., Q. 199). It is easy for counsel when asking questions on discovery to slip into a shorthand way of asking a question, which in fairness, should be read by reference to other, usually preceding, questions that were asked, unless counsel expressly indicates otherwise. If this latitude of interpretation is not allowed, the door is opened for needless refusals to answer and motions to compel answers. On the basis that the context within which the questions were asked provide the appropriate limitations thereon, I do not find the Associate Senior Prothonotary's decision to be clearly wrong, in the sense that it was based on a wrong principle or upon a misapprehension of the facts.  <FRAGMENT_SUPPRESSED>  
+ 2. Questions Employing Patent 
+ 
+ Terminology  <FRAGMENT_SUPPRESSED>  
+ [12] 
+  The questions in issue in this category are:  <FRAGMENT_SUPPRESSED>  
+ "Q. 1412  <FRAGMENT_SUPPRESSED>  
+ 5: Was the paperstock used homogenous?  <FRAGMENT_SUPPRESSED>  
+ 18: Were the wrinkles that were formed in the plates circumferentially-spaced densified regions radially extending through the sidewall and rim?  <FRAGMENT_SUPPRESSED>  
+ 19: Were the wrinkles substantially integrated fibrous structures? <FRAGMENT_SUPPRESSED>  
+ 
+ [13] 
+  Counsel for the defendant argues that these question should not have been ordered to be answered because they employ terminology not used by Hallmark. The decisions in  
+  <FRAGMENT_SUPPRESSED> ; 12 C.I.P.R. 209 (F.C.T.D. Protho.),  
+  <FRAGMENT_SUPPRESSED>  (F.C.T.D.) and  
+  <FRAGMENT_SUPPRESSED>  (F.C.T.D.), state that it is not appropriate to ask a person being examined for discovery questions calling for that person's understanding or interpretation of the patent.  <FRAGMENT_SUPPRESSED>  
+ [14] 
+  The questions in issue are not of this nature. They ask about the defendant's plates, and the characteristics of those plates, as the defendant understands them. They ask for facts within the knowledge of Hallmark. They are not unlike many other questions that were asked and answered, which questions use terms found in the patent, terms such as lip, rim, scored, side wall, blank of the bottom wall. If the terms, in the questions under dispute, are not used by the defendant, and meaningful answers cannot be given by it, then, those answers will reflect that fact. The defendant is not required to do testing to ascertain the answers. But the questions themselves are of a type that should be answered. The Associate Senior Prothonotary's decision does not offend the  
+ Aqua-Gem 
+  test.  <FRAGMENT_SUPPRESSED>  
+ 3. Questions Relating To 
+ 
+ Commercial Success  <FRAGMENT_SUPPRESSED>  
+ [15] 
+  The Associate Senior Prothonotary required that answers be given with respect to the total number of plates sold and the total sales by Hallmark of the plates that it is alleged infringe. As I understand the defendant's argument, it is that unless the plaintiff in reply expressly pleads commercial success, that issue cannot be raised at trial nor questions asked about it on discovery. It is also argued that, in any event, the scope of questioning is too broad.  <FRAGMENT_SUPPRESSED>  
+ [16] 
+  That commercial success is a proper area for discovery is clear; see  
+  <FRAGMENT_SUPPRESSED> ; 23 C.I.P.R. 237 (F.C.T.D.), it was held that even though commercial success had not been expressly pleaded, questions on that subject related to a matter in issue and should be answered. The matter in issue is "obviousness". Obviousness had been pleaded by the defendants in their defence in the  
+ Unilever 
+  case and has been pleaded by the defendants in this action. The principle function of pleadings, as counsel notes, is to define with clarity the issues between the litigants and to give fair notice of the case that has to be met, so that the opposing party may direct evidence to those issues. Once a defendant pleads obviousness it will know that questions relating to commercial success are relevant. I do not think it is necessary for the plaintiff to expressly allege such in its reply pleading [see footnote 9].  <FRAGMENT_SUPPRESSED>  
+ 4. Questions Relating To Sales 
+ 
+ Of Products Other Than Plates  <FRAGMENT_SUPPRESSED>  
+ [17] 
+  The plates that are alleged to infringe are sometimes sold packaged together with cups and napkins all carrying a similar design (Party Packs). Other products such as balloons and paper streamers may also be sold carrying these designs. One such design is an image of Winnie the Pooh. Another is described as the "Happy Birthday Old Buzzard" design. The questions in issue ask for: information concerning the products other than plates; the marketing strategy with respect to selling those products; the practice of the defendant of selling the products packaged together with the plates. The Associate Senior Prothonotary found that most of these questions need not be answered. He did, however, order the answering of three.  <FRAGMENT_SUPPRESSED>  
+ [18] 
+  The plaintiff appeals the decision that refused to order the answering of most of the questions that involve other products. The defendant appeals the decision that ordered that three be answered. It is argued that the three fall into the same category as those for which answers were not required. I would summarize the three questions, and the answers given, as follows:  <FRAGMENT_SUPPRESSED>  
+ "Q. 2140 Were the 9" and 11" versions of the 'Happy Birthday Old/Buzzard'plates sold to Coutts and sold by Coutts in Canada?  <FRAGMENT_SUPPRESSED>  
+  A. look at the invoices.  <FRAGMENT_SUPPRESSED>  
+  Q. 2141 were invoices produced of sales of Country side and Deep Dish Plates to Coutts?  <FRAGMENT_SUPPRESSED>  
+  A. possibly but not purposefully.  <FRAGMENT_SUPPRESSED>  
+  Q. 2142 was there a practice that when Coutts purchased 7" dessert plates with a particular design it also purchased 9" and 11" plates with the same design and maybe also napkins, streamers, balloons etc.  <FRAGMENT_SUPPRESSED>  
+  A. the best source of the data is in the invoices, which the plaintiffs have been given; the plaintiff can ask Coutts; Hallmark refuses to answer. <FRAGMENT_SUPPRESSED>  
+ 
+ [19] 
+  In seeking answers to questions concerning products other than plates, counsel for the plaintiff relies on the decision in  
+  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 116 (F.C.A.). In that case, questions relating to the profits arising from the sale of paper machines that contained the infringing press sections were held to be appropriate discovery questions. That decision is not relevant in the present case. Although the plates may, on some occasions, be packaged for sale together with cups, napkins and other products, the former are not an integral part of the latter and all are sold separately as well as being sold packaged together. The questions which the Associate Senior Prothonotary ordered answered, which it is alleged fall into the same category as those for which he refused to require an answer, differ from the latter in that they all relate to plates. I do not think that the questions that were ordered answered fall into the same category as those that were not.  <FRAGMENT_SUPPRESSED>  
+ [20] 
+  With respect to the argument that the information, which the questions seek, has already been disclosed, albeit in a cumbersome form, I do not think the defendant can refuse to answer, if it knows the answer. It cannot refuse to answer merely because the plaintiff has been given the invoices, which if searched through will disclose the answers. At the same time, if the defendant does not know the answers, I agree with counsel's submission that the defendant is not required, at this stage, to search through ten years of invoices in order to find the answers.  <FRAGMENT_SUPPRESSED>  
+ [21] 
+  The profits from the Party Pack packages that contain the infringing plates are clearly relevant to an accounting of profits. Insofar as the argument that the questions are too broad, as with the first category of questions discussed above, the questions must be read in the light of the context in which they were asked. Again, I cannot conclude that the Associate Senior Prothonotary proceeded on a wrong principle or misapprehended the facts.  <FRAGMENT_SUPPRESSED>  
+ 5. Questions Relating To 
+ 
+ What Would Have Happened Had 
+ 
+ Hallmark Not Sold The Plates To Coutts  <FRAGMENT_SUPPRESSED>  
+ [22] 
+  The Associate Senior Prothonotary decided that most of the questions in this category need not be answered. This is in keeping with the decisions in  
+  <FRAGMENT_SUPPRESSED>  (F.C.A.) and  
+ Geo Vann Inc. 
+ , supra, especially at pp. 70-71. The questions require conjecture and speculation. They are not questions of knowledge, information or belief as to facts. The plaintiff does not appeal the prothonotary's decision that these questions need not be answered on discovery.  <FRAGMENT_SUPPRESSED>  
+ [23] 
+  The defendant argues that the Associate Senior Prothonotary failed to include within this category two questions that should have been so included because they require hypothetical or speculative answers. The defendant argues that these two questions should not have been ordered answered. The plaintiff contests that assertion. The two questions are:  <FRAGMENT_SUPPRESSED>  
+ "Q. 3324 Would Hallmark have needed to outsource the supply of Sturdy II plates to Deco and Gulf States if they had not supplied plates to Coutts in that period of time?  <FRAGMENT_SUPPRESSED>  
+  Q. 3326 In the costs that you have indicated for us are to be found in that list of documents you gave at the start later (sic) this afternoon, would any of those costs have been incurred even if Hallmark has not supplied Coutts with the Sturdy II plates in the period 1988 to the present? <FRAGMENT_SUPPRESSED>  
+ 
+ [24] 
+  Counsel for the defendant argues that these questions are proper discovery questions because, when seeking an accounting of profits, as a remedy, the differential accounting method may be used; see  
+  <FRAGMENT_SUPPRESSED> ; 31 C.P.C. 285 (F.C.T.D.). There is no doubt the questions are proper with respect to an accounting of profits but they do require speculation and are of a type that, at trial, one would expect to be asked of witnesses having financial expertise concerning the company's affairs. That they are not questions of fact such as: Did you ever not supply Coutts with plates and then start up again? What new expenses occurred as a result of that event? The two questions are similar in nature to those that were not required to be answered. I conclude that the Associate Senior Prothonotary erred in principle in not including them in the category of questions to which answers were not required.  <FRAGMENT_SUPPRESSED>  
+ 6. Questions Relating To Gulf States 
+ 
+ And Deco  <FRAGMENT_SUPPRESSED>  
+ [25] 
+  Gulf States and Deco are two companies that made plates for Hallmark when Hallmark's manufacturing capacity was overburdened. Some of the plates so made were supplied to Coutts, and were part of the defendant's productions on discovery. The plaintiff only found out about the outsourcing during the course of discovery. The questions that the plaintiff sought to have answered were: whether Hallmark had knowledge of the method of manufacture used by Gulf States and Deco; how many such plates had been manufactured by a third party for Hallmark; when this was done, and what standards, if any, had been given by Hallmark to these manufacturers.  <FRAGMENT_SUPPRESSED>  
+ [26] 
+  Gulf States and Deco are not parties to this action. The action relates to the infringement in Canada of the plaintiff's patents. Insofar as the activities of the defendant Hallmark are concerned the pleadings allege that Hallmark manufactured the plates in the United States and sold them in Canada to Coutts. The plaintiff alleges that Hallmark induced or procured infringement by Coutts, which infringement occurred as a result of the further sale of the plates by Coutts in Canada.  <FRAGMENT_SUPPRESSED>  
+ [27] 
+  While Gulf States and Deco are not parties to the action, it appears from the discovery that they manufactured plates at the behest of the defendant. Some of those plates are of the alleged infringing type and found their way into Canada as a result of being sold by the defendant to Coutts. The Associate Senior Prothonotary did not give reasons for his decisions. This is not a criticism - it would be impractical to do so when many questions are in dispute. This means, however, that the principle that he applied in reaching his decisions must be a matter of conjecture for a reviewing judge. It appears that his decision was based on the assumption that since Gulf States and Deco are not presently parties to the litigation and the manufacturing they did took place in the United States, not Canada, the questions did not come within Federal Court Rule 458, as being relevant to any unadmitted allegation of fact.  <FRAGMENT_SUPPRESSED>  
+ [28] 
+  To the extent that the questions relate to the methods and manufacturing operations of the defendant's third party contractors, insofar as the defendant has knowledge of that and only with respect to the alleged infringing plates, I am of the view that the Associate Senior Prothonotary proceeded on the basis of a wrong principle. The questions are relevant to the issues of infringement, utility and the calculation of profits. Question 128 should be answered insofar as the defendant has knowledge, and, of course, only with respect to the plates that are alleged to infringe. Question 2088 should be answered. Questions 3270 - 71 should be answered, again, of course, only with respect to the alleged infringing plates and alleged infringing method. Questions 350-51 are in one sense too broad and when given a restricted interpretation duplicate Question 128. They need not be answered.  <FRAGMENT_SUPPRESSED>  
+ [29] 
+  Counsel for the plaintiff expressed the view that if a decision was made not to require that the questions be answered, because Gulf States and Deco are not, at present, parties to the litigation, that such decision be expressed to be without prejudice to the plaintiff's right to require the defendant Hallmark to answer, if pleadings were amended to add Gulf States and Deco. While I do not need to decide this, given the decision reached above, I would grant that request if it were necessary to do so.  <FRAGMENT_SUPPRESSED>  
+ 7. Questions Seeking The Production Of 
+ 
+ Documents That Have Been Used 
+ 
+ In The United States Litigation  <FRAGMENT_SUPPRESSED>  
+ [30] 
+  A parallel case is proceeding between the plaintiff and the defendant Hallmark in the United States District Court, Eastern District of Wisconsin ( 
+  <FRAGMENT_SUPPRESSED>  produce documents that had been used, for the purposes of the United States litigation.  <FRAGMENT_SUPPRESSED>  
+ [31] 
+  As I understand counsel's explanation of the Associate Senior Prothonotary's decision, it is that the order requested was refused because there was no proper evidence before the Associate Senior Prothonotary demonstrating that the United States proceeding existed and was parallel to the present proceeding, nor was there evidence demonstrating that the documentation that was sought was relevant to the present proceeding. It was not argued that this decision by the Associate Senior Prothonotary was in error. Counsel for the plaintiff sought to file with the court an affidavit to supply the missing evidence. He took the position that an appeal of a prothonotary's decision to a judge is a proceeding de novo and, therefore, I was entitled to accept this evidence and render the decision the Associate Senior Prothonotary would have made had he had that evidence before him.  <FRAGMENT_SUPPRESSED>  
+ [32] 
+  I do not interpret the role of a judge on an appeal of a prothonotary's order in that way. Whatever may be the difference, if any, between the Chief Justice's description on p. 454 of  
+  <FRAGMENT_SUPPRESSED>  contemplates that the judge will  
+ exercise his or her discretion de novo 
+ , on the material that was before the prothonotary, and not engage in a hearing de novo based on new materials.  <FRAGMENT_SUPPRESSED>  
+ [33] 
+  Counsel for the defendant notes that an appeal from an order of a prothonotary is required by the  
+ Federal Court Rules 
+  to be commenced by an "application" (rule 336(5)), and that an application to the court is to be made by a motion (rule 319(1)). A motion is commenced by a notice of motion, not a notice of appeal, and is to be supported by an affidavit setting out " 
+ all the facts on which the motion is based that do not appear from the record 
+ " (rule 319(2)). Despite this seeming ambiguity in the  
+ Federal Court Rules 
+ , I understand the procedure established thereby to be, as noted above, an appeal based on the material that was before the prothonotary. This is consistent with the decisions in  
+  <FRAGMENT_SUPPRESSED>  (T.D.). In some circumstances new evidence may of course be entertained, see Federal Court Rule 1102 and the jurisprudence thereunder. Such circumstances do not, however, exist in the present case.  <FRAGMENT_SUPPRESSED>  
+ [34] 
+  I make no finding as to whether or not the defendant can renew its request to the prothonotary, by a motion for further and better production, based on proper affidavit material.  <FRAGMENT_SUPPRESSED>  
+ 8. Questions Relating To Pleadings  <FRAGMENT_SUPPRESSED>  
+ [35] 
+  In response to the plaintiff's request for further and better particulars, the defendant wrote in its Reply to Demand for Particulars:  <FRAGMENT_SUPPRESSED>  
+ "16. With respect to paragraph 11 of the Demand and paragraph 26 of the Defence, the common general knowledge includes that knowledge exhibited in the patents, publications, manufacture, use and sale listed in Schedule 'A' to the Defence. It includes the profile, weight, temperature, pressure, moisture content and dimension parameters disclosed in the patents-in-suit. It includes the desirability of highly compressing pleats to render them less likely to open during container use, and the use of score lines. It includes matters of design or engineering choice among all the relevant parameters. ... <FRAGMENT_SUPPRESSED>  
+ 
+ [36] 
+  The questions for which answers were refused were:  <FRAGMENT_SUPPRESSED>  
+ "Q. 1369 ... what is so desirable of highly compressing pleats?  <FRAGMENT_SUPPRESSED>  
+  Q. 1370 And what is a pleat?  <FRAGMENT_SUPPRESSED>  
+  Q. 1371 What do you mean by highly compressing to make it more dense?  <FRAGMENT_SUPPRESSED>  
+  Q. 1372 Was the desirability of highly compressing plates to obtain pleats so that you have a smooth wrinkle - free appearance?  <FRAGMENT_SUPPRESSED>  
+  Q. 1378 How is it desirable to compress pleats?  <FRAGMENT_SUPPRESSED>  
+  Q. 1380 Who was it, prior to the mid - 1980s, that highly compressed pleats during the manufacturing process of paper plates?  <FRAGMENT_SUPPRESSED>  
+  A. ... the practitioners ...  <FRAGMENT_SUPPRESSED>  
+  Q. 1381 What practitioners? <FRAGMENT_SUPPRESSED>  
+ 
+ [37] 
+  Counsel for the defendant indicates that when he responded to the plaintiff's demand for particulars, he tracked the wording of the patent so that the pleading basically says that whatever the patent means this was part of the prior art, a matter of common general knowledge. The defendant has given the plaintiff all the prior art documents of which it is aware and takes the position that further evidence respecting the state of the prior art or common general knowledge is a matter for expert opinion evidence at trial. The decisions in  
+  <FRAGMENT_SUPPRESSED>  (F.C.T.D. Protho.) are cited. In these decisions it was held that insofar as answers to questions concerning common general knowledge are based on the opinion of experts, they did not have to be answered on discovery. Insofar as such was not so based, they were required to be answered. I cannot conclude that the Associate Senior Prothonotary's decision, declining to require that the questions be answered, was clearly wrong, as based on either a wrong principle of law or a misapprehension as to the facts.  <FRAGMENT_SUPPRESSED>  
+ Conclusion  <FRAGMENT_SUPPRESSED>  
+ [38] 
+  With the exceptions of questions 3324 and 3326, which need not be answered, and questions 128, 2088 and 3270-71, which should be answered, the appeals of the Associate Senior Prothonotary's decision are dismissed.  <FRAGMENT_SUPPRESSED>  
+ Appeals allowed in part.  <FRAGMENT_SUPPRESSED>  
+ Editor: Steven C. McMinniman/saf  <FRAGMENT_SUPPRESSED>  
+ Footnotes  <FRAGMENT_SUPPRESSED>  
+ 1.	[1993] 2 F.C 425, at p. 463; 149 N.R. 273; [1993] 1 C.T.C. 186; 93 D.T.C. 5080 (F.C.A.):  <FRAGMENT_SUPPRESSED>  
+ "... as to the standard of review to be applied by a motions judge to a discretionary decision of a prothonotary. Following in particular Lord Wright in  
+  <FRAGMENT_SUPPRESSED>  (H.L.), at p. 484, and Lacourcière, J.A., in  
+  <FRAGMENT_SUPPRESSED>  (Div. Ct.), discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:  <FRAGMENT_SUPPRESSED>  
+ (a) they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or  <FRAGMENT_SUPPRESSED>  
+ (b) they raise questions vital to the final issues of the case.  <FRAGMENT_SUPPRESSED>  
+ "Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretion based upon a wrong principle or upon a misapprehension of the facts), or where they raise questions vital to the final issue of the case, a judge ought to exercise his own discretion de novo. <FRAGMENT_SUPPRESSED>  
+ 
+ 2.	 <FRAGMENT_SUPPRESSED>  (H.L.), supra, footnote 1.  <FRAGMENT_SUPPRESSED>  
+ 4.	 
+  <FRAGMENT_SUPPRESSED>  (C.A.), 43 C.P.C. 178.  <FRAGMENT_SUPPRESSED>  
+ 5.	 
+  <FRAGMENT_SUPPRESSED>  being examined for discovery shall answer, to the best of the person's knowledge, information and belief, any question that  <FRAGMENT_SUPPRESSED>  
+ (a) is relevant to any unadmitted allegation of fact in any pleading filed in the action by the party being examined or the examining party; or  <FRAGMENT_SUPPRESSED>  
+ (b) concerns the names or addresses of any person, other than an expert witness, who might reasonably be expected to have knowledge relating to any matter in question in the action. <FRAGMENT_SUPPRESSED>  
+ 
+ 9.	Federal Court Rule 409 governs reply pleading:  <FRAGMENT_SUPPRESSED>  
+ "409. A party shall plead specifically any matter (e.g., performance, release, a statute of limitation, prescription, fraud or any fact showing illegality)  <FRAGMENT_SUPPRESSED>  
+ (a) that he alleges makes a claim or defence of the opposite party not maintainable;  <FRAGMENT_SUPPRESSED>  
+ (b) that, if not specifically pleaded, might take the opposite party by surprise; or  <FRAGMENT_SUPPRESSED>  
+ (c) that raises issues of fact not arising out of the preceding pleading. <FRAGMENT_SUPPRESSED>  
+ 
+ [End of document]  <FRAGMENT_SUPPRESSED>  
+
+
+

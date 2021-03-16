@@ -1,0 +1,138 @@
+I.
+INTRODUCTION
+[1]
+Phelan, J.
+: The Applicant Minister seeks judicial review of a decision by the Immigration Appeal Division [IAD] accepting the appeal of Quizhen Chen from a refusal by a visa officer [Officer] to grant a family class visa to her daughter, Yingying Hong.
+[2]
+The Officer refused the daughter's application for permanent residence on the basis that she was excluded from the family class because the mother failed to declare her daughter on her permanent residence application.
+II.
+RELEVANT PROVISIONS
+[3]
+The key statute and regulation provisions are as follows:
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [IRPA]
+63. (1) A person who has filed in the prescribed manner an application to sponsor a foreign national as a member of the family class may appeal to the Immigration Appeal Division against a decision not to issue the foreign national a permanent resident visa.
+...
+65. In an appeal under subsection 63(1) or (2) respecting an application based on membership in the family class, the Immigration Appeal Division may not consider humanitarian and compassionate considerations unless it has decided that the foreign national is a member of the family class and that their sponsor is a sponsor within the meaning of the regulations.
+...
+67. (1) To allow an appeal, the Immigration Appeal Division must be satisfied that, at the time that the appeal is disposed of,
+(a)
+the decision appealed is wrong in law or fact or mixed law and fact;
+(b)
+a principle of natural justice has not been observed; or
+(c)
+other than in the case of an appeal by the Minister, taking into account the best interests of a child directly affected by the decision, sufficient humanitarian and compassionate considerations warrant special relief in light of all the circumstances of the case.
+(2) If the Immigration Appeal Division allows the appeal, it shall set aside the original decision and substitute a determination that, in its opinion, should have been made, including the making of a removal order, or refer the matter to the appropriate decision-maker for reconsideration.
+63. (1) Quiconque a déposé, conformément au règlement, une demande de parrainage au titre du regroupement familial peut interjeter appel du refus de délivrer le visa de résident permanent.
+...
+65. Dans le cas de l'appel visé aux paragraphes 63(1) ou (2) d'une décision portant sur une demande au titre du regroupement familial, les motifs d'ordre humanitaire ne peuvent être pris en considération que s'il a été statué que l'étranger fait bien partie de cette catégorie et que le répondant a bien la qualité réglementaire.
+...
+67. (1) Il est fait droit à l'appel sur preuve qu'au moment où il en est disposé:
+a)
+la décision attaquée est erronée en droit, en fait ou en droit et en fait;
+b)
+il y a eu manquement à un principe de justice naturelle;
+c)
+sauf dans le cas de l'appel du ministre, il y a - compte tenu de l'intérêt supérieur de l'enfant directement touché - des motifs d'ordre humanitaire justifiant, vu les autres circonstances de l'affaire, la prise de mesures spéciales.
+(2) La décision attaquée est cassée; y est substituée celle, accompagnée, le cas échéant, d'une mesure de renvoi, qui aurait dû être rendue, ou l'affaire est renvoyée devant l'instance compétente.
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 [Regulations]
+117. (9) A foreign national shall not be considered a member of the family class by virtue of their relationship to a sponsor if
+...
+(d)
+subject to subsection (10), the sponsor previously made an application for permanent residence and became a permanent resident and, at the time of that application, the foreign national was a non-accompanying family member of the sponsor and was not examined.
+117. (9) Ne sont pas considérées comme appartenant à la catégorie du regroupement familial du fait de leur relation avec le répondant les personnes suivantes:
+...
+d)
+sous réserve du paragraphe (10), dans le cas où le répondant est devenu résident permanent à la suite d'une demande à cet effet, l'étranger qui, à l'époque où cette demande a été faite, était un membre de la famille du répondant n'accompagnant pas ce dernier et n'a pas fait l'objet d'un contrôle.
+III.
+BACKGROUND
+[4]
+There is no issue that the Respondent did not declare her daughter on her permanent residence application. The Respondent became a permanent resident in April 2005, 10 years after her daughter's birth in China where she has remained.
+[5]
+On December 29, 2010, the daughter applied for permanent resident status on humanitarian and compassionate [H&C] grounds. Her application was sponsored by her mother and the daughter was listed as a dependent child.
+[6]
+The Officer denied the daughter's application in early 2012. The basis of the decision is two-fold; the daughter was excluded from the family class by operation of paragraph 117(9)(d) of the Regulations and there were insufficient H&C factors in the case to overcome the daughter's exclusion as a member of the family class.
+[7]
+On appeal to the IAD, the IAD held that the daughter was not a member of the family class (a matter conceded at the IAD hearing). Despite this conclusion, the IAD then went on to consider the H&C finding and found that the Officer had not applied the correct test when assessing the best interests of the child because the Officer did not specifically identify the child's best interests. The IAD allowed the appeal.
+[8]
+Despite the finding that the daughter was not a member of the family class, the IAD found that it had jurisdiction under paragraph 67(1)(a) of IRPA to determine whether a visa officer's assessment of H&C considerations was performed correctly.
+IV.
+ANALYSIS
+A.
+Standard of Review
+[9]
+With respect to the IAD's jurisdiction conclusion, this issue belongs to the class of true jurisdictional questions referred to in
+Alberta (Information and  <FRAGMENT_SUPPRESSED> , as "narrow and exceptional". It brings into play the interpretation of a statute of broad public interest and the matter of whether jurisdiction rests in the IAD or in the Federal Court on judicial review. The standard of review on this issue is correctness (
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  FTR 29).
+[10]
+Likewise the issue of whether the Officer committed an error of law by applying the wrong test has been held to be subject to the correctness standard of review (
+ <FRAGMENT_SUPPRESSED> ).
+[11]
+The Applicant raised the matter of the adequacy of the reasons. To the extent that it is a relevant issue, it is not a standalone issue but part of the reasonableness analysis in respect to the decision (
+Newfoundland and  <FRAGMENT_SUPPRESSED> ).
+B.
+IAD Jurisdiction
+[12]
+In my view, the IAD erred in assuming it had jurisdiction over a non-family class H&C matter.
+[13]
+The IAD's jurisdiction is set out in s 63. Section 63(1) gives the IAD jurisdiction over decisions not to issue a foreign national a permanent residence visa in the family class category. The other grounds of jurisdiction relate to applications by permanent residents, protected persons or the Minister relating to admissibility hearings or residency obligations. The IAD therefore has no jurisdiction over non-family class permanent residence applications; these decisions are reviewable with leave by the Federal Court.
+[14]
+Section 65 restricts the IAD's jurisdiction over family class permanent residence applications. The IAD may not consider humanitarian and compassionate considerations arising on an appeal from a family class application unless it has decided that the foreign national is a member of the family class and that their sponsor is a "sponsor" within the meaning of the class. Absent these two conditions, s 65 precludes the IAD's jurisdiction to deal with H&C considerations. There is no alternate basis for the IAD's jurisdiction over H&C matters.
+[15]
+While the term "considerations" is not defined, it is logically those matters in an H&C situation which must be considered. It is a broad term and encompasses not just facts or factors but mixed fact and law and law. It is intended to cover the full range of the H&C analysis.
+[16]
+Subsection 67(1) sets out the grounds on which the IAD may allow an appeal. Paragraph 67(1)(a) which the IAD relied on as a basis of jurisdiction sets out that the IAD can allow an appeal where it is satisfied that the decision is wrong in law or fact or mixed law and fact.
+[17]
+The IAD concluded that despite this "carve-out" of its jurisdiction, s 67(1) gave it a "carve-in" to deal with matters, at least, of law in a decision denying a foreign national a permanent resident visa.
+[18]
+With great respect, I cannot read s 67(1) in the way that the IAD has concluded. Section 67 does not confer jurisdiction but rather sets out the standard of review. If the IAD had the jurisdiction to examine a matter of law (in this case the applicable legal test) based on paragraph 67(1)(a), it would likewise have the jurisdiction (and responsibility) to examine the factual and the mixed facts and law issues. Such an interpretation would largely render the "carve-out" in s 65 meaningless. Under that interpretation, H&C considerations would be precluded in the present case by s 65 but all issues of law, fact and mixed fact and law would be brought back into IAD jurisdiction by s 67(1)(a).
+[19]
+There was some effort to suggest that only if a child was involved would the IAD have jurisdiction to engage in an H&C analysis. However, that view would have the effect of making a non-family class member a family class member if the person was a child.
+[20]
+The statutory intent of s 65 was to limit IAD jurisdiction in the case of non-family member H&C considerations. Efforts to negate that jurisdictional limitation are inconsistent with the intent of s 65. Section 67 remains alive and vibrant in respect of family class member applicants. It would lead to undue complexity to have the IAD in, then out, then back in again on jurisdiction over the same subject matter.
+[21]
+Once the IAD determines that the foreign national is a non-family member (or the sponsor is not a defined sponsor), that ends its jurisdiction in respect of any claim for H&C consideration. The route of review in those situations is to the Federal Court by way of leave for judicial review.
+[22]
+Once the IAD concluded that the Respondent's daughter was a non-family member by reason of paragraph 117(9)(d), its jurisdiction to consider the H&C claim was ended. The limited jurisdiction over H&C matters set out in s 65 was not available.
+[23]
+The parties raised a number of decisions of this Court which touched upon, if not dealing directly, with this jurisdictional issue. The Respondent's reliance on
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 574, is undercut by the absence of any discussion in that case of the proper interpretation of s 65. I do not take Justice O'Reilly as having dealt with the nature and effect of the carve-out in s 65.
+[24]
+In my view, a case of closer relevance is Justice Shore's decision in
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 683. His finding of absence of jurisdiction is compatible with my conclusion.
+[25]
+Therefore, the IAD erred in concluding that it had jurisdiction to review the Officer's decision.
+C.
+H&C Analysis
+[26]
+Even if I am in error on this first issue, I find that the IAD's analysis of the Officer's H&C consideration is in error and unreasonable.
+[27]
+ <FRAGMENT_SUPPRESSED>  FTR 306 [ <FRAGMENT_SUPPRESSED> ], Justice Mosley cut through the issue of best interests of the child and H&C hardship matters to hold that one must look at the realities of the decision to determine if the best interests were considered and not to become lost in formulaic language (para 11 of <FRAGMENT_SUPPRESSED> ).
+[28]
+Having reviewed the Officer's decision, he was "alert, alive and sensitive to the child's best interests" (also formulaic language) in that he addressed the major points of "best interests" and reached a reasonable conclusion on the facts.
+[29]
+On this ground as well, the IAD's decision is in error.
+D.
+Adequacy of Reasons
+[30]
+Nothing more need be said on this point as the Officer's line of reasoning was clear; the parties knew the basis for the decision and it was reasonable in all the circumstances.
+V.
+CONCLUSION
+[31]
+For all these reasons, this judicial review will be granted. The IAD decision will be quashed and the Visa Officer's decision restored.
+[32]
+The Respondent proposed a certified question and the Applicant made extensive submissions opposing certification. The test for certification was laid out in
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED>  (FCA), 176 NR 4.
+[33]
+The question posed by the Respondent dealt with provisions and issues not argued and there is not a proper question for certification.
+[34]
+While the issue of IAD jurisdiction under s 65 may well transcend the interests of the parties, it is not sufficient by disposition of this particular judicial review as presented because of the finding of correctness and reasonableness in respect to the H&C consideration.
+[35]
+Therefore, no question will be certified.
+JUDGMENT
+[36]
+THIS COURT'S JUDGMENT is that
+the application for judicial review is granted, the IAD decision is quashed and the Visa Officer's decision is restored.
+Application allowed.
+Editor: Anick Ouellette-Levesque/vnh

@@ -1,0 +1,146 @@
+[1]
+Kelen, J.
+: This is an application for judicial review of a decision of the Immigration Appeal Division of the Immigration and Refugee Board (the "IAD") dated August 5, 2003, denying the applicant's motion to reopen an appeal of a removal order that had been dismissed by the IAD on December 27, 2001.
+THE FACTS
+[2]
+The applicant is a citizen of the People's Republic of China. On March 25, 1999, she was granted the status of permanent resident as the sponsored fiancée of Mr. He, a permanent resident. As part of the conditions of her landing, she and Mr. He had to marry within 90 days of her arrival in Canada. This marriage never took place. Two years after her arrival in Canada, Citizenship and Immigration Canada ("CIC") discovered the applicant's violation of her landing conditions. An inquiry was held according to subs. 27(3) of the
+Immigration Act
+, R.S.C. 1985, c.I-2 (the "Former
+Act
+") and CIC found that the applicant had knowingly failed to fulfil the terms and conditions of her landing. The applicant admitted her contravention of these conditions. A departure order was issued against her on March 30, 2001. The applicant appealed the order and the IAD dismissed the appeal on December 27, 2001. This court granted leave to commence an application for judicial review of this decision on September 12, 2002 (see
+ <FRAGMENT_SUPPRESSED>  (T.D.)). The application was dismissed by Pinard, J., on January 21, 2003.
+[3]
+The applicant also filed a motion before the Provincial Court of British Columbia seeking an order granting her sole custody of her child and stating that her child may not be removed from the country. This motion was dismissed on November 24, 2003. In addition, the applicant underwent a Pre-Removal Risk Assessment which was denied in October 2003. In that same month the applicant also applied for humanitarian and compassionate consideration, which is outstanding.
+[4]
+On April 29, 2003, the applicant applied to have her appeal reopened by the IAD on the grounds that there was new evidence relating to her family circumstances, that it was in the best interest of her infant daughter born in Canada on September 16, 2001, and that there was a denial of natural justice resulting from her lawyer's alleged incompetence.
+THE DECISION
+[5]
+The IAD denied her motion to reopen the appeal. It found that s. 71 of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c.27 (the "
+IRPA
+") allows it to reopen an appeal only when an applicant successfully demonstrates a breach of a principle of natural justice. It dismissed the applicant's argument that the IAD still has equitable jurisdiction, stating that s. 71 of the
+IRPA
+narrows the circumstances in which an appeal may be reopened. The IAD decision held:
+"[11] The
+IRPA
+contains a provision at s. 71 that is relevant to reopening applications. I find this section to be a codification of a portion of the common law that has until now governed reopening applications made to the IAD.
+[. . . . .]
+"[13] I find that the express statutory provision at s. 71 changes the test that was applied to re-openings, and I also find that Parliament intended to narrow the basis for the reopening of appeals. I find that this statutory test and the common law tests may not be applied either concurrently or alternatively. That is, I find that the test at
+IRPA
+s. 71 narrows the circumstances in which an appeal may be reopened in every application for reopening to which
+IRPA
+applies."
+On the merits, the IAD held that there was no evidence of incompetence of counsel by which to find that a principle of natural justice had not been observed. Accordingly, there was no basis for reopening the appeal. At the hearing before this court, the applicant did not challenge the IAD finding that there had been no breach of natural justice. Accordingly, the only issue before this court is as set out below.
+THE ISSUE
+[6]
+This application raises one issue:
+Did the IAD err in its interpretation and application of s. 71 of
+IRPA
+by concluding that
+IRPA
+did not allow for the reopening of an appeal on the basis of its continuing equitable jurisdiction?
+THE LEGISLATION
+[7]
+Section 71 of
+IRPA
+reads as follows:
+"71. The Immigration Appeal Division, on application by a foreign national who has not left Canada under a removal order, may reopen an appeal if it is satisfied that it failed to observe a principle of natural justice."
+"71. L'étranger qui n'a pas quitté le Canada à la suite de la mesure de renvoi peut demander la réouverture de l'appel sur preuve de manquement à un principe de justice naturelle."
+THE PARTIES' ARGUMENTS
+[8]
+The applicant submits that the IAD made an error of law in finding that section 71 of the
+IRPA
+restricts the circumstances under which an appeal may be reopened. The applicant states that in
+ <FRAGMENT_SUPPRESSED>  the Supreme Court of Canada held that the predecessor to the IAD had a "continuing equitable jurisdiction" to reopen appeals on the basis of new evidence. The applicant submits that the similar language that gave rise to the "continuing equitable jurisdiction" has been incorporated in immigration legislation ever since, including in ss. 67 and 68 of the
+IRPA
+. The applicant submits that s. 71 of
+IRPA
+was not intended to oust the "continuing equitable jurisdiction" of the IAD since the same clauses that gave rise to that jurisdiction still exist within
+IRPA
+. Thus, s. 71 simply codifies the common law as it pertains to breaches of natural justice.
+[9]
+The applicant submits that principle of statutory interpretation known as the "presumption against legal change" means Parliament would have had to clearly state its intention to remove the IAD's power to re-open based on its "continuing equitable jurisdiction". The applicant finally submits that s. 71 of
+IRPA
+should be deemed remedial and should be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objectives, that is to ameliorate the lot of an appellant against whom a deportation order has been made.
+[10]
+The respondent submits that the IAD did not err in law in finding that s. 71 of
+IRPA
+limited the circumstances under which it can reopen an appeal. It submits that s. 71 is unambiguous, and its meaning is clear and unequivocal. It adds that the express inclusion of a denial of natural justice as the basis for the IAD's jurisdiction implies the exclusion of all other grounds for reopening an appeal. The respondent submits that the absence of any reference to "equity" or "humanitarian and compassionate grounds" in s. 71 in comparison with the express inclusion of such grounds in ss. 67 to 69 means that if Parliament had intended for the IAD to have such jurisdiction, it would have expressly so stated in s. 71.
+[11]
+The respondent further submits that the express statutory provision supplants the common law. The previous legislation had been silent on the matter of reopening a dismissed appeal. Section 71 now fills that gap so there is no longer any need to imply a continuing equitable jurisdiction for the IAD to re-open appeals. Finally, the respondent submits that s. 71 of the
+IRPA
+has a remedial purpose in that it allows for a reopening of an appeal when there has been a denial of natural justice and promotes and protects the principle of finality to proceedings, thereby ensuring the integrity of the administrative system.
+ANALYSIS
+(a) Standard of Review
+[12]
+The parties and the court agree that the appropriate standard of review in this case is correctness since the only issue is a question of law.
+(b) Common Law Equitable Jurisdiction to Reopen Appeals
+[13]
+In 1972 the Supreme Court of Canada held that the Immigration Appeal Board (as the IAD was then named) is entitled to reopen an appeal to hear new evidence if it sees fit to do so and revise its former decision because it has a continuing jurisdiction to decide if a person should be allowed to remain in  <FRAGMENT_SUPPRESSED>  at p. 582:
+"For the reasons given by my brother Martland, I agree that, until a deportation order has actually been executed, the Board is entitled, as it did in this case, to reopen an appeal, hear new evidence and, if it sees fit to do so, to revise its former decision and exercise its discretion under s. 15 to allow an appellant to remain in Canada. [...]"
+[14]
+Mr. Justice Martland at p. 590 held that the Board had an "equitable" jurisdiction to be exercised at its discretion even though it has dismissed an appeal against a deportation order. He held that this is a continuing jurisdiction and not one which must be exercised once and for all.
+"He held that the Board had the power to reopen the case and hear further evidence on equitable issues even though it has already made a decision dismissing the appeal. Justice Martland held at p. 590:
+'[...] In my opinion, the Board had jurisdiction to reopen the hearing of the appellant's appeal to permit him to present additional evidence.'
+[15]
+In 1990, the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> , explained that the authority conferred on the Immigration Appeal Board continued even after it had dismissed an appeal because jurisdiction was not meant to be an adjudicative one, but one to be exercised essentially upon humanitarian grounds.
+[16]
+The same humanitarian grounds, and in particular with respect to the best interests of the child, reside in the IAD under ss. 67, 68 and 69 of
+IRPA
+. However,
+IRPA
+has added a new section which expressly states that the IAD can reopen an appeal if satisfied that the IAD has failed to observe a principle of natural justice. Under the previous legislation there was no statutory provision providing for the reopening of an appeal. Thus the question arises whether s. 71 of
+IRPA
+, which stipulates that the IAD may reopen an appeal if it is satisfied that it failed to observe a principle of natural justice, restricts the common law jurisdiction (as set out by the Supreme Court of Canada in
+Grillis
+, supra), to reopen an appeal on equitable grounds such as to permit the filing of new evidence with respect to the best interests of the child.
+Four Principles of Statutory Construction
+[17]
+I have concluded that four principles of statutory construction mean that s. 71 limits or restricts the jurisdiction of the IAD to reopen appeals with respect to breaches of the rules of natural justice. These cannons of statutory interpretation are as follows:
+1.
+Expressio unius est exclusio alterius
+- this maxim of statutory interpretation means that the expression of one thing is the exclusion of another. When Parliament specifies in law when the IAD can reopen an appeal, Parliament is implicitly expressing an intention to exclude all other grounds;
+2.
+The French version of s. 71
+- is clear and stronger than the English version. In French, the IAD can reopen an appeal "sur preuve de" (upon proof of) a denial of natural justice. This means that such proof is a condition precedent to reopening. Without such proof, the IAD implicitly cannot reopen;
+3.
+The implied exclusion rule
+- in relation to the codification of the common law is referred to by Sullivan and Driedger on the
+Construction of Statutes
+(4th Ed. 2002) (Markman.Butterworths Canada Ltd.), at p. 355, which in turn relies upon the Supreme Court of Canada decision in
+ <FRAGMENT_SUPPRESSED>  D.L.R.(4th) 217 (S.C.C.). This text book states at p. 355 [D.L.R.]:
+"When the legislature expressly codifies only part of the law relating to a matter, the court may rely on implied exclusion reasoning to conclude that the part of the law not expressly mentioned was meant to be excluded."
+This principle means that specifying in s. 71 the right to reopen an appeal with respect to a breach of the rules of natural justice means that Parliament intended the part of the common law not expressly mentioned was intended to be excluded. Accordingly, the right of the IAD to reopen an appeal on equitable grounds was implicitly excluded. The converse illustrates the logic of this proposition. If Parliament intended that the IAD could reopen an appeal on humanitarian grounds, such as the best interests of the child, Parliament would have so specified. This is particularly true since Parliament has expressly referred to the best interest of the child in the immediately preceding sections of
+IRPA
+in relation to the jurisdiction of the IAD. The IAD protects the best interests of the children. Parliament would have expressly stated that the IAD can reopen an appeal to consider changed circumstances in this area if Parliament had so intended.
+4.
+The legislative history
+- includes an explanation of clause 71 presented to Parliament. The explanation states that s. 71 "clearly limits reopenings to instances where there has been a breach of the common law principle of natural justice". The explanation states s. 71 is to prevent the opportunity to reopen an appeal from being used as a tactic to delay removal. The Clause by Clause Analysis with respect to
+IRPA
+dated September 2001 was entered into Parliament at the time the Bill creating
+IRPA
+was being considered by Parliament. Accordingly, the legislative history shows that Parliament was informed that the intention of s. 71 is to prevent the mechanism of the reopening of immigration appeals from being used as a tactic to delay removal and that s. 71 limits reopenings to instances where there is a breach of the rules of natural justice.
+Accordingly, I am of the view that these four principles of statutory construction lead to the conclusion that s. 71 limits the jurisdiction of the IAD to reopen appeals and implicitly excludes the common law jurisdiction to reopen appeals to permit the appellant to present additional or new evidence.
+Facts in this Case Illustrate Purpose of Limiting IAD Appeals
+[18]
+Applying the principles of statutory construction to the facts in this case illustrate Parliament's purpose in limiting the reopening of appeals before the IAD. In this case, the applicant came to Canada and stayed illegally while challenging the respondent's right to remove the illegal immigrant through multiple legal proceedings. The applicant has been before the IAD two times, the Federal Court two times (including this one) and the B.C. Provincial Court. In addition, the applicant has been the subject of multiple proceedings before different adjudication tribunals, boards and decision-makers under the immigration legislation. A s. 27 Inquiry, a PRAA assessor, and an H & C decision-maker. This adds up to eight different quasi-judicial or judicial determinations involving the applicant who obviously came to Canada on a condition which was contravened. Without limiting the right of the IAD to reopen an appeal, the IAD immigration process becomes a merry-go-round. In my view, Parliament has limited the right of the IAD to reopen an appeal to only cases involving breaches of the rules of natural justice. For these reasons, this application for judicial review will be dismissed.
+Proposed Certified Question
+[19]
+The applicant has proposed that the following question be certified:
+Does s. 71 of
+IRPA
+extinguish the common law continuing "equitable jurisdiction" of the IAD to reopen an appeal except where the IAD has failed to observe a principle of natural justice?
+The respondent acknowledges that this is a serious question of general importance which ought to be certified. The court agrees.
+ORDER
+[20]
+THIS COURT ORDERS THAT:
+1. This application for judicial review is dismissed; and,
+2. The following question is certified for appeal:
+Does s. 71 of
+IRPA
+extinguish the common law continuing "equitable jurisdiction" of the IAD to reopen an appeal except where the IAD has failed to observe a principle of natural justice?
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/kawm
+[End of document]

@@ -1,0 +1,508 @@
+[1]
+Mactavish, J.
+: Canadian Pharmaceutical Technologies International (C.P.T.) Inc. seeks judicial review of what it says are two decisions made by a Senior Health Canada official which determined that CPTI's "Vancopak" product was properly classified as a "drug in dosage form", and was thus subject to the provisions of the
+Food and Drugs
+Act
+, R.S.C. 1985, c. F-27, and the
+Food and Drug Regulations
+, C.R.C. 1978, c. 870.
+[2]
+CPTI asserts that it was denied procedural fairness in the process followed by Health Canada in arriving at a final decision in this matter. CPTI also says that Health Canada acted in a discriminatory fashion by singling out its Vancopak product for scrutiny, when other companies are selling similar products without interference by Health Canada. Finally, CPTI claims that Health Canada made numerous errors in determining that Vancopak was indeed a "drug in dosage form" and was therefore subject to the
+Food and Drugs
+Act
+and
+Regulations
+.
+[3]
+For the reasons that follow, I have concluded that CPTI was not denied procedural fairness in the redetermination process. I am also satisfied that CPTI has not been the victim of unlawful discrimination in the regulatory process, and that the conclusion that Vancopak is a "drug in dosage form" for the purpose of the
+Food and Drug Regulations
+was one that was reasonably open to the Health Canada official on the record before him. As a consequence, CPTI's applications for judicial review will be dismissed.
+Background
+[4]
+"Vancopak" is the trade name used by CPTI for its vancomycin hydrochloride product. Vancomycin hydrochloride is an antibiotic used in the treatment of severe or life-threatening infections such as staphylococcal enterocolitis, or the antibiotic-associated pseudomembraneous colitis produced by the C. difficile bacteria.
+[5]
+CPTI's Vancopak product consists of 5g of vancomycin hydrochloride powder in fixed, pre-measured, standardized package units. The powder is contained in a 100 ml graduated plastic bottle designed to facilitate the reconstitution of the vancomycin hydrochloride powder into a solution suitable for ingestion by patients.
+[6]
+CPTI purchases vancomycin hydrochloride in bulk from a company known as Baralex Inc., which imports the product in 5kg factory sealed containers from a pharmaceutical factory in China. A second company called Valeo Pharma Inc. carries out all of the remaining steps required to produce Vancopak on behalf of CPTI. These steps include storage, handling, weighing, repackaging the vancomycin hydrochloride powder in 5g portions in bottles, labelling and distribution activities.
+[7]
+CPTI sells its Vancopak product to pharmacies and hospitals in Canada. No sales of Vancopak are made directly to consumers.
+[8]
+Because a vancomycin hydrochloride solution is not stable over the long term, the product is sold to pharmacists in powder form, and is only reconstituted at the time that it is actually being dispensed to the patient. When a patient seeks to fill a prescription for Vancopak at a pharmacy, a pharmacist will add water to the powder to reconstitute it as a solution. CPTI says that pharmacists will also always add excipients such as sweeteners and stabilisers to the solution prior to providing it to the patient.
+[9]
+In early 2005, Health Canada received information from a third party that CPTI was selling vancomycin hydrochloride without a Drug Identification Number (or "DIN"). After making enquiries, Health Canada informed CPTI of its view that Vancopak was subject to regulation under the
+Food and Drug Regulations
+. According to Health Canada, Vancopak was both a "new drug" and a "drug in dosage form", with the result that the product required a DIN, and was otherwise subject to the federal drug regulatory process.
+[10]
+CPTI's position was that its vancomycin hydrochloride product was not a "drug in dosage form" as contemplated by the
+Regulations
+, and thus did not require a DIN before it could be sold in Canada. According to CPTI, its product (which was then marketed under the "Vancomysol" trade name) was merely what the company calls an "active pharmaceutical ingredient" (or "API"), intended for use in compounding by licensed pharmacists, in accordance with a prescription.
+[11]
+In an effort to address some of Health Canada's concerns, CPTI changed the name of the product from "Vancomysol" to "Vancopak", and altered the wording on its labelling from stating that the product was "for extemporaneous use" to saying that it was "FOR Rx COMPOUNDING".
+[12]
+Not satisfied with CPTI's changes, on September 16, 2005, Health Canada rendered a formal classification decision which identified Vancopak as a new "drug in dosage form", and not merely an "active pharmaceutical ingredient" for use in compounding, as had been argued by CPTI.
+[13]
+The result of Health Canada's decision was that CPTI would be required to obtain a DIN for its Vancopak product, if the company wished to continue marketing the product in Canada. In order to obtain a DIN, CPTI would have first had to file a New Drug Submission with Health Canada, and would then have had to go through the associated rigorous regulatory process.
+[14]
+Instead, CPTI sought judicial review of Health Canada's September 16, 2005 decision, alleging, amongst other things, that it had been denied procedural fairness in the process leading up to the classification decision.
+Justice Kelen's Decision
+[15]
+In a June 2006 decision, Justice Kelen determined that Health Canada had breached the duty of fairness owed to CPTI in its conduct of the classification proceeding: see
+ <FRAGMENT_SUPPRESSED>  ("
+CPTI #1
+").
+[16]
+In particular, Justice Kelen found that Health Canada had failed to advise CPTI of the case that it had to meet, namely the reasons why it was that Health Canada believed Vancopak required a DIN. In Justice Kelen's view, CPTI had also been denied the opportunity to fully respond to the position taken by Health Canada before Health Canada made its final classification decision: see
+CPTI #1
+, at paras. 19 to 24.
+[17]
+Justice Kelen rejected CPTI's allegation that Health Canada was discriminating against it because other companies in Canada were selling vancomycin hydrochloride to pharmacists without having first been required to obtain a DIN. Justice Kelen observed that there had been an inquiry or complaint made against CPTI in this case. It was for this reason that Health Canada had investigated the company, and had made the decision under review. In Justice Kelen's view, this did not amount to discriminatory conduct on the part of CPTI:
+CPTI #1
+, at para. 29.
+[18]
+Given that Justice Kelen concluded that Health Canada had breached its duty of fairness, and not provided CPTI with the opportunity of responding with evidence to the position taken by Health Canada, he did not go on to consider whether Health Canada's finding that Vancopak was a "drug in dosage form" had been made in error:
+CPTI #1
+, at para. 25.
+[19]
+By way of remedy, Justice Kelen set aside Health Canada's September 16, 2005 decision, remitting the matter "to an appropriate senior Health Canada official in Ottawa" for reconsideration upon the following terms:
+"i) The senior Health Canada official in Ottawa will not have been involved with the decision under review, but has expertise with respect to the compliance of health products under the
+Food and Drugs
+Act
+and
+Regulations
+;
+"(ii) The applicant [CPTI] is provided with an opportunity of providing the new decision-maker with evidence in response to the concerns raised by Health Canada in the letter dated September 16, 2005 and in the documents which constitute the record of decision, which were made known to the applicant as part of this Court process; and
+"(iii) The applicant will be provided with an opportunity to know any further concerns which Health Canada may have with respect to the additional evidence which may be submitted by the applicant, and provided with an opportunity to respond before the new Health Canada official makes a decision in this case."
+Events Occurring after Justice Kelen's Decision was Rendered
+[20]
+In an effort to comply with the Order of Justice Kelen, responsibility for the Health Canada redetermination was assigned to Dr. David Clapin. Dr. Clapin was the Branch Science Advisor in the Office of Science and Risk Management at Health Canada's Health Products and Food Branch.
+[21]
+By letter dated August 23, 2006, Dr. Clapin wrote to the President of CPTI, advising that he had been assigned to carry out the reconsideration of Vancopak's regulatory status. Dr. Clapin went on to state that:
+"In order to facilitate the redetermination of the regulatory status of Vancopak, I propose the following course of action:
+1. The responsible officers of Health Canada will provide [CPTI] and myself with a written statement outlining what they believe to be the main issues involved in the matter, and their position on those issues;
+2. [CPTI] will then be given 30 calendar days in which to provide me with its position in writing on the issues identified by Health Canada, as described above, and to identify and comment on any other issue it feels is relevant to the decision.
+3. After having had the opportunity to review the submitted material, a meeting will be held between representatives of the original Health Canada decision-maker(s), [CPTI] and myself in order to give both of the original parties a better opportunity to clarify their respective positions, and so that I can ensure that I fully understand each party's interpretation of the evidence.
+4. Following the meeting, I will arrive at a decision regarding the status of the product Vancopak which will be provided to both [CPTI] and the responsible officers of Health Canada in writing.
+5. At the outset, the material I will have for review will consist of the challenged Health Canada decision letter of September 16, 2005 and the [sic] all of the material included with Health Canada's record of decision provided to the Federal Court. Should I wish to review additional documents or evidence, both parties will be notified."
+[22]
+CPTI acknowledges that the first two steps of the process described in Dr. Clapin's August 23, 2006 letter were followed. However, CPTI takes issue with what occurred after CPTI provided Dr. Clapin with its written submissions outlining the company's position on the issues identified by Health Canada.
+[23]
+That is, prior to the meeting contemplated by the third numbered paragraph of Dr. Clapin's letter actually taking place, Dr. Clapin sent CPTI a document entitled "Preliminary Regulatory Position", under cover of a letter dated February 13, 2007.
+[24]
+It is CPTI's contention that Dr. Clapin's "Preliminary Regulatory Position" document was in fact a determination by Dr. Clapin that Vancopak was a "drug in dosage form", was sold to pharmacists in a form that is "ready for use by the consumer", and was thus subject to the regulatory process.
+[25]
+CPTI immediately advised Dr. Clapin in writing of its concern that in proceeding in this fashion, Dr. Clapin had violated CPTI's right to procedural fairness in the redetermination process by prejudging the issues before him. Shortly thereafter, CPTI commenced an application for judicial review with respect to Dr. Clapin's February 13, 2007 "decision" (file T-459-07). This is one of the two applications for judicial review currently before this Court.
+[26]
+CPTI asked Dr. Clapin not to proceed further with the redetermination process until such time as CPTI's application for judicial review could be heard and decided. Dr. Clapin declined to put matters on hold, advising CPTI that the redetermination process would continue. Dr. Clapin then asked CPTI to provide him with a written response to his "Preliminary Regulatory Position", noting that if no response was received from the company, a final decision on the reclassification issue would be made without further input from CPTI.
+[27]
+CPTI again advised Dr. Clapin of its view that the rendering of his "Preliminary Regulatory Position" violated CPTI's right to procedural fairness in the redetermination process. CPTI further asserted that it had a legitimate expectation as to how the redetermination process would unfold, based on Dr. Clapin's own description of the process in his August 23, 2006 letter.
+[28]
+CPTI also advised Dr. Clapin that his "Preliminary Regulatory Position" contained factual and other errors, and raised new issues that fell outside those originally identified by Health Canada as matters of concern. Nevertheless, CPTI agreed to continue with the redetermination process, on a "without prejudice" basis, while simultaneously seeking relief in this Court with respect to the "Preliminary Regulatory Position".
+[29]
+On July 5, 2007, a meeting was convened by Dr. Clapin with representatives of both Health Canada and CPTI, at which time both sides provided Dr. Clapin with oral submissions with respect to the matters in issue. Following this meeting, CPTI provided Dr. Clapin with further written submissions, identifying, in detail, what it says were the legal and factual errors undermining Dr. Clapin's analysis and conclusions with respect to the regulatory status of Vancopak.
+[30]
+On April 4, 2008, Dr. Clapin released a decision dated February 27, 2008, regarding the regulatory status of Vancopak. Taking into account the nature of Vancopak itself, the activities and steps performed on it to transform the product to its end use, and the nature of the controls exercised over the product by CPTI, Dr. Clapin concluded that Vancopak was a "drug in dosage form" and that it was sold to hospitals and pharmacies in a form that was ready for use by consumers.
+[31]
+CPTI then sought judicial review with respect to Dr. Clapin's February 27, 2008 decision. Prothonotary Aronovitch subsequently ordered that CPTI's two applications for judicial review be consolidated, with the result that the two matters were heard together. These reasons pertain to both applications.
+Issues
+[32]
+CPTI's applications for judicial review raise the following issues:
+1. Has CPTI been denied procedural fairness in the redetermination process?
+2. Has Health Canada discriminated against CPTI? and
+3. Did Dr. Clapin err in determining that Vancopak is a "drug in dosage form"?
+[33]
+In addition, the Court must determine the appropriate standard of review to be applied with respect to each of the issues.
+Standard of Review
+[34]
+CPTI's first issue involves a question of procedural fairness, and the parties agree that the standard of review to be applied to this aspect of Dr. Clapin's decision is that of correctness. I agree that no deference is owed to the views of Dr. Clapin in this regard, and that it is up to this Court to form its own opinion as to the fairness of the process leading up to Dr. Clapin's final decision: see
+ <FRAGMENT_SUPPRESSED>  at para. 43.
+[35]
+As will be explained below, I am of the view that Dr. Clapin's finding that Health Canada had not discriminated against CPTI was correct. As a result, it is not necessary to identify the appropriate standard of review with respect to this issue.
+[36]
+The final issue is whether Dr. Clapin erred in his determination that Vancopak was a "drug in dosage form" for the purposes of the
+Food and Drug Regulations
+, as opposed to an "active pharmaceutical ingredient" for use by pharmacists in compounding.
+[37]
+It is not always necessary for the Court to perform its own standard of review analysis in determining the applicable standard of review in a given case, and regard may be had to existing jurisprudence: see <FRAGMENT_SUPPRESSED> , at para. 57.
+[38]
+It is clear from the jurisprudence of the Federal Court of Appeal that to the extent that the decision under review turned on Dr. Clapin's interpretation of the
+Food and Drugs
+Act
+and the
+Food and Drug Regulations
+, the decision is reviewable against the standard of correctness: see
+ <FRAGMENT_SUPPRESSED> .
+[39]
+However, there does not appear to be any real issue in this case as to the proper interpretation of the
+Act
+or the
+Regulations
+. The real debate between the parties is largely a factual one. That is, where the parties disagree is as to whether the facts relating to Vancopak's production make it a drug which is in a form that is "ready for use by the consumer without requiring further manufacturing". As Justice Kelen noted in
+CPTI #1
+, this is a question of mixed law and fact, and primarily one of fact. As a consequence, deference is owed to Health Canada's classification determinations: see
+CPTI #1
+, at para. 17.
+[40]
+Justice Kelen found that Health Canada has greater expertise than the Court with respect to the classification, manufacture and safe sale of drugs. According to Justice Kelen, determining whether a product should be classified as a "drug in dosage form" "requires the exercise of judgment derived from special expertise in respect of basic and applied medical science. The line that divides drugs that are in 'dosage form' from those that require further 'manufacturing' is, in accordance with Parliament's intent, one that is best demarcated by regulators with expertise in drug regulation":
+CPTI #1
+, at para. 13.
+[41]
+Justice Kelen also observed that there is no privative clause or statutory right of appeal in the legislation with respect to Health Canada's product classification decisions: see
+CPTI #1
+, at para. 12. Moreover, the purpose of the
+Food and Drugs
+Act
+and
+Regulations
+was "to regulate the manufacture, distribution, use and sale of drugs to protect the health and safety of the Canadian public". Justice Kelen went on to observe that the overriding purpose of the
+Regulations
+in issue here was to ensure the safety and efficacy of drugs sold in Canada. Given that Health Canada's product classification decisions were "administrative and polycentric in nature" and given that such decisions "protect the public's safety as gatekeeper to the pharmaceutical market", Justice Kelen found that the main purpose of the scheme was to protect the public interest. This factor favoured great deference being owed to classification decisions: see
+CPTI #1
+, at para. 15.
+[42]
+In this case, while Dr. Clapin may not have been involved in classification decisions on a regular basis, as the Branch Science Advisor in the Office of Science and Risk Management at Health Canada's Health Products and Food Branch he was clearly a senior Health Canada official with expertise with respect to the compliance of health products under the
+Food and Drugs
+Act
+and
+Regulations
+.
+[43]
+Finally, Justice Kelen did not accept CPTI's argument that the questions of fact or mixed fact and law in issue in this case went to the jurisdiction of Health Canada under the
+Act
+, and should therefore be reviewed on a standard of correctness: see
+CPTI #1
+, at para. 17.
+[44]
+Taking all of these factors into consideration, I am of the view that Dr. Clapin's determination that Vancopak was a "drug in dosage form" for the purposes of the
+Food and Drugs
+Act
+and
+Regulations
+is one that should be reviewed against the standard of reasonableness.
+[45]
+In reviewing a decision against the reasonableness standard, the Court must consider the justification, transparency and intelligibility of the decision-making process, and whether the decision falls within a range of possible acceptable outcomes which are defensible in light of the facts and the law: see <FRAGMENT_SUPPRESSED> at para. 47.
+Has CPTI been Denied Procedural Fairness in the Redetermination Process?
+[46]
+The crux of CPTI's argument in relation to this issue is that Dr. Clapin's February 13, 2007 "Preliminary Regulatory Position" was not a preliminary assessment at all. Rather, CPTI submits that in rendering his February 13, 2007 decision, Dr. Clapin effectively arrived at a final determination of the classification issue, prior to allowing CPTI the opportunity to be heard in person.
+[47]
+Although an oral hearing did take place after the February 13, 2007 "decision" was rendered, CPTI contends that Dr. Clapin's mind was effectively made up upon the issuance of his "Preliminary Regulatory Position". This, the company says, is evidenced by a comparison of the preliminary and final decisions.
+[48]
+CPTI further submits that Dr. Clapin fettered his discretion by indicating in his "Preliminary Regulatory Position" that he would only amend the February 13, 2007 "decision" "if it can be demonstrated by CPTI that an aspect of the discussion is factually in error in a way that invalidates the analysis".
+[49]
+According to CPTI, it was intrinsically unfair to have had Dr. Clapin prejudge the outcome of the regulatory assessment. His strongly-held, pre-determined views resulted in CPTI being denied a fair or meaningful hearing before an unbiased decision-maker. Moreover, CPTI says that the process followed by Dr. Clapin was contrary to that described in his August 23, 2006 letter, and thus contrary to the legitimate expectations of CPTI as to the process that would be followed in the redetermination process.
+[50]
+In determining whether the redetermination process followed by Dr. Clapin in this case was unfair to CPTI, it is first necessary to ascertain the content of the duty of fairness owed by Dr. Clapin to CPTI, having regard to all of the circumstances of this case.
+[51]
+An administrative decision classifying a substance as a "drug in dosage form" for the purposes of the
+Food and Drugs
+Act
+and
+Regulations
+is clearly one that affects CPTI's interests. As such, the duty of fairness is engaged: see
+Cardinal and  <FRAGMENT_SUPPRESSED> .
+[52]
+The content of the duty of fairness is variable, however, and the extent of a decision-maker's obligations in this regard will depend upon the statutory context under which the decision was taken, as well as the nature of the rights affected: see
+ <FRAGMENT_SUPPRESSED> , at paras. 21 and 22.
+[53]
+At paragraphs 23 to 27 of
+Baker
+, the Supreme Court identified the following non-exhaustive list of factors to be considered in ascertaining just how much procedural fairness is required in a given case:
+"(1) the nature of the decision being made and the process followed in making it;
+"(2) the nature of the statutory scheme and the 'terms of the statute pursuant to which the body operates';
+"(3) the importance of the decision to the individual or individuals affected;
+"(4) the legitimate expectations of the person challenging the decision;
+"(5) the choices of procedure made by the agency itself."
+[54]
+In this case, what is at issue is a regulatory decision arrived at through a non-adjudicative process. Although CPTI has repeatedly referred to the July 5, 2007 meeting between Dr. Clapin, representatives of Health Canada and representatives of CPTI as a "hearing", a review of the record confirms that what occurred was not an adjudicative-type hearing, but really more of an informal discussion, with each side explaining why they believed their position should be accepted.
+[55]
+It is also worth noting that while Justice Kelen was of the view that CPTI was entitled to respond to Health Canada's concerns in relation to the classification question, he did not suggest that a formal hearing was required in the redetermination process.
+[56]
+Moreover, neither the
+Food and Drugs
+Act
+nor the
+Regulations
+prescribe a procedure to be followed in arriving at decisions such as the one at issue in this case, meaning that those charged with making classification decisions will ordinarily be the masters of their own procedures.
+[57]
+While the regulatory classification of Vancopak is of undoubted importance to CPTI, the company's interest in this matter is purely economic. At the hearing of these applications, CPTI argued that its Vancopak product was the company's only product, and that the very existence of the company was in jeopardy as a result of Dr. Clapin's decision. However, counsel for the company could not identify any evidence in the record that would support this contention, when invited to do so by the Court.
+[58]
+Thus the first, second, third and fifth of the
+Baker
+factors all suggest that the regulatory classification process would fall towards the less demanding end of the fairness spectrum. Indeed, such a conclusion is consistent with the decision of Justice Kelen sending this matter back for redetermination.
+[59]
+That is, Justice Kelen's order suggests that only the most basic elements of procedural fairness were owed to CPTI by Health Canada, namely, the right to know the case that it had to meet, and the opportunity to respond to that case.
+[60]
+Insofar as the fourth
+Baker
+factor is concerned, CPTI submits that in light of the redetermination process established by Dr. Clapin's August 23, 2006 letter, it had the legitimate expectation that no decision would be arrived at by Dr. Clapin until such time as the company was given an opportunity to be heard in person. By arriving at a final decision prior to the July 5, 2007 meeting, CPTI says that Dr. Clapin breached the duty of procedural fairness owed to the company.
+[61]
+It should be noted that CPTI's legitimate expectation argument is premised upon Dr. Clapin's February 13, 2007 "Preliminary Regulatory Position" amounting to a final decision. As will be discussed further on in these reasons, I am not persuaded that this was so.
+The Effect of Dr. Clapin's February 13, 2007 "Preliminary Regulatory Position"
+[62]
+As noted above, CPTI says that a review of Dr. Clapin's "Preliminary Regulatory Position" demonstrates that he had really made up his mind on the classification issue by this point in the process.
+[63]
+That is, the company says that Dr. Clapin had effectively arrived at a final decision, prior to allowing CPTI the opportunity to be heard in person. The result of this was that CPTI was denied a meaningful opportunity to respond to Dr. Clapin's concerns through the procedural steps occurring after that date, including, in particular, the July 5, 2007 meeting.
+[64]
+In contrast, the respondent contends that the release of the February 13, 2007 "Preliminary Regulatory Position" document was nothing more than an attempt on Dr. Clapin's part to focus the parties' subsequent submissions on the issues which, in his view, were critical to the classification issue, and to provide both sides with a full opportunity to respond.
+[65]
+Having carefully reviewed both Dr. Clapin's February 13, 2007 "Preliminary Regulatory Position" and his February 27, 2008 decision regarding the regulatory status of Vancopak, I am of the view that Dr. Clapin had not prejudged the issue when he released the February 13, 2007 document, and that he kept an open mind with respect to the key issues before him until such time as he rendered his final decision in this matter.
+[66]
+Indeed, I am satisfied that the "Preliminary Regulatory Position" document was nothing more than a good faith attempt on Dr. Clapin's part to comply with Justice Kelen's order that CPTI be given notice of Health Canada's concerns and an opportunity to respond to those concerns.
+[67]
+Such a view is consistent with the wording of the February 13, 2007 document itself, along with the covering letter that was provided with it.
+[68]
+Dr. Clapin's February 13, 2007 letter to counsel for CPTI enclosing a copy of his "Preliminary Regulatory Position" advises that he had completed his review of the material that had been provided by both CPTI and Health Canada with respect to the classification of Vancopak, and that he had come to a
+preliminary position
+on the issue. Dr. Clapin then stated that "At this point, I think it appropriate to seek further input from the parties involved in order to ensure that each party has a full opportunity to advance their position, and to respond to any new issues raised in my preliminary assessment of the classification issue".
+[69]
+Dr. Clapin goes on in his letter to refer to the meeting of the parties that he had proposed in his August 23, 2006 letter, describing such a meeting as "a final opportunity for the parties involved to define their positions on the classification issue". He explains that he was providing his preliminary assessment of the issues to the parties "in order to focus the discussion" at such a meeting.
+[70]
+Dr. Clapin then says that he would be prepared to dispense with a meeting, if CPTI were of the view that it could properly provide its input in writing, stating that he "would review any further material you wish to provide before coming to a final decision on the classification issue".
+[71]
+Thus Dr. Clapin's letter makes it quite clear that his February 13, 2007 "Preliminary Regulatory Position" did not finally decide anything, and that he remained open to receiving and considering any further submissions that CPTI wished to make.
+[72]
+A review of the "Preliminary Regulatory Position" document leads to a similar conclusion. Indeed, the title of the document itself indicates that it was intended as a preliminary assessment of the issues, rather than any kind of final decision.
+[73]
+Such a view is borne out by a review of the very first paragraph of the document, which describes its purpose as being to "present a preliminary regulatory position for the resolution of the issue involving the product Vancopak, manufactured by [CPTI]".
+[74]
+Paragraph 1.3 of the "Preliminary Regulatory Position" goes on to state that "CPTI will be given the opportunity to comment and provide any evidence which they feel may invalidate an aspect of this preliminary regulatory position", noting that "Health Canada will amend this document, if needed, prior to issuing a final decision, if it can be demonstrated by CPTI that an aspect of the decision is factually in error in a way that invalidates the analysis".
+[75]
+After a lengthy discussion of the parties' respective positions, Dr. Clapin then sets out his own "Preliminary Regulatory Position". He commences his analysis by stating at paragraph 5.2 that:
+"The following paragraphs describe a general principle, and two associated criteria, which
+could be used
+to determine whether or not Vancopak is a 'drug in dosage form' for the purposes of regulation. These statements are a
+preliminary regulatory position
+provided by a senior Health Canada official [D. Clapin] who has not been involved with the decision reviewed by the Honourable Mr. Justice Kelen [Docket: T-1603-05], but who has expertise with respect to the compliance of health products under the
+Food and Drugs
+Act
+and
+Regulations
+.
+These statements should not be taken to be a final regulatory ruling by Health Canada, until such time as the manufacturer, CPTI, and other authorities in Health Canada, have been given an opportunity to rebut the principle and criteria described below
+." (Emphasis added)
+[76]
+Thus Dr. Clapin indicates that he has identified a general principle and two associated criteria that
+could
+be used to determine whether or not Vancopak is a "drug in dosage form". He does not suggest that this principle and these criteria
+would
+necessarily be used in answering the question before him.
+[77]
+CPTI has taken particular issue with Dr. Clapin's statement in paragraph 1.3 of the "Preliminary Regulatory Position" that "Health Canada will amend this document, if needed, prior to issuing a final decision,
+if it can be demonstrated by CPTI that an aspect of the decision is factually in error in a way that invalidates the analysis
+". According to CPTI, this statement demonstrates that Dr. Clapin fettered his own discretion by indicating that he would only amend the February 13, 2007 "decision" if CPTI could show that he had made a factual error in his analysis.
+[78]
+However, when one reviews the portion of paragraph 5.2 of Dr. Clapin's "Preliminary Regulatory Position" cited above, it becomes clear that Dr. Clapin was in fact open to receiving submissions from CPTI, not just in relation to the accuracy of the factual underpinnings of his decision, but also in relation to the principles and criteria to be applied by him in determining whether Vancopak was in fact a "drug in dosage form".
+[79]
+Dr. Clapin then proceeds to discuss the principle and criteria which he suggests could be used to determine whether or not Vancopak is a "drug in dosage form" for the purposes of the
+Regulations
+. In the course of this discussion he flags what he describes as a "key concern" with the position of CPTI, namely that pharmacists would not know if an error had been made in the manufacture of Vancopak before providing the substance to their clients.
+[80]
+Dr. Clapin concludes his analysis by stating that "
+my initial view
+is that the product Vancopak has intrinsic physical characteristics that indicate that it is a "drug in dosage form" and further it is sold to pharmacists in a form which is "ready for use by the consumer" (Emphasis added).
+[81]
+In light of the clear wording of Dr. Clapin's "Preliminary Regulatory Position", I cannot accept CPTI's submission that Dr. Clapin's mind was effectively made up on the classification issue by February 13, 2007, nor do I think that it can reasonably be inferred that Dr. Clapin approached the task of arriving at a final decision in this regard with a closed mind.
+[82]
+This view is further confirmed by a review of Dr. Clapin's February 27, 2008 final regulatory decision, which discloses that CPTI's subsequent submissions were indeed carefully considered by Dr. Clapin. Indeed, paragraph 1.3 of the decision notes that the rationale provided in the "Preliminary Regulatory Position" for concluding that Vancopak was a "drug in dosage form" had been amended after giving "careful, substantive consideration" to CPTI's subsequent submissions.
+[83]
+Moreover, although Dr. Clapin's conclusion that Vancopak was indeed a "drug in dosage form" remained unchanged, there are several references to CPTI's intervening submissions in his final decision, and changes were made to the analysis in order to take these submissions into account.
+[84]
+By way of example, a chart illustrating the steps to be taken in the manufacturing and dispensing of Vancopak was modified after the release of the "Preliminary Regulatory Position" in order to reflect CPTI's subsequent input (see paragraph 6.3 and Figure 1of Dr. Clapin's final decision versus Figure 1 of the "Preliminary Regulatory Position").
+[85]
+In addition, the text in the final decision has been substantially re-worked in comparison to that appearing in the earlier document, and there are differences in the analysis between Dr. Clapin's "Preliminary Regulatory Position" and that appearing in his final decision.
+[86]
+As a consequence, I am not persuaded that the circumstances leading up to the release of Dr. Clapin's February 27, 2008 decision regarding the regulatory status of Vancopak, including the release of his "Preliminary Regulatory Position", supports the conclusion that Dr. Clapin had prejudged the issue, or that he fettered his ability to evaluate CPTI's subsequent submissions with an open mind. I am therefore not satisfied that CPTI was denied procedural fairness in the redetermination process.
+Has Health Canada Discriminated Against CPTI?
+[87]
+CPTI alleges that Health Canada is discriminating against it, because other companies in Canada are selling vancomycin hydrochloride products to pharmacists without being required by Health Canada to obtain a DIN. According to the company, it is only its Vancopak product that is being subjected to regulatory scrutiny, with the result that CPTI has been treated in a manner inconsistent with the
+Act
+and the
+Regulations
+in respect of a legal issue over which Health Canada exercises no discretionary power.
+[88]
+Citing the decision of this Court in
+ <FRAGMENT_SUPPRESSED> , and that of the High Court of Justice in Ontario in
+ <FRAGMENT_SUPPRESSED>  (H.C.) at p. 183, CPTI says that this amounts to unlawful discrimination on the part of Health Canada.
+[89]
+The discrimination issue was argued before Justice Kelen, who noted that there had been an inquiry or complaint made against CPTI, and that it was for this reason that Health Canada had investigated CPTI and had arrived at the decision that was in issue before him: see
+CPTI #1
+, at para. 29.
+[90]
+According to Justice Kelen, the fact that Health Canada had investigated an inquiry or complaint in relation to CPTI's Vancopak product did not mean that CPTI had been the victim of discrimination: see
+CPTI #1
+, at para. 29.
+[91]
+CPTI has acknowledged that no additional evidence with respect to the discrimination issue was put before Dr. Clapin in the context of the redetermination process, and that the record in relation to this issue is identical to the one that was before Justice Kelen.
+[92]
+This issue has already been decided against CPTI. Justice Kelen's decision was not appealed, and as such is final. Given that the question before me involves the same issue and the same parties, CPTI is arguably precluded from relitigating the discrimination issue by operation of the doctrine of issue estoppel: see
+ <FRAGMENT_SUPPRESSED>  at para. 25.
+[93]
+However, in light of the fact that this argument was not advanced by Health Canada, I do not intend to dispose of the discrimination issue on this basis.
+[94]
+In relation to CPTI's discrimination argument, Dr. Clapin indicated that Health Canada had provided its rationale for concluding that Vancopak was a "drug in dosage form", and that if there are other products on the market that are similar to Vancopak, which are not compliant with the
+Food and Drug Regulations
+, Health Canada will engage in appropriate compliance and enforcement activities, as warranted.
+[95]
+The evidence relied upon by CPTI to support its discrimination argument is extremely weak. CPTI has provided information from the catalogues of competitors who also sell 5g packages of vancomycin hydrochloride. There is little evidence before the Court as to the regulatory status of the competitor companies, and no indication as to whether or not Health Canada is also seeking to regulate these products. Indeed, there is no evidence before the Court that CPTI actually stands on the same regulatory footing as these other companies.
+[96]
+In contrast, in the <FRAGMENT_SUPPRESSED> decision cited by CPTI, there was clear evidence before the Court in that case that another company had been treated differently by Health Canada, as a deadline had been strictly enforced for one company, and not for another.
+[97]
+Furthermore, the
+Carpenter
+decision observes that in order for there to be wrongful discrimination in a regulatory process, the conduct in question must be intended to favour or hurt one individual, without regard to the public interest: see
+Carpenter
+at para. 28, revd. on other grounds by [1998] 2 F.C. 548; 221 N.R. 372 (F.C.A.).
+[98]
+No such motivation on the part of Health Canada has been demonstrated in this case, and it appears that Health Canada's concern has been the safety of drugs consumed by the Canadian public, which is clearly of public interest.
+[99]
+Finally, in the context of proceedings under the
+Patented Medicines (Notice of Compliance) Regulations
+, S.O.R./93-133, this Court has held in
+ <FRAGMENT_SUPPRESSED>  that while consistency in the regulatory process is an admirable objective, it cannot be paramount over the proper consideration of individual circumstances: see
+Reddy-Cheminor
+at para. 35, and <FRAGMENT_SUPPRESSED> at para. 45.
+[100]
+In these circumstances, I am satisfied that Dr. Clapin was correct in finding that there had been no discriminatory treatment of CPTI by Health Canada.
+Did Dr. Clapin Err in Determining that Vancopak is a "Drug in Dosage Form"?
+[101]
+Subsection 2(a) of the
+Food and Drugs
+Act
+defines the term "drug" as including "any substance or mixture of substances manufactured, sold or represented for use in ... the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or its symptoms, in human beings or animals".
+[102]
+CPTI argues that its Vancopak product is not a "drug" within the meaning of the
+Regulations
+, but is instead an "active pharmaceutical ingredient". CPTI says that Dr. Clapin erred in failing to distinguish between an "active pharmaceutical ingredient", such as Vancopak, which is sold to pharmacists for use as a raw chemical in compounding drugs, and "ready to use" substances sold as "drugs" directly for use by patients.
+[103]
+According to CPTI, Parliament must be deemed to have been aware of the existence of APIs such as Vancopak, as well as their use by pharmacists. If Parliament had intended APIs to have been covered by the
+Regulations
+, CPTI says that it would have used language that included them. To interpret the term "drug" to include raw chemicals such as APIs would, in CPTI's submission, be to ignore Parliament's clear intent.
+[104]
+I do not accept CPTI's submissions in this regard. The statutory definition of "drug" is very broad, encompassing as it does any "substance" that is "manufactured, sold or represented for use in ... the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or its symptoms, in human beings or animals".
+[105]
+Vancomycin hydrochloride is unquestionably a "substance". Moreover, CPTI's Vancopak product is "manufactured, sold or represented for use in ... the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or its symptoms, in human beings". As such, it is clear from a plain reading of the statute, that Dr. Clapin was correct in finding that Vancopak is a "drug" within the meaning of the
+Food and Drugs
+Act
+.
+[106]
+Whether Vancopak is a "new drug" subject to the
+Food and Drug Regulations
+requiring a DIN in order to be sold in Canada depends on whether it is a "drug in dosage form". If Vancopak is not a "drug in dosage form", but is rather a drug to be compounded by a pharmacist pursuant to a prescription, it is not subject to the
+Food and Drug Regulations
+, but is instead subject to provincial legislation governing pharmacists: see
+CPTI #1
+, at para. 26.
+[107]
+Indeed, as Justice Kelen noted in his decision, Parliament has not yet legislated with respect to the oversight of active pharmaceutical ingredients used in compounding see
+CPTI #1
+, at para. 27. While he was of the view that there was an urgent need for Canada to regulate drugs sold as active pharmaceutical ingredients, Justice Kelen did not make any determination as to whether Vancopak was in fact a "drug in dosage form".
+[108]
+The question, then, is whether Dr. Clapin's finding that Vancopak is a "drug in dosage form" for the purposes of the
+Food and Drug Regulations
+is one that was reasonably open to him on the record before him.
+[109]
+Section C.01.005.(3) of the
+Regulations
+defines a "drug in dosage form" as being "a drug in a form in which it is ready for use by the consumer without requiring any further manufacturing" or "... une drogue prête pour la consommation sans autre transformation".
+[110]
+Dr. Clapin erred, CPTI says, in concluding that Vancopak is sold "in a form in which it is ready for use by the consumer without requiring any further manufacturing", given that neither CPTI nor pharmacists ever sell Vancopak to consumers in its powder form.
+[111]
+CPTI argues that the addition of sweeteners, stabilizers, and other excipients to the pre-measured vancomycin hydrochloride powder sold as Vancopak amounts to a further manufacturing step, transforming a raw chemical into a drug suitable for use. According to CPTI, in concluding that Vancopak was a "drug in dosage form", Dr. Clapin erred by focussing his analysis on the agent carrying out the transformative activity, rather than the nature of the process itself.
+[112]
+Thus, the essential question is whether the steps taken by pharmacists before CPTI's Vancopak product is provided to patients amount to further "manufacturing" or "
+transformation
+" of the product. In concluding that Vancopak was a "drug in dosage form", Dr. Clapin had regard to the nature of the Vancopak product, the actions of CPTI in manufacturing Vancopak, and what it is that pharmacists do with the product before it is dispensed to patients.
+[113]
+CPTI has conceded that its vancomycin hydrochloride powder could theoretically be at least partially dissolved in sterile water, and consumed by patients in that form. Dr. Clapin notes that reconstitution in water is not an activity that is reserved to either drug manufacturers or pharmacists. Some non-prescription drugs are sold in pre-packaged powder form, and are reconstituted after purchase by consumers themselves. Dr. Clapin observes that these products are clearly "drugs in dosage form".
+[114]
+However, CPTI says that the reconstitution of Vancopak in water alone would not happen in practice, as the resulting solution would not be palatable. In order to make the solution palatable, ingredients such as sugars and flavouring would have to be added by a pharmacist. Other ingredients could also be added to assist in stabilizing the solution and inhibiting bacterial or fungal growth.
+[115]
+In answer to a question from the Court, counsel for CPTI acknowledged that the steps carried out by a pharmacist prior to dispensing a reconstituted Vancopak solution would not make the resulting vancomycin hydrochloride solution any more effective in curing infections. However, CPTI says that these intermediate steps would assist in ensuring that the product could in fact be administered to patients.
+[116]
+Noting that neither "manufacturing" nor "compounding" were defined terms in either the
+Food and Drug
+Act
+or in the
+Regulations
+, Dr. Clapin observed that some steps involving drugs, such as packaging, could be considered to be either "manufacturing" or "compounding", depending on who was carrying out the activity.
+[117]
+As a consequence, Dr. Clapin was of the view that while "it is the nature of the intervention by the pharmacists that provides a means of distinguishing between ... compounding ... and ... manufacturing" (February 27, 2008 decision at paragraph 8.3), one could not look only at the nature of the activity in order to determine whether the activity in question was "manufacturing" or "compounding". Consideration also had to be given to the identity of the person carrying out the activity.
+[118]
+Dr. Clapin then carefully examined the steps followed by CPTI in manufacturing its Vancopak product, and by pharmacists in dispensing the drug. Insofar as the steps taken by CPTI were concerned, Dr. Clapin observed that it is CPTI that measures the vancomycin hydrochloride powder, repackaging it in containers suitable for the reconstitution of the pre-measured amount. The amount of vancomycin hydrochloride and the size of the containers sold by CPTI correspond to the needs of pharmacists, physicians and patients for many prescription situations.
+[119]
+Dr. Clapin observed that this activity determines the amount of drug substance anticipated to be dispensed to individual patients. According to Dr. Clapin, it was this activity by CPTI that changed the status of the vancomycin hydrochloride "from being a raw input 'active medicinal ingredient' into a 'drug in dosage form'", ready for use as a starting material for compounding by pharmacists, and ready for use by patients without any further manufacturing steps by either pharmacists or consumers: February 27, 2008 decision at paragraph 6.6.
+[120]
+In Dr. Clapin's view, the fact that pharmacists must follow directions for use supplied by the manufacturer does not mean that Vancopak is not a "drug in dosage form" at the time that it is sold to pharmacists. Even though the product does not yield a single dose solution, it was clear to Dr. Clapin that the product was sold in a format that specifically permitted a specific, pre-measured, pre-packaged quantity to be dispensed for a course of treatment.
+[121]
+Dr. Clapin identified the degree of control exercised by manufacturers and pharmacists respectively over the dosage of the drug substance ultimately administered to the patient as key to his analysis. In his view, if, through the design of the product, a manufacturer exercises a significant degree of control over the final quantity of the drug administered to the patient according to a prescription, then the product will be a "drug in dosage form": February 27, 2008 decision at paragraphs 9.2 and 9.3.
+[122]
+In this case, a unit of Vancopak contains a pre-measured amount of drug substance which corresponds to a standard dosage of the vancomycin hydrochloride normally administered to the patient. As such, it is CPTI's actions that determine the amount of drug substance received by the patient. The intervening actions of pharmacists in adding excipients or diluents to the drug do not change the fact that the total, delivered dosage from the unit of product has been determined by the manufacturer: February 27, 2008 decision at paragraphs 9.4 to 9.7.
+[123]
+Dr. Clapin also observed that if an error were made in the manufacture of Vancopak, pharmacists would not be aware of the fact due to the nature of the product, with the result that consumers could be at risk of injury: February 27, 2008 decision at paragraph 9.8. It is true that pharmacists would be entitled to rely on the drug's United States Pharmacopoeia (or "USP") certification with respect to the drug's quality and purity, but this certification would not provide any assurance to pharmacists with respect to other aspects of the product's safety, such as the accuracy of the weighing of the vancomycin hydrochloride powder by CPTI.
+[124]
+As a consequence, Dr. Clapin concluded that Vancopak "has intrinsic physical characteristics that indicate that it is a 'drug in dosage form'": February 27, 2008 decision at paragraph 9.9.
+[125]
+Dr. Clapin also observed that no other regulatory framework provides an equivalent level of protection to that provided by the
+Food and Drugs
+Act
+and
+Regulations
+in relation to the manufacture of products that are "drugs in dosage form".
+[126]
+CPTI argues that Dr. Clapin effectively "stood the drug regulatory regime on its head", by concluding that Vancopak had to be a "drug in dosage form", as it would otherwise not be regulated. CPTI points out that Justice Kelen has already noted that there is in fact a gap in the regulatory scheme.
+[127]
+I do not think that a fair reading of Dr. Clapin's decision supports such a conclusion. Dr. Clapin interpreted the
+Regulations
+in a purposive manner, in order to give effect to the object of the regulatory regime as described in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 345 (T.D.), namely to "protect public health by assuring a certain level of safety and efficacy for drugs": at para. 24. While the Court's comments in
+Bristol-Myers Squibb
+relate to the
+PM (NOC)
+Regulations
+, the
+Food and Drugs
+Act
+and
+Regulations
+fulfill a comparable purpose.
+[128]
+CPTI argues that the regulatory definition of a "drug in dosage form" precludes the intervention of a third party prior to the product being distributed to patients. In fact, the
+Regulations
+preclude further
+manufacturing
+by a third party, but do not necessarily preclude lesser forms of intervention.
+[129]
+Dr. Clapin considered the nature of the intervention by pharmacists in adding sterile water, sweeteners and stabilizers to the Vancopak powder to amount to very simple steps, which do not materially alter the fact that the total dosage of vancomycin hydrochloride from a unit of Vancopak has been determined by CPTI through its manufacturing process. This conclusion involves fact-finding on the part of Dr. Clapin, and a level of familiarity with the drug formulation, pharmaceutical manufacturing and compounding processes which the Court does not share, and as such should be accorded considerable deference.
+[130]
+CPTI has not demonstrated that this conclusion was one that was not reasonably open to Dr. Clapin on the evidence before him.
+[131]
+Moreover, no additional medicinal ingredients are being added to the Vancopak powder by pharmacists, and there is no suggestion that anything done to the Vancopak powder by pharmacists affects the therapeutic effect of the drug.
+[132]
+The English version of the
+Regulations
+specifies that in order to be a "drug in dosage form", the drug in question must be ready for use by the consumer, and must not require any further "manufacturing". In contrast, the French version of the
+Regulations
+requires that the drug not require a further "transformation". CPTI argues that "transformation" has a broader meaning than "manufacturing", and more aptly captures the common meaning of the term.
+[133]
+There are two difficulties with this argument.
+[134]
+Firstly, under the "shared meaning" rule of statutory interpretation, where the English and French versions of legislation do not say the same thing, a meaning that is common to both ought to be adopted: see Ruth Sullivan,
+Sullivan on the Construction of Statutes
+, 5th Ed. (Markham: LexisNexis, 2008) at p. 100. That is, an interpretation reconciling the two versions is to be favoured, because it is assumed that this better reflects the work of a rational legislature: see Pierre-André Côté,
+The Interpretation of Legislation in Canada
+, 3rd Ed., (Scarborough: Carswell Thomson Professional Publishing, 2000), at pp. 323-324 & 349.
+[135]
+Thus, to the extent that "transformation" has a broader meaning than "manufacturing", it is the narrower, shared meaning of the term that is to be preferred.
+[136]
+The second difficulty with CPTI's argument flows from its contention that the mere addition of water to a powder, "transforming" the substance from a powder to a solution, amounts to a further manufacturing step. If this were so, then pre-packaged, over-the-counter medications such as Bromo-Seltzer would not be considered to be "drugs in dosage form", as the consumer has to add water to the Bromo-Seltzer powder before consuming the product. CPTI has, however, conceded that products such as Bromo-Seltzer are indeed "drugs in dosage form".
+[137]
+For these reasons, I am satisfied that Dr. Clapin's conclusion that CPTI's Vancopak product was a "drug in dosage form", requiring a DIN before it could be sold in Canada falls within a range of possible acceptable outcomes which are defensible in light of the facts and the law.
+Conclusion
+[138]
+For the foregoing reasons, both of CPTI's applications for judicial review are dismissed, with costs.
+JUDGMENT
+[139]
+THIS COURT ORDERS AND ADJUDGES that
+these applications for judicial review are dismissed, with costs to the respondent.
+Application dismissed.
+Editor: Steven C. McMinniman/vnh
+[End of document]

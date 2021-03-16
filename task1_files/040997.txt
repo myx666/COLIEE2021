@@ -1,0 +1,552 @@
+[1]
+Gleason, J.
+[Translation]: The applicant, Yacine Agnaou, is a lawyer who worked for the Department of Justice [DOJ] in its Regional Office in Quebec City, where he occupied a non-managerial position classified at the LA-02A group and level. He is a member of a visible minority, as that term is defined in the
+Employment Equity Act
+, SC 1995, c 44 [the EEA].
+[2]
+In April 2008, the DOJ posted a Job Opportunity Advertisement for two positions in the Quebec Regional Office, one for Associate Regional Director and the other for Law Directorate Director. Both positions were classified at the LA-03A group and level, two levels above the applicant's position. Both positions involved the management of a number of subordinates. The employer established as an essential qualification for both the positions that a candidate possess at least six months' experience within the preceding two years in human resources management in the federal public service. Mr. Agnaou applied for the positions but his candidacy was screened out at the initial stage because he lacked the requisite human resources management experience.
+[3]
+Mr. Agnaou filed a complaint with the Public Service Staffing Tribunal [the PSST] in respect of the competition, alleging the experience requirement was discriminatory as it adversely impacted members of visible minorities. He also alleged that the employer had abused its authority in the staffing process by ignoring its employment equity obligations.
+[4]
+After multiple days of hearing, during which several witnesses testified and thousands of pages of documentary exhibits were filed, Vice-Chairperson John Mooney of the PSST dismissed Mr. Agnaou's complaint, finding that Mr. Agnaou had not established a
+prima facie
+case of discrimination and had not shown there to have been any abuse of authority in the staffing process.
+[5]
+In the present application for judicial review, Mr. Agnaou seeks to set aside the June 18, 2012 decision dismissing his complaint and to have the Court find that his rights under the
+Canadian Human Rights Act
+, RSC 1985, c H-6 [the CHRA] and under the
+Public Service Employment Act
+, SC 2003, c 22, ss 12, 13 [the PSEA] were violated by the DOJ in the staffing process. Mr. Agnaou raises numerous arguments in this regard, asserting that the PSST violated his procedural fairness rights in a variety of ways and committed multiple reviewable errors in the determination of the legal principles applicable to his claim and in respect of the assessment of its merits.
+[6]
+For the reasons set out below, I have determined that Mr. Agnaou's procedural fairness rights were not violated, that Vice-Chairperson Mooney committed no reviewable error in the decision and that this application for judicial review will therefore be dismissed, with costs.
+I.
+Preliminary Matters
+[7]
+There are two preliminary issues raised by the respondent that require determination. More specifically, counsel appearing on behalf of the employer first argues that Mr. Agnaou named the incorrect parties as respondents to this application and ought to have joined only the Attorney General of Canada as opposed to the Deputy Minister of Justice and the Public Service Commission [PSC] as respondents. Secondly, the respondents argue that Exhibit R-90 to the August 9, 2012 affidavit of Mr. Agnaou, and all references to it in his materials, should be struck from the record as the exhibit was not before the PSST. The document in question is a 64 page written argument that Mr. Agnaou was not able to file with the PSST as Vice-Chairperson Mooney set a page limit of 30 pages for the parties' written submissions.
+[8]
+Mr. Agnaou disagrees and submits that he has followed the requirements of Rule 303 of the
+Federal Courts Rules
+, SOR/98-106 [the Rules] in naming the Deputy Minster of Justice and the PSC as respondents. He also claims that Exhibit R-90 is admissible as he confirmed the accuracy of its factual content in paragraph 152 of his affidavit, where he states that "[t]ous les faits que je relate dans les pieces R-89 et R-90 sont vrais". He argues that the facts contained in Exhibit R-90 regarding witnesses' testimony and what transpired before the PSST must be admissible as, in the absence of a transcript, there is no other way for him to put before the Court the details of the evidence before the PSST or regarding what transpired before it.
+[9]
+Turning, first, to the issue of the proper respondents, Rule 303(1)(a) requires that an applicant in a judicial review application name as a respondent every person who is directly affected by the order sought in the application, other than the tribunal whose decision is being reviewed. In addition, Rule 303(2) provides that where there is no person who can be named as being directly affected by an application, the proper respondent is the Attorney General of Canada.
+[10]
+The recent jurisprudence reveals a lack of uniformity with respect to who is named as the respondent in cases judicially reviewing decisions of the PSST. Several cases name only the Attorney General, as the respondent argues is proper (see e.g.
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> ). Other cases name both the Attorney General and the PSC as respondents (see e.g.
+ <FRAGMENT_SUPPRESSED> ), while in one Court of Appeal case, only the PSC was named (see
+ <FRAGMENT_SUPPRESSED> ). In some cases, the particular branch of the government where the employee worked was named as the sole respondent (see e.g.
+ <FRAGMENT_SUPPRESSED>  [
+Abi-Mansour
+];
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]). In one case, the Deputy Minister of Justice and the PSC were named as the respondents (see
+ <FRAGMENT_SUPPRESSED> ), which is what Mr. Agnaou argues is appropriate here. It does not appear that the proper identity of the respondent has been addressed in any of these cases, and thus I must decide the issue.
+[11]
+I agree with the respondent that only the Attorney General of Canada ought to be named as respondent on judicial review of a decision of the PSST. In this regard, while it is common practice to name as respondents in a judicial review application those parties who are adverse in interest to the applicant in a proceeding before the tribunal, the PSC and the Deputy Minister of Justice are different from other respondents who are typically so named. More specifically, the role of the PSC before the PSST is not necessarily one of adversity, and it will not necessarily be impacted by the order sought in this application. As for the Deputy Minister of Justice, there is an individual who holds this position from time to time, and he or she is not analogous to the employer or the staffing authority at the DOJ. I therefore believe that the correct respondent is the Attorney General under Rule 303 of the Rules, and will accordingly amend the style of cause in the manner sought by the respondent.
+[12]
+Turning, next, to the issue the admissibility of Exhibit R-90,  <FRAGMENT_SUPPRESSED>  of  <FRAGMENT_SUPPRESSED>  [CCLA], Justice Stratas noted that "as a general rule, the evidentiary record before this Court on judicial review is restricted to the evidentiary record that was before the Board. In other words, evidence that was not before the Board and that goes to the merits of the matter before the Board is not admissible in an application for judicial review in this Court" (at para 19). He goes on to list three non-exhaustive exceptions when new evidence may be submitted, at para 20:
+i. Sometimes this Court will receive an affidavit that provides general background in circumstances where that information might assist it in understanding the issues relevant to the judicial review.
+ii. Sometimes affidavits are necessary to bring to the attention of the judicial review court procedural defects that cannot be found in the evidentiary record of the administrative decision-maker, so that the judicial review court can fulfil its role of reviewing for procedural unfairness.
+iii. Sometimes an affidavit is received on judicial review in order to highlight the complete absence of evidence before the administrative decision-maker when it made a particular finding.
+[13]
+Portions of paragraphs 38, 45-48, and 50-56 of Exhibit R-90 do set out facts that are pertinent to Mr. Agnaou's claims of procedural defects or set out what he claims some of the testimony was before the PSST. In the circumstances of this case, this type of evidence is admissible under the principles from the CCLA case, and I have considered the evidence of this nature in the foregoing paragraphs of Exhibit R-90 in making this decision.
+II.
+The Decision and the Procedural Rulings made by the PSST
+[14]
+Having dealt with the preliminary issues, I turn now to consideration of Mr. Agnaou's various challenges to the decision and commence by reviewing the decision and the several procedural rulings that Mr. Agnaou challenges in this application. Because Mr. Agnaou challenges virtually every aspect of the decision, it is necessary to provide a detailed review of it.
+[15]
+The PSST heard Mr. Agnaou's case over the course of 11 days, from May to December, 2010. Vice-Chairperson Mooney also held teleconferences with the parties, which led to interlocutory rulings. Prior to Mr. Mooney's being seized with the file, another member of the PSST and the PSST's Chairperson, Mr. Giguère, made rulings on procedural issues. The various interlocutory rulings made by the PSST covered a variety of issues, including documentary disclosure, requests for particulars made by Mr. Agnaou, requests for adjournments and extensions of time, procedural rulings on the order in which witnesses would testify, a refusal of Mr. Agnaou's request for an order restraining counsel for the DOJ from discussing the case with witnesses prior to their testimony and denial of Mr. Agnaou's requests that Vice-Chairperson Mooney reduce his interlocutory rulings to writing and arrange for the production of a transcript of the hearings. In addition, following the completion of the hearing, Mr. Agnaou sought to file additional evidence.
+[16]
+In the decision, Vice-Chairperson Mooney commenced by ruling on and rejecting Mr. Agnaou's request to file additional evidence. The evidence in question consisted of three elements: first, emails and notes Mr. Agnaou obtained from the DOJ through an application under the
+Access to Information Act
+, RSC 1985, c A-1 [ATIA], which he alleged demonstrated that counsel for the employer had violated the Vice-Chairperson's order regarding the exclusion of witnesses; second, evidence concerning the work done and positions subsequently held by the two candidates who were successful in the disputed competition; and third, evidence regarding another subsequent competition that Mr. Agnaou was unsuccessful in. In refusing to admit these documents, the Vice-Chairperson applied the tripartite test from
+671122  <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] and
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ], which sets the following three conditions for the acceptance of evidence following the close of a case:
+1. the party seeking to file the additional evidence must demonstrate that it could not have been obtained with reasonable diligence for use at the hearing;
+2. the evidence must be such that, if accepted, would probably have an important impact on the result of the case, without necessarily being determinative; and
+3. the evidence must appear to be credible.
+[17]
+The Vice-Chairperson held that none of the additional evidence that Mr. Agnaou sought to file met the second criterion. As concerns the documents related to the alleged violation of the exclusionary order, the Vice-Chairperson held that the documents Mr. Agnaou sought to tender fell short of demonstrating any violation of the order and therefore would have no impact on the outcome of the case. Likewise, he found the proposed evidence concerning where the successful incumbents were posted after the competition and regarding to Mr. Agnaou's lack of success in another competition failed to meet the second criterion for admissibility. In the case of the successful candidates, he found that the evidence was not relevant to the issues before the PSST because there was no need to address remedy and, in the case of the evidence regarding what transpired in respect of Mr. Agnaou's application in a subsequent competition for a position in Ottawa, he found it to be irrelevant to the complaint.
+[18]
+After disposing of the evidentiary issues, Vice-Chairperson Mooney next turned to Mr. Agnaou's claim that the human resources management experience qualification was discriminatory. After reviewing the PSST's jurisdiction to assess claims of discrimination, the Vice-Chairperson set out the legal principles applicable to the assessment of discrimination and cited from several decisions, including the seminal case of the
+Supreme Court of Canada in  <FRAGMENT_SUPPRESSED>  [
+O'Malley
+]. In this regard, he first noted that in a claim of discrimination the burden is on the complainant to establish a
+prima facie
+case, which may be done if the complainant calls sufficient evidence to justify a finding of discrimination in the absence of an explanation from the respondent. Second, the Vice-Chairperson noted that
+prima facie
+proof is often circumstantial and held that the test applicable to the assessment of the sufficiency of circumstantial evidence involves the assessment of whether the evidence offered in support of the inference of discrimination renders an inference of discriminatory conduct by the respondent more probable than other possible inferences or hypotheses. Finally, Vice-Chairperson Mooney noted that an applicant must demonstrate the existence of a link between his or her individual circumstances and the circumstantial evidence to make out a
+prima facie
+case of discrimination.
+[19]
+After setting out these general principles, the Vice-Chairperson then applied them to Mr. Agnaou's claim and summarised the evidence that the applicant had called in support of his claim of discrimination. This consisted principally of statistics drawn from several sources as well as statements made by the former Deputy Minister of Justice regarding the under-representation of members of visible minorities, women and aboriginal employees in the senior echelons at the DOJ. The Vice-Chairperson held that the evidence tendered did not establish a
+prima facie
+case of discrimination for two reasons.
+[20]
+First, as concerns the statements made by the former Deputy Minister of Justice, Vice-Chairperson Mooney noted that the statements did not constitute an admission that members of visible minorities are under-represented in the senior echelons of the DOJ. Rather, the statements made by the Deputy Minister referred to all groups protected under the EEA, namely aboriginals, those with disabilities and members of visible minorities, and indicated that, collectively, these groups were under-represented in senior positions at the DOJ. The Vice-Chairperson therefore held that the Deputy Minister's statements did not establish under-representation of members of visible minorities in the senior ranks at the DOJ.
+[21]
+Secondly, Vice-Chairperson Mooney held that the statistical evidence tendered by Mr. Agnaou did not establish a
+prima facie
+case of discrimination as the statistics only showed the percentage of visible minority members at each group and level in the DOJ but not the "availability rate" for visible minorities for these positions. (The availability rate is the percentage of people from visible minorities in the available labour pool who are capable of performing the work required by the positions in issue.) Vice-Chairperson Mooney found that the evidence tendered by Mr. Agnaou failed to establish the availability rate for visible minorities in the DOJ as a whole and, more significantly, also failed to establish the availability rate for any specific group or level, including the LA-03A group and level. The Vice-Chairperson held that, without such evidence, Mr. Agnaou had failed to demonstrate any under-representation of members of visible minorities at the LA-03A group and level, which was the group and level relevant to his complaint.
+[22]
+While these determinations were sufficient to result in the dismissal of Mr. Agnaou's discrimination claim, Vice-Chairperson Mooney went on to consider several other issues.
+[23]
+In this regard, he noted that even if Mr. Agnaou had been able to establish under-representation of members of visible minorities at the LA-03A group and level at the DOJ, there was no evidence to show that any such under-representation was due to the impugned human resource management experience criterion or to any discriminatory act on the part of the employer. The Vice-Chairperson held that, without such evidence, Mr. Agnaou failed to establish the requisite linkage between the experience criterion and any possible under-representation of members of visible minorities at the LA-03A group and level at the DOJ. He therefore concluded that Mr. Agnaou had failed to establish a
+prima facie
+case of discrimination.
+[24]
+After so noting, the Vice-Chairperson then considered the evidence filed by the employer and the PSC and concluded that it established the following:
+- as opposed to being under-represented at the DOJ, members of visible minorities were actually over-represented in the LA group as a whole (Vice-Chairperson Mooney was able to make this determination as the employer tendered evidence regarding the availability rate for the group as a whole);
+- there was no evidence tendered by the respondents as to the availability rates for visible minorities in respect of the LA-03A group and level;
+- nor was there any evidence as to the availability rates for visible minorities respect of the LA-02B group level, the "feeder" group for the LA-03A group and level;
+- it was therefore not possible to determine if members of visible minorities were under-represented at the LA-03A and 02B group and levels at the DOJ;
+- the DOJ had hired several members of visible minorities in recent years, actually exceeding its recruiting targets at several levels, which may have resulted in the clustering of members of visible minorities at the entry levels in the department;
+- lawyers at the DOJ could obtain human resources management experience, necessary for advancing to senior managerial positions, in positions classified at the LA-02B group and level, where incumbents were charged with managing employees;
+- Mr. Agnaou had chosen not to compete for several such positions at the LA-02B group and level, which would have afforded him the experience necessary for the LA-03A positions that he sought;
+- there were valid grounds for the employer having decided to require six months recent public service human resource management experience as an essential qualification for the positions at issue, given that both were charged with managing several subordinates; and
+- Mr. Agnaou's claims that others had acceded to senior managerial positions in the Quebec Regional Office of the DOJ without human resources experience were without merit as were his suggestions that other members of visible minorities in that office had been demoted or transferred for discriminatory reasons.
+[25]
+Based on the foregoing, the Vice-Chairperson held that had there been a
+prima facie
+case to answer, the employer had succeeded in establishing that Mr. Agnaou's race and ethnic origin were not a factor in his having been screened out of the competition and that the human resources experience criterion was not a barrier to the advancement of members of visible minorities at the DOJ. The Vice-Chairperson thus dismissed Mr. Agnaou's first ground of challenge to the appointment process, finding there to have been no discrimination in the process.
+[26]
+The Vice-Chairperson then turned to assessment of the second ground advanced by Mr. Agnaou, namely the allegation that the staffing managers had abused their authority during the staffing process by ignoring employment equity obligations. The Vice-Chairperson noted Mr. Agnaou argued that these obligations required the employer to include membership in a visible minority as a merit criterion in the selection process, and that the employer representatives were not adequately aware of their employment equity obligations and had failed to consider these obligations as required throughout the staffing process.
+[27]
+The Vice-Chairperson commenced his analysis of these claims by noting that under the PSEA, the PSST is not charged with general enforcement of the EEA (which role falls to the Canadian Human Rights Commission [the CHRC] under the EEA). He then noted that the PSST has jurisdiction to consider the EEA in the context of assessing whether a deputy head (or his or her delegate) has abused his or her authority in the staffing process as paragraph 77(1)(a) of the PSEA affords the PSST jurisdiction to set aside staffing actions where there has been an abuse of authority. He continued by noting that, depending on what occurred, there could be an abuse of authority by a staffing manager if he or she failed to follow the applicable PSC and Treasury Board polices or the EEA in respect of employment equity.
+[28]
+Vice-Chairperson Mooney found there to have been no such failure in the case of the impugned staffing actions. He held that the employer representatives had adequate knowledge of their employment equity obligations, devoted sufficient analysis to these obligations during the staffing process and were not required to make membership in a visible minority a merit criterion in the process as this is not required under paragraph 30(2)(iii) of the PSEA. He also held that the staffing managers were not required to apply the former Deputy Minister of Justice's directive to make membership in a visible minority a merit criterion in all staffing actions as the directive post-dated the commencement of the staffing action under review. The Vice-Chairperson thus concluded that Mr. Agnaou had failed to demonstrate any abuse of authority in the staffing process.
+[29]
+Vice-Chairperson Mooney next noted that even if the employer had made membership in a visible minority a merit criterion, this would not have assisted Mr. Agnaou as he lacked the essential qualification of recent public service human resources management experience. (Under the PSEA, candidates must possess those qualifications that are set as essential to be appointed to a position. Additional qualifications or operational or organizational needs identified by the deputy head may only serve to enhance the strength of the candidacy of an individual who possesses the essential qualifications; see in this regard section 30 of the PSEA.)
+[30]
+Vice-Chairperson Mooney finally considered and dismissed a collateral argument made by Mr. Agnaou concerning the nature of the requisite human resources management experience for the disputed positions, which the employer defined mid-way through the staffing process as meaning that an applicant must have had official accountability for human resources management as opposed to less formal experience in supervising others on an ad hoc basis. Mr. Agnaou argued that the employer had improperly added the accountability criterion after the Job Opportunity Advertisement was issued and the essential requirements were established. Vice-Chairperson Mooney dismissed this argument, noting that previous PSST case law allowed the employer to proceed as it had done in this case.
+[31]
+He accordingly dismissed Mr. Agnaou's complaint.
+III.
+Standard of Review
+[32]
+Prior to analysing the various errors that Mr. Agnaou alleges Vice-Chairperson Mooney made, it is necessary to determine the standard of review to be applied to them.
+[33]
+With one exception, the parties concur that the correctness standard applies to the assessment of the various procedural fairness breaches that Vice-Chairperson Mooney is alleged to have made. The one exception concerns Mr. Agnaou's claim that the reasons offered are insufficient; he asserts that the insufficiency or inadequacy of reasons addressing each of the arguments he made amounts to a violation of procedural fairness and therefore must be assessed on the correctness standard, citing in this regard
+ <FRAGMENT_SUPPRESSED> .
+[34]
+The parties are correct that assessment of whether there was a breach of Mr. Agnaou's rights to procedural fairness is a matter for the Court to determine as no deference is to be afforded to a tribunal in the review of whether its conduct respected the parties' procedural fairness rights (see e.g.
+Canada (Minister of Citizenship and  <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ];
+ <FRAGMENT_SUPPRESSED> ).
+[35]
+Mr. Agnaou, however, is mistaken in his assertion that an alleged failure to provide adequate reasons gives rise to a claim of denial of procedural fairness. The decisions he relies on to support this claim have been overruled by the subsequent decision of the Supreme Court of Canada in
+Newfoundland and  <FRAGMENT_SUPPRESSED>  [
+Newfoundland Nurses
+], where the Court ruled that failure to give adequate reasons, where there is a duty to give reasons, does not amount to a violation of procedural fairness but, rather, is to be considered as part of the assessment of whether the decision is reasonable. In other words, inadequate reasons may mean that a decision lacks transparency and is therefore unreasonable but does not constitute a denial of procedural fairness (see e.g.
+ <FRAGMENT_SUPPRESSED> ).
+[36]
+Thus, the correctness standard of review applies to the various breaches of procedural fairness Mr. Agnaou raises with the exception of the alleged failure of Vice-Chairperson Mooney to provide adequate reasons. This alleged failure is to be examined as part of the assessment of the reasonableness of the decision.
+[37]
+In terms of the other arguments that Mr. Agnaou raises, he submits that the correctness standard is likewise to be applied to several legal errors he alleges the Vice-Chairperson made in his interpretation of the CHRA, EEA and PSEA. The respondent disagrees, arguing that the reasonableness standard is to be applied to these matters, noting that the case law supports the conclusion that the PSST is to be afforded deference in its interpretations of the foregoing legislation, citing in this regard
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ];
+Abi-Mansour
+; and <FRAGMENT_SUPPRESSED> . Both parties, however, concur that the reasonableness standard of review is applicable to the findings of mixed fact and law made in the decision, which here include the application of the EEA, CHRA and PSSA to the evidence before the PSST.
+[38]
+I agree that the reasonableness standard is to be applied to the review of Vice-Chairperson Mooney's determinations that involve findings of mixed fact and law, as indeed has been firmly settled by the jurisprudence (see e.g.
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ]; <FRAGMENT_SUPPRESSED> at para 89;
+ <FRAGMENT_SUPPRESSED> ). Likewise, the Supreme Court of Canada has held that a tribunal's interpretation of its constituent statute - which typically falls squarely within the scope of its expertise - is also normally to be afforded deference by a reviewing court and therefore generally should be subject to review on the reasonableness standard ( <FRAGMENT_SUPPRESSED> at para 54;
+Alberta Teachers
+at para 34;
+ <FRAGMENT_SUPPRESSED> ). Thus, the Vice-Chairperson's interpretation of the PSEA, and, most notably of the type of conduct that may constitute an abuse of authority sufficient to vitiate a staffing action pursuant to section 77 of the PSEA, is subject to review on the reasonableness standard, as was held in
+ <FRAGMENT_SUPPRESSED> rev'd on other grounds in 2012 SCC 64;
+Abi-Mansour
+at para 54.
+[39]
+While certain of the statements in <FRAGMENT_SUPPRESSED> , <FRAGMENT_SUPPRESSED> ,
+Abi-Mansour
+, and <FRAGMENT_SUPPRESSED> also support the application of the reasonableness standard to the review of the PSST's interpretation of the CHRA, Mr. Agnaou's argument that deference should not be extended to the PSST's interpretation of the CHRA or the EEA may have merit since there are other tribunals, namely the CHRC and the Canadian Human Rights Tribunal  <FRAGMENT_SUPPRESSED> , which are specifically mandated to interpret these statutes. As Mr. Agnaou argues, if the PSST (and the Public Service Labour Relations Board [PSLRB]) are to be afforded deference in their interpretations of the CHRA and the EEA, there is a real possibility that conflicts will appear in the jurisprudence, with fundamental rights being interpreted in one fashion for public servants when they appear before the PSEA or the PSST and in another fashion by the CHRC and CHRT in other contexts. Moreover, the Federal Court of Appeal has recently held in
+ <FRAGMENT_SUPPRESSED>  that the CHRT's interpretation of the CHRA, in terms of defining what is meant by "discrimination", is subject to review on a correctness standard. Thus, there is considerable weight to the argument that the PSST's interpretation of what conduct amounts to discrimination under the CHRA is to be reviewed on a correctness standard.
+[40]
+I need not decide in this case whether the correctness standard is applicable to the PSST's interpretation of the CHRA or EEA as, in this case, Vice-Chairperson Mooney interpreted only the CHRA and the interpretation he advanced was correct and thus, by definition, also reasonable.
+[41]
+Therefore, to recap, in terms of the applicable standard of review, the PSST is not entitled to defence in the assessment of the violations of procedural fairness alleged by Mr. Agnaou, with the exception of the alleged failure to provide adequate reasons, which does not constitute a violation of procedural fairness. The other breaches alleged - with the possible exception of the interpretation given by the Vice-Chairperson to the CHRA - are all reviewable on the reasonableness standard. Finally, it is not necessary to determine the standard applicable to the Vice-Chairperson's interpretation of the CHRA as his interpretation of the CHRA is correct and therefore also reasonable.
+IV.
+Were Mr. Agnaou's Rights to Procedural Fairness Violated?
+[42]
+Having settled the standard of review to be applied to the various errors that Mr. Agnaou alleges the Vice-Chairperson made, I turn now to the assessment of the myriad of breaches of procedural fairness that Mr. Agnaou alleges occurred in this case (with the exception of the allegations regarding the inadequacy of the Vice-Chairperson's reasons, which I address in reviewing the reasonableness of the decision).
+[43]
+Mr. Agnaou makes several procedural fairness arguments. First, he claims that Vice-Chairperson Mooney was biased against him and asserts 21 particulars of the alleged bias. Second, he argues that Vice-Chairperson Mooney failed to ensure his rights to a "transparent procedure" were respected. Third, he claims that the failure to enjoin counsel for the employer from communicating with witnesses violated his procedural fairness rights. Fourth, Mr. Agnaou argues that his rights were violated because the Vice-Chairperson arbitrarily and erroneously excluded the evidence he sought to tender after the close of the case. Finally, Mr. Agnaou claims that the PSST failed to deliver the decision within a reasonable period of time and that this also amounts to a violation of procedural fairness. None of these claims has merit as is more fully discussed below.
+A.
+Was there a reasonable apprehension of bias on the part of Vice-Chairperson Mooney?
+[44]
+Turning, first, to the allegation of bias, it is beyond question that administrative tribunals such as the PSST must both be and appear to be free from bias as litigants who appear before them are entitled to have their cases decided by an impartial tribunal (
+R v S (RD)
+, [1997] 3 SCR 484 at para 92 [RDS];
+ <FRAGMENT_SUPPRESSED> ). The right to an impartial and independent decision-maker is also a principle of fundamental justice for the purposes of section 2(e) of the
+Canadian Bill of Rights
+, SC 1960, c 44, which applies to the PSST, as a federal tribunal.
+[45]
+Allegations of bias may take one of two forms: a litigant may allege either actual bias - that is, claim that the decision-maker had an actual predisposition against the applicant's case - or may allege that the facts are such that there is a reasonable apprehension of bias (Brown and Evans
+, Judicial Review of Administrative Action in Canada
+, loose-leaf (Canada: Thomson Reuters Canada Ltd, 2013, 2014), ch 11 at 1 [Brown and Evans]). Where actual bias is alleged, the claimant must prove that the decision-maker pre-determined the result. These sorts of allegations are rarely made and even less frequently proven as there is rarely evidence to support them. Indeed, it has been suggested that an inquiry into the subjective state of a decision-maker's mind is inappropriate (Brown and Evans, ch 11 at 4). Thus, most bias allegations raise a claim of apprehended bias.
+[46]
+Where apprehended bias is alleged, the Court applies an objective test to the assessment of the claim that involves asking whether an informed person, viewing the matter realistically and practically, would think that it is more likely than not that the decision-maker, whether consciously or unconsciously, could not or did not decide fairly (
+Committee for  <FRAGMENT_SUPPRESSED>  at 394-95;
+Old St Bonafice
+at para 92; RDS at para 31;
+ <FRAGMENT_SUPPRESSED>  at para 82).
+[47]
+In claims of both actual and apprehended bias, the inquiry is highly contextual and fact-specific, and the party alleging bias bears the onus of proving the claim (
+Old St Bonafice
+at para 94). Moreover, a presumption of impartiality applies to administrative decision-makers (see e.g.
+ <FRAGMENT_SUPPRESSED>  (CA) at paras 36-37;
+ <FRAGMENT_SUPPRESSED>  at para 2;
+ <FRAGMENT_SUPPRESSED>  (CA) at para 29). Therefore, a high standard of proof applies to assertions of bias (see e.g.
+RDS
+at para 113). As such, suspicions, insinuations, conjecture, impressions or opinions will fail to establish the existence of bias (see
+ <FRAGMENT_SUPPRESSED> ).
+[48]
+Here, as noted, Mr. Agnaou makes 21 assertions that he alleges either singly or collectively should result in the determination that Vice-Chairperson Mooney's conduct of the case gives rise to a reasonable apprehension of bias. I disagree. Whether taken individually or as a whole, these claims do not establish a reasonable apprehension of bias and, indeed, amount to little more than conjecture and thus fall well short of establishing bias. I examine each of them, in turn, below.
+(1) Allegations 1-3 - Prior Employment of Vice-Chairperson Mooney
+[49]
+Mr. Agnaou first asserts that the fact that Mr. Mooney was previously employed by the DOJ and the PSC and then as a technical advisor to the government in respect of the 2003 amendments to the PSEA give rise to an apprehension of bias, especially because Mr. Mooney appeared as part of the government's delegation before a Parliamentary Committee to answer questions about the proposed amendments. Mr. Agnaou further argues that the fact that neither Mr. Mooney nor the DOJ disclosed these facts to him strengthens the reasonable apprehension of bias.
+[50]
+Neither of these points has any merit both because no reasonable apprehension of bias can possibly flow from Mr. Mooney's background and because Mr. Agnaou, although aware of the issues, chose not to request Mr. Mooney to recuse himself.
+[51]
+In terms of Vice-Chairperson Mooney's background, the evidence reveals that he had been an adjudicator for several years at the PSC, and that prior to that he was counsel to the PSC (but employed through the DOJ, as most federal government lawyers are). Neither of these antecedents gives rise to any possible apprehension of bias. The PSC - when Mr. Mooney was associated with it - played in large part the same role as the PSST now plays, namely, that of an independent tribunal charged with reviewing public servants' complaints in staffing matters. It goes without saying that employment in such a role or as counsel to those exercising the adjudicative function cannot possibly give rise to an apprehension of bias.
+[52]
+As for Vice-Chairperson Mooney's role in respect of the amendments to the PSEA, the curriculum vitae that Mr. Agnaou filed indicates that Mr. Mooney was part of the working group at the Privy Council Office when the amendments to the PSEA were developed. From the transcript of proceedings before the Parliamentary Standing Committee on Government Operations and Estimates, which Mr. Agnaou also filed, it appears that Mr. Mooney did appear in 2003 before the Committee when it was studying the amendments and that, in light of his technical expertise, Mr. Mooney was asked to answer a few questions about the proposed amendments.
+[53]
+This, likewise, does not give rise to any reasonable apprehension of bias for several reasons. First, and most importantly, the PSEA foresees that the Vice-Chairperson of the PSST will possess precisely this sort of expertise. Subsection 88(2) of the PSEA provides that members (and thus by definition the Chairperson and Vice-Chairperson of the PSST, who are designated from among the tribunal's members) must have "knowledge of or experience in employment matters in the public service". Secondly, the impugned involvement occurred more than five years before Mr. Agnaou filed his complaint. Third, contrary to what Mr. Agnaou insinuated in his argument on this point, Vice-Chairperson Mooney did not express an opinion on the issues at play in Mr. Agnaou's case when he answered questions before the Committee about the proposed changes to the PSEA. Rather, he merely explained the rationale for certain choices made with respect to the way in which the amendments were drafted. None of this gives rise to any apprehension of bias.
+[54]
+This situation is similar to that in
+ <FRAGMENT_SUPPRESSED>  where, even in the case a of judge of the Supreme Court of Canada, prior collateral involvement in a file by Justice Binnie, several years before, when he worked at the DOJ, was held not to give rise to a reasonable apprehension of bias. (See also, to similar effect,
+ <FRAGMENT_SUPPRESSED> .) Thus, Vice-Chairperson Mooney's background does not give rise to a reasonable apprehension of bias.
+[55]
+Furthermore, even if this were not the case, Mr. Agnaou knew of this background well before the end of his case before the PSST and chose not to make a request for recusal to Vice-Chairperson Mooney. As the respondent correctly notes, failure to do so disentitles him from alleging bias in the context of a judicial review application, it being firmly established that parties must raise these sorts of bias allegations at the first available opportunity (see e.g. Brown and Evans, ch 11 at 79-82;
+ECWU, Local 916 v Atomic Energy of Canada Ltd
+(1985), [1986] 1 FC 103 (FCA) at para 6 [
+Atomic Energy
+];
+ <FRAGMENT_SUPPRESSED> ).
+[56]
+Mr. Agnaou alleges that he should not be found to have waived his right to raise these issues as the PSST did not answer his inquiry regarding whether he would be required to commence his case de novo if he were successful in having Vice-Chairperson Mooney recuse himself. I disagree for two reasons.
+[57]
+In the first place, it is misleading for Mr. Agnaou to suggest that his inquiry was not answered. It was. Vice-Chairperson Mooney gave Mr. Agnaou the only response possible (both during the hearing and then in writing in reply to subsequent written inquires from Mr. Agnaou): if Mr. Mooney recused himself, it would be up to the new PSST member or the Chairperson assigned the case to determine what the procedure would be.
+[58]
+In the second place, the question posed by Mr. Agnaou, in my view, was disingenuous; as a lawyer, Mr. Agnaou must have realised that an outgoing tribunal member who disqualified himself for bias could not possibly say how a new tribunal would conduct itself. Nor could the PSST Chairperson answer the question, it being a matter for determination by the tribunal member assigned the case if Vice-Chairperson Mooney had recused himself. Thus, the question did not deserve an answer.
+[59]
+In short, there is no reasonable explanation for Mr. Agnaou's having failed to raise the bias issues with Vice-Chairperson Mooney and request his recusal if he was troubled by the Vice-Chairperson's background. Mr. Agnaou's failure to pursue a recusal request before the PSST constitutes a waiver of these issues and, thus, the first two arguments advanced by Mr. Agnaou do not give rise to a reasonable apprehension of bias. As the Federal Court of Appeal states in
+Atomic Energy
+, "even an implied waiver of objection to an adjudicator at the initial stages is sufficient to invalidate a later objection" (at para 6).
+[60]
+Mr. Agnaou's third allegation centres on the alleged improper refusal to answer the questions he raised regarding the impact on his case of a successful recusal motion. In light of the preceding discussion, this point is without merit.
+(2) Allegation 4 - Alleged Evidence of Prejudgment by Vice-Chairperson Mooney
+[61]
+In the fourth place, Mr. Agnaou alleges that Vice-Chairperson Mooney made a comment at the outset of the hearing to the effect that he was surprised by the tenor of the representations made by the CHRC. Mr. Agnaou alleges that this shows pre-judgement as the CHRC's representations were favourable to Mr. Agnaou's position.
+[62]
+Once again, I disagree. If such a comment were made (and I am not entirely satisfied that it was), it scarcely would be indicative of bias. First, the CHRC's submissions cannot be said to be favourable to Mr. Agnaou - they merely constitute a recap of the legal principles to be applied to a systemic discrimination claim before the PSST. As discussed below, Vice-Chairperson Mooney did not stray from these principles in his decision. Second, if the Vice-Chairperson had expressed surprise at receiving submissions from the CHRC, this would likely have been related to the fact that the CHRC had previously indicated it had no intention of participating in the hearing, but then changed its mind and filed submissions shortly before the hearing commenced. Finally, if the Vice-Chairperson made the impugned comment, it falls well short of the types of remarks that have been found to give rise to a reasonable apprehension of bias in the case law (see e.g.
+ <FRAGMENT_SUPPRESSED>  at para 22;
+ <FRAGMENT_SUPPRESSED>  at para 39). Indeed, Mr. Agnaou cites no case in support of his allegation that this type of comment gives rise to a reasonable apprehension of bias.
+[63]
+Therefore, this allegation does not give rise to a reasonable apprehension of bias.
+(3) Allegation 5 - Alleged Failure to Follow the PSST's Rules of Practice to the Benefit of the Respondents
+[64]
+Next, Mr. Agnaou claims that Vice-Chairperson Mooney exhibited bias because he ignored the PSST's Procedural Guide, which provides a time period for replying to motions and requests made by an opposing party, failing which the tribunal may decide an issue without representations from the party. The Procedural Guide specifies that the PSST "n'invitera pas une partie a fournir une reponse". Mr. Agnaou claims that Vice-Chairperson Mooney showed bias in seeking submissions from the respondents in response to two (of several) written requests he made. The first of these involved a request for witness scheduling in which Mr. Agnaou made inflammatory comments regarding reprisals he feared the DOJ would impose on non-managerial witnesses he had under subpoena. The second concerned the request to admit documents after the close of the hearing. In respect of both, Vice-Chairperson Mooney indicated he wanted submissions from the respondents and set a short deadline for receiving them.
+[65]
+In my view, proceeding in this fashion does not raise a reasonable apprehension of bias for two reasons.
+[66]
+First, the PSST's Procedural Guide does not have the force of law and, indeed, specifically so provides in the introduction, which states that it "a été conçu a titre d'information seulement et n'a aucune valuer juridique" . Thus, the Guide did not prevent Vice-Chairperson Mooney from seeking submissions if he felt it necessary to do so.
+[67]
+Secondly, in the circumstances, it is hardly surprising that the Vice-Chairperson would have sought submissions from the respondents, given the nature of Mr. Agnaou's requests. The first required the respondents to release witnesses from work, and, from a practical point of view, the PSST needed to know if this was possible. In addition, Mr. Agnaou's assertions of reprisal were very serious - especially in light of his status as a member of the bar - and thus required reply. Similarly, the Vice-Chairman cannot be faulted for seeking a response to the request to file submissions after the close of a case as such a request is unusual. Any tribunal might therefore well want submissions on the point to ensure the applicable principles are adequately canvassed.
+[68]
+Thus, the seeking of the impugned submissions does not raise any apprehension of bias, and, indeed, Mr. Agnaou has cited no authority to support an opposite conclusion.
+(4) Allegation 6 - Refusal to Order a Transcript
+[69]
+In the sixth place, Mr. Agnaou claims that Vice-Chairperson Mooney's failure to order a transcript raises a reasonable apprehension of bias. This claim is without merit as the case law firmly recognises that administrative tribunals need not provide a transcript or even allow a party to make their own as tribunals are not courts of record (see e.g.
+ <FRAGMENT_SUPPRESSED>  at para 81). Indeed, it is common place, especially before labour tribunals, that there be no transcript as having one undercuts the need for informality and expedition in these sorts of matters (see e.g.
+ <FRAGMENT_SUPPRESSED>  at paras 14-15;
+Union of Bank Employees (Ontario), Local 2104 v Bank of Montreal
+(1985), 61 di 83 (CLRB) at para 4;
+ <FRAGMENT_SUPPRESSED>  Interlocutory Rulings to Writing
+[70]
+Mr. Agnaou next argues that the failure of the Vice-Chairperson to reduce his interlocutory rulings to writing evinces a reasonable apprehension of bias. There is no merit to this suggestion. It is well within the scope of a tribunal's authority over its procedure to decide if it will make interlocutory rulings orally or in writing, and the case law recognises that the choice of rendering only oral interlocutory rulings does not give rise to reviewable error (see e.g.
+ <FRAGMENT_SUPPRESSED>  (CA) at para 25 [
+Cedarvale Tree
+]). Once again, it is typical in labour relations matters that many interlocutory rulings are made orally to ensure the expedition of proceedings and to avoid undue formality (see e.g.
+Komo Construction inc c Québec (Commission des relations de travail)
+, [1968] SCR 172 at para 7;
+ <FRAGMENT_SUPPRESSED> ).
+(6) Allegation 8 - Receipt of Submissions from the Employer that were Not Disclosed to Mr. Agnaou
+[71]
+Mr. Agnaou next agues that his procedural fairness rights were violated because Vice-Chairperson Mooney engaged in unilateral communications with counsel for the DOJ. However, the evidence does not support this allegation. Rather, all that occurred is that, in two instances, emails were sent by DOJ counsel to the Registry of the PSST or from the Registry to DOJ counsel and Mr. Agnaou was not copied on them.
+[72]
+More specifically, the first instance arose prior to the commencement of the hearings before the PSST. A representative of the DOJ sent an email to the Registry of the PSST, seeking an adjournment of the scheduled hearing dates. Registry personnel responded to the email, directing the DOJ to the PSST's polices on adjournment requests, which require that a party seek the other parties' consent to such a request before requesting the adjournment from the tribunal. The DOJ representative apologized for the confusion and emailed Mr. Agnaou, requesting his consent to the adjournment, which Mr. Agnaou gave. Attached to the email to Mr. Agnaou, requesting the adjournment, were copies of the two emails between the DOJ and the Registry regarding the request.
+[73]
+The second instance arose after the second set of hearing days and centred on Mr. Agnaou's request that counsel for the PSC and DOJ be prohibited from speaking with upcoming witnesses. The Vice-Chairperson had previously made an order excluding witnesses and had directed witnesses who had testified to not discuss their testimony with upcoming witnesses. In a series of emails sent to the PSST in early October 2010, Mr. Agnaou sought clarification of these orders and requested confirmation from counsel for the PSC and the DOJ that they would not speak with any of the upcoming witnesses about the case. On October 7, 2010, the Registry sent an email to counsel for the DOJ, requesting his position on Mr. Agnaou's request and neglected to copy Mr. Agnaou on it. The same day, counsel for the DOJ responded to all copied on the email, taking the position that it was appropriate for him to communicate with upcoming witnesses as long as he did not violate the exclusion order and reveal what had been testified to by earlier witnesses. On October 8, the Registry of the PSST sent an email to Mr. Agnaou and counsel for the respondents, noting that the tribunal had directed witnesses to not speak with upcoming witnesses during the last set of hearings, had already covered the bounds of permissible communication between counsel and witnesses during the same discussion, and invited the parties to raise the issue during an upcoming teleconference if further clarification was required.
+[74]
+The matter was canvassed during the teleconference held between the Vice-Chairperson, Mr. Agnaou and counsel for the respondents on October 20, 2010, and the Vice-Chairperson declined to make the order sought by Mr. Agnaou. Mr. Agnaou subsequently learned of the email exchange he was not copied on via a request for information that he made under the ATIA. He argued before the Vice-Chairperson that the email exchanges constitute a violation of his rights to procedural fairness.
+[75]
+Vice-Chairperson Mooney dealt with the issue in his decision. He noted that the PSST's registry had made a mistake and that Mr. Agnaou ought to have been copied on the email exchange. However, he found that mistake to be without consequence as the issues were fully debated during the October 20, 2010 teleconference such that Mr. Agnaou was fully aware of the DOJ's position on the issue and had full opportunity to respond to it before the final ruling was made.
+[76]
+I agree with this conclusion. While receipt of submissions from one party that are not shared with another will often give rise to a breach of procedural fairness, there is no such breach here as Mr. Agnaou was fully aware of the DOJ's position on the issue of communication with witnesses and had an opportunity to respond to that position before the Vice-Chairperson ruled on the issue (see e.g.
+ <FRAGMENT_SUPPRESSED> ). As for the first set of emails, Mr. Agnaou was copied on them and given the opportunity to respond to the adjournment request, so there was no denial of procedural fairness there either.
+(7) Allegations 9-11, 13-15 - Conduct of the Vice-Chairperson During the Hearing
+[77]
+Mr. Agnaou next raises six objection to the way in which Vice-Chairperson Mooney conducted the hearing, arguing they raise a reasonable apprehension of bias because:
+- the Vice-Chairperson did not reduce the amount of time for submissions from the respondents, even though they were allied in interest and, therefore, according to Mr. Agnaou, ought to have been collectively given no more time than he was given to make submissions;
+- the Vice-Chairman systematically decided objections in favour of the respondents;
+- the Vice-Chairman interfered with Mr. Agnaou's litigation strategy by refusing an adjournment, which resulted in Mr. Agnaou's being required to call witnesses out of the order he preferred;
+- the Vice-Chairman allegedly incessantly made intrusive, intimidating, and aggressive comments to Mr. Agnaou through out the hearing, going so far as to accuse Mr. Agnaou of lacking respect for the tribunal;
+- at the same time, the Vice-Chairperson showed an alleged "obsequious deference" to the representatives of the respondent by, for example, permitting them to speak while seated and allowing them to eat during the hearing; and
+- the Vice-Chairperson refused to challenge the assertion made by counsel for the DOJ regarding the alleged unavailability of a witness in circumstances where Mr. Agnaou claims that such a challenge ought to have been made as he asserts the witness was able to testify.
+[78]
+None of these allegations gives rise to a reasonable apprehension of bias for several reasons. In the first place, the PSST has a wide range of discretion over the way in which it conducts its hearings, which are meant to be informal and expeditious. Section 98 of the PSEA provides in this regard that complaints are to "...be determined by a single member of [the PSST], who shall proceed as informally and expeditiously as possible". This is reinforced by section 27 of the
+Public Service Staffing Tribunal Regulations
+, SOR/2006-6 [the PSST Regulations], which confirm that the PSST "... is master of the proceedings and may determine the manner and order of the presentation of evidence and arguments at the hearing". Thus, it is to be expected that the PSST would not proceed as a court would in the conduct of its hearings. Moreover, it is not for this Court, in an application such as the present, to review and second-guess the myriad of rulings that must inevitably be made in every case by a tribunal (see e.g.
+Cedarvale Tree
+at para 25). Thus, as a matter of principle, these allegations are not the sort that would normally give rise to a decision's being set aside for a failure of procedural fairness.
+[79]
+More fundamentally, though, there is little factual foundation for Mr. Agnaou's assertions beyond bald and generalized statements contained in his affidavit. These are contradicted by equally general statements in the affidavit of Katy Boctor, filed by the employer, who deposes that the Vice-Chairperson was fair to all parties in his conduct of the hearing.
+[80]
+Where particulars have been given by Mr. Agnaou, they do not give rise to a reasonable apprehension of bias because:
+- it is up to the PSST to decide how much time - or page space - to devote to submissions from each party;
+- the fact that most objections were decided against Mr. Agnaou is equally consistent with the possibility that his arguments were largely unfounded, as, indeed, is also true of the arguments he has made before me;
+- other than for reasons which may be stipulated by the relevant statute, a party has no right to an adjournment, which is generally a discretionary matter for the tribunal to decide (see e.g.
+ <FRAGMENT_SUPPRESSED>  at para 2;
+ <FRAGMENT_SUPPRESSED>  (BC Arb Bd) at para 18);
+- the principal conduct that is alleged to be hostile towards Mr. Agnaou concerns a statement made in an e-mail decision, refusing the request for written interlocutory ruling that Mr. Agnaou had made repeatedly, and raised in a lengthy and impolite e-mail that Mr. Agnaou had written to the PSST. In response, Vice-Chairperson Mooney stated as follows:
+[translation]
+During the telephone conference on October 20, 2006, the Tribunal rendered several decisions dealing with procedure at hearings. The Tribunal explained to Mr. Agnaou that after a hearing has begun, it renders its decisions on procedure orally and does not confirm them in writing. Mr. Agnaou revisited this question in his email and again asked that the Tribunal confirm its decision in writing. The Tribunal finds that Mr. Agnaou's refusal to accept the Tribunal's decisions shows a lack of respect for the Tribunal and constitutes insubordination . . . .
+In his email, Mr. Agnaou comments on and criticizes the Tribunal's decisions in detail. The Tribunal finds that this shows a flagrant lack of respect for the Tribunal and is totally inappropriate behaviour. . . . The Tribunal therefore enjoins Mr. Agnaou to put an end to this behaviour.
+The Tribunal therefore orders Mr. Agnaou to comply with the Tribunal's directions with regard to the decisions rendered in the course of the hearing and to stop showing disrespect for the Tribunal by commenting on and criticizing the Tribunal's decisions, verbally or in writing. If Mr. Agnaou does not change his behaviour, the Tribunal will take the necessary measures to ensure the proper conduct of the proceedings. It goes without saying that the Tribunal does not want to receive any comments . . . regarding this email.
+While this is certainly strong language, it was warranted in my view. The email that the Vice-Chairperson referred to, over the course of several pages, criticized several rulings made by Vice-Chairperson Mooney and was intemperate in tone. Having sent such an email, and having made repeated challenges to rulings that the Vice-Chairperson made, Mr. Agnaou should have anticipated a strong response. Thus, in the circumstances, I do not believe that the response from Vice-Chairperson Mooney gives rise to a reasonable apprehension of bias but, rather, was a reasonable - albeit strongly-worded - response to Mr. Agnaou's behaviour; and
+- finally, there was (and is) no proof that the witness whom counsel for the DOJ said was medically unable to attend the hearing was able to do so. Mr. Agnaou suggests that this was the case, but his claims are based on mere supposition because another witness testified that the individual in question had briefly come in to the office to say good-bye to a colleague, who was transferring jobs, and had attended the wedding of a colleague over the period she claimed to be ill. However, this is not incompatible with many types of illnesses - such as those related to stress - that might have made the witness too ill to work or to testify. There is simply no proof that counsel for the DOJ was anything other than truthful with the PSST on this point and certainly no basis to infer that Vice-Chairperson Mooney was biased in not challenging counsel when he indicated that the witness was medically unable to testify.
+[81]
+Thus, Mr. Agnaou has failed to establish a reasonable apprehension of bias in relation to the way in which Vice-Chairperson Mooney conducted the hearing before the PSST.
+(8) Allegations 12 - Refusal of Production Requests
+[82]
+Nor does a reasonable apprehension of bias flow from Vice-Chairperson Mooney's refusal of some of the voluminous production requests made by Mr. Agnaou. Many of these requests were granted. However, he did not order production of documents regarding what percentage of employees who were members of visible minorities at the DOJ were tasked with managing subordinates because counsel for the DOJ indicated that no document existed to summarize this information. Rather, the information appears to have been located in individual employees' files. The DOJ thus argued that Mr. Agnaou could not require the DOJ to review each file and compile the statistics it sought. The Vice-Chairperson agreed with the DOJ. While Mr. Agnaou alleges that one of the witnesses indicated in her testimony before the PSST that the requested documents did exist, the evidence before me does not clearly establish what she said.
+[83]
+I therefore find that this ruling does not raise a reasonable apprehension of bias both because a party is not required to create documents to respond to a production request (see e.g.
+ <FRAGMENT_SUPPRESSED> ) and because there is no proof that the requested documents existed. Moreover, it also appears that after he received a response to the inquiries he made under the ATIA, Mr. Agnaou dropped his production request in respect of this matter, which provides an additional basis for determining that no reasonable apprehension of bias flows from the decision to refuse to order production from the DOJ in respect of this matter.
+[84]
+Vice-Chairperson Mooney also declined to order production of documentation related to another job posting involving other individuals. Mr. Agnaou alleges this also raises a reasonable apprehension of bias. I disagree, as it was well within Vice-Chairperson Mooney's authority to find such documents to be irrelevant. Labour boards and decision-makers are granted wide freedom with respect to determining the admissibility of evidence; the decision-maker's choice to allow or to reject certain is not, in and of itself, sufficient to infer bias (see e.g.
+ <FRAGMENT_SUPPRESSED>  at para 18 [ <FRAGMENT_SUPPRESSED> ]). As Justice MacKay stated in
+ <FRAGMENT_SUPPRESSED>  at para 22 [ <FRAGMENT_SUPPRESSED> ]:
+Parliament has seen fit to give administrative tribunals, such as the adjudicator or the Board in this case considerable latitude to accept and hear evidence without getting tied up in objections and procedural wrangling. Such an arrangement is conducive to informal hearings where all relevant materials can be brought before the tribunal for expedited review.
+[85]
+Thus, once again, the points raised by Mr. Agnaou do not raise a reasonable apprehension of bias.
+(9) (1) Allegations 16-21 - Alleged Bias Flowing From the Way the Reasons were Drafted
+[86]
+Mr. Agnaou finally asserts that there are six ways in which the reasons were drafted that give rise to a reasonable apprehension of bias, because the Vice-Chairperson:
+- systematically adopted the DOJ's positions without adequately referencing his arguments;
+- mis-cast the arguments of the PSC and CHRC, making it look like their positions were at odds with those of Mr. Agnaou, when they were not;
+- unreasonably relied on the report of Hara and Associates, filed by the DOJ, entitled "Employment Equity Analysis", without questioning its alleged self-serving nature;
+- was improperly influenced by Me Athanasios D. Hadjis (formerly Chairperson of the CHRT) in his drafting;
+- was unfair in the way he portrayed Mr. Agnaou in the decision so as to make Mr. Agnaou appear to be a disgruntled employee; and
+- reflected his pre-disposition against Mr. Agnaou in accepting that experience is more meritorious than a course of studies as a criterion for selecting candidates.
+[87]
+None of these points has merit.
+[88]
+Insofar as concerns the adoption of the DOJ's positions, as already noted, this is compatible simply with the DOJ being correct on the points raised. Moreover, there was no need for the Vice-Chairperson to cite and parse each argument Mr. Agnaou made (see e.g.
+Newfoundland Nurses
+at para 16,
+ <FRAGMENT_SUPPRESSED> ). Further, even if the Vice Chairperson had actually copied from the DOJ's submissions and repeated them verbatim in the decision, this would not necessarily have been inappropriate, as the Supreme Court of Canada recently held in
+ <FRAGMENT_SUPPRESSED> .
+[89]
+In the second place, I do not find that the Vice-Chairperson was unfair to any position advanced by Mr. Agnaou, nor did he portray him in an unduly unfavourable light. Rather, I find the decision is remarkably well-balanced, especially in light of the way in which Mr. Agnaou appears to have conducted himself before the PSST.
+[90]
+Thirdly, there is not a shred of evidence to support the claim that Mr. Hadjis played any role whatsoever in the drafting of the decision or in reaching the conclusions that the Vice-Chairperson reached. Mr. Agnaou asserts that this must be so based on the comparison of the reasoning in the case with reasoning in
+ <FRAGMENT_SUPPRESSED>  when he previously occupied the role of Chairperson of the CHRT. This falls well short of proving any inappropriate involvement on the part of Mr. Hadjis.
+[91]
+Finally, there was no reason for Vice-Chairperson Mooney to have refused to accept or accord weight to the Hara study, which was entirely relevant to the issue before him. The fact that Mr. Agnaou does not like its conclusions - which documented that the DOJ was performing well in respect of its employment equity obligation - is no reason for it to be found to be self-serving. Moreover, as already noted, a tribunal's decision regarding the acceptance of evidence and weight to accord it does not normally give rise to a reviewable error, much less to a reasonable apprehension of bias.
+[92]
+In sum, Mr. Agnaou has failed to show through the requisite clear and convincing evidence that there is any reasonable apprehension of bias flowing from the decisions that Vice-Chairperson Mooney made in this case or from the way in which he ran the hearing. At best, Mr. Agnaou's assertions are little more than innuendo. Thus, his claim to have the decision set aside due to a reasonable apprehension of bias must be dismissed.
+B.
+Does the claimed violation of the right to a "transparent process" amount to a violation of Mr. Agnaou's procedural fairness rights?
+[93]
+Mr. Agnaou next argues that his rights to what he terms a "transparent process" were violated because the DOJ and the PSC were not ordered to provide written replies that were equally detailed as the complaint that he filed and because Vice-Chairperson Mooney refused several of his production requests. I have already dealt with the issue of the production requests; for the same reasons that the denial of some of them does not give rise to a reasonable apprehension of bias, their denial does not result in Mr. Agnaou's having been subjected to an unfair process before the PSST. In short, Mr. Agnaou has failed to demonstrate that there were relevant documents in the possession of either the DOJ or the PSC that were not ordered disclosed.
+[94]
+As for the nature of the defendant's replies, Mr. Agnaou did not ever request more fulsome responses from the DOJ or the PSC. Nor did he request an adjournment by reason of any surprise flowing from unexpected evidence of a DOJ witness or unanticipated arguments from the DOJ or the PSC. In light of this, he cannot now argue that the alleged paucity of the DOJ and PSC's written responses constitute a denial of procedural fairness. Moreover, having reviewed the replies of the DOJ and PSC, I am of the view that they were sufficiently detailed so as to comply with the disclosure requirements of the PSST Regulations. As Mr. Agnaou correctly notes, subsection 24(2) of the Regulations does require that a respondent plead in its reply all the material facts it intends to rely on. Such facts, however, must be distinguished from evidence and legal arguments. Mr. Agnaou's pleadings are much longer than those of the DOJ or the PSC because he set out all large chunks of the evidence in his complaint and also made lengthy legal arguments. There was no requirement for the DOJ or the PSC to do the same as the Regulations require only that material facts be pleaded. Therefore, the content of the replies filed by the DOJ and the PSC does not give rise to any breach of Mr. Agnaou's procedural fairness rights to a "transparent process", and, accordingly, this argument must likewise be dismissed.
+C.
+Does the failure to issue an order preventing DOJ counsel from meeting with upcoming witnesses constitute a denial of procedural fairness?
+[95]
+Mr. Agnaou next argues that Vice-Chairperson Mooney violated his procedural fairness rights in failing to enjoin counsel for the DOJ from meeting with upcoming witnesses (who were DOJ employees) prior to their testimony. As noted, during the second set of hearing dates, the Vice-Chairperson made an order excluding witnesses and at the end of each witness' testimony directed that he or she not discuss the evidence with anyone. Mr. Agnaou thereafter sought assurances from counsel for the PSC and for the DOJ that they would not speak about the case with upcoming witnesses, who were set to testify on subsequent dates. Counsel for the PSC was willing to give such an assurance for witnesses from the DOJ, but counsel for the DOJ was not. DOJ counsel maintained that it was his right to meet with and prepare witnesses for their testimony, provided that in so doing he did not disclose what had been stated in evidence by other witnesses who had already testified.
+[96]
+Vice-Chairperson Mooney agreed and refused to enjoin counsel from meeting with the upcoming witnesses. As I indicated during the hearing in this application, it was not improper for counsel for the DOJ to have met with upcoming witnesses providing that in so doing he was careful not to disclose the content of the testimony given during the hearing to that point. In this regard, as the oft-quoted saying provides, "there is no property in a witness". Thus, while the rules governing professional conduct of lawyers prohibit a lawyer from speaking with another lawyer's client without the second lawyer's permission, this prohibition does not apply to witnesses that the second lawyer intends to call. In addition, lawyers may communicate with witnesses at breaks during their testimony, provided they follow the rules governing the ethical scope of such communications.
+[97]
+For example, in Ontario, Rule 4.04 of the Rules of Professional Conduct restricts the manner in which lawyers may communicate with a witness during examination of that witness in court. However, there is no prohibition on the communication of witnesses before the hearing date, except that, under Rule 4.01(2), a lawyer must not dissuade a witness from testifying, advise a witness to be absent, or needlessly abuse, hector, harass, or inconvenience a witness.
+[98]
+In
+O'Callaghan v R
+(1982), 35 OR (2d) 394 (OHCJ), relied on by the respondent, the Ontario High Court of Justice quashed an order of a magistrate that sought to restrain counsel from communicating with witnesses or prospective witnesses, and in
+ <FRAGMENT_SUPPRESSED>  the Canada Public Service Staff Relations Board ruled to similar effect, allowing counsel to communicate with his witness about upcoming testimony in accordance with the Ontario Rules of Professional Conduct.
+[99]
+Thus, contrary to what Mr. Agnaou asserts, the requirements of procedural fairness did not require that Vice-Chairperson Mooney order DOJ counsel to refrain from speaking with pending witnesses.
+[100]
+Nor does the evidence reveal that DOJ counsel in any way violated the exclusion order when he met with the witnesses in question. Contrary to what Mr. Agnaou claims, the materials he obtained under the ATIA do not demonstrate any violation of the exclusion order. All they show is that an upcoming witness was copied on a reporting email, but there is no attachment to the email to indicate the nature of the report made by counsel for the DOJ. Likewise, the notes taken by a labour relations representative during the preparation session of a management witness nowhere show that counsel for the DOJ related to the witness the content of testimony that had been given. Thus, Vice-Chairperson Mooney was correct in holding that Mr. Agnaou had not proven there to have been any violation of the exclusion order. Thus, not only did the Vice-Chairperson not err in refusing to admit the documents disclosed under the ATIA as they did not demonstrate any violation of the exclusion order, he likewise did not violate Mr. Agnaou's procedural fairness rights in so holding. Therefore, this claim has no merit.
+D.
+Does the refusal of the additional evidence that Mr. Agnaou sought to tender constitute a denial of procedural fairness?
+[101]
+Mr. Agnaou next alleges that his procedural fairness rights were violated through the refusal of the additional evidence he sought to tender after the close of the case. As already noted, this evidence concerned the alleged violation of the exclusion order, concerning what transpired in respect of Mr. Agnaou's subsequent candidacy for another position and concerning positions subsequently held by the successful incumbents in the competition that was the object of Mr. Agnaou's complaint. Vice-Chairperson Mooney refused to admit such evidence on the grounds of relevance.
+[102]
+As the Supreme Court of Canada stated in
+CJA, Local 579 v Bradco Construction Ltd
+, [1993] 2 SCR 316 at para 47, and as this Court noted in <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> , labour tribunals are to be afforded considerable discretion in their assessments of admissibility of evidence. Thus, it will be rare that the refusal to allow evidence will be so significant that it will amount to a denial of procedural fairness; indeed, such a finding may only be made where the evidence in question is central to the position of a party (as it was in
+Syndicat des employés professionnels de l'Université du Québec à  <FRAGMENT_SUPPRESSED>  at para 47).
+[103]
+Here, the excluded evidence was not of such nature. For the reasons already noted, the evidence concerning the alleged violation of the exclusion order failed to establish any violation. It was thus hardly central to Mr. Agnaou's case. Similarly, evidence regarding what transpired in another competition, which took place after the events in question in this case, is not relevant to the issues that were before the PSST, as it shed no light on what occurred previously in this case when different management personnel were involved on behalf of the DOJ. Finally, evidence regarding the situations of the successful incumbents would have been relevant only if it had been necessary for the PSST to address the issue of remedy. Vice-Chairperson Mooney did not need to do so as he dismissed the complaint. It is common for tribunals in the labour relations field to bifurcate decisions on breach and remedy as Vice-Chairperson Mooney did in this case (see e.g.
+Brown and Beatty, Canadian Labour Arbitration
+, loose-leaf (Canada: Thomson Reuters Canada Ltd, 2014), ch 3 at 55).
+[104]
+Thus, the excluded evidence in question was not central to Mr. Agnaou's complaint and, accordingly, the rejection of it does not give rise to a violation of procedural fairness. Moreover, Vice-Chairperson Mooney applied the appropriate test to the assessment of whether he should allow such evidence to be admitted after the close of the hearing, in relying on <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> , which set out the appropriate factors for consideration in claims to reopen a case.
+[105]
+Thus, there was no violation of procedural fairness or other reviewable error committed by Vice-Chairperson Mooney in refusing to admit the evidence that Mr. Agnaou sought to tender after the close of the case. This ground is therefore also without merit.
+E.
+Does the delay in issuing the decision give rise to a claim for violation of procedural fairness?
+[106]
+Mr. Agnaou finally argues that the delay in rendering the decision gives rise to a violation of procedural fairness. I disagree. As the Supreme Court of Canada held in
+ <FRAGMENT_SUPPRESSED> it will only be in extreme circumstances that the delay in rendering a decision will be so excessive as to give rise to a claim for violation of procedural fairness. Here, the 25 months taken by Vice-Chairperson Mooney is not excessive in light of the thousands of pages of materials that Mr. Agnaou filed and the multiple arguments he made.
+[107]
+Thus, for these reasons, this claim - like all the others made by Mr. Agnaou - does not demonstrate a denial of procedural fairness. I accordingly find that he has not established any denial of procedural fairness and this aspect of his application must be dismissed.
+V.
+Did Vice-Chairperson Mooney Err in his Interpretation of the PSEA or the CHRA?
+[108]
+I turn next to assessment of the errors that Mr. Agnaou alleges Vice-Chairperson Mooney made in his interpretation of the PSEA and the CHRA.
+[109]
+In terms of the PSEA, Mr. Agnaou argues that Vice-Chairperson Mooney erred in his assessment of whether there had been an abuse of authority by the staffing managers within the meaning of paragraph 77(1)(a) of the PSEA in two respects; first, he claims that the Vice-Chairperson mischaracterised the arguments he made regarding abuse of authority, and, second, he claims that the Vice-Chairperson erred in his interpretation of the knowledge that staffing managers must have in respect of employment equity matters.
+[110]
+As concerns the allegations centred on mischaracterisation of his arguments, Mr. Agnaou alleges that he raised the following issues before the PSST:
+[translation]
+Did the manager meet her obligations as set out in the EEA and repeated in the PSC Appointment Policy and other Treasury Board and Justice Canada policies when she designed and administered the impugned selection process? In other words, did the manager incorporate the [employment equity] objectives into the design and administration of the impugned selection process?
+[111]
+He claims that the Vice-Chairperson did not address these issues but, rather answered only the following question: [translation] "Was the hiring manager required to include membership in a[n] [employment equity] group as a ... criterion?"
+[112]
+I disagree with this assertion. A review of the reasons for decision indicates that the Vice-Chairperson addressed the arguments made by Mr. Agnaou to the extent they were relevant to the assessment of whether there had been an abuse of authority within the meaning of paragraph 77(1)(a) of the PSEA.
+[113]
+In this regard, as Vice-Chairperson correctly noted, it is not the role of the PSST to enforce compliance with the EEA; rather, by virtue of section 22 of the EEA, that role falls to the CHRC. Thus, issues of compliance with the EEA may arise in the context of complaints regarding staffing actions in the federal public service only to the extent that non-compliance with the EEA might give rise to abuse of authority by the staffing manager, within the meaning of paragraph 77(1)(a) of the PSEA. Under that provision, staffing actions may be set aside if the staffing manager abused the authority delegated under subsection 30(2) of the PSEA. That subsection allows the staffing manager to establish the essential qualifications and additional merit qualifications for a position, which may include the current and future operational and organizational needs of the organization.
+[114]
+As Vice-Chairperson Mooney correctly noted in his decision, these needs may include the requirement to belong to a group protected under the EEA as a merit criterion. Where such a choice is made, as already discussed, applicants who possess the essential qualifications for the position and who are members of a protected group may be hired in preference to applicants who do not belong to a protected group. Thus, under the PSEA, the choice of adopting or not adopting membership in a protected group as a merit criterion may found a claim for abuse of authority. In addition, employment equity issues may give rise to an abuse of authority under the PSEA if the staffing manager ignores the relevant Treasury Board and PSC policies in employment equity matters, which, for example, require that assessment tools not create systemic barriers to advancement, as Vice-Chairperson Mooney noted in his decision.
+[115]
+After setting out these general principles, Vice-Chairperson Mooney canvassed the arguments made by Mr. Agnaou under the rubric of abuse of authority, and dealt with and dismissed Mr. Agnaou's claims that the staffing managers and DOJ human resources representatives were insufficiently familiar with employment equity obligations, that they did not provide sufficient consideration of these issues in the design and development of the staffing process, and abused their authority in failing to establish membership in a protected group as a merit criterion. Thus, contrary to what Mr. Agnaou asserts, Vice-Chairperson Mooney did consider all relevant aspects of Mr. Agnaou's arguments in respect of employment-equity related issues. Therefore, the first of Mr. Agnaou's arguments regarding the interpretation of the EEA is without merit.
+[116]
+In terms of the second argument, I see no error in the Vice-Chairperson's assessment of the adequacy of the knowledge of the management representatives in respect of employment equity issues. Contrary to what Mr. Agnaou asserts, it was not necessary for the managers to have consulted reports tabled before Parliament on employment equity issues or other similar documentation for them to have properly discharged their roles in the staffing process. Similarly, the fact that their files did not contain detailed analyses of the issues considered by them in making decisions regarding the area of selection, selection criteria or assessment tools does not mean that they gave inadequate consideration to these issues or to the employment equity impacts of the choices made in respect of them. In the decision, Vice-Chairperson Mooney summarised the witnesses' evidence on these points, which showed that they considered these issues and were generally aware of the requirements of the EEA in staffing actions. Thus, his determination on these issues was reasonable as it was grounded in the evidence. This aspect of Mr. Agnaou's argument therefore also devoid of merit and he has accordingly failed to establish that Vice-Chairperson Mooney made any reviewable error in his interpretation of the requirements of the EEA, as they applied to the staffing process at issue in this case.
+[117]
+Insofar as concerns the errors that Mr. Agnaou alleges that Vice-Chairperson Mooney made in his analysis of the claims of discrimination, he asserts that he Vice-Chairperson erred in:
+- Applying the wrong test for discrimination, which should have been focused on whether the impugned criterion of recent human resources management experience adversely impacted members of visible minorities as opposed to focusing on whether there was sufficient circumstantial evidence to make out a prima facie case of discrimination, which alleged error he claims erroneously elevated the burden of proof for the
+prima facie
+case he was required to make out;
+- Considering the evidence of the respondent in determining if Mr. Agnaou had established a prima facie case of discrimination;
+- Considering the availability of positions at the LA-2B level as being a relevant factor;
+- Affording weight to the alleged self-serving report from Hara and Associates; and
+- Requiring there be statistical evidence regarding the situation at the DOJ to establish that there is an under-representation of members of visible minorities in management at the DOJ. Mr. Agnaou asserts that the Vice-Chairperson should have instead concluded this to be the case based on statistics that Mr. Agnaou filed from Statistics Canada showing the number of visible minorities in managerial positions generally in Canada.
+[118]
+Prior to analysing these issues, it is useful to make a few comments about the law applicable to the assessment of discrimination claims. As Justice McIntyre, writing for the Supreme Court of Canada, noted in
+O'Malley
+, there are two types of discriminatory conduct that may violate human rights legislation: direct discrimination, on one hand, and adverse impact or indirect discrimination on the other hand.
+[119]
+Direct discrimination occurs in the employment context when the employer deliberately discriminates on a ground prohibited by the legislation. The example given by Justice McIntyre in
+O'Malley
+of a situation of direct discrimination is a sign that states, "No Catholics or no women or no blacks employed here". Typically, an applicant is not able to file proof of such a blatantly discriminatory attitude. Rather, proof of direct discrimination is often circumstantial and may involve a series of specific incidents where similar decisions that were adverse to the individuals with particular characteristics were made. For example, this type of proof may consist of showing that disproportionate numbers of a protected group were rejected for employment or advancement. From such evidence the applicant will ask the tribunal to draw the inference that he or she had likewise been improperly refused for hire or promotion on the same prohibited ground of discrimination (see e.g.
+ <FRAGMENT_SUPPRESSED> ; Tarnopolsky, Pentney & Gardner,
+Discrimination and the Law
+, looseleaf (Canada: Thomson Reuters Canada Ltd, 2004-2014), ch 4 at 22-26 [Tarnopolsky]).
+[120]
+Indirect or adverse impact discrimination, on the other hand, occurs in the absence of a discriminatory intention, when there is a rule, requirement, policy or practice that disproportionately negatively impacts a protected group.
+British  <FRAGMENT_SUPPRESSED>  [
+Meiorin
+] is an example of indirect or adverse impact discrimination; there, the employer adopted an aerobic capacity requirement for firefighters that was found to disproportionately impact women unfavorably, as they generally have smaller lung capacity.
+[121]
+In this case, Mr. Agnaou led evidence and made arguments that were designed to show the presence of both types of discrimination. He tried to establish that management of the Quebec Regional Office of the DOJ engaged in direct discrimination against members of visible minorities by showing examples of situations where he claimed that other members of visible minorities were unfairly demoted and by attempting to establish that management had attempted to deliberately evade employment equity obligations. The bulk of his case, though, was focused on a claim of adverse impact discrimination. This portion of his case centered on the allegation that the human resources management experience qualification negatively impacted members of visible minorities and on the claim that members of visible minorities were under-represented in the managerial echelons at the DOJ.
+[122]
+In a discrimination case, a claimant is tasked with establishing a
+prima facie
+case of discrimination. In a case of direct discrimination, where circumstantial proof is called, a
+prima facie
+case is made out when the evidence offered in support of the inference of discrimination renders an inference of discriminatory conduct by the respondent more probable than other possible inferences or hypothesis. When this occurs, the burden shifts to the respondent to show that its conduct was not discriminatory (Barnacle, Lynk and Wood,
+Employment Law in Canada
+, looseleaf (Canada: LexisNexis Canada Inc, 2005-2014), ch 5 at 50).
+[123]
+In a case of adverse impact discrimination, on the other hand, the evidence offered is not circumstantial but rather centers on showing that the neutral rule, policy or requirement disproportionately negatively impacts members of the protected group. To prove this, statistical evidence is often required. For example, in the case of a minimum height requirement, a female claimant would be required to show that, on average, women are shorter than men to make out a prima facie case that the height requirement adversely impacts women. Sometimes, as in
+ <FRAGMENT_SUPPRESSED>  [
+Action Travail
+], the negative impact of all hiring practices are assessed cumulatively by reviewing the total number of a protected group hired and then comparing it to the proportion of applicants who applied for or were available to be recruited into the positions in question (also see, e.g.,
+ <FRAGMENT_SUPPRESSED>  a prima facie case of employment-based adverse impact discrimination, the available defence requires showing that the rule, requirement, policy or practice is a bona fide occupational requirement (or BFOR). The BFOR defence applicable to employment is set out in paragraph 15(1)(a) and subsection 15(2) of the CHRA, which provide:
+15. (1) It is not a discriminatory practice if
+(a) any refusal, exclusion, expulsion, suspension, limitation, specification or preference in relation to any employment is established by an employer to be based on a bona fide occupational requirement;
+[...]
+Accommodation of needs
+(2) For any practice mentioned in paragraph (1)(a) to be considered to be based on a bona fide occupational requirement and for any practice mentioned in paragraph (1)(g) to be considered to have a bona fide justification, it must be established that accommodation of the needs of an individual or a class of individuals affected would impose undue hardship on the person who would have to accommodate those needs, considering health, safety and cost.
+15. (1) Ne constituent pas des actes discriminatoires:
+a) les refus, exclusions, expulsions, suspensions, restrictions, conditions ou préférences de l'employeur qui démontre qu'ils découlent d'exigences professionnelles justifiées;
+[...]
+Besoins des individus
+(2) Les faits prévus à l'alinéa (1)a) sont des exigences professionnelles justifiées ou un motif justifiable, au sens de l'alinéa (1)g), s'il est démontré que les mesures destinées à répondre aux besoins d'une personne ou d'une catégorie de personnes visées constituent, pour la personne qui doit les prendre, une contrainte excessive en matière de coûts, de santé et de sécurité.
+[125]
+The Supreme Court set out a tripartite test for assessment of the sufficiency of a BFOR defence in
+Meiorin
+, holding that an employer may justify the impugned requirement by showing on the balance of probabilities that:
+1. The employer adopted the requirement for a purpose rationally connected to the performance of the job;
+2. The employer adopted the requirement in an honest and good faith belief that it was necessary to fulfill the legitimate work-related experience; and
+3. The requirement is reasonably necessary to the accomplishment of the workplace purpose.
+[126]
+To show that a requirement is reasonably necessary, an employer must demonstrate that it is impossible to accommodate individual employees with the characteristics of the claimant without imposing undue hardship on the employer (Tarnopolsky, ch 12 at 62.54-62.55).
+[127]
+Bearing these general principles in mind, it is now possible to turn to the arguments made by Mr. Agnaou on these points.
+[128]
+One of them has already been discussed; as previously determined, no reviewable error was made in giving weight to the report from Hara and Associates, which was relevant to the issues before the PSST in this case.
+[129]
+In terms of the other claims made by Mr. Agnaou on these issues, contrary to what he asserts, the Vice-Chairperson did not apply the incorrect legal principles or apply a higher burden of proof than warranted. Rather, he set out the applicable legal principles correctly in his decision, which, indeed, reflect the above discussion. He then moved to assess three points that flowed from Mr. Agnaou's claims: first, whether Mr. Agnaou succeeded in showing that members of visible minorities were under-represented at the LA-03 group and level, second, whether Mr. Agnaou succeeded in establishing that the impugned qualification negatively impacted members of visible minorities, and finally, whether Mr. Agnaou had succeeded in establishing the presence of direct discrimination. The Vice-Chairperson's reasoning on all three points is unassailable in my opinion.
+[130]
+In considering the first question, Vice-Chairperson Mooney concluded that the statistics tendered did not establish under-representation at the LA-03 level because there was no proof of the number of members of visible minorities available for promotion to level. Mr. Agnaou argues that the Vice-Chairperson ought to have considered the percentage of visible minorities at the DOJ in total or at a lower groups and level as being available for promotion or the number of managerial employees in Canada generally, who are shown in Statistics Canada surveys as being members of visible minorities, as being the appropriate comparator group, either of which would have shown that there was under-representation of visible minority members at the LA-03 group and level at the DOJ. In this regard, the evidence he tendered information from a Statistics Canada article, which showed the percentage of visible minorities in the country, and in various regions, who held managerial positions in all types of employment.
+[131]
+Mr. Agnaou argues that his evidence established that his situation was analogous to that in
+ <FRAGMENT_SUPPRESSED>  (1971) [
+Duke Power
+], discussed in
+O'Malley
+, where the U.S. Supreme Court held that a hiring criterion of possessing a high school diploma adversely impacted black people because, at the relevant time and in the relevant recruitment area, fewer black than white people had completed high school. Mr. Agnaou says that the same determination of adverse impact should have been made with respect to the human resources management experience criterion because much greater percentages of visible minorities were shown to have been present in the DOJ at the LA-00, 01 and 02A levels, where human resources management is not required, than at the LA-2B and 3A levels, where most positions do require management of subordinate employees.
+[132]
+In my view, this is not an appropriate comparison because insufficient evidence was tendered by Mr. Agnaou to show when the members of visible minorities were hired at the various groups and levels in the DOJ or to show when positions became open at the higher levels. Thus, one cannot conclude that all the members of visible minorities at the lower levels were available for promotion to positions at the LA-2B or LA-03 levels and were passed over. Nor can one say that all members of visible minorities in management in Canada generally were available to be recruited to positions at the DOJ. One has no idea as to how many of these individuals possess law degrees, which was a necessary requirement for the positions at issue, nor any idea as to how many of them might ever have been interested in working for the federal government. The situation is accordingly much more complex than that in Duke Power, where the qualification in question would either be possessed or not by all potential applicants.
+[133]
+The situation here, on the other hand, is similar to that considered in <FRAGMENT_SUPPRESSED> . There, as here, the statistical evidence tendered failed to establish that there were a disproportionate number of members of visible minorities in senior managerial positions, when compared to their appropriate feeder groups within Health Canada and the federal public service. The evidence in that case was much more sophisticated than that tendered by Mr. Agnaou in this case. In Chopra, the claimant called expert evidence of a statistician to demonstrate the proportion of individuals who were likely to have applied for the promotions in question (and the tribunal still rejected that such evidence made out adverse impact discrimination, although it found on find on a different basis that Mr. Chopra's rights had been contravened). No such evidence was tendered in this case.
+[134]
+The evidence in the
+Action Travail
+case was also much more sophisticated than that tendered by Mr. Agnaou in this case. In
+Action Travail
+, the applicant established not only the total number of women hired into traditional blue-collar positions but also the total number of female applicants, qualified for the positions in question, who had applied for the positions and the total number of male applicants who applied for the positions and the numbers of men hired over the similar time period. It was therefore possible to conclude that there was a failure to hire an equal proportion of female applicants in that case.
+[135]
+Here, on the other hand, the bare statistics filed by Mr. Agnaou lack these details. Moreover, the Hara Report indicated that the hiring of visible minorities at the lower levels had happened recently. Thus, their higher proportion at the lower levels could not be attributed to a failure to promote them. Thus, the Vice-Chairperson did not err in concluding that Mr. Agnaou failed to establish under-representation of visible minorities at the LA-3A group and level at the DOJ. Nor can he be faulted for the test he applied in his assessment of this issue, which corresponds to that set out in several cases (see e.g.
+Action Travail
+, <FRAGMENT_SUPPRESSED> , <FRAGMENT_SUPPRESSED> ).
+[136]
+Likewise, Vice-Chairperson Mooney's assessment of the lack of substantiation for the claimed adverse impact of the human resources management experience criterion is not open to criticism. There was simply no evidence before him as to the impact of the criterion on members of visible minorities. Accordingly, he correctly concluded that Mr. Agnaou had failed to show the discriminatory impact of the human resources management experience qualification.
+[137]
+Similarly, he did not err in concluding that Mr. Agnaou had failed to establish a prima facie case of direct discrimination as there was no evidence of any discriminatory attitude on the part of management at the Quebec Regional Office of the DOJ.
+[138]
+Finally, contrary to what Mr. Agnaou asserts, Vice-Chairperson Mooney did not consider the impact of Mr. Agnaou's failure to apply for available positions at the LA-2B group and level as part of his assessment of whether or not Mr. Agnaou had established a prima facie case of discrimination. Rather, he made these comments as part of his analysis of whether the employer had succeeded in establishing that the requirement for previous human resource management experience in public service was a BFOR.
+[139]
+Thus, Mr. Agnaou has failed to establish any error in Vice-Chairperson Mooney's assessment of his discrimination claim.
+VI.
+Is Vice-Chairperson Mooney's Application of the PSEA or the CHRA Unreasonable?
+[140]
+Mr. Agnaou finally makes several allegations regarding the alleged unreasonable nature of the decision. In addition to his allegation that the reasons were inadequate through their failure to consider several of his arguments, which, as noted, is to be considered as part of the assessment of the reasonableness of the decision, Mr. Agnaou also asserts that the following determinations were unreasonable:
+- The conclusion that there had been no abuse of authority;
+- The conclusion that it was permissible for management to not have applied the Deputy Minister's directive regarding the need to make membership in a group protected under the EEA a merit criterion in all staffing actions at the DOJ;
+- The conclusion that the staffing managers and human resources representative involved in the competition had adequate knowledge of the employer's employment equity obligations and the of the EEA and applicable policies;
+- The conclusion that the members of the selection committee gave adequate consideration to employment equity issues;
+- The conclusion that there was no abuse of authority in establishing recent human resources management experience as an essential qualification for the position;
+- The conclusion that Mr. Agnaou had not established under-representation of visible minorities in the senior echelons at the DOJ; and
+- The conclusion that Mr. Agnaou had failed to establish that any under-representation of members of visible minorities at the DOJ was due to discrimination.
+[141]
+Most of these points are simply repetitive of the arguments made by Mr. Agnaou at various other points in his argument in his judicial review application. For the same reasons as discussed previously they are without merit.
+[142]
+In addition, the evidence before the PSST showed that the two positions of Associate Regional Director and the other for Law Directorate Director were required to manage a number of subordinate employees, who were principally lawyers. The evidence also demonstrated that the employer required a relatively minimal level of previous human resources management experience - only six months within the preceding two years - as an essential qualification. Moreover, as noted, there was no evidence that this requirement adversely impacted members of visible minorities. The evidence also revealed that those at Mr. Agnaou's level could obtain human resources management experience in LA-2B positions, but that Mr. Agnaou had chosen to not apply for several such positions, which he might have obtained. Rather, he preferred to argue that his academic studies in human resources put him on an equal footing with those who had actual management experience and that refusal of this assertion amounted to an abuse of authority or discrimination, in violation of the CHRA. The Vice-Chairperson's conclusion otherwise can scarcely be said to be unreasonable. Rather, as the respondent correctly argues, it was the only common-sense outcome open on the facts of this case. Thus, the various factual conclusions or conclusions of mixed fact and law impugned by Mr. Agnaou are all reasonable.
+[143]
+Likewise, Vice-Chairperson Mooney's reasons are thorough and adequately addressed all of Mr. Agnaou's arguments. They are not in any way insufficient.
+[144]
+For these reasons, this application for judicial review will be dismissed with costs.
+JUDGMENT
+[145]
+THIS COURT'S JUDGMENT is that
+:
+1. This application for judicial review is dismissed, with costs;
+2. The Attorney General of Canada is substituted as the respondent in the style of cause; and
+3. If the parties are not able to agree on the quantum of costs payable, they may make submissions on the issue, with the respondent delivering its submissions of no more than 10 pages within 30 days of the date of this judgement, Mr. Agnaou filing his responding submissions, likewise of no more than 10 pages, within 30 days of receipt of the respondent's submissions, and the respondent filing, if it wishes, a reply of no more than 5 pages, within 10 days of receipt of Mr. Agnaou's responding costs submissions.
+Application dismissed.
+Editor: J. Danielle King/vnh

@@ -1,0 +1,286 @@
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+O'Keefe, J.
+June 24, 2015.
+Counsel:
+Maryls Edwardth and Patricia Boyd, for the applicant;
+Sharon Johnston, for the respondent.
+Solicitors of Record:
+Office of the Information Commissioner of Canada, Legal Services, Ottawa, Ontario, for the applicant;
+Department of Justice, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+O'Keefe, J.
+: This is an application by the Office of the Information Commissioner of Canada (OICC) for judicial review pursuant to paragraph 42(1)(a) of the
+Access to Information Act
+, RSC 1985, c A-1 [the Act], in respect of the Minister of Health's decision to refuse to disclose information responsive to Apotex's request (the requester or Apotex) under the Act for records related to the processing of an Abbreviated New Drug Submission (ANDS) and issuance of a notice of compliance with respect to Apo-Pantoprazole.
+[2]
+The OICC (the applicant) requests an order directing the Minister of Health to disclose the records at issue to the requester. If this Court finds that only some of the records are subject to the section 23 exemptions, the OICC requests an order directing the Minister of Health to re-exercise discretion on the portion of the records over which the privilege has been found to apply, taking into account this Court's reasons and the nature of the records that have been ordered to be disclosed.
+I.
+Background
+[3]
+In order for a drug manufacturer to market a new drug in Canada, it must first obtain a notice of compliance (NOC) issued by the Minister of Health, pursuant to the
+Food and Drug Regulations
+, CRC, c 870. To obtain a NOC, a drug manufacturer must file a submission with the Minister. An ANDS is available under the Regulations to generic drug manufacturers who wish to obtain a NOC for a generic drug that is the bioequivalent to a previously approved drug.
+[4]
+[...].
+[5]
+[...].
+[6]
+In 2007, Apotex commenced litigation against the government (
+ <FRAGMENT_SUPPRESSED>  or delay in approving drug submissions with respect to six drugs. In March 2010, Apotex amended its statement of claim to include further allegations in relation to five other drugs, Apo-Pantoprazole being one of them.
+[7]
+On July 12, 2010, Health Canada's Access to Information and Privacy (ATIP) Division received an access to information request from Dr. Barry Sherman, chairman and chief executive officer of Apotex Inc., for copies of all documents related to the processing of ANDS and issuance of the March 5, 2008 NOC.
+II.
+Decision Under Review
+[8]
+This judicial review is for Health Canada's (the respondent) refusal to disclose eight pages of documents. The timeline of its disclosure refusal is as follows.
+[9]
+After receiving the request for disclosure, on May 20, 2011 Health Canada provided 47 pages in their entirety and a redacted version of eight pages for a total of 55 pages of documents. Portions of the eight pages at issue were withheld from disclosure on the basis of solicitor-client privilege pursuant to section 23 of the Act.
+[10]
+On June 14, 2011, the OICC received a complaint from the requester concerning Health Canada's application of section 23 of the Act as a basis for refusal to disclose. During the course of the OICC's investigation, it sought and obtained an unredacted copy of the documents at issue, as well as Health Canada's file relating to the processing of the requester's access file.
+[11]
+The eight pages of redacted record contain the following information: 1) five out of eight pages contain email strings bearing the subject line [...]; 2) one page of search results for Pantoloc in the Patent Register [...]; and 3) the last two out of eight pages contain email strings bearing the subject line [...] involving a counsel at the civil litigation section at the Department of Justice (DOJ) and a senior counsel at Health Canada Legal Services.
+[12]
+On January 26, 2012, the OICC wrote a letter acknowledging that the communications between Health Canada and the DOJ were between the client institution and the solicitor. [...]. It recommended the release of the eight pages of record at issue. Further, the OICC investigator asked Health Canada to provide answers to the following questions: i) what was the legal advice sought? ii) what was the legal advice given? and iii) what is the harm or injury if the information was released and provide rationale for the continued exemptions on the records?
+[13]
+On March 5, 2012, Health Canada provided its answer to the OICC stating that: 1) [...]; 2) section 23 of the Act does not require an injury test. A class test applies where a government institution is satisfied that information falls within the class specified. It is a sufficient basis to refuse disclosure. Health Canada concluded that it maintains its original assessment that these records are communications between counsel and client to obtain or provide legal advice.
+[14]
+On July 31, 2012, the OICC wrote to Health Canada pursuant to paragraph 35(2)(b) of the Act asking for all evidence and arguments Health Canada relied on to reach its conclusion. On September 4, 2012, Health Canada responded with the same rationales as its March 5, 2012 letter.
+[15]
+On April 23, 2013, the OICC wrote to Health Canada stating that Health Canada had not established that the withheld information qualifies as being subject to solicitor-client privilege and that even if the privilege could apply, the evidence did not establish that discretion had been properly exercised.
+[16]
+On May 24, 2013, Health Canada informed the OICC that it maintains its position that the solicitor-client privilege exemption applies.
+[17]
+The OICC reported the result of its investigation to the requester. With the requester's consent, it initiated this application for review pursuant to paragraph 42(1)(a) of the Act.
+III.
+Issues
+[18]
+The applicant submits three issues for my review:
+1. Has Health Canada satisfied its onus of establishing that the portions of the record it has refused to disclose are subject to solicitor-client privilege?
+2. If Health Canada has demonstrated that any portion of the withheld records are subject to solicitor-client privilege, did the Minister properly exercise its discretion not to disclose the records pursuant to section 23 of the Act?
+3. If Health Canada is authorized to refuse to disclose any of the records, has it met its obligation of disclosing all parts of those records that do not contain and can reasonably be severed from any part that contains the information that is exempted from disclosure, in accordance with section 25 of the Act?
+[19]
+In response, the respondent submits two issues:
+1. Do the records contain information that is subject to solicitor-client privilege such that the Minister was authorized to refuse to disclose it under section 23 of the Act?
+2. If yes, did the Minister reasonably exercise its discretion in refusing disclosure of portions of the records?
+[20]
+In my view, there are four issues:
+A. What is the standard of review?
+B. Do any of the records contain information that is subject to solicitor-client privilege?
+C. If yes, did the Minister reasonably exercise its discretion in refusing disclosure of portions of the records?
+D. Was the severance of information reasonable under section 25 of the Act?
+IV.
+Applicant's Written Submissions
+[21]
+The applicant submits the question of whether the exemption under section 23 of the Act has been properly applied by the Minister is reviewable on a standard of correctness, while the Minister's discretionary decision to refuse disclosure is reviewable on a standard of reasonableness (see
+ <FRAGMENT_SUPPRESSED> [
+Industry
+];
+ <FRAGMENT_SUPPRESSED> [2009] FCJ No 1509 [
+Blank
+]; and
+ <FRAGMENT_SUPPRESSED>  [2012] FCJ No 1527 [
+MPSEP
+]).
+[22]
+The applicant starts by submitting that the general principles underlying the regime of the Act is to facilitate the right of access to requestors (see
+ <FRAGMENT_SUPPRESSED>  [
+National Defence
+]) and to facilitate democracy by ensuring that citizens have the information required to participate meaningfully in the democratic process (see
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]). It submits the burden of demonstrating that a denial of access to records is appropriate rests on the party opposing disclosure (see
+ <FRAGMENT_SUPPRESSED> ). It argues exceptions to non-disclosure must be interpreted strictly (see
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]).
+[23]
+Then, the applicant submits the respondent has not satisfied the onus of demonstrating that section 23 applies. It states there are two types of solicitor-client privilege under section 23 of the Act, litigation privilege and legal advice privilege (see
+ <FRAGMENT_SUPPRESSED> ). Litigation privilege is no longer in issue. For legal advice privilege, it can be claimed document by document with each document being required to meet three criteria: i) a communication between solicitor and client; ii) which entails the seeking or giving of legal advice; and iii) which is intended to be confidential by the parties (see
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]). The applicant argues that not everything uttered by a lawyer to a client is privileged.
+[24]
+Insofar as the applicant's first issue is concerned, it submits that legal advice privilege does not apply to the records at issue.
+[25]
+First, the applicant argues that the respondent's September 4, 2012 letter referred to only legal advice privilege in explaining its rationale for withholding the records and the May 24, 2013 letter only referred to the content in the September 4, 2012 letter.
+[26]
+Second, the applicant argues the three <FRAGMENT_SUPPRESSED> criteria were not met under the legal advice privilege.
+[27]
+For the first element, it argues that many of the emails did not involve anyone who has been identified as a solicitor and these were communications among Health Canada employees which do not constitute communications between a solicitor and a client. Although a lawyer was copied on these communications, providing a copy of a record to a lawyer is not sufficient to turn that record into a privileged communication. It states the only documents that met this requirement were the ones involving the counsel from the respondent and the counsel from the DOJ.
+[28]
+For the second element, the applicant argues solicitor-client privilege does not apply to communications where legal advice is not sought or offered, or advice is given by lawyers on matters outside the solicitor-client relationship (see
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]; and
+R v Campbell
+, [1999] 1 SCR 565 at paragraph 50, [1999] SCJ No 16). It argues that ongoing solicitor-client relationships between a government institution and their lawyers entail highly diverse activities and frequently include communications that do not entail the seeking or giving of legal advice (see
+ <FRAGMENT_SUPPRESSED>  [
+Foster
+]). The applicant argues that the email string bearing the title [...] does not meet the criteria because this kind of knowledge would have extended to a party outside the solicitor-client relationship. [...]. As for the rest of the documents, the applicant further argues that page six containing the patent search results is also [...] related and does not constitute the seeking or giving of legal advice. The email between the counsels also concerns another point on OPML which has nothing to do with Apo-Pantoprazole.
+[29]
+For the third element, the applicant argues the records were not intended to be confidential by the parties involved. It argues [...] except for the email exchanged between counsel.
+[30]
+Insofar as the applicant's second issue is concerned, it submits the respondent did not exercise its discretion to waive the exemption reasonably. [...] "there is nothing in Ottawa." It submits that in the event this Court finds that a portion of the records are properly subject to solicitor-client privilege, it should follow the approach of the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> to 48, [2013] FCJ No 439 [
+Public Safety
+]. In that case, the Court of Appeal invited the decision makers to re-exercise their discretion in light of the Court's reasons, which had found that the vast majority of the record was not exempt from disclosure.
+[31]
+Insofar as the applicant's third issue is concerned, it submits that if this Court finds only part of a communication is privileged, section 25 of the Act provides that the head of the institution is required to sever the privileged portion and disclose the remainder.
+V.
+Respondent's Written Submissions
+[32]
+The respondent agrees with the applicant's position on the standard of review. It submits the onus is on the Minister to establish that the exemption under section 23 of the Act applies on a balance of probabilities (see
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]).
+[33]
+The respondent concedes that it has the onus of proof on a balance of probabilities. It first reviews the general principles of the Act, stating that the statute expressly recognizes that information in the hands of government institutions "should be available to the public" but the right to access is subject to "necessary exceptions" (
+National Defence
+at paragraphs 15 and 16). In response to the applicant's argument of a strict interpretation, the respondent submits unlike the <FRAGMENT_SUPPRESSED> case which required the interpretation of the word "investigation," there is no ambiguity in the meaning of the term solicitor-client privilege.
+[34]
+About solicitor-client privilege, the respondent argues this privilege is to be protected in virtually all circumstances and infringements should be kept to an absolute minimum (see
+ <FRAGMENT_SUPPRESSED> [2001] FCJ No 669). It cites the three criteria of <FRAGMENT_SUPPRESSED> and argues that these have been met for solicitor-client privilege to apply.
+[35]
+The respondent submits the Minister was authorized to refuse to disclose the records. It states i) the information contained in these records is solicitor-client privileged; ii) the communications contained legal advice; and iii) the email communications were intended to be confidential.
+[36]
+Firstly, the record containing the communication among the Health Canada employees and DOJ employees and the Patent Register printout are communications between Health Canada, the client and the DOJ, the solicitor. The respondent argues the Minister of Justice presides over the DOJ and is by law, the legal advisor to the executive branch of government which in other words, the DOJ is the government's law firm, the Attorney General of Canada is the solicitor and the individual departments are its clients.
+[37]
+The protection of communication is not limited to only those exchanged between the solicitor and client, but also those made in the context of that relationship and for the purpose of obtaining legal advice ( <FRAGMENT_SUPPRESSED> at paragraph 21) such as those made with the clerks and subordinates of the solicitor (see
+ <FRAGMENT_SUPPRESSED> [2002] MJ No 473).
+[38]
+In specifics to the records, the respondent submits the email strings bearing the subject line [...] involve nine people within the DOJ who formed part of [...] including counsel David Cowie [...] ultimately advised to issue the NOC in the email strings bearing the subject line [...]. This was conducted within the usual and ordinary scope of the professional relationship ( <FRAGMENT_SUPPRESSED> at paragraph 16). It submits given that the request for access was only for certain records, these are only snapshots of [...] which the DOJ was involved continually in providing legal advice leading up to March 5, 2012. Further, even the OICC concurred that the communication was made between the client Health Canada and its solicitor DOJ in one of its letters (January 26, 2012 letter).
+[39]
+Secondly, about the contents of the communications, the respondent argues the second prong of the <FRAGMENT_SUPPRESSED> test on the seeking or giving of "legal advice" is not to be applied restrictively. It cites <FRAGMENT_SUPPRESSED> regarding the breadth of the communications protected from disclosure "all information which a person must provide in order to obtain legal advice and which is given in confidence for that purpose enjoys the privileges attached to confidentiality." This includes the communication made within "the continuum of communications" in tendering advice such as those made in the present case (see
+ <FRAGMENT_SUPPRESSED>  [
+Samson
+]; and
+Public Safety
+at paragraph 26). The respondent submits, therefore, while a specific communication looked at in isolation may not appear to be solicitor-client privileged, it may nevertheless be privileged because it falls within the continuum of communications between client and solicitor. It argues such is the situation in the present case.
+[40]
+[...]. This is due to the highly competitive nature of the pharmaceutical industry. Here, the requester had already initiated a number of legal proceedings against the respondent and the records at issue relate to the issuance of a NOC for Apo-Pantoprazole. The respondent [...]. The applicant proposes too narrow a construction of the privilege in arguing the records [...].
+[41]
+[...].
+[42]
+[...] (see
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ]). It cites
+ <FRAGMENT_SUPPRESSED>  251 DLR (4th) 65 (ON CA); and
+ <FRAGMENT_SUPPRESSED>  [2003] BCJ No 1093 for support. The respondent argues if the records were to be disclosed in this case, they would allow the requester to deduce solicitor-client privileged information [...].
+[43]
+Thirdly, as for the marking of the communication being confidential, the respondent submits simply because the emails are not marked by words like "privileged" and "confidential", it does not mean that the client did not intend them to be confidential. It argues since the communications were sent to a limited circle of individuals, it was presumptively confidential absent any evidence of a contrary intention. The element of confidentiality is inferred on the basis of the subject of the communication and the surrounding circumstances (see
+ <FRAGMENT_SUPPRESSED> [2001] FCJ No 1844 [
+Gateway
+]). Therefore, in this case, confidentiality should be inferred from the email recipient list.
+[44]
+Next, the respondent submits the Minister's exercise of discretion in declining to release the emails in their entirety was reasonable. It argues that as long as there is evidence that the discretion was in fact exercised, a refusal to disclose is not subject to any further inquiry. The nature of the privilege is so close to absolute. It states the Minister's response letter to the OICC included the following factors in its consideration of exercising discretion: i) the context in which the records were created and the relationship between the communicators; ii) the nature of work involving [...]; iii) the way in which advice is provided; iv) the harm that could result [...] if records were disclosed; and v) the purpose and intent of the Act. Therefore, these were evidence of the Minister's reasonable exercise of discretion.
+[45]
+Third, the respondent submits the information was reasonably severed pursuant to section 25 of the Act. It argues when applying the severance principle under section 25, the disclosure must still be meaningful (see
+ <FRAGMENT_SUPPRESSED> [2007] FCJ No 1218 [
+Blank 289
+]) and reasonably fulfill the purposes of the Act ( <FRAGMENT_SUPPRESSED> at paragraph 237). It submits the portions the applicant suggests to be severed would be "disconnected snippets of meaningless information" which does not fulfill the purpose of the Act. It urges this Court to not strain to surgically excise parts from a privileged communication, though of a general nature, are nonetheless part of that communication (see
+ <FRAGMENT_SUPPRESSED> [2007] FCJ No 523, [
+Blank 147
+]).
+VI.
+Analysis and Decision
+A.
+Issue 1 - What is the standard of review?
+[46]
+In the present case, the applicant and the respondent both agree on the applicable standards of review. First, the question of whether the Minister properly applied the exemption of solicitor-client privilege under section 23 of the Act is reviewable on the standard of correctness. Second, the reasonableness of the Minister's discretionary decision to refuse disclosure is reviewable on the standard of reasonableness (
+Industry
+at paragraph 47;
+Blank
+at paragraph 31; and
+MPSEP
+).
+B.
+Issue 2 - Do any of the records contain information that is subject to solicitor-client privilege?
+[47]
+The
+Access to Information Act
+serves to facilitate the right of access to information by requesters (
+National Defence
+at paragraph 15). It is fundamental to Canada's democratic process ( <FRAGMENT_SUPPRESSED> at paragraph 61). The Act recognizes that the information in the hands of government should be available to the public, but this right to access is subject to necessary exemptions (
+National Defence
+, at paragraphs 15 and 16). Section 23's solicitor-client privilege is a discretionary, class exemption. The exemption in section 23 ensures that the government has the same protection for its legal documents as persons in the private sector. It permits the head of a government institution to refuse to disclose records containing information subject to solicitor-client privilege. The burden of proving that an exemption applies rests on the party opposing disclosure (
+Toronto Sun
+at paragraph 9), which in this case is the respondent, Health Canada.
+[48]
+I agree with the respondent that the solicitor-client privilege should be analyzed in a continuum of communication and documents should not be examined in isolation. I find all except for one part of the records under judicial review are subject to the solicitor-client privilege. I will explain my reasons below.
+[49]
+Regarding statutory interpretation of section 23, the applicant submits a strict interpretation of solicitor-client privilege should be applied and the respondent counters the applicant's argument is flawed because statutory interpretation is not at issue since there is no ambiguity in the meaning of the term solicitor-client privilege. In my view, the respondent is right to argue the <FRAGMENT_SUPPRESSED> case relied on by the applicant can be distinguished because the Court of Appeal's interpretation was based on the ambiguity of the word "investigation." In that case, the Court of Appeal found the adoption of a broad interpretation of the word "investigation" would make the associated time limit in the statute meaningless ( <FRAGMENT_SUPPRESSED> at paragraph 26). Here, however, the term solicitor-client privilege is not ambiguous and it is well defined in case law.
+[50]
+Solicitor-client privilege is considered to be a cornerstone principle of the legal system ( <FRAGMENT_SUPPRESSED> at paragraph 14). It does not cover merely the opinions provided by counsel, but also applies to all the communications made to counsel by the client to obtain that advice, as well as advice given in the preparation of litigation. The Supreme Court of Canada has described this privilege as "nearly absolute" (see
+Lavallee, Rackel and  <FRAGMENT_SUPPRESSED> , citing with approval the decision of Dickson, J. in
+ <FRAGMENT_SUPPRESSED> ). Here, only one category of solicitor-client privilege is at issue: legal advice privilege.
+[51]
+Insofar as the legal advice privilege is concerned, the Supreme Court of Canada stated in <FRAGMENT_SUPPRESSED> that it can be claimed document by document with each document being required to meet three criteria: i) a communication between solicitor and client; ii) which entails the seeking or giving of legal advice; and iii) which is intended to be confidential by the parties. In my view, all except for one part of the documents at issue meet these criteria.
+[52]
+For the first prong of the <FRAGMENT_SUPPRESSED> test, I agree with the respondent that all the documents at issue contain communication between solicitor and client. Here, the applicant argues that many of the communications did not involve anyone who has been identified as a solicitor. The respondent argues the documents at issue contain communication between Health Canada as the client and the DOJ as the solicitor.
+[53]
+The protection of communication under the solicitor-client privilege is not limited to only those exchanged between the solicitor and client, but also those made in the context of that relationship and for the purpose of obtaining legal advice ( <FRAGMENT_SUPPRESSED> at paragraph 21). This includes communications made with the clerks and subordinates of the solicitor (
+Wheeler
+).
+[54]
+Here, I find the communication was conducted within the usual and ordinary scope of the professional solicitor-client relationship ( <FRAGMENT_SUPPRESSED> at paragraph 16). For example, the email strings bearing the subject line [...] involved nine people, some from the DOJ, among which was counsel David Cowie [...] in the email bearing the subject line [...]. Further, the respondent correctly points out that on examination of the submitted material, it reveals that on one of the OICC's earlier letters written to Health Canada dated January 26, 21012 acknowledged the communication was exchanged between Health Canada as the client and the DOJ as the solicitor. This shows that the applicant conceded the first prong of the test in its evidentiary document. Therefore, I find the documents at issue are between solicitor and client to meet the first prong of the test.
+[55]
+For the second prong of the <FRAGMENT_SUPPRESSED> test, with respect to all except for one part of the documents, I agree with the respondent that when the documents are examined in context, they qualify as legal advice. Here, the applicant argues that some of the communications do not qualify as legal advice sought or given because [...]. On the other hand, the respondent argues this Court should examine the documents in the continuum of communications in tendering legal advice. It also argues, [...].
+[56]
+Information should be examined not in isolation, but in a continuum of communication to consider the proper context (
+Samson
+at paragraph 9;
+Public Safety
+at paragraph 26). In this case, if the individual documents such as the emails and the patent search result are examined on their own, it does seem to me that [...]. However, within a continuum of communication, [...]. The background provided by the respondent shows [...].
+[57]
+In support, the respondent submits the following [...].
+[58]
+[...] I agree with the respondent that if these documents were disclosed, it would likely allow the requester to deduce solicitor-client privileged information regarding the Minister's legal authority to issue the NOC.
+[59]
+I find all except for one part of these documents relate to legal advice. The email string bearing the subject line [...] involves a counsel at the civil litigation section at the DOJ and a senior counsel at the Health Canada Legal Services. [...]. It also contains information on OPML which the applicant argues has nothing to do with Apo-Pantoprazole and rather, it is related to staffing. The respondent provides no response to what OPML is about. Therefore, if the applicant is right about what OPML means, this part of the document would not meet the second prong of the <FRAGMENT_SUPPRESSED> test and hence, not subject to the exemption under solicitor-client privilege.
+[60]
+For the third prong of the <FRAGMENT_SUPPRESSED> test, I agree with the respondent that the documents at issue contain confidential subject matter. On one hand, the applicant argues [...]. On the other hand, the respondent argues confidentiality should be based on the subject matter, not the associated markings.
+[61]
+The Federal Court of Appeal stated in
+Gateway
+at paragraph 29 that, "[i] n the case of most solicitor-client communications . . . the element of confidentiality is inferred on the basis of the subject of the communication and the surrounding circumstances." Here, except for the email string bearing the subject line [...] which involves a counsel from Health Canada and a counsel from the DOJ, [...]. However, [...] in my view, the subject matter of the communications in these undisclosed documents is confidential in nature. Therefore, the third prone of the <FRAGMENT_SUPPRESSED> test is met.
+[62]
+Since all except for one part of the documents meet each of the three prongs of the <FRAGMENT_SUPPRESSED> test, I find all the documents at issue except for the part relating to OPML are subject to the protection of the solicitor-client privilege and hence, exempted from disclosure.
+C.
+Issue 3 - If yes, did the Minister reasonably exercise its discretion in refusing disclosure of portions of the records?
+[63]
+As I have found above that all but one part of the documents properly fall under the solicitor-client privilege exemption, I will now examine the reasonableness of the Minister's exercise of discretion for waiving this exemption. The section 23 exemption was made discretionary to parallel the common law rule that the privilege belongs to the client, who is free to waive it.
+[64]
+The applicant argues the Minister failed to exercise its discretion reasonably because it [...] "... there is nothing in Ottawa." It further argues in the event that I find the documents do qualify under the solicitor-client privilege, I should invite the decision maker to re-exercise its discretion pursuant to the
+Public Safety
+case.
+[65]
+On the other hand, the respondent argues the Minister reasonably exercised its discretion in declining the release and provided sounded reasons for its consideration. It argues that since the nature of the solicitor-client privilege is so close to absolute, the Minister meets its obligation to exercise discretion as long as there is evidence that discretion was exercised.
+[66]
+I agree with the respondent that the Minister's discretion should be afforded deference. In this case, as demonstrated by the correspondence between Health Canada and the OICC, Health Canada did provide reasons on why it refused to accept the OICC's recommendation to disclose the documents at issue. Also, there is no evidence of any abuse of discretion. Therefore, I am satisfied that the Minister reasonably exercised its discretion.
+D.
+Issue 4 - Was the severance of information reasonable under section 25 of the Act?
+[67]
+This Court should not strain to surgically excise parts of a privileged communication, though of a general nature, are nonetheless part of that communication (see
+ <FRAGMENT_SUPPRESSED> [2007] FCJ No 523). Also, the exercise of the severance principle under section 25 needs to ensure the disclosure is meaningful (see
+Blank 289
+at paragraph 7) and reasonably fulfills the purposes of the Act ( <FRAGMENT_SUPPRESSED> at paragraph 237).
+[68]
+Here, the only part of the documents that would be subject to disclosure is the sentence relating to OPML in the email titled [...] exchanged between counsel. I am of the view that severance was properly exercised except that the above noted sentence should be severed.
+[69]
+For the reasons above, I would deny this application with the exception referenced in paragraphs 59 and 68 of these reasons.
+JUDGMENT
+[70]
+THIS COURT'S JUDGMENT is that
+:
+1. The application for judicial review is dismissed except for the OPML material referenced in paragraphs 59 and 62 of these reasons.
+2. The sentence relating to OPML in the email titled [...] exchanged between counsel is severed pursuant to section 25 of the Act and disclosed.
+3. The respondent shall have its costs of the application.
+ANNEX
+Relevant Statutory Provisions
+Access to Information Act
+, RSC 1985, c A-1
+23. The head of a government institution may refuse to disclose any record requested under this Act that contains information that is subject to solicitor-client privilege.
+...
+25. Notwithstanding any other provision of this Act, where a request is made to a government institution for access to a record that the head of the institution is authorized to refuse to disclose under this Act by reason of information or other material contained in the record, the head of the institution shall disclose any part of the record that does not contain, and can reasonably be severed from any part that contains, any such information or material.
+...
+42. (1) The Information Commissioner may
+(a) apply to the Court, within the time limits prescribed by section 41, for a review of any refusal to disclose a record requested under this Act or a part thereof in respect of which an investigation has been carried out by the Information Commissioner, if the Commissioner has the consent of the person who requested access to the record;
+23. Le responsable d'une institution fédérale peut refuser la communication de documents contenant des renseignements protégés par le secret professionnel qui lie un avocat à son client.
+...
+25. Le responsable d'une institution fédérale, dans les cas où il pourrait, vu la nature des renseignements contenus dans le document demandé, s'autoriser de la présente loi pour refuser la communication du document, est cependant tenu, nonobstant les autres dispositions de la présente loi, d'en communiquer les parties dépourvues des renseignements en cause, à condition que le prélèvement de ces parties ne pose pas de problèmes sérieux.
+...
+42. (1) Le Commissaire à l'information a qualité pour:
+a) exercer lui-même, à l'issue de son enquête et dans les délais prévus à l'article 41, le recours en révision pour refus de communication totale ou partielle d'un document, avec le consentement de la personne qui avait demandé le document;
+[End of document]

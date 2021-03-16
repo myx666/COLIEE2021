@@ -1,0 +1,178 @@
+ <FRAGMENT_SUPPRESSED> )
+Indexed  <FRAGMENT_SUPPRESSED> 
+Federal Court
+O'Keefe, J.
+September 26, 2007.
+Counsel:
+Peter W. Choe, for the plaintiffs/defendants by counterclaim;
+Warren Sprigings, for the defendant/plaintiff by counterclaim.
+Solicitors of Record:
+Gowling Lafleur Henderson LLP, Toronto, Ontario, for the plaintiffs/defendants by counterclaim;
+Hitchman & Sprigings, Toronto, Ontario, for the defendant/plaintiff by counterclaim.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+O'Keefe, J.
+: This is an appeal by the defendant, Sandoz Canada Incorporated (Sandoz) of an order of Prothonotary Lafrenière dated March 19, 2007 (the order) which granted a motion brought by the plaintiffs, Bayer Healthcare AG and Bayer Inc. (Bayer), to strike paragraphs 24, 25, 26 and 27 of Sandoz's statement of defence.
+[2]
+Sandoz has alleged that Canadian Patent 1,282,006 (the '006 Patent") is invalid on a number of grounds. Sandoz alleged at paragraphs 24 to 27 of the statement of defence that certain claims are broader than the invention disclosed. In making this submission, Sandoz relied on statements from an inventor made during the course of the prosecution of a U.S. patent application.
+[3]
+Paragraphs 24 to 27 of the statement of defence read:
+24. Claims 1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 and 27 of the '006 Patent cover infusion solutions containing 1 mol lactic acid to 1 mol of ciprofloxacin (hereinafter "1:1 Molar Claims"). Claims covering infusion solutions containing 1 mol of lactic acid to 1 mol of ciprofloxacin ("equimolar") or less than 1 mol of lactic acid to 1 mol of ciprofloxacin ("subequimolar") are broader than the invention made or disclosed.
+25. In a declaration dated April 18, 1989, the named inventor Peter Serno stated that the invention did not relate to solutions having a equimolar or subequimolar ratio of ciprofloxacin to lactic acid:
+5. I am familiar with the article of Gert Höffken et al., Pharmacokinetics of Ciprofloxacin after Oral and Parenteral Administration published in Antimicrobial Agents And Chemotherapy, March 1985, p. 375-379; and that
+. . . . .
+7. Due to the results of those tests I have to draw the following conclusions:
+Höffken describes solutions of ciprofloxacin lactate in a physiological sodium chloride solution. The molar ratio of ciprofloxacin to lactic acid is thus 1.
+The ciprofloxacin lactate concentration in Höffken's solutions is already close to the solubility limit at room temperature. Thus in repeated attempts to prepare formulations those obtained are in some cases still clear but in other cases already display cloudiness, depending on the batches of ciprofloxacin and lactic acid employed and other limiting conditions (Table 1).
+It was surprising and could not be predicted by the skilled man that the solubility problems which were also inherent in the Höffken solutions could be eliminated by adding an excess of a physiologically tolerated acid."
+26. In addition, as of the date of the April 18, 1989 declaration, the named inventors only had demonstrated that a molar ratio of 1.33:1 (mol of lactic acid: mol of ciprofloxacin) provided the stable solution. Accordingly, claims 7, 10, 22 and 23 which include within their scope molar ratios of less than 1.33:1 are also broader than the invention made or disclosed.
+27. As a result, the 1:1 Molar Claims and claims 7, 10, 22 and 23 are broader than the invention made by the named inventors.
+[4]
+The standard of review to be applied to discretionary orders of a prothonotary was stated by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (H.L.) at page 484, and Lacourcière J.A. in
+ <FRAGMENT_SUPPRESSED>  (Div. Ct.), discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonary was based upon a wrong principle or upon a misapprehension of the facts, or
+(b) they raise questions vital to the final issue of the case.
+Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretion based upon a wrong principle or upon a misapprehension of the facts), or where they raise questions vital to the final issue of the case, a judge ought to exercise his own discretion
+de novo
+. [MacGuigan J.A., at pp. 462-463; footnote omitted.]
+18. MacGuigan J.A. went on, at pp. 464-465, to explain that whether a question was vital to the final issue of the case was to be determined without regard to the actual answer given by the prothonotary:
+It seems to me that a decision which can thus be either interlocutory or final depending on how it is decided, even if interlocutory because of the result, must nevertheless be considered vital to the final resolution of the case. Another way of putting the matter would be to say that for the test as to relevance to the final issue of the case, the issue to be decided should be looked to before the question is answered by the prothonotary, whereas that as to whether it is interlocutory or final (which is purely a
+pro forma
+matter) should be put after the prothonotary's decision. Any other approach, is seems to me, would reduce the more substantial question of "vital to the issue of the case" to the merely procedural issue of interlocutory or final, and preserve all interlocutory rulings from attack (except in relation to errors of law).
+This is why, I suspect, he uses the words "they [being the orders] raise questions vital to the final issue of the case", rather than "they [being the orders] are vital to the final issue of the case". The emphasis is put on the subject of the orders, not on their effect. In a case such as the present one, the question to be asked is whether the proposed amendments are vital in themselves, whether they be allowed or not. If they are vital, the judge must exercise his or her discretion
+de novo
+.
+19. To avoid the confusion which we have seen from time to time arising from the wording used by MacGuigan J.A., I think it is appropriate to slightly reformulate the test for the standard of review. I will use the occasion to reverse the sequence of the propositions as originally set out, for the practical reason that a judge should logically determine first whether the questions are vital to the final issue: it is only when they are not that the judge effectively needs to engage in the process of determining whether the orders are clearly wrong. The test would now read:
+Discretionary orders of prothonotaries ought not be disturbed on appeal to a judge unless:
+a) the questions raised in the motion arevital to the final issue of the case, or
+b) the orders are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts.
+20. With respect to the test to be applied by this Court on an appeal from a judge's decision, the Supreme Court of Canada, in
+ <FRAGMENT_SUPPRESSED> , held at para. 18 that the Federal Court of Appeal may only interfere with the decision of the applications judge where the judge "had no grounds to interfere with the prothonotary's decision or, in the event such grounds existed, if [the judge's decision] was arrived at on a wrong basis or was plainly wrong".
+[5]
+This Court in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.) and in
+ <FRAGMENT_SUPPRESSED>  (F.C.) stated that a decision to strike certain paragraphs of a statement of defence and counterclaim is vital to the final issue of the case. I agree and therefore, I must exercise my own discretion
+de novo.
+[6]
+The Prothonotary's decision reads in part as follows:
+The Defendant argues that statements made during prosecution of corresponding patent applications in other countries may be relevant to the issues of what the inventor had invented. This broad proposition is not supported by any case law, and fails to take into account the decision of the Supreme Court of Canada in
+Free World Trust
+v.
+Électro Santé ,
+2000 S.C.C. 66, which held that patent file wrappers, including representations by inventors, are not admissible in Canada to construe patent claims. The Supreme Court of Canada recognized that there may be circumstances where the prosecution history could be relevant, but only for purposes other than defining the scope of the grant of the monopoly. Justice Blais reached the same conclusion in
+ <FRAGMENT_SUPPRESSED>  at paragraphs 77 to 86.
+The allegations in paragraphs 24 to 27 of the Statement of Defence and Counterclaim are solely based on an inventor's declaration from the US File History. In considering the impugned paragraphs of the Statement of Defence and Counterclaim and the proposed use of the inventor's statement therein, I conclude that such reliance contravenes the clear direction from the Supreme Court of Canada in
+Free World Trust
+. I am therefore satisfied that it is plain and obvious that paragraphs 24, 25, 26, and 27 from the Statement of Defence and Counterclaim do not constitute a reasonable defence, and should be struck.
+THIS COURT ORDERS that:
+1. Paragraphs 24, 25, 26, and 27 from the Statement of Defence and Counterclaim are hereby struck, with leave to amend provided the amendment does not contravene the reasons for this Order.
+2. The Defendant/Plaintiff by Counterclaim shall serve and file its amended Statement of Defence and Counterclaim within ten days of the issuance of this Order.
+3. The Plaintiff/Defendant by Counterclaim shall serve and file its Reply to Defence and Counterclaim within ten days of service of the Defendant/Plaintiff by Counterclaim's amended Statement of Defence and Counterclaim.
+4. Costs of this motion are fixed in the amount of $1,000, and are awarded to the Plaintiffs/Defendants by Counterclaim in any event of the cause.
+[7]
+General Principles for Striking Pleadings
+Rule 221(1)(a) of the
+Federal Courts Rules
+, SOR/2004-283 states:
+221.(1) On motion, the Court may, at any time, order that a pleading, or anything contained therein, be struck out, with or without leave to amend, on the ground that it
+(a) discloses no reasonable cause of action or defence, as the case may be,
+. . . . .
+and may order the action be dismissed or judgment entered accordingly.
+221.(1) À tout moment, la Cour peut, sur requête, ordonner la radiation de tout ou partie d'un acte de procédure, avec ou sans autorisation de le modifier, au motif, selon le cas:
+a) qu'il ne révèle aucune cause d'action ou de défense valable;
+. . . . .
+Elle peut aussi ordonner que l'action soit rejetée ou qu'un jugement soit enregistré en conséquence.
+[8]
+It is generally accepted that the test to strike out pleadings is whether it is plain and obvious that the claim discloses no reasonable cause of action or in this case, a defence (see
+ <FRAGMENT_SUPPRESSED> ).
+[9]
+In this case, Sandoz relies on statements of the inventor made during the course of the prosecution of an US patent application to show that certain claims of the patent are broader than the invention disclosed.
+[10]
+According to
+Hughes and Woodley on Patents
+, Second Edition (Markham, Ontario: LexisNexis, 2005), at paragraph 25:
+2. The Disclosure
+Subsection 27(3) of the
+Patent Act
+lies at the heart of the whole patent system. The description of the invention provided for therein is the
+quid pro quo
+for which the inventor is given a monopoly for a limited term of years on the invention; it is to give to the public adequate details as will enable a workman skilled in the art to which the invention relates to construct or use that invention when the period of the monopoly has expired. In essence what is called for in the specification (including both disclosure and claims) is a description of the invention and the method of producing and constructing it, coupled with a claim or claims which state those novel features in which the applicant wants the exclusive right; the specification must define the precise and exact extent of the exclusive property and privilege claimed. The Act requires that an applicant file a specification, including disclosure and claims, whereby everything that is essential for the invention to function properly is disclosed. To be complete it must meet two conditions: it must describe the invention and define the way it is produced or built; and it must define the nature of the invention and how to put it into operation. Failure to define the first would render the application invalid for ambiguity; failure to meet the second renders it invalid for insufficiency. The description must be full enough to enable a person skilled in the art to produce the invention using only the disclosure in the patent.
+[11]
+The specification part of the patent must show and describe the invention and define the way it is produced or built. As well, it must define the nature of the invention and how to put it into operation.
+[12]
+Another part of the specification is the claims. Subsection 27(4) of the
+Patent Act
+,  <FRAGMENT_SUPPRESSED> that:
+42. The content of a patent specification is regulated by s. 34 of the Patent Act. The first part is a "disclosure" in which the patentee must describe the invention "with sufficiently complete and accurate details as will enable a workman, skilled in the art to which the invention relates, to construct or use that invention when the period of the monopoly has expired":  <FRAGMENT_SUPPRESSED> , at p. 517. The disclosure is the
+quid
+provided by the inventor in exchange for the
+quo
+of a 17-year (now 20-year) monopoly on the exploitation of the invention. The monopoly is enforceable by an array of statutory and equitable remedies and it is therefore important for the public to know what is prohibited and where they may safely go while the patent is still in existence. The public notice function is performed by the claims that conclude the specification and must state "distinctly and in explicit terms the things or combinations that the applicant regards as new and in which he claims an exclusive property or privilege" (s. 34(2))". An inventor is not obliged to claim a monopoly on everything new, ingenious and useful disclosed in the specification. The usual rule is that what is not claimed is considered disclaimed.
+43. The first step in a patent suit is therefore to construe the claims. Claims construction is antecedent to consideration of both validity and infringement issues. The appellants' argument is that these two inquiries -- validity and infringement -- are distinct, and that if the principles of "purposive construction" derived from
+Catnic
+are to be adopted at all, they should properly be confined to infringement issues only. The principle of "purposive construction", they say, has no role to play in the determination of validity, and its misapplication is fatal to the judgment under appeal.
+[14]
+In
+Free World Trust
+v.
+Électro Santé Inc.
+2000 S.C.J. No. 67, the Supreme Court of Canada stated at paragraphs 64, 65, 66 and 67:
+64. The use of file wrapper estoppel in Canada was emphatically rejected by Thorson P. in
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at p. 349. No distinction is drawn in this regard between cases involving allegations of literal infringement and those involving substantive infringement.
+65. Counsel for Procter & Gamble Inc. argues that prosecutions history ought to be admissible in some circumstances in the interest of obtaining consistent claims interpretation here and in the United States, where many Canadian patents have their origin. There is some nourishment for this proposition in commentary by other experienced practitioners (e.g., D. W. Scott, "
+The Record of Proceedings in the Patent Office in Canada & Foreign Countries as Evidence in Infringement & Validity Contests
+" (1985-86), 2 C.I.P.R. 160). References to the intention of the inventor in
+Catnic
+,
+supra
+, and
+O'Hara
+,
+supra
+, are said to leave the door ajar to the possibility of reconsideration.
+66. In my view, those references to the inventor's intention refer to an objective manifestation of that intent in the patent claims, as interpreted by the person skilled in the art, and do not contemplate extrinsic evidence such as statements or admissions made in the course of patent prosecution. To allow such extrinsic evidence for the purpose of defining the monopoly would undermine the public notice function of the claims, and increase uncertainty as well as fuelling the already overheated engines of patent litigation. The current emphasis on purposive construction, which keeps the focus on the language of the claims, seems also to be inconsistent with opening the pandora's box of file wrapper estoppel. If significant representations are made to the Patent Office touching the scope of the claims, the Patent Office should insist where necessary on an amendment to the claims to reflect the representation.
+67. This is not to suggest that prosecution history can never be relevant for a purpose other than defining the scope of the grant of the monopoly:
+ <FRAGMENT_SUPPRESSED>  (F.C.T.D.), at p. 47. That point does not arise in this case for decision and lies outside the scope of these reasons.
+[15]
+The Court also stated in
+Free World Trust
+at paragraph 31:
+31. The appeal thus raises the fundamental issue of how best to resolve the tension between "literal infringement" and "substantive infringement" to achieve a fair and predictable result. There has been considerable discussion of this issue in Canada and elsewhere, which I will discuss briefly in support of the following propositions:
+(a) The Patent Act promotes adherence to the language of the claims.
+(b) Adherence to the language of the claims in turn promotes both fairness and predictability.
+(c) The claim language must, however, be read in an informed and purposive way.
+(d) The language of the claims thus construed defines the monopoly. There is no recourse to such vague notions as the "spirit of the invention" to expand it further.
+(e) The claims language will, on a purposive construction, show that some elements of the claimed invention are essential while others are non-essential. The identification of elements as essential or non-essential is made:
+(i) on the basis of the common knowledge of the worker skilled in the art to which the patent relates;
+(ii) as of the date the patent is published;
+(iii) having regard to whether or not it was obvious to the skilled reader at the time the patent was published that a variant of a particular element would not make a difference to the way in which the invention works; or
+(iv) according to the intent of the inventor, expressed or inferred from the claims, that a particular element is essential irrespective of its practical effect;
+(v) without, however, resort to extrinsic evidence of the inventor's intention.
+(f) There is no infringement if an essential element is different or omitted. There may still be infringement, however, if non-essential elements are substituted or omitted.
+[16]
+Accordingly, it would appear that the jurisprudence does not allow the use of the type of extrinsic evidence referred to by Sandoz in the impugned paragraphs of the statement of defence.
+[17]
+It seems to be that the specification of the patent must be construed in the manner described by the Supreme Court of Canada to determine whether the claims are broader than the invention disclosed. The invention disclosed can be determined in this case by reference to the description and the monopoly sought by construing the claims.
+[18]
+Based on the above, I am of the view that the Prothonotary was correct when he struck paragraphs 24, 25, 26 and 27 of the statement of defence. As stated by Justice Richard in
+Eli Lily and Co. et al.
+above at paragraph 10: "The Court will only strike pleadings in plain and obvious cases where the case is beyond doubt . . .". I am of the opinion this is such a case; the extrinsic evidence on which the paragraphs rely is not admissible under Canadian patent law. There would be useful purpose to keep these paragraphs in the statement of defence.
+[19]
+The order of Prothontary Lafrenière is upheld and the Sandoz's appeal is dismissed.
+[20]
+The parties shall have ten days from the date of this decision to make written submissions on costs and a further ten days for any reply.
+[21]
+Sandoz shall have fourteen days from the date of this decision to file a twice amended statement of defence and counterclaim.
+[22]
+Bayer shall have fourteen days from the date of serving of the twice amended statement of defence and counterclaim to serve its reply to the amended defence and counterclaim.
+JUDGMENT
+[23]
+IT IS ORDERED that
+:
+1. The order of Prothontary Lafrenière is upheld and Sandoz's appeal is dismissed.
+2. The parties shall have ten days from the date of this decision to make written submissions on costs and a further ten days for any reply.
+3. Sandoz shall have fourteen days from the date of this decision to file a twice amended statement of defence and counterclaim.
+4. Bayer shall have fourteen days from the date of serving of the twice amended statement of defence and counterclaim to serve its reply to the amended defence and counterclaim.
+[End of document]

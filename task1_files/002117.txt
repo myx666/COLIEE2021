@@ -1,0 +1,244 @@
+INTRODUCTION
+[1]
+Heneghan, J.
+: Canada Post Corporation (the "Applicant") seeks judicial review of the decision of the Minister of Public Works and Government Services Canada (the "Respondent"), dated July 18, 2002. In that decision, the Respondent decided to release portions of certain records relating to the Applicant, in a severed form, on the grounds that the records were partially exempt from disclosure pursuant to the
+Access to Information Act
+, R.S.C. 1985, c. A-1 (the "
+Act
+"), subsection 20(1)(b).
+BACKGROUND
+[2]
+On August 27, 2001, the Respondent received a letter dated August 24, 2001, together with the required fee, containing fourteen requests for records under the
+Act
+. The requests were referred to Ms. Anita Lloyd, Access to Information and Privacy ("ATIP") Coordinator with the Respondent, a duly authorized delegate under the
+Act
+to respond to requests for information. Ms. Lloyd confirmed, by telephone conversation and correspondence, the records that were requested and subsequently, the Respondent and the requester agreed to consolidate the requests under A-2001-00359 to A-2001-00370 into one request, that is A-2001-00359.
+[3]
+The Respondent determined that the records in question were available from Government Telecommunications and Informatics Services ("GTIS") and Government Operations Service ("GOS"), and the ATIP staff requested those entities to provide the records. Following review of the records, the Respondent determined that they contained "third party information" within the meaning of the
+Act
+, relative to the Applicant. By letter dated December 5, 2001, Ms. Lloyd advised the requester that third party consultation was required.
+[4]
+By letter dated April 25, 2002, the Respondent informed the Applicant that pursuant to sections 27 and 28 of the
+Act
+, a request had been made for disclosure of the following records: "Government On-Line (GOL) that included the attached record". In this letter, the Respondent requested the Applicant to provide information relative to the requested information. The Applicant replied to the Respondent by letter dated May 17, 2002 and objected to the disclosure of the requested records.
+[5]
+According to the public affidavit filed in this proceeding by Mr. Robert Fletcher, an ATIP officer with the Respondent who was responsible for dealing with the request for the information, he conducted an internet search to determine whether any of the information contained in the requested records was available in the public domain. He further deposed that the decision to release the requested records was made after reviewing the Applicant's representations and the information collected from the internet. The Respondent concluded that the Applicant had not provided sufficient justification to withhold disclosure of the information pursuant to section 20 of the
+Act
+. The Respondent notified the Applicant of its decision to release the records, albeit in a severed form, by letter dated July 18, 2002.
+[6]
+On August 7, 2002, the Applicant commenced this application for judicial review of the Respondent's decision. A protective order was issued on September 23, 2002 and later amended to allow the Applicant and Respondent, respectively, to file public and confidential affidavits. The Applicant filed the confidential affidavit of Mr. Dean Pope, as well as a public version of that affidavit. The Respondent filed the confidential affidavit of Mr. Robert Fletcher, as well as a public version of that affidavit.
+[7]
+There are two records at issue in this proceeding. One I will refer to as the disputed letter, the other as the disputed strategy document.
+ISSUES
+[8]
+Are the records in question exempt from disclosure pursuant to subsection 20(1)(b) of the
+Act
+as being confidential, commercial or technical information supplied to the Respondent?
+[9]
+Are the records in issue exempt from disclosure pursuant to subsection 20(1)(c) of the
+Act
+in that their disclosure would result in a "reasonable expectation of probable harm" by prejudicing the competitive position of the Applicant, or result in a material financial loss to the Applicant, or a material financial gain to its competitors?
+SUBMISSIONS
+i) Applicant's Submissions
+[10]
+The Applicant argues that the records are exempt under both subsections 20(1)(b) and 20(1)(c). In relation to subsection 20(1)(b), it argues that it has met the test that is set out in
+ <FRAGMENT_SUPPRESSED>  (T.D.). First, it submits that the information contained in the requested records was created by a commercial enterprise for commercial purposes, that is possible involvement in a government project and the marketing of a commercial service. The Applicant also relies on
+ <FRAGMENT_SUPPRESSED>  (T.D.), affd. (2002), 299 N.R. 224 (F.C.A.), where work done as part of a commercial enterprise was held to be regarded as "commercial information".
+[11]
+Second, the Applicant argues that the records in issue are "confidential in nature" because there is no evidence before the Court that the records are in the public domain. Further, it argues that the contents relate to a major business venture that the Applicant considers important for its future potential income and that it has previously expressed concern about the public disclosure of the records, such as in the letter dated May 15, 2000, one of the two records in dispute in this proceeding.
+[12]
+Third, it is clear that the Applicant supplied the records in issue to a government institution. Finally, the Applicant says that it has consistently treated the records in a confidential manner, as demonstrated by the execution of mutual non-disclosure agreements with other parties. Examples of these agreements are attached as exhibits to the affidavit of Mr. Pope. As well, the Applicant argues that both records were provided to the Respondent on a confidential basis.
+[13]
+As for subsection 20(1)(c) of the
+Act
+, the Applicant submits that the records are exempt from disclosure because disclosure can reasonably be expected to prejudice its competitive position or result in material financial gain to its competitors or material financial loss to the Applicant. Relying on
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), where the Federal Court of Appeal interpreted subsection 20(1)(c) as requiring proof on a balance of probabilities that a person would sustain a "reasonable expectation of probable harm" if disclosure were granted, the Applicant says that the affidavit of Mr. Pope meets that evidentiary burden.
+ii) Respondent's Submissions
+[14]
+The Respondent takes the position that, having regard to the purpose of the
+Act
+, the public has a right of access to information contained in government records and that exception to this right should be limited and specific. The Respondent refers to jurisprudence where this Court has held that a party resisting disclosure carries a heavy burden in establishing that information in records is exempt from disclosure. In this regard, the Respondent relies on
+ <FRAGMENT_SUPPRESSED>  (T.D.), and
+ <FRAGMENT_SUPPRESSED>  (F.C.A.).
+[15]
+In response to the Applicant's arguments on the basis of subsection 20(1)(b), the Respondent says that whether information is considered "confidential" must be established objectively. It is insufficient for a third party to simply assume that information is confidential. The fact that the Applicant and the Respondent have treated the information as confidential, to date, is not determinative of its status as confidential information but is only one part of the test pursuant to section 20(1)(b); see
+Société Gamma
+, supra.
+[16]
+As well, the fact that records contain an express provision stating that the information is not to be disclosed without the permission of the third party is not determinative of the statutory disclosure obligations: see
+ <FRAGMENT_SUPPRESSED>  (T.D.).
+[17]
+The Respondent argues that the information in the records here in issue is not confidential information pursuant to section 20(1)(b). The information was created and communicated to the Respondent for the purpose of expressing the Applicant's interest in bidding on a government contract and the Applicant was ultimately successful in that regard. Again, relying on
+Société Gamma
+, supra, the Respondent submits that generally, a proposal for a government contract should not be immune from disclosure after the contract has been granted and the parties submitting tenders should not expect that their proposals will be "... fully insulated from the disclosure obligations of the Government of Canada as part of its accountability" (para. 8
+Société Gamma
+, supra).
+[18]
+The Respondent also argues that the Applicant was advised that the provision of information to the government would not be kept confidential. Notwithstanding this caution, the Applicant chose to disclose the information to the Respondent, knowing that it was not subject to a confidentiality agreement. In these circumstances, the Respondent argues that the Applicant was aware that there was no undertaking by the government to treat the information as confidential.
+[19]
+The Respondent argues that the Applicant has failed to show, on the balance of probabilities, that a reasonable expectation of probable harm will flow from disclosure of the records in issue, as required by section 20(1)(c) of the
+Act
+. Relying on
+ <FRAGMENT_SUPPRESSED>  (T.D.), and
+ <FRAGMENT_SUPPRESSED>  (T.D.), the Respondent argues that speculation or the mere possibility of harm is insufficient to meet the exemption in subsection 20(1)(c). It says that an applicant must do more than simply affirm in an affidavit that disclosure would result in financial loss and interfere with contractual and other negotiations. Therefore, in the present case, the Respondent argues that the evidence submitted by the Applicant does not establish, on a balance of probabilities, that release of the requested information would result in a reasonable expectation of probable harm to the Applicant.
+[20]
+The Respondent says that the disputed letter does not contain any proprietary or confidential information relating to the Applicant's pending business strategy. Since that letter says that the Applicant is unwilling to release any confidential information in the absence of a confidentiality agreement, the Respondent says that it is reasonable to conclude that the letter does not contain information that would come within the exemption of subsection 20(1)(c).
+[21]
+As for the second record in issue, the disputed strategy document, the Respondent says that this contains information that is general in nature. As well, information relating to the technical characteristics of the Applicant's product have been exempted from disclosure and severed from the disputed strategy document by the Respondent.
+[22]
+The Respondent also notes that the Applicant has acknowledged that the evidence before the Court does not show that the Applicant is currently fairly competitive in relation to its "new" product. In this absence of competition, the Respondent characterizes the potential loss of competitive advantage and financial loss as "mere speculation" that does not justify exemption from disclosure pursuant to subsection 20(1)(c).
+[23]
+The Respondent submits that it has properly severed the records in dispute. Once a determination has been made that some of the material contained in the records is exempt pursuant to the
+Act
+, then the head of a government institution must determine whether any part of the record can reasonably be severed: see
+ <FRAGMENT_SUPPRESSED>  (F.C.A.). The severance exercise was properly conducted in this case.
+ANALYSIS
+[24]
+It is now well established that in a case involving the availability of an exemption from disclosure of information, pursuant to section 20 of the
+Act
+, the applicable standard of review is correctness. That issue was recently addressed by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), where the Court stated the following at paragraphs 11 to 15:
+"Based on the pragmatic and functional approach, the standard of review applicable to the Minister's decision is correctness. While different provisions of the
+Act
+were engaged, a similar analysis was carried out by Evans, J., in
+3430901 v. Canada (Ministry of Industry)
+, [2002] 1 F.C. 421 (C.A.), and Gonthier, J., in
+ <FRAGMENT_SUPPRESSED>  [2003] S.C.J. No. 7.
+"The statutory right to review supports a more searching standard. First, there is no privative clause in the
+Act
+. Second, there is an explicit review provision. Subsection 44(1) grants a third party the right to have the Federal Court review a decision made by the head of a government institution. Third, subsection 2(1) of the
+Act
+indicates that a less deferential standard of review should apply. Subsection 2(1), the purpose clause, expressly provides for a review of refusals of access which are independent of the government whether by the Information Commissioner or the Federal Court:
+. . . . .
+"Accordingly, the absence of a privative clause, in conjunction with the explicit provision for the Court to review refusals of access and the importance ascribed by the purpose clause in the
+Act
+to independent review are indicative of a less deferential standard of review: Evans, J., in
+3430901
+, supra, at para. 34 and Gonthier, J., in
+ <FRAGMENT_SUPPRESSED>  no greater expertise than the Court, a less deferential standard of review is warranted. The Minister, through the specialized departmental unit referred to as the Access Office, does have expertise in responding to access to information requests. However, the Access Office has no more expertise than the Court which often interprets and applies statutory exemptions. The Court is better skilled in balancing the public's right to disclosure against the individual's right to confidentiality. Further, as Evans, J., aptly explained in
+3430901
+, supra, at para. 36: '... if the Court were to confine its duty ... to review ministerial refusals to access requests by deferring to ministerial interpretations and applications of the
+Act
+, it would, in effect, be putting the fox in charge of guarding the henhouse.' The greater expertise of the Court supports less deference.
+"As stated above, the independent review purpose in subsection 2(1) of the
+Act
+is advanced by adopting a correctness standard. Further, the provision at issue in this case, subsection 20(1), is a mandatory and not a discretionary provision which also points to a less deferential standard of review.
+"Finally, the nature of the question is one of mixed fact and law. The Minister is required to interpret the exemptions available pursuant to subsection 20(1) and to determine on the facts whether the information must be exempted. While the nature of the question suggests greater deference, when weighed against the other three factors, a standard of review of correctness is warranted."
+[25]
+In my opinion, the above reasoning applies in the present situation, as I can see no material difference between the expertise of the government institution that was responsible for the access to information decision  <FRAGMENT_SUPPRESSED> - <FRAGMENT_SUPPRESSED> , and the Respondent in the present case.
+[26]
+ <FRAGMENT_SUPPRESSED>  (T.D.), Justice Rothstein (as he then was) held that the
+Act
+imposes a "heavy burden" upon the party seeking to prevent disclosure. This burden flows from the purpose of the
+Act
+as set out in section 2(1) as follows:
+"The purpose of this Act is to extend the present laws of Canada to provide a right of access to information in records under the control of a government institution in accordance with the principles that government information should be available to the public, that necessary exceptions to the right of access should be limited and specific and that decisions on the disclosure of government information should be reviewed independently of government."
+"La présente loi a pour objet d'élargir l'accès aux documents de l'administration fédérale en consacrant le principe du droit du public à leur communication, les exceptions indispensables à ce droit étant précises et limitées et les décisions quant à la communication étant susceptibles de recours indépendants du pouvoir exécutif."
+[27]
+The presence of the word "shall" in section 20 suggests that no deference is to be shown to the head of the government institution who reviews the records in question before making a decision to disclose or otherwise. Section 20(1) provides as follows:
+"Subject to this section, the head of a government institution shall refuse to disclose any record requested under this Act that contains
+(a) trade secrets of a third party;
+(b) financial, commercial, scientific or technical information that is confidential information supplied to a government institution by a third party and is treated consistently in a confidential manner by the third party;
+(c) information the disclosure of which could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, a third party; or
+(d) information the disclosure of which could reasonably be expected to interfere with contractual or other negotiations of a third party."
+"Le responsable d'une institution fédérale est tenu, sous réserve des autres dispositions du présent article, de refuser la communication de documents contenant:
+a) des secrets industriels de tiers;
+b) des renseignements financiers, commerciaux, scientifiques ou techniques fournis à une institution fédérale par un tiers, qui sont de nature confidentielle et qui sont traités comme tels de façon constante par ce tiers;
+c) des renseignements dont la divulgation risquerait vraisemblablement de causer des pertes ou profits financiers appréciables à un tiers ou de nuire à sa compétitivité;
+d) des renseignements dont la divulgation risquerait vraisemblablement d'entraver des négociations menées par un tiers en vue de contrats ou à d'autres fins."
+[28]
+Notwithstanding the statutory language that imposes a mandatory duty upon the head of a government institution to refuse disclosure pursuant to section 20(1), the burden of showing that a record falls within an excepted class lies upon the party seeking to prevent disclosure. In
+Maislin Industries Ltd.
+, supra, the Court commented upon the burden of proof, at pages 942-3, as follows:
+"There was no disagreement that the burden of proof rests upon the applicant Maislin. It should be emphasized however, that since the basic principle of these statutes is to codify the right of public access to Government information two things follow: first, that such public access ought not be frustrated by the courts except upon the clearest grounds so that doubt ought to be resolved in favour of disclosure; second, the burden of persuasion must rest upon the party resisting disclosure whether, as in this case, it is the private corporation or citizen, or in other circumstances, the Government."
+[29]
+This decision, as well as the later decision in
+ <FRAGMENT_SUPPRESSED>  pursuant to section 20(1) lies upon the party resisting disclosure, in this case, the Applicant. That burden is proof on the balance of probabilities, as discussed in
+ <FRAGMENT_SUPPRESSED>  (T.D.), and
+St. Joseph Corp.
+, supra, the Court reviewed the criteria that must be met in order to qualify for this 20(1)(b) exemption. First, the information must relate to financial, commercial, scientific or technical matters as those terms are commonly understood. Secondly, the information must be confidential in nature, assessed against an objective standard that takes into account the context of the information, its purposes and the conditions under which it was prepared and communicated. Third, the information must be supplied to a government institution by a third party. Fourth, the information must be consistently treated as confidential by the third party.
+[31]
+While I am satisfied that the records in issue constitute "commercial information" as that term is generally understood, I am not satisfied that the information is confidential in nature, having regard to the indicia of confidentiality described by the Court in
+Air  <FRAGMENT_SUPPRESSED> , that is whether the information content is already available to the public, whether the information originated and was communicated in a reasonable expectation of confidence that it would not be disclosed and whether the relationship between the government institution and the third party would be fostered for the public benefit in keeping the information confidential.
+[32]
+The first factor mentioned in
+Air  <FRAGMENT_SUPPRESSED> , is whether the information content is already available to the public. While this argument was raised in the Respondent's written representations filed in its public Application Record, it was not vigorously pursued at the hearing. It is not a strong argument and on the basis of the evidence submitted by both parties it does not appear that the information contained in the disputed records is in the public domain. The content of the records concerns an important commercial venture for the Applicant and the evidence shows that the Applicant expressed concern when providing the records to Public Works that it did not want to risk public disclosure of this information.
+[33]
+However, that does not end the matter. While the manner in which that information was compiled was apparently done on a confidential basis, the manner in which the information was communicated to Public Works does not show, in my opinion, that the Applicant held a reasonable expectation of confidence that the information would not be disclosed at some future time. Indeed, the disputed letter indicates that Public Works had said that it could provide no guarantee of non-disclosure of the records. The evidence in this case is insufficient to meet the second criteria of confidentiality, as discussed in
+Air  <FRAGMENT_SUPPRESSED> .
+[34]
+Moreover, I am not satisfied that the third criterion identified in
+Air  <FRAGMENT_SUPPRESSED> , that is, whether the relationship between the government institution and the third party would be fostered for the public benefit in keeping the information confidential, is applicable to the present case. Some of the information related to the Applicant's bid for a government contract and I can see no benefit to the public that would be lost in not disclosing the information at issue.
+[35]
+Moving now to the third branch of the test as summarized in
+St. Joseph Corp.
+, supra, it is clear that the records in issue were provided to a government institution, that is Public Works, by a third party, that is the Applicant.
+[36]
+Finally, the Applicant submitted a great deal of evidence to demonstrate that the records in issue were frequently, but not consistently, treated in a confidential manner. That evidence appears, in some cases, as attachments to the confidential affidavit, filed by the Applicant. However, I agree with the Respondent's argument that the Applicant failed to "consistently" treat the information as confidential when it provided the records at issue to Public Works, knowing that the information was not subject to a confidentiality agreement or any undertaking from the Respondent that the information would be maintained and treated on a confidential basis.
+[37]
+The facts here are significantly different from the situation  <FRAGMENT_SUPPRESSED> ,  <FRAGMENT_SUPPRESSED> . In that case, there was affidavit evidence from the third party referring to several meetings with the government institution from which the third party was led to understand and expect that its information would be kept confidential. In the present situation, however, it is clear from the disputed letter that no such basis for an expectation of confidentiality existed.
+[38]
+In
+Société Gamma
+, supra, the Court also dealt with records that had been submitted to a government institution in response to a call for proposals for a government contract for the provision of services. The Court said as follows at paragraph 8:
+"... One must keep in mind that these Proposals are put together for the purpose of obtaining a government contract, with payment to come from public funds. While there may be much to be said for proposals or tenders being treated as confidential until a contract is granted, once the contract is either granted or withheld there would not, except in special cases, appear to be a need for keeping tenders secret. In other words,
+when a would-be contractor sets out to win a government contract he should not expect that the terms upon which he is prepared to contract, including the capacities his firm brings to the task, are to be kept fully insulated from the disclosure obligations of the Government of Canada as part of its accountability
+. The onus as has been well established is always on the person claiming an exemption from disclosure to show that the material in question comes within one of the criteria of subsection 20(1) and I do not think that the claimant here has adequately demonstrated that, tested objectively, this material is of a confidential nature ..." (Emphasis added)
+[39]
+In the present case, the Applicant provided information to Public Works for the purpose of expressing its interest in bidding on a government contract. It was ultimately successful in obtaining the contract as part of a consortium. The reasoning  <FRAGMENT_SUPPRESSED>  Gamma
+, supra, is equally applicable here.
+[40]
+The public policy rationale underlying the
+Act
+is that the disclosure of information provided to a government institution is the rule not the exception. The tendering process for government contracts is subject to the
+Act
+. A potential bidder for a government contract knows, or should know, when submitting documents as part of the bidding process that there is no general expectation that such documents will remain fully insulated from the government's obligation to disclose, as part of its accountability for the expenditure of public funds. In this context, the Applicant's claim that it held an "expectation" that its records would be held in confidence, based on the disputed letter, is unreasonable.
+[41]
+The Applicant also advanced an argument that the fact that the Respondent severed certain portions of the challenged records, on the basis of its status as confidential material, is an implicit recognition by the Respondent that the records, in total, contain confidential information, thereby justifying an exemption from disclosure pursuant to subsection 20(1)(b). In my opinion, that argument is without merit, in light of the decision of the Federal Court of Appeal in <FRAGMENT_SUPPRESSED> , supra.
+[42]
+In <FRAGMENT_SUPPRESSED> , supra, the Court spoke about the duty of the head of a government institution, in responding to an access to information request, to first determine if the requested information falls within the parameters of subsection 20(1)(b). If it does, the properly authorized delegate of the government institution is to determine if the records can be severed. At paragraph 25, the Court said as follows:
+"However, what is crucial and determinative in this factual scenario is the failure by the delegate of the institutional head to enter into the necessary examination of the material requested in order to decide what did and what did not fit squarely within the four corners of paragraph 21(1)(b)."
+[43]
+On the basis of the evidence before me, I conclude that here the head of the government institution correctly assessed the nature of the records in issue. The determination that certain parts of the records could be severed was properly made. The determination with respect to severance does not change the fact that the Applicant has failed to adduce probative evidence that the remainder of the records qualify for the exemption in subsection 20(1)(b).
+[44]
+The remaining issue is whether the Applicant has met the test for exemption against disclosure pursuant to subsection 20(1)(c). According to the jurisprudence, an exemption from access pursuant to this subsection requires proof, on a balance of probabilities, of a "reasonable expectation of probable harm":
+Canada Packers Inc.
+, supra, and
+ <FRAGMENT_SUPPRESSED>  (T.D.), at 36, affd. (1990), 107 N.R. 89 (F.C.A.).
+[45]
+Affidavit evidence that is vague or speculative is insufficient to establish the reasonable expectation of probable harm that is required pursuant to subsection 20(1)(c); see
+SNC- <FRAGMENT_SUPPRESSED> , and
+Canadian Broadcasting Corporation
+, supra.
+[46]
+I acknowledge the affidavit evidence filed by the Applicant as part of the confidential Application Record contains many details concerning the alleged harm that could enure to the Applicant if the records were disclosed. However, the detail of an affidavit is not determinative of whether certain records meet the criteria for exemption pursuant to subsection 20(1)(c).
+[47]
+In
+Canadian Broadcasting Corporation
+, supra, the Court said the following at paragraphs 25 and 28:
+" <FRAGMENT_SUPPRESSED> , at page 127 (F.C.T.D.), the court held the applicant cannot merely affirm by affidavit that disclosure would cause the harm discussed in paragraph 20(1)(c) of the
+Act
+. The court stated that these affirmations are the very findings that the court must make and so further evidence establishing probable harm is needed.
+. . . . .
+"It is also not enough to merely speculate that the applicant may suffer some probable harm if the requested information is made public."
+[48]
+The Applicant relies on
+ <FRAGMENT_SUPPRESSED>  (T.D.), where the court upheld the decision of Public Works to refuse disclosure of requested information because such information was properly exempt from disclosure pursuant to subsection 20(1)(c).
+[49]
+In my opinion, the nature of the information at issue in
+Culver
+, supra, is different from the nature of the information before the Court here.
+Culver
+, supra, involved information on Standard Aero's bids for various government contracts to repair military aircraft engines, including the numbers of hours to be put into various portions of the contracts and the corresponding unit price and hourly and monthly rates charged in completing the contracts. This information would allow competitors to determine the actual profit that would be made by Standard Aero and its costs in completing the contracts. In that case, there was more than a reasonable expectation that its competitors would use such information to undercut Standard Aero's position in bidding for government contracts. The affidavit evidence in Standard Aero also indicated that the requester was employed by a subsidiary of one of Standard's competitors, who had access to other government information that would allow for calculation of the actual profit margin enjoyed by Standard in its contracts.
+[50]
+In contrast, the statements of Mr. Pope in his confidential affidavit do not demonstrate a reasonable expectation of probable harm to the Applicant. Such likelihood of harm was readily apparent from the type of information at issue in
+Culver
+, supra, but does not appear from the nature of the information disclosed in Mr. Pope's affidavit. While the affidavit contains a good deal of information about Canada Post's unique position in the market place and the alleged uniqueness of its product, this does not indicate that disclosure would likely result in a reasonable expectation of probable harm to its competitive position or financial gain to its competitors.
+[51]
+In my opinion, the Applicant here has failed to show more than speculation that probable harm would result if the records were released. The information in the disputed records in their severed form is not of such a nature that its release would likely injure the competitive position of the Applicant or enhance the financial benefit of any competitors. I conclude that there is no basis upon which to grant an exemption from disclosure of this information, pursuant to subsection 20(1)(c). In the result, this application is dismissed with costs to the Respondent.
+ORDER
+[52]
+The application is dismissed with costs to the Respondent.
+Application dismissed.
+Editor: Angela E. McKay/klf
+[End of document]

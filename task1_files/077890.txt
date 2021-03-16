@@ -1,0 +1,180 @@
+[1]
+von Finckenstein, J.
+: The Applicant, GlaxoSmithKline Inc. ("GSK") has brought this application for a judicial review of a decision of the Minister of Health who decided that two patents held by GSK did not meet the prescribed requirements and were therefore, not eligible for inclusion on the Patent Register (the "Register").
+[2]
+Pursuant to Division 8, Part C of the
+Food and Drug Regulations
+, C.R.C., c. 870, any drug manufacturer who wishes to advertise or sell a new drug in Canada must first obtain a Notice of Compliance ("NOC") permitting such advertising and sale. To obtain an NOC, the manufacturer files a drug submission with the Minister of Health, (the "Minister"). Under the
+Patented Medicines (NOC) Regulations
+, ("
+PMNOC Regulations
+") a manufacturer who files a drug submission for a NOC or has been previously granted an NOC may submit a list of eligible patents to be added to the Register against the drug for which the NOC is sought or issued. Under section 3(1) of the
+PMNOC Regulations
+, the Minister may refuse to add or may delete a patent submitted by a manufacturer if the submitted patent is ineligible for inclusion on the Register according to the requirements of section 4 of the
+PMNOC Regulations
+.
+[3]
+On March 29, 2004, the Minister decided that Canadian Patents 1,298,479 (the "479 patent") and 2,031,393 (the "393 patent") submitted by GSK are ineligible for listing on the Patent Register with regard to PAXIL CR, a drug containing controlled release tablets of paroxetine hydrochloride. The 479 patent relates to a system for controlled rate release of active substances while the 393 patent relates to tablets with controlled rate release of active substances.
+Issue
+[4]
+Do the 393 patent and the 479 patent comply with s. 4(2)(b) of the
+PMNOC Regulations
+?
+Standard Of Review
+[5]
+Both sides agree that the standard of review is correctness.  <FRAGMENT_SUPPRESSED>  (F.C.A.).
+Statutory Provisions
+[6]
+The relevant statutory provisions are sections 3 and 4 (2)(b) of the
+PMNOC Regulations
+which provide as follows:
+"3(1) The Minister shall maintain a register of any information submitted under section 4. To maintain it, the Minister may refuse to add or may delete any information that does not meet the requirements of that section.
+"(2) The register shall be open to public inspection during business hours.
+"(3) No information submitted pursuant to section 4 shall be included on the register until after the issuance of the notice of compliance in respect of which the information was submitted.
+"(4) For the purpose of deciding whether information submitted under section 4 should be added to or deleted from the register, the Minister may consult with officers or employees of the Patent Office. SOR/98-166, s. 2.
+"4(1) A person who files or has filed a submission for, or has been issued, a notice of compliance in respect of a drug that contains a medicine may submit to the Minister a patent list certified in accordance with subsection (7) in respect of the drug.
+"(2) A patent list submitted in respect of a drug must
+(a) indicate the dosage form, strength and route of administration of the drug;
+(b) set out any Canadian patent that is owned by the person, or in respect of which the person has an exclusive licence or has obtained the consent of the owner of the patent for the inclusion of the patent on the patent list, that
+contains a claim for the medicine itself or a claim for the use of the medicine
+and that the person wishes to have included on the register;" (Underlining added)
+"3(1) Le ministre tient un registre des renseignements fournis aux termes de l'article 4. A cette fin, il peut refuser d'y ajouter ou en supprimer tout renseignement qui n'est pas conforme aux exigences de cet article.
+"(2) Le registre est ouvert à l'inspection publique durant les heures de bureau.
+"(3) Aucun renseignement soumis aux termes de l'article 4 n'est consigné au registre avant la délivrance de l'avis de conformité à l'égard duquel il a été soumis.
+"(4) Pour décider si tout renseignement fourni aux termes de l'article 4 doit être ajouté au registre ou en être supprimé, le ministre peut consulter le personnel du Bureau des brevets. DORS/98-166, art. 2.
+"4(1) La personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament ou qui a obtenu un tel avis peut soumettre au ministre une liste de brevets à l'égard de la drogue, accompagnée de l'attestation visée au paragraphe (7).
+"(2) La liste de brevets au sujet de la drogue doit contenir les renseignements suivants:
+a) la forme posologique, la concentration et la voie d'administration de la drogue;
+b) tout brevet canadien dont la personne est propriétaire ou à l'égard duquel elle détient une licence exclusive ou a obtenu le consentement du propriétaire pour l'inclure dans la liste,
+qui comporte une revendication pour le médicament en soi ou une revendication pour l'utilisation du médicament
+, et qu'elle souhaite voir inscrit au registre;" (souligner)
+Analysis
+[7]
+Before deciding whether the patents in issue comply with the
+PMNOC Regulations
+, it is first necessary to construe the patents. Both sides agree that such construction must be guided by the principle stated in
+ <FRAGMENT_SUPPRESSED>  (H.L.), stated:
+"... Lord Diplock's description of purposive construction was as follows, at pp. 242-43:
+'My Lords, a patent specification is a unilateral statement by the patentee, in words of his own choosing, addressed to those likely to have a practical interest in the subject matter of his invention (i.e. "skilled in the art"), by which he informs them what he claims to be the essential features of the new product or process for which the letters patent grant him a monopoly. It is those novel features only that he claims to be essential that constitute the so-called "pith and marrow" of the claim. A patent specification should be given a purposive construction rather than a purely literal one derived from applying to it the kind of meticulous verbal analysis in which lawyers are too often tempted by their training to indulge. The question in each case is: whether persons with practical knowledge and experience of the kind of work in which the invention was intended to be used, would understand that strict compliance with a particular descriptive word or phrase appearing in a claim was intended by the patentee to be an essential requirement of the invention so that any variant would fall outside the monopoly claimed, even though it could have no material effect upon the way the invention worked.' [Emphasis in original.]
+"[45] The key to purposive construction is therefore the identification by the court, with the assistance of the skilled reader, of the particular words or phrases in the claims that describe what the inventor considered to be the 'essential' elements of his invention. ..."
+[8]
+The expert witness for GSK, one Dr. James McGinity, a professor of pharmacy at the University of Texas at Austin, Texas also appended as Exhibit B to his affidavit a document neatly setting out the principles of patent construction that he was told to employ. I attach at Annex A said principles as in my view they succinctly enunciate all principles applicable to patent interpretation.
+[9]
+Dr. McGinity, the only person skilled in the art of constructing patents put forward, stated in relation to the patents in issue:
+"Generally, the '479 Patent and the '393 Patent relate to controlled-release pharmaceutical tablet preparations or formulations."
+[10]
+The 393 patent makes claims with respect to tablets containing active substances. In Dr. McGinity's view as stated in his affidavit:
+"... one skilled in the art of pharmaceutical formulation would conclude that any active substance appropriate for use in a controlled-release tablet formulation could fall within the scope of these claims.
+"21. I understand that GSK markets controlled-release tablets of paroxetine hydrochloride in association with the trademark PAXIL CR. As such, it is clear that the medicine paroxetine hydrochloride is an active substance suitable for the formulation in a controlled-release tablet such as that claimed in the claims of the '479 Patent.
+"22. As a result, it is clear that Claims 1-7 of the '393 Patent include within their scope controlled-release tablets of the medicine paroxetine hydrochloride. Indeed, a second entry manufacturer wishing to market controlled-release tablets of paroxetine hydrochloride could look to the claims of the '393 Patent to develop its own formulation or preparation for marketing such tablets."
+[11]
+The 479 patent makes claims for a system of controlled released active substances. The Respondent concedes that system does include tablets. The 479 patent specifies that the active substance to be released can consist of medicaments. Thus, Dr McGinity concludes at paragraph 26:
+"As a result, one skilled in the art of pharmaceutical formulation with a mind willing to understand the invention will conclude that the term 'system' includes within its scope controlled-release tablet formulations or preparations. Indeed, the claims of the '479 Patent simply relate to a different geomatrix controlled-release tablet formulation than the one claimed in the '393 Patent."
+[12]
+Thus, both patents deal with processes for the controlled release of active substances. As Dr. McGinity summarizes at paragraph 35):
+"Both the 393 Patent and the 479 Patent include within the scope of their respective claims controlled release tablets of the medicine paroxetine hydrochloride."
+[13]
+Section 4(2)(b) however, requires a patent to be listed to contain a "claim for the medicine itself" or a "claim for the use of the medicine". Both of these terms are defined in the PMNOC regulations:
+"'claim for the medicine itself' includes
+a claim in the patent for the medicine itself when prepared or produced by the methods or processes of manufacture particularly described and claimed
+or by their obvious chemical equivalents;
+"'claim for the use of the medicine' means
+a claim for the use of the medicine for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or the symptoms thereof
+;" (Underlining added)
+"'revendication pour le médicament en soi' S'entend notamment
+d'une revendication, dans le brevet, pour le médicament en soi préparé ou produit selon les modes du procédé de fabrication décrits en détail et revendiqués
+ou selon leurs équivalents chimiques manifestes.
+"'revendication pour l'utilisation du médicament'
+Revendication pour l'utilisation du médicament aux fins du diagnostic, du traitement, de l'atténuation ou de la prévention d'une maladie, d'un désordre, d'un état physique anormal, ou de leurs symptômes
+." (Souligner)
+[14]
+Within the claims of either patent, there is, however, no explicit claim to either the medicine paroxetine hydrochloride or its use.
+[15]
+The Applicant pointed to a long line of cases drawing the distinction between the medicine itself and a system or method for administering the medicine.  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 488 (T.D.), affd. (1999), 87 C.P.R.(3d) 525 (F.C.A.), it was held that an inhaler used to administer a medicament to patients does not contain claims to the medicine itself. Similarly, it has been held that transdermal patches ( <FRAGMENT_SUPPRESSED> ) or a mechanical capsule forced into the stomach of a cow (see
+ <FRAGMENT_SUPPRESSED> ) are not claims to the medicine itself but for administering the medicine.
+[16]
+ <FRAGMENT_SUPPRESSED>  case involved a patent that describes the construction of a tablet that would allow for controlled release of the drug formulation to the patient after a certain time interval had passed following ingestion. Mosley, J., held that the patent in issue dealt with the delivery system for the adminstration of any one of 27 listed drugs not with the drug itself (verapamil hydrochloride). Consequently, he upheld the Minister's decision not to list the patent.
+[17]
+While these cases clearly establish that patents for the application of a medicine cannot be registered under section 4(2)(b) they are not helpful in determining whether the patents here in issue contain a "claim for the medicine itself" or a "claim for the use of the medicine". There is, however, a line of cases where patents have been held to qualify for registration under s. 4(2)(b).
+[18]
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 58 (T.D.), involved four patents involving the medicine flunisolide; namely claims for Form A flunisolide, for the crystalline form of flunisolide, for pharmaceutical formulations containing Form A flunisolide and claims for a process for the preparation of Form A flunisolide itself.
+[19]
+Similarly, it was raised as a side issue in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 271 (T.D.), that the patent in issue No 2178637 did not comply with section 4(2) of the
+PMNOC Regulations
+. However, McGillis, J., noted at paragraph 47 that "the 637 patent was issued for paroxetine tablets and a process to prepare them, and includes claims to novel paroxetine formulations prepared in the absence of water." Paroxetine being the actual medicine in issue in that case.
+[20]
+Lastly, in
+ <FRAGMENT_SUPPRESSED>  (F.C.A.), Sharlow, J.A., upheld the registration of a patent for an alternate process for the production of ceftazidime pentahydrate (marketed by Ely Lilly under the drug name 'Tazidime'). The patent in issue made claims to a formulation of ceftazidime (held to be a medicine) and amorphous lactose used to defeat the toxicity inherent in ceftazidime. Thus, again, the particular medicine was referred to in the patent in issue.
+[21]
+By contrast, both the 393 patent and the 479 patent refer to "active substances". There is no mention of paroxetine hydrochloride, the medicine in question. The line of case referred to above makes it clear that patents which can be registered (i.e. that qualify under s. 4 (2)(b)) must have a claim involving the medicine in question in the patent. One skilled in the art of patent interpretation can properly find (as Dr. McGinity did) that active substances, as referrred to in the 393 patent and the 479 patent, include within their scope paroxetine hydrochloride. However, even one skilled in the art of patent interpretation cannot equate active substance with paroxetine hydrochloride. Yet the provisions of s. 4(2)(b) require that the patent contain a claim for the medicine itself i.e. a claim in the patent for the medicine itself when prepared or produced by the methods or processes of manufacture particularly described and claimed. That is not the case with the 393 patent and the 479 patent.
+[22]
+Both the 393 patent and the 479 patent are process patents as defined by
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 171 (T.D.), at 175. They constitute a new way to effect the controlled release of paroxetine hydrochloride, but they do not make claims for the medicine itself (paroxetine hydrochloride). These processes can be used for medicine but also for other products. Patent 479, for instance, mentions that the active substances can be herbicides; fertilizers and room deodorants.
+[23]
+Consequently, the logic of <FRAGMENT_SUPPRESSED> (supra) applies. As stated by Jerome, A.C.J., at paragraph 17:
+"the phrase 'claim for the medicine itself', in the
+Patented Medicines (Notice of Compliance) Regulations
+means a claim for the medicine itself, in the ordinary and natural sense of the words, and a claim for the medicine when prepared by a particular process, in the ordinary and natural sense of the words used in section 2. There is nothing in the language of the legislation which suggests the phrase also covers a claim for a particular process used to produce a medicine. Such an interpretation would, in my view, be an unwarranted enlargement of the natural sense of the words used in the
+Regulations
+"
+[24]
+Accordingly, I find that patent 393 and patent 476 do not qualify for registration under s. 4(2)(b) of the
+PMNOC Regulations
+. For these reasons, this application cannot succeed.
+ORDER
+[25]
+THIS COURT ORDERS that:
+1. This application be dismissed, and
+2. Costs be awarded in favour of the Respondents
+Application dismissed.
+Editor: Anick Ouellette-Levesque/pdk
+ANNEX A
+LEGAL PRINCIPLES OF PATENT CONSTRUCTION
+Purposive Construction
+In construing a patent, and to give effect to the true inventions, the patent specification should be given a purposive construction rather than a purely literal one derived from applying to it the kind of meticulous verbal analysis in which lawyers are too often tempted by their training to indulge.
+Whirlpool
+, supra at 148.
+ <FRAGMENT_SUPPRESSED>  at 243 (H.L.).
+Furthermore, the Supreme Court has held that:
+"it has always been a fundamental rule of claims construction that the claims receive one and the same interpretation for all purposes."
+Whirlpool
+, supra at 149.
+Thus, the same construction used for determining matters of infringement and validity should be used in determining whether a patent contains a claim to the medicine, itself, and as such, is listable on the Patent Register in respect of a drug containing a medicine.
+The key to purposive construction is the identification of the essential elements of the invention. Construction of a patent is a question of law for the Court. However, it should be undertaken with the knowledge of a person skilled in the art, to the extent that such knowledge is revealed by expert evidence at trial.
+Whirlpool
+, supra at 147
+ <FRAGMENT_SUPPRESSED>  C.P.R.(4th) 168 at 192 (hereinafter
+Free World
+).
+ <FRAGMENT_SUPPRESSED>  C.P.R.(2d) 1 (F.C.A.), at 9.
+Non-essential elements may be substituted or omitted without having a material effect on the structure or operation of the invention as described in the claim, while essential elements must be present in order of the device to work as contemplated and claimed by the inventor.
+Free World
+, supra at 193.
+To reject purposeful construction would imply embracing a purposeful construction would imply embracing a purposeless approach that ignores the context and use to which the words are being put.
+Whirlpool
+, supra at 149.
+Purposive construction does not go outside the four corners of the specification. It is permissible for the trial judge to look at the rest of the specification, including the drawing, to understand what is meant by (a particular word) in the claim, but not to enlarge or contract the scope of the claim as written and thus understood.
+Whirlpool
+, supra at 153.
+Person Skilled in the Art
+A person skilled in the art has been defined as:
+"a hypothetical person possessing the ordinary skill and knowledge of the particular art to which the invention relates, and a mind willing to understand a specification that is addressed to him. This hypothetical person has sometimes been equated with the 'reasonable man' used as a standard in negligence cases. He is assumed to be a man who is going to try to achieve success and not one who is looking for difficulties or seeking failure."
+Free World Trust
+, supra at 189; citing Fox, H.G.,
+The Canadian Patent Law and Practice Relating to Letters Patent for Inventions
+, 4th ed. (Toronto: Carswell, 1969) at 184.
+Further General Principles for Claim Construction
+A patent is an enactment within the definition of "regulation" under the
+Interpretation Act
+, and must accordingly be given an interpretation as best ensures the obtainment of its objects.
+Whirlpool
+, supra at 150.
+The construction of a patent must be neither benevolent nor harsh, but rather should be reasonable and fair to both the public and the patentee. A patent must be read by a mind willing to understand, not a mind desirous of misunderstanding. This necessarily means that close attention must be paid to the purpose and intent of the author. The Court should not apply and overly technical or astute approach, and should endeavour to give effect to the construction which will give the inventor protection for that which he has in good faith invented.
+Whirlpool
+, supra at 149.
+ <FRAGMENT_SUPPRESSED>  at 157 (S.C.C.).
+A dictionary approach is not to be used in construing claims. This would be using evidence from outside the four corners of the specification. Furthermore, looking at the claims of a patent using a dictionary approach is equivalent to looking at the words thorough the eyes of a grammarian or etymologist, rather then through the eyes of and with the knowledge of a person skilled in the art.
+Whirlpool
+, supra at 153.
+[End of document]

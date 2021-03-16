@@ -1,0 +1,273 @@
+ <FRAGMENT_SUPPRESSED>  (FC)
+MLB unedited judgment
+[French language version follows English language version]
+[La version française vient à la suite de la version anglaise]
+ <FRAGMENT_SUPPRESSED>  CF 1490)
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Gleason, J.
+December 18, 2012.
+Counsel:
+Alla Kikinova, for the applicant;
+Meva Motwani, for the respondent.
+Solicitors of Record:
+Michael Loebach, Toronto, Ontario, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Gleason, J.
+: The applicant is a citizen of Columbia. In the present application for judicial review he seeks to set aside the decision of the Refugee Protection Division of the Immigration and Refugee Board [the IRB or the Board], made on December 12, 2011, in which the Board found that the applicant was neither a Convention refugee nor person in need of protection within the meaning of sections 96 and 97 of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [the Act or the IRPA].
+[2]
+The Board premised its decision on two grounds, finding, first, that the applicant lacked credibility and, second, that he had not rebutted the presumption that there was adequate state protection available to him in Columbia. While the applicant challenges both of these findings, it is only necessary for me to address the Board's state protection finding as it is dispositive of this application.
+[3]
+In making its state protection finding, the Board noted that the applicant had not sought the assistance of the Colombian police or other authorities after allegedly having been threatened by two members of the Revolutionary Armed Forces of Columbia (or the FARC) and instead simply fled, first to the United States of America and then to Canada, where he made a refugee claim. The Board then went on to review the voluminous documentary evidence before it regarding the ability of the Colombian state to provide adequate protection to its citizens. The Board concluded in this regard that there were "some inconsistencies among the several sources within the documentary evidence" but that "the preponderance of the objective evidence ... suggest[ed] that ... there is adequate state protection  <FRAGMENT_SUPPRESSED>  for victims of crime, that Colombia is making serious efforts to address the problems of criminality, and that the police are both willing and able to protect victims" (Decision at para 35). The IRB thus determined that the applicant had failed to rebut the presumption of state protection with clear and convincing evidence and for this reason (coupled with the applicant's lack of credibility) dismissed his claim.
+[4]
+The applicant asserts that the Board committed a reviewable error in its state protection analysis because it failed to analyze (or even mention) three key pieces of evidence which indicate that the Colombian state cannot protect individuals who face threats from the FARC, namely, two relatively recent reports from well-qualified academics, Drs. Marc Chernick and James Brittain, as well as a 2010 letter from Amnesty International. The applicant relies on four cases,
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ],
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ] and
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ], in which this Court held that failure to mention some or all of these or similar reports rendered a decision unreasonable. (A comparable finding was reached in
+ <FRAGMENT_SUPPRESSED>  [
+Rincon
+], which is also discussed below.) The applicant urges that a similar finding be made in this case.
+[5]
+For the reasons set out below, I have determined that it is inappropriate to do so because these decisions are distinguishable. In addition, they pre-date the decision of the Supreme Court of Canada in
+Newfoundland and  <FRAGMENT_SUPPRESSED>  [
+Newfoundland Nurses
+]. That case represents a marked change in the law of judicial review and underscores that a tribunal's failure to discuss portions of the evidence that contradict its finding will not, necessarily, give rise to reviewable error.
+Analysis
+[6]
+The standard of review applicable to the error the applicant alleges the RPD made in its state protection analysis is reasonableness. It is well-settled that the reasonableness standard applies to the review of the RPD's state protection findings, because they are either factual findings or findings of mixed fact and law (see
+ <FRAGMENT_SUPPRESSED> [2007] FCJ No 584).
+[7]
+The essence of the applicant's argument in this case is that the Board's state protection determination, in the words of paragraph 18.1(4)(d) of the
+Federal
+Courts Act
+, RSC 1985, c F-7  <FRAGMENT_SUPPRESSED> , is " based on an erroneous finding of fact made in a perverse or capricious manner or without regard to the material before it" because the applicant argues that the Board committed a reviewable error in improperly disregarding evidence.
+[8]
+Arguments like that made by the applicant in this case, regarding the impact of the failure to analyze allegedly key portions of the objective evidence, are frequently advanced in immigration judicial review matters. As Justice Hughes noted in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] at para 7:
+This is an issue, stated one way or other, often raised in a judicial review of this nature. What follows in Counsel's written and oral argument is often a microscopic, detailed, lengthy review of every piece of evidence in the record that may possibly be considered as supportive of Counsel's client's case. The written evidence is often presented in bold type and in Counsel's oral argument presented with great forensic skill so as to emphasize and elevate its importance. The conclusion the Court is urged to reach is that such "important" evidence was overlooked by the [tribunal] or not stated in the reasons and thus the decision must be considered "unreasonable". Often reliance is placed on the decision of Evans J (as he then was) in the
+ <FRAGMENT_SUPPRESSED>  157 FTR 35 [
+Cepeda-Gutierrez
+].
+[9]
+As Justice Hughes stated in <FRAGMENT_SUPPRESSED> , and as I likewise noted in
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], Justice Evans' decision  <FRAGMENT_SUPPRESSED> -Gutierrez
+does
+not
+stand for the proposition that failure to analyze evidence that runs contrary to a tribunal's conclusion necessarily renders a decision unreasonable. Rather,  <FRAGMENT_SUPPRESSED> -Gutierrez
+Justice Evans held that failure to consider specific evidence must be viewed in context and will lead to a decision's being overturned only where the non-mentioned evidence is critical, contradicts the tribunal's conclusion and the reviewing court determines that its omission means that the tribunal did not have regard to the material before it.
+[10]
+Particularly in light of several recent decisions from the Supreme Court of Canada, a reviewing court should be circumspect in inferring that an administrative tribunal had no regard to the evidence before it when it fails to mention contradictory evidence in its decision.
+[11]
+In my view, the starting point for the inquiry in respect of an argument regarding the impact of failure to mention key evidence is that the reviewing court must presume that the tribunal considered the entire record (see
+ <FRAGMENT_SUPPRESSED>  CF 673 at para 38). Thus, those advancing arguments like that made by the applicant in this case bear a high burden of persuasion. Secondly, it must be recalled that the task of the reviewing court is the assessment of the reasonableness of the tribunal's findings of fact. This inquiry involves consideration of
+both
+the outcome reached and the reasons offered by the tribunal as the Supreme Court of Canada underlined in,
+inter alia
+,
+ <FRAGMENT_SUPPRESSED>  and
+Newfoundland Nurses
+at para 14. Finally, and perhaps most importantly, the reviewing court must afford significant defence to the tribunal's factual findings, particularly where, as here, the impugned determination falls within the core of the tribunal's expertise. Assessments of risk and of the availability of adequate protection for refugee claimants in foreign states lies at the very core of the competence of the RPD and are matters that Parliament has mandated to fall within the RPD's jurisdiction (see IRPA at para 95(1)(b);
+ <FRAGMENT_SUPPRESSED> ).
+[12]
+As mentioned, the decision in
+Newfoundland Nurses
+is of central importance in this application. There, the Court adopted a new approach to evaluation of the adequacy of an administrative tribunal's reasons in holding that the provision of inadequate reasons does not amount to a denial of procedural fairness, provided some reasons are given. In so ruling, the Court overturned previous authorities which indicated that failure to provide adequate reasons amounts to a denial of procedural fairness. The Supreme Court also considered the adequacy of a tribunal's reasons with reference to evaluating whether a decision is reasonable and emphasized that that inadequacy of reasons is not a stand-alone basis for finding a decision unreasonable. Rather, the Court held that the reasonableness of a decision must be evaluated with reference to
+both
+the outcome reached and the reasons given. The Court also again instructed that reviewing courts must afford significant deference to a tribunal's decisions under the reasonableness standard. Justice Abella, writing for the Court, stated as follows on these points:
+[15] In assessing whether the decision is reasonable in light of the outcome and the reasons, courts must show "respect for the decision-making process of adjudicative bodies with regard to both the facts and the law" ( <FRAGMENT_SUPPRESSED> , at para. 48). This means that courts should not substitute their own reasons, but they may, if they find it necessary, look to the record for the purpose of assessing the reasonableness of the outcome.
+[16] Reasons may not include all the arguments, statutory provisions, jurisprudence or other details the reviewing judge would have preferred, but that does not impugn the validity of either the reasons or the result under a reasonableness analysis. A decision-maker is not required to make an explicit finding on each constituent element, however subordinate, leading to its final conclusion (
+Service Employees' International Union, Local No. 333 v. Nipawin District Staff Nurses Assn
+., [1975] 1 S.C.R. 382, at p. 391). In other words, if the reasons allow the reviewing court to understand why the tribunal made its decision and permit it to determine whether the conclusion is within the range of acceptable outcomes, the <FRAGMENT_SUPPRESSED> criteria are met.
+[...]
+[18] Evans J.A. in
+ <FRAGMENT_SUPPRESSED> , explained in reasons upheld by this Court (2011 SCC 57) that <FRAGMENT_SUPPRESSED> seeks to "avoid an unduly formalistic approach to judicial review" (para. 164). He notes that "perfection is not the standard"and suggests that reviewing courts should ask whether "when read in light of the evidence before it and the nature of its statutory task, the Tribunal's reasons adequately explain the bases of its decision" (para. 163). I found the description by the Respondents in their Factum particularly helpful in explaining the nature of the exercise:
+When reviewing a decision of an administrative body on the reasonableness standard, the guiding principle is deference. Reasons are not to be reviewed in a vacuum- the result is to be looked at in the context of the evidence, the parties' submissions and the process. Reasons do not have to be perfect. They do not have to be comprehensive. [para. 44]
+[13]
+Decisions of this Court which pre-date
+Newfoundland Nurses
+, in my view, must be read in light of the direction provided by Justice Abella, who wrote for a unanimous Court in that case. The impact of her decision in
+Newfoundland Nurses
+(and of the Court's earlier decision in <FRAGMENT_SUPPRESSED> ) is that I must consider not only the Board's reasoning but also the result it reached in evaluating the reasonableness of its state protection analysis. I must also, to quote Justice Abella, "be cautious about substituting [my] own view of the proper outcome by designating certain omissions in the reasons to be fateful" (
+Newfoundland Nurses
+at para 17).
+[14]
+Turning first, then, to the reasons advanced by the RPD in this case, the Board's reasons actually do reflect that it was aware of the objective evidence that ran counter to its conclusion, including, presumably, the three reports that the applicant argues are key. As noted, the RPD wrote that there were "some inconsistencies among the several sources within the documentary evidence" (Decision at para 35) but held that the "preponderance of the objective evidence" suggested adequate state protection was available  <FRAGMENT_SUPPRESSED> . Thus, the reasons themselves indicate that the Board did not ignore the three reports the applicant alleges were ignored. This distinguishes this case from <FRAGMENT_SUPPRESSED> ,
+de Martheyn
+, <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> .
+[15]
+It would appear that no similar statements were made by the Board in <FRAGMENT_SUPPRESSED> ,
+de Martheyn
+, <FRAGMENT_SUPPRESSED> or <FRAGMENT_SUPPRESSED> and thus there arguably was a firmer basis in those cases for concluding that the Board had ignored the particular pieces of evidence in question. In addition, the decision in <FRAGMENT_SUPPRESSED> was premised in large part on the RPD's failure to make credibility findings or to assess the truthfulness of the claims, which, in the word of Justice Barnes, resulted in the Board failing "to consider the country-condition evidence in the context of a family that had been repeatedly targeted [...]" (at para 5).
+[16]
+Justice Mactavish's decision in
+Rincon
+is likewise distinguishable as it turns in large part on errors made by the Board regarding the assistance it found the police provided the claimants, when in fact the assistance was not given. Findings for which there is no evidence before the Board do run afoul of paragraph 18.1(4)(d) of the FCA (see <FRAGMENT_SUPPRESSED> at paras 34-40).
+[17]
+Contrary to the situation in
+Rincon
+, there was a wealth of evidence before the RPD in this case to support its finding of adequate state protection as, indeed, the Board highlights at length in the decision. Thus, its decision is not incompatible with the evidence and cannot be said to be made in a manner that was perverse, capricious or without regard to the material before it.
+[18]
+That the result reached by the Board is reasonable is further supported by the fact that recent cases from this Court overwhelmingly support the reasonableness of RPD decisions finding there to be adequate state protection  <FRAGMENT_SUPPRESSED>  for those who were in similar circumstances to those of the applicant and who were threatened by the FARC (from 2012, see
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 451;
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 945;
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 187 [ <FRAGMENT_SUPPRESSED> ]).
+[19]
+Indeed, in several of these cases, at least some of the reports that the applicant argues were key were discussed by the Board, and the Board's decisions, finding there to be adequate state protection  <FRAGMENT_SUPPRESSED> , were upheld by this Court (see e.g. <FRAGMENT_SUPPRESSED> ;
+ <FRAGMENT_SUPPRESSED> ). Thus, where the Board specifically mentioned the reports at issue, this Court has upheld the Board's decisions as being reasonable.
+[20]
+In the past year, this Court has overturned RPD decisions on state protection  <FRAGMENT_SUPPRESSED>  only where the RPD was shown to have failed to properly assess the background or "profile" of the claimant and the claimant fell into one of the groups that the documentary evidence indicates may be at risk  <FRAGMENT_SUPPRESSED> , namely, members and supporters of one of the armed groups or parties to the conflict, members of local or regional governments, judges and other individuals associated with the justice system, civil society and human rights activists, journalists and other members of the media, trade union leaders, teachers, university professors and students, indigenous peoples and afro-colombians, women and children with certain profiles and marginalized social groups. The objective documentary evidence, and in particular the May 27, 2010 report of the Office of the UN High Commissioner for Refugees,
+UNHCR Eligibility Guidelines for Assessing the International Protection Needs of Asylum-Seekers from Colombia
+, indicates that members of such groups may continue to be at risk from the FARC in  <FRAGMENT_SUPPRESSED>  in which the Board failed to consider evidence in light of applicant's claim that she fell within a targeted group as the family of human rights abuse victims and workers in the context of a PRRA application;
+ <FRAGMENT_SUPPRESSED>  in which the Board failed to consider whether the applicant was a human rights worker and at risk on that basis;
+ <FRAGMENT_SUPPRESSED>  in which the Board failed to consider the particular risk profile of the applicant who was involved in a high-profile social justice organization;
+ <FRAGMENT_SUPPRESSED>  in which the Board mischaracterized the applicant as a "lowly court clerk" when in fact he was the nephew of a judge; and
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 420, in which the Board failed to consider the profile of the applicant who alleged persecution on the basis of his perceived political opinion for his involvement in a Community Action Group.) These cases turn on the failure of the Board to consider the heart of the claims advanced by the claimants and to assess their profiles against the documentary evidence, which indicated that they might be at risk. Simply put, in these cases, the Board failed to conduct the analysis it was required to undertake.
+[21]
+In the present case, however, the Board properly assessed the applicant's profile and evaluated his particularized risk in light of what had transpired and the objective country documentation. It thus undertook the inquiry it was mandated to undertake and, for the reasons noted, its conclusion was reasonable. In light of the nature of the Board's reasons and the wealth of authority supporting similar conclusions reached in similar cases, the applicant's argument is essentially a highly technical one that amounts to no more than a criticism of the failure to specifically discount -as opposed to generally discounting - the relevance of the reports from Drs. Brittain and Chernick and from Amnesty International. That such an argument is without merit is definitively settled in
+Newfoundland Nurses
+, where Justice Abella noted that a decision maker is not required "to make a finding on each constituent element, however subordinate, leading to its final conclusion" (at para 16).
+[22]
+In light of the foregoing, this application for judicial review is dismissed. No question for certification under section 74 of the IRPA was presented and none arises in this case.
+JUDGMENT
+[23]
+THIS COURT'S JUDGMENT is that
+:
+1. This application for judicial review of the RPD's Decision is dismissed;
+2. No question of general importance is certified; and
+3. There is no order as to costs.
+.........................
+ <FRAGMENT_SUPPRESSED>  demandeur est un citoyen de la Colombie. Dans la présente demande de contrôle judiciaire, il cherche à faire annuler la décision du 12 décembre 2011 par laquelle la Section de la protection des réfugiés de la Commission de l'immigration et du statut de réfugié [la CISR ou la Commission] a établi que le demandeur n'avait ni qualité de réfugié au sens de la Convention ni celle de personne à protéger au sens des articles 96 et 97 de la
+Loi sur l'immigration et la protection des réfugiés
+, LC 2001, ch 27 [la Loi ou la LIPR].
+[2]
+La Commission a fondé sa décision sur deux motifs: premièrement, le demandeur n'était pas crédible et, deuxièmement, il n'a pas écarté la présomption selon laquelle il pouvait se réclamer d'une protection adéquate en Colombie. Le demandeur conteste ces deux conclusions, mais je n'aborderai que la conclusion de la Commission sur la protection de l'État étant donné qu'elle permet de disposer de la présente demande.
+[3]
+Lorsqu'elle a tiré sa conclusion sur la protection de l'État, la Commission a souligné que le demandeur n'avait pas cherché à obtenir l'aide de la police ou d'autres autorités de la Colombie après avoir été menacé par deux membres des Forces armées révolutionnaires de Colombie (FARC), mais qu'il s'était plutôt simplement enfui, premièrement aux États-Unis d'Amérique puis au Canada, où il a déposé une demande d'asile. La Commission a ensuite examiné la volumineuse preuve documentaire qui lui avait été soumise au sujet de la capacité de l'État colombien d'offrir une protection adéquate à ses citoyens. Voici la conclusion de la Commission à cet égard: « Plusieurs sources contenues dans la preuve documentaire comportent certaines incohérences; toutefois, la prépondérance des éléments de preuve objectifs [...] laisse croire que [...] la protection offerte par la Colombie aux victimes de criminalité est adéquate, que la Colombie déploie des efforts sérieux pour régler le problème de la criminalité et que la police veut protéger les victimes et qu'elle est capable de le faire. » (Paragraphe 35 de la décision.) La CISR a donc jugé que le demandeur n'avait pas écarté la présomption de la protection de l'État au moyen d'une preuve claire et convaincante et, se fondant sur ce motif (qui s'ajoutait au manque de crédibilité du demandeur), elle a rejeté sa demande.
+[4]
+Le demandeur allègue que la Commission a commis une erreur susceptible de contrôle dans le cadre de son analyse de la protection de l'État parce qu'elle a oublié d'analyser (ou même de mentionner) trois éléments de preuve essentiels selon lesquels l'État colombien ne peut protéger les personnes menacées par les FARC, soit deux rapports relativement récents d'universitaires compétents en la matière, MM. Marc Chernick et James Brittain, de même qu'une lettre d'Amnesty International datée de 2010. Le demandeur invoque quatre jugements,
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ],
+ <FRAGMENT_SUPPRESSED> à 19 [ <FRAGMENT_SUPPRESSED> ] et
+ <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ], dans lesquels la Cour a statué que le défaut de mentionner une partie ou l'ensemble de ces rapports ou de rapports semblables dans certaines décisions était déraisonnable. (Une conclusion comparable a été tirée dans le jugement
+ <FRAGMENT_SUPPRESSED>  [
+Rincon
+], dont il est aussi question ci-après.) Le demandeur invite la Cour à tirer une conclusion semblable en l'espèce.
+[5]
+Pour les motifs énoncés ci-après, j'estime qu'une telle conclusion est inopportune parce qu'une distinction peut être établie entre ces décisions et la présente espèce. De plus, ces décisions sont antérieures à l'arrêt
+Newfoundland and  <FRAGMENT_SUPPRESSED>  [
+Newfoundland Nurses
+], de la Cour suprême du Canada. Cet arrêt constitue un changement majeur du droit qui s'applique aux contrôles judiciaires; elle souligne le fait que le défaut d'un tribunal d'aborder des éléments de preuve qui contredisent ses conclusions ne donnera pas nécessairement lieu à une erreur susceptible de contrôle.
+Analyse
+[6]
+La norme de contrôle qui s'applique à l'erreur que la SPR aurait, selon le demandeur, commise dans son analyse sur la protection de l'État est celle de la raisonnabilité. Il est bien établi que la norme de la raisonnabilité s'applique aux conclusions de la SPR sur la protection de l'État parce qu'il s'agit soit de conclusions de fait, soit de conclusions mixtes de fait et de droit (voir
+ <FRAGMENT_SUPPRESSED> [2007] ACF no 584).
+[7]
+Le demandeur soutient essentiellement en l'espèce que la décision de la Commission relative à la protection de l'État est, selon le libellé de l'alinéa 18.1(4)
+d
+) de la
+Loi sur les Cours fédérales
+, LRC 1985, ch F-7 [LCF], « fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments dont [elle] dispos[ait] » parce que, selon le demandeur, la Commission a commis une erreur susceptible de contrôle en écartant de façon non appropriée des éléments de preuve.
+[8]
+Des arguments comme ceux que le demandeur a présentés en l'espèce, relativement aux répercussions du défaut d'analyser de portions prétendument essentielles d'éléments de preuve objectifs, sont fréquemment présentés dans le cadre de contrôles judiciaires de décisions en matière d'immigration. Comme le juge Hughes le soulignait dans
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], au paragraphe 7:
+Il s'agit là d'une question qui, formulée d'une manière ou d'une autre, est souvent soulevée dans les contrôles judiciaires comme celui-ci. L'énoncé de cette question est souvent suivi, dans les observations écrites et dans la plaidoirie de l'avocat, d'un long examen pointilleux et détaillé de chaque élément de preuve au dossier qui pourrait le moindrement être considéré comme favorable à la cause du client de l'avocat. Les éléments de preuve écrite sont souvent présentés en caractères gras et, dans sa plaidoirie, l'avocat les présente souvent avec moult effets de toge pour en souligner et en accentuer l'importance. La conclusion que la Cour est priée de tirer est que l'agent n'a pas tenu compte ou a omis de mentionner dans ses motifs de tels éléments de preuve « importants » de sorte que la décision doit être considérée comme « déraisonnable ». L'avocat invoque souvent la décision du juge Evans (maintenant juge à la Cour d'appel fédérale) dans Cepeda-Gutierrez c (Ministre de la Citoyenneté et de l'Immigration), [1998] ACF no 1425, 157 FTR 35 ... [Cepeda-Gutierrez].
+[9]
+Comme le juge Hughes l'a souligné dans le jugement <FRAGMENT_SUPPRESSED> , et comme je l'ai fait aussi dans le jugement
+ <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ], la décision du juge Evans dans l'affaire <FRAGMENT_SUPPRESSED> - <FRAGMENT_SUPPRESSED> ne
+confirme
+pas
+l'énoncé selon lequel le défaut d'analyser des éléments de preuve contraires à la conclusion d'un tribunal rend nécessairement une décision déraisonnable. Dans <FRAGMENT_SUPPRESSED> - <FRAGMENT_SUPPRESSED> , le juge Evans a plutôt établi que le défaut de tenir compte de certains éléments de preuve doit être examiné en contexte et qu'il entraîne l'annulation d'une décision uniquement lorsque les éléments de preuve qui ne sont pas mentionnés sont essentiels, contredisent la conclusion du tribunal et que la cour chargée du contrôle de la décision établit que l'omission montre que le tribunal a tiré sa conclusion sans tenir compte des éléments dont il disposait.
+[10]
+Plus précisément, vu plusieurs arrêts récents de la Cour suprême du Canada, la cour de révision doit faire preuve de prudence avant de conclure qu'un tribunal administratif n'a pas tenu compte des éléments de preuve dont il disposait parce qu'il a omis de mentionner dans sa décision les éléments de preuve qui la contredisent.
+[11]
+À mon avis, lorsque la cour de révision est saisie d'un argument qui porte sur les conséquences pour le tribunal de ne pas avoir mentionné des éléments de preuve importants, son examen consiste initialement à présumer que le tribunal a pris en compte l'ensemble du dossier (voir
+ <FRAGMENT_SUPPRESSED> ). Les parties qui présentent des arguments comme ceux du demandeur en l'espèce doivent se montrer très convaincants. Deuxièmement, il faut se rappeler que la tâche de la cour de révision consiste à évaluer la raisonnabilité des conclusions de fait du tribunal dont la décision est contestée. Pour ce faire, il faut tenir compte
+à la fois
+de l'issue de l'affaire et des motifs fournis par le tribunal, comme la Cour suprême du Canada l'a souligné notamment dans
+ <FRAGMENT_SUPPRESSED> , et
+Newfoundland Nurses,
+au paragraphe 14. Enfin, et surtout peut-être, la cour de révision doit faire preuve d'une grande déférence à l'égard des conclusions de fait du tribunal particulièrement lorsque, comme en l'espèce, la décision contestée se retrouve au cœur même de l'expertise du tribunal. L'évaluation des risques auxquels sont exposés les demandeurs d'asile de même que de l'existence d'une protection adéquate de l'État étranger se retrouvent au cœur même de la compétence de la SPR et il s'agit de questions que le Parlement a portées à la compétence de la SPR (voir l'alinéa 95(1)
+b
+) de la  <FRAGMENT_SUPPRESSED> ).
+[12]
+Comme je l'ai mentionné précédemment, l'arrêt
+Newfoundland Nurses
+revêt une importance capitale aux fins de la présente demande. Dans cet arrêt, la Cour a adopté une nouvelle façon d'évaluer le caractère suffisant des motifs d'un tribunal administratif, statuant que l'insuffisance de motifs n'équivaut pas à l'absence d'équité procédurale pourvu que le tribunal fournisse certains motifs. En statuant ainsi, la Cour a annulé une jurisprudence antérieure selon laquelle l'insuffisance de motifs équivaut à l'absence d'équité procédurale. La Cour suprême a aussi tenu compte du caractère suffisant des motifs du tribunal visé pour savoir si sa décision est raisonnable et a souligné que l'insuffisance des motifs ne justifie pas à elle seule de conclure au caractère déraisonnable de la décision. La Cour a plutôt soutenu que le caractère raisonnable d'une décision doit être évalué relativement à l'issue de l'instance
+et
+aux motifs fournis. La Cour a aussi rappelé que les cours de révision doivent accorder une grande déférence aux décisions d'un tribunal en vertu de la norme de la raisonnabilité. Voici les motifs de la juge Abella à ce sujet; elle s'exprimait au nom de la Cour:
+[15] La cour de justice qui se demande si la décision qu'elle est en train d'examiner est raisonnable du point de vue du résultat et des motifs doit faire preuve de« respect [à l'égard] du processus décisionnel [de l'organisme juridictionnel] au regard des faits et du droit » (Dunsmuir, par. 48). Elle ne doit donc pas substituer ses propres motifs à ceux de la décision sous examen, mais peut toutefois, si elle le juge nécessaire, examiner le dossier pour apprécier le caractère raisonnable du résultat.
+[16] Il se peut que les motifs ne fassent pas référence à tous les arguments, dispositions législatives, précédents ou autres détails que le juge siégeant en révision aurait voulu y lire, mais cela ne met pas en doute leur validité ni celle du résultat au terme de l'analyse du caractère raisonnable de la décision. Le décideur n'est pas tenu de tirer une conclusion explicite sur chaque élément constitutif du raisonnement, si subordonné soit-il, qui a mené à sa conclusion finale (
+Union internationale des employés des services, local no 333 c. Nipawin District Staff Nurses Assn
+., [1975] 1 R.C.S. 382, p. 391). En d'autres termes, les motifs répondent aux critères établis dans <FRAGMENT_SUPPRESSED> s'ils permettent à la cour de révision de comprendre le fondement de la décision du tribunal et de déterminer si la conclusion fait partie des issues possibles acceptables.
+[...]
+[18] Dans
+Société canadienne des postes c. Alliance de la Fonction publique du Canada
+, 2010 CAF 56, [2011] 2 R.C.F. 221, le juge Evans précise, dans des motifs confirmés par notre Cour, (2011 CSC 57, [2011] 3 R.C.S. 572), que l'arrêt <FRAGMENT_SUPPRESSED> cherche à « [éviter] qu'on [aborde] le contrôle judiciaire sous un angle trop formaliste » (par. 164). Il signale qu'« [o] n ne s'atten[d] pas à de la perfection » et indique que la cour de révision doit se demander si, « lorsqu'on les examine à la lumière des éléments de preuve dont il disposait et de la nature de la tâche que la loi lui confie, on constate que les motifs du Tribunal expliquent de façon adéquate le fondement de sa décision» (par. 163). J'estime que la description de l'exercice que donnent les intimées dans leur mémoire est particulièrement utile pour en décrire la nature:
+[Traduction] La déférence est le principe directeur qui régit le contrôle de la décision d'un tribunal administratif selon la norme de la décision raisonnable. Il ne faut pas examiner les motifs dans l'abstrait; il faut examiner le résultat dans le contexte de la preuve, des arguments des parties et du processus. Il n'est pas nécessaire que les motifs soient parfaits ou exhaustifs. [par. 44]
+[13]
+À mon avis, les décisions de la Cour qui sont antérieures à la décision
+Newfoundland Nurses
+, doivent être interprétées en fonction de la directive fournie par la juge Abella, qui a rédigé les motifs unanimes de la Cour suprême dans cette affaire. Vu l'arrêt
+Newfoundland Nurses
+(et l'arrêt <FRAGMENT_SUPPRESSED> antérieurement prononcé par la Cour suprême), je dois prendre en compte non seulement le raisonnement de la Commission, mais aussi, en évaluant le caractère raisonnable de son analyse de la protection de l'État, le résultat qu'elle a obtenu. Je dois aussi, pour citer la juge Abella, me « garder de substituer [mes] propres opinions à celles [des décideurs] quant au résultat approprié en qualifiant de fatales certaines omissions qu'ils ont relevées dans les motifs » (
+Newfoundland Nurses
+, au paragraphe 17).
+[14]
+J'aborderai donc en premier les motifs fournis par la SPR en l'espèce. Les motifs de la Commission démontrent bien qu'elle était au fait d'éléments de preuve objectifs qui contredisaient sa conclusion, notamment, selon toute vraisemblance, les trois rapports qui, de l'avis du demandeur, ont une importance fondamentale. Comme je l'ai souligné, la SPR a écrit que « [p] lusieurs sources contenues dans la preuve documentaire comportaient certaines incohérences » (paragraphe 35 de la décision), mais elle a conclu que« la prépondérance des éléments de preuve objectifs » laissait croire qu'il existait en Colombie une protection adéquate de l'État. D'après ses motifs, la Commission n'a donc pas omis de tenir compte des trois rapports qui, selon le demandeur, auraient été mis de côté. Ces éléments établissent une distinction entre la présente affaire et les jugements <FRAGMENT_SUPPRESSED> ,
+de Martheyn
+, <FRAGMENT_SUPPRESSED> et <FRAGMENT_SUPPRESSED> .
+[15]
+Il semble qu'aucun énoncé semblable n'ait été formulé par la Commission dans les jugements <FRAGMENT_SUPPRESSED> ,
+de Martheyn
+, <FRAGMENT_SUPPRESSED> ou <FRAGMENT_SUPPRESSED> et que, par conséquent, il existait dans ces affaires un fondement plus solide qui permettait de conclure que la Commission avait laissé de côté les éléments de preuve en question. De plus, la décision dans <FRAGMENT_SUPPRESSED> était fondée en grande partie sur le défaut de la SPR de tirer des conclusions quant à la crédibilité ou d'évaluer la véracité des prétentions ce qui, selon les termes utilisés par le juge Barnes, a fait en sorte que la Commission avait omis « d'examiner la preuve liée à la situation dans le pays dans le contexte d'une famille qui [avait] été ciblée à de maintes reprises ... » (au paragraphe 5).
+[16]
+La décision du juge Mactavish dans
+Rincon
+ne s'applique pas non plus en l'espèce parce qu'elle porte en grande partie sur les erreurs commises par la Commission relativement à l'aide qui, à son avis, avait été fournie par la police aux demandeurs alors que, dans les faits, cette aide n'avait pas été accordée. Les conclusions qui ne s'appuient pas sur la preuve soumise à la Commission tombent sous le coup de l'alinéa 18.1(4)
+d
+) de la LCF (voir la décision <FRAGMENT_SUPPRESSED> , aux paragraphes 34 à 40).
+[17]
+Contrairement à ce qui s'était produit dans
+Rincon
+, la SPR disposait en l'espèce d'une preuve abondante pour étayer sa conclusion de protection adéquate de l'État, comme le souligne de façon exhaustive la Commission dans sa décision. Sa décision n'est donc pas incompatible avec la preuve et on ne saurait dire qu'elle a été tirée de façon abusive ou arbitraire ou sans tenir compte des éléments dont elle disposait.
+[18]
+Le caractère raisonnable de la décision de la Commission est confirmé par le fait que les décisions récentes de la Cour soutiennent dans leur vaste majorité le caractère raisonnable de décisions de la SPR quant au caractère adéquat de la protection offerte par l'État colombien à l'égard de personnes se trouvant dans des situations semblables à celles du demandeur et des personnes menacées par les FARC (pour l'année 2012, voir
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 451;
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 945;
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 187 [ <FRAGMENT_SUPPRESSED> ]).
+[19]
+En fait, dans plusieurs de ces affaires, la Commission a abordé au moins certains des rapports qui, selon le demandeur, étaient essentiels, et les décisions de la Commission, selon lesquelles la protection de l'État en Colombie était adéquate, ont été confirmées par la Cour (voir p. ex. <FRAGMENT_SUPPRESSED> ;
+ <FRAGMENT_SUPPRESSED> ). Dans les cas où la Commission a mentionné expressément les rapports en cause, la Cour a confirmé le caractère raisonnable des décisions de la Commission.
+[20]
+Au cours de l'année qui vient de s'écouler, la Cour a annulé des décisions de la SPR relativement à la protection de l'État en Colombie uniquement lorsqu'il a été établi que la SPR avait omis d'évaluer correctement les antécédents ou le « profil » du demandeur d'asile et où le demandeur d'asile se retrouvait dans l'un des groupes au sujet desquels la preuve documentaire révélait que ces groupes pouvaient être exposés à un risque en Colombie, soit les membres et les partisans de l'un des groupes ou de l'une des parties au conflit, les membres de gouvernements locaux ou régionaux, les juges et d'autres personnes associées au système de justice, les militants de la société civile et les défenseurs des droits de la personne, les journalistes et d'autres membres des médias, les leaders syndicaux, les enseignants, les professeurs et étudiants d'université, les Autochtones et les Afro-Colombiens, les femmes et les enfants ayant un certain profil de même que les groupes sociaux marginalisés. Selon la preuve documentaire objective, et en particulier le rapport du Haut commissariat des Nations Unies pour les réfugiés du 27 mai 2010, intitulé
+UNHCR Eligibility Guidelines for Assessing the International Protection Needs of Asylum-Seekers from Colombia
+, les membres de ces groupes peuvent encore être exposés à des risques à cause des FARC en Colombie. (Voir le jugement
+ <FRAGMENT_SUPPRESSED>  dans lequel la Commission n'a pas tenu compte d'éléments de preuve fournis par la demanderesse qui, dans le contexte d'une demande d'ERAR, alléguait faire partie d'un groupe ciblé en tant que membre de la famille de victimes de violations des droits de la personne et d'autres avaient travaillé à leur défense; le jugement
+ <FRAGMENT_SUPPRESSED>  dans lequel la Commission n'a pas cherché à savoir si le demandeur était un défenseur des droits de la personne et s'il était exposé à un risque pour ce motif; le jugement
+ <FRAGMENT_SUPPRESSED>  dans lequel la Commission n'avait pas tenu compte du profil de risque particulier de la demandeure qui jouait un rôle dans une organisation bien connue de défense de la justice sociale; le jugement
+ <FRAGMENT_SUPPRESSED>  dans lequel la Commission avait considéré à tort le demandeur comme un « simple greffier » alors qu'en fait il était le neveu d'une juge; et le jugement
+ <FRAGMENT_SUPPRESSED>  ACWS (3d) 420, dans lequel la Commission n'a pas tenu compte du profil du demandeur qui alléguait avoir été persécuté du fait des opinions politiques qui lui auraient été imputées en raison de sa participation aux activités d'un groupe d'action communautaire. Ces affaires concernent le défaut de la Commission de prendre en compte l'essentiel des prétentions des demandeurs d'asile et d'évaluer leurs profils en fonction de la preuve documentaire, qui indiquait qu'ils pouvaient être exposés à des risques. En termes simples, dans ces affaires, la Commission n'a pas effectué l'analyse qu'elle était tenue d'entreprendre.
+[21]
+Cependant, en l'espèce, la Commission a bien évalué le profil du demandeur de même que les risques auxquels il était lui-même exposé en tenant compte des faits qui lui avaient été soumis et des documents objectifs sur le pays. Elle a donc effectué l'examen qu'il lui incombait de réaliser et, pour les motifs indiqués, sa conclusion était raisonnable. Vu la nature des motifs de la Commission et l'abondante jurisprudence justifiant les conclusions semblables tirées dans des circonstances semblables, l'argument du demandeur est essentiellement un argument de pure forme qui revient simplement à critiquer le défaut d'exclure de manière précise, plutôt que de façon générale, la pertinence des rapports de MM. Brittain et Chernick et d'Amnesty International. L'absence de fondement de ce type d'argument est établie de façon définitive dans l'arrêt
+Newfoundland Nurses
+, où la juge Abella a souligné que le décideur « n'est pas tenu de tirer une conclusion explicite sur chaque élément constitutif du raisonnement, si subordonné soit-il, qui a mené à sa conclusion finale » (au paragraphe 16).
+[22]
+Pour les motifs susmentionnés, la demande de contrôle judiciaire est rejetée. Aucune question à certifier au sens de l'article 74 de la LIPR n'a été présentée et aucune n'est certifiée.
+JUGEMENT
+[23]
+LA COUR
+:
+1.
+REJETTE
+la demande de contrôle judiciaire de la décision de la SPR.
+2.
+NE CERTFIE AUCUNE
+question de portée générale.
+3.
+N'ADJUGE AUCUNS
+dépens.
+[End of document]

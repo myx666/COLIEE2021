@@ -1,0 +1,113 @@
+ <FRAGMENT_SUPPRESSED>  (FC)
+MLB unedited judgment
+[French language version follows English language version]
+[La version française vient à la suite de la version anglaise]
+ <FRAGMENT_SUPPRESSED>  CF 347)
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Rennie, J.
+March 23, 2012.
+Counsel:
+Max Chaudhary, for the applicant;
+Jon Bricker, for the respondent.
+Solicitors of Record:
+Chaudhary Law Office, North York, Ontario, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2012] F.T.R. TBEd. AP.055.
+[1]
+Rennie, J.
+: The applicant seeks to set aside an April 11, 2011 decision by Transport Canada (Safety and Security/Security Program Support) which denied him the transportation security clearance which would have allowed him to work as a cargo handler for Federal Express in a secure area of Toronto's Lester B. Pearson International Airport. For the reasons that follow the application is dismissed.
+Facts
+[2]
+The applicant, Jason Robert Edward Pouliot, is employed by Federal Express (FedEx). He sought promotion to the position of cargo handler at FedEx's operations at Toronto's Lester B. Pearson International Airport. This position required transportation security clearance from Transport Canada. Pouliot applied for that clearance pursuant to section 4.8 of the
+Aeronautics Act
+, RSC, 1985, c A-2 (
+Aeronautics Act
+).
+[3]
+The application for security clearance involves a criminal records check. Through this check Transport Canada became aware of an incident involving the applicant that occurred on August 1, 2007. The applicant drove another individual, Leo Peralta (Peralta) to a CIBC branch in Toronto, Ontario. While the applicant remained in the parked car Peralta entered the bank and handed the teller a hold-up note which demanded cash and indicated he was armed. Peralta was given $2000 in cash by the teller and then re-entered the car and the two drove off. The applicant was arrested and charged in connection to this incident. The charges were later withdrawn.
+[4]
+On February 25, 2011, Transport Canada sent the applicant a letter indicating that the request for security clearance had been referred to the Advisory Board for consideration. The letter summarized the facts regarding the August 1, 2007 incident as found in the police report it had received. The letter referred the applicant to the Transport Canada Security Clearance Policy and provided the link to an online copy of the policy. The letter invited the applicant to respond and provide any additional information or extenuating circumstances in relation to that incident.
+[5]
+The applicant responded stating that he was completely unaware that Peralta was going to rob the bank, that he did not participate in any way and that he never received any money from the robbery. The applicant expressed his regret for ever having trusted Peralta and emphasized his desire to continue his career with FedEx.
+[6]
+The applicant was informed, by letter dated April 11, 2011, that the request for security clearance had been denied. The letter stated in part:
+This is further to your application for a transportation security clearance at the Lester B. Pearson International Airport and our letter dated February 25, 2011, regarding the review of your application. Please be advised that the Minister of Transport, Infrastructure and Communities, has refused your clearance based on the information in your file and the following recommendation from the Advisory Body:
+The Advisory Body was unanimous in its recommendation to refuse the applicant a transportation security clearance. An in-depth review of the file, including the police report detailing the incident that led to his recent criminal charge for Robbery, which was subsequently withdrawn, led the Advisory Body to suspect that he is closely associated to an individual who is known or suspected of being involved in acts of serious violence against persons or property. The Advisory Body also reasonably believed, on a balance of probabilities that he may be prone or induced to commit an act or assist or abet any person to commit an act that may unlawfully interfere with civil aviation. His written explanation did not provide sufficient information that would compel the Advisory Body to recommend issuing a clearance.
+Standard of Review and Issue
+[7]
+The only issue submitted before the Court in this case was whether the applicant was denied procedural fairness. Questions of procedural fairness are reviewable on a correctness standard of review:
+ <FRAGMENT_SUPPRESSED> .
+[8]
+I agree with the respondent that the applicant was not denied procedural fairness and the application must be dismissed.
+[9]
+The content of the duty of procedural fairness is largely informed by context, as outlined in
+ <FRAGMENT_SUPPRESSED> . Previous cases of this Court have found that the level of fairness owed in this context is minimal. Where what is at issue is a simple application for clearance or a permit made by a person who has no existing right to that clearance or permit, the requirements imposed by the duty to act fairly are minimal. The Minister must render a decision that was not based on an erroneous finding of fact made in a perverse or capricious manner or without regard for the material before him: see
+ <FRAGMENT_SUPPRESSED> .
+[10]
+In cases in which an existing security clearance was either being revoked or not renewed, the standard has been found to be slightly higher, but still on the lower end of the spectrum.  <FRAGMENT_SUPPRESSED> the Court held:
+With these factors in mind, I agree with the respondent that the duty of procedural fairness in this case is more than minimal but does not require a high level of procedural safeguards (see, for example,
+ <FRAGMENT_SUPPRESSED>  [2005] F.C.J. No. 876 (F.C.) (QL), at paragraph 20). Thus, the procedural safeguards available to the applicant in this case are limited to the right to know the facts alleged against him and the right to make representations about those facts. These procedural guarantees do not include the right to a hearing.
+[11]
+Thus, as the respondent submits, even if Transport Canada were held to the higher of the two standards of fairness articulated in this context, that standard was clearly met: the applicant was informed of the facts alleged against him (his involvement in the bank robbery) and was afforded the opportunity to make representations about those facts and his suitability to receive a security clearance.
+[12]
+The applicant submits that he was owed more than this, specifically, that Transport Canada was obligated to inform him of the particular grounds upon which he may be denied security clearance. In particular, the applicant contends that he ought to have been advised that his susceptibility to influence by others and his continued association with Peralta were both in issue. A similar argument was put before Justice James Russell in
+ <FRAGMENT_SUPPRESSED>  and was rejected. Justice Russell stated at paragraph 56:
+The Applicant appears to be suggesting that he should have been pre-warned of concerns that arose as part of the investigative process so that he could have been in a position to refute conclusions that were drawn only after the investigation took place and all of the information was assessed. This is not a procedural fairness issue in my view. The Applicant was fully aware of what a security check involved, and he was even told at the interview with the Security Advisors what the purpose of the process was and that there were concerns related to his criminal record. The Applicant gave a full and forthright account on the issue of his conviction for producing a Schedule II substance and his continued involvement with marijuana use.
+[13]
+Similarly in this case, Transport Canada informed the applicant that it was concerned about granting security clearance in light of the August 1, 2007 incident and asked the applicant to present any information or explanation to convince Transport Canada to grant the clearance.
+[14]
+The considerations of susceptibility to influence and his association with others are both indicated in the Transport Canada policy, although not in the February 25, 2011 letter. The letter expressly invites the applicant to consult the policy. What the applicant seeks in this case is to require, as a component of procedural fairness, an opportunity to refute or respond to the conclusions reasonably arising from his conduct. To require that Transport Canada identify in advance, as an aspect of advising the applicant of the case he had to meet, which of the potential factors it might consider to be determinative of the security clearance review would be to impose a higher standard of fairness than is owed in this context and is unsupported by the jurisprudence cited above. It is sufficient that the applicant be put on notice of the range of factors, considerations and criteria that Transport Canada may consider in making its decision as to his suitability to obtain a security clearance. As a result, the application must be dismissed.
+JUDGMENT
+[15]
+THIS COURT'S JUDGMENT is that
+the application for judicial review be and is hereby dismissed.
+.........................
+ <FRAGMENT_SUPPRESSED>  Rennie
+[Traduction]: Le demandeur cherche à faire annuler la décision par laquelle Transports Canada (Sécurité et sûreté/Soutien des programmes de sûreté), le 11 avril 2011, a refusé de lui accorder l'habilitation de sécurité en matière de transport qui lui aurait permis de travailler comme manutentionnaire de fret pour Federal Express dans une zone sécurisée de l'aéroport international Lester B. Pearson de Toronto. Pour les motifs qui suivent, la demande est rejetée.
+Les faits
+[2]
+Le demandeur, M. Jason Robert Edward Pouliot, est un employé de Federal Express (FedEx). Il voulait être promu au poste de manutentionnaire de fret pour FedEx à l'aéroport international Lester B. Pearson de Toronto. Ce poste exige une habilitation de sécurité en matière de transport accordée par Transports Canada. M. Pouliot a présenté une demande en vue d'obtenir cette habilitation en vertu de l'article 4.8 de la
+Loi sur l'aéronautique
+, LRC 1985, ch A-2 (la
+Loi sur l'aéronautique
+).
+[3]
+Le processus de traitement de la demande d'habilitation de sécurité comprend la vérification du casier judiciaire. En effectuant cette vérification, Transports Canada a été mis au fait d'un incident mettant en cause le demandeur survenu le 1er août 2007. Le demandeur avait emmené en voiture une personne nommée Leo Peralta (M. Peralta) à une succursale de la CIBC à Toronto (Ontario). Pendant que le demandeur attendait dans la voiture en stationnement, M. Peralta était entré dans la banque et avait remis au caissier un billet exigeant de l'argent et indiquant qu'il était armé. M. Peralta avait reçu 2 000 $ en argent du caissier; il était ensuite retourné à la voiture et tous les deux s'étaient enfuis. Le demandeur avait été arrêté et inculpé relativement à cet incident. Les accusations avaient été retirées par la suite.
+[4]
+Le 25 février 2011, Transports Canada a envoyé une lettre au demandeur indiquant que sa demande d'habilitation de sécurité avait été transmise à l'Organisme consultatif pour que ce dernier examine le dossier. La lettre contenait un résumé des faits relatifs à l'incident du 1er août 2007, tirés du rapport reçu de la police. La lettre indiquait au demandeur de consulter la politique sur le Programme d'habilitation de sécurité de Transports Canada et comprenait le lien permettant d'y avoir accès en ligne. La lettre invitait également le demandeur à répondre et à fournir des renseignements complémentaires ou à faire valoir des circonstances atténuantes relativement à cet incident.
+[5]
+Le demandeur a répondu à la lettre, indiquant qu'il ignorait totalement que M. Peralta avait l'intention de dévaliser la banque, qu'il n'y avait participé d'aucune manière et qu'il n'avait jamais reçu un seul sous de l'argent qui avait été dérobé. Il disait regretter d'avoir fait confiance à M. Peralta et soulignait qu'il souhaitait poursuivre sa carrière chez FedEx.
+[6]
+Le demandeur a été informé, dans une lettre datée du 11 avril 2011, que sa demande d'habilitation de sécurité avait été rejetée. La lettre contenait le passage suivant:
+[traduction]
+La présente fait suite à votre demande visant à obtenir une habilitation de sécurité en matière de transport à l'aéroport international Lester B. Pearson et à notre lettre du 25 février 2011 se rapportant à l'examen de votre demande. Veuillez prendre note que le ministre des Transports, de l'Infrastructure et des Collectivités a rejeté votre demande sur la foi de l'information au dossier et de la recommandation suivante du comité consultatif:
+L'Organisme consultatif a recommandé à l'unanimité de rejeter la demande d'habilitation de sécurité. Après un examen approfondi du dossier, y compris le rapport de police décrivant en détail l'incident qui lui a récemment valu d'être inculpé au pénal pour vol qualifié, inculpation qui a été retirée par la suite, l'Organisme consultatif soupçonne qu'il est étroitement associé à une personne qui se livre ou est soupçonnée de se livrer à des actes graves de violence contre les personnes ou les biens. L'Organisme consultatif croit également, en s'appuyant sur les probabilités, qu'il peut être sujet ou poussé à commettre un acte d'intervention illicite visant l'aviation civile ou à aider ou inciter toute autre personne à commettre un tel acte. Les renseignements fournis dans son explication écrite n'étaient pas suffisants pour que l'Organisme consultatif recommande d'accorder une habilitation.
+La norme de contrôle et la question en litige
+[7]
+La seule question que la Cour doit trancher en l'espèce est celle de savoir si le demandeur a été privé de son droit à l'équité procédurale. Les questions d'équité procédurale sont susceptibles de révision selon la norme de la décision correcte: voir l'arrêt
+ <FRAGMENT_SUPPRESSED> .
+[8]
+Je conviens avec le défendeur que le demandeur n'a pas été privé de son droit à l'équité procédurale, et la demande doit être rejetée.
+[9]
+C'est d'abord le contexte qui définit la nature de l'obligation d'équité procédurale, comme il est indiqué dans l'arrêt
+ <FRAGMENT_SUPPRESSED> . La Cour a déjà statué dans des causes antérieures, que l'obligation d'équité est faible dans le présent contexte. Lorsque le litige porte sur une simple demande d'autorisation ou de permis faite par une personne qui n'a aucun droit existant à cette autorisation ou à ce permis, les exigences imposées par l'obligation d'agir équitablement sont minimes. Le ministre doit rendre une décision qui n'est pas fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments à sa disposition: voir
+ <FRAGMENT_SUPPRESSED> la Cour a statué:
+Considérant ces facteurs, je suis d'accord avec le défendeur que l'obligation d'équité procédurale, en l'espèce, est plus que minimale, sans exiger un niveau de protection procédurale élevé (voir, par exemple,
+DiMartino c. ministre des Transports
+, 2005 CF 635, [2005] A.C.F. no 876 (C.F.) (QL), au paragraphe 20). Ainsi, les protections procédurales dont bénéficie le demandeur en l'instance se limitent au droit de connaître les faits reprochés contre lui et au droit de faire des représentations à l'égard de ces faits. Ces garanties procédurales ne comprennent pas le droit à une audience.
+[11]
+Ainsi, comme le fait observer le défendeur, même si Transports Canada était assujetti à la plus rigoureuse des deux normes d'équité définies dans le présent contexte, il ne fait aucun doute que cette norme a été respectée: le demandeur a été informé des faits qu'on lui reprochait (sa participation au vol de banque) et il a eu l'occasion de formuler des observations à l'égard de ces faits et de la pertinence de lui accorder une habilitation de sécurité.
+[12]
+Le demandeur soutient que cela n'était pas suffisant, que Transports Canada était obligé de l'informer des motifs particuliers pour lesquels l'habilitation de sécurité demandée pourrait lui être refusée. Le demandeur affirme notamment qu'il aurait dû être avisé que le risque de se laisser influencer par d'autres et le fait qu'il ait continué de fréquenter M. Peralta causaient des problèmes. Un argument similaire a été présenté au juge  <FRAGMENT_SUPPRESSED>  et il a été rejeté. Le juge Russell a déclaré au paragraphe 56:
+Le demandeur semble laisser entendre qu'il aurait dû être avisé à l'avance des préoccupations en question à l'étape de l'enquête pour être en mesure de réfuter des conclusions qui n'ont été tirées qu'après la tenue de cette enquête et l'examen de l'ensemble des renseignements. Il ne s'agit pas à mon avis d'une question d'équité procédurale. Le demandeur était parfaitement au courant de ce que comportait une vérification de sécurité et les conseillers en sécurité lui ont même dit, lors de son entrevue, qu'il existait des préoccupations au sujet de son casier judiciaire, en plus de lui préciser l'objet du processus. Le demandeur a exposé sans réserve et avec franchise les circonstances entourant sa condamnation pour production d'une substance visée à l'annexe II et sa consommation actuelle de marijuana.
+[13]
+De même, dans la présente affaire, Transports Canada avait informé le demandeur qu'il hésitait à lui accorder une habilitation de sécurité au vu de l'incident du 1er août 2007 et lui avait demandé de fournir des renseignements ou des explications pour le convaincre d'accorder l'habilitation.
+[14]
+Le risque de se laisser influencer et l'association avec d'autres personnes sont l'un et l'autre mentionnés dans la politique de Transports Canada, à défaut de l'être dans la lettre du 25 février 2011. La lettre invite expressément le demandeur à consulter la politique. Ce que le demandeur cherche à obtenir, en l'espèce, au titre de l'équité procédurale, c'est la possibilité de réfuter les conclusions raisonnables qui sont le fait de sa conduite, ou à y répondre. Transports Canada ne peut pas être obligé d'indiquer à l'avance, dans le but d'aviser le demandeur de la preuve à réfuter, lequel des facteurs pourrait être jugé déterminant pour l'examen de la demande d'habilitation de sécurité, car ce serait lui imposer une obligation d'équité plus stricte que celle qui s'applique dans le présent contexte, alors que cela n'est pas justifié selon la jurisprudence susmentionnée. Il suffit que le demandeur soit avisé des divers facteurs, éléments et critères que Transports Canada peut prendre en considération pour prendre sa décision quant à la pertinence de lui accorder une habilitation de sécurité. En conséquence, la demande doit être rejetée.
+JUGEMENT
+[15]
+LA COUR STATUE que
+la demande de contrôle judiciaire est rejetée, et elle est rejetée par les présentes.
+[End of document]

@@ -1,0 +1,504 @@
+ <FRAGMENT_SUPPRESSED>  FC 1251)
+ <FRAGMENT_SUPPRESSED> 
+Federal Court
+Harrington, J.
+December 7, 2009.
+Counsel:
+Lise Leduc, for the applicant;
+Talitha A. Nabbali and John Unrau, for the respondent.
+Solicitors of Record:
+Sack Goldblatt Mitchell s.r.l., Ottawa, Ontario, for the applicant;
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2009] F.T.R. TBEd. DE.013.
+[1]
+Harrington, J.
+[Translation]: At the time of the events, Mr. Challal worked at the Office of the Privacy Commissioner of Canada (OPC) as a technical analyst. He applied for an internal position and was invited to a written test. Considering the similarity between Mr. Challal's responses and the correction guide, the Office referred the case to the Public Service Commission, which decided to conduct an investigation pursuant to section 69 of the
+Public Service Employment Act, 2003
+. Section 69 states:
+69.
+If it has reason to believe that fraud may have occurred in an appointment process, the Commission may investigate the appointment process and, if it is satisfied that fraud has occurred, the Commission may
+(
+a
+) revoke the appointment or not make the appointment, as the case may be; and
+(
+b
+) take any corrective action that it considers appropriate.
+69. La Commission peut mener une enquête si elle a des motifs de croire qu'il pourrait y avoir eu fraude dans le processus de nomination; si elle est convaincue de l'existence de la fraude, elle peut:
+a
+) révoquer la nomination ou ne pas faire la nomination, selon le cas;
+b) prendre les mesures correctives qu'elle estime indiquées.
+[2]
+The Office assigned an investigator to consider the issue. In her investigation report, the investigator found that the evidence collected during the investigation shows that Mr. Challal copied during the written test and thereby committed fraud in an internal appointment process. The Commission approved the report and imposed various corrective measures.
+PARTIES' POSITIONS
+[3]
+Mr. Challal feels that the finding of guilt was unreasonable and should be dismissed. Should it not be dismissed, two corrective measures were not within the Commission's jurisdiction or, if they were, were unreasonable.
+[4]
+The Attorney General, on behalf of the Commission, notes that it is now too late to question the finding of guilt issued by the Commission. Under section 18.1 of the
+Federal Courts Act
+, a person affected by a decision must apply for judicial review within 30 days after the time the decision in question is communicated. Mr. Challal did not do this.
+[5]
+Regarding the two corrective measures, the Attorney General notes that they were indeed within the Commission's jurisdiction and were reasonable.
+THE DECISION
+[6]
+In my opinion, it would have been premature for Mr. Challal to apply for judicial review of the investigator's report. The decision challenged is that of the Commission to endorse the investigator's report and impose corrective measures. The application for judicial review was submitted in a timely manner.
+[7]
+However, I feel that the Commission's decision to endorse the investigator's report that Mr. Challal committed fraud was reasonable. The Commission had the required jurisdiction to order the two corrective measures challenged. Moreover, the two corrective measures were reasonable.
+[8]
+As a result this application for judicial review shall be dismissed with costs.
+THE FACTS
+[9]
+The background of this case is set out in the investigation report. It is not necessary to repeat all the details. In 2006, Mr. Challal was hired as a technical analyst at the CS-02 level following an external appointment process held by OPC. Later that year, an information technology manager position was created, a CS-03 level position. Mr. Challal was appointed to this position on an acting basis, until the documents to staff the position could be finalized.
+[10]
+The person in charge of correcting the tests was concerned with Mr. Challal's test. His answers were not in the same form as the other candidates' and did not provide the same level of detail. They were, for the most part, the same as those in the correction guide, including the use of upper and lower case letters. Certain typographical errors were reproduced.
+[11]
+The text was composed of nine questions. The correction guide states the answers to eight of them. Question nine asked candidates to prepare a PowerPoint presentation for senior management. This was the only question Mr. Challal failed.
+[12]
+The investigator found that the answers to questions 7 and 8 copied elements word-for-word from the correction guide.
+[13]
+The investigator prepared a table in her report comparing the answers Mr. Challal provided and the expected answers from the correction guide for the first six questions of the test. In addition to the shocking similarity of the language used, the order of the answers to questions 2, 3, 5 and 6 is the same in the correction guide, although there is no logical chronology to the answers.
+QUESTION
+CORRECTION GUIDE
+MR. CHALLAL'S ANSWERS
+Question 2 (K1.2)
+: Name two (2) solicitation methods used to procure IT professional services.
+1. Temporary Help Services (THS)
+Temporary Help Services (THS).
+-
+2. PS Online
+Government Online (GOL)
+-
+3. Government Online (GOL)
+-
+-
+4. Request for Proposal (RFP)- MERX
+-
+Question 3 (K1.3)
+: Name four (4) types of contracting documents.
+1. Local Purchase Order (LPO)
+Local Purchase Order (LPO)
+-
+2. Call-Up against a Standing Offer (form 942)
+Call-Up against a Standing Offer.
+-
+3. Services Contract
+Services Contract.
+-
+4. Memorandum of Understanding (MOU)
+PWGSC Goods Contact
+-
+5. SSA
+-
+-
+6. PWGSC Goods Contract
+-
+Question 5 (K2.2)
+: Name three (3) key documents that should be prepared to aid in the management of a project
+1. Project Plan
+1- Project Plan, Plan,
+-
+2. Business Case
+2- Configuration Management
+-
+3. Configuration Management Plan
+3- Test Plan
+-
+4. Requirement Analysis
+-
+-
+5. Project Scope
+-
+-
+6. Test Plan
+-
+Question 6 (K2.3)
+: Name two project management tools
+1. CASE tools for development
+1- CASE tools for development,
+-
+2. Prototyping tools for testing
+2- MS-Project for project planning
+-
+3. MS-Project for project planning
+-
+[14]
+The correction guide was saved in a directory shared by employees of the Office's Human Resources Branch. This "O" directory is only accessible to employees of that branch. However, all computer technicians at the Office, including Mr. Challal, had access by default, since they have access to all the servers. Moreover, Mr. Challal allegedly had a key to the office of the person in charge of correcting the test. In this office was a paper copy of the guide.
+[15]
+Mr. Challal denies that he accessed the "O" directory or that he had a key to this office. An outside company confirmed that it is impossible to conclusively determine whether Mr. Challal accessed the "O" drive. If he did, he would have been able to remove any trace.
+[16]
+Mr. Challal told the investigator that he has a photographic memory and that all the questions could be found in a 20-page Treasury Board document. According to the investigator, this document was in narrative form and not in point form as the answers in the correction guide.
+[17]
+Although the investigator gave Mr. Challal the benefit of the doubt regarding the "O" drive and the key to the office, her findings can be found at paragraphs 37 and 40 of the report:
+[translation]
+37. That being said, I do not feel it is necessary to prove that Mr. Challal had access to the correction guide, whether the electronic or paper version, before taking his written test. The evidence lies in the answers Mr. Challal provided during the written exam on September 12, 2007. The answers Mr. Challal provided are similar in all aspects, capitals and punctuation included, to the correction guide contents.
+40. With no other credible explanation, and on a balance of probabilities, I must find that Mr. Challal intentionally copied the correction guide when he answered the test questions. His test answers were exact copies of the correction guide, are written the same way and use the same capital letters and same presentation. Moreover, the only question Mr. Challal failed was the one for which the correction guide did not provide an expected answer. Copying during a test constitutes fraud under the most common meaning. Mr. Challal copied in order to gain an advantage, a test result sufficiently high to ensure his appointment to the CS-03 position and thus obtaining a promotion. I must find that by copying during his written test, Mr. Challal committed fraud in an appointment process, thereby violating section 69 of the [
+Public Service Employment Act].
+[18]
+The Commission debated the report. It could not revoke Mr. Challal's appointment because the OPC decided to cancel the process and because Mr. Challal had not been appointed to the CS-03 position before the fraud was discovered. Additionally, at the time it made its decision, Mr. Challal had already been transferred to the Department of Foreign Affairs. Legally, the Commission also decided that corrective measures could not consist of disciplinary measures.
+[19]
+In its decision, the Commission ordered that:
+[translation]
+i. For a period of three years following September 15, 2008, Mr. Challal shall obtain the written permission of the Commission before accepting any appointment in the federal public service. Should he accept a position in the federal public service without such prior permission, his appointment shall be revoked;
+ii. Mr. Challal shall not have any responsibility in a public service nomination process for a period of three years;
+iii. Mr. Challal shall take the course
+Values and Ethics in Public Service Governance (D102)
+at the Canada School of Public Service before March 15, 2009;
+iv. The Investigation Directorate of the Public Service Commission shall review Mr. Challal's appointment to the CS-02 position at the Office of the Privacy Commissioner in December 2006;
+v. A letter shall be sent to the Privacy Commissioner regarding treatment of employees suspected of fraud;
+vi. A letter shall be sent to the Deputy Head of the Department of [Foreign] Affairs, informing him of the fraud committed by Mr. Challal and asking him to verify Mr. Challal has all the qualifications for the position he currently occupies, including the security rating. A copy of the investigation report 2007-IPC-00286 and the Record of Decision 08-09-IB- 65 shall be enclosed with the letter and placed on Mr. Challal's personnel file;
+vii. A copy of the investigation report 2007-IPC-00286 and all relevant information regarding Mr. Challal shall be sent to the Royal Canadian Mounted Police for the purposes of section 133 of the [
+Public Service Employment Act
+].
+ISSUES
+[20]
+The issues are:
+a. Was the investigation report a decision subject to judicial review?
+b. Was the finding of fraud reasonable?
+c. Did the Commission have jurisdiction to order the following two corrective measures?
+i. A review by the Investigation Directorate of the Public Service Commission of Mr. Challal's appointment to the CS-02 position at the Office of the Privacy Commissioner in December 2006;
+ii. A letter to be sent to the Deputy Head of the Department of Foreign Affairs, informing him of the fraud committed by Mr. Challal and asking him to be sure Mr. Challal has all the qualifications for the position he currently holds, including the security rating. A copy of the investigation report 2007-IPC-00286 and the record of decision 08-09-IB-65 shall be enclosed with the letter, and placed on Mr. Challal's personnel file;
+d. If the Commission had jurisdiction, was its decision to order these two measures reasonable?
+a.
+Was the investigation report a decision subject to judicial review?
+[21]
+The Public Service Commission was established in the
+Public Service Employment Act,
+R.S.C. 1985, and it still exists under the new
+Public Service Employment Act
+, S.C. 2003. Its mandate is to conduct investigations and audits pursuant to section 11 of the Act. It has an investigative power pursuant to section 66 et seq. Section 67 authorizes the Commission to investigate internal appointment processes and revoke or not make the appointment. In the present case, this part of the Act does not apply because nobody was appointed to the CS-03 position.
+[22]
+In my opinion, the investigator's report was not a decision by the Commission. In fact, the Act does not indicate that the Commission must accept its investigators' reports. The Commission may accept, dismiss or return the report. There is no reason an investigation by the Commission should be treated differently than an investigation pursuant to the
+Canadian Human Rights Act
+. Although a copy of the report was sent to Mr. Challal before the Commission adopted it, it follows that the report was not a decision by a federal commission. Alternatively, if it was, it was an interlocutory decision. The traditional point of view stated at paragraph 3:4100 of the Brown and Evans work,
+Judicial Review of Administrative Action in Canada
+, looseleaf (Toronto: Cansvasback Publishing, 2008), that I adopt in this case, is that the courts will not consider applications for judicial review of interlocutory decisions.
+[23]
+Mr. Challal therefore correctly waited for the Commission to finalize the report and adopt corrective measures. Claiming the contrary would fill the Court's calendar with useless and potentially speculative issues that would bring the administration of justice into disrepute.
+b.
+Is the finding of fraud reasonable?
+[24]
+The legal parameters for considering a decision under review were established by the Supreme Court in
+ <FRAGMENT_SUPPRESSED> .
+[25]
+According to <FRAGMENT_SUPPRESSED> ,
+supra
+, the finding that Mr. Challal cheated during his test is reviewable on the standard of reasonableness. As stated in <FRAGMENT_SUPPRESSED> , at para 47:
+Reasonableness is a deferential standard animated by the principle that underlies the development of the two previous standards of reasonableness: certain questions that come before administrative tribunals do not lend themselves to one specific, particular result. Instead, they may give rise to a number of possible, reasonable conclusions. Tribunals have a margin of appreciation within the range of acceptable and rational solutions. A court conducting a review for reasonableness inquires into the qualities that make a decision reasonable, referring both to the process of articulating the reasons and to outcomes. In judicial review, reasonableness is concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process. But it is also concerned with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law.
+[26]
+The Commission's decision could have serious consequences for Mr. Challal. However, as noted by Rothstein J. at para 42 of <FRAGMENT_SUPPRESSED> ,
+supra
+, "in civil cases, there is no presumption of innocence."
+[27]
+The applicable standard of proof was uncertain in these circumstances. As Rothstein J. noted at para 26 of <FRAGMENT_SUPPRESSED> :
+Much has been written as judges have attempted to reconcile the tension between the civil standard of proof on a balance of probabilities and cases in which allegations made against a defendant are particularly grave. Such cases include allegations of fraud, professional misconduct, and criminal conduct, particularly sexual assault against minors.
+[28]
+After summarizing the various approaches in civil cases or where morally blameworthy conduct is alleged, he found, at para 40 that:
+...I think it is time to say, once and for all in Canada, that there is only one civil standard of proof at common law and that is proof on a balance of probabilities. Of course, context is all important and a judge should not be unmindful, where appropriate, of inherent probabilities or improbabilities or the seriousness of the allegations or consequences. However, these considerations do not change the standard of proof.
+[29]
+Of course, an act may modify the standard of proof in a civil matter. For example, in
+ <FRAGMENT_SUPPRESSED> , the question was whether Mr. Mugesera, a permanent resident, should be deported from Canada for a crime against humanity committed outside Canada. Paragraph 19(1)(
+j
+) of the
+Immigration Act,
+in effect at the time, stated:
+19.
+(1) No person shall be granted admission who is a member of any of the following classes:
+...
+(j
+)
+persons who there are reasonable grounds to believe have committed
+an act or omission outside Canada that constituted a war crime or
+a crime against humanity within the meaning of subsection 7(3.76) of the
+Criminal Code
+and that, if it had been committed in Canada, would have constituted an offence against the laws of Canada in force at the time of the act or omission.
+The Court found:
+The first issue raised by s. 19(1)(j) of the
+Immigration Act
+is the meaning of the evidentiary standard that there be "reasonable grounds to believe" that a person has committed a crime against humanity. The FCA has found, and we agree, that the "reasonable grounds to believe" standard requires something more than mere suspicion, but less than the standard applicable in civil matters of proof on the balance of probabilities ...
+[30]
+Section 69 of the Act gives the Commission the power to take corrective action "if is has reason to believe that fraud may have occurred ..." As shown by the Supreme Court analysis in <FRAGMENT_SUPPRESSED> ,
+supra
+, this language reflects the balance of probabilities standard of proof.
+[31]
+The investigator's job was to determine whether, on a balance of probabilities, Mr. Challal committed fraud when he wrote his text. The Commission was to determine whether it accepted the report, and if so, what corrective measures should be imposed. The issues before me are whether the Commission made a reasonable decision when it adopted the investigator's report, whether it had the jurisdiction to impose the corrective measures it ordered and, if so, whether these measures were reasonable.
+[32]
+In coming to the conclusion that fraud occurred, the investigator was to ask herself whether, on a balance of probabilities, the similarities between the correction guide and Mr. Challal's responses were merely coincidental. She found, and it was reasonable for the Commission to adopt this finding, that the similarities could not, on a balance of probabilities, be attributed to coincidence. The next step was to assess whether there was an explanation for the similarities other than cheating. Mr. Challal says he studied from a 20-page Treasury Board document that contained all the information needed and he has a photographic memory. The investigator dismissed this explanation since the Treasury Board document was in a completely different format. It was reasonable for the Commission to support this finding.
+[33]
+Mr. Challal claims that it was unreasonable for the Commission to accept the investigator's report without asking her to produce the documents she reviewed, including the Treasury Board document. I disagree. The investigator is part of the Commission, and there was nothing to suggest to the Commission that she misinterpreted the documentation at her disposal, including the Treasury Board document. In fact, Mr. Challal had requested a court order for all the documents the investigator considered. Prothonotary Aronovitch dismissed this request on the ground that traditionally, in judicial review, the Court is limited to the documents that were before the decision maker, the Commission. There are exceptions, for example those that would allow a party to support a theory that there was a breach of procedural fairness in the decision because the decision maker should have had access to other documents in order to come to an appropriate decision:
+ <FRAGMENT_SUPPRESSED> . When he presented his request to the prothonotary, nothing prevented Mr. Challal from attaching the Treasury Board document to establish, for example, that it was in point form and not in the narrative form the investigator described.
+[34]
+The investigator chose the correct standard of proof. It is not this Court's role to question whether it would have come to the same conclusion. The issue is solely whether the decision falls within the range of acceptable outcomes which are defensible in respect of the facts and law, as set out in <FRAGMENT_SUPPRESSED> ,
+supra
+, at para 47.
+[35]
+In my opinion, the investigator's report of findings and its endorsement by the Commission were reasonable and should not be modified. As the Supreme Court has frequently cautioned the lower courts, for example, in
+Canada (Director of Investigation and  <FRAGMENT_SUPPRESSED>  [ <FRAGMENT_SUPPRESSED> ] at para 80, the courts should not be quick to substitute their opinion for that of the original decision maker.
+c. The corrective measures
+[36]
+The first corrective measure challenged is the one ordering "a review conducted by the Investigation Directorate of the Public Service Commission of Mr. Challal's appointment to the CS-02 position at the Office of the Privacy Commissioner in December 2006".
+[37]
+I have no problems coming to the conclusion that the Commission has jurisdiction to adopt this corrective measure. The Commission does not have the jurisdiction to dismiss a member of the public service except for political activities if the conditions at sections 68, 113, 114, 115, 118 and the regulations have been met. However, under section 66 of the Act, the Commission may investigate any external appointment process. According to section 69, if the Commission has reasons to believe fraud has occurred in an appointment process, it can investigate. This is exactly what the Commission is doing. The issue is whether the conclusion that Mr. Challal committed fraud during an internal selection process suggests that fraud may have occurred in his original external appointment process is reasonable. Relying on <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> ,
+supra
+, I feel it would be inappropriate for me to amend this decision.
+[38]
+As for the other corrective measure ordering "a letter to be sent to the Deputy Head of the Department of Foreign Affairs, informing him of the fraud committed by Mr. Challal and asking him to be sure Mr. Challal has all the qualifications for the position he currently holds, including the security rating. A copy of the investigation report 2007-IPC-00286 and the record of decision 08-09-IB-65 shall be enclosed with the letter, and placed on Mr. Challal's personnel file", Mr. Challal claims that the Commission's investigative powers are limited to section 66 et seq. of the Act. The decision on which the Commission is relying,
+ <FRAGMENT_SUPPRESSED>  would not apply because it was rendered under the former Act. He submits that sections 7.1 and 7.5 of the former Act were broader and allowed the Commission to lead any investigation on any subject under its jurisdiction.
+[39]
+I cannot accept this proposal. The preamble of the current Act states, among other things, "Canada will also continue to gain from a public service that strives for excellence, that is representative of Canada's diversity and that is able to serve the public
+with integrity
+and in their official language of choice".
+[40]
+Mr. Challal did not leave the public service. He was transferred to the Department of Foreign Affairs. He is still a public servant. The public must have confidence in those who work for it. I cannot believe that Parliament would have wanted someone who committed fraud to be able to transfer from one department to another, and thus obtain full impunity. The Department of Foreign Affairs should have all the elements required to evaluate Mr. Challal's integrity and determine whether he has been rehabilitated. In my opinion, these corrective measures were within the Commission's jurisdiction. They were reasonable and similar to those in the Federal Court of Appeal decision,
+ <FRAGMENT_SUPPRESSED>  (QL).
+ORDER
+[41]
+THE COURT ORDERS that
+:
+The application for judicial review of the Public Service Commission of Canada decision 08-09-1B-65 dated September 15, 2008, is dismissed with costs.
+.........................
+ <FRAGMENT_SUPPRESSED>  travaillait au Commissariat à la protection de la vie privée du Canada (CPVP) à titre d'analyste technique. Il a soumis sa candidature pour un autre poste à l'interne et a été invité à un examen écrit. Face à la similitude entre les réponses de M. Challal aux questions et le guide de correction, le Commissariat a référé l'affaire à la Commission de la fonction publique qui a décidé de mener une enquête en vertu de l'article 69 de la
+Loi sur l'emploi dans la fonction publique, 2003
+. L'article 69 se lit comme suit:
+69. La Commission peut mener une enquête si elle a des motifs de croire qu'il pourrait y avoir eu fraude dans le processus de nomination; si elle est convaincue de l'existence de la fraude, elle peut:
+a
+) révoquer la nomination ou ne pas faire la nomination, selon le cas;
+b) prendre les mesures correctives qu'elle estime indiquées.
+69.
+If it has reason to believe that fraud may have occurred in an appointment process, the Commission may investigate the appointment process and, if it is satisfied that fraud has occurred, the Commission may
+(
+a
+) revoke the appointment or not make the appointment, as the case may be; and
+(
+b
+) take any corrective action that it considers appropriate.
+[2]
+La Commission a chargé un de ses enquêteurs de se pencher sur la question. Dans son rapport d'enquête, l'enquêteur a conclu que la preuve recueillie au cours de son enquête démontre que M. Challal a copié lors de son examen écrit et a ainsi commis une fraude dans le processus de nomination interne. La Commission a approuvé le rapport et a imposé diverses mesures correctives.
+LA POSITION DES PARTIES
+[3]
+M. Challal est d'avis que la déclaration de culpabilité était déraisonnable et devrait être rejetée. Advenant qu'elle ne soit pas rejetée, deux des mesures correctives n'auraient pas été de la compétence de la Commission ou, à défaut, seraient déraisonnables.
+[4]
+Le Procureur général, au nom de la Commission, fait valoir qu'il est maintenant trop tard pour remettre en question la déclaration de culpabilité émise par la Commission. L'article 18.1 de la
+Loi sur les Cours fédérales
+oblige une personne touchée par une décision à en demander le contrôle judiciaire dans un délai de 30 jours de la communication de ladite décision. M. Challal ne l'a pas fait.
+[5]
+En ce qui concerne les deux mesures correctives, le Procureur général fait valoir que celles-ci étaient bien de la compétence de la Commission et étaient raisonnables.
+LA DÉCISION
+[6]
+À mon avis, il aurait été prématuré pour M. Challal de faire une demande de contrôle judiciaire du rapport de l'enquêteur. La décision contestée est celle de la Commission d'endosser le rapport de l'enquêteur et d'imposer des mesures correctives. La demande de contrôle judiciaire a été déposée dans les délais.
+[7]
+Cependant, je suis d'avis que la décision de la Commission d'endosser le rapport de l'enquêteur que M. Challal a commis une fraude était raisonnable. La Commission avait la compétence nécessaire pour ordonner les deux mesures correctives contestées. De plus, les deux mesures correctives étaient raisonnables.
+[8]
+Par conséquent, cette demande de contrôle judiciaire sera rejetée avec dépens.
+LES FAITS
+[9]
+L'historique de la présente affaire est bien exposé dans le rapport d'enquête. Il n'est pas nécessaire d'en répéter tous les détails. En 2006, M. Challal a été embauché comme analyste technique, au niveau CS-02, à la suite d'un processus de nomination externe tenu par le CPVP. Plus tard cette année là, un poste de gestionnaire de la technologie de l'information a été créé, un poste de niveau CS-03. M. Challal a été affecté à ce poste de façon intérimaire, le temps de finaliser les documents nécessaires à la dotation du poste.
+[10]
+La personne responsable de la correction des examens a été troublée face à l'examen de M. Challal. Les réponses de M. Challal n'étaient pas dans le même format et ne fournissaient pas le même niveau de détail que celles des autres candidats. Elles étaient, pour la plupart, les mêmes que celles qui se retrouvaient dans le guide de correction, y compris l'utilisation des majuscules et minuscules. Certaines erreurs de frappe ont été répétées.
+[11]
+L'examen comportait neuf questions. La grille de correction énonçait la réponse à huit des neuf questions. La question neuf demandait aux candidats de préparer une présentation PowerPoint à l'attention de la haute direction. C'est la seule question que M. Challal a échouée.
+[12]
+L'enquêteur a jugé que les réponses aux questions 7 et 8 reprenaient textuellement les éléments retrouvés dans la grille de correction.
+[13]
+L'enquêteur a préparé un tableau dans son rapport présentant une comparaison des réponses fournies par M. Challal avec les réponses attendues de la grille de correction pour les six premières questions de l'examen. En plus de la choquante similitude du langage utilisé, la séquence des réponses aux questions 2, 3, 5 et 6 est la même que la séquence trouvée dans la grille de correction, et ce, même s'il n'y avait pas de chronologie logique aux réponses.
+QUESTION
+GRILLE DE CORRECTION
+RÉPONSES DE M. CHALLAL
+Question 2 (K1.2)
+: Name two (2) solicitation methods used to procure IT professional services.
+1. Temporary Help Services (THS)
+Temporary Help Services (THS).
+-
+2. PS Online
+Government Online (GOL)
+-
+3. Government Online (GOL)
+-
+-
+4. Request for Proposal (RFP)- MERX
+-
+Question 3 (K1.3)
+: Name four (4) types of contracting documents.
+1. Local Purchase Order (LPO)
+Local Purchase Order (LPO)
+-
+2. Call-Up against a Standing Offer (form 942)
+Call-Up against a Standing Offer.
+-
+3. Services Contract
+Services Contract.
+-
+4. Memorandum of Understanding (MOU)
+PWGSC Goods Contact
+-
+5. SSA
+-
+-
+6. PWGSC Goods Contract
+-
+Question 5 (K2.2)
+: Name three (3) key documents that should be prepared to aid in the management of a project
+1. Project Plan
+1- Project Plan,
+-
+2. Business Case
+2- Configuration Management Plan,
+-
+3. Configuration Management Plan
+3- Test Plan
+-
+4. Requirement Analysis
+-
+-
+5. Project Scope
+-
+-
+6. Test Plan
+-
+Question 6 (K2.3)
+: Name two project management tools
+1. CASE tools for development
+1- CASE tools for development,
+-
+2. Prototyping tools for testing
+2- MS-Project for project planning
+-
+3. MS-Project for project planning
+-
+[14]
+Le guide de correction était sauvegardé dans un répertoire partagé par les employés de la Direction des ressources humaines du Commissariat. Ce répertoire « O » n'est accessible qu'aux employés de cette direction. Cependant, tous les techniciens en informatique du Commissariat, incluant M. Challal, y ont accès par défaut, puisqu'ils ont accès à tous les serveurs. De plus, il est allégué que M. Challal aurait eu une clé pour le bureau de la personne responsable de la correction de l'examen. Dans ce bureau, il y avait une copie papier de ce guide.
+[15]
+M. Challal nie avoir accédé au répertoire « O » ou avoir eu une clé dudit bureau. Une compagnie externe a confirmé qu'il n'était pas possible de conclure définitivement que M. Challal avait accédé au répertoire « O ». Si ce dernier y avait accédé, il a été en mesure d'en enlever toute trace.
+[16]
+Pour sa part, M. Challal a dit à l'enquêteur avoir une mémoire photographique et que toutes les questions se trouvaient sur un document de 20 pages du Conseil du Trésor. Selon l'enquêteur, ce document était en format narratif et non sous forme de points comme les réponses de la grille de correction.
+[17]
+Bien que l'enquêteur ait accordé le bénéfice du doute à M. Challal en ce qui concerne le répertoire « O » et la clé pour accéder au bureau, ses conclusions se retrouvent aux paragraphes 37 et 40 de son rapport:
+37. Ceci étant dit, je suis d'avis qu'il n'est pas nécessaire de prouver que M. Challal a eu accès au guide de correction, que ce soit la version électronique ou la version papier, avant de faire son examen écrit. La preuve réside plutôt dans les réponses fournies par M. Challal lors de l'examen écrit du 12 septembre 2007. Les réponses fournies par M. Challal sont en tous points semblables, majuscules et ponctuation incluses, à ce qui se retrouvait dans le guide de correction.
+40. En l'absence d'une autre explication crédible, et selon la balance des probabilités, je dois conclure que M. Challal a copié de manière intentionnelle le guide de correction lorsqu'il a répondu aux questions d'examen. Ses réponses à l'examen sont une copie conforme du guide de correction, sont écrites de la même manière et reprennent les mêmes majuscules et la même présentation. De plus, la seule question échouée par M. Challal est celle pour laquelle le guide de corrections ne contenait pas de réponse attendue. Copier à un examen constitue de la fraude au sens de la définition la plus usuelle. M. Challal a copié en vue d'obtenir un avantage, soit avoir un résultant d'examen suffisamment élevé pour lui assurer la nomination au poste de CS-03 et lui procurer ainsi une promotion. Je dois conclure qu'en copiant à son examen écrit, M. Challal a commis de la fraude dans un processus de nomination, contrevenant ainsi à l'article 69 de la [
+Loi sur l'emploi dans la fonction publique].
+[18]
+La Commission a débattu sur le rapport. Elle ne peut pas révoquer la nomination de M. Challal parce que le CPVP a décidé d'annuler le processus et parce que M. Challal n'avait pas été nommé au poste CS-03 avant que la fraude soit découverte. En plus, au moment où elle a pris sa décision, M. Challal avait déjà été muté au ministère des Affaires étrangères. Elle était aussi d'avis que, légalement, les mesures correctives ne peuvent prendre la forme de mesures disciplinaires.
+[19]
+Dans sa décision, la Commission a ordonné que:
+i. pour une période de trois ans suivant le 15 septemb[re] 2008, M. Challal obtienne la permission écrite de la Commission avant d'accepter toute nomination au sein de la fonction publique fédérale. Advenant qu'il accepte un poste au sein de la fonction publique fédérale sans avoir préalablement obtenu une telle permission, sa nomination sera révoquée;
+ii. M. Challal n'exerce aucune responsabilité dans la conduite d'un processus de nomination à la fonction publique pour une période de trois ans;
+iii. M. Challal suive le cours
+Valeurs et éthique dans la gouvernance de la fonction publique (D102)
+à l'École de la fonction publique du Canada avant le 15 mars 2009;
+iv. la Direction des enquêtes de la Commission de la fonction publique examine la nomination de M. Challal au poste de CS-02 au Commissariat à la Protection de la vie privée en décembre 2006;
+v. une lettre soit envoyée à la Commissaire à la Protection de la vie privée concernant le traitement des employés soupçonnés de fraude;
+vi. une lettre soit envoyée à l'administrateur général du ministère des Affaires [étrangères], l'informant de la fraude commise par M. Challal et lui demandant de s'assurer que M. Challal possède toutes les qualifications de la position qu'il occupe présentement, incluant la cote de sécurité. Une copie du rapport d'enquête 2007-IPC-00286 et du Rapport de décision 08-09-IB- 65 seront annexés à la lettre, et seront versés au dossier personnel d'employé de M. Challal;
+vii. une copie du rapport d'enquête 2007-IPC-00286 ainsi que toute information pertinente concernant M. Challal soient envoyées à la Gendarmerie royale du Canada, aux fins de l'article 133 de la [
+Loi sur l'emploi dans la fonction publique
+].
+LES QUESTIONS EN LITIGE
+[20]
+Les questions en litige sont les suivantes:
+a. Le rapport d'enquête est-il une décision susceptible de contrôle judiciaire?
+b. La conclusion de fraude est-elle raisonnable?
+c. Est-ce que la Commission était compétente pour ordonner les deux mesures correctives suivantes ?
+i. Un examen par la Direction des enquêtes de la Commission de la fonction publique de la nomination de M. Challal au poste de CS-02 au Commissariat à la Protection de la vie privée en décembre 2006;
+ii. L'envoi d'une lettre à l'administrateur général du ministère des Affaires étrangères, l'informant de la fraude commise par M. Challal et lui demandant de s'assurer que M. Challal possède toutes les qualifications du poste qu'il occupe présentement, incluant la cote de sécurité. Une copie du rapport d'enquête 2007-IPC-00286 et du Rapport de décision 08-09-IB-65 seront annexés à la lettre, et seront versés au dossier personnel d'employé de M. Challal;
+d. Si la Commission était compétente, est-ce que sa décision d'ordonner ces deux mesures était raisonnable?
+a.
+Le rapport d'enquête est-il une décision susceptible de contrôle judiciaire?
+[21]
+La Commission de la fonction publique a été établie dans la
+Loi sur l'emploi dans la fonction publique,
+L.R.C. 1985, et elle existe toujours en vertu de la nouvelle
+Loi sur l'emploi dans la fonction publique
+, L.C. 2003. Elle a le mandat d'effectuer des enquêtes et des vérifications en vertu de l'article 11 de la
+Loi
+. Elle détient un pouvoir d'enquête en vertu de l'article 66 et des articles suivants. L'article 67 autorise la Commission à enquêter sur le processus de nomination interne et à révoquer ou annuler une nomination. Dans la présente affaire, cette portion de la
+Loi
+ne s'applique pas en raison du fait que personne n'a été nommée au poste CS-03.
+[22]
+À mon avis, le rapport de l'enquêteur n'était pas une décision de la Commission. En fait, la
+Loi
+n'indique aucunement que la Commission doit accepter les rapports de ses enquêteurs. La Commission peut accueillir, rejeter ou retourner le rapport. Il n'existe aucune raison pour laquelle une enquête par la Commission devrait être traitée différemment d'une enquête en vertu de la
+Loi canadienne sur les droits de la personne
+. Bien qu'une copie du rapport ait été envoyée à M. Challal avant son adoption par la Commission, il s'ensuit que le rapport n'était pas une décision d'une commission fédérale. Dans l'alternative, s'il l'était, c'était une décision interlocutoire. Le point de vue traditionnel énoncé au paragraphe 3:4100 de l'ouvrage de Brown et Evans intitulé
+Judicial Review of Administrative Action in Canada
+, feuilles mobiles (Toronto: Cansvasback Publishing, 2008), que j'adopte dans cette affaire, est que les cours n'examineront pas de demandes de contrôle judiciaire de décisions interlocutoires.
+[23]
+M. Challal avait donc raison d'attendre que la Commission ratifie le rapport et adopte des mesures correctives. Prétendre le contraire aurait pour effet de boucher le calendrier de la Cour avec des questions inutiles et potentiellement spéculatives qui auraient pour conséquence de déconsidérer l'administration de la justice.
+b.
+La conclusion de fraude est-elle raisonnable?
+[24]
+Les paramètres juridiques pour la revue de la décision sous contrôle ont été établis par la Cour suprême dans les arrêts
+ <FRAGMENT_SUPPRESSED> .
+[25]
+Selon <FRAGMENT_SUPPRESSED> , précité, la conclusion que M. Challal aurait triché à son examen est contrôlée selon la norme de raisonnabilité. Tel qu'indiqué dans <FRAGMENT_SUPPRESSED> , au para. 47:
+La norme déférente du caractère raisonnable procède du principe à l'origine des deux normes antérieures de raisonnabilité: certaines questions soumises aux tribunaux administratifs n'appellent pas une seule solution précise, mais peuvent plutôt donner lieu à un certain nombre de conclusions raisonnables. Il est loisible au tribunal administratif d'opter pour l'une ou l'autre des différentes solutions rationnelles acceptables. La cour de révision se demande dès lors si la décision et sa justification possèdent les attributs de la raisonnabilité. Le caractère raisonnable tient principalement à la justification de la décision, à la transparence et à l'intelligibilité du processus décisionnel, ainsi qu'à l'appartenance de la décision aux issues possibles acceptables pouvant se justifier au regard des faits et du droit.
+[26]
+La décision de la Commission peut avoir des conséquences graves pour M. Challal. Cependant, tel que note le juge Rothstein au para. 42 de <FRAGMENT_SUPPRESSED> , précité, « dans une affaire civile, nulle présomption d'innocence ne s'applique. »
+[27]
+La norme de preuve applicable dans ces circonstances était incertaine. Comme le juge Rothstein a souligné au para. 26 de <FRAGMENT_SUPPRESSED> :
+Les efforts des tribunaux pour résoudre les difficultés que pose l'application de la norme de preuve civile de la prépondérance des probabilités dans une affaire où les faits reprochés au défendeur sont particulièrement graves - comme la fraude, la faute professionnelle ou le comportement criminel, en particulier l'agression sexuelle d'un mineur - ont suscité de nombreux commentaires.
+[28]
+Après avoir résumé les différentes approches possibles dans une affaire civile ou lorsqu'un comportement ou acte moralement répréhensible est allégué, il a conclu, au para. 40:
+[N] otre Cour devrait selon moi affirmer une fois pour toutes qu'il n'existe au Canada qu'une seule norme de preuve en matière civile, celle de la prépondérance des probabilités. Le contexte constitue évidemment un élément important et le juge ne doit pas faire abstraction, lorsque les circonstances s'y prêtent, de la probabilité ou de l'improbabilité intrinsèque des faits allégués non plus que de la gravité des allégations ou de leurs conséquences. Toutefois, ces considérations ne modifient en rien la norme de preuve.
+[29]
+Bien sûr, une loi peut modifier la norme de preuve dans une matière civile. Par exemple, dans
+ <FRAGMENT_SUPPRESSED> , la question était si M. Mugesera, un résident permanent, devrait être renvoyé du Canada en raison d'un crime contre l'humanité commis à l'étranger. L'alinéa 19(1)
+j
+) de la
+Loi sur l'immigration
+, alors en vigueur, disait:
+19.
+(1) Les personnes suivantes appartiennent à une catégorie non admissible:
+[. . . . .]
+j
+)
+celles dont on peut penser, pour des motifs raisonnables, qu'elles ont commis
+, à l'étranger, un fait constituant un crime de guerre ou
+un crime contre l'humanité au sens du paragraphe 7(3.76) du
+Code criminel
+et qui aurait constitué, au Canada, une infraction au droit canadien en son état à l'époque de la perpétration.
+La Cour conclut:
+La première question que soulève l'al. 19(1)j) de la Loi sur l'immigration est celle de la norme de preuve correspondant à l'existence de "motifs raisonnables [de penser] " qu'une personne a commis un crime contre l'humanité. La CAF a déjà statué, à juste titre selon nous, que cette norme exigeait davantage qu'un simple soupçon, mais restait moins stricte que la prépondérance des probabilités applicable en matière civile […]
+[30]
+Le texte de l'art. 69 de la
+Loi
+donne à la Commission le pouvoir de prendre des mesures correctives « si elle est convaincue de l'existence de la fraude […] ». Comme le démontre l'analyse de la Cour suprême dans l'arrêt <FRAGMENT_SUPPRESSED> , précité, ce langage reflète la norme de preuve de la prépondérance de probabilités.
+[31]
+La tâche de l'enquêteur était de déterminer si, selon la prépondérance de probabilités, M. Challal avait commis une fraude lorsqu'il a passé son examen. La Commission, elle, devait déterminer si elle acceptait le rapport et, le cas échéant, quelles mesures correctives devraient être imposées. Les questions devant moi sont si la Commission a pris une décision raisonnable en adoptant le rapport de l'enquêteur, si elle était compétente pour imposer les mesures correctives qu'elle a ordonnées et, si elle l'était, si ces mesures étaient raisonnables.
+[32]
+En arrivant à la conclusion qu'une fraude avait eu lieu, l'enquêteur devait se demander si, selon la prépondérance de probabilités, les similitudes entre le guide de correction et les réponses de M. Challal étaient une simple coïncidence. Elle a conclu, et c'était raisonnable pour la Commission d'adopter cette conclusion, que les similitudes ne pouvaient pas, sur une prépondérance de probabilités, être attribués à la coïncidence. La prochaine étape était d'évaluer s'il y avait une autre explication que la tricherie pour les similitudes. M. Challal dit avoir étudié à partir d'un document de 20 pages du Conseil du Trésor qui contenait tous les renseignements nécessaires et qu'il a une mémoire photographique. L'enquêteur a refusé cette explication étant donné que le document du Conseil du Trésor était dans un format complètement différent. C'était raisonnable pour la Commission d'appuyer cette conclusion.
+[33]
+M. Challal soumet que c'était déraisonnable pour la Commission d'accepter le rapport de l'enquêteur sans demander la production des documents qu'elle a étudiés, y compris le document du Conseil du Trésor. Je ne suis pas d'accord. L'enquêteur fait partie de la Commission, et il n'y avait rien pour suggérer à la Commission qu'elle avait mal interprété la documentation dont elle disposait, y compris le document du Conseil du Trésor. En fait, M. Challal avait demandé une ordonnance de la Cour pour tous les documents considérés par l'enquêteur. La protonotaire Aronovitch a rejeté cette requête pour le motif que traditionnellement, en contrôle judiciaire, la Cour est limitée aux documents qui étaient devant le décideur, la Commission. Il y a des exceptions, par exemple, celles qui permettent à une partie de soutenir la thèse selon laquelle la décision est entachée d'un manquement à l'équité procédurale parce que le décideur aurait dû avoir accès à d'autres documents afin de parvenir à une décision adéquate:
+ <FRAGMENT_SUPPRESSED> . Rien n'empêchait M. Challal, lorsqu'il a présenté sa requête à la protonotaire, d'y joindre le document du Conseil du Trésor pour établir, par exemple, qu'il était sous forme de points et non dans le format narratif décrit par l'enquêteur.
+[34]
+L'enquêteur a choisi la bonne norme de preuve. Ce n'est pas le rôle de cette Cour de se demander si elle serait arrivée à la même conclusion. La question est uniquement l'appartenance de la décision aux issues possibles acceptables pouvant se justifier au regard des faits et du droit, tel qu'expliqué dans <FRAGMENT_SUPPRESSED> , précité au para. 47.
+[35]
+À mon avis, le rapport des conclusions de l'enquêteur et sa ratification par la Commission étaient raisonnables et ne devraient pas être modifiés. Comme la Cour suprême a fréquemment mis en garde les tribunaux inférieurs, par exemple dans l'arrêt
+Canada (Directeur des enquêtes et recherches) c. Southam Inc.
+, [1997] 1 R.C.S. 748 [« <FRAGMENT_SUPPRESSED> »] au para. 80, les tribunaux ne devraient pas s'empresser de substituer leur propre opinion à celle du décideur original.
+c) Les mesures correctives
+[36]
+La première mesure corrective contestée est celle qui prévoit que « la Direction des enquêtes de la Commission de la fonction publique examine la nomination de M. Challal au poste de CS-02 au Commissariat à la Protection de la vie privée en décembre 2006 ».
+[37]
+Je n'ai aucune difficulté à conclure que la Commission est compétente pour adopter cette mesure corrective. La Commission n'a pas compétence pour congédier un membre de la fonction publique sauf pour activités politiques si les conditions des articles 68, 113, 114, 115, 118 et des règlements sont satisfaites. Cependant, l'article 66 de la
+Loi
+prévoit que la Commission peut enquêter sur tout processus de nomination externe. Selon l'article 69, si la Commission a des motifs de croire qu'il y a eu fraude dans un processus de nomination, elle peut enquêter. C'est exactement ce que la Commission est en train de faire. La question est de savoir si la conclusion que le fait que M. Challal a commis une fraude dans un processus de sélection interne suggère qu'une fraude peut avoir eu lieu dans son processus de nomination externe original est raisonnable. M'appuyant sur <FRAGMENT_SUPPRESSED> et <FRAGMENT_SUPPRESSED> , précités, il serait inapproprié pour moi de modifier cette décision.
+[38]
+Quant à l'autre mesure corrective, qui prévoit qu'« une lettre soit envoyée à l'administrateur général du ministère des Affaires [étrangères], l'informant de la fraude commise par M. Challal et lui demandant de s'assurer que M. Challal possède toutes les qualifications du poste qu'il occupe présentement, incluant la cote de sécurité. Une copie du rapport d'enquête 2007-IPC-00286 et du Rapport de décision 08-09-IB-65 seront annexés à la lettre, et seront versés au dossier personnel d'employé de M. Challal », M. Challal soutient que les pouvoirs d'enquête de la Commission sont limités aux quatre coins des articles 66 et suivants de la
+Loi
+. L'arrêt sur lequel s'appuie la  <FRAGMENT_SUPPRESSED>  ne serait pas applicable, car il a été rendu en vertu de l'ancienne
+Loi
+. Il soumet que les articles 7.1 et 7.5 de l'ancienne
+Loi
+étaient plus larges et permettaient à la Commission de mener toute enquête sur toute matière dans sa compétence.
+[39]
+Je ne peux accepter cette proposition. Le préambule de la
+Loi
+actuelle dit, entre autres, « qu'il demeure aussi avantageux pour le Canada de pouvoir compter sur une fonction publique vouée à l'excellence, représentative de la diversité canadienne et capable de servir la population
+avec intégrité
+et dans la langue officielle de son choix ».
+[40]
+M. Challal n'a pas quitté la fonction publique. Il a seulement été muté au ministère des Affaires étrangères. Il est encore un fonctionnaire. Le public doit avoir confiance en ceux qui travaillent pour lui. Je ne peux pas croire que le législateur aurait voulu que quelqu'un qui a commis une fraude puisse être muté d'un ministère à un autre et obtenir ainsi l'impunité complète. Le ministère des affaires étrangères devrait avoir tous les éléments nécessaires pour juger de l'intégrité de M. Challal et déterminer si ce dernier a été réhabilité. À mon avis, ces mesures correctives étaient dans la compétence de la Commission. Elles étaient raisonnables et semblables à celle dans la décision de la Cour d'appel fédérale dans
+ <FRAGMENT_SUPPRESSED>  (QL).
+ORDONNANCE
+[41]
+LA COUR ORDONNE que:
+La demande de contrôle judiciaire de la décision 08-09-1B-65 de la Commission de la fonction publique du Canada datée du 15 septembre 2008 est rejetée avec dépens.
+[End of document]

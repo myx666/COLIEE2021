@@ -1,0 +1,629 @@
+[1]
+Hughes, J.
+: This is an application brought under the provisions of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133, as amended (
+NOC Regulations
+) to prohibit the Minister of Health from issuing a Notice of Compliance to the Respondent Apotex Inc. in respect of Apotex's application to market in Canada 100 mg tablets of a drug containing modafinil as the active medicinal ingredient until the expiry of Canadian Patent No. 2,201,967 (the '967 patent). For the reasons that follow I find that the application is dismissed with costs to the Respondent Apotex.
+General Background
+[2]
+The Applicant Cephalon Inc. is the owner of the '967 patent which was issued and granted to it on December 10, 2002. The application for that patent was filed in Canada under the provisions of the Patent Co-operation Treaty (PCT) on April 4, 1997. The original PCT application was filed in the United States Patent Office on October 4, 1995 and claimed priority from two United States Patent applications filed on October 6, 1994. The Canadian application was published on April 18, 1996. Having been filed after October 1989, the "new" provisions of the
+Patent
+Act
+, R.S.C. 1985, c. P-4 applicable to applications filed after that date and patents maturing from those applications are applicable to the '967 patent.
+[3]
+The '967 patent contains 28 claims. Claims 1 to 9 are in general directed to a pharmaceutical composition containing modafinil as the active ingredient. Claims 10 to 28 are in general directed to the use of that composition in altering the somnolent state of a mammal.
+[4]
+The Applicant Shire Biochem Inc., as a licencee of the Applicant Cephalon, markets a drug in Canada under the name ALERTEC for the treatment of sleep-related conditions including narcolepsy. This product is said to embody the subject matter of one or more claims of the '967 patent.
+[5]
+Apotex wishes to market a generic version of this drug in Canada and, in accordance with the
+NOC Regulations
+, served on Shire a Notice of Allegation by letter dated March 15, 2006 in which Apotex alleges that the '967 patent is invalid on a number of grounds. Apotex does not raise any issue as to non-infringement.
+[6]
+The Applicants filed a Notice of Application for prohibition on May 3, 2006. The statutory stay for disposition of this matter was extended by Order of the Court until July 11, 2008. The Applicants challenge the validity of the Notice of Allegation, alleging that it fails to comply with the
+NOC Regulations
+and they challenge the grounds for invalidity of the '967 patent raised by Apotex in the Notice of Allegation.
+[7]
+The Applicants further allege that the grounds for invalidity raised by Apotex are "bewildering" in number and that Apotex has failed to "put into play" several of those purported grounds. I will deal with these matters when considering the individual allegations.
+GROUNDS FOR INVALIDITY OF THE PATENT
+[8]
+Apotex challenged the validity of the '967 patent on several grounds. At the hearing Apotex limited the grounds upon which it challenged the validity of the 967 patent to the following:
+- Lack of invention
+- Anticipation
+- Obviousness
+- Mere discovery
+- Lack of utility
+- Sufficiency of disclosure
+- Claims overbroad
+[9]
+Apotex dropped several of the challenges to validity made in its Notice of Allegation namely:
+- Subsection 27(2) of the
+Patent
+Act
+and paragraph 81(c) of the
+Patent Rules
+- Section 53 of the
+Patent
+Act
+- Double patenting
+- Improper selection patent
+WITNESSES
+[10]
+The Applicants filed the affidavit evidence of nine witnesses, six of whom were offered as experts. The witnesses offered as experts were:
+- Dr. Diane Boivin - M.D. and Ph.D. in psychiatry, worked with modafinil at the time the '967 patent application was filed as a medical doctor and clinician;
+- Dr. Joseph Baranski - Ph.D. in psychology who has studied modafinil since the early 1990s;
+- Dr. Louis Cartilier - Ph.D. in pharmaceutical sciences, specialises in areas including formulations;
+- Dr. Eugene Cooper - Ph.D. in physical and theoretical chemistry, specialises in areas including formulation and particle size;
+- Dr. James Polli - Ph.D. in pharmaceutics, specialises in areas including pharmacology and drug delivery;
+- Dr. David Bugay - Ph.D. in physical chemistry, specializes in areas including physical and chemical analysis of pharmaceutical compounds, including particle size.
+[11]
+Recent jurisprudence of this Court confirms that a party should not seek to adduce the evidence of more than five expert witnesses in a proceeding without obtaining leave of the Court. No such leave was sought or obtained here. Apotex raised no objection and this evidence was tendered before the recent decisions of this Court in this respect. I will accept the evidence of all these witnesses as evidence in these proceedings reserving if necessary, as to costs.
+[12]
+The Applicants also tendered the affidavit evidence of the following three persons as fact witnesses:
+- Dr. Peter Grebow - Ph.D. in chemistry; one of the named inventors of the '967 Patent;
+- Mr. Antonio Aveledo - Intellectual Property Advisor at Shire;
+- Ms. Caroline Deschênes - law student with Ogilvy Renault LLP, the Applicants' solicitors.
+[13]
+Drs. Bugay and Grebow filed reply affidavits in evidence as well as evidence in chief. All expert and fact witnesses of the Applicants were cross-examined except Deschênes.
+[14]
+Apotex filed the affidavit evidence of five witnesses, four were tendered as experts and one as a fact witness.
+[15]
+Tendered as experts were:
+- Dr. David Feifel - M.D. and Ph.D. in neurobiology, specialises in areas including the development of pharmaceuticals to treat psychiatric conditions;
+- Dr. Sanford Bolton - Ph.D. in pharmacy, specialises in areas including statistics respecting pharmaceuticals;
+- Dr. Samuel Yalkowsky - Ph.D. in pharmaceutical chemistry, specialises in areas including drug formulation;
+- Dr. Robert Langer - Sc.D. in chemical engineering, specializes in areas including pharmaceutical chemistry and formulation development.
+[16]
+All of the above were cross-examined.
+[17]
+In addition, Apotex filed the affidavit evidence of Ines Ferreira, a law clerk as a fact witness. She was not cross-examined.
+[18]
+The Respondent Minister of Health did not submit evidence nor participate actively in this proceeding.
+[19]
+At the end of the hearing I invited Counsel for the parties to make submissions as to what part of the Record that had been filed as confidential should remain so. The Court should resist any unnecessary or overbroad claim for confidentiality since hearings are by their nature public and the jurisprudence in this area is developing such that an examination of evidence and argument in one case may be relevant to another. Upon receipt of those submissions I will assess which aspects of the Record should remain confidential.
+CONSTRUCTION OF THE '967 PATENT
+[20]
+As we have been instructed by the Supreme Court of Canada in
+ <FRAGMENT_SUPPRESSED>  and often repeated in proceedings such as this, the Court must first construe the patent claims at issue before considering issues such as validity and infringement. As previously noted, the '967 patent having been applied for in Canada after October 1989 is to be governed by the "new" provisions of the
+Patent
+Act
+and thus is to be construed as of its date of publication, April 18, 1996.
+[21]
+The Court, however is not to construe a claim without knowing where the disputes between the parties lie. To quote Justice Floyd of the England and Wales High Court (Patent Court) in
+ <FRAGMENT_SUPPRESSED>  (Pat.) at paragraphs 7 to 11, who in turn quoted the late Justice Pumfrey (as he then was) in
+ <FRAGMENT_SUPPRESSED>  (Pat.), "it is essential to see where the shoe pinches so that one can concentrate on the important points." Justice Floyd also quoted Jacob L-J. and further stated that, just as is the case in our Courts, construction is for the Court not expert witnesses save the well known exception as to technical terms with a special meaning. He raises at paragraph 11 some of the same concerns that our Court has encountered, particularly in NOC proceedings, where affidavit evidence is given, that experts will endeavour to put their own construction on the claims (possibly assisted by lawyers):
+"7. It is often said that a patent specification should be construed without reference to the infringement. Yet one cannot sensibly identify the point of construction without understanding what it is about the alleged infringement which is said to take it outside the claims. Pumfrey LJ (sitting at first instance) identified the necessary process in
+ <FRAGMENT_SUPPRESSED>  (Pat) (unreported 21st December 2007), when he said (in another case about mobile telephone standards):
+'Although one construes a claim "as if the defendant had never been born", in any complex case it is essential to see where the shoe pinches so that one can concentrate on the important points. It is important nevertheless that the opportunity thus presented to construe the document with one eye on the infringement must be rejected, as far as possible. So when the claim calls for A, and the standard requires B, the right question is not whether A means B, or covers B, or might with hindsight be said to be another example of the genus of which B is also a member, but whether in the context of the specification the skilled man would appreciate that A in the claim encompassed B.'
+"8. Jacob LJ was not saying anything different in Technip France SA's Patent (2004) RPC 46,
+'Although it has often been said that the question of construction does not depend on the alleged infringement ("as if we had to construe it before the Defendant was born" per Lord Esher MR in
+ <FRAGMENT_SUPPRESSED>  at 523), questions of construction seldom arise in the abstract. That is why in most sensible discussions of the meaning of language run on the general lines "does it mean this, or that, or the other?" rather than the open-ended "what does it mean"?'
+"9. It is for the court and not the witnesses to come to conclusions about what the claim means. Subject to the well known exception about technical terms with a special meaning, the construction of a patent is a question of law. So an expert report which seeks to parse the language of the claim, and opine that a particular ordinary English word can only in his opinion have a particular meaning is not admissible, or helpful. Both sides in the present case are guilty of adducing evidence of this kind.
+"10. What is both admissible and helpful expert evidence is something rather different: evidence about the technical inter-relationship between rival claim meanings and the teaching of the specification. The expert is well able to assist the Court about the impact of different assumptions about the correct legal construction of the claim. It may be that it is only on one construction of the claim that general technical statements made in the body of the patent about what the invention achieves will hold good. It is perfectly legitimate for an expert to point that out, and to give a technical explanation of why, if the rival construction is adopted, the claim would extend to embodiments which would not achieve the patent's technical objective.
+"11. None of the above requires the expert to go through the claim and give his definition (wide or narrow) of every word or phrase in it. The written evidence in the present case suffered from this excess. Some of the cross examination did as well. It sometimes takes longer to intervene and stop it than it does to let it happen. It should not start."
+[22]
+A patent is to be construed by the Court in light of the description in the specification, assisted, where necessary, by expert evidence as to the meaning of technical terms if they cannot be understood by reading the specification. This is not intended to open the door for experts to rush in through the portal of "explanation" to construe the claim themselves. The claims are to be read through the eyes of a person skilled in the art as of the relevant date which here is the date of publication, April 18, 1996. The fixing of such date is often not of any particular concern where the specification is clear and can be understood. It is only when some particular piece of "common knowledge" has or has not come into the public domain, such that it would be accepted as part of the knowledge and understanding of the notional person skilled in the art, that a meaningful difference in interpretation of the claims might occur.
+[23]
+In this instance, for the purpose of interpreting the claims of the '967 patent, there is no significant event put in evidence that occurred after April 18, 1996, that would be relevant in considering claim interpretation.
+[24]
+The patent begins by acknowledging that certain things are already known and constitute, in patent language, prior art. Such an acknowledgment by the patentee is considered a binding admission as to prior art (see
+ <FRAGMENT_SUPPRESSED> ).
+[25]
+The description of the '967 patent begins at page 1 by letting the reader know that the patent relates to a chemical known as modafinil which has previously been successfully tested in humans to treat hypersomnia and narcolepsy. Narcolepsy is described at pages 1 and 2 to be a sleep disorder. To quote in part:
+"This invention relates to the acetamide derivative modafinil.
+. . . . .
+"Modafinil has been successfully tested in humans for treatment of idiopathic hypersomnia and narcolepsy.
+. . . . .
+"Narcolepsy is a chronic disorder characterized by intermittent sleep attacks, persistent, excessive daytime sleepiness and abnormal rapid eye movement ('REM') sleep manifestations, such as sleep-onset REM periods, cataplexy, sleep paralysis and hypnagogic hallucinations, or both."
+[26]
+Thus the reader is told by way of background that modafinil is a known compound with a known use in treating sleep disorders.
+[27]
+At page 3, the alleged invention is summarized. In particular, it is said that the size of the modafinil particles used in preparing a pharmaceutical composition is important to the potency and safety of the drug. It says:
+"Our invention discloses a pharmaceutical composition comprising modafinil in the form of particles of a defined size, and the use of such composition. We have discovered that the size of modafinil particles is important to the potency and safety profile of the drug.
+"Thus, in a first aspect, the invention features a pharmaceutical composition comprising a substantially homogeneous mixture of modafinil particles, wherein at least about 95% of the cumulative total of modafinil particles in said composition have a diameter of less than about 200 micrometers and said composition contains between about 50 milligrams and about 700 milligrams of said modafinil."
+[28]
+Then the patent describes a "particle" and illustrates the point with photographic enlargements at Figures 2 to 5. The particles are not geometrically symmetrical; for instance, they are not perfect spheres. At page 4, lines 10 to 12, the reader is told that particle size can be measured by known conventional methods some of which are described at pages 14 and 15. At page 5, line 29 to page 6, line 16 and at page 12, lines 3 to 15, the reader is told that a particular machine, a Hiac/Royko was used to measure the size of the particles, and that different instruments may yield different results.
+[29]
+Then, at pages 3, 3a and 4, the patent gives definitions of statistical mathematical terms "mean", "median" and "mode" with examples. In part, it says:
+"As used herein, the term 'mean,' when used in reference to the size of modafinil particles, refers to the sum of the size measurements of all measurable particles measured divided by the total number of particles measured.
+. . . . .
+"As used herein, the term 'median', when used in reference to the size of modafinil particles, indicates that about 50% of all measurable particles measured have a particle size less than the defined median particle size value.
+. . . . .
+"As used herein, the term 'mode', when used in reference to the size of modafinil particles, indicates the most frequently-occurring particle size value."
+[30]
+At page 4, the patent provides a definition as to the word "about", a matter critical to some of the arguments raised in these proceedings. It says at lines 7 to 10:
+"As used herein, 'about' means plus or minus approximately ten percent of the indicated value, such that 'about 20 microns' indicates approximately 18 to 22 microns."
+[31]
+Continuing at page 4, the patent discloses preferred ranges of particle sizes using the "mean", the "median" and the "mode" ways of describing those sizes. It says:
+"In accordance with the invention disclosed herein, the mean particle size for a modafinil particle preferably ranges from about 2 microns to about 19 microns, more preferably from about 5 microns to about 18 microns, and most preferably from about 10 microns to about 17 microns.
+"In accordance with the invention disclosed herein, the median particle size for modafinil preferably ranges from about 2 microns to about 60 microns, more preferably from about 10 microns to 50 microns, and most preferably from about 20 microns to about 40 microns.
+"In accordance with the invention disclosed herein, the mode particle size for modafinil preferably ranges from about 2 microns to about 60 microns, more preferably from about 10 microns to about 50 microns, and most preferably from about 20 microns to about 40 microns."
+[32]
+Continuing at page 4 and over to page 5, the patent describes that it views the median measurement to be the most important and that a good indicator of consistency is a ratio of median to mean of 1:2.50 to 1:0.50 and median to mode of 1:2.50 to 1:0.50 is acceptable and that deviation of less than 25 between the median, mean and mode is an indication of consistency.
+[33]
+At page 5, lines 12 to 28, the patent informs the reader that consistency of particle size with at least about 95% of the particles under 200 microns, or better under 190 microns or even better, under 180 microns, is desirable.
+[34]
+At page 6, the patent addresses dosage by stating in general terms that "an effective amount" is that which reduces or eliminates symptoms of a somnolent state.
+"'An effective amount', as used herein, is an amount of the pharmaceutical composition that is effective for treating a somnolent or somnolescent state, i.e., an amount of modafinil of a defined particle size that is able to reduce or eliminate the symptoms of a somnolescent state. An effective amount of a pharmaceutical composition of the invention is useful for enhancing alertness, or increasing regularity of sleep rhythms."
+[35]
+At page 6 and over to page 7, a definition of "pharmaceutical composition" is given; it is a medicament comprising modafinil in a defined particle size:
+"A 'pharmaceutical composition' as used herein, means a medicament for use in treating a mammal that comprises modafinil of a defined particle size prepared in a manner that is appropriate for administration to a mammal. A pharmaceutical composition according to the invention may also, but does not of necessity, include a non-toxic pharmaceutically acceptable carrier."
+[36]
+At lines 5 to 12 of page 7, a preferred dosage range of about 50 mg to 700 mg is stated:
+"The pharmaceutical composition of the invention can contain at least about 50 mg, preferably at least about 100 mg, or more preferably at least about 200 mg of modafinil having a particle size as defined above. The pharmaceutical composition preferably contains no more than about 700 mg; more preferably, no more than about 600 mg; and most preferably, no more than about 400 mg, of modafinil having a particle size as defined above."
+[37]
+At page 8, lines 12 to 15, a statement of "the invention" is provided:
+"The invention results from our discovery that the particle size, and the consistency of the particle size, of modafinil can have a significant effect on its potency and safety profile."
+[38]
+A description of the testing of "early" (E) lots with a larger particle size of modafinil compared to "late" (L) lots follows at page 8 and over to page 9. The advantages of the particular particle size selected is summarized at page 9, lines 13 to 23:
+"Therefore, modafinil particles of a defined size provide at least two significant and unexpected advantages. First, potency is increased. A smaller average particle size allows achievement of a given modafinil plasma concentration at a lower oral dose. Second, with the knowledge of the importance of particle size on potency, the safety profile of the drug can be more accurately controlled because dosing with consistent and defined particle sizes allows for greater reliability in the dosing of the drug necessary to achieve a desired result."
+[39]
+At page 9 to page 11 there follows some detail as to clinical studies in "foreign" and "United States" environments. At page 11, line 25 to page 15, line 4, there is a detailed discussion of the measurement of particle size of early (E) and late (L) lots of drugs containing modafinil particles. Arguments as to Table 1 on page 13 were made by Counsel, particularly the right hand most column "MEDIAN: MEAN: MODE"; these will be discussed later. At page 13, we see:
+Table 1
+MODAFINIL PARTICLE DIAMETER
+LOT
+MEAN*
+MEDIAN*
+MODE*
+STD DEVIATION BETWEEN MEAN, MEDIAN, MODE
+MEDIAN: MEAN: MODE
+E-A
+34.60 +/- 5.21
+143.65 +- 3.26
+176.48 +- 5.32
+74.27
+1:4.15:.81
+E-B
+29.99 +/- 1.09
+89.10 +- 4.28
+78.59 +- 2.60
+31.53
+1:2.97:1.13
+E-C
+28.27 +- 4.10
+79.00 +- 3.78
+101.00 +- 40.92
+37.30
+2:2.79:.78
+E-D
+22.14 +- 0.76
+94.05 +- 13.75
+158.63 +- 63.81
+68.28
+1:4.25:.59
+L-1
+21.40 +- 2.52
+50.18 +- 12.57
+56.56 +- 22.39
+18.73
+1:2.34:.89
+L-2
+18.75 +- 1.89
+31.41 +- 3.57
+25.31 +- 1.34
+6.36
+1:1.68:1.24
+*n=4; +/- values are standard deviations
+Fig. 1 is a graph of particle diameter versus percent cumulative particles for late Lots L-l, L-2, and for the early Lots E-A, E-B, E-C, and E-D. The 50 percent cumulative particle size for late Lots L-l and L-2 was between approximately 30 µm and approximately 50 µm, while the 50 percent cumulative particle size for Lots E-A, E-B, E-C, and E-D was between approximately 80 µm and approximately 140 µm.
+[40]
+A passage identified as VII at page 15 over to page 16 reports the effect of modafinil particle size on the rate of dissolution of that medicine.
+[41]
+At page 16 and over to page 18, a passage identified as VIII provides results of testing on dogs of modafinil of various particle sizes and the level of the drug found in the blood plasma of those dogs sampled at various time periods. This passage, and in particular the results reported at Figure 8 is the subject of argument of the parties. Figure 8 is reproduced at Annex A [omitted] so that the vertical lines occurring at various places on the graph can be seen. They are discussed variously as "error" bars or as representing statistical levels of variance. It is important to note that they overlap all the curves so that all curves are contained within these bars. Figure 8 is discussed at page 17, lines 11 to 20:
+"Mean plasma modafinil levels in the nine dogs, at 0 to 36 hours after modafinil administration, are depicted in Fig. 8. With 'small' particles (Lot L-1), the plasma modafinil concentration peaked at 10 µg/ml. In contrast, with 'larger' particles (Lots E-D or E-B), the plasma modafinil concentration peaked at 8 µg/ml. Thus, the modafinil having a median particle size of 50.18 µm resulted in a higher peak plasma concentration than that obtained with the same dose of modafinil administered in the form of larger particles. ..."
+[42]
+At pages 18 to 19, passage IX describes methods for preparing modafinil in defined particle sizes using "conventional methods" and those "known in the art". In part, it says:
+"Modafinil and modafinil-related compounds can be prepared by conventional methods. Methods for preparing modafinil and modafinil-related compounds appears in the '290 patent. Modafinil of the particle size defined herein may be obtained by a variety of approaches utilizing conventional methods, e.g., the methods disclosed in the '290 patent, and then subjecting the modafinil of undefined particle size to conventional methods of milling and sieving. Methods for comminution (i.e., the mechanical process of reducing the size of particles or aggregates) are known to those in the art."
+[43]
+Finally, at pages 19 and 20, in passage X, formulation and administration are discussed. The dosage range of 50 mg to 700 mg of modafinil is repeated and a variety of vehicles such as tablets and the like are discussed in general terms.
+[44]
+The claims follow. The parties have asserted that all 28 claims must be considered. Therefor, I have set them out at Annex B. Claims 1 to 9 inclusive are directed to a pharmaceutical composition. Claims 10 to 28 are directed to use of modafinil particles. In terms of independent and dependent claims, claim 1 is an independent claim on which all of claims 2 to 9 depend directly or indirectly. Claim 10 is independent. Curiously, claim 11 depends on claim 14 which in turn depends on claim 12, and not on claim 10. I inquired of the parties whether any correction had been made by the Patent Office and I was told no. Therefor, claim 11 remains dependent on claim 14 thus, indirectly, on claim 12.
+[45]
+Claim 12 is an independent claim upon which claims 11, 13 to 17 and 25 to 28 depend directly or indirectly.
+[46]
+Claim 18 is an independent claim upon which claims 19 to 21 and 25 to 28 depend.
+[47]
+Claim 22 is an independent claim upon which claims 23 to 26 and 28 depend directly or indirectly.
+[48]
+Claim 27 is an independent claim upon which claim 28 depends.
+[49]
+These claims are to be construed against the background established by the description in the patent. That background is:
+- modafinil is a known composition
+- modafinil particles can be made in a variety of sizes using known techniques
+- modafinil is used in the treatment of sleep disorders including narcolepsy
+[50]
+The "invention" is as disclosed at page 8:
+"... the particle size, and the consistency of the particle size, of modafinil can have a significant effect on its potency and safety profile."
+[51]
+The "range" of particle sizes can be expressed in terms of mean, median or mode.
+[52]
+The mixture should be substantially homogeneous with at least about 95% of the particles having a diameter of less than about 200 microns, preferably less than about 190 microns, most preferably less than about 180 microns.
+[53]
+The dosage is expressed as "an effective amount" with a range of about 50 mg to about 700 mg of modafinil indicated.
+[54]
+Representative of the claims at issue are claims 1, 10 and 12 which say:
+"1. A pharmaceutical composition comprising a substantially homogeneous mixture of modafinil particles, wherein at least about 95% of the cumulative total of modafinil particles in said composition have a diameter of less than about 200 micrometers and said composition contains between 50 milligrams and about 700 milligrams of said modafinil.
+. . . . .
+"10. The use of a substantially homogeneous mixture of modafinil particles whereof at least about 95% of the cumulative total of said particles have a diameter of less than about 200 micrometers for the manufacture of a pharmaceutical composition containing between about 50 mg and about 700 mg of modafinil for use in altering the somnolent state of a mammal.
+. . . . .
+"12. The use of modafinil for the manufacture of a pharmaceutical composition comprising modafinil particles having a median particle size of about 2 to about 60 micrometres for use in altering the somnolent state of a mammal, wherein said composition contains 50 to 700 milligrams of said modafinil particles."
+[55]
+What is already known is that pharmaceutical compositions containing modafinil exist and that they can treat sleep disorders. For the purposes of claim construction, the essential part of these claims is directed to the particle size, expressed in a variety of ways such as median, mean and mode, and that having about 95% at least of those particles under a particular size allows an "effective amount" of modafinil to be administered. A range of 50 mg to 700 mg of modafinil is given, this is what the patentee has selected as "an effective amount" that reduces or eliminates the somnolent state, enhances alertness or increases regularity of sleep rhythms.
+[56]
+A word about dimensions as expressed in the patent and elsewhere. In both the patent and the prior art, the size of the modafinil particles is often described using a unit of measurement called the micrometer, which is often abbreviated to either micron or µm. To put the size of a micrometer in perspective, one millimetre is the same size as one thousand micrometers.
+VALIDITY - BURDEN OF PROOF
+[57]
+The parties did not dwell in argument on the question of burden of proof. I must decide the matter based on the balance of probabilities. If I find the balance to be even, then I must find that the Applicants have not displaced the burden of demonstrating that Apotex's allegations as to validity such as have been raised in by the Notice of Allegation, are not justified (to use a double negative).
+VALIDITY - ANTICIPATION
+[58]
+Apotex has alleged in its Notice of Allegation, at pages 5 and 6, that the claims of the '967 were anticipated by the earlier publication of an application filed under the provisions of the Patent Co-Operation Treaty, application number WO94/21371 (WO371). That application was published on September 29, 1994, about a week before the priority application respecting the '967 patent was filed in the United States Patent Office on October 6, 1994. From the aspect of timeliness, WO371 is a timely reference.
+[59]
+The reference WO371 was published in the French language and while Counsel were apparently prepared to address the matter in that language, they agreed that an acceptable English language version of WO371 existed in the form of United States Patent 5,843,347 (US '347) and, therefore, argument was based on that English language version.
+[60]
+Anticipation is a concept that rests on the requirement as set out in the definition of "invention" in section 2 of the
+Patent
+Act
+, supra, that an invention be "new". The theory behind it is as expressed by the Supreme Court of Canada  <FRAGMENT_SUPPRESSED>  Inc. and  <FRAGMENT_SUPPRESSED> of their unanimous reasons:
+"[37] ... The public should not be expected to pay an elevated price in exchange for speculation, or for the statement of 'any mere scientific principle or abstract theorem' (s. 27(3)), or for the 'discovery' of things that already exist, or are obvious. The patent monopoly should be purchased with the hard coinage of new, ingenious, useful and unobvious disclosures. ..."
+[61]
+Therefor, if the public has been put into possession of the claimed invention by whatever means, it does not have to pay the price of a monopoly to get it again. The inquiry thus has to be made as to what the public
+already has
+and compare it with what is
+claimed
+as the monopoly in the patent at issue.
+[62]
+Sometimes a shortcut is used by asking if the earlier disclosure were to be put into practice, would it infringe the later claims. This approach was used by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> :
+"[24] The relevant question, in relation to the claim of the 274 patent for Form 0, is this: Is Form 0 formed in the process of making Form I or Form II? That is a question of fact, to which the undisputed answer is yes. A skilled practitioner who makes Form I or II following the teaching of the prior art inevitably would make Form 0, even if no steps are taken to stabilize it. The Form 0 might not be recognized, but that does not matter: see Smithkline Beecham PLC's (Paroxetine Methanesulfonate) Patent, [2005] UKHL 59, per Lord Hoffman, at paragraph 22:
+'[...] the matter relied upon as prior art must disclose subject-matter which, if performed, would necessarily result in an infringement of the patent. That may be because the prior art discloses the same invention. In that case there will be no question that performance of the earlier invention would infringe and usually it will be apparent to someone who is aware of both the prior art and the patent that it will do so. But patent infringement does not require that one should be aware that one is infringing: "whether or not a person is working [an] ... invention is an objective fact independent of what he knows or thinks about what he is doing":
+ <FRAGMENT_SUPPRESSED> . It follows that, whether or not it would be apparent to anyone at the time, whenever subject-matter described in the prior disclosure is capable of being performed and is such that, if performed, it must result in the patent being infringed, the disclosure condition is satisfied. The flag has been planted, even though the author or maker of the prior art was not aware that he was doing so.'
+"[25] Because a person who makes Form I or Form II following the teaching of the prior art inevitably would make Form 0, that person would infringe the 274 patent as surely as Ratiopharm would infringe it by making the Form II for its product, as it proposes to do, by a method that results in the creation of Form 0. The situation is aptly described by the learned authors of Hughes and Woodley on Patents (2nd edition), at page 134 (paraphrasing Rinfret, J., in
+ <FRAGMENT_SUPPRESSED>  at page 381):
+'[...] what would infringe if later, anticipates if earlier.
+'The same thought is expressed as follows by Jacob L.J. in Technic France S.A.'s Patent, [2004] R.P.C. 919 at paragraph 77:
+And yet another way of looking at the problem is to ask whether what is disclosed [in the prior art] falls within the claim -- if it had been later would it infringe?'"
+[63]
+It must be recognized however, that this is a simply a shortcut and has limitations as recognized by Professor Vaver, in his book
+Intellectual Property Law
+(Concord, Ontario: Irwin Law, 1997) at page 133:
+"A double standard operates here. Courts give patents a non-literal 'purposive' construction when they are testing for internal validity or trying to catch infringers. When testing prior documents for novelty, however, they construe them narrowly. The documents are then subjected to 'the closest scrutiny', and a 'weighty burden' is placed on the challenger. Sauce for the patent goose should perhaps also be sauce for the prior art gander. Prior documents should be examined purposively as a skilled reader would read them. This examination should cover obvious equivalents to described or claimed elements."
+[64]
+Thus the same lawyer, who might argue for a generous and broad interpretation of a patent when seeking infringement, would with equal zeal give the narrowest possible interpretation to an earlier disclosure. Each document, the prior disclosure, and the claim at issue, should be given the same, purposive, interpretation.
+[65]
+The matter was expressed this way by the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 289 (F.C.A.), at page 297 [C.P.R.]:
+"... One must, in effect, be able to look at a prior, single publication and find in it all the information which,
+for practical purposes
+, is needed to produce the
+claimed invention
+without the exercise of any inventive skill. ..." (Emphasis added.)
+[66]
+The "
+claimed
+invention" must, "for practical purposes" be disclosed sufficiently in the prior art (use or publication) that no "inventive skill" is needed to be led to the claimed invention.
+[67]
+What is disclosed in this case, in WO371? The first substantive part of the text (Col. 1 of US '347) reads as follows:
+"The present invention relates to a novel process for the preparation of isolated particles, each of which contains at least one active ingredient useful in therapeutics, cosmetics, dietetics or nutrition, by extrusion and then lyophilization."
+[68]
+The subject is later more precisely defined (Col. 4 of US '347):
+"According to the invention, a process is recommended for the preparation of particles useful especially in therapeutics, each particle comprising an excipient forming a matrix and at least one active ingredient uniformly distributed in the mass of the matrix, said process being characterized in that it comprises ..."
+[69]
+Thus we are told that the document (in this case it is a patent application but that is irrelevant, it is the disclosure that is relevant) contains a disclosure as to how to make particles of a pharmaceutical composition useful in therapeutics. This is a proper reading of the document so far.
+[70]
+Examples are given as to how to prepare these particles. Examples 16 and 17 relate specifically to modafinil. We know that the applicant in WO371 is Laboratoire L. Lafon, of France, the same company that licensed the modafinil technology to the Applicant Cephalon and who the Applicants acknowledge to be the originator of modafinil. Examples 16 and 17 as disclosed are (Col. 14 of US '347):
+EXAMPLES 16-17
+Microbeads of modafinil
+The following formulations:
+-
+Ex. 16
+Ex. 17
+Modafinil*
+100 g
+100 g
+Sodium saccharinate
+2 g
+2 g
+Dextran 70
+10 g
+10 g
+Tween 80
+2 g
+2g
+Hydroxypropyl ß- cyclodextrin
+100 g
+-
+Lactose or mannitol
+-
+40 g
+Xanthan gum
+1 g
+1 g
+Water
+200 g
+200 g
+Note
+*particle size of the modafinil: 2-5 m are used to prepare microbeads according to the invention.
+Diameter of the dies: 0.5 mm
+Diameter of the microbeads: 1 mm
+[71]
+The reader is told clearly and precisely that the particle size of the modafinil used is 2-5 m; that is well below, by up to one hundred fold, the upper limit of about 200 µm established by claims 1 or 10 and even within the narrowest range such as in claims 3 or 18 of 2 µm to 19 µm.
+[72]
+The Applicants argued that WO371 (US '347) did not disclose a "pharmaceutical composition" as claimed in the '967 patent. I reject that argument. WO371 clearly discloses a composition said to be useful in the therapeutics. As of the date of its publication, modafinil was well known as the active ingredient in pharmaceutical compositions used to treat somnolent disorders. The '967 patent itself acknowledges this to be the case.
+[73]
+The Applicants further argue that Examples 16 and 17 do not state the purpose to which the "particles" are to be put. This is really the same as the argument above, and I reject it. As of the date of publication of WO371, the known purpose of modafinil was to make pharmaceutical compositions to treat somnolent disorders. Any person skilled in the art reading Examples 16 and 17 would quite reasonably expect that that is the purpose for which the "particles" are prepared.
+[74]
+The Applicants further argue that the dosage range of between 50 mg and 700 mg which is called for directly or indirectly in all the claims is not specified in Examples 16-17 or anywhere in WO371. This is correct as far as it goes however, as I have found in construing the claims, this dosage range is not an essential element of the claim. What is important is, as set out at page 6 of the patent, that the dosage be in "an effective amount" which is defined as an amount that reduces or eliminates symptoms of a somnolent state. The evidence shows that, as of the date of publication of WO371, dosages in the range of 50 mg to 700 mg includes the range of dosages of modafinil commonly given to treat somnolent disorders. For instance, publications including modafinil product specifications, at the relevant time before WO371 was published, show that dosages of 100 mg, 200 mg, up to 600 mg were common and occasionally 700 mg was reported. There is no "invention" or "essential element" in the range of 50 mg to 700 mg. The "essential" element of the claims is particle size of modafinil in a pharmaceutical composition and that is clearly anticipated by Examples 16-17 of WO371.
+[75]
+Therefore, I find that the Applicants have, on the balance of probabilities failed to show that the allegation that the '967 patent is invalid because it has been anticipated by WO371 is not justified. This would be sufficient to dismiss the application; however, I will examine the other allegations put in issue at the hearing.
+VALIDITY-OBVIOUSNESS
+[76]
+There is a difference between the concepts of novelty and obviousness when discussing the validity of a patent. They have been stated, for instance, by the Federal Court of Appeal in
+Rothmans,  <FRAGMENT_SUPPRESSED>  C.P.R.(3d) 188 (F.C.A.) at pages 197-199:
+"'Anticipation' and 'obviousness' are different concepts.  <FRAGMENT_SUPPRESSED>  patent based on its lack of inventiveness. The attacker says, in effect, "Any fool could have done that." Anticipation, or lack of novelty, on the other hand, in effect assumes that there has been an invention but asserts that it has been disclosed to the public prior to the application for the patent. The charge is: "Your invention, though clever, was already known."'
+He said about 'anticipation':
+'It will be recalled that anticipation, or lack of novelty, asserts that the invention has been made known to the public prior to the relevant time. The inquiry is directed to the very invention in suit and not, as in the case of obviousness, to the state of the art and to common general knowledge. Also, as appears from the passage of the statute quoted above, anticipation must be found in a specific patent or other published document; it is not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention. One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention.' [My emphasis]
+He described the test of "obviousness" in the following way:
+'The test for obviousness is not to ask what competent inventors did or would have done to solve the problem. Inventors are by definition inventive. The classical touchstone for obviousness is the technician skilled in the art but having no scintilla of inventiveness or imagination; a paragon of deduction and dexterity, wholly devoid of intuition; a triumph of the left hemisphere over the right. The question to be asked is whether this mythical creature (the man in the Clapham omnibus of patent law) would, in the light of the state of the art and of common general knowledge as at the claimed date of invention, have come directly and without difficulty to the solution taught by the patent. It is a very difficult test to satisfy.' [My emphasis]
+Prior art may be used in the application of both tests but differently. Fox, Canadian Patent Law and Practice, 4th Ed. (1969) at 136-37, states:
+'... Prior specifications are generally used to show anticipation if they disclose exactly and fully what the patentee has claimed. If such disclosure is not made by the prior specification and it cannot be used as an anticipation, it may be used as indicating the state of the art at the time that the patentee made his alleged invention and as showing that what the patentee did was so slight at contribution to existing knowledge as to lack the essential element of invention and to be merely obvious.' [My emphasis]
+"Anticipation must therefore be found in a single document which already gives a skilled person what is claimed and which teaches it all. In the case of obviousness, however, 'the prior art should be reviewed and its cumulative effect considered'. Thus the 'mosaic of extracts'.
+"Both are questions of fact."
+[77]
+The first comment to be made is that, with respect to WO371, if something is found to be lacking in considering anticipation, the gaps are readily filled when considering obviousness. The document WO371 is one directly relevant to the pharmaceutical industry and those interested in modafinil. It was published before the earliest date of invention for the '967 patent which is its priority filing date in the United States. A person skilled in the art would be given the knowledge that a pharmaceutical composition containing modafinil, a drug known for treating sleep disorders, could be made using small particulate sizes, 2 µm to 5 µm, of modafinil
+[78]
+The common knowledge was that dosage ranges of between 100 mg and 600 mg or even to 700 mg was used. It was known that particle size affected the properties of a drug, particularly one like modafinil which was known to have low water solubility. It was known that formulators would adjust particle size to suit the bioavailability of a drug (e.g. Langer Affidavit, paras. 72 to 159).
+[79]
+The Applicants argue that changing particle size was not always known to increase the benefits of a given drug. In some instances, smaller sizes would be beneficial, in other instances, not. As stated by in the English courts, the fact that a number of routes exist does not mean that the alleged inventor is not obvious.
+[80]
+Aldous, L.J., in
+ <FRAGMENT_SUPPRESSED>  at 212). What would have been obvious will depend on all the circumstances. As I said in
+ <FRAGMENT_SUPPRESSED>  is often necessary to decide whether a particular avenue of research leading to the invention was obvious. In such circumstances the extent of the different avenues of research and the perceived chances of any one of them providing a successful result can be relevant to the decision whether the invention claimed was obvious. Whether the subject matter was obvious may depend upon whether it was obvious to try in the circumstances of that particular case and in those circumstances it will be necessary to take into account the expectation of achieving a good result. But that does not mean that in every case the decision whether a claimed invention was obvious can be determined by deciding whether there was a reasonable expectation that a person might get a good result from trying a particular avenue of research. Each case depends upon the invention and the surrounding facts. No formula should be substituted for the words of the statute. In every case the Court has to weigh up the evidence and decide whether the invention was obvious . This is the statutory task.'"
+[81]
+Laddie, J., in
+ <FRAGMENT_SUPPRESSED>  at 661:
+"First a route may still be an obvious one to try even if it is not possible to be sure that taking it will produce success, or sufficient success to make it commercially worthwhile. ... Secondly, if a particular route is an obvious one to take or try, it is not rendered any less obvious from a technical point of view merely because there are a number, and perhaps a large number, of other obvious routes as well. If a number of obvious routes exist it is more or less inevitable that a skilled worker will try some before others."
+[82]
+To the same effect is the finding of the Federal Court of Appeal in the "pink paroxetine" case:
+ <FRAGMENT_SUPPRESSED>  affing. (2001), 208 F.T.R. 105; 2001 FCT 770. If there are three ways to make a tablet, wet formulation and two kinds of dry, and a product turns pink when the wet process is used, it was obvious that a person skilled in the art would consider a dry process even if there may be many other factors for the pinkness that may be considered as well.
+[83]
+In
+SmithKline Beecham
+, the Trial Judge made the following finding on the basis of analysis in this respect at paragraph 40:
+"[40] Having determined that a wet formulation of paroxetine tablets gives rise to a 'pink hue problem', a problem of significant enough magnitude to cause a skilled person to seek out at least a partial solution to the problem, I am satisfied that a logical first step for a person skilled in the art would be to turn to the alternative formulation methods disclosed by the '060 patent and to determine whether each or any of those alternative formulation methods would solve, or at least partially solve, the problem. Such an enquiry would, I am satisfied, involve no inventive step or skill. It would simply involve application of the invention taught by the '060 patent."
+[84]
+At paragraph 20 of the Court of Appeal's decision that Court considered the matter on the basis of "
+inventive step
+" or "
+mechanical skill
+". Whether this is categorized as "
+anticipation
+" or "
+obviousness
+" is not relevant. The point is, there is no valid invention:
+"[20] However, in this case, the Applications Judge found as a fact that 'no inventive step or skill' was required to arrive at the '637 Patent. In other words, one could arrive at the '637 Patent 'without the aid of inventive genius but purely by mechanical skill.' The instructions for arriving at the formulation claimed by the '637 Patent are, therefore, clearly and unmistakeably present in the '060 Patent. The Applications Judge determined that it is not at all surprising that any person skilled in the art who was confronted by the 'pink hue problem' would invariably turn to the alternative formulation methods disclosed by the '060 Patent to arrive at a solution without any inventive step. Mechanical skill rather than inventive genius is required in order to apply the '060 Patent to arrive at the '637 Patent. The appellants have not persuaded me that the Applications Judge erred in his consideration of the evidence as a whole to arrive at this conclusion. Moreover, the fact that the '060 Patent contains additional information and instructions not present in the '637 Patent is immaterial to whether or not one could 'look at [the '060 Patent] and find in it all the information which, for practical purposes, is needed to produce [the '637 Patent] without the exercise of any inventive skill' ( <FRAGMENT_SUPPRESSED> , supra, at 297)."
+[85]
+Here particle size variation is shown to be something well within the skill and knowledge of a person skilled in the art. Such a person would be expected to look at particle size when preparing a drug. No one person should, by a patent monopoly, deprive such a person of using that skill.
+[86]
+Thus I find, on a balance of probabilities, that the Applicants have failed to prove that Apotex's allegations of obviousness are not justified. This is a further ground upon which the application will be dismissed.
+VALIDITY-MERE DISCOVERY
+[87]
+Apotex argues that the "
+invention
+" claimed in the '967 patent is not an invention at all but is a "
+mere discovery
+". The world "
+discovery
+" is not found in the
+Patent
+Act
+, but seems to have found its way into patent language but without a rigorous discussion as to whether a distinction is to me made between an "
+invention
+" and a "
+mere discovery
+". Section 91(22) of the
+Constitution
+Act
+1867
+(U.K.), 30 & 31 Vict. c. 3, provides that the federal government shall have jurisdiction in respect of "
+Patents of Invention and Discovery
+", however the
+Patent
+Act
+, does not address discovery or distinguish between the two.
+[88]
+Apotex relies on the decision of Justice Mosley of this Court in
+ <FRAGMENT_SUPPRESSED>  at paras. 150-156. I do not read that decision as creating a new category for consideration of the validity of a patent. Justice Mosley was simply applying existing law respecting novelty and obviousness.
+[89]
+Having found that the allegations of invalidity in respect of novelty and obviousness have not been shown not to be not justified (to use a double negative). I see no need to create precedent for a new category of "
+mere discovery
+".
+VALIDTY-UTILITY
+[90]
+Apotex argues in respect of utility, that the '967 patent promises that the claimed formulation will deliver greater potency and a more predictable safety profile. It references page 8 lines 12-15 of the patent:
+II.
+The Invention
+The invention results from our discovery that the particle size, and the consistency of the particle size, of modafinil can have a significant effect on its potency and safety profile.
+[91]
+However, Apotex argues that, in fact, modafinil in the particle size range claimed in the patent is no more potent than previous versions of modafinil and no safer.
+[92]
+As to potency, the '967 patent at pages 16 to 18 discusses studies conducted on dogs who were fed various dosages of modafinil of particular particle sizes and the plasma levels measured at various time intervals. The results are illustrated at Figure 8 (Figure 9 is similar but deals with a metabolite of modafinil and not modafinil itself). The patent at page 17 lines 24 to 26 states in respect of this study:
+"These results implicated the consequences of different particle sizes and the importance of controlling modafinil particle size"
+[93]
+When one looks at Figure 8 it is readily apparent that there are a number of vertical bars on the results plotted on the graph. These bars are referred to in the evidence as "
+error
+" bars or bars reflecting statistical standard deviation. As to the meaning of this graph and the effect of these bars I consider that the most important evidence comes from the witnesses Drs. Polli, Feifel and Cartilier as their expertise lies in this area. Having looked at all the relevant evidence including in particular that of the witnesses named above, I am satisfied that the evidence as to Figure 8 and what is said about it in the '967 patent can be summarized with reference to questions 627 to 636 and the answers given on Dr. Cartilier's cross-examination namely that a person skilled in the art cannot come to any meaningful conclusion from the information presented:
+"627 Q. To go back to Figure 8, are you able to tell me whether there are any statistical differences in the curves in Figure 8?
+A. You cannot perform a statistical calculation on that. You need the raw data.
+628 Q. Okay. So you cannot-Reading the Patent and looking at this Figure, you cannot tell me, one way or the other, whether the differences are meaningful?
+A. No. I have plenty of Papers where there are no error bars and where there is a meaningful message showing differences.
+629 Q. Okay. But --
+A. I will -
+630 Q. Sorry. Go ahead.
+A. What I cannot do is to calculate the statistical test, because I don't have the data.
+631 Q. Right. You cannot perform a statistical analysis?
+A. Yes. That is correct.
+632 Q. And none was undertaken in the '967?
+A. I don't know.
+633 Q. Well, you read it. In the '967 -
+A. In the '967, I didn't see -
+634 Q. Right. So at this point, without having that analysis, one cannot conclude whether or not these differences are meaningful, in the sense that there are statistically significant differences.
+Correct?
+A. Regarding the statistical aspect, you cannot conclude.
+635 Q. Right. So you cannot conclude whether these differences are meaningful, from a statistical significance point of view.
+Correct?
+A. From a statistical point of view, I cannot conclude -
+636 Q. But more than 'statistical'.
+It is 'statistical significant' point of view.
+A. Yes. From a statistical significant point of view."
+[94]
+As to safety, the patent does not expressly address safety except to address consistency and lower dosages, at page 17:
+"These results implicated the consequences of different particle sizes and the importance of controlling modafinil particle size. By controlling the particle size, safety concerns can be addressed. For example, a non-homogenous mixture of modafinil particle sizes may not provide consistent potency nor avoid undesired fluctuations in plasma modafinil concentrations; such fluctuations can lead to undesired and unexpected events. Moreover, the use of modafinil particles having a defined size is more efficient because a given plasma modafinil concentration can be achieved at lower oral dosages."
+[95]
+The patent claims express the dosage levels as being between 50 mg and 700 mg. This range is not lower than the range of dosages previously administered in the prior art. Previous modafinil products approved for sale in France show that 100 mg tablets were approved with dosages of 2 to 4 tablets daily being approved, that is, dosages of 200 to 400 mg per day. This is within the claimed range of the '967 patent. No demonstrable safety "
+innovation
+" has been shown.
+[96]
+I am satisfied, on the evidence, that the Applicants have failed to prove that Apotex's allegations that the alleged invention as claimed in the '967 patent lacks utility is not justified.
+VALIDITY - SUFFICIENCY
+[97]
+The Federal Court of Appeal has recently dealt with how an allegation of sufficiency, in respect of section 27(3) of the
+Patent
+Act
+, it is to be dealt with.  <FRAGMENT_SUPPRESSED>  that Court held that sufficiency must be determined having regard to what is said in the patent itself without regard to extrinsic evidence. Their conclusion was set out at paragraphs 63 and 64:
+"[63] The applications judge erred in construing the promise of the patent and mischaracterized the disclosure requirement under subsection 27(3) of the
+Act
+by asking whether there was sufficient data to substantiate the promise of the patent. Such an examination exceeds the scope of the provision. An attack on a selection patent on the basis that there is no data to support the claimed advantage is certainly relevant for the purposes of validity (most likely to the question of utility), but it is not relevant with respect to disclosure under subsection 27(3) of the
+Act
+.
+"[64] The patent must disclose the invention and how it is made. The 546 patent does this. It also discloses the advantages that underlie the selection. This, in my view, is the extent of the requirement under subsection 27(3) of the
+Act
+, the purpose of which is to allow a person skilled in the art to make full use of the invention without having to display inventive ingenuity."
+[98]
+Pointing to decisions such as
+ <FRAGMENT_SUPPRESSED>  B.C.A.C. 161; 191 W.A.C. 161 at paragraph 46, Apotex argues that:
+"A patent is a statutory monopoly which is given in exchange for a full and complete disclosure by the patentee of his or her invention. The disclosure is the essence of the bargain between the patentee ... and the public."
+[99]
+The argument made by Apotex at the hearing rested almost entirely on the basis that, having regard to Table 1 set out at page 13 of the patent and, in particular, the right hand most column, the data is meaningless. Mathematically it makes no sense. It purports to assign to the data looking to the left horizontally a value of 1 to the "
+median
+" value then a proportionate value to "
+mean
+" and "
+mode
+". For example, looking at the first entry E-A, the chart says one thing but calculations show something else:
+Median =
+143.65 =
+1 (chart)
+Mean =
+34.60 =
+4.15 (chart)
+-
+-
+0.24 (calculated)
+Mode =
+176.48 =
+0.81 (chart)
+-
+-
+1.23 (calculated)
+[100]
+Apotex argues that these erroneous calculations render the Table and any conclusions as to median: mean: mode, meaningless. The Applicants argue that a person skilled in the art would recognize the calculations as erroneous but would appreciate that the reported data in the other columns is accurate and the data would be accepted as such.
+[101]
+The Applicants however raise another point namely that Apotex failed to raise an argument as to sufficiency of the median: mean: mode column in Table 1 in its Notice of Allegation and to raise it at the hearing for the first time has not given the Applicants an opportunity to know the case put against them or to lead such evidence as they would believe to be appropriate. I agree, this matter was not clearly raised in the Notice of Allegation and regardless as to merit or otherwise I find that it is not properly before this Court and cannot now be raised.
+[102]
+If I am wrong in this finding, I would have determined on the evidence that I do have on the matter that the median: mean: mode column of Table 1 is misleading and would lead a person skilled in the art to doubt the veracity of all data presented in the Table and any conclusions expressed in the Patent in that regard.
+VALIDITY - CLAIMS OVERBROAD - "ABOUT"
+[103]
+The final challenge to validity of the '967 patent made by Apotex at the hearing deals with the use of the world "
+about
+" in the claims. That word appears directly or indirectly in every one of the 28 claims of the patent. In claim 1 the world "
+about
+" modifies the percentage of particles under a certain size, it modifies the dimensions of the particle and it modifies the dosage.
+[104]
+In the text of the disclosure part of the patent, page 4 lines 7-12 the world "
+about
+" is defined:
+"As used herein, 'about' means plus or minus approximately ten percent of the indicated value, such that 'about 20 microns' indicates approximately 18 to 22 microns. The size of the particle can be determined, e.g., by the methods provided below, and by conventional methods known to those of skill in the art."
+[105]
+Apotex argues that, as a result of this definition, wherever the world "
+about
+" occurs in the claims it means plus or minus approximately ten percent of whatever value is stated. The Applicants argue that the world "
+about
+" as defined at this place in the patent relates only to particle size and not to other criteria such as percentage of particles or dosages.
+[106]
+Apotex argues that, in taking the definition of "
+about
+" to apply to the percentage of particles falling below a stated size in the claim such as "
+at least
+about
+95%
+" having a diameter of "
+less than about 200 micrometers
+" as it appears in claim 1 and, by reference, claims 2 to 9, in claim 10, claim 27 and, by reference, claim 28, would permit a composition (using the 10% definition) in which at least 85.5% of the cumulative total of modafinil particles has a particle size of less than 220 micrometers. If this is the case, Apotex argues, the "early" or "E" lots of modafinil described in the patent as being previously existing or "
+prior art
+" would be within the terms of the claims.
+[107]
+I agree that the patent draftsman probably did not pay much attention as to the definition of the world "
+about
+" or how or where that word occurred in the claims. However, a purposive construction of the patent, reading it fairly, indicates that "about" being plus or minus ten percent should be limited to particle size and not other definitions such as percentage or dosage as may occur in the claims.
+[108]
+Therefore, I find that this allegation by Apotex is not justified.
+CONCLUSION
+[109]
+As a result, I find that the Applicants have failed, on the balance of probabilities, to discharge their burden of demonstrating that Apotex's allegations of invalidity of the '967 patent, at least on the grounds of anticipation, obviousness and utility, are not justified. The application will be dismissed.
+COSTS
+[110]
+The Respondent Apotex has been successful in this application and will be awarded costs at the usual level in these proceedings, the middle of Column IV. However Apotex raised in its Notice of Allegation and ultimately did not pursue at the hearing many allegations as to invalidity including section 53 of the
+Patent
+Act
+.
+As discussed in
+ <FRAGMENT_SUPPRESSED>  section 53 raises an implication of fraud which if raised and not pursued should bear a cost penalty. As a result, costs and disbursements taxed and allowed to Apotex shall be reduced by twenty-five percent.
+[111]
+Costs for two counsel at the hearing, one senior, one junior may be taxed. Two counsel, if present, in conducting a cross-examination and one in defending a cross-examination, will be allowed. No costs are allowed for other lawyers, in house or out house, or for paralegals.
+[112]
+The fees taxed for expert witnesses shall not exceed those charged by Apotex's senior counsel for the same amount of time.
+[113]
+Photocopying is allowed at the lesser of $0.25 per page or the actual amount charged.
+JUDGMENT
+[114]
+FOR THE REASONS given
+:
+THIS COURT ADJUDGES that
+:
+1. The application is dismissed;
+2. The Respondent Apotex is entitled to costs to be taxed in accordance with these Reasons.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/vnh
+ANNEX A
+FIGURE 8
+[Diagram omitted - see printed version]
+ANNEX B
+CLAIMS
+1. A pharmaceutical composition comprising a substantially homogeneous mixture of modafinil particles, wherein at least about 95% of the cumulative total of modafinil particles in said composition have a diameter of less than about 200 micrometers and said composition contains between about 50 milligrams and about 700 milligrams of said modafinil.
+2. The composition of claim 1, wherein said particles have a median diameter range of between about 2 micrometers and about 60 micrometers.
+3. The composition of claim 1, wherein particles have a mean diameter of from about 2 micrometers to about 19 micrometers.
+4. The composition of claim 1, wherein said particles have a mode diameter of from about 2 to about 60 micrometers.
+5. The composition of claim 1, wherein the ratio of the median diameter of said particles to the mean diameter of said particles is in the range 1:2.50 to 1:0.50.
+6. The composition of claim 1, wherein the ratio of the median diameter of said particles to the mode diameter of said particles is in the range 1:2.50 to 1:0.50.
+7. The composition of claim 1, wherein said particles have a mean diameter of from about 2 micrometers to about 19 micrometers, a median diameter of from about 2 micrometers to about 60 micrometers, and a mode diameter of from about 2 micrometers to about 60 micrometers, the ratio of said median diameter to said mode diameter being in the range 1:2.50 to 1:0.50 and the ratio of said median diameter to said mean diameter being in the range 1:2.50 to 1:0.50.
+8. The composition of claim 7, wherein the standard deviation of said mean, median and mode diameters is less than 25 micrometers.
+9. The composition of any one of claims 1 to 9, in a form adapted for oral administration being a tablet, capsule, powder, pill, liquid suspension or emulsion.
+10. The use of a substantially homogeneous mixture of modafinil particles whereof at least about 95% of the cumulative total of said particles have a diameter of less than about 200 micrometers for the manufacture of a pharmaceutical composition containing between about 50 mg and about 700 mg of modafinil for use in altering the somnolent state of a mammal.
+11. The use of claim 14, wherein said somnolent state is narcolepsy.
+12. The use of modafinil for the manufacture of a pharmaceutical composition comprising modafinil particles having a median particle size of about 2 to about 60 micrometres for use in altering the somnolent state of a mammal, wherein said composition contains 50 to 700 milligrams of said modafinil particles.
+13. Used as claimed in claim 12, wherein particles have a mean diameter of from about 2 micrometers to about 19 micrometers.
+14. Used as claimed in claim 12, wherein said particles have a mode diameter of from about 2 to about 60 micrometers.
+15. Used as claimed in claim 12, wherein the ratio of the median diameter of said particles to the mean diameter of said particles is in the range 1:2.50 to 1:0.50.
+16. Used as claimed in claim 12, wherein the ratio of the median diameter of said particles to the mode diameter of said particles is in the range 1:2.50 to 1:0.50.
+17. Used as claimed in claim 12, wherein said particles have a mean diameter of from about 2 micrometers to about 19 micrometers, a median diameter of from about 2 micrometers to about 60 micrometers, and a mode diameter of from about 2 micrometers to about 60 micrometers, the ratio of said median diameter to said mode diameter being in the range 1:2.50 to 1:0.50 and the ratio of said median diameter to said mean diameter being in the range 1:2.50 to 1:0.50.
+18. The use of modafinil for the manufacture of a pharmaceutical composition comprising modafinil particles having a mean particle size of about 2 to about 19 micrometres for use in allering [sic] the somnolent state of a mammal, wherein said composition contains 50 to 700 milligrams of said modafinil particles.
+19. Used as claimed in claim 18, wherein said particles have a mode diameter of from about 2 to about 60 micrometers.
+20. Used as claimed in claim 18, wherein the ratio of the median diameter of said particles to the mean diameter of said particles is in the range 1:2.50 to 1:0.50.
+21. Used as claimed in claim 18, wherein the ratio of the median diameter of said particles to the mode diameter of said particles is in the range 1:2.50 to 1:0.50.
+22. The use of modafinil for the manufacture of a pharmaceutical composition comprising modafinil particles have [sic] a mode particle size of about 2 to about 60 micrometers for use in altering the somnolent state of a mammal, wherein said composition contains 50 to 700 milligrams of said modafinil particles.
+23. Used as claimed in claim 22, wherein the ratio of the median of said particles to the mean diameter of said particles is in the range 1:2.50 to 1:0.50.
+24. Used as claimed in claim 22, wherein the ratio of the median diameter of said particles to the mode diameter of said particles is in the range 1:2.50 to 1:0.50.
+25. Used as claimed in any one of claims 12 to 24, wherein the standard deviation of said mean, median and mode diameters is less than 25 micrometers.
+26. Used as claimed in any one of claims 12 to 25, wherein said composition is in a form adapted for oral administration, said form being a tablet, capsule, powder, pill, liquid suspension or emulsion.
+27. The use of a substantially homogeneous mixture of modafinil particles whereof at least about 95% of the cumulative total of said particles have a diameter of less than about 200 micrometers for the manufacture of a pharmaceutical composition containing 50 mg to 700 mg of modafinil for use in altering the somnolent state of a mammal.
+28. Use as claimed in any one of claims 12 to 28, wherein said somnolent state is narcolepsy.
+[End of document]

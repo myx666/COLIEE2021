@@ -1,0 +1,1206 @@
+[1]
+Martineau, J.
+: The applicant was hired in 1989 as customs inspector at Pearson International Airport [PIA]. Since 1996, he was on leave with pay, being engaged full-time in union matters. His employment with the Canada Border Services Agency  <FRAGMENT_SUPPRESSED>  was terminated in November 1997 following the posting on the union website of two statements that the deputy head viewed as counselling or procuring an illegal work stoppage.
+[2]
+Alleging that the employer had violated the non-discrimination clause of the collective agreement and the non-interference provision of the
+Public Service Labour Relations Act
+, SC 2003, c 22, [
+PSLRA
+], the applicant filed grievances against a 30 day suspension issued on November 2, 2007 and his subsequent dismissal on November 20, 2007. Three years later, on November 29, 2010, the grievances were denied by a member of the Public Service Labour Relations Board [Board] acting as adjudicator (
+ <FRAGMENT_SUPPRESSED> ), leading to the present judicial review application.
+[3]
+In a nutshell, the adjudicator found that the deputy head had general authority under the
+Financial Administration Act
+, RSC 1985, c  F-11 [
+FAA
+] to discipline the applicant. The statements posted on the union website constituted "counselling" or "procuring" an illegal strike contrary to subsection 194(1) of the
+PSLRA
+. Accordingly, there was no violation of the non-discrimination clause of the collective agreement or the non-interference provision of the
+PSLRA
+. The discipline imposed by the employer was appropriate and reasonable in the circumstances.
+[4]
+The present judicial review application is dismissed. For the reasons below, the adjudicator's findings of fact and law are reasonable. Accordingly, the Court must refrain from substituting its opinion to that of the adjudicator, despite the fact that the Court has some doubts with respect to the correctness of the interpretation made by the adjudicator of subsection 194(1) of the
+PSLRA
+. In this respect, the Court feels bound to apply the standard of reasonableness in view of most recent jurisprudence of the Federal Court of Appeal and the Supreme Court of Canada.
+I. BACKGROUND
+[5]
+In the arbitration proceeding, five witnesses testified on the management's side, including the deputy head [Mr. John Gillan]. On the union's side, three witnesses testified, including the applicant. Since a court reporter was not present at the hearing no transcripts are available. In preparing the background, the Court has considered the summary of the evidence found in the impugned decision itself (paragraphs 8-72), the numerous exhibits filed at the hearing by the applicant and the employer, including the parties' written representations, as well as any affidavit filed in this proceeding (see volumes I, II and III of the applicant's application record).
+Union representative
+[6]
+The applicant commenced his employment as a customs inspector in 1989, in a position which later became known as a "border services officer" at PIA. In November 1999, customs inspectors - until then employed with Revenue Canada - came under a newly created agency known as the Canada Customs and Revenue Agency. In December 2003, they were transferred to another agency, the CBSA, which also included agricultural inspectors - formerly employed by the Canadian Food Inspection Agency - and officers from PIA's Immigration Department. These three groups were called the "legacy groups" by the management and the union.
+[7]
+In summer of 1990, the applicant became a steward for Local 24 of the Customs Excise Union Douanes Accise [CEUDA], a component of the Public Service Alliance of Canada  <FRAGMENT_SUPPRESSED> . He was later elected as a vice-president in 1993. He also served as the president of CEUDA Local 24 from 1996 to 1999 and from 2005 to June 2008. Between 1999 and 2005, he served as the National Executive of the CEUDA National Organization.
+[8]
+It is not challenged that the applicant was acting in his union capacity when the alleged acts of misconduct took place and he was disciplined by the employer. At that time, the applicant was actively seeking the resolution of a long time conflict with respect to variable shift schedules arrangements [VSSA].
+Variable shift schedule arrangements
+[9]
+The legacy groups had all different work schedules. The immigration group was on a shifting schedule of two days on, two days off, and then three days on, three days off (the 2/2 schedule). The agriculture group had a schedule of four days on, four days off (the 4/4 schedule). The customs inspectors group had the least favourable schedule of five days on, three days off (the 5/3 schedule); this was still the situation in December 2006.
+[10]
+The PSAC's proposition for a 5/4 shift schedule for customs legacy employees having been continuously rejected by the management, CEUDA Local 24 conducted a vote in December 2006. All boarder services officers in Passengers Operations voted against the existing VSSAs. CEUDA Local 24 immediately cancelled the 5/3 schedule for the customs staff and requested consultations for negotiation of a new VSSA under clause 25.22, in absence of which shift scheduling would revert to that specified in clause 25.13 and 25.17 of the collective agreement.
+[11]
+Discussions between CBSA and CEUDA Local 24 concerning the VSSA issue continued in January and February 2007. However, relying on clause 25.22(b) of the collective agreement, it was without agreement or consultation with the PSAC that the CBSA ultimately adopted a 6/2 schedule that included non-standard starting times for the customs legacy employees, requiring them to work 60 days more, per year, than under the previous scheduling arrangement. The new schedule became effective on February 12, 2007. According to the record before the Court, both management and union representatives acknowledged on different occasions that the imposition of the new standard shifts was not appreciated by affected employees and that it resulted in serious tensions and frequent accommodation and burn-out issues.
+Policy grievance
+[12]
+On February 27, 2007, the PSAC filed a policy grievance against the new schedule, alleging that the 6/2 shift schedule was contrary to clause 25.17 and a fundamental breach of the collective agreement. The PSAC also maintained that the employer had not only failed to engage in "meaningful consultations" with the union prior to the implementation of the new shift schedule, but had also failed to demonstrate a need to increase the number of shifts in the schedule in order either to meet the "needs of the public" or to ensure the "efficient operation of the services", as required in clause 25.22(b) of the collective agreement.
+[13]
+More than two years afterwards, despite the objection of the employer that the issue was moot, the policy grievance was allowed in part in May 2009. A declaration was issued by the adjudicator that the employer had breached the collective agreement regarding three shift starting times in passenger operations and one shift starting time in commercial operations (
+ <FRAGMENT_SUPPRESSED> ).
+Debates with respect to legal strike position
+[14]
+The collective agreement had expired on June 20, 2007. Throughout the summer of 2007, the parties remained at odds on the issue of shift schedules despite the significant efforts and progress that was made toward finalizing a new VSSA between CBSA and CEUDA Local 24. The general discontent and tension caused among affected employees as a result of the 6/2 shift schedule led to complaints and call for action by a number of CEUDA Local 24 members and VSSA discussions gradually generated a dispute with the management as to whether CBSA's actions had placed CEUDA Local 24 in a legal strike position.
+[15]
+At the internal union level, the debate was initiated by Brian O'Farrell, an official with CEUDA Local 24, who, on June 22, 2007, wrote to its local president (the applicant) and to CEUDA National president (Ron Moran) about having been approached by six members "inquiring into the propriety of withdrawing services", and invited the recipients to "articulate at what point precisely would members be able to withdraw services without fear of recrimination". The union official also advised that he would "consider the matter urgent, as more strong headed members may not be willing to calmly wait for verification".
+[16]
+In this context, the applicant continued writing to both Mr. Moran and Mr. Gordon (PSAC National president) seeking guidance and clarification on what legal options, including a strike action, were potentially available to Local 24 members in the circumstances. During the discussions engaged with CEUDA National, Mr. Moran confirmed that before a bargaining unit could be in a legal strike position an essential service agreement had to be in place, but indicated that he would obtain a legal opinion on the available legal recourses as requested by CEUDA Local 24 (Mr. Moran's letters dated June 23 and June 25, 2007).
+[17]
+The applicant responded that he would like another question answered as to whether the affected employees could report to work according to the standard shifts identified in clause 25.17 of the collective agreement (applicant's letter dated June 27, 2007). Exchanges between the applicant and the national office in July 2007 show that the applicant was seeking a more expeditious resolution of the matter.
+[18]
+On July 11, 2007, Mr. Moran provided an update to the applicant and he replied, asking what the PSAC's next steps would be to put an end to the breach of the collective agreement. Mr. Moran replied on July 12, 2007 as follows:
+As for the next steps, as you know I have now made the formal request for a legal opinion ...For its part the bargaining agent is representing on the policy grievance which is working its way through the system. While I totally agree that these courses of action do not represent the rapid fix the affected members would like to see, they nonetheless represent the only established avenues currently at our disposal ...
+In my view,
+the next step should clearly be letting the affected members know that unless they individually act
+, we are not at the [level] of seeing this resolved in short order. Reminding them that assisting the employer in making the 6-2 work by doing such things as accepting overtime is undoubtedly an excellent place to start (though it should in no way end there).
+Knowing full well how the Minister's Office and the media work, I can assure you that unless worksite disruptions are in play, neither will give the matter a second [thought
+]. [Emphasis added]
+[19]
+The applicant replied on July 13, 2007, as follows:
+...
+Our members need to receive direction from a National President telling us to report for work on no shift other than what is stipulated in Article 25.17 unless the CBSA provides operational requirements as it is supposed to and as we interpret the Master Agreement to mean
+.
+Once John or you give direction to follow the letter of the Agreement, we will do the rest. Such action will surely result in a speedy resolution.
+...
+All we need is the support and blessing from this union
+to follow our Agreement as we understand it. If our union can't even do this, it's time for change. [Emphasis added]
+[20]
+The above correspondence was forwarded to Minister of Public Safety, Stockwell Day, Prime Minister Stephen Harper, Vic Toews, President of the Treasury Board, and Stephen Rigby, Deputy Head of the CBSA, by Mr. O'Farrell on July 13, 2007 (Exhibit E-1, tab 8).
+[21]
+In light of these exchanges, the employer took the position before the adjudicator that Mr. Moran was telling the applicant that they were not in a legal strike position but that the applicant should encourage individual members to engage in illegal job action, that simple threats were no longer enough and that more concrete action was needed. In response, the applicant was pushing Mr. Moran and seeking support from CEUDA national for strike activity. He was doing this by seeking authorization for employees not to report for any shift other than a standard shift specified in Article 25.17 of the collective agreement.
+[22]
+Mr. Norm Sheridan, one of the employer's representatives, testified at the arbitration that the effect of such a boycott would have been wide-scale interruption of services given that 65% of his staff was scheduled on shifts other than those provided for in Article 25.17. What was being advocated by the applicant was a boycott of the majority of shifts that had been implemented by the employer for which the union had a policy grievance working its way through the system. By any account what was being pursued was illegal strike activity on a massive scale. Mr. Sheridan testified that this boycott would have made it impossible to deliver the program, that the effects would be felt downstream with planes being stuck on the tarmac. In a word Mr. Sheridan indicated that it would be "pandemonium".
+[23]
+After his exchanges with Mr. Moran, the applicant wrote to two other union officials, Mr. Steve Pellerin-Fowlie and Mr. Gerry Halabecki, regarding the legality of a wildcat or a rotating strike and stated that he was seeking an opinion on what would/may constitute an illegal strike action in the circumstances considering that the collective agreement had expired since June 20, 2007, and that the employer had not proceeded to negotiate an essential service agreement (letter dated July 20, 2007).
+[24]
+On July 26, 2007, the applicant wrote an email to a number of CBSA management representatives (including Mr. John Gillan) and CEUDA representatives, in which he stated that in light of the expiration of the collective agreement, the fact that the employer refused to honour the agreement and had not sought to negotiate essential service agreements, the union was in a legal position to walk off the job. He also requested that the regional management provide tentative dates for the union and management to formally consult on any concerns or legal arguments of the employer. On the same day, Mr. Gillan took the position that the collective agreement continued to be in effect and that the union was not in a legal strike position.
+[25]
+Mr. Moran was provided with a legal opinion on the matter on August 2, 2007. Essentially, the external opinion provided by legal counsel, after having reviewed the applicable principles and relevant case law, suggests that this is not a situation where the employees appear to have the right to refuse to comply to the imposed VSSA schedule and that the preferred way of settling the matter is to reach agreement with the employer or to press the policy grievance on to arbitration in an expeditious manner. Recognizing that a possible ground for refusing to comply with the imposed VSSA schedule is where irreparable harm or prejudice would be suffered by employees, legal counsel offers to re-examine the opinion "once additional facts respecting irreparable harm become available".
+[26]
+Judging that the legal opinion was inconclusive with respect to the rights of the members of CEUDA Local 24, the applicant wrote to Mr. Moran and Mr. Gordon on August 15, 2007, requesting for further review by counsel of specific factual circumstances at issue in the VSSA dispute. The applicant required clarification on whether the exception of a "patently obvious" breach of the collective agreement by the employer to the "obey now, grieve later" rule found application in their case.
+[27]
+In his August 15, 2007 email, the applicant notably writes:
+Why must we obey the collective agreement in its entirety if the employer is not?
+...
+Why won't you direct our members to report for work as required as per the standard shifts under Article 25.17
+as the PSAC interprets the collective agreement or inform the CBSA that you will be directing us to follow the agreement as we interpret it unless this matter is resolved [emphasis added]? [Emphasis in original]
+[28]
+On August 24, 2007, Mr. Gordon wrote back to the applicant stating that the policy grievance was the proper mechanism to deal with the issue, and insisted that this solution was not tantamount to failing to protect the members' rights or an acquiescence to the employer's actions. On the same date, the applicant responded to Mr. Gordon reiterating his position on the members' legal right to walk off the job in absence of an essential service agreement and requesting for PSAC's final position in this respect.
+[29]
+This now brings us to the two website postings which were the object of the disciplinary actions against the applicant (30 day suspension and termination of employment).
+First website posting
+[30]
+The first email which was posted on the CEUDA Local 24 website on September 11, 2007 is an update on some of the activities of the local on the VSSA negotiations. The posting is, in fact, a reproduction of the applicant's response, dated September 11, 2007, to an email from a member requesting updates on the VSSA negotiations. It reads as follows:
+Sisters and Brothers,
+We agreed to have a joint resource committee come to Toronto last July and help with the situation. Barbara Hebert cancelled out.
+Our 4th National V.P. suggested a mediator be called in to help resolve the issue and again, John Gillan refused the idea, stating it wasn't necessary.
+We submitted additional proposals for commercial operations for the employer to consider, and for their feedback on the operational feasibility, the employer has not gotten back to us.
+My opinion, management was taking advantage of the additional staff (students) and during this time period over the summer was putting you to the test hoping you would burn out, forcing you to give in.
+Management may have also been waiting to see what happened in Montreal. Montreal apparently also told the employer where to park their proposal and now in a similar situation as us facing a possible 6 & 2 themselves.
+In the meantime I have been pressing the bargaining agent and CEUDA National for support to walk off the job now.
+We have been applying pressure to encourage management to return to the table and bargain in good faith. Hopefully we have achieved this via Gillan's invitation to meet next Monday. I hope this will prove to be more than just a meeting to see whether we are willing to concede.
+If management meets and proposes nothing more than what they proposed last February, be prepared to support future union activities.
+In Solidarity,
+Bro. King [Emphasis added]
+[31]
+On the employer's side, Ms. Julie Burke, a labour relations officer with the CBSA was tasked to monitor the union website. Management became aware of the posting on September 14, 2007 but did not take immediate action. The VSSA negotiations continued between the parties in a meeting held on September 17, 2007 at PIA. On October 29, 2007, more than six weeks afterwards, the applicant was advised by his employer that if the posting was not removed from the union website by October 31, he would be subject to disciplinary action up to and including termination of his employment.
+[32]
+The applicant was also advised that a disciplinary hearing by teleconference was scheduled on October 31, 2007, regarding the posting of this message. It is worth noting that Mr. Marc Thibodeau's October 29, 2007 letter to the PSAC's negotiator, in his capacity as the chief director of Treasury Board Secretariat, also stated that the September 11, 2007 posting was in contravention of subsection 194(1) of the
+PSLRA
+and mentioned that the employer would consider filing a complaint with the Board if the related portions of the message were not removed from the website by 5PM on October 31, 2007.
+[33]
+On October 30, 2007, the applicant emailed the webmaster and asked that the posting be removed from the union webpage; the posting was removed the same day. Prior to the disciplinary hearing, the applicant also sent an email to Mr. Gillan and others, stating that he did not issue a direction to CEUDA members to participate in any activity or refrain from performing any of their duties. He also stated that there was no intent to counsel or procure illegal activity. He noted that he had been requesting a legal opinion on the matter since the imposition of the 6/2 shift schedule.
+[34]
+On October 31, 2007, at the disciplinary hearing, the applicant was asked what the phrase "walk off the job now" meant and he said that he was still waiting for direction from the PSAC. He said that Mr. Gordon "will give the direction". He stated that he was not "inciting". The applicant was not asked about the reference to "future union activities". However, he testified before the adjudicator that the kind of union activities that were contemplated included letter-writing campaigns, information pickets and getting the families of bargaining unit members involved. Those were not illegal actions.
+[35]
+On November 2, 2007, after the disciplinary hearing, the applicant wrote an email to Mr. Gillan, other CBSA management representatives and the Minister of Public Safety where he stated that he viewed the employer's actions as a violation of his rights under the Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982 [
+Charter
+] and a "...perceived attack on a fundamental right to communicate with our members by what can only be described as illegal government censorship". Mr. Gillan replied, setting out the parts of the applicant's message posted on the website that caused concern.
+[36]
+The grievor replied as follows:
+It is well within the union's rights to mobilize members for future activities.
+The CBSA cannot interfere with how a union prepares for such future activities that the union has the right to decide and manage. It is our right to maintain control on the administration of our union.
+...
+I made it clear that we had no intention of proceeding until such time that we did receive a legal opinion or requested support from the Bargaining Agent.
+You and your superiors are clearly obsessed with targeting me, shutting down this Local and interfering with this union's ability to communicate effectively with our members
+....
+Your actions will only escalate current labour conflict
+within this region.
+As long as we don't issue direction, which we clearly have not, we are well within our right to advise our members whether we are seeking support, who we are seeking support from and on which subject we are seeking said support.
+... [Emphasis added]
+[37]
+Later that day, in spite of the applicant's compliance with CBSA's request and the explanations offered during the disciplinary hearing (October 31, 2007) and afterwards (November 2, 2007), the employer proceeded to impose a 30 day suspension discipline on the applicant for the website posting. In imposing the disciplinary suspension, Mr. Gillan [the deputy head] considered that the applicant's statement amounted to "counselling or procuring an illegal work stoppage" contrary to subsection 194(1) of the
+PSLRA
+, and which constituted "a serious act of misconduct and a contravention of the
+PSLRA
+".
+[38]
+The applicant was also warned by the deputy head that his "future communications and actions are expected to be in accordance with the provisions of the Values and Ethics Code for the Public Service, the CBSA's Code of Conduct as well as the legislation, policies and directives underlying them. You should be aware that failure to adhere to this expectation may result in more severe disciplinary action being taken, up to and including termination of your employment."
+Second website posting
+[39]
+On November 3, 2007, a second posting appeared on CEUDA Local 24 website. The posting was addressed to the bargaining unit membership and was purportedly intended to notify union members of the reason of the applicant's suspension. For purposes of clarity, this second posting is reproduced in its entirety below:
+By now many of you have heard that I just received another thirty day suspension without pay. As such, my access to CBSA premises has been restricted until December 14, 2007.
+What is significant about the discipline is the timing of this suspension, the grounds on which I have been suspended and the fact that this us the third discipline I've received since John Gillan became the Regional Director for the GTA in the spring of 2006.
+On the bright side, over course of the regional VSSA negotiations, senior officials (not all) within this region and Ottawa have finally been exposed.
+Each of you have now witnessed the management deception, lies and abuse that continue to plague this organization, impede VSSA negotiations and the resolution of many other regional labour issues.
+It is the truth that binds us in a common cause to be treated with dignity, respect and not to allow this employer to violate any of our contractual and/or legal rights.
+I hope you take comfort in knowing that I am well, focused and more determined in protecting our rights than ever before.
+The attached correspondence explains the latest discipline which is based on two sentences written in a VSSA update that was posted on our local website. The sentences are
+"In the meantime I have been pressing the bargaining agent and CEUDA National for support to walk off the job now." & "If management meets and proposes nothing more than what they proposed last February, be prepared to support future union activities."
+[Emphasis in original]
+[40]
+On November 13, 2007, Mr. Gillan called the applicant to a disciplinary hearing about the posting of November 3, 2007, given that the controversial portion of the first message that referred to walking off the job was quoted in the second posting. The applicant did not attend the disciplinary hearing, and in the meantime, wrote an email to the Minister of Public Safety, Senior Management of the CBSA, Mr. Gillan and a number of CEUDA representatives where he states that the employer's representatives "have wrongfully and without lawful authority compelled me to abstain from communicating with CEUDA members as I have a lawful right to do."
+[41]
+On November 20, 2007, CBSA terminated the applicant's employment for cause. According to the termination letter, the reposting of the statements is "a serious act of misconduct" and "the culminating incident" leading the deputy head to immediately terminate the applicant's employment under the purported authority of paragraph 12(1)(
+c
+) of the
+FAA
+.
+[42]
+Mr. Gillan testified at the arbitration that the applicant's reposting of the sentences that were the subject of the previous discipline constituted a "serious act of misconduct" since the applicant could have explained his discipline in more general language. He also testified that one of the aggravating factors that he considered in imposing termination was the fact that this misconduct was exactly the same misconduct that the applicant had been disciplined for. He regarded the posting of November 3, 2007 as the "culminating incident" and an attempt by the applicant to build up support within the membership and to pressure the national union leadership to take illegal action.
+II. GRIEVANCES
+[43]
+On November 20, 2007, the same day he was terminated, the applicant grieved the 30 day suspension imposed by the deputy head on November 2, 2007:
+November 20, 2007
+GRIEVANCES - Against the Thirty Days Suspension Administered November 02, 2007
+I grieve the above noted suspension is without merit. I also grieve that my rights as an employee under Article 19.01 of the Agreement between the Treasury Board and the PSAC have been violated as noted below.
+Article 19 of the Agreement between the Treasury Board and the P.S.A.C. reads as follows:
+19.01
+There shall be no discrimination
+, interference, restriction, coercion,
+harassment, intimidation, or any disciplinary action exercised or practiced with respect to an employee by reason of
+age, race, creed, colour, national or ethnic origin, religious affiliation, sex, sexual orientation, family status, mental or physical disability, membership or
+activity in the Alliance
+, marital status or a conviction for which a pardon has been granted.
+On November 2, 2007 I was disciplined as an employee for
+allegedly
+counselling or procuring an illegal work stoppage. As I was disciplined for an activity in the Alliance for which I would not be disciplined if I were not a representative of the Alliance, I have been treated differently from other employees and discriminated against. This discipline contravenes the spirit of Article 19.01 and must be immediately rescinded.
+Not only do I refute Mr. Gillan's allegation that I was counselling or procuring the declaration or authorization of a strike, I remind CBSA management that there is no language within the Agreement or P.S.L.R.A. that prohibits an employee from counselling or procuring an illegal work stoppage.
+The Agreement prohibits employees from participation in an illegal strike only.
+For this reason I believe the employer lacks the authority to discipline employees in the absence of any identifiable employee misconduct and as such, I should not have been disciplined as an employee for an alleged prohibition under the P.S.L.R.A. that is only applicable to employee representatives.
+As an employee, I should be protected from alleged contraventions only applicable to union representatives, which should be decided by the Public Service Labour Relations Board (P.S.L.R.B.) especially when said union activities occur outside the workplace and not on company time.
+Section 194 of the P.S.L.R.A. does not allow an employer to determine whether or not such an offence has been committed, does not authorize the employer to establish penalties beyond what has been established in the legislation or allow an employer to proceed and administer discipline against an employee representative for
+perceived
+contraventions under the P.S.L.R.A.
+The employer has no more authority to discipline for alleged contraventions under the P.S.L.R.A. than it does the Criminal Code of Canada.
+If employers are given the jurisdiction and permitted to decide the innocence or guilt and fate of union representatives that are considered as the employer's adversarial counterparts, and are allowed to establish the quantum of discipline to be imposed on these adversarial counterparts for perceived contraventions under the Act, employer interference and abuse will flourish.
+Employees will be discouraged from volunteering as union representatives, continue to be intimidated and not be able to properly fulfill their obligations as union representatives thus causing irreparable harm to both the labour movement and the daily administration of the union. In essence, as long as the employer has the unfettered right to control employee representatives to this extent, no employee representative is safe regardless of what protections or recourse is stated within the Agreement or Public Service Labour Relations Act for obvious reasons.
+This employer's practice of circumventing recourse under the Act and rendering discipline has further violated my right to due process and the right to be judged by an independent third party.
+In this particular instance, John Gillan proceeded with blatant disregard to the stipulated recourse under the Act even though the Treasury Board had already initiated the threat of appropriate redress via correspondence to the bargaining agent in the letter dated October 29, 2007.
+As such, there was no need for senior management officials within the Canada Border Services Agency to initiate an additional internal disciplinary process for the same alleged contravention that was already being addressed between the Treasury Board and Bargaining Agent or prior to the outcome of the other process.
+I maintain that the comments in my reply to a CEUDA member that
+was posted on the CEUDA website
+outside of work cannot be considered as procuring illegal strike activity as it is clear and without question that I was doing nothing more than informing CEUDA members what the union was doing on their behalf when I stated that I
+was pressing the bargaining agent
+to support a work refusal. At no time did I request, encourage or pressure CEUDA members to support any specific activity on any given day. In fact, I mentioned future activities which cover all lawful union activities.
+It is only because of my activity in the Alliance that I was disciplined for the alleged contravention of inciting illegal strike activity, for if I were not a volunteer union representative I would enjoy the same freedoms and protection under the Agreement as other employees that are not union representatives that would not be disciplined for such an allegation.
+Once again, it is for this reason that I allege I am being treated differently from other employees that are not volunteer union representatives and that this different treatment under employee status constitutes discrimination.
+In closing, I perceive this latest discipline by the CBSA as just one more blatant act of abuse, harassment, intimidation and interference of the administration of the union and in particular the union's right to communicate with its membership.
+Corrective Action
+To be discussed during mediation with the employer or at the commencement of the Adjudication hearing.
+Respectfully submitted and authorized by,
+John King
+President
+Toronto District Branch
+CEUDA Local 24 [Emphasis in original]
+[44]
+On November 22, 2007, two days after the filing of the above grievance, a joint letter was addressed by the national presidents of the PSAC and CEUDA to the president of CBSA. It reads as follows:
+November 22, 2007
+Alain Jolicoeur
+President
+Canada Border Services Agency
+191 Laurier West
+Ottawa, Ontario K1A 0L8
+Dear Mr. Jolicoeur:
+We are in receipt of a copy of a letter dated November 20, 2007 from John Gillan, Regional Director General, CBSA Greater Toronto Area (GTA) Region to PSAC/CEUDA Local 024 Toronto District Branch President, John King, terminating his employment.
+The PSAC and CEUDA hold firmly to the position that employees acting as union officials have a very broad ability to speak freely, and to disseminate information to and within the membership without fear of reprisal. This position has, on many occasions, been supported and reinforced by both labour boards and arbitrators when employers attempt to stifle free speech - whether they do it through disciplinary measures or otherwise.
+For whatever reason, the CBSA's actions, as outlined in John Gillan's November 20th letter, are a clear attempt to curtail the free speech of a PSAC/CEUDA elected official. As such, it is an unconscionable affront to our union and the members we are privileged to represent. In addition to the personal impact that the CBSA decision will have on John King, it has a significant impact on our members who work for the CBSA, particularly in the GTA.
+As you know, the PSAC is in negotiations with Treasury Board for the FB Group, for a first collective agreement. Issues, both directly and indirectly related to the bargaining process have strained our relationship, particularly in some locations, including Pearson Airport.
+On its face, the CBSA decision will erode that relationship further unless the CBSA moves quickly to resolve the VSSA issue and recognize the right of union representatives to freely communicate with their members. We urgently request that John King be reinstated without delay.
+Sincerely,
+John Gordon
+National President <FRAGMENT_SUPPRESSED> Ron Moran
+National President
+CEUDA
+[45]
+On December 14, 2007, the applicant grieved his termination of employment through the filing of a second grievance. On December 20, 2007, he provided details of his grievance and the correction action requested (reinstatement to his position as a border services officer and compensation for his losses). In the details of his grievance, the applicant explained the purpose of his posting on November 3, 2007 as follows:
+... I was simply clarifying the reason for my thirty (30) days of suspension as rumours and false accusations were being spread about me in the workplace.
+[46]
+Failing satisfactory resolution between management and the union, the grievances were referred to adjudication pursuant to section 209 of the
+PSLRA
+.
+III.
+ARBITRAL DECISION
+[47]
+The matter was decided by Mr. Ian R. Mackenzie, the adjudicator designed by the Board pursuant to paragraph 223(2)(
+d
+) of the
+PSLRA
+. The latter conducted a hearing in May and June 2010 and considered the written submissions filed by the parties during the autumn 2010.
+[48]
+Before the adjudicator, the deputy head argued that the applicant either knew or ought to have known that the union was not in a legal strike position, and thus, the September 11, 2007 message addressed to the bargaining unit membership violated subsection 194(1) of the
+PSLRA
+for:
+• counselling and procuring a declaration or authorization of a strike by CEUDA and the PSAC of whom the applicant was by his own admission seeking "support to walk off the job"; and
+• counselling and procuring employees to engage in such a strike if need be.
+[49]
+The deputy head also contended that both the disciplinary suspension and the termination were appropriate measures in the circumstances given the seriousness of the offence, the applicant's position of leadership and influence, as well as his prior disciplinary record, and absence of remorse.
+[50]
+At this point, it is important to note that in the three years preceding the grievances of November and December 2007, the applicant had discipline imposed on him on three other occasions and which were still on his record for progressive discipline purposes at the time of his 30 day suspension and termination of employment. However, subsequently, these disciplinary penalties were either overturned or reduced from 80 days to 15 days:
+• A first 30 day suspension that was imposed on the applicant on July 6, 2004 as a result of a letter that he had written to the Secretary of the United States Department of Homeland Security about issues related to security classification requirements for employees in the Canadian border administration was subsequently overturned at adjudication on August 8, 2008:
+ <FRAGMENT_SUPPRESSED> . On September 16, 2009, the Federal Court dismissed the application for judicial review brought by the employer against the arbitral award:
+ <FRAGMENT_SUPPRESSED> .
+• A second 30 day suspension imposed on the applicant on July 19, 2006 was reduced to five days by way of settlement on April 23, 2009.
+• A further 20 day suspension imposed on him on November 2, 2006 for having sent an email containing allegations against the deputy head to the Minister of Public Safety and the media, was also reduced to 10 days at adjudication on February 23, 2010:
+ <FRAGMENT_SUPPRESSED> .
+[51]
+The deputy head submitted to the adjudicator that the fact that the quantum of discipline appearing on the applicant's record had been reduced between in 2009 and 2010 was not determinative. In the alternative, the deputy head argued that if the termination grievance was allowed the appropriate remedy would be pay in lieu of reinstatement.
+[52]
+The applicant maintained that there is no statutory prohibition of merely discussing the possibility or the legality of future strike action or other means of pressure during negotiations with the employer (e.g. concerted refusal to report for any shift other than a standard shift in Article 25.17 of the collective agreement). The applicant submitted that his conduct did not come within the meaning of the quasi-criminal prohibition against counselling or procuring of an unlawful strike under the
+PSLRA
+, but was merely intended, first, to inform the membership that he was pressing the bargaining agent for advice on the union's strike position, and later to keep the members updated about the discipline imposed on him. In disciplining the applicant, the employer violated the non-discrimination provision of the collective agreement (Article 19.01) and the non-interference provision of the PSLRA (section 186).
+[53]
+The applicant submitted that the parties specifically excluded in the collective agreement the option of disciplining an employee who did not participate in an illegal strike (Article 16.01) and that the deputy head's authority to discipline pursuant to paragraph 12(1)(
+c
+) of the
+FAA
+did not extend to the counselling or procuring of an illegal strike. The applicant contended that the employer's authority in respect of alleged violations of subsection 194(1) of the
+PSLRA
+by a union officer is limited to initiating criminal prosecution.
+[54]
+The applicant further submitted that the vast majority of arbitral jurisprudence upholding discipline of union officers concern cases that involved conduct which led to actual work stoppages and not mere discussions of work stoppage that never occurred. The applicant argued that even if no such requirement exists in view of the wording of subsection 194(1) of the
+PSLRA
+, the deputy head still has the burden to adduce objective evidence that the union officer intended his or her actions to result in illegal strike activity. Here, there was no intent to counsel or procure an illegal strike on the applicant's part.
+[55]
+In the alternative, the applicant argued that the discipline imposed on him should be set aside in favour of lesser penalties so as to reflect the reduction of his prior disciplinary record from 80 to 15 days (excluding the challenged 30 day suspension prior termination) as a result of settlement or subsequent quashing and reducing of discipline by the Board. He also submitted that his immediate compliance with the employer's direction to remove the postings from the union website should be considered as a mitigating factor.
+[56]
+On November 29, 2010, after having reviewed the evidence and considered the arguments made by the applicant, the adjudicator dismissed the grievance. In reaching this decision, he proceeds to answer the three following questions:
+• Did the deputy head have the authority under the collective agreement and/or the law to discipline the applicant?
+• Did the applicant "counsel" or "procure" an illegal work stoppage contrary to subsection 194(1) of the
+PSLRA
+?
+• Was the discipline imposed appropriate in the circumstances of the case?
+[57]
+In answering each of the three questions above in the affirmative, the adjudicator preferred to endorse the employer's broader reading of the evidence and the law than the applicant's narrower reading of same. The impugned statements read in their context amount to counselling or procuring an illegal strike, and in repeating same after his suspension, the applicant has shown a degree of insubordination and disrespect that warrants his termination. In other words, the applicant had crossed the boundaries of legitimate union expression by actively seeking, even after a negative legal opinion, the union's support for a concerted refusal to work on the 6/2 schedule, and by attempting to rally the customs inspectors to such action.
+IV. STANDARD OF REVIEW
+[58]
+As a prefatory remark, the Court would like to emphasize that the determination of the standard of review proves to be determinative in this case since the outcome of the present application may well be different whether the interpretation of section 194 of the
+PSLRA
+chosen by the adjudicator must be correct in law or simply reasonable. The differences flowing from such characterization are well summarized by Justice Iacobucci in
+ <FRAGMENT_SUPPRESSED> :
+Unlike a review for correctness, there will often be no single right answer to the questions that are under review against the standard of reasonableness. For example, when a decision must be taken according to a set of objectives that exist in tension with each other, there may be no particular trade-off that is superior to all others. Even if there could be, notionally, a single best answer, it is not the court's role to seek this out when deciding if the decision was unreasonable.
+[59]
+The reasonableness standard is already well known.  <FRAGMENT_SUPPRESSED> [ <FRAGMENT_SUPPRESSED> ], the Supreme Court of Canada stated that a court conducting a review for reasonableness inquires into the "qualities" that make a decision reasonable, referring both to the process of articulating the reasons and to outcomes. In judicial review, reasonableness is concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process. But it is also concerned with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law.
+[60]
+That said, it is important to note that the reasonableness standard should not be seen as a plenary dispensation for decisions of expert decision-makers. Even if an interpretation of the law made by a specialized tribunal has to be reviewed on a reasonableness standard, it remains that the interpretation of the law is always contextual. The law does not operate in a vacuum and the tribunal is always required to take into account the legal context in which it is called to apply the law ( <FRAGMENT_SUPPRESSED> , above, at para 74).
+[61]
+On the other hand, the Supreme Court reaffirmed in <FRAGMENT_SUPPRESSED> , above, at para 50, that the standard of correctness must be maintained in respect of jurisdictional and some other questions of law which are of central importance to the legal system and outside the specialized expertise of the tribunal. This promotes just decisions and avoids inconsistent and unauthorized application of law. When applying the correctness standard, a reviewing court will not show deference to the decision-maker's reasoning process; it will rather undertake its own analysis of the question. The analysis will bring the court to decide whether it agrees with the determination of the decision maker; if not, the court will substitute its own view and provide the correct answer. From the outset, the court must ask whether the tribunal's decision was correct.
+[62]
+With some hesitation I must say, but being legally bound by the most recent indications of the Federal Court of Appeal and the Supreme Court of Canada, I conclude below that the reasonableness standard applies to all questions of fact and law decided by the adjudicator. However, prior to even examining the differing positions advocated by the parties in this case, it is useful to start by a review of the scheme of the
+PSLRA
+.
+Public Service Labour Relations Act
+[63]
+The
+PSLRA
+is a comprehensive legislation dealing with labour relations (Part 1), grievances (Part 2), occupational health and safety (Part 3) and other matters (Part 4). Of interest in this case, is Part 1 of the
+PSLRA
+which regulates labour relations (sections 4 to 205). In this respect, the Board is the specialized tribunal designed by Parliament to deal with labour relations issues (section 12). The adjudication services provided by the Board consist of the hearing of applications and complaints made under this Part 1, the referral of grievances to adjudication in accordance with Part 2 and the hearing of matters brought before the Board under Part 3. The Board enjoys large inquiry powers under section 40 of the
+PSLRA
+. Moreover, according to subsection 51(1) of the
+PSLRA
+, subject to Part 1, every order or decision of the Board is final and may not be questioned or reviewed in any court, except in accordance with the
+Federal Courts Act
+, RSC 1985, c F-7 [ <FRAGMENT_SUPPRESSED> ], on the grounds referred to in paragraph 18.1(4)(
+a
+), (
+b
+) or (
+e
+) of that Act.
+[64]
+Part 2 of the
+PSLRA
+regulates grievances (sections 206 to 238). There are three types of grievance: individual grievances (sections 208 to 214); group grievances (sections 215 to 219); and policy grievances (sections 220 to 222). Sections 208 to 214 deal with individuals grievances. Pursuant to subsection 208(1) an employee is entitled to present an individual grievance if he or she feels aggrieved:
+• by the interpretation or application, in respect of the employee, of a provision of a statute or regulation, or of a direction or other instrument made or issued by the employer, that deals with terms and conditions of employment, or a provision of a collective agreement or an arbitral award; or
+• as a result of any occurrence or matter affecting his or her terms and conditions of employment.
+[65]
+Moreover, pursuant to paragraphs 209(1)(
+a
+) and (
+b
+) of the
+PSLRA
+, an employee may refer to adjudication an individual grievance that has been presented up to and including the final level in the grievance process and that has not been dealt with to the employee's satisfaction if the grievance is related to:
+• the interpretation or application in respect of the employee of a provision of a collective agreement or an arbitral award; or
+• a disciplinary action resulting in termination, demotion, suspension or financial penalty.
+[66]
+In the former case (interpretation or application of the collective agreement), the employee must obtain the approval of his or her bargaining agent to represent him or her in the adjudication proceedings (subsection 209(2)). In the case at bar, the applicant who has the support of the bargaining agent has challenged not only the disciplinary measures imposed by the deputy head but has also alleged a breach of the non-discrimination provision of the collective agreement (Article 19.01).
+[67]
+A grievance may be heard and decided by a board of adjudication or a single adjudicator as provided by subsections 223(1) and (2), and their appointment, as the case may be, is made by the Board:
+223. (1) A party who refers a grievance to adjudication must, in accordance with the regulations, give notice of the reference to the Board and specify in the notice whether an adjudicator is named in any applicable collective agreement or has otherwise been selected by the parties and, if no adjudicator is so named or has been selected, whether the party requests the establishment of a board of adjudication.
+(2) On receipt of the notice by the Board, the Chairperson must
+(
+a
+) if the grievance is one arising out of a collective agreement and an adjudicator is named in the agreement, refer the matter to the adjudicator;
+(
+b
+) if the parties have selected an adjudicator, refer the matter to the adjudicator;
+(
+c
+) if a board of adjudication has been requested and the other party has not objected in the time provided for in the regulations, establish the board and refer the matter to it; and
+(
+d
+)
+in any other case, refer the matter to an adjudicator designated by the Chairperson from amongst the members of the Board
+. [Emphasis added]
+[68]
+Paragraph 226(1)(
+g
+) of the
+PSLRA
+specifically provides that an adjudicator may, in relation to any matter referred to adjudication, interpret and apply the
+CHRA
+,
+and any other Act of Parliament relating to employment matters
+, other than the provisions of the
+CHRA
+related to the right to equal pay for work of equal value, whether or not there is a conflict between the Act being interpreted and applied and the collective agreement [Emphasis added]. Moreover, as provided by subsection 228(2) of the
+PSLRA
+, after considering the grievance, the adjudicator must render a decision and make the order that he or she considers appropriate in the circumstances.
+[69]
+That said, the decision rendered by the adjudicator is protected by a privative clause. In effect, section 233 of the
+PSLRA
+reads as follows:
+233. (1) Every decision of an adjudicator is final and may not be questioned or reviewed in any court.
+(2) No order may be made, process entered or proceeding taken in any court, whether by way of injunction,
+certiorari
+, prohibition,
+quo warranto
+or otherwise, to question, review, prohibit or restrain an adjudicator in any of the adjudicator's proceedings under this Part.
+[70]
+The distinction, if any, between the privative clauses protecting the adjudicator (section 233) on one hand and the Board (section 51) on the other hand, would be that in the case of the Board, it purportedly includes "the ground that the order, decision or proceeding is beyond the jurisdiction of the Board to make or carry on or that, in the course of any proceeding, the Board for any reason exceeded or lost its jurisdiction".
+[71]
+As explained below, the parties do not agree on the applicable standard of review in this case. They have both made thorough supplementary written submissions and oral submissions on this delicate issue.
+Applicant's position
+[72]
+The applicant contends that this case does not squarely fall either under the realm of the well-established jurisprudence that recognizes that deference is owned on judicial review to the adjudicator's interpretation and application of the collective agreement and the adjudicator's regard for the material before him (
+ <FRAGMENT_SUPPRESSED> [2008] FCJ 1511;
+ <FRAGMENT_SUPPRESSED> [2011] FCJ 365), or with respect to other matters generally referred to adjudication in application of section 209 of the
+PSLRA
+(
+ <FRAGMENT_SUPPRESSED> [2011] FCJ 1245).
+[73]
+The applicant acknowledges that a measure of deference is owed to adjudicators confronting questions of mixed fact and law that fall within the purview of their specific expertise. However, the applicant takes issue with the adjudicator's interpretation and application of subsection 194(1) of the
+PSLRA
+and submits that the present case is not a simple grievance relating exclusively to the interpretation and application of the collective agreement, but a grievance against the termination of the applicant for conduct in the course of his activities as a full-time union representative for an alleged violation of subsection 194(1) of the
+PSLRA
+, a quasi-criminal unlawful strike provision under Part I of the
+PSLRA
+.
+[74]
+Essentially, the applicant submits that this case engages issues going beyond the adjudicator's "home statute" and particular expertise, as it calls upon broader labour relations principles addressed in Part I of the
+PSLRA
+, including the quasi-criminal provisions in sections 194, 196 and 203 of the
+PSLRA
+, as well as the scope of freedoms recognized by the
+Charter
+and the
+PSLRA
+(e.g. the non-interference provision). In the applicant's submission, the expertise of the adjudicator is limited to matters directly related to grievance adjudication under Part II of the
+PSLRA
+- within the confines of which fall most grievance adjudications - and does not extend to the interpretation of the quasi-criminal unlawful strike provisions of Part I of the
+PSLRA
+. This view is purportedly in harmony with the scheme of the
+PSLRA
+which contemplates the existence distinct decisions makers i.e. the Board's members sitting either in application of Part II of the
+PSLRA
+(as adjudicators) or in respect of labour relations matters under Part I of the
+PSLRA
+(as the Board). The applicant suggests that the adjudicator's powers under Part II of the
+PSLRA
+, as expressly set out in section 226 of the
+PSLRA
+, differ from the Board's broad powers under section 40 of the
+PSLRA
+. Moreover, the applicant submits that the privative clause applicable to the Board as defined in section 51 of the
+PSLRA
+is stronger than the one applicable to adjudicators under section 223 of the
+PSLRA
+.
+[75]
+According to the applicant, the Supreme Court's recent judgment in
+ <FRAGMENT_SUPPRESSED>  [2011] ACS 59 [
+Nor-Man Regional Health Authority
+], in which it was decided that an arbitrator's application of the common law principle imposing an estoppel on the union's claim for redress warranted deference on judicial review, is distinguishable from the particular facts of this case. The applicant submits that, first, the powers and jurisdiction of arbitrators in the private labour relations context are larger than those of adjudicators under Part II of the
+PSLRA
+, and second, the latitude accorded to labour arbitrators in adapting and applying general legal principles such as estoppel should not similarly apply in this case which engages specific provisions of criminal liability, equally applicable by courts.
+[76]
+Thus, given the focus in the adjudicator's ruling on a specific quasi-criminal provision which is outside the ordinary expertise of adjudicators, the applicant submits that the jurisprudence following <FRAGMENT_SUPPRESSED> points to a less deferential standard. The applicant notes that in
+ <FRAGMENT_SUPPRESSED>  [
+Smith
+], Justice Deschamps, in concurring reasons, rejected the view that a tribunal's interpretation of its enabling statute automatically calls for a deferential standard of review, suggesting instead that deference to an administrative tribunal should be shown "only when it is in some way more expert than the court and the question under consideration is one that falls within the scope of its greater expertise" (para 99).
+[77]
+The applicant also refers to the concurring reasons of Justices Binnie and Deschamps in the Supreme Court's even more recent judgment in
+Alberta (Information and  <FRAGMENT_SUPPRESSED> [2011] SCJ 61 [
+Alberta Teachers' Association
+], where Justice Binnie noted:
+It may be recalled that the willingness of the courts to defer to administrative tribunals on questions of the interpretation of their "home statutes" originated in the context of elaborate statutory schemes such as labour relations legislation. In such cases, the tribunal members were not only better versed in the practicalities of how the scheme could and did operate, but in many cases, the legislature tried to curb the enthusiasm of the courts to intervene by inserting explicit privative clauses.
+Over the years, acceptance of judicial deference grew even on questions of law
+(see e.g.
+ <FRAGMENT_SUPPRESSED> ),
+but never to the point of presuming, as Rothstein J. does, that whenever the tribunal is interpreting its "home statute" or statutes, it is entitled to deference. It is not enough, it seems to me, to say that the tribunal has selected one from a number of interpretations of a particular provision that the provisions can reasonably bear
+, no matter how fundamentally the tribunal's legal opinion affects the rights of the parties who appear before it. On issues of procedural fairness or natural justice, for example, the courts should not defer to a tribunal's view of the extent to which its "home statute" permits it to proceed in what the courts conclude is an unfair manner.
+The middle ground between Cromwell J. and Rothstein J., it seems to me, lies in the more nuanced approach recently adopted by the Court in
+ <FRAGMENT_SUPPRESSED>  ("
+CHRC
+"), where it was said that "if the issue relates to the interpretation and application of its own statute,
+is within its expertise and does not raise issues of general legal importance
+, the standard of reasonableness will generally apply and the Tribunal will be entitled to deference" (para. 24 (emphasis added)). Rothstein J. puts aside the limiting qualifications in this passage when he comes to formulating his presumption, which is triggered entirely by the location of the controversy in the "home statute". [Emphasis added]
+[78]
+In sum, the applicant submits that the adjudicator's task in this case was to render a decision in respect of a grievance referred to adjudication in application of section 209 of the
+PSLRA
+, in accordance with the powers conferred to him under section 226 of the
+PSLRA
+. True, the circumstances of this case required the adjudicator to consider and interpret section 194 of the
+PSLRA
+, but this was not the end of the matter. The application of section 194 of the
+PSLRA
+to a union representative addressing himself to the employees by way of a posting on the union web site raises an issue of general importance, which calls for the correctness standard. The applicant refers notably to
+ <FRAGMENT_SUPPRESSED>  Ontario Agriculture, Food and Rural Affairs Tribunal was reviewable against the standard of correctness as it involved the adjudication of quasi-criminal allegations of breaches of a regulation with penal consequences which exceeded the specialized nature of the decision-makers.
+Respondent's position
+[79]
+The respondent submits that the issue of the interpretation of subsection 194(1) of the
+PSLRA
+is inextricably tied to the findings of fact made by the adjudicator and should thus be reviewed under the deferential standard of reasonableness. In the respondent's submission, the adjudicator's task in this case was not to forge new jurisprudence on the interpretation of this provision but simply to apply an already established jurisprudence in labour law to the facts before him.
+[80]
+In addressing the applicant's allegation that the adjudicator's particular expertise is limited to Part II of the
+PSLRA
+, the respondent argues that the Federal Court of Appeal's decision in
+ <FRAGMENT_SUPPRESSED> [2011] FCJ 159 [Amos], implies that an adjudicator has the same level of expertise in labour matters and in the interpretation of the
+PSLRA
+as does the Board. With this respect, the respondent notes Justice Trudel's reference to the "specialized jurisdiction" of adjudicators under the
+PSLRA
+:
+[T] he broader aim of the Act is to provide an expert regime for the determination of labour disputes, and to facilitate their resolution expeditiously, inexpensively, and with little formality (
+ibidem
+at paragraph 68):
+68 The nature of the regime also favours the standard of reasonableness. This Court has often recognized the relative expertise of labour arbitrators in the interpretation of collective agreements, and counselled that the review of their decisions should be approached with deference: <FRAGMENT_SUPPRESSED> , at pp. 235-36;
+ <FRAGMENT_SUPPRESSED> , at para. 58;
+Voice Construction
+, [2004] 1 S.C.R. 609, at para. 22. The adjudicator in this case was, in fact, interpreting his enabling statute. Although the adjudicator was appointed on an
+ad hoc
+basis, he was selected by the mutual agreement of the parties and, at an institutional level,
+adjudicators acting under the
+PSLRA
+can be presumed to hold relative expertise in the interpretation of the legislation that gives them their mandate, as well as related legislation that they might often encounter in the course of their functions
+.  <FRAGMENT_SUPPRESSED>  added]
+[81]
+The respondent also submits that the majority's reasons in
+Smith
+, above, at para 37, equally emphasizes that an administrative decision-maker's interpretation of its home statute, absent the categories identified in <FRAGMENT_SUPPRESSED> , will attract a standard of reasonableness:
+[A] tribunal's interpretation of its home statute, the issue here, normally attracts the standard of reasonableness ( <FRAGMENT_SUPPRESSED> , at para. 54),
+except where the question raised is constitutional, of central importance to the legal system
+, or
+where it demarcates the tribunal's authority from that of another specialized tribunal
+... [Emphasis added]
+[82]
+Moreover, the respondent maintains that in accordance with the Supreme Court's recent ruling in
+Nor-Man Regional Health Authority
+, above, adjudicators dealing with disciplinary matters should be allowed to develop their corpus of jurisprudence dealing with subsection 194(1) of the
+PSLRA
+. In fact, at para 45, the Court held that:
+[L] abour arbitrators are authorized by their broad statutory and contractual mandates -- and well equipped by their expertise -- to adapt the legal and equitable doctrines they find relevant within the contained sphere of arbitral creativity. To this end, they may properly develop doctrines and fashion remedies appropriate in their field, drawing inspiration from general legal principles, the objectives and purposes of the statutory scheme, the principles of labour relations, the nature of the collective bargaining process, and the factual matrix of the grievances of which they are seized.
+[83]
+In addition, the respondent argues that there is no basis for suggesting that an adjudicator interpreting and applying subsection 194(1) of the
+PSLRA
+is interpreting anything other than his home statute. The judicial response to the applicant's suggestion can be found in
+Amos
+, above at para 32, where Federal Court of Appeal stated that "
+the adjudicator
+is an independent decision-maker with specialized jurisdiction
+in labour relations
+within the federal public service" [Emphasis added]. The respondent also relies on an earlier decision of this Court in
+ <FRAGMENT_SUPPRESSED> [2005] FCJ 110, in which Justice Von Finckenstein stated that the Public Service Staff Relations Board (predecessor of the Board) "has unquestioned expertise. Its members sit either as adjudicators or as the Board, enjoying all the powers of the PSSRB. This institutional expertise militates strongly in favour of deference".
+[84]
+Furthermore, in the respondent's submission, the applicant's reliance of unfair labour practice provisions of the
+PSLRA
+is unfounded because the concept of unfair labour practice is already included in the collective agreement, the interpretation and application of which falls unquestionably under the adjudicator's expertise. Moreover, the fact that subsection 194(1) of the
+PSLRA
+may equally form the basis of a criminal prosecution pursuant to section 205 of the
+PSLRA
+should not affect the judicial deference generally due to adjudicators' application and interpretation of provisions from their home statute, and this for the following two reasons.
+[85]
+First, the respondent argues that this issue has previously been addressed in adjudicator's Abott's decision in
+Beaupré and  <FRAGMENT_SUPPRESSED> , at page 15, where he noted that either of the criminal or the disciplinary courses of action can be pursued against such infractions:
+As to the asserted obligation of the employer to prosecute the grievors under section 104 of the
+Public Service Staff Relations Act
+, I can find no support for such an obligation in the general law or in the pertinent collective agreement. The provisions of the Act reflect the duty owed by the individuals and employee organizations to the State and to the public; the determination of what cases of alleged infractions are to be prosecuted is out of the hands of the employer acting as the employer; the same conduct may constitute a breach of the general law and well may justify a punitive reaction by the employer (theft from the employer is an example). The employer is not bound to pursue one course of action, prosecution, instead of the other ...
+[86]
+Second, the respondent submits, by way of analogy, that appeals officers reviewing health and safety officers' directions under Part II of the
+Canada Labour Code
+(occupational health and safety) are awarded deference although the legislation prescribes that a violation of Part II can either result in a direction being issued by a health and safety officer, or be dealt with by way of criminal prosecution. The respondent submits that the Federal Court of Appeal in
+ <FRAGMENT_SUPPRESSED> [2005] FCJ 752, recognized appeals officers' ability to interpret new questions of law arising under their home statute in order to establish their own corpus of jurisprudence having precedential value for future decision-making. The respondent maintains that a similar approach should apply to decisions of adjudicators dealing with disciplinary cases.
+[87]
+In sum, the respondent maintains that neither the issues of union expression and the broader labour relations principles in this case, nor the quasi-criminal nature of subsection 194(1) of the
+PSLRA
+should affect the jurisprudential characterization of adjudicators as experts in the labour relations within the federal public service.
+Determination
+[88]
+As a starting point, it must be remembered that pursuant to paragraphs 18.1(4)(
+c
+) and (
+d
+) of the <FRAGMENT_SUPPRESSED> , the Federal Court may allow a judicial review application if it is satisfied that the federal board, commission or other tribunal has "erred in law ...whether or not the error appears on the face of the record" or based its decision or order "on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it".
+[89]
+As far as errors of fact are concerned, it is recognized that paragraph 18.1(4)(
+d
+) of the FCA "does provide legislative guidance as to "the degree of deference" owed to the [board, commission or other tribunal] findings of fact", as stated by Justice Binnie in the majority opinion of the Supreme Court of Canada in
+Canada (Citizenship and  <FRAGMENT_SUPPRESSED>  at para 3 [ <FRAGMENT_SUPPRESSED> ]. In this respect, it is not challenged that a "perverse" or "capricious" finding of fact will render the whole decision of the reviewed tribunal "unreasonable" if it is determinative.
+[90]
+Since paragraph 18.1(4)(
+c
+) does not use deferential language as in paragraph 18.1(4)(
+d
+) of the <FRAGMENT_SUPPRESSED> , it had been advocated with respect to an "error of law" that, "the necessary implication is that where Parliament did not provide for deferential review, it intended the reviewing court to apply a correctness standard as it does in the regular appellate context". However, this minority view notably endorsed by Justice Rothstein has been dismissed by the majority of the Supreme Court in <FRAGMENT_SUPPRESSED> . In sum, the nature of the question is not necessarily determinative, deference being generally given to issues of law coming within the ambit of the reviewed tribunal mandate and specialized expertise ( <FRAGMENT_SUPPRESSED> and <FRAGMENT_SUPPRESSED> , above).
+[91]
+As a matter of principle, it would only be in case of an appeal that a person to whom the law applies or is susceptible to apply will know for sure whether the law in question prohibits or does not prohibit a certain behaviour. If there is no appeal, the fact that the administrative tribunal has misinterpreted the law will not be determinative if the matter is to be reviewed on the reasonableness standard and the chosen legal interpretation is one of the many reasonable options opened to the tribunal.
+[92]
+The legal explanation for allowing two deferring interpretations of the law, if reasonable, to stand is simply that courts must respect the legislator's intention that such types of administrative decisions, which are protected by a privative clause, be not reviewed unless the tribunal has acted without or beyond its jurisdiction. This may sound strange to persons who are not familiar with judicial review and its subtleties, and I find it worthwhile to quote what late professor Chaïm Perelman (1912-1984) was writing in a text entitled "What the philosopher may learn from the study of law", reproduced in annex to his work
+Justice
+, published in 1967 (Random House, New York) at page 94:
+The diversity of laws is proof of our ignorance of true justice. That which conforms to reason cannot be just here and unjust there, just today and unjust tomorrow, just for one and unjust for another. That which is just in reason should, like that which is true, be so universally. Disagreement is a sign of imperfection, of a lack of rationality.
+If two interpretations of the same text are reasonably possible, it is because the law is ambiguous, therefore imperfect. If the law is clear, then at least one of the two interpreters disputes in bad faith. In any case, disagreement is a scandal, due either to the imperfection of the legislator or to the deceptive subtlety of the lawyers. The innate sense of justice, which each equitable judge certainly possesses, should permit the rapid reestablishment of correct order.
+[93]
+That said, professor Perelman goes on at page 96 to provide a philosophical answer to such apparent injustice or human imperfection by telling this short anecdote:
+The Jewish tradition, which never sought to conceive law on a scientific model, offers a significant story in this connection. In the Talmud two schools of biblical interpretation are in constant opposition, the school of Hillel and that of Shammai. Rabbi Abba relates that, bothered by these contradictory interpretations of the sacred texts, Rabbi Samuel addresses himself to heaven in order to know who speaks the truth. A voice from above answers him that these two theses both expressed the word of the Living God. The lesson of this story is clear: Two opposing interpretations can be equally respectable, and it is not necessary to condemn as unreasonable at least one of the interpreters.
+In fact, we admit that two reasonable and honest men can disagree on a determined question and thus judge differently. The situation is even considered so normal, both in legislative assemblies and in tribunals that have several judges, that decisions made unanimously are esteemed exceptional; and it is normal, moreover, to provide for procedures permitting the reaching of a decision even when opposing opinions persist.
+[94]
+Since I have to choose between one of two standards of review, correctness or reasonableness, knowing that in so choosing, if I erred, an appellate court will correct any such error of law, not without a certain hesitation, it appears to the Court today that the respondent's position is more in line with the current case law and the views recently expressed by the Supreme Court of Canada (a majority of judges) and the Federal Court of Appeal. It is sufficient to state here that I substantially endorse the respondent's reasoning above, and that I feel bound by all these precedents (
+Nor-Man Regional Health Authority
+,
+Smith
+,
+Alberta Teachers' Association
+and
+Amos
+, above). That said, I will make below a number of supplementary observations.
+[95]
+As explained in <FRAGMENT_SUPPRESSED> , above, at para 62, the process of judicial review involves two steps. First, courts ascertain whether the jurisprudence has already determined in a satisfactory manner the degree of deference to be accorded with regard to a particular category of question. Second, where the first inquiry proves unfruitful, courts must proceed to an analysis of the factors making it possible to identify the proper standard of review.
+[96]
+The Supreme Court has indicated in <FRAGMENT_SUPPRESSED> , above, at paras 51 and 53, that questions of fact, discretion and policy as well as questions where the legal issues cannot be easily separated from the factual issues generally attract a standard of reasonableness while two particular types of legal issues (jurisdictional and central to the legal system) attract a standard of correctness. Other legal issues, however, will attract the more deferential standard of reasonableness in the majority of cases. This is generally the case where an administrative tribunal has developed particular expertise in the application of a general common law or civil law rule in relation to a specific statutory context:
+ <FRAGMENT_SUPPRESSED> . Adjudication in labour law remains a good example of the relevance of this approach. In this field, the reviewing courts have given great deference to an adjudicator's decision to uphold or to set aside discipline which must be allowed to stand unless they are found to be unreasonable.
+[97]
+It is interesting to note that <FRAGMENT_SUPPRESSED> comes from the labour relations sector. In the case of <FRAGMENT_SUPPRESSED> , an adjudicator had been appointed to hear the grievance made by the appellant who was challenging his termination under the
+Public Service Labour Relations Act
+, RSNB 1973, c P-25. A preliminary issue of statutory interpretation had arose as to whether, where dismissal was with notice or pay in lieu thereof, the adjudicator was authorized to determine the reasons underlying the province's decision to terminate. The adjudicator held that the referential incorporation of subsection 97(2.1) of the former Act into subsection 100.1(5) of that Act meant that he could determine whether the appellant had been discharged or otherwise disciplined for cause.
+[98]
+As mentioned by the Supreme Court in
+ <FRAGMENT_SUPPRESSED> , at para 55, a consideration of the following factors will lead to the conclusion that the decision maker should be given deference and a standard of reasonableness should be applied:
+• A privative clause: this is a statutory direction from Parliament or a legislature indicating the need for deference. Here, section 233 of the
+PSLRA
+is a strong privative clause.
+• A discrete and special administrative regime in which the decision maker has special expertise (labour relations for instance). Here, the adjudicator enjoys a recognized expertise to decide whether there was cause to discipline the applicant and has plenary powers under subsection 228(2) of the
+PSLRA
+to upheld, vary or set aside discipline imposed by the employer.
+• The nature of the question of law. A question of law that is of "central importance to the legal system . . . and outside the . . . specialized area of expertise" of the administrative decision maker will always attract a correctness standard (
+ <FRAGMENT_SUPPRESSED>  compatible with a reasonableness standard where the two above factors so indicate. Here, the adjudicator, a member of the Board, is specifically empowered to interpret and apply the PSLRA as well as another Act of Parliament relating to employment matter (e.g. portions of the
+FAA
+), leaving the issue whether the interpretation of section 194 of the
+PSLRA
+has the two exceptional characters above.
+[99]
+Considering the privative clause, the nature of the regime, and the nature of the question of law at issue, the Supreme Court concluded in <FRAGMENT_SUPPRESSED> , above, that the appropriate standard of review was reasonableness. While the question of whether the combined effect of subsection 97(2.1) and section 100.1 of that Act permitted the adjudicator to inquire into the employer's reason for dismissing an employee with notice or pay in lieu of notice is a question of law, it was not one that is of central importance to the legal system and outside the specialized expertise of the adjudicator, who was in fact interpreting his enabling statute. I think that a similar reasoning applies to the interpretation made by the adjudicator of section 194 of the
+PSLRA
+.
+[100]
+This is a discipline case where the grievor (the applicant) counterattacks by alleging that he was unjustly disciplined and discriminated by the employer because he was acting as a union representative. The jurisprudence of this Court is clear that an adjudicator's interpretation and application of the collective agreement, as well as the adjudicator's regard for the facts and the material before him, should be subject to the reasonableness standard (
+ <FRAGMENT_SUPPRESSED> [2008] FCJ 1511;
+ <FRAGMENT_SUPPRESSED> [2011] FCJ 365). Here, the legal issue of misconduct is of mixed fact and law, and the interpretation of section 194 of the
+PSLRA
+cannot be easily separated from the facts.
+[101]
+The powers of the adjudicator to determine the matter, including his remedial authority, are not in issue here. True questions of jurisdiction are those "where the tribunal must explicitly determine whether its statutory grant of power gives it the authority to decide a particular matter" (Dunsmuir at para 59). In the case at bar, the jurisdiction of the adjudicator and specialized function to decide whether just cause to discipline exists, and in the affirmative, whether the discipline imposed is acceptable, are not challenged. Indeed, the adjudicator enjoys a broad power to make "the order that he or she considers appropriate in the circumstances" (subsection 228(2) of the
+PSLRA
+). Since the grievance was dismissed, the adjudicator did not need to decide whether this was a case where no reinstatement order should be made.
+[102]
+Again, section 194 of the
+PSLRA
+is found in the adjudicator's "home statute". This is not a case where the adjudicator interprets a statute with which he is not familiar to determine whether he has jurisdiction in the matter (
+Financial Transactions and  <FRAGMENT_SUPPRESSED> . Rather, it is the adjudicator's expertise with respect to the interpretation of penal provisions in the
+PSLRA
+, and to a certain extent of provisions in the
+FAA
+governing the employer's authority to discipline, which is questioned by the applicant.
+[103]
+I do not think that "home statute" must be limited to Part I (Board) or Part II (Adjudicator) of the
+PSLRA
+. Contextually speaking, Parliament has vested the Board with the exclusive jurisdiction under Part I of the
+PSLRA
+to issue a cease and desist order in the case of an illegal strike, and the discretion, to authorize that prosecution be instituted against every officer or representative of an employee organization who has counselled or procured the declaration or authorized the illegal strike, contrary to subsection 194(1) of the
+PSLRA
+(sections 203 and 205 of the
+PSLRA
+). In this perspective, the adjudicator's expertise which is exercised in a disciplinary context is relative to the expertise of the Board itself in respect to labour relations and of the courts of criminal jurisdiction who will be interpreting the strike provisions of their home statute. Here, the adjudicator is designated by the Board itself and is a member of the Board (paragraph 223(2) of the
+PSLRA
+). We are not dealing with an adjudicator appointed by the parties under the collective agreement. A Board member must be presumed to have expertise in labour relations including illegal strike actions and unfair labour practices.
+[104]
+In
+Amos
+, above, the Federal Court of Appeal noted that section 233 of the
+PSLRA
+contains a strong privative clause where a decision of an adjudicator is involved, and that the broader aim of the
+PSLRA
+is to provide an expert regime, away from the judicial arena, for the determination of labour disputes, and to facilitate their resolution expeditiously, inexpensively, and with little formality. While there is ample merit to jurisprudential uniformity on the interpretation of such a quasi-criminal provision (section 194 of the
+PSLRA
+), I am not convinced that the interpretation of section 194 of the
+PSLRA
+made by the adjudicator here, which endorses the general approach of the Board itself, raises an issue of general legal importance which is central to the operation of the labour relations system under the
+PSLRA
+.
+[105]
+Finally, while I also agree that the expertise of the adjudicator in determining whether the applicant has contravened subsection 194(1), which is the sole basis for the two disciplinary actions, is relative to the habitual and recognized expertise of courts of criminal jurisdiction. A whole body of case law has concurrently developed in a labour relations context as to what "counselling" and "procuring" an illegal strike actually means. Moreover, adjudicators have themselves been invited to upheld or set aside discipline imposed on union representatives who have allegedly "counselled" or "procured" an illegal strike. In fact, this is not the first time that the applicant is disciplined for having allegedly acted contrary to such quasi-criminal provision and that an adjudicator upholds the discipline:
+ <FRAGMENT_SUPPRESSED> .
+[106]
+All these factors tend to favour the adoption of a reasonableness standard with respect to all of the findings made in this case by the adjudicator, whether they are labelled as findings of fact, findings of mixed fact and law or pure findings of law.
+V. ANALYSIS
+[107]
+The adjudicator's conclusion to uphold the discipline and to dismiss the grievances must be supported by the evidence and "fall within a range of possible, acceptable outcomes which are defensible in respect of the facts and law" ( <FRAGMENT_SUPPRESSED> , above, at para 47).
+[108]
+This case raises three issues which may be summarized as follows:
+(a) Is the finding that the employer has authority under the
+FAA
+to discipline the applicant unreasonable?
+(b) Is the finding that the employer had cause to discipline the applicant because he acted contrary to subsection 194(1) of the
+PSLRA
+unreasonable?
+(c) Is the finding that the quantum of discipline imposed by the employer was appropriate unreasonable?
+[109]
+For the reasons hereunder, the findings and overall conclusion of the adjudicator are reasonable in the Court's opinion.
+Authority to discipline the applicant
+[110]
+In paragraphs 172 to 179 of the impugned decision, the adjudicator addresses the deputy's head purported authority to impose discipline against a fulltime union officer paid by the CBSA.
+[111]
+First, the adjudicator rejects the applicant's argument that an alleged contravention to subsection 194(1) of the
+PSLRA
+should have been pursued by prosecution instead of discipline. He finds that the employer has multiple options or range of remedies:
+Beaupré and  <FRAGMENT_SUPPRESSED>  [
+Beaupré and Oldale
+]; and,
+ <FRAGMENT_SUPPRESSED>  OLRB Rep May 66 at para 5.
+[112]
+Second, the adjudicator determines that the deputy head has general authority under the
+FAA
+to impose discipline an employee who is "counselling" or "procuring" an illegal strike. He finds that the employer's authority to discipline the applicant is not constrained by Article 16.01 of the collective agreement, which simply sets out the consequences of "participating" in an illegal strike (paragraph 176).
+[113]
+Article 16.01 reads as follows:
+16.01 The
+Public Service Labour Relations Act
+provides penalties for engaging in illegal strikes. Disciplinary action may also be taken, which will include penalties up to and including termination of employment pursuant to paragraph 12(1)(
+c
+) of the
+Financial Administration Act
+for
+participation
+in an illegal strike as defined in the Public Service Labour Relations Act. [Emphasis added]
+[114]
+Since the adjudicator has found that the employer's authority to discipline the applicant for misconduct is derived from the
+FAA
+and is not limited by Article 16.01 of the collective agreement, in order to assess the reasonableness of the adjudicator's finding it is necessary to refer to the number of relevant provisions of the
+FAA
+. However, the fact that the adjudicator has omitted in his decision to mention well-known statutory provisions in the
+FAA
+and the
+PSLRA
+does not constitute a reviewable error (
+ <FRAGMENT_SUPPRESSED> ) and is compatible to the general approach of the Supreme Court in
+Alberta Teachers' Association
+, above.
+[115]
+Part I of the
+FAA
+sets out the powers of the Treasury Board in respect of labour relations. The legal regime governing the management of the Public Service of Canada has already been the object of judicial scrutiny and consideration by the Court, notably in
+ <FRAGMENT_SUPPRESSED> [
+Tobin FC
+], upheld by the Federal Court of Appeal, 2009 FCA 254 at paras 8-10 and 56 [ <FRAGMENT_SUPPRESSED> CA
+].
+[116]
+The <FRAGMENT_SUPPRESSED> case concerned a management employee with the Correctional Service of Canada [CSC] who had been dismissed from his employment after he had pleaded guilty to criminal harassment of a woman he had met in the course of his duties. In its written reasons for dismissal, the CSC noted that the grievor's conviction contravened its disciplinary code and standards of professional conduct. The adjudicator allowed the grievance on the ground that, since the conduct giving rise to the criminal conviction was off-duty conduct, the employer had not met the burden of showing that it was entitled to discipline the employee. Finding that the application judge had erred in applying the correctness standard, the Federal Court of Appeal nevertheless concluded that the decision was unreasonable because the adjudicator had "failed to come to grips with the essence of the reasons for Mr. Tobin's termination for cause, and consequently, did not apply the evidence on the record, [which constituted] the use of a flawed evidentiary and analytical process" (
+Tobin CA
+at para 55).
+[117]
+Pursuant to paragraph 7(1)(
+e
+) of the
+FAA
+, the Treasury Board may act for the Queen's Privy Council for Canada on all matters relating to human resources management in the federal public administration, including the determination of the terms and conditions of employment of persons employed in it. Paragraphs 11.1(
+f
+) and (
+g
+) of the
+FAA
+provides that in the exercise of its human resources management responsibilities under paragraph 7(1)(
+e
+), the Treasury Board may establish policies or issue directives respecting:
+• the exercise of the powers granted by the
+FAA
+to deputy heads in the core public administration and the reporting by those deputy heads in respect of the exercise of those powers;
+• the manner in which deputy heads in the core public administration may deal with grievances under the
+PSLRA
+to which they are a party, and the manner in which they may deal with them if the grievances are referred to adjudication under subsection 209(1) of that Act, and
+• the reporting by those deputy heads in respect of those grievances.
+[118]
+Sections 11 to 13 of the
+FAA
+specifically deal with human resources management. In passing, the CBSA has been added in Schedule IV of the
+FAA
+by the Governor in Council as a portion of the federal public administration (SOR/2005-58). According to the definition found in subsection 11(1), "deputy head" means in relation to any portion of the federal public administration named in Schedule IV, its chief executive officer or, if there is no chief executive officer, its statutory deputy head or, if there is neither, the person who occupies the position designated under subsection (2) in respect of that portion. It is not challenged that Mr. Gillan was the deputy head for the purpose of discipline.
+[119]
+Paragraph 12(1)(
+c
+) of the
+FAA
+reads as follows:
+12. (1) Subject to paragraphs 11.1(1)(f) and (g), every deputy head in the core public administration may, with respect to the portion for which he or she is deputy head,
+...
+(
+c
+)
+establish standards of discipline
+and
+set penalties
+, including termination of employment, suspension, demotion to a position at a lower maximum rate of pay and financial penalties; [Emphasis added]
+[120]
+The disciplinary authority of the deputy head under paragraph 12(1)(
+c
+) of the
+FAA
+has been interpreted by the Court as the general authority "to establish standards of conduct and to enforce these standards of conduct by imposition of penalties" (then paragraph 11(2)(
+f
+) of the
+FAA
+):
+Tobin FC
+at para 12. Subsection 12(3) of the
+PSLRA
+notably provides that disciplinary action under paragraph 12(2)(
+c
+) may only be for cause. Thus, it was not unreasonable for the adjudicator to find that the deputy could legally discipline the applicant if it could be proven, on a balance of probabilities, that the applicant had "counselled" or "procured" an illegal strike, contrary to subsection 194(1) of the
+PSLRA
+.
+[121]
+The applicant has also argued that the adjudicator erred in determining that the deputy head's authority to discipline the applicant was not constrained by Article 16.01 of the collective agreement. The applicant submits that by virtue of Article 16.01 of the collective agreement, employees may only face discipline under the deputy head's authority as prescribed in paragraph 12(1)(
+c
+) of the
+FAA
+, for "participating" or "engaging" in illegal strike activity. According to the applicant, it was thus unreasonable for the adjudicator to conclude that the employer either could not or did not bind itself to certain standards of discipline in relation to illegal strike activity.
+[122]
+The respondent states that the adjudicator did not say the parties could not negotiate such clauses in their collective agreement, but held that Article 16.01 did not reflect an agreement on a limitation to the employer's disciplinary authority under the
+FAA
+. The respondent submits that the language of Article 16.01 of the collective agreement is not enough specific as to support the applicant's reading of it and that in absence of specific indication to the contrary, the employer had authority to discipline the applicant under subsection 194(1) of the
+PSLRA
+.
+[123]
+Many years ago, the Supreme Court of Canada has confirmed the supremacy of the collective agreement as the law of the parties (
+ <FRAGMENT_SUPPRESSED> ). Subject to what the law may itself prescribe, the paramountcy of the collective agreement in the federal public sector is not in issue (see sections 113 and 114 of the
+PSLRA
+). The Honourable George W. Adams notes in the most recent edition of his seminal work,
+Canadian Labour Law
+, 2d ed. (Aurora, Ontario: Canada Law Book, 2011), volume 2, at paragraph 12.20:
+The collective agreement is the cornerstone of our labour relations system
+. It evidences bargaining rights; it serves as a bar to either the termination or transfer of these rights; it sets out the terms and conditions of employment for specific time period; it requires that any dispute as to its interpretation, application or administration be resolved by binding arbitration; and,
+its existence can determine the legality or illegality of various activities engaged in by an employer, a trade union or employees.
+Thus, in determining the existence of an agreement, labour boards have been influenced by both the realities of the collective bargaining process and the practical need for consistent, easily understood criteria. [Emphasis added]
+[124]
+That said, it must remembered that Article 6.01 of the collective agreement deals with "managerial responsibilities" and provides that "
+[e] xcept to the extent provided herein
+, [the collective agreement] in no way restricts the authority of those charged with managerial responsibilities in the public service." In the past, management rights provisions such as Article 6.01 of the collective agreement have been invoked to sustain the legality of actions affecting working conditions of the employees in cases where the union had failed to negotiate specific provisions in the collective agreement.
+[125]
+ <FRAGMENT_SUPPRESSED>  the issue was to determine whether the government had the right to unilaterally place full time permanent employees at the Canadian Grain Commission on off-duty status without pay for a period of three months due to a work shortage. In deciding whether the general authority vested in the Treasury Board under the
+FAA
+included the authority to place certain employees on a no-work no-pay status, Justice Desjardins stated at para 50 that:
+...
+wide powers conferred on the Treasury Board and its delegates under
+paragraphs 7(1)(
+e
+) and 11(2)(
+a
+) and (
+d
+) of the FAA
+and articles 6.01
+and 25.01
+of the applicable collective agreement are grants of authority
+which allowed the Commission to place the appellants on an off-duty status without pay. Specifically, the Treasury Board under paragraph 7(1)(
+e
+) is given authority over "personnel management in the public service, including the determination of the terms and conditions of employment of persons employed"; under paragraph 11(2)(
+a
+), it may provide for their effective utilization; under paragraph 11(2)(
+d
+), it may determine and regulate the pay, the hours of work and leave, and any matters related thereto. These last words would cover the procedure followed for the release and the recall of employees.
+Moreover, under the collective agreement, the managerial responsibilities remain unrestricted, unless provided to the contrary.
+The employee is given no guarantee with regard to his minimum or maximum hours of work. [Emphasis added]
+[126]
+In reaching this conclusion, both Justice Desjardins and Justice Kelen who had rendered the judgment in first instance (
+ <FRAGMENT_SUPPRESSED> ) cited with approval Justice Joyal's conclusion in
+ <FRAGMENT_SUPPRESSED> where he stated:
+I must conclude that the scheme of "off-pay status" comes within the legislative field of authority conferred on the Treasury Board under the Financial Administration Act. I further conclude that the scheme is not in its essence a lay-off pursuant to section 29 of the Public Service Employment Act. I find also
+that in the absence of any prohibitory provision in the collective agreement, the scheme is not by necessary implications contrary to its terms and conditions or of a nature to do violence to the collective agreement's purposes and objects
+. I further find that the off-pay scheme strikes a proper balance between statutory provisions on the one hand and contractual provisions on the other, neither of them being offended by the scheme. I conclude that management's discretionary initiative to cope with short-term staff surplus or work shortage in the way intended has been exercized in a lawful manner. [Emphasis added]
+[127]
+In the case at bar, the adjudicator agreed with the employer that "the deputy head's authority to discipline is found in the
+FAA
+and not the collective agreement.
+The collective agreement clause simply sets out the consequences of participating in an illegal strike.
+" In view of what we have outlined above, this is an interpretation that is defensible. In the Court's humble opinion, the fact that the adjudicator could have accepted the alternative interpretation proposed by the applicant is not sufficient ground to intervene.
+Obey now grieve later
+[128]
+The "obey now grieve later" rule required the border services officers at PIA to continue to report at their work pending resolution of the policy grievance on the 6/2 schedule. This is so because "the rationale for the rule is said to lie in the employer's need to be able to control and direct its operations to ensure that they continue uninterrupted even when controversies arise, and in its concomitant authority to maintain such discipline as may required to ensure the efficient operation of the enterprise" (Donald J.M. Brown and David M. Beatty,
+Canadian Labour Arbitration
+, Fourth Edition, December 2011, at para 7:3610). Thus, any individual and unjustified refusal of an employee to report at work would be considered as an act of insubordination while the concerted refusal to report would be considered a strike.
+[129]
+The Court acknowledges that the "obey now grieve later" rule may suffer exceptions where, for example, the employees have reasonable grounds to believe that complying with the employer's order would clearly be illegal in the sense that it is offensive of some public statute (
+Re International Nickel Co of Canada Ltd and United Steelworkers
+(1974), 6 LAC (2d) 172), or would endanger their health and safety (
+Jim Pattison Sign Co
+(2004), 134 LAC (4th) 1), or where the recipient of the employer's directive is a union official and obedience would result in irreparable harm to the interests of other employees (
+Bell Canada
+(1996), 57 LAC (4th) 289), or yet where the order involves an invasion of fundamental privacy rights such as searches of the employee's person or belongings (
+Re Accuride Canada and Canadian Automobile Workers, Local 27
+(1992), 29 LAC (4th) 137).
+[130]
+There may be also other exceptions, in rarer cases, such as where an individual employee would suffer irreparable harm if he or she complied with the directive, and by comparison, the refusal would result in only minimal prejudice to the employer, or the employer's order amounts to an unambiguous violation of the collective agreement, but a very high threshold is required (
+Re Pacific Press and Communications, Energy and Paperworkers' Union, Local 115M
+(1997), 69 LAC (4th) 214). Moreover, "[a] rbitrators have often cautioned against unduly extending these exceptions to the point where they would swallow the rule" (
+Canadian Labour Arbitration
+, above, at para 7:3620).
+[131]
+In the present case, there has been no attempt on the part of the bargaining agent to invoke one of the recognized exceptions to the rule "obey now grieve later". Quite the contrary, the applicant had been advised that he had to be patient and that the policy grievance was the proper mechanism to deal with the issue of shift schedules. Thus, there was no element of necessity that justified, in principle, the applicant to ignore the advice received from the president of the PSAC and to continue "pressing the bargaining agent and CEUDA National for support to walk off the job now" and to mobilize the members of the bargaining unit "to support future activities", which well include a collective refusal to report on shifts not provided for in Article 25.17 of the collective agreement.
+Interpretation of section 194 of the
+PSLRA
+[132]
+Prohibitions with respect to illegal strike action are found in sections 193 to 198, also in Part 1 of the
+PSLRA
+. According to subsection 2(1) of the
+PSLRA
+, a strike "includes a cessation of work or a refusal to work or to continue to work by persons employed in the public service, in combination, in concert or in accordance with a common understanding, and a slow-down of work or any other concerted activity on the part of such persons that is designed to restrict or limit output". This definition would include the concerted refusal by the boarder services officers at PIA to collectively boycott the 6/2 schedule and report at work as scheduled by management.
+[133]
+The issue here is whether the applicant, as a union officer, has counselled or procured the declaration of a strike or the participation of employees in such a strike where, in fact, the bargaining agent has not authorized or declared a strike and the employees did not participate in a strike. More particularly, subsection 194(1) which applies to an employee organization and their officers or representatives, reads as follows:
+194. (1) No employee organization shall declare or authorize a strike in respect of a bargaining unit, and no officer or representative of an employee organization shall
+counsel
+or
+procure
+the declaration or authorization of a strike in respect of a bargaining unit or the participation of employees in such a strike, if
+...
+(
+b
+) a collective agreement applying to the bargaining unit is in force; [Emphasis added]
+[134]
+Pursuant to section 203 of the
+PSLRA,
+every officer or representative of an employee organization who contravenes subsection 194(1) is guilty of an offence and liable on summary conviction to a fine of not more than $10,000. However, a prosecution for such an offence may be instituted only with the consent of the Board, as prescribed by section 205 of the
+PSLRA
+.
+[135]
+The applicant recognizes that a union officer will be infringing section 194(1) of the Act if he incites the employees to participate in an illegal strike, whether they follow his advice or not. However, the applicant has pressed the adjudicator to conclude that "counselling" should not be interpreted as simply "advising", "suggesting" or "insinuating". Rather, when prohibited as a criminal offence, it has to be given the stronger meaning of "actively inducing" in accordance with criminal law jurisprudence (
+R v Sharpe
+, 2001 SCC 2 at para 56, [2001] 1 SCR 45 [
+Sharpe
+]).
+[136]
+On the contrary, the deputy head argued before the adjudicator that the use of the terms "counsel or procure" which are found in section 194 of the
+PSLRA
+, rather than "declare or authorize" used in section 89 of the
+Canada Labour Code
+, RSC, 1985, c L-2 (
+CLC
+), suggests a particularly broad prohibition in respect of illegal strikes under the
+PSLRA
+. In turn, the applicant has submitted to the adjudicator that the language used in the
+PSLRA
+is not unlike the one used in section 81 (formerly section 74) of the
+Ontario Labour Relations Act
+, 1995, SO 1995, c 1, Sch A (
+OLRA
+), which provides that:
+81. No trade union or council of trade unions shall call or authorize or threaten to call or authorize an unlawful strike and no officer, official or agent of a trade union or council of trade unions shall
+counsel
+,
+procure
+,
+support
+or
+encourage
+an unlawful strike or
+threaten
+an unlawful strike. [Emphasis added]
+[137]
+The applicant argues that illegal strike provisions in different labour relations regimes are intended to prevent and discourage illegal job action but never to a point as to limit the dialogue between union representatives and the employer or to restrain internal union debate. Relying on
+Re Plaza Fiber Glas Mfg Ltd and USW
+, [1988] OLAA 62, 33 LAC (3d) 193 [
+Plaza Fiber Glas
+] at paras 79-80, the applicant suggested that the prohibition to "procure" or "counsel" an illegal strike should be given a restrictive meaning:
+... I cannot imagine that the legislature by the provision of section 74 [now section 74] has intended to prohibit the employees from uttering the word "strike" during the life of the collective agreement. If the union officers are prohibited from communicating with their employers, the frustration of the employees which may lead to work stoppage, it would be a great disservice to the employer, as well as to the labour-management relations in general. In my opinion, the union officers not only have a right but an obligation to discuss such issues with the employer openly and frankly, and to make him aware of this situation and help him in diffusing the issue.
+...The term "threat" means an avowed present determination or intent to injure presently or in the future. A statement may constitute a threat even though it is subject to a possible contingency in the future. A statement may constitute a threat even though it is subject to a possible contingency in the maker's control.
+The prosecution must establish a "true threat" which means a serious threat as distinguished from words uttered as mere political argument, idle talk or jest.
+[Emphasis added]
+[138]
+In the case at bar, the adjudicator found that subsection 194(1) of the
+PSLRA
+contains a dual prohibition of: 1) counselling or procuring the declaration or authorization of an illegal strike, which relates to efforts of a union officer to obtain authorization for an illegal strike from someone withholding such authority within the union; and/or 2) counselling or procuring the participation of employees in an illegal strike, which relates to efforts of a union officer to obtain the participation of union members in an illegal strike. More particularly, the adjudicator found that to "counsel", as intended by subsection 194(1) of the
+PSLRA
+, should be interpreted as meaning "to advise or recommend", and to "procure" as meaning "to bring about; to obtain by care or effort; or to prevail upon, induce, persuade the person to do something" (
+Shorter Oxford Dictionary
+, 3d edition). The adjudicator rejected the applicant's position that the terms "counsel or procure" must necessarily be interpreted in a manner consistent with the interpretation given to these terms in the criminal context.
+[139]
+The adjudicator noted that "[l] abour relations statutes are not criminal law statutes" and that "[i] n any event, there is jurisprudence in the labour relations context that defines these terms" (paragraph 188). The adjudicator relied on the decision rendered in  <FRAGMENT_SUPPRESSED> [1972] CRTFPC 7 [International Brotherhood of Electrical Workers], where the Board stated that the synonyms for "counselling" and "procuring" "were legion" and stated that "anyone who instructs, directs, incites, advises, recommends, encourages or induces" can be said to have counselled or procured. Moreover, the adjudicator found that "incitement or counselling must be established objectively and not on the basis of the interpretation of employees" (
+ <FRAGMENT_SUPPRESSED>  20-21).
+[140]
+The applicant submits that the interpretation made by the adjudicator of section 194 is wrong in law or otherwise unreasonable. By operation of section 203 and 205 of the
+PSLRA
+, contravening subsection 194(1) is a quasi-criminal summary conviction offence with a fine up to $10,000. It is thus the applicant's contention that evidence of his intention that his words or actions provoke an illegal strike was therefore required for such provisions to be engaged. In this respect, "counsel and procure" denote "the much stronger meaning of actively educing" as the Supreme Court indicated in
+Sharpe
+, above, at para 56, and
+R v Hamilton
+, 2005 SCC 47 at para 72, [2005] 2 SCR 432 [
+Hamilton
+]. The applicant submits that the adjudicator's rejection of this jurisprudence is incorrect or otherwise unreasonable.
+[141]
+On the other hand, the respondent submits today that since the adjudicator was not dealing with a criminal prosecution but an ordinary piece of labour legislation in a civil matter, and that there is no uncertainty or ambiguity in the terms "counsel" and "procure", the adjudicator's interpretation of subsection 194(1) of the
+PSLRA
+was consistent with the labour law jurisprudence of his jurisdiction and he cannot be faulted for not taking into account the interpretation given to these terms in the criminal context. The respondent submits that the provision calls for a broad interpretation requiring an objective assessment of the evidence, not an investigation of subjective intent.
+[142]
+The respondent contends that the interpretation favoured by the applicant does not grasp the purpose of the terms "counsel" and "procure" in subsection 194(1) of the
+PSLRA
+. The respondent argues that the mutual obligation of the employer and the employee organization underlines the intent of Parliament in making a violation of the
+PSLRA
+the act of counselling or procuring: 1) the declaration or authorization or an illegal strike; and 2) the participation of employees in illegal strike activity. The respondent argues that had Parliament intended this to embrace only explicit declarations demonstrating intent on the part of a union representative, the
+PSLRA
+would have used the same language as section 89 of the
+Canada Labour Code
+which provides that "no trade union shall declare or authorize a strike" until certain requirements are met.
+[143]
+The Court notes that in
+Plaza Fiber Glas
+, in deciding whether the union representative had acted in a way as to "counsel, procure, support or encourage an unlawful strike or threaten an unlawful strike" (in contravention of section 81 of the
+OLRA
+), the arbitrator in stated, at para 80, that the term "threat" means an avowed present determination or intent to injure presently or in the future. A statement may constitute a threat even though it is subject to a possible contingency in the future. A statement may constitute a threat even though it is subject to a possible contingency in the maker's control.
+[144]
+While the applicant's view that the prosecution must establish a "true threat" which means "a serious threat as distinguished from words uttered as mere political argument, idle talk or jest" seems to have been endorsed to a certain extent by other arbitrators, this does not suffice to render the adjudicator's reasoning unreasonable. Perhaps, as suggested by the applicant, the correct interpretation of subsection 194(1) of the
+PSLRA
+requires the employer to establish actions going beyond mere discussion of an authorization or declaration of illegal strike, such as a plan of concerted activity for job action or any specific directions given to the employees to that effect, but as aforesaid, this is not the applicable standard of review.
+[145]
+The Court must only ask itself if the broader interpretation of section 194 chosen by the adjudicator is one that the words used can reasonably bear and the answer is yes in light of the cases upon which the adjudicator is relying. Such deferential approach may sound unjust but this is the paradox of the reasonableness standard. If the adjudicator would have opted instead for a narrower meaning of section 194 of the
+PSLRA
+- the employer would be left to argue that such interpretation is unreasonable. The hurdle would be as difficult for the employer as it is today to convince the Court to review the decision to set aside the discipline, and chances are that the Court would not intervene unless it could be demonstrated that such interpretation is irrational or arbitrary.
+Cause to discipline the applicant
+[146]
+The principle that participation in an unlawful strike may constitute good and sufficient reason for dismissal has been recognized a long time ago (
+ <FRAGMENT_SUPPRESSED>  the applicant had sent a letter to the Prime Minister and Members of Parliament raising a number of observations with respect to a variety of issues which were subject to dispute with the employer. At paragraph 106 of the decision, adjudicator Dan Quigley noted that "the concerns in management's mind were not whether those observations, irritants and complaints were valid or legitimate, but rather the last paragraph of the letter, which states: "In lieu of the opening issue,
+I will be advising all Customs Inspectors not to perform any further examinations unless a fellow officer is present to witness."
+In fact, in that case, the applicant's message contained a clear expression of intent and an explicit advice to costumes inspectors to stop performing their jobs. The adjudicator further stated at paras 122-125:
+In his letter of April 3, 1997, he stated: "I will be advising all Customs Inspectors....". In the notice, he stated: "We offer the following advice..." The "we", as the grievor testified, was the collective we - the union - and pursuant to section 103 "an employee organization".
+The Concise Oxford Dictionary (Tenth Edition) defines the word counsel as "advice, especially that given formally." I find that, pursuant to section 103 of the PSSRA, the grievor's advice in the notice was counseling (formally) the membership to participate in a strike.
+...
+Although there was no cessation of work or a refusal to work or to continue to work by employees, there was an
+attempt by the grievor, by the posting of the notice, for concerted activity by the membership
+. [Emphasis added]
+[148]
+It is not challenged that the deputy head had the burden of proving that, on a balance of probabilities, he had just cause to discipline the applicant and that the evidence of misconduct had to be "sufficiently clear, convincing and cogent" to satisfy the balance of probabilities test (
+ <FRAGMENT_SUPPRESSED> ). Both the 30 day suspension and the termination of employment, when the applicant posted and reposted the two impugned statements, were imposed because the applicant had purportedly "counselled or procured an illegal work stoppage". However, the adjudicator cautioned that although the same words were used in both instances, he must examine each disciplinary action separately (paragraphs 180-181).
+[149]
+Here, the adjudicator considered that the internal union correspondence between the applicant, the PSAC and the CEUDA National representatives was relevant and admissible evidence in order to provide context for the two statements made by the applicant and demonstrate his knowledge of the issues and surrounding events at each point of time (paragraphs 182-183). The adjudicator proceeded successively with the 30 day suspension (paragraphs 184-200) and the termination of employment (paragraphs 201-220). In both instances, the adjudicator found that the statement made by the applicant constituted "procuring" or "counselling" an illegal strike, contrary to subsection 194(1) of the
+PSLRA
+(paragraphs 191 and 210), and that the employer was justified to impose a 30 day suspension (paragraph 200) and to terminate the employment of the applicant (paragraph 217).
+[150]
+In this case, the adjudicator stated that the phrase "be prepared to support future union activities" was ambiguous since it could include activities that were permitted. The adjudicator rather relied on the words "
+pressing
+the bargaining agent ...for support to walk off the job now" to conclude that the applicant was lobbying the PSAC and CEUDA National to support the view he held i.e. the view that the union was in a legal strike position.
+[151]
+Having considered the correspondence between the applicant, the PSAC and the CEUDA National representatives, the adjudicator found that, as an experienced union representative, the applicant was or ought to have been aware of the fact that the bargaining unit was not in a legal strike position. He therefore rejected the applicant's explanation that he was seeking a conclusive position on the legality of strike action in the circumstances. This is finding of fact, and unless it is shown that it is not supported by the evidence or that it is capricious or irrational, it must be allowed to stand.
+[152]
+As far as the first website posting is concerned, the adjudicator found:
+[189] The grievor testified that he was simply asking for a clarification on a legal opinion. However, that is not what he wrote.
+He wrote that he was "...pressing the bargaining agent ...for support to walk off the job now."
+This is an explicit statement that he has already come to a conclusion on walking off the job.
+One does not "pressure" people to support a position if one does not agree with that position.
+The word "pressing" indicates that he was lobbying the PSAC and CEUDA National to support a view that he already held.
+The phrase "be prepared to support future union activities" by itself is ambiguous, since it could include activities that were permitted. However, in relation to the earlier statement about walking off the job "now", I have determined that, on the balance of probabilities, it is seeking support for an illegal work stoppage.
+This interpretation is confirmed by looking at the words in the context of what the grievor knew at the time. He knew that the bargaining unit was not in a legal strike position. He also knew that the PSAC has been crystal clear that it was not going to support any action other than pursuing the policy grievance on the VSSA issue.
+[190] It is also important to note what the grievor thought he was trying to achieve. He stated that Local 24 had no intention of proceeding with a walkout until such time as it received "a legal opinion
+or
+the requested support from the Bargaining Agent" (Exhibit E-1, tab 22, emphasis added.) It is clear that he was therefore seeking authorization ("the requested support") from the PSAC for an illegal work stoppage. As noted above, the
+PSLRA
+prohibits the counselling or procuring of authorization for an illegal strike. The grievor was clearly counselling the PSAC to authorize a walkout.
+[191] Therefore, I conclude that the statement made by the grievor does constitute procuring or counselling an illegal strike, contrary to subsection 194(1) of the
+PSLRA
+. [Emphasis added]
+[153]
+The applicant submits that the adjudicator acted unreasonably by failing to take into account relevant and conclusive evidence supporting the applicant's explanation for his actions, which seriously questions the conclusion that he sought to incite an illegal strike. More specifically, the applicant argues that the adjudicator failed to reconcile this finding with the evidence of:
+• the applicant's obligations as a union representative to follow up on the members' concerns and inquires in an internal union dialogue about the legality of job action;
+• the fact that the employer waited approximately six weeks before taking any action in response to the first website posting; and,
+• the fact that the applicant did comply with the employer's direction to remove the impugned posting and that the second posting went no further than setting out the employer's reasons for his suspension.
+[154]
+In the Court's opinion, none of the reproaches above are conclusive and would justify setting aside the decision and asking a newly constituted panel to start over the case.
+[155]
+With respect to the second posting, the adjudicator did not accept that the applicant's intention in reposting the message was simply to inform members of the imposed discipline since the applicant chose to repeat the two sentences that the employer regarded as inappropriate. The adjudicator noted that the message was "defiant" and agreed with the employer that the applicant "could have used more neutral language to explain the situation". The adjudicator also found that the quotation contained in the November 3, 2007 reposting, read in the context of the entire message and its attachments (e.g. the October 30 and November 2, 2007 emails), "are a further counselling or procuring of an illegal strike".
+[156]
+Again, in accepting that the adjudicator's finding of proven misconduct is an acceptable option in light of the facts and the law, the Court reiterates that it may not have been the only option. Indeed, it appears that the applicant's claim for benefits under the
+Employment Insurance Act
+, SC 1996, c 23, was earlier accepted in December 2007 by an insurance agent of Human Resources and Skills Development Canada, who concluded on the basis of the evidence on file that misconduct had not been proven by the employer and that it was unclear that the applicant's impugned statements contravened paragraph 194(1) of the
+PSLRA
+"when there is no real evidence that he had personally authorized or declared a strike".
+[157]
+While it may be questionable whether the applicant was terminated because he failed to follow a direct order (an act of insubordination) and/or because the second posting amounted to a contravention to paragraph 194(1) of the
+PSLRA
+, it is apparent that the adjudicator considered the totality of the evidence before concluding that the employer had met his case of proving misconduct. The applicant has proposed a different interpretation of his actions and the content of his messages on the union website. However, the adjudicator was allowed not to believe the applicant or dismiss his explanations and he has provided a rationale which supports his conclusion based on the evidence. Thus, the finding of misconduct is not unreasonable in the circumstances.
+Freedoms of association and expression
+[158]
+The adjudicator also dismissed any claim made by the applicant that he was immune from discipline because he was communicating to the employees as a union official.
+[159]
+While the adjudicator recognizes that "[a] significant degree of protection is granted to union officials to speak freely on issues of concern to employees" (paragraph 192), there is no immunity in the case of "[c] ounselling or procuring authorization for an illegal strike and counselling or procuring the participation of employees in an illegal strike [which] has always been regarded as serious misconduct justifying severe discipline" (paragraph 195). This finding is supported by the case law and should not be overturned by the Court.
+[160]
+Be that as it may, at adjudication and before this Court, the applicant has taken the position that this case is not about discipline for misconduct or insubordination but about the fundamental right of a union representative to freely address on website postings labour issues interesting the membership and without many employer interference. On the other hand, the respondent has argued that a union representative on paid leave is not immune from discipline in cases where he has counselled or procured an illegal strike.
+[161]
+Subsection 2(d) of the Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982 [Charter] guarantees the freedom of association, while subsection 2(
+b
+) guarantees the freedom of thought, belief, opinion and expression. Equality rights are protected by section 15 of the
+Charter
+, and in respect of employment, section 7 of the
+CHRA
+provides that it is a discriminatory practice to refuse to employ or continue to employ any individual on a prohibited ground of discrimination.
+[162]
+Paragraph 186(1)(
+a
+) of the
+PSLRA
+, which is found in Part 1 of the
+PSLRA
+, makes it an unfair labour practice for an employer or a management representative to interfere with the administration of an employee's association or the representation of employees by an employee organization:
+186. (1) Neither the employer nor a person who occupies a managerial or confidential position, whether or not the person is acting on behalf of the employer, shall
+(
+a
+) participate in or interfere with the formation or administration of an employee organization or the representation of employees by an employee organization;
+...
+[163]
+Directly relevant with respect to the grievance challenging the discipline imposed on the applicant is Article 19.01 of the collective agreement. This provision notably prohibits the employer from discriminating, intimidating or disciplining an employee by reason of union membership or activity:
+19.01 There shall be no discrimination, interference, restriction, coercion, harassment, intimidation, or any disciplinary action exercised or practiced with respect to an employee by reason of age, race, creed, colour, national or ethnic origin, religious affiliation, sex, sexual orientation, family status, mental or physical disability,
+membership or activity in the Alliance
+, marital status or a conviction for which a pardon has been granted. [Emphasis added]
+[164]
+As a result of the adversarial nature of collective bargaining, it is generally accepted in arbitral jurisprudence that union officers should be protected against disciplinary measures to a certain extent and accorded a certain degree of freedom of action to perform their representational duties in a way that will maintain the integrity of the collective bargaining process.  <FRAGMENT_SUPPRESSED> judicator Bilson held that:
+[T]he rationale for protecting bargaining agent representatives from discipline for statements critical of the employer unless those statements are malicious or false is that such representatives must be able to make the judgment that it is necessary to forego the ordinary level of deference to the employer in order to carry out a responsibility to represent employees forcefully and candidly. The legislative purpose expressed in the provisions I have quoted here is similar.
+Discipline which singles out people for having exercised their rights under the Act constitutes interference with union representation
+. It not only makes it difficult for representatives to perform their representational duties and exacts a personal price that may inhibit them from challenging the employer, it also sends a message to other employees about the dangers of exercising their own rights under the Act. Thus, employers are expected to refrain from making disciplinary decisions that violate the above provisions. [including subparagraph 186(2)(a) of the PSLRA] [Emphasis added]
+[165]
+This protection is, however, to be balanced against the employer's legitimate rights under the PSLRA. As Brown and Beatty cautioned in
+Canadian Labour Arbitration
+, 4th ed. (Aurora: March 2010), topic 9:1530:
+The right of a union official to vigorously push the union's point of view in dealing with the employer must be balanced against the latter's right to conduct its business free of harassment and abuse. As a result, union officials will be liable to discipline, like any other employee, for statements that are malicious, in the sense that they are knowingly or recklessly false, or that threaten or intimidate, or publicly attack their employers or a member of management. Nor would such protection extend to conduct which falls outside the normal scope or range of union responsibilities, such as abusive behaviour towards other employees or third-party contractors. [References omitted]
+[166]
+Although the issue in
+Plaza Fiber Glas
+that case was whether the insulting comments to the company president made by the grievor in a meeting over a workplace incident constituted just cause for discipline as they were perceived as a threat of unlawful strike, the arbitrator's comments, at para 19 of the decision, are particularly insightful:
+A union official (whether steward, plant chairperson or committeeman) while attempting to resolve grievances between employees and company personnel, always functions on the borderline of insubordination. His role is to challenge company decisions and, if in the discharge of that role he is to be exposed to a threat of discipline for insubordination, his ability to carry out his role will be substantially compromised.
+This is not to say that a committeeman has a
+carte blanche
+to ignore at will management instructions and to instruct others not to carry them out. His immunity, if it may be called that, is limited to acts or omissions committed in the discharge of his functions and to acts or omissions which may reasonably be regarded as a legitimate exercise in that function
+. To put it succinctly, a committeeman is not entitled to punch a foreman in the nose as one of his means of attempting to bring about a settlement of a grievance. [Emphasis added]
+[167]
+Again, such balancing is well explained by adjudicator Dissanayake in
+Communications, Energy and Paperworkers Union of Canada and Bell Canada (Hofstede Grievance)
+, [1996] CLAD 914 at paras 29-30:
+In our view, the question of whether a union official is entitled to immunity from discipline must depend on the facts of each case. The starting point must be that there must be a recognition that once an employee is elected to union office his status in the workplace changes substantially. He has a dual role. As an employee, he must conform to the same rules and policies as his co-workers. However, when acting in his union capacity he is an integral part of the collective bargaining regime that governs the workplace on a day-to-day basis. He is then on an equal footing with members of management when carrying out his union duties. He must be free to police the collective agreement for compliance, and enforce it with vigour. In so doing, it is unavoidable that he will be required to take a higher profile than his fellow workers. Inevitably from time to time he will encounter areas of conflict with members of management. Regardless of the individual's degree of tact and diplomacy, it comes with the territory that on occasion he will be bordering the line between vigorously representing his fellow workers and engaging in insubordination towards members of management. Given this difficult role undertaken, the right of a union official to properly carry out his duties must be strictly protected except in the most extreme cases. Mere militancy or over-zealousness should not result in penalty. A union official must be able to press his point of view with as much vigour and emotion as he wishes, eventhough it may turnout in the end that his point of view was wrong.
+However, the foregoing considerations do not mean that there are no limits to acceptable behaviour on the part of a union official. A balance must be struck between the right of a union official to be accorded a wide latitude in the manner he goes about carrying out his union duties and his concomitant responsibility as a union official to scrupulously refrain from the abuse of his union position to cloak patent insubordination and defiant challenge of management's right to manage the workplace and carry on production without disruption. [See, in relation to factually incorrect statements by union officials about members of management, arbitrator Picher's reference to a need to balance "the employer's dignitary interest" with "the need in collective bargaining for free-wheeling debate and open expression", at p. 382 of the Burns Meats decision (supra)]. Given the delicate balancing required between the right of the employer to be able to manage its workplace and to carry on its operation without interruption and the right of the union official to vigorously push the union's point of view in dealings with the employer, it is impossible, and in our view would be dangerous, to attempt to set out a definitive test in order to determine when a union official's conduct ceases to be protected and becomes disciplinable. Each case must be determined on the basis of the total surrounding circumstances.
+[168]
+In the case at bar, the adjudicator decided that "[t] he protection for union officials under the
+PSLRA
+is for activities conducted in accordance with the statute". The adjudicator found that the employer had proven that the applicant had acted contrary to subsection 194(1) of the
+PSLRA
+in counselling or procuring an illegal strike. Thus, the applicant could not invoke that he was illegally disciplined or discriminated because such behaviour is not protected by the collective agreement or the
+PSLRA
+. The adjudicator also found that the employer did not contravene Article 19.01 of the collective agreement (prohibiting discrimination on the basis of union involvement) by imposing discipline on him. A union official's immunity from discipline is limited to acts performed in the discharge of duties and functions "which may reasonably be regarded as a legitimate exercise" of those duties and functions. These findings are reasonable in the Court's opinion.
+[169]
+In passing, the adjudicator briefly disposed of the applicant's invocation of the unfair labour practice provisions (section 186 of the
+PSLRA
+) and his right to freedom of association under the
+Charter
+. The adjudicator noted that, in fact, only "discipline which singles out people for having exercised their rights under the Act constitutes interference with union representation" (Shaw, above, at para 50). The adjudicator also distinguished
+Plaza Fiber Glas
+, above, on the basis that that case was about communicating the frustration of employees to the employer and not about communicating to employees. The adjudicator noted that the applicant was not disciplined for raising the idea of a potential legal strike position with the employer, but for "counselling" or "procuring" an illegal strike. Thus, the adjudicator could legally come to the conclusion that because the applicant had acted in contravention of subsection 194(1) of the
+PSLRA
+, he had acted outside the legitimate scope of his union duties and obligations as a union representative.
+[170]
+In the Court's opinion, the adjudicator was allowed to conclude that the applicant's message informing the members of the unit that he was suspended was not "a form of union expression that should be protected". In this respect, the adjudicator noted: "It is clear that statements that are malicious or knowingly or recklessly false are not protected union speech. The words used by the grievor were not part of his legitimate representational duties. In this case, his statements were contrary to the
+PSLRA
+" (paragraph 211). This general finding is supported by the evidence and consistent with established principles.
+Quantum of discipline
+[171]
+Having found that the employer had just cause to discipline the applicant, the adjudicator found that the 30 day suspension and the termination of employment, were within the appropriate range for discipline in the circumstances (paragraphs 200 and 217), despite the fact that the applicant had withdrawn the original statement and that, at the date of arbitration, previous disciplinary measures on the applicant's employment record had been substantially reduced. Indeed, the adjudicator found that the applicant's status as a union representative justifies more severe disciplinary treatment (
+ <FRAGMENT_SUPPRESSED>  at para 4).
+[172]
+The adjudicator found that the fact that the applicant's statements did not result in actual work stoppage did not change its characterization as counselling or procuring illegal strike activity. It was not a mitigating factor (paragraphs 195 and 215). Quite the contrary, it was an aggravating factor since the applicant "knew that some members were pushing for some sort of job action and that his words would only inflame the situation" (paragraph 197). The fact that the applicant had removed the impugned statement from the union website on October 30, 2007 was not considered by the adjudicator as a mitigating factor either (paragraph 196). Neither was the delay of six weeks in imposing discipline (the 30 day suspension) since same was not "excessive" and "the deputy head ...acted with caution and consulted widely" (paragraph 199).
+[173]
+The adjudicator also found that deterrence is a relevant factor when determining the appropriateness of the discipline imposed on the applicant (
+ <FRAGMENT_SUPPRESSED>  at para 207). The fact that the applicant did not recognize that his statement was wrong and did not apologize for it, was viewed by the adjudicator as an aggravating factor which supported a lengthy suspension (paragraph 196), and the termination of his employment considering that the applicant "has continued to fail to acknowledge responsibility for his words and does not recognize that he counselled and procured an illegal work stoppage" (paragraph 214). The adjudicator further found that the nature of the workplace is relevant since a level of trust is expected of border service officers (paragraph 198).
+[174]
+The adjudicator found that the applicant took actions which were "outside the scope of legitimate union activity" and that behaviour "is not acceptable for any employee, especially a border service officer" (paragraph 218). The applicant obviously disagreed with the employer's decision to suspend him for 30 days. However, according to the "obey now, grieve later" principle, the applicant should have addressed "his disagreement through the grievance process not through further communications with bargaining unit members" (paragraph 205). He was not allowed to openly defy the employer and invite the members of bargaining unit to enter in the fight.
+[175]
+In upholding the discipline imposed by the employer, the adjudicator also considered the applicant's prior disciplinary record and the nature of misconduct in past instances. The adjudicator found that the employer did not fail to properly apply the principle of progressive discipline, which also entails consideration of aggravating factors. The adjudicator considered the same aggravation factors with respect to the applicant's termination and concluded that, in view of the specific context in which the second posting occurred, discipline was warranted. Despite the fact that at the time of arbitration, prior discipline had been substantially reduced, the adjudicator also found that termination of employment after 45 days of discipline (which included the 30 day suspension) was "well within the acceptable amount of discipline" (paragraph 217).
+[176]
+The applicant now submits before this Court that in upholding the discipline imposed on him the adjudicator failed to take proper account of relevant mitigating factors, namely: 1) the employer's imposition of previous disciplinary sanctions on the applicant that were subsequently significantly reduced in the meantime; and 2) the scope and extent of the misconduct at issue.
+[177]
+As for the first mitigating factor, the applicant submits that even if his grievance was denied, the discipline imposed on him had to be set aside in favour of lesser penalties so as to reflect the significant reduction of his prior disciplinary record. Furthermore, the applicant argues that this pattern ought to be taken into consideration as it demonstrates that the employer's consistently failed to take proper account of the applicant's status as a union officer by interfering in his union activities and imposing excessive discipline on him. The applicant submits that the adjudicator erred in finding that the employer's past behaviour, unlike the applicant's past record, was irrelevant in assessing the appropriateness of the discipline. The applicant submits that the adjudicator also failed to consider how the history of conflict between the parties impacted the employer's treatment of the two incidents triggering the imposition of disciplinary measures against the applicant.
+[178]
+As for the second mitigating factor, the applicant argues that that the second website posting could not reasonably amount to a cause of termination if, according to Mr. Gillan's testimony, the employer did not consider it appropriate to terminate the applicant after the first posting (at a point when he had a total of 80 days of suspension on his record), because the latter simply quoted two sentences of the former posting.
+[179]
+Before the Court, the respondent submits that the applicant's conduct in this case did warrant a disciplinary response and that the adjudicator's findings in this regard are supported by the evidence and the case law. The respondent maintains that the jurisprudence of the Board has established that unlawful incitement or encouragement to work stoppage may warrant a disciplinary response for a union representative (
+ <FRAGMENT_SUPPRESSED>  45, and
+ <FRAGMENT_SUPPRESSED>  27).
+[180]
+The respondent also points out that the applicant has previously received a 10 day discipline - which is no longer on his record for progressive discipline purposes - for breach of section 103 of the
+Public Service Staff Relations Act
+, RSC 1985, c P-35 (
+PSSRA
+), now repealed and replaced by section 194 of the
+PSLRA
+. The respondent states that although no cessation of work had took place in that case, in
+ <FRAGMENT_SUPPRESSED>  adjudicator Dan Quigley decided that there was nonetheless "an attempt by the grievor, by the posting of the notice, for concerted activity by the membership [...] to slow down work to restrict or limit output at PIA" in contravention of section 103 of the
+PSSRA
+and which is similar to current section 194 of the
+PSLRA
+. The applicant was disciplined for such misconduct.
+[181]
+The respondent submits that it is not the role of the reviewing judge to substitute his opinion to that of an expert in labour relations. In the case at bar, the adjudicator's findings are based on the evidence. The adjudicator was allowed to confirm the discipline imposed and did not take into account irrelevant factors.
+[182]
+The respondent submits that at the time of the hearing the applicant had a 5 day and a 10 day discipline on file, which supported a further 30 day discipline and the ultimate termination. The respondent acknowledges that a rigid application of the principle of progressive discipline would suggest that the appropriate discipline be set at 20 days. However, the respondent maintains that the aggravating factors considered by the adjudicator such as the seriousness of the applicant's misconduct and his failure to show remorse were determinative in the adjudicator's reasoning when he decided that the 30 day discipline was appropriate in the circumstances.
+[183]
+With respect to the appropriateness of the applicant's termination, the respondent submits that the applicant's reposting of the message, on its own, warranted termination given the applicant's disciplinary record and his recent 30 day suspension.
+[184]
+The respondent notes that whether an employee expressed understanding and remorse with respect to his reprehensible behaviour is considered was, in this case, a critical factor in assessing the appropriateness of discipline (
+ <FRAGMENT_SUPPRESSED> ). Moreover, the respondent states that the seriousness of a potential disruption of border services officers operations at PIA, was other aggravating factor that justified a departure from the principle of progressive discipline.
+[185]
+The Court finds no reviewable error in the treatment by the adjudicator of the quantum of discipline, and I entirely accept the respondent's submissions. In the case at bar, while the discipline imposed may look harsh, the Court must allow the impugned decision to stand as it was within the realm of the adjudicator's powers to give more importance to the aggravating factors and the objective of deterrence. The weighing of the factors mentioned in the impugned decision is not unreasonable in the circumstances. The grounds of attack raised by the applicant amount to mere disagreement in the manner the specialized tribunal weighed these factors.
+VI. CONCLUSION
+[186]
+In conclusion, in conducting a review of reasonableness, the Court has to look for "the existence of justification, transparency and intelligibility within the decision-making process" ( <FRAGMENT_SUPPRESSED> , above, at para 47) in light of the deferential approach recently endorsed by the Supreme Court in
+Newfoundland and  <FRAGMENT_SUPPRESSED>  [2011] SCJ 62.
+[187]
+In final analysis, none of the grounds of attack by the applicant are compelling. The applicant simply disagrees with the adjudicator's findings. Before this Court, the applicant asserts that by posting his response to a member's question on the CEUDA Local 24 website and subsequently quoting from that post when announcing and explaining to the union membership the grounds for his suspension, the applicant was neither inciting local members to engage in illegal strike activity nor was he seeking authorization to call an illegal strike either from local members or from the bargaining agent. This is perhaps the case, but the adjudicator has found differently and he was allowed to do so in this case.
+[188]
+This is not an appeal but a judicial review. Legality is essentially concerned with rationality and the Court's discretion to intervene is conditioned by the range of possible options which are acceptable in light of the facts and the law. The Court must resist the temptation to intervene because it finds the result unjust or the result may have been different if the matter had been decided by another adjudicator. It is the Court upmost respect for the arbitral process and wishes of Parliament in adopting the privative clause that prevents from substituting itself to the adjudicator and re-evaluating the evidence and the findings of law and fact made by the adjudicator.
+[189]
+The present judicial review application shall therefore be dismissed. In view of the result, costs shall be in favour of the respondent.
+JUDGMENT
+[190]
+THIS COURT ADJUDGES that
+the present application for judicial review is dismissed. Costs are in favour of the respondent.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/klf

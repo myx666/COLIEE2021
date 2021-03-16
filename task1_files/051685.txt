@@ -1,0 +1,109 @@
+[1]
+Hugessen, J.
+[orally]: These are proceedings in a proposed class action brought by the plaintiffs who seek to represent a class of some 3,700 or 3,800 travel agencies in Canada against a number of airlines and the IATA (International Aviation Transport Association) as defendants. The action is based on an alleged conspiracy in breach of the
+Competition Act
+[see footnote 1], and is a civil claim based on section 36 of that statute.
+[2]
+The proposed class action is in its infancy and the plaintiffs have not yet obtained certification. Pursuant to an order which I have given, no statements of defence are required until certification has been decided upon.
+[3]
+The defendants, as I say, are a number of airlines but two of them are the reasons for our being here today, namely Air Canada, which obtained, on April 1st last from Justice Farley of the Ontario Superior Court of Justice, an order under the
+Companies' Creditors Arrangement Act
+[see footnote 2], ("
+CCAA
+") protecting it against proceedings and United Airlines which has been under Chapter 11 Bankruptcy Protection in United States since last December.
+[4]
+The matters before me today arise from a number of motions, first a motion brought by Air Canada seeking to have me stay these proceedings, second, a responsive motion brought by the plaintiffs seeking to have me declare that the order of the Ontario Superior Court of Justice does not have an impact on these proceedings so as to stay them and third, a similar motion by the plaintiffs in respect of another order made by Justice Farley in the Ontario Superior Court of Justice recognizing the Chapter 11 proceedings in the United States relating to United Airlines and giving an order under section 18.6 of the
+CCAA
+. The present reasons and the order which will follow dispose of all of those motions.
+[5]
+First, let me say that in my view, an order made under sections 11.3 and 11.4 of the
+CCAA
+does not have the effect of automatically staying proceedings in this Court. More particularly, the order made by Justice Farley on April 1st, 2003 and subsequently extended, does not have that effect. I draw that conclusion primarily from a reading of the
+CCAA
+, sections 11.3 and 11.4 and section 16 and from a reading of paragraphs 3 and 70 of Justice Farley's order in the case of Air Canada and from a reading of the equivalent paragraphs of his recognition order in the case of United Airlines.
+[6]
+The relevant
+CCAA
+provisions are as follows:
+"11(3) A court may, on an initial application in respect of a company, make an order on such terms as it may impose, effective for such period as the court deems necessary not exceeding thirty days,
+. . . . .
+(b) restraining, until otherwise ordered by the court, further proceedings in any action, suit or proceeding against the company;
+"11(4) A court may, on an application in respect of a company other than an initial application, make an order on such terms as it may impose,
+. . . . .
+(b) restraining, until otherwise ordered by the court, further proceedings in any action, suit or proceeding against the company;
+"16. Every order made by the court in any province in the exercise of jurisdiction conferred by this Act in respect of any compromise or arrangement shall have full force and effect in all the other provinces and shall be enforced in the court of each of the other provinces in the same manner in all respects as if the order had been made by the court enforcing it.
+"18.6(2) The court may, in respect of a debtor company, make such orders and grant such relief as it considers appropriate to facilitate, approve or implement arrangements that will result in a co-ordination of proceedings under this Act with any foreign proceeding."
+"11(3) Dans le cas d'une demande initiale visant une compagnie, le tribunal peut, par ordonnance, aux conditions qu'il peut imposer et pour une période maximale de trente jours:
+. . . . .
+b) surseoir, jusqu'à ce qu'il rende une nouvelle ordonnance à l'effet contraire, au cours de toute action, poursuite ou autre procédure contre la compagnie;"
+"11(4) Dans le cas d'une demande, autre qu'une demande initiale, visant une compagnie, le tribunal peut, par ordonnance, aux conditions qu'il peut imposer et pour la période qu'il estime indiquée:
+. . . . .
+b) surseoir, jusqu'à ce qu'il rende une nouvelle ordonnance à l'effet contraire, au cours de toute action, poursuite ou autre procédure contre la compagnie;
+"16. Toute ordonnance rendue par le tribunal d'une province dans l'exercice de la juridiction conférée par la présente loi à l'égard de quelque transaction ou arrangement a pleine vigueur et effet dans les autres provinces, et elle est appliquée devant le tribunal de chacune des autres provinces de la même manière, à tous égards, que si elle avait été rendue par le tribunal la faisant ainsi exécuter.
+"18.6(2) En vue de faciliter, d'approuver ou de mettre en oeuvre les arrangements permettant de coordonner les procédures visées par la présente loi et les procédures intentées à l'étranger, le tribunal peut, à l'égard de la compagnie débitrice, rendre les ordonnances et accorder les redressements qu'il estime indiqués."
+[7]
+In section 2 of the
+CCAA
+, "court" is defined with reference exclusively to provincial and territorial courts.
+[8]
+The relevant sections from Mr. Justice Farley's Initial Order, dated April 1st, 2003 are as follows:
+"3. THIS COURT ORDERS that, until and including May 1, 2003, or such later date as the Court may order (the 'Stay Period'), (a) no suit, action, enforcement process, extra-judicial proceeding or other proceeding (including a proceeding in any court, statutory or otherwise) (a 'Proceeding') against or in respect of an Applicant or any present or future property, rights, assets or undertaking of an Applicant wheresoever located, and whether held by an Applicant in whole or in part, directly or indirectly, as principal or nominee, beneficially or otherwise, and without limiting the generality of the foregoing, including the leasehold interests of the Applicants in any aircraft leased by an Applicant, whether in the possession of an Applicant, or subleased to another entity, any and all real property, personal property and intellectual property of an Applicant, and any and all securities, instruments, debentures, notes or bonds issued to, or held by or on behalf of an Applicant (the 'Applicants' Property') shall be commenced and any and all Proceedings against or in respect of an Applicant or the Applicants' Property already commenced be and are hereby stayed and suspended, and (b) all persons are enjoined and restrained from realizing upon or enforcing by court proceedings, private seizure or otherwise, any security of any nature or description held by that person on the Applicants' Property or from otherwise seizing or retaining possession of the Applicants' Property, or from seizing or retaining aircraft operated by the Applicants.
+. . . . .
+"70. THIS COURT REQUESTS the aid and recognition of any court or any judicial, regulatory or administrative body in any province or territory of Canada (including the assistance of any courts of Canada pursuant to Section 17 of the
+CCAA
+) and the Federal Court of Canada and any judicial, regulatory or administrative tribunal or other court constituted pursuant to the Parliament of Canada or the legislature of any province and any court or any judicial, regulatory or administrative body of the United States of America and the states or other subdivisions of the United States and any other nation or state to act in aid of and to be complementary to this Court in carrying out the terms of this order."
+[9]
+It seems to me to be quite clear from the statutory provisions that Parliament did not intend that orders made by the superior courts of the provinces in the exercise of their
+CCAA
+jurisdiction should extend so as to oblige this Court to suspend its proceedings in any matter properly belonging to its jurisdiction. There are examples, and section 16 of the
+CCAA
+is one of them, where Parliament has given specific jurisdiction to one superior court to stay proceedings in another superior court. In my view, such a disposition requires express language.
+[10]
+Superior courts do not order each other about or make orders interfering with each other's process. Rather, it is essential that they should cooperate. Conflicts between courts, or other bodies having ultimate judicial power, may well have serious results, including perhaps even loss of liberty [see footnote 3]. In Canada, superior courts do not compete with one another. They accord to one another "full faith and credit," as was said in
+ <FRAGMENT_SUPPRESSED>  order specifically requests that this Court, in comity, and more than that, in recognition of the fact that both courts are engaged in a single legal system in the administration of Canadian justice, should lend its aid to the order of the Ontario Superior Court of Justice staying proceedings.
+[11]
+It has been said to me this morning that I should not grant a stay order based on Justice Farley's orders first because I have no evidence before me and second because there has been no attempt to justify a stay in the terms of the classic three part test originally enunciated by the Supreme Court in
+ <FRAGMENT_SUPPRESSED>  stay granted in comity does not need to meet the requirements of that test and does not need evidence; it is my view that the proper attitude of respectful cooperation which this Court should have and does have to judgments of the Ontario Superior Court of Justice will require that, as a matter of course, in virtually every case where an order is given by a provincial superior court in the exercise of its
+CCAA
+jurisdiction, and that order requests this Court's aid, this Court will give such aid on proper application being made.
+[12]
+That is not the end of the matter. If a party to proceedings in this Court thinks that a stay should not be granted in comity and in aid of a provincial superior court order, it is at liberty to oppose the stay or, if the stay is granted, apply to this Court to have it lifted. The plaintiffs would thus have been free to bring evidence today and make representations to me that for some reasons or other these proceedings ought not to be stayed, but matters did not develop in that way. Let me be quite clear. The burden is on a person seeking in this Court to avoid the consequences of this Court acting in aid of a provincial superior court exercising its jurisdiction under the
+CCAA
+. The burden is on that person to show this Court that it should not act in aid. Nothing that I say or do today forecloses the plaintiffs from making an application if they so wish. I say that simply because in the way in which these proceedings developed, it was agreed between counsel and the Court that we should deal with this matter today strictly on issues of law, matters of fact being left to another day, if necessary.
+[13]
+That said, however, I have some difficulty seeing on what basis plaintiffs might persuade me that I am the right person to decide that these proceedings should go forward notwithstanding the
+CCAA
+proceedings. Certainly, insofar as the considerations involved are considerations relating to the administration of the insolvent companies, the proper court to make that determination is the Ontario Superior Court of Justice. Some argument was addressed to me this morning on the alleged impropriety of the order of May 16, 2003, the recognition order in the United Airlines case. I reject that argument not on its merits or on its substance as to which I make no comment, but simply on the basis that I am not the right person to decide whether or not Justice Farley made a mistake. I note that his order was given ex parte. I also note that the plaintiffs had notice of it but chose, for reasons of their own, not to appear. It is still, as I understand the terms of that order and the "comeback" clause in it, open to the plaintiffs to make an application to Justice Farley and to urge before him various grounds upon which they think it is wrong and unjust that they should be obliged to submit their claims against United Airlines to the Bankruptcy Court in the United States. Those arguments will no doubt, if they get made, receive the consideration that they deserve.
+[14]
+I think it is likewise with respect to the case of Air Canada. Air Canada is under the protection of the
+CCAA
+. The stay order's purpose is, of course, to permit a structured environment in which the company can attempt to reorganize and go forward with its business in possession of its assets [see footnote 8].
+[15]
+In the exercise of a restructuring, the company has to be left in possession of its assets and those assets have to be protected against creditors. The reality is that this action being in its early stages and being a proposed class action is unlikely to get anywhere near to a point where it would have any impact on Air Canada's assets before the end of the
+CCAA
+proceedings and on that basis, it may be possible to persuade Justice Farley that this action should be allowed to go forward.
+[16]
+There is, however, one matter on which I think that only Justice Farley can decide and that is the third basis for the stay order which is to allow the company to concentrate its efforts on the reorganization and not to be distracted by the defence of other claims. That is a matter on which I have no information at all and on which I suspect Justice Farley has or will have in due course ample information. Personally, it would seem to me that the impact on Air Canada's efforts at reorganization of having to file materials in the certification application would be minimal and I also would have thought that the likelihood of Air Canada not emerging from the reorganization procedures would be pretty minimal as well but those are not matters which I can really deal with.
+[17]
+I granted an interim stay on May 2, 2003 of my scheduling order dated February 21, 2003 with respect to the exchange of materials on the application for certification and by the order which I make today, I am going to extend that stay for a further period of 3 months unless Justice Farley should, in the interim, lift the underlying stays in the Ontario Superior Court of Justice and therefore, the reasons for this stay. I will give counsel a date which, as it happens is the date that we had already reserved for this case. We had thought it was going to be the date on which we would argue the certification motion, September 3, 2003. A stay order will go in this action effective until September 3, 2003 or until the stay orders issued by Justice Farley of the Ontario Superior Court of Justice are lifted, which ever shall first occur.
+[18]
+Plaintiffs have leave, if they so desire, to move this Court to lift the stay order. It has been given without evidence and solely on the basis of this Court's duty to act in aid of the Ontario Superior Court of Justice. If plaintiffs, upon reflection, decide that this is what they want to do, they should take an appointment with the registrar and we would conduct a quick telephone conference to set a time table and we would all meet again.
+[19]
+That really concludes what I have to say with this exception, both parties have sought costs. Costs are not normally granted in class action proceedings. The rule is quite clear that exceptional circumstances are required and unless counsel can persuade me that there are such exceptional circumstances, I do not propose to grant costs.
+Order accordingly.
+Editor: Angela E. McKay/klf
+Footnotes
+1. R.S. 1985, c. C-34.
+2. R.S. 1985, c. C-36.
+3. A classic example is the unfortunate plight of the Sheriff of Middlesex reported in the companion cases of
+ <FRAGMENT_SUPPRESSED> ; 122 N.R. 81; 76 D.L.R.(4th) 256.
+5.
+ <FRAGMENT_SUPPRESSED> , and
+Antwerp Bulkcarriers, N.V., Re
+, [2001] 3 S.C.R. 951; 279 N.R. 154.
+6. [1987] 1 S.C.R. 110; 73 N.R. 341; 46 Man.R.(2d) 241; 18 C.P.C.(2d) 273; 38 D.L.R.(4th) 321.
+7. [1994] 1 S.C.R. 311; 164 N.R. 1; 60 Q.A.C. 241; 111 D.L.R.(4th) 385; 54 C.P.R.(3d) 114.
+8.  <FRAGMENT_SUPPRESSED>  (Ont. Gen. Div.);
+Lehndorff General Partner Ltd., Re
+(1993), 17 C.B.R.(3d) 24 (Ont. Gen. Div.), and
+ <FRAGMENT_SUPPRESSED>  document]

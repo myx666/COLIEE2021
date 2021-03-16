@@ -1,0 +1,304 @@
+I.
+Overview
+[1]
+O'Reilly, J.
+: The applicant, Novartis Pharmaceuticals Canada Inc, seeks an order prohibiting the Minister of Health from granting the respondent, Teva Canada Limited, a Notice of Compliance (NOC), which would permit Teva to enter the pharmaceutical market with a generic version of Novartis's patented product called EXJADE. EXJADE contains an active ingredient called deferasirox (DFS) which acts as an iron chelator - that is, it binds to iron, and it can therefore be used to treat conditions that involve an excess of iron. Novartis's patent, Canadian Patent No 2,255,951 (the '951 patent), was filed in 1997 and will expire on June 24, 2017. The patent covers DFS and other similar compounds, as well as their use in treating conditions involving excess iron.
+[2]
+By way of a notice of allegation (NOA) served on Novartis in 2013, Teva alleged that the '951 patent is invalid on a number of grounds: inutility, obviousness, insufficiency of disclosure, overbreadth, and ambiguity. At the hearing, the issues were narrowed to inutility, obviousness, and insufficiency.
+[3]
+I am satisfied that most of Teva's allegations are unjustified. In particular, with respect to utility, I am not persuaded by Teva's allegation that the '951 patent expresses an explicit and overarching promise that the compounds described in it have been found to be useful in treating iron overload disorders in humans. In fact, the stated utility of the novel compounds of the '951 patent is more modest - that the compounds markedly bind to iron, are soluble, and induce excretion of iron in animal tests. On the other hand, I accept Teva's assertion that the claims of the '951 patent relating to the use of the compounds of the patent to reduce iron overload conditions in humans do contain an explicit promise of a specific result, one which was neither demonstrated nor soundly predictable at the filing date (June 24, 1997). Accordingly, Teva's allegation of inutility in respect of the use claims of the patent is justified, but not its parallel allegation in respect of the novel compounds of the '951 patent.
+[4]
+In addition, I am not satisfied that Teva's allegations of obviousness and insufficiency are justified. Considering the state of the art and the common general knowledge of the skilled person at the filing date, the novel compounds of the '951 patent were not obvious. Further, Novartis has not, as Teva contends, hidden the real invention by failing to identify DFS as the compound that would ultimately make it onto the market. In my view, Novartis sufficiently disclosed its invention by identifying 30 compounds that displayed the useful properties described in the patent - binding to iron, solubility, and inducing excretion.
+[5]
+Therefore, I must grant the order Novartis seeks.
+[6]
+The issues are:
+1. Has Novartis shown that Teva's allegation of inutility is unjustified?
+2. Has Novartis shown that Teva's allegation of obviousness is unjustified?
+3. Has Novartis shown that Teva's allegation of insufficiency is unjustified?
+II.
+Background
+[7]
+Excess iron in the body can cause serious health issues, particularly organ damage. A surplus of iron can be caused by repeated blood transfusions (
+eg
+, to treat anemia) or by the excessive absorption of iron from food. Primates, unlike some other species, do not have an efficient mechanism to excrete excess iron. An effective iron chelator can bind to iron and allow any excess to be excreted.
+[8]
+There are certain challenges involved in finding a suitable iron chelator. The compound must be capable of entering the body and binding to the iron located there. The resulting union between the iron and the chelator, often referred to as the "coordination complex", must also be sufficiently soluble to be excreted. Further, compounds that can cause toxic effects must obviously be avoided.
+[9]
+Novartis's predecessor, Ciba-Geigy, first marketed an iron chelator, called desferrioxamine (DFO), in the 1960s. DFO has certain shortcomings - it can be administered only by way of daily infusions lasting from 8 to 12 hours. To overcome this problem, researchers naturally sought a chelator that could be administered orally. Many orally-administered chelators tested over the years were found either to be too toxic or insufficiently effective to be useful.
+[10]
+Ciba-Geigy began exploring potential iron chelators in the 1980s. It tested hundreds of compounds and found a class called bis-hydroxyphenyl-triazoles worthy of further study. Thirty of these compounds come within the claims of the '951 patent. They were all found to bind markedly to iron
+in vitro
+. Eighteen of those thirty were tested
+in vivo
+in rats and were found to induce iron excretion. Eleven of those eighteen compounds were then tested in monkeys, and all of them were found to cause iron excretion.
+[11]
+The '951 patent specifically relates to compounds called 3,5-diphenyl-1,2,4-triazoles Some of them were known; others were novel. The inventors state that the compounds have useful pharmaceutical properties as active iron chelators and, as such, they can be used in the treatment of iron overload in warm-blooded animals.
+[12]
+The patent describes iron overload conditions and the state of the art in their treatment, namely, the use of DFO and its corresponding shortcomings. It goes on to state - and this is the key phrase whose meaning is disputed by the parties - that the patented compounds were found to "have valuable pharmaceutical properties when used in the treatment of disorders which cause an excess of metal in the human or animal body or are caused by it, primarily a marked binding of trivalent metal ions, in particular those of iron." The patent then mentions the rat and monkey studies, and provides citations for published papers that describe in detail those experiments.
+[13]
+The patent specifically states that the invention relates to certain known compounds (referred to as "formula I" compounds) for use in the treatment of diseases in humans. These known compounds had previously been used for other purposes, for example, as herbicides. The patent also describes certain novel compounds, a subset of the formula I compounds, referred to as "formula II" compounds. The patent goes on to explain the procedures for synthesizing the claimed compounds and preparing pharmaceutical formulations of them.
+[14]
+The patent's claims cover the so-called formula I compounds, that is, the compounds that were previously known, for use in the treatment of a disease involving excess iron in a human or animal body (claims 1 to 4). The claims also cover the novel formula II compounds (claims 5 to 37), including DFS (claim 32), pharmaceutical preparations of them (claims 38 and 39), and their use in the treatment of excess iron in a human or animal body (claims 40 to 42).
+III.
+Teva's Allegations
+[15]
+Teva's position on utility flows entirely from its interpretation of the promise of the patent. Again, the key phrase in the '951 patent that frames the dispute between the parties is the following:
+It has now been found that certain substituted 3,5-diphenyl-1,2,4-triazoles have valuable pharmaceutical properties when used in the treatment of disorders which cause an excess of metal in the human or animal body or are caused by it, primarily a marked binding of trivalent metal ions, in particular those of iron.
+[16]
+Teva maintains that this sentence makes an explicit promise of a specific result, namely, that the patented compounds had not only been tested in humans, but they had been found to be valuable in the treatment of iron-excess disorders in humans by virtue of their capacity to bind markedly to iron. Teva contends that this broad promise applies across all of the patent's claims, including the bare claims for novel compounds, whether or not the claims actually include any reference to any particular utility. According to Teva, the doctrine of claim differentiation should not apply in light of the '951 patent's overarching promise.
+[17]
+Based on this construction of the patent, Teva goes on to argue that the promise, that is, the stated utility of the '951 patent, had not been demonstrated because no testing in humans had actually been carried out. That utility, Teva says, could not even have been soundly predicted based only on Novartis's tests in rats and monkeys.
+[18]
+Further, Teva suggests that if its construction of the patent is incorrect, and the utility of the compounds is merely their capacity to bind to iron, then the compounds of the invention are obvious considering the state of the art and common general knowledge of the skilled person at the relevant time.
+[19]
+Finally, Teva argues that the patent's disclosure is insufficient since a skilled reader of the '951 patent would not realize that the real invention was DFS, buried as it is in claim 32.
+IV.
+Construction of the '951 Patent
+[20]
+The patent must be construed through the eyes of the skilled person, before considering any issues relating to the patent's validity. The parties disagree on who the skilled person should be for purposes of this exercise. Novartis says that the skilled person is a medicinal chemist with knowledge of iron overload conditions. Teva says that the skilled person has the aptitudes of a team made up of a chemist, a physician familiar with iron overload conditions, and a person knowledgeable about pharmacological testing of iron chelators.
+[21]
+In my view, the '951 patent is directed to a person with a background in medicinal chemistry who would be familiar with conditions involving excess iron and their treatment, including the properties that an orally-administered iron chelator should have. This person could be a physician, but need not be.
+[22]
+I find that the key phrase in the '951 patent would be read by the skilled person as describing the desirable properties possessed by the compounds of the invention, namely, their distinct ability to bind to iron, their solubility, and their capacity to induce excretion. Those properties would make the compounds valuable when used in the treatment of iron excess disorders. I do not read the contested passage, as Teva would have me do, as amounting to an assertion that the compounds had been tested in humans and found to be valuable in treating iron overload conditions in humans.
+[23]
+Admittedly, the contested statement is infelicitous. But its meaning can be arrived at by reading it in context. Again:
+It has now been found that certain substituted 3,5-diphenyl-1,2,4-triazoles have valuable pharmaceutical properties when used in the treatment of disorders which cause an excess of metal in the human or animal body or are caused by it, primarily a marked binding of trivalent metal ions, in particular those of iron.
+[24]
+The reference to "valuable pharmaceutical properties" at the beginning of the sentence is completed by the identification at the end of the sentence of what those properties are: primarily a marked binding to trivalent metals, particularly iron. So, the compounds have valuable properties, most importantly, a striking affinity to iron. The middle of the sentence explains why those properties are valuable: "they are valuable when used in the treatment of iron excess disorders". It is those properties that are said to be valuable when used in the treatment of iron excess disorders; the patent does not say that the compounds have been used for that purpose.
+[25]
+Teva would have me read the sentence as stating that the patented compounds were found to have valuable properties, including iron chelation, when they were used in the treatment of iron excess disorders. I concede that that is a possible construction of the sentence, but it is not the most likely.
+[26]
+It is clear from the patent's abstract, for example, what the invention is. It says that the patented compounds "have useful pharmaceutical properties and are particularly active as iron chelators. They can be used for the treatment of an iron overload in the body of warm-blooded animals. Certain of these compounds are novel."
+[27]
+In this context, the words "useful" and "valuable" are equivalent. The abstract makes clear that compounds with those useful properties
+can be
+used for the treatment of iron overload conditions. It does not say that they
+have been
+used for that purpose, and it makes no reference to use in humans.
+[28]
+Further, immediately after the disputed statement, in the same paragraph, the patent mentions tests in rats and monkeys. It states that "for example, in an animal model" the compounds are able "to prevent the deposition of iron-containing pigments and in the case of existing iron deposits in the body cause excretion of the iron". There is no mention of any testing in humans, and no reference to any treatment of iron overload conditions. I do not see how a skilled reader could conclude from this information that the compounds of the invention were tested in humans and found to provide valuable treatment of iron overload conditions.
+[29]
+Teva points to other passages in the patent that it says confirm its construction. For example, the patent says that the invention relates to "the use of compounds of the formula I . . . in the treatment of diseases which cause an excess of metal in the human or animal body . . . in particular, in a method for the therapeutic treatment of the human body". Further, the patent also states that pharmaceutical preparations containing compounds of formula I are for enteral and parenteral administration "to warm-blooded animals, especially to man".
+[30]
+In my view, these passages do not advance Teva's assertion that the patent promises that all compounds of the invention have been tested in humans and found to be useful in treating iron overload disorders. The statements cited by Teva support the patent's use claims in respect of formula I compounds. As mentioned, the formula I compounds were known. The patent claims these compounds (in claims 1 to 4) "for use in treatment of a disease which causes an excess of metal in a human or animal body or a disease which is caused by the excess of metal in the human or animal body." Therefore, the passages merely confirm what is stated in the claims themselves in respect of the formula I compounds. Those passages, in my view, do not help in the construction of the claims as a whole. In particular, they do not suggest that the claims for the novel compounds of formula II should be read as including an overarching promise of their utility in the treatment of iron excess disorders in humans.
+[31]
+Teva also submits that the patent's reference to the rat and monkey studies should not permit Novartis to resile from a clear statement that the patented compounds had been found to offer valuable treatment of iron overload conditions in humans. In principle, Teva is right. A patentee cannot shrink from its express promise by pointing to the limitations of its own work. As Justice Donald Rennie has noted, "to circumscribe the scope of the promise based on what is demonstrated in the patent makes it impossible to ever conclude that a patent is invalid for lack of utility" (
+ <FRAGMENT_SUPPRESSED> ).
+[32]
+However, as discussed, I do not find in the patent the express promise that Teva must rely on to make this point. Further, the reference to the rat and monkey studies helps explain what the stated utility of the patent is. I do not rely on those references to permit Novartis to undercut the scope of its own promise but rather to understand what the stated utility of the patent is (
+ <FRAGMENT_SUPPRESSED> (i)).
+[33]
+Accordingly, through the eyes of the skilled person, I would construe the compound claims of the patent as follows: Claims 5 to 37 relate to the novel formula II compounds, including DFS (claim 32), which are useful for their marked iron-binding characteristics as shown both
+in vitro
+and, in animal studies,
+in vivo
+. The latter confirm that the compounds are sufficiently soluble to induce excretion of the iron complex. I would not read into those claims the elevated promise advanced by Teva - that the compounds have been tested and found to be valuable in the treatment of iron excess disorders in humans.
+[34]
+I believe this approach to construction is supported by well-accepted principles of patent law. Generally speaking, the utility requirement represents a fairly low threshold. The exception is where the inventors explicitly promise a specific result, particularly if the stated utility is set out in the claims as opposed to the disclosure. An explicit promise set out in the disclosure can apply to all claims but, at the same time, it may be appropriate to distinguish between the promise of the compound claims, on the one hand, and the promise of the use claims, on the other (
+ <FRAGMENT_SUPPRESSED> ).
+[35]
+Here, as will be discussed further below, the '951 patent does contain an explicit promise of a specific result, but only in respect of the particular uses referred to in the use claims of the patent. There is no such promise in respect of the compound claims. Accordingly, the usual, relatively low, utility requirement applies to those claims.
+V.
+Issue One - Has Novartis shown that Teva's allegation of inutility is unjustified?
+[36]
+Teva has submitted sufficient evidence to put the issue of inutility into play. Accordingly, Novartis bears the burden of establishing that Teva's allegations are unjustified.
+[37]
+As mentioned, Teva alleges that the explicit promise of the '951 patent is that the claimed compounds had been shown to be valuable in the treatment of disorders involving excess iron in humans, by virtue of their capacity to bind to iron. Obviously, says Teva, the inventors are telling skilled readers of the patent that they had carried out sufficient tests in humans to allow them to make that claim. Since there is no evidence that any such tests were conducted, Teva contends that the stated utility of the patent had not been demonstrated; nor could any sound prediction be made that that utility could be achieved.
+[38]
+In addition, based on that construction of the patent, Teva alleges that the utility of the invention must also include an absence of toxicity, an acceptable level of solubility, and suitability for administration for chronic conditions. Otherwise, Teva says, the compounds could not be said to possess the kind of valuable pharmaceutical properties that a drug used in the treatment of iron overload conditions would have to have.
+[39]
+I am satisfied that these allegations are unjustified. In my view, as discussed above, Teva has overstated the stated utility of the '951 patent (at least in respect of the compound claims). In respect of those claims, the stated utility is simply the compounds' capacity to bind markedly to iron both
+in vitro
+and, in animal studies,
+in vivo
+, and that they were sufficiently soluble to induce iron excretion. The inventors' goal was surely to achieve a method for treating iron overload in human patients, but they were not there yet.
+[40]
+In respect of the compounds that had been tested in animals, the stated utility had clearly been demonstrated as of the filing date of the patent. Further, since all of the compounds tested in animals showed the same effects, it was soundly predictable that the other claimed compounds tested only
+in vitro
+would achieve similar results. As Dr Desi Raymond Richardson states, "[w]hile a minority of the 30 compounds were not studied in an animal model, it would be reasonable to predict that they would also have some activity in these models" (see Annex II for a summary of experts' qualifications). Therefore, I am satisfied that Teva's allegation of inutility is unjustified in respect of the compound claims.
+[41]
+However, in respect of the use claims, Teva's allegations have merit. As Novartis's own experts acknowledge, those claims do contain an explicit promise of a specific result. Dr Richardson states "it is clear from reading the patent that the only explicit promise of a specific utility is found in claims 1 and the other use claims". Similarly, Dr Thomas Baillie says of the word "treatment" "I do not see how there can be an explicit promise of a specific result apart from manner in which it is used in claim 1 and claims 40-42". In my view, that utility had not been demonstrated. Nor, the experts agree, could it have been soundly predicted from the animal studies. Those studies serve as an excellent screen for drug development and might tell the skilled person that the tested compounds would likely have some activity in humans, but that is a long way from actual treatment of iron overload disorders in humans. As Dr Victor Gordeuk agreed, hundreds of promising iron chelators had been tried and tested over the years, and almost all of them were abandoned for toxicity or ineffectiveness. A lot of work, he said, would be needed to find a compound that could actually be used in treatment. Dr René Lattman also observed that most iron chelators are toxic at doses needed for pharmacological action.
+[42]
+In this context, Teva's allegations that the compounds must be non-toxic, reasonably soluble, and suitable for chronic administration have greater force. However, overall, I am satisfied that Novartis has met its burden of showing that Teva's broad allegation that the '951 patent as a whole is invalid for inutility is unjustified. Teva's allegations in respect of the compound claims of the '951 patent are not justified.
+VI.
+Issue Two - Has Novartis shown that Teva's allegation of obviousness is unjustified?
+[43]
+Teva has submitted sufficient evidence to put the issue of obviousness into play. Accordingly, Novartis bears the burden of establishing that Teva's allegations are unjustified.
+[44]
+In the event that its submissions on the promise of the '951 patent were unsuccessful, Teva argues that the compounds of the '951 patent are obvious because they are virtually identical to compounds disclosed in some prior publications. Those compounds were shown to be effective metal chelators and, says Teva, based on the skilled person's common general knowledge and the state of the art, he or she would not have had to take any inventive step to arrive at the invention set out in the patent.
+[45]
+I disagree.
+[46]
+The test for obviousness is well-settled (
+ <FRAGMENT_SUPPRESSED>  at para 67). It involves a comparison between the state of the art and common general knowledge of the skilled person, on the one hand, and the inventive concept of the patent's claims, on the other. If there is no difference between the two comparators, the claims are obvious. If there is a difference, the claims are obvious if the skilled person would not need to take any inventive steps to bridge the gap. In pharmaceutical cases, it will often be useful also to consider whether the steps taken by the inventors were "obvious to try". Relevant factors to take into account would include: whether there was a motive to find the solution that the patent teaches; whether it was more or less self-evident that the steps taken would work; and whether routine trials were carried out, as opposed to prolonged and arduous experimentation.
+[47]
+Teva's position on this issue depends on a substantially diminished construction of the invention contained in the '951 patent. Here, Teva says that if the patent does not contain an explicit, overarching promise of a specific result (
+ie
+treatment of iron overload conditions in humans), then it should be read as teaching a group of compounds that simply bind to iron. In other words, according to Teva, the inventive concept of the '951 patent would be no more than a set of compounds with an affinity for iron.
+[48]
+Based on that statement of the inventive concept, Teva then says that the compounds of the invention are obvious in light of the state of the art and common general knowledge of the skilled person. In particular, similar compounds with like properties were disclosed in the prior art.
+[49]
+Based on my construction, described above, I would describe the inventive concept of the '951 patent as a class of compounds with a capacity to bind to iron, which are soluble
+in vivo
+and capable of inducing excretion of the iron complex. There is no evidence that compounds with these properties would have come within the common general knowledge of the skilled person, or that they were disclosed in the prior art.
+[50]
+The prior art references on which Teva relies do not reveal any compounds with the characteristics of those claimed in the '951 patent. Those references disclose
+(i) A method for synthesizing compounds that come within the formula I compounds of the '951 patent for use as light stabilizers (
+Ryabukhin
+(1983)). This paper contains no information about iron chelation but is referred to in the patent in relation to a method for making the compounds of the invention.
+(ii) A method for synthesizing polymeric compounds that bind to copper, nickel, and cobalt for use as antifriction materials (
+Ryabukhin
+(1987/1988)). This paper contains information about chelation to divalent metals, not trivalent metals, such as iron.
+(iii) A patent relating to starting materials for compounds that can bind to certain bivalent metals, not including iron, resulting in complex compounds that are heat-resistant, mouldable, and mechanically strong (US 3,113,942).
+(iv) A patent relating to chelates of metal ions that yield compounds that are heat-resistant and mouldable (US 3,211,698).
+(v) Papers describing use of the rat model to test chelators (analogues of desferrithiocin) through oral administration (
+Bergeron 1991
+,
+1994
+).
+(vi) A paper describing iron chelators, tested
+in vitro
+, that could be used in treating iron overload diseases or cancer (
+Richardson
+,
+1995
+).
+[51]
+I have considerable doubt whether some of these sources form part of the relevant prior art. For example, the
+Ryabukhin
+papers were published in obscure journals and would likely not have been located by the skilled person looking for information on iron chelators. While Dr Alvin Crumbliss, Teva's expert, said he was aware of the
+Ryabukhin
+papers, and the first of them was known to Dr Lattman, one of the inventors, that is not sufficient to characterize them as being within the common general knowledge of the hypothetical skilled person looking for compounds that would markedly bind to iron for potential use in treating iron overload disorders. In my view, that person would likely be looking for sources specifically on the chelation of iron and trivalent metals, not chelation in general. While, as Dr Crumbliss points out, the difference between the compounds in
+Ryabukhin 1987/1988
+and DFS is small (the latter contains a carboxylate group to improve solubility), that, too, is not sufficient to make DFS an obvious choice as a compound to develop for an entirely different purpose - treatment of iron overload disorders.
+[52]
+Similarly, like the compounds in the
+Ryabukhin
+references, the two US patents related to chelators that bind to bivalent metals, not trivalent metals such as iron. It is possible, as Dr Crumbliss observes, that those compounds would also bind to iron, but it is not obvious that they would do so markedly, or at all. Dr Lattman explains that while DFS will also bind to other metals, it is especially selective for iron. For example, its affinity for iron is 16 orders of magnitude higher than it is for copper. Further, these sources, as well as
+Richardson
+, do not say anything about the ability of the respective compounds to be active iron chelators
+in vivo
+, or to be sufficiently soluble to induce excretion.
+[53]
+Teva argues that the
+Patent Act
+(s 28.3; see Annex I for provisions cited) no longer requires that the relevant prior art be discoverable on a reasonably diligent search - it merely has to be publicly available. Teva cites Barrigar, et al,
+Canadian Patent Act Annotated
+, 2nd ed loose-leaf (consulted on 1 April 2015 (Aurora, Ont: Canada Law Book, 1994) at PA-341 where the authors raise a question whether s 28.3 supersedes the previous case law on the accessibility of prior art. Teva also relies on the Federal Court of Appeal's discussion on anticipation in
+ <FRAGMENT_SUPPRESSED> rgues this should apply to the law of obviousness. However, there is case law applying the usual "reasonably diligent search" criterion even after the enactment of s 28.3 (
+ <FRAGMENT_SUPPRESSED> ff'd 2013 FCA 219;
+Eli Lilly and  <FRAGMENT_SUPPRESSED> ). I see no reason to take a different approach here.
+[54]
+Even assuming that Teva has identified the relevant prior art, there is a significant gap between those sources and the inventive concept of the '951 patent. In my view, the evidence demonstrates the inventors of the '951 patent had to apply inventive ingenuity to bridge that gap. Therefore, the subject matter of the '951 patent is not obvious.
+[55]
+Further, I note that the inventors spent many years testing hundreds of compounds before they arrived at the compounds of the '951 patent. The iron chelation project began in 1980, but it was not until the mid-1990s that the focus turned to the bis-hydroxyphenyl-triazoles, of which DFS is a member. In all, five groups and between 700 and 800 individual compounds were synthesized and tested over that time frame. This evidence suggests that the inventive concept of the '951 patent was far from obvious; indeed, there is nothing in the prior art that would suggest that this class of compounds was even obvious to try.
+VII.
+Issue Three - Has Novartis shown that Teva's allegation of insufficiency is unjustified?
+[56]
+Teva alleges that the disclosure of the '951 patent does not allow a skilled person to work the invention. In its NOA, Teva alleged that a skilled worker would not know which of the 30 novel compounds claimed would be effective in treating iron overload disorders. It suggests that the real invention was buried in claim 32.
+[57]
+This argument proceeds from a construction of the patent that I rejected above. Other than the claims relating to the use of the compounds, the patent relates to novel compounds that bind markedly to iron, are soluble
+in vivo
+, and induce excretion of the resulting iron complex. All thirty of the claimed novel compounds were demonstrated or soundly predicted to have those properties, and the patent describes how to synthesize all of them. The patent also provides the skilled person with information about the tests that were used to assess the compounds' activity
+in vivo
+(
+ie,
+the animal studies). In my view, therefore, Novartis has shown that it met the requirements of s 27(3) of the
+Patent Act
+by providing a skilled person with a description of the invention and instructions on how to put it into practice (
+ <FRAGMENT_SUPPRESSED> ).
+[58]
+Teva also raises other issues relating to sufficiency. Novartis says that these issues were not set out in Teva's NOA and, therefore, that they are not properly before me. Since I find that these additional allegations can easily be dismissed, I will address them briefly.
+[59]
+Teva points out that the patent does not specifically identify the compounds that had been tested
+in vivo
+, so a skilled reader would not know which of them would work. Further, the patent does not tell the skilled person that one of the compounds tested in a rat might have been toxic. Finally, while the patent states that iron excretion had been achieved in animal models at doses beginning at 5 mol/kg, there is no evidence of any testing done at that dose.
+[60]
+As discussed above, all of the thirty claimed novel compounds had been demonstrated or soundly predicted to have the stated utility set out in the patent. A skilled person would have had no difficulty making and using any one or more of those compounds based on the information in the patent.
+[61]
+It is true that one rat died after receiving one of the claimed compounds (claim 22). However, there is no evidence that the death was the result of a toxic event. It is equally plausible that the compound that was administered was overly effective and removed too much iron from the animal. In the absence of evidence of toxicity, the inventors had no obligation to inform the skilled reader about that isolated event.
+[62]
+The patent states that the compounds of the invention were effective at reducing iron in the animal models "in doses from approximately 5 mol/kg". In fact, no tests were done at that dose. However, the skilled reader would not be mislead by that statement. There is no evidence that the compounds of the invention would not be active at that dosage. If a skilled person were to attempt to work the invention at that dosage, he or she might well find some effect. But the skilled person would surely want to test the compounds at higher dosages, since the patent identifies only a minimum, not a definitive dose or dosage range.
+[63]
+Therefore, I do not find Teva's additional allegations on sufficiency to be persuasive. I am satisfied that Novartis has shown that the disclosure in the '951 patent was sufficient.
+VIII.
+Conclusion and Disposition
+[64]
+I have found that Novartis has met its burden of showing that Teva's various allegations relating to the validity of the '951 patent are unjustified. Accordingly, I must grant the order Novartis seeks prohibiting the Minister of Health from issuing an NOC to Teva, with costs.
+JUDGMENT
+[65]
+THIS COURT'S JUDGMENT is that
+the applicant's request for an Order prohibiting the Minister of Health from issuing a Notice of Compliance to the respondent is granted, with costs.
+Application granted.
+Editor: Jana A. Andersen/nmg
+Annex - I
+Patent Act
+, RSC, 1985, c. P-4
+Specification
+27(3) The specification of an invention must:
+(
+a
+) correctly and fully describe the invention and its operation or use as contemplated by the inventor;
+(
+b
+) set out clearly the various steps in a process, or the method of constructing, making, compounding or using a machine, manufacture or composition of matter, in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which it pertains, or with which it is most closely connected, to make, construct, compound or use it;
+(
+c
+) in the case of a machine, explain the principle of the machine and the best mode in which the inventor has contemplated the application of that principle; and
+(
+d
+) in the case of a process, explain the necessary sequence, if any, of the various steps, so as to distinguish the invention from other inventions
+Invention must not be obvious
+28.3
+The subject-matter defined by a claim in an application for a patent in Canada must be subject-matter that would not have been obvious on the claim date to a person skilled in the art or science to which it pertains, having regard to
+(
+a
+) information disclosed more than one year before the filing date by the applicant, or by a person who obtained knowledge, directly or indirectly, from the applicant in such a manner that the information became available to the public in Canada or elsewhere; and
+(
+b
+) information disclosed before the claim date by a person not mentioned in paragraph (
+a
+) in such a manner that the information became available to the public in Canada or elsewhere.
+Loi sur les brevets
+, LRC (1985), ch P-4
+Mémoire descriptif
+27(3) Le mémoire descriptif doit:
+a)
+décrire d'une façon exacte et complète l'invention et son application ou exploitation, telles que les a conçues son inventeur;
+b)
+exposer clairement les diverses phases d'un procédé, ou le mode de construction, de confection, de composition ou d'utilisation d'une machine, d'un objet manufacturé ou d'un composé de matières, dans des termes complets, clairs, concis et exacts qui permettent à toute personne versée dans l'art ou la science dont relève l'invention, ou dans l'art ou la science qui s'en rapproche le plus, de confectionner, construire, composer ou utiliser l'invention;
+c)
+s'il s'agit d'une machine, en expliquer clairement le principe et la meilleure manière dont son inventeur en a conçu l'application;
+d)
+s'il s'agit d'un procédé, expliquer la suite nécessaire, le cas échéant, des diverses phases du procédé, de façon à distinguer l'invention en cause d'autres inventions
+Objet non évident
+28.3
+L'objet que définit la revendication d'une demande de brevet ne doit pas, à la date de la revendication, être évident pour une personne versée dans l'art ou la science dont relève l'objet, eu égard à toute communication:
+a)
+qui a été faite, plus d'un an avant la date de dépôt de la demande, par le demandeur ou un tiers ayant obtenu de lui l'information à cet égard de façon directe ou autrement, de manière telle qu'elle est devenue accessible au public au Canada ou ailleurs;
+b)
+qui a été faite par toute autre personne avant la date de la revendication de manière telle qu'elle est devenue accessible au public au Canada ou ailleurs.
+Annex - II
+Summary of Experts
+Novartis
+Dr Thomas Baillie
+Dr Baillie is a medicinal chemist, professor and Dean of the School of Pharmacy at the University of Washington. Prior to academia, Dr Baillie spent 14 years at Merck Research Laboratories where he had global oversight responsibility for the company's drug metabolism and pharmacokinetics function. Over his career, Dr Baillie's research has been in the field of foreign compound metabolism in animals and humans. He has authored or co-authored approximately 240 publications, and is or has been a member of various editorial advisory boards.
+Dr René Lattmann
+Dr Lattman is a retired medicinal chemist. He joined Ciba-Geigy in 1984 as a synthetic chemist and became involved with the iron chelation project there in 1994. He, along with Dr Pierre Acklin, are the named inventors of the '951 patent.
+Dr Hanspeter Nick
+Dr Nick is a retired biochemist. In 1984, he started working at the Ciba-Geigy owned Friedrich Miescher Institute in Switzerland. In 1991, Dr Nick became involved with the iron chelation project at Ciba-Geigy as the lab head.
+Dr Issac Odame
+Dr Odame is a professor and the staff physician at the Hospital for Sick Children in Toronto (haematology/oncology). He has been recognized for his work with sickle cell disease and has experience in treating iron overload disorders. For example, Dr Odame was an investigator with clinical trials relating to Exjade.
+Dr Desi Raymond Richardson
+Dr Richardson is a biologist and professor of cancer cell biology. He also holds numerous other appointments relating to medicine and research, and has been a member of over 30 journal editorial boards. Dr Richardson has authored or co-authored over 300 publications, many of which relate to chelation. His lab research, which includes over 30 scientists, is focused on the use of iron chelators as therapeutic agents for the treatment of diseases.
+Dr James Wust
+Dr Wust is an organic chemist and professor. He has experience in medicinal chemistry and pharmacology, and has trained numerous individuals who have gone onto work as medicinal or process chemists in the pharmaceutical industry. Dr Wust has received recognition for his research in his field, including for his work in the design, synthesis, structure and reactions of organic and inorganic compounds.
+Teva
+Dr Alvin Crumbliss
+Dr Crumbliss is an inorganic and organic chemist, and a professor. For nearly 40 years, Dr Cumbliss' research has focused on the biochemistry of iron. For example, he was a co-principal investigator on a US National Institutes of Health grant for the development of oral   iron   chelators   for   the   treatment   of ུ-thalassemia. He has mentored approximately 100 postdoctoral, graduate and undergraduate students, and has been involved in over 230 publications, many of which relate to iron chelation.
+Dr Victor Gordeuk
+Dr Gordeuk is a clinician, professor of hematology/oncology, and currently serves as the Director of the Comprehensive Sickle Cell Center at the University of Illinois at Chicago. He has published over 250 articles or book chapters, many dealing with sickle cell diseases, iron metabolism, malarial anemia and congenital polycythemia.
+Application granted.
+Editor: Jana A. Andersen/nmg
+[End of document]
